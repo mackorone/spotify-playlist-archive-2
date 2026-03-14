@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Corey Kent",
+  "description": "Today's top country hits. Cover: Kacey Musgraves",
   "name": "Hot Country",
   "tracks": [
     {
@@ -2982,7 +2982,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213401,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g"
@@ -4448,6 +4448,24 @@
       "duration_ms": 198660,
       "name": "Drunk Right Now (Na Na Na) with Akon",
       "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
+    },
+    {
+      "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
     },
     {
       "album": {
@@ -6714,7 +6732,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 181773,
       "name": "Heart of Stone",
       "url": "https://open.spotify.com/track/6kMhR33cCmIieswEFhgNjr"
@@ -8395,6 +8413,28 @@
     },
     {
       "album": {
+        "name": "If I Don't Leave I'm Gonna Stay",
+        "url": "https://open.spotify.com/album/70if0dAxjMSroh1m6It9LZ"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212929,
+      "name": "If I Don't Leave I'm Gonna Stay",
+      "url": "https://open.spotify.com/track/5RehL4XyHKmmOvBwADqYt9"
+    },
+    {
+      "album": {
         "name": "If I Had Never Lost My Mind...",
         "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
       },
@@ -8496,7 +8536,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 232771,
       "name": "If The World Burns Down",
       "url": "https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9"
@@ -16778,6 +16818,24 @@
       "duration_ms": 188823,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230635,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/5UmyTT5HZdztMfDL3lva0r"
     },
     {
       "album": {

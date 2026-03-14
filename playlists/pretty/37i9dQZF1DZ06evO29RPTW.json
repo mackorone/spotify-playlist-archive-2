@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 135256,
+  "num_followers": 135268,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAANY8jeI8czk3rLgPABHp9O",
+  "snapshot_id": "abICAAAAAAACM7n4HPlhDyFiT5NKq3Gd",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I'm a) Rock \"N\" Roller",
-        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 212720,
-      "name": "(I'm a) Rock \"N\" Roller",
-      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
+      "duration_ms": 182666,
+      "name": "Two-Lane Blacktop",
+      "url": "https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF"
     },
     {
       "added_at": null,
@@ -271,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "Helter Skelter",
+        "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Two-Lane Blacktop",
-      "url": "https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF"
+      "duration_ms": 215937,
+      "name": "Helter Skelter",
+      "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
     },
     {
       "added_at": null,
@@ -335,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Helter Skelter",
-        "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
+        "name": "(I'm a) Rock \"N\" Roller",
+        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
         }
       ],
-      "duration_ms": 215937,
-      "name": "Helter Skelter",
-      "url": "https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm"
+      "duration_ms": 212720,
+      "name": "(I'm a) Rock \"N\" Roller",
+      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "Dead Girl Superstar",
-      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venomous Rat Regeneration Vendor",
         "url": "https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 208013,
       "name": "Dead City Radio And The New Gods Of Supertown",
       "url": "https://open.spotify.com/track/7a4F5tT3vztlPrGQzIcf4z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "Dead Girl Superstar",
+      "url": "https://open.spotify.com/track/2Duh1mieKmTk4HZeuj0Qzz"
     },
     {
       "added_at": null,

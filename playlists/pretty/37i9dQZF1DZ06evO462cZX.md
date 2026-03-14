@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,077 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,088 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 29 | [Tranki](https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Tranki](https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh) | 4:16 |
 | 30 | [Bootie in Your Face \- No Rock Drop](https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Bootie in Your Face \(No Rock Drop\)](https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9) | 3:41 |
 | 31 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
-| 32 | [TUCU](https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [TUCU](https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8) | 2:36 |
-| 33 | [Gózalo \(with Deorro\)](https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Gózalo \(with Deorro\)](https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy) | 1:54 |
+| 32 | [Gózalo \(with Deorro\)](https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Gózalo \(with Deorro\)](https://open.spotify.com/album/3QTUE4qt5rd4fxSsjX2eQy) | 1:54 |
+| 33 | [TUCU](https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [TUCU](https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8) | 2:36 |
 | 34 | [I Like This F’n Song](https://open.spotify.com/track/3fUmyxoRIRuCZLvDfEvayY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [I Like This F’n Song](https://open.spotify.com/album/5aqYEp9P3ps4gbE2AeGpem) | 3:13 |
-| 35 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
-| 36 | [Pasame La Botella](https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [UNDERDOGS](https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH) | 3:29 |
+| 35 | [Pasame La Botella](https://open.spotify.com/track/0qnvOarNrLfi9hxovKYkkd) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [UNDERDOGS](https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH) | 3:29 |
+| 36 | [Rise and Shine](https://open.spotify.com/track/7siCapq5ZwC8UkLeIGvxbc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:26 |
 | 37 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 |
 | 38 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
 | 39 | [Front To Back](https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Front To Back](https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Descontrol](https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni) | 2:34 |
 | 50 | [When The Funk Drops](https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Uberjack'd](https://open.spotify.com/artist/0UyHJ2JEmDdl7xpVnF0r3H), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [When The Funk Drops](https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl) | 3:58 |
 
-Snapshot ID: `abCwgAAAAAB1y/g2PO39jWBej5EzPb3Z`
+Snapshot ID: `abICAAAAAACiquab9uoeSt2EX7E1lFau`

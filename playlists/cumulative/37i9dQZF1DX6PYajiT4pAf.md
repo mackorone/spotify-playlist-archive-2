@@ -4,7 +4,7 @@
 
 > Ozuna, Raul Clyde & SAIKO, Ptazeta, Camin & La Pantera y el resto de novedades de la semana.
 
-4,851 songs - 10 day 8 hr 13 min
+4,852 songs - 10 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1594,6 +1594,7 @@
 | [FANZINE](https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [FANZINE](https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf) | 3:06 | 2024-10-17 | 2024-10-25 |
 | [Fanática](https://open.spotify.com/track/4VRu0FfUGVndeFQyONyW8A) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Fanática](https://open.spotify.com/album/6U0rmYxueHM9qD6kME30Bb) | 2:56 | 2025-03-20 | 2025-03-28 |
 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 | 2026-01-29 | 2026-02-06 |
+| [Fanático](https://open.spotify.com/track/3MphyKUhKGJRIMbZzJMqYJ) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Fanático](https://open.spotify.com/album/703O2V78C5YOXxXUvh6qoF) | 3:33 | 2026-03-13 |  |
 | [FAR CRY](https://open.spotify.com/track/53kIVPhDqaUzpOsc4h0HL7) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8), [Brocki](https://open.spotify.com/artist/4O8h3XRpqE3SMxLQaHjRlK) | [FAR CRY](https://open.spotify.com/album/08pmCUIFTxKkiqRnDtUtYe) | 2:29 | 2025-08-01 | 2025-08-09 |
 | [Farsante](https://open.spotify.com/track/07VgANmrK2tvcDXVtPjESt) | [Sami Duque](https://open.spotify.com/artist/2aYJnf8uGK6sH46VTa4xjX) | [Farsante](https://open.spotify.com/album/212HF4BEq4Pf3Uqm1rEjTt) | 2:04 | 2025-02-28 | 2025-03-07 |
 | [FASCINA](https://open.spotify.com/track/11p0IThUG0KtgcRPkYxbZ2) | [KG970](https://open.spotify.com/artist/6m735GSES3duQtLrgqoGUb), [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O) | [FASCINA](https://open.spotify.com/album/3KQei5ZSZmV1xHE4DtCpuX) | 2:40 | 2026-01-29 | 2026-02-06 |
@@ -3065,7 +3066,7 @@
 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 | 2025-11-20 | 2025-11-28 |
 | [Nocall](https://open.spotify.com/track/3l578xpO1qi4hCjdmhQVLv) | [Ghouljaboy](https://open.spotify.com/artist/00a2IOlewyt2Xk4702wg5d) | [Nocall](https://open.spotify.com/album/2Mhsx1jjpVhVwgcCRPtM03) | 3:02 | 2025-02-28 | 2025-03-07 |
 | [Noche de bodas](https://open.spotify.com/track/3x8B9VLP42DkzlMFRgtkTj) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Noche de bodas](https://open.spotify.com/album/1V5EnEsnagvzvo2ptNiGTg) | 2:38 | 2025-02-13 | 2025-02-21 |
-| [Noche de Mayo](https://open.spotify.com/track/147gXr6Px6iCNrarUKj5kV) | [Samuel SLZR](https://open.spotify.com/artist/5jxnZJCpTkZJSxyRzbVhGx) | [Noche de Mayo](https://open.spotify.com/album/0xrteLnfGnH3uGL8iW3LAC) | 3:38 | 2026-03-13 |  |
+| [Noche de Mayo](https://open.spotify.com/track/147gXr6Px6iCNrarUKj5kV) | [Samuel SLZR](https://open.spotify.com/artist/5jxnZJCpTkZJSxyRzbVhGx), [Cbeatz](https://open.spotify.com/artist/0F8S4K2jxw7ELy8IjouBJp) | [Noche de Mayo](https://open.spotify.com/album/0xrteLnfGnH3uGL8iW3LAC) | 3:38 | 2026-03-13 |  |
 | [Noche de Ronda \(feat\. Pablo López\)](https://open.spotify.com/track/5tZxkqJS1eYBCrv6j9FwRZ) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Pablo López](https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ) | [Noche de Ronda \(feat\. Pablo López\)](https://open.spotify.com/album/0crWD7EUHF66Yp54mogIUQ) | 3:02 | 2025-07-18 | 2025-07-25 |
 | [noche de san juan](https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [a nuevos lugares](https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4) | 2:41 | 2024-11-28 | 2024-12-06 |
 | [noche de sexoO](https://open.spotify.com/track/7qCXa3kHxHNtigvsGJPuf2) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [DESTINO 2014 \(49 EDITION\)](https://open.spotify.com/album/0Q8LVPEFjP5NOJglFQgDQp) | 3:14 | 2024-10-17 | 2024-10-25 |
@@ -3563,7 +3564,7 @@
 | [Que seas feliz](https://open.spotify.com/track/11f681CZl5MBfYLxKebHoM) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Que seas feliz](https://open.spotify.com/album/6kz5hRprv2r5iiT0yVEwsP) | 2:15 | 2025-09-11 | 2025-09-19 |
 | [Que Tapen El Sol](https://open.spotify.com/track/5Tg326RY8O4HKnLOtxmuHi) | [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [Dame Más Tiempo](https://open.spotify.com/album/4QoSmUOjJEnfvvTnTsXiBl) | 3:13 | 2025-11-13 | 2025-11-21 |
 | [Que Te Cache](https://open.spotify.com/track/4K1BhCemNHjElrrvgyRPcW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Que Te Cache](https://open.spotify.com/album/63KeafYYTjdo9wqHAIOifV) | 2:05 | 2025-05-15 | 2025-05-23 |
-| [Que Te Costo](https://open.spotify.com/track/7yFc9UbTE9D6rSvTur1xRa) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Metamorfosis](https://open.spotify.com/album/05UjWgHQqCa8cYoMmDmUlg) | 2:54 | 2026-03-13 |  |
+| [Que Te Costó](https://open.spotify.com/track/7yFc9UbTE9D6rSvTur1xRa) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Metamorfosis](https://open.spotify.com/album/05UjWgHQqCa8cYoMmDmUlg) | 2:54 | 2026-03-13 |  |
 | [Que tu quieres](https://open.spotify.com/track/0nsBjkAxm2442mYPvHOpZ6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:43 | 2025-12-04 | 2025-12-12 |
 | [Que vas a hacer](https://open.spotify.com/track/01ZcDYRA6mrCVBvQiKiqww) | [GlorySixVain](https://open.spotify.com/artist/79lATyc2ODajhNfsqcNnzw), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Que Vas Hacer](https://open.spotify.com/album/0QEc4RBs58O9OM8qf58jET) | 2:29 | 2025-05-29 | 2025-06-06 |
 | [Que X Bien No Venga](https://open.spotify.com/track/4ggvW54DPjsVSkd8FqQY6i) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Dios Dirá, Dios Proveerá](https://open.spotify.com/album/4ufxpTTu6rBLm7ZhKAXsgI) | 3:12 | 2025-11-27 | 2025-12-05 |

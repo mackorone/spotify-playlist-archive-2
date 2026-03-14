@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Thee Marloes \(Indonesia\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,868 likes - 99 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,918 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 95 | [heaven](https://open.spotify.com/track/32ygL7hogsW5q8W6SLSnuL) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 3:15 |
 | 96 | [Megamind](https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Amateur Hunting Squad](https://open.spotify.com/album/1Se3NMCm7LMts4q5BrVAbL) | 4:52 |
 | 97 | [菠蘿包配雞尾包](https://open.spotify.com/track/58MPSajhLYQeyh5mzwNEX1) | [Sammi Szeto](https://open.spotify.com/artist/0Y5iRhhRnWJ0RX81wL087g) | [菠蘿包配雞尾包](https://open.spotify.com/album/6NLGJu3dVlZy8AJFXnRINs) | 3:36 |
-| 98 | [All Again](https://open.spotify.com/track/7jccOS8U4HZHYMJiLPWXE1) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [Always Taking](https://open.spotify.com/album/47IqseQiAIJ2F8aZULnJbi) | 1:50 |
-| 99 | [CHROME](https://open.spotify.com/track/4SZO3RLiIbBLWLSAhCOAUA) | [ROGI\*](https://open.spotify.com/artist/11jDBhWmFza8NhQOHz63lQ) | [CHROME](https://open.spotify.com/album/6rMLGRkVViByu4I9wyLcA6) | 3:45 |
+| 98 | [難道要等收到通知那天我才走](https://open.spotify.com/track/3q1zZvMyxpDdVqCIt3wbLg) | [Dale](https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs) | [難道要等收到通知那天我才走](https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa) | 3:21 |
+| 99 | [All Again](https://open.spotify.com/track/7jccOS8U4HZHYMJiLPWXE1) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [Always Taking](https://open.spotify.com/album/47IqseQiAIJ2F8aZULnJbi) | 1:50 |
+| 100 | [CHROME](https://open.spotify.com/track/4SZO3RLiIbBLWLSAhCOAUA) | [ROGI\*](https://open.spotify.com/artist/11jDBhWmFza8NhQOHz63lQ) | [CHROME](https://open.spotify.com/album/6rMLGRkVViByu4I9wyLcA6) | 3:45 |
 
 Snapshot ID: `AAAAAKBWWWov2k6XjRVAj2tg8okpIUk7`

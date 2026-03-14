@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from London, Patoranking, Famous Pluto, Kunmie  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,877 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,316 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 4 | [Julie](https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Julie](https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2) | 2:58 |
 | 5 | [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 |
 | 6 | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 |
-| 7 | [Track 18](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 0:00 |
+| 7 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
 | 8 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 |
 | 9 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
 | 10 | [SNOKONOKO IV \(Darkoo\)](https://open.spotify.com/track/7JGcpUOsYvFy7Xi1rWSg9t) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [SNOKONOKO IV \(Darkoo\)](https://open.spotify.com/album/7bEa7roINlL34B1nQDEGpU) | 3:03 |

@@ -130,19 +130,19 @@
           "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
         },
         {
-          "name": "Tony2milli",
-          "url": "https://open.spotify.com/artist/22gCGk009wHno7iKa9fPhb"
-        },
-        {
           "name": "Lie O'Neill",
           "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        },
+        {
+          "name": "Tony 2Milli",
+          "url": "https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf"
         }
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181714,
-      "name": "$LOT MACHINE (feat. Tony2milli)",
+      "name": "$LOT MACHINE (feat. Tony 2Milli)",
       "url": "https://open.spotify.com/track/78Y5sd7YADvm7M1nMZqv6V"
     },
     {
@@ -45003,6 +45003,24 @@
     },
     {
       "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs"
+    },
+    {
+      "album": {
         "name": "Confessions: An Unexpected Turn of Events",
         "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
       },
@@ -63694,6 +63712,24 @@
       "duration_ms": 238246,
       "name": "HOW DARE YOU",
       "url": "https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81"
+    },
+    {
+      "album": {
+        "name": "Zara Larsson - Spotify Live Room",
+        "url": "https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132166,
+      "name": "How Deep Is Your Love (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1"
     },
     {
       "album": {

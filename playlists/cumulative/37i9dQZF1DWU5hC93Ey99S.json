@@ -5495,6 +5495,28 @@
     },
     {
       "album": {
+        "name": "FREE (LOVECORE)",
+        "url": "https://open.spotify.com/album/6GgGdOoSD7u3vlo6paev9q"
+      },
+      "artists": [
+        {
+          "name": "Albin Myers",
+          "url": "https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y"
+        },
+        {
+          "name": "ILY",
+          "url": "https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "FREE (LOVECORE)",
+      "url": "https://open.spotify.com/track/7qeuszHQ2WLKmj0D7bXaWj"
+    },
+    {
+      "album": {
         "name": "Free Of Your Emotions",
         "url": "https://open.spotify.com/album/0Cl9YxhMJyN0kodbBgZWdL"
       },
@@ -17513,24 +17535,6 @@
     },
     {
       "album": {
-        "name": "WHERE DO I GO?",
-        "url": "https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt"
-      },
-      "artists": [
-        {
-          "name": "OLIIVER",
-          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"
-    },
-    {
-      "album": {
         "name": "Trapped In Silence",
         "url": "https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X"
       },
@@ -19264,6 +19268,24 @@
       "duration_ms": 178181,
       "name": "Where Did You Go - 6am Mix",
       "url": "https://open.spotify.com/track/19Oh3XgCWMvtIpad8vnlpE"
+    },
+    {
+      "album": {
+        "name": "WHERE DO I GO?",
+        "url": "https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt"
+      },
+      "artists": [
+        {
+          "name": "OLIIVER",
+          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129634,
+      "name": "WHERE DO I GO?",
+      "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"
     },
     {
       "album": {

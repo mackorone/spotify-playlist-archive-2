@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana.  Yaritza Y Su Esencia \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana.  Kompa Marley \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -590,6 +590,24 @@
       "duration_ms": 169322,
       "name": "40 Y 20",
       "url": "https://open.spotify.com/track/20ygCbbuOBZAfi9zcckFOj"
+    },
+    {
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/3CQLMfchsEjE9JvgnhgSYz"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158898,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/012XWqY8ubhf0Sh3bM3r7k"
     },
     {
       "album": {
@@ -1548,6 +1566,24 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+    },
+    {
+      "album": {
+        "name": "ALTAR",
+        "url": "https://open.spotify.com/album/52TSCOj0T7HiqVwE3FXrW1"
+      },
+      "artists": [
+        {
+          "name": "Martin Beltran",
+          "url": "https://open.spotify.com/artist/7oKwuamCT99LkJECNqSUtR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "ALTAR",
+      "url": "https://open.spotify.com/track/3hcY5rLPNGs1HV4oxlMAFn"
     },
     {
       "album": {
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 158804,
       "name": "AUNQUE SEA EN DOS",
       "url": "https://open.spotify.com/track/0wCsiKqiUwa1BB2bIrTDTs"
@@ -4606,7 +4642,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 155623,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/0CtmeTw0vODT6pDLUY2Jcm"
@@ -5790,7 +5826,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 189750,
       "name": "Con Todo Respetillo",
       "url": "https://open.spotify.com/track/0vpbVISB52ZBAiquPhkhWw"
@@ -8035,6 +8071,28 @@
     },
     {
       "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/0djJIER6yjFLrVonKcKywx"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        },
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167562,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/23bkRjp7mkcFOAoALE6ZmZ"
+    },
+    {
+      "album": {
         "name": "De Frente",
         "url": "https://open.spotify.com/album/3xiQ5jIpSuaFZOZJJtEfHI"
       },
@@ -10159,6 +10217,24 @@
     },
     {
       "album": {
+        "name": "El Raro",
+        "url": "https://open.spotify.com/album/3XSmxVDT3Rkt9Duwj5wgI7"
+      },
+      "artists": [
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109229,
+      "name": "El Raro",
+      "url": "https://open.spotify.com/track/54LiFJBoLuvCF82uPuqJyS"
+    },
+    {
+      "album": {
         "name": "El Raulito",
         "url": "https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD"
       },
@@ -10584,6 +10660,24 @@
       "duration_ms": 164186,
       "name": "Empoderada",
       "url": "https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP"
+    },
+    {
+      "album": {
+        "name": "Empujando la Carreta",
+        "url": "https://open.spotify.com/album/7wipqfEPTFW3OsjCXS9ThN"
+      },
+      "artists": [
+        {
+          "name": "Gente Del Rancho",
+          "url": "https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200072,
+      "name": "Empujando la Carreta",
+      "url": "https://open.spotify.com/track/1bHCsHVvMZg13MsQTm7DLH"
     },
     {
       "album": {
@@ -11258,6 +11352,24 @@
       "duration_ms": 294391,
       "name": "Eres Tu",
       "url": "https://open.spotify.com/track/7oxCrYja42pnUdhbAo68pC"
+    },
+    {
+      "album": {
+        "name": "Eres Una Princesita",
+        "url": "https://open.spotify.com/album/6JDtyF8Z6ZkUdfjL2fvhcd"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Garcia",
+          "url": "https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195775,
+      "name": "Eres Una Princesita",
+      "url": "https://open.spotify.com/track/7vDd2zEjU8zqMM9LIcZg8Q"
     },
     {
       "album": {
@@ -12529,6 +12641,24 @@
     },
     {
       "album": {
+        "name": "Fue tu ex o q?",
+        "url": "https://open.spotify.com/album/4zjdx3W2AGqX8KHlFdIfeV"
+      },
+      "artists": [
+        {
+          "name": "CUERNO",
+          "url": "https://open.spotify.com/artist/6WfZ64HOR7tT0nGmxKQ7Hq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "Fue tu ex o q?",
+      "url": "https://open.spotify.com/track/0UlUmRwm9J6XjZ0ja9uTIy"
+    },
+    {
+      "album": {
         "name": "Fuerza De Voluntad",
         "url": "https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27"
       },
@@ -13559,6 +13689,32 @@
     },
     {
       "album": {
+        "name": "holanda",
+        "url": "https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        },
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224454,
+      "name": "holanda",
+      "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
+    },
+    {
+      "album": {
         "name": "HOLANDA",
         "url": "https://open.spotify.com/album/3fraryfOzqI9c3tsODdmb0"
       },
@@ -13730,6 +13886,24 @@
       "duration_ms": 148000,
       "name": "Hoy Ando Soltero",
       "url": "https://open.spotify.com/track/6UNHanGKIUebByDWGWwuSd"
+    },
+    {
+      "album": {
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
     },
     {
       "album": {
@@ -14042,7 +14216,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198666,
       "name": "Infiltrados",
       "url": "https://open.spotify.com/track/3XOETycmR1qWPgChIki7zx"
@@ -17755,6 +17929,24 @@
     },
     {
       "album": {
+        "name": "MARADONA",
+        "url": "https://open.spotify.com/album/48PtVtf8sqkNYmfXl9HDs0"
+      },
+      "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/21TekuO5DPBABpLShCg9DT"
+    },
+    {
+      "album": {
         "name": "Temporadas Emocionales",
         "url": "https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ"
       },
@@ -18268,7 +18460,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 142578,
       "name": "Me Pegu\u00e9 Un Pase",
       "url": "https://open.spotify.com/track/7qGBTUrqWcHgGqMSP2SCrv"
@@ -19160,6 +19352,24 @@
       "duration_ms": 149220,
       "name": "Mi Skar",
       "url": "https://open.spotify.com/track/4ROWJDJj5jHRZGSqbZXCLT"
+    },
+    {
+      "album": {
+        "name": "Mi Todo Que Dar",
+        "url": "https://open.spotify.com/album/62J67rBV8L9rVZSLppm6aH"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180415,
+      "name": "Mi Todo Que Dar",
+      "url": "https://open.spotify.com/track/10S72dKdPOOn7tWWUo4Mte"
     },
     {
       "album": {
@@ -20768,7 +20978,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 171316,
       "name": "NENA MALDICI\u00d3N",
       "url": "https://open.spotify.com/track/1FUz5190iNSO9nxmMBYvWG"
@@ -21062,7 +21272,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 213512,
       "name": "ni\u00f1a de CASA",
       "url": "https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu"
@@ -21478,7 +21688,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 224761,
       "name": "No Me Compares",
       "url": "https://open.spotify.com/track/2HidEcnta7nkdKZkmiyC4q"
@@ -24066,7 +24276,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178608,
       "name": "Pi\u00f1atas",
       "url": "https://open.spotify.com/track/1kEKJ4FYCI73RR0owm4mMP"
@@ -25608,7 +25818,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 148821,
       "name": "Quiero Que Seas T\u00fa",
       "url": "https://open.spotify.com/track/7bSCakZAVtms7KN96hwaPW"
@@ -27924,7 +28134,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172157,
       "name": "Sin Fin",
       "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
@@ -32046,7 +32256,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 210471,
       "name": "Vives En M\u00ed",
       "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
@@ -33148,7 +33358,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 193328,
       "name": "\u00bfQue Te Pasa?",
       "url": "https://open.spotify.com/track/24gZ16hOqykHVXntgwlbHw"

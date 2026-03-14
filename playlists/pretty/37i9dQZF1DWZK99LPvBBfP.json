@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 361824,
+  "num_followers": 361967,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Music For Girls Night Out",
-        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 217760,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Produced & Remixed",
         "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 515173,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Music For Girls Night Out",
+        "url": "https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Trance Classics, Vol. 01",
-        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
+        "name": "Everybody's Free",
+        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
       },
       "artists": [
         {
-          "name": "Ayla",
-          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
-        },
-        {
-          "name": "Taucher",
-          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
+          "name": "Rozalla",
+          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
         }
       ],
-      "duration_ms": 238466,
-      "name": "Ayla - DJ Taucher Radio Edit",
-      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+      "duration_ms": 212426,
+      "name": "Everybody's Free (Single Version)",
+      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -623,18 +619,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Everybody's Free",
-        "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
+        "name": "Trance Classics, Vol. 01",
+        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
       "artists": [
         {
-          "name": "Rozalla",
-          "url": "https://open.spotify.com/artist/2wnJCxpnKAagrdBJAvaDrQ"
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+        },
+        {
+          "name": "Taucher",
+          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Everybody's Free (Single Version)",
-      "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
+      "duration_ms": 238466,
+      "name": "Ayla - DJ Taucher Radio Edit",
+      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
     },
     {
       "added_at": "2024-03-22 15:59:52",

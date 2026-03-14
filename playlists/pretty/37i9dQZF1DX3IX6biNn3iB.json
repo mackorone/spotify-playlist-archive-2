@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2647,
+  "num_followers": 2652,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Abajo Del Sol",
-        "url": "https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Yalleg\u00f3",
-      "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 220853,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "Abajo Del Sol",
+        "url": "https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Yalleg\u00f3",
+      "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "mis viejos",
-        "url": "https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5"
-      },
-      "artists": [
-        {
-          "name": "deadsoulsociety",
-          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
-        }
-      ],
-      "duration_ms": 240624,
-      "name": "mis viejos",
-      "url": "https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "YNMA",
         "url": "https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 239000,
       "name": "YNMA",
       "url": "https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "mis viejos",
+        "url": "https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5"
+      },
+      "artists": [
+        {
+          "name": "deadsoulsociety",
+          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
+        }
+      ],
+      "duration_ms": 240624,
+      "name": "mis viejos",
+      "url": "https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "Ponte Las Pilas",
         "url": "https://open.spotify.com/album/6aCTwpnI4u4tGOE15vjMGg"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 172421,
       "name": "Ponte Las Pilas",
       "url": "https://open.spotify.com/track/7KppB1az9E6tGBsHqGeJXN"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
     }
   ],
   "unique_name": "Our Voice",

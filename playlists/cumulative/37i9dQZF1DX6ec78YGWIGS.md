@@ -2,9 +2,9 @@
 
 ### [POP FLOW](https://open.spotify.com/playlist/37i9dQZF1DX6ec78YGWIGS)
 
-> Lo nuevo y lo más escuchado del pop\. Foto: K4OS
+> Lo nuevo y lo más escuchado del pop\. Foto: Big One, Yami Safdie & LIT killah
 
-496 songs - 1 day 0 hr 38 min
+497 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 | 2023-05-12 | 2023-06-02 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-18 |  |
 | [Aquí](https://open.spotify.com/track/5nXNPNH2bsyIwWBwWoY4i9) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx), [n.a.n.o](https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm), [Hoods](https://open.spotify.com/artist/1EHhK2h7QKPFYY5pRtzUXb) | [Aquí](https://open.spotify.com/album/3GDa2xLCFHaV4LY1P9grX7) | 3:56 | 2024-08-23 | 2024-09-20 |
+| [Ardor \| CROSSOVER \#13](https://open.spotify.com/track/1jQJIbQbit9c1nfisAAFgG) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Ardor \| CROSSOVER \#13](https://open.spotify.com/album/4Wy36hUGed4i9fJHLSAsOo) | 2:33 | 2026-03-13 |  |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-09-29 | 2025-11-21 |
 | [Avión a Madrid](https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [Avión a Madrid](https://open.spotify.com/album/27HCN7UHjsGX424Ev68llq) | 3:27 | 2026-02-06 |  |
 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-05-12 | 2025-10-31 |
@@ -69,7 +70,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-05-12 | 2025-10-18 |
 | [Canción 2](https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Canción 2](https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW) | 2:28 | 2024-05-17 | 2024-06-08 |
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-10-31 |  |
-| [CARENCIAS DE CORDURA](https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:58 | 2023-12-01 |  |
+| [CARENCIAS DE CORDURA](https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:58 | 2023-12-01 | 2026-03-14 |
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/6QCTo3BaEdkEp0BbbNCVIt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 2:58 | 2024-01-12 | 2024-04-19 |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-06 |  |
 | [Cero Drama](https://open.spotify.com/track/3KcW43MMou5dhTKMd6mdzg) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Cero Drama](https://open.spotify.com/album/5eEDf3AavlpMFoQrpnkgPV) | 3:18 | 2023-07-07 | 2023-07-29 |

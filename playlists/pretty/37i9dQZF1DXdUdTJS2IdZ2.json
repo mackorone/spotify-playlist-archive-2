@@ -235,6 +235,22 @@
     {
       "added_at": "2026-03-12 16:00:03",
       "album": {
+        "name": "Aidilfitri Mulia",
+        "url": "https://open.spotify.com/album/5PgUyEa7X5JS5rB1uIm1k6"
+      },
+      "artists": [
+        {
+          "name": "1-800-Wicked",
+          "url": "https://open.spotify.com/artist/7gmOnn3LgMFboTnd3pVe2I"
+        }
+      ],
+      "duration_ms": 268383,
+      "name": "Aidilfitri Mulia",
+      "url": "https://open.spotify.com/track/0BtQSqGEzukpJoKhUZn4JU"
+    },
+    {
+      "added_at": "2026-03-12 16:00:03",
+      "album": {
         "name": "\u4e0b\u4e00\u500b\u4f60",
         "url": "https://open.spotify.com/album/4Lc1Rq7CNluXxdivSPxyuQ"
       },

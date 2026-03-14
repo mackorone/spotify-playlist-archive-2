@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Latte",
-  "num_followers": 37943,
+  "num_followers": 38002,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -639,18 +639,22 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "Where's My Phone?",
-        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Where's My Phone?",
-      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -671,22 +675,18 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "Hell N Back (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2026-03-13 00:00:12",
-      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 145438,
       "name": "i am not who i was",
       "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "added_at": "2026-03-13 00:00:12",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "Henry, come on",
-        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 311269,
-      "name": "Henry, come on",
-      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
-    },
-    {
-      "added_at": "2026-03-13 00:00:12",
-      "album": {
         "name": "The Banjo Song",
         "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+    },
+    {
+      "added_at": "2026-03-13 00:00:12",
+      "album": {
+        "name": "Henry, come on",
+        "url": "https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 311269,
+      "name": "Henry, come on",
+      "url": "https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "Anna Karenina",
-        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Anna Karenina",
-      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
-    },
-    {
-      "added_at": "2026-03-13 00:00:12",
-      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+    },
+    {
+      "added_at": "2026-03-13 00:00:12",
+      "album": {
+        "name": "Anna Karenina",
+        "url": "https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Anna Karenina",
+      "url": "https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2026-03-13 00:00:12",
+      "album": {
         "name": "The God Of Lying (feat. IDLES)",
         "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+        "name": "EP #2",
+        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+      "duration_ms": 233289,
+      "name": "To Space",
+      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2026-03-13 00:00:12",
       "album": {
-        "name": "EP #2",
-        "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 233289,
-      "name": "To Space",
-      "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2026-03-13 00:00:12",
@@ -1083,22 +1099,6 @@
       "duration_ms": 262335,
       "name": "Vivid Light",
       "url": "https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE"
-    },
-    {
-      "added_at": "2026-03-13 00:00:12",
-      "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2026-03-13 00:00:12",

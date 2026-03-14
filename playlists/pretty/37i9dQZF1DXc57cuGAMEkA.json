@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Charlie Puth & \u5b87\u591a\u7530\u30d2\u30ab\u30eb, James Blake, \t\nTom Misch, Holly Humberstone and more!",
-  "num_followers": 152768,
+  "num_followers": 153094,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
       "duration_ms": 235000,
       "name": "SI\u30fbGE\u30fbKI",
       "url": "https://open.spotify.com/track/4dxkqHvdFHUQHvjqMzzVPc"
+    },
+    {
+      "added_at": "2026-03-12 15:00:14",
+      "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs"
     },
     {
       "added_at": "2026-03-12 15:00:14",
@@ -1275,6 +1291,26 @@
     {
       "added_at": "2026-03-12 15:00:14",
       "album": {
+        "name": "as i am",
+        "url": "https://open.spotify.com/album/2eNe5umnF7S1Tz1E6QcrKO"
+      },
+      "artists": [
+        {
+          "name": "AZU",
+          "url": "https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        }
+      ],
+      "duration_ms": 151850,
+      "name": "Humming (feat. DADA)",
+      "url": "https://open.spotify.com/track/0mo4MXeG9jXvy3dcDE7HIi"
+    },
+    {
+      "added_at": "2026-03-12 15:00:14",
+      "album": {
         "name": "City of Heaven",
         "url": "https://open.spotify.com/album/5S9Q26Kp4NCBRUwmZ8aFBt"
       },
@@ -1289,7 +1325,7 @@
         }
       ],
       "duration_ms": 156706,
-      "name": "Where My Daddy (feat. MIA)",
+      "name": "Where My Daddy At (feat. MIA)",
       "url": "https://open.spotify.com/track/28rGvzyj1cAeo5ItP6EzMi"
     },
     {

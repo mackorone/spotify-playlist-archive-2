@@ -4,10 +4,11 @@
 
 > Dance remixes of popular songs!
 
-194 songs - 8 hr 38 min
+195 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1, 2 Step](https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [1, 2 Step](https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb) | 2:03 | 2026-03-13 |  |
 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 | 2025-07-10 |  |
 | [99 Luftballons](https://open.spotify.com/track/05XSqqW6L4WuQV55Er1jZd) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [99 Luftballons](https://open.spotify.com/album/7MeXCLqqRPxD1FNraZ9DFw) | 2:06 | 2025-07-10 |  |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/71oIM8UUirGH9SE3Ywkpfz) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/2mR67MB5ty3Y0sNqTlSliQ) | 2:59 | 2025-07-10 |  |
@@ -60,7 +61,7 @@
 | [Eye of the Tiger](https://open.spotify.com/track/6Ms5qYDy0qK5e0U2aJswWH) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO) | [Eye of the Tiger](https://open.spotify.com/album/3c7nXxKDIv4Cc8UZltzCqp) | 2:53 | 2025-07-10 |  |
 | [Feeling the Love Again \(Explode\)](https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling the Love Again \(Explode\)](https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l) | 2:42 | 2025-07-10 |  |
 | [Fire To The Rain](https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [Fire To The Rain](https://open.spotify.com/album/1KEIwpm2LiKp1bznzoV229) | 2:24 | 2025-07-10 | 2026-02-13 |
-| [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 | 2025-07-10 |  |
+| [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 | 2025-07-10 | 2026-03-14 |
 | [Flowers](https://open.spotify.com/track/1SWjOAH28G41BmxGhS4rbr) | [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL) | [Flowers](https://open.spotify.com/album/0qK6B5s1EvYiuNIGt5HqEd) | 2:44 | 2025-07-10 |  |
 | [Fly Away \(Children\)](https://open.spotify.com/track/1FhtASvYmg8xDqUekhL9FF) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Fly Away \(Children\)](https://open.spotify.com/album/22ZP29YFrXVrwvjmIkrSuS) | 2:27 | 2025-07-10 | 2025-09-12 |
 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 | 2025-07-10 |  |

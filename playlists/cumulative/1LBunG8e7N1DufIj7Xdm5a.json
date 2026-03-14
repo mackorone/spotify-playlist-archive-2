@@ -33219,6 +33219,28 @@
     },
     {
       "album": {
+        "name": "Irish Goodbyes",
+        "url": "https://open.spotify.com/album/1pSbkEuIRJmoEIOjqf9SZF"
+      },
+      "artists": [
+        {
+          "name": "Arnold Alaniz",
+          "url": "https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll"
+        },
+        {
+          "name": "Weathered Pages",
+          "url": "https://open.spotify.com/artist/2OihtBTL3YYFu0Y4FbyGui"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248373,
+      "name": "Irish Goodbyes",
+      "url": "https://open.spotify.com/track/2FdApGBPtwyMdWVPWcWKyY"
+    },
+    {
+      "album": {
         "name": "Motivational music for body building",
         "url": "https://open.spotify.com/album/7MgJLyZxqc5c8pUgy4kUUL"
       },

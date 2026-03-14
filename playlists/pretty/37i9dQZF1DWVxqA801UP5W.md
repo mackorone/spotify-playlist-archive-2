@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: David Guetta, Teddy Swims, Tones & I
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,694 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,714 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 29 | [My Head & My Heart \- Claptone Remix](https://open.spotify.com/track/0AxhXARnISmbH5UqbqvtDP) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [My Head & My Heart \(Claptone Remix\)](https://open.spotify.com/album/5t9BpDVQZu6T7H7qZPqlth) | 3:02 |
 | 30 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 |
 | 31 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 |
-| 32 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
-| 33 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 |
+| 32 | [Ride It \- Jonas Blue Remix](https://open.spotify.com/track/2ONRkpOJ6X91GMXMthtT0M) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Ride It \(Jonas Blue Remix\)](https://open.spotify.com/album/6DPGJNJf9crOOe2pyRjF6S) | 3:02 |
+| 33 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
 | 34 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 35 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
 | 36 | [Sports car \- TELYKAST Remix](https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Sports car \(remixes\)](https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4) | 2:30 |

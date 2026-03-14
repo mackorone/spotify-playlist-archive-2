@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178 likes - 22 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 22 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hGVuX.md) - [plain]
 | 16 | [Consolación](https://open.spotify.com/track/62r4Voa3btkLgyWDbE2nlX) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Bravespace \(Presented by the Smithsonian Asian Pacific American Center\)](https://open.spotify.com/album/70eaiN3oZg5g34RMOAO2HY) | 8:50 |
 | 17 | [Take the Thorn, Leave the Rose](https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:04 |
 | 18 | [Slowness](https://open.spotify.com/track/7qqxrcreNiB1sL91OrvVol) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 4:20 |
-| 19 | [Sword](https://open.spotify.com/track/1lKZkmMQwx6Fdy4MKBdi8q) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:05 |
+| 19 | [Driving](https://open.spotify.com/track/6Upkri1bZMPe9ERMSuNVmp) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:02 |
 | 20 | [Venus](https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:57 |
 | 21 | [In a Small Valley](https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:24 |
-| 22 | [Driving](https://open.spotify.com/track/6Upkri1bZMPe9ERMSuNVmp) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:02 |
+| 22 | [Sword](https://open.spotify.com/track/1lKZkmMQwx6Fdy4MKBdi8q) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:05 |
 
-Snapshot ID: `abCwgAAAAAD2WZylVQ8XMLO1ZydWVlTj`
+Snapshot ID: `abICAAAAAADrrpHFykcQfUed8oYnpkHQ`

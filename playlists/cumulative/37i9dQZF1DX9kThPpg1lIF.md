@@ -4,7 +4,7 @@
 
 > baby lock the door and turn the lights down low
 
-54 songs - 3 hr 15 min
+55 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Make Out With Me](https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 2:16 | 2023-02-08 |  |
 | [Music](https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:23 | 2023-02-08 |  |
 | [Must Be Doin' Somethin' Right](https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 4:29 | 2023-02-08 |  |
+| [No Need For Leavin'](https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [No Need For Leavin'](https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6) | 3:35 | 2026-03-13 |  |
 | [No Time Soon](https://open.spotify.com/track/6rNwrBKvGZLdA6cFdDivsV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [No Time Soon](https://open.spotify.com/album/5YIuA9nL4oWw2H0Vp6p2Qi) | 3:25 | 2023-02-08 |  |
 | [Nothin' on You](https://open.spotify.com/track/5ggoxc2dhlFjListerctlA) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:20 | 2023-02-08 |  |
 | [Nothing On But The Radio](https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [See If I Care](https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG) | 3:32 | 2023-02-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,247 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,261 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 14 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
 | 15 | [Patsy](https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6) | [Rein De Vries](https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:54 |
 | 16 | [Verdronken Vlinder](https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:24 |
-| 17 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
-| 18 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
+| 17 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
+| 18 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 19 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
 | 20 | [Je Bent Niet Hip](https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:41 |
 | 21 | [Een Meisje Van Zestien](https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:59 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 65 | [Da Doo Ron Ron](https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:17 |
 | 66 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 |
 | 67 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
-| 68 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |
-| 69 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
+| 68 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
+| 69 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |
 | 70 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
 | 71 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
 | 72 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |

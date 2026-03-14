@@ -4,7 +4,7 @@
 
 > 
 
-2,906 songs - 6 day 6 hr 20 min
+2,908 songs - 6 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2268,6 +2268,7 @@
 | [Skrilla](https://open.spotify.com/track/3ubT57OB3jd6wgGga6abeO) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY), [Sirio](https://open.spotify.com/artist/79KCDHU3ea3UKNfGJ651y6) | [Skrilla](https://open.spotify.com/album/1o2To3X5rXXx0D0wTED8dU) | 3:58 | 2023-04-10 |  |
 | [Sky Ablaze](https://open.spotify.com/track/6DntIbU0UMmkSoEK4jGIjV) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Sky Ablaze](https://open.spotify.com/album/0t1j9srFXkWtOGUYI6o6A5) | 2:55 | 2022-12-02 |  |
 | [Sky Fall](https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [Sky Fall](https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP) | 3:35 | 2023-02-11 |  |
+| [Sky Letter](https://open.spotify.com/track/4FbVoe0WtwcAVN449cBD7N) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [音琴兎愛](https://open.spotify.com/artist/7lrXm3mI2WhVU8xiZjKgyz) | [Sky Letter](https://open.spotify.com/album/78TGhhHbJLjunGK4b4HFQS) | 2:42 | 2026-03-13 |  |
 | [Slave To The Rave](https://open.spotify.com/track/4IGQAA1P00U9il8wtu1SSo) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh) | [Slave To The Rave](https://open.spotify.com/album/1EFBwkTKs2TLiD1Yah9lNE) | 2:36 | 2025-09-08 |  |
 | [Sleep Talking](https://open.spotify.com/track/7puANTBVDPlttf6yDOBFmE) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:25 | 2022-08-23 |  |
 | [SLEEP TONIGHT](https://open.spotify.com/track/79oCMIhzm8yorLXmXKl7Mx) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [SLEEP TONIGHT](https://open.spotify.com/album/5zCOOv2ChkUdW6Xx2FZ14i) | 2:28 | 2024-05-16 |  |
@@ -2849,6 +2850,7 @@
 | [With You](https://open.spotify.com/track/79tkJ9jyhyE5tlCBWz3226) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [With You](https://open.spotify.com/album/2WQoo26sJ84seYBTpzogil) | 3:20 | 2024-06-24 |  |
 | [With You](https://open.spotify.com/track/5IYxTJkEGW0nfCVBLL03CL) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [With You](https://open.spotify.com/album/1RN4yRTrpzGyfJ9euYiVrD) | 3:26 | 2022-03-15 |  |
 | [Without Me](https://open.spotify.com/track/0FRGktQx6gjOslN4u3nCxU) | [Divinez](https://open.spotify.com/artist/7lZh2XFOqO7ePMGacEIp13), [Deviation](https://open.spotify.com/artist/0c9ER6NjjpiibM7LNvJzkM) | [Without Me](https://open.spotify.com/album/3Ife7uHxN5AJIZDwV7EupS) | 2:22 | 2025-02-28 |  |
+| [Without Me](https://open.spotify.com/track/5jZgNLsWrksI7TpdpiT9vn) | [High Resistance](https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO) | [Without Me \(Bad Beat\)](https://open.spotify.com/album/2WrhTCTRIOSaBY6oEyTveP) | 2:05 | 2026-03-13 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/2Tv9eViBT9mjeLDg4rp8T3) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [WITHOUT YOU](https://open.spotify.com/album/4dPst90VjpOGEmZdAoLWD7) | 2:39 | 2023-09-11 |  |
 | [Without You](https://open.spotify.com/track/71EDJYo5gQauv0zGo0oanN) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Tweekacore](https://open.spotify.com/artist/6g7nQh1zK0QGZVphaMCGWj), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Without You](https://open.spotify.com/album/5SGi0bfxZAhJgcbI12skmy) | 3:28 | 2022-02-14 |  |
 | [Without You](https://open.spotify.com/track/4pu1GrjfWSkTCrUO1jS2XK) | [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Without You](https://open.spotify.com/album/1BkVbtJ0wo4ChqD2rezB5k) | 3:32 | 2023-05-13 |  |

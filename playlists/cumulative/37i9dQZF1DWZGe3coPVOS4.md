@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-118 songs - 5 hr 46 min
+119 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Barbie World](https://open.spotify.com/track/3tO8Tj8dbfpd401DzL4HT9) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Barbie World](https://open.spotify.com/album/2MSzOTzLqtYz0gWpWmCSty) | 1:50 | 2024-01-05 |  |
 | [Beautiful Things](https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Beautiful Things](https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu) | 3:00 | 2024-05-17 |  |
 | [Better Place](https://open.spotify.com/track/0Z0zuM0t5zumHKU5jplwcp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:19 | 2024-01-22 | 2024-07-16 |
-| [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-06-09 |  |
+| [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-06-09 | 2026-03-14 |
 | [BONITA](https://open.spotify.com/track/2PC3p183m8iuk49KINvIWQ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [BONITA](https://open.spotify.com/album/47A9TsLtCEIHXMJMFiWC3P) | 2:34 | 2024-06-14 | 2025-07-21 |
 | [Boy's a liar](https://open.spotify.com/track/0vYyr5o7md0Lk13pE6Dwff) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 1:59 | 2023-07-14 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/3HYCbsySCw41jJj8XYcBg7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 3:25 | 2023-06-09 | 2024-09-14 |
@@ -91,6 +91,7 @@
 | [Not My Fault](https://open.spotify.com/track/4WDqDsYVuUJxWNRVosvuqf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 1:23 | 2024-07-15 |  |
 | [Old Town Road](https://open.spotify.com/track/07cQIm99dnNSKs6skathg0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 1:50 | 2023-06-09 |  |
 | [On My Love](https://open.spotify.com/track/30n5DvInhiaeSQKvovJEln) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:43 | 2024-07-15 |  |
+| [Opalite](https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Opalite](https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d) | 3:52 | 2026-03-13 |  |
 | [Ordinary](https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Ordinary](https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az) | 3:04 | 2025-08-22 |  |
 | [Padam Padam](https://open.spotify.com/track/3lfZuAGAbPxh5VHR63ANtP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:46 | 2024-01-22 | 2026-01-15 |
 | [Part Of Your World](https://open.spotify.com/track/1CJPgxgocqsMojhp1oELbZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Part Of Your World](https://open.spotify.com/album/6A9Na8Ss430ANHFWXzR6cn) | 3:00 | 2023-06-09 | 2024-07-16 |

@@ -1,13 +1,273 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4?si=DUpMNfnXRwWTcuNgcfHlKg\">nomi.</a>. Updates every Wednesday.",
-  "num_followers": 278506,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5?si=w0d3EUWjRWq-7HEB4xjW-g\">Isaiah Kaleo</a>. Updates every Wednesday.",
+  "num_followers": 278584,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG2PczVG5Ox57LYGj4uGoe8VLDV6",
+  "snapshot_id": "AAAAADnvS51z9Vn3JoxJj8tDQP1X/S4O",
   "tracks": [
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "touch me, tease me",
+        "url": "https://open.spotify.com/album/3e8Urnmqrlgoh4s2YryJfn"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Kaleo",
+          "url": "https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5"
+        },
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/29N8na9Z9fpF5ecxCAofvQ"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "touch me, tease me",
+      "url": "https://open.spotify.com/track/3f3fJODVfB5gZKrkyNy5xg"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Love Games",
+        "url": "https://open.spotify.com/album/3EW9montqzJB3SE77Btgtc"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "duration_ms": 148815,
+      "name": "580",
+      "url": "https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Your Loss",
+        "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
+      },
+      "artists": [
+        {
+          "name": "REMI",
+          "url": "https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Cinch",
+        "url": "https://open.spotify.com/album/1RlJM8S6KVqfnLvg1Vzdji"
+      },
+      "artists": [
+        {
+          "name": "AYODROOP",
+          "url": "https://open.spotify.com/artist/5pUNK3E2yzTuHI97XFJCC1"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "LIGHTS OFF",
+      "url": "https://open.spotify.com/track/76uDl1SzZn4qAMrjLz3zu3"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Deposit",
+        "url": "https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 142229,
+      "name": "F.O.O.L",
+      "url": "https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Two Fish",
+        "url": "https://open.spotify.com/album/1Zz40dqmQDTRogVfSsaYFe"
+      },
+      "artists": [
+        {
+          "name": "Tahj",
+          "url": "https://open.spotify.com/artist/5Ow4JHoS15EbnsVxDiHIlx"
+        }
+      ],
+      "duration_ms": 195912,
+      "name": "Two Fish",
+      "url": "https://open.spotify.com/track/0bN8koQfz9KvECmWXXlVXv"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/68fAHYkS0sjKfj5Jd3QVt3"
+      },
+      "artists": [
+        {
+          "name": "Lily Massie",
+          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
+        },
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        }
+      ],
+      "duration_ms": 163903,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/1sfnEVLhkkJGIE2mTfDKMz"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "Fucking City",
+        "url": "https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 198071,
+      "name": "Fucking City",
+      "url": "https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "New Waves",
+        "url": "https://open.spotify.com/album/5pXGDN3wCUI3JoQkNnNELB"
+      },
+      "artists": [
+        {
+          "name": "Kevin Spears",
+          "url": "https://open.spotify.com/artist/7sMC2R8GTYZHYn62IshY7c"
+        }
+      ],
+      "duration_ms": 214821,
+      "name": "New Waves",
+      "url": "https://open.spotify.com/track/0gI2Zd6O3S8J28PPaMrbvn"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "27 CLUB",
+        "url": "https://open.spotify.com/album/6Rc3YQSC5Afgy6zN3MsCgc"
+      },
+      "artists": [
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        },
+        {
+          "name": "Tienas",
+          "url": "https://open.spotify.com/artist/6JvFJaw7uRQFBUzSlv28Gw"
+        }
+      ],
+      "duration_ms": 89839,
+      "name": "WWYD?",
+      "url": "https://open.spotify.com/track/07dpv49QO8Dg6Dm1SWQkqB"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "In the Rain",
+        "url": "https://open.spotify.com/album/6aFEvvBhfl5Gu03ehLkzt6"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "MXXWLL",
+          "url": "https://open.spotify.com/artist/2KAcGNHkwCFJb7w19oaqmU"
+        }
+      ],
+      "duration_ms": 210105,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/1sh7JrbZldlBzFYK1ToTkn"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "ONS",
+        "url": "https://open.spotify.com/album/1sikZUCXYU6OyKiseiy3Wk"
+      },
+      "artists": [
+        {
+          "name": "MarcLo",
+          "url": "https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X"
+        }
+      ],
+      "duration_ms": 193539,
+      "name": "ONS",
+      "url": "https://open.spotify.com/track/4PFkpGteEp7XMJi3OSoIxW"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "winston street",
+        "url": "https://open.spotify.com/album/3B6h6SRWjgQfcbiXylWyW4"
+      },
+      "artists": [
+        {
+          "name": "Avara",
+          "url": "https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd"
+        }
+      ],
+      "duration_ms": 193087,
+      "name": "winston street",
+      "url": "https://open.spotify.com/track/2kTQUkhlLwAU8VOEPZIFGW"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "girls, girls, girls",
+        "url": "https://open.spotify.com/album/7gj4804aNPQmezlWReFRju"
+      },
+      "artists": [
+        {
+          "name": "Amber Malone",
+          "url": "https://open.spotify.com/artist/1cvcAYbEvacr15ufgRYF7z"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "girls, girls, girls",
+      "url": "https://open.spotify.com/track/1Bxp7eAeLc4Mx1WrJAyuXI"
+    },
+    {
+      "added_at": "2026-03-13 08:53:39",
+      "album": {
+        "name": "SPECIAL WAY",
+        "url": "https://open.spotify.com/album/6wpuoaBt4QGP8CLiI3nBqI"
+      },
+      "artists": [
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        },
+        {
+          "name": "Stevan",
+          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+        }
+      ],
+      "duration_ms": 139199,
+      "name": "SPECIAL WAY",
+      "url": "https://open.spotify.com/track/5IwvxeIphErKjYm6YW212r"
+    },
     {
       "added_at": "2026-02-27 17:32:21",
       "album": {

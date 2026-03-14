@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186652,
+  "num_followers": 186672,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Lucky Again",
         "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Tuyo (Narcos Theme) [Extended Version] [A Netflix Original Series Soundtrack]",
         "url": "https://open.spotify.com/album/3NRTc5qEBAqOt3dKPFkmnu"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 212813,
       "name": "The Fade Out Line",
       "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -419,18 +419,38 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+        "name": "Bleed (feat. Omar Apollo)",
+        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
+      "duration_ms": 179373,
+      "name": "Bleed (feat. Omar Apollo)",
+      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "If I Ever Feel Better",
+      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -455,38 +475,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "United",
-        "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
       },
       "artists": [
         {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 266600,
-      "name": "If I Ever Feel Better",
-      "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Bleed (feat. Omar Apollo)",
-        "url": "https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Bleed (feat. Omar Apollo)",
-      "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 124133,
-      "name": "Cryptid",
-      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "AngieAngieAngie",
         "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 139363,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Hot Freaks Forever",
         "url": "https://open.spotify.com/album/4D7dYPMpxbMcyN16qUHvlL"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 202920,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/6YCwQYs9osECgiOtfrHT7f"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Christina",
-        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Dark Blue",
-      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Christina",
+        "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "Dark Blue",
+      "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Angus & Julia Stone",
-        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/0gvs6tpyGn2LuvkRwmMdAA"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Angus & Julia Stone",
+        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1539,6 +1539,38 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Get Go",
+        "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 202196,
+      "name": "Get Go",
+      "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Tourisme",
         "url": "https://open.spotify.com/album/50dLClesSVQO0ni2RIStOp"
       },
@@ -1575,18 +1607,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+        "name": "Hopes",
+        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
         }
       ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+      "duration_ms": 164500,
+      "name": "Hopes",
+      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1603,22 +1635,6 @@
       "duration_ms": 198155,
       "name": "Keyring",
       "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Hopes",
-        "url": "https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H"
-      },
-      "artists": [
-        {
-          "name": "Broken Back",
-          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Hopes",
-      "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1687,26 +1703,6 @@
       "duration_ms": 209613,
       "name": "Driving on the Highway",
       "url": "https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "California Calling",
-        "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Ricky Ducati",
-          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Don't Forget Yourself",
-      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
     }
   ],
   "unique_name": "D\u00eener entre amis",

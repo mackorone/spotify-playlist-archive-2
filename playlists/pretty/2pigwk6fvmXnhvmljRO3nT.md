@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,346 songs - 21 day 6 hr 20 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,349 songs - 21 day 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8354,5 +8354,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8344 | [ツギハギスタッカート \(feat\. 桃井愛莉&日野森雫&初音ミク\)](https://open.spotify.com/track/5nmaQMcL0OzvTy68ofhD3o) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM Vol.1](https://open.spotify.com/album/00fT0wiS5WgGx9Q8O3koaz) | 4:04 |
 | 8345 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
 | 8346 | [Ai đưa em về \(Cukak Remix\)](https://open.spotify.com/track/2YxMOZsk7PnIwLW6UI5Poo) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab), [Cukak](https://open.spotify.com/artist/3swW6OR2g7qTY3626sqVW4) | [Ai đưa em về \(Cukak Remix\)](https://open.spotify.com/album/0CHRraIMdopx3Lys6NztQ5) | 3:50 |
+| 8347 | [JUSTadICE](https://open.spotify.com/track/6IVM1YYZq6K6NG6qqC26o4) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [JUSTadICE](https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE) | 3:52 |
+| 8348 | [You Suck at Love](https://open.spotify.com/track/77hwX9Akupyg4TdPIf0s6a) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Get Your Heart On!](https://open.spotify.com/album/7hWHxMRVmCLi1nXXrijalR) | 3:11 |
+| 8349 | [ぼなぺてぃーと▽S](https://open.spotify.com/track/2C7DrdqoU4U7Wc0vZRVi21) | [ブレンド・A](https://open.spotify.com/artist/1djn2nFD39MVfBAYV3S7M2) | [ぼなぺてぃーと▽S／デタラメなマイナスとプラスにおけるブレンド考](https://open.spotify.com/album/4K3CsZTPVv5qnYu73aXeZ8) | 4:15 |
 
-Snapshot ID: `AAALL/OiQxfMGbcw2qv3mbqva+YhFgmJ`
+Snapshot ID: `AAALMhcwf7CmovgL7VAatWVfpMg40A4R`

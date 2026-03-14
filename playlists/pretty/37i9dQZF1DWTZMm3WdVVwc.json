@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27542,
+  "num_followers": 27543,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/4wOgBRh7btZbfiERDDYweM"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "NO SIDE",
@@ -587,6 +571,22 @@
       "duration_ms": 273661,
       "name": "BLIZZARD",
       "url": "https://open.spotify.com/track/4LenGg9GdYwfXSKOfTkin6"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "bestie",
-        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 259903,
-      "name": "bestie",
-      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "ALLSEASON EP.",
@@ -663,6 +647,22 @@
       "duration_ms": 250864,
       "name": "0\u2103\u306e\u65e5\u66dc",
       "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "bestie",
+        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 259903,
+      "name": "bestie",
+      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
     },
     {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 255603,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u30d7\u30e9\u30a4\u30de\u30eb",
@@ -883,6 +867,22 @@
       "duration_ms": 248666,
       "name": "Why",
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -953,6 +953,22 @@
       "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
     },
     {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 209639,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
+    },
+    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30ec\u30a4\u30b8\u30fc\u30b5\u30f3\u30c7\u30fc",
@@ -983,22 +999,6 @@
       "duration_ms": 295600,
       "name": "Wherever you are",
       "url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN"
-      },
-      "artists": [
-        {
-          "name": "Yo-Sea",
-          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
-        }
-      ],
-      "duration_ms": 209639,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1321,22 +1321,6 @@
       "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "Slow time lover",
-        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
-      },
-      "artists": [
-        {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 241810,
-      "name": "Slow time lover",
-      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
@@ -1353,20 +1337,20 @@
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "my insecurities, not yours",
-        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
+        "name": "Slow time lover",
+        "url": "https://open.spotify.com/album/0SXfEdjFOCmyQwhS8oAbGG"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
         }
       ],
-      "duration_ms": 207445,
-      "name": "she likes spring, I prefer winter",
-      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
+      "duration_ms": 241810,
+      "name": "Slow time lover",
+      "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1383,6 +1367,22 @@
       "duration_ms": 219426,
       "name": "\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "my insecurities, not yours",
+        "url": "https://open.spotify.com/album/4iDSytMqQQIkjP0WfweVbZ"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "she likes spring, I prefer winter",
+      "url": "https://open.spotify.com/track/6bM1QYzUKzZpQyAa7uO5kr"
     },
     {
       "added_at": "2025-12-16 15:00:32",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "AFTER TASTE",
-        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 247968,
-      "name": "AFTER TASTE",
-      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "Susanna",
@@ -1479,6 +1463,22 @@
       "duration_ms": 195106,
       "name": "On My Way Home",
       "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "AFTER TASTE",
+        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 247968,
+      "name": "AFTER TASTE",
+      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
     },
     {
       "added_at": "2025-12-05 00:27:18",
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "snow love",
-        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "snow love",
-      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
-    },
-    {
       "added_at": "2025-12-11 02:28:39",
       "album": {
         "name": "Unmelting Snow",
@@ -1577,20 +1561,20 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u51ac\u306e\u4e88\u611f",
-        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
+        "name": "snow love",
+        "url": "https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
         }
       ],
-      "duration_ms": 201462,
-      "name": "\u51ac\u306e\u4e88\u611f",
-      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
+      "duration_ms": 206461,
+      "name": "snow love",
+      "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1607,6 +1591,22 @@
       "duration_ms": 229655,
       "name": "hug",
       "url": "https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u51ac\u306e\u4e88\u611f",
+        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 201462,
+      "name": "\u51ac\u306e\u4e88\u611f",
+      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
     },
     {
       "added_at": "2025-10-23 13:55:51",

@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover: Ebubé
 
-347 songs - 18 hr 33 min
+347 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2023-02-24 |  |
 | [4 Me](https://open.spotify.com/track/2sM7DGrqesJOBZVm8MZqWR) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Just Concentrate](https://open.spotify.com/album/4A5WChT0xhc7UMpzM6v7TN) | 3:55 | 2024-11-04 |  |
 | [A Good Time](https://open.spotify.com/track/45TT90guElVnPKJrDkxYS3) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [A Good Time](https://open.spotify.com/album/3mFAqz77A9Db3tHfJSljGm) | 2:29 | 2023-11-10 |  |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-13 |  |
 | [Alien](https://open.spotify.com/track/5o0INADFgCAXCu7v7F6XbP) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Alien](https://open.spotify.com/album/31UtLq65wdYZIowQoTTydD) | 3:06 | 2022-02-18 |  |
 | [Alien](https://open.spotify.com/track/7Cb3Gf8kAX6nvXi3vNwt9z) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Alien](https://open.spotify.com/album/7tPGLotaxutfrmlxKy6Qkd) | 3:06 | 2022-10-06 | 2024-04-19 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-11 |  |
@@ -328,7 +329,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 |  |
 | [too much tv](https://open.spotify.com/track/5ZhW39tJKPDZRphsTknUHR) | [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [too much tv](https://open.spotify.com/album/3to4TxLLUr4iQ3uOyW6XLW) | 3:13 | 2024-08-29 |  |
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 |  |
-| [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 | 2026-03-13 |  |
 | [Trouble](https://open.spotify.com/track/0LdhrpQQXy9t2jwidxgOwL) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [The Butterfly Club](https://open.spotify.com/album/0RIR5ufR003FyTIywzPMCB) | 4:28 | 2022-02-18 |  |
 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 |  |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2022-02-18 |  |

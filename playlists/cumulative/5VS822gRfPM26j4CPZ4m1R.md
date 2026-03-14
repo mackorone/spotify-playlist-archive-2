@@ -4,7 +4,7 @@
 
 > Playlist
 
-640 songs - 1 day 13 hr 53 min
+641 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Clouds](https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq) | [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Play What's Not There](https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI) | 3:53 | 2024-11-14 |  |
 | [Clueless](https://open.spotify.com/track/7eLfK2vzVezTYqaqG02Nmc) | [One Car Garage](https://open.spotify.com/artist/1oFWVrcnu5N9ouCjWY2c1L) | [Clueless](https://open.spotify.com/album/7l2o9YCiBPydWboGqTmi75) | 3:32 | 2024-11-27 |  |
 | [Cola](https://open.spotify.com/track/4pOQY948tHlJs7xbJbk0YF) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Cola](https://open.spotify.com/album/1Rxrqf7QOqnOICKF3qJWTB) | 2:10 | 2025-12-23 |  |
+| [Colchão](https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Colchão](https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ) | 3:08 | 2026-03-13 |  |
 | [Colleen](https://open.spotify.com/track/0fiCElDIjW9tZQ2z6RCMot) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [Colleen](https://open.spotify.com/album/7E2W8E6zrSEmtKJcMWEyvX) | 4:03 | 2023-10-25 |  |
 | [Colors](https://open.spotify.com/track/4Pf9JdRifeW5hrLhDCX6Hw) | [The Quincey](https://open.spotify.com/artist/5NJG2qOVlhuXWTH9nQgGd3) | [Colors](https://open.spotify.com/album/0SwYHMQmKxMR1FGaIVuauY) | 3:23 | 2023-10-25 |  |
 | [Coltrane](https://open.spotify.com/track/4t8HVPnyAxim3i0jUk8FdU) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 4:12 | 2023-10-25 |  |
@@ -196,7 +197,7 @@
 | [Forever Inbetweeners](https://open.spotify.com/track/7b91OEs7jrHYggqBAWwH1Q) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 3:12 | 2023-10-25 |  |
 | [Fragile](https://open.spotify.com/track/59mA0B0QAQxCgXSoFx4AZf) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 2:35 | 2023-10-25 |  |
 | [Frank](https://open.spotify.com/track/0H8F8TSqge4Qkr9A0TJFSA) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 3:52 | 2023-10-25 |  |
-| [freak // 1994](https://open.spotify.com/track/0Beh1edFw2ytAIGgU4iiUh) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 2:51 | 2026-03-12 |  |
+| [freak // 1994](https://open.spotify.com/track/0Beh1edFw2ytAIGgU4iiUh) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 2:51 | 2026-03-12 | 2026-03-14 |
 | [FTM](https://open.spotify.com/track/4bcj9JenA6iBrkz84KsS1R) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [You're Doing All The Talking](https://open.spotify.com/album/5nvbBEqAmg7cLRsFewCPgT) | 4:38 | 2023-10-25 |  |
 | [Funny How I Knew](https://open.spotify.com/track/4ARboiAJtXqeLeNT2Buoq8) | [Tobacco Stan](https://open.spotify.com/artist/3y3SAKUiuHA16JASH9nzty) | [Funny How I Knew](https://open.spotify.com/album/6IZZPZwRkOYmOqEDCvQLvX) | 1:52 | 2023-10-25 |  |
 | [Funny Water](https://open.spotify.com/track/4m49u4HLRzOIn8Gd7aHfIr) | [vern matz](https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj) | [Funny Water](https://open.spotify.com/album/4ZWu0IrmxRs9M7iUNLR9eV) | 3:23 | 2023-10-25 |  |
@@ -290,7 +291,7 @@
 | [It's Not So Sad All the Time \- Live](https://open.spotify.com/track/2A1wSb2Vk4HPNIrxGUcmVM) | [Blacktop](https://open.spotify.com/artist/2tKIzZnbrNVtgyxye3uoZc) | [It's Not So Sad All the Time \(Live\)](https://open.spotify.com/album/79NlIc3lsWayEQYUU9RlUL) | 4:06 | 2024-02-07 |  |
 | [It's Only You](https://open.spotify.com/track/3Pk1WNpQUCxarHwg5JoGAN) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [It's Only You](https://open.spotify.com/album/5PJh0LBSeH0DrRpqTzSW8F) | 1:52 | 2023-10-25 |  |
 | [It's Only You I Talk to All Day](https://open.spotify.com/track/4EKQtlKr5uzXUGAeq1DHiX) | [Tom Wilson Kellett](https://open.spotify.com/artist/7FXqT8EaScUbs7KyR3JaxO) | [It's Only You I Talk to All Day](https://open.spotify.com/album/0t4BjtqeHYYlQabJI00dEk) | 5:05 | 2023-10-25 |  |
-| [it's over !! u blew it !!](https://open.spotify.com/track/5e7I8UlUfpawvYLdJYFMlj) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 1:56 | 2026-03-12 |  |
+| [it's over !! u blew it !!](https://open.spotify.com/track/5e7I8UlUfpawvYLdJYFMlj) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 1:56 | 2026-03-12 | 2026-03-14 |
 | [Ivy](https://open.spotify.com/track/4JuMuDWA9zwAGQP9kb4Zxg) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 3:58 | 2023-10-25 |  |
 | [J'y peux rien](https://open.spotify.com/track/0eXIlXgGQTD6hezaxdl3wO) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:01 | 2023-10-25 |  |
 | [Je T’appelle](https://open.spotify.com/track/5LS6l15r1QFAccHbxsb1IV) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 3:53 | 2023-10-25 |  |

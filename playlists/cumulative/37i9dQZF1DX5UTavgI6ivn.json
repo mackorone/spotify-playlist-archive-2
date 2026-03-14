@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190843,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
@@ -8225,6 +8225,28 @@
     },
     {
       "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
@@ -8272,7 +8294,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188386,
       "name": "Rio",
       "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
@@ -9392,7 +9414,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
@@ -9544,6 +9566,54 @@
       "duration_ms": 384000,
       "name": "Todos Mienten",
       "url": "https://open.spotify.com/track/1hF43vYDCkaqiclywCXkGp"
+    },
+    {
+      "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140816,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
+    },
+    {
+      "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "TOPSHELF",
+      "url": "https://open.spotify.com/track/6RCX0Bbldbl9kR5cHbaQdj"
     },
     {
       "album": {

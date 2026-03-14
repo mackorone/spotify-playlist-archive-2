@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,854 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,874 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 15 | [Your Presence](https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Your Presence](https://open.spotify.com/album/3M4GSnoWcAoeHA1Ubo6UJP) | 4:55 |
 | 16 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |
 | 17 | [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 |
-| 18 | [Track 1](https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Repairman](https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm) | 0:00 |
+| 18 | [Repairman](https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Repairman](https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm) | 2:55 |
 | 19 | [I Thank God \(feat\. Dante Bowe, Maryanne Joshua George & Aaron Moses\)](https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 7:45 |
 | 20 | [In Christ Alone](https://open.spotify.com/track/781KXCX8oa31Rldiq8at2l) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [In Christ Alone](https://open.spotify.com/album/18GgBg1cy64vPbAMB074DH) | 2:12 |
 | 21 | [247](https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK) | [BELIVAS](https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB), [Quabena Asare](https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd) | [247](https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV) | 3:06 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 | 46 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 |
 | 47 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 48 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 |
-| 49 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
-| 50 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 49 | [GOD IS GOOD](https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [GOD IS GOOD](https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC) | 3:27 |
+| 50 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 
 Snapshot ID: `AAAAAMbjRwrw7n0AwvNkKmcg5UxldEEp`

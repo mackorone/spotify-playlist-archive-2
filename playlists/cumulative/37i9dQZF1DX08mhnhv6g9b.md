@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Vote for your most anticipated track from ARIRANG on the <a href="https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1?si=522f34b3f6b84acf"> K\-Pop ON! \(온\) playlist </a> now!
+> Welcome to the BTS's universe\. A.R.M.Y's World! 💜 <a href="spotify:presents:decodingarirang"> Decoding ARIRANG </a>
 
 531 songs - 1 day 7 hr 29 min
 

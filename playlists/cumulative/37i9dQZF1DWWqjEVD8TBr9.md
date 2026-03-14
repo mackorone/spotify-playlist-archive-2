@@ -4,7 +4,7 @@
 
 > Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-383 songs - 20 hr 37 min
+384 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Drive \(Bang Chan, Lee Know\)](https://open.spotify.com/track/0hLvtmoexLKl14LrzxOYRt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Bang Chan](https://open.spotify.com/artist/5jRUIqBSxmsBPNiEwKUjgZ), [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 2:44 | 2022-12-21 |  |
 | [Easy](https://open.spotify.com/track/2AeLlfB0vLKz7nukzQ97ri) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 3:03 | 2022-03-18 |  |
 | [Easy](https://open.spotify.com/track/4s9diT9GXpI7QiysMkoANG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:03 | 2022-03-18 | 2024-04-19 |
+| [Endless Sun](https://open.spotify.com/track/45CAsiLFBU9iKsQtyd2kmq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/3BpgkGGY3CjIDhlRsoAzoZ) | 2:38 | 2026-03-13 |  |
 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-04-03 |  |
 | [Ex](https://open.spotify.com/track/1mZttLRYMGTq4m88qbgCE7) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:37 | 2022-03-18 |  |
 | [Ex](https://open.spotify.com/track/4y7C13wqDLE7xuilBsLNvd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/0aERWcI2KYSCM4biUihB9X) | 3:37 | 2022-03-18 | 2024-04-19 |

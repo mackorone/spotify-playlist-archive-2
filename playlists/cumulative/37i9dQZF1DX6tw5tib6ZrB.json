@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Sleepy Hallow, Denzel Curry, T.I and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Sleepy Hallow, Joyner Lucas, Y.G and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -4151,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
+    },
+    {
+      "album": {
         "name": "Guess Who's Back",
         "url": "https://open.spotify.com/album/68OdKbJF8V3Hnsg2JJyr2G"
       },
@@ -4352,7 +4370,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 225000,
       "name": "Head Up 2.0",
       "url": "https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA"
@@ -5978,7 +5996,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 144480,
       "name": "Lord Protect Me (feat. Roc Marciano)",
       "url": "https://open.spotify.com/track/4adsnTOqKiDg0d0zmGq0G7"
@@ -6142,7 +6160,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 170666,
       "name": "MARCH",
       "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
@@ -6244,6 +6262,24 @@
       "duration_ms": 440857,
       "name": "Mel Made Me Do It",
       "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
+    },
+    {
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "album": {
@@ -8700,7 +8736,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169644,
       "name": "Seen Enough (feat. Polo G)",
       "url": "https://open.spotify.com/track/1qDDgZwDI312DbDaFPaXVD"
@@ -9385,6 +9421,24 @@
     },
     {
       "album": {
+        "name": "STATE OF EMERGENCY",
+        "url": "https://open.spotify.com/album/1dAjoyuOzwWfkKX43lTkzy"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183886,
+      "name": "STATE OF EMERGENCY",
+      "url": "https://open.spotify.com/track/1hpFu5ZQQGi7vDipedBcXy"
+    },
+    {
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -10060,6 +10114,32 @@
       "duration_ms": 133150,
       "name": "That's My Ball",
       "url": "https://open.spotify.com/track/13uKQinjmgbUMb1pswDIMc"
+    },
+    {
+      "album": {
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/5ckvMw09shzHJl5AD75fKF"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "The Big 3",
+      "url": "https://open.spotify.com/track/71Tz0HWh539fu98BIPVS1a"
     },
     {
       "album": {

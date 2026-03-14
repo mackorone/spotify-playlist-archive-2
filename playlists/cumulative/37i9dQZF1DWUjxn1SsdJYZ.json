@@ -13183,6 +13183,32 @@
     },
     {
       "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc"
+      },
+      "artists": [
+        {
+          "name": "Celly",
+          "url": "https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz"
+        },
+        {
+          "name": "J Emz",
+          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
+        },
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD"
+    },
+    {
+      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/0DNwLBYCjk5xHHKDczAv0C"
       },
@@ -23886,7 +23912,7 @@
       },
       "artists": [
         {
-          "name": "Eljay4K",
+          "name": "41LOWKEY",
           "url": "https://open.spotify.com/artist/1VjAzt8KfS6QiE0YnaSF2a"
         }
       ],

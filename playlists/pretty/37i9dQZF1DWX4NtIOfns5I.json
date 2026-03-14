@@ -1,12 +1,12 @@
 {
-  "description": "new the army, the navy \ud83c\udff9",
-  "num_followers": 144942,
+  "description": "emma harner gently ushering in spring \ud83c\udf43",
+  "num_followers": 144940,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAlod8RtQyRXfqR7EmTu15w8H38Y",
+  "snapshot_id": "AAAAAFsTCjvsn3BoY/Cb+ht2ba2VXA6u",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:19",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/0tdan0wnphkpjBwTVduvDL"
     },
     {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "You're Right",
+        "url": "https://open.spotify.com/album/4tNyCZlcp83pxK5ktfTx5Q"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "duration_ms": 180128,
+      "name": "You're Right",
+      "url": "https://open.spotify.com/track/4UEjz6lD71GweiK1BXpUYC"
+    },
+    {
       "added_at": "2026-03-06 05:00:19",
       "album": {
         "name": "Walls",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
     },
     {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
       "added_at": "2026-03-06 05:00:19",
       "album": {
         "name": "Fade Into You",
@@ -55,6 +87,38 @@
       "duration_ms": 286000,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/5EZhwA15HWLC7UlQ9nuo0L"
+    },
+    {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/12qM2XNUl5g1mhhNrrpIey"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "duration_ms": 168078,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/52w9vFDgebB8OxdYL1BK1t"
+    },
+    {
+      "added_at": "2026-03-10 18:02:31",
+      "album": {
+        "name": "dog with a bone",
+        "url": "https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 200060,
+      "name": "dog with a bone",
+      "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
     },
     {
       "added_at": "2026-03-09 15:01:04",
@@ -119,22 +183,6 @@
       "duration_ms": 219240,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/5E4lPEA9KaRGZcTuT78BkR"
-    },
-    {
-      "added_at": "2026-03-10 18:02:31",
-      "album": {
-        "name": "dog with a bone",
-        "url": "https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 200060,
-      "name": "dog with a bone",
-      "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1319,38 +1367,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "River Runs Dry",
-        "url": "https://open.spotify.com/album/3sSGBzuk9Eq3aA4hgvhyW3"
-      },
-      "artists": [
-        {
-          "name": "Daniel Nunnelee",
-          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
-        }
-      ],
-      "duration_ms": 263750,
-      "name": "River Runs Dry",
-      "url": "https://open.spotify.com/track/4CHHkSkDNst5mTNRfdUIyn"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo"
-      },
-      "artists": [
-        {
-          "name": "Sara Baroni",
-          "url": "https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "17",
-      "url": "https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Underbelly",
         "url": "https://open.spotify.com/album/3NyVPWtGDoTM70RDKqjIjF"
       },
@@ -1443,54 +1459,6 @@
       "duration_ms": 238000,
       "name": "Looking For Nothing",
       "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Betty",
-        "url": "https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 182713,
-      "name": "Betty",
-      "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 163292,
-      "name": "Mind Reader",
-      "url": "https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "nail polish",
-        "url": "https://open.spotify.com/album/2RwnPnlXIbLB4h2Dwcbzz5"
-      },
-      "artists": [
-        {
-          "name": "Khatumu",
-          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
-        }
-      ],
-      "duration_ms": 226158,
-      "name": "nail polish",
-      "url": "https://open.spotify.com/track/7qTTQpGiy31t0zjsctXmYN"
     },
     {
       "added_at": "2026-03-06 05:00:19",

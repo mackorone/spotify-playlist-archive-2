@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
 
-911 songs - 1 day 16 hr 58 min
+912 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-19 | 2025-05-23 |
 | [herhalde](https://open.spotify.com/track/2vi7n71iNVeKG8LDKfdLFE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [herhalde](https://open.spotify.com/album/7GHQEKo01Yf6GW2cGJsu7C) | 2:39 | 2026-03-05 |  |
 | [herkes kendine yakışanı yapsın](https://open.spotify.com/track/38evhex5V6BPZumBToe7SY) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Waxy](https://open.spotify.com/artist/6vHGyEavhmG06FNpoUPUMi) | [herkes kendine yakışanı yapsın](https://open.spotify.com/album/4cPU2kRpX5RPCW9m6SwhuL) | 2:22 | 2025-11-20 |  |
-| [Hermès](https://open.spotify.com/track/4UXSvUiSURvf5U9JJGbDnS) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès](https://open.spotify.com/album/1DQ2JusvfnW8hlSNb5fjgg) | 1:17 | 2026-01-29 |  |
+| [Hermès](https://open.spotify.com/track/4UXSvUiSURvf5U9JJGbDnS) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès](https://open.spotify.com/album/1DQ2JusvfnW8hlSNb5fjgg) | 1:17 | 2026-01-29 | 2026-03-14 |
 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 | 2026-03-05 |  |
 | [Hey](https://open.spotify.com/track/2coPBvCRJnQ52Q0KZztfMJ) | [Aksan](https://open.spotify.com/artist/4HKKQOej7lVXZcGzFB5dn8) | [Hey](https://open.spotify.com/album/2ivz0MzTJISLpuNG9UvU9D) | 2:07 | 2025-12-25 | 2025-12-31 |
 | [Heyecan](https://open.spotify.com/track/7L3GLSWe2zd1YPwHLxJvR7) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Heyecan](https://open.spotify.com/album/2E94wziZW75uLBhC4P71gh) | 2:50 | 2025-07-31 | 2025-08-23 |
@@ -913,6 +913,7 @@
 | [Özlesen Beni](https://open.spotify.com/track/7ET0F8bXWsF8glyEwMDeli) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Özlesen Beni](https://open.spotify.com/album/1ii0DgIUp0k3VPCpEUU6c7) | 2:18 | 2023-07-13 | 2023-08-11 |
 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-31 | 2024-02-02 |
 | [Ütopik](https://open.spotify.com/track/7g7zbnLW2JNvhBy3Xa1uAo) | [Joker](https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Defkhan](https://open.spotify.com/artist/5piE2MZ1wGpBjpDud8kTOS), [Botan](https://open.spotify.com/artist/0apMJftj0fhlCxT8Asyz2f), [Serhat Özen](https://open.spotify.com/artist/2Qpgh2xmjneIAyBWCKLVdJ) | [Ütopik](https://open.spotify.com/album/7f4zLJwHtuvW8YPZfsRYhe) | 3:41 | 2024-10-03 | 2024-10-19 |
+| [Şans & Para](https://open.spotify.com/track/1ygSfFq5dgWAsAZ9n6cmFR) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5) | [Şans & Para](https://open.spotify.com/album/2XZAoFvyOlZhm43rHwFqXH) | 2:36 | 2026-03-13 |  |
 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg) | 2:55 | 2025-10-23 | 2026-01-27 |
 | [Şeker Oğlan](https://open.spotify.com/track/7wqZCecEsVapxvvTY6Xhl3) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Şeker Oğlan](https://open.spotify.com/album/4lONUWHJE5G4Bd4tjyR8Ar) | 2:12 | 2025-05-29 | 2025-06-13 |
 | [Şeytan ve Melekler](https://open.spotify.com/track/1Rrg2RPn0H2iLcUxDYgOWx) | [Heja](https://open.spotify.com/artist/3G0XxE8TxeByKXgwtmVE8n), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Şeytan ve Melekler](https://open.spotify.com/album/6JgYKBgd77acqUw0NZpvpd) | 4:10 | 2024-06-20 | 2024-07-27 |

@@ -177,6 +177,28 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/3oH77EeAbGRTtNKIWzs4n0"
+      },
+      "artists": [
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        },
+        {
+          "name": "Paris Sandford",
+          "url": "https://open.spotify.com/artist/2Wp8nQbK8UlgrPvH8yWxU1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192096,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1owyBeWacFOghQy4mnSzEf"
+    },
+    {
+      "album": {
         "name": "Backroad Flyin' (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL"
       },
@@ -2642,7 +2664,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 216092,
       "name": "I Can't - Dave Aud\u00e9 Remix",
       "url": "https://open.spotify.com/track/0tVK8v4KrIe2m31mkymR3G"

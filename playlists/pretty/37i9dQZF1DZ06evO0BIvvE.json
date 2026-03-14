@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11384,
+  "num_followers": 11387,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACyXy6xxfIv83exqI5tlXhG",
+  "snapshot_id": "abICAAAAAADKrOEOt/64sOEJGawCAkN0",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 605986,
-      "name": "War of the Gods",
-      "url": "https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 269840,
       "name": "Mrs. Robinson",
       "url": "https://open.spotify.com/track/4jJ2YMKm2FqIvn7p85pSJY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 605986,
+      "name": "War of the Gods",
+      "url": "https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 255053,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 177933,
       "name": "Thank You (For This Blessing)",
       "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 438986,
-      "name": "I Was Married",
-      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 219320,
       "name": "Love Buddies",
       "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 438986,
+      "name": "I Was Married",
+      "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "The Whole Town's Talking",
-      "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 200973,
       "name": "We All Got A Mission",
       "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "The Whole Town's Talking",
+      "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sandra de S\u00e1 (1988)",
         "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 325053,
       "name": "Amanh\u00e3 (feat. Billy Paul)",
       "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,
@@ -720,25 +720,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/4smFZWmbELDMZohleik3fD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "My Head's On Straight",
-      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
+      "duration_ms": 302733,
+      "name": "Everybody's Breakin' Up",
+      "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 232186,
       "name": "Ebony Woman",
       "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "My Head's On Straight",
+      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 302733,
-      "name": "Everybody's Breakin' Up",
-      "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
+      "duration_ms": 246773,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/4smFZWmbELDMZohleik3fD"
     },
     {
       "added_at": null,
@@ -807,30 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/73BGLklYHPD0UJVsYDRWBS"
-      },
-      "artists": [
-        {
-          "name": "Antonello Ferrari",
-          "url": "https://open.spotify.com/artist/6CpUfSiqmNciuYLQ1CxH9e"
-        },
-        {
-          "name": "Aldo Bergamasco",
-          "url": "https://open.spotify.com/artist/1OmUNhEbNt1OtcGfn0hxne"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 399016,
-      "name": "Take Me Higher - Antonello Ferrari & Aldo Bergamasco Club Mix",
-      "url": "https://open.spotify.com/track/37YrFEdaub4bJljePESq4F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got My Head On Straight",
         "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 476440,
       "name": "Black Wonders of the World",
       "url": "https://open.spotify.com/track/4vfdPWGjFSA623VULHgQqN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     }
   ],
   "unique_name": "This Is Billy Paul",

@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Ella Langley
 
-419 songs - 22 hr 47 min
+420 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Wreck Me](https://open.spotify.com/track/5fDfAiGTEmqdR5yq4XUVgK) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe) | [Wreck Me](https://open.spotify.com/album/7CrpT8iWUYllCSZ8p0cEnU) | 3:29 | 2021-12-01 | 2022-04-18 |
 | [Write One \(feat\. Keith Urban\)](https://open.spotify.com/track/1Tbpnf062epELxIkBIAbp0) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Write One](https://open.spotify.com/album/2gcIooEpz82RkFbZPNjcgr) | 3:10 | 2024-06-10 | 2025-03-22 |
 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 | 2022-03-25 | 2024-10-19 |
+| [Yard Sale](https://open.spotify.com/track/25mfiefGrlGukzFR3LWLPU) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Mae Estes](https://open.spotify.com/artist/6352GDDDFjnbhNMDbCRIuX), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Yard Sale](https://open.spotify.com/album/1ClDBDLT2a9Fdr2oHvlCiR) | 3:02 | 2026-03-13 |  |
 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 | 2022-08-05 |  |
 | [You Can't Have Both](https://open.spotify.com/track/0mdb0uMrSiU3jG8vRPefyB) | [Gracee Shriver](https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1) | [You Can't Have Both](https://open.spotify.com/album/624lwVTNmkb5oM85YvnU23) | 3:35 | 2022-02-04 | 2022-04-21 |
 | [you don't deserve a country song](https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [you don't deserve a country song](https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M) | 3:10 | 2023-01-13 | 2024-07-13 |

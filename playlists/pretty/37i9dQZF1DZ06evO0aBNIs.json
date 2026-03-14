@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 753125,
+  "num_followers": 753190,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAC85qPsQe6Kkqy0meL5Cy49",
+  "snapshot_id": "abICAAAAAACXczaOzsmZoIv3C5V3gkC2",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m a Mess (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 187793,
-      "name": "I\u2019m a Mess (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California Gold",
         "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 210026,
       "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bulletproof (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 183919,
       "name": "Bulletproof (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/1Tl0YVT3Br2AIqYT3VlEdo"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 221866,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Above Water",
         "url": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 255683,
       "name": "I Fell In Love With The Devil",
       "url": "https://open.spotify.com/track/6HHtTXPyBTJsLQT0y3afnm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 221866,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/57gIhFXdJ5M9JuNDcbpcEk"
     },
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse"
       },
       "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 162266,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A"
+      "duration_ms": 196916,
+      "name": "Living in Paradise (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/4MJpRELMm9Sa70kJqwi8by"
     }
   ],
   "unique_name": "This Is Avril Lavigne",

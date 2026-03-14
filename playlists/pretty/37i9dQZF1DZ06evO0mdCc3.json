@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16032,
+  "num_followers": 16038,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABPn/uS5mOPwAWqM7X/+ldg",
+  "snapshot_id": "abICAAAAAAA2MTAgx+37rM5LJyl+YgoB",
   "tracks": [
     {
       "added_at": null,
@@ -60,7 +60,7 @@
       "added_at": null,
       "album": {
         "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 165022,
-      "name": "Spit XXV",
-      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
+      "duration_ms": 177946,
+      "name": "Brackish XXV",
+      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
     },
     {
       "added_at": null,
@@ -124,7 +124,7 @@
       "added_at": null,
       "album": {
         "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Brackish XXV",
-      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
+      "duration_ms": 165022,
+      "name": "Spit XXV",
+      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
     },
     {
       "added_at": null,
@@ -315,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 128586,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spit",
-        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Suck",
-      "url": "https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
       },
@@ -375,6 +343,38 @@
       "duration_ms": 352242,
       "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
       "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spit",
+        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Suck",
+      "url": "https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 128586,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spit XXV",
         "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 253940,
       "name": "Charlotte XXV",
       "url": "https://open.spotify.com/track/4zxlavFPfVahz5Rj5l9cU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Career Suicide",
-      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funeral For Yesterday",
         "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 204004,
       "name": "Funeral For Yesterday",
       "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Career Suicide",
+      "url": "https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 329506,
-      "name": "Look So Pretty",
-      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funeral For Yesterday",
         "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 329506,
+      "name": "Look So Pretty",
+      "url": "https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Black",
         "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Forgive And Forget",
-      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brackish (Live)",
         "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Black",
         "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+      "duration_ms": 224160,
+      "name": "Forgive And Forget",
+      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
     },
     {
       "added_at": null,

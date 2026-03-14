@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5925,
+  "num_followers": 5927,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAD5BvdzA6kSKyMfn+0J3Q4Q",
+  "snapshot_id": "abICAAAAAABEWupC/p1tlJDOHIKIjrAk",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOTORI(The Name of Jesus)",
-        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
+        "name": "Help Me To Remember",
+        "url": "https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P"
       },
       "artists": [
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 204600,
-      "name": "TOTORI(The Name of Jesus)",
-      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
+      "duration_ms": 209360,
+      "name": "Help Me To Remember",
+      "url": "https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help Me To Remember",
-        "url": "https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P"
+        "name": "TOTORI(The Name of Jesus)",
+        "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
       },
       "artists": [
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        },
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 209360,
-      "name": "Help Me To Remember",
-      "url": "https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG"
+      "duration_ms": 204600,
+      "name": "TOTORI(The Name of Jesus)",
+      "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
     },
     {
       "added_at": null,

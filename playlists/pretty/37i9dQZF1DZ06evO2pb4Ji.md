@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,769 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,758 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 45 | [Worlds Collide](https://open.spotify.com/track/1Th2DtTmXeneblecHAC6D7) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/7p9wTmFtKSDY3DHEZP2eJ3) | 3:36 |
 | 46 | [I'LL SHOW YOU](https://open.spotify.com/track/497qmwcUsCv5hmMU0K8Hik) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/3wX4yrxMuHapSLvadxQkVV) | 3:18 |
 | 47 | [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1VcFPlHTGkUuKv7emjBNVp) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/0g1gjMqa230nBKXvHvPPR3) | 3:20 |
-| 48 | [Fated Return](https://open.spotify.com/track/04vYq1xrpYAru7yYJ98mLN) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [H.Jen](https://open.spotify.com/artist/6exCcAqZTNtDeAOpgP3qUi), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [Fated Return](https://open.spotify.com/album/7y2xolTErkEB6jNWwYFZyp) | 1:51 |
-| 49 | [Piercing Light](https://open.spotify.com/track/4kVME8P0uGX7TS6hYtrZ4A) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/4y78CCwB5zEjxnEDi8a6lM) | 4:51 |
+| 48 | [Piercing Light](https://open.spotify.com/track/4kVME8P0uGX7TS6hYtrZ4A) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/4y78CCwB5zEjxnEDi8a6lM) | 4:51 |
+| 49 | [Fated Return](https://open.spotify.com/track/04vYq1xrpYAru7yYJ98mLN) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [H.Jen](https://open.spotify.com/artist/6exCcAqZTNtDeAOpgP3qUi), [Jessica Gelinas](https://open.spotify.com/artist/25f1T8ftal0wbUsAYgP8ng) | [Fated Return](https://open.spotify.com/album/7y2xolTErkEB6jNWwYFZyp) | 1:51 |
 | 50 | [Here, Tomorrow](https://open.spotify.com/track/1Kv8Ep17FrOkvHAINLIEgW) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Spirit Blossom Beyond \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/0mNCXeb7azjErkTqoaR4BA) | 3:07 |
 
-Snapshot ID: `abCwgAAAAADK6sruC3Q5SrMm0TdaZIkN`
+Snapshot ID: `abICAAAAAAAbAY00DYh4EuqCUuaJMw/1`

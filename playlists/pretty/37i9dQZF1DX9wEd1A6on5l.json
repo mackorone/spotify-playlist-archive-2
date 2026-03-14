@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 113069,
+  "num_followers": 113109,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,22 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
-        "name": "ANGELS",
-        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
       "artists": [
         {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         },
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
         }
       ],
-      "duration_ms": 184437,
-      "name": "ANGELS",
-      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -227,22 +223,26 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+        "name": "ANGELS",
+        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
         },
         {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
+      "duration_ms": 184437,
+      "name": "ANGELS",
+      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
         "name": "Big Bum Bum",
         "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 159183,
       "name": "Big Bum Bum",
       "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
+        "name": "Uncle Pele / Sew-Tape",
+        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
+      },
+      "artists": [
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Uncle Pele",
+      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
         "name": "That Way",
         "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 155428,
       "name": "That Way",
       "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
-        "name": "Uncle Pele / Sew-Tape",
-        "url": "https://open.spotify.com/album/59cWQDtXikHHxtrdYI1KGc"
-      },
-      "artists": [
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Uncle Pele",
-      "url": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -1239,18 +1239,26 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
-        "name": "USDT",
-        "url": "https://open.spotify.com/album/6ceBJdby988nuSK55yQsQb"
+        "name": "1 WORK (Remix)",
+        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
       "artists": [
         {
           "name": "Zhus Jdo",
           "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
         }
       ],
-      "duration_ms": 149454,
-      "name": "USDT",
-      "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"
+      "duration_ms": 136693,
+      "name": "1 WORK - Remix",
+      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -1299,6 +1307,22 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
+        "name": "Back to Back",
+        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "duration_ms": 146129,
+      "name": "Back to Back",
+      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -1323,74 +1347,18 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
-        "name": "Shina Rampe",
-        "url": "https://open.spotify.com/album/5pnDeSZS2hR0fF0NS9CeoX"
-      },
-      "artists": [
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Shina Rampe",
-      "url": "https://open.spotify.com/track/2wUBujNySRbtpsv39Wy0lc"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
-        "name": "1 WORK (Remix)",
-        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+        "name": "USDT",
+        "url": "https://open.spotify.com/album/6ceBJdby988nuSK55yQsQb"
       },
       "artists": [
         {
           "name": "Zhus Jdo",
           "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
         }
       ],
-      "duration_ms": 136693,
-      "name": "1 WORK - Remix",
-      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
-        "name": "Back to Back",
-        "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 146129,
-      "name": "Back to Back",
-      "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
-        "name": "SORRY IM NOT SORRY",
-        "url": "https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 131434,
-      "name": "SORRY IM NOT SORRY",
-      "url": "https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj"
+      "duration_ms": 149454,
+      "name": "USDT",
+      "url": "https://open.spotify.com/track/5hLPePgQ8Qx1Ae1z7VwI9j"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -1411,6 +1379,38 @@
       "duration_ms": 192921,
       "name": "Hildabaci - Remix",
       "url": "https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
+        "name": "SORRY IM NOT SORRY",
+        "url": "https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 131434,
+      "name": "SORRY IM NOT SORRY",
+      "url": "https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
+        "name": "Shina Rampe",
+        "url": "https://open.spotify.com/album/5pnDeSZS2hR0fF0NS9CeoX"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Shina Rampe",
+      "url": "https://open.spotify.com/track/2wUBujNySRbtpsv39Wy0lc"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-03-13 00:01:27",
       "album": {
-        "name": "Coco Money",
-        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 136707,
-      "name": "Coco Money",
-      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
         "name": "Babcock",
         "url": "https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 143476,
       "name": "Babcock",
       "url": "https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
+        "name": "Coco Money",
+        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -1519,6 +1519,22 @@
       "duration_ms": 119954,
       "name": "HAPPY SONG",
       "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2026-03-13 00:01:27",
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-03-13 00:01:27",
@@ -1567,22 +1583,6 @@
       "duration_ms": 133172,
       "name": "Feel D Mood",
       "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
-    },
-    {
-      "added_at": "2026-03-13 00:01:27",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-03-13 00:01:27",

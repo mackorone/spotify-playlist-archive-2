@@ -1,6 +1,6 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 447173,
+  "num_followers": 447240,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
+        "name": "Criminal Minded (Deluxe)",
+        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
+      },
+      "artists": [
+        {
+          "name": "Boogie Down Productions",
+          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
+        }
+      ],
+      "duration_ms": 257223,
+      "name": "9mm Goes Bang",
+      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
         "name": "Paid In Full",
         "url": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 228266,
       "name": "Paid In Full",
       "url": "https://open.spotify.com/track/3fatX7w8Wt9nmwGlXZsRFh"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
-        "name": "Criminal Minded (Deluxe)",
-        "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
-      },
-      "artists": [
-        {
-          "name": "Boogie Down Productions",
-          "url": "https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA"
-        }
-      ],
-      "duration_ms": 257223,
-      "name": "9mm Goes Bang",
-      "url": "https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Follow The Leader",
-        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Follow The Leader",
-      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
-    },
-    {
-      "added_at": "2024-06-28 10:06:16",
-      "album": {
         "name": "Hey DJ",
         "url": "https://open.spotify.com/album/06c1nSdZa3jT2UCn024dV2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 206081,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/7tW7kmX6o8avIUxN8yBUEo"
+    },
+    {
+      "added_at": "2024-06-28 10:06:16",
+      "album": {
+        "name": "Follow The Leader",
+        "url": "https://open.spotify.com/album/3kaiwH8r6Wg62D2CxOr0QH"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Follow The Leader",
+      "url": "https://open.spotify.com/track/1p80AptLonBW0VilSi6xFj"
     },
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "The Message (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6hrwAx3KoigDlYJx2TCAwC"
+        "name": "Planet Rock",
+        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
       },
       "artists": [
         {
-          "name": "Grandmaster Flash & The Furious Five",
-          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
         }
       ],
-      "duration_ms": 430013,
-      "name": "The Message - Extended Version",
-      "url": "https://open.spotify.com/track/5isA9icHWl2651hvfr1EOV"
+      "duration_ms": 319960,
+      "name": "Planet Rock",
+      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Mc Davi",
-  "num_followers": 189828,
+  "num_followers": 189865,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -271,8 +271,8 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
+        "name": "Imperfeito",
+        "url": "https://open.spotify.com/album/3AoNZ1WIUMA7tlZomjZciU"
       },
       "artists": [
         {
@@ -280,25 +280,9 @@
           "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         }
       ],
-      "duration_ms": 138187,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "P\u00e9s Descal\u00e7os",
-        "url": "https://open.spotify.com/album/2t1XM0tpDYOTnWKLmnF4wD"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "P\u00e9s Descal\u00e7os",
-      "url": "https://open.spotify.com/track/1mqXptxIywQXMnCXAQqexs"
+      "duration_ms": 186705,
+      "name": "Imperfeito",
+      "url": "https://open.spotify.com/track/6FYy3jpDumHEYTiEk7zF2S"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -315,6 +299,22 @@
       "duration_ms": 162272,
       "name": "Viv\u00e3o",
       "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "P\u00e9s Descal\u00e7os",
+        "url": "https://open.spotify.com/album/2t1XM0tpDYOTnWKLmnF4wD"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "P\u00e9s Descal\u00e7os",
+      "url": "https://open.spotify.com/track/1mqXptxIywQXMnCXAQqexs"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -355,8 +355,8 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Imperfeito",
-        "url": "https://open.spotify.com/album/3AoNZ1WIUMA7tlZomjZciU"
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
         }
       ],
-      "duration_ms": 186705,
-      "name": "Imperfeito",
-      "url": "https://open.spotify.com/track/6FYy3jpDumHEYTiEk7zF2S"
+      "duration_ms": 138187,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Amor Freestyle",
-        "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 168861,
-      "name": "Amor Freestyle",
-      "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Trindade Ac\u00fastico 1",
         "url": "https://open.spotify.com/album/41e3rvy3lc0jq7HYXcik9w"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 250000,
       "name": "Trindade Ac\u00fastico 1",
       "url": "https://open.spotify.com/track/5s4nzKjZMJqchuZypeLuuE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Amor Freestyle",
+        "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 168861,
+      "name": "Amor Freestyle",
+      "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -663,26 +663,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Seu Poder",
-        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 222169,
-      "name": "Seu Poder",
-      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Medo",
         "url": "https://open.spotify.com/album/4Wep3P2OJihAOvsWbXIMm0"
       },
@@ -703,6 +683,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Seu Poder",
+        "url": "https://open.spotify.com/album/6JXuPKwPaqmZFgF8SeC1yW"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "duration_ms": 222169,
+      "name": "Seu Poder",
+      "url": "https://open.spotify.com/track/0zo8OjkNOKj4eIZZrMiy9E"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Renuncio o Meu Eu",
         "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
       },
@@ -719,46 +719,6 @@
       "duration_ms": 190408,
       "name": "Renuncio o Meu Eu",
       "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Reden\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Reden\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -787,18 +747,42 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Bem Maior",
-        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
       },
       "artists": [
         {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Bem Maior",
-      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
+      "duration_ms": 137142,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -827,22 +811,18 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Metanoia",
-        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
+        "name": "Bem Maior",
+        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
       },
       "artists": [
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        },
-        {
-          "name": "DJ Richa",
-          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Metanoia",
-      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+      "duration_ms": 156000,
+      "name": "Bem Maior",
+      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -891,18 +871,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Momentos Dif\u00edceis",
-        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+        "name": "Metanoia",
+        "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        },
+        {
+          "name": "DJ Richa",
+          "url": "https://open.spotify.com/artist/1G28DyrNZu99BHvIHZ5QRZ"
         }
       ],
-      "duration_ms": 158081,
-      "name": "Momentos Dif\u00edceis",
-      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
+      "duration_ms": 171428,
+      "name": "Metanoia",
+      "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -935,6 +919,22 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Momentos Dif\u00edceis",
+        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 158081,
+      "name": "Momentos Dif\u00edceis",
+      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Com Jesus Eu Ganho",
         "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
       },
@@ -947,30 +947,6 @@
       "duration_ms": 138947,
       "name": "Com Jesus Eu Ganho",
       "url": "https://open.spotify.com/track/6VFicHR1DPAvOyVBOx29qX"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Mais Perto do C\u00e9u",
-        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 157568,
-      "name": "Mais Perto do C\u00e9u",
-      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -999,22 +975,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Rio De \u00c1guas Vivas",
-        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
+        "name": "Mais Perto do C\u00e9u",
+        "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Prod Mkzin",
-          "url": "https://open.spotify.com/artist/4qV4GKPQMSwtTP1ZAM4z9v"
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 183321,
-      "name": "Rio De \u00c1guas Vivas",
-      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
+      "duration_ms": 157568,
+      "name": "Mais Perto do C\u00e9u",
+      "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1035,6 +1015,26 @@
       "duration_ms": 156937,
       "name": "Firme",
       "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Rio De \u00c1guas Vivas",
+        "url": "https://open.spotify.com/album/74Yrv4ZAKbA9nnEV9NUqYr"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Prod Mkzin",
+          "url": "https://open.spotify.com/artist/4qV4GKPQMSwtTP1ZAM4z9v"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Rio De \u00c1guas Vivas",
+      "url": "https://open.spotify.com/track/4491TFcmd9GgJNz0Jnlqhx"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Melhores Dias",
-        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Melhores Dias",
-      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -1111,18 +1087,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
+        "name": "Melhores Dias",
+        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+      "duration_ms": 159069,
+      "name": "Melhores Dias",
+      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
       },
       "artists": [
         {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1191,6 +1171,26 @@
       "duration_ms": 138475,
       "name": "Gratid\u00e3o",
       "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 133333,
       "name": "Ora\u00e7\u00e3o II",
       "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Sem a Sua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "Clerick",
-          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
-        }
-      ],
-      "duration_ms": 185072,
-      "name": "Sem a Sua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 237108,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Sem a Sua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Clerick",
+          "url": "https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5"
+        }
+      ],
+      "duration_ms": 185072,
+      "name": "Sem a Sua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe"
     },
     {
       "added_at": "2026-02-06 03:01:19",

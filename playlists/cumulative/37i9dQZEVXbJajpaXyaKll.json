@@ -12472,7 +12472,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 229960,
       "name": "Eligete",
       "url": "https://open.spotify.com/track/2R32mSucWolCTZpK59BU6p"
@@ -12912,7 +12912,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -15348,6 +15348,10 @@
         {
           "name": "slimesanti",
           "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+        },
+        {
+          "name": "Slugwurf",
+          "url": "https://open.spotify.com/artist/7tycaAd6ORsVyo3zh7I09o"
         }
       ],
       "date_added": "2026-03-10",
@@ -19870,6 +19874,24 @@
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "L a k e n o s h i",
+      "url": "https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP"
     },
     {
       "album": {
@@ -29576,7 +29598,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 128966,
       "name": "Ojos de Angel",
       "url": "https://open.spotify.com/track/0q7oVQaFMPONqpPPWNT4pb"
@@ -34570,7 +34592,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207272,
       "name": "ROOM SERVICE",
       "url": "https://open.spotify.com/track/5Mv05nqkOs5QniXVPNqKA8"
@@ -43450,7 +43472,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 131579,
       "name": "Vero Buffone (SALAS)",
       "url": "https://open.spotify.com/track/5kgzcbURp9qugQBTfh3PSq"

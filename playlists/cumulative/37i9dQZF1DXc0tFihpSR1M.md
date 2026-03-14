@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-482 songs - 1 day 1 hr 4 min
+482 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 | 2025-08-14 | 2026-01-30 |
 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 | 2025-10-23 |  |
 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 | 2025-11-27 |  |
+| [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 | 2026-03-12 |  |
 | [Is It Over Now? \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/1Iq8oo9XkmmvCQiGOfORiz) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:49 | 2024-06-27 | 2024-11-02 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-07-01 |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2024-08-22 | 2024-11-02 |
@@ -441,7 +442,6 @@
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-20 | 2025-11-28 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-11-02 |
 | [Toscana](https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Toscana](https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q) | 2:46 | 2025-06-12 | 2025-06-27 |
-| [Track 1](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 0:00 | 2026-03-12 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2024-11-02 |
 | [Trophy](https://open.spotify.com/track/2JHpFobSp0WktxCod6MEIy) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 3:10 | 2025-11-27 | 2025-12-12 |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-02-07 |

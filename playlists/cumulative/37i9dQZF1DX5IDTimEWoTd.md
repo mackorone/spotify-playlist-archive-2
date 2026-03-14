@@ -4,7 +4,7 @@
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-320 songs - 18 hr 37 min
+321 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Real Estate](https://open.spotify.com/track/2VvTMIXG760UiG9OSiFt9j) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Real Estate](https://open.spotify.com/album/6nViscFT0UsASEnVlpObPI) | 3:36 | 2019-07-29\* | 2021-09-25 |
 | [Richest Man](https://open.spotify.com/track/4n27tJxtkJZzO3suIcec7F) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Richest Man](https://open.spotify.com/album/72u9K4DIF5swbFvBnvwXMc) | 3:26 | 2021-11-14 | 2021-11-14 |
 | [Run \(feat\. Ed Sheeran\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:00 | 2021-11-13 | 2025-12-07 |
-| [Say I Love You](https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Say I Love You](https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx) | 4:05 | 2025-12-29 |  |
+| [Say I Love You](https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Say I Love You](https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx) | 4:05 | 2025-12-29 | 2026-03-14 |
 | [Say You Love Me](https://open.spotify.com/track/2hcPE11xSLCNHt5PYidj5U) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Say You Love Me](https://open.spotify.com/album/5ibkHQmhFSGfaCqMT0z7QR) | 4:17 | 2019-07-29\* | 2022-04-20 |
 | [Scared Of Loving You](https://open.spotify.com/track/0rgSJ9SC0Q7HxH5vAL8Vct) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Scared Of Loving You](https://open.spotify.com/album/0pgXfNRJ9fVqCBFIFVgxXt) | 1:50 | 2025-02-14 | 2025-05-26 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-09-30 | 2024-04-19 |
@@ -327,6 +327,7 @@
 | [You Are In Love](https://open.spotify.com/track/4A2LfnduSTsE8u0ecYROxE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe Edition\)](https://open.spotify.com/album/34OkZVpuzBa9y40DCy0LPR) | 4:27 | 2023-08-11 | 2023-11-03 |
 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 | 2021-09-18 |  |
 | [Yours \- Wedding Edition](https://open.spotify.com/track/0vBMmF78QgtWY6dDNDPhbv) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi) | 3:36 | 2019-07-29\* | 2021-09-25 |
+| [zombies in love](https://open.spotify.com/track/3OALUo0A1DDVErBFISIFK0) | [paris jackson](https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e) | [zombies in love](https://open.spotify.com/album/3DFQ8WzwVsU6hMbggoYagr) | 2:53 | 2026-03-13 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-12 |  |
 
 \*This playlist was first scraped on 2019-07-29. Prior content cannot be recovered.

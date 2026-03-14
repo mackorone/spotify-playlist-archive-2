@@ -4,7 +4,7 @@
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-107 songs - 6 hr 31 min
+108 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Fire Meet Gasoline](https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:01 | 2023-07-28 |  |
 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 | 2026-01-31 |  |
 | [Flames](https://open.spotify.com/track/33IOhptvC2Qoy2UhjiHXLV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/3B8J3BMp7lMA5YR5bUXHGK) | 3:15 | 2023-07-28 |  |
-| [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 | 2023-07-28 |  |
+| [Floating Through Space](https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:57 | 2026-03-14 |  |
+| [Floating Through Space](https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Floating Through Space](https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t) | 2:57 | 2023-07-28 | 2026-03-14 |
 | [Genius \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:33 | 2023-07-28 |  |
 | [Gimme Love \(Reasonable Woman Version\)](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love \(Reasonable Woman Version\)](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 3:34 | 2023-09-15 |  |
 | [Gimme Love \- Armin van Buuren Remix – Radio Edit](https://open.spotify.com/track/2cuVIu6c6BHJiUcOXoEivN) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Gimme Love \(Armin van Buuren Remix\)](https://open.spotify.com/album/7EMCPnAtiom6pK0oTqufM5) | 3:27 | 2023-11-10 | 2023-12-14 |

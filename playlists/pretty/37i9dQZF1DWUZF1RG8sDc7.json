@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 162210,
+  "num_followers": 162231,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Vivo Pensando En Ti (feat. Maluma)",
-        "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "Vivo Pensando En Ti (feat. Maluma)",
-      "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "La 9a Batalla",
         "url": "https://open.spotify.com/album/6AZfPn4isPsjmq9c6jnAMb"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 214213,
       "name": "Loco Paranoico",
       "url": "https://open.spotify.com/track/6eyGmsEahNlvSUZBEa0rRw"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Vivo Pensando En Ti (feat. Maluma)",
+        "url": "https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "Vivo Pensando En Ti (feat. Maluma)",
+      "url": "https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -263,22 +263,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Titulo De Amor",
-        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
+        "name": "Ave Libre",
+        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
         }
       ],
-      "duration_ms": 257372,
-      "name": "Mi Primera Cana",
-      "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
+      "duration_ms": 293440,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -303,18 +299,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ave Libre",
-        "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
+        "name": "Titulo De Amor",
+        "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
       },
       "artists": [
         {
-          "name": "Jean Carlos Centeno",
-          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 293440,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/0kUMc8s2EwaOg0XAv5lCnA"
+      "duration_ms": 257372,
+      "name": "Mi Primera Cana",
+      "url": "https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI"
     },
     {
       "added_at": "2024-03-28 01:45:52",

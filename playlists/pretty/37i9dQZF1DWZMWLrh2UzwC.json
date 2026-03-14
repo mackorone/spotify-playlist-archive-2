@@ -1,12 +1,12 @@
 {
   "description": "New music from SIENNA SPIRO, Charlie Puth, Hikaru Utada, Hazama, Aina Abdul, Maher Zain, The Fabulous Cats, Ruffedge,  and more!",
-  "num_followers": 73268,
+  "num_followers": 73368,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObjUFpyBEqbbP4v/f3s5msdQNt4",
+  "snapshot_id": "AAAAADmBasfDw/+4duIQ3dxz+YY+x4Pk",
   "tracks": [
     {
       "added_at": "2026-03-12 16:00:03",
@@ -227,6 +227,54 @@
       "duration_ms": 159169,
       "name": "Restu Raya",
       "url": "https://open.spotify.com/track/6sAk01jVavSMzLWyY6mK5P"
+    },
+    {
+      "added_at": "2026-03-12 16:00:03",
+      "album": {
+        "name": "\u95ee\u4f60\u4e00\u4e2a\u4eba\u7c7b\u68a6\u5bd0\u4ee5\u6c42\u7684\u6df1\u5965\u95ee\u9898",
+        "url": "https://open.spotify.com/album/0lA6lWwLbSKZW24qfU2HY3"
+      },
+      "artists": [
+        {
+          "name": "Silence Wang",
+          "url": "https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60"
+        }
+      ],
+      "duration_ms": 285594,
+      "name": "\u95ee\u4f60\u4e00\u4e2a\u4eba\u7c7b\u68a6\u5bd0\u4ee5\u6c42\u7684\u6df1\u5965\u95ee\u9898",
+      "url": "https://open.spotify.com/track/7c822TiZbQoGVajcLHx6Ev"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/03OMdMTKelaOHZmnzpEL76"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/2mRdxTKPrdr5EISF2Xcnc1"
     },
     {
       "added_at": "2026-03-12 16:00:03",
@@ -525,6 +573,26 @@
       "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
     },
     {
+      "added_at": "2026-03-13 06:23:35",
+      "album": {
+        "name": "Doa Di Hari Raya",
+        "url": "https://open.spotify.com/album/3BUhi71zvXo82msE4MLtk1"
+      },
+      "artists": [
+        {
+          "name": "Suki & Alun Nara",
+          "url": "https://open.spotify.com/artist/67tm5A1YROVKYb60Jn0SCd"
+        },
+        {
+          "name": "Suki Low",
+          "url": "https://open.spotify.com/artist/5ZK1YCasWVI9DVQtxLRnYD"
+        }
+      ],
+      "duration_ms": 152308,
+      "name": "Doa Di Hari Raya",
+      "url": "https://open.spotify.com/track/5tjxssG16rSXRPg9urJmX3"
+    },
+    {
       "added_at": "2026-03-12 16:00:03",
       "album": {
         "name": "Dendang Dondang Raya",
@@ -556,8 +624,8 @@
           "url": "https://open.spotify.com/artist/2ToAlB9fmetQQ5xl6NaCBI"
         },
         {
-          "name": "Hemi",
-          "url": "https://open.spotify.com/artist/2MbAvke8Bf9bhqvc628qaN"
+          "name": "Helmi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
         },
         {
           "name": "Daenee",
@@ -570,6 +638,10 @@
         {
           "name": "Hafiz Suip",
           "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        },
+        {
+          "name": "DJ Ryn",
+          "url": "https://open.spotify.com/artist/7G5irhCf5CyU76z7OSaVj8"
         }
       ],
       "duration_ms": 218528,
@@ -615,6 +687,22 @@
       "duration_ms": 212400,
       "name": "Kangen Bali Ndeso",
       "url": "https://open.spotify.com/track/7vZDNZTw0a4sgc48JT83Ty"
+    },
+    {
+      "added_at": "2026-03-13 02:54:43",
+      "album": {
+        "name": "Ya Habibi Ya Muhammad",
+        "url": "https://open.spotify.com/album/4qpsA1udhe7DW9Twdhq9in"
+      },
+      "artists": [
+        {
+          "name": "Syed Iqbal",
+          "url": "https://open.spotify.com/artist/47xUKiYI5ZIf9vtn27XVNk"
+        }
+      ],
+      "duration_ms": 168161,
+      "name": "Ya Habibi Ya Muhammad",
+      "url": "https://open.spotify.com/track/0uPeRvxTItJbKrnB8ZBKFT"
     },
     {
       "added_at": "2026-03-12 16:00:03",
@@ -931,6 +1019,30 @@
       "duration_ms": 207360,
       "name": "Maaf Dan Gembira",
       "url": "https://open.spotify.com/track/24ZkQj1TSt1x51a3QW1tF0"
+    },
+    {
+      "added_at": "2026-03-12 16:00:03",
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
     },
     {
       "added_at": "2026-03-12 16:00:03",
@@ -1259,6 +1371,22 @@
       "duration_ms": 283127,
       "name": "\u7a7f\u68ad",
       "url": "https://open.spotify.com/track/7uwHlaqVgzvQVaIesvs0II"
+    },
+    {
+      "added_at": "2026-03-12 16:00:03",
+      "album": {
+        "name": "\u5931\u61b6\u6642\u518d\u6200\u611b\u4e00\u6b21",
+        "url": "https://open.spotify.com/album/1YKS4WMcz7llwhK9XIMiCx"
+      },
+      "artists": [
+        {
+          "name": "\u80e1\u5b78\u8ed2",
+          "url": "https://open.spotify.com/artist/46RW1SRnlVw3OzyxN8ikGf"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "\u5931\u61b6\u6642\u518d\u6200\u611b\u4e00\u6b21",
+      "url": "https://open.spotify.com/track/3D0ECtE2e8A6jE94fZZFKV"
     },
     {
       "added_at": "2026-03-12 16:00:03",

@@ -11921,6 +11921,28 @@
     },
     {
       "album": {
+        "name": "Sawaal (Acoustic)",
+        "url": "https://open.spotify.com/album/16YGKtfgHg1MoHV9oSaSqw"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152238,
+      "name": "Sawaal - Acoustic",
+      "url": "https://open.spotify.com/track/48kssygVRzLEGi5J6jOMNv"
+    },
+    {
+      "album": {
         "name": "Seen",
         "url": "https://open.spotify.com/album/3KrIqiaOZiTvA08vB7oSl5"
       },
@@ -14406,7 +14428,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 257763,
       "name": "Yaad Sajan Ki Aaye",
       "url": "https://open.spotify.com/track/5uf4WIA2QAQJhHUIzJinyH"
@@ -14638,7 +14660,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178217,
       "name": "Yeh Baatein",
       "url": "https://open.spotify.com/track/6C6jyPzRcFqtWEe0usEb59"
@@ -14966,6 +14988,32 @@
       "duration_ms": 288000,
       "name": "Zara Zara Sa",
       "url": "https://open.spotify.com/track/0gZ51rSozAPhKwPJxNvPH5"
+    },
+    {
+      "album": {
+        "name": "Zarii",
+        "url": "https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS"
+      },
+      "artists": [
+        {
+          "name": "rohh",
+          "url": "https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf"
+        },
+        {
+          "name": "Mr. Doss",
+          "url": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Zarii",
+      "url": "https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A"
     },
     {
       "album": {

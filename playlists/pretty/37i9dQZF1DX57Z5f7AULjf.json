@@ -1,12 +1,12 @@
 {
-  "description": "we outside all summer 2025!",
-  "num_followers": 9632,
+  "description": "we outside all summer 2026!",
+  "num_followers": 9640,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTcwzGpoyYMNA0yOf9EEP5DEFhR",
+  "snapshot_id": "AAAAACoNL2fdzOgddD7aammPXIWZYLnN",
   "tracks": [
     {
       "added_at": "2024-05-16 21:55:50",
@@ -525,6 +525,22 @@
       "url": "https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn"
     },
     {
+      "added_at": "2026-03-13 05:04:39",
+      "album": {
+        "name": "POP DAT THANG",
+        "url": "https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 138251,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
+    },
+    {
       "added_at": "2025-07-11 07:49:15",
       "album": {
         "name": "GLORIOUS",
@@ -903,26 +919,6 @@
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
-    },
-    {
-      "added_at": "2025-07-11 07:49:15",
-      "album": {
-        "name": "Dlow Curry",
-        "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 180064,
-      "name": "Mo Chicken (feat. French Montana)",
-      "url": "https://open.spotify.com/track/5pSpNlqyYsSjdVKdrxvgHn"
     }
   ],
   "unique_name": "We Outside!",

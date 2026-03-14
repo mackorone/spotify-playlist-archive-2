@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Peso Pluma, Tito Doble P & El Randal en portada.",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Mon Laferte en portada.",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 189019,
       "name": "/Lentes",
       "url": "https://open.spotify.com/track/1ur0gl2eeCUwzaO2iev7eP"
@@ -1028,6 +1028,28 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W"
     },
     {
       "album": {
@@ -7251,6 +7273,24 @@
     },
     {
       "album": {
+        "name": "FEMME FATALE (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258967,
+      "name": "Femme Fatale - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
+    },
+    {
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -8432,7 +8472,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 179858,
       "name": "intro",
       "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
@@ -9606,7 +9646,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -12326,6 +12366,24 @@
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "album": {

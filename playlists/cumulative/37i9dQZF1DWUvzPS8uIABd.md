@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-912 songs - 1 day 21 hr 31 min
+913 songs - 1 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-14 | 2024-11-29 |
 | [BIMBO](https://open.spotify.com/track/3wQlBmVJmrKAlsaeaMnHvu) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [BIMBO](https://open.spotify.com/album/1C2gXcSkhQCQE0epXs4Uvu) | 3:08 | 2025-09-11 | 2025-09-27 |
 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 | 2025-08-21 | 2025-10-24 |
+| [Boom Kah 2.0](https://open.spotify.com/track/4we0IaQqOwFJlYIiCKvVFt) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [2.0](https://open.spotify.com/album/1U8b3ii7rGYjIHLSbenp4d) | 2:55 | 2026-03-13 |  |
 | [bändipaita](https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [bändipaita](https://open.spotify.com/album/59qcRtqY5mkcUdlPqqGBAC) | 2:46 | 2025-01-26 | 2025-04-04 |
 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 | 2024-08-09 | 2024-10-11 |
 | [Carolina Herrera \(feat\. VilleGalle\)](https://open.spotify.com/track/5mBwJ2eCKsY4iCk7W7Jbln) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Carolina Herrera \(feat\. VilleGalle\)](https://open.spotify.com/album/18gxa8D3F2DP27Hax1rBPC) | 3:01 | 2026-01-29 |  |
@@ -620,7 +621,7 @@
 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 | 2024-10-24 | 2024-12-06 |
 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 | 2025-09-18 | 2025-10-17 |
 | [Rakkaudenkipee](https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Rakkaudenkipee](https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7) | 2:54 | 2026-01-23 |  |
-| [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 | 2025-10-23 | 2026-03-13 |
+| [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 | 2025-10-23 |  |
 | [Rakkaus on sokea \(feat\. Senni\)](https://open.spotify.com/track/3xhaHaYHk2W3iF0oZYaqDO) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Rakkaus on sokea \(feat\. Senni\)](https://open.spotify.com/album/1BlVmzKtkoV7M1zxsKtUJc) | 2:44 | 2025-09-04 | 2025-11-21 |
 | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7FUgrkjZ2S7YYeXGvaFlsn) | 3:15 | 2025-10-09 | 2026-02-13 |
 | [RANDOM](https://open.spotify.com/track/05e4kdlalqyXn9FhpYJQ9F) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [RANDOM](https://open.spotify.com/album/7AF9dwF6qTEZ5RRdsgiENM) | 3:01 | 2024-11-28 | 2024-12-13 |
@@ -725,7 +726,7 @@
 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 | 2026-02-05 |  |
 | [Sydän jää](https://open.spotify.com/track/4NCzngmY9wuWRbf0QF2IWd) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Sydän jää](https://open.spotify.com/album/4d1Icw9EaPTDtOLXqoC8w8) | 3:13 | 2024-12-05 | 2025-01-03 |
 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 | 2025-11-20 |  |
-| [sydän sydän sydän](https://open.spotify.com/track/6l1fgYZ3PCGFe35VAAbkHC) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [sydän sydän sydän](https://open.spotify.com/album/2W0jJtaPFSSmzZtG0geJHX) | 2:31 | 2025-10-16 |  |
+| [sydän sydän sydän](https://open.spotify.com/track/6l1fgYZ3PCGFe35VAAbkHC) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [sydän sydän sydän](https://open.spotify.com/album/2W0jJtaPFSSmzZtG0geJHX) | 2:31 | 2025-10-16 | 2026-03-14 |
 | [Syksyn vihreillä \(Vain elämää kausi 16\)](https://open.spotify.com/track/6liFqpyes9OpIn3tckbDwc) | [Mikki Kauste](https://open.spotify.com/artist/6Zvt6lXGUh6xVlTAl1ezwo) | [Syksyn vihreillä \(Vain elämää kausi 16\)](https://open.spotify.com/album/4byckd09eAWeHXHpKdzCEL) | 3:35 | 2025-10-09 | 2025-10-17 |
 | [Syli](https://open.spotify.com/track/6su7guuWR0ACqhs10IcAq7) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Ihminen](https://open.spotify.com/album/6BNDHDMelqp039ZuccA9N0) | 3:34 | 2024-08-29 | 2024-11-08 |
 | [Synnytty saunomaan](https://open.spotify.com/track/6rtBssnmtGi5ZaZxQLicU1) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Synnytty saunomaan](https://open.spotify.com/album/2OkjxObzS1eCU44DHAxQjK) | 2:39 | 2024-07-02 | 2024-07-19 |
@@ -768,7 +769,7 @@
 | [Tinasormus \(feat\. Janne Hurme\)](https://open.spotify.com/track/5O76Qhhq088kM5g0RxT3Tp) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k), [Janne Hurme](https://open.spotify.com/artist/3zxooYS5gwpE15xpjX0N1A) | [Tinasormus \(feat\. Janne Hurme\)](https://open.spotify.com/album/105mwQbyQbZUMxxKlS1sRk) | 3:12 | 2024-07-02 | 2024-07-19 |
 | [Tirehtööri](https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Tirehtööri](https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6) | 2:43 | 2024-07-04 | 2024-08-23 |
 | [Todisteit](https://open.spotify.com/track/02bqxfiXyjrAW9csuJMH7u) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Todisteit](https://open.spotify.com/album/7vQVK8d4GCK6yOyC8EOqIX) | 2:15 | 2025-08-28 | 2025-09-19 |
-| [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 | 2026-01-08 |  |
+| [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 | 2026-01-08 | 2026-03-14 |
 | [Toinen elämä](https://open.spotify.com/track/1xjMgO7IMiuvekfNwreG1d) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Toinen elämä](https://open.spotify.com/album/0IFurHEXIkIdwKJND4lChq) | 2:56 | 2025-12-11 | 2026-01-18 |
 | [Toisessa elämässä](https://open.spotify.com/track/7jLUZ7Hah28SRrs3NDugpD) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Toisessa elämässä](https://open.spotify.com/album/18WuSJbT1qsfVHcfBcLHlV) | 3:29 | 2025-04-10 | 2025-05-30 |
 | [Toisillemme parhaat](https://open.spotify.com/track/5B3Meo3iNYMrfl8C328Ue1) | [Juha Tapio](https://open.spotify.com/artist/7yD78gcA2QR0sRQM4Lj7sM) | [Toisillemme parhaat](https://open.spotify.com/album/4ij7IXe5wYI18zemE35eBJ) | 4:04 | 2026-01-08 | 2026-01-20 |

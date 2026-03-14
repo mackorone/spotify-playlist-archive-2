@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 75374,
+  "num_followers": 75378,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACqxo7bnhGavgI7pxSLuCRt",
+  "snapshot_id": "abICAAAAAACvARBqnKmesamcRM5BopeE",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+        "name": "24:7",
+        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 286500,
-      "name": "Falsos Sentimientos",
-      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
+      "duration_ms": 181511,
+      "name": "24:7",
+      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24:7",
-        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 181511,
-      "name": "24:7",
-      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Dos Caras Del Amor",
         "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
       },
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
+      "duration_ms": 286500,
+      "name": "Falsos Sentimientos",
+      "url": "https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEYENDA DELUXE",
         "url": "https://open.spotify.com/album/7ywMhF2YkS01uWLrdNBvoU"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": null,

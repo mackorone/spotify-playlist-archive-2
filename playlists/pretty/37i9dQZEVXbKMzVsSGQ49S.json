@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43432,
+  "num_followers": 43431,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MUYiwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MUd0QAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "T\u00fdnda kynsl\u00f3\u00f0in",
         "url": "https://open.spotify.com/album/3w7xfxhGm57qXcOAlClmty"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/3XggbP91AwAoSsVHpwS0FV"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "\u00cdslenski draumurinn",
         "url": "https://open.spotify.com/album/5z5KYSkxzw2AalpJVLxSya"
@@ -53,7 +53,23 @@
       "url": "https://open.spotify.com/track/2gXAPQRBr1WWqJos2EaXzM"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 153472,
+      "name": "\u00de \u00fa E r t E k k i H \u00e9 r",
+      "url": "https://open.spotify.com/track/5pl3OZYsyAb9DYhnV8y0o0"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -69,23 +85,35 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+        "name": "Ekkert anna\u00f0",
+        "url": "https://open.spotify.com/album/48aFwDnxVBS2z9Kec00VlA"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Kristjan Saenz",
+          "url": "https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR"
+        },
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        },
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "T\u00f3nhylur Akadem\u00eda",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
         }
       ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+      "duration_ms": 166497,
+      "name": "Ekkert anna\u00f0",
+      "url": "https://open.spotify.com/track/2cFFOz7PgM2cwjK9rtXsAl"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -101,7 +129,23 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -121,39 +165,23 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "\u00deessum bar",
-        "url": "https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd"
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
       },
       "artists": [
         {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
         }
       ],
-      "duration_ms": 143632,
-      "name": "\u00deessum bar",
-      "url": "https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU"
+      "duration_ms": 182000,
+      "name": "L a y l o w",
+      "url": "https://open.spotify.com/track/077JxDCa49S20cOweSEHqF"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -169,7 +197,7 @@
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -185,7 +213,7 @@
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -201,7 +229,71 @@
       "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "\u00deessum bar",
+        "url": "https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        }
+      ],
+      "duration_ms": 143632,
+      "name": "\u00deessum bar",
+      "url": "https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 147218,
+      "name": "H e l g a r n a r U p p t e k n a r",
+      "url": "https://open.spotify.com/track/1Lp46ZxQTvzqod2vfMNp4V"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "E n g u N e m a S k \u00f3 m",
+      "url": "https://open.spotify.com/track/7ygPp81GhWM2DlLfaq5xZW"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -217,87 +309,7 @@
       "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -313,7 +325,23 @@
       "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -329,23 +357,7 @@
       "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -361,43 +373,7 @@
       "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        },
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Vopn",
-      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -413,7 +389,103 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 171176,
+      "name": "T i l f i n n i n g a v e r a",
+      "url": "https://open.spotify.com/track/7vyradNdK9TtD265LOzdS2"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 131555,
+      "name": "S e n d u A d d y",
+      "url": "https://open.spotify.com/track/0nC9EdCOwAedhYiTvzI9Ij"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "100&EINN",
         "url": "https://open.spotify.com/album/7CPUbHHNkEsGLZ9WJ5Lq97"
@@ -433,87 +505,7 @@
       "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 160400,
-      "name": "Ready, Steady, Go!",
-      "url": "https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Taste Back",
-      "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Miklu betri einn",
-        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
-      },
-      "artists": [
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Miklu betri einn",
-      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -529,7 +521,139 @@
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Vopn",
+      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Ready, Steady, Go!",
+      "url": "https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
+      "album": {
+        "name": "ORS\u00d6K // AFLEI\u00d0ING",
+        "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "duration_ms": 173367,
+      "name": "\u00d3 \u00fe o l i n m \u00f3 \u00f0",
+      "url": "https://open.spotify.com/track/3W7WrhQ5aivtYAHxUqEGXR"
+    },
+    {
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -549,7 +673,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "888",
         "url": "https://open.spotify.com/album/0itfzvyriZetJjnT2fB7F3"
@@ -569,55 +693,7 @@
       "url": "https://open.spotify.com/track/2q0M0YWEPjyjCjaZcJFQkk"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
@@ -633,39 +709,23 @@
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 216026,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -681,55 +741,39 @@
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "LXS",
-      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
@@ -740,12 +784,12 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 192400,
-      "name": "Are You Listening Yet?",
-      "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
+      "duration_ms": 221653,
+      "name": "Taste Back",
+      "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -761,108 +805,52 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "Ampast upp",
-        "url": "https://open.spotify.com/album/6NIPZYQV3ML5WX6EqgrQjU"
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
       },
       "artists": [
         {
-          "name": "HelgiT",
-          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
         }
       ],
-      "duration_ms": 172143,
-      "name": "Ampast upp",
-      "url": "https://open.spotify.com/track/2kpPpLcwaJcckKuezAITKV"
+      "duration_ms": 212520,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 194607,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+      "duration_ms": 216026,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
     },
     {
-      "added_at": "2026-03-12 14:10:32",
+      "added_at": "2026-03-13 20:55:18",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "Lj\u00f3sin Kvikna",
-        "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
-      },
-      "artists": [
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        },
-        {
-          "name": "Alaska1867",
-          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
-        },
-        {
-          "name": "\u00deorm\u00f3\u00f0ur",
-          "url": "https://open.spotify.com/artist/7FrCdnjdjijkh1eXx1P3Uv"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Lj\u00f3sin Kvikna",
-      "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
-    },
-    {
-      "added_at": "2026-03-12 14:10:32",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     }
   ],
   "unique_name": "Top 50 - Iceland",

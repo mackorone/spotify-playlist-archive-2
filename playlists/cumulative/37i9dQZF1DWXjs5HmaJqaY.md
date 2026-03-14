@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-377 songs - 1 day 10 hr 50 min
+378 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [ce n'est pas la réalité \(perlonesque\)](https://open.spotify.com/track/3ZtfkDYaF4M61uNvjCbIni) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj), [Drea Perlon](https://open.spotify.com/artist/66z8ifbUF6uMEg6X44vXbw) | [Ce n'est pas la réalité EP](https://open.spotify.com/album/7HLoHa6qc7E47t9EwBxHKv) | 6:26 | 2024-10-28 | 2025-06-28 |
 | [Cedes](https://open.spotify.com/track/3gCqPq2W4Soe7v8QTor0mN) | [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Cedes](https://open.spotify.com/album/7vqjuCQYlcv1LRMqNmXJxl) | 6:36 | 2022-09-16 | 2023-10-28 |
 | [Cee](https://open.spotify.com/track/3uH4GSjsQRDnvdQQCHCXD3) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8) | [Cee](https://open.spotify.com/album/0984f8nBVFnUqEebp5bFLg) | 5:11 | 2023-10-27 | 2023-12-09 |
+| [Chanji](https://open.spotify.com/track/0JWNZUUdtsve3VvAVNgqcx) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Chanji](https://open.spotify.com/album/1hIhXKDt6u9KHEI6oIfLr4) | 3:36 | 2026-03-13 |  |
 | [Chezana \- Extended Mix](https://open.spotify.com/track/2mZQeDBnroSHx2QIUB2Cv1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Chezana](https://open.spotify.com/album/3eupXugfZMOCkZmaR2vgI9) | 4:48 | 2026-02-06 | 2026-02-21 |
 | [Clearer Mind](https://open.spotify.com/track/2ELTcPtYTXaQC5OruwrOSi) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Clearer Mind](https://open.spotify.com/album/0wipOv3FjBQlbpXef5YQ4a) | 7:29 | 2024-10-28 | 2025-02-15 |
 | [Clearer Mind \- Black Hertz Remix](https://open.spotify.com/track/3gHBZ1PC2eGe9U9rV1pIra) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs), [Black Hertz](https://open.spotify.com/artist/6obt1A8AjcidwQPqqIU2fb) | [Clearer Mind \(Black Hertz Remix\)](https://open.spotify.com/album/4K6KXls8ZoXPNoGeXnACqy) | 7:37 | 2025-08-08 | 2025-12-23 |

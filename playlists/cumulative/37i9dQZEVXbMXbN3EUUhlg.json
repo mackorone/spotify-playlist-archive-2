@@ -12974,7 +12974,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 121846,
       "name": "Eu Vou Cuspir",
       "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW"
@@ -25082,7 +25082,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 145491,
       "name": "OLHO MARROM - Ao Vivo em Lisboa",
       "url": "https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg"
@@ -27846,7 +27846,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207520,
       "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
@@ -31272,6 +31272,64 @@
       "duration_ms": 548593,
       "name": "Semi Nua",
       "url": "https://open.spotify.com/track/3umoKiuIgHFDaboDpRn6BB"
+    },
+    {
+      "album": {
+        "name": "Semi Nua 2",
+        "url": "https://open.spotify.com/album/57nkN6ENnsejnJDhCeJHnB"
+      },
+      "artists": [
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "MC RN do Cap\u00e3o",
+          "url": "https://open.spotify.com/artist/0ktgQZv6VIj48TP9VupyFB"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655238,
+      "name": "Semi Nua 2",
+      "url": "https://open.spotify.com/track/4mWvUyxAax81We11pYY4up"
     },
     {
       "album": {

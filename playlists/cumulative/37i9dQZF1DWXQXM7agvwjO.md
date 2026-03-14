@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Thee Marloes \(Indonesia\)
 
-2,448 songs - 6 day 4 hr 29 min
+2,449 songs - 6 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2442,6 +2442,7 @@
 | [長夜賽跑 Nights](https://open.spotify.com/track/0DTfdzLVkHO4Mjv8IiF7xs) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:56 | 2024-10-24 | 2024-11-16 |
 | [門](https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 4:45 | 2022-04-28 | 2022-05-07 |
 | [離岸 Au large](https://open.spotify.com/track/6cwbPYiNaj2hDD8hg1yKih) | [荒山茉莉 Molly in Mountain](https://open.spotify.com/artist/5D8hVSWaIaFmwFpC5y6asU) | [離岸 Au large](https://open.spotify.com/album/2RHqx0jvKQlwhJThxdTvQM) | 4:26 | 2025-03-13 | 2025-03-21 |
+| [難道要等收到通知那天我才走](https://open.spotify.com/track/3q1zZvMyxpDdVqCIt3wbLg) | [Dale](https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs) | [難道要等收到通知那天我才走](https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa) | 3:21 | 2026-03-12 |  |
 | [雪國](https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [雪國](https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY) | 9:04 | 2025-12-07 | 2026-01-23 |
 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-22 | 2023-08-04 |
 | [飛咯](https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [空中飛人](https://open.spotify.com/album/5T6ErFoPoKV9UEmrLePRp5) | 4:25 | 2024-09-12 | 2024-12-07 |

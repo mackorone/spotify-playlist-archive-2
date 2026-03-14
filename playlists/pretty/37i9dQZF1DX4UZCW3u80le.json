@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 261715,
+  "num_followers": 261928,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk"
     },
     {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 278573,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
-    },
-    {
       "added_at": "2024-12-27 16:37:04",
       "album": {
         "name": "Cassie (U.S. Version)",
@@ -903,6 +887,22 @@
       "duration_ms": 192213,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 278573,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "The Papercut Chronicles",
         "url": "https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 243773,
       "name": "Cupid's Chokehold / Breakfast in America",
       "url": "https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2215,30 +2215,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
-      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "So Blu",
         "url": "https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU"
       },
@@ -2291,22 +2267,26 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         },
         {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Goodies (feat. Petey Pablo)",
-      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+      "duration_ms": 189693,
+      "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
+      "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2323,6 +2303,26 @@
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Goodies (feat. Petey Pablo)",
+      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
     },
     {
       "added_at": "2024-07-12 20:54:16",

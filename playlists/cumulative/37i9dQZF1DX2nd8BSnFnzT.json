@@ -890,7 +890,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 153425,
       "name": "ANTICORPOS",
       "url": "https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9"
@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 215125,
       "name": "Desde Que Eu Morri",
       "url": "https://open.spotify.com/track/485DVlRqkWddYmWvXW3HaS"
@@ -3446,6 +3446,24 @@
       "duration_ms": 161555,
       "name": "Estaremos L\u00e1",
       "url": "https://open.spotify.com/track/7dconKFCaOUIKJhiQ5dsqL"
+    },
+    {
+      "album": {
+        "name": "Et\u00e9reo",
+        "url": "https://open.spotify.com/album/4cC2ZLjqDWU4MFI1vP9ca5"
+      },
+      "artists": [
+        {
+          "name": "Carvel",
+          "url": "https://open.spotify.com/artist/1EkD4MU0DeLqWp7kBWaxDI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204032,
+      "name": "Et\u00e9reo",
+      "url": "https://open.spotify.com/track/5GN0aHPMWtoIVM8yqisEie"
     },
     {
       "album": {
@@ -5773,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Medo",
+        "url": "https://open.spotify.com/album/27By7SFafQ60MkQjPIwIxb"
+      },
+      "artists": [
+        {
+          "name": "Inimigos Do Rei",
+          "url": "https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/757ngUc1wC8VWyEMzivOv9"
+    },
+    {
+      "album": {
         "name": "Melhor Fingir",
         "url": "https://open.spotify.com/album/0ek1smYwF8dc5kvkhfPPlA"
       },
@@ -7000,7 +7036,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 277880,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/7MxbNDAKn4S7JcooB23sdz"
@@ -9252,6 +9288,24 @@
       "duration_ms": 232831,
       "name": "Rouca",
       "url": "https://open.spotify.com/track/59Fp36OwfUVP7y2iqhUIHV"
+    },
+    {
+      "album": {
+        "name": "R\u00e1dio Love Nacional",
+        "url": "https://open.spotify.com/album/1xkaz4CYpvhnsHAHBlmqRv"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179846,
+      "name": "R\u00e1dio Love Nacional",
+      "url": "https://open.spotify.com/track/4FvLxCjHYdTUKlCPRtXhrc"
     },
     {
       "album": {

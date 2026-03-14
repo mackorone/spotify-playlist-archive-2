@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72400,
+  "num_followers": 72405,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADi0nfA3YWMo1qeJtpezS7B",
+  "snapshot_id": "abICAAAAAADgQR2UCn8yCwEd9ZK9QmwS",
   "tracks": [
     {
       "added_at": null,
@@ -311,30 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Move It (Rapidin)",
-        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Move It (Rapidin)",
-      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
       },
@@ -359,6 +335,30 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move It (Rapidin)",
+        "url": "https://open.spotify.com/album/2uhhsCLGQatdRgvQ2EUHDq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "GIACOBBI",
+          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Move It (Rapidin)",
+      "url": "https://open.spotify.com/track/6bCMF1MSZ66MvLR1vy3TBS"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher Off The Ground",
-        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 185850,
-      "name": "Higher Off The Ground",
-      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher Off The Ground",
+        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "Higher Off The Ground",
+      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -975,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now I See You",
         "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
       },
@@ -1027,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Follow You",
-        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
       },
       "artists": [
         {
@@ -1036,13 +1012,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
         }
       ],
-      "duration_ms": 219374,
-      "name": "I'll Follow You",
-      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": null,
@@ -1091,6 +1071,26 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Follow You",
+        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "I'll Follow You",
+      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
     },
     {
       "added_at": null,

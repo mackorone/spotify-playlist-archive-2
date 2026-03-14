@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 389130,
+  "num_followers": 389216,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 177853,
-      "name": "Supe Perder",
-      "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 177853,
+      "name": "Supe Perder",
+      "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 220586,
       "name": "Due\u00f1o de Ti",
       "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "A Traves De Tus Ojos",
         "url": "https://open.spotify.com/album/2CNKHF4q2lMtl6Lem9zOxJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 286013,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
+        "name": "Mil Heridas",
+        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/6Xz3loQRKnqGKzq43ihYDH"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 185338,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/1fyqMU7H0lnxhCjAgy7OBT"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
-        "name": "Mil Heridas",
-        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Mil Heridas",
-      "url": "https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Acu\u00e9rdate de Mi",
         "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 184743,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Te Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "10 De Coleccion",
         "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 208533,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Sobre Los Rieles",
-        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 143426,
-      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Hoy y Siempre",
         "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 197573,
       "name": "Mujer infiel",
       "url": "https://open.spotify.com/track/6UVkP7C83ln9B3JbPPChDs"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Sobre Los Rieles",
+        "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 143426,
+      "name": "Por Qu\u00e9 Nos Dijimos Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1U50yJZvm9My8sQHQBjSAd"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Do\u00f1a Juana (Huapango)",
-        "url": "https://open.spotify.com/album/6DurAAmduojuwozoW2CFMT"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Bravo de Marcelo Vega",
-          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
-        }
-      ],
-      "duration_ms": 192286,
-      "name": "Do\u00f1a Juana - Huapango",
-      "url": "https://open.spotify.com/track/7chXMhihh8QPthkDUOWmpQ"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 187000,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Do\u00f1a Juana (Huapango)",
+        "url": "https://open.spotify.com/album/6DurAAmduojuwozoW2CFMT"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Bravo de Marcelo Vega",
+          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
+        }
+      ],
+      "duration_ms": 192286,
+      "name": "Do\u00f1a Juana - Huapango",
+      "url": "https://open.spotify.com/track/7chXMhihh8QPthkDUOWmpQ"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "TRR TAC TAC",
-        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        },
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
         }
       ],
-      "duration_ms": 187000,
-      "name": "TRR TAC TAC",
-      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
+      "duration_ms": 177133,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1791,18 +1787,22 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
+        "name": "TRR TAC TAC",
+        "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        },
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
         }
       ],
-      "duration_ms": 177133,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
+      "duration_ms": 187000,
+      "name": "TRR TAC TAC",
+      "url": "https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 210932,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Y Sigue La Mata Dando",
         "url": "https://open.spotify.com/album/1YJgoSpEeSlbQwDiZ5xcE5"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 198186,
       "name": "La Burbuja",
       "url": "https://open.spotify.com/track/1sk0LP75QkHk9xCgBQiA82"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
     },
     {
       "added_at": "2026-01-21 19:40:02",

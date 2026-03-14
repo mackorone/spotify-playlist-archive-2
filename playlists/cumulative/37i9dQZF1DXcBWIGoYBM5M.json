@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The hottest 50. Cover: Harry Styles",
+  "description": "The hottest 50. Cover: PinkPantheress & Zara Larsson",
   "name": "Today\u2019s Top Hits",
   "tracks": [
     {
@@ -1756,6 +1756,24 @@
       "duration_ms": 175873,
       "name": "Baby, I'm Jealous (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/2fTdRdN73RgIgcUZN33dvt"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "album": {
@@ -6284,7 +6302,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182038,
       "name": "Dying for You",
       "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
@@ -18457,6 +18475,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "album": {
         "name": "positions",
         "url": "https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi"
       },
@@ -23640,7 +23676,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"

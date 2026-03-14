@@ -1,13 +1,33 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10563,
+  "num_followers": 10568,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABPySaU2CwIDqniVKC3Me0N",
+  "snapshot_id": "abICAAAAAACyUlpHDzPEC8TKHTVcl/RY",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/7t12Rhed8d7zykllMM4LAP"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        }
+      ],
+      "duration_ms": 330357,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/5TeXJKyo0LtmAUoXMPJGgT"
+    },
     {
       "added_at": null,
       "album": {
@@ -371,6 +391,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
+        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Susan Bickley",
+          "url": "https://open.spotify.com/artist/525YYvT2o5JaJjaHYu9FnY"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Vladimir Mendelssohn",
+          "url": "https://open.spotify.com/artist/2p9DzY7yWnB8nvuMQQgQ3r"
+        }
+      ],
+      "duration_ms": 350626,
+      "name": "Es sang vor langen Jahren",
+      "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"Cold Landscapes - Minimalism\"",
         "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
       },
@@ -419,34 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
-        "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Susan Bickley",
-          "url": "https://open.spotify.com/artist/525YYvT2o5JaJjaHYu9FnY"
-        },
-        {
-          "name": "Gidon Kremer",
-          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
-        },
-        {
-          "name": "Vladimir Mendelssohn",
-          "url": "https://open.spotify.com/artist/2p9DzY7yWnB8nvuMQQgQ3r"
-        }
-      ],
-      "duration_ms": 350626,
-      "name": "Es sang vor langen Jahren",
-      "url": "https://open.spotify.com/track/3TauBOYLjym8k2aVkDi0f0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Kanon Pokajanen",
         "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
       },
@@ -467,6 +487,30 @@
       "duration_ms": 432626,
       "name": "Kanon Pokajanen: Ode IV",
       "url": "https://open.spotify.com/track/1pfJFjjsDj99ZyRSUvLlWA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "Alleluia-Tropus",
+      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
     },
     {
       "added_at": null,
@@ -515,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "Alleluia-Tropus",
-      "url": "https://open.spotify.com/track/2XxBIrPBjZwnTfymyPdY2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: Berliner Messe; Magnificat; Annum per Annum; 7 Antiphons",
         "url": "https://open.spotify.com/album/7ghHg8jDEhYfXDRIXgbHY0"
       },
@@ -559,6 +579,26 @@
       "duration_ms": 206240,
       "name": "Berliner Messe: I. Kyrie",
       "url": "https://open.spotify.com/track/7IcX4mmOHx4ugKiciQrFxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
     },
     {
       "added_at": null,
@@ -607,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -655,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 43093,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
-      "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
         "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 374506,
       "name": "Cantus In Memoriam Benjamin Britten",
       "url": "https://open.spotify.com/track/6xhdFuQlw21DneMX61FEH4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 43093,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 1, Der gestiefelte Kater",
+      "url": "https://open.spotify.com/track/36pkX1bhz1EApdfbgQot2T"
     },
     {
       "added_at": null,
@@ -744,29 +764,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Veni creator",
-      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 97693,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
-      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
+      "duration_ms": 449386,
+      "name": "Littlemore Tractus",
+      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
       "duration_ms": 296986,
       "name": "Most Holy Mother of God",
       "url": "https://open.spotify.com/track/1dfc3iE4B7OTMAwLYFYYCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 97693,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 2: II. Largo",
+      "url": "https://open.spotify.com/track/486ITCjYC1j3Im204D1ufN"
     },
     {
       "added_at": null,
@@ -836,29 +856,9 @@
           "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
         }
       ],
-      "duration_ms": 449386,
-      "name": "Littlemore Tractus",
-      "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Cold Landscapes - Minimalism\"",
-        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 105973,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
-      "url": "https://open.spotify.com/track/4V7MrRNDrlco73oxU09tgz"
+      "duration_ms": 177626,
+      "name": "Veni creator",
+      "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
       "duration_ms": 71613,
       "name": "Mommy\u2019s Kiss",
       "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Cold Landscapes - Minimalism\"",
+        "url": "https://open.spotify.com/album/0UOKRr3DWhoWazgZZRiePF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 105973,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 2, Rotk\u00e4ppchen",
+      "url": "https://open.spotify.com/track/4V7MrRNDrlco73oxU09tgz"
     },
     {
       "added_at": null,
@@ -1003,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
+        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alessio Bax",
+          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
+        }
+      ],
+      "duration_ms": 148946,
+      "name": "P\u00e4rt: P\u00e4rt: F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes of Time",
         "url": "https://open.spotify.com/album/4L6fXZsOgSlkFmHKy6d3Qt"
       },
@@ -1023,26 +1063,6 @@
       "duration_ms": 621160,
       "name": "Spiegel im Spiegel",
       "url": "https://open.spotify.com/track/5hADOw1WHlKQRSysOoGkUj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serenity - The Beauty Of Arvo P\u00e4rt",
-        "url": "https://open.spotify.com/album/2slVvUjwkOhGauBGyTaByY"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alessio Bax",
-          "url": "https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur"
-        }
-      ],
-      "duration_ms": 148946,
-      "name": "P\u00e4rt: P\u00e4rt: F\u00fcr Alina",
-      "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
     },
     {
       "added_at": null,
@@ -1071,26 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
-      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Symphonies",
         "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
       },
@@ -1111,6 +1111,26 @@
       "duration_ms": 488706,
       "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
       "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
+      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
     },
     {
       "added_at": null,
@@ -1159,26 +1179,6 @@
       "duration_ms": 300360,
       "name": "Summa",
       "url": "https://open.spotify.com/track/3QhZeB8kHijuxEMcWdVA5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silentium",
-        "url": "https://open.spotify.com/album/0yy8tXDKjL8JG9AD99MDwQ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Camerata RCO",
-          "url": "https://open.spotify.com/artist/7oeMiCBtLMf4mMrqezpyVj"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Vater Unser (Arr. for trombone & string ensemble)",
-      "url": "https://open.spotify.com/track/0mslCUgV2EULxe5BhwYHaU"
     }
   ],
   "unique_name": "This Is Arvo P\u00e4rt (2)",

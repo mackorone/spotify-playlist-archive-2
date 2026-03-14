@@ -338,7 +338,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 166732,
       "name": "A La Vont\u00e9",
       "url": "https://open.spotify.com/track/2rXustr9hFP9YS5Mea76Zz"
@@ -4273,6 +4273,28 @@
     },
     {
       "album": {
+        "name": "Discoteca",
+        "url": "https://open.spotify.com/album/7tIAvslj952cLo668DGrW0"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "DEPARTAMENTO",
+          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "Discoteca",
+      "url": "https://open.spotify.com/track/5WKcAFV79qEy6X0nO5LR0c"
+    },
+    {
+      "album": {
         "name": "Discoteka",
         "url": "https://open.spotify.com/album/54fmNFU9dyORi1EsiEAlwP"
       },
@@ -6854,7 +6876,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 164308,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/00wJPHKCBlCTUxP6KuVSiT"
@@ -7871,6 +7893,24 @@
     },
     {
       "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0"
+    },
+    {
+      "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/24dDMPMYRguIBsTctAyBpq"
       },
@@ -8092,6 +8132,32 @@
       "duration_ms": 158769,
       "name": "I Have No Memories About Last Night",
       "url": "https://open.spotify.com/track/3PCwzUurtmTNr2PDAiKH8A"
+    },
+    {
+      "album": {
+        "name": "I Need It EP",
+        "url": "https://open.spotify.com/album/4QSB3qMBbBKqKpEYhIU0Rd"
+      },
+      "artists": [
+        {
+          "name": "OMRI.",
+          "url": "https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Dafna Shilon",
+          "url": "https://open.spotify.com/artist/0jyu6IcbLyw4jquWqpFOm7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227419,
+      "name": "I Need It",
+      "url": "https://open.spotify.com/track/7o3jM57QPtAg6kKnPccUoi"
     },
     {
       "album": {
@@ -9758,7 +9824,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 419032,
       "name": "Le Souffle - ZAC Remix",
       "url": "https://open.spotify.com/track/20RVBE6G67qWLnoxwNzJQl"
@@ -10344,7 +10410,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 219023,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
@@ -10824,7 +10890,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 132923,
       "name": "Me Faz Um Favor",
       "url": "https://open.spotify.com/track/3l5syz1VxdxHxkMy1rpCWn"
@@ -13232,6 +13298,28 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/0UIjAq9gharNaW5yvAvZmR"
+      },
+      "artists": [
+        {
+          "name": "SUBB",
+          "url": "https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r"
+        },
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184687,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7u1EwvSf49NKzHtsQwwGCl"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/6fCHi7wzMEBBFWo3ot2tat"
       },
       "artists": [
@@ -14670,6 +14758,32 @@
       "duration_ms": 220009,
       "name": "Se Que Quiere",
       "url": "https://open.spotify.com/track/6lG1GtM6FvL18EvOVQELC8"
+    },
+    {
+      "album": {
+        "name": "Second Floor (INNDRIVE, No One Knows Remix)",
+        "url": "https://open.spotify.com/album/4eX0GkZOPqPY33De94zbFa"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        },
+        {
+          "name": "No One Knows",
+          "url": "https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190153,
+      "name": "Second Floor - INNDRIVE, No One Knows Remix",
+      "url": "https://open.spotify.com/track/09veQ66M2bhxVjmK2YK7Ab"
     },
     {
       "album": {

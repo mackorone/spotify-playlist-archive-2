@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Latin music bangers for your gaming session! SOFI TUKKER & J Balvin on cover",
+  "description": "Latin music bangers for your gaming session! PEDRO SAMPAIO & El Bogueto on cover",
   "name": "Latin Gaming",
   "tracks": [
     {
@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "ATORRANTE",
+        "url": "https://open.spotify.com/album/0NilRVKhvokI2BJAVx564Y"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181673,
+      "name": "ATORRANTE",
+      "url": "https://open.spotify.com/track/3G5jq3h1jqx5kcvx6aalwK"
+    },
+    {
+      "album": {
         "name": "Los Campeones del Pueblo \"The Big Leagues\"",
         "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
       },
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 146206,
       "name": "Ay Dale",
       "url": "https://open.spotify.com/track/13jXGrO7ulinJYZoNDozkp"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188601,
       "name": "Ca$hi",
       "url": "https://open.spotify.com/track/6QCW6T5ulRVBW5Ng2ZaK4G"
@@ -3757,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "C\u00d3MO QUIERES",
+        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "C\u00d3MO QUIERES",
+      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
+    },
+    {
+      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -4304,7 +4340,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 160615,
       "name": "DOMI",
       "url": "https://open.spotify.com/track/0Kr9tPPgBaINkfA9nEgrNu"
@@ -5032,7 +5068,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 145531,
       "name": "El Terry",
       "url": "https://open.spotify.com/track/4RRtlPsB2mrntbFXHoSVgI"
@@ -5408,6 +5444,28 @@
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/5jkxwBDK357V8CLzlQPcUM"
+      },
+      "artists": [
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        },
+        {
+          "name": "SALVAMENTO",
+          "url": "https://open.spotify.com/artist/6abCu4AWrdT5kHm3u5RDqn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188759,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/3m8momUN2p0pi5ErGfiKJd"
     },
     {
       "album": {
@@ -6105,6 +6163,28 @@
     },
     {
       "album": {
+        "name": "G-LATINA",
+        "url": "https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "G-LATINA",
+      "url": "https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN"
+    },
+    {
+      "album": {
         "name": "El Bloke Hills",
         "url": "https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc"
       },
@@ -6474,7 +6554,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 175200,
       "name": "GROUPIE",
       "url": "https://open.spotify.com/track/1n4r4ZJy3EUfFWBancfbIb"
@@ -7284,7 +7364,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 140487,
       "name": "JOHNNY LABORIEL",
       "url": "https://open.spotify.com/track/38iZskEovuWujGSrONJca1"
@@ -13011,6 +13091,28 @@
     },
     {
       "album": {
+        "name": "Puto",
+        "url": "https://open.spotify.com/album/70Wsk6A6CieJgGhk6I9QUP"
+      },
+      "artists": [
+        {
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+        },
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133635,
+      "name": "Puto",
+      "url": "https://open.spotify.com/track/79joHwLFdt7hLWuVyPhUVl"
+    },
+    {
+      "album": {
         "name": "PU\u00d1OS PULSERAS Y PALETAS",
         "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
       },
@@ -14416,6 +14518,36 @@
       "duration_ms": 146409,
       "name": "Si Me Gano Un Grammy",
       "url": "https://open.spotify.com/track/0e0BqjHEcb6pJAVJ7WZA7V"
+    },
+    {
+      "album": {
+        "name": "Si O Si (Remix)",
+        "url": "https://open.spotify.com/album/0vPuQGNd5YzMZaLodCi4QE"
+      },
+      "artists": [
+        {
+          "name": "Yordi Palacios",
+          "url": "https://open.spotify.com/artist/53YtsfrNeEgDsvNwmufvqv"
+        },
+        {
+          "name": "JS SERNA",
+          "url": "https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272400,
+      "name": "Si O Si - Remix",
+      "url": "https://open.spotify.com/track/1HfmblNnew8ommGB1wt8PF"
     },
     {
       "album": {

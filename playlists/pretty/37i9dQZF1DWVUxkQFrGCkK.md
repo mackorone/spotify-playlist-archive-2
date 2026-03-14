@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,575 likes - 414 songs - 1 day 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,591 likes - 414 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 4 | [Soaring](https://open.spotify.com/track/113cu0K2xzpqcpBctJTibp) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Soaring](https://open.spotify.com/album/3zUu0Qc8wG9PUQUbxXppfh) | 7:06 |
 | 5 | [\*uck the system](https://open.spotify.com/track/7fxd0LokITEfc9Be7TOoLi) | [ELEVEN \(FR\)](https://open.spotify.com/artist/6OYDyeW538Vq7Bw4vaEq80) | [\*uck the system](https://open.spotify.com/album/69tPesrOynLvVxbVEW3qOV) | 6:01 |
 | 6 | [Blessings \(Joy\)](https://open.spotify.com/track/2pMHly34TFOMvHvg739V5p) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Blessings \(Joy\)](https://open.spotify.com/album/5GaAOlAQFv1kqDatrtxSV6) | 3:31 |
-| 7 | [Track 3](https://open.spotify.com/track/16ix3D6KSQaESTiwz7jrBY) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [From Riches to Rags](https://open.spotify.com/album/2FDdkgfJPNWz1xwtngCoDe) | 0:00 |
+| 7 | [Svalor Radiosignal \- Axel's Dub](https://open.spotify.com/track/16ix3D6KSQaESTiwz7jrBY) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Joakim Åhlund](https://open.spotify.com/artist/4wOG2bH3rxUNeUnEQAA2P2), [Jockum Nordström](https://open.spotify.com/artist/2QgFa7AQlklxbQCl417qxs) | [From Riches to Rags](https://open.spotify.com/album/2FDdkgfJPNWz1xwtngCoDe) | 6:56 |
 | 8 | [Electrify](https://open.spotify.com/track/3PNo5wtrN8tiY10NlsrNY0) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Electrify](https://open.spotify.com/album/32fqbDB00Jn3rsr1I50xlD) | 6:14 |
 | 9 | [Que Calor, Que Calor](https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Que Calor, Que Calor](https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU) | 3:19 |
 | 10 | [THE FUTURE](https://open.spotify.com/track/0a6J8LAco1q92ts0VZtQz7) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [THE FUTURE](https://open.spotify.com/album/7q8nLE8CIcTYzgOqxsjwuw) | 2:27 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADxj2GN10yUjYsNAweEFGUU",
+  "snapshot_id": "abICAAAAAAA3GnKaj1bGEI/9J1xrv0Zh",
   "tracks": [
     {
       "added_at": null,
@@ -252,8 +252,8 @@
       },
       "artists": [
         {
-          "name": "Manuel de Falla",
-          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Clara Rockmore",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 229306,
-      "name": "El amor brujo, Scene 1: No. 7, Pantomima (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/3xgGIpwxmxW9Gk3EeihaJA"
+      "duration_ms": 131000,
+      "name": "6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/0XQEfTQ8ot4b2f04k20yDu"
     },
     {
       "added_at": null,
@@ -344,8 +344,8 @@
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
         },
         {
           "name": "Clara Rockmore",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 131000,
-      "name": "6 Morceaux, Op. 51: No. 6, Valse sentimentale (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/0XQEfTQ8ot4b2f04k20yDu"
+      "duration_ms": 229306,
+      "name": "El amor brujo, Scene 1: No. 7, Pantomima (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/3xgGIpwxmxW9Gk3EeihaJA"
     },
     {
       "added_at": null,
@@ -388,8 +388,8 @@
       },
       "artists": [
         {
-          "name": "C\u00e9sar Franck",
-          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
         },
         {
           "name": "Clara Rockmore",
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 537293,
-      "name": "Sonata for violin and piano: Allegro",
-      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
+      "duration_ms": 181240,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "Song of Grusia, Op. 4, No. 4",
+      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music In and On The Air",
         "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
@@ -471,30 +491,6 @@
       "duration_ms": 54800,
       "name": "Commentary 5",
       "url": "https://open.spotify.com/track/5I7mksA6nrFBnEZde1DxRr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore",
-        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5qtfc56Rrv5VFcrnr4ZiBK"
     },
     {
       "added_at": null,
@@ -552,17 +548,17 @@
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 256466,
-      "name": "Song of Grusia, Op. 4, No. 4",
-      "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
+      "duration_ms": 264280,
+      "name": "Theremin Concerto: Pastorale",
+      "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"
     },
     {
       "added_at": null,
@@ -572,8 +568,8 @@
       },
       "artists": [
         {
-          "name": "Bob Sherman",
-          "url": "https://open.spotify.com/artist/49c82NBMSDrS5DFGEU1qbg"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -584,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Impromptu interview with Alexander Schneider",
-      "url": "https://open.spotify.com/track/1T4fEZlWFEdrPh9zRj7cuY"
+      "duration_ms": 537293,
+      "name": "Sonata for violin and piano: Allegro",
+      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
     },
     {
       "added_at": null,
@@ -652,17 +648,13 @@
       },
       "artists": [
         {
-          "name": "Anis Fuleihan",
-          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 264280,
-      "name": "Theremin Concerto: Pastorale",
-      "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -691,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music and Memories: Clara Rockmore",
         "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
       },
@@ -727,6 +703,30 @@
       "duration_ms": 504080,
       "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
       "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music and Memories: Clara Rockmore",
+        "url": "https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "duration_ms": 443520,
+      "name": "Concerto for Two Violins in D minor, BWV 1043.: 2: Largo",
+      "url": "https://open.spotify.com/track/5G9TLvkbmq6c8YVCeWXDuG"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

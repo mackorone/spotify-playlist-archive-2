@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: OTTOPAPI",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Cidade Dormit\u00f3rio, Grisa",
   "name": "alt BR",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 224821,
       "name": "2001",
       "url": "https://open.spotify.com/track/3uC5esYU8cTQ8ox8oSrsWV"
@@ -1473,6 +1473,28 @@
     },
     {
       "album": {
+        "name": "Assim (Acho Um Pouco Bom)",
+        "url": "https://open.spotify.com/album/18KpMIbMOSkPEjlaCPpjvM"
+      },
+      "artists": [
+        {
+          "name": "Adriano Cintra",
+          "url": "https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228945,
+      "name": "Assim (Acho Um Pouco Bom)",
+      "url": "https://open.spotify.com/track/1qibtJEVQ6iZ3hM23M9KQV"
+    },
+    {
+      "album": {
         "name": "tudo \u00e9 mt distante",
         "url": "https://open.spotify.com/album/0vpTpSmRtZHplGUf4019BS"
       },
@@ -1802,6 +1824,42 @@
       "duration_ms": 232917,
       "name": "Barco Amn\u00e9sia",
       "url": "https://open.spotify.com/track/7DPXgopzi3ilUPuMqJvVkt"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo na Argentina",
+        "url": "https://open.spotify.com/album/51XlyGF3Blula76b4YUPCO"
+      },
+      "artists": [
+        {
+          "name": "A Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/5KF8ApJq5Uf20Ids67TQDg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Bartolomeu - Ao Vivo no Est\u00fadio Unisono",
+      "url": "https://open.spotify.com/track/7JhCm3FTTe6mP0OJrEHstO"
+    },
+    {
+      "album": {
+        "name": "Varia\u00e7\u00f5es para o Sil\u00eancio",
+        "url": "https://open.spotify.com/album/2ioTUfmD6Gtl0gsq69yzaT"
+      },
+      "artists": [
+        {
+          "name": "cleozinhu",
+          "url": "https://open.spotify.com/artist/33rIAuMggV82FyD4enW1IA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90756,
+      "name": "bater asas",
+      "url": "https://open.spotify.com/track/0nMYsdvBsoHfql3MQRjd86"
     },
     {
       "album": {
@@ -2503,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "AQUINO ao vivo",
+        "url": "https://open.spotify.com/album/7KBvhJdGKzB0mAuivMfGSG"
+      },
+      "artists": [
+        {
+          "name": "AQUINO",
+          "url": "https://open.spotify.com/artist/36bs3UPyK4QNUJtyFvsBmu"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188460,
+      "name": "Camisa do Flamengo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2qmh5D1CE0WEqFQ8SB1SzW"
+    },
+    {
+      "album": {
         "name": "Can I Call You?",
         "url": "https://open.spotify.com/album/0njUjg620qif2q9nNW72RU"
       },
@@ -3173,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Colch\u00e3o",
+        "url": "https://open.spotify.com/album/2saVwSkZOy0PnFFvpUETvQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Colch\u00e3o",
+      "url": "https://open.spotify.com/track/48JCmJudF38ZXQjDbJvdMi"
+    },
+    {
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc"
       },
@@ -3578,7 +3672,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172236,
       "name": "Corredeiras",
       "url": "https://open.spotify.com/track/3eMNazRALdqUHufYfS5KKE"
@@ -3636,6 +3730,28 @@
       "duration_ms": 217100,
       "name": "Croch\u00ea",
       "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
+    },
+    {
+      "album": {
+        "name": "RESID\u00caNCIA RISCO #01",
+        "url": "https://open.spotify.com/album/48pIeNximaHm0vhUa8naBT"
+      },
+      "artists": [
+        {
+          "name": "Jonnata Doll e os Garotos Solventes",
+          "url": "https://open.spotify.com/artist/3DHVqqLBXA0dtRkBT2UGrP"
+        },
+        {
+          "name": "YMA",
+          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217566,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/0fSkB57cN8TsZBIbhvUeNA"
     },
     {
       "album": {
@@ -5047,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Todos os C\u00e3es Merecem o C\u00e9u",
+        "url": "https://open.spotify.com/album/2qNLKjBtqUXrspHIzy8T0N"
+      },
+      "artists": [
+        {
+          "name": "Chococorn and the Sugarcanes",
+          "url": "https://open.spotify.com/artist/5CgAsoAS5lXLCxKtYGI93z"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188741,
+      "name": "Entre Algumas Vias e outras vias ainda maiores",
+      "url": "https://open.spotify.com/track/5ArEGunu8MZCEw01PI4ygi"
+    },
+    {
+      "album": {
         "name": "Entre na \u00c1gua",
         "url": "https://open.spotify.com/album/4W1nKR7GeHJhuaW6ZHhH2U"
       },
@@ -5490,6 +5624,24 @@
       "duration_ms": 163852,
       "name": "Eu J\u00e1 Fiz de Tudo que Tu Pode Imaginar",
       "url": "https://open.spotify.com/track/6Q3iLSJsGqfv8bCz6ngSkn"
+    },
+    {
+      "album": {
+        "name": "Eu e Voc\u00ea ou Tudo o que Eu N\u00e3o Quero que Voc\u00ea Saiba",
+        "url": "https://open.spotify.com/album/3MIrm2IWtieKTKzvcWej6A"
+      },
+      "artists": [
+        {
+          "name": "sorosoro",
+          "url": "https://open.spotify.com/artist/4ULegGFxtDXiqcqWDCOUGB"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Eu J\u00e1 N\u00e3o Aguento Mais",
+      "url": "https://open.spotify.com/track/6dJr7GSHUozwaHrYAXvXX4"
     },
     {
       "album": {
@@ -6204,7 +6356,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184173,
       "name": "foi mal (me atrasei)",
       "url": "https://open.spotify.com/track/473O9nr4sOfpZlX5H5Qky8"
@@ -6320,7 +6472,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 143446,
       "name": "Frio",
       "url": "https://open.spotify.com/track/3IE8Adpf5OpHUO5zWmXRhD"
@@ -8339,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Me mande um (sinal)",
+        "url": "https://open.spotify.com/album/2yjyedH74RW8Vn3kQfFMvD"
+      },
+      "artists": [
+        {
+          "name": "corama",
+          "url": "https://open.spotify.com/artist/6MIhN6VoByrGx5EjVoz21W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153398,
+      "name": "Me mande um (sinal)",
+      "url": "https://open.spotify.com/track/2JwXqx97V0XvZpKKPUAwVx"
+    },
+    {
+      "album": {
         "name": "Me Pede",
         "url": "https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad"
       },
@@ -8476,7 +8646,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 201137,
       "name": "Melhor Assim",
       "url": "https://open.spotify.com/track/6LasRNS5VpIoGLx8LmCXxM"
@@ -8584,7 +8754,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 236604,
       "name": "Mel\u00f4 do Sossego",
       "url": "https://open.spotify.com/track/3oazTEgO9QZ0BAXNMbMbud"
@@ -8660,7 +8830,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169654,
       "name": "Menino Bonito - Ao Vivo",
       "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
@@ -11808,7 +11978,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198175,
       "name": "Pra N\u00e3o Falar Mal",
       "url": "https://open.spotify.com/track/2U6U5C7zDb2JcIZ07dYDM4"
@@ -12449,6 +12619,24 @@
     },
     {
       "album": {
+        "name": "Quest\u00e3o de Fogo",
+        "url": "https://open.spotify.com/album/3gPuiyXFEI43yREaJjGZnf"
+      },
+      "artists": [
+        {
+          "name": "Oblomov",
+          "url": "https://open.spotify.com/artist/2EUaba83feGXNAGXAhERE7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Quest\u00e3o de Fogo",
+      "url": "https://open.spotify.com/track/4powTPisOZkWY8da8sBeWl"
+    },
+    {
+      "album": {
         "name": "Radinho de Pilha",
         "url": "https://open.spotify.com/album/7KXfbdTrKFgsSkNGRqKCzG"
       },
@@ -12558,7 +12746,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 587536,
       "name": "Reden\u00e7\u00e3o (Tr\u00eas Gatos e um Cachorro)",
       "url": "https://open.spotify.com/track/52P75ZWt74UHLh5OFhWNUo"
@@ -13219,6 +13407,24 @@
     },
     {
       "album": {
+        "name": "Sem Ch\u00e3o",
+        "url": "https://open.spotify.com/album/3FFGgQoC3jGFxwZuj3xld0"
+      },
+      "artists": [
+        {
+          "name": "Turmallina",
+          "url": "https://open.spotify.com/artist/17QuIOSsq6D8vweWi2xqhd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "Sem Ch\u00e3o",
+      "url": "https://open.spotify.com/track/3rTXlO6sqzjdIfFq5DGSDK"
+    },
+    {
+      "album": {
         "name": "Sem Dire\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6OqjpAXZFQvTyp5iwDeKfJ"
       },
@@ -13500,6 +13706,24 @@
       "duration_ms": 272673,
       "name": "slow down / vc me disse",
       "url": "https://open.spotify.com/track/2GVOf10WzZfkAUYJL4CYL8"
+    },
+    {
+      "album": {
+        "name": "Sobre as Aves",
+        "url": "https://open.spotify.com/album/2zC8x6wMa5ANYVLObQ7MM2"
+      },
+      "artists": [
+        {
+          "name": "Tutu Nana",
+          "url": "https://open.spotify.com/artist/71wPGbsleoh9Oy8xBQn6mv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269772,
+      "name": "Sobre as Aves",
+      "url": "https://open.spotify.com/track/0ivp9LTo2VaHHe0L2pkg4S"
     },
     {
       "album": {
@@ -14830,6 +15054,28 @@
       "duration_ms": 169562,
       "name": "Trago",
       "url": "https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik"
+    },
+    {
+      "album": {
+        "name": "Trailers do futuro",
+        "url": "https://open.spotify.com/album/4bLafK72fi1C4KIXfYHEi0"
+      },
+      "artists": [
+        {
+          "name": "Cidade Dormit\u00f3rio",
+          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
+        },
+        {
+          "name": "Grisa",
+          "url": "https://open.spotify.com/artist/7hV07PjlQI1Zcy31okJJZ5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244180,
+      "name": "Trailers do futuro",
+      "url": "https://open.spotify.com/track/5fXO4FNwekuKXWjpaxhuEP"
     },
     {
       "album": {

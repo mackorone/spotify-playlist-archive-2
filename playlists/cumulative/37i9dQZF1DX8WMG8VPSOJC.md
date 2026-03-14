@@ -4,7 +4,7 @@
 
 > Nothing but beautiful country love songs.
 
-222 songs - 12 hr 28 min
+223 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Chasin' Me](https://open.spotify.com/track/425bCdRNNdkcxYWrMuhr2Z) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Chasin' Me](https://open.spotify.com/album/690W5egF5E3mDL2oXmmBHN) | 4:08 | 2021-07-20 | 2022-07-29 |
 | [Classic](https://open.spotify.com/track/4Lme7Xwvc2y0cnP6sCb4HB) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 2:55 | 2022-01-28 | 2022-07-29 |
 | [Closer To You](https://open.spotify.com/track/6biq5BjD7UAXpefEgDVbp5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:07 | 2021-07-20 | 2022-04-21 |
+| [Cloud 9](https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh) | 3:33 | 2026-03-13 |  |
 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-07-22 |  |
 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 | 2024-08-23 | 2024-10-30 |
 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 | 2023-10-27 |  |
@@ -109,7 +110,7 @@
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-02-04 | 2022-08-10 |
 | [Letters](https://open.spotify.com/track/3Ro68FI5WDYSYgibXCZfEQ) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [Letters](https://open.spotify.com/album/7dPqKzmO7lbbUkhZR61Ej7) | 3:20 | 2021-11-12 | 2022-07-26 |
 | [Life With You](https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5) | [Kelsey Hart](https://open.spotify.com/artist/1WKwvWRG8MdHAwHsSv9lXb) | [Life With You](https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z) | 2:36 | 2024-06-07 |  |
-| [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-07-20 |  |
+| [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 | 2021-07-20 | 2026-03-14 |
 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 | 2022-06-17 | 2024-04-19 |
 | [Love Is Real](https://open.spotify.com/track/3QHoAWfAasn6X4AFzkppRF) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Love Is Real](https://open.spotify.com/album/2quOjTl1RX60hfzcG3NACN) | 2:42 | 2021-07-22 | 2022-07-29 |
 | [Love You Anyway](https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Love You Anyway](https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF) | 3:49 | 2023-02-10 | 2026-01-21 |

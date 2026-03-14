@@ -2655,6 +2655,40 @@
     },
     {
       "album": {
+        "name": "Party Started (feat. French Caviar)",
+        "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ochok",
+          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
+        },
+        {
+          "name": "French Caviar",
+          "url": "https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143801,
+      "name": "Party Started (feat. French Caviar)",
+      "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
+    },
+    {
+      "album": {
         "name": "Passion Controller",
         "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },

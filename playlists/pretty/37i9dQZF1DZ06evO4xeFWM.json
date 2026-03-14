@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220309,
+  "num_followers": 220308,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABv0rh/bF7yP8Z+YUS7nk9z",
+  "snapshot_id": "abICAAAAAAAhYrUfaT0y8BosGPc1KisR",
   "tracks": [
     {
       "added_at": null,
@@ -715,38 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Eve & Paradise Lost",
-      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "Warmth",
-      "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liar Liar (Feat. Bastille)",
         "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
       },
@@ -767,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 229627,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Eve & Paradise Lost",
+      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
@@ -783,38 +783,6 @@
       "duration_ms": 234410,
       "name": "Won't Let You Go",
       "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Intros & Narrators",
-      "url": "https://open.spotify.com/track/2DvAtokcDWk3acZkRT7OZD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 244135,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
     },
     {
       "added_at": null,
@@ -847,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
       "artists": [
         {
@@ -856,9 +824,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
+      "duration_ms": 244135,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
     },
     {
       "added_at": null,
@@ -872,9 +840,25 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Mademoiselle & The Nunnery Blaze",
-      "url": "https://open.spotify.com/track/58tyzBvsTPDzNuhu87MEqU"
+      "duration_ms": 233506,
+      "name": "Intros & Narrators",
+      "url": "https://open.spotify.com/track/2DvAtokcDWk3acZkRT7OZD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
     },
     {
       "added_at": null,
@@ -895,6 +879,22 @@
       "duration_ms": 214960,
       "name": "I Know You (feat. Bastille)",
       "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distorted Light Beam",
+        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 177221,
+      "name": "Distorted Light Beam",
+      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
     }
   ],
   "unique_name": "This Is Bastille",

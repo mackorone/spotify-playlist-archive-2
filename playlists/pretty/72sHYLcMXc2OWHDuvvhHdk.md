@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,388 songs - 5 day 19 hr 30 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,392 songs - 5 day 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2396,5 +2396,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2386 | [Wanderlust](https://open.spotify.com/track/2b2n8QRwymnZiHd7At3vwf) | [Slowtide](https://open.spotify.com/artist/4gVVPt0VVJsl1EqZAtJlQc) | [Solaria](https://open.spotify.com/album/6IPfiZtUyj8lxGABNfxp8E) | 3:46 |
 | 2387 | [Moon Dog](https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:28 |
 | 2388 | [Sous la lune, le murmure](https://open.spotify.com/track/1F7g51N0nafLXuALdyKJyJ) | [Gigakript](https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T) | [Sous la lune, le murmure](https://open.spotify.com/album/2D6vwUM0azExiKsB7JmZdY) | 4:24 |
+| 2389 | [My Chinese lunch](https://open.spotify.com/track/1TskrYmWygyW0Jri2HicKC) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [My Chinese lunch](https://open.spotify.com/album/5LZoQOUy5sCwOzrxscPllT) | 3:16 |
+| 2390 | [On My Own \(Live\)](https://open.spotify.com/track/26g3Bk34MqtXNS0wuO2Ire) | [Herbert Kretzmer](https://open.spotify.com/artist/7mK42D3rSMKrezfx5n4dWY), [Ray Lao](https://open.spotify.com/artist/4ke0Z6uwW8AZKFMX1AdfJf) | [On My Own \(Live\)](https://open.spotify.com/album/5lCNLhmQSKiFHmLLPAVPFb) | 2:16 |
+| 2391 | [Joseph Prayed in Faith](https://open.spotify.com/track/6Ku5qUZycBzXE6CwkhuMnI) | [Hyrum Gray](https://open.spotify.com/artist/23nAsyhNKSQ7CnMi1RugQs) | [Joseph Prayed in Faith](https://open.spotify.com/album/38UcjJyyb7lyKToh7saOQk) | 3:37 |
+| 2392 | [Mi Corazón En Pedazos](https://open.spotify.com/track/6j0TJFdQmdAsJTXg41XeBG) | [JINSEN](https://open.spotify.com/artist/3CvhFGSPAKLmCJUpEiCsUh) | [Mi Corazón En Pedazos](https://open.spotify.com/album/0JgLGUnsb4SXd6Z0IyQum3) | 2:19 |
 
-Snapshot ID: `AAAJ67adBH6PWzRRH7839jlbVR0H7sLR`
+Snapshot ID: `AAAJ7w4Pr2S7k0qwoEij9WXJCI7srjyC`

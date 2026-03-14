@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,362 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,449 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 44 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
 | 45 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
 | 46 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
-| 47 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
-| 48 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
+| 47 | [God's Child](https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [God's Child](https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR) | 3:16 |
+| 48 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
 | 49 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
 | 50 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 51 | [Antidote](https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Antidote](https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9) | 2:51 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 54 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
 | 55 | [Remind Me Who I Am \- Acoustic](https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK) | 3:36 |
 | 56 | [NEVER GOING BACK](https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [NEVER GOING BACK](https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9) | 2:32 |
-| 57 | [Why Do You Love Me?](https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Why Do You Love Me?](https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh) | 4:08 |
-| 58 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 |
+| 57 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 |
+| 58 | [Why Do You Love Me?](https://open.spotify.com/track/5Gmwolvg550hVuwAvSgnPe) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Why Do You Love Me?](https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh) | 4:08 |
 | 59 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 |
 | 60 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 61 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 96 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
 | 97 | [Clouds](https://open.spotify.com/track/1MGmRawD6mgoAm3EYR0qBP) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Clouds](https://open.spotify.com/album/7jQrwGUrql7bigGQtSrEuH) | 2:02 |
 | 98 | [Better Things](https://open.spotify.com/track/6BNoldCHXY2BkUvkdtHMwG) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Better Things](https://open.spotify.com/album/6EzwjnweQ1MsVCg1OBSURX) | 2:16 |
-| 99 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
-| 100 | [Third Day \(feat\. Ty Brasel\)](https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 3:09 |
+| 99 | [Third Day \(feat\. Ty Brasel\)](https://open.spotify.com/track/585LHTE4ugzJoCqk6bmkjV) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 3:09 |
+| 100 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 
 Snapshot ID: `AAAAADRR2i8JrJjfJIgkzeekJuyULe4f`

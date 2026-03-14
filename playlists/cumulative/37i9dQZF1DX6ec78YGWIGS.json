@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: K4OS",
+  "description": "Lo nuevo y lo m\u00e1s escuchado del pop. Foto: Big One, Yami Safdie & LIT killah",
   "name": "POP FLOW",
   "tracks": [
     {
@@ -747,6 +747,32 @@
     },
     {
       "album": {
+        "name": "Ardor | CROSSOVER #13",
+        "url": "https://open.spotify.com/album/4Wy36hUGed4i9fJHLSAsOo"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Ardor | CROSSOVER #13",
+      "url": "https://open.spotify.com/track/1jQJIbQbit9c1nfisAAFgG"
+    },
+    {
+      "album": {
         "name": "ASI ES LA VIDA",
         "url": "https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5"
       },
@@ -1306,7 +1332,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178105,
       "name": "CARENCIAS DE CORDURA",
       "url": "https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h"

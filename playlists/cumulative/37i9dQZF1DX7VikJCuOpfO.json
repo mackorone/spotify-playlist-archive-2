@@ -3687,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Incompatibles",
+        "url": "https://open.spotify.com/album/7cogm05e8Q4uStWVUY2JFB"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Incompatibles",
+      "url": "https://open.spotify.com/track/4juql59uxr41uXNRuDpm5V"
+    },
+    {
+      "album": {
         "name": "Inexperto En Olvidarte",
         "url": "https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE"
       },
@@ -4238,6 +4256,24 @@
       "duration_ms": 170570,
       "name": "La Perd\u00ed",
       "url": "https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L"
+    },
+    {
+      "album": {
+        "name": "La Perra",
+        "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "La Perra",
+      "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
     },
     {
       "album": {

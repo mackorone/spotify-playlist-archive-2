@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1286,
+  "num_followers": 1288,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAARj0aWRSte1C6N4eIXpTaZbqFiowzD",
+  "snapshot_id": "AAARlIXrR4hvPdV573WUYIJLn6kHuAe2",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -2983,6 +2983,90 @@
       "duration_ms": 191964,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE"
+    },
+    {
+      "added_at": "2026-03-13 08:08:27",
+      "album": {
+        "name": "Before You Go (Cover)",
+        "url": "https://open.spotify.com/album/3v1kIPgLbTTLN5wykaAzh3"
+      },
+      "artists": [
+        {
+          "name": "Naham Nakrour",
+          "url": "https://open.spotify.com/artist/4Y6NGFNQxsNe5RcN37DNfs"
+        }
+      ],
+      "duration_ms": 146298,
+      "name": "Before You Go - Cover",
+      "url": "https://open.spotify.com/track/77LJibXZjnlnAlPkJWyE9o"
+    },
+    {
+      "added_at": "2026-03-13 08:09:10",
+      "album": {
+        "name": "Losing CTRL",
+        "url": "https://open.spotify.com/album/10uCN18aqpvdTtxvc0syKN"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        },
+        {
+          "name": "t-WIN",
+          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
+        }
+      ],
+      "duration_ms": 211321,
+      "name": "Day One",
+      "url": "https://open.spotify.com/track/3MQ7aLt6WdX4JwWTNkEU1E"
+    },
+    {
+      "added_at": "2026-03-13 10:41:23",
+      "album": {
+        "name": "T\u00fcm A\u015fklara",
+        "url": "https://open.spotify.com/album/44g3O3T5pC0ToiqjJVZ41V"
+      },
+      "artists": [
+        {
+          "name": "Engin Erg",
+          "url": "https://open.spotify.com/artist/38iOgsod2sPlSBLdjUYcu5"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "T\u00fcm A\u015fklara",
+      "url": "https://open.spotify.com/track/6Sn4TSB7bhoCgqv8Y5xIL7"
+    },
+    {
+      "added_at": "2026-03-13 14:32:18",
+      "album": {
+        "name": "The Good Ole Days",
+        "url": "https://open.spotify.com/album/47YSw42Eop1hf2w7eK3xK8"
+      },
+      "artists": [
+        {
+          "name": "MR Smith Group (MSG)",
+          "url": "https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM"
+        }
+      ],
+      "duration_ms": 451305,
+      "name": "The Good Ole Days",
+      "url": "https://open.spotify.com/track/2qzIUE2T6tDUGyrNmvSQNc"
+    },
+    {
+      "added_at": "2026-03-13 14:32:22",
+      "album": {
+        "name": "Leitmotiv",
+        "url": "https://open.spotify.com/album/2RHneU6EMRpjjfc6VSxiKA"
+      },
+      "artists": [
+        {
+          "name": "Emmett Garam",
+          "url": "https://open.spotify.com/artist/3ja43fWPD90vfzhGkm9dLY"
+        }
+      ],
+      "duration_ms": 192606,
+      "name": "Leitmotiv",
+      "url": "https://open.spotify.com/track/21xKwv5djzVaB9ztvET6y0"
     }
   ],
   "unique_name": "New Indie Music",

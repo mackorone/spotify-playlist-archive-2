@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,995,982 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,996,220 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Love Me To Heaven](https://open.spotify.com/track/7usqgT1ajVAJ3s0wXePtRr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Love Me To Heaven](https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9) | 3:26 |
 | 100 | [Freaking You Out](https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Freaking You Out](https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3) | 3:02 |
 
-Snapshot ID: `AAAAAJW4sfC9BFWbi02evW9yqbyBRIhF`
+Snapshot ID: `AAAAAF5QlNCJBQcp6gF2pxNipUJD1X6g`

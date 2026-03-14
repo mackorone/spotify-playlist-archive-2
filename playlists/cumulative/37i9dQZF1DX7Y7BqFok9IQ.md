@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Sheepdogs
 
-403 songs - 1 day 2 hr 1 min
+406 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cross Road Blues](https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG) | [Robert Johnson](https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy) | [King Of The Delta Blues Singers](https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU) | 2:29 | 2024-05-24 | 2024-07-06 |
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-07 | 2024-06-22 |
 | [Crosscut Saw](https://open.spotify.com/track/5ZD2nIitLb9txwpz5Avq6Q) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:33 | 2024-05-24 | 2024-07-06 |
+| [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 | 2026-03-13 |  |
 | [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 | 2023-08-04 |  |
 | [Dead Armadillo](https://open.spotify.com/track/2RBrx1H3wutvaWj0vdoR1R) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Deluxe Edition\)](https://open.spotify.com/album/6nnECaFoybGM731B9tqXBg) | 2:57 | 2025-10-10 |  |
 | [Death by Misadventure](https://open.spotify.com/track/1rHGpxJKJZb5QzcKUlhfb1) | [The Infamists](https://open.spotify.com/artist/5rqXUA24KUryMCNvNTqR6B) | [Live Evil](https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB) | 3:26 | 2023-04-07 |  |
@@ -113,6 +114,7 @@
 | [Feeling Lucky](https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Feeling Lucky](https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW) | 5:52 | 2025-02-14 | 2025-03-15 |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
 | [Fits Me Good](https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Fits Me Good](https://open.spotify.com/album/4DTcA2RFWd5N6FAbIoujnw) | 2:51 | 2020-10-16 | 2023-09-30 |
+| [Foot Off](https://open.spotify.com/track/0KCL2Obn6HBMcsIvENCEsw) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Foot Off](https://open.spotify.com/album/6C2krXrdCgZzVPZdnRXZ8n) | 4:27 | 2026-03-13 |  |
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2023-05-27 |
 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 | 2025-01-31 | 2025-06-21 |
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 | 2026-01-31 |
@@ -293,7 +295,7 @@
 | [Rubberband](https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH) | [Jesse Redwing](https://open.spotify.com/artist/7E2iToLix5cqUAgbR7zswK) | [Rubberband](https://open.spotify.com/album/1jdW9CDZQtIRFb4ReH2XcB) | 3:38 | 2020-10-16 | 2024-07-06 |
 | [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 | 2025-09-26 |  |
 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 | 2020-10-16 | 2024-07-06 |
-| [SAINTS & SIN](https://open.spotify.com/track/5sukydajInUaXEScc19Y5u) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [SAINTS & SIN](https://open.spotify.com/album/3bG3PgbM2zprEZ9TDHRB6x) | 3:56 | 2023-05-26 |  |
+| [SAINTS & SIN](https://open.spotify.com/track/5sukydajInUaXEScc19Y5u) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [SAINTS & SIN](https://open.spotify.com/album/3bG3PgbM2zprEZ9TDHRB6x) | 3:56 | 2023-05-26 | 2026-03-14 |
 | [Savior With A Razor \(feat\. Slash\)](https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 4:47 | 2024-10-25 |  |
 | [Say You Will](https://open.spotify.com/track/15vRL4NwrNpgTwFY5rPnNf) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 3:54 | 2020-10-16 | 2023-03-04 |
 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 | 2022-05-13 | 2026-02-28 |
@@ -378,11 +380,12 @@
 | [Trouble](https://open.spotify.com/track/0rwpF4XtV2JL9857906zHq) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [Trouble](https://open.spotify.com/album/6xca8kKugBDofCcvC4gsDe) | 3:45 | 2026-02-27 |  |
 | [True Lies](https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [True Lies](https://open.spotify.com/album/1fNI29m6d0M5c14Lklf0dV) | 5:51 | 2022-09-16 | 2023-04-09 |
 | [Truth Be Told](https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl) | [Cam Cole](https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S) | [Truth Be Told EP](https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR) | 2:46 | 2022-11-18 |  |
+| [Turnaround](https://open.spotify.com/track/40RTf2Z6gTKw1JSz39oH40) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [Trio](https://open.spotify.com/album/0Bm8F5fCHuxiSBtSBYHyyG) | 3:59 | 2026-03-13 |  |
 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 | 2021-04-09 | 2024-07-13 |
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-04-14 |  |
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2023-04-15 |
 | [Walk Away](https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Walk Away](https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df) | 3:38 | 2025-05-02 | 2025-09-27 |
-| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
+| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 | 2026-03-14 |
 | [Way Down We Go](https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l), [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe), [ashpvnk](https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3) | [Way Down We Go](https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r) | 3:18 | 2024-05-03 |  |
 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 | 2022-04-01 |  |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 | 2023-03-04 |

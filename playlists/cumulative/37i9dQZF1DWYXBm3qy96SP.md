@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Iceage
 
-1,887 songs - 4 day 13 hr 15 min
+1,887 songs - 4 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -970,6 +970,7 @@
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-02-01 | 2024-02-09 |
 | [Lonely Together](https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Lonely Together](https://open.spotify.com/album/1tVvVpUuYQtHVNzWueWKPr) | 3:34 | 2023-07-27 | 2023-08-04 |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-05-02 | 2024-05-26 |
+| [Longer](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 4:58 | 2026-03-12 |  |
 | [Look Ma, No Brains!](https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Look Ma, No Brains!](https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb) | 2:03 | 2023-11-02 | 2023-12-15 |
 | [Looking Back](https://open.spotify.com/track/1me4mvO4AGRuM3qzTDm3Ln) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/2r9KyPO6O132r73Tj10bue) | 3:18 | 2024-02-29 | 2024-03-08 |
 | [Looking Back](https://open.spotify.com/track/3w1YzG6hm2ktsHxnlTzFVv) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [Body of Work](https://open.spotify.com/album/54W4CYSPA5PWfuFJzmwN5H) | 3:18 | 2024-02-29 | 2024-03-02 |
@@ -1685,7 +1686,6 @@
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-16 | 2024-02-16 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-05-03 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-07-24 | 2026-03-13 |
-| [Track 4](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 0:00 | 2026-03-12 |  |
 | [Trigger](https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Trigger](https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C) | 2:55 | 2024-01-04 | 2024-02-23 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-03-16 | 2023-04-14 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-20 | 2025-06-20 |

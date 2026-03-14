@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
         "name": "Amigo Remix",
         "url": "https://open.spotify.com/album/14t7REZzfSQYODT3If4Ti3"
       },
@@ -1814,6 +1832,32 @@
       "duration_ms": 223019,
       "name": "Arc\u00e1ngel: Bzrp Music Sessions, Vol. 54",
       "url": "https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac"
+    },
+    {
+      "album": {
+        "name": "Ardor | CROSSOVER #13",
+        "url": "https://open.spotify.com/album/4Wy36hUGed4i9fJHLSAsOo"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Ardor | CROSSOVER #13",
+      "url": "https://open.spotify.com/track/1jQJIbQbit9c1nfisAAFgG"
     },
     {
       "album": {
@@ -5010,7 +5054,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -8816,7 +8860,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 161178,
       "name": "Genio Atrapado",
       "url": "https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U"
@@ -8896,6 +8940,28 @@
       "duration_ms": 158927,
       "name": "Golfista",
       "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
+    },
+    {
+      "album": {
+        "name": "Goo Goo Ga Ga",
+        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191765,
+      "name": "Goo Goo Ga Ga",
+      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
     },
     {
       "album": {
@@ -18862,7 +18928,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196003,
       "name": "Save Me Tonight",
       "url": "https://open.spotify.com/track/4xpgAJsYNK9oWbFHm40yyK"
@@ -23868,7 +23934,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 157180,
       "name": "Ya No Llora - Remix",
       "url": "https://open.spotify.com/track/7wM4U0FAoPujC9knqQ6o2Z"
@@ -24234,6 +24300,28 @@
       "duration_ms": 174546,
       "name": "\u00bfC\u00f3mo Pas\u00f3?",
       "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
+        "url": "https://open.spotify.com/album/2vHXAh1NbsF0ftGYgLBcvJ"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Rueda de Candombe",
+          "url": "https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228815,
+      "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
+      "url": "https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy"
     },
     {
       "album": {

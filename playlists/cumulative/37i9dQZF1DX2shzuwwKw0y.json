@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Alex Torres",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Kane Rodr\u00edguez",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 156576,
       "name": "11:11",
       "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Despegando",
+        "url": "https://open.spotify.com/album/1hDIGpaWmoexjnFxmLeacy"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164609,
+      "name": "Despegando",
+      "url": "https://open.spotify.com/track/64BxJ8fgZqbvwBRd61GR5e"
+    },
+    {
+      "album": {
         "name": "Destapando Botellitas",
         "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
       },
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198935,
       "name": "DINOSAURIOS",
       "url": "https://open.spotify.com/track/3tFdpPz7H9VHCKj01xlqVY"
@@ -8628,6 +8646,24 @@
     {
       "album": {
         "name": "Lonche",
+        "url": "https://open.spotify.com/album/6PrsqOBWS6oPJS1RtXIa7U"
+      },
+      "artists": [
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152220,
+      "name": "Lonche",
+      "url": "https://open.spotify.com/track/5slJKt9DvqhCNUqHQHv6gk"
+    },
+    {
+      "album": {
+        "name": "Lonche",
         "url": "https://open.spotify.com/album/3c18yh8Zfn5aAlBu9mkkXx"
       },
       "artists": [
@@ -9979,6 +10015,24 @@
     },
     {
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
+    },
+    {
+      "album": {
         "name": "MURAKAMI",
         "url": "https://open.spotify.com/album/4k9RKIFAt3bootZgQHTSnf"
       },
@@ -10242,7 +10296,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 149655,
       "name": "NO QUE NO",
       "url": "https://open.spotify.com/track/4jcRduigE9cWdQ4i8TLAy4"
@@ -10566,7 +10620,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212382,
       "name": "Perdon Mama",
       "url": "https://open.spotify.com/track/6WbkWq6e8KuD6k26L1yePw"
@@ -12065,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "Seriecito Me Ven",
+        "url": "https://open.spotify.com/album/1lZV3Xr8soijs3xrSeeuQR"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275438,
+      "name": "Seriecito Me Ven",
+      "url": "https://open.spotify.com/track/3Gcg3lYbwSGgrY0Ue1Gx5H"
+    },
+    {
+      "album": {
         "name": "Se\u00f1or Miedo",
         "url": "https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ"
       },
@@ -12174,7 +12246,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 170389,
       "name": "Siempre al 100",
       "url": "https://open.spotify.com/track/5eJe6g7OGrW9Lj0qTi3jmh"
@@ -12992,6 +13064,24 @@
       "duration_ms": 163867,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4"
+    },
+    {
+      "album": {
+        "name": "Tolerancia Zero",
+        "url": "https://open.spotify.com/album/0EO7V020RTpHSXtMlhqe6P"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Tolerancia Zero (Banda)",
+      "url": "https://open.spotify.com/track/2sEZxna1ubt4oNLs2Tf3Da"
     },
     {
       "album": {

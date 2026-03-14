@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with RAAHiiM from Brampton, ON.
+> Your guide to R&B in Canada, with Glenn Lewis from Toronto, ON.
 
-1,592 songs - 3 day 10 hr 50 min
+1,597 songs - 3 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [Movie](https://open.spotify.com/track/6Ot7QlYZmVOLeAGurDCIdj) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Movie](https://open.spotify.com/album/7h8o5XyILdpSGS6YypftjS) | 3:41 | 2025-09-12 | 2025-10-11 |
 | [Movies](https://open.spotify.com/track/5duBEuuggu7EMMptOsH9Lc) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Movies](https://open.spotify.com/album/3Te5KeRcW7ZtURnJrqLFkG) | 3:24 | 2022-08-26 | 2022-11-12 |
 | [Mr\. Lonely](https://open.spotify.com/track/0d1NK6DEtHLK0Mw4iij3uI) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 3:02 | 2023-10-20 | 2023-11-25 |
+| [Mr\. Right](https://open.spotify.com/track/42jJJ9lmgR5pLxVjm4Sckn) | [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [Mr\. Right](https://open.spotify.com/album/4jjoQoLp2oEAi7JOoWk7Q1) | 4:06 | 2026-03-13 |  |
 | [Muérete](https://open.spotify.com/track/0MImwjD2hIF9IPTMrvmFrW) | [Mellkit](https://open.spotify.com/artist/5uaLayT83kVy0LvmuaETLK), [Nueva Vista](https://open.spotify.com/artist/2OP62XgfFu4Ye4ng4X2e9e) | [Muérete](https://open.spotify.com/album/6HdX5u8SC37jWZxg77IOZo) | 2:51 | 2022-03-11 | 2022-03-26 |
 | [My Girl](https://open.spotify.com/track/4P6RyoX1zclrHB2vMrTgBK) | [B.ROB](https://open.spotify.com/artist/1ok4DP80jKsX7GZZ6yr2xR) | [My Girl](https://open.spotify.com/album/6aMISsKbJGTuQvkyTRasJu) | 3:19 | 2025-08-29 | 2025-09-20 |
 | [My Life](https://open.spotify.com/track/1GemkfW3Od4AQ1KQJezJQ4) | [ELEV8](https://open.spotify.com/artist/2jTh0KE644XMABYAXTBvme) | [My Life](https://open.spotify.com/album/7MQXsHNMYbtyj03jwnyTX1) | 3:04 | 2022-07-22 | 2022-09-10 |
@@ -1044,6 +1045,7 @@
 | [Passenger Princess \(feat\. Aqyila\)](https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Passenger Princess \(Remix\)](https://open.spotify.com/album/1548AEh0bKJXMYrkdfEB3l) | 3:40 | 2024-09-27 | 2025-02-15 |
 | [Passion](https://open.spotify.com/track/7L7lEcylKN2Rqz5fQ5yq4t) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Passion](https://open.spotify.com/album/4lsaeSEDS4HKkJNiR62uyb) | 3:07 | 2023-11-17 | 2024-01-27 |
 | [Passion Pt\. 2](https://open.spotify.com/track/3OraGxjYSSd6ifEX0Ji2mj) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Passion Pt\. 2](https://open.spotify.com/album/3kytNG7DtrydrdK8Z0mcCS) | 3:24 | 2024-01-26 | 2024-07-13 |
+| [Past Tense](https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Past Tense](https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA) | 3:18 | 2026-03-13 |  |
 | [PATT](https://open.spotify.com/track/0AcNh6pvhqGCm9EKpCAKEG) | [DION IV](https://open.spotify.com/artist/2MNprX16TszQOuCL8s5F38) | [PATT](https://open.spotify.com/album/0wTbVFoRaSEqgIm9iCFOO5) | 3:16 | 2022-02-18 | 2022-02-26 |
 | [patterns](https://open.spotify.com/track/5nwMLwvK536bKbViYPPbXq) | [AHSIA](https://open.spotify.com/artist/0Io9HPbsIs5MqlnCIY1gdH) | [patterns](https://open.spotify.com/album/3boo2gXbgnFRoBxmmNZBDV) | 3:10 | 2025-11-21 | 2026-02-07 |
 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [Suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 | 2023-02-03 | 2023-05-06 |
@@ -1102,6 +1104,7 @@
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2023-09-23 |
 | [RACEBACKTOEARTH](https://open.spotify.com/track/6s3uHntNNuJ9dsRSFKq5zl) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [RACEBACKTOEARTH](https://open.spotify.com/album/1fB6O9XYxXuh5ZFVjiMi1w) | 3:02 | 2024-07-05 | 2024-10-19 |
 | [Raids \- A COLORS SHOW](https://open.spotify.com/track/0ontHo5fSr5T1Pc8eoVhw6) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Raids \- A COLORS SHOW](https://open.spotify.com/album/16JhsCkX4XqBIuW9uquCwi) | 2:23 | 2022-05-27 | 2022-06-25 |
+| [Rain](https://open.spotify.com/track/6VnI2jxsqeLuFCpK3FfINt) | [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [Rain](https://open.spotify.com/album/4jWcSWUvq4cOMa63aTMxbC) | 2:26 | 2026-03-13 |  |
 | [Rainbow](https://open.spotify.com/track/6cglXxd6F4eWXr6nVXE2Ac) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Rainbow](https://open.spotify.com/album/5kcZWZvnwksb7zBUD7H53P) | 3:45 | 2023-05-05 | 2023-06-10 |
 | [RAINING IN HOUSTON](https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:04 | 2025-02-14 | 2025-09-20 |
 | [RaRa](https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [RaRa](https://open.spotify.com/album/6iMw4R8UyXcAIj8aCWPMPx) | 2:16 | 2024-07-12 | 2024-08-17 |
@@ -1206,6 +1209,7 @@
 | [Sexy Lady \- Remix](https://open.spotify.com/track/6NvlMkDs7m6ZNIf1ioVDbT) | [Cedric Brazle](https://open.spotify.com/artist/537DG59uwJsVL3RKA6YNW6), [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Sexy Lady \(Remix\)](https://open.spotify.com/album/1SxKnUKEoooT5gRfnxMFBE) | 3:42 | 2023-09-15 | 2023-10-07 |
 | [Shadows](https://open.spotify.com/track/0PtzMsYtataAxl7UP9Q2HF) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [CVIRO](https://open.spotify.com/artist/5C5mVIHAEIbomEs6nsNWJ9), [GXNXVS](https://open.spotify.com/artist/6LuLHe6y5BHU0quiy0sMhL) | [Shadows](https://open.spotify.com/album/42ZpyhNWUTOm5J9ex6I7yF) | 2:39 | 2024-03-08 | 2024-05-18 |
 | [SHADOWS](https://open.spotify.com/track/7HSO5TPDAgtEjhu2qrDF0h) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [SHADOWS](https://open.spotify.com/album/212iYfDTxThBbwQgCbUySR) | 3:18 | 2023-06-09 | 2023-07-29 |
+| [Shadows of My Trauma](https://open.spotify.com/track/671m9jOM4sxoNoz5K0Odr6) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Shadows of My Trauma](https://open.spotify.com/album/4FLG5tZ5ZwKE9C05ude5GP) | 3:16 | 2026-03-13 |  |
 | [Shame On You](https://open.spotify.com/track/2m81AlvTDGiN95KcktNGlJ) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Shame On You](https://open.spotify.com/album/3htnYj3YlMe1IfnjlTs8bn) | 2:28 | 2022-07-15 | 2022-09-03 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 | 2023-03-04 |
 | [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 | 2022-10-28 | 2023-03-25 |
@@ -1544,6 +1548,7 @@
 | [when i'm gone](https://open.spotify.com/track/5i86Dy09KkUD3niwtkfgNQ) | [Ebhoni](https://open.spotify.com/artist/7bWXoXVgDSWw6lWZD4fCb6) | [were all the ig girls worth it?](https://open.spotify.com/album/53GD0cJGX2KGddvAbUuidA) | 2:46 | 2022-07-01 | 2022-07-30 |
 | [When I'm Gone](https://open.spotify.com/track/1V0IcqF0eIvimiUtBk62lW) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [When I'm Gone](https://open.spotify.com/album/2G6TE8tQJBuQdzK05gY9W2) | 2:20 | 2023-05-26 | 2023-10-07 |
 | [When I'm Home](https://open.spotify.com/track/0HHrQ8epB7SisDFTZe1nmO) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE) | [When I'm Home](https://open.spotify.com/album/39c5tBiM0ZhJY0UggMYJr8) | 2:36 | 2025-10-24 |  |
+| [When It Rains](https://open.spotify.com/track/3r6laoyBkrjGR4p5E1HXaW) | [Fidelina](https://open.spotify.com/artist/1AGhQu02t4zChMztMSoJSS) | [When It Rains](https://open.spotify.com/album/5PePjNcVbYw1ogkI7FOQhb) | 3:05 | 2026-03-13 |  |
 | [Where Did You Go](https://open.spotify.com/track/05psPm6j4TA5zkmHWunyVQ) | [SLMN](https://open.spotify.com/artist/7bDKyS3Rbpp1wt4l2KMqAg), [Kvn Rose](https://open.spotify.com/artist/1nSl65AGkO6EYrJSoEwfAF), [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Where Did You Go](https://open.spotify.com/album/4NTEpzAsL3PKdS1OzDs66r) | 2:29 | 2022-06-10 | 2022-07-30 |
 | [Where Ya From](https://open.spotify.com/track/74kvijB0vU5BK44QnNb4Gt) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Hyde Out](https://open.spotify.com/album/3ChAAathOrBgPaXDJJk5Wy) | 3:48 | 2022-07-29 | 2022-11-12 |
 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 | 2022-02-25 | 2022-04-09 |

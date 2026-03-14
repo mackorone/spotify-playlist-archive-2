@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15734,
+  "num_followers": 15735,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADf8hYDb0sXk/szwFiFsrsu",
+  "snapshot_id": "abICAAAAAACXo1fNmlAQT+39OKXQ7b5j",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "Lindo Presente",
-      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -303,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Templo Fit Remix",
-        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
       "artists": [
         {
@@ -312,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 236266,
-      "name": "Volte a Sonhar Remix",
-      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
+      "duration_ms": 247246,
+      "name": "Lindo Presente",
+      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
     },
     {
       "added_at": null,
@@ -335,6 +319,22 @@
       "duration_ms": 369280,
       "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Templo Fit Remix",
+        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Volte a Sonhar Remix",
+      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
     },
     {
       "added_at": null,
@@ -543,6 +543,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 256534,
+      "name": "Deus Indecifr\u00e1vel",
+      "url": "https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -567,38 +599,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 256534,
-      "name": "Deus Indecifr\u00e1vel",
-      "url": "https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 202060,
+      "name": "Colhendo Frutos",
+      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muda o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3"
       },
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+        "name": "Cartas Vivas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 202060,
-      "name": "Colhendo Frutos",
-      "url": "https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp"
+      "duration_ms": 220733,
+      "name": "Cartas Vivas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 249786,
       "name": "O Projeto \u00e9 Grande (Ao Vivo)",
       "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cartas Vivas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54bciXCQVKqtS5QKOlydMI"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Cartas Vivas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0cbFt604EkPvV6yVTPiqSX"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257416,
-      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Firme nas Promessas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 165653,
       "name": "Firme nas Promessas",
       "url": "https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 257416,
+      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
     },
     {
       "added_at": null,

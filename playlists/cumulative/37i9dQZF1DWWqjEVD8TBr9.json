@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/3BpgkGGY3CjIDhlRsoAzoZ"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/45CAsiLFBU9iKsQtyd2kmq"
+    },
+    {
+      "album": {
         "name": "Mixtape : dominATE",
         "url": "https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP"
       },

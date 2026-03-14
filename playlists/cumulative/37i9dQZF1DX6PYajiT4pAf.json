@@ -32613,6 +32613,24 @@
     },
     {
       "album": {
+        "name": "Fan\u00e1tico",
+        "url": "https://open.spotify.com/album/703O2V78C5YOXxXUvh6qoF"
+      },
+      "artists": [
+        {
+          "name": "Dani J",
+          "url": "https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "Fan\u00e1tico",
+      "url": "https://open.spotify.com/track/3MphyKUhKGJRIMbZzJMqYJ"
+    },
+    {
+      "album": {
         "name": "FAR CRY",
         "url": "https://open.spotify.com/album/08pmCUIFTxKkiqRnDtUtYe"
       },
@@ -62750,6 +62768,10 @@
         {
           "name": "Samuel SLZR",
           "url": "https://open.spotify.com/artist/5jxnZJCpTkZJSxyRzbVhGx"
+        },
+        {
+          "name": "Cbeatz",
+          "url": "https://open.spotify.com/artist/0F8S4K2jxw7ELy8IjouBJp"
         }
       ],
       "date_added": "2026-03-13",
@@ -72896,7 +72918,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174544,
-      "name": "Que Te Costo",
+      "name": "Que Te Cost\u00f3",
       "url": "https://open.spotify.com/track/7yFc9UbTE9D6rSvTur1xRa"
     },
     {

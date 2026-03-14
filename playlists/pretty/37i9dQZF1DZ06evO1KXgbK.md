@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,194 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,198 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 26 | [My Tennessee Mountain Home](https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Tennessee Mountain Home](https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp) | 3:09 |
 | 27 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
 | 28 | [Words](https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Words](https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp) | 3:11 |
-| 29 | [9 to 5 to 9](https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH) | [Sabyn](https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Halfway There](https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC) | 3:51 |
-| 30 | [Just When I Needed You Most](https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG), [John Sebastian](https://open.spotify.com/artist/3FPF6tyBTP79pCCAJDcPft) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:36 |
+| 29 | [Just When I Needed You Most](https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG), [John Sebastian](https://open.spotify.com/artist/3FPF6tyBTP79pCCAJDcPft) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:36 |
+| 30 | [9 to 5 to 9](https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH) | [Sabyn](https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Halfway There](https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC) | 3:51 |
 | 31 | [Two Doors Down](https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 3:08 |
 | 32 | [Rockin' Years \(with Ricky Van Shelton\)](https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Ricky Van Shelton](https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc) | [Eagle When She Flies](https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n) | 3:26 |
 | 33 | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 50 | [If You Hadn’t Been There](https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [If You Hadn’t Been There](https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD) | 3:28 |
 
-Snapshot ID: `abCwgAAAAACUByslOKF/DnB/gQ66hIyU`
+Snapshot ID: `abICAAAAAAAp2O/Wy9INKOQGJrMT5+/Z`

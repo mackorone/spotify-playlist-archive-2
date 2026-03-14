@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김효린 \(Kim Hyo Rin\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,696 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,702 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 |
-| 2 | [Traveler](https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Traveler](https://open.spotify.com/album/68cUet7KWWm4U1ageThcKz) | 4:12 |
-| 3 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 |
-| 4 | [PC Room](https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(February 2026\) \- PC Room](https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6) | 3:13 |
-| 5 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 |
-| 6 | [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 |
+| 1 | [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 |
+| 2 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 |
+| 3 | [Young & Naive](https://open.spotify.com/track/6FY6JISyIYFJ8JkN0hIgYP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Curtain Up, Class, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0FrES663wkOIWcoZHrD6E3) | 3:20 |
+| 4 | [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 |
+| 5 | [Traveler](https://open.spotify.com/track/1chEJRDNKoN7w4vpKeaEp4) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Traveler](https://open.spotify.com/album/68cUet7KWWm4U1ageThcKz) | 4:12 |
+| 6 | [Dear](https://open.spotify.com/track/5GE1frA2fEZ1qdXhFKVUWi) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Dear](https://open.spotify.com/album/196beeYDQ5UEGMCvpprN32) | 3:12 |
 | 7 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 8 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 9 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 17 | [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 |
 | 18 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
 | 19 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 |
-| 20 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
-| 21 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 20 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
+| 21 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 22 | [Hello, goodbye.](https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Hello, goodbye.](https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja) | 3:06 |
 | 23 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
 | 24 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 42 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
 | 43 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 44 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
-| 45 | [Solar System](https://open.spotify.com/track/1Pa5HDJ8XuDOvURilGrp1j) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Solar System](https://open.spotify.com/album/1Wd7Z5jWT4YdmccKph8Rmq) | 3:52 |
-| 46 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
-| 47 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 |
-| 48 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
+| 45 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
+| 46 | [Solar System](https://open.spotify.com/track/1Pa5HDJ8XuDOvURilGrp1j) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Solar System](https://open.spotify.com/album/1Wd7Z5jWT4YdmccKph8Rmq) | 3:52 |
+| 47 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
+| 48 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 |
 | 49 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 50 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 |
 
-Snapshot ID: `AAAAAMWkLqnpAWkG1CrBnREDMtsBdwpY`
+Snapshot ID: `AAAAAJk8e707ri5J2ljUeFmZVP44Ntdz`

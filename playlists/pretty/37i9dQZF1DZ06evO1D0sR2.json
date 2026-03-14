@@ -1,12 +1,12 @@
 {
   "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
-  "num_followers": 3230,
+  "num_followers": 3233,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACCGWdtLVH3S+Zfh/hdWAil",
+  "snapshot_id": "abICAAAAAAA/zxIrb5SO7gXAHK7xDjcj",
   "tracks": [
     {
       "added_at": null,
@@ -84,13 +84,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Greg Kirkland, Jr.",
-          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
+          "name": "Rich Tolbert Jr.",
+          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
         }
       ],
-      "duration_ms": 203920,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
+      "duration_ms": 402826,
+      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
+      "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
     },
     {
       "added_at": null,
@@ -168,13 +168,13 @@
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         },
         {
-          "name": "Rich Tolbert Jr.",
-          "url": "https://open.spotify.com/artist/4fwBB2MOFR0Yr5KmnQURfb"
+          "name": "Greg Kirkland, Jr.",
+          "url": "https://open.spotify.com/artist/2aPBhu0KFUmoRzz5ENVHrs"
         }
       ],
-      "duration_ms": 402826,
-      "name": "Miracle Worker (feat. Rich Tolbert Jr.) - Live",
-      "url": "https://open.spotify.com/track/28a6fdX75aPqpVHDp1cOpX"
+      "duration_ms": 203920,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/5k3Q41ISF9hhovjDnaVwom"
     },
     {
       "added_at": null,
@@ -259,26 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless Me - Single",
-        "url": "https://open.spotify.com/album/7AznLyaRwJ4nID1raGxDl3"
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 282407,
-      "name": "Bless Me (Radio Edit)",
-      "url": "https://open.spotify.com/track/46tpVPXWb0mbpDPkKUeghV"
+      "duration_ms": 312624,
+      "name": "No Reason To Fear",
+      "url": "https://open.spotify.com/track/6rmSwRU0TenwtqwJjvMS5n"
     },
     {
       "added_at": null,
@@ -347,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
+        "name": "Bless Me - Single",
+        "url": "https://open.spotify.com/album/7AznLyaRwJ4nID1raGxDl3"
       },
       "artists": [
         {
@@ -356,13 +348,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
           "name": "Youthful Praise",
           "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 351906,
-      "name": "He Is Exalted / Give You Praise - Live",
-      "url": "https://open.spotify.com/track/036LRl5m776cj31pgv49Wt"
+      "duration_ms": 282407,
+      "name": "Bless Me (Radio Edit)",
+      "url": "https://open.spotify.com/track/46tpVPXWb0mbpDPkKUeghV"
     },
     {
       "added_at": null,
@@ -387,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+        "name": "Exalted...Live In Baltimore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
       "artists": [
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
         }
       ],
-      "duration_ms": 312624,
-      "name": "No Reason To Fear",
-      "url": "https://open.spotify.com/track/6rmSwRU0TenwtqwJjvMS5n"
+      "duration_ms": 351906,
+      "name": "He Is Exalted / Give You Praise - Live",
+      "url": "https://open.spotify.com/track/036LRl5m776cj31pgv49Wt"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 710916,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Live Reunion: Washington, DC",
         "url": "https://open.spotify.com/album/7fVpXp2f85LpIBlfPRlTOs"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 405333,
       "name": "Nothing Else - Live",
       "url": "https://open.spotify.com/track/5ao5JTrKR9K4kSHEUibcSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 710916,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         }
       ],
-      "duration_ms": 330558,
-      "name": "Lord You're Mighty",
-      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+      "duration_ms": 159700,
+      "name": "Deliver",
+      "url": "https://open.spotify.com/track/2CXdxm5hSdb8zjEZpJ9E6L"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty",
+      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Not Holding Back",
         "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 552369,
       "name": "I Am Thankful",
       "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/5HJcOzXFjHpmCqM87Fx82Y"
     },
     {
       "added_at": null,

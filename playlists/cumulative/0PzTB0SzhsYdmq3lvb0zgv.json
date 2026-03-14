@@ -3121,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Hanging on Hope",
+        "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223939,
+      "name": "Hanging on Hope",
+      "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
+    },
+    {
+      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -6866,6 +6884,24 @@
       "duration_ms": 186000,
       "name": "She Makes Me",
       "url": "https://open.spotify.com/track/4UPPsbC81yQ1oxj80lfKWg"
+    },
+    {
+      "album": {
+        "name": "I Am June",
+        "url": "https://open.spotify.com/album/2WGkOXxTTMXnWJuZU3bJuG"
+      },
+      "artists": [
+        {
+          "name": "Romy Liz Rose",
+          "url": "https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/7kH2dQEgC2OMFxJJKqmCnx"
     },
     {
       "album": {

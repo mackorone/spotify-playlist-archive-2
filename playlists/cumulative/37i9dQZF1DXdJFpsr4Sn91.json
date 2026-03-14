@@ -2181,6 +2181,28 @@
     },
     {
       "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/1U8b3ii7rGYjIHLSbenp4d"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175677,
+      "name": "Boom Kah 2.0",
+      "url": "https://open.spotify.com/track/4we0IaQqOwFJlYIiCKvVFt"
+    },
+    {
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188106,
       "name": "Don't Leave - Kylie",
       "url": "https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN"
@@ -8120,7 +8142,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190025,
       "name": "J\u00e4\u00e4p\u00e4h\u00e4n",
       "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
@@ -10578,6 +10600,24 @@
       "duration_ms": 169329,
       "name": "L\u00f6yt\u00e4\u00e4 mut",
       "url": "https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4"
+    },
+    {
+      "album": {
+        "name": "m0ti0n",
+        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147562,
+      "name": "m0ti0n",
+      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
     },
     {
       "album": {

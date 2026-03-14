@@ -4,7 +4,7 @@
 
 > Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-288 songs - 16 hr 25 min
+289 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Falling or flying](https://open.spotify.com/track/0JZGKXuE6IZcGs5Jvw3bc8) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:24 | 2025-07-18 | 2026-02-05 |
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-21 |  |
 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 | 2026-01-27 | 2026-02-05 |
-| [Foul](https://open.spotify.com/track/68QVMtyPlxPGLGurDwAYdZ) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Foul](https://open.spotify.com/album/6NZjyOzH02iAwDbzJEAKku) | 1:53 | 2026-02-20 |  |
+| [Foul](https://open.spotify.com/track/68QVMtyPlxPGLGurDwAYdZ) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Foul](https://open.spotify.com/album/6NZjyOzH02iAwDbzJEAKku) | 1:53 | 2026-02-20 | 2026-03-14 |
 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 | 2026-01-27 | 2026-02-05 |
 | [FU & UF](https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1) | 2:39 | 2025-10-24 | 2026-01-31 |
 | [Georgia](https://open.spotify.com/track/5sfvzgf96i6nLyLELnrLZ6) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:50 | 2026-01-27 |  |
@@ -102,6 +102,7 @@
 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 | 2025-07-18 | 2025-11-29 |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/25FpYk2r43jMp2Rn1orAFp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:12 | 2025-07-18 | 2025-11-08 |
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-07-18 | 2026-01-27 |
+| [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-03-13 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 | 2025-08-09 |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2025-07-18 | 2025-08-09 |
 | [Heartbeat](https://open.spotify.com/track/3CP4TBBL8ZvTnHf0wPy7Pt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Deluxe\)](https://open.spotify.com/album/77RV71qonUUyGIJdmHyl4N) | 3:52 | 2025-07-18 | 2025-12-13 |

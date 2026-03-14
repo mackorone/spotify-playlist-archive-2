@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 772 likes - 70 songs - 4 hr 23 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 781 likes - 73 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 68 | [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 |
 | 69 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 |
 | 70 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 |
+| 71 | [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 |
+| 72 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 |
+| 73 | [The Kingdom](https://open.spotify.com/track/3ajLHTSHgtYmONgZBJjxZi) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Kingdom](https://open.spotify.com/album/1z6kqRlNo0i9j5weIERsa4) | 3:49 |
 
-Snapshot ID: `AAAFSDBRtBmAvD11b7Gp/EHwI0ynXRxn`
+Snapshot ID: `AAAFSyTCUYKSLi0FEb6SLJaTj7HcfJWT`

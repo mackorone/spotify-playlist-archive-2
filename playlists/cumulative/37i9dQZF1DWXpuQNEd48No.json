@@ -1019,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "Baddie \u092c\u0948\u0930\u0928",
+        "url": "https://open.spotify.com/album/3oW27wi6Yp1ErOhUGhk305"
+      },
+      "artists": [
+        {
+          "name": "Mandys",
+          "url": "https://open.spotify.com/artist/662nBxX0k6vcCiUGLiPUTu"
+        },
+        {
+          "name": "Flamme Music",
+          "url": "https://open.spotify.com/artist/2N2WSjZpkNvmAZrEaIqwiU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Baddie \u092c\u0948\u0930\u0928",
+      "url": "https://open.spotify.com/track/1PGuGfvK8JxRceMM4XsSEy"
+    },
+    {
+      "album": {
         "name": "BADERA",
         "url": "https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo"
       },
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 141625,
       "name": "Beham",
       "url": "https://open.spotify.com/track/4gqpKr2vMtbZHtMP5eMeQf"
@@ -2016,7 +2038,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 142736,
       "name": "Charche",
       "url": "https://open.spotify.com/track/6XE7hS0f3A59xRPZQf4nol"
@@ -4194,7 +4216,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 133636,
       "name": "Gaadi Me Jaat",
       "url": "https://open.spotify.com/track/3dTg3Iu1vyuj3QIRupY52r"
@@ -4256,7 +4278,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 123048,
       "name": "Gadi Nue Chalegi",
       "url": "https://open.spotify.com/track/1Zn4GyTX1TxWEpLJAg0Ecp"
@@ -5114,7 +5136,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196000,
       "name": "Hokka Break",
       "url": "https://open.spotify.com/track/0py2Q1ptHlLzBCOERghytM"
@@ -5433,6 +5455,32 @@
     },
     {
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1yjPH9YNlv1hrq5NSELfrZ"
+      },
+      "artists": [
+        {
+          "name": "Rawme Hooda",
+          "url": "https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE"
+        },
+        {
+          "name": "Riyaazi",
+          "url": "https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri"
+        },
+        {
+          "name": "Nishael",
+          "url": "https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/1xssFYXbMSDstoyckUKDOV"
+    },
+    {
+      "album": {
         "name": "THE MAN BEHIND DA SOUND",
         "url": "https://open.spotify.com/album/6g5WK5QijDB95Lw76u7i02"
       },
@@ -5452,6 +5500,32 @@
       "duration_ms": 183052,
       "name": "Immortal OG",
       "url": "https://open.spotify.com/track/0XHeNKizIygJFRoJAMxAUK"
+    },
+    {
+      "album": {
+        "name": "Infamous",
+        "url": "https://open.spotify.com/album/4M7gNYa6IkNZlB7d8NQT2v"
+      },
+      "artists": [
+        {
+          "name": "Rupesh Verma",
+          "url": "https://open.spotify.com/artist/3eHqgbr2KgIsDXukRPN92l"
+        },
+        {
+          "name": "Lucky Verma",
+          "url": "https://open.spotify.com/artist/0ONYbczi8XfLjtSH6YvCVg"
+        },
+        {
+          "name": "Gaurav Rathee",
+          "url": "https://open.spotify.com/artist/3jPAxFn2CJGbeulS7aC2V2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191368,
+      "name": "Infamous",
+      "url": "https://open.spotify.com/track/3ZoEqRmRJeq3ZBtRGk98Mt"
     },
     {
       "album": {
@@ -6689,6 +6763,28 @@
     },
     {
       "album": {
+        "name": "Koi Shaq",
+        "url": "https://open.spotify.com/album/5T1rED9y7F1CcHyQPAVRoe"
+      },
+      "artists": [
+        {
+          "name": "Raag1",
+          "url": "https://open.spotify.com/artist/3LeUlF8NrqS9wEw8TsyFAf"
+        },
+        {
+          "name": "Meer",
+          "url": "https://open.spotify.com/artist/6DmyMZv3lelGiNWVoceuYj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175199,
+      "name": "Koi Shaq",
+      "url": "https://open.spotify.com/track/2ZibWzE4NnlLuYxLlbAnji"
+    },
+    {
+      "album": {
         "name": "Kon Rok De",
         "url": "https://open.spotify.com/album/6t4feIBghkjI1WncntRLAn"
       },
@@ -7212,6 +7308,28 @@
       "duration_ms": 146621,
       "name": "Makhan Malayi",
       "url": "https://open.spotify.com/track/3TewPR3JGuHN1nbiYMc3na"
+    },
+    {
+      "album": {
+        "name": "Malook",
+        "url": "https://open.spotify.com/album/2hFckdmBsAIQBniKAHzTQM"
+      },
+      "artists": [
+        {
+          "name": "Eshan Bhati",
+          "url": "https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf"
+        },
+        {
+          "name": "sarita bhati",
+          "url": "https://open.spotify.com/artist/0eH21yh7vieVe3O7N3g8Jq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140197,
+      "name": "Malook",
+      "url": "https://open.spotify.com/track/02QHJ65sSqKGcIdyF13Nih"
     },
     {
       "album": {
@@ -8468,7 +8586,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177857,
       "name": "Number Plate",
       "url": "https://open.spotify.com/track/7nNxDOSyABffGcaehhncXG"
@@ -8508,6 +8626,24 @@
       "duration_ms": 168670,
       "name": "OG",
       "url": "https://open.spotify.com/track/23ON0lC7ppFxmWTazcIbU6"
+    },
+    {
+      "album": {
+        "name": "OG Chhora",
+        "url": "https://open.spotify.com/album/3rPwRkOWtFjggZzy13HWql"
+      },
+      "artists": [
+        {
+          "name": "Sangam Vigyaanik",
+          "url": "https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "OG Chhora",
+      "url": "https://open.spotify.com/track/5AmAcPhOWXWOUxJ31aq1vl"
     },
     {
       "album": {
@@ -8856,6 +8992,28 @@
       "duration_ms": 164400,
       "name": "Pakke Pakke Yaadi",
       "url": "https://open.spotify.com/track/58k1LJQuMKpHalf5Zm6Qd8"
+    },
+    {
+      "album": {
+        "name": "Panama",
+        "url": "https://open.spotify.com/album/4mZif3QKNCwxDYqsPcc6EC"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/2n7bKYugtvomFwNTBBsyiv"
+        },
+        {
+          "name": "Eyepatch",
+          "url": "https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125980,
+      "name": "Panama",
+      "url": "https://open.spotify.com/track/5wL8qHdUvLt0EjHsdB814i"
     },
     {
       "album": {
@@ -10896,7 +11054,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 132927,
       "name": "Tere Seher Me",
       "url": "https://open.spotify.com/track/07wQ6avcQbxsBarI75yPIi"

@@ -4,7 +4,7 @@
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 43 min
+71 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,13 +24,14 @@
 | [Dinastía De Los Ochoa](https://open.spotify.com/track/7fogb68Ma2b3qzjiQyeBY8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro: Mis Mejores Corridos, Vol\. 3](https://open.spotify.com/album/60Ct5U4wMdKjuW7AtwpkyU) | 3:09 | 2025-11-25 | 2026-03-02 |
 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 | 2024-04-22 |  |
 | [El Crimen De Culiacán](https://open.spotify.com/track/5pkr9BmnShPMoo5QLnpmnA) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:10 | 2024-01-29 |  |
-| [El Dos Dedos](https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 3:25 | 2025-10-12 |  |
+| [El Dos Dedos](https://open.spotify.com/track/3oBmCyq6ABjudJWo5qYO6V) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 3:25 | 2025-10-12 | 2026-03-14 |
 | [El Dos Dedos](https://open.spotify.com/track/5HPNKShAEtHcnKAaFmtsmR) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:25 | 2024-01-29 | 2025-10-11 |
 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 | 2024-06-07 |  |
 | [El General Y El Sargento](https://open.spotify.com/track/706w1kXEx2B5IaviFLTpIK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Con Sus 17 Mejores Exitos](https://open.spotify.com/album/6EUR1fKyYifEHVaFSPhEIM) | 3:25 | 2025-10-03 | 2025-12-18 |
 | [El Navegante](https://open.spotify.com/track/6o2BhZdnRk4hLaTh1x8mKI) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:07 | 2024-01-29 |  |
 | [El Pitallón](https://open.spotify.com/track/2HvtcMIVVKLyiRekISxGk3) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:46 | 2024-01-29 |  |
 | [El Pávido Návido](https://open.spotify.com/track/3l1YSF2pus1uieW2uYU99Q) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Recordando A Chalino](https://open.spotify.com/album/0p091X45za7loFjKaHPLaj) | 2:54 | 2024-01-29 |  |
+| [El Sapo \- Remastered 2025](https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Más Éxitos con Chalino Sánchez \(Remastered 2025\)](https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt) | 4:10 | 2026-03-14 |  |
 | [Eladio Félix](https://open.spotify.com/track/4a2GA2x6dwdI8jy2YaWZ3j) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:39 | 2024-01-29 | 2025-12-15 |
 | [Eleodoro Elenes](https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Rey del Corrido: Ayer, Hoy y Siempre, Vol\. 1](https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl) | 3:15 | 2025-10-04 | 2025-11-25 |
 | [Flor Margarita](https://open.spotify.com/track/4JwdKHP4C2d4sc3KakrPiK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [26 Exitos Favoritos de la Raza](https://open.spotify.com/album/55Iyqdjed7KB5AgQFDPz6N) | 3:35 | 2024-01-29 |  |
@@ -75,7 +76,8 @@
 | [Rigo Coria](https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez Con Banda Brava](https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF) | 3:32 | 2025-12-18 |  |
 | [Tino Quintero](https://open.spotify.com/track/1dS1VAMF11UphldAujqNDK) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 3:46 | 2024-01-29 |  |
 | [Una Tarde](https://open.spotify.com/track/2I7dNLPnIshiEaGllzNRvP) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:08 | 2024-01-29 |  |
-| [Ya Después De Muerto](https://open.spotify.com/track/56HA9KycOi4FzI9FJw4fyN) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 2:25 | 2025-10-11 |  |
+| [Ya Después De Muerto](https://open.spotify.com/track/56HA9KycOi4FzI9FJw4fyN) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Colección De Oro De Chalino Sánchez, Vol\. 2: Corridos](https://open.spotify.com/album/6LxSZiUs4esgDajqF1hs2Y) | 2:25 | 2025-10-11 | 2026-03-14 |
 | [Ya Después De Muerto](https://open.spotify.com/track/63T9BiuIC3LRI8mdHG8msf) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 2:25 | 2024-01-29 | 2025-10-11 |
+| [Ya Después de Muerto \- Remastered 2025](https://open.spotify.com/track/2w5ZxdPx0tRIyp5knHPVje) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 2:27 | 2026-03-14 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

@@ -9529,6 +9529,24 @@
     },
     {
       "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs"
+    },
+    {
+      "album": {
         "name": "Confessions: An Unexpected Turn of Events",
         "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
       },

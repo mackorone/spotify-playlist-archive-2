@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-225 songs - 9 hr 49 min
+226 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [CLOUD](https://open.spotify.com/track/6ZbpaHInXckaSUDiGDCwHX) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Night Show](https://open.spotify.com/album/52mLSslJpI3vsoIgi1KSA6) | 2:54 | 2022-10-10 |  |
 | [Club Racer](https://open.spotify.com/track/0TixfN2rNvg1VL4gggylRH) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Club Racer](https://open.spotify.com/album/05FqgSKvtl1CfngN1M6C8l) | 2:08 | 2022-10-28 |  |
 | [Cold Blood](https://open.spotify.com/track/6BGI62bC9ZBOvTqWCd6Nd5) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r), [HOSPICEMANE](https://open.spotify.com/artist/5k3a4j15fF9gr4ZvCqMjDm) | [Cold Blood](https://open.spotify.com/album/4i4J6PY1upuY48jsSITgGi) | 3:06 | 2022-11-18 |  |
-| [Creatures of the Night](https://open.spotify.com/track/7IolTPngH9m5BHNC9qgWlz) | [Kaytan](https://open.spotify.com/artist/6eNUa8KyKjUijdRSJbdHl1) | [Creatures of the Night](https://open.spotify.com/album/57A1qjqGTBLbS019uQIDwe) | 3:00 | 2024-02-22 |  |
+| [COSMO](https://open.spotify.com/track/2pfzrnyx8Rt5Zv7hN9NYud) | [nashi](https://open.spotify.com/artist/0KOqhZfks5Ga03qPrSFu0I) | [COSMO](https://open.spotify.com/album/18kvjBvrw3ayJYWrXsCsWf) | 2:05 | 2026-03-13 |  |
+| [Creatures of the Night](https://open.spotify.com/track/7IolTPngH9m5BHNC9qgWlz) | [Kaytan](https://open.spotify.com/artist/6eNUa8KyKjUijdRSJbdHl1) | [Creatures of the Night](https://open.spotify.com/album/57A1qjqGTBLbS019uQIDwe) | 3:00 | 2024-02-22 | 2026-03-14 |
 | [Cyanide](https://open.spotify.com/track/2FqBlSZxiRuxjgQcMvQAUP) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Cyanide](https://open.spotify.com/album/1AlwyKku3ObMAl0jkz8Qwf) | 2:57 | 2022-10-10 | 2023-08-05 |
 | [Dark Mercer](https://open.spotify.com/track/3TX53IyZvSsjYzZrmHQdI1) | [5l33p](https://open.spotify.com/artist/1JjSBnVH2QnmXFBmaIGdjq) | [Dark Mercer](https://open.spotify.com/album/6GMEh5mGT9CVyXO3TFo8EU) | 2:38 | 2022-11-11 |  |
 | [Desolation 2](https://open.spotify.com/track/5YQV3dcbq48zCmofyOSzcJ) | [CREEPYMANE](https://open.spotify.com/artist/4iS0O9GXC7newvIHGqgaEz) | [Desolation 2](https://open.spotify.com/album/0xMdm6pqSb4FKXUhI6iAa1) | 1:32 | 2022-10-10 |  |

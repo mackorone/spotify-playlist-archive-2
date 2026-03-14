@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-570 songs - 1 day 10 hr 1 min
+571 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 | 2022-07-08 | 2024-04-08 |
 | [Maison ouverte](https://open.spotify.com/track/70IzGRRdLL511jD0GaK2hr) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/7IKvXTDryqlnDBAV1vWaif) | 3:59 | 2021-01-15 | 2022-07-29 |
 | [Maison\-monde](https://open.spotify.com/track/5RBF1WP8lY0OtzVOoYnPFN) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Maison\-monde](https://open.spotify.com/album/1gtEMwLBQYFoScnowHICsK) | 3:32 | 2023-12-01 | 2024-06-01 |
+| [Make Believe](https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc), [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Make Believe](https://open.spotify.com/album/0avJv1JOKAQRSrd4WVXhiN) | 3:57 | 2026-03-13 |  |
 | [Maker Taker](https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Strange Medicine](https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D) | 3:39 | 2024-05-17 | 2024-09-02 |
 | [Mardi de pluie](https://open.spotify.com/track/60EuBCizMRhgud2wplAFCT) | [Véronique Bilodeau](https://open.spotify.com/artist/37VHbBeOGoDDc1MbHPiDPM) | [Mardi de pluie](https://open.spotify.com/album/1eYjA8gbd6h2CsMnYNPNwc) | 3:53 | 2021-01-03\* | 2021-10-08 |
 | [Marie](https://open.spotify.com/track/0qQiPk5BT3jBwucog23UXX) | [Jean\-Christophe Lessard](https://open.spotify.com/artist/6DXMQCirWG4JsfU3zlxDJ6) | [Les voix levées](https://open.spotify.com/album/0Yv8nEEStD392nKBLYPt36) | 3:21 | 2021-01-03\* | 2021-10-22 |
@@ -510,7 +511,7 @@
 | [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 | 2021-01-15 | 2023-04-29 |
 | [Ton équilibre](https://open.spotify.com/track/1PktdmpT9r2gAOQtASLK4z) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Les choses extérieures](https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0) | 3:50 | 2022-07-08 | 2024-04-19 |
 | [Ton équilibre](https://open.spotify.com/track/2Y10L0A6jX0JmWzYZ4oU2L) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Ton équilibre](https://open.spotify.com/album/3hi8B3keG1GVEzdkKVKVyD) | 3:50 | 2021-01-15 | 2022-07-29 |
-| [Too Far to Run](https://open.spotify.com/track/1469IXFAtWFkL11GREMfKD) | [Daniel Isaiah](https://open.spotify.com/artist/4aDuNE6LWkaBuXT43fA4P6) | [Too Far to Run](https://open.spotify.com/album/4U014bkh4YKajHqOLlRtlL) | 3:02 | 2026-03-06 |  |
+| [Too Far to Run](https://open.spotify.com/track/1469IXFAtWFkL11GREMfKD) | [Daniel Isaiah](https://open.spotify.com/artist/4aDuNE6LWkaBuXT43fA4P6) | [Too Far to Run](https://open.spotify.com/album/4U014bkh4YKajHqOLlRtlL) | 3:02 | 2026-03-06 | 2026-03-14 |
 | [Tous les chemins / Darl Bundren](https://open.spotify.com/track/6IRdDBcQLbaCkRnbllf2x1) | [Hôtel Invisible](https://open.spotify.com/artist/7f7YYtcRIuuRYU6KOjxBZD) | [Le Théâtre Zéro](https://open.spotify.com/album/2BCLDUi2WK0GKmJwsr3R6Z) | 3:42 | 2021-04-19 | 2021-05-28 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-20 |
 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 | 2025-10-18 |

@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "Festen er aldri over",
+        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Ingen som skal hjem (feat. Staysman)",
+      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
+    },
+    {
+      "album": {
         "name": "WITHERED",
         "url": "https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf"
       },
@@ -3634,24 +3656,6 @@
       "duration_ms": 156631,
       "name": "Too Well",
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
-    },
-    {
-      "album": {
-        "name": "Festen er aldri over",
-        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
     },
     {
       "album": {

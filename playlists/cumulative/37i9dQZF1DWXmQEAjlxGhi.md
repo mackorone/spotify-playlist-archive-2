@@ -4,7 +4,7 @@
 
 > Upbeat Latin songs to keep your heart rate up.
 
-638 songs - 1 day 10 hr 22 min
+639 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,12 +553,13 @@
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2021-12-09 | 2022-07-22 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-10-31 | 2025-01-18 |
 | [Súbeteme Ahí](https://open.spotify.com/track/6NfZxg9nCsynz5MQy39IDM) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [HiROQUEST 3: Paragon](https://open.spotify.com/album/0SZQbOi7KSqnvTu6l7d9YR) | 3:25 | 2025-07-04 | 2025-08-02 |
+| [T O M A !](https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [T O M A !](https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI) | 2:40 | 2026-03-13 |  |
 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 | 2024-01-04 | 2025-01-18 |
 | [TAJIN](https://open.spotify.com/track/6stQ6SHIch2zT8yCUbsvWc) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:54 | 2022-07-21 | 2023-01-28 |
 | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3) | 3:32 | 2025-01-17 | 2025-02-12 |
 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 | 2023-02-24 | 2024-05-02 |
 | [Tattoo](https://open.spotify.com/track/7na7Bk98usp84FaOJFPv3d) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Tattoo](https://open.spotify.com/album/2YRwWCfsk2Uf9ycGS7FRMV) | 3:22 | 2021-12-09 | 2022-07-22 |
-| [Te Culié](https://open.spotify.com/track/6ead1xuJCtpxsGXJ8llYxq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 1:58 | 2026-01-09 |  |
+| [Te Culié](https://open.spotify.com/track/6ead1xuJCtpxsGXJ8llYxq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Stendhal](https://open.spotify.com/album/6iUfdDevy7HR3zYPj2BRTq) | 1:58 | 2026-01-09 | 2026-03-14 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-07-21 |  |
 | [Te Quiero Ver \(feat\. Beto Perez\)](https://open.spotify.com/track/3n5s7iMigB2NX57PPZJrts) | [Locos Por Juana](https://open.spotify.com/artist/4AX0I32V6XRGh9aRv7wj2h), [Beto Perez](https://open.spotify.com/artist/5xUarxpnDQkuXJbhe6RD3p) | [Te Quiero Ver \(feat\. Beto Perez\)](https://open.spotify.com/album/7HhiUtkhG2ZpHMKaUKZ9XH) | 4:49 | 2021-12-09 | 2022-07-22 |
 | [Te Recorde](https://open.spotify.com/track/307t8QD6epX1YcP0MgNXur) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Subelo NEO](https://open.spotify.com/artist/5jNjbQYkujIbjSvvKroBlv) | [Te Recorde](https://open.spotify.com/album/753nHiBiBSY5SIJbpn5B5P) | 2:47 | 2024-02-24 | 2024-05-02 |

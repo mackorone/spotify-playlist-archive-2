@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Dopebwoy
 
-357 songs - 16 hr 7 min
+357 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Stadshart](https://open.spotify.com/track/5YxHWOvljQE660Pu6krtA0) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [P8](https://open.spotify.com/album/2RV9Urjp8Tz20Czx213aLQ) | 2:53 | 2025-11-06 | 2025-12-19 |
 | [StAYbLESS.](https://open.spotify.com/track/7KU42QXlh12bmtBhuasiqg) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [StAYbLESS.](https://open.spotify.com/album/3NxlYl6uMcn8hQPOsOq7Ch) | 3:22 | 2025-10-30 | 2026-02-20 |
 | [Stenen](https://open.spotify.com/track/1ytJk4rlLoloGfq8V5uhzm) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Stenen](https://open.spotify.com/album/3s7dQ2oumFQWZFvMUxnE9p) | 2:32 | 2025-08-04 | 2025-08-29 |
+| [Stenen & Liquide](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 1:48 | 2026-03-12 |  |
 | [Suffe Goon](https://open.spotify.com/track/1wIuLWkmtamogzUPFTrtXs) | [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Suffe Goon](https://open.spotify.com/album/3TcdEsLyQGGDeeC8eZ4t8F) | 3:01 | 2025-07-17 | 2025-08-29 |
 | [SUPREME](https://open.spotify.com/track/5quw3QXbs7SPmC1bUkHzp7) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [SUPREME](https://open.spotify.com/album/1h4e2OXH9T9Hb2cHLvC4E7) | 2:12 | 2025-07-17 | 2025-08-29 |
 | [Tafel Voor 2](https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Tafel Voor 2](https://open.spotify.com/album/3KZ7sUm5SAEV7TaSuQ7PPA) | 3:15 | 2025-09-18 | 2025-11-04 |
@@ -317,7 +318,6 @@
 | [To the Max](https://open.spotify.com/track/5XjhvR5rKcug7q8DKyxzlm) | [DjangoBeats](https://open.spotify.com/artist/5S8jlJz9AU8D2LYdfjSNOi), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ), [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [To the Max](https://open.spotify.com/album/4DSU5IvNNK26NuzPhItKSE) | 3:45 | 2025-10-16 | 2025-12-05 |
 | [Toedels!](https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3) | [Toedels!](https://open.spotify.com/album/7bDArl46fkgXYxKqxSrKqf) | 2:52 | 2026-02-26 |  |
 | [TOXIC](https://open.spotify.com/track/02SkhSShsYpPPAmqwdJi6B) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4) | [TOXIC](https://open.spotify.com/album/7DWEu6Ka60yycvREDE9XLG) | 3:15 | 2025-07-17 | 2025-08-15 |
-| [Track 1](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 0:00 | 2026-03-12 |  |
 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 | 2025-12-04 | 2026-01-23 |
 | [Trendsetter](https://open.spotify.com/track/1hEc7w72T66QCtN6AbVa2R) | [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu) | [Trendsetter](https://open.spotify.com/album/4NufF0Z58ZQYF7S61NO6LI) | 2:42 | 2025-07-17 | 2025-08-15 |
 | [TURCOSHIT](https://open.spotify.com/track/4zP9qyBs4U2Jg2mKmUsAE3) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1) | [TURCOSHIT](https://open.spotify.com/album/2IVrLyF9g7IAQWojebAdRf) | 2:38 | 2026-01-15 | 2026-01-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 384033,
+  "num_followers": 384265,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANpOk/aKnLs7otViN9wZ0SLZr1Qt",
+  "snapshot_id": "AAAAABwSd456VLWO01MpFUgkSkLEqQAS",
   "tracks": [
     {
       "added_at": "2026-03-06 04:00:27",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
+    },
+    {
+      "added_at": "2026-03-06 04:00:27",
+      "album": {
         "name": "Find Someone Like You",
         "url": "https://open.spotify.com/album/63okbbo4mM33XJt2DmYRgS"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 322306,
       "name": "In The City",
       "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
-    },
-    {
-      "added_at": "2026-03-06 04:00:27",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Do not disturb",
-        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
-      },
-      "artists": [
-        {
-          "name": "Matty Mel Jr",
-          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Do not disturb",
-      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
-    },
-    {
-      "added_at": "2026-03-06 04:00:27",
-      "album": {
         "name": "My Inspiration",
         "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 266960,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi"
+    },
+    {
+      "added_at": "2026-03-06 04:00:27",
+      "album": {
+        "name": "Do not disturb",
+        "url": "https://open.spotify.com/album/4RG39enCANdnjbagkDndcp"
+      },
+      "artists": [
+        {
+          "name": "Matty Mel Jr",
+          "url": "https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Do not disturb",
+      "url": "https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
       },
       "artists": [
         {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
         }
       ],
-      "duration_ms": 311322,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
+      "duration_ms": 227328,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
       },
       "artists": [
         {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
         }
       ],
-      "duration_ms": 227328,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
+      "duration_ms": 311322,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
-      },
-      "artists": [
-        {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
-        }
-      ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
-    },
-    {
-      "added_at": "2026-03-06 04:00:27",
-      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 284200,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES"
+    },
+    {
+      "added_at": "2026-03-06 04:00:27",
+      "album": {
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
+      },
+      "artists": [
+        {
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
+        }
+      ],
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
-      },
-      "artists": [
-        {
-          "name": "Fourplay",
-          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
-        }
-      ],
-      "duration_ms": 329346,
-      "name": "Rozil",
-      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
-    },
-    {
-      "added_at": "2026-03-06 04:00:27",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 324213,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+    },
+    {
+      "added_at": "2026-03-06 04:00:27",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI"
+      },
+      "artists": [
+        {
+          "name": "Fourplay",
+          "url": "https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS"
+        }
+      ],
+      "duration_ms": 329346,
+      "name": "Rozil",
+      "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2026-03-06 04:00:27",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/77ELqjPSPIZRplbz2T2IGs"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 247746,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
+    },
+    {
+      "added_at": "2026-03-06 04:00:27",
+      "album": {
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "The Dubble",
-        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
+        "name": "Down / Fade",
+        "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
       },
       "artists": [
         {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+          "name": "Taipei Tapes",
+          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
         }
       ],
-      "duration_ms": 176000,
-      "name": "The Dubble",
-      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
+      "duration_ms": 124848,
+      "name": "Down / Fade",
+      "url": "https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Down / Fade",
-        "url": "https://open.spotify.com/album/51NGl5luvcNeDYpJkt2ftG"
+        "name": "The Dubble",
+        "url": "https://open.spotify.com/album/4PFrstLSNUox98INthlTQT"
       },
       "artists": [
         {
-          "name": "Taipei Tapes",
-          "url": "https://open.spotify.com/artist/0I7oMIMIEOjBvtVDiR4GXT"
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
         }
       ],
-      "duration_ms": 124848,
-      "name": "Down / Fade",
-      "url": "https://open.spotify.com/track/7Mwv58TkZw4Oh9aJF3bFrQ"
+      "duration_ms": 176000,
+      "name": "The Dubble",
+      "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"
     },
     {
       "added_at": "2026-03-06 04:00:27",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-03-06 04:00:27",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Pop's Cool Groove",
-      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
-    },
-    {
-      "added_at": "2026-03-06 04:00:27",
-      "album": {
         "name": "Lip Service",
         "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 241306,
       "name": "Givin' It Up",
       "url": "https://open.spotify.com/track/39ex82ihu7ZSBIW7zFTA4P"
+    },
+    {
+      "added_at": "2026-03-06 04:00:27",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Pop's Cool Groove",
+      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
     },
     {
       "added_at": "2026-03-06 04:00:27",

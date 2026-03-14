@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김효린 \(Kim Hyo Rin\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-665 songs - 1 day 15 hr 7 min
+667 songs - 1 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bird Song](https://open.spotify.com/track/5t4gFAD6xd9WsacZP32uxU) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [The potato lab, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4eUdm8UPPfMEKNN0deQY8u) | 3:30 | 2025-03-14 | 2025-03-21 |
 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-23 | 2024-10-05 |
 | [Bloom](https://open.spotify.com/track/3ANZUoigx1r1GgZJMqbMwY) | [Moonbit](https://open.spotify.com/artist/5rwDc7dGKrtZg9TN1vsSPx) | [Bloom](https://open.spotify.com/album/3tePaoi07rPbKErbdBwE3w) | 3:35 | 2022-04-12 | 2022-04-16 |
+| [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 | 2026-03-13 |  |
 | [Blue](https://open.spotify.com/track/3qjnIcGn7hp9iDYiaAt1oO) | [Choix2](https://open.spotify.com/artist/14RtqJKZMfdKYwObLGvnmV), [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Blue](https://open.spotify.com/album/7M3HVFFPw2ajPY5gsKMARe) | 3:06 | 2022-04-12 | 2022-04-20 |
 | [Blue cup](https://open.spotify.com/track/10iDbo5A1SPN384YGLCgp2) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 2:55 | 2022-01-10 | 2022-04-03 |
 | [Blueberry Eyes \- Acoustic](https://open.spotify.com/track/0KY4z8DkvSae2ROsmsrAsN) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Blueberry Eyes \(Acoustic\)](https://open.spotify.com/album/6eS71yiVKtAuzp5yQGuqS9) | 2:31 | 2022-03-31 | 2022-06-07 |
@@ -297,7 +298,7 @@
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 | 2025-02-12 |
 | [Late Night Workout](https://open.spotify.com/track/65yx3grfHnTFhJPuYVi2QF) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [Late Night Workout](https://open.spotify.com/album/7cjr2FSE05LdsoCLgR2xkZ) | 2:29 | 2024-03-06 | 2024-03-16 |
-| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 |  |
+| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 | 2026-03-14 |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2022-09-28 |
 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 | 2022-09-03 |
 | [Let It Pale](https://open.spotify.com/track/6fa1F99fDdvb6jsQZnzJsf) | [Sunbee](https://open.spotify.com/artist/5mWU6kFLkz7K2EBa3w7X8k) | [Sketch, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/12OnMHfBUbSNDwuRpO3MPe) | 2:46 | 2022-03-31 | 2022-04-14 |
@@ -405,7 +406,7 @@
 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 | 2022-07-08 | 2024-04-19 |
 | [Paints \(feat\. 1ho\)](https://open.spotify.com/track/4OtqERJlgW34oCFGZVmkF7) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [GODAK](https://open.spotify.com/artist/1ul4BJWyGZ6DGJcQ2LoFrn), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g) | [Paints \(feat\. 1ho\)](https://open.spotify.com/album/5zPPNCnontFzam8kszcCIZ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Paper Plane](https://open.spotify.com/track/3Svzw7s61quYcD77evcW3p) | [Swan](https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM) | [In the End of Winter](https://open.spotify.com/album/2OdCK6gCCjJd31DKLH76pW) | 4:01 | 2022-03-31 | 2022-04-14 |
-| [PC Room](https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(February 2026\) \- PC Room](https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6) | 3:13 | 2026-03-03 |  |
+| [PC Room](https://open.spotify.com/track/0CDrH0mwXPAsPwaDUx5U8u) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [End of the Month, Jang Beom June \(February 2026\) \- PC Room](https://open.spotify.com/album/2oajUegRsqXyGidxxbPzt6) | 3:13 | 2026-03-03 | 2026-03-14 |
 | [Perhaps](https://open.spotify.com/track/4pawkVuIEMJX1NMQjZq2Al) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Perhaps](https://open.spotify.com/album/6q3yMOtkLEpTGkEmFsJxbT) | 3:03 | 2025-01-02 | 2025-01-10 |
 | [Perhaps here](https://open.spotify.com/track/7DyJ2hn51jaHlmEm3ik5rQ) | [Kim Do Yeon](https://open.spotify.com/artist/1pUCZRd6GiVJTcQncoZmSF) | [Perhaps here](https://open.spotify.com/album/48H2QWLMT5SmjwoL0k5LIs) | 2:49 | 2025-10-02 | 2025-10-10 |
 | [PET](https://open.spotify.com/track/4ENLJt3lo1gHeCwzas8om1) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [50 X HALF](https://open.spotify.com/album/6Gb67WVk3hjMcQ6WhQmuRK) | 3:41 | 2022-03-31 | 2022-04-21 |
@@ -627,6 +628,7 @@
 | [You're here with Rain 비 오는 날이 좋아질 것 같아 \(With Chamsom\)](https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [You're here with Rain 비 오는 날이 좋아질 것 같아 \(With Chamsom\)](https://open.spotify.com/album/7v0pFPnfFlTIiXxWXQipYZ) | 3:33 | 2021-12-10 | 2022-07-12 |
 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 | 2022-06-29 | 2022-08-13 |
 | [You're My Spring](https://open.spotify.com/track/2tbeDFuG6El0xAAXF82i7O) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg) | 4:19 | 2022-03-31 | 2022-04-19 |
+| [Young & Naive](https://open.spotify.com/track/6FY6JISyIYFJ8JkN0hIgYP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Curtain Up, Class, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0FrES663wkOIWcoZHrD6E3) | 3:20 | 2026-03-13 |  |
 | [Your Name](https://open.spotify.com/track/7ktr6eDv82BxdKjrN8a3YX) | [Cho Hyung Woo](https://open.spotify.com/artist/2mJ89mSNpPIw2zX7LS4VEU) | [Your Name](https://open.spotify.com/album/2sugn3G1j8pM001aTlCkXh) | 2:41 | 2023-06-13 | 2023-07-08 |
 | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/track/7gNmBWybrfvC54kl980igz) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [Kim Min Ki](https://open.spotify.com/artist/0vcaB67WgOvbcyhMvLpcXr) | [Your Scent \(feat\. Kim Min Ki\)](https://open.spotify.com/album/2BCQe1hxo8uwyOpjdl1FdM) | 4:00 | 2022-03-31 | 2022-04-19 |
 | [Your sea \(Acc ver.\)](https://open.spotify.com/track/7gAcFTyzB81ACPs299HS4M) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [T\_wo](https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW) | 3:16 | 2021-12-10 | 2022-06-17 |

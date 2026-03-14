@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
-  "num_followers": 11102,
+  "num_followers": 11105,
   "original_name": "Top 50 - Saudi Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MUYiwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MUd0QAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "SUPERMAN",
         "url": "https://open.spotify.com/album/0abU4VC9jkNydVmpg1LZ0i"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0jkjiF0f9c7EpJRUJ47bvi"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "\u0639\u0641\u062a\u0646\u064a",
         "url": "https://open.spotify.com/album/6zNPnvXdp0lpC4Kj73yp3d"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5WFEeDclrtcviUwnbpHiiF"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "\u0634\u0628\u062a \u0646\u0627\u0631",
         "url": "https://open.spotify.com/album/4YD70qCtGLLnlbMZ1SYIlt"
@@ -117,23 +117,7 @@
       "url": "https://open.spotify.com/track/4rHm5aa07a56RND2cOBjhb"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -149,39 +133,23 @@
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
-        "url": "https://open.spotify.com/album/2RH0Lx9crTxiY0iEVaZ5sk"
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
       "artists": [
         {
-          "name": "Sabah Mahmod",
-          "url": "https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 246021,
-      "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
-      "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Ghayeb",
-        "url": "https://open.spotify.com/album/7zKm45HijVgwCv3z1Vm0gV"
-      },
-      "artists": [
-        {
-          "name": "Essam Kamal",
-          "url": "https://open.spotify.com/artist/7yFfaC7g3jtOSQiJGUF0iD"
-        }
-      ],
-      "duration_ms": 279341,
-      "name": "Ghayeb",
-      "url": "https://open.spotify.com/track/73JlqL415zZh8mef83ZqtJ"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
@@ -197,23 +165,23 @@
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/2RH0Lx9crTxiY0iEVaZ5sk"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Sabah Mahmod",
+          "url": "https://open.spotify.com/artist/6DPTJXd1omQ1oTiR1Vy9CZ"
         }
       ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+      "duration_ms": 246021,
+      "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -229,23 +197,55 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+        "name": "Ghayeb",
+        "url": "https://open.spotify.com/album/7zKm45HijVgwCv3z1Vm0gV"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Essam Kamal",
+          "url": "https://open.spotify.com/artist/7yFfaC7g3jtOSQiJGUF0iD"
         }
       ],
-      "duration_ms": 170333,
-      "name": "I Thought I Saw Your Face Today",
-      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+      "duration_ms": 279341,
+      "name": "Ghayeb",
+      "url": "https://open.spotify.com/track/73JlqL415zZh8mef83ZqtJ"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -261,7 +261,23 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "\u0645\u062a\u0649 \u0646\u0642\u062f\u0631 \u0639\u0644\u0649 \u0641\u0631\u0642\u0627\u0643\u0645 (MSH Remix)",
         "url": "https://open.spotify.com/album/5OUrev7dYXNvqusA32dQKO"
@@ -281,39 +297,7 @@
       "url": "https://open.spotify.com/track/5ewAJC7GLvXNw1GUYhVRYu"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Ana Al Basma",
-        "url": "https://open.spotify.com/album/2fnb7JYYwpIfcY7PXPas2c"
-      },
-      "artists": [
-        {
-          "name": "Mohamed AlSalim",
-          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
-        }
-      ],
-      "duration_ms": 226853,
-      "name": "Aaouf El Denia",
-      "url": "https://open.spotify.com/track/2yO2XFeewgC5j5wPTZZ5ha"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
@@ -329,59 +313,39 @@
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "Wanet Mn Frkakom",
-        "url": "https://open.spotify.com/album/1O3ED04PEGgFBQAm2LqSwg"
+        "name": "Habibi Howa",
+        "url": "https://open.spotify.com/album/6CFZmeFJVAuc3Bc1rEVJb9"
       },
       "artists": [
         {
-          "name": "Ali Al Feraty",
-          "url": "https://open.spotify.com/artist/7o2ZwGvlqfe49WvobcqgzK"
-        },
-        {
-          "name": "\u0639\u0644\u064a \u0627\u0644\u0641\u0631\u0627\u062a\u064a",
-          "url": "https://open.spotify.com/artist/2xGl9eSjRh1sPHqg0NvSOl"
+          "name": "Mahmoud Al Turky",
+          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
         }
       ],
-      "duration_ms": 247719,
-      "name": "Wanet Mn Frkakom",
-      "url": "https://open.spotify.com/track/6xG5Akfn6HIBexqV5RF22q"
+      "duration_ms": 295157,
+      "name": "Habibi Howa",
+      "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
+        "name": "Ana Al Basma",
+        "url": "https://open.spotify.com/album/2fnb7JYYwpIfcY7PXPas2c"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
+      "duration_ms": 226853,
+      "name": "Aaouf El Denia",
+      "url": "https://open.spotify.com/track/2yO2XFeewgC5j5wPTZZ5ha"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Razorblade Romance",
         "url": "https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N"
@@ -397,7 +361,7 @@
       "url": "https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
         "url": "https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P"
@@ -413,7 +377,39 @@
       "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Hbnah Antaha",
         "url": "https://open.spotify.com/album/73B6jAxkcAopkWl3GSOXTc"
@@ -433,7 +429,23 @@
       "url": "https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "El Nawayia",
         "url": "https://open.spotify.com/album/3UnPlv35vAUuQ3AhfGiZew"
@@ -449,23 +461,75 @@
       "url": "https://open.spotify.com/track/4U1x7nzBsSLmvH3cTAYNg9"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "Habibi Howa",
-        "url": "https://open.spotify.com/album/6CFZmeFJVAuc3Bc1rEVJb9"
+        "name": "\u0639\u0644\u0649 \u062a\u062d\u0646\u064a \u0644\u0648\u0643\u0627\u0646 \u064a\u0627\u062f\u0646\u064a\u0627",
+        "url": "https://open.spotify.com/album/6dey1ChSACxnyoIJbtHwwI"
       },
       "artists": [
         {
-          "name": "Mahmoud Al Turky",
-          "url": "https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7"
+          "name": "\u0635\u0627\u0628\u0631 \u0627\u0644\u062c\u0645\u064a\u0639\u064a",
+          "url": "https://open.spotify.com/artist/3DMenWnau8nhF8gAWEsUjY"
         }
       ],
-      "duration_ms": 295157,
-      "name": "Habibi Howa",
-      "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
+      "duration_ms": 435327,
+      "name": "\u0639\u0644\u0649 \u062a\u062d\u0646\u064a \u0644\u0648\u0643\u0627\u0646 \u064a\u0627\u062f\u0646\u064a\u0627",
+      "url": "https://open.spotify.com/track/0H6qHOBRnLawhzFeRtLGwK"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 300683,
+      "name": "Cinnamon Girl",
+      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Wanet Mn Frkakom",
+        "url": "https://open.spotify.com/album/1O3ED04PEGgFBQAm2LqSwg"
+      },
+      "artists": [
+        {
+          "name": "Ali Al Feraty",
+          "url": "https://open.spotify.com/artist/7o2ZwGvlqfe49WvobcqgzK"
+        },
+        {
+          "name": "\u0639\u0644\u064a \u0627\u0644\u0641\u0631\u0627\u062a\u064a",
+          "url": "https://open.spotify.com/artist/2xGl9eSjRh1sPHqg0NvSOl"
+        }
+      ],
+      "duration_ms": 247719,
+      "name": "Wanet Mn Frkakom",
+      "url": "https://open.spotify.com/track/6xG5Akfn6HIBexqV5RF22q"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
+        "url": "https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9"
+      },
+      "artists": [
+        {
+          "name": "Tayseer Al Safeer",
+          "url": "https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa"
+        }
+      ],
+      "duration_ms": 291657,
+      "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
+      "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "(When You Gonna) Give It Up to Me",
         "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
@@ -485,43 +549,7 @@
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "\u0639\u0644\u0649 \u062a\u062d\u0646\u064a \u0644\u0648\u0643\u0627\u0646 \u064a\u0627\u062f\u0646\u064a\u0627",
-        "url": "https://open.spotify.com/album/6dey1ChSACxnyoIJbtHwwI"
-      },
-      "artists": [
-        {
-          "name": "\u0635\u0627\u0628\u0631 \u0627\u0644\u062c\u0645\u064a\u0639\u064a",
-          "url": "https://open.spotify.com/artist/3DMenWnau8nhF8gAWEsUjY"
-        }
-      ],
-      "duration_ms": 435327,
-      "name": "\u0639\u0644\u0649 \u062a\u062d\u0646\u064a \u0644\u0648\u0643\u0627\u0646 \u064a\u0627\u062f\u0646\u064a\u0627",
-      "url": "https://open.spotify.com/track/0H6qHOBRnLawhzFeRtLGwK"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Brightest Blue",
-        "url": "https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Hate Me",
-      "url": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -537,103 +565,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Meno Elertah",
-        "url": "https://open.spotify.com/album/4kjxI81PqJuRk9c4tJY07z"
-      },
-      "artists": [
-        {
-          "name": "Amar Ahmed",
-          "url": "https://open.spotify.com/artist/2SrkwD9S6ULNoEguMJ5ToB"
-        }
-      ],
-      "duration_ms": 295366,
-      "name": "Meno Elertah",
-      "url": "https://open.spotify.com/track/0mNSTCbtyrIZqohkfMd7Gq"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
-        "url": "https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9"
-      },
-      "artists": [
-        {
-          "name": "Tayseer Al Safeer",
-          "url": "https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa"
-        }
-      ],
-      "duration_ms": 291657,
-      "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
-      "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0629",
-        "url": "https://open.spotify.com/album/0ZPaLM09S4cxFbrnh2hZ7T"
-      },
-      "artists": [
-        {
-          "name": "Laith Kamal",
-          "url": "https://open.spotify.com/artist/70Gfi4viyxJXjKnwnB9U03"
-        }
-      ],
-      "duration_ms": 262974,
-      "name": "\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0629",
-      "url": "https://open.spotify.com/track/5T5DQeReUjWHTMRPJeI8ba"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 300683,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
@@ -649,58 +581,10 @@
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Rouh W Nsani",
-        "url": "https://open.spotify.com/album/0H52Tii8jORuNjsunpgwaV"
-      },
-      "artists": [
-        {
-          "name": "Yasmeen",
-          "url": "https://open.spotify.com/artist/6hWSF0FMDSa4AtFLH0cVEP"
-        }
-      ],
-      "duration_ms": 225959,
-      "name": "Rouh W Nsani",
-      "url": "https://open.spotify.com/track/3EmlkQjuUaAwo7BjwqHNba"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Hay El Zalayl",
-        "url": "https://open.spotify.com/album/23LI78ZPOMCVobdxvbRF1H"
-      },
-      "artists": [
-        {
-          "name": "Shela",
-          "url": "https://open.spotify.com/artist/5XX0kc57VhO7VSWcWXAFM9"
-        }
-      ],
-      "duration_ms": 201943,
-      "name": "Hay El Zalayl",
-      "url": "https://open.spotify.com/track/5gNAluu4a5nDClPI5pDAoV"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Khaled El Hanin Collection",
-        "url": "https://open.spotify.com/album/284cY1mjACukRixm14NsW7"
-      },
-      "artists": [
-        {
-          "name": "Khaled El Hanin",
-          "url": "https://open.spotify.com/artist/1GxEMITSJRTL4GitOkbffW"
-        }
-      ],
-      "duration_ms": 251305,
-      "name": "Enta Be Damy",
-      "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+        "url": "https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U"
       },
       "artists": [
         {
@@ -710,10 +594,26 @@
       ],
       "duration_ms": 256799,
       "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
+      "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "NO BATID\u00c3O",
         "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
@@ -733,71 +633,7 @@
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
-        "url": "https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p"
-      },
-      "artists": [
-        {
-          "name": "Houda Bondok",
-          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
-      "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "\u0648\u064a\u0646 \u0648\u064a\u0646 \u0643\u062d\u064a\u0644 \u0627\u0644\u0639\u064a\u0646",
-        "url": "https://open.spotify.com/album/7MsmRq2GS70h2u62LiOufQ"
-      },
-      "artists": [
-        {
-          "name": "\u0639\u0644\u0648\u0634",
-          "url": "https://open.spotify.com/artist/4G9x7SwpTluNjCPNfHTdSZ"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "\u0648\u064a\u0646 \u0648\u064a\u0646 \u0643\u062d\u064a\u0644 \u0627\u0644\u0639\u064a\u0646",
-      "url": "https://open.spotify.com/track/36TUr6VZP0a9FE46jjve7O"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
-      "album": {
-        "name": "Habeby Baeny Lak Damaa",
-        "url": "https://open.spotify.com/album/0wnxOHhvqVHxF2xsvmAXqx"
-      },
-      "artists": [
-        {
-          "name": "Qasim Alsultan",
-          "url": "https://open.spotify.com/artist/0nzvKMw8qlFzWIUq7aNhPL"
-        }
-      ],
-      "duration_ms": 258454,
-      "name": "Habeby Baeny Lak Damaa",
-      "url": "https://open.spotify.com/track/42HETXMG4PwLo5oa3hoYhi"
-    },
-    {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "\u0627\u0644\u0642\u062f\u0631 \u062c\u0627\u0628\u0643",
         "url": "https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2"
@@ -813,23 +649,107 @@
       "url": "https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
       "album": {
-        "name": "Jabaha Le Ahlo",
-        "url": "https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT"
+        "name": "Brightest Blue",
+        "url": "https://open.spotify.com/album/44va7sFuK8IGzrj0BIX8kK"
       },
       "artists": [
         {
-          "name": "Slow Moe",
-          "url": "https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 167301,
-      "name": "Jabaha Le Ahlo",
-      "url": "https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI"
+      "duration_ms": 188066,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/15og0pCEcTFWEXOFKdcJlU"
     },
     {
-      "added_at": "2026-03-12 14:10:30",
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/4Bd7WFT93cRqlfyGi6eK93"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "\u0648\u064a\u0646 \u0648\u064a\u0646 \u0643\u062d\u064a\u0644 \u0627\u0644\u0639\u064a\u0646",
+        "url": "https://open.spotify.com/album/7MsmRq2GS70h2u62LiOufQ"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0644\u0648\u0634",
+          "url": "https://open.spotify.com/artist/4G9x7SwpTluNjCPNfHTdSZ"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "\u0648\u064a\u0646 \u0648\u064a\u0646 \u0643\u062d\u064a\u0644 \u0627\u0644\u0639\u064a\u0646",
+      "url": "https://open.spotify.com/track/36TUr6VZP0a9FE46jjve7O"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Rouh W Nsani",
+        "url": "https://open.spotify.com/album/0H52Tii8jORuNjsunpgwaV"
+      },
+      "artists": [
+        {
+          "name": "Yasmeen",
+          "url": "https://open.spotify.com/artist/6hWSF0FMDSa4AtFLH0cVEP"
+        }
+      ],
+      "duration_ms": 225959,
+      "name": "Rouh W Nsani",
+      "url": "https://open.spotify.com/track/3EmlkQjuUaAwo7BjwqHNba"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Hay El Zalayl",
+        "url": "https://open.spotify.com/album/23LI78ZPOMCVobdxvbRF1H"
+      },
+      "artists": [
+        {
+          "name": "Shela",
+          "url": "https://open.spotify.com/artist/5XX0kc57VhO7VSWcWXAFM9"
+        }
+      ],
+      "duration_ms": 201943,
+      "name": "Hay El Zalayl",
+      "url": "https://open.spotify.com/track/5gNAluu4a5nDClPI5pDAoV"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+        "url": "https://open.spotify.com/album/1JPxZNa6cTVGY6rhRnr60p"
+      },
+      "artists": [
+        {
+          "name": "Houda Bondok",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "\u062e\u064a\u0628\u062a \u062a\u0648\u0642\u0639\u0627\u062a\u0643",
+      "url": "https://open.spotify.com/track/6zMN8VG7CCdDI8eOamZ0Zz"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
       "album": {
         "name": "\u0642\u0644\u0628 \u0633\u062a\u0629 \u062a\u0633\u0639\u0648\u062f",
         "url": "https://open.spotify.com/album/60V5rY5dceiz90z6El5zlh"
@@ -847,6 +767,86 @@
       "duration_ms": 206754,
       "name": "\u0642\u0644\u0628 \u0633\u062a\u0629 \u062a\u0633\u0639\u0648\u062f",
       "url": "https://open.spotify.com/track/224bE1Z52YV74RL7yR4qTd"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Armalat Al-Alpha",
+        "url": "https://open.spotify.com/album/4DQ6r2s7uCG9I1Xfy2RAtG"
+      },
+      "artists": [
+        {
+          "name": "Klash",
+          "url": "https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw"
+        }
+      ],
+      "duration_ms": 366896,
+      "name": "Armalat Al-Alpha",
+      "url": "https://open.spotify.com/track/7paqmrCBmNEM6frYHCd8GL"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Khaled El Hanin Collection",
+        "url": "https://open.spotify.com/album/284cY1mjACukRixm14NsW7"
+      },
+      "artists": [
+        {
+          "name": "Khaled El Hanin",
+          "url": "https://open.spotify.com/artist/1GxEMITSJRTL4GitOkbffW"
+        }
+      ],
+      "duration_ms": 251305,
+      "name": "Enta Be Damy",
+      "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
+    },
+    {
+      "added_at": "2026-03-13 20:55:10",
+      "album": {
+        "name": "Meno Elertah",
+        "url": "https://open.spotify.com/album/4kjxI81PqJuRk9c4tJY07z"
+      },
+      "artists": [
+        {
+          "name": "Amar Ahmed",
+          "url": "https://open.spotify.com/artist/2SrkwD9S6ULNoEguMJ5ToB"
+        }
+      ],
+      "duration_ms": 295366,
+      "name": "Meno Elertah",
+      "url": "https://open.spotify.com/track/0mNSTCbtyrIZqohkfMd7Gq"
     }
   ],
   "unique_name": "Top 50 - Saudi Arabia",

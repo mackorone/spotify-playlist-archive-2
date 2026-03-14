@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Sinach
 
-532 songs - 1 day 18 hr 21 min
+532 songs - 1 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Reckless Lover](https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ) | [Reckless Lover](https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB) | 8:57 | 2026-03-13 |  |
 | [Refresh](https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [Refresh](https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG) | 6:00 | 2025-07-28 | 2026-03-13 |
 | [Remember](https://open.spotify.com/track/04wVpeALDGkERQJUxcUVDh) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Remember](https://open.spotify.com/album/0WYQeKtos7ECUjiA8k1Yao) | 3:48 | 2024-03-29 | 2024-04-05 |
+| [Repairman](https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Repairman](https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm) | 2:55 | 2026-03-13 |  |
 | [Right Here \(It Must Be\)](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-07-21 | 2023-08-04 |
 | [River](https://open.spotify.com/track/1b13htqq2fwS2BGVDeRs2K) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Sceptre](https://open.spotify.com/album/3KCdZeILNBf1ahZJU76cQX) | 5:16 | 2025-06-20 | 2025-08-08 |
 | [Running Home](https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:42 | 2023-12-29 | 2024-07-12 |
@@ -469,7 +470,6 @@
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-03-29 | 2024-04-05 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-07 | 2024-04-19 |
 | [Too Faithful](https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/0c86R9zB5csfesL1jn7E0s) | 6:10 | 2023-12-15 | 2025-10-17 |
-| [Track 1](https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M) | [Israel the creator](https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX) | [Repairman](https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm) | 0:00 | 2026-03-13 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 | 2024-02-16 |

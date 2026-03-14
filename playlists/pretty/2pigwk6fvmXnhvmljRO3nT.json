@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALL/OiQxfMGbcw2qv3mbqva+YhFgmJ",
+  "snapshot_id": "AAALMhcwf7CmovgL7VAatWVfpMg40A4R",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -148383,6 +148383,54 @@
       "duration_ms": 230211,
       "name": "Ai \u0111\u01b0a em v\u1ec1 (Cukak Remix)",
       "url": "https://open.spotify.com/track/2YxMOZsk7PnIwLW6UI5Poo"
+    },
+    {
+      "added_at": "2026-03-13 02:35:11",
+      "album": {
+        "name": "JUSTadICE",
+        "url": "https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE"
+      },
+      "artists": [
+        {
+          "name": "Seiko Oomori",
+          "url": "https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr"
+        }
+      ],
+      "duration_ms": 232338,
+      "name": "JUSTadICE",
+      "url": "https://open.spotify.com/track/6IVM1YYZq6K6NG6qqC26o4"
+    },
+    {
+      "added_at": "2026-03-13 02:36:43",
+      "album": {
+        "name": "Get Your Heart On!",
+        "url": "https://open.spotify.com/album/7hWHxMRVmCLi1nXXrijalR"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "You Suck at Love",
+      "url": "https://open.spotify.com/track/77hwX9Akupyg4TdPIf0s6a"
+    },
+    {
+      "added_at": "2026-03-13 02:40:16",
+      "album": {
+        "name": "\u307c\u306a\u307a\u3066\u3043\u30fc\u3068\u25bdS\uff0f\u30c7\u30bf\u30e9\u30e1\u306a\u30de\u30a4\u30ca\u30b9\u3068\u30d7\u30e9\u30b9\u306b\u304a\u3051\u308b\u30d6\u30ec\u30f3\u30c9\u8003",
+        "url": "https://open.spotify.com/album/4K3CsZTPVv5qnYu73aXeZ8"
+      },
+      "artists": [
+        {
+          "name": "\u30d6\u30ec\u30f3\u30c9\u30fbA",
+          "url": "https://open.spotify.com/artist/1djn2nFD39MVfBAYV3S7M2"
+        }
+      ],
+      "duration_ms": 255040,
+      "name": "\u307c\u306a\u307a\u3066\u3043\u30fc\u3068\u25bdS",
+      "url": "https://open.spotify.com/track/2C7DrdqoU4U7Wc0vZRVi21"
     }
   ],
   "unique_name": "Purge",

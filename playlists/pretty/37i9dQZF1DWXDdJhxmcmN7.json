@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37102,
+  "num_followers": 37104,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "fiesta",
+        "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
+      },
+      "artists": [
+        {
+          "name": "hazzelbeats",
+          "url": "https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 137187,
+      "name": "fiesta",
+      "url": "https://open.spotify.com/track/6TsUg8El8NguxXebmWgSCs"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "fiesta",
-        "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
-      },
-      "artists": [
-        {
-          "name": "hazzelbeats",
-          "url": "https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 137187,
-      "name": "fiesta",
-      "url": "https://open.spotify.com/track/6TsUg8El8NguxXebmWgSCs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Cumbia Psicod\u00e9lica",
         "url": "https://open.spotify.com/album/35Km6XTEEYQCIB7YZ9Vrtb"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Sailboat",
-        "url": "https://open.spotify.com/album/3Jo3dCor7i4wywve20cOLZ"
-      },
-      "artists": [
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "Nicolas Kluzek",
-          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "Sailboat",
-      "url": "https://open.spotify.com/track/6xtWuEaX4nn85FfOGVY0Lm"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 150500,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Sailboat",
+        "url": "https://open.spotify.com/album/3Jo3dCor7i4wywve20cOLZ"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Sailboat",
+      "url": "https://open.spotify.com/track/6xtWuEaX4nn85FfOGVY0Lm"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1135,22 +1135,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "offline",
-        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
+        "name": "All Good in the Hood",
+        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
       },
       "artists": [
         {
-          "name": "Pika Man",
-          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
         },
         {
-          "name": "Universatility Group",
-          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
+          "name": "Dr. Octosax",
+          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
         }
       ],
-      "duration_ms": 118440,
-      "name": "diamond dreams",
-      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
+      "duration_ms": 107294,
+      "name": "All Good in the Hood",
+      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1179,22 +1179,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "All Good in the Hood",
-        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
+        "name": "offline",
+        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
       },
       "artists": [
         {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+          "name": "Pika Man",
+          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
         },
         {
-          "name": "Dr. Octosax",
-          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
+          "name": "Universatility Group",
+          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
         }
       ],
-      "duration_ms": 107294,
-      "name": "All Good in the Hood",
-      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
+      "duration_ms": 118440,
+      "name": "diamond dreams",
+      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Songbird Serenity",
         "url": "https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 114500,
       "name": "Songbird Serenity",
       "url": "https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Atacama",
-        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Atacama",
-      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "ajijic, jalisco",
         "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 202590,
       "name": "ajijic, jalisco",
       "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Atacama",
+        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Zer",
         "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 186214,
       "name": "MexFi",
       "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 157735,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 183370,
       "name": "Martes Azul",
       "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/10LXAGvBjlrqePC37zQ3kc"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 157735,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5FT43yC4o55EyXvxLP7hGj"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "woozy",
-        "url": "https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1"
-      },
-      "artists": [
-        {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
-        }
-      ],
-      "duration_ms": 77846,
-      "name": "woozy",
-      "url": "https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "daydreaming",
         "url": "https://open.spotify.com/album/1sIwMHuFsffNmqByL5OPuc"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 100500,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/52tssbVu5L3YEazbSSHZKs"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "woozy",
+        "url": "https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 77846,
+      "name": "woozy",
+      "url": "https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI"
     }
   ],
   "unique_name": "LoFi mexa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,021 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,066 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 49 | [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 |
 | 50 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |
 
-Snapshot ID: `AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS`
+Snapshot ID: `AAAAAKMor8ZurscUlngEDZb/PfXk9uyv`

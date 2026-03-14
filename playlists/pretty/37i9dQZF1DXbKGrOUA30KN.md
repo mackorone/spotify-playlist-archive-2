@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Montez
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,084 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,071 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 24 | [Du fehlst](https://open.spotify.com/track/2KOyPzUNkT3FcNKnjJyiIt) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Du fehlst](https://open.spotify.com/album/7IxXBueD82WNPqscfMaBff) | 2:34 |
 | 25 | [juli//prod](https://open.spotify.com/track/7gk3rgWXAgMoDBstR8PxOy) | [smello](https://open.spotify.com/artist/3k7SZcYQzRvXml4x08dz8H) | [juli//prod](https://open.spotify.com/album/6O4nswHMdwAFv2k0u4yGiR) | 2:44 |
 | 26 | [Stolz auf Dich](https://open.spotify.com/track/31h7fYk6L6NnPQTZPUqemN) | [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Stolz auf Dich](https://open.spotify.com/album/3zqjNnfFcg6pdGv2Lvb1Ez) | 2:31 |
-| 27 | [Track 9](https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [</3](https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd) | 0:00 |
+| 27 | [kleiner reminder](https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [</3](https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd) | 2:26 |
 | 28 | [alles was ich hab](https://open.spotify.com/track/6ONxxJrJoM9UcpB0D7cX1u) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [alles was ich hab](https://open.spotify.com/album/6knJjb9SvyQV1U0wtVIXWp) | 2:15 |
 | 29 | [Was immer du willst!](https://open.spotify.com/track/185cvCZ59Gv7CYa23IBRTo) | [Mo\-Torres](https://open.spotify.com/artist/0A8ObGbFDJOFc7SLwBqO3o) | [Was immer du willst!](https://open.spotify.com/album/7tC85wpSMHOmPmMkvJInv9) | 2:59 |
 | 30 | [Haus](https://open.spotify.com/track/5nYhjQYV0QhoHcjowd0W1N) | [SEELEMANN](https://open.spotify.com/artist/045asKAyJ8bk2wKJt7j5YE) | [Haus](https://open.spotify.com/album/6AYxLEJuFgbd5AMP5zrlxx) | 2:38 |

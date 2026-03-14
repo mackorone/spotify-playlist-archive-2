@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Acoustic pop songs for chill summer days or nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,200 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,197 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 59 | [Once In a While \- Acoustic](https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Once In a While \(Acoustic\)](https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ) | 3:51 |
 | 60 | [Dare You To Move \- Acoustic](https://open.spotify.com/track/3oMuRgx0dtw4FjfQSd3j7A) | [Ryan de Mel](https://open.spotify.com/artist/1y9pThgXl37Polk4oXP07E) | [Dare You To Move \(Acoustic\)](https://open.spotify.com/album/01FzZJ8CCSjIRD52xKOYTB) | 4:06 |
 
-Snapshot ID: `AAAAALFiorQxSMLPQ+v+NIns/SprqBSl`
+Snapshot ID: `AAAAAPDPuKEC6DQ8GvGiguohkY/2/rNQ`

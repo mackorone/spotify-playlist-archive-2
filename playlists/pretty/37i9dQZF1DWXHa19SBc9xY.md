@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,685 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,730 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 41 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
 | 42 | [Rainha da Minha Bateria](https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL) | [Rainha da Minha Bateria](https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu) | 4:03 |
 | 43 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
-| 44 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
-| 45 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
+| 44 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
+| 45 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
 | 46 | [Alucina](https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e) | [AREIATERRA](https://open.spotify.com/artist/5H1FWvOZmRoBOtGMRNXmJD), [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly), [Planeta Gru](https://open.spotify.com/artist/3RpH8346fxFHGupH24fLyL) | [Alucina](https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8) | 3:00 |
 | 47 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
 | 48 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |

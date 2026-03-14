@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,128 songs - 5 day 4 hr 26 min
+2,131 songs - 5 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [jester](https://open.spotify.com/track/0czLzptXOO935bvU3fo3Yj) | [Brandon Hawkins](https://open.spotify.com/artist/5hBELGzR8N3PvQGSDcuR71) | [jester](https://open.spotify.com/album/0Ae6q5NVm8lkhhpY9GYdWo) | 1:38 | 2025-02-18 |  |
 | [Jingle Bells](https://open.spotify.com/track/0rfwnKFRTahPdHCEFhESsZ) | [Darryn Zewalk](https://open.spotify.com/artist/7HysNhewedcRygAC3H8h9f) | [Jingle A New Way](https://open.spotify.com/album/5LiKN2ONQnHx7h8Dtb9ZGx) | 3:23 | 2025-12-10 |  |
 | [Jorja](https://open.spotify.com/track/54M8GDEBmnQFiWXDzi0uFx) | [Polo Cortez](https://open.spotify.com/artist/555iIvNAQ1vlfXVNa4Kxu6), [Ssba](https://open.spotify.com/artist/67PGP6fO4LbiwvNtm6Ggdf), [Double S](https://open.spotify.com/artist/5qVyv07iwXspQDo4F5zJcS) | [Jorja](https://open.spotify.com/album/3IqsVC7q6DaW0wW55yDw7J) | 3:32 | 2025-12-08 |  |
+| [Joseph Prayed in Faith](https://open.spotify.com/track/6Ku5qUZycBzXE6CwkhuMnI) | [Hyrum Gray](https://open.spotify.com/artist/23nAsyhNKSQ7CnMi1RugQs) | [Joseph Prayed in Faith](https://open.spotify.com/album/38UcjJyyb7lyKToh7saOQk) | 3:37 | 2026-03-14 |  |
 | [Joshua Davis](https://open.spotify.com/track/1bKLwKyKrK72J2Lyy9GhmO) | [The Irish Lassies](https://open.spotify.com/artist/0lUMz3jYXEKl0b8FHFV8ic) | [Joshua Davis](https://open.spotify.com/album/5NkP56WUvExZQoCUuXDamY) | 4:53 | 2025-07-29 |  |
 | [Joy](https://open.spotify.com/track/5eihoC4uwsZZHV0TtZgGXU) | [Hjörvar](https://open.spotify.com/artist/3mHZS0Enwpb4M0hNmLZOln) | [Joy](https://open.spotify.com/album/4tLbOHFqcRrouZznyr7V0v) | 3:37 | 2024-05-24 |  |
 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 | 2025-11-29 |  |
@@ -1151,6 +1152,7 @@
 | [Memory Foam](https://open.spotify.com/track/7h2t3rHLzhhBUyvhw7zb1c) | [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Memory Foam](https://open.spotify.com/album/5r5PTGKiLRTvyoeEBsd7Yh) | 3:18 | 2024-09-09 |  |
 | [Messze Északon](https://open.spotify.com/track/7LvIhBg8PLrY2JrT8cjPhX) | [Braxius](https://open.spotify.com/artist/0jAbr92jH9OCTnufQLIb9h) | [É\(V\)Szak](https://open.spotify.com/album/0wWWCtCvJn3lthI0NojDNw) | 4:59 | 2024-09-05 |  |
 | [Mezizo](https://open.spotify.com/track/1F9sXer73S35659fpHOqBV) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 3:32 | 2025-12-17 |  |
+| [Mi Corazón En Pedazos](https://open.spotify.com/track/6j0TJFdQmdAsJTXg41XeBG) | [JINSEN](https://open.spotify.com/artist/3CvhFGSPAKLmCJUpEiCsUh) | [Mi Corazón En Pedazos](https://open.spotify.com/album/0JgLGUnsb4SXd6Z0IyQum3) | 2:19 | 2026-03-14 |  |
 | [Mi Edén](https://open.spotify.com/track/6036iIC1ehzZNZUZY1LAgK) | [Benjamin Pujols](https://open.spotify.com/artist/4MElKrdyigZbArae4Na3TS) | [Mi Edén](https://open.spotify.com/album/6BN4qHBswKRtywwG0casp4) | 3:44 | 2025-07-01 |  |
 | [Michigan Time](https://open.spotify.com/track/7JHE7rFaHgxlchNpvolpQK) | [Wanaka](https://open.spotify.com/artist/4I8ZcX6vOWSdTUHzrQOsfP) | [Michigan Time](https://open.spotify.com/album/2Lpc6X9vEd140shQtqrifj) | 3:19 | 2025-06-02 |  |
 | [Midnight](https://open.spotify.com/track/2fGlFJIsPSgq2H5gTamFeT) | [Brother Thunder](https://open.spotify.com/artist/6L3RrgJK9uKY3QoIJQSgIt), [Keezy](https://open.spotify.com/artist/7Kukwh0udR7D7NFVBDxB3X) | [Midnight](https://open.spotify.com/album/471u8wd5WHPzD52nwJ0UHf) | 3:04 | 2025-04-25 |  |
@@ -1200,6 +1202,7 @@
 | [My Blonde Italian Girl](https://open.spotify.com/track/7rKhFg4gwRfYPlTxy41uJd) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [My Blonde Italian Girl](https://open.spotify.com/album/75aw1gTfVcH6VWSGFtXW8y) | 2:58 | 2024-10-22 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2025-05-29 |  |
 | [My Call](https://open.spotify.com/track/3lbskdUv1tafctMNV5scjB) | [Bouchard](https://open.spotify.com/artist/4QA3rzpSDuDJsTdVLbHquV) | [Playmate](https://open.spotify.com/album/0EP50dNslbP8BKCzLTBYej) | 3:36 | 2025-02-05 |  |
+| [My Chinese lunch](https://open.spotify.com/track/1TskrYmWygyW0Jri2HicKC) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [My Chinese lunch](https://open.spotify.com/album/5LZoQOUy5sCwOzrxscPllT) | 3:16 | 2026-03-14 |  |
 | [My Country](https://open.spotify.com/track/1pXDGgtDa2BwXQ1B87D7aV) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [My Country](https://open.spotify.com/album/3V1l2Str0L0Kvrzlai95Io) | 3:10 | 2024-11-21 |  |
 | [My Favorite Color](https://open.spotify.com/track/4na4fwqPhdydfc9m4vcAtz) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/0vXOJLSiNufa5TFYkD0uMm) | 4:38 | 2025-07-08 |  |
 | [My Favorite Hour](https://open.spotify.com/track/3fTkTHYpEyPspxedklgHlv) | [Davide Buffoli](https://open.spotify.com/artist/6QfyB9SAv88LU40d6H1By9) | [The Grand Slam](https://open.spotify.com/album/1wogoUifOXwEJrua2gn71p) | 4:09 | 2025-02-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,594 likes - 44 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,624 likes - 44 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 22 | [She's American](https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:30 |
 | 23 | [When We Are Together](https://open.spotify.com/track/6okESpm9b9iEn9Ve8h4ecZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 3:36 |
 | 24 | [TOOTIMETOOTIMETOOTIME](https://open.spotify.com/track/33DzKnwuBE6lfOiADwzd5E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:27 |
-| 25 | [Roadkill](https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:55 |
+| 25 | [Me & You Together Song](https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 3:27 |
 | 26 | [Settle Down](https://open.spotify.com/track/5CgihnZO9To8wj7ALOoTPD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:59 |
 | 27 | [Milk](https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Milk](https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8) | 2:12 |
 | 28 | [This Must Be My Dream](https://open.spotify.com/track/42PHzFk7j5Jo2Rtj78JsWV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:12 |
-| 29 | [Me & You Together Song](https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 3:27 |
+| 29 | [Roadkill](https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:55 |
 | 30 | [Heart Out](https://open.spotify.com/track/3xrwXWG4O9uhtRyAd3MCou) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:22 |
 | 31 | [Undo](https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:04 |
 | 32 | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/track/1qXQmENykriAHunVaZc6FW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 4:45 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 43 | [Antichrist](https://open.spotify.com/track/5pmGhj5ToTK2kSinMCS0LJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:43 |
 | 44 | [An Encounter \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 0:47 |
 
-Snapshot ID: `abCwgAAAAACFuttP/wsSoDaqZ8RJ+rwU`
+Snapshot ID: `abICAAAAAADMg3k6ZgeVfwGdtop24hg+`

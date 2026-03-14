@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTJ8OyVOVcvG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTJ8OyVOVcvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTJ8OyVOVcvG)
 
-### [O iarnă chill](https://open.spotify.com/playlist/37i9dQZF1DWTJ8OyVOVcvG)
+### [O primăvară chill](https://open.spotify.com/playlist/37i9dQZF1DWTJ8OyVOVcvG)
 
 > Piesele potrivite pentru zilele și nopțile tale chill de primăvară
 

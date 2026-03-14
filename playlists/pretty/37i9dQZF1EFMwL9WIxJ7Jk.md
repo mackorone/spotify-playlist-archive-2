@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,384 likes - 104 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,383 likes - 104 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 38 | [Crushin' \(feat\. Lawrence\)](https://open.spotify.com/track/4VOFiPpEGJjBX9jJlfqIHV) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:03 |
 | 39 | [Takin' It Back](https://open.spotify.com/track/4CEXKHS4LuDqJkfDSlORRW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:21 |
 | 40 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:45 |
-| 41 | [Christmas Coupon](https://open.spotify.com/track/2MIismV15maA5SGddbYxiM) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7kaFsOsRsco4FP5y9Cx0Yf) | 3:12 |
-| 42 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/0gFfVhkNsfRjXg1zLFmbLT) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:31 |
+| 41 | [Mind Reader \(with Meghan Trainor\)](https://open.spotify.com/track/0gFfVhkNsfRjXg1zLFmbLT) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:31 |
+| 42 | [Christmas Coupon](https://open.spotify.com/track/2MIismV15maA5SGddbYxiM) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas \(Deluxe\)](https://open.spotify.com/album/7kaFsOsRsco4FP5y9Cx0Yf) | 3:12 |
 | 43 | [Superwoman](https://open.spotify.com/track/4qAdUY0Ymc6cVypI2xEc8F) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:25 |
 | 44 | [Chicken Little](https://open.spotify.com/track/226M9fm2z3kgWEaBISOUsA) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [In His Mania \(Deluxe\)](https://open.spotify.com/album/77qnyVvugLOf5jv8QcWa3s) | 2:42 |
 | 45 | [Shook](https://open.spotify.com/track/15mlyFocsUp6NsURCb8MI4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:23 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 66 | [Guilty Pleasure](https://open.spotify.com/track/6SvnxYSkYYsrwWIPgKaIGn) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Guilty Pleasure](https://open.spotify.com/album/4q4imcSGhn9xEqyLxp7tfI) | 2:35 |
 | 67 | [Dance About It](https://open.spotify.com/track/37SZ2L5EHqto2gSqCQdd7G) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:16 |
 | 68 | [Bestie](https://open.spotify.com/track/7rSjDodzlYElf1TWRdPVNh) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:11 |
-| 69 | [Remind Me](https://open.spotify.com/track/6PctdJn0tMlRtWUDtVZEW4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:20 |
-| 70 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 |
+| 69 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 |
+| 70 | [Remind Me](https://open.spotify.com/track/6PctdJn0tMlRtWUDtVZEW4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:20 |
 | 71 | [Special Delivery \(feat\. MAX\)](https://open.spotify.com/track/1nYERUIQ42uJjsvCbDPKlU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 3:04 |
 | 72 | [Naughty List](https://open.spotify.com/track/5iGw5PJKukFN1YMj3Ls2rm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:37 |
 | 73 | [Timeless](https://open.spotify.com/track/5VwoyOFisHUeHxUMsh96Jk) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:13 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 103 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 | 104 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Edovann](https://open.spotify.com/artist/6UB4cj61Qyr2uI6j12AmbC), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 
-Snapshot ID: `AcL91AAAAAA+vsq61kDs/HXzMh1CvQMF`
+Snapshot ID: `AcMDagAAAABIXQ1HKDDZZXTy6zG8BpOT`

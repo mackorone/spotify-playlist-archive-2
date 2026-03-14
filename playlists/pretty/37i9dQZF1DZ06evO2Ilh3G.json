@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119328,
+  "num_followers": 119338,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABV+yISLG4ZK20G9pmn+YSx",
+  "snapshot_id": "abICAAAAAADmBt1KuaLvlK0MqCPpIcd+",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
-      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hurts Like Hell (feat. Offset)",
         "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 207108,
       "name": "Hurts Like Hell (feat. Offset)",
       "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
+      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Droptopwop",
+        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Met Gala (feat. Offset)",
+      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 228431,
       "name": "Dubai Shit",
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Droptopwop",
-        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Met Gala (feat. Offset)",
-      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
     },
     {
       "added_at": null,
@@ -1047,30 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive (with Offset & 2 Chainz)",
-        "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 235897,
-      "name": "Alive (with Offset & 2 Chainz)",
-      "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 207389,
       "name": "Hook Up",
       "url": "https://open.spotify.com/track/0gUGjvCXLxvLoBLXJVrUSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive (with Offset & 2 Chainz)",
+        "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "duration_ms": 235897,
+      "name": "Alive (with Offset & 2 Chainz)",
+      "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
     }
   ],
   "unique_name": "This Is Offset",

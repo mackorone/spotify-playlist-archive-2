@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Minister GUC
 
-720 songs - 2 day 15 hr 30 min
+721 songs - 2 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Holy Spirit](https://open.spotify.com/track/6RPLZmf2V1nK4wd6bkcIT5) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Holy Spirit](https://open.spotify.com/album/6eJfpsyOI2NkEkvPILVV3s) | 3:29 | 2024-05-31 | 2024-06-11 |
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 | 2024-02-09 |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
+| [Holy Spirit](https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Holy Spirit](https://open.spotify.com/album/7s4KFFw83SK8KLoNKJ6D1p) | 3:39 | 2026-03-06 |  |
 | [Hosanna](https://open.spotify.com/track/6z88SI2wZE4YmS7IgzSbQ6) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 2:42 | 2023-12-05 | 2023-12-11 |
 | [How Can I Forget?](https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [How Can I Forget?](https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is) | 3:18 | 2025-06-27 | 2025-10-31 |
 | [Hunger and Thirst](https://open.spotify.com/track/3bdgU93NNzQ9MXuaIwRpCt) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [King Fred Paul](https://open.spotify.com/artist/1HcI99z6RGJeUjfCnArj0O) | [Hunger and Thirst](https://open.spotify.com/album/4EaZOuMBPZPB8ao92QQMR1) | 5:16 | 2025-12-05 |  |
@@ -433,7 +434,7 @@
 | [No Lele](https://open.spotify.com/track/1NUQMXLEWvdI2hiviHvJfG) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E) | [No Lele](https://open.spotify.com/album/7AoEgq9WWOT0RoLf8cbZ1l) | 2:45 | 2025-11-14 | 2026-01-30 |
 | [No Longer Slaves](https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [No Longer Slaves](https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu) | 5:50 | 2022-06-09 | 2023-05-23 |
 | [No Name \- Live](https://open.spotify.com/track/2XezacK0BDNXfBtZfpWYad) | [WISDOM K](https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd) | [I Do Worship \(Live\)](https://open.spotify.com/album/6zEW3FcmWLMTpoGZdKzgxC) | 10:38 | 2024-12-27 | 2025-02-05 |
-| [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 | 2022-06-09 |  |
+| [No One Like You](https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [No One Like You](https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf) | 5:17 | 2022-06-09 | 2026-03-14 |
 | [No Other God](https://open.spotify.com/track/62u93O6E9BU8IEbTOPB5b0) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [No Other God](https://open.spotify.com/album/558lqIaLddfY4Lh5bZLF8H) | 7:17 | 2022-06-09 | 2023-02-04 |
 | [No Time](https://open.spotify.com/track/5a9HRdpLc7eIqbz9DxHzq1) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS) | [No Time](https://open.spotify.com/album/3oedHJYo52AdWfQ7PFHeqB) | 2:09 | 2026-02-06 | 2026-02-13 |
 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 | 2024-08-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ\-JKMPH3p8dSw">Usain Bolt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,278 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,281 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 23 | [GYALIS](https://open.spotify.com/track/7wpyrkjEgz7W1vNYDxMKrF) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [GYALIS](https://open.spotify.com/album/7GbE1XjMbpkSxGkmUr7Ck4) | 1:45 |
 | 24 | [Family](https://open.spotify.com/track/1YRzgVYXnobOo68q4F6DEE) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Family](https://open.spotify.com/album/09pESGCreuRO6zGh6Sfloy) | 3:21 |
 | 25 | [Rent Money](https://open.spotify.com/track/5W9QCBJ6Em0XWX333YrNhc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 4:25 |
-| 26 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 |
-| 27 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 26 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
+| 27 | [Track Star](https://open.spotify.com/track/5hChuUMe5iHfjkXgzj1D4b) | [Mooski](https://open.spotify.com/artist/4NqH3V7GS0Igs1VyGMXEi8) | [Track Star](https://open.spotify.com/album/7yvSdViuYJjZwXWtSwYu3D) | 3:19 |
 | 28 | [Dream in Color](https://open.spotify.com/track/4f7BNSy2ZVeabUJtjTX3kP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Just Until....](https://open.spotify.com/album/0mRCQ9zhXQTjXusVJfSXoW) | 3:02 |
 | 29 | [You're Mines Still](https://open.spotify.com/track/3wJ1OyP3Fugmi8t41e1zQ6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Love Scars: The 5 Stages Of Emotions \(Deluxe\)](https://open.spotify.com/album/2RhpPh3aaviygDMbFUa3HG) | 3:41 |
 | 30 | [Kilometre](https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T) | 2:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Bb2CGbkkCE.md) - [plain]
 | 46 | [Crocodile Teeth](https://open.spotify.com/track/3qi98GCs3sbvbAJugWmdQY) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Crocodile Teeth](https://open.spotify.com/album/4UG4l6GtGle8m7zbwinjBH) | 2:46 |
 | 47 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 |
 | 48 | [Roll Deep](https://open.spotify.com/track/7qbYXi2qeCdBoSlDZs9swk) | [10Tik](https://open.spotify.com/artist/6I1j34QzSTWe6u4qQWKYJe) | [Roll Deep](https://open.spotify.com/album/24HPQqwhRn31huvNRg8War) | 3:27 |
-| 49 | [Timing](https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC) | [Usain Bolt Presents: Clockwork Riddim](https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY) | 3:09 |
+| 49 | [Say Less](https://open.spotify.com/track/0BCQnF3a3ZKLGbaN6nD3co) | [Usain Bolt](https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh), [Nj](https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC), [Bibi](https://open.spotify.com/artist/6SC0EXdxo6LSCSsspDxXyT), [Kamal Engels](https://open.spotify.com/artist/49QARoeIkbAkdg1YXaUJ9s) | [Say Less](https://open.spotify.com/album/4qRk52lROgGgQMT9gXY0WA) | 2:40 |
 | 50 | [Champ](https://open.spotify.com/track/0EoNuIITOben2tT4QbUEzi) | [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Champ \- Single](https://open.spotify.com/album/5QBtVmIGkMdb6F5PORTLSr) | 3:25 |
 
 Snapshot ID: `AAAAACP3dBfso49fkUzVXJ32YdVkFYDG`

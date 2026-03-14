@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,742 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,754 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 71 | [ORIGIN8A](https://open.spotify.com/track/7iylF5gl2Uvr2W36wVmHgw) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 3:29 |
 | 72 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 |
 | 73 | [NLF \(Breakfast\) \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\) \- Remix](https://open.spotify.com/track/0p78AVztWdAadBisJf2AwD) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [NLF \(Breakfast\) \[Remix\] \(feat\. Lyrical Joe, Medikal & Beeztrap KOTM\)](https://open.spotify.com/album/08xthu9vDphOEDxyqDB9II) | 4:26 |
-| 74 | [Pick Pick](https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Pick Pick](https://open.spotify.com/album/1hM4TfDlb0ElOWFXmWF9hs) | 2:58 |
-| 75 | [Fortified](https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Fortified](https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ) | 2:58 |
+| 74 | [Fortified](https://open.spotify.com/track/6rbW9NgqnB3iwLiiE80edK) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Fortified](https://open.spotify.com/album/4xjAlAUR834yWLACANjIMZ) | 2:58 |
+| 75 | [Pick Pick](https://open.spotify.com/track/2NNyYGLjzhVVPU7gQBluqR) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Pick Pick](https://open.spotify.com/album/1hM4TfDlb0ElOWFXmWF9hs) | 2:58 |
 | 76 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |
 | 77 | [Scatter](https://open.spotify.com/track/6v0ipIa8GlGXd6kkzYiaYn) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Scatter](https://open.spotify.com/album/3BDEtVroY0AYKNJ7m51JO2) | 2:09 |
 | 78 | [Fully Active \(feat\. Lalid\)](https://open.spotify.com/track/1wA4YRKjoBgvkO7NoviGmN) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 3:17 |

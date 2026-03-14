@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  Shakira Shakira! ",
-  "name": "HOT NOW - Shakira & Be\u00e9le",
+  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  TRAKAS HDSPM! ",
+  "name": "HOT NOW - Luis R Conriquez ",
   "tracks": [
     {
       "album": {
@@ -1430,7 +1430,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -2162,6 +2162,24 @@
       "duration_ms": 144428,
       "name": "Bemaste",
       "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+    },
+    {
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
     },
     {
       "album": {
@@ -5414,7 +5432,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 137647,
       "name": "Dime si recuerdas",
       "url": "https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS"
@@ -5674,7 +5692,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 427692,
       "name": "Dos16 (feat. Josa El Menor, Vic Gunn, Malo & Viglezz)",
       "url": "https://open.spotify.com/track/2V9iZGxzyUnUBUPdGEW29Y"
@@ -6220,6 +6238,28 @@
       "duration_ms": 175514,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
+    },
+    {
+      "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "album": {
@@ -6971,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "FEMME FATALE (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258967,
+      "name": "Femme Fatale - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
+    },
+    {
+      "album": {
         "name": "FERXXO 151",
         "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
       },
@@ -7408,6 +7466,28 @@
       "duration_ms": 279990,
       "name": "G Low Kitty - Remix",
       "url": "https://open.spotify.com/track/5J2pn2fzrIp7CT0IHLlgQ7"
+    },
+    {
+      "album": {
+        "name": "G-LATINA",
+        "url": "https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "G-LATINA",
+      "url": "https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN"
     },
     {
       "album": {
@@ -8124,7 +8204,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195008,
       "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
       "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
@@ -8310,6 +8390,24 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
+    },
+    {
+      "album": {
+        "name": "Historias de Amor",
+        "url": "https://open.spotify.com/album/6JRyu67LNMlSqQecsDiRuA"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175709,
+      "name": "Historias de Amor",
+      "url": "https://open.spotify.com/track/3dCC1fMIkmCH6Gnnv8pXGT"
     },
     {
       "album": {
@@ -8723,6 +8821,28 @@
     },
     {
       "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193788,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
+    },
+    {
+      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -8872,7 +8992,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190384,
       "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
       "url": "https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC"
@@ -10124,7 +10244,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -11884,7 +12004,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 134277,
       "name": "Me Voy A La Chingada",
       "url": "https://open.spotify.com/track/7uiqilD8CASlyVrhrvsFuW"
@@ -12935,6 +13055,24 @@
     },
     {
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
+    },
+    {
+      "album": {
         "name": "Mundo De Mentiras",
         "url": "https://open.spotify.com/album/1WibFwPtIWbthLfdVRTZfY"
       },
@@ -13526,7 +13664,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 170670,
       "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
@@ -16309,6 +16447,28 @@
     },
     {
       "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
       },
@@ -18075,6 +18235,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -19042,7 +19224,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 160000,
       "name": "Texteando",
       "url": "https://open.spotify.com/track/3rKpnMQ8ko9X116yIj5V9S"

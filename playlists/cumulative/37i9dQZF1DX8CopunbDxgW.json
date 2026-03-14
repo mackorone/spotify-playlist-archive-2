@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "joshua idehen's new album has us beaming \ud83e\udde1 metropolis is your home for the best indie dance",
+  "description": "the heron waits patiently \ud83d\udc26 metropolis is your home for the best indie dance",
   "name": "metropolis",
   "tracks": [
     {
@@ -15468,7 +15468,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 265511,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5RZ74VjNYc2wX6jMU9qD2G"
@@ -15900,7 +15900,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212909,
       "name": "Hang",
       "url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
@@ -19688,7 +19688,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184787,
       "name": "in this world",
       "url": "https://open.spotify.com/track/18SkZPigYCfd5Y37qNz2BM"
@@ -29356,7 +29356,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 137012,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
@@ -30950,6 +30950,24 @@
       "duration_ms": 253466,
       "name": "Pull Together",
       "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "album": {
@@ -34379,6 +34397,24 @@
     },
     {
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134328,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0vJKvYSIkSoTigjEgb1nkA"
+    },
+    {
+      "album": {
         "name": "Sleepyhead 2025",
         "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
       },
@@ -35857,6 +35893,32 @@
     },
     {
       "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/41RuCkxLwXxcDe04TFuiXC"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164558,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/0BNV8qChVecUDgWV8xAmWl"
+    },
+    {
+      "album": {
         "name": "STAY UP / SWEET",
         "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
       },
@@ -36440,6 +36502,28 @@
       "duration_ms": 210440,
       "name": "Suenos Bravos",
       "url": "https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT"
+    },
+    {
+      "album": {
+        "name": "Get Funky",
+        "url": "https://open.spotify.com/album/5ESk7LZ6OVFrWjFFAo8UTE"
+      },
+      "artists": [
+        {
+          "name": "Rad&Co",
+          "url": "https://open.spotify.com/artist/5SWWNKNGRfpxkgaZENBf6u"
+        },
+        {
+          "name": "Palomae",
+          "url": "https://open.spotify.com/artist/2PGPdwglFaL1sj4DElQE3C"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216190,
+      "name": "Sugar Powder",
+      "url": "https://open.spotify.com/track/6Naz3jKSqmVrDyLzfA416t"
     },
     {
       "album": {
@@ -38056,6 +38140,24 @@
       "duration_ms": 155861,
       "name": "The Great Pyramid of Stockport",
       "url": "https://open.spotify.com/track/2XJlmLLUqHju9VoAT90VDO"
+    },
+    {
+      "album": {
+        "name": "The Heron",
+        "url": "https://open.spotify.com/album/4gJuBiP543avQV6R5eK8L3"
+      },
+      "artists": [
+        {
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "The Heron",
+      "url": "https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"
     },
     {
       "album": {
@@ -41462,7 +41564,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 156618,
       "name": "WAITING TO BEGIN",
       "url": "https://open.spotify.com/track/43yiqpJJwVvR3vMg8CgzB0"

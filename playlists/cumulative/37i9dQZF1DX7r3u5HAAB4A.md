@@ -4,7 +4,7 @@
 
 > A melting pot of Caribbean culture\. Cover: Shenseea
 
-327 songs - 15 hr 59 min
+330 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Inferno](https://open.spotify.com/track/2elfc7Kdlike9fjeUS1ocP) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Inferno](https://open.spotify.com/album/2BMtAEAPkIAsOduldWG2hh) | 2:42 | 2024-08-29 | 2025-04-26 |
 | [Inna Mood](https://open.spotify.com/track/49wWfmoodKIfoAfIX72PXX) | [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv), [Antaeus](https://open.spotify.com/artist/12Y5bYSO6NGz0KRKsKZG3t) | [Colors Of Royal](https://open.spotify.com/album/5f8HbVytW13AzhLpGzi9BA) | 2:31 | 2024-08-29 | 2025-10-25 |
 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 | 2025-07-11 |  |
+| [Island](https://open.spotify.com/track/39T2baXCpfKXLHPBOFVwEW) | [Sharon Marley](https://open.spotify.com/artist/081UsY9atZJbUyBYEHadxh), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O), [Rica Newell](https://open.spotify.com/artist/1oTeZP0Oo5eHtti5LVtmLJ) | [Island](https://open.spotify.com/album/4xB2w87UUJ8UsfAdQT89UQ) | 2:55 | 2026-03-13 |  |
 | [Jab Decisions](https://open.spotify.com/track/22fFQtquJgXlte3RuXYYt7) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Jab Decisions](https://open.spotify.com/album/41AdbCyGOATIjgPBJTQQDF) | 3:17 | 2025-07-04 | 2025-07-19 |
 | [Jab Did](https://open.spotify.com/track/0ZnPCIPjENTY9tZRts2tFq) | [Jab King](https://open.spotify.com/artist/0nsOQqZ8QYvEgw2zirjmAF) | [Jab Did](https://open.spotify.com/album/7f5tynBrZs7RKHotUhgTMR) | 2:49 | 2024-08-29 | 2024-09-14 |
 | [Johnny](https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Johnny](https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR) | 1:58 | 2025-08-15 |  |
@@ -156,7 +157,9 @@
 | [Jungle](https://open.spotify.com/track/4sDJ96gu68rfMzlDNLh5M5) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Jungle](https://open.spotify.com/album/5aVMinMjVyCFBRAAIlfXNS) | 2:35 | 2025-11-21 |  |
 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 | 2025-05-02 | 2025-05-31 |
 | [L's](https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:03 | 2024-12-06 | 2024-12-27 |
+| [Lanton \(Lantern\)](https://open.spotify.com/track/33aOP7SekoZj6SCDdd8Yto) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Lanton \(Lantern\)](https://open.spotify.com/album/527kdH587Enlco42eIdHAa) | 3:48 | 2026-03-13 |  |
 | [LET EM OUT](https://open.spotify.com/track/2lQtir4kucnRn8wcESAU6g) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [LET EM OUT](https://open.spotify.com/album/2eW7djVnQycwpmhiiNjiql) | 2:49 | 2025-05-30 | 2025-06-07 |
+| [Let Me Go \- Honeycomb Riddim](https://open.spotify.com/track/5LIWnma5CYXgDsxlfzjFLo) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Let Me Go \(Honeycomb Riddim\)](https://open.spotify.com/album/2LVtEgiAjnAs75EmTTkrdo) | 2:27 | 2026-03-13 |  |
 | [Levels](https://open.spotify.com/track/1Qvo0zEU8S0xvbi3CCcZbk) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Levels](https://open.spotify.com/album/6PfnVo94DilxyB9XgVIvNe) | 2:40 | 2024-12-06 | 2025-08-02 |
 | [Life From Kingston](https://open.spotify.com/track/5BcE6Qrh3tnkP6VfmhqGKL) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Life From Kingston](https://open.spotify.com/album/5r1gzIqEYoFEi7OdpNSiu8) | 2:49 | 2025-06-06 | 2025-06-14 |
 | [Life of The Party](https://open.spotify.com/track/1VxsfMAJDss6usTE85yv32) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Life of The Party](https://open.spotify.com/album/7LqmuIdc6C1c68OBUhgzjP) | 3:33 | 2025-02-28 | 2025-04-26 |

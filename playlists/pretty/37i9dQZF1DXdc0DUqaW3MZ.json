@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 374468,
+  "num_followers": 374488,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Back on 74 (Full Crate Remix)",
-        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 174233,
-      "name": "Back On 74 - Full Crate Remix",
-      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 219035,
       "name": "Spit It Out (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Back on 74 (Full Crate Remix)",
+        "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        },
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 174233,
+      "name": "Back On 74 - Full Crate Remix",
+      "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Strike a Pose (feat. Camille Munn)",
-        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
-      },
-      "artists": [
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        },
-        {
-          "name": "Camille Munn",
-          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
-        }
-      ],
-      "duration_ms": 186604,
-      "name": "Strike a Pose (feat. Camille Munn)",
-      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
+        }
+      ],
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Sa\u00efna",
+          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
+        }
+      ],
+      "duration_ms": 154735,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 186691,
       "name": "This World Of Mine",
       "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Sa\u00efna",
-          "url": "https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9"
-        }
-      ],
-      "duration_ms": 154735,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF"
     },
     {
       "added_at": "2026-03-13 00:00:07",

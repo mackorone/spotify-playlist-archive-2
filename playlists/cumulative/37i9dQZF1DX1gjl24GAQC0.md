@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: P1Harmony\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-830 songs - 1 day 21 hr 2 min
+831 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2021-12-08 | 2022-07-29 |
 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 | 2022-11-30 | 2023-05-09 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-15 | 2024-11-20 |
-| [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-11-04 | 2026-03-13 |
+| [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-11-04 |  |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-05 | 2026-02-14 |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-02 | 2022-07-11 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-09-28 |
@@ -222,9 +222,10 @@
 | [Eight Eleven](https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA) | 2:21 | 2025-11-11 | 2025-11-26 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-12-08 | 2022-07-16 |
 | [Endless Ending](https://open.spotify.com/track/6wiUeyw6rmng1HTjjyPyrQ) | [BEAST \(HIGHLIGHT\)](https://open.spotify.com/artist/2jR5OEkMem5Ntarz6fAZ48) | [Endless Ending](https://open.spotify.com/album/2LzOVYi9YCKmIJK5j29HES) | 3:25 | 2025-04-17 | 2025-05-10 |
+| [Endless Sun](https://open.spotify.com/track/45CAsiLFBU9iKsQtyd2kmq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/3BpgkGGY3CjIDhlRsoAzoZ) | 2:38 | 2026-03-13 |  |
 | [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-16 | 2025-07-01 |
 | [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-16 | 2023-05-19 |
-| [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-03-28 |  |
+| [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 | 2025-03-28 | 2026-03-14 |
 | [Escape to Me](https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Fermata](https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX) | 3:07 | 2025-07-11 | 2025-07-22 |
 | [Everlasting](https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Everlasting](https://open.spotify.com/album/2JAijBbqdC7WGqqcpTE17D) | 4:17 | 2025-05-28 | 2025-07-12 |
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ\. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2022-03-30 | 2022-04-20 |
@@ -689,7 +690,7 @@
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-05 |
 | [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 | 2025-07-28 | 2025-08-23 |
 | [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 | 2025-11-28 | 2025-12-16 |
-| [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 |  |
+| [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-27 | 2026-03-14 |
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 | 2022-10-27 |
 | [Suit Up](https://open.spotify.com/track/0Rc0fWWERItc0Y2f6BumqA) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Suit Up](https://open.spotify.com/album/5q62iqYUYwzapHZ5sDD6Ke) | 3:02 | 2024-01-22 | 2024-02-15 |
 | [Summer Light](https://open.spotify.com/track/0nvv7QmRopuA4rylN4EOly) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Summer Light](https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg) | 3:01 | 2025-08-04 | 2025-08-23 |

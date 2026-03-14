@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 159280,
       "name": "Act Like You Know (feat. Shoreline Mafia)",
       "url": "https://open.spotify.com/track/2g4fSeNMaQL88OPNKdXS1a"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 80587,
       "name": "Bad Bih",
       "url": "https://open.spotify.com/track/47DE4gmWGAPBpGoycY4puH"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212363,
       "name": "Big Dawg Status",
       "url": "https://open.spotify.com/track/5TszhspXFf2yrLh9CiWgyy"
@@ -3158,7 +3158,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182533,
       "name": "coke nails",
       "url": "https://open.spotify.com/track/5DuAY3aXh2YiDDRhiyyWwC"
@@ -3664,7 +3664,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 247523,
       "name": "Dali (feat. Zamdane)",
       "url": "https://open.spotify.com/track/3KxCw6J3i9Lxt8N9RAxz1U"
@@ -5296,7 +5296,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195789,
       "name": "FMB pt 2 (feat. Hurricane Wisdom)",
       "url": "https://open.spotify.com/track/1kRGYmeLf3vkKaMwD0pYpd"
@@ -7712,7 +7712,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213777,
       "name": "I Ain't Coming Back",
       "url": "https://open.spotify.com/track/1PdTGX45hLzzpHmGKjAVGz"
@@ -7778,6 +7778,24 @@
       "duration_ms": 157533,
       "name": "i crash, u crash",
       "url": "https://open.spotify.com/track/5Kc7tvgQCCayTkJdVl8kS1"
+    },
+    {
+      "album": {
+        "name": "I Don't Scam",
+        "url": "https://open.spotify.com/album/6IG86uAbHjqk2EGwwUUemE"
+      },
+      "artists": [
+        {
+          "name": "Bani",
+          "url": "https://open.spotify.com/artist/6YB4f2gqNYFxr0iaTyIIKE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122506,
+      "name": "I Don't Scam",
+      "url": "https://open.spotify.com/track/6WY2fmgC4AFIobJPUmxlOD"
     },
     {
       "album": {
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 167235,
       "name": "industry fck up",
       "url": "https://open.spotify.com/track/1fUoUpUheJn8cuHY8fyqT8"
@@ -8444,7 +8462,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178666,
       "name": "IRL",
       "url": "https://open.spotify.com/track/2M49b9WzNPVR4cru052M4U"
@@ -8542,7 +8560,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 126627,
       "name": "jackie chan",
       "url": "https://open.spotify.com/track/68gDXFss7XM5Rfcwb9F6s8"
@@ -8618,7 +8636,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
@@ -9327,6 +9345,28 @@
     },
     {
       "album": {
+        "name": "Life Of A Man",
+        "url": "https://open.spotify.com/album/07QHVg2thyj7xxKnBDuzef"
+      },
+      "artists": [
+        {
+          "name": "1Ski OG",
+          "url": "https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo"
+        },
+        {
+          "name": "Romieikon",
+          "url": "https://open.spotify.com/artist/5H8e6UkaFWOulovj7ocu4p"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195082,
+      "name": "Life Of A Man",
+      "url": "https://open.spotify.com/track/6sHMxzcrWslcJ9eeSLxV1T"
+    },
+    {
+      "album": {
         "name": "LiGhT rAiLs *\u0a48\u2729\u2027\u208a\u02da",
         "url": "https://open.spotify.com/album/0Sl4hjNHwOrVq6rnexErGu"
       },
@@ -9350,6 +9390,24 @@
       "duration_ms": 145301,
       "name": "LiGhT rAiLs *\u0a48\u2729\u2027\u208a\u02da",
       "url": "https://open.spotify.com/track/2CKjPJ59ihAjVro074hFmW"
+    },
+    {
+      "album": {
+        "name": "Lights Low",
+        "url": "https://open.spotify.com/album/5RzJpqXY7s0aIMyItCpmcb"
+      },
+      "artists": [
+        {
+          "name": "Nic Dean",
+          "url": "https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Lights Low",
+      "url": "https://open.spotify.com/track/0ovcoMuBLaHDSe3O91oSJT"
     },
     {
       "album": {
@@ -10691,6 +10749,24 @@
     },
     {
       "album": {
+        "name": "Motion Party",
+        "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95840,
+      "name": "Motion Party",
+      "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
+    },
+    {
+      "album": {
         "name": "Move Wrong (feat. VonOff1700)",
         "url": "https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd"
       },
@@ -11186,7 +11262,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 144000,
       "name": "NEXT DAY",
       "url": "https://open.spotify.com/track/19SPvZYBAIlTyQOCFdy1s1"
@@ -11944,7 +12020,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 113777,
       "name": "Official",
       "url": "https://open.spotify.com/track/3lGccc55k1iUtQLq2GbUEu"
@@ -12430,6 +12506,24 @@
       "duration_ms": 120004,
       "name": "Pelle",
       "url": "https://open.spotify.com/track/5rqd2P9yFlCRLcmKVoGEWt"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/74tz1J4epV7kUGwgXiN3KM"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111081,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4NUOUBfUBeVy6Suo5aZsJ0"
     },
     {
       "album": {
@@ -13078,7 +13172,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 179476,
       "name": "Putting Ya Dine",
       "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
@@ -15649,6 +15743,32 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nuh",
+        "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126042,
+      "name": "Talk To Me Nuh",
+      "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "album": {
         "name": "Talk Yo Shit",
         "url": "https://open.spotify.com/album/6PPSalbxNszeQGObdNJfMV"
       },
@@ -16010,6 +16130,28 @@
       "duration_ms": 156000,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1Z4MUPJF3cIFChWpsL225b"
+    },
+    {
+      "album": {
+        "name": "Feature Presentation 2025",
+        "url": "https://open.spotify.com/album/4b4OiSr351NzdTBaQavxrO"
+      },
+      "artists": [
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198447,
+      "name": "The Omerta - Original",
+      "url": "https://open.spotify.com/track/7LXhgXeTveJArOTfX5dRXg"
     },
     {
       "album": {
@@ -17238,6 +17380,24 @@
       "duration_ms": 168533,
       "name": "WE ON GO",
       "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
+    },
+    {
+      "album": {
+        "name": "BIANCA (Extended)",
+        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
     },
     {
       "album": {

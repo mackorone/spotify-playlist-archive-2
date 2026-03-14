@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 77181,
+  "num_followers": 77178,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Presence People",
         "url": "https://open.spotify.com/album/3kSJsZ20S5G9Q53vkhrDAi"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 471490,
       "name": "Jesus Forever",
       "url": "https://open.spotify.com/track/0uj4h2Ltq68hUBoaTp62Oy"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
     },
     {
       "added_at": "2025-04-11 04:00:15",

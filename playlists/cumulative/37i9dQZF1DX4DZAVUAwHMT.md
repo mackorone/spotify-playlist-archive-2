@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: The Scratch
 
-1,289 songs - 3 day 0 hr 4 min
+1,290 songs - 3 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [Get Free](https://open.spotify.com/track/0agVVzbyorgegkwR8lVvMN) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Get Free](https://open.spotify.com/album/5xFCERL28FPqxpbyqbSHwz) | 1:33 | 2023-10-26 | 2023-12-22 |
 | [Get Out](https://open.spotify.com/track/5ERyOjxbrhVZfwAPpX2O6G) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Get Out](https://open.spotify.com/album/4ckU05Gz1l6kf4buoNG4Ay) | 2:58 | 2024-04-18 | 2024-06-21 |
 | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/album/1ULJktTBsYpAt3CgCyyH5L) | 4:36 | 2025-05-08 | 2025-05-30 |
-| [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 | 2025-11-28 |  |
+| [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 | 2025-11-28 | 2026-03-14 |
 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-08 | 2025-09-02 |
 | [Ghost](https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Ghost](https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7) | 2:29 | 2026-01-09 |  |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-19 | 2024-02-16 |
@@ -724,6 +724,7 @@
 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-09-18 | 2026-01-15 |
 | [Miss](https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Miss](https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb) | 3:37 | 2025-10-23 | 2025-11-14 |
 | [MISS HER](https://open.spotify.com/track/6KdhOOGA2jiinTxZ9bUio4) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [MISS HER](https://open.spotify.com/album/5iyhaKuooHHV4O3BBi5z53) | 2:08 | 2025-10-09 | 2025-11-08 |
+| [Miss Millennial](https://open.spotify.com/track/5CppV85q7sOY4Okurdsa9j) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Until You're Satisfied](https://open.spotify.com/album/44XBTJ2FnCtqaQNhNBHNZK) | 2:55 | 2026-03-13 |  |
 | [Mistakes](https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [From Hell to Here](https://open.spotify.com/album/0fESCRLAS064Q9a5blaLQ6) | 3:14 | 2023-05-11 | 2023-07-14 |
 | [MISTY ECSTASY](https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MISTY ECSTASY](https://open.spotify.com/album/6wHey3HFy6BdfOIeaSB8ZJ) | 3:27 | 2024-11-15 | 2024-12-13 |
 | [Mitsuko](https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Mitsuko](https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO) | 2:09 | 2024-03-08 | 2024-03-09 |

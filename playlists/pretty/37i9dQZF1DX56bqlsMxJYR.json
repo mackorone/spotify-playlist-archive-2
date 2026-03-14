@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1400463,
+  "num_followers": 1400717,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Beatles 1962 - 1966 (Remastered)",
-        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 146720,
-      "name": "I Want To Hold Your Hand - Remastered 2009",
-      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Hey Lover / Stand by Me",
         "url": "https://open.spotify.com/album/40RGCmiNjNqOAQjeMDdCWE"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "url": "https://open.spotify.com/album/6126O4XLYAfzU3961ziahP"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 146720,
+      "name": "I Want To Hold Your Hand - Remastered 2009",
+      "url": "https://open.spotify.com/track/5Qe7NHxeLAn8KoLTNLSdwe"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Calypso",
-        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
       "artists": [
         {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 189468,
-      "name": "Banana Boat (Day-O)",
-      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+        "name": "Calypso",
+        "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+      "duration_ms": 189468,
+      "name": "Banana Boat (Day-O)",
+      "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
         "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 147293,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
       },
       "artists": [
         {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
         }
       ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sings Top Ten",
-        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
       "artists": [
         {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
         }
       ],
-      "duration_ms": 178440,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
+        "name": "Everlasting: The Best Of Carl Carlton",
+        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Everlasting: The Best Of Carl Carlton",
-        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
       "artists": [
         {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
+      "duration_ms": 225426,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -1739,22 +1755,6 @@
       "duration_ms": 139666,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "The Duke Of Earl",
-        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
-      },
-      "artists": [
-        {
-          "name": "Gene Chandler",
-          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
-        }
-      ],
-      "duration_ms": 147841,
-      "name": "Duke of Earl",
-      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Tears Of Fire: The 25th Anniversary Collection",
         "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 159760,
       "name": "Stand By Your Man",
       "url": "https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "The Duke Of Earl",
+        "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
+      },
+      "artists": [
+        {
+          "name": "Gene Chandler",
+          "url": "https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW"
+        }
+      ],
+      "duration_ms": 147841,
+      "name": "Duke of Earl",
+      "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
     },
     {
       "added_at": "2024-07-12 06:11:58",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-07-12 06:11:58",
       "album": {
-        "name": "Sea Of Love: The Collection",
-        "url": "https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB"
-      },
-      "artists": [
-        {
-          "name": "Phil Phillips & The Twilights",
-          "url": "https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW"
-        }
-      ],
-      "duration_ms": 141933,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
-    },
-    {
-      "added_at": "2024-07-12 06:11:58",
-      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 181840,
       "name": "Bernadette",
       "url": "https://open.spotify.com/track/0LVvnJs7eOuHIkWwjWHEWF"
+    },
+    {
+      "added_at": "2024-07-12 06:11:58",
+      "album": {
+        "name": "Sea Of Love: The Collection",
+        "url": "https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB"
+      },
+      "artists": [
+        {
+          "name": "Phil Phillips & The Twilights",
+          "url": "https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW"
+        }
+      ],
+      "duration_ms": 141933,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt"
     },
     {
       "added_at": "2024-07-12 06:11:58",

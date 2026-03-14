@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 222615,
+  "num_followers": 222693,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Shining in the Dark",
+        "url": "https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6"
+      },
+      "artists": [
+        {
+          "name": "Cienfue",
+          "url": "https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT"
+        }
+      ],
+      "duration_ms": 260702,
+      "name": "Shining in the Dark",
+      "url": "https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 166583,
       "name": "Lejos (feat. Coco Santos)",
       "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Shining in the Dark",
-        "url": "https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6"
-      },
-      "artists": [
-        {
-          "name": "Cienfue",
-          "url": "https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT"
-        }
-      ],
-      "duration_ms": 260702,
-      "name": "Shining in the Dark",
-      "url": "https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
+      },
+      "artists": [
+        {
+          "name": "RARRI BLANCO",
+          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
+        }
+      ],
+      "duration_ms": 216844,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 184480,
       "name": "De Momento Abril",
       "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
-      },
-      "artists": [
-        {
-          "name": "RARRI BLANCO",
-          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
-        }
-      ],
-      "duration_ms": 216844,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
     },
     {
       "added_at": "2024-07-12 18:08:37",

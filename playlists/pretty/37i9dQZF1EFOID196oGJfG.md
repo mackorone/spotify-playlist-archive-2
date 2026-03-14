@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 34 | [Standing In The Fire](https://open.spotify.com/track/51xtT2Bxh8W3V5kSqPKB4P) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/7zfRFOppB570UYNLe3wgkU) | 2:55 |
 | 35 | [Blue](https://open.spotify.com/track/5g4KThJ9rjQexAG2NtomKE) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 3:24 |
 | 36 | [Taylor For President](https://open.spotify.com/track/2zJa1AVV5yrajZeNMkmllc) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Taylor For President](https://open.spotify.com/album/0FIkW4RQ8GTyCfo0COl5gT) | 2:12 |
-| 37 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
-| 38 | [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 |
+| 37 | [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 |
+| 38 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 39 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcL91AAAAACqAiXSrS357u96MGa5NDa1`
+Snapshot ID: `AcMDagAAAADU2gp6uVJgDNXkcNpr+Aw8`

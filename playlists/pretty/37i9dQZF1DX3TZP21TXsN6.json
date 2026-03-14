@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: BFLQuatro, Flo, Vurr Flashy en meer\u2026",
-  "num_followers": 159239,
+  "num_followers": 159258,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2026-03-12 23:00:50",
       "album": {
+        "name": "PTSS",
+        "url": "https://open.spotify.com/album/6jNLjUuXrS5RN3tyvVFDlQ"
+      },
+      "artists": [
+        {
+          "name": "Vurr Flashy",
+          "url": "https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh"
+        }
+      ],
+      "duration_ms": 213332,
+      "name": "PTSS",
+      "url": "https://open.spotify.com/track/5x1u6tT7kZ06SVjeiOfNbo"
+    },
+    {
+      "added_at": "2026-03-12 23:00:50",
+      "album": {
         "name": "Achtbaan 2",
         "url": "https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF"
       },
@@ -50,10 +66,14 @@
         {
           "name": "Clep N Flyy",
           "url": "https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq"
+        },
+        {
+          "name": "BRANDIE",
+          "url": "https://open.spotify.com/artist/1nJ2gBoNRg5vNcfv2imRL1"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 161764,
+      "name": "Vluchtauto",
       "url": "https://open.spotify.com/track/5NvPWi5ytkmZAyCMW9q1OQ"
     },
     {

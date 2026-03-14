@@ -4,7 +4,7 @@
 
 > ¡Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Triviño!
 
-185 songs - 9 hr 52 min
+186 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [7 Días](https://open.spotify.com/track/4PVXolDGjeVeqNAnDLnpRP) | [Alma Zarza](https://open.spotify.com/artist/0a6LKkN5w6MkqokXAbePRL) | [7 Días](https://open.spotify.com/album/5YF1AWnlgwMkDXwxpaV0E9) | 3:10 | 2024-09-20 | 2025-04-11 |
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2024-07-05 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2020-04-22 | 2025-10-11 |
+| [Alas \- Versión 2026 \- De "Soy Luna" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 | 2026-03-13 |  |
 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 | 2024-07-05 |  |
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2020-12-21 | 2024-02-12 |
 | [Amor Prohibido](https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:52 | 2024-03-15 | 2024-04-13 |
@@ -112,7 +113,7 @@
 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 | 2023-09-08 | 2025-10-11 |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2020-04-22 | 2023-03-23 |
 | [Medley Homenaje A Timbiriche](https://open.spotify.com/track/45Hve1K3LVVv6GU0vqqGyi) | [Los Meñiques De La Casa](https://open.spotify.com/artist/4NKHtkR5qcCUoVnhlALcJR), [Lara Campos](https://open.spotify.com/artist/4i59SkjxpeY2MTZTVyO1QH), [Saritah Bebé](https://open.spotify.com/artist/1Ff1uZNhRCTdjYU8yOlpMk) | [Medley Homenaje A Timbiriche](https://open.spotify.com/album/3Cq7jpvZpDnqGWOYHWeA2v) | 5:03 | 2025-05-05 | 2025-05-31 |
-| [Mi Equilibrio Espiritual](https://open.spotify.com/track/4Qs3OEgzBPGPmRR5QJ0UIs) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Freddy Turbina](https://open.spotify.com/artist/1FUkxBFhROt3Eol4fzle1Z) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:25 | 2025-10-10 |  |
+| [Mi Equilibrio Espiritual](https://open.spotify.com/track/4Qs3OEgzBPGPmRR5QJ0UIs) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Freddy Turbina](https://open.spotify.com/artist/1FUkxBFhROt3Eol4fzle1Z) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:25 | 2025-10-10 | 2026-03-14 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-09-08 | 2024-03-16 |
 | [Mi Muñeca Me Habló](https://open.spotify.com/track/5ncgVzLRtRDzcPigTddpdp) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Flor Bovina](https://open.spotify.com/artist/40FjANIfFcoTtH0kF9ixHG) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:05 | 2025-10-10 |  |
 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Cama Incendiada](https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa) | 4:32 | 2023-03-22 | 2024-02-17 |

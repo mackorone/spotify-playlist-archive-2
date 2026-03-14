@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-195 songs - 9 hr 35 min
+196 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 | 2023-08-07 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-08-07 |  |
 | [don't go to sleep](https://open.spotify.com/track/1pYNeCPizd8bU9nfwZcmia) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [don't go to sleep](https://open.spotify.com/album/68JBhyK8RyWLlbJEiv6CMq) | 1:34 | 2025-09-19 | 2026-01-15 |
-| [Don't Pretend](https://open.spotify.com/track/0cDE1IzAH6OsPpwLKT1l6t) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Don't Pretend](https://open.spotify.com/album/1xzB42qRKOpfZVdFEyoL7B) | 2:44 | 2025-09-11 |  |
+| [Don't Pretend](https://open.spotify.com/track/0cDE1IzAH6OsPpwLKT1l6t) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Don't Pretend](https://open.spotify.com/album/1xzB42qRKOpfZVdFEyoL7B) | 2:44 | 2025-09-11 | 2026-03-14 |
 | [Don't Wanna Breathe](https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:16 | 2024-02-23 |  |
 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 | 2024-02-23 |  |
 | [Down Below](https://open.spotify.com/track/4SWWe2OYC4mqf40Gc2RSdl) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 3:44 | 2024-02-23 |  |
@@ -192,6 +192,7 @@
 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 | 2025-12-12 |  |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2023-08-07 | 2023-11-05 |
 | [Walk Away](https://open.spotify.com/track/6mhMFztI38c0CZr8CEnPrD) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [Natsukashii](https://open.spotify.com/album/2OWpkUitUjxj93YBZZBrAt) | 2:00 | 2024-02-23 |  |
+| [Walk Away](https://open.spotify.com/track/3iOFoP4hg5GHtSMbvx1LuY) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Walk Away](https://open.spotify.com/album/4s1zMNa8r71wyo6SJyRfwI) | 2:33 | 2026-03-13 |  |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2023-08-18 | 2025-11-08 |
 | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ) | 2:29 | 2026-03-06 |  |
 | [WHAT ABOUT US?](https://open.spotify.com/track/7p1jlGjvB0VoccZTGbU4E3) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [WHAT ABOUT US?](https://open.spotify.com/album/5pYTWqCjELvvHccO2HgueV) | 2:33 | 2024-07-08 |  |

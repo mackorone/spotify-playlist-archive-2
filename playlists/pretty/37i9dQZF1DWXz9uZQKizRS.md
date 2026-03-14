@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Wojciech Baranowski
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,984 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,005 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 20 | [Nike Cortez](https://open.spotify.com/track/1iIQT0v7mIKVUlZIBErQfE) | [MENT](https://open.spotify.com/artist/3u7qU72tVErX5mWw2ZPyev), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Nike Cortez](https://open.spotify.com/album/3IglWLDwv8XeM3HQxF80qm) | 2:36 |
 | 21 | [Jestem Zwykłym Chłopcem](https://open.spotify.com/track/4e3XCNJxsPgzS7uYrn2I0A) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Jestem Zwykłym Chłopcem](https://open.spotify.com/album/3FfCU2zq1yRTHeAfiLcRi0) | 2:36 |
 | 22 | [OBEJMIJ MNIE](https://open.spotify.com/track/7ii4ALWWkeu51XArlxB9LP) | [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I) | [OBEJMIJ MNIE](https://open.spotify.com/album/6GEiEU87XLNvFL0Nyh9qMa) | 3:24 |
-| 23 | [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 |
+| 23 | [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Michał Rajca](https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 |
 | 24 | [14 piętro](https://open.spotify.com/track/38xCd2vSbCnAmms9SVTujz) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [14 piętro](https://open.spotify.com/album/7fIKzLXygci6nWsFvQ3JPd) | 6:01 |
 | 25 | [ZABAWA](https://open.spotify.com/track/2U6w6Pdr9DAzij24JKnLso) | [YULKA](https://open.spotify.com/artist/4reS0zac7BdO81SDRjjRVM) | [ZABAWA](https://open.spotify.com/album/7zxXmhx2abySqYT9fXK90R) | 3:15 |
 | 26 | [Co by było gdyby](https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae) | [16m2](https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz) | 3:25 |

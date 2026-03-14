@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 349899,
+  "num_followers": 349931,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAA9wlx5ocAs431f2/r+5a3P",
+  "snapshot_id": "abICAAAAAABrU/YgMC4D6mI7RGQZ5mPf",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159694,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aka Entre el Humo",
         "url": "https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 199000,
       "name": "Aka Entre el Humo",
       "url": "https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159694,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Foto de Perfil",
-        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 171833,
-      "name": "Sin Foto de Perfil",
-      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Bendecido",
         "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 158022,
       "name": "El Bendecido",
       "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Foto de Perfil",
+        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "Sin Foto de Perfil",
+      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/0A27vM7tXZgr5dJwLR1SD5"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 168603,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/7HLCx8bPfOMR2rDy8Dzuqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 161766,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/0A27vM7tXZgr5dJwLR1SD5"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 168603,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/7HLCx8bPfOMR2rDy8Dzuqg"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 189769,
+      "name": "Me Estoy Acostumbrando",
+      "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 189769,
-      "name": "Me Estoy Acostumbrando",
-      "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "Home Run",
-      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 217409,
       "name": "Termino Con Lo Nuestro",
       "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
     },
     {
       "added_at": null,

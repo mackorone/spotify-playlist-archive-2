@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 7081,
+  "num_followers": 7082,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACrm62t+bryKS07LhwGQvLR",
+  "snapshot_id": "abICAAAAAACw8xWlu3tYSl/uJ1+1dxrw",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
+        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 354463,
+      "name": "Nwon Ran Omo Loja - Re-Mastered",
+      "url": "https://open.spotify.com/track/6iotnZAYKqb10L2vf8YYuF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Degrees North",
         "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 540106,
       "name": "Ariya",
       "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Ode La Alaga",
-      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
-        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 354463,
-      "name": "Nwon Ran Omo Loja - Re-Mastered",
-      "url": "https://open.spotify.com/track/6iotnZAYKqb10L2vf8YYuF"
+      "duration_ms": 194026,
+      "name": "Ode La Alaga",
+      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
+        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 116386,
-      "name": "Ko Salapata",
-      "url": "https://open.spotify.com/track/2mHxlK2KOfX85JNQu4vJFG"
+      "duration_ms": 194828,
+      "name": "Rod Publicity - Re-Mastered",
+      "url": "https://open.spotify.com/track/4kxBrdsyuVfA5QjJ51VNUT"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
-        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 194828,
-      "name": "Rod Publicity - Re-Mastered",
-      "url": "https://open.spotify.com/track/4kxBrdsyuVfA5QjJ51VNUT"
+      "duration_ms": 116386,
+      "name": "Ko Salapata",
+      "url": "https://open.spotify.com/track/2mHxlK2KOfX85JNQu4vJFG"
     },
     {
       "added_at": null,

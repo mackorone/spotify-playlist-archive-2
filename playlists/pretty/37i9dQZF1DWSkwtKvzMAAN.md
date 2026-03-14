@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,211 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,216 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

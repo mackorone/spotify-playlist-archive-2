@@ -2,7 +2,7 @@
 
 ### [254 Flow](https://open.spotify.com/playlist/37i9dQZF1DWZdKbfDnTWVN)
 
-> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd?si=q\-loWV6LRL2ievHr4ReHNg"> Ares66</a>
+> The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az?si=1k\_yT26TS5mkQA\_JB6h3SQ"> Khalighraph Jones</a> and <a href="https://open.spotify.com/artist/1OVwRfZjHk4l57JyQkSQ43?si=Jd5Ri7jUQaebxR7BK7\_Tew"> Johnny Vigeti</a>
 
 482 songs - 1 day 1 hr 57 min
 

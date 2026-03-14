@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 10062,
+  "num_followers": 10060,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADoNyJQJKpQwfShwX9pRb2x",
+  "snapshot_id": "abICAAAAAAAi96gZxoDbfnHdeiZHnwSi",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manu 76",
-        "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 457066,
-      "name": "Besoka on Salsa",
-      "url": "https://open.spotify.com/track/1R7OaZSi8gazDJnjBWUXK5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manu Dibango Anthology",
         "url": "https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 264306,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manu 76",
+        "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 457066,
+      "name": "Besoka on Salsa",
+      "url": "https://open.spotify.com/track/1R7OaZSi8gazDJnjBWUXK5"
     },
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africadelic",
-        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+        "name": "Anbessa",
+        "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
       },
       "artists": [
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 107786,
-      "name": "Oriental Sunset",
-      "url": "https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6"
+      "duration_ms": 172686,
+      "name": "Ekedi",
+      "url": "https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK"
     },
     {
       "added_at": null,
@@ -383,28 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anbessa",
-        "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
-      },
-      "artists": [
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 172686,
-      "name": "Ekedi",
-      "url": "https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
       },
       "artists": [
         {
@@ -412,9 +396,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 276173,
-      "name": "Night In Zeralda",
-      "url": "https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3"
+      "duration_ms": 107786,
+      "name": "Oriental Sunset",
+      "url": "https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
       "duration_ms": 350733,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/1XWDjQkOEUvgKuWRPxZOMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 276173,
+      "name": "Night In Zeralda",
+      "url": "https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3"
     },
     {
       "added_at": null,
@@ -472,26 +472,6 @@
       "added_at": null,
       "album": {
         "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        }
-      ],
-      "duration_ms": 344760,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cubafrica",
         "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
       },
       "artists": [
@@ -511,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+        "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
       "artists": [
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
         }
       ],
-      "duration_ms": 163723,
-      "name": "Iron Wood",
-      "url": "https://open.spotify.com/track/3VxngfqlyODulPhX80UuzG"
+      "duration_ms": 344760,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
     },
     {
       "added_at": null,
@@ -536,9 +520,25 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 184240,
-      "name": "Senga",
-      "url": "https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q"
+      "duration_ms": 345333,
+      "name": "Big Blow",
+      "url": "https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 163723,
+      "name": "Iron Wood",
+      "url": "https://open.spotify.com/track/3VxngfqlyODulPhX80UuzG"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 167922,
-      "name": "Out of Score",
-      "url": "https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventie's",
         "url": "https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP"
       },
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 345333,
-      "name": "Big Blow",
-      "url": "https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK"
+      "duration_ms": 184240,
+      "name": "Senga",
+      "url": "https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 194760,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/2FYV3YZ6ikL7NTFBnBXRqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "Out of Score",
+      "url": "https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "Dikalo - Remix 97",
-      "url": "https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paris je t'aime d'amour",
         "url": "https://open.spotify.com/album/63ecpqpAUf4EMpHn6DFlLQ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 291760,
       "name": "Paris je t'aime d'amour",
       "url": "https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "Dikalo - Remix 97",
+      "url": "https://open.spotify.com/track/7pynF3ZjAJZfUQhmS4bpk2"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Taciturne",
+        "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
+      },
+      "artists": [
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Les gar\u00e7ons ne pleurent pas",
+      "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waka Juju",
         "url": "https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh"
       },
@@ -815,62 +835,6 @@
       "duration_ms": 196240,
       "name": "Wouri",
       "url": "https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taciturne",
-        "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
-      },
-      "artists": [
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Les gar\u00e7ons ne pleurent pas",
-      "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
-      },
-      "artists": [
-        {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Cosita Linda",
-      "url": "https://open.spotify.com/track/0QJPmPtf8aF7etipCeBu0c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waka Juju",
-        "url": "https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 387440,
-      "name": "Douala Serenade",
-      "url": "https://open.spotify.com/track/4bWXN4eM8Oh25PxWtPGrmw"
     },
     {
       "added_at": null,
@@ -915,6 +879,42 @@
       "duration_ms": 354000,
       "name": "Emma (feat. Salif Keita)",
       "url": "https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waka Juju",
+        "url": "https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 387440,
+      "name": "Douala Serenade",
+      "url": "https://open.spotify.com/track/4bWXN4eM8Oh25PxWtPGrmw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
+      },
+      "artists": [
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 183533,
+      "name": "Cosita Linda",
+      "url": "https://open.spotify.com/track/0QJPmPtf8aF7etipCeBu0c"
     }
   ],
   "unique_name": "This Is Manu Dibango",

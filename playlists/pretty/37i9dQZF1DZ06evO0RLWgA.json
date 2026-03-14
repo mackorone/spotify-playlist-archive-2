@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52078,
+  "num_followers": 52082,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABlmOD3cj/F9Bgw+0haIZ18",
+  "snapshot_id": "abICAAAAAAD8vWRuG17uRJlvwBI+lKQP",
   "tracks": [
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Serves Me Right to Suffer / Syndicator - feat. Van Morrison - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Serve You Right To Suffer (2025 Remaster)",
         "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 171000,
       "name": "The Motor City Is Burning",
       "url": "https://open.spotify.com/track/3BEMA3t4qzJeV2oo3uH8pW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Serves Me Right to Suffer / Syndicator - feat. Van Morrison - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Cuttin' Out - feat. Canned Heat",
+      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Cuttin' Out - feat. Canned Heat",
-      "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

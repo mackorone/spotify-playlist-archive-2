@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,878 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,880 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 29 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 2:48 |
 | 30 | [1990](https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:09 |
 | 31 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
-| 32 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
-| 33 | [Oxyballad](https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Oxyballad](https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI) | 2:58 |
+| 32 | [Oxyballad](https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Oxyballad](https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI) | 2:58 |
+| 33 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
 | 34 | [SAM](https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [SAM](https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ) | 4:50 |
 | 35 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
-| 36 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
-| 37 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
-| 38 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
+| 36 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
+| 37 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
+| 38 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
 | 39 | [Coma \- Stripped Version](https://open.spotify.com/track/2XnCicNih9wL1IQsq5nxOY) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma \(Stripped Version\)](https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17) | 3:18 |
 | 40 | [Sotula](https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Sotula](https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm) | 3:06 |
 | 41 | [INSURGENCIA](https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [INSURGENCIA](https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX) | 2:12 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 44 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
 | 45 | [Strange Place](https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Wire](https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC) | 3:10 |
 | 46 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
-| 47 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
-| 48 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
+| 47 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
+| 48 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
 | 49 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
 | 50 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 

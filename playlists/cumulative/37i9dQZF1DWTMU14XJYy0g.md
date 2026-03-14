@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 Ale Kurz
+> Más vivo que nunca, más nuestro que siempre 📸 RYAN
 
-447 songs - 1 day 3 hr 44 min
+449 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Abrazame](https://open.spotify.com/track/6Y4GA1qG0x17RR9tPfA6st) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Abrazame](https://open.spotify.com/album/5IvA88O5F7qYHaIG0Aj052) | 4:28 | 2024-05-31 | 2025-03-08 |
 | [Absurdo](https://open.spotify.com/track/0SiUfuGOtlSUPky10U1lCo) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Artificio](https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP) | 3:09 | 2025-05-16 |  |
 | [Acaricio](https://open.spotify.com/track/68jIMrHtBM6QmuQ5PQN8SG) | [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Acaricio](https://open.spotify.com/album/3k3xm9kJvTSz9tJOjR6yy5) | 2:40 | 2026-01-12 |  |
-| [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-22 |  |
+| [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 | 2024-03-22 | 2026-03-14 |
 | [ADRENALINA](https://open.spotify.com/track/1FPwQ986uwr9s5fX4IeJED) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [ADRENALINA](https://open.spotify.com/album/0DgyRVddvD2CJZj1k9j8vC) | 2:17 | 2025-04-29 | 2025-10-11 |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 | 2023-07-29 |
 | [Al Límite](https://open.spotify.com/track/3iG2svHzJCwv3i75sc83Vv) | [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Hollywood Bungalows](https://open.spotify.com/album/5i5fjpRX6wAbjjUAj0siq1) | 4:33 | 2025-02-21 | 2025-05-17 |
@@ -199,6 +199,7 @@
 | [Indómito Sentir](https://open.spotify.com/track/0ldljvvUw0ApIcnVdzrupm) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Indómito Sentir](https://open.spotify.com/album/0Cqfl5mK3EmyH2baOd2a7K) | 4:09 | 2022-09-30 | 2023-09-09 |
 | [Inmediatez](https://open.spotify.com/track/54lymSICrfTr7Z0UeVPmRY) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Germán Daffunchio](https://open.spotify.com/artist/3WFJJl01wqMrNjjiGSOyrJ) | [Inmediatez](https://open.spotify.com/album/6LoA2hbjy7lPdLBh46l2M8) | 3:54 | 2022-06-24 | 2022-07-02 |
 | [Insomnio](https://open.spotify.com/track/0soxXSBCM7CrfzF2kfAo11) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Insomnio](https://open.spotify.com/album/5PYPuzpJjLgxu4j8QLySVI) | 4:07 | 2024-04-19 | 2024-08-24 |
+| [Insoportable](https://open.spotify.com/track/6L9AJOVDiiYP73AW3uc4aQ) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Insoportable](https://open.spotify.com/album/6QICt4Vi63TV00g51ngIpE) | 3:46 | 2026-03-13 |  |
 | [Intoxicarme](https://open.spotify.com/track/6d519FJTrTbeaTlG5pXWM9) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Intoxicarme](https://open.spotify.com/album/2pZiZAe9HInht6L56YwIif) | 3:01 | 2022-06-24 | 2023-09-27 |
 | [Inventario](https://open.spotify.com/track/5b4nQSv5xOqdkpt1e3N0sq) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Inventario](https://open.spotify.com/album/5V8oEK9q3A3xVVy2zZS2QU) | 2:42 | 2022-12-09 | 2023-06-10 |
 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 | 2023-09-22 | 2024-04-27 |
@@ -208,7 +209,7 @@
 | [Josefina](https://open.spotify.com/track/1EmLmTBlskZfF4X2XkEn3P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 2:40 | 2022-06-24 | 2023-09-27 |
 | [Jugando Con Fuego](https://open.spotify.com/track/1Ts0sHzGfkg5VO96NWaqcA) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Jugando Con Fuego](https://open.spotify.com/album/0x3ULeWwEr8zHPRs88rZQh) | 3:12 | 2022-06-24 | 2023-09-27 |
 | [Jugo de Tomate](https://open.spotify.com/track/2uXz0zxaffHEUx3y1wCBky) | [Esto es ¡FA!](https://open.spotify.com/artist/0ElbMDEefrgdxl0geuDPHn), [Mex Urtizberea](https://open.spotify.com/artist/2iPrKTKzQOV6F6PZOS8lMI), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Jugo de Tomate](https://open.spotify.com/album/6icxKDgFOJLIYPFVToGUg6) | 4:22 | 2025-10-10 |  |
-| [Juntos a la par](https://open.spotify.com/track/017IdqJWLWEODrrTRY8NEc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Versión Cobra Vol\. 1](https://open.spotify.com/album/2t56Hj24344JRswEoXkKRZ) | 3:14 | 2024-01-12 |  |
+| [Juntos a la par](https://open.spotify.com/track/017IdqJWLWEODrrTRY8NEc) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Versión Cobra Vol\. 1](https://open.spotify.com/album/2t56Hj24344JRswEoXkKRZ) | 3:14 | 2024-01-12 | 2026-03-14 |
 | [Ken Kesey \(scherzo\)](https://open.spotify.com/track/3QdjStCd2S66h1DYU7rO7h) | [El Mister y Los Marsupiales Extintos](https://open.spotify.com/artist/7DakWF6Sq7Q4JjvMXqJu1N), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [Ken Kesey \(scherzo\)](https://open.spotify.com/album/77Hia84RuOXF6hQ9YixTul) | 4:30 | 2022-09-30 | 2023-03-04 |
 | [Kiev](https://open.spotify.com/track/64Ty8b36mMxSHxMUzfM7GT) | [Baltasar Comotto](https://open.spotify.com/artist/0C9GmkE2ni3bXFaJbHw01b) | [Empezó La Cacería](https://open.spotify.com/album/4tKsJzkAaXeJiu71APumvq) | 3:30 | 2022-06-24 | 2023-05-06 |
 | [Kintsukuroi](https://open.spotify.com/track/3Ib7O0KTQOLbbnJMciknVt) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [Canción mata algoritmo](https://open.spotify.com/album/4HJ1j9Aepc2OKPXDOcbug4) | 2:51 | 2023-09-26 | 2023-10-27 |
@@ -455,5 +456,6 @@
 | [Yo Ya Sé](https://open.spotify.com/track/79thbxA6OpIUMVu8mROice) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 2:03 | 2024-09-12 | 2025-02-14 |
 | [¿Cuál es tu norte?](https://open.spotify.com/track/3rXelz3OropaCqcftAvS0d) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [¿Cuál es tu norte?](https://open.spotify.com/album/4jB9UpCufTpKqCKdhzliPz) | 4:24 | 2023-03-17 | 2024-06-08 |
 | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 | 2024-11-07 | 2025-12-06 |
+| [Úsame](https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [Úsame](https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6) | 3:03 | 2026-03-13 |  |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

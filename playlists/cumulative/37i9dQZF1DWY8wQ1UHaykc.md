@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-208 songs - 14 hr 16 min
+210 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Kepompong](https://open.spotify.com/track/7orcUlTZrNNph2bF3bihrG) | [sind3ntosca](https://open.spotify.com/artist/5u5fTfK2EBGx3PbEHIEiqd) | [8 Menit Lalu](https://open.spotify.com/album/1XnMKW4MDd1oAnurHGuqBI) | 3:51 | 2024-07-19 |  |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs) | 3:36 | 2024-01-05 | 2024-04-19 |
 | [Kesempurnaan Cinta](https://open.spotify.com/track/5WmeAm8HXWRnUTFNTlzpBL) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Kesempurnaan Cinta](https://open.spotify.com/album/1Wl5QMNxmI9ABIAteayg8U) | 3:36 | 2024-04-19 |  |
+| [Kesepian](https://open.spotify.com/track/5oy5qoCYSSsf3nOEe9aIYZ) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [Love, Love & Love](https://open.spotify.com/album/0KUthdNI5OHnflJNj6Jd2g) | 4:09 | 2026-03-13 |  |
 | [Ku Curi Lagi Hatimu](https://open.spotify.com/track/7hq08K6YBaTaDzkaEnDyBa) | [Ada Band](https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f) | [Chemistry](https://open.spotify.com/album/1WI9GtqtXpooiBA9Ckm0YM) | 3:43 | 2024-11-22 |  |
 | [Ku Dengannya Kau Dengan Dia](https://open.spotify.com/track/24Dk7XFLnMXYuv1U9Qjv3U) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [SIDES](https://open.spotify.com/album/2maVK3t3NYwcqwp2IKdhyw) | 4:28 | 2024-03-14 |  |
 | [Ku Menunggu](https://open.spotify.com/track/2O74dFcLEImQdwv6u3Zjer) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Harmoni: Jalinan Nada Cerita](https://open.spotify.com/album/2OIGarkXqPjwJQxN6IsJOn) | 3:50 | 2024-01-05 |  |
@@ -164,6 +165,7 @@
 | [Sedang Mikirin Kamu](https://open.spotify.com/track/5HPiaCZAvLHGpGX4OBzwpM) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:10 | 2024-09-01 |  |
 | [Sekuat Hatimu](https://open.spotify.com/track/0fiKmieZ6xzoolzNOC3Fxi) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:43 | 2024-01-05 |  |
 | [Selalu CInta](https://open.spotify.com/track/0GDxhBE0Sq0Dq8y4JE2SDC) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Energi \(Repackaged\)](https://open.spotify.com/album/7sCAI9ZywmCxWa03pMyXWy) | 4:43 | 2024-07-19 |  |
+| [Selimut Tetangga](https://open.spotify.com/track/2IEyBxyv3xWaSCSWi5w2re) | [Repvblik](https://open.spotify.com/artist/7tohsn2AQCjic6ktgTbhU4) | [Sandiwara Cinta](https://open.spotify.com/album/4nIikPCmOPlRCyY9JR0604) | 3:47 | 2026-03-13 |  |
 | [Selir Hati](https://open.spotify.com/track/44jm7VMs3gZlzZMnwa3Wt3) | [T.R.I.A.D](https://open.spotify.com/artist/3gp2fVD2tUwoq42eZ7DK3l) | [T.R.I.A.D](https://open.spotify.com/album/3wqDej8S1IdtRYUB8srUEY) | 4:04 | 2024-01-05 |  |
 | [Selow](https://open.spotify.com/track/1c5ZiOfMbDBHKRNuMfinOb) | [Wahyu Selow](https://open.spotify.com/artist/5fTrXgpGtbd2G1Xs30KiA7), [Coki](https://open.spotify.com/artist/7I0aZDVF624WWnFTBR2AyL) | [Selow](https://open.spotify.com/album/590x6JPNRYe0h92QZA4Fdy) | 3:36 | 2024-01-05 |  |
 | [Seluruh Nafas Ini](https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:52 | 2024-01-05 |  |

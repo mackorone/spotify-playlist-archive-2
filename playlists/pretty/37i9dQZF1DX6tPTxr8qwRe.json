@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - L\u00d8L\u00d8 on the cover",
-  "num_followers": 523586,
+  "num_followers": 523557,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU",
+  "snapshot_id": "AAAAANvtORIPtPOZp1h78K9xTV4vvys3",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:35",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
     },
     {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "Better Than a Man",
+        "url": "https://open.spotify.com/album/2pXAF4a7RVpKS9wkakuk0J"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Better Than a Man",
+      "url": "https://open.spotify.com/track/7dRrGnxYlWuaOukJRSlE2C"
+    },
+    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "KISSING CONCRETE",
@@ -39,6 +55,26 @@
       "duration_ms": 137250,
       "name": "BAD AT MATH",
       "url": "https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "Sucker",
+        "url": "https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD"
+      },
+      "artists": [
+        {
+          "name": "gracie",
+          "url": "https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 235756,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -71,6 +107,42 @@
       "duration_ms": 216900,
       "name": "First Generation Degenerate",
       "url": "https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "Right From Left",
+        "url": "https://open.spotify.com/album/2Ny3S3m4QAcvUcyONAwf7C"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        },
+        {
+          "name": "JULITH",
+          "url": "https://open.spotify.com/artist/59OjXOG1kuIeJYUkLEabJB"
+        }
+      ],
+      "duration_ms": 205416,
+      "name": "Right From Left",
+      "url": "https://open.spotify.com/track/4ppNmrjyEEI6yD5FkGe6lw"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -107,6 +179,22 @@
       "duration_ms": 171093,
       "name": "Fawnheart",
       "url": "https://open.spotify.com/track/7bRwZhLnHe4i7X5MlIyBfV"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "Autopsy",
+        "url": "https://open.spotify.com/album/1X9f6a4VaPAj6XIDIzbLyN"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 176202,
+      "name": "Autopsy",
+      "url": "https://open.spotify.com/track/0EKfkLIPkAqNTGUy6vwcQ0"
     },
     {
       "added_at": "2026-02-13 05:00:48",

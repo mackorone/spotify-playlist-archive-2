@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 977551,
+  "num_followers": 977611,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADmBU2F1kHjZsH+UIWF9dXf",
+  "snapshot_id": "abICAAAAAADOqpBPlFYC2VY+Oz3XRzm8",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Own Lane (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Show Me (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Monalisa",
         "url": "https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 212975,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Own Lane (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
-      },
-      "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Show Me (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Gimme That",
-      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
     },
     {
       "added_at": null,

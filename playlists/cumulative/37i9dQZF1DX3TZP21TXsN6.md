@@ -4,7 +4,7 @@
 
 > Nieuw: BFLQuatro, Flo, Vurr Flashy en meer…
 
-462 songs - 19 hr 54 min
+463 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 | 2025-12-11 | 2026-01-23 |
 | [Probleem](https://open.spotify.com/track/3djhoyCQQP4Tv5zErWGskZ) | [MR7](https://open.spotify.com/artist/1JCHGpXp6v55OMHEkEXJuA) | [Probleem](https://open.spotify.com/album/3jarmRsn4GdDA3sliphmj9) | 2:12 | 2026-01-15 | 2026-02-20 |
 | [PSALM 23](https://open.spotify.com/track/2FjkuA0qqDl4DU6G40a1GD) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [PSALM 23](https://open.spotify.com/album/3tnA1I24I3GLjjWhyBTyKL) | 2:14 | 2026-02-12 | 2026-03-13 |
+| [PTSS](https://open.spotify.com/track/5x1u6tT7kZ06SVjeiOfNbo) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [PTSS](https://open.spotify.com/album/6jNLjUuXrS5RN3tyvVFDlQ) | 3:33 | 2026-03-12 |  |
 | [Rappen Trappen Ballie](https://open.spotify.com/track/5gE3j4UuecqDG6N8dHxH6F) | [Noah Ysp](https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u) | [Make Agga Great Again](https://open.spotify.com/album/5DmSdGpWlqRUE638dK1jar) | 2:03 | 2026-02-02 | 2026-03-13 |
 | [Ready](https://open.spotify.com/track/78zPvwSh6eg370qfCnlaj3) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Ready](https://open.spotify.com/album/1IsXC8chdEhUQlc2EyRVei) | 3:58 | 2025-10-16 | 2025-11-28 |
 | [Real](https://open.spotify.com/track/0laRGIHiOUmvFP7mLFnr6W) | [SoulTrash](https://open.spotify.com/artist/0ZXn2h027Cg6lC1H2yw8ce), [Dion Mase](https://open.spotify.com/artist/2CEvU018xycPCeQBsPeOr3), [T\. Milan](https://open.spotify.com/artist/7zcoS129j3lsU7kp4RPXMe), [MC Lost](https://open.spotify.com/artist/0wKvKYIS85frEadu4vyV0J) | [Real](https://open.spotify.com/album/6qmSpFFc1yuNUNu3n4DJN5) | 3:19 | 2026-03-12 |  |
@@ -412,7 +413,6 @@
 | [Top tot Teen](https://open.spotify.com/track/67QJTYjnMBq6d2JJ3lqZlT) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Lvv](https://open.spotify.com/artist/34yOrI1coazP2WRpRBPPfY) | [Top tot Teen](https://open.spotify.com/album/1Mcar4APScn0Lthhf8FTJr) | 2:23 | 2025-11-06 | 2025-12-12 |
 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 | 2026-02-26 |  |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 | 2026-02-13 |
-| [Track 4](https://open.spotify.com/track/5NvPWi5ytkmZAyCMW9q1OQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Achtbaan 2](https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF) | 0:00 | 2026-03-12 |  |
 | [Tranen \(feat\. Zeno\)](https://open.spotify.com/track/6YJyBs1vCRxAz9Y0nXUS6h) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 3:47 | 2026-01-29 | 2026-02-27 |
 | [Tranen In De Cel](https://open.spotify.com/track/3gVF52Vz9gZrxa1Kj8V3nf) | [ONA](https://open.spotify.com/artist/0qVMZghw6D4igvScey4gaZ) | [Tranen In De Cel](https://open.spotify.com/album/7c2SaKAfNJOt4rniHfwQFx) | 2:58 | 2026-03-04 |  |
 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 | 2025-11-13 | 2026-01-15 |
@@ -438,6 +438,7 @@
 | [Vijf Sterren](https://open.spotify.com/track/1Ulc4iSctUDnnobli9AQCB) | [Nnelg](https://open.spotify.com/artist/7bbzOJyYWRp0cef7NpIClP) | [Vijf Sterren](https://open.spotify.com/album/6AF40ajjccnLMaS8IBewki) | 3:06 | 2025-10-02 | 2025-11-07 |
 | [Vinicius](https://open.spotify.com/track/6U90pgMCZGlZ8wN9PzUWIF) | [Nafas](https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq) | [Vinicius](https://open.spotify.com/album/12jBtupJZ9A9v4VeH13TTb) | 2:28 | 2025-07-17 | 2025-08-15 |
 | [VIVIENNE](https://open.spotify.com/track/3kjPuspgh2iWClX7foWVVi) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND 2](https://open.spotify.com/album/1qwQoDUVZNAGP8g9vBoHug) | 2:31 | 2026-02-05 | 2026-02-13 |
+| [Vluchtauto](https://open.spotify.com/track/5NvPWi5ytkmZAyCMW9q1OQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [BRANDIE](https://open.spotify.com/artist/1nJ2gBoNRg5vNcfv2imRL1) | [Achtbaan 2](https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF) | 2:41 | 2026-03-12 |  |
 | [Vogue Magazine](https://open.spotify.com/track/1DZYU6fPxiRktWbWXwSpcX) | [lostboyshawty](https://open.spotify.com/artist/46rOkUDxd11xi4PuLk5nKQ) | [Jerragamo](https://open.spotify.com/album/3k3bonrtncSa6OofenPOQA) | 2:33 | 2025-09-08 | 2025-10-17 |
 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 | 2025-11-20 | 2025-11-25 |
 | [Voor m’n Ex](https://open.spotify.com/track/4q3M1kvgLjocIwmqxuQl0w) | [FARAO](https://open.spotify.com/artist/5Ckvy2QqS5gUPOiPzCaXSm), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Voor m’n Ex](https://open.spotify.com/album/1E5nAcMK8fZ7EM9d1f7xhe) | 2:03 | 2025-11-06 | 2025-12-12 |

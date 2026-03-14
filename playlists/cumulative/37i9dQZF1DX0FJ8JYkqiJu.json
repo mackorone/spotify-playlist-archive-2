@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 135600,
       "name": "A Different Path",
       "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
@@ -234,6 +234,24 @@
       "duration_ms": 206601,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
+    },
+    {
+      "album": {
+        "name": "Afterimage",
+        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
+      },
+      "artists": [
+        {
+          "name": "Kaikobad",
+          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "Afterimage",
+      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
     },
     {
       "album": {
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
@@ -5536,7 +5554,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"

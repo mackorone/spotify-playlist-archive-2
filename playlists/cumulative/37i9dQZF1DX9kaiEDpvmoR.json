@@ -3763,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "H\u00f6kvind",
+        "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
+      },
+      "artists": [
+        {
+          "name": "Les Big Byrd",
+          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430892,
+      "name": "H\u00f6kvind",
+      "url": "https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB"
+    },
+    {
+      "album": {
         "name": "En s\u00e5ng till Selma",
         "url": "https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp"
       },
@@ -7150,7 +7168,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 193124,
       "name": "Sjung Sjung",
       "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"

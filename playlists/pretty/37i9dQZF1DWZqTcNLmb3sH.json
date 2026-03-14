@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 68185,
+  "num_followers": 68246,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANKhNtDnQjLxqtQ/fvvnpWjhdM4L",
+  "snapshot_id": "AAAAAFYyDiAux0TnKSV0KcLi0LWO92Xd",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -27,6 +27,30 @@
       "duration_ms": 257604,
       "name": "Tabaahi - From \"Toxic - Kannada\"",
       "url": "https://open.spotify.com/track/4gzQdQ2frmP1dWugnOHJKb"
+    },
+    {
+      "added_at": "2026-03-13 12:22:32",
+      "album": {
+        "name": "Muddu Magale (From \"Love Mocktail 3\")",
+        "url": "https://open.spotify.com/album/6ItlcgSOb75UDVYi51NhUH"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Arun Kumar",
+          "url": "https://open.spotify.com/artist/0C3uhYRFJBXyIIKEw9cdMT"
+        }
+      ],
+      "duration_ms": 195804,
+      "name": "Muddu Magale (From \"Love Mocktail 3\")",
+      "url": "https://open.spotify.com/track/5lTHM4bDHzj4qiViqU4rwr"
     },
     {
       "added_at": "2026-02-10 09:50:01",
@@ -138,6 +162,10 @@
         {
           "name": "Vikas SG",
           "url": "https://open.spotify.com/artist/3zwDW7yoVBUi6ykhAx2M4V"
+        },
+        {
+          "name": "Mallikarjun NK",
+          "url": "https://open.spotify.com/artist/5niZx2cYkymJ0lezZsNTk0"
         }
       ],
       "duration_ms": 207699,
@@ -408,8 +436,8 @@
           "url": "https://open.spotify.com/artist/79yEkymoTkieurpetMpr9G"
         },
         {
-          "name": "Chirayu Maddy",
-          "url": "https://open.spotify.com/artist/3bQxRdqp3IzJKi3dj6ycs6"
+          "name": "Chirayu",
+          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
         }
       ],
       "duration_ms": 173049,
@@ -1775,26 +1803,6 @@
       "duration_ms": 268552,
       "name": "Hrudayavu Kelade (From \"Cult\")",
       "url": "https://open.spotify.com/track/03hQGNaFzYJZ4D3HnYVx6Y"
-    },
-    {
-      "added_at": "2025-12-24 12:20:52",
-      "album": {
-        "name": "The Kaali Song (From \"Mark\") (Kannada)",
-        "url": "https://open.spotify.com/album/4vAr9rbdUurz8KJ5UPJfQQ"
-      },
-      "artists": [
-        {
-          "name": "B.Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        }
-      ],
-      "duration_ms": 216264,
-      "name": "The Kaali Song (From \"Mark\") (Kannada)",
-      "url": "https://open.spotify.com/track/4Et945EsyVyHgBC86e4nsw"
     },
     {
       "added_at": "2025-12-15 09:51:46",

@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-450 songs - 22 hr 35 min
+451 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-15 | 2023-01-27 |
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2021-01-04 | 2022-12-10 |
 | [Grey Area](https://open.spotify.com/track/6jzW19SQaLj1kLArvipGQZ) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 2:51 | 2021-01-04 | 2022-07-14 |
+| [GTA 6](https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [GTA 6](https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us) | 2:48 | 2026-03-13 |  |
 | [Gucci Flow](https://open.spotify.com/track/1oqXQ2ghTORGDAkeLwkIDD) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Gucci Flow](https://open.spotify.com/album/3lGERq1ZXRcK9x7uSggz3q) | 2:11 | 2022-12-09 | 2022-12-18 |
 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 | 2022-07-29 | 2023-02-04 |
 | [Hanging With Wolves](https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hanging With Wolves](https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew) | 3:25 | 2022-12-09 |  |
@@ -375,7 +376,7 @@
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-05-14 | 2026-03-11 |
 | [Strub Tha Ground \(Feat\. Yung Miami\)](https://open.spotify.com/track/64EQj1J59L8sGw9FtzxcSW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Strub Tha Ground \(Feat\. Yung Miami\)](https://open.spotify.com/album/1ZwJ3x0rtnmde7sukHI3xR) | 3:14 | 2021-10-22 | 2022-01-10 |
 | [STUNTMAN \(feat\. Vince Staples\)](https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:19 | 2023-03-31 | 2023-05-06 |
-| [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 | 2025-06-27 |  |
+| [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 | 2025-06-27 | 2026-03-14 |
 | [Suge](https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:43 | 2021-01-04 | 2022-09-10 |
 | [SUPAFLEE \(feat\. Bri Steves\)](https://open.spotify.com/track/0kiZJjKkVoGJxjG3lHogTr) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 3:12 | 2025-08-29 | 2025-12-21 |
 | [Super Freaky Girl \- Roman Remix](https://open.spotify.com/track/29NV5l8hdRLDcpUbj5Tzs7) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl \(Roman Remix\)](https://open.spotify.com/album/7ElhetBDAoVJgnlhni8P4s) | 3:55 | 2022-09-02 | 2022-12-03 |

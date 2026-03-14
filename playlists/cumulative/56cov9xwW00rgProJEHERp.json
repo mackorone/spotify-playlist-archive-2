@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279682,
+      "name": "Days Of Us (feat. Kaidi Akinnibi)",
+      "url": "https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO"
+    },
+    {
+      "album": {
         "name": "Derri\u00e8re le jour",
         "url": "https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu"
       },
@@ -2727,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "Hanging on Hope",
+        "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223939,
+      "name": "Hanging on Hope",
+      "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
+    },
+    {
+      "album": {
         "name": "early twenties",
         "url": "https://open.spotify.com/album/0rnW4hH24v4j16wUbeR5Tn"
       },
@@ -2814,6 +2854,24 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Anniversary (H&M&REDSTAGE)",
+        "url": "https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201338,
+      "name": "Heartbreak Anniversary - H&M&REDSTAGE",
+      "url": "https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa"
     },
     {
       "album": {
@@ -3078,7 +3136,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 229420,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/6ryklsC1VIlTSV7QtWh24G"
@@ -4756,7 +4814,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 199409,
       "name": "New House",
       "url": "https://open.spotify.com/track/3L11BhnfXv4V8r2Dr3S3VY"
@@ -5232,7 +5290,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 186352,
       "name": "PALETTE",
       "url": "https://open.spotify.com/track/2Hs9NAaMYwyeE1uJBm72lf"
@@ -6316,6 +6374,24 @@
       "duration_ms": 152733,
       "name": "Tant pis pour elle - Version Acoustique",
       "url": "https://open.spotify.com/track/67306rh9aCq7snz1aW1tJ0"
+    },
+    {
+      "album": {
+        "name": "teach you to love me",
+        "url": "https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189192,
+      "name": "teach you to love me",
+      "url": "https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL"
     },
     {
       "album": {

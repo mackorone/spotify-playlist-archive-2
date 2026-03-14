@@ -1,6 +1,6 @@
 {
   "description": "New music from PLK, Theodora, Charlotte Cardin and more...",
-  "num_followers": 49111,
+  "num_followers": 49284,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -724,8 +724,8 @@
           "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 185161,
+      "name": "Capt Fragile",
       "url": "https://open.spotify.com/track/2FH9cN7fZGThneEClXjU5V"
     },
     {
@@ -871,6 +871,30 @@
       "duration_ms": 131643,
       "name": "Wildernis",
       "url": "https://open.spotify.com/track/61nP3uEqAJmw1TZj6D4Igq"
+    },
+    {
+      "added_at": "2026-03-12 23:00:58",
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
     },
     {
       "added_at": "2026-03-12 23:00:58",
@@ -1180,8 +1204,8 @@
           "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 156893,
+      "name": "LES HALLES",
       "url": "https://open.spotify.com/track/2LR1PHNX71SmeTSq0bnUJt"
     },
     {
@@ -1400,8 +1424,8 @@
           "url": "https://open.spotify.com/artist/4HqcsYNS7yVElPHKULpbqu"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 186632,
+      "name": "Let Go",
       "url": "https://open.spotify.com/track/4HHi9DNr6Cbkw8gVYVsS9P"
     },
     {
@@ -1576,8 +1600,8 @@
           "url": "https://open.spotify.com/artist/0j88iwyJrnRpKBhiJtG0je"
         },
         {
-          "name": "Ok",
-          "url": "https://open.spotify.com/artist/2SekqDKG4htuFz4mk7OlcS"
+          "name": "ok",
+          "url": "https://open.spotify.com/artist/1uiGVqVPmQxy5lD8SHGAy5"
         }
       ],
       "duration_ms": 187874,
@@ -1616,8 +1640,8 @@
           "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 164253,
+      "name": "On My Way",
       "url": "https://open.spotify.com/track/2FxrSoyJveDqplfa5l9ssI"
     },
     {

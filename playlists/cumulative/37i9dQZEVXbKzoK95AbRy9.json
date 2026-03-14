@@ -98,7 +98,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 250453,
       "name": "12 Horas / Pra Voc\u00ea Acreditar - Ao Vivo",
       "url": "https://open.spotify.com/track/0UTzWSuoLHFl2JB8ObzQqy"
@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Feito \u00c0 M\u00e3o",
+        "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Assunto Que D\u00f3i",
+      "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
+    },
+    {
+      "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
       },
@@ -2332,7 +2350,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 199379,
       "name": "Calcinha de Renda - Ao Vivo",
       "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 161298,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
@@ -3750,7 +3768,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
@@ -4211,6 +4229,28 @@
     },
     {
       "album": {
+        "name": "Pra Ouvir Tomando Uma, Vol. 1",
+        "url": "https://open.spotify.com/album/3yQc10lMcK8z7CfCRkCAJ3"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1UtoD47sbgbZQ0VzVKQhu8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172751,
+      "name": "Dois Enganados",
+      "url": "https://open.spotify.com/track/38jMHjnOAJDR4QUdk3IXsw"
+    },
+    {
+      "album": {
         "name": "Cintilante (Ao Vivo / Vol.2)",
         "url": "https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU"
       },
@@ -4352,7 +4392,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -5900,7 +5940,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
@@ -8281,6 +8321,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+    },
+    {
+      "album": {
         "name": "M\u00e3e Solteira",
         "url": "https://open.spotify.com/album/0RENSklQU2BMSY42Qgok0y"
       },
@@ -10315,6 +10373,24 @@
     },
     {
       "album": {
+        "name": "Como. Sempre Feito. Nunca (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
+    },
+    {
+      "album": {
         "name": "Praise Jah In The Moonlight",
         "url": "https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd"
       },
@@ -10774,6 +10850,24 @@
       "duration_ms": 129418,
       "name": "RAM TCHUM",
       "url": "https://open.spotify.com/track/6mJCx80Wc91GPi9ew9bkmD"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "album": {
@@ -14058,7 +14152,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207136,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi"

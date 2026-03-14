@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: CV, D9ine
 
-1,500 songs - 2 day 21 hr 51 min
+1,501 songs - 2 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [INSIDE OUT](https://open.spotify.com/track/32cNBS8QBWR6asKid03TvH) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [INSIDE OUT](https://open.spotify.com/album/0br1HJHUpJqcJyHtnVkGPI) | 1:58 | 2025-04-24 | 2025-06-20 |
 | [Intro](https://open.spotify.com/track/6gbBCKRKrmR86UeTMspR0C) | [IDES](https://open.spotify.com/artist/0QyChNsWMVypkPZn2jf5Sc) | [Intro](https://open.spotify.com/album/00akApRVJnkgzhZU5407UW) | 2:32 | 2022-06-23 | 2022-07-26 |
 | [INTROLUDE](https://open.spotify.com/track/4fKMaPlaPg6wywaPWGV1su) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [INTROLUDE](https://open.spotify.com/album/5usbVOviHixWszxymEPido) | 2:06 | 2024-05-03 | 2024-06-28 |
+| [Intrusive Thoughts](https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD) | [Celly](https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz), [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Intrusive Thoughts](https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc) | 2:18 | 2026-03-13 |  |
 | [Is What It is](https://open.spotify.com/track/4CaPAeqZGOFXpkDaJEVW4q) | [KidDave](https://open.spotify.com/artist/03cVHTIZRVk50IiEryN5Rg) | [Is What It Is](https://open.spotify.com/album/0DNwLBYCjk5xHHKDczAv0C) | 3:08 | 2025-01-16 | 2025-04-04 |
 | [IS YOU HERE OFTEN?](https://open.spotify.com/track/0NWJK5dFUcqeB7X1cevVP8) | [damienfarron](https://open.spotify.com/artist/6O8za8CbcS896OlPnrLb9b), [TH3 KXD](https://open.spotify.com/artist/5KjxDm3rAhy7nSkSKyv0LQ) | [IS YOU HERE OFTEN?](https://open.spotify.com/album/5A24Y7jgzutWBr96XT9n5a) | 2:29 | 2025-10-23 | 2025-12-12 |
 | [isaan \(feat\. Yungtarr\)](https://open.spotify.com/track/4CA6yZxTJE0cRm2clvDIye) | [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc), [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK), [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [isaan \(feat\. Yungtarr\)](https://open.spotify.com/album/2Y5qD9JI2OQ52tqp1tQdAb) | 2:45 | 2024-10-17 | 2025-01-17 |
@@ -1182,7 +1183,7 @@
 | [SMOKE \(feat\. Jasiah\)](https://open.spotify.com/track/4NIKjGaP987XcVCQwm17eH) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [SMOKE \(feat\. Jasiah\)](https://open.spotify.com/album/59hgBzoddZgZ1NcZV5F1IF) | 2:16 | 2024-01-25 | 2024-03-15 |
 | [Smoke Sum](https://open.spotify.com/track/6UO2gUmNfbR4nZCg5eEQXz) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [KiD LaZE](https://open.spotify.com/artist/6aH7GRjtjfnnp9MNBzdq1n) | [Smoke Sum](https://open.spotify.com/album/6er1reOSqpnXJYEVEGE9YY) | 3:12 | 2024-09-12 | 2024-12-13 |
 | [Smoked Out](https://open.spotify.com/track/2zsuQ6fm7qPaT5J1tEjTs7) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh), [Mike Melinoe](https://open.spotify.com/artist/5ISrbWev5rYZj1wOAvEycb) | [As It Stands](https://open.spotify.com/album/3l7aG2o9JE3bqGR82xpa6v) | 3:07 | 2025-06-05 | 2025-09-26 |
-| [SMOKO BARS](https://open.spotify.com/track/0ebWBvQQooSa691YZcHeOY) | [Eljay4K](https://open.spotify.com/artist/1VjAzt8KfS6QiE0YnaSF2a) | [SMOKO BARS](https://open.spotify.com/album/3SGcSBpvkliWlFwtrhfGl0) | 2:39 | 2025-12-18 |  |
+| [SMOKO BARS](https://open.spotify.com/track/0ebWBvQQooSa691YZcHeOY) | [41LOWKEY](https://open.spotify.com/artist/1VjAzt8KfS6QiE0YnaSF2a) | [SMOKO BARS](https://open.spotify.com/album/3SGcSBpvkliWlFwtrhfGl0) | 2:39 | 2025-12-18 |  |
 | [Snack](https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel) | [Snack](https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg) | 2:33 | 2024-05-23 | 2024-08-23 |
 | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/track/6mdexAmqt5bv08E3gem5ON) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Sneaky Link \(feat\. Hooks & Lisi\)](https://open.spotify.com/album/0b87eEoV2PjgmVCQRmRdXJ) | 2:59 | 2022-05-19 | 2022-10-21 |
 | [SO BE IT](https://open.spotify.com/track/5vkvMXGY76UK1XIsI1zLRj) | [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [SO BE IT](https://open.spotify.com/album/2l29yrGtxi9ifB2DZBZWzU) | 3:08 | 2024-05-03 | 2024-06-28 |

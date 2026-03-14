@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60733,
+  "num_followers": 60734,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
         "name": "This Is Me (From The Greatest Showman)",
         "url": "https://open.spotify.com/album/0Ubwwj4JBI6MVmOmEan8K8"
       },
@@ -1127,22 +1111,6 @@
       "duration_ms": 234886,
       "name": "This Is Me (From the Greatest Showman)",
       "url": "https://open.spotify.com/track/3lCHADWP8ohxnfBiUqAN3o"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "Blame It On You",
-        "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Blame It On You",
-      "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1163,6 +1131,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "Blame It On You",
+        "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Blame It On You",
+      "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Irrelevant",
         "url": "https://open.spotify.com/album/02wEEiMLBV64tAhyPCtD4J"
       },
@@ -1175,6 +1159,38 @@
       "duration_ms": 232385,
       "name": "Irrelevant",
       "url": "https://open.spotify.com/track/5Oz15cyQP3TMDDXKWm4tYH"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Online 24/7",
+        "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Lapdog",
+      "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2026-02-15 16:00:23",
@@ -1251,22 +1267,6 @@
       "duration_ms": 169171,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/58hzFlHm1gKIJzRMSt0vWV"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "supercuts",
-        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 206599,
-      "name": "supercuts",
-      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

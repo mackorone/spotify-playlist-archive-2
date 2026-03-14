@@ -6274,7 +6274,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195008,
       "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
       "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
@@ -16954,6 +16954,28 @@
       "duration_ms": 181618,
       "name": "Wish upon the Summer",
       "url": "https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl"
+    },
+    {
+      "album": {
+        "name": "WITH ME",
+        "url": "https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183271,
+      "name": "WITH ME",
+      "url": "https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa"
     },
     {
       "album": {

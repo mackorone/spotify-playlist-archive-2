@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 ### [Soul Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVJE8hP95f7v)
 
-> Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
+> Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,613 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,617 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |
-| 2 | [SOLAR](https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [SOLAR](https://open.spotify.com/album/0CYvaMIOeGih9LMBwac4uf) | 3:49 |
-| 3 | [Sábado à Noite](https://open.spotify.com/track/4naCEptRqizADSHEP4J16A) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 4:20 |
-| 4 | [Onda \(Citação A onda\)](https://open.spotify.com/track/629TanzHDvm1G2Z9VQsEgE) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Dom Filó](https://open.spotify.com/artist/5oxAnNHXIujet49tW4pQGj) | [Onda \(Citação A onda\)](https://open.spotify.com/album/7d9PhQLMcRCy290WQgjq78) | 2:58 |
-| 5 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
+| 1 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
+| 2 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |
+| 3 | [SOLAR](https://open.spotify.com/track/1SaZdSpmHnGd0ITlNxkabM) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [SOLAR](https://open.spotify.com/album/0CYvaMIOeGih9LMBwac4uf) | 3:49 |
+| 4 | [Sábado à Noite](https://open.spotify.com/track/4naCEptRqizADSHEP4J16A) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 4:20 |
+| 5 | [Onda \(Citação A onda\)](https://open.spotify.com/track/629TanzHDvm1G2Z9VQsEgE) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [Dom Filó](https://open.spotify.com/artist/5oxAnNHXIujet49tW4pQGj) | [Onda \(Citação A onda\)](https://open.spotify.com/album/7d9PhQLMcRCy290WQgjq78) | 2:58 |
 | 6 | [Olhos Coloridos](https://open.spotify.com/track/3N6Cxtb9IBkw9pvBUJHLql) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Entre Nós](https://open.spotify.com/album/3bDvwyyRc6jNvnmeaViTgm) | 6:46 |
 | 7 | [Só Vem](https://open.spotify.com/track/4OcpqJY4RHMa2BniHjrVqC) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/2ZgqjH8t5uH1BbJGtyOjaC) | 3:00 |
 | 8 | [Há Festa \- Corpos Celestes, Edit](https://open.spotify.com/track/0csSS1qy9v6e0At6HbzVam) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Há Festa \(Corpos Celestes\)](https://open.spotify.com/album/205beuIUDhxhyMkPpw1Sno) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Apostas e Contratos](https://open.spotify.com/track/5yIPnOnDyhkCjPzmJaIcup) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Apostas e Contratos](https://open.spotify.com/album/4o7Jk5iI0p3feekAL6dCZ2) | 3:33 |
 | 75 | [Voltando pra casa](https://open.spotify.com/track/2tuyFzuEda8pd2RSNKBhpI) | [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Voltando pra casa](https://open.spotify.com/album/1BOe7qFLVB2tELnlzwyu5S) | 2:36 |
 
-Snapshot ID: `AAAAAA5FB/tR+uVjH9z6Z92wjXv1labh`
+Snapshot ID: `AAAAAG5tn5myejMp8Qw/wmAdg2i74KbN`

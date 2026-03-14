@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,253 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,252 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -257,7 +257,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 247 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
 | 248 | [WILL POWER](https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [チェインズ・オブ・ラヴ、ディメンション・イヤーズ 1962\-1964](https://open.spotify.com/album/7GJoJn6hIWoTNgYjccM0ZZ) | 2:35 |
 | 249 | [Lady Pleasure](https://open.spotify.com/track/0KnOxl9AL6EDBwvZK9zKTh) | [The Grass Roots](https://open.spotify.com/artist/2IU5UBup85LmAXh5U36DeC) | [Anthology: 1965\-1975](https://open.spotify.com/album/3bEbRbS0Rx7j1R96u604la) | 2:55 |
-| 250 | [Echoes](https://open.spotify.com/track/0wxVFIGfvpbkK1Q7TL8RL5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Presenting Teddy Randazzo](https://open.spotify.com/album/46cFy8s2CRTfIQkL6vnukg) | 2:48 |
+| 250 | [Echoes](https://open.spotify.com/track/4sG208ZylYAV8cgz1xhcB5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Melodies for Young Lovers](https://open.spotify.com/album/5FxoAaAW1ML9DcNHSY8FaW) | 2:48 |
 | 251 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
 | 252 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
 | 253 | [The Sheik](https://open.spotify.com/track/13RS52E25mjvFudrAA9zKR) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 2:29 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcL91AAAAAB2hQA8pIovBNy6p8U2UZ+G`
+Snapshot ID: `AcMDagAAAADOm3djckfjgB44ik7Zkunv`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,600 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,615 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 8 | [8 Stages](https://open.spotify.com/track/24PCmAa9K0g7Z44xjyaIOk) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [8 Stages](https://open.spotify.com/album/6wCVVevpRRuSWKFQx6qDrk) | 3:17 |
 | 9 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
 | 10 | [Antihistamine](https://open.spotify.com/track/1Y2UbnQCMIJQczK5gii5Bp) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Antihistamine](https://open.spotify.com/album/59Eqptt4nEwOPcMVb8mGcL) | 2:49 |
-| 11 | [Track 1](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 0:00 |
+| 11 | [\(Intro\) imma pick you up imma](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 2:18 |
 | 12 | [Japan Greatly \(feat\. Reek0 and S.I\)](https://open.spotify.com/track/7kJ1gd9QNen8cChNasAv1V) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Reek0](https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD), [S.I](https://open.spotify.com/artist/4AgnA00r40bNO1yRkfxuYR) | [Japan Greatly \(feat\. Reek0 and S.I\)](https://open.spotify.com/album/6L90BBPQIrXgxQcUg5MnI0) | 3:17 |
 | 13 | [arcade :'o](https://open.spotify.com/track/2uCy6YxsGtjEAGwKXPbdm1) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [arcade :'o](https://open.spotify.com/album/75adUbpLbDPdkdOL6I1xlb) | 1:40 |
 | 14 | [Past Tense](https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Past Tense](https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA) | 3:18 |
 | 15 | [Vodka In a Champagne Glass](https://open.spotify.com/track/24VXPdg3f8guxEOIldht5q) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [Vodka In a Champagne Glass](https://open.spotify.com/album/30MgaBDn9ohO7WoETyWdOY) | 2:22 |
-| 16 | [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 |
+| 16 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 17 | [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ThunderWave](https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL) | 3:14 |
 | 18 | [Let Me Go \- Honeycomb Riddim](https://open.spotify.com/track/5LIWnma5CYXgDsxlfzjFLo) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa) | [Let Me Go \(Honeycomb Riddim\)](https://open.spotify.com/album/2LVtEgiAjnAs75EmTTkrdo) | 2:27 |
 | 19 | [Facetime](https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Addicted To Nostalgia](https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA) | 2:00 |

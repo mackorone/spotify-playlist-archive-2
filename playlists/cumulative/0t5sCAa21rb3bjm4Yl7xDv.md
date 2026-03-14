@@ -4,7 +4,7 @@
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Olivia Dean
 
-632 songs - 1 day 9 hr 24 min
+634 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,12 +449,13 @@
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2024-07-26 | 2024-09-28 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-07-26 | 2024-09-28 |
 | [Refuge](https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Refuge](https://open.spotify.com/album/348jqSYlJIasrUNwQMtepZ) | 3:38 | 2026-02-21 |  |
-| [Rein Me In](https://open.spotify.com/track/7MywHtSabWIzoj30WhGdfk) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-03-09 |  |
+| [Rein Me In](https://open.spotify.com/track/7MywHtSabWIzoj30WhGdfk) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-03-09 | 2026-03-14 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-12-19 |  |
 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere) | 2:02 | 2024-11-29 | 2025-02-01 |
 | [Revelation](https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY) | 4:13 | 2025-01-31 | 2025-11-08 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-11-06 | 2024-08-03 |
 | [ricochet](https://open.spotify.com/track/3AEUeL7mrkKR2g7Sv6YiZp) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [ricochet](https://open.spotify.com/album/0j1LBrdQ3rD8z0xtTdny71) | 3:07 | 2025-05-14 | 2025-10-10 |
+| [Ride](https://open.spotify.com/track/6uhm5vBL0VD72iHyW6o0vb) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Ride](https://open.spotify.com/album/5FSAhcHOcE4KKbNWO48ime) | 3:22 | 2026-03-13 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-03 | 2024-09-28 |
 | [Run Home to You](https://open.spotify.com/track/1KDCoWKaq3Hlz9xJsaAZbZ) | [Alle The Dreamer](https://open.spotify.com/artist/34dP7aH5DomlGUPArhkh0B) | [Run Home to You](https://open.spotify.com/album/4kUjW1OW1NROCKjEGLws1b) | 4:01 | 2023-11-06 | 2024-01-27 |
 | [Run My Way](https://open.spotify.com/track/5vEdGoNQHH2FZT9y2wc2zr) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [Run My Way](https://open.spotify.com/album/2iCHhOIojuvNTY1hINgWOi) | 2:44 | 2026-02-13 |  |
@@ -559,6 +560,7 @@
 | [The Show](https://open.spotify.com/track/2PrxwMxTSEk4oHbdY8majs) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:11 | 2025-05-14 | 2025-10-10 |
 | [The Show \(with John Legend\)](https://open.spotify.com/track/5asAkK2OiCuCdLCjqAXemz) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 3:11 | 2023-11-06 | 2024-03-23 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-13 |  |
 | [The Way a Heart Breaks](https://open.spotify.com/track/0Bu17sNQtoxhPITYpxdblf) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:51 | 2025-10-24 | 2026-02-28 |
 | [There You Go](https://open.spotify.com/track/4E54j1PrpUHuV6LNm30a8v) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [There You Go](https://open.spotify.com/album/2n9jpiAzwqYgkoeFPdSLvs) | 2:45 | 2023-11-06 | 2024-02-27 |
 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 | 2025-10-09 |  |

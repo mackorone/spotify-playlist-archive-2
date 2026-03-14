@@ -9241,6 +9241,24 @@
     },
     {
       "album": {
+        "name": "Still Shining OST Part.3",
+        "url": "https://open.spotify.com/album/7farlwaCeA7X7HVdoV3SKu"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Hidden Words",
+      "url": "https://open.spotify.com/track/2kQJ8c4sIys2FWDgmrfYnL"
+    },
+    {
+      "album": {
         "name": "A Wild Rose - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5"
       },
@@ -13566,7 +13584,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 277000,
       "name": "Just Love Me",
       "url": "https://open.spotify.com/track/5fFFK5Cy5IZzUChdQ493b5"

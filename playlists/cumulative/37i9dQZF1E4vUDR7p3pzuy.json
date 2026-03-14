@@ -410,7 +410,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 238000,
       "name": "As the Water Fills the Hull",
       "url": "https://open.spotify.com/track/7kJGhdJb3CgoYizPBH48I1"
@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Blood Energy",
+        "url": "https://open.spotify.com/album/1upvQ6t6yMue7nV932kiVG"
+      },
+      "artists": [
+        {
+          "name": "R-an-D",
+          "url": "https://open.spotify.com/artist/5rE3TNGJCNmMjcMHb6azrL"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244958,
+      "name": "Blood Energy",
+      "url": "https://open.spotify.com/track/2m7ggGWCEWwAh0vFjCGC4H"
+    },
+    {
+      "album": {
         "name": "bloodsports",
         "url": "https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 229642,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 167907,
       "name": "Diamond Dust",
       "url": "https://open.spotify.com/track/0C6ArJYSXjvjQe1OiSxiZM"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 235932,
       "name": "Fragile Things",
       "url": "https://open.spotify.com/track/3buzObI8wNmbDmpChyPYfk"
@@ -3130,7 +3148,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Grape Crush",
       "url": "https://open.spotify.com/track/4OqKb3MOfnufyrFnhDQnZO"
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -3690,6 +3708,24 @@
       "duration_ms": 267391,
       "name": "I Melt with You",
       "url": "https://open.spotify.com/track/1mPpngt6wY5CpcuCjodRGW"
+    },
+    {
+      "album": {
+        "name": "Catholic School Girl",
+        "url": "https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF"
+      },
+      "artists": [
+        {
+          "name": "Gamilla",
+          "url": "https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210865,
+      "name": "I Might Be A Sinner",
+      "url": "https://open.spotify.com/track/6XFQMdpWA6CrKQCnjUARsl"
     },
     {
       "album": {
@@ -4328,7 +4364,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 201468,
       "name": "Laissez-faire",
       "url": "https://open.spotify.com/track/7iAGjF1eTqPxTuzN7Gjo39"
@@ -4404,7 +4440,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212307,
       "name": "Left On Read",
       "url": "https://open.spotify.com/track/5aug3u75DvXol19W9Syjik"
@@ -4808,7 +4844,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177720,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1JyTISB7tyTTDBZIYL23ty"
@@ -5400,7 +5436,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 182515,
       "name": "Ohmygodyuwgueys",
       "url": "https://open.spotify.com/track/1RPCJpUAEPwltO5RkFGWbK"
@@ -6228,7 +6264,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 216230,
       "name": "Sapphic Lipstain",
       "url": "https://open.spotify.com/track/64jtoWn9jBfVBFD3iIaIOA"
@@ -6282,7 +6318,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 215250,
       "name": "Say Something - 2025",
       "url": "https://open.spotify.com/track/67OMaD4imBm8uAnZheZ8bD"
@@ -6492,7 +6528,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 129946,
       "name": "Shake Yer Body",
       "url": "https://open.spotify.com/track/3XwYF9iAOnogC9VdU9teF9"
@@ -6930,7 +6966,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -7042,6 +7078,24 @@
       "duration_ms": 222309,
       "name": "Stepping Stone",
       "url": "https://open.spotify.com/track/1ZzWvgURb4Z7YhgnHJfW1K"
+    },
+    {
+      "album": {
+        "name": "Still Waters Run Deep",
+        "url": "https://open.spotify.com/album/2PyOQICVkIrTA6Ow3u2Tno"
+      },
+      "artists": [
+        {
+          "name": "KK Verkefni",
+          "url": "https://open.spotify.com/artist/1FVghWQaVyzv3bkCU6K26e"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220941,
+      "name": "Still Waters Run Deep",
+      "url": "https://open.spotify.com/track/3TPcgFwTaaZtBVivWbBSvU"
     },
     {
       "album": {
@@ -7295,6 +7349,42 @@
     },
     {
       "album": {
+        "name": "Tear The Cloth",
+        "url": "https://open.spotify.com/album/6raIyfdeP1x7MokSF6VRHN"
+      },
+      "artists": [
+        {
+          "name": "Errands",
+          "url": "https://open.spotify.com/artist/56dzHpXYkEKU0apAxRSetA"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Tear The Cloth",
+      "url": "https://open.spotify.com/track/2jyiFUGacxnvwlpVRIVGnV"
+    },
+    {
+      "album": {
+        "name": "Tearing Apart",
+        "url": "https://open.spotify.com/album/4V4BSzkMWk0N0wo9v9Y4aI"
+      },
+      "artists": [
+        {
+          "name": "AYVA",
+          "url": "https://open.spotify.com/artist/7umuHpUWl0ZGi4SgUktUez"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158964,
+      "name": "Tearing Apart",
+      "url": "https://open.spotify.com/track/07otU0SuiNKqe68UKg7ptt"
+    },
+    {
+      "album": {
         "name": "temporary space",
         "url": "https://open.spotify.com/album/0WNhrl1hcWzPQ4zl2ZZgce"
       },
@@ -7448,6 +7538,24 @@
       "duration_ms": 180000,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/1r397D1b7MXO1hc08kaQD1"
+    },
+    {
+      "album": {
+        "name": "The Foreign Game",
+        "url": "https://open.spotify.com/album/5ZpodT8NRThQghzzRzZuSz"
+      },
+      "artists": [
+        {
+          "name": "Ash Red",
+          "url": "https://open.spotify.com/artist/6yzASiuq3BVRRTfnOJcLdm"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255111,
+      "name": "The Foreign Game",
+      "url": "https://open.spotify.com/track/7xlkE92w9mj87OXHdopf0m"
     },
     {
       "album": {
@@ -7848,7 +7956,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -7888,7 +7996,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174000,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/4GUZCVqPJAcH0qDkkAWEoT"
@@ -8842,7 +8950,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"

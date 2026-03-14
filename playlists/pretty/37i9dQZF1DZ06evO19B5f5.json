@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAC0adsgAf1qWED5M3Uo9K3F",
+  "snapshot_id": "abICAAAAAABW/mwFkWHhH7Wn7l8bbnLa",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 272605,
-      "name": "Irrelevant",
-      "url": "https://open.spotify.com/track/5kDJFMwa5mfvpAZW85bNxd"
+      "duration_ms": 208000,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/3ZL2ee9L5Mq6QgUcnlnmgj"
+      "duration_ms": 272605,
+      "name": "Irrelevant",
+      "url": "https://open.spotify.com/track/5kDJFMwa5mfvpAZW85bNxd"
     },
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad People",
-        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
+        "name": "All of #OneSongAWeek",
+        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
       },
       "artists": [
+        {
+          "name": "Frank Hamilton",
+          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
+        },
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 196660,
-      "name": "Bad People",
-      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
+      "duration_ms": 216000,
+      "name": "Flaws & Ceilings",
+      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
     },
     {
       "added_at": null,
@@ -319,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec"
       },
       "artists": [
         {
@@ -328,9 +332,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ugly Truth",
-      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
+      "duration_ms": 196660,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa"
     },
     {
       "added_at": null,
@@ -351,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If Looks Could Kill",
-        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1"
       },
       "artists": [
         {
@@ -360,9 +364,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 209896,
-      "name": "If Looks Could Kill",
-      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
+      "duration_ms": 192000,
+      "name": "Ugly Truth",
+      "url": "https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg"
     },
     {
       "added_at": null,
@@ -383,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All of #OneSongAWeek",
-        "url": "https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg"
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO"
       },
       "artists": [
-        {
-          "name": "Frank Hamilton",
-          "url": "https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa"
-        },
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Flaws & Ceilings",
-      "url": "https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2"
+      "duration_ms": 209896,
+      "name": "If Looks Could Kill",
+      "url": "https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1"
     },
     {
       "added_at": null,

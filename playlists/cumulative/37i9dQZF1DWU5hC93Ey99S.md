@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-982 songs - 2 day 4 hr 17 min
+983 songs - 2 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 | 2024-01-06 |
 | [Forget You](https://open.spotify.com/track/1qy9CxuSfcG67k3BwK3hP2) | [All Is Fine](https://open.spotify.com/artist/4oWonABFu4oZ9gks7oST80), [Alexine](https://open.spotify.com/artist/4aQbwXmSokNi0u4v4U0e1t) | [Forget You](https://open.spotify.com/album/2a3254o7a4lhbfuHdRDjTJ) | 2:23 | 2024-01-25 | 2025-08-13 |
 | [forget you](https://open.spotify.com/track/4vi667XVbRUTchDlwk2fA7) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [forget you](https://open.spotify.com/album/5QquIokU1OAyf4HD0EuxsJ) | 2:10 | 2024-01-18 | 2025-08-13 |
+| [FREE \(LOVECORE\)](https://open.spotify.com/track/7qeuszHQ2WLKmj0D7bXaWj) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [FREE \(LOVECORE\)](https://open.spotify.com/album/6GgGdOoSD7u3vlo6paev9q) | 3:27 | 2026-03-13 |  |
 | [Free Of Your Emotions](https://open.spotify.com/track/1qDPcZHOcrFuEYtKdBgMaV) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Waztoo](https://open.spotify.com/artist/0MP4QHK5BlSbmwJxOncnfB) | [Free Of Your Emotions](https://open.spotify.com/album/0Cl9YxhMJyN0kodbBgZWdL) | 2:20 | 2025-04-03 |  |
 | [Fresh Air](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Fresh Air](https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu) | 2:16 | 2024-06-20 | 2025-08-13 |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-04-13 | 2023-05-03 |
@@ -864,7 +865,6 @@
 | [Too Much](https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Too Much](https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM) | 2:33 | 2023-08-24 | 2024-01-06 |
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-08 | 2025-08-13 |
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 | 2025-08-13 |
-| [Track 1](https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [WHERE DO I GO?](https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt) | 0:00 | 2026-03-12 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-19 |  |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-08-13 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-08 | 2025-08-13 |
@@ -949,6 +949,7 @@
 | [Where Did You Go](https://open.spotify.com/track/2uSzybi2WiQq53sV4YP0L5) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Where Did You Go](https://open.spotify.com/album/22SUak4hVnLacCQKUHjMi0) | 2:12 | 2025-03-20 |  |
 | [Where Did You Go](https://open.spotify.com/track/3THBemwaSfnFaXWgYc1t2s) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Where Did You Go](https://open.spotify.com/album/2eCQwBN2ylS1c571gnnUaQ) | 2:50 | 2024-11-21 | 2025-08-13 |
 | [Where Did You Go \- 6am Mix](https://open.spotify.com/track/19Oh3XgCWMvtIpad8vnlpE) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd), [sadHAPPY](https://open.spotify.com/artist/1y3Oast3vwTEiLKq9YJxF3) | [Where Did You Go \(6am Mix\)](https://open.spotify.com/album/1cyObAy69PI2pKuwhauDcC) | 2:58 | 2025-01-09 | 2025-08-13 |
+| [WHERE DO I GO?](https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [WHERE DO I GO?](https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt) | 2:09 | 2026-03-12 |  |
 | [WHERE'S MY VAPE?](https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [WHERE'S MY VAPE?](https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi) | 4:39 | 2024-08-22 | 2025-08-13 |
 | [Who Do You Love?](https://open.spotify.com/track/3zp7oZR40DR3cJEoPOSx0D) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [CRONIN](https://open.spotify.com/artist/6FJuV645kRPPrMRHLjPq7M) | [Who Do You Love?](https://open.spotify.com/album/0rOp11E18uEr0Jjjg4Ppj7) | 3:03 | 2025-02-07 | 2025-08-13 |
 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 | 2023-06-22 | 2024-01-06 |

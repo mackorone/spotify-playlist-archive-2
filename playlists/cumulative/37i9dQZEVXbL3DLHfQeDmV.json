@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Going Normal",
+        "url": "https://open.spotify.com/album/1dX8F7HD9V9p6YT3DIxiLP"
+      },
+      "artists": [
+        {
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "An Eater",
+      "url": "https://open.spotify.com/track/0ofbSMwGB6a63ydEIeaq4K"
+    },
+    {
+      "album": {
         "name": "Angel Wings",
         "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -866,7 +884,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 238560,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/1gaxE1VJlnRacd2gtcdf1Z"
@@ -1150,6 +1168,24 @@
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "album": {
+        "name": "Boiling A Frog",
+        "url": "https://open.spotify.com/album/73Ji3pbdQsKWJ223jsWgXy"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138738,
+      "name": "Boiling A Frog",
+      "url": "https://open.spotify.com/track/7LgdlL1BJJ6E1tddAlmrDo"
     },
     {
       "album": {
@@ -4114,7 +4150,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 240158,
       "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
       "url": "https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en"
@@ -4180,7 +4216,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7"
@@ -4366,6 +4402,24 @@
       "duration_ms": 178153,
       "name": "House Is Gettin' Raw",
       "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
+    },
+    {
+      "album": {
+        "name": "How Deep Is Your Love (Studio Version)",
+        "url": "https://open.spotify.com/album/4FXA0mCgS5Ur4XDxIH3PKw"
+      },
+      "artists": [
+        {
+          "name": "Underdog",
+          "url": "https://open.spotify.com/artist/2CpYSnguHahDTkIO4EGAM1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151239,
+      "name": "How Deep Is Your Love - Studio Version",
+      "url": "https://open.spotify.com/track/5UHG80Meo2tfsi98NiY6Pz"
     },
     {
       "album": {
@@ -7264,7 +7318,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x"
@@ -8072,6 +8126,24 @@
       "duration_ms": 173683,
       "name": "Restless",
       "url": "https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO"
+    },
+    {
+      "album": {
+        "name": "WANT",
+        "url": "https://open.spotify.com/album/6MSOHtUiG49Grd7BdZrRUm"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "RICHMAN",
+      "url": "https://open.spotify.com/track/3JfbMm4LfBmm96mkKhyG6I"
     },
     {
       "album": {
@@ -9302,7 +9374,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174960,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"

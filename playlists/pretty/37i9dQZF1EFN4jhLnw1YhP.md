@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 107 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 107 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,14 +52,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 | 42 | [Perfect Storm](https://open.spotify.com/track/42bP9LpXhB7Y749btV5Nug) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Perfect Storm](https://open.spotify.com/album/6zgS9inx8Jwt5KmWf3CL8B) | 2:38 |
 | 43 | [Without You \(Terminal 1\)](https://open.spotify.com/track/7KtaNrPvD9miaQv0Q15BCz) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Without You \(Terminal 1\)](https://open.spotify.com/album/0odbjAkaMm7sdZc0SduMNJ) | 2:43 |
 | 44 | [Yesterday](https://open.spotify.com/track/7fzolTnwtX2oTYqFo37vbV) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Yesterday](https://open.spotify.com/album/0azijgSTeLzSdHx8Lp79Id) | 3:25 |
-| 45 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 |
-| 46 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 |
+| 45 | [seven\-twenty\-four](https://open.spotify.com/track/3agJXAf7NRv8VQ8owdwszX) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [seven\-twenty\-four](https://open.spotify.com/album/5QUmgjGrLcwkWO48NEi0Xs) | 4:18 |
+| 46 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 |
 | 47 | [Angels](https://open.spotify.com/track/7bLxSkJfRz3WGg6LWiKDtX) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Loek](https://open.spotify.com/artist/2JOvOzmVfZf99AJBtjemm0) | [Angels](https://open.spotify.com/album/0NiKLQIaD0J1LecvqwWawl) | 3:31 |
 | 48 | [Cups and Balloons](https://open.spotify.com/track/6tq208lBBXccMLEgZhr6ja) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cups and Balloons](https://open.spotify.com/album/6uk1Vku0XMhMEieLJbzFls) | 4:04 |
 | 49 | [Wreckage](https://open.spotify.com/track/0A3qwOjrm8e3x060WY1En7) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 4:18 |
 | 50 | [On The Run](https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 4:02 |
-| 51 | [don't really care what we call it](https://open.spotify.com/track/3aIguXQfBEB1YQAi3KyeJq) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [don't really care what we call it](https://open.spotify.com/album/0HLMZCPcBVF641gdKtPxl3) | 3:18 |
-| 52 | [2 Hearts](https://open.spotify.com/track/5ASTrXytid8c1Gfo24u8a4) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [2 Hearts](https://open.spotify.com/album/17cPYm8v5eY0U8qPBnvhPV) | 3:21 |
+| 51 | [2 Hearts](https://open.spotify.com/track/5ASTrXytid8c1Gfo24u8a4) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [2 Hearts](https://open.spotify.com/album/17cPYm8v5eY0U8qPBnvhPV) | 3:21 |
+| 52 | [don't really care what we call it](https://open.spotify.com/track/3aIguXQfBEB1YQAi3KyeJq) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [don't really care what we call it](https://open.spotify.com/album/0HLMZCPcBVF641gdKtPxl3) | 3:18 |
 | 53 | [Blew My Life Up](https://open.spotify.com/track/44wlCR0bU5oz0P3WscbgzK) | [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Blew My Life Up](https://open.spotify.com/album/69v6fMoI5rhGV6B4vfUW7K) | 3:08 |
 | 54 | [If I Stayed](https://open.spotify.com/track/5XIYXLS7Arc0OBSpRtD5tp) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj) | [Second Sight](https://open.spotify.com/album/5I6PqYr0qD0CJjXa9IGqE7) | 4:14 |
 | 55 | [Lullaby](https://open.spotify.com/track/4uvDD1w3zySeYBtfHiHSrA) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Supernal Dawn](https://open.spotify.com/album/4vdHr2Rv5zSPZslTpz0MyQ) | 4:02 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 | 106 | [Stars](https://open.spotify.com/track/3mnToYOHkOq2xtTLSDLXYq) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Take What You Want, Do As You Please](https://open.spotify.com/album/5LHbBEPs1lSN7x3iW9DuMX) | 4:14 |
 | 107 | [Ripple](https://open.spotify.com/track/5K9wVa20dEVdqU0SEXFRVU) | [Lost Voice](https://open.spotify.com/artist/7aAaXn1p5LdxLIGqDuguGw) | [Ripple](https://open.spotify.com/album/4mCXYL78yDh115b3Otmurr) | 3:56 |
 
-Snapshot ID: `AcL9wAAAAAAYQYFKAtr5XnkblOhyhKSm`
+Snapshot ID: `AcMDYAAAAAAKVLxrq7JrW8hoosAyeDHt`

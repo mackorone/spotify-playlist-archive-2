@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrV3kHM4eB.md) - [plain]
 
 > Heroes assemble\. Ignite the Battle\. The official music from Marvel Rivals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,928 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Flight Mode \- From "MARVEL Rivals"](https://open.spotify.com/track/4j6f8fstYFObFGmGVKiqlf) | [Luna Snow](https://open.spotify.com/artist/2GP1Zfa8XEcPmeXvoTVc4M), [Luna](https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq) | [Flight Mode \(From "MARVEL Rivals"\)](https://open.spotify.com/album/3U4cIvhK6q9axzCtBNEwAN) | 2:57 |
+| 1 | [Flight Mode \- From "MARVEL Rivals"](https://open.spotify.com/track/4j6f8fstYFObFGmGVKiqlf) | [Luna Snow](https://open.spotify.com/artist/2GP1Zfa8XEcPmeXvoTVc4M), [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Flight Mode \(From "MARVEL Rivals"\)](https://open.spotify.com/album/3U4cIvhK6q9axzCtBNEwAN) | 2:57 |
 | 2 | [Rivals 'Til the End \(Main Theme\)](https://open.spotify.com/track/37Tp280JssBbgtPsq30I6O) | [Adriana Figueroa](https://open.spotify.com/artist/33YwE27uFjLjx0lAusgLYE) | [MARVEL Rivals: Galactic Tunes \(Original Video Game Soundtrack\)](https://open.spotify.com/album/0ePNu2alh0TEiA8rQifAy1) | 4:02 |
 | 3 | [Rivals 'Til the End \(Chrissy Costanza Version\)](https://open.spotify.com/track/35y0Zpih34sgPBEcI7T2zx) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [MARVEL Rivals: Galactic Tunes \(Original Video Game Soundtrack\)](https://open.spotify.com/album/0ePNu2alh0TEiA8rQifAy1) | 4:01 |
 | 4 | [Path to Rivals \(Login Theme\)](https://open.spotify.com/track/3QSDEdBwavp3MJMtc4kLjQ) | [Synchron Stage Orchestra](https://open.spotify.com/artist/72G4xXbSMTAnEg72cSilbo), [Masahiro Aoki](https://open.spotify.com/artist/2OGeK7XBy4ObBkOjc1k5j5) | [MARVEL Rivals: Galactic Tunes \(Original Video Game Soundtrack\)](https://open.spotify.com/album/0ePNu2alh0TEiA8rQifAy1) | 3:16 |

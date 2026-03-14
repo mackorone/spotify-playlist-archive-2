@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:556z91jDKTTuSoTNxbi8OQ">51 June</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,969 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,036 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Madame in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,784 songs - 5 day 23 hr 39 min
+2,785 songs - 5 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [EN LA CITY](https://open.spotify.com/track/5NlrtCVHsBEPDo3HaMgMJb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [EN LA CITY](https://open.spotify.com/album/3if74jhB1zzEZpVIoTdP4n) | 2:56 | 2025-04-10 | 2025-05-09 |
 | [EN TU MIRADAaaaa](https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:38 | 2026-01-01 | 2026-01-30 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 | 2025-04-10 |
+| [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-12 |  |
 | [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 | 2026-02-19 |  |
 | [Enemigos](https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Enemigos](https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1) | 3:21 | 2025-11-20 | 2026-01-02 |
 | [Energia](https://open.spotify.com/track/2BSMVlbYqiCXOoGFNrQTnF) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Sulle ali del cavallo bianco](https://open.spotify.com/album/2jMIcCU1d6KXBUYfiKukBr) | 4:36 | 2024-10-17 | 2024-11-15 |

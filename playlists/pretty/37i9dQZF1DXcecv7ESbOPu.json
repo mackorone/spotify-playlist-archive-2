@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Seinabo Sey, Greekazo och Miss Li med flera. Happy New Music Friday! ",
-  "num_followers": 231261,
+  "num_followers": 231451,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
       "duration_ms": 194040,
       "name": "ThunderWave",
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+    },
+    {
+      "added_at": "2026-03-12 23:00:49",
+      "album": {
+        "name": "Something to Hope For",
+        "url": "https://open.spotify.com/album/649xH0ILrI0AxbpCEZlsOS"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 174270,
+      "name": "Something to Hope For",
+      "url": "https://open.spotify.com/track/2mXJUvkWU4buVwVr34FUlf"
     },
     {
       "added_at": "2026-03-12 23:00:49",
@@ -826,10 +842,18 @@
         {
           "name": "Axel Boman",
           "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        },
+        {
+          "name": "Joakim \u00c5hlund",
+          "url": "https://open.spotify.com/artist/4wOG2bH3rxUNeUnEQAA2P2"
+        },
+        {
+          "name": "Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2QgFa7AQlklxbQCl417qxs"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 416200,
+      "name": "Svalor Radiosignal - Axel's Dub",
       "url": "https://open.spotify.com/track/16ix3D6KSQaESTiwz7jrBY"
     },
     {
@@ -844,8 +868,8 @@
           "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 284453,
+      "name": "People Get Lost",
       "url": "https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss"
     },
     {
@@ -962,10 +986,18 @@
         {
           "name": "Arif Murakami",
           "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        },
+        {
+          "name": "Ousu Leigh",
+          "url": "https://open.spotify.com/artist/6CpjPG0lD6QJlkrCrNpdH4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 244413,
+      "name": "Ingen Meg Uten Deg",
       "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
     },
     {
@@ -1032,8 +1064,8 @@
           "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 176400,
+      "name": "CATASTROPHIC",
       "url": "https://open.spotify.com/track/5cgdk2W15L8nU2dBVdwaZl"
     },
     {
@@ -1575,6 +1607,30 @@
       "duration_ms": 180894,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
+    },
+    {
+      "added_at": "2026-03-12 23:00:49",
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
     },
     {
       "added_at": "2026-03-12 23:00:49",

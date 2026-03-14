@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Lloyiso
 
-768 songs - 1 day 16 hr 42 min
+770 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Fantasy](https://open.spotify.com/track/3NVEfATVPRz5JHo0AtvXmR) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Fantasy](https://open.spotify.com/album/7eXffVqFn74sguDZ4sugS4) | 3:01 | 2025-06-20 | 2025-07-11 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2025-03-20 | 2025-04-18 |
 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2024-06-27 | 2024-07-12 |
+| [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 | 2026-03-13 |  |
 | [Feelings](https://open.spotify.com/track/4bHZTWujvLTAeQRNjvp1DA) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [Feelings](https://open.spotify.com/album/6fOQIwSV5BSjjtrliXEmHo) | 2:22 | 2024-06-27 | 2024-07-12 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-11 | 2024-07-19 |
 | [Figure Out the Rest](https://open.spotify.com/track/6V6N55Y0w67IC6reGDpl2t) | [Naomi Grace](https://open.spotify.com/artist/1eY32Co0UJkOTfq8ijVkOL) | [Figure Out the Rest](https://open.spotify.com/album/1DjvcK7HT4bjEaRdfYegLQ) | 2:57 | 2025-04-17 | 2025-05-23 |
@@ -638,6 +639,7 @@
 | [Tattooed To My Heart](https://open.spotify.com/track/04MA9bSps2FJupffY6ig2D) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Tattooed To My Heart](https://open.spotify.com/album/2jrfp5GSOzL3961NQNtC0A) | 3:37 | 2024-11-21 | 2025-01-24 |
 | [Teach You How To Love](https://open.spotify.com/track/2OQo5wbFIAmHO13CWZinbq) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Teach You How To Love](https://open.spotify.com/album/6eH1G6yWMQLXQHik5h1AbE) | 2:31 | 2025-08-21 | 2025-08-30 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-29 | 2026-01-24 |
+| [Ted Mosby](https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU) | [Sir Silly](https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO) | [Ted Mosby](https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC) | 2:51 | 2026-03-13 |  |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2025-04-17 | 2025-04-25 |
 | [Tell Me How](https://open.spotify.com/track/23kB40iILpGJ03qrMTGbyj) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Tell Me How](https://open.spotify.com/album/6YCtgiy9GeKsaTpCUIAQVp) | 2:55 | 2024-11-28 | 2025-01-31 |
 | [Tell Me More](https://open.spotify.com/track/3Bh2LsZIwxBp0Zi1ImmFiR) | [Conn](https://open.spotify.com/artist/46JYMwEYsvRprcluO5f2n7) | [Tell Me More](https://open.spotify.com/album/1zbcHq8wN3d80fIl4ssTbX) | 2:41 | 2025-07-24 | 2025-08-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Daniela Andrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 979 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 984 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Something More](https://open.spotify.com/track/7G3P99HLDKvkoZHFVEKdgD) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/2CoMN033y1JyZFhMNg2j0C) | 3:06 |
 | 50 | [Great Expectations](https://open.spotify.com/track/6pQJTKEbTazGQGGutE3GT6) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Noam](https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p) | [Great Expectations](https://open.spotify.com/album/3yNhczLbYrRBPTdDCqn398) | 2:08 |
 
-Snapshot ID: `AAAAACWipYOHWZJhZnpfNm3uRFGnbh5O`
+Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

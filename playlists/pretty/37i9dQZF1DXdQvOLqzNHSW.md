@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,403 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,387 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 56 | [I Think I Lost That Love](https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX) | [r mccarthy](https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7) | [Dick Arkive: Issue 2](https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV) | 4:02 |
 | 57 | [Go Go Chaos](https://open.spotify.com/track/7EW6U2Qiikd51ApDZmllMx) | [Bonjah](https://open.spotify.com/artist/3SGCwaCfLxx2axpPq9J5LC) | [Go Go Chaos](https://open.spotify.com/album/0oAyuLmkpzcLXKTAK2Ne7Y) | 4:04 |
 | 58 | [Thinking About You](https://open.spotify.com/track/4HtGk60e5a7eOnIrlBqNI6) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 6:36 |
-| 59 | [Cold Paris Vogue](https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52) | 2:47 |
-| 60 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
-| 61 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
-| 62 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
-| 63 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
+| 59 | [Above Me](https://open.spotify.com/track/2SueOYex8L8EwV4CTKPMbA) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Above Me](https://open.spotify.com/album/64djkjEvJa2DO3nhus3uHo) | 3:34 |
+| 60 | [Really You](https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Inside](https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no) | 3:38 |
+| 61 | [Cold Paris Vogue](https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Pleasure Is Everything](https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52) | 2:47 |
+| 62 | [Hate the Sun](https://open.spotify.com/track/1j7tgS4WTvaTpQNm4uWp6D) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:34 |
+| 63 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 |
 | 64 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
 | 65 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
 | 66 | [Sweetness](https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Sweetness](https://open.spotify.com/album/1KUuc0hHQkpURbaw07xgFS) | 4:11 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 75 | [Evening News](https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 5:27 |
 | 76 | [WOOF](https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:02 |
 | 77 | [No Ties](https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Best Comedown Ever](https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv) | 3:37 |
-| 78 | [Flower Girl](https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu) | [Lionel Boy](https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh) | [Lionel Boy](https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759) | 3:44 |
-| 79 | [Hypnotherapy](https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Hypnotherapy](https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB) | 3:25 |
+| 78 | [Hypnotherapy](https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Hypnotherapy](https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB) | 3:25 |
+| 79 | [Flower Girl](https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu) | [Lionel Boy](https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh) | [Lionel Boy](https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759) | 3:44 |
 | 80 | [Dot](https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 5:22 |
 | 81 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
 | 82 | [I'll Never Leave](https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:17 |
@@ -95,15 +95,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 85 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
 | 86 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
 | 87 | [TEENAGE FEVER](https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Cerulean Tapes](https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M) | 4:16 |
-| 88 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
-| 89 | [Retrograde](https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Retrograde](https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd) | 3:05 |
+| 88 | [Retrograde](https://open.spotify.com/track/11nL5QfqIl1DEpwlxbQplf) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Retrograde](https://open.spotify.com/album/7CrATW3N1cfCtKT3YiPXfd) | 3:05 |
+| 89 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 90 | [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 |
 | 91 | [4AM](https://open.spotify.com/track/0irMdkppdBxssDcDPA8O4J) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [4AM](https://open.spotify.com/album/1ubsYit9EabHvaVlxIaGNU) | 2:58 |
 | 92 | [What’s In The Tea?](https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45) | [Calimossa](https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q) | [What’s In The Tea?](https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO) | 2:53 |
 | 93 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
 | 94 | [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 |
-| 95 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 |
-| 96 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
+| 95 | [Need To Talk \- Kordz Remix](https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc), [kordz](https://open.spotify.com/artist/2Z3OVOANdKELuWdATTmhQN) | [Need To Talk \(Kordz Remix\)](https://open.spotify.com/album/2MORSMdONkZTYHKPGQS4go) | 3:38 |
+| 96 | [Said I Don't Cry](https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Said I Don't Cry](https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj) | 3:31 |
 | 97 | [Get Low](https://open.spotify.com/track/6lpUGFAILreoiA83KUpt7T) | [Reggie Pearl](https://open.spotify.com/artist/0bqF0eDCWNkie7lHRS9fDe) | [Twilight Zone](https://open.spotify.com/album/0GjQV3glseW1A5baoTqQWH) | 2:22 |
 | 98 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |
 | 99 | [Don Lemon](https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:41 |

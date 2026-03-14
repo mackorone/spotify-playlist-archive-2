@@ -1,13 +1,33 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Solya",
-  "num_followers": 1803647,
+  "description": "Sit back and relax to the chillest pop.  Cover: Hikaru Utada & Charlie Puth",
+  "num_followers": 1803458,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB1H2dWcu0XqiHWRQeOGyuAV/0fn",
+  "snapshot_id": "AAAAAIwY+XVTPcjqnFup64I2tp2iKYFQ",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "Home (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Home (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
+    },
     {
       "added_at": "2026-03-06 05:00:07",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 189933,
       "name": "Queen of Texas",
       "url": "https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s"
+    },
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "added_at": "2026-03-06 05:00:07",
@@ -41,6 +77,22 @@
       "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
     },
     {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "The Fix",
+        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "The Fix",
+      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
+    },
+    {
       "added_at": "2026-02-27 18:35:08",
       "album": {
         "name": "picky choosy",
@@ -57,6 +109,22 @@
       "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
     },
     {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "Soft 2",
+        "url": "https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 230521,
+      "name": "When Did You Stop Loving Me?",
+      "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+    },
+    {
       "added_at": "2026-03-06 05:00:07",
       "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
@@ -71,6 +139,22 @@
       "duration_ms": 248866,
       "name": "Coming Up Roses",
       "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "zombies in love",
+        "url": "https://open.spotify.com/album/3DFQ8WzwVsU6hMbggoYagr"
+      },
+      "artists": [
+        {
+          "name": "paris jackson",
+          "url": "https://open.spotify.com/artist/11I8qWK4foqycuPFRDFH6e"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "zombies in love",
+      "url": "https://open.spotify.com/track/3OALUo0A1DDVErBFISIFK0"
     },
     {
       "added_at": "2026-02-27 18:35:08",
@@ -103,6 +187,22 @@
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
+    },
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
     },
     {
       "added_at": "2026-03-06 05:00:07",
@@ -1329,22 +1429,6 @@
       "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
     },
     {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka"
-    },
-    {
       "added_at": "2025-11-14 05:00:32",
       "album": {
         "name": "FEAR",
@@ -1415,70 +1499,6 @@
     {
       "added_at": "2025-11-08 16:45:50",
       "album": {
-        "name": "Favorite Place",
-        "url": "https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 196415,
-      "name": "Favorite Place",
-      "url": "https://open.spotify.com/track/523GiEoDg0ulav50HZItuF"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "Real To Me",
-        "url": "https://open.spotify.com/album/5JhzejBKo3M8xRbKsdOjqD"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 190522,
-      "name": "Real To Me",
-      "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
-    },
-    {
-      "added_at": "2025-11-14 05:00:32",
-      "album": {
-        "name": "How Real Was It?",
-        "url": "https://open.spotify.com/album/0qx4rCmVESstdOSb1nuoPH"
-      },
-      "artists": [
-        {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        }
-      ],
-      "duration_ms": 219996,
-      "name": "Saltwound",
-      "url": "https://open.spotify.com/track/4KgUFBzapw25qUdiQ41jmr"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 302408,
-      "name": "canal street",
-      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
         "name": "Nobody Wants This Season 2: The Soundtrack",
         "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
@@ -1507,22 +1527,6 @@
       "duration_ms": 200240,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
-    },
-    {
-      "added_at": "2025-11-08 16:45:50",
-      "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/0k6CuggnRkJAem9XowL1Zc"
     },
     {
       "added_at": "2025-11-08 16:45:50",

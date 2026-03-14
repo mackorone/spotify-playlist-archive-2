@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-253 songs - 15 hr 33 min
+256 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-02-13 |  |
 | [help](https://open.spotify.com/track/0GL1VRnWrizG4gRqEA6bFN) | [1bed](https://open.spotify.com/artist/4u3OTdGtad4UJc5nKD15oq) | [help](https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7) | 1:26 | 2025-12-13 | 2026-01-05 |
 | [HERO](https://open.spotify.com/track/6qhp3xbHvTOars63ilniHO) | [YOUR PERSONAL VENDETTA](https://open.spotify.com/artist/2PpRod27I2pxzn70VkdDJn) | [HERO](https://open.spotify.com/album/2menXSxj3dacUu08KPRyIT) | 4:02 | 2026-02-01 | 2026-02-25 |
+| [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 | 2026-03-14 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2025-11-04 | 2025-12-06 |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-06 | 2025-12-06 |
 | [Honest Mistake](https://open.spotify.com/track/1DEQCWDbuYFZHSW9zVMAjt) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Honest Mistake](https://open.spotify.com/album/70TvqiEcsoMkV2UjmKydz3) | 3:25 | 2025-11-04 | 2025-12-06 |
@@ -147,6 +148,7 @@
 | [My Energy Transformation](https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 6:21 | 2025-11-29 | 2025-12-28 |
 | [My Journey into Space](https://open.spotify.com/track/0JwcnEfABRXunsYH2W1AVv) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:12 | 2025-12-29 | 2026-01-21 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
+| [MY SONG](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [MY SONG](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 | 2026-03-14 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 | 2025-12-06 |
 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 | 2026-03-12 |  |
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2025-12-05 |  |
@@ -235,6 +237,7 @@
 | [Too many shots](https://open.spotify.com/track/1LgaBhXA2yXHXm163tBUJB) | [Prodii](https://open.spotify.com/artist/2P606xCQx03HHlD28pXMs5) | [Too many shots](https://open.spotify.com/album/4ack6tut3wHYNFCYa1mIS3) | 2:49 | 2026-01-15 | 2026-02-25 |
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 | 2026-01-21 |
 | [Trampeltier](https://open.spotify.com/track/6wsAvwlXPQLyEUeItX417g) | [Neidmaer](https://open.spotify.com/artist/0hCDG82eSZNEb32nKPyeKR) | [Trampeltier](https://open.spotify.com/album/3ahMXPDYjOxgf8JmfbanPy) | 4:28 | 2025-09-25 | 2026-01-05 |
+| [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-03-13 |  |
 | [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-07 |  |
 | [Universes](https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:55 | 2026-01-19 | 2026-02-19 |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-11 | 2026-02-02 |

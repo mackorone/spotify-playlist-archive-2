@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Gordo & Reinier Zonneveld
 
-432 songs - 22 hr 28 min
+434 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-04 | 2023-05-27 |
 | [LUCES DE NEON \(feat\. PRIMO\)](https://open.spotify.com/track/1QcohnRucqYNSu9wkq0M2x) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [PRIMO](https://open.spotify.com/artist/1b0KsC0utT7mnfZSQXQ9iP) | [LUCES DE NEON \(feat\. PRIMO\)](https://open.spotify.com/album/43WWaLc0pYy8KwzCY4O2RE) | 2:14 | 2025-04-11 |  |
 | [Lágrimas](https://open.spotify.com/track/38W8WO3xGxwWnQkJcrvHX9) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2) | [Lágrimas \(Feat\. Argentina\)](https://open.spotify.com/album/177yb1Pg2TGtIAO7pHzvPX) | 3:38 | 2023-07-25 | 2023-11-30 |
+| [MAGIA](https://open.spotify.com/track/6908rYOxGnN4E4gKnaVg67) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ) | [MAGIA](https://open.spotify.com/album/0OYw7LZUMRaQ9ZrOPFBhkn) | 2:58 | 2026-03-13 |  |
 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 | 2024-12-13 |  |
 | [Mama](https://open.spotify.com/track/5l91QS67BEDNZiDWPdXLwy) | [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Mama](https://open.spotify.com/album/3rmcFbXbPdvCD8GCL72uZ3) | 2:41 | 2022-03-22 | 2023-03-04 |
 | [MAMACITA](https://open.spotify.com/track/7oTYzZLBjl9krOfHNNrV7n) | [Natalia Paris](https://open.spotify.com/artist/2XRXFHC8h6orLpqNySkeo0), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [MAMACITA](https://open.spotify.com/album/79T2dvhr64LX3IQM29QQyP) | 4:17 | 2023-05-25 | 2023-12-16 |
@@ -410,6 +411,7 @@
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2022-03-22 | 2023-01-14 |
 | [Tóxica \- VIZE Remix](https://open.spotify.com/track/4uDb59PNKsTYOVSp0784W3) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Tóxica \(VIZE Remix\)](https://open.spotify.com/album/4EHW9tZLrALLs3UaAGFUpT) | 2:21 | 2022-03-22 | 2022-04-29 |
 | [Un Idiota \- Te Perdí](https://open.spotify.com/track/1oe42GaLCuxepZNDc6Hl27) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Un Idiota \(Te Perdí\)](https://open.spotify.com/album/2790I5a0CbIcGf9HBnJ6UF) | 5:00 | 2025-07-18 |  |
+| [Un Poquito Más](https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Un Poquito Más](https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME) | 3:16 | 2026-03-13 |  |
 | [un x100to \- Remix](https://open.spotify.com/track/2Lb5QgVeyA2VGcwhtw16D9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG) | [un x100to \(Remix\)](https://open.spotify.com/album/1bEntR9HSAWqKSNtVF8EVg) | 3:25 | 2023-05-08 | 2023-05-10 |
 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 | 2025-03-21 |  |
 | [Una Noche Más](https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Una Noche Más](https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep) | 2:41 | 2025-01-17 |  |

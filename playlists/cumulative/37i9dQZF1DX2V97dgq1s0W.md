@@ -4,7 +4,7 @@
 
 > The voices shaping R&B\. Cover: ELIZA
 
-590 songs - 1 day 7 hr 25 min
+590 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 | 2023-02-23 | 2023-05-15 |
 | [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-04-19 | 2024-04-26 |
 | [6 Feet Down](https://open.spotify.com/track/7LRnNIZFJQSv1mt4W8HYlK) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/0pluPeMP0fou1HBotVrHmP) | 2:48 | 2024-01-26 | 2024-04-19 |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-13 |  |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-01 | 2024-11-22 |
 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 | 2023-02-23 | 2023-05-15 |
 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 | 2025-09-25 |  |
@@ -541,7 +542,6 @@
 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 | 2025-05-22 | 2025-09-06 |
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 | 2025-10-24 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2026-01-16 |
-| [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 | 2026-03-13 |  |
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-10-03 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-08-28 | 2026-01-23 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-19 | 2025-01-31 |

@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: Shakira",
-  "num_followers": 114656,
+  "num_followers": 114702,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "AGUA E' PANELA (cule_nota)",
-        "url": "https://open.spotify.com/album/29d7TpjwEZ2mXqrBQBuQfN"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 127829,
-      "name": "AGUA E' PANELA (cule_nota)",
-      "url": "https://open.spotify.com/track/0T5aZy0h2WCk1N9Vgp77Qn"
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -659,6 +643,22 @@
       "duration_ms": 219333,
       "name": "Chulo pt.2",
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
+        "name": "AGUA E' PANELA (cule_nota)",
+        "url": "https://open.spotify.com/album/29d7TpjwEZ2mXqrBQBuQfN"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 127829,
+      "name": "AGUA E' PANELA (cule_nota)",
+      "url": "https://open.spotify.com/track/0T5aZy0h2WCk1N9Vgp77Qn"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -779,18 +779,22 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "GARC\u00cdA",
-        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+        "name": "La Mala Era Yo",
+        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
       },
       "artists": [
         {
           "name": "Kany Garc\u00eda",
           "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 162721,
-      "name": "Garc\u00eda",
-      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -859,22 +863,18 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
-        "name": "La Mala Era Yo",
-        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
       },
       "artists": [
         {
           "name": "Kany Garc\u00eda",
           "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 150000,
-      "name": "La Mala Era Yo",
-      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
+      "duration_ms": 162721,
+      "name": "Garc\u00eda",
+      "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
     },
     {
       "added_at": "2026-03-06 15:26:08",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-03-06 15:26:08",
       "album": {
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+    },
+    {
+      "added_at": "2026-03-06 15:26:08",
+      "album": {
         "name": "Curita Para El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6mbclyEcneNuIoOYOMGKXj"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 198409,
       "name": "no quiero pelear",
       "url": "https://open.spotify.com/track/73g6RENTgyeOn8vD04F2MT"
-    },
-    {
-      "added_at": "2026-03-06 15:26:08",
-      "album": {
-        "name": "O\u00eddos Sordos",
-        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 214831,
-      "name": "O\u00eddos Sordos",
-      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
     },
     {
       "added_at": "2026-03-06 15:26:08",

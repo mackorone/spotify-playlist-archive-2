@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-941 songs - 2 day 8 hr 53 min
+942 songs - 2 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,6 +516,7 @@
 | [Me, On The Beach](https://open.spotify.com/track/6bBBvE0Us9U5ivMDOyEIu9) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [Dream Sounds](https://open.spotify.com/album/3f9ZJ1QEyP5acU787crDml) | 6:45 | 2025-08-24 | 2025-09-11 |
 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-14 | 2024-07-12 |
 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:48 | 2025-12-24 | 2026-01-15 |
+| [Meaning Business](https://open.spotify.com/track/2NlsCmQjDF6MtFdcXOQZE2) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Meaning Business](https://open.spotify.com/album/73gasAEPo2MCGHHIZNj9oN) | 4:18 | 2026-03-13 |  |
 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 | 2025-04-20 | 2025-05-09 |
 | [Merlin](https://open.spotify.com/track/79JUzXwTrn0bW6OgWoZq2W) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 3:27 | 2025-09-10 | 2025-11-15 |
 | [Micronomic](https://open.spotify.com/track/6ol3Y5VhaPW2rd1PSEgC0V) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Faking The Books](https://open.spotify.com/album/6NUMXxMBXsCuth2PXt4d79) | 3:23 | 2025-09-10 | 2025-11-15 |

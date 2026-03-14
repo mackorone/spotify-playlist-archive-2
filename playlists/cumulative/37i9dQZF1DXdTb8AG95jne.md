@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름 \(KIM PU REUM\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,274 songs - 3 day 5 hr 5 min
+1,275 songs - 3 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [error](https://open.spotify.com/track/1SzinFXFmMYWedGwGZjK2Z) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [error](https://open.spotify.com/album/0SkFqjFefiYI9LmEdtDkpI) | 3:10 | 2025-11-03 | 2025-12-05 |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2025-02-13 |
 | [Escape!](https://open.spotify.com/track/5VsXPHSJvB0H4SBZHFiJyO) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:35 | 2022-05-11 | 2022-06-02 |
-| [Eternal](https://open.spotify.com/track/7jzCk4lA6RKviD4mQ4Cq4J) | [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Eternal](https://open.spotify.com/album/14AAEMuaFuxuBSl5jtgLhv) | 3:32 | 2026-01-30 |  |
+| [Eternal](https://open.spotify.com/track/7jzCk4lA6RKviD4mQ4Cq4J) | [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [Eternal](https://open.spotify.com/album/14AAEMuaFuxuBSl5jtgLhv) | 3:32 | 2026-01-30 | 2026-03-14 |
 | [ETERNAL AIRLINE](https://open.spotify.com/track/4hRYW8V4wjnEdQ6jgGa3mo) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [ETERNAL AIRLINE](https://open.spotify.com/album/0cri4YtU3TAvtFX8bUXdZZ) | 4:22 | 2025-10-02 | 2025-11-20 |
 | [Even days \(2021\)](https://open.spotify.com/track/1SnY6KbNW8va17sBnIQnkG) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Even days \(2021\)](https://open.spotify.com/album/369MzvVXsUmYVgoSjTZpJ1) | 4:06 | 2021-12-21 | 2022-04-16 |
 | [Even If I Shatter in Your Arms](https://open.spotify.com/track/6iKHDfO7E7pIwzdzgMQaXV) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Even If I Shatter in Your Arms](https://open.spotify.com/album/7FAEvR475IMS3ZboZs2PSt) | 3:23 | 2025-12-23 | 2026-02-07 |
@@ -565,6 +565,7 @@
 | [Jane.](https://open.spotify.com/track/7eeZR0OkclxBfhAlFd9N4g) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Jane.](https://open.spotify.com/album/6z4IJIFHHEg1Cka8fWBC3E) | 2:54 | 2025-02-06 | 2025-04-11 |
 | [Jayu 자유](https://open.spotify.com/track/5vlUplZyrXnN0bbejrKfqu) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Jayu 자유](https://open.spotify.com/album/2ikSIntGYyG6biNQC0UgnH) | 3:55 | 2022-02-16 | 2022-06-22 |
 | [Jennie2](https://open.spotify.com/track/1pA9VPhiqspHAyEfe3v81W) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Jennie2](https://open.spotify.com/album/5AxSYyIoOWfoV22lyKc4mc) | 3:20 | 2025-10-14 | 2025-11-07 |
+| [Joe](https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Orange Courage](https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH) | 3:28 | 2026-03-13 |  |
 | [Jungle Bike](https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Jungle Bike](https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW) | 2:46 | 2022-08-04 | 2022-08-24 |
 | [Just a Friend](https://open.spotify.com/track/4cRXmzPshRDVuL1NTGk5c0) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [simsong](https://open.spotify.com/artist/51MWzTgAg8ZIxqyO2Zz0c9) | [Just a Friend](https://open.spotify.com/album/4o5z8EULkN1q4wmNH6qI8W) | 3:36 | 2022-03-31 | 2022-05-13 |
 | [Just As A Lie 거짓말처럼](https://open.spotify.com/track/12rpCeScvPRFTcnKU8Md18) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Short Film 'Sequence \#3'](https://open.spotify.com/album/4N9NQQsJIVX3ftDiFfYJdr) | 4:17 | 2022-03-31 | 2022-04-18 |

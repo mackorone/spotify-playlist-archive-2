@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1578484,
+  "num_followers": 1578371,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
       },
@@ -1335,26 +1355,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Away",
-        "url": "https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Wake Up (With You Mine)",
         "url": "https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf"
       },
@@ -1371,26 +1371,6 @@
       "duration_ms": 200181,
       "name": "Wake Up (With You Mine)",
       "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Helele",
-        "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
-      },
-      "artists": [
-        {
-          "name": "Noel Holler",
-          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 130298,
-      "name": "Helele",
-      "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1415,6 +1395,26 @@
       "duration_ms": 215409,
       "name": "Rude Boi",
       "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Helele",
+        "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
+      },
+      "artists": [
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 130298,
+      "name": "Helele",
+      "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
     },
     {
       "added_at": "2025-08-29 06:03:40",

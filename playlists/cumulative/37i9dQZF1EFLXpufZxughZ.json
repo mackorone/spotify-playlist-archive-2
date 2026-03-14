@@ -2820,10 +2820,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 304653,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/36fqOruB2SrZBHNqeT1weO"
+    },
+    {
+      "album": {
+        "name": "Muchmusic Presents: k-os (Live)",
+        "url": "https://open.spotify.com/album/77YLZZ8UYImQAg8NzmVmVf"
+      },
+      "artists": [
+        {
+          "name": "K-OS",
+          "url": "https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304653,
+      "name": "Sunday Morning - Live",
+      "url": "https://open.spotify.com/track/5NK06k7ayRtffDodcl3ldP"
     },
     {
       "album": {

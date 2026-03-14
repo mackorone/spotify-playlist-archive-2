@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAA8Ijd2dQ5/oYq+dJraYYLM",
+  "snapshot_id": "abICAAAAAACJy53pmg6IY/I53kqi4nsc",
   "tracks": [
     {
       "added_at": null,
@@ -467,38 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amandla",
-        "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
-      },
-      "artists": [
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Russell Zuma",
-          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
-        },
-        {
-          "name": "Simmy",
-          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
-        }
-      ],
-      "duration_ms": 446908,
-      "name": "Uxolo - Club Mix",
-      "url": "https://open.spotify.com/track/0XwtsstpXSL5K5jcNBjQCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iphinde",
         "url": "https://open.spotify.com/album/5mPwWVcf8eTxFUZP9SHNtq"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 188571,
       "name": "Iphinde - Radio Edit",
       "url": "https://open.spotify.com/track/4tZR4IRE45Ma5xgY5cVAL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amandla",
+        "url": "https://open.spotify.com/album/38fqmt5ic3eipFvEf877Qv"
+      },
+      "artists": [
+        {
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+        },
+        {
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        }
+      ],
+      "duration_ms": 446908,
+      "name": "Uxolo - Club Mix",
+      "url": "https://open.spotify.com/track/0XwtsstpXSL5K5jcNBjQCc"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sizophelelaphi",
+        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "Sizophelelaphi",
+      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Khuluma (feat. LilyFaith, Lowsheen & Theo Kgosinkwe)",
         "url": "https://open.spotify.com/album/6NSuS46N3Bh2MU07Omkkkg"
       },
@@ -667,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep Hope Alive",
-        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        },
-        {
-          "name": "DrumPope",
-          "url": "https://open.spotify.com/artist/3cMf1PUXLtV4tiZUlXsDHj"
-        }
-      ],
-      "duration_ms": 344070,
-      "name": "Imizamo",
-      "url": "https://open.spotify.com/track/12zPpq22jKVhhQT4ZKyuEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Platinumb Heart Beating",
         "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
       },
@@ -711,22 +707,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sizophelelaphi",
-        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
+        "name": "Keep Hope Alive",
+        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
+        },
+        {
+          "name": "DrumPope",
+          "url": "https://open.spotify.com/artist/3cMf1PUXLtV4tiZUlXsDHj"
         }
       ],
-      "duration_ms": 259285,
-      "name": "Sizophelelaphi",
-      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
+      "duration_ms": 344070,
+      "name": "Imizamo",
+      "url": "https://open.spotify.com/track/12zPpq22jKVhhQT4ZKyuEP"
     },
     {
       "added_at": null,
@@ -883,50 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos to Jozi",
-        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
-      },
-      "artists": [
-        {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 249983,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep Hope Alive",
-        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Ntsika Ngxanga",
-          "url": "https://open.spotify.com/artist/74xjSKN5TZlOVyePIjGseT"
-        }
-      ],
-      "duration_ms": 410387,
-      "name": "Ayazizela - Amapiano Edit",
-      "url": "https://open.spotify.com/track/5UDZmqIngMjd5PiuCacvMd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Church Grooves Evolution",
         "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
       },
@@ -955,6 +911,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Keep Hope Alive",
+        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Ntsika Ngxanga",
+          "url": "https://open.spotify.com/artist/74xjSKN5TZlOVyePIjGseT"
+        }
+      ],
+      "duration_ms": 410387,
+      "name": "Ayazizela - Amapiano Edit",
+      "url": "https://open.spotify.com/track/5UDZmqIngMjd5PiuCacvMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagos to Jozi",
+        "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 249983,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church Grooves (10th Commandment)",
         "url": "https://open.spotify.com/album/2XGCgguJ1nQn9DH8LJzwCw"
       },
@@ -975,6 +975,54 @@
       "duration_ms": 213706,
       "name": "Banane Mavoko",
       "url": "https://open.spotify.com/track/1oJgW0RaxtELOK1Y5otNGb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Church Grooves Evolution",
+        "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "OX Sounds",
+          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Dali Buya - Radio Edit",
+      "url": "https://open.spotify.com/track/49OhEhQ2Yj3b968SPE3gYb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep Hope Alive",
+        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "King Monada",
+          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
+        }
+      ],
+      "duration_ms": 437419,
+      "name": "Fofa",
+      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
     },
     {
       "added_at": null,
@@ -1011,54 +1059,6 @@
       "duration_ms": 237876,
       "name": "Izitha (feat. Banzo SA, Ze2 & Mr Maker) - Radio Edit",
       "url": "https://open.spotify.com/track/3y5lZAbp5wJbU36ZOkIoG0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Keep Hope Alive",
-        "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "King Monada",
-          "url": "https://open.spotify.com/artist/5SDXPZSEfwqvGPwqiQezOP"
-        }
-      ],
-      "duration_ms": 437419,
-      "name": "Fofa",
-      "url": "https://open.spotify.com/track/3jLOLJszeaSo5IcKDxQ2pM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church Grooves Evolution",
-        "url": "https://open.spotify.com/album/4759cdMebLbrNuG8AlNR0U"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "OX Sounds",
-          "url": "https://open.spotify.com/artist/5BfXGVKR1k7ETIh5r6Dxjy"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Dali Buya - Radio Edit",
-      "url": "https://open.spotify.com/track/49OhEhQ2Yj3b968SPE3gYb"
     },
     {
       "added_at": null,
@@ -1115,30 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Izandla",
-        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
-      },
-      "artists": [
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
-        },
-        {
-          "name": "X-wise",
-          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
-        }
-      ],
-      "duration_ms": 225535,
-      "name": "Izandla - Radio Edit",
-      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Second Move",
         "url": "https://open.spotify.com/album/2Yy7bczz0jJqurp23L9uAm"
       },
@@ -1167,26 +1143,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
+        "name": "Izandla",
+        "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
       },
       "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
         {
           "name": "OSKIDO",
           "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
         },
         {
-          "name": "Picat",
-          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "X-wise",
+          "url": "https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn"
         }
       ],
-      "duration_ms": 321026,
-      "name": "Toyi Toyi",
-      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
+      "duration_ms": 225535,
+      "name": "Izandla - Radio Edit",
+      "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
     },
     {
       "added_at": null,
@@ -1211,6 +1187,30 @@
       "duration_ms": 367288,
       "name": "Mngani Wami",
       "url": "https://open.spotify.com/track/4cYChS19GllfJAnqgelpAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Picat",
+          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Toyi Toyi",
+      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     },
     {
       "added_at": null,

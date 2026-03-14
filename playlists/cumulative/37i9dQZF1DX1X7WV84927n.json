@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236775,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "album": {
         "name": "2 LITER SPITE",
         "url": "https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv"
       },
@@ -1215,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
+        "url": "https://open.spotify.com/album/11qgjRUBFe0yAR47559uaU"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184073,
+      "name": "ALWAYS LET YOU DOWN (feat. A Day To Remember)",
+      "url": "https://open.spotify.com/track/2QkboO9FsC9Z2ogQPjDb30"
+    },
+    {
+      "album": {
         "name": "AM I WRONG",
         "url": "https://open.spotify.com/album/0akoqBHWcdUaJbZpMIW22h"
       },
@@ -1520,7 +1560,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 200558,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
@@ -1990,7 +2030,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 261006,
       "name": "Bad State of Mind",
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
@@ -2572,7 +2612,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 171758,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/0OyQeWMNYlKh4wDZawQJvq"
@@ -3014,7 +3054,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 161504,
       "name": "Bomb To A Knife Fight",
       "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
@@ -3902,7 +3942,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 222785,
       "name": "CHASING SHADOWS",
       "url": "https://open.spotify.com/track/4sb2DpH2pMeSuAK9x04fON"
@@ -4570,7 +4610,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 272684,
       "name": "Could Have Been Me (Feat. Brian May)",
       "url": "https://open.spotify.com/track/5hKHL9CRXlYoIs1hIw5010"
@@ -4892,7 +4932,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213562,
       "name": "Cyanide",
       "url": "https://open.spotify.com/track/6oyjVwdaKB9FsAYR6FybmS"
@@ -6822,7 +6862,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 220710,
       "name": "ego",
       "url": "https://open.spotify.com/track/4Mv3pU235ug7FvhReT1n1L"
@@ -7390,6 +7430,24 @@
       "duration_ms": 181666,
       "name": "Everything Burns (feat. Beartooth)",
       "url": "https://open.spotify.com/track/4m4MMljoJx4illTnaWRHbG"
+    },
+    {
+      "album": {
+        "name": "Everything Hurts",
+        "url": "https://open.spotify.com/album/7tXRiGfV0oq1U73pg2m1m9"
+      },
+      "artists": [
+        {
+          "name": "Poison The Well",
+          "url": "https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243880,
+      "name": "Everything Hurts",
+      "url": "https://open.spotify.com/track/75XTItnlplPmpk9bbFjA7R"
     },
     {
       "album": {
@@ -8997,6 +9055,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/13ePBbGxoFjQ7nmgtkkZJ6"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163573,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2hUzBxG3ZuLRq66heHfi6R"
+    },
+    {
+      "album": {
         "name": "Ghost Inside The Shell",
         "url": "https://open.spotify.com/album/6xqFGXKtI20ESDGkWtjWeB"
       },
@@ -9172,6 +9248,24 @@
       "duration_ms": 240000,
       "name": "Give Up",
       "url": "https://open.spotify.com/track/5xrfjG0lVciS5YuLCLCeRl"
+    },
+    {
+      "album": {
+        "name": "Gladrags",
+        "url": "https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190230,
+      "name": "Gladrags",
+      "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
     },
     {
       "album": {
@@ -9740,7 +9834,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 229763,
       "name": "Guilt By Association",
       "url": "https://open.spotify.com/track/20C1WJvhvpR2wGUHNAwMVL"
@@ -9798,7 +9892,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 281124,
       "name": "GUTSY",
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
@@ -10182,6 +10276,24 @@
       "duration_ms": 217231,
       "name": "Heart of Thorns",
       "url": "https://open.spotify.com/track/2ww4jkfTyKGHqx0vWJ5HpG"
+    },
+    {
+      "album": {
+        "name": "Heart Said No",
+        "url": "https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG"
+      },
+      "artists": [
+        {
+          "name": "HOKKA",
+          "url": "https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Heart Said No",
+      "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
     },
     {
       "album": {
@@ -10616,7 +10728,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 203291,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/4r1Exw3yZy96p32gy5OqyW"
@@ -12440,7 +12552,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 200325,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/4csbKzdtmtojrzQfB7OPZ9"
@@ -14722,7 +14834,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 222656,
       "name": "Magic",
       "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
@@ -18780,7 +18892,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 254446,
       "name": "Pullin' Teeth (feat. Kevin Rheault)",
       "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
@@ -25560,7 +25672,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 224404,
       "name": "TWICE",
       "url": "https://open.spotify.com/track/3c7E75a0REL2z6jt8yfrjV"
@@ -27266,6 +27378,24 @@
       "duration_ms": 290301,
       "name": "What Would You Do? [Feat. Gavin Rossdale]",
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
+    },
+    {
+      "album": {
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214290,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
     },
     {
       "album": {

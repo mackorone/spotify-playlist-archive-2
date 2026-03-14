@@ -4,7 +4,7 @@
 
 > Lo más pegado, lo más random, lo más 🔥
 
-607 songs - 1 day 8 hr 4 min
+608 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -566,6 +566,7 @@
 | [UH LA LA LA](https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [UH LA LA LA](https://open.spotify.com/album/1opiHmX43rg1QONktnVcd7) | 2:47 | 2024-04-09 | 2025-05-17 |
 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ULALA \(OOH LA LA\)](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 | 2023-09-29 | 2023-12-20 |
 | [Un Besito Más](https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Diel Paris](https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA) | [Un Besito Más](https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs) | 2:40 | 2024-03-19 | 2025-04-25 |
+| [Un Cachito de Luz \- Versión Deluxe](https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa) | [SFDK](https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [Inkebrantable \(Versión Deluxe\)](https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR) | 2:46 | 2026-03-13 |  |
 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 | 2024-05-20 | 2024-06-01 |
 | [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2023-09-29 | 2023-12-20 |
 | [UN SIGLO SIN TI](https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [UN SIGLO SIN TI](https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz) | 2:34 | 2024-07-29 | 2025-05-17 |

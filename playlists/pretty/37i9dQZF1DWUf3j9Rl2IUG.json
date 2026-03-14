@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Ayra Starr",
-  "num_followers": 215348,
+  "num_followers": 215455,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -71,6 +71,38 @@
     {
       "added_at": "2026-03-13 00:01:22",
       "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
+    },
+    {
+      "added_at": "2026-03-13 00:01:22",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "added_at": "2026-03-13 00:01:22",
+      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -95,38 +127,6 @@
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
-    },
-    {
-      "added_at": "2026-03-13 00:01:22",
-      "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
-    },
-    {
-      "added_at": "2026-03-13 00:01:22",
-      "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
       "added_at": "2026-03-13 00:01:22",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-03-13 00:01:22",
       "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "added_at": "2026-03-13 00:01:22",
+      "album": {
         "name": "Allonsy",
         "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-03-13 00:01:22",
-      "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2026-03-13 00:01:22",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-03-13 00:01:22",
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2026-03-13 00:01:22",
+      "album": {
         "name": "Auracle",
         "url": "https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 218000,
       "name": "Like That (bomboclatt) (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6"
-    },
-    {
-      "added_at": "2026-03-13 00:01:22",
-      "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2026-03-13 00:01:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-03-13 00:01:22",
       "album": {
-        "name": "BADAMINTON",
-        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "BADAMINTON",
-      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
-    },
-    {
-      "added_at": "2026-03-13 00:01:22",
-      "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2026-03-13 00:01:22",
       "album": {
+        "name": "BADAMINTON",
+        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "BADAMINTON",
+      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
+    },
+    {
+      "added_at": "2026-03-13 00:01:22",
+      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -1135,22 +1135,6 @@
       "duration_ms": 154268,
       "name": "Osusu",
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
-    },
-    {
-      "added_at": "2026-03-13 00:01:22",
-      "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
     },
     {
       "added_at": "2026-03-13 00:01:22",
@@ -1175,6 +1159,22 @@
       "duration_ms": 175714,
       "name": "ENJOYMENT",
       "url": "https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi"
+    },
+    {
+      "added_at": "2026-03-13 00:01:22",
+      "album": {
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
     },
     {
       "added_at": "2026-03-13 00:01:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Killa Fonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,781 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,794 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 36 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
 | 37 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 38 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
-| 39 | [FACE DOWN](https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BANDO 4](https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh) | 2:28 |
-| 40 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
+| 39 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
+| 40 | [FACE DOWN](https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BANDO 4](https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh) | 2:28 |
 | 41 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 42 | [A.D.S.](https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [PLAYBOY CITY](https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi) | 2:03 |
 | 43 | [Certificat](https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5) | [Selfmade](https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5) | 2:09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 186612,
+  "num_followers": 186661,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADjX/wNru/Pa9Y81eynmE+3",
+  "snapshot_id": "abICAAAAAADtHyjZOztXRm7IcWLDTL9b",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 263202,
+      "name": "El Todopoderoso - Remastered 2023",
+      "url": "https://open.spotify.com/track/7vNpiUDccd3Cxz3R4bJRcc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 391320,
       "name": "Siento",
       "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz (Remastered 2023)",
-        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 263202,
-      "name": "El Todopoderoso - Remastered 2023",
-      "url": "https://open.spotify.com/track/7vNpiUDccd3Cxz3R4bJRcc"
     },
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Tu No Puedes Conmigo",
-      "url": "https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo"
+      "duration_ms": 351333,
+      "name": "Ublabad\u00fa",
+      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 351333,
-      "name": "Ublabad\u00fa",
-      "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
+      "duration_ms": 205320,
+      "name": "Tu No Puedes Conmigo",
+      "url": "https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo"
     },
     {
       "added_at": null,

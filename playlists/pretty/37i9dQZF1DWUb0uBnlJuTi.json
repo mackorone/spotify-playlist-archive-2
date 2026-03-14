@@ -1,13 +1,37 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 410781,
+  "num_followers": 410868,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAW5RXMsAjvtNQtaMRj4hk3yDq2C",
+  "snapshot_id": "AAAAAEM1lU6TKwFb6LIJu9G2y5ch10lR",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Flame Keeper (feat. Hiromi & Chris Potter)",
+        "url": "https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 385453,
+      "name": "Flame Keeper (feat. Hiromi & Chris Potter)",
+      "url": "https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj"
+    },
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
@@ -2067,22 +2091,6 @@
       "duration_ms": 225906,
       "name": "Funky Snakefoot",
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
     },
     {
       "added_at": "2023-03-24 04:01:00",

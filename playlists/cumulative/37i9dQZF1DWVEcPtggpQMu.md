@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap\. <br/>Cover: Nasty C
 
-1,102 songs - 2 day 10 hr 12 min
+1,102 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [MEANTIME](https://open.spotify.com/track/7FI8jHU5ADUVBfDobSNKAB) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [MEANTIME](https://open.spotify.com/album/3KCdxY3o7UV74zZ1g7fzXi) | 2:11 | 2022-03-24 | 2022-04-15 |
 | [Medi Yase Khayelitsha](https://open.spotify.com/track/1a2CqIsoPrWTEpz2tJqJic) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT) | [Medi Yase Khayelitsha](https://open.spotify.com/album/4st2x36mIjgIpW2Pj8lST9) | 3:42 | 2024-09-26 | 2025-05-16 |
 | [Menzi Ngubane](https://open.spotify.com/track/4fozcNnXw2dJX5v45Z8vfO) | [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Menzi Ngubane](https://open.spotify.com/album/1SqxmLAIWyVm6KEBLoXnjb) | 4:27 | 2023-07-07 | 2023-07-14 |
+| [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 | 2026-03-12 |  |
 | [MIDDLE MAN](https://open.spotify.com/track/5sNSrrroWxzVO6jPHxtrBQ) | [Shonn Willow](https://open.spotify.com/artist/0VHGAaY1hbVpcrUhR5AZZx), [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [MIDDLE MAN](https://open.spotify.com/album/6LGyEwOYDCnkEgWdnFo0J3) | 2:22 | 2023-07-07 | 2023-07-22 |
 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 | 2024-02-16 | 2024-06-28 |
 | [Milli](https://open.spotify.com/track/1aZDZjXRiAScYxLT9ZaRMI) | [Tebogo Wa Pitori](https://open.spotify.com/artist/4fmXw46U61bjoK3AL2xw9y) | [Novelist Of Distinction](https://open.spotify.com/album/2Ef7S0utz4z51W8NhwVUfn) | 2:44 | 2022-09-09 | 2022-12-13 |
@@ -979,7 +980,6 @@
 | [Top Of The Top](https://open.spotify.com/track/4XT4E28gw0nSPOl13CDoiN) | [Lord Script](https://open.spotify.com/artist/793A2IFcoskCrnPQarTcua), [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [Our Father](https://open.spotify.com/album/3aeEohCjAUzigyPUfi75Dq) | 3:12 | 2024-11-21 | 2025-06-28 |
 | [Top Ten](https://open.spotify.com/track/66up8vDuQBeJF9w03S3UsG) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Owethu](https://open.spotify.com/artist/26onEbIE7wVmDSrMseL5pq), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU), [Holy Alpha](https://open.spotify.com/artist/2Yy2Im8JOCPaECv2OgLKNy) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 4:11 | 2022-07-21 | 2022-10-15 |
 | [TOYOTA](https://open.spotify.com/track/5N55suVRCcouaoIxKjNz6x) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R) | [TOYOTA](https://open.spotify.com/album/7LggoxQ82Yqj7hLimHx3K1) | 3:15 | 2024-08-23 | 2025-03-08 |
-| [Track 18](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 0:00 | 2026-03-12 |  |
 | [Trapped](https://open.spotify.com/track/46KraCJv5TmDU6ukXxJPFT) | [Patty Monroe](https://open.spotify.com/artist/6P3y4aW1ODoascqxL48u7Y), [DeWun Music](https://open.spotify.com/artist/37vzk140rT50jJ6iF4QGoC) | [Perfect Timing](https://open.spotify.com/album/5nCr0uVuT8whS1wrM8QNo7) | 2:24 | 2022-01-20 | 2022-02-18 |
 | [TRAPSTARS \(feat\. Nadia Nakai\)](https://open.spotify.com/track/33Zgev6UEo8Ng7e1ZsC9ov) | [scumie](https://open.spotify.com/artist/1MS9NVxu3xtH95mRsi7g36), [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [066, Vol\. 3](https://open.spotify.com/album/6G8vk4pqS03gYEVmCXucZU) | 3:30 | 2025-08-29 |  |
 | [TROPHIES](https://open.spotify.com/track/31RMC4WZMsS4GVxfef4UXk) | [System the One](https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8) | [TROPHIES](https://open.spotify.com/album/10UnsgPId2527WpW8EKGXe) | 3:00 | 2022-03-10 | 2022-03-18 |

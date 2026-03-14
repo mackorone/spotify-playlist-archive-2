@@ -4,7 +4,7 @@
 
 > 🤝
 
-206 songs - 9 hr 30 min
+206 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-27 | 2024-11-01 |
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-18 | 2024-08-30 |
 | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5) | 2:44 | 2024-10-31 | 2024-12-06 |
+| [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 | 2026-03-12 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-02 |
 | [Iskald](https://open.spotify.com/track/3TSY0hX9GNhYQWCnaMfaMZ) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Elsker Metropolen](https://open.spotify.com/album/24W4gJDA6CKVXp3SO0GOXp) | 2:45 | 2025-09-11 | 2025-10-17 |
 | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb) | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG) | 3:03 | 2024-06-27 | 2024-08-16 |
@@ -194,7 +195,6 @@
 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2025-05-29 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-06-27 | 2025-07-01 |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2024-06-27 | 2025-05-02 |
-| [Track 1](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 0:00 | 2026-03-12 |  |
 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 | 2024-10-17 |  |
 | [TV](https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [TV](https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt) | 3:24 | 2025-10-30 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-09-19 |

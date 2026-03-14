@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 44105,
+  "num_followers": 44121,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEe9Rg2F2+6Bmd6EkC1u38MRYA1o",
+  "snapshot_id": "AAAAABf38deCvsklXyXABjBIvk8Vu2kG",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:14",
+      "album": {
+        "name": "Now and Then",
+        "url": "https://open.spotify.com/album/3ilbEpyXEoJ8CHadIp6fqP"
+      },
+      "artists": [
+        {
+          "name": "The Band Memo",
+          "url": "https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT"
+        }
+      ],
+      "duration_ms": 242728,
+      "name": "Now and Then",
+      "url": "https://open.spotify.com/track/60vWJQbZiM54JApQwfwwP8"
+    },
     {
       "added_at": "2026-01-16 05:00:34",
       "album": {
@@ -1687,22 +1703,6 @@
       "duration_ms": 394596,
       "name": "Another Plan of Attack",
       "url": "https://open.spotify.com/track/2URhTFxIl3kNBgDFgpZVG2"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "The Mad Children - EP",
-        "url": "https://open.spotify.com/album/1lAUefBVOBXfPCnOJCp5cv"
-      },
-      "artists": [
-        {
-          "name": "The Mad Children",
-          "url": "https://open.spotify.com/artist/0qcvu55pxTj97gmxAy1ZUF"
-        }
-      ],
-      "duration_ms": 347629,
-      "name": "Define Devine",
-      "url": "https://open.spotify.com/track/48CT4qpNxluvGt15IuuLuo"
     },
     {
       "added_at": "2022-10-07 04:01:00",

@@ -15121,6 +15121,24 @@
     },
     {
       "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/0qYRNz2VloYrMS1nop02n8"
+      },
+      "artists": [
+        {
+          "name": "Styre",
+          "url": "https://open.spotify.com/artist/2e8aCBtwxdwGaYdx3bWfcM"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272459,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/44h5o8lxCMLWGaz6njOwKT"
+    },
+    {
+      "album": {
         "name": "Sailing Boat",
         "url": "https://open.spotify.com/album/686eANueSKRW9VFefIR1lR"
       },
@@ -24894,6 +24912,24 @@
       "duration_ms": 205885,
       "name": "\u5fae\u7b11\u6291\u9b31\u75c7",
       "url": "https://open.spotify.com/track/1OSWoSmCIughniERrfpmpM"
+    },
+    {
+      "album": {
+        "name": "\u96e3\u9053\u8981\u7b49\u6536\u5230\u901a\u77e5\u90a3\u5929\u6211\u624d\u8d70",
+        "url": "https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa"
+      },
+      "artists": [
+        {
+          "name": "Dale",
+          "url": "https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54012,
+      "name": "\u5fae\u89c0",
+      "url": "https://open.spotify.com/track/1W67deW8vRH7P7x83w5Mqq"
     },
     {
       "album": {

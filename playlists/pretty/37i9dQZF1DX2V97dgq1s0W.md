@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The voices shaping R&B\. Cover: ELIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,880 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,925 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 8 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
 | 9 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
 | 10 | [Sunsets](https://open.spotify.com/track/2XAH08LV6ejGOpRsErzSXs) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Sunsets](https://open.spotify.com/album/5hZJCqJK5bzGefjwWltJkA) | 3:00 |
-| 11 | [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 |
+| 11 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 12 | [Don't Take My Lover Away](https://open.spotify.com/track/3fKmOOqhIF7M9nU4mqe1yV) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Don't Take My Lover Away](https://open.spotify.com/album/572gZYJdYvplPqnMJTbzqJ) | 5:23 |
 | 13 | [Mercenary](https://open.spotify.com/track/5s0l8YyXuAtX1OsKb5faoF) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Mercenary](https://open.spotify.com/album/3buDFufXTD8bf5s5SkKSGY) | 2:19 |
 | 14 | [Sweetest Lullabye](https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Sweetest Lullabye](https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA) | 4:15 |

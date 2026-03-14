@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,141 songs - 2 day 14 hr 42 min
+1,142 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Can't You See Me?](https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:21 | 2021-11-17 | 2022-07-14 |
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2024-04-19 | 2024-06-18 |
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2023-11-04 |  |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-13 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2023-11-04 | 2025-07-05 |
 | [Changer](https://open.spotify.com/track/5A3BZXpLvw399NrvWatRMJ) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Changer : Dear Eris](https://open.spotify.com/album/1tLwLZEdx1pVmhzzY0L6nf) | 3:23 | 2022-02-03 | 2022-07-28 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-11-04 | 2025-05-24 |
@@ -590,7 +591,7 @@
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-11-17 |  |
 | [LAST PIECE](https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:42 | 2021-11-17 | 2022-07-28 |
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-08 | 2023-08-25 |
-| [LATATA](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:22 | 2021-11-17 |  |
+| [LATATA](https://open.spotify.com/track/2ezKXygNO30pXyDQXkm6oD) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:22 | 2021-11-17 | 2026-03-14 |
 | [Law](https://open.spotify.com/track/1jlC6MEmlRbjMV182flmYZ) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:35 | 2021-11-17 | 2022-07-26 |
 | [Left & Right](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:21 | 2024-03-27 | 2024-04-19 |
 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 | 2021-11-17 | 2022-07-29 |

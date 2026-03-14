@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,756 songs - 3 day 20 hr 55 min
+1,757 songs - 3 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Falling In Love \(Mix Edit\) \- Christmas Mix](https://open.spotify.com/track/7v3ab6iDNqtuALmaiLoLDN) | [Dennis Kruissen](https://open.spotify.com/artist/41it3ogaq2BsdLlZkWTXdO), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Armada Music \- Christmas Hits, Mini Mix](https://open.spotify.com/album/5iqFcIQmP4nMEkvQFtUtwx) | 1:26 | 2025-12-19 | 2026-01-02 |
 | [Falling Into You](https://open.spotify.com/track/5EeTEhnshBoar7md6Udezu) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Paige Bea](https://open.spotify.com/artist/13OFf8e9FsAgMtdhivPhTA) | [Falling Into You](https://open.spotify.com/album/2XguYE2QXiyRiO6AM5MVf7) | 3:00 | 2025-09-19 |  |
 | [Falling On My Knees](https://open.spotify.com/track/6SlqKY5X84pHNcJ1GI45TV) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Falling On My Knees](https://open.spotify.com/album/2RWf7GhbXezzwwwPS8GkEC) | 2:51 | 2025-10-14 | 2025-10-17 |
+| [Falls](https://open.spotify.com/track/3yszaYOnNzKbYC5kVO1pdD) | [EBENEZER](https://open.spotify.com/artist/3yCWyIDYH1hI29Wi0wjsAs), [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m) | [Falls](https://open.spotify.com/album/0Rq5jIPHhDiaJVkihTS3Ba) | 3:22 | 2026-03-13 |  |
 | [Far Away](https://open.spotify.com/track/7ixHfExIwVwKu0JApyTvuR) | [Lyke](https://open.spotify.com/artist/3lc4xDLsQnWnjhntJfykpF) | [Far Away](https://open.spotify.com/album/2dwiEkPdL8mS1q9EqcX73A) | 3:41 | 2022-09-15 | 2022-11-04 |
 | [Fascination](https://open.spotify.com/track/6PBErHoYOd20q39VUoAWDf) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Fascination](https://open.spotify.com/album/5pREYnNylKjQuSwY1ba7go) | 2:40 | 2023-02-23 | 2023-05-13 |
 | [Fast Forward](https://open.spotify.com/track/25uAgRk85QKeHzcPV44rv8) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Fast Forward](https://open.spotify.com/album/4iRaMJapE3ykCxOL2WRQkb) | 3:33 | 2023-03-09 | 2023-07-14 |

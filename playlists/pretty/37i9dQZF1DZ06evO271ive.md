@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,626 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,639 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 14 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
 | 15 | [Blue Strips \(feat\. Sexyy Red\) \- Remix](https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Blue Strips \(Remix\) \(feat\. Sexyy Red\)](https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so) | 2:13 |
 | 16 | [U My Everything](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
-| 17 | [Baller \(with GloRilla, Sexyy Red & Monaleo\)](https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:24 |
-| 18 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
+| 17 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 |
+| 18 | [Baller \(with GloRilla, Sexyy Red & Monaleo\)](https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:24 |
 | 19 | [Embrace It \(feat\. Sexyy Red, Flo Milli, RJ Pasin\) \- Remix](https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Embrace It \(Remix\) \(feat\. Sexyy Red, Flo Milli, RJ Pasin\)](https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT) | 3:22 |
 | 20 | [DAMN SHORTY \- feat\. Sexyy Red](https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:06 |
 | 21 | [She's Back](https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 49 | [Hoochie Coochie](https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hoochie Coochie](https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz) | 2:27 |
 | 50 | [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 |
 
-Snapshot ID: `abCwgAAAAAAMoq6D0/Jx2YZI2ObNzP2I`
+Snapshot ID: `abICAAAAAABVIWkWM1/bl2HuIjS9Mztl`

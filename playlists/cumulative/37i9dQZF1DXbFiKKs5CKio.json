@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "C\u00ea T\u00e1 Bem",
+        "url": "https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "C\u00ea T\u00e1 Bem",
+      "url": "https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv"
+    },
+    {
+      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 215691,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/5dEzVhAhEImxZeTNxHK6GS"
@@ -3245,6 +3263,28 @@
     },
     {
       "album": {
+        "name": "rara e Brasileira",
+        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223676,
+      "name": "sinais",
+      "url": "https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd"
+    },
+    {
+      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -3730,7 +3770,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 245266,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/1UkGJzED0op1iGczcnHB3i"

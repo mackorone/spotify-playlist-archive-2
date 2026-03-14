@@ -5421,6 +5421,24 @@
     },
     {
       "album": {
+        "name": "Going Normal",
+        "url": "https://open.spotify.com/album/1dX8F7HD9V9p6YT3DIxiLP"
+      },
+      "artists": [
+        {
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "An Eater",
+      "url": "https://open.spotify.com/track/0ofbSMwGB6a63ydEIeaq4K"
+    },
+    {
+      "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
       },
@@ -7260,7 +7278,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -8804,7 +8822,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 238560,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/1gaxE1VJlnRacd2gtcdf1Z"
@@ -8844,6 +8862,24 @@
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
+    },
+    {
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
       "album": {
@@ -77045,6 +77081,24 @@
     },
     {
       "album": {
+        "name": "SRT FULL NWAR",
+        "url": "https://open.spotify.com/album/10S8OLvQhSmtF2tmk5Nr0g"
+      },
+      "artists": [
+        {
+          "name": "MINUISKI",
+          "url": "https://open.spotify.com/artist/1FfPeHlceaZLaDaN7SMxdZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187959,
+      "name": "SRT FULL NWAR",
+      "url": "https://open.spotify.com/track/3NaM8jq5zSHdAa0idhBAmA"
+    },
+    {
+      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -95164,7 +95218,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"

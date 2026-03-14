@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-797 songs - 1 day 22 hr 45 min
+798 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Dreams](https://open.spotify.com/track/2SbCeAa11fMv2YrgkSAqkf) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Dreams](https://open.spotify.com/album/1sTCDGQTUL5yLcFYxoS1Ud) | 3:42 | 2025-04-18 | 2026-03-07 |
 | [Dreams](https://open.spotify.com/track/5HlBht8cGtnsVRhNYnaNt5) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Avalanche](https://open.spotify.com/album/1UGJkfsqde4wVIEScLVBZe) | 3:42 | 2025-05-30 | 2025-06-28 |
 | [Dressed for the Weather](https://open.spotify.com/track/1T3OnKkjWl07lml6es5Gzz) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Thad Cockrell](https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM) | [Dressed for the Weather](https://open.spotify.com/album/7p3KQYXyBJL1Az7piFbgxz) | 2:47 | 2021-11-19 | 2022-05-20 |
+| [Drink The Water](https://open.spotify.com/track/4NqIyYNBSkv0VMnwC3Rl74) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Drink The Water \(from the SURFILMUSIC Soundtrack\)](https://open.spotify.com/album/24ZRYH7bU3IA8cyL8mjGQl) | 3:42 | 2026-03-13 |  |
 | [Drive Away With You](https://open.spotify.com/track/4gkS6VK2e0lwuDcSPv6nSb) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Drive Away With You](https://open.spotify.com/album/5kEovRq38GkPsRs2AFgz3G) | 4:18 | 2021-11-19 | 2022-07-16 |
 | [Driving Backwards \(feat\. Chance Emerson\)](https://open.spotify.com/track/3FlgAPxizf999xy87qzQ5n) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9), [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Driving Backwards \(feat\. Chance Emerson\)](https://open.spotify.com/album/10J2CosHduYAQJcpuWGhMq) | 2:18 | 2025-04-18 | 2026-03-07 |
 | [Drugs & Bad Habits](https://open.spotify.com/track/0xVH17EbVmgtuLPdWCQwZx) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 2:39 | 2024-06-28 | 2024-08-29 |
@@ -294,7 +295,7 @@
 | [Goodbye, Old Friend](https://open.spotify.com/track/7ICqrDwJVol0urvgt2GGGY) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:44 | 2025-05-16 |  |
 | [Gordon in the Willows](https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Gordon in the Willows](https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd) | 3:54 | 2025-02-28 | 2025-09-20 |
 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 | 2022-06-08 | 2024-05-18 |
-| [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 | 2025-05-02 |  |
+| [Grieving](https://open.spotify.com/track/284nns1osTQ4MWtZuCidtd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Grieving](https://open.spotify.com/album/4SuTiRXMQeSQG6VhlPI3at) | 3:16 | 2025-05-02 | 2026-03-14 |
 | [Half Immune](https://open.spotify.com/track/201aHKnxkSNe2mYC2Z4KYU) | [Ellie O'Neill](https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw) | [Half Immune](https://open.spotify.com/album/06DJ0AXtRznILSBuqr55Ym) | 3:29 | 2026-03-06 |  |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-11-19 | 2022-06-09 |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2021-11-19 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,936 songs - 4 day 19 hr 38 min
+1,939 songs - 4 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [All in your head](https://open.spotify.com/track/2nUBpjvuqLHOVOxcQxDu7d) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [The borderlands](https://open.spotify.com/album/4aR9k66ZREBcLwbu6hlt8d) | 3:48 | 2025-05-28 |  |
 | [All The Nations](https://open.spotify.com/track/3zNwqBlXYgAkPVC1CKrrI9) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [News From The World](https://open.spotify.com/album/0K2QmHIMelMxMVbLVeA0XQ) | 5:28 | 2025-04-25 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/1GBUtYkXgKZc0XXi2zpvho) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR) | 5:01 | 2024-03-04 |  |
+| [All Things Bright and Beautiful \(Royal Oak\)](https://open.spotify.com/track/40dM0ula2c15gwEdGJtCwm) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [All Things Bright and Beautiful \(Royal Oak\)](https://open.spotify.com/album/59SZkS83sfEHpMuVsGq1I4) | 2:20 | 2026-03-13 |  |
 | [All You Need](https://open.spotify.com/track/40dp3G8s6UDUZEpU91eQFj) | [Bri Toria](https://open.spotify.com/artist/2IFQhbtInhmThd1x2WDMOb) | [Eye Am Isis](https://open.spotify.com/album/0J1HQjgTZvZqKpDsUIYFya) | 1:45 | 2025-10-07 |  |
 | [Almighty Dub](https://open.spotify.com/track/7HLsetwqaowJBbkESkV0pU) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:38 | 2024-03-25 |  |
 | [Almighty Thunder](https://open.spotify.com/track/7FFhwQnE5tyRpO0xF7MpNg) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:40 | 2024-03-25 |  |
@@ -560,6 +561,7 @@
 | [Fibonacci Sequence](https://open.spotify.com/track/0PwBg5BqEGtVXcuaM9BdP7) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [The Mix Up Bonus Tracks](https://open.spotify.com/album/2a3nLwXuIKhmRQdoeTqrUZ) | 3:13 | 2026-02-07 |  |
 | [Fight For Your Rights](https://open.spotify.com/track/5siGfDa7QVNg7kFYQ0U9VD) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:18 | 2024-03-10 |  |
 | [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 | 2025-12-06 |  |
+| [Finding the Light](https://open.spotify.com/track/3NRF7WdmISMZDHqnQihJ1f) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Finding the Light](https://open.spotify.com/album/35ywCORGOYMeTxKVETMPMK) | 2:44 | 2026-03-13 |  |
 | [Fine Dub](https://open.spotify.com/track/3OC1ZBl2IyA6A2Vn4CD7VU) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:19 | 2024-03-25 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2024-03-04 |  |
 | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 | 2026-03-13 |  |
@@ -570,6 +572,7 @@
 | [First day of the month](https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 2:45 | 2025-10-21 |  |
 | [Fleeting Moments](https://open.spotify.com/track/054ywE1bujWhjkPfECvg6U) | [Javier](https://open.spotify.com/artist/3fEkFHLCGHSQ2YNM3dyz0P) | [Echoes of Tomorrow](https://open.spotify.com/album/00NEKdR6p91zs5Q5VHUTT9) | 4:14 | 2025-05-26 |  |
 | [Flexzolit](https://open.spotify.com/track/6XIAG7gM4CDFIP2fJywGwA) | [Gregory Shaggy](https://open.spotify.com/artist/4ln0VnkzzqUmTTwBK9Io1w), [Jojo Wavy](https://open.spotify.com/artist/4xq9B09qPeGipdrCRm7ZbQ) | [Flexzolit](https://open.spotify.com/album/2uwqZx5lkldkvzyIYGq6XC) | 2:25 | 2025-12-15 |  |
+| [Flor Seca](https://open.spotify.com/track/1AlcFrUihb0cXeXqFKx5X2) | [DiVerso Vocals](https://open.spotify.com/artist/20f38mn8JsKWtuGdbr9kge) | [Flor Seca](https://open.spotify.com/album/5mCbbcAWfjt2JiqVSytLNP) | 3:38 | 2026-03-14 |  |
 | [Flora i Fauna](https://open.spotify.com/track/44tU5Ttkroof1twlUEHnmZ) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Flora i Fauna](https://open.spotify.com/album/1uN30RsiOCF8Z96pyESgvn) | 4:16 | 2025-07-27 |  |
 | [Flute Dub](https://open.spotify.com/track/5mwF9U2u0DlfpzkwbcAOSS) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd), [Aktuch](https://open.spotify.com/artist/6CEwY0fTeRZdEdZSVn0utO) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:20 | 2024-03-10 |  |
 | [Fly Higher \(Deep Fried Dub Remix\)](https://open.spotify.com/track/7846E8mm4E8z5b11FsaAAH) | [100th Monkey](https://open.spotify.com/artist/6qllqLG3uYwxmCk3W5D8L3), [Deep Fried Dub](https://open.spotify.com/artist/6ZMosuCoP5uGcPubpW9kQX) | [Refried IV](https://open.spotify.com/album/0GVDjs5ny2WgvbyiJ1B0RR) | 5:00 | 2025-11-08 |  |

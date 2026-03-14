@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Maluma & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,392 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,741 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Tipica Argentina \(Version Cuarteto\)](https://open.spotify.com/track/1kbiwGreBGDH0EQvtl3m3f) | [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4), [Chofer](https://open.spotify.com/artist/4k7AQUr1040ycCu71wNmfL), [El Lobo](https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Tipica Argentina \(Version Cuarteto\)](https://open.spotify.com/album/4jNcX25yg0c9vW7uuwSnFn) | 2:25 |
 | 50 | [No Va A Cambiar](https://open.spotify.com/track/1Je7oWGdXA9ExvAhEQVetV) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [No Va A Cambiar](https://open.spotify.com/album/42EqyHVPeOTxIFwOfpDiEn) | 2:35 |
 
-Snapshot ID: `AAAAAMwhYiVTxkwq8yMlx+l78B/JOw/z`
+Snapshot ID: `AAAAAIa4Q0iNfDvoCej+a/dIFMsX92Nk`

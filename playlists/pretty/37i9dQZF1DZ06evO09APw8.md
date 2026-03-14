@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,111 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,156 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 33 | [PLW](https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:54 |
 | 34 | [Here We Go \(Uh Oh\) \[Remix\] \(feat\. Leon Thomas\)](https://open.spotify.com/track/2QDNxaKybJGJaZ0ZLoZbxf) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Why Not More? \(MORE!\)](https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M) | 3:36 |
 | 35 | [HEEL](https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:55 |
-| 36 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:45 |
+| 36 | [No One Told Us](https://open.spotify.com/track/34VOEgQNftYHw57IgFJn0g) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [No One Told Us](https://open.spotify.com/album/1IXuXUuyVAt80cGFhMWeKG) | 1:50 |
 | 37 | [Moments After](https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:22 |
-| 38 | [Guilty](https://open.spotify.com/track/5DNeFRR7NLBz1Pz0LE6IP3) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Conductor We Have a Problem, Pt\. 3](https://open.spotify.com/album/5SSe6FWQ6wnj7ktYdoXbXF) | 3:43 |
-| 39 | [Feel Alive](https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:42 |
-| 40 | [PARTY FAVORS \(feat\. Big Sean\)](https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:51 |
+| 38 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:45 |
+| 39 | [Guilty](https://open.spotify.com/track/5DNeFRR7NLBz1Pz0LE6IP3) | [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Conductor We Have a Problem, Pt\. 3](https://open.spotify.com/album/5SSe6FWQ6wnj7ktYdoXbXF) | 3:43 |
+| 40 | [Feel Alive](https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:42 |
 | 41 | [Sunken Place](https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 3:27 |
-| 42 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
-| 43 | [Trapped](https://open.spotify.com/track/2L0iLP1aJKeLlcLk4bZgbW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:05 |
-| 44 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
-| 45 | [PRIZE](https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:52 |
-| 46 | [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 |
+| 42 | [PARTY FAVORS \(feat\. Big Sean\)](https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:51 |
+| 43 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
+| 44 | [Trapped](https://open.spotify.com/track/2L0iLP1aJKeLlcLk4bZgbW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:05 |
+| 45 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
+| 46 | [PRIZE](https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:52 |
+| 47 | [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 |
 
-Snapshot ID: `abCwgAAAAACi7fqhEyoWzWfUVAdTMZWG`
+Snapshot ID: `abICAAAAAAC0KJO5BGvEXz2XmXhrc/zl`

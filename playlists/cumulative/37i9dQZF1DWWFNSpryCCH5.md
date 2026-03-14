@@ -4,7 +4,7 @@
 
 > puras canciones desenchufadas\. Cover: Maná
 
-112 songs - 8 hr 43 min
+113 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,13 +64,14 @@
 | [Linger](https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live 2010 \- Zenith Paris, 22.03.10](https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2) | 4:55 | 2021-02-10 |  |
 | [Linger \(Acoustic Version\)](https://open.spotify.com/track/1nxebACXgKGhpB2DPs3qP0) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:55 | 2021-02-10 | 2024-04-19 |
 | [Linger \- Acoustic Version](https://open.spotify.com/track/4oGuHZ966kmCmt3DRVxjXw) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/0iBRl2CMi7gbt17WfdVI2r) | 4:55 | 2021-02-10 | 2023-11-04 |
-| [Llueve Sobre la Ciudad \- MTV Unplugged](https://open.spotify.com/track/11wdpfVtZZLimMAnHM5pTj) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 6:06 | 2026-02-12 |  |
+| [Llueve Sobre la Ciudad \- MTV Unplugged](https://open.spotify.com/track/11wdpfVtZZLimMAnHM5pTj) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 6:06 | 2026-02-12 | 2026-03-14 |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-02-10 |  |
 | [Los Malaventurados No Lloran \- MTV Unplugged](https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Panda MTV Unplugged \(Live\)](https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b) | 3:58 | 2021-02-10 |  |
 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 | 2021-02-10 |  |
 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 | 2021-02-10 | 2026-02-13 |
 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 | 2021-02-10 |  |
 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 | 2021-02-10 |  |
+| [Mentira \- Unplugged](https://open.spotify.com/track/0ZN94oWGDeX9GCLoYQvcOO) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Mentira \(Unplugged\) \- Video Oficial](https://open.spotify.com/album/0F09OsVhJbYnrK5AaF6O8D) | 4:48 | 2026-02-12 |  |
 | [Mentiras \(feat\. Aleks Syntek\) \- Versión Acústica](https://open.spotify.com/track/2SDeVqQtmAaTcKZyzzL5rK) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi) | [Los Amigos Invisibles, Acústico](https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG) | 4:23 | 2021-02-10 | 2022-07-28 |
 | [Mi Agüita Amarilla \- Live](https://open.spotify.com/track/4dDIUyuc2GOyQNtHH8NRjU) | [Pablo Carbonell](https://open.spotify.com/artist/5uQskVVNFoYJi9dJNQ4qgq) | [Rock n' Roll Alimaña \(Live\)](https://open.spotify.com/album/2ISJLMKCJHFIlwZXBdXz7n) | 4:36 | 2021-02-10 | 2022-07-28 |
 | [Misery \- Acoustic Version](https://open.spotify.com/track/7ieV1TBSMyf5sFiPh9X2ai) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Hands All Over \(Revised International Deluxe\)](https://open.spotify.com/album/3gjJTUMI9q6ReSe0z7gyjp) | 3:46 | 2021-02-10 | 2026-02-13 |

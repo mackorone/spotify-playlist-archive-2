@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 21111,
+  "num_followers": 21156,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACi7fqhEyoWzWfUVAdTMZWG",
+  "snapshot_id": "abICAAAAAAC0KJO5BGvEXz2XmXhrc/zl",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MALIK",
-        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+        "name": "No One Told Us",
+        "url": "https://open.spotify.com/album/1IXuXUuyVAt80cGFhMWeKG"
       },
       "artists": [
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 225613,
-      "name": "Twisting (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0"
+      "duration_ms": 110246,
+      "name": "No One Told Us",
+      "url": "https://open.spotify.com/track/34VOEgQNftYHw57IgFJn0g"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
       "duration_ms": 202971,
       "name": "Moments After",
       "url": "https://open.spotify.com/track/5DrPVWMUapjGznorkXTi24"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Twisting (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0"
     },
     {
       "added_at": null,
@@ -715,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 207572,
+      "name": "Sunken Place",
+      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -731,22 +767,6 @@
       "duration_ms": 171814,
       "name": "PARTY FAVORS (feat. Big Sean)",
       "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 207572,
-      "name": "Sunken Place",
-      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
     },
     {
       "added_at": null,

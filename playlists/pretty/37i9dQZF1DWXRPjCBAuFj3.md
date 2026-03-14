@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Artie 5ive in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,979 likes - 106 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,997 likes - 106 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

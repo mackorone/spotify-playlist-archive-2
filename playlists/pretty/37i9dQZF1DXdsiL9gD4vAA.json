@@ -1,6 +1,6 @@
 {
   "description": "Ghazals for the rapture and passion of intense love and longing. Cover - Jagjit Singh",
-  "num_followers": 138996,
+  "num_followers": 139023,
   "original_name": "Golden Ghazals",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-03-09 08:25:28",
       "album": {
+        "name": "Ghazal Lounge",
+        "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Abhijit Pohankar",
+          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
+        }
+      ],
+      "duration_ms": 400720,
+      "name": "Aaj Jaane Ki Zid Na Karo",
+      "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
+    },
+    {
+      "added_at": "2026-03-09 08:25:28",
+      "album": {
         "name": "Ab Vo Baat Kahaan",
         "url": "https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 333000,
       "name": "Ab Vo Baat Kahaan",
       "url": "https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg"
-    },
-    {
-      "added_at": "2026-03-09 08:25:28",
-      "album": {
-        "name": "Ghazal Lounge",
-        "url": "https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW"
-      },
-      "artists": [
-        {
-          "name": "Roop Kumar Rathod",
-          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
-        },
-        {
-          "name": "Abhijit Pohankar",
-          "url": "https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY"
-        }
-      ],
-      "duration_ms": 400720,
-      "name": "Aaj Jaane Ki Zid Na Karo",
-      "url": "https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E"
     },
     {
       "added_at": "2026-03-09 08:25:28",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-03-09 08:25:28",
       "album": {
-        "name": "Naazuq",
-        "url": "https://open.spotify.com/album/15wbfopg3HtIz4xRq42T56"
-      },
-      "artists": [
-        {
-          "name": "Jagjit Singh",
-          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
-        },
-        {
-          "name": "Ajjay Gosswami",
-          "url": "https://open.spotify.com/artist/1KZgM0Js1oDUJN0mYLtrPT"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Naazuq",
-      "url": "https://open.spotify.com/track/0PSDrXAeolJHyDFMXEBHPu"
-    },
-    {
-      "added_at": "2026-03-09 08:25:28",
-      "album": {
         "name": "The Great Ghazals",
         "url": "https://open.spotify.com/album/09OSMi2qL8eeEwvD6czHdN"
       },
@@ -947,22 +927,22 @@
     {
       "added_at": "2026-03-09 08:25:28",
       "album": {
-        "name": "Aaghaz-E-Ishq",
-        "url": "https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI"
+        "name": "Naazuq",
+        "url": "https://open.spotify.com/album/15wbfopg3HtIz4xRq42T56"
       },
       "artists": [
         {
-          "name": "Satyajeet Jena",
-          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
+          "name": "Jagjit Singh",
+          "url": "https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU"
         },
         {
-          "name": "Mrityunjay Pandey",
-          "url": "https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps"
+          "name": "Ajjay Gosswami",
+          "url": "https://open.spotify.com/artist/1KZgM0Js1oDUJN0mYLtrPT"
         }
       ],
-      "duration_ms": 261595,
-      "name": "Aaghaz-E-Ishq",
-      "url": "https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo"
+      "duration_ms": 290666,
+      "name": "Naazuq",
+      "url": "https://open.spotify.com/track/0PSDrXAeolJHyDFMXEBHPu"
     },
     {
       "added_at": "2026-03-09 08:25:28",
@@ -995,6 +975,26 @@
       "duration_ms": 276136,
       "name": "Ikhtiyar",
       "url": "https://open.spotify.com/track/5HxrUkU47ymZMMQBHVNZr4"
+    },
+    {
+      "added_at": "2026-03-09 08:25:28",
+      "album": {
+        "name": "Aaghaz-E-Ishq",
+        "url": "https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI"
+      },
+      "artists": [
+        {
+          "name": "Satyajeet Jena",
+          "url": "https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7"
+        },
+        {
+          "name": "Mrityunjay Pandey",
+          "url": "https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps"
+        }
+      ],
+      "duration_ms": 261595,
+      "name": "Aaghaz-E-Ishq",
+      "url": "https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo"
     },
     {
       "added_at": "2026-03-09 08:25:28",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-03-09 08:25:28",
       "album": {
-        "name": "Muddat Hui Hai",
-        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
-      },
-      "artists": [
-        {
-          "name": "Avanti Patel",
-          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Muddat Hui Hai",
-      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
-    },
-    {
-      "added_at": "2026-03-09 08:25:28",
-      "album": {
         "name": "Dil Pareshan Karta Hai",
         "url": "https://open.spotify.com/album/0QShTKNJ3BzzNkny1w2qu3"
       },
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2026-03-09 08:25:28",
       "album": {
-        "name": "Ghazal Ho Gayi",
-        "url": "https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i"
+        "name": "Muddat Hui Hai",
+        "url": "https://open.spotify.com/album/1HehuhKkuMgjOU99zkE0Cd"
       },
       "artists": [
         {
-          "name": "Shaan",
-          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
-        },
-        {
-          "name": "Haider Amaan Haider",
-          "url": "https://open.spotify.com/artist/2gtLKmLMW4N7cZXk6FM70e"
+          "name": "Avanti Patel",
+          "url": "https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Phir Hui Shaam",
-      "url": "https://open.spotify.com/track/21clDdrxC1f0PKvOh1A5Zi"
+      "duration_ms": 416640,
+      "name": "Muddat Hui Hai",
+      "url": "https://open.spotify.com/track/4mQPyTQhx5EyPTbV2xOwvi"
     },
     {
       "added_at": "2026-03-09 08:25:28",
@@ -1127,6 +1107,26 @@
       "duration_ms": 343360,
       "name": "Zikr Hamara Hai Magar (From - Izhaar-E-Ishq)",
       "url": "https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA"
+    },
+    {
+      "added_at": "2026-03-09 08:25:28",
+      "album": {
+        "name": "Ghazal Ho Gayi",
+        "url": "https://open.spotify.com/album/6XAgeFUrZViCXtVKfw4o2i"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Haider Amaan Haider",
+          "url": "https://open.spotify.com/artist/2gtLKmLMW4N7cZXk6FM70e"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Phir Hui Shaam",
+      "url": "https://open.spotify.com/track/21clDdrxC1f0PKvOh1A5Zi"
     },
     {
       "added_at": "2026-03-09 08:25:28",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-03-09 08:25:28",
       "album": {
+        "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
+        "url": "https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ"
+      },
+      "artists": [
+        {
+          "name": "Meenal Jain",
+          "url": "https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6"
+        }
+      ],
+      "duration_ms": 292028,
+      "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
+      "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"
+    },
+    {
+      "added_at": "2026-03-09 08:25:28",
+      "album": {
         "name": "Kya Main Ik Harf",
         "url": "https://open.spotify.com/album/2Xg8iGHNFYZ19s7KIRFsNK"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 319039,
       "name": "Nazron Se Chhua Tujhko",
       "url": "https://open.spotify.com/track/1kSkRX3oCgLhKSECJt7xD8"
-    },
-    {
-      "added_at": "2026-03-09 08:25:28",
-      "album": {
-        "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
-        "url": "https://open.spotify.com/album/3xTZsfjAsnNnELuRQYYFFZ"
-      },
-      "artists": [
-        {
-          "name": "Meenal Jain",
-          "url": "https://open.spotify.com/artist/0DoAmjaArtujfigIshqsj6"
-        }
-      ],
-      "duration_ms": 292028,
-      "name": "Pahle Dil Ko (From - Izhaar-E-Ishq)",
-      "url": "https://open.spotify.com/track/3h6BgkcUhYK28dBs6Ta7iw"
     },
     {
       "added_at": "2026-03-09 08:25:28",

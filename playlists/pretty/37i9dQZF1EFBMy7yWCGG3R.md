@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,615 likes - 274 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,616 likes - 274 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 173 | [Where Would I Be?](https://open.spotify.com/track/0gEMqVzeenTtGGC2jbFDVp) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:18 |
 | 174 | [Pink](https://open.spotify.com/track/4mmpBLrld3UTeSNv8cMuz9) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:48 |
 | 175 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:08 |
-| 176 | [Love on Repeat](https://open.spotify.com/track/3NjQoWHerfe0YWodcZx2Au) | [Dave Ramone](https://open.spotify.com/artist/3yJEDITP6xPDElQZuJYnDi), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Love on Repeat \[Remixes\]](https://open.spotify.com/album/2SLw4XgbG7MCNm1ao6Twml) | 3:16 |
-| 177 | [On Mine \(feat\. Noah Cyrus\)](https://open.spotify.com/track/0tSwKGbmvKrL0C7ckwIA9B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:36 |
+| 176 | [On Mine \(feat\. Noah Cyrus\)](https://open.spotify.com/track/0tSwKGbmvKrL0C7ckwIA9B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:36 |
+| 177 | [Love on Repeat](https://open.spotify.com/track/3NjQoWHerfe0YWodcZx2Au) | [Dave Ramone](https://open.spotify.com/artist/3yJEDITP6xPDElQZuJYnDi), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Love on Repeat \[Remixes\]](https://open.spotify.com/album/2SLw4XgbG7MCNm1ao6Twml) | 3:16 |
 | 178 | [Better](https://open.spotify.com/track/26AyBuEQkAAaQYnDrzneF2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:09 |
 | 179 | [Fucked Up, Kinda](https://open.spotify.com/track/3i8JuT3Ffr45hfi239ypOQ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 2:33 |
 | 180 | [The Kind Of Lover I Am](https://open.spotify.com/track/7jFnNIYbnBeC229ESa8ck0) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:09 |
@@ -251,8 +251,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 241 | [Prior Warning](https://open.spotify.com/track/0nfcZs5NRpJAUFCn5sraHL) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:30 |
 | 242 | [Just For You](https://open.spotify.com/track/275DvW2FJITkWUdTHeuAup) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:06 |
 | 243 | [Like That \(feat\. Kany García\) \[Spanglish Version\]](https://open.spotify.com/track/3Z3Ed4IDwDT6R5WQmJhKvo) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Like That \(feat\. Kany García\) \[Spanglish Version\]](https://open.spotify.com/album/5BPlOAPz44uVZl1fnEA8S9) | 2:53 |
-| 244 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 |
-| 245 | [Raft In The Sea](https://open.spotify.com/track/4gMwwEa1krfx8Y2Y2IxrDR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:35 |
+| 244 | [Raft In The Sea](https://open.spotify.com/track/4gMwwEa1krfx8Y2Y2IxrDR) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:35 |
+| 245 | [Waterslide](https://open.spotify.com/track/4SeShDomhZSFIfvGdHBXHq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:05 |
 | 246 | [Bad For You](https://open.spotify.com/track/1TrISIcOILgHb48a4VOb89) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [The Running Wild EP](https://open.spotify.com/album/4TK7X7cCvg1OQmP3XNjdlZ) | 3:16 |
 | 247 | [Rocket Ship](https://open.spotify.com/track/7Kk83KSdI044UbqrtYmQII) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:08 |
 | 248 | [Stay On Me](https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:07 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 273 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 274 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcL91AAAAACbviqmV3Ph3yBGJk+dQpXH`
+Snapshot ID: `AcMDOAAAAAAUyMM2Z04pD6SXFcEot2rC`

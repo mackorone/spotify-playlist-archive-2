@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,541 likes - 200 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,602 likes - 200 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 199 | [Isle Veil](https://open.spotify.com/track/0u6BW4qThu4KRx1WXInMNq) | [Solmera](https://open.spotify.com/artist/29qrdBH2YXriHj5oUgnmPx) | [Isle Veil](https://open.spotify.com/album/7iWeKFe7b8GUvPHY9vcVBU) | 2:16 |
 | 200 | [nocturnal](https://open.spotify.com/track/6uVfF9P1GKDWEwICDrYUuG) | [Citrine Bloom](https://open.spotify.com/artist/3ndEiuzyvZP61borqvcijj) | [nocturnal](https://open.spotify.com/album/2abHYXlcwHd4O4b0qI6ATm) | 2:11 |
 
-Snapshot ID: `AAAAAGUGqRpXuRbt0rVTnZInFZnCzslD`
+Snapshot ID: `AAAAACqjZwRVV/adT67VSCp8sFc+FuK6`

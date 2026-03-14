@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Alex Amen
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,616 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,615 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 99 | [Room On The Porch](https://open.spotify.com/track/1Ii8mfdBMWz0F8gqFRTleG) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Junkyard Dog](https://open.spotify.com/album/0WVkUtWaysC9eKuRWGZ8pM) | 4:05 |
 | 100 | [I'm in Love](https://open.spotify.com/track/5VdQP3CLYQrTOb9YZipDqC) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Planting by the Signs](https://open.spotify.com/album/38zMhd9RDzHVfklw3BKM7t) | 3:42 |
 
-Snapshot ID: `AAAAAPd0JFUwesni5skgOiC7MO0WVopV`
+Snapshot ID: `AAAAALvHVTrEJq6m2lA3dxFHCf3sAquw`

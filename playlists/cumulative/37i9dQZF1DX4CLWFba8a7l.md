@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: DEVAURA
 
-577 songs - 1 day 8 hr 3 min
+577 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |
 | [Jaded](https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Jaded](https://open.spotify.com/album/2VlOUIDEK7G2hhggMVpUr6) | 2:47 | 2025-04-17 | 2025-04-25 |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2025-02-19 |
+| [Jokes Aside](https://open.spotify.com/track/2XuRpPtcSZOfOy2bXQccRY) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [The Terrys \(For The People\)](https://open.spotify.com/album/02HPYY8R9lwfIyZobiUFI8) | 3:15 | 2026-03-12 |  |
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-24 |  |
 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 | 2025-04-08 | 2025-09-05 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-25 | 2025-04-25 |
@@ -371,7 +372,7 @@
 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-15 | 2024-11-21 |
 | [Outdone](https://open.spotify.com/track/24CtTaRliBIACacaUxHIwO) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Outdone](https://open.spotify.com/album/7cAXOEbTaUQTwTDoKk1ACY) | 3:35 | 2026-01-15 | 2026-01-23 |
 | [Over You](https://open.spotify.com/track/036QOmnlr52hgeH1WmQ5OB) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Over You](https://open.spotify.com/album/2hhs7vyNgPFe0J8FI7HcJk) | 4:44 | 2026-01-22 |  |
-| [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 | 2026-02-05 |  |
+| [Over You](https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u) | [Over You](https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y) | 4:44 | 2026-02-05 | 2026-03-14 |
 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 | 2025-12-04 |  |
 | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/track/0psw6oHJ5Y9eW04Hjp7PsM) | [CHISEKO](https://open.spotify.com/artist/5Z7R9YTOZFv7zC9Ns1gPMS), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Oxytocin \(feat\. Bunga\)](https://open.spotify.com/album/7lVqRATuTl5kcK7VDHHnbI) | 2:55 | 2025-05-29 | 2025-06-06 |
 | [Padam Padam](https://open.spotify.com/track/3iKuIfvoU50eww6EVzNqHo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5) | 2:46 | 2024-05-31 | 2025-01-24 |
@@ -474,7 +475,7 @@
 | [summer in december](https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [wraith](https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC) | 4:05 | 2025-05-01 |  |
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-07-31 | 2025-11-16 |
 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 | 2026-02-05 | 2026-02-13 |
-| [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 | 2025-05-08 | 2025-10-11 |
+| [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 | 2025-05-08 |  |
 | [Sunset Psalm](https://open.spotify.com/track/5wnKqpNO2h39M44TMQk3cC) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Sunset Psalm](https://open.spotify.com/album/6kB1iLsUqM30kw5d8Fgg31) | 4:09 | 2025-05-29 | 2025-06-06 |
 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-06-27 | 2025-01-31 |
 | [Swarm](https://open.spotify.com/track/1UcsKMDTZksX9AeVIQVL7j) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Swarm](https://open.spotify.com/album/0oo0gUri4GeCoRm4YIHRko) | 2:42 | 2024-05-31 | 2024-07-14 |
@@ -529,7 +530,6 @@
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2024-05-31 | 2025-04-25 |
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
-| [Track 6](https://open.spotify.com/track/2XuRpPtcSZOfOy2bXQccRY) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [The Terrys \(For The People\)](https://open.spotify.com/album/02HPYY8R9lwfIyZobiUFI8) | 0:00 | 2026-03-12 |  |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |

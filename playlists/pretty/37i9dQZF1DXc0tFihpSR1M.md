@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,408 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,416 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 6 | [Weight of light](https://open.spotify.com/track/1dgBTuMRptCw691pKbNNKp) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Weight of light](https://open.spotify.com/album/0OG6EaHBRdtM0GKueulBiK) | 3:16 |
 | 7 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 8 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
-| 9 | [Track 1](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 0:00 |
+| 9 | [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 |
 | 10 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 11 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 12 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 66 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |
 | 67 | [Lommeringe \(feat\. Emma Steinbakken\)](https://open.spotify.com/track/3Uu2LAOqiEG3ydnTYT4Y6l) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Lommeringe \(feat\. Emma Steinbakken\)](https://open.spotify.com/album/0BPKNoGYFszX7D6whMtZMO) | 2:53 |
 | 68 | [Love Can Grow](https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Love Can Grow](https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk) | 3:13 |
-| 69 | [Maskulin](https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Maskulin](https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX) | 3:03 |
-| 70 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 |
+| 69 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 |
+| 70 | [Maskulin](https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Maskulin](https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX) | 3:03 |
 
 Snapshot ID: `AAAAAG5A1jvcfcUqjbOYwdyXwsNcSpPF`

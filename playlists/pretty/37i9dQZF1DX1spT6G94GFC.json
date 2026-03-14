@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4081358,
+  "num_followers": 4081526,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
+      "duration_ms": 222437,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
       },
       "artists": [
         {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 222437,
-      "name": "Rock the Casbah - Remastered",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Don't Say No (Remastered 2010)",
-        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
-      },
-      "artists": [
-        {
-          "name": "Billy Squier",
-          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "The Stroke - Remastered 2010",
-      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 180517,
       "name": "Need You Tonight",
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Don't Say No (Remastered 2010)",
+        "url": "https://open.spotify.com/album/6TwlLNU5Zd9qGuNgSLeWPt"
+      },
+      "artists": [
+        {
+          "name": "Billy Squier",
+          "url": "https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "The Stroke - Remastered 2010",
+      "url": "https://open.spotify.com/track/52KvuGmgcgRdrLMXOtda0E"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black (Remastered)",
-      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 336613,
       "name": "Where The Streets Have No Name - Remastered",
       "url": "https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2024-09-13 16:58:23",

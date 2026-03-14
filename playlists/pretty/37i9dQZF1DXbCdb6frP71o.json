@@ -1,167 +1,15 @@
 {
-  "description": "Devotional tracks for an immersive Ramadan. Cover: Atif Aslam",
-  "num_followers": 16939,
+  "description": "Devotional tracks for an immersive Ramadan. Cover: Ali Zafar",
+  "num_followers": 16964,
   "original_name": "Hamd-o-Naat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4pZZPHptf3RtMWiNovabkZ1+Uw",
+  "snapshot_id": "AAAAAEwKNfhy8yHqmW7GJ5jCQIWAt8Xs",
   "tracks": [
     {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Asma-ul-Husna",
-        "url": "https://open.spotify.com/album/3uyO1smhOfekbM8fhQDzfz"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 215904,
-      "name": "Asma-ul-Husna",
-      "url": "https://open.spotify.com/track/0e1w3jIoTW7flmZdT2eaXD"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Ya Nabi Salam Alaika (S.A.W.W)",
-        "url": "https://open.spotify.com/album/5CYRRzUFhgCRMl0QatmEZ6"
-      },
-      "artists": [
-        {
-          "name": "Boss Menn",
-          "url": "https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "Ya Nabi Salam Alaika (S.A.W.W)",
-      "url": "https://open.spotify.com/track/3cca0FszjUAkg6mvISlqY6"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Qaseeda Burda Shareef",
-        "url": "https://open.spotify.com/album/1Axp9hHHfzK3oWRWuteiYf"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 280588,
-      "name": "Qaseeda Burda Shareef",
-      "url": "https://open.spotify.com/track/6wQTskURp6UjXLCTKgGPXR"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Kya Haseen Samaa Hoga (1964 - 2016) [Islamic Naats]",
-        "url": "https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4"
-      },
-      "artists": [
-        {
-          "name": "Junaid Jamshed",
-          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
-        }
-      ],
-      "duration_ms": 295818,
-      "name": "Illahi Teri Chaukhat Par",
-      "url": "https://open.spotify.com/track/4nGcmvrlNuw4jLeC9Kv4wh"
-    },
-    {
-      "added_at": "2026-03-05 05:23:08",
-      "album": {
-        "name": "Noor",
-        "url": "https://open.spotify.com/album/0qnWTjT4Qkz5zco7wdmsz7"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        },
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 399898,
-      "name": "Noor",
-      "url": "https://open.spotify.com/track/6exxrgkGiWnUmJMODhqxUj"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Rahmatun Lil'Alameen",
-        "url": "https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K"
-      },
-      "artists": [
-        {
-          "name": "Maher Zain",
-          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Rahmatun Lil'Alameen",
-      "url": "https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Hamada Helal Collection",
-        "url": "https://open.spotify.com/album/3X7CyGVcbSUGO0yN5aB0sL"
-      },
-      "artists": [
-        {
-          "name": "Hamada Helal",
-          "url": "https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z"
-        }
-      ],
-      "duration_ms": 271728,
-      "name": "Mohamed Nabeina",
-      "url": "https://open.spotify.com/track/5sK6ASFSHrXAQdHfsMID13"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Mustafa Jaan-E-Rehmat",
-        "url": "https://open.spotify.com/album/3srtuCmeKcGj2NunqYMiY6"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 307636,
-      "name": "Mustafa Jaan-E-Rehmat",
-      "url": "https://open.spotify.com/track/1QSZGKtQ35ZIpU7cPseaa9"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Allah Hoo",
-        "url": "https://open.spotify.com/album/3e0NZcwd5FmCc4FP0leyq8"
-      },
-      "artists": [
-        {
-          "name": "Yashal Shahid",
-          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
-        },
-        {
-          "name": "Abdullah Siddiqui",
-          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
-        }
-      ],
-      "duration_ms": 242891,
-      "name": "Allah Hoo",
-      "url": "https://open.spotify.com/track/6CyGDHyNNtd66s9BSXJk2h"
-    },
-    {
-      "added_at": "2026-03-05 07:30:03",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Sohna Nabi (PBUH)",
         "url": "https://open.spotify.com/album/732cuGNUAZRabJNxL5UQQt"
@@ -177,7 +25,23 @@
       "url": "https://open.spotify.com/track/0Nh72BqVEqfIcJNxIBzNac"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Mustafa Jaan-E-Rehmat",
+        "url": "https://open.spotify.com/album/3srtuCmeKcGj2NunqYMiY6"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 307636,
+      "name": "Mustafa Jaan-E-Rehmat",
+      "url": "https://open.spotify.com/track/1QSZGKtQ35ZIpU7cPseaa9"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Maula Ya Salli (Voice Only)",
         "url": "https://open.spotify.com/album/5Nzm2k9l2hw6mcDEdCT9Hr"
@@ -193,47 +57,7 @@
       "url": "https://open.spotify.com/track/7gWSdQVxdJvCx0oZdJk0CN"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "My Ummah",
-        "url": "https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz"
-      },
-      "artists": [
-        {
-          "name": "Sami Yusuf",
-          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
-        }
-      ],
-      "duration_ms": 258413,
-      "name": "Hasbi Rabbi",
-      "url": "https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh"
-    },
-    {
-      "added_at": "2026-03-05 07:30:03",
-      "album": {
-        "name": "Qaseeda Burda Shareef",
-        "url": "https://open.spotify.com/album/3MecTNycRIaPKRItlpGNER"
-      },
-      "artists": [
-        {
-          "name": "Fariha Pervez",
-          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
-        },
-        {
-          "name": "Humaira Arshad",
-          "url": "https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh"
-        },
-        {
-          "name": "Alhaj Muhammad Afzal Noshahi",
-          "url": "https://open.spotify.com/artist/10iv6CBPUxA12woIYzv7jF"
-        }
-      ],
-      "duration_ms": 357761,
-      "name": "Qaseeda Burda Shareef",
-      "url": "https://open.spotify.com/track/5SF9JwhXwcFpcEUPVUUNwI"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Kardo Karam",
         "url": "https://open.spotify.com/album/0EquNfzNoWFua3v1fIy7od"
@@ -253,42 +77,42 @@
       "url": "https://open.spotify.com/track/5MznqLWNL6gkiC7Uql7FMc"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Kalam E Iqbal",
-        "url": "https://open.spotify.com/album/2BRaEghBFdq71LgoZcrMID"
+        "name": "My Ummah",
+        "url": "https://open.spotify.com/album/3mInNCcr0tAvc6eFSTSUcz"
       },
       "artists": [
         {
-          "name": "MASUMA ANWAR",
-          "url": "https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H"
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
         }
       ],
-      "duration_ms": 322925,
-      "name": "Kalam E Iqbal",
-      "url": "https://open.spotify.com/track/4Gn7BIBmscp2wtIapsUg2I"
+      "duration_ms": 258413,
+      "name": "Hasbi Rabbi",
+      "url": "https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Salawat",
-        "url": "https://open.spotify.com/album/1pex4GnIaNIwABWsoZ5BAp"
+        "name": "Hamada Helal Collection",
+        "url": "https://open.spotify.com/album/3X7CyGVcbSUGO0yN5aB0sL"
       },
       "artists": [
         {
-          "name": "Mesut Kurtis",
-          "url": "https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf"
+          "name": "Hamada Helal",
+          "url": "https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z"
         }
       ],
-      "duration_ms": 285600,
-      "name": "Burdah",
-      "url": "https://open.spotify.com/track/7fFCJWEAF1CzAtnRDg64b5"
+      "duration_ms": 271728,
+      "name": "Mohamed Nabeina",
+      "url": "https://open.spotify.com/track/5sK6ASFSHrXAQdHfsMID13"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Thank You Allah (Turkish Version)",
-        "url": "https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne"
+        "name": "Rahmatun Lil'Alameen",
+        "url": "https://open.spotify.com/album/2SqCf5y1QVixgel87vaM2K"
       },
       "artists": [
         {
@@ -296,103 +120,15 @@
           "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
         }
       ],
-      "duration_ms": 296946,
-      "name": "Ya Nabi Salam Alayka",
-      "url": "https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI"
+      "duration_ms": 230720,
+      "name": "Rahmatun Lil'Alameen",
+      "url": "https://open.spotify.com/track/4Ifu8HPmQGUnJwwaXcG2Mj"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Coke Studio: Season 9",
-        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
-      },
-      "artists": [
-        {
-          "name": "Shiraz Uppal",
-          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
-        },
-        {
-          "name": "Rafaqat Ali Khan",
-          "url": "https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz"
-        }
-      ],
-      "duration_ms": 522500,
-      "name": "Tu Kuja Man Kuja",
-      "url": "https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/6spbiWiVqIDaCEWr6peEkZ"
-      },
-      "artists": [
-        {
-          "name": "Siedd",
-          "url": "https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14"
-        }
-      ],
-      "duration_ms": 138953,
-      "name": "Allah Humma - Outro",
-      "url": "https://open.spotify.com/track/0Vh5JXppLDvHwwwBSDvWGM"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Balaghal-Ula Bi-Kamaalihi",
-        "url": "https://open.spotify.com/album/6Gfgfm8Ubbhmic7Bkhl5oQ"
-      },
-      "artists": [
-        {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
-        }
-      ],
-      "duration_ms": 524000,
-      "name": "Balaghal-Ula Bi-Kamaalihi",
-      "url": "https://open.spotify.com/track/6TuHcNdYaKoV3bnKtJCTnq"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Aaqa - Coke Studio Season 9",
-        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
-      },
-      "artists": [
-        {
-          "name": "Abida Parveen",
-          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
-        },
-        {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
-        }
-      ],
-      "duration_ms": 507000,
-      "name": "Aaqa - Coke Studio Season 9",
-      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Faslon Ko Takaluf",
-        "url": "https://open.spotify.com/album/27YQHZ4KOCOeUI0ftfsjoj"
-      },
-      "artists": [
-        {
-          "name": "Shuja Haider",
-          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
-        }
-      ],
-      "duration_ms": 321876,
-      "name": "Faslon Ko Takaluf",
-      "url": "https://open.spotify.com/track/0c5XZemmzLDl9xlq9qlpni"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Coke Studio: Season 8",
-        "url": "https://open.spotify.com/album/0FUY81MasEucB0P4u3vtge"
+        "name": "Asma-ul-Husna",
+        "url": "https://open.spotify.com/album/3uyO1smhOfekbM8fhQDzfz"
       },
       "artists": [
         {
@@ -400,12 +136,12 @@
           "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         }
       ],
-      "duration_ms": 616509,
-      "name": "Tajdar-E-Haram - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/3BIpgJZyNEiSwcZknQxwrr"
+      "duration_ms": 215904,
+      "name": "Asma-ul-Husna",
+      "url": "https://open.spotify.com/track/0e1w3jIoTW7flmZdT2eaXD"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Lamyati Nazeero Kafi Nazarin",
         "url": "https://open.spotify.com/album/5yh3CIbaSO1hWyGRtI7auw"
@@ -437,23 +173,343 @@
       "url": "https://open.spotify.com/track/4Ro9g1K81Xn2JzbvTJCxLR"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Hamd",
-        "url": "https://open.spotify.com/album/586zkrZs8wYYpxaivUdgkx"
+        "name": "Sallu Alaihay Wa Aalehi",
+        "url": "https://open.spotify.com/album/7amn6SFZNp10fQ3p5On0fO"
       },
       "artists": [
         {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+          "name": "Shiraz Uppal",
+          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
         }
       ],
-      "duration_ms": 424977,
-      "name": "Allah Hoo Allah Hoo",
-      "url": "https://open.spotify.com/track/2wHHYI9qHgFka2ixZeqHRA"
+      "duration_ms": 110122,
+      "name": "Sallu Alaihay Wa Aalehi",
+      "url": "https://open.spotify.com/track/7BiWdJylJfQRi4m71wJzHr"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Salawat",
+        "url": "https://open.spotify.com/album/1pex4GnIaNIwABWsoZ5BAp"
+      },
+      "artists": [
+        {
+          "name": "Mesut Kurtis",
+          "url": "https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Burdah",
+      "url": "https://open.spotify.com/track/7fFCJWEAF1CzAtnRDg64b5"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Noor-e-Khuda",
+        "url": "https://open.spotify.com/album/2ome472b38Suj5ez7DDTyM"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 262713,
+      "name": "Noor-e-Khuda",
+      "url": "https://open.spotify.com/track/4G6gLPP39c7jub1aCijvz4"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Qaseeda Burda Shareef",
+        "url": "https://open.spotify.com/album/1Axp9hHHfzK3oWRWuteiYf"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 280588,
+      "name": "Qaseeda Burda Shareef",
+      "url": "https://open.spotify.com/track/6wQTskURp6UjXLCTKgGPXR"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/0FUY81MasEucB0P4u3vtge"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3BIpgJZyNEiSwcZknQxwrr"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Kya Haseen Samaa Hoga (1964 - 2016) [Islamic Naats]",
+        "url": "https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4"
+      },
+      "artists": [
+        {
+          "name": "Junaid Jamshed",
+          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
+        }
+      ],
+      "duration_ms": 295818,
+      "name": "Illahi Teri Chaukhat Par",
+      "url": "https://open.spotify.com/track/4nGcmvrlNuw4jLeC9Kv4wh"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Durood O' Salam",
+        "url": "https://open.spotify.com/album/46wUGoIrbloq7c1sKRYaCM"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "duration_ms": 247907,
+      "name": "Durood O' Salam",
+      "url": "https://open.spotify.com/track/1BRtKtrtJzHlhnqLbbU7ZV"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Coke Studio: Season 9",
+        "url": "https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ"
+      },
+      "artists": [
+        {
+          "name": "Shiraz Uppal",
+          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+        },
+        {
+          "name": "Rafaqat Ali Khan",
+          "url": "https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz"
+        }
+      ],
+      "duration_ms": 522500,
+      "name": "Tu Kuja Man Kuja",
+      "url": "https://open.spotify.com/track/10FMebRh92qPZdO7wLtcJL"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Balaghal-Ula Bi-Kamaalihi",
+        "url": "https://open.spotify.com/album/6Gfgfm8Ubbhmic7Bkhl5oQ"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 524000,
+      "name": "Balaghal-Ula Bi-Kamaalihi",
+      "url": "https://open.spotify.com/track/6TuHcNdYaKoV3bnKtJCTnq"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Ya Nabi Salam Alaika (S.A.W.W)",
+        "url": "https://open.spotify.com/album/5CYRRzUFhgCRMl0QatmEZ6"
+      },
+      "artists": [
+        {
+          "name": "Boss Menn",
+          "url": "https://open.spotify.com/artist/6l3Cv46bf92QuX8VaIqdXz"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "Ya Nabi Salam Alaika (S.A.W.W)",
+      "url": "https://open.spotify.com/track/3cca0FszjUAkg6mvISlqY6"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Gul Azro Khata",
+        "url": "https://open.spotify.com/album/6LWODTNteJT84QsLo5pMVd"
+      },
+      "artists": [
+        {
+          "name": "Zaain",
+          "url": "https://open.spotify.com/artist/7rNw0ou0vrSbdvRVOOaGGQ"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Gul Azro Khata",
+      "url": "https://open.spotify.com/track/2OP6M9kshTTYlu99MCj71R"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/6spbiWiVqIDaCEWr6peEkZ"
+      },
+      "artists": [
+        {
+          "name": "Siedd",
+          "url": "https://open.spotify.com/artist/0BjgliR7fzJazTNUaaal14"
+        }
+      ],
+      "duration_ms": 138953,
+      "name": "Allah Humma - Outro",
+      "url": "https://open.spotify.com/track/0Vh5JXppLDvHwwwBSDvWGM"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Aaqa - Coke Studio Season 9",
+        "url": "https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl"
+      },
+      "artists": [
+        {
+          "name": "Abida Parveen",
+          "url": "https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "duration_ms": 507000,
+      "name": "Aaqa - Coke Studio Season 9",
+      "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Kalam E Iqbal",
+        "url": "https://open.spotify.com/album/2BRaEghBFdq71LgoZcrMID"
+      },
+      "artists": [
+        {
+          "name": "MASUMA ANWAR",
+          "url": "https://open.spotify.com/artist/55DHZ4eEuBZM0xfX7bCX1H"
+        }
+      ],
+      "duration_ms": 322925,
+      "name": "Kalam E Iqbal",
+      "url": "https://open.spotify.com/track/4Gn7BIBmscp2wtIapsUg2I"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Ya Nabi Salam Alaika",
+        "url": "https://open.spotify.com/album/1bO1Uq4RbVq9l6WqSGL5jb"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 294147,
+      "name": "Ya Nabi Salam Alaika",
+      "url": "https://open.spotify.com/track/0rFMtP81248EFHTrIYbQfn"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Faslon Ko Takaluf",
+        "url": "https://open.spotify.com/album/27YQHZ4KOCOeUI0ftfsjoj"
+      },
+      "artists": [
+        {
+          "name": "Shuja Haider",
+          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
+        }
+      ],
+      "duration_ms": 321876,
+      "name": "Faslon Ko Takaluf",
+      "url": "https://open.spotify.com/track/0c5XZemmzLDl9xlq9qlpni"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Allah Ka Ghar",
+        "url": "https://open.spotify.com/album/2txzWaS8ifUZeYi4D8Kz3z"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        },
+        {
+          "name": "Tahseen Sakina",
+          "url": "https://open.spotify.com/artist/3xqcCXg3f20gwWq4uYibMG"
+        }
+      ],
+      "duration_ms": 297900,
+      "name": "Allah Ka Ghar",
+      "url": "https://open.spotify.com/track/6d420Rb3q5nCTv6uj0mEDF"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Kabay Ki Ronaq Kabay Ka Manzar (Slow Version)",
+        "url": "https://open.spotify.com/album/6ZXtfoxJf71kExxSNM0j12"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Mustafa Qadri",
+          "url": "https://open.spotify.com/artist/1UVX7ro5CZLkL8fQDUfAGL"
+        }
+      ],
+      "duration_ms": 463795,
+      "name": "Kabay Ki Ronaq Kabay Ka Manzar - Slow Version",
+      "url": "https://open.spotify.com/track/5ixaMOqpANMV4OAfSUoLd7"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Anasheeds, Vol. 3",
+        "url": "https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD"
+      },
+      "artists": [
+        {
+          "name": "Muhammad Al Muqit",
+          "url": "https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05"
+        }
+      ],
+      "duration_ms": 265346,
+      "name": "The Way of the Tears",
+      "url": "https://open.spotify.com/track/3AptfCpuLZ9shA1sAluj7w"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Allah Hoo",
+        "url": "https://open.spotify.com/album/3e0NZcwd5FmCc4FP0leyq8"
+      },
+      "artists": [
+        {
+          "name": "Yashal Shahid",
+          "url": "https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "duration_ms": 242891,
+      "name": "Allah Hoo",
+      "url": "https://open.spotify.com/track/6CyGDHyNNtd66s9BSXJk2h"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Shan-E-Ramzan - Single",
         "url": "https://open.spotify.com/album/0L1lEgslkPfwzrJ4d7VVz3"
@@ -473,7 +529,171 @@
       "url": "https://open.spotify.com/track/4hylxbiNeIuj997IECSmqd"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Thank You Allah (Turkish Version)",
+        "url": "https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne"
+      },
+      "artists": [
+        {
+          "name": "Maher Zain",
+          "url": "https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz"
+        }
+      ],
+      "duration_ms": 296946,
+      "name": "Ya Nabi Salam Alayka",
+      "url": "https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Yaad-E-Haram",
+        "url": "https://open.spotify.com/album/03MqoglcaaKIf5Va2BPPby"
+      },
+      "artists": [
+        {
+          "name": "Junaid Jamshed",
+          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
+        }
+      ],
+      "duration_ms": 397520,
+      "name": "Muhammad Ka Roza",
+      "url": "https://open.spotify.com/track/2KO6VAeTlbRIAeyHMJbGoD"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Tere Bin Nahin Lagda Dil Mera (Best Hits)",
+        "url": "https://open.spotify.com/album/2tFqGUj0X6XE08hhoEKKB5"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "duration_ms": 355725,
+      "name": "Wohi Khuda Hai",
+      "url": "https://open.spotify.com/track/4RrZPDOo8EHHbUjGYIf7zF"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Gulzar e Madina, Vol. 2",
+        "url": "https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo"
+      },
+      "artists": [
+        {
+          "name": "Qari Waheed Zafar Qasmi",
+          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+        }
+      ],
+      "duration_ms": 542184,
+      "name": "Faslon Ko Takalluf Hai",
+      "url": "https://open.spotify.com/track/0qzCZygXA5YATn9ea7dY3d"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Hamd",
+        "url": "https://open.spotify.com/album/586zkrZs8wYYpxaivUdgkx"
+      },
+      "artists": [
+        {
+          "name": "Qari Waheed Zafar Qasmi",
+          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+        }
+      ],
+      "duration_ms": 424977,
+      "name": "Allah Hoo Allah Hoo",
+      "url": "https://open.spotify.com/track/2wHHYI9qHgFka2ixZeqHRA"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Ya Muhammad (PBUH)",
+        "url": "https://open.spotify.com/album/1NY6DnrflgT7865M9eEkuZ"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Ya Muhammad (PBUH)",
+      "url": "https://open.spotify.com/track/3renu7MJv6JUAVVduvgbNM"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Kya Haseen Samaa Hoga (1964 - 2016) [Islamic Naats]",
+        "url": "https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4"
+      },
+      "artists": [
+        {
+          "name": "Junaid Jamshed",
+          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Mera Dil Badal De",
+      "url": "https://open.spotify.com/track/6jr1xdSKO6BayzORcR4hHF"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Famous Naaten, Vol. 1",
+        "url": "https://open.spotify.com/album/65SwJtuojW5CEW3xnUpNvF"
+      },
+      "artists": [
+        {
+          "name": "Khursheed Roofi",
+          "url": "https://open.spotify.com/artist/2Me4XNd1SKfpwHiEY6bucy"
+        },
+        {
+          "name": "Abdul Owais Raza",
+          "url": "https://open.spotify.com/artist/5LbQxFqfL9u7F00jWIf6rG"
+        }
+      ],
+      "duration_ms": 355413,
+      "name": "Qaseeda Burda Shareef",
+      "url": "https://open.spotify.com/track/2NjuuzsBZtYSGYkygu1J3E"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Gulzar e Madina, Vol. 2",
+        "url": "https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo"
+      },
+      "artists": [
+        {
+          "name": "Qari Waheed Zafar Qasmi",
+          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+        }
+      ],
+      "duration_ms": 523722,
+      "name": "Zahe Muqaddar Huzoor-e-Haq Se",
+      "url": "https://open.spotify.com/track/0ZeBSF0m2ekop6N7X0iiVB"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Rabbi Zidni Ilma - Islamic Nasheeds",
+        "url": "https://open.spotify.com/album/3sOO4LYumKqFpNMwLXYZdz"
+      },
+      "artists": [
+        {
+          "name": "Junaid Jamshed",
+          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
+        }
+      ],
+      "duration_ms": 288133,
+      "name": "Ae Nabi Pyare Nabi",
+      "url": "https://open.spotify.com/track/5Zu33OzMbHfJPCjCD5i7mE"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Aey Saba Mustafa Se Kehdena",
         "url": "https://open.spotify.com/album/1HLdQ14w4T7n02zr5iXi6m"
@@ -497,7 +717,7 @@
       "url": "https://open.spotify.com/track/3t7QztpVbnLZj0YRHvqjoO"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Maula Ya Salli Wa Sallim (Qasida Burda Sharif)",
         "url": "https://open.spotify.com/album/2VU4O2EAlH5Thdy3aJbbF4"
@@ -517,235 +737,7 @@
       "url": "https://open.spotify.com/track/7HVLB8gT9rmgPcVTdDDsul"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Kya Haseen Samaa Hoga (1964 - 2016) [Islamic Naats]",
-        "url": "https://open.spotify.com/album/77K3xlO4Damfc7Z0U5IPY4"
-      },
-      "artists": [
-        {
-          "name": "Junaid Jamshed",
-          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
-        }
-      ],
-      "duration_ms": 384589,
-      "name": "Mera Dil Badal De",
-      "url": "https://open.spotify.com/track/6jr1xdSKO6BayzORcR4hHF"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Durood O' Salam",
-        "url": "https://open.spotify.com/album/46wUGoIrbloq7c1sKRYaCM"
-      },
-      "artists": [
-        {
-          "name": "Asim Azhar",
-          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
-        }
-      ],
-      "duration_ms": 247907,
-      "name": "Durood O' Salam",
-      "url": "https://open.spotify.com/track/1BRtKtrtJzHlhnqLbbU7ZV"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Rabbi Zidni Ilma - Islamic Nasheeds",
-        "url": "https://open.spotify.com/album/3sOO4LYumKqFpNMwLXYZdz"
-      },
-      "artists": [
-        {
-          "name": "Junaid Jamshed",
-          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
-        }
-      ],
-      "duration_ms": 288133,
-      "name": "Ae Nabi Pyare Nabi",
-      "url": "https://open.spotify.com/track/5Zu33OzMbHfJPCjCD5i7mE"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Gulzar e Madina, Vol. 2",
-        "url": "https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo"
-      },
-      "artists": [
-        {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
-        }
-      ],
-      "duration_ms": 368165,
-      "name": "Qasida Burda Sharif",
-      "url": "https://open.spotify.com/track/4zvmHPNUEDjc0N9PSCv9t8"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Ya Muhammad (PBUH)",
-        "url": "https://open.spotify.com/album/1NY6DnrflgT7865M9eEkuZ"
-      },
-      "artists": [
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Ya Muhammad (PBUH)",
-      "url": "https://open.spotify.com/track/3renu7MJv6JUAVVduvgbNM"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Sallu Alaihay Wa Aalehi",
-        "url": "https://open.spotify.com/album/7amn6SFZNp10fQ3p5On0fO"
-      },
-      "artists": [
-        {
-          "name": "Shiraz Uppal",
-          "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
-        }
-      ],
-      "duration_ms": 110122,
-      "name": "Sallu Alaihay Wa Aalehi",
-      "url": "https://open.spotify.com/track/7BiWdJylJfQRi4m71wJzHr"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Allah Ka Ghar",
-        "url": "https://open.spotify.com/album/2txzWaS8ifUZeYi4D8Kz3z"
-      },
-      "artists": [
-        {
-          "name": "Nabeel Shaukat Ali",
-          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
-        },
-        {
-          "name": "Tahseen Sakina",
-          "url": "https://open.spotify.com/artist/3xqcCXg3f20gwWq4uYibMG"
-        }
-      ],
-      "duration_ms": 297900,
-      "name": "Allah Ka Ghar",
-      "url": "https://open.spotify.com/track/6d420Rb3q5nCTv6uj0mEDF"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Noor-e-Khuda",
-        "url": "https://open.spotify.com/album/2ome472b38Suj5ez7DDTyM"
-      },
-      "artists": [
-        {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
-        }
-      ],
-      "duration_ms": 262713,
-      "name": "Noor-e-Khuda",
-      "url": "https://open.spotify.com/track/4G6gLPP39c7jub1aCijvz4"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Gulzar e Madina, Vol. 2",
-        "url": "https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo"
-      },
-      "artists": [
-        {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
-        }
-      ],
-      "duration_ms": 542184,
-      "name": "Faslon Ko Takalluf Hai",
-      "url": "https://open.spotify.com/track/0qzCZygXA5YATn9ea7dY3d"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Ya Nabi Salam Alaika",
-        "url": "https://open.spotify.com/album/1bO1Uq4RbVq9l6WqSGL5jb"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 294147,
-      "name": "Ya Nabi Salam Alaika",
-      "url": "https://open.spotify.com/track/0rFMtP81248EFHTrIYbQfn"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Anasheeds, Vol. 3",
-        "url": "https://open.spotify.com/album/5HYuz7Zs6MnWXsonAjC2UD"
-      },
-      "artists": [
-        {
-          "name": "Muhammad Al Muqit",
-          "url": "https://open.spotify.com/artist/4kpoYPOSgCl2jYvCm6Cp05"
-        }
-      ],
-      "duration_ms": 265346,
-      "name": "The Way of the Tears",
-      "url": "https://open.spotify.com/track/3AptfCpuLZ9shA1sAluj7w"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Yaad-E-Haram",
-        "url": "https://open.spotify.com/album/03MqoglcaaKIf5Va2BPPby"
-      },
-      "artists": [
-        {
-          "name": "Junaid Jamshed",
-          "url": "https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D"
-        }
-      ],
-      "duration_ms": 397520,
-      "name": "Muhammad Ka Roza",
-      "url": "https://open.spotify.com/track/2KO6VAeTlbRIAeyHMJbGoD"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Tere Bin Nahin Lagda Dil Mera (Best Hits)",
-        "url": "https://open.spotify.com/album/2tFqGUj0X6XE08hhoEKKB5"
-      },
-      "artists": [
-        {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
-        }
-      ],
-      "duration_ms": 355725,
-      "name": "Wohi Khuda Hai",
-      "url": "https://open.spotify.com/track/4RrZPDOo8EHHbUjGYIf7zF"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "SALLALLAH ALA MUHAMMAD",
-        "url": "https://open.spotify.com/album/7CVRkqzxupkRBI9anDzcIn"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Qureshi",
-          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
-        }
-      ],
-      "duration_ms": 199501,
-      "name": "SALLALLAH ALA MUHAMMAD",
-      "url": "https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Ya Muhammad Noor-e-mujassam",
         "url": "https://open.spotify.com/album/3OFGxNGHw1NaQMxnWk89jA"
@@ -761,75 +753,23 @@
       "url": "https://open.spotify.com/track/5Hsrb0Xz7ECKHbfMXaN5qb"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Gulzar e Madina, Vol. 2",
-        "url": "https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo"
+        "name": "SALLALLAH ALA MUHAMMAD",
+        "url": "https://open.spotify.com/album/7CVRkqzxupkRBI9anDzcIn"
       },
       "artists": [
         {
-          "name": "Qari Waheed Zafar Qasmi",
-          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+          "name": "Abdullah Qureshi",
+          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
         }
       ],
-      "duration_ms": 523722,
-      "name": "Zahe Muqaddar Huzoor-e-Haq Se",
-      "url": "https://open.spotify.com/track/0ZeBSF0m2ekop6N7X0iiVB"
+      "duration_ms": 199501,
+      "name": "SALLALLAH ALA MUHAMMAD",
+      "url": "https://open.spotify.com/track/4B4QZzjH5vln4m6jPj8m0J"
     },
     {
-      "added_at": "2026-02-24 14:14:37",
-      "album": {
-        "name": "Kabay Ki Ronaq Kabay Ka Manzar (Slow Version)",
-        "url": "https://open.spotify.com/album/6ZXtfoxJf71kExxSNM0j12"
-      },
-      "artists": [
-        {
-          "name": "Ghulam Mustafa Qadri",
-          "url": "https://open.spotify.com/artist/1UVX7ro5CZLkL8fQDUfAGL"
-        }
-      ],
-      "duration_ms": 463795,
-      "name": "Kabay Ki Ronaq Kabay Ka Manzar - Slow Version",
-      "url": "https://open.spotify.com/track/5ixaMOqpANMV4OAfSUoLd7"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Famous Naaten, Vol. 1",
-        "url": "https://open.spotify.com/album/65SwJtuojW5CEW3xnUpNvF"
-      },
-      "artists": [
-        {
-          "name": "Khursheed Roofi",
-          "url": "https://open.spotify.com/artist/2Me4XNd1SKfpwHiEY6bucy"
-        },
-        {
-          "name": "Abdul Owais Raza",
-          "url": "https://open.spotify.com/artist/5LbQxFqfL9u7F00jWIf6rG"
-        }
-      ],
-      "duration_ms": 355413,
-      "name": "Qaseeda Burda Shareef",
-      "url": "https://open.spotify.com/track/2NjuuzsBZtYSGYkygu1J3E"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
-      "album": {
-        "name": "Yeh Moamla Koi Aur Hai",
-        "url": "https://open.spotify.com/album/50EadKzYDaTzKaaPiFc4OD"
-      },
-      "artists": [
-        {
-          "name": "Najam Sheraz",
-          "url": "https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP"
-        }
-      ],
-      "duration_ms": 607840,
-      "name": "Yeh Moamla Koi Aur Hai",
-      "url": "https://open.spotify.com/track/0VHN0L82tso3NAetvYME6h"
-    },
-    {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Har Nazar Kanph Utte Gi Vol. 3 - Islamic Naats",
         "url": "https://open.spotify.com/album/6jBuntKoNEGtI7QOW0NkHl"
@@ -845,7 +785,23 @@
       "url": "https://open.spotify.com/track/5Gl0ZBL9YRa2AgUFz0z0nJ"
     },
     {
-      "added_at": "2026-02-24 14:14:37",
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Yeh Moamla Koi Aur Hai",
+        "url": "https://open.spotify.com/album/50EadKzYDaTzKaaPiFc4OD"
+      },
+      "artists": [
+        {
+          "name": "Najam Sheraz",
+          "url": "https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP"
+        }
+      ],
+      "duration_ms": 607840,
+      "name": "Yeh Moamla Koi Aur Hai",
+      "url": "https://open.spotify.com/track/0VHN0L82tso3NAetvYME6h"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/6V01tOcRJ6TUoAsCZ4oiE2"
@@ -865,7 +821,39 @@
       "url": "https://open.spotify.com/track/1HK1dCxnwwPaaiOqvHvQra"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Gulzar e Madina, Vol. 2",
+        "url": "https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo"
+      },
+      "artists": [
+        {
+          "name": "Qari Waheed Zafar Qasmi",
+          "url": "https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY"
+        }
+      ],
+      "duration_ms": 368165,
+      "name": "Qasida Burda Sharif",
+      "url": "https://open.spotify.com/track/4zvmHPNUEDjc0N9PSCv9t8"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Mehboob-e-Haq S.A.W.W",
+        "url": "https://open.spotify.com/album/01T47uoskwdA38bJkB8SJl"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 358148,
+      "name": "Mehboob-e-Haq S.A.W.W",
+      "url": "https://open.spotify.com/track/2VQFAJlfujxdnFeWhx6pXe"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "Supreme Ishq",
         "url": "https://open.spotify.com/album/3EebOLS8VEh6Bh0g3m5VyK"
@@ -881,7 +869,31 @@
       "url": "https://open.spotify.com/track/7jKObKPpqGyzQNXGeqR4Dn"
     },
     {
-      "added_at": "2026-02-24 14:06:38",
+      "added_at": "2026-03-13 10:19:07",
+      "album": {
+        "name": "Qaseeda Burda Shareef",
+        "url": "https://open.spotify.com/album/3MecTNycRIaPKRItlpGNER"
+      },
+      "artists": [
+        {
+          "name": "Fariha Pervez",
+          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
+        },
+        {
+          "name": "Humaira Arshad",
+          "url": "https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh"
+        },
+        {
+          "name": "Alhaj Muhammad Afzal Noshahi",
+          "url": "https://open.spotify.com/artist/10iv6CBPUxA12woIYzv7jF"
+        }
+      ],
+      "duration_ms": 357761,
+      "name": "Qaseeda Burda Shareef",
+      "url": "https://open.spotify.com/track/5SF9JwhXwcFpcEUPVUUNwI"
+    },
+    {
+      "added_at": "2026-03-13 10:19:07",
       "album": {
         "name": "KARNA KARAM",
         "url": "https://open.spotify.com/album/249rkx6SRpH95p0CDKbnFX"
@@ -909,36 +921,40 @@
       "url": "https://open.spotify.com/track/3BoGbEzh8CFUVH5UVK28S7"
     },
     {
-      "added_at": "2026-03-02 06:50:54",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Mehboob-e-Haq S.A.W.W",
-        "url": "https://open.spotify.com/album/01T47uoskwdA38bJkB8SJl"
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/0qnWTjT4Qkz5zco7wdmsz7"
       },
       "artists": [
         {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        },
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         }
       ],
-      "duration_ms": 358148,
-      "name": "Mehboob-e-Haq S.A.W.W",
-      "url": "https://open.spotify.com/track/2VQFAJlfujxdnFeWhx6pXe"
+      "duration_ms": 399898,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/6exxrgkGiWnUmJMODhqxUj"
     },
     {
-      "added_at": "2026-03-02 06:50:54",
+      "added_at": "2026-03-13 10:19:07",
       "album": {
-        "name": "Gul Azro Khata",
-        "url": "https://open.spotify.com/album/6LWODTNteJT84QsLo5pMVd"
+        "name": "Zahe Muqaddar",
+        "url": "https://open.spotify.com/album/1b32qb9WSMQgLHESO1n7Q2"
       },
       "artists": [
         {
-          "name": "Zaain",
-          "url": "https://open.spotify.com/artist/7rNw0ou0vrSbdvRVOOaGGQ"
+          "name": "Abdullah Qureshi",
+          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
         }
       ],
-      "duration_ms": 176546,
-      "name": "Gul Azro Khata",
-      "url": "https://open.spotify.com/track/2OP6M9kshTTYlu99MCj71R"
+      "duration_ms": 237818,
+      "name": "Zahe Muqaddar",
+      "url": "https://open.spotify.com/track/47lvKpXTQsE3rfkgHi0i74"
     }
   ],
   "unique_name": "Hamd-o-Naat",

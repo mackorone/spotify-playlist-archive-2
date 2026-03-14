@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 152272,
+  "num_followers": 152287,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 128323,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "How Do You Love Somebody",
         "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 128323,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "SIDEQUEST",
-        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
-      },
-      "artists": [
-        {
-          "name": "Michael Clifford",
-          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "enough",
-      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "WHERE DID ALL THE BUTTERFLIES GO?",
         "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 181866,
       "name": "HEART AWAY",
       "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "SIDEQUEST",
+        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189163,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 154072,
       "name": "Running Around (feat. Foushe\u00e9)",
       "url": "https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 263389,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 170266,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 263389,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Big City Thing",
-        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
-      },
-      "artists": [
-        {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
-        }
-      ],
-      "duration_ms": 203667,
-      "name": "Big City Thing",
-      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Big City Thing",
+        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 203667,
+      "name": "Big City Thing",
+      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
     }
   ],
   "unique_name": "Pop Rock",

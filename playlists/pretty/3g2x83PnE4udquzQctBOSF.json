@@ -1,13 +1,97 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2701,
+  "num_followers": 2704,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARhksbPIvMNPHZEc8GArpijY/Aeu47",
+  "snapshot_id": "AAARiySgU1u9NP3kpSUjo+aBBJm8ZHyo",
   "tracks": [
+    {
+      "added_at": "2026-03-13 20:27:45",
+      "album": {
+        "name": "AMMU NATION",
+        "url": "https://open.spotify.com/album/5evhoXC8Wg7Y5XmH7EoplL"
+      },
+      "artists": [
+        {
+          "name": "Freemont",
+          "url": "https://open.spotify.com/artist/6e5q7tWIUASaTwuOluBzyl"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "AMMU NATION",
+      "url": "https://open.spotify.com/track/47o0cnV32UTHK4rZaIXx0i"
+    },
+    {
+      "added_at": "2026-03-13 12:17:32",
+      "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/3BXld0CZE76eYK0QVhNl5W"
+      },
+      "artists": [
+        {
+          "name": "One Step",
+          "url": "https://open.spotify.com/artist/3CWZfKJb8q2nr7yPfIwPyM"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/0WtQ8FhsYSnFiV5Z79wJNM"
+    },
+    {
+      "added_at": "2026-03-13 09:55:27",
+      "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/34BF290h81d6raA48iFp5w"
+      },
+      "artists": [
+        {
+          "name": "Marco Melandri",
+          "url": "https://open.spotify.com/artist/3AFwIjgWbDwVHRhjp4O5As"
+        },
+        {
+          "name": "Alessandro Br1",
+          "url": "https://open.spotify.com/artist/47n1d30vkW1SySWw8Zh5GH"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/6fLGL5VJCWxi8FiR9dZ0Ky"
+    },
+    {
+      "added_at": "2026-03-13 09:17:31",
+      "album": {
+        "name": "Dance Floor",
+        "url": "https://open.spotify.com/album/58hepY4ZMFyl1gX8IvLpP3"
+      },
+      "artists": [
+        {
+          "name": "Nota Baxua",
+          "url": "https://open.spotify.com/artist/1cFRemxURzd9fohFUoUgAT"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Dance Floor",
+      "url": "https://open.spotify.com/track/5UKEs3uApkyQHu8kHE3YdS"
+    },
+    {
+      "added_at": "2026-03-13 07:24:10",
+      "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/14nCPhw8AVz5a1vdy4EwdH"
+      },
+      "artists": [
+        {
+          "name": "Agigulf",
+          "url": "https://open.spotify.com/artist/4rRPRX8WcOd8NRgtIiLwLT"
+        }
+      ],
+      "duration_ms": 224125,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/4UvGWG6oo63tnu2AGfqWDX"
+    },
     {
       "added_at": "2026-03-12 20:20:51",
       "album": {

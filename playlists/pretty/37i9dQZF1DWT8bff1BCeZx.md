@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,478 likes - 115 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,486 likes - 115 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 50 | [He Will Never Fail](https://open.spotify.com/track/0QfSCWg6vTjcpUOxFSlthO) | [Broda Harrison](https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t) | [He Will Never Fail](https://open.spotify.com/album/0WEBUsLb3vgZhknADp3VqX) | 4:13 |
 | 51 | [Holy Ghost Fire](https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Holy Ghost Fire](https://open.spotify.com/album/3ioOaZPBSPg90sKnp10WYw) | 8:05 |
 | 52 | [E No Dey Finish](https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [E No Dey Finish](https://open.spotify.com/album/6i2e0TpfHMdjMXyxZmv4PM) | 2:53 |
-| 53 | [Imisebenzi Yakho](https://open.spotify.com/track/0TUOxZgbRalGJJP9jbknEf) | [INNOVATIVE DJz](https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6), [Icon lamaf](https://open.spotify.com/artist/0p2lSUwwgamVRW94WtxfOd), [Wade Yarrow](https://open.spotify.com/artist/0MpdjMIaFstNet9fbWNh6Y) | [Imisebenzi Yakho](https://open.spotify.com/album/4ZyZ3EgwP2c15JSB13tmqf) | 4:36 |
+| 53 | [Imisebenzi Yakho](https://open.spotify.com/track/0TUOxZgbRalGJJP9jbknEf) | [INNOVATIVE DJz](https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6), [Icon Lamaf](https://open.spotify.com/artist/39EBQatJevxUioe4lnkNym), [Wade Yarrow](https://open.spotify.com/artist/0MpdjMIaFstNet9fbWNh6Y) | [Imisebenzi Yakho](https://open.spotify.com/album/4ZyZ3EgwP2c15JSB13tmqf) | 4:36 |
 | 54 | [I CALL YOU JESUS \- Live](https://open.spotify.com/track/3vT6yc4cy6kNIdDZpdp8Ct) | [Joshua Oyetunde](https://open.spotify.com/artist/6kfC2W7iy7tJDoXMKzaRNg), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [I CALL YOU JESUS \(Live\)](https://open.spotify.com/album/2xzHAvtdJWCwEuNXSMOzsA) | 10:19 |
 | 55 | [Dance Like David](https://open.spotify.com/track/0AVYx4AftpfptSBZwSoefi) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [Dance Like David](https://open.spotify.com/album/2ifOguXcgPwFkw6KD5dMmr) | 2:30 |
 | 56 | [Mbalenhle’s Prayer](https://open.spotify.com/track/24AdQhBM0cy194JyjouRJ2) | [Mbalenhle M](https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO), [Smanga](https://open.spotify.com/artist/5PtqKmS7MyoWUMVOwqVSPj), [Vee Rsa](https://open.spotify.com/artist/7hch0lXKeTNzLBz4LYRBYK), [Soultaker Mthathi](https://open.spotify.com/artist/362Tyd2XMh0w1PzMnevbOm) | [Mbalenhle’s Prayer](https://open.spotify.com/album/48pvilSbhL7NMeouYGnfrM) | 6:34 |

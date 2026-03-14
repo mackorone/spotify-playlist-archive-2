@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,379 likes - 44 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,387 likes - 44 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 27 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
 | 28 | [Sour Grapes](https://open.spotify.com/track/0ZTtzCeL6FqRF7mRlPK7RX) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:51 |
 | 29 | [Victim Of Me](https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:36 |
-| 30 | [Mass Nerder](https://open.spotify.com/track/0LcMGQZE2nNxgEBdci2X8Y) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi) | 2:47 |
-| 31 | [Cameage](https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
+| 30 | [Cameage](https://open.spotify.com/track/6B9Tw4MFMLCDXEkRY3fcnb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
+| 31 | [Mass Nerder](https://open.spotify.com/track/0LcMGQZE2nNxgEBdci2X8Y) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi) | 2:47 |
 | 32 | [Here with Me](https://open.spotify.com/track/5JCnwxjAgEWiKMLTkK6Jt1) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/51iwFQcTRgaklyI04obvSd) | 3:43 |
 | 33 | [Smile](https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:10 |
 | 34 | [Get the Time](https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:16 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 43 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 44 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 
-Snapshot ID: `abCwgAAAAABk49G7lWMqRKHddu3b+Ta3`
+Snapshot ID: `abICAAAAAAA/Fxcrd4r9AiHCoUocGju8`

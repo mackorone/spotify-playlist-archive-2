@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 36281,
+  "num_followers": 36287,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABDzl/fQfp44lqYnfCKvhl4",
+  "snapshot_id": "abICAAAAAABiiWZTksINuZrWqeIsFdon",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 150866,
-      "name": "how dare you",
-      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
+      "duration_ms": 172000,
+      "name": "broken by you",
+      "url": "https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 172000,
-      "name": "broken by you",
-      "url": "https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq"
+      "duration_ms": 150866,
+      "name": "how dare you",
+      "url": "https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI"
     },
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORIGIN (Deluxe)",
-        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
       "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 187675,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+      "duration_ms": 212746,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
     },
     {
       "added_at": null,
@@ -575,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+        "name": "ORIGIN (Deluxe)",
+        "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
       "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
         {
           "name": "Alexander Stewart",
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez"
+      "duration_ms": 187675,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
     },
     {
       "added_at": null,

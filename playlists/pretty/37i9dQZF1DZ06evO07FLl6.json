@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 246668,
+  "num_followers": 246670,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABZg1RmRztK1dS+VfNafpsv",
+  "snapshot_id": "abICAAAAAABoxyoANeQTRWrQfiMd1Cm1",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 230690,
+      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 420693,
       "name": "All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/21HG0QIgIcVQ2EZeXubaqL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 230690,
-      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 168760,
       "name": "Deception",
       "url": "https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 1 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/0NsRSkszdbzublEEh3cSYH"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Embraceable",
-        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 154340,
       "name": "Move",
       "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Embraceable",
+        "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 129861,
-      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conception",
         "url": "https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 199533,
       "name": "Intoit",
       "url": "https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 129861,
+      "name": "L'assassinat de Carala - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/6kAg8FCndlSgVWWm0mrngy"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Columbia Studio Recordings",
+        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "duration_ms": 30693,
+      "name": "Studio Discussion - One",
+      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
         "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
       },
@@ -927,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Columbia Studio Recordings",
-        "url": "https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        }
-      ],
-      "duration_ms": 30693,
-      "name": "Studio Discussion - One",
-      "url": "https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miles Davis And Horns",
         "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
       },
@@ -979,6 +979,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "Violets (feat. Phonte)",
+      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bags' Groove (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -1007,30 +1031,6 @@
       "duration_ms": 674800,
       "name": "Bags' Groove - RVG Remaster",
       "url": "https://open.spotify.com/track/5RQqoEIkp6XsYyULz7AlAS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Phonte",
-          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
-        }
-      ],
-      "duration_ms": 203687,
-      "name": "Violets (feat. Phonte)",
-      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
     },
     {
       "added_at": null,

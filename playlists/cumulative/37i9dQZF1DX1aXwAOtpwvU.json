@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "baza",
+        "url": "https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186674,
+      "name": "baza",
+      "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
+    },
+    {
+      "album": {
         "name": "Berek",
         "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
       },
@@ -648,7 +666,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 185165,
       "name": "bravo girl",
       "url": "https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B"
@@ -1097,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "cisza nocna",
+        "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182518,
+      "name": "cisza nocna",
+      "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
+    },
+    {
+      "album": {
         "name": "PROSTO DO PIEK\u0141A",
         "url": "https://open.spotify.com/album/00hHwfLHWvvj1bXJL7bfS4"
       },
@@ -1304,7 +1340,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172388,
       "name": "CZEMU NIE \u015aPISZ?",
       "url": "https://open.spotify.com/track/6St066Fl5fcC2TjqC2UYOw"
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 233636,
       "name": "Firdyga\u0142ki",
       "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
@@ -3493,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "LET IT B",
+        "url": "https://open.spotify.com/album/1Oy0ZSG5z3haMYb2dQFCk0"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "LET IT B",
+      "url": "https://open.spotify.com/track/701KA2pM8TfqNksKwLCZHl"
+    },
+    {
+      "album": {
         "name": "Lipka Drill",
         "url": "https://open.spotify.com/album/5iE7r0b3Ko7ByN4YffaecF"
       },
@@ -4508,7 +4562,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 220840,
       "name": "Na dno",
       "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
@@ -6628,7 +6682,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 143355,
       "name": "sentymenty",
       "url": "https://open.spotify.com/track/54GNmEMmQCLNEaGRxB9P6r"
@@ -7377,6 +7431,24 @@
     },
     {
       "album": {
+        "name": "To nie m\u00f3j dzie\u0144",
+        "url": "https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "To nie m\u00f3j dzie\u0144",
+      "url": "https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg"
+    },
+    {
+      "album": {
         "name": "to nie ten stan",
         "url": "https://open.spotify.com/album/3MfOLXNdSTPvup7EW9qQy6"
       },
@@ -7634,6 +7706,24 @@
       "duration_ms": 179656,
       "name": "UV",
       "url": "https://open.spotify.com/track/2I7ZODHpfb8waBrGE1ubOh"
+    },
+    {
+      "album": {
+        "name": "Pytania",
+        "url": "https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203936,
+      "name": "W snach",
+      "url": "https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk"
     },
     {
       "album": {

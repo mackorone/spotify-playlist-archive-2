@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 322133,
       "name": "Another Day in Paradise - 2016 Remaster",
       "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/6IuZFiKCeyQINqL0Id3xF2"
@@ -11841,6 +11841,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -12822,7 +12840,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
@@ -14588,7 +14606,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 243320,
       "name": "La vereda de la puerta de atr\u00e1s",
       "url": "https://open.spotify.com/track/4kJP8Z888wREJ8bRMWNMuk"
@@ -14784,7 +14802,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 307153,
       "name": "Lady - Hear Me Tonight",
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6"
@@ -16914,7 +16932,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ"
@@ -18612,7 +18630,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -19927,6 +19945,24 @@
     },
     {
       "album": {
+        "name": "racine carr\u00e9e",
+        "url": "https://open.spotify.com/album/6uyslsVGFsHKzdGUosFwBM"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Papaoutai",
+      "url": "https://open.spotify.com/track/34dx8DACTJsc3rsJdaEIQw"
+    },
+    {
+      "album": {
         "name": "Papaoutai (Afro Soul)",
         "url": "https://open.spotify.com/album/7BBGsKeuO9m0shHaMpHCTk"
       },
@@ -20950,7 +20986,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 151146,
       "name": "Por un Pendejo no se llora",
       "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
@@ -22150,7 +22186,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 146849,
       "name": "Recalenta'",
       "url": "https://open.spotify.com/track/4R0HFml9202w591gFu7AEe"
@@ -22404,7 +22440,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -23432,7 +23468,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 121858,
       "name": "SETEADORA REMIX (with JC Reyes)",
       "url": "https://open.spotify.com/track/55ZSaezLr7fNrkLL0WCpOD"
@@ -29022,7 +29058,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213882,
       "name": "Ventol\u00e0 (125 Km)",
       "url": "https://open.spotify.com/track/2uWr6jccYSjmHyuCZYRKpF"
@@ -30788,7 +30824,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 118666,
       "name": "Yo te conozco :):",
       "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new school - Alternative R&B. Cover: Arima Ederra",
+  "description": "The new school - Alternative R&B. Cover: James Blake",
   "name": "Vanguard",
   "tracks": [
     {
@@ -7136,7 +7136,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 206955,
       "name": "Die For Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
@@ -12377,6 +12377,24 @@
     },
     {
       "album": {
+        "name": "I Do, I Do",
+        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135893,
+      "name": "I Do, I Do",
+      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
+    },
+    {
+      "album": {
         "name": "It'll Be Fine",
         "url": "https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr"
       },
@@ -14624,7 +14642,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172338,
       "name": "Let Me Cook",
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
@@ -21452,7 +21470,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 143332,
       "name": "Safe Spaces",
       "url": "https://open.spotify.com/track/6dzv9Nii8Ixy4GoaR5TEEl"
@@ -23539,6 +23557,24 @@
     },
     {
       "album": {
+        "name": "LK99",
+        "url": "https://open.spotify.com/album/7oXn08skc0Lc0juXrb5kDP"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Starlet",
+      "url": "https://open.spotify.com/track/3F2biaPqxg6glYqh4z6LDZ"
+    },
+    {
+      "album": {
         "name": "Starting To Get To You",
         "url": "https://open.spotify.com/album/74A6O0ISRJ7udEVOEl79yO"
       },
@@ -25184,7 +25220,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 231691,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
@@ -26105,6 +26141,28 @@
     },
     {
       "album": {
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+    },
+    {
+      "album": {
         "name": "Ticket Holder",
         "url": "https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw"
       },
@@ -26916,6 +26974,24 @@
       "duration_ms": 224986,
       "name": "Try",
       "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
+    },
+    {
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273805,
+      "name": "Trying Times",
+      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
     },
     {
       "album": {

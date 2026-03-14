@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-174 songs - 9 hr 26 min
+175 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 | 2026-02-18 |  |
 | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 | 2026-02-26 |  |
 | [تعالالي حبيبي الليلة](https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Mai Omar](https://open.spotify.com/artist/3VZQvZXsTyCzwjhXJgv2tC) | [تعالالي حبيبي الليلة](https://open.spotify.com/album/4E7h6qYmzp5gpjtmk4T0uW) | 1:49 | 2025-03-06 | 2026-03-04 |
+| [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/track/0kSArG59KlX6jJ6DOntupm) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تعيش وتجرح \(من مسلسل علي كلاي\)](https://open.spotify.com/album/2pwRgWHyD8acTHCFw8LXzU) | 2:07 | 2026-03-06 |  |
 | [جزيرة غمام \- تتر المسلسل](https://open.spotify.com/track/22SbTvVv0gL4mPlWTDtTk2) | [Ali El Haggar](https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6) | [جزيرة غمام \(تتر المسلسل\)](https://open.spotify.com/album/6q8pXCHu6z0AfOvJTTfs3F) | 3:49 | 2026-02-10 | 2026-02-19 |
 | [جوة الجحور](https://open.spotify.com/track/2qpxshCadd6uCSrOmeLKZN) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [جوة الجحور](https://open.spotify.com/album/1FuC6Dhc1404uUKJXBQLjL) | 4:22 | 2024-03-12 | 2025-02-28 |
 | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/track/7BHh2MVbdnLphbXE3BqnMp) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [حارق ناس كتير مسلسل إش إش](https://open.spotify.com/album/0wLRjwezgTD7FAY2m6dkKo) | 1:55 | 2025-03-13 |  |
@@ -167,7 +168,7 @@
 | [كلكوا خاينين](https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [كلكوا خاينين](https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl) | 4:01 | 2026-02-18 |  |
 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 | 2024-03-26 | 2025-03-04 |
 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 | 2025-03-20 | 2026-02-11 |
-| [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 | 2026-02-13 |  |
+| [محدش مرتاح](https://open.spotify.com/track/0XdQriStcL1WXypbanUGbJ) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [محدش مرتاح](https://open.spotify.com/album/4osmODYCVbGqmWomQzQUAc) | 3:58 | 2026-02-13 | 2026-03-14 |
 | [مخبيالنا ايه يا دنيا \(موال طارق\)](https://open.spotify.com/track/7j0fEOT00aQkzmtNV0hRvL) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [مخبيالنا ايه يا دنيا \(موال طارق\)](https://open.spotify.com/album/4Lwmh8iRTkzMmGUobTCWHb) | 3:20 | 2024-03-10 | 2025-03-04 |
 | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/track/6ersHoHXrLTFR4YftQxk2q) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [مخبيالنا ايه يا دنيا \(موال هاني\)](https://open.spotify.com/album/5XEKia4efQ6xpPFvj1wMjN) | 3:20 | 2024-03-10 | 2024-03-13 |
 | [معلش مكتوبلك](https://open.spotify.com/track/59BzI9IjNp5eiWATzksB45) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [معلش مكتوبلك](https://open.spotify.com/album/0fZm1zZXnYLz7j7LSkSqPD) | 1:04 | 2025-03-16 | 2026-02-18 |

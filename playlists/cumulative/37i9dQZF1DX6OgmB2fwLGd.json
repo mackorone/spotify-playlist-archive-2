@@ -5953,6 +5953,32 @@
     },
     {
       "album": {
+        "name": "DON'T DIE",
+        "url": "https://open.spotify.com/album/2uEbC2c1GGW93M2KsZEIqW"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "DON'T DIE",
+      "url": "https://open.spotify.com/track/3mSRZuuXL6NjJosHn64pwu"
+    },
+    {
+      "album": {
         "name": "Don't Look At Numbers (Lost Kids Edition)",
         "url": "https://open.spotify.com/album/63nYWwU4DroL9w3eXbRwB2"
       },
@@ -9080,6 +9106,24 @@
       "duration_ms": 174542,
       "name": "Hadley",
       "url": "https://open.spotify.com/track/04S2P8Gey35cemIoXpm5dq"
+    },
+    {
+      "album": {
+        "name": "snow day",
+        "url": "https://open.spotify.com/album/1rCRXGrDjB7MDJO1bw27Hu"
+      },
+      "artists": [
+        {
+          "name": "broncodidntdie",
+          "url": "https://open.spotify.com/artist/4o31UQwKwvdTZdN09IBQ6N"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "halsey st",
+      "url": "https://open.spotify.com/track/3SliAsY0eTWMsS64S7ohUh"
     },
     {
       "album": {
@@ -17109,6 +17153,28 @@
     },
     {
       "album": {
+        "name": "We Meant Well",
+        "url": "https://open.spotify.com/album/64xAHKYQraCzrz64jV7tHE"
+      },
+      "artists": [
+        {
+          "name": "nasir",
+          "url": "https://open.spotify.com/artist/1Niu3YCB319WwbIsq18KMh"
+        },
+        {
+          "name": "chinapoet",
+          "url": "https://open.spotify.com/artist/0sGxcnS5CqaIqPohP9Cgy7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79952,
+      "name": "Playing",
+      "url": "https://open.spotify.com/track/2CaKcAMr5IPLr9L5NUUxwh"
+    },
+    {
+      "album": {
         "name": "Point Em Out (with DaBaby)",
         "url": "https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew"
       },
@@ -20388,7 +20454,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 120394,
       "name": "stay patient",
       "url": "https://open.spotify.com/track/0shmX3ixNeSi2PWjqWRtJ6"
@@ -20764,7 +20830,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 121791,
       "name": "SUICIDE NOTE",
       "url": "https://open.spotify.com/track/0jKJHqpSazr1i29IILH5wi"
@@ -20804,7 +20870,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184320,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs"

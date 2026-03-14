@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,364 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,393 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 22 | [Ready My Black Asz](https://open.spotify.com/track/6XDdcBC0hQkRcQfYovxd4c) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 5:24 |
 | 23 | [Confusion \- Pump Panel Reconstruction Mix](https://open.spotify.com/track/3QDbZBqR93chaaMuNScmrc) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Blade The Soundtrack](https://open.spotify.com/album/5BwN4Go6f0QUAO3xVPoj38) | 10:12 |
 | 24 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
-| 25 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
-| 26 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
+| 25 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
+| 26 | [At Night \- Peggy Gou's Acid Journey Remix](https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot) | [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [At Night \(Remixes\)](https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8) | 7:11 |
 | 27 | [Rip It Up](https://open.spotify.com/track/1eamsmwcYYhJwTgMFdQ6YN) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [Rip It Up](https://open.spotify.com/album/2O1rwWqABLUHmFnmQxOt6F) | 5:20 |
 | 28 | [Can You Feel It](https://open.spotify.com/track/2jwRKUOBoN1hiMFuuKdIJE) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Washing Machine](https://open.spotify.com/album/3tSYs4sadLjOKX7eNRZp8I) | 5:44 |
 | 29 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 43 | [Acid Trax](https://open.spotify.com/track/0zSyKNVHqvAmzTwEHItE92) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Church of Danceology](https://open.spotify.com/album/2HDBCM1fDFZYuH0SVGMQmL) | 11:54 |
 | 44 | [Next to You](https://open.spotify.com/track/18xNqodg6oEu0udVDNUoMa) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/6n2eS9hEGoc0rxy62pDHU4) | 4:22 |
 | 45 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/4zaf5qzolYOVprALV0NAZ8) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af) | [The Garden of Eden](https://open.spotify.com/album/1YHqqYaDOVkOHZAMZDFmqv) | 4:01 |
-| 46 | [Patchwork Jazz](https://open.spotify.com/track/6VOhURr2cJv80aFBeLaoWy) | [Cro\-Magnon](https://open.spotify.com/artist/526ezIY9S1rr45Kw8cMjAy) | [V](https://open.spotify.com/album/4elJ2d798hGdIyxxaIpwdD) | 7:12 |
-| 47 | [Box Energy](https://open.spotify.com/track/7zuSn5nyxCYD1xSdtxR0w7) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Phuture And Other Classics From DJ Pierre](https://open.spotify.com/album/48utdF1Edpn7ALtSVGIRu8) | 6:10 |
-| 48 | [Cardiology \- Isolée Mix](https://open.spotify.com/track/3ca2ftwQ42stye9qgURqtX) | [Recloose](https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S) | [DJ\-Kicks \(Motor City Drum Emsemble\)](https://open.spotify.com/album/62K6JylULgZWs9fnqlurpM) | 5:45 |
-| 49 | [Cornish Acid](https://open.spotify.com/track/5b1Ux2Mw6WLaasgmf4sBQ4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/7rm9CZYU3YMO2QNuxzNda4) | 2:14 |
-| 50 | [Warsaw \- White Light Version](https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [White Light](https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9) | 5:45 |
+| 46 | [Box Energy](https://open.spotify.com/track/7zuSn5nyxCYD1xSdtxR0w7) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU) | [Phuture And Other Classics From DJ Pierre](https://open.spotify.com/album/48utdF1Edpn7ALtSVGIRu8) | 6:10 |
+| 47 | [Cardiology \- Isolée Mix](https://open.spotify.com/track/3ca2ftwQ42stye9qgURqtX) | [Recloose](https://open.spotify.com/artist/2klQbxaAVeQMof4GsPFH5S) | [DJ\-Kicks \(Motor City Drum Emsemble\)](https://open.spotify.com/album/62K6JylULgZWs9fnqlurpM) | 5:45 |
+| 48 | [Cornish Acid](https://open.spotify.com/track/5b1Ux2Mw6WLaasgmf4sBQ4) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/7rm9CZYU3YMO2QNuxzNda4) | 2:14 |
+| 49 | [Warsaw \- White Light Version](https://open.spotify.com/track/09P3YUNZ63OdaMhaxFvfbM) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [White Light](https://open.spotify.com/album/1fdvWcji1NsAK4qqQ3e3F9) | 5:45 |
+| 50 | [Firecracker](https://open.spotify.com/track/0VDi0h6uXz4r24TyAz5eJu) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/2DSRpIJMFmV2cEUxGq2N2H) | 6:31 |
 
 Snapshot ID: `AAAAAOQyAK1hTvZdoC4Z83Sa8W5mkyO3`

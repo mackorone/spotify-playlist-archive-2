@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Iron & Wine
+> The best in folk & acoustic today featuring music from Shakey Graves
 
-823 songs - 2 day 2 hr 37 min
+826 songs - 2 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 | 2023-10-27 | 2024-10-26 |
 | [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 | 2024-03-01 | 2024-04-19 |
 | [My Full Name](https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [My Full Name](https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH) | 3:19 | 2025-08-22 |  |
+| [My Love](https://open.spotify.com/track/2742Rdaai01TuaEbkrxFSU) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [My Love](https://open.spotify.com/album/2d8At9gtJ4KOuELoqbG3u1) | 3:19 | 2026-03-13 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 | 2024-07-19 |
 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 | 2026-02-27 |  |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 | 2023-01-28 |
@@ -558,6 +559,7 @@
 | [Planets](https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Dog Eared](https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi) | 3:39 | 2025-07-25 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-09 |  |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-02-24 | 2024-02-17 |
+| [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 | 2026-03-13 |  |
 | [Praying For Your Downfall](https://open.spotify.com/track/53zfYhW9ChSp8fqdDn5gh8) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Praying For Your Downfall](https://open.spotify.com/album/0y8QL44jIsj7rAvlCvmgEK) | 3:05 | 2025-02-21 | 2025-11-22 |
 | [Pride of Man](https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 3:53 | 2022-03-25 | 2022-09-24 |
 | [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 | 2022-08-05 | 2022-10-26 |
@@ -733,6 +735,7 @@
 | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/track/0YrUVLFiFi0udpYkLjgzSt) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Tied To You \(feat\. Medium Build\)](https://open.spotify.com/album/6HKGQOW4nrFhGbu9yIC2jk) | 3:40 | 2025-09-12 |  |
 | [Till I Return](https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Million Eyes](https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY) | 3:36 | 2023-09-22 | 2024-09-28 |
 | [Till the Flame Turns Blue](https://open.spotify.com/track/1lvukDOJDX9NznWnin7Az5) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [June's Stolen Car](https://open.spotify.com/album/1cXyje7UHXdXmEzAf1wDgb) | 4:05 | 2023-09-01 | 2024-07-13 |
+| [Time Flies](https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Time Flies](https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt) | 3:10 | 2026-03-13 |  |
 | [Time With My Sins](https://open.spotify.com/track/3XssOvD3UVVZ4VVSXOvRbU) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Time With My Sins](https://open.spotify.com/album/3BoorkXmySVxUYOuo1Ub6P) | 3:59 | 2025-01-31 | 2025-05-10 |
 | [To douse a scalded tongue](https://open.spotify.com/track/6dBfmNdCRhOanXG9zwdqt7) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [To douse a scalded tongue](https://open.spotify.com/album/59ZPkdnpcav6a9vFG0OVOR) | 2:43 | 2025-08-01 |  |
 | [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2023-06-23 | 2023-08-04 |

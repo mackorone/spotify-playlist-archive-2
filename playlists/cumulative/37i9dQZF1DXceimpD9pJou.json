@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: MISSION MUSICA",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Emanuel Deliser",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 290998,
       "name": "A Tus Pies",
       "url": "https://open.spotify.com/track/6pp0vWEwEeNrkf25JSeo5b"
@@ -2030,7 +2030,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 525161,
       "name": "Agnus Dei - En Vivo",
       "url": "https://open.spotify.com/track/2gTzuMfVx5oiCH8DkDFvHG"
@@ -4095,6 +4095,28 @@
     },
     {
       "album": {
+        "name": "Amado De Mi Alma (Remix)",
+        "url": "https://open.spotify.com/album/22hHgbmpJwJCxrAn0E01Y8"
+      },
+      "artists": [
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
+        },
+        {
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "Amado De Mi Alma - Remix",
+      "url": "https://open.spotify.com/track/5kKiwB0iDgfVQaeHzRfNV8"
+    },
+    {
+      "album": {
         "name": "Amado Mio",
         "url": "https://open.spotify.com/album/3eZWPz1JVRPsMTQb4tdx73"
       },
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 540114,
       "name": "Aparto Todo",
       "url": "https://open.spotify.com/track/0vvqnyFB7jGUQm26hrt9hy"
@@ -16752,7 +16774,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 270500,
       "name": "Despi\u00e9rtanos",
       "url": "https://open.spotify.com/track/7apgqst4SUslfgiLiRDNP1"
@@ -17712,6 +17734,28 @@
       "duration_ms": 201375,
       "name": "Dios de Generaciones (Remix)",
       "url": "https://open.spotify.com/track/3BnhWguOtw472asI2GeIFF"
+    },
+    {
+      "album": {
+        "name": "Dios de Goria (Live)",
+        "url": "https://open.spotify.com/album/5idkvPZXLQYtvqPxq1sHHo"
+      },
+      "artists": [
+        {
+          "name": "Javier Portela",
+          "url": "https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph"
+        },
+        {
+          "name": "Nico Cabrera",
+          "url": "https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331989,
+      "name": "Dios de Goria (Live)",
+      "url": "https://open.spotify.com/track/42cLRZQbnFgAzjpMQCs3gR"
     },
     {
       "album": {
@@ -23101,6 +23145,28 @@
     },
     {
       "album": {
+        "name": "Sonido De Las Naciones",
+        "url": "https://open.spotify.com/album/15XLEfNsfs4cdEiuoYuoIa"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376083,
+      "name": "Entr\u00f3nate Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5lDybixAPFD04ZriTvtZQA"
+    },
+    {
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/4mtCyqoW0iE30vtZpZtHDx"
       },
@@ -27595,6 +27661,24 @@
     },
     {
       "album": {
+        "name": "Fuente",
+        "url": "https://open.spotify.com/album/69cLjN7RGmYP1RRjVNL8Ph"
+      },
+      "artists": [
+        {
+          "name": "Ll\u00e9vame de Vuelta",
+          "url": "https://open.spotify.com/artist/7DfPaaPqWzLIQOEJXXnjJY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533000,
+      "name": "Fuente",
+      "url": "https://open.spotify.com/track/5MWrzekAxyQKMvqcPj75ws"
+    },
+    {
+      "album": {
         "name": "Fuera de L\u00ednea",
         "url": "https://open.spotify.com/album/24Ttor45TBGdqlSjUa7Jhq"
       },
@@ -31190,7 +31274,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 385890,
       "name": "Haz Llover De Nuevo",
       "url": "https://open.spotify.com/track/78ZER8pud9vl4kYJFM2o2Z"
@@ -31856,7 +31940,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 336797,
       "name": "Hijos de Dios",
       "url": "https://open.spotify.com/track/4vFhao76PV0XVDnaTl4w80"
@@ -32868,7 +32952,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 321697,
       "name": "Imagen",
       "url": "https://open.spotify.com/track/3QC9A5ecYuy6tVWdvaFimS"
@@ -34229,6 +34313,24 @@
     },
     {
       "album": {
+        "name": "En Tu Presencia \u00c9xitos en concierto (En vivo)",
+        "url": "https://open.spotify.com/album/6770iycI8gaJ4dwuCVaBkB"
+      },
+      "artists": [
+        {
+          "name": "Maurilio Su\u00e1rez y el grupo M\u00e9ssia",
+          "url": "https://open.spotify.com/artist/79DdMTTLznPo5fIX5tlE1K"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228853,
+      "name": "Jes\u00fas - En vivo",
+      "url": "https://open.spotify.com/track/1lQjKZsOnZChYHTqSvayeZ"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas (Live Set)",
         "url": "https://open.spotify.com/album/62TH3sM07DI0OqFnrTJebl"
       },
@@ -34524,7 +34626,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 262434,
       "name": "Jord\u00e1n",
       "url": "https://open.spotify.com/track/5IziK5mdFGsyo9YRLLV9wc"
@@ -37122,6 +37224,24 @@
       "duration_ms": 324310,
       "name": "Levanto Mis Manos - Acustic Version (Piano & Voz)",
       "url": "https://open.spotify.com/track/4HTDl7u0OePYrFqmSlRLZp"
+    },
+    {
+      "album": {
+        "name": "Lev\u00e1ntate",
+        "url": "https://open.spotify.com/album/586dUNqSEG1EGeF8GTBdZu"
+      },
+      "artists": [
+        {
+          "name": "Miki Martz",
+          "url": "https://open.spotify.com/artist/6eSPHaaU2yarHRXsL0p6nE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/7eo5tI4n8tSA0Vr6WsW999"
     },
     {
       "album": {
@@ -40356,6 +40476,24 @@
       "duration_ms": 300857,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/58UzDiEKSShileIQVivnWB"
+    },
+    {
+      "album": {
+        "name": "Maranatha",
+        "url": "https://open.spotify.com/album/2ouC5PDCj7iRVa0Ygcky29"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Deliser",
+          "url": "https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220240,
+      "name": "Maranatha",
+      "url": "https://open.spotify.com/track/4Nk9Wz8Ih7fDdk2r1QUzSY"
     },
     {
       "album": {
@@ -43653,6 +43791,24 @@
     },
     {
       "album": {
+        "name": "Mi Mejor Temporada",
+        "url": "https://open.spotify.com/album/4s3FSfb1DCDT8785Dsvmcp"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Mi Mejor Temporada - Live",
+      "url": "https://open.spotify.com/track/5NXDg7pBCbqfEMu2WuLu3u"
+    },
+    {
+      "album": {
         "name": "Mi Mente",
         "url": "https://open.spotify.com/album/7KTrHJjwcwCjQC19lwCevF"
       },
@@ -43664,7 +43820,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184000,
       "name": "Mi Mente",
       "url": "https://open.spotify.com/track/1DvgXgI31ZZV3jLF3eHpwd"
@@ -43708,6 +43864,28 @@
       "duration_ms": 156923,
       "name": "Mi Mirada",
       "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
+    },
+    {
+      "album": {
+        "name": "Mi Mirada Puesta en Ti",
+        "url": "https://open.spotify.com/album/5rBMnQBX6Krk7RvFeRO7Gc"
+      },
+      "artists": [
+        {
+          "name": "Fos Rock",
+          "url": "https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK"
+        },
+        {
+          "name": "Jan Earle",
+          "url": "https://open.spotify.com/artist/6O1gkriLfZg5mnBrTlBq1N"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151124,
+      "name": "Mi Mirada Puesta en Ti",
+      "url": "https://open.spotify.com/track/1DbbtSXVtQ10yZ9i0yvRRq"
     },
     {
       "album": {
@@ -48420,6 +48598,24 @@
       "duration_ms": 202040,
       "name": "No Necesito Doctor.",
       "url": "https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH"
+    },
+    {
+      "album": {
+        "name": "No Olvidar\u00e9",
+        "url": "https://open.spotify.com/album/0DzmwwLeniTPXpkMc38iPp"
+      },
+      "artists": [
+        {
+          "name": "Alexis Arai",
+          "url": "https://open.spotify.com/artist/1R4eSpkZ0vh2zRI3I4E6Fw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203966,
+      "name": "No Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/1OgqRZ5vhyLbrSGQ8zkr9l"
     },
     {
       "album": {
@@ -57386,7 +57582,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 370279,
       "name": "Resucit\u00f3",
       "url": "https://open.spotify.com/track/6uIoBI8IB5JDya1YloP54g"
@@ -58329,6 +58525,24 @@
     },
     {
       "album": {
+        "name": "LA NUEVA OLA",
+        "url": "https://open.spotify.com/album/0MCUMzddJTCTHGM4tXFzDg"
+      },
+      "artists": [
+        {
+          "name": "Don Ryvcko",
+          "url": "https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "RUN IT UP",
+      "url": "https://open.spotify.com/track/1LY62a9CMHncrSnqGv38WP"
+    },
+    {
+      "album": {
         "name": "R\u00ede",
         "url": "https://open.spotify.com/album/0IuDUGjP4fxplXEqaUUxdK"
       },
@@ -59172,7 +59386,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 320000,
       "name": "Santo",
       "url": "https://open.spotify.com/track/5WRfgnG6iCUbyswGxdIUvQ"
@@ -59543,6 +59757,40 @@
     },
     {
       "album": {
+        "name": "Santo Por Siempre (Sesi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6jxC6QK203kwI59yM3vjAP"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        },
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        },
+        {
+          "name": "Joel Rocco",
+          "url": "https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe"
+        },
+        {
+          "name": "Antonio & Allison",
+          "url": "https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320426,
+      "name": "Santo Por Siempre - Sesi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/18zKn6gs8UArJ6fQdqrjac"
+    },
+    {
+      "album": {
         "name": "Santo por Siempre (Versi\u00f3n en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0KJwh3acE9ex8MOOffcbFe"
       },
@@ -59812,7 +60060,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 388285,
       "name": "Se Trata de Ti - En Vivo",
       "url": "https://open.spotify.com/track/6WYaay9YHChCWlaRgsUOdP"
@@ -61222,6 +61470,28 @@
       "duration_ms": 198035,
       "name": "Sigo Firme",
       "url": "https://open.spotify.com/track/1ko30tEQ1NcMTBNPTeZurH"
+    },
+    {
+      "album": {
+        "name": "Sigo Siendo",
+        "url": "https://open.spotify.com/album/4jBD3aNqCCYioLeMwJBqFh"
+      },
+      "artists": [
+        {
+          "name": "DiRouse",
+          "url": "https://open.spotify.com/artist/4R4sYOEy03dxD9uIMzWNn2"
+        },
+        {
+          "name": "Christian Ponce",
+          "url": "https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170792,
+      "name": "Sigo Siendo",
+      "url": "https://open.spotify.com/track/3xl3a3h1JPdeHQMC33OIbd"
     },
     {
       "album": {
@@ -77668,7 +77938,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 557000,
       "name": "\u00c9l Regresar\u00e1",
       "url": "https://open.spotify.com/track/11ZgcG8tCeSjJ4XQHhSLHA"

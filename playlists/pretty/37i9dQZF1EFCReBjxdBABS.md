@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 99 | [Rosalee](https://open.spotify.com/track/1dlddvHp5NcSIQB8XMaMDf) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:53 |
 | 100 | [Why I'm Calling](https://open.spotify.com/track/3JPcJSxsd5JC5Dk9T5GNIr) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:05 |
 | 101 | [Better Than I Do](https://open.spotify.com/track/7quRppjpbhFLbJTDYmluYg) | [Chloe Raye](https://open.spotify.com/artist/0CaJUsuO5g4LQFWJmu98T5) | [Better Than I Do](https://open.spotify.com/album/4JPMLg3IpXEPU24EMLUwhD) | 3:41 |
-| 102 | [Low Key](https://open.spotify.com/track/3aikwRUIYqSqYvTV8Mecux) | [Brian Michael](https://open.spotify.com/artist/3CodRr1HJTLmB69q8UzsDI) | [Low Key](https://open.spotify.com/album/4FdDYOExPg0LBPH2UUYFnT) | 3:03 |
-| 103 | [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 |
+| 102 | [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 |
+| 103 | [Low Key](https://open.spotify.com/track/3aikwRUIYqSqYvTV8Mecux) | [Brian Michael](https://open.spotify.com/artist/3CodRr1HJTLmB69q8UzsDI) | [Low Key](https://open.spotify.com/album/4FdDYOExPg0LBPH2UUYFnT) | 3:03 |
 | 104 | [Helluva Heart](https://open.spotify.com/track/3ZEtnekE1q1auJnZFJvAhs) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:19 |
 | 105 | [Everybody Wants](https://open.spotify.com/track/5KLICPIcMXzgpjxPNa2eWY) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [ROCK PAPER SCISSORS](https://open.spotify.com/album/5PYt49y3rW7GYT9A2LRn36) | 2:52 |
 | 106 | [Wagon](https://open.spotify.com/track/0NToiGWbr6fNjDyKJ6yrd1) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 2:48 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 127 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 128 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcL9wAAAAADCp5oSbouACo0oXv6LjEBg`
+Snapshot ID: `AcMDYAAAAACEusfhkk03TNZXP9zqxfYR`

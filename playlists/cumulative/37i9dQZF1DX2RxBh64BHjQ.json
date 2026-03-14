@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:6hpztnbgmaneFFGGnEOVjd\">sosocamo</a> ",
+  "description": "The official voice of the next generation. Cover: <a href=\"spotify:artist:20B8Ga2HfEUNJBAbZsJU2c\">Trap Dickey</a> ",
   "name": "Most Necessary",
   "tracks": [
     {
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 104000,
       "name": "Act Like Money",
       "url": "https://open.spotify.com/track/59srqH5Kg6NWlUzH1T5olL"
@@ -4079,6 +4079,32 @@
     },
     {
       "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/2RU8jg3q51UuxlS5bsUYnD"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148646,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC"
+    },
+    {
+      "album": {
         "name": "King Of The Trap 2 (Deluxe)",
         "url": "https://open.spotify.com/album/6PMDRce4bzlXYzXlsEPWtP"
       },
@@ -4304,7 +4330,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 180375,
       "name": "Bad Guys (Jiggy Jiggy)",
       "url": "https://open.spotify.com/track/2cMBp20hDoXqAIBFuyKVGB"
@@ -4764,7 +4790,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 148299,
       "name": "Bazin",
       "url": "https://open.spotify.com/track/5gaSZumOBMlrnFv9QLStnD"
@@ -14183,6 +14209,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3iOdVj6hlLXxDgW7ooU9ZA"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142680,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3r4myCRyUHfTc8joUS3st5"
+    },
+    {
+      "album": {
         "name": "DRESScode",
         "url": "https://open.spotify.com/album/5UMBQyB5LKje7cKOFma8vP"
       },
@@ -14708,6 +14752,28 @@
       "duration_ms": 166473,
       "name": "Eat (feat. Z-Ro)",
       "url": "https://open.spotify.com/track/5uKVpF7HT4VMTLCj6QmrBU"
+    },
+    {
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "album": {
@@ -16432,7 +16498,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 113700,
       "name": "Fine Shit",
       "url": "https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn"
@@ -18948,6 +19014,28 @@
       "duration_ms": 133708,
       "name": "Ghetto Boyz",
       "url": "https://open.spotify.com/track/1EH3nPHVZbWn2LTwxrp3j1"
+    },
+    {
+      "album": {
+        "name": "GIA (with Peezy)",
+        "url": "https://open.spotify.com/album/3W9FWPKFC2z7ZokHaYEt6H"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183216,
+      "name": "GIA (with Peezy)",
+      "url": "https://open.spotify.com/track/0IZp8FcdyEzI4x5uSErpKN"
     },
     {
       "album": {
@@ -22206,7 +22294,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 139206,
       "name": "Hood (feat. Nino Paid)",
       "url": "https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2"
@@ -23096,7 +23184,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 130753,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/7crDZufh1Mjq6NVuxqyLVg"
@@ -26270,7 +26358,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 124268,
       "name": "Kobe",
       "url": "https://open.spotify.com/track/7Kw8y31KPpco4LBMckGfyn"
@@ -30963,6 +31051,24 @@
     },
     {
       "album": {
+        "name": "Motion Party",
+        "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95840,
+      "name": "Motion Party",
+      "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
+    },
+    {
+      "album": {
         "name": "LIVE FROM THE 206",
         "url": "https://open.spotify.com/album/2T0lzqE5dQWvkFA6pxKXxk"
       },
@@ -33957,6 +34063,24 @@
     },
     {
       "album": {
+        "name": "Profit Over Pain",
+        "url": "https://open.spotify.com/album/0qbHaeTmhGSQMKre2OrVvc"
+      },
+      "artists": [
+        {
+          "name": "51 June",
+          "url": "https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140369,
+      "name": "No Time 2 Waste",
+      "url": "https://open.spotify.com/track/2vPEncatzTHZET9IICRtyr"
+    },
+    {
+      "album": {
         "name": "NO TRENDS",
         "url": "https://open.spotify.com/album/5JS2X3VEurVYSlwFdv3Ikv"
       },
@@ -35834,6 +35958,24 @@
       "duration_ms": 140869,
       "name": "Onnat Tymin",
       "url": "https://open.spotify.com/track/3bssAHt7NVCxYOb1DquvcV"
+    },
+    {
+      "album": {
+        "name": "oooshxt!",
+        "url": "https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135767,
+      "name": "oooshxt!",
+      "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
     },
     {
       "album": {
@@ -44739,6 +44881,24 @@
     },
     {
       "album": {
+        "name": "So Groovy",
+        "url": "https://open.spotify.com/album/1rATk1CV7PQIQzkLxaOlsX"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "So Groovy",
+      "url": "https://open.spotify.com/track/5LLxJJ6CE38tp5MkHcL4LE"
+    },
+    {
+      "album": {
         "name": "Molly Santana",
         "url": "https://open.spotify.com/album/0L3yIg84VZblXuBBewLgn6"
       },
@@ -46510,7 +46670,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 121791,
       "name": "SUICIDE NOTE",
       "url": "https://open.spotify.com/track/0jKJHqpSazr1i29IILH5wi"
@@ -47942,6 +48102,24 @@
       "duration_ms": 153625,
       "name": "The Commission",
       "url": "https://open.spotify.com/track/5Ao3zphwFOT0tNJLTJfPX6"
+    },
+    {
+      "album": {
+        "name": "The Crib",
+        "url": "https://open.spotify.com/album/6mrjG8ZNd723nncb0G58r6"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108741,
+      "name": "The Crib",
+      "url": "https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L"
     },
     {
       "album": {
@@ -51211,6 +51389,28 @@
     },
     {
       "album": {
+        "name": "Video Shoot",
+        "url": "https://open.spotify.com/album/3WVq4sqDVgoFJyELeCDfFj"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158579,
+      "name": "Video Shoot",
+      "url": "https://open.spotify.com/track/4Z0LJAvYFlDIW26qGAjSuW"
+    },
+    {
+      "album": {
         "name": "Saaheem",
         "url": "https://open.spotify.com/album/6PnO5SKESj6TTQWoWr72TA"
       },
@@ -52116,7 +52316,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 118356,
       "name": "WDH You Been Doin",
       "url": "https://open.spotify.com/track/5FbCkRBcSUnlICUhgrj4Yx"
@@ -52592,7 +52792,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 157591,
       "name": "what will they say",
       "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 90 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,903 likes - 90 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 89 | [Palisades](https://open.spotify.com/track/50tmrlcBfHrPp2ogy182wI) | [Lords of Lounge](https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88) | [LORDS OF LOUNGE 2](https://open.spotify.com/album/7pbU98NuP8gMZdU9p1u5m2) | 4:31 |
 | 90 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/63rkDYfaDhcUaOh0UE0Dt1) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Um Brinde ao Agora](https://open.spotify.com/album/6qrAiIIlSK6YDc9hXtOdCr) | 3:15 |
 
-Snapshot ID: `AAAAALleI0fS32XD2tO4jLjQlgwMV3ln`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

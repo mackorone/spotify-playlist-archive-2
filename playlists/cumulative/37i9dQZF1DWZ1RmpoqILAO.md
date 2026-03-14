@@ -4,7 +4,7 @@
 
 > you met me at a very indie twang time in my life..\. Ratboys on the cover
 
-336 songs - 21 hr 35 min
+337 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Good Ol Days](https://open.spotify.com/track/5vRWfHVWcKncaW7WYNdKyJ) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/4YrL4gc7GACAqnKomXuvGk) | 4:54 | 2024-03-01 | 2024-04-19 |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-23 | 2026-01-31 |
 | [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 6:00 | 2025-09-19 |  |
+| [Hanging Out With a Blueberry Pop](https://open.spotify.com/track/1SlFNZ0cbfeBertOQxgzNW) | [Croz Boyce](https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Hanging Out With a Blueberry Pop](https://open.spotify.com/album/4zkenwJpvQ2NWNwUKLTlga) | 4:59 | 2026-03-13 |  |
 | [Hannah Sun](https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ) | 3:28 | 2023-02-23 |  |
 | [Hannah Sun](https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Hannah](https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY) | 3:28 | 2023-04-28 | 2024-04-19 |
 | [Hard Feelings](https://open.spotify.com/track/68MbMKn42dsBU9bgzHaRXw) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [Hard Feelings](https://open.spotify.com/album/6JG9cpogbueo7J6AWLhl6T) | 4:24 | 2023-09-22 | 2025-01-25 |

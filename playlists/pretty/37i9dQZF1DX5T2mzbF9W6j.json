@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112544,
+  "num_followers": 112540,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Pali si\u0119 niebo",
-        "url": "https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl"
-      },
-      "artists": [
-        {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        }
-      ],
-      "duration_ms": 156025,
-      "name": "Pali si\u0119 niebo",
-      "url": "https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "5am",
         "url": "https://open.spotify.com/album/4bMW89opKwxPi1j09k4ipM"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 176493,
       "name": "5am",
       "url": "https://open.spotify.com/track/0MmNX3D3nEUYmbP58vhuG2"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "Pali si\u0119 niebo",
+        "url": "https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "duration_ms": 156025,
+      "name": "Pali si\u0119 niebo",
+      "url": "https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
+        "name": "prosz\u0119 pana",
+        "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
+      },
+      "artists": [
+        {
+          "name": "Lanberry",
+          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
+        }
+      ],
+      "duration_ms": 130342,
+      "name": "prosz\u0119 pana",
+      "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
         "name": "Znajd\u017a mnie w tym",
         "url": "https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 169375,
       "name": "Pierwszy raz",
       "url": "https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
-        "name": "prosz\u0119 pana",
-        "url": "https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7"
-      },
-      "artists": [
-        {
-          "name": "Lanberry",
-          "url": "https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8"
-        }
-      ],
-      "duration_ms": 130342,
-      "name": "prosz\u0119 pana",
-      "url": "https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -1071,18 +1071,26 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+        "name": "TOKSYNA",
+        "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
       },
       "artists": [
         {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+          "name": "Aron x Krux",
+          "url": "https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Bajorson",
+          "url": "https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS"
         }
       ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
+      "duration_ms": 216398,
+      "name": "TOKSYNA",
+      "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"
     }
   ],
   "unique_name": "... ale najpierw kawa",

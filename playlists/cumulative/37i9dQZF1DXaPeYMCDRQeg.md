@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-476 songs - 1 day 5 hr 28 min
+477 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Time Today \- Remix](https://open.spotify.com/track/6xQObuonHYg7NbuHngLlcg) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Time Today \(Remix\)](https://open.spotify.com/album/2hA9pr8kwJ4haAAstHtE3n) | 3:19 | 2021-12-15 | 2022-07-29 |
 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/1zw58wBujy79wxhOoxHxii) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/album/6EzhFxkhJ1Fd6vSER8YL8l) | 3:46 | 2021-12-15 | 2022-07-29 |
 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 | 2021-12-15 | 2023-02-11 |
+| [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 |  |
 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 | 2026-01-27 |  |
 | [Try To Love](https://open.spotify.com/track/23En19UauVOU4UxVL7H7lv) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 2:23 | 2025-12-05 | 2026-01-15 |
 | [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 | 2026-01-09 | 2026-01-24 |

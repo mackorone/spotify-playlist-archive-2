@@ -15043,6 +15043,24 @@
     },
     {
       "album": {
+        "name": "GAME CHANGER",
+        "url": "https://open.spotify.com/album/1m1BQTRVB0ePAPEpH8fhdJ"
+      },
+      "artists": [
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154677,
+      "name": "GAME CHANGER",
+      "url": "https://open.spotify.com/track/01q7lwYasb1eu3bjHNpjiW"
+    },
+    {
+      "album": {
         "name": "ASCENT",
         "url": "https://open.spotify.com/album/3HTOnKukMs0RuZwzPryPoY"
       },
@@ -18368,6 +18386,28 @@
       "duration_ms": 250239,
       "name": "huminyugi (feat. BES)",
       "url": "https://open.spotify.com/track/4QCyQjddqhytEum8jXekMB"
+    },
+    {
+      "album": {
+        "name": "as i am",
+        "url": "https://open.spotify.com/album/2eNe5umnF7S1Tz1E6QcrKO"
+      },
+      "artists": [
+        {
+          "name": "AZU",
+          "url": "https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML"
+        },
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151850,
+      "name": "Humming (feat. DADA)",
+      "url": "https://open.spotify.com/track/0mo4MXeG9jXvy3dcDE7HIi"
     },
     {
       "album": {
@@ -36631,6 +36671,32 @@
     },
     {
       "album": {
+        "name": "Showy is Lit 3",
+        "url": "https://open.spotify.com/album/6tuGvAFNdorF8LtP9yybwp"
+      },
+      "artists": [
+        {
+          "name": "Showy",
+          "url": "https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g"
+        },
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        },
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "SIL",
+      "url": "https://open.spotify.com/track/5vOcNQcWnl8wU7460lIL2h"
+    },
+    {
+      "album": {
         "name": "Sinner (feat. A-THUG)",
         "url": "https://open.spotify.com/album/2c3MF2gFFIk1g48NZj87rN"
       },
@@ -39391,6 +39457,28 @@
     },
     {
       "album": {
+        "name": "JAPANESE EXCELLENCE",
+        "url": "https://open.spotify.com/album/5EPlwVH6SCiugDS7Acg9Rr"
+      },
+      "artists": [
+        {
+          "name": "Ludio",
+          "url": "https://open.spotify.com/artist/41vIKiqDMTHk8ZFm442Vls"
+        },
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136216,
+      "name": "SWAGBAE (feat. Kianna)",
+      "url": "https://open.spotify.com/track/3ZvygBgI6IWWB6A32xzTjM"
+    },
+    {
+      "album": {
         "name": "Sweet Dream",
         "url": "https://open.spotify.com/album/7INXwB4jG3o45BhKuzg5dn"
       },
@@ -40610,6 +40698,32 @@
       "duration_ms": 200689,
       "name": "THE WAY (feat. Daichi Yamamoto)",
       "url": "https://open.spotify.com/track/51umd2jU2LTaYfadqjN8N2"
+    },
+    {
+      "album": {
+        "name": "THEME OF TAXMEN",
+        "url": "https://open.spotify.com/album/0fodGZkEU3fVNsnS4VnaMB"
+      },
+      "artists": [
+        {
+          "name": "TAXMEN",
+          "url": "https://open.spotify.com/artist/3jPLkrcUodhzpbCXABDixk"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180844,
+      "name": "THEME OF TAXMEN",
+      "url": "https://open.spotify.com/track/3SWgMu41C5oF6pnw8NtRwF"
     },
     {
       "album": {
@@ -49726,7 +49840,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 150010,
       "name": "\u5b8c\u74a7\u3060",
       "url": "https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1"

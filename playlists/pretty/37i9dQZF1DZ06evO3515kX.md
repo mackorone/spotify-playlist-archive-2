@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 
 > This is The Runaways\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,168 likes - 33 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,171 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 13 | [Rock N Roll](https://open.spotify.com/track/5dfDYizNZT5aL99pOxkRDC) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:16 |
 | 14 | [Neon Angels On The Road To Ruin](https://open.spotify.com/track/4i92Z8iFUAQ9SJdjMbFHHM) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 3:28 |
 | 15 | [Gotta Get Out Tonight](https://open.spotify.com/track/1NZH1RRVDUxCbTp11y7ext) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:31 |
-| 16 | [Gettin' Hot \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/1AJLqpX8ik2TgIAizuz1Q5) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 2:58 |
+| 16 | [Black Leather](https://open.spotify.com/track/2tLjF7R9BBYoWS9AkWfpEG) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:49 |
 | 17 | [Is It Day Or Night?](https://open.spotify.com/track/1KlGMvdrwAks29kzrqMZd3) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:45 |
 | 18 | [Hollywood](https://open.spotify.com/track/35KtQui8CuiE7kP8IcNz3w) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 2:57 |
 | 19 | [Don't Go Away](https://open.spotify.com/track/2kuEjhcmLdBcUt8Ph4junl) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 3:32 |
-| 20 | [Black Leather](https://open.spotify.com/track/2tLjF7R9BBYoWS9AkWfpEG) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 3:49 |
+| 20 | [Gettin' Hot \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/1AJLqpX8ik2TgIAizuz1Q5) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 2:58 |
 | 21 | [Blackmail](https://open.spotify.com/track/4OQSUXmadIEnu1zH0uKgiI) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:40 |
 | 22 | [Heart Beat](https://open.spotify.com/track/2FyotyCTPhkPPUyIFUVkMR) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Queens Of Noise](https://open.spotify.com/album/2PUPhJHGBmdiIjMQjM7Dgp) | 2:51 |
 | 23 | [Wait For Me](https://open.spotify.com/track/5nhDarZPg8pMoY0r2QnVpj) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Waitin' For The Night](https://open.spotify.com/album/3ZF382bqWdCzkrsJSGEmkf) | 4:55 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 32 | [Little Lost Girls](https://open.spotify.com/track/5voJquNkFnFPNW1WQWmp3I) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [And Now? The Runaways](https://open.spotify.com/album/1J77kVsuOQ5rholQRmsQe8) | 4:43 |
 | 33 | [All Right You Guys \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/2nRrFBDAMsB2SMrV55NsU1) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 3:30 |
 
-Snapshot ID: `abCwgAAAAACi4kR2+4ixlwh47I2ktz2u`
+Snapshot ID: `abICAAAAAAA4rppTP2Q5nc+IyeBK7Oj4`

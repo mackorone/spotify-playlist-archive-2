@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Dopebwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,397 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,391 likes - 60 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 |
-| 2 | [Track 1](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 0:00 |
+| 2 | [Stenen & Liquide](https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Stenen & Liquide](https://open.spotify.com/album/2gXnEAPoYOUvy6sfk2H2db) | 1:48 |
 | 3 | [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 |
 | 4 | [Jon Snow](https://open.spotify.com/track/0CnM3vnBnjiIe2RqjmLJSM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Jon Snow](https://open.spotify.com/album/3T9DIkvFTq5i5VRWS9tq8l) | 2:28 |
 | 5 | [Fysio](https://open.spotify.com/track/5kSdTWUvY0Pqx2svJ6Q3ss) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 1:58 |

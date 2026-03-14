@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 191947,
+  "num_followers": 191959,
   "original_name": "Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 265626,
-      "name": "La Cosa Mas Bella",
-      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 289866,
       "name": "Tan Enamorados",
       "url": "https://open.spotify.com/track/5kxol5m6MfiJgahqyzbDRH"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 265626,
+      "name": "La Cosa Mas Bella",
+      "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "El Rock De Mi Pueblo",
-        "url": "https://open.spotify.com/album/605XadNlpraxshOvMt9UXl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Voy A Olvidarme De Mi",
-      "url": "https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "Presiento",
         "url": "https://open.spotify.com/album/4AoZ74lY9YRMaPaEPSCxnF"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 174379,
       "name": "Presiento",
       "url": "https://open.spotify.com/track/7nHUD2xhqkehsYk3PT6QDs"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "El Rock De Mi Pueblo",
+        "url": "https://open.spotify.com/album/605XadNlpraxshOvMt9UXl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Voy A Olvidarme De Mi",
+      "url": "https://open.spotify.com/track/2s66rxdujHHVhNNnJfgL2D"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Con La Miel En Los Labios",
-        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "QUE SED",
         "url": "https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 152117,
       "name": "JURO QUE ME DOLIO",
       "url": "https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Con La Miel En Los Labios",
+        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Oye",
-        "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/2IzK6dZXxuS20zoQ1b6Jxu"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 173021,
-      "name": "Oye",
-      "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/2GCb04vjU2QePbEEHUOAC4"
     }
   ],
   "unique_name": "Rom\u00e1nticos",

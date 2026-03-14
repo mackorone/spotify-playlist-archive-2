@@ -4595,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "Green Onions / Behave Yourself",
+        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "date_added": "2021-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167384,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
+    },
+    {
+      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
       },
@@ -4610,24 +4628,6 @@
       "duration_ms": 176333,
       "name": "Green Onions",
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "album": {
-        "name": "Green Onions / Behave Yourself [Digital 45]",
-        "url": "https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "date_added": "2021-01-05",
-      "date_added_asterisk": false,
-      "date_removed": "2021-12-07",
-      "duration_ms": 167384,
-      "name": "Green Onions - 45 Version",
-      "url": "https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD"
     },
     {
       "album": {
@@ -11218,7 +11218,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"

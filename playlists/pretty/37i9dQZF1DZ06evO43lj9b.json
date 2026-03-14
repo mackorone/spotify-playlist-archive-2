@@ -1,12 +1,12 @@
 {
   "description": "This is Roy Ayers. The essential tracks, all in one playlist.",
-  "num_followers": 16534,
+  "num_followers": 16537,
   "original_name": "This Is Roy Ayers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADuDCOmahY+wn49M2sMilgh",
+  "snapshot_id": "abICAAAAAABGYwrQSOnGsKZR1ETMZtlD",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 280466,
+      "name": "Red, Black & Green",
+      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Send Me",
         "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
@@ -575,8 +591,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+        "name": "Avery*Sunshine",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 295786,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3wzTaIqc8NtvVWXZmeQcV9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
       },
       "artists": [
         {
@@ -584,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 280466,
-      "name": "Red, Black & Green",
-      "url": "https://open.spotify.com/track/5EnsDu3iwxCIGhCFkDUlkY"
+      "duration_ms": 350546,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
     },
     {
       "added_at": null,
@@ -615,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avery*Sunshine",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 295786,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3wzTaIqc8NtvVWXZmeQcV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Send Me",
         "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 350546,
-      "name": "What You Won't Do For Love",
-      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red, Black & Green",
         "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
       },
@@ -679,6 +679,30 @@
       "duration_ms": 333173,
       "name": "Papa Was A Rolling Stone",
       "url": "https://open.spotify.com/track/1PJQ2bQC60SmUqJrRyLDB3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Vibes",
+        "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
+      },
+      "artists": [
+        {
+          "name": "Ferry Ultra",
+          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "duration_ms": 205167,
+      "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
+      "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
     },
     {
       "added_at": null,
@@ -731,30 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Vibes",
-        "url": "https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W"
-      },
-      "artists": [
-        {
-          "name": "Ferry Ultra",
-          "url": "https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Emmaculate",
-          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
-        }
-      ],
-      "duration_ms": 205167,
-      "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
-      "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change Up The Groove",
         "url": "https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 280840,
       "name": "The Boogie Back",
       "url": "https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 380546,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
     },
     {
       "added_at": null,
@@ -795,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+        "name": "Evolution: The Polydor Anthology",
+        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
       },
       "artists": [
         {
@@ -804,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 380546,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI"
+      "duration_ms": 230733,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
     },
     {
       "added_at": null,
@@ -827,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution: The Polydor Anthology",
-        "url": "https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l"
+        "name": "Virgin Ubiquity II",
+        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
       "artists": [
         {
           "name": "Roy Ayers",
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Terri Wells",
+          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
         }
       ],
-      "duration_ms": 230733,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB"
+      "duration_ms": 427906,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 219989,
       "name": "Shadows of The East",
       "url": "https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Virgin Ubiquity II",
-        "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Terri Wells",
-          "url": "https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ"
-        }
-      ],
-      "duration_ms": 427906,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Might Be Surprised (Expanded Edition)",
+        "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 269973,
+      "name": "Slip n' Slide",
+      "url": "https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers JID002",
         "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 181756,
       "name": "Sunflowers",
       "url": "https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Might Be Surprised (Expanded Edition)",
-        "url": "https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 269973,
-      "name": "Slip n' Slide",
-      "url": "https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL"
     },
     {
       "added_at": null,

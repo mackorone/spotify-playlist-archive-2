@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Sunnan
 
-1,167 songs - 2 day 19 hr 12 min
+1,168 songs - 2 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [carousel](https://open.spotify.com/track/7y0NTuyelHDAzWogEKpcMr) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [carousel](https://open.spotify.com/album/7s1Vh1Cj9v1JAugQDBEqL1) | 1:31 | 2024-12-19 | 2025-02-14 |
 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-08 | 2025-10-10 |
 | [Castle in the Sky](https://open.spotify.com/track/0Fu7u1PnSWonsvaGGkFKMG) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Castle in the Sky](https://open.spotify.com/album/2qyX75sM8jTRpbxZEeWMJp) | 2:35 | 2026-01-01 |  |
+| [CATASTROPHIC](https://open.spotify.com/track/5cgdk2W15L8nU2dBVdwaZl) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [CATASTROPHIC](https://open.spotify.com/album/2WaHgpLXWR63pDHXvkGotw) | 2:56 | 2026-03-12 |  |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-03 | 2025-06-20 |
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 |  |
 | [Change of the Wind](https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Change of the Wind](https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc) | 3:49 | 2025-12-04 |  |
@@ -1056,10 +1057,10 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 1](https://open.spotify.com/track/5cgdk2W15L8nU2dBVdwaZl) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [CATASTROPHIC](https://open.spotify.com/album/2WaHgpLXWR63pDHXvkGotw) | 0:00 | 2026-03-12 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
 | [trash paradise, moonlight](https://open.spotify.com/track/1T906XVun8dtijlUmrE4E0) | [haisonne](https://open.spotify.com/artist/0SGm5nFXYtiL33xIJTW7jZ) | [trash paradise, moonlight](https://open.spotify.com/album/29T2Ys3uewbbuMva3CbCsw) | 3:40 | 2024-06-27 | 2024-08-09 |
+| [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 | 2026-03-13 |  |
 | [Tuna in a Can](https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [All is Love and Pain in the Mouse Parade](https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b) | 3:06 | 2025-10-16 |  |
 | [Two in This Story](https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Two in This Story](https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW) | 3:54 | 2025-05-15 | 2025-10-10 |
 | [Two\-Star Prison](https://open.spotify.com/track/7Jj2mKhz0ufaOch4WuvIVu) | [FRANKIE OCTOBER](https://open.spotify.com/artist/40DZ0XYPJCrVu76o6nzyHw) | [Two\-Star Prison](https://open.spotify.com/album/7HgtURdjQvK7HAoq9jxGaQ) | 2:32 | 2025-12-04 |  |

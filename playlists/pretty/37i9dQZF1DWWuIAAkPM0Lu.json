@@ -1,6 +1,6 @@
 {
   "description": "Ny fredag, ny musik fra Christopher, Zar Paulo, Sira Jovina  og maaange flere  \u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 125733,
+  "num_followers": 125868,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-03-12 23:00:46",
       "album": {
+        "name": "Something to Hope For",
+        "url": "https://open.spotify.com/album/649xH0ILrI0AxbpCEZlsOS"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 174270,
+      "name": "Something to Hope For",
+      "url": "https://open.spotify.com/track/2mXJUvkWU4buVwVr34FUlf"
+    },
+    {
+      "added_at": "2026-03-12 23:00:46",
+      "album": {
         "name": "Take you away",
         "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
       },
@@ -694,10 +710,18 @@
         {
           "name": "Arif Murakami",
           "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        },
+        {
+          "name": "Ousu Leigh",
+          "url": "https://open.spotify.com/artist/6CpjPG0lD6QJlkrCrNpdH4"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 244413,
+      "name": "Ingen Meg Uten Deg",
       "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
     },
     {
@@ -848,8 +872,8 @@
           "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 129634,
+      "name": "WHERE DO I GO?",
       "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"
     },
     {

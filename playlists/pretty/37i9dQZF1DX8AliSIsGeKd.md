@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink, Lauren Mia
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,236 likes - 89 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,440 likes - 89 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 11 | [Let Me Know \- Johannes Albert Warehouse Mix](https://open.spotify.com/track/4HZhlAuZfMdM7vpy5BREtX) | [Deckert](https://open.spotify.com/artist/6p6VbQGtr0chGqPhRH2aOd), [CØME](https://open.spotify.com/artist/46rcHr9d49gEy4nI8gjfNS), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Indigo Plateaux](https://open.spotify.com/artist/3fPe1k7DEjnn6X5fxB862T) | [Let Me Know \(Johannes Albert Warehouse Mix\)](https://open.spotify.com/album/18J3fkAOR2b9Zmrs2JY4eq) | 5:23 |
 | 12 | [Diversion Ends \- CINTHIE Remix](https://open.spotify.com/track/0kVHWABLcZX0uQ5JrY9P6q) | [Lulah Francs](https://open.spotify.com/artist/23tHZ1foBtSQO2vN6NuWSc), [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Diversion Ends \(CINTHIE Remix\)](https://open.spotify.com/album/1wrs8FZnUv17UIoQPXibWB) | 5:34 |
 | 13 | [As the River Flows](https://open.spotify.com/track/4p45SYqylTu3r2It4ICCsK) | [Kon Faber](https://open.spotify.com/artist/63RvOgWyeaaDm7oDtUq17q) | [As the River Flows](https://open.spotify.com/album/4fpkK9ImtZOomSb4TQMMvX) | 4:34 |
-| 14 | [Track 1](https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [So Divine EP](https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs) | 0:00 |
+| 14 | [So Divine](https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [So Divine EP](https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs) | 3:09 |
 | 15 | [Make Some Noise](https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Make Some Noise](https://open.spotify.com/album/1tLvx3RU7RpR2DzAx288dx) | 3:11 |
 | 16 | [Propeller](https://open.spotify.com/track/5Y98WkuKDHL6RpWBpJdo4e) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY) | [Propeller EP](https://open.spotify.com/album/0LhMjOQIrYNzWqX5Ug89Q7) | 3:01 |
 | 17 | [Tibet](https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tibet](https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm) | 3:39 |
-| 18 | [Track 1](https://open.spotify.com/track/7rr0SKUlTYL587b3oICGzs) | [Momoda](https://open.spotify.com/artist/58ED0PDMaqpmw6y4nHwPvM) | [Crash Goes Love](https://open.spotify.com/album/0SohRoxRS1kjr0XvR6bw6M) | 0:00 |
+| 18 | [Crash Goes Love](https://open.spotify.com/track/7rr0SKUlTYL587b3oICGzs) | [Momoda](https://open.spotify.com/artist/58ED0PDMaqpmw6y4nHwPvM) | [Crash Goes Love](https://open.spotify.com/album/0SohRoxRS1kjr0XvR6bw6M) | 4:54 |
 | 19 | [Easy To Love](https://open.spotify.com/track/0LeJe4yOEYKmKwNsSmm3yW) | [Beneau](https://open.spotify.com/artist/2ztkAFf74F4SvOiqG1FyPO) | [Easy To Love](https://open.spotify.com/album/7FyUhIxPN8Zjcy1Eo8JsW1) | 4:05 |
 | 20 | [A Piece Of The Sun](https://open.spotify.com/track/0ZQ1OW46MFTyg8gsfw712o) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [A Piece Of The Sun](https://open.spotify.com/album/1y8BCSfSWZT5RDv2KmPIDY) | 3:27 |
 | 21 | [All U Got](https://open.spotify.com/track/1PW1CJXL2ZhzqZfaHcVykc) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [All U Got](https://open.spotify.com/album/0FHd3LeS2h7oPVP8fivJWG) | 2:41 |

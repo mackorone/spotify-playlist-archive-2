@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,172 songs - 9 day 5 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,173 songs - 9 day 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4180,5 +4180,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4170 | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/album/2YgS8QXiJs9yxOVDHTwZO7) | 2:36 |
 | 4171 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 |
 | 4172 | [boyfriend...\(ew\)](https://open.spotify.com/track/6jayrcLdGIg47o8Wzkp3Vq) | [SXY](https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK) | [boyfriend...\(ew\)](https://open.spotify.com/album/2BFMWu941leigGSnriv5HB) | 2:21 |
+| 4173 | [Irish Goodbyes](https://open.spotify.com/track/2FdApGBPtwyMdWVPWcWKyY) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll), [Weathered Pages](https://open.spotify.com/artist/2OihtBTL3YYFu0Y4FbyGui) | [Irish Goodbyes](https://open.spotify.com/album/1pSbkEuIRJmoEIOjqf9SZF) | 4:08 |
 
-Snapshot ID: `AAAHqQ7A1f2D/m3vppUUgeyHtV8nZ6EL`
+Snapshot ID: `AAAHqkXMQscOVpE/Jj06OCI68rMr0ljX`

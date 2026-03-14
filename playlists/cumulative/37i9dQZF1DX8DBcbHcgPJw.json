@@ -2827,6 +2827,28 @@
     },
     {
       "album": {
+        "name": "DE PE A PA",
+        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153260,
+      "name": "DE PE A PA",
+      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
+    },
+    {
+      "album": {
         "name": "De Trampa",
         "url": "https://open.spotify.com/album/6Lyt4SqPG3cuJkNgPMMHuf"
       },
@@ -3382,6 +3404,24 @@
       "duration_ms": 209718,
       "name": "D\u00e9jate Querer",
       "url": "https://open.spotify.com/track/5MBBsIHpiYiqmMbp7OQJcq"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Enero",
+        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145626,
+      "name": "D\u00eda de Enero",
+      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
     },
     {
       "album": {
@@ -4385,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "Extra\u00f1\u00e1ndote",
+        "url": "https://open.spotify.com/album/1toD2gkIVWbpttH9byCXRk"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "El Villano",
+          "url": "https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188286,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5pruxfqtpxNBKvdjqThMrg"
+    },
+    {
+      "album": {
         "name": "Fall\u00e9",
         "url": "https://open.spotify.com/album/64TR2v83gV0lH1juUoq9nq"
       },
@@ -5250,7 +5312,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 475951,
       "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
       "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
@@ -5474,6 +5536,28 @@
       "duration_ms": 165340,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
+    },
+    {
+      "album": {
+        "name": "La del Proceso",
+        "url": "https://open.spotify.com/album/2ehSEefT4LffmFw2clYjDX"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Nata",
+          "url": "https://open.spotify.com/artist/7xWrrxHxUzo3PwlvBQGjlP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136179,
+      "name": "La del Proceso",
+      "url": "https://open.spotify.com/track/3pKIug2fYKOfsWikAPSssL"
     },
     {
       "album": {
@@ -8778,7 +8862,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
@@ -11880,7 +11964,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 326437,
       "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
       "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
@@ -14610,7 +14694,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 165634,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi"

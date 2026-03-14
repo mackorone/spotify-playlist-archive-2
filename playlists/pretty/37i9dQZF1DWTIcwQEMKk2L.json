@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 641,
+  "num_followers": 183,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "S\u00fcda",
-        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Thiel",
-          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
-        }
-      ],
-      "duration_ms": 202750,
-      "name": "S\u00fcda",
-      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Head, Shoulders, Knees and Toes",
         "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 77672,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "S\u00fcda",
+        "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
+      },
+      "artists": [
+        {
+          "name": "Jan Thiel",
+          "url": "https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "S\u00fcda",
+      "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -639,38 +639,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Schutter",
-        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
-      },
-      "artists": [
-        {
-          "name": "Alex Laude",
-          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Schutter",
-      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Schutter",
+        "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
+      },
+      "artists": [
+        {
+          "name": "Alex Laude",
+          "url": "https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Schutter",
+      "url": "https://open.spotify.com/track/2ODAJGjI4YZwWp470XsV41"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Water Lilly Pond",
         "url": "https://open.spotify.com/album/40cAmLwVVwfRupq5d5xvBt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 188025,
       "name": "Water Lilly Pond",
       "url": "https://open.spotify.com/track/3Xv7jBMmkJE5qvWRxXGG9N"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
-      },
-      "artists": [
-        {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 148407,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Piano Songs",
+        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+      },
+      "artists": [
+        {
+          "name": "Purple Tulips",
+          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "See you in the morning",
         "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "A Place Like This",
-      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "All Alone",
         "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
       },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Piano Songs",
-        "url": "https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW"
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
       "artists": [
         {
-          "name": "Purple Tulips",
-          "url": "https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h"
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
         }
       ],
-      "duration_ms": 225180,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw"
+      "duration_ms": 121500,
+      "name": "A Place Like This",
+      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
       },
       "artists": [
         {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
         }
       ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
       "artists": [
         {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
         }
       ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
-      },
-      "artists": [
-        {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Wake Up In Spring",
         "url": "https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "In The Dark Hours",
-        "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
       },
       "artists": [
         {
-          "name": "Anon Berg",
-          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
         }
       ],
-      "duration_ms": 175416,
-      "name": "In The Dark Hours",
-      "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1283,6 +1267,22 @@
       "duration_ms": 163126,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "In The Dark Hours",
+        "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
+      },
+      "artists": [
+        {
+          "name": "Anon Berg",
+          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
+        }
+      ],
+      "duration_ms": 175416,
+      "name": "In The Dark Hours",
+      "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
+      },
+      "artists": [
+        {
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
+        }
+      ],
+      "duration_ms": 231148,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Five",
         "url": "https://open.spotify.com/album/635sfn3tknH9uf1ZZX0Xlm"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 284640,
       "name": "Orfeo et Eurydice: M\u00e9lodie for Piano Solo",
       "url": "https://open.spotify.com/track/3DnLGuX4YU3PGein8vo5Zt"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 231148,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
-      },
-      "artists": [
-        {
-          "name": "Alice Frohde",
-          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
-        }
-      ],
-      "duration_ms": 154794,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Looking Forward, Looking Backward",
         "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Lunaria",
-        "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
       },
       "artists": [
         {
-          "name": "Francesca Carol\u00e9o",
-          "url": "https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke"
+          "name": "Alice Frohde",
+          "url": "https://open.spotify.com/artist/4eFkOzPb2gtD5CVb94lYFe"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Valerian",
-      "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+      "duration_ms": 154794,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1531,6 +1515,38 @@
       "duration_ms": 142516,
       "name": "Knowing Myself",
       "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Relief On A Shitty Day",
+        "url": "https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp"
+      },
+      "artists": [
+        {
+          "name": "Tyler Marshall",
+          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+        }
+      ],
+      "duration_ms": 188022,
+      "name": "Relief On A Shitty Day",
+      "url": "https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Lunaria",
+        "url": "https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn"
+      },
+      "artists": [
+        {
+          "name": "Francesca Carol\u00e9o",
+          "url": "https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Valerian",
+      "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Relief On A Shitty Day",
-        "url": "https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp"
-      },
-      "artists": [
-        {
-          "name": "Tyler Marshall",
-          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
-        }
-      ],
-      "duration_ms": 188022,
-      "name": "Relief On A Shitty Day",
-      "url": "https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "10 Ways Of Canon In D By Johann Pachelbel",
-        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
+        "name": "Clark Younger",
+        "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
       },
       "artists": [
         {
-          "name": "Johann Pachelbel",
-          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+          "name": "Clark Younger",
+          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
         }
       ],
-      "duration_ms": 200906,
-      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
-      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
+      "duration_ms": 204558,
+      "name": "Unforgetable",
+      "url": "https://open.spotify.com/track/5WC6MJOe9oVg0yz2yj2KA0"
     },
     {
       "added_at": "2026-02-09 02:44:55",

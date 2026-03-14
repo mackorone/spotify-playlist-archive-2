@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring LP Giobbi & blythe",
+  "description": "House music lives here. United under one roof, featuring Chris Stussy",
   "name": "Housewerk",
   "tracks": [
     {
@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 246520,
       "name": "Back Off",
       "url": "https://open.spotify.com/track/1pqburINZixjmdvcgftOrK"
@@ -3553,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO"
+    },
+    {
+      "album": {
         "name": "Break A Sweat",
         "url": "https://open.spotify.com/album/4k3rSZETqfdbmcx3oWR17E"
       },
@@ -3856,7 +3874,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178865,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
@@ -6104,6 +6122,46 @@
       "duration_ms": 154831,
       "name": "Dancing Shoes (Take Me Higher)",
       "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
+    },
+    {
+      "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/1O0ksNR8KBgRd6Amys7H3Q"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/5H9DW7D4z2MCCC6T4fFVOL"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234558,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL"
     },
     {
       "album": {
@@ -8486,7 +8544,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184085,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz"
@@ -8976,7 +9034,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191666,
       "name": "Focal",
       "url": "https://open.spotify.com/track/0Wqfy6l0pothPVjlmjYVn6"
@@ -9397,6 +9455,28 @@
     },
     {
       "album": {
+        "name": "Freaky Freqz",
+        "url": "https://open.spotify.com/album/038hLc519IjbLT48HiC1sp"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        },
+        {
+          "name": "MC Flipside",
+          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Freaky Freqz",
+      "url": "https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX"
+    },
+    {
+      "album": {
         "name": "Free Yourself (Paul Woolford Remix)",
         "url": "https://open.spotify.com/album/4eSdCOymBMoeuqHH1V6yeL"
       },
@@ -9809,6 +9889,28 @@
     },
     {
       "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
+    },
+    {
+      "album": {
         "name": "Get Busy (Odd Mob Club Mix)",
         "url": "https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW"
       },
@@ -10190,6 +10292,24 @@
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "album": {
+        "name": "Gimme The Love",
+        "url": "https://open.spotify.com/album/1SYI3JlPxNfawHzO8WIWO8"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Gimme The Love",
+      "url": "https://open.spotify.com/track/0tqHAhtLofrAgCm550RYTp"
     },
     {
       "album": {
@@ -11923,6 +12043,24 @@
     },
     {
       "album": {
+        "name": "Big Beat Manifesto Vol. XI",
+        "url": "https://open.spotify.com/album/2VqbVRlfzeq81J0ISJSn9I"
+      },
+      "artists": [
+        {
+          "name": "Eden Burns",
+          "url": "https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346430,
+      "name": "House of Fortune",
+      "url": "https://open.spotify.com/track/0OCXSQsA4JDntPEUglos2f"
+    },
+    {
+      "album": {
         "name": "How Deep Are Your Dreams?",
         "url": "https://open.spotify.com/album/3d4ePJKLgTDCOfuPz4Jrl7"
       },
@@ -12092,7 +12230,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 354461,
       "name": "Hypersilent",
       "url": "https://open.spotify.com/track/76SlQsZB2uZxW7ATfr3lpl"
@@ -13324,6 +13462,10 @@
         {
           "name": "Avision",
           "url": "https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj"
+        },
+        {
+          "name": "Martha Wash",
+          "url": "https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx"
         }
       ],
       "date_added": "2026-02-27",
@@ -13934,7 +14076,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -15898,6 +16040,24 @@
     {
       "album": {
         "name": "Like That",
+        "url": "https://open.spotify.com/album/7eqyGW51r1BKDIV9z17n5Z"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194121,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/2G9EQucmyuipl9wXCO1oNx"
+    },
+    {
+      "album": {
+        "name": "Like That",
         "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
       },
       "artists": [
@@ -16214,7 +16374,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 134095,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
@@ -16695,6 +16855,28 @@
     },
     {
       "album": {
+        "name": "Love On Me",
+        "url": "https://open.spotify.com/album/3ScGSR9l9CAIr7NNYq5bOJ"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        },
+        {
+          "name": "House Of Molly",
+          "url": "https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Love On Me",
+      "url": "https://open.spotify.com/track/3rBYmkOB8N1Z4bCa3DsdPK"
+    },
+    {
+      "album": {
         "name": "Love On You (feat. Griff Clawson)",
         "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
@@ -16772,7 +16954,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198425,
       "name": "Love Songs (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
@@ -16936,6 +17118,24 @@
       "duration_ms": 192657,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm"
+    },
+    {
+      "album": {
+        "name": "Love\u2019s Theme",
+        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174081,
+      "name": "Love\u2019s Theme",
+      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
     },
     {
       "album": {
@@ -18438,7 +18638,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 166874,
       "name": "Murder Mystery",
       "url": "https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw"
@@ -20755,6 +20955,32 @@
     },
     {
       "album": {
+        "name": "Perhaps, Perhaps, Perhaps",
+        "url": "https://open.spotify.com/album/085JNQ6ZI60MsEsasu5OlV"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Sudden Heat",
+          "url": "https://open.spotify.com/artist/2CU5PamZ3s3V8ReKjrbRX6"
+        },
+        {
+          "name": "Damaskus",
+          "url": "https://open.spotify.com/artist/4LLXVX1X1Y1V95AwigSSQy"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152511,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/31Oxosx5Exbp47dNrsljtI"
+    },
+    {
+      "album": {
         "name": "Overtime / Physically",
         "url": "https://open.spotify.com/album/21U0Cv7Z0eeXkiPJqjCExl"
       },
@@ -21058,7 +21284,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
@@ -23855,6 +24081,28 @@
     },
     {
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/3bKOdCt0sT8z5bthYD2zfr"
+      },
+      "artists": [
+        {
+          "name": "VITO (UK)",
+          "url": "https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI"
+        },
+        {
+          "name": "Marian (BR)",
+          "url": "https://open.spotify.com/artist/5FCqRgK9PqJYyfnBJg4AeH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253395,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/0Q1XK58PPN7VZIBK6a3DFf"
+    },
+    {
+      "album": {
         "name": "Sin Pero",
         "url": "https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo"
       },
@@ -24026,7 +24274,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178953,
       "name": "Slight Werk - Club Mix",
       "url": "https://open.spotify.com/track/3AenQimpj4gFY3e0CnsbD1"
@@ -25562,7 +25810,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213664,
       "name": "Take It Back (To The Old School)",
       "url": "https://open.spotify.com/track/63ECwoYcmpAiY57qTZGLtO"
@@ -27596,7 +27844,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212336,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/1dw6NEuLrDfbbKa5WHYmSl"
@@ -29996,6 +30244,24 @@
       "duration_ms": 153569,
       "name": "YES B!TCH (feat. Rome Fortune)",
       "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
+    },
+    {
+      "album": {
+        "name": "Yes Empress / B Phonk",
+        "url": "https://open.spotify.com/album/3UwP6GYYBjZ1M0Uae7phZM"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339031,
+      "name": "Yes Empress",
+      "url": "https://open.spotify.com/track/0PVcsnBtOOjqqFfhrI1NRn"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 317002,
+  "num_followers": 317037,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADS3EdWiBihKo+b+VNd84FH",
+  "snapshot_id": "abICAAAAAAD3Z3UqLjymAMdmDA/OZHwA",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 214013,
-      "name": "Lying In State",
-      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
+      "duration_ms": 207066,
+      "name": "Take No Prisoners - 2004 Remix",
+      "url": "https://open.spotify.com/track/1XFSSbQ9fApWNXZMAKllb6"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rust In Peace (2004 Remix / Expanded Edition)",
-        "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Take No Prisoners - 2004 Remix",
-      "url": "https://open.spotify.com/track/1XFSSbQ9fApWNXZMAKllb6"
+      "duration_ms": 214013,
+      "name": "Lying In State",
+      "url": "https://open.spotify.com/track/6gQ0syotEbHeDIYTC4EoSf"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Conquer Or Die",
-      "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Is My Business...And Business Is Good!",
         "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 265266,
       "name": "Mechanix",
       "url": "https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Conquer Or Die",
+      "url": "https://open.spotify.com/track/1xdmx0UEYQE5Wl7D7UUt5U"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 262026,
-      "name": "The Threat Is Real",
-      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 211226,
       "name": "Train Of Consequences - Remastered 2004",
       "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 262026,
+      "name": "The Threat Is Real",
+      "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dystopia",
-        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 287493,
-      "name": "Death From Within",
-      "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cryptic Writings (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
       "artists": [
         {
@@ -740,9 +724,25 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 274533,
-      "name": "Reckoning Day - Remastered 2004",
-      "url": "https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO"
+      "duration_ms": 287493,
+      "name": "Death From Within",
+      "url": "https://open.spotify.com/track/7IcKHPLfhvdfSBYTPMAbga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits: Back To The Start",
+        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Back To The Start",
-        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Kill The King",
-      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
+      "duration_ms": 274533,
+      "name": "Reckoning Day - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Bw7kDeY4ZPfUo5UY18tOO"
     },
     {
       "added_at": null,

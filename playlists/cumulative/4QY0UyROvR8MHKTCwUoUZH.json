@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 260173,
       "name": "Anything To Feel Alive",
       "url": "https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP"
@@ -1177,6 +1177,32 @@
     },
     {
       "album": {
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/4es22B851qcaM083Xvec5q"
+      },
+      "artists": [
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        },
+        {
+          "name": "Ron Cha",
+          "url": "https://open.spotify.com/artist/4VmfJId5FAnW2l20SUpUNi"
+        },
+        {
+          "name": "Anna Serierse",
+          "url": "https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132705,
+      "name": "Forward Motion",
+      "url": "https://open.spotify.com/track/4GoDpEcYUUdwC0J7cBkZiw"
+    },
+    {
+      "album": {
         "name": "Beat Tape III",
         "url": "https://open.spotify.com/album/6bhdbUuEQ9GEmnFrtwmO9w"
       },
@@ -1426,6 +1452,28 @@
       "duration_ms": 167818,
       "name": "holes",
       "url": "https://open.spotify.com/track/6NQtkU253uebIELwPu2KjQ"
+    },
+    {
+      "album": {
+        "name": "Home (feat. Hikaru Utada)",
+        "url": "https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Home (feat. Hikaru Utada)",
+      "url": "https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r"
     },
     {
       "album": {
@@ -2068,6 +2116,24 @@
       "duration_ms": 183929,
       "name": "Medusa (Acoustic)",
       "url": "https://open.spotify.com/track/4MnYLHydHtkAF9CrIIcjHU"
+    },
+    {
+      "album": {
+        "name": "Half Moon",
+        "url": "https://open.spotify.com/album/6Y5FuncoXFAnpN988bQE0D"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253567,
+      "name": "Million Things",
+      "url": "https://open.spotify.com/track/7GPoBSDnyWWLhoj9HwoKba"
     },
     {
       "album": {
@@ -2843,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Someone's gotta be out there",
+        "url": "https://open.spotify.com/album/1sTifJoyXKTI2HwMAiPHMW"
+      },
+      "artists": [
+        {
+          "name": "PIMSKIN",
+          "url": "https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142479,
+      "name": "Someone's gotta be out there",
+      "url": "https://open.spotify.com/track/1SRfCvRRuRN1y7ZRYsS8gv"
+    },
+    {
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -3330,6 +3414,24 @@
       "duration_ms": 145165,
       "name": "TickTickBoom",
       "url": "https://open.spotify.com/track/2fifcgrC2McRDrABuG743H"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
     },
     {
       "album": {

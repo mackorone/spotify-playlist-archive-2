@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Lilly Palmer",
+  "description": "The world's biggest dance & electronic hits. Cover: ANOTR",
   "name": "mint",
   "tracks": [
     {
@@ -2469,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113702,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
+    },
+    {
+      "album": {
         "name": "Be My Lover",
         "url": "https://open.spotify.com/album/5ej6OUxhJ6XNey2Il4svaW"
       },
@@ -4367,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+    },
+    {
+      "album": {
         "name": "Caught A Body (with Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -5980,6 +6016,24 @@
       "duration_ms": 201230,
       "name": "Danielle (smile on my face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234558,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL"
     },
     {
       "album": {
@@ -7872,7 +7926,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 193103,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
@@ -10192,7 +10246,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169846,
       "name": "Gets Like That",
       "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
@@ -15152,7 +15206,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
@@ -15936,7 +15990,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 158333,
       "name": "LIGHTS GO OUT",
       "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
@@ -20956,7 +21010,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 159666,
       "name": "Out Of My Body (feat. EJAE)",
       "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
@@ -23726,6 +23780,28 @@
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
+    },
+    {
+      "album": {
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182678,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
     },
     {
       "album": {
@@ -28556,6 +28632,28 @@
       "duration_ms": 213120,
       "name": "This Time",
       "url": "https://open.spotify.com/track/21KH3KOkTjqPM0lCoba0UC"
+    },
+    {
+      "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "album": {

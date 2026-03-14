@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 251941,
+  "num_followers": 251945,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUjn7K3tuStPf91Tpecf+q8owJ8",
+  "snapshot_id": "AAAAAL35XHswA0q3ccq1aMdP9Jb8is6x",
   "tracks": [
     {
       "added_at": "2026-03-05 23:00:43",
@@ -559,18 +559,22 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+        "name": "Baxter (these are my friends)",
+        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
       "artists": [
         {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
         }
       ],
-      "duration_ms": 227486,
-      "name": "Actually",
-      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
+      "duration_ms": 244034,
+      "name": "Baxter (these are my friends)",
+      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
     },
     {
       "added_at": "2026-03-05 23:00:43",
@@ -611,22 +615,18 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
-        "name": "Baxter (these are my friends)",
-        "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baxter Dury",
-          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
         }
       ],
-      "duration_ms": 244034,
-      "name": "Baxter (these are my friends)",
-      "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
+      "duration_ms": 227486,
+      "name": "Actually",
+      "url": "https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD"
     },
     {
       "added_at": "2026-03-05 23:00:43",
@@ -715,6 +715,26 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Thanda Choir",
+          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
+        }
+      ],
+      "duration_ms": 145453,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
+    },
+    {
+      "added_at": "2026-03-05 23:00:43",
+      "album": {
         "name": "Ordinary Drugs",
         "url": "https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 172965,
       "name": "I Did You Wrong",
       "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
-    },
-    {
-      "added_at": "2026-03-05 23:00:43",
-      "album": {
-        "name": "Madan",
-        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Thanda Choir",
-          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
-        }
-      ],
-      "duration_ms": 145453,
-      "name": "Madan",
-      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
     },
     {
       "added_at": "2026-03-05 23:00:43",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
+    },
+    {
+      "added_at": "2026-03-05 23:00:43",
+      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 484711,
       "name": "A Deeper Life",
       "url": "https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF"
-    },
-    {
-      "added_at": "2026-03-05 23:00:43",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
     },
     {
       "added_at": "2026-03-05 23:00:43",
@@ -1275,6 +1275,34 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Suni MF",
+          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 215458,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
+    },
+    {
+      "added_at": "2026-03-05 23:00:43",
+      "album": {
         "name": "Waiting So Long",
         "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
       },
@@ -1331,34 +1359,6 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Suni MF",
-          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
-        },
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 215458,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
-    },
-    {
-      "added_at": "2026-03-05 23:00:43",
-      "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
-        "name": "Yatta!",
-        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 271247,
-      "name": "In Search of Yang",
-      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
-    },
-    {
-      "added_at": "2026-03-05 23:00:43",
-      "album": {
         "name": "Karibu",
         "url": "https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 242500,
       "name": "Karibu",
       "url": "https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg"
+    },
+    {
+      "added_at": "2026-03-05 23:00:43",
+      "album": {
+        "name": "Yatta!",
+        "url": "https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 271247,
+      "name": "In Search of Yang",
+      "url": "https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr"
     },
     {
       "added_at": "2026-03-05 23:00:43",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "Moving Men",
-      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2026-03-05 23:00:43",
-      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 214921,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw"
+    },
+    {
+      "added_at": "2026-03-05 23:00:43",
+      "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "Moving Men",
+      "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
     },
     {
       "added_at": "2026-03-05 23:00:43",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-03-05 23:00:43",
       "album": {
+        "name": "Since I Left You",
+        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Since I Left You",
+      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
+    },
+    {
+      "added_at": "2026-03-05 23:00:43",
+      "album": {
         "name": "Coroa",
         "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2026-03-05 23:00:43",
-      "album": {
-        "name": "Since I Left You",
-        "url": "https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Since I Left You",
-      "url": "https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy"
     },
     {
       "added_at": "2026-03-05 23:00:43",

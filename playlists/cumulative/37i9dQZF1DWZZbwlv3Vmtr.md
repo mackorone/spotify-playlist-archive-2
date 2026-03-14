@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,180 songs - 1 day 21 hr 25 min
+1,182 songs - 1 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
 | [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 | 2024-04-19 |
 | [Hot Stones](https://open.spotify.com/track/2022877RqBEPVfODofVbbN) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/4BG58BhdX5Rc4xgL1wTzsi) | 1:45 | 2022-11-11 | 2022-12-15 |
+| [hover](https://open.spotify.com/track/397RPoOLzzdDv1rvkABfnW) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [hover](https://open.spotify.com/album/16CMhUji7J4V0UuTgkPWXk) | 2:49 | 2026-03-13 |  |
 | [Hue](https://open.spotify.com/track/20nFFX7KFxonxsVmUdZ2vz) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Hue](https://open.spotify.com/album/29OnzUiUJNABrmrwPeQSzR) | 1:36 | 2026-01-09 |  |
 | [human anatomy](https://open.spotify.com/track/4UL6Rt5I5des7YDW4nwrUD) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [human anatomy](https://open.spotify.com/album/4X5yOQEfWCZZlPnXPPYQAK) | 2:20 | 2023-04-03 |  |
 | [humid](https://open.spotify.com/track/5er960OGa0eK830boGgNXN) | [halberd](https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB), [botaniist](https://open.spotify.com/artist/3Xa1468e8rkfjUmbUtdg3B) | [humid](https://open.spotify.com/album/4T9SfqeVgLTTWo39QuA6nc) | 1:26 | 2025-09-19 |  |
@@ -718,7 +719,7 @@
 | [Papa Knows Best](https://open.spotify.com/track/2TLIc551287wxILT6GOeou) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Papa Knows Best](https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w) | 2:12 | 2024-02-09 | 2026-02-21 |
 | [Paper Bag](https://open.spotify.com/track/0feI2qZLlaapheeJeznYwZ) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Paper Bag](https://open.spotify.com/album/05czxzdMeLHHvWUfar0Fbz) | 2:34 | 2022-12-16 | 2023-09-08 |
 | [Paper Rain](https://open.spotify.com/track/5HaQk2gd9i7WMxhXgMCFne) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Paper Rain](https://open.spotify.com/album/2S06ohAN90qkXMJxlG5AZU) | 1:56 | 2025-09-24 | 2025-10-05 |
-| [Paper Windows](https://open.spotify.com/track/0JIqyyarux3DtN48uZfbw3) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Paper Windows](https://open.spotify.com/album/2JcGpnC8CG5U9GNZo4Civc) | 2:04 | 2025-12-04 |  |
+| [Paper Windows](https://open.spotify.com/track/0JIqyyarux3DtN48uZfbw3) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Paper Windows](https://open.spotify.com/album/2JcGpnC8CG5U9GNZo4Civc) | 2:04 | 2025-12-04 | 2026-03-14 |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 | 2025-07-26 |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-04-15 | 2022-10-14 |
 | [Passing Through](https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Passing Through](https://open.spotify.com/album/0ZaC7BkXJC8bQ5rUgcZctj) | 2:58 | 2022-04-15 | 2022-06-03 |
@@ -812,7 +813,7 @@
 | [Relief](https://open.spotify.com/track/1A0kkBkOz7kMyyaYegwysl) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Relief](https://open.spotify.com/album/1JVTYybTxlKDYFs7VcxN8b) | 2:36 | 2022-04-15 | 2023-10-13 |
 | [Remember](https://open.spotify.com/track/1JYx9BcRBcoboYyx0kPa4c) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Remember](https://open.spotify.com/album/6amMJFkyaUXHf3R2LgN65Z) | 2:56 | 2026-01-09 | 2026-02-28 |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-04-15 | 2022-07-08 |
-| [Rest](https://open.spotify.com/track/5PteJp7KZ7Afh0pTE03AS4) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Rest](https://open.spotify.com/album/3vMw6iYV9uhyZCperBWnKT) | 2:51 | 2025-11-28 |  |
+| [Rest](https://open.spotify.com/track/5PteJp7KZ7Afh0pTE03AS4) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Rest](https://open.spotify.com/album/3vMw6iYV9uhyZCperBWnKT) | 2:51 | 2025-11-28 | 2026-03-14 |
 | [Resurrected](https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Resurrected](https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc) | 2:06 | 2023-09-22 | 2024-07-27 |
 | [Retrograde](https://open.spotify.com/track/41Uwoz8UvMGNzz1WLpWYK7) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Deusdosol](https://open.spotify.com/artist/5J1SXWQKT7R9wGscoLxDQn) | [Retrograde](https://open.spotify.com/album/3jgBsrkX4N2Yl7Jr8uYcev) | 1:45 | 2023-04-03 | 2026-02-28 |
 | [Reverie](https://open.spotify.com/track/6rmnVGI9q0cIgoyshFdE5a) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Reverie](https://open.spotify.com/album/5ogjpx7gjajSM8A7VOG7U7) | 2:12 | 2022-11-11 | 2023-11-17 |
@@ -957,6 +958,7 @@
 | [Step](https://open.spotify.com/track/51pGm8SzomGrEjBKzGQnYQ) | [Stereo Pack](https://open.spotify.com/artist/7En99WrIYmOSMXYJK3A16w) | [Sunrise Citi](https://open.spotify.com/album/3ZV8TP7HHfTQN5JnpRrTUM) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Stickwithit](https://open.spotify.com/track/4oHP5Y5kJXrnNPh6M7iMsn) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Stickwithit](https://open.spotify.com/album/5HfJlErhpKw5scselQANe3) | 2:48 | 2022-04-15 | 2025-07-10 |
 | [Still Young](https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Still Young](https://open.spotify.com/album/2trVdjWprHDbEPZ4zG597Y) | 1:48 | 2022-04-15 | 2022-05-27 |
+| [Stillness](https://open.spotify.com/track/6VVw1EElwMRwRJPFRfCstX) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o), [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Stillness](https://open.spotify.com/album/2lDlvcgjWdVWsUhrOpQCbO) | 2:03 | 2026-03-13 |  |
 | [Stockholm](https://open.spotify.com/track/5nRHqipQw774uJ6y3KmECc) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [Stockholm](https://open.spotify.com/album/7yNwWw24BP1Sr2T2yw9BBa) | 1:36 | 2022-04-15 | 2025-07-10 |
 | [stone walls](https://open.spotify.com/track/5nel7kSpeghUoQwWGg79JC) | [sunday zzzz](https://open.spotify.com/artist/4Zbz7i41jO9FLN6KfxOHIE) | [stone walls](https://open.spotify.com/album/3A36TVfR0sZnc4dTvPEvbq) | 2:41 | 2024-06-19 | 2024-07-13 |
 | [Stonecutter](https://open.spotify.com/track/6sA23FIxsg4TmejPXSaAXM) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:41 | 2022-04-15 | 2022-09-03 |

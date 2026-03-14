@@ -46109,6 +46109,24 @@
     },
     {
       "album": {
+        "name": "\u96e3\u9053\u8981\u7b49\u6536\u5230\u901a\u77e5\u90a3\u5929\u6211\u624d\u8d70",
+        "url": "https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa"
+      },
+      "artists": [
+        {
+          "name": "Dale",
+          "url": "https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201427,
+      "name": "\u96e3\u9053\u8981\u7b49\u6536\u5230\u901a\u77e5\u90a3\u5929\u6211\u624d\u8d70",
+      "url": "https://open.spotify.com/track/3q1zZvMyxpDdVqCIt3wbLg"
+    },
+    {
+      "album": {
         "name": "\u96ea\u570b",
         "url": "https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY"
       },

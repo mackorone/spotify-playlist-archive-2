@@ -2,9 +2,9 @@
 
 ### [노래방 인기가요 \(Karaoke K\-Pop Bests\)](https://open.spotify.com/playlist/37i9dQZF1DWXaehqeJpkro)
 
-> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: 한로로 \(HANRORO\)\)
+> 지금 노래방에서 가장 핫한 노래들을 만나보세요! \(Fancy belting out your favorite Korean songs?\) \(Cover: WOODZ\)
 
-347 songs - 22 hr 38 min
+348 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amor](https://open.spotify.com/track/3scRk3rUGIwpCg9kMNrtEQ) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Amor](https://open.spotify.com/album/4AF53F58koeWyGolDgeESk) | 3:08 | 2023-02-16 |  |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2023-02-16 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-29 |  |
+| [As Flowers Bloom and Fall](https://open.spotify.com/track/7LCWDYmsmIhe9KZiB57CVR) | [Jo Seung Woo](https://open.spotify.com/artist/5Msp3jgTyvIgAbhCQIun0e) | [As Flowers Bloom and Fall](https://open.spotify.com/album/4f2ONlcbBUFaPnbPEGl4au) | 3:36 | 2026-03-13 |  |
 | [As If It's Your Last](https://open.spotify.com/track/1Zyd6zQnC6XIIzmg3hP7Ot) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [As If It's Your Last](https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX) | 3:33 | 2021-03-11 | 2022-02-18 |
 | [Baby Don’t Stop](https://open.spotify.com/track/1EYSS9Lp7a9f20C3FaOVgI) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:03 | 2021-03-11 | 2022-02-18 |
 | [Back In Time](https://open.spotify.com/track/1Cmz1xRY4t4HLSwBdKTQgV) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy), [Jeon Hayeoung](https://open.spotify.com/artist/4aRAGWoN4fPXwemaHmCK8T) | [I Can See Your Voice 4, Pt\. 2](https://open.spotify.com/album/24KdfevGcQaN1gicSJY4Rv) | 3:26 | 2022-02-17 | 2024-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22986,
+  "num_followers": 22990,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACYBJJayS5tWrSq1hcLvGBP",
+  "snapshot_id": "abICAAAAAAC6yWrVltpsk0XiV+Naoz2k",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 381280,
+      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
         "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 229552,
       "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
       "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 381280,
-      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Me Tocou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 293030,
-      "name": "Quem Me Tocou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+        "name": "Quem Me Tocou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+      "duration_ms": 293030,
+      "name": "Quem Me Tocou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 286023,
-      "name": "Shekinah",
-      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguente, Guerreiro",
         "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 286023,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/7wVqvLKSrL6VJJgMgyTZdL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -687,26 +687,6 @@
       "duration_ms": 302927,
       "name": "Vida aos Sepulcros (Ao Vivo)",
       "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
     },
     {
       "added_at": null,
@@ -727,6 +707,26 @@
       "duration_ms": 310257,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/4bRaa8R2awkTROnotcmE9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Melhor Pra Ti",
         "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 243000,
       "name": "O Melhor Pra Ti",
       "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 265032,
-      "name": "T\u00fa \u00c9s Adorado",
-      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Novidade de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 239820,
       "name": "Novidade de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 265032,
+      "name": "T\u00fa \u00c9s Adorado",
+      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
     }
   ],
   "unique_name": "This Is Midian Lima",

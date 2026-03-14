@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 210000,
       "name": "Ajalakka Ujalaa (From \"Vannam Konda Vennilave\")",
       "url": "https://open.spotify.com/track/6skvB0vP6mI5mo1ZbhKHHw"
@@ -4252,6 +4252,32 @@
       "duration_ms": 208815,
       "name": "Pathikichu (From \"Vidaamuyarchi\")",
       "url": "https://open.spotify.com/track/28rtWBDUGP8JLEuJ57cwdv"
+    },
+    {
+      "album": {
+        "name": "Pavazha Malli (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252569,
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: georgustav
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,453 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,576 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [gehtsdirwiedergut](https://open.spotify.com/track/76WlAND07jD4Xz3AmDmZUz) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [gehtsdirwiedergut](https://open.spotify.com/album/4p38JVewyr6bpd4VpO6YWq) | 2:51 |
-| 2 | [Track 1](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 0:00 |
+| 2 | [Am Ende dieses Lieds](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 2:48 |
 | 3 | [Fang](https://open.spotify.com/track/1dqAWyNnLAgXclOUtZMo7e) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [c4rl](https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c) | [Fang](https://open.spotify.com/album/7LmR9LgvcOClvieG7kwkQD) | 2:21 |
-| 4 | [Rave on](https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Rave on](https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f) | 3:15 |
+| 4 | [Rave On](https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Rave On](https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f) | 3:15 |
 | 5 | [Männersache](https://open.spotify.com/track/1HBITtBwmz9ZUDekimTnwS) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [Männersache](https://open.spotify.com/album/6em78l04f1OVhKKNZAbAgL) | 2:11 |
 | 6 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
 | 7 | [Die Jugend hat Angst](https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Die Jugend hat Angst](https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h) | 2:33 |

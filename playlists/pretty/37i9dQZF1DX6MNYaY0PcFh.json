@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Ghoulish",
-  "num_followers": 104158,
+  "num_followers": 104168,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "TWOSTEP",
+        "url": "https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "TWOSTEP",
+      "url": "https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "Super High",
         "url": "https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 194096,
       "name": "Super High",
       "url": "https://open.spotify.com/track/3UiyKjrGdNhnP1jbSf4JZH"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "TWOSTEP",
-        "url": "https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "TWOSTEP",
-      "url": "https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "Draw a Line",
-        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
-      },
-      "artists": [
-        {
-          "name": "Lu.Re",
-          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Draw a Line",
-      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "Feels Like",
         "url": "https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 203222,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "Draw a Line",
+        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Draw a Line",
+      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
     },
     {
       "added_at": "2026-02-27 00:00:43",

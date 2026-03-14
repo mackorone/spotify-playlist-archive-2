@@ -2347,6 +2347,60 @@
     },
     {
       "album": {
+        "name": "World of Warcraft: Midnight (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1bw95uXBv4lokNNtl2XDMM"
+      },
+      "artists": [
+        {
+          "name": "Jake Lefkowitz",
+          "url": "https://open.spotify.com/artist/1RoBZgzvFxLIBCFKe7KvCj"
+        },
+        {
+          "name": "Adam Burgess",
+          "url": "https://open.spotify.com/artist/12CJXkHHiMUAzNDr2q5mBc"
+        },
+        {
+          "name": "Leo Kaliski",
+          "url": "https://open.spotify.com/artist/0Q17losYLQmvFMI0dxBqIz"
+        },
+        {
+          "name": "Neal Acree",
+          "url": "https://open.spotify.com/artist/5mocQZIZJJsA389LmLpCkk"
+        },
+        {
+          "name": "Joshua Ra Goodman",
+          "url": "https://open.spotify.com/artist/2E7i8X0ZRf0FSZXMtV0dwg"
+        },
+        {
+          "name": "David Arkenstone",
+          "url": "https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0"
+        },
+        {
+          "name": "Glenn Stafford",
+          "url": "https://open.spotify.com/artist/0QHPo4EDeIiHCs37RRfhCM"
+        },
+        {
+          "name": "Jason Hayes",
+          "url": "https://open.spotify.com/artist/1RGNzkIbAdJlqJooCykfG8"
+        },
+        {
+          "name": "Blizzard Entertainment",
+          "url": "https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59"
+        },
+        {
+          "name": "World of Warcraft",
+          "url": "https://open.spotify.com/artist/2dlo6TFsxQawXjxytNerod"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1145652,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/2fwFsyTOzehiN7AEU8xXtD"
+    },
+    {
+      "album": {
         "name": "Jusant (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/65gX1rOrAQvcxGEbUGAfvz"
       },

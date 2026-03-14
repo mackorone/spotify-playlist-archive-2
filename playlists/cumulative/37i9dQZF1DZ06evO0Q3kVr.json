@@ -964,6 +964,24 @@
     {
       "album": {
         "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285988,
+      "name": "Que Facil",
+      "url": "https://open.spotify.com/track/5WC1NftBsLtyyLTbdVGUf6"
+    },
+    {
+      "album": {
+        "name": "Trascendencia",
         "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
       },
       "artists": [
@@ -974,7 +992,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 287986,
       "name": "Que F\u00e1cil",
       "url": "https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf"
@@ -1198,6 +1216,24 @@
     {
       "album": {
         "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237609,
+      "name": "Trascendencia",
+      "url": "https://open.spotify.com/track/1Y89NWpT8TVJFeDT8ffPoM"
+    },
+    {
+      "album": {
+        "name": "Trascendencia",
         "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
       },
       "artists": [
@@ -1208,7 +1244,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 239600,
       "name": "Trascendencia",
       "url": "https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK"

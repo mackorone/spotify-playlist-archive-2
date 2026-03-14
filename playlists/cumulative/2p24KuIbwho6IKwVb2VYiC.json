@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1, 2 Step",
+        "url": "https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123785,
+      "name": "1, 2 Step",
+      "url": "https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj"
+    },
+    {
+      "album": {
         "name": "1/17",
         "url": "https://open.spotify.com/album/0P7LoMJJ9wKnXovFzTVt3j"
       },
@@ -2838,6 +2856,28 @@
       "duration_ms": 170640,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV"
+    },
+    {
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
     },
     {
       "album": {

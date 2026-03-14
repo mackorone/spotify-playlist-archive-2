@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best in every corner of modern punk rock. Cover: Upchuck",
+  "description": "The best in every corner of modern punk rock. Cover: Drug Church",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 203426,
       "name": "2005",
       "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 160573,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
@@ -468,6 +468,24 @@
       "duration_ms": 146746,
       "name": "aftermath/afterthought",
       "url": "https://open.spotify.com/track/7HfE6JGX9PVJXE3zf6aZb3"
+    },
+    {
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/6jrvhTjwiHM3zC493ruel8"
+      },
+      "artists": [
+        {
+          "name": "Super Sometimes",
+          "url": "https://open.spotify.com/artist/4zB8iT4joBTjD6VES4cLbF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206204,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/1Y9Nu5Jzuf1CKFOY4x7jCU"
     },
     {
       "album": {
@@ -738,7 +756,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 173791,
       "name": "And a Big Load",
       "url": "https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln"
@@ -1466,7 +1484,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 222720,
       "name": "Bloodsport",
       "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172205,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
@@ -3825,6 +3843,24 @@
     },
     {
       "album": {
+        "name": "Figurine",
+        "url": "https://open.spotify.com/album/2YnadRc6wRzh2xeV2Welgk"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151580,
+      "name": "Figurine",
+      "url": "https://open.spotify.com/track/49inhdvKjcenjjTdLVMdW9"
+    },
+    {
+      "album": {
         "name": "The Mosaic",
         "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
       },
@@ -5254,7 +5290,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
@@ -6192,7 +6228,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 143612,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/3MSJ93sNe4MM4zNuRANVcw"
@@ -8191,6 +8227,24 @@
     },
     {
       "album": {
+        "name": "Pynch",
+        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Pynch",
+      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
+    },
+    {
+      "album": {
         "name": "R U FAMOUS",
         "url": "https://open.spotify.com/album/4kH2cHSZNGyokVgaIzIOxn"
       },
@@ -9465,6 +9519,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
+    },
+    {
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
       },
@@ -9534,7 +9606,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 227306,
       "name": "Stepping On A Rake",
       "url": "https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W"
@@ -10663,6 +10735,24 @@
     },
     {
       "album": {
+        "name": "Trickle Down",
+        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "Trickle Down",
+      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
+    },
+    {
+      "album": {
         "name": "Troglodyte",
         "url": "https://open.spotify.com/album/2zebu0G9t7imVuNrdghBOG"
       },
@@ -11078,7 +11168,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178497,
       "name": "Waterboy",
       "url": "https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO"

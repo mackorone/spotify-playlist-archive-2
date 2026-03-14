@@ -5293,6 +5293,24 @@
     },
     {
       "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
+    },
+    {
+      "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh"
       },
@@ -6736,7 +6754,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 145631,
       "name": "BMW",
       "url": "https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A"
@@ -11973,6 +11991,24 @@
     },
     {
       "album": {
+        "name": "Dans Tes Bras",
+        "url": "https://open.spotify.com/album/3t3QLgvf47qAymDjYZEyt5"
+      },
+      "artists": [
+        {
+          "name": "A2sia",
+          "url": "https://open.spotify.com/artist/0itGKobK447hHXkglMyy57"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118151,
+      "name": "Dans Tes Bras",
+      "url": "https://open.spotify.com/track/0VrNhcnEA0VRI5FcjZ9pDi"
+    },
+    {
+      "album": {
         "name": "dans tes bras II (Lady Killers II)",
         "url": "https://open.spotify.com/album/2QnJ9NX757hPrTwmfu3TxH"
       },
@@ -13976,7 +14012,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -44564,6 +44600,24 @@
     {
       "album": {
         "name": "SRT FULL NWAR",
+        "url": "https://open.spotify.com/album/10S8OLvQhSmtF2tmk5Nr0g"
+      },
+      "artists": [
+        {
+          "name": "MINUISKI",
+          "url": "https://open.spotify.com/artist/1FfPeHlceaZLaDaN7SMxdZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187959,
+      "name": "SRT FULL NWAR",
+      "url": "https://open.spotify.com/track/3NaM8jq5zSHdAa0idhBAmA"
+    },
+    {
+      "album": {
+        "name": "SRT FULL NWAR",
         "url": "https://open.spotify.com/album/1ami8fmVq2Jv4F1tNIS0wC"
       },
       "artists": [
@@ -44574,7 +44628,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 187959,
       "name": "SRT FULL NWAR",
       "url": "https://open.spotify.com/track/6US5ckvpkICMbKb3lAvHLX"
@@ -52440,7 +52494,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 183360,
       "name": "WELCOME TO ECLESIA",
       "url": "https://open.spotify.com/track/6NKOWPALQMpRLkh8891F0C"
@@ -54110,7 +54164,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "World music from the continent, to the islands with Ayra Starr.",
+  "description": "World music from the continent, to the islands with Shenseea.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 151320,
       "name": "BOSS UP",
       "url": "https://open.spotify.com/track/458u353fkPaERY2SoOGPl3"
@@ -6794,7 +6794,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 161736,
       "name": "Cyah Behave",
       "url": "https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c"
@@ -13379,6 +13379,28 @@
     },
     {
       "album": {
+        "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+        "url": "https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "HUSTLE KPA $$$ (feat. ARTSALGHUL)",
+      "url": "https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM"
+    },
+    {
+      "album": {
         "name": "Hype Life",
         "url": "https://open.spotify.com/album/44v8aej8jEg3flTZbFLigL"
       },
@@ -16105,6 +16127,28 @@
     },
     {
       "album": {
+        "name": "Let Me Go (Honeycomb Riddim)",
+        "url": "https://open.spotify.com/album/2LVtEgiAjnAs75EmTTkrdo"
+      },
+      "artists": [
+        {
+          "name": "Valiant",
+          "url": "https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti"
+        },
+        {
+          "name": "Gold Up",
+          "url": "https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147329,
+      "name": "Let Me Go - Honeycomb Riddim",
+      "url": "https://open.spotify.com/track/5LIWnma5CYXgDsxlfzjFLo"
+    },
+    {
+      "album": {
         "name": "Lets Go",
         "url": "https://open.spotify.com/album/3uUZg5Bt7Zb7bRPf8yyHM2"
       },
@@ -16682,6 +16726,28 @@
       "duration_ms": 185191,
       "name": "Live Some Life (feat. DING DONG)",
       "url": "https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj"
+    },
+    {
+      "album": {
+        "name": "Living Life",
+        "url": "https://open.spotify.com/album/0gqve1LJOSJNfsUZ7kPYpn"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156860,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/2Ohsc9IuacQeX7B8Ha05V3"
     },
     {
       "album": {
@@ -28379,6 +28445,32 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nuh",
+        "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126042,
+      "name": "Talk To Me Nuh",
+      "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "album": {
         "name": "Talk Truth",
         "url": "https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS"
       },
@@ -29274,7 +29366,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190461,
       "name": "Third World",
       "url": "https://open.spotify.com/track/2oC4MwMp0rYFTwABnA4W0L"
@@ -29578,7 +29670,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 152986,
       "name": "Toma",
       "url": "https://open.spotify.com/track/1PHKYY5ii02wo9HsdiCLTD"

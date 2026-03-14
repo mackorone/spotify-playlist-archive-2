@@ -4,10 +4,11 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: James Hype
 
-405 songs - 21 hr 11 min
+407 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1, 2 Step](https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [1, 2 Step](https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb) | 2:03 | 2026-03-13 |  |
 | [1/17](https://open.spotify.com/track/1EGSotfvgMDQFFtFoUdrv5) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/0P7LoMJJ9wKnXovFzTVt3j) | 4:12 | 2025-03-21 |  |
 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0b4dAhBJwYWS4Dj74DfICb) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:00 | 2025-02-14 |  |
 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 | 2024-09-27 |  |
@@ -136,6 +137,7 @@
 | [Fria \- Felix Jaehn Remix](https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Fria \(Felix Jaehn Remix\)](https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa) | 2:40 | 2024-07-19 |  |
 | [Friend Of Mine \- from the Smurfs Movie Soundtrack](https://open.spotify.com/track/0Zdm3D1H3cH51PPZfgERcw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Friend Of Mine \(from the Smurfs Movie Soundtrack\)](https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y) | 3:25 | 2025-05-16 |  |
 | [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 | 2026-01-09 |  |
+| [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 | 2026-03-13 |  |
 | [GET OUT MY HEAD](https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [GET OUT MY HEAD](https://open.spotify.com/album/7nWiweIvGw9ZxThZmBmJWA) | 3:18 | 2026-02-21 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-10-27 | 2025-01-22 |
 | [Glitching](https://open.spotify.com/track/5WuxCmAJkrjEAiJ8Xx3SAq) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Glitching](https://open.spotify.com/album/56EX2Cl8KMPyG3QfCuRKPO) | 2:11 | 2024-12-13 |  |

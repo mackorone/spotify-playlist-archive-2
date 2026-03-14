@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Charlie Puth & 宇多田ヒカル, James Blake, 	<br/>Tom Misch, Holly Humberstone and more!
 
-12,899 songs - 30 day 0 hr 9 min
+12,901 songs - 30 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3085,6 +3085,7 @@
 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 | 2024-06-21 | 2024-06-28 |
 | [Endless Nights](https://open.spotify.com/track/4V50U0qH1s72n2J8Kxavdu) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 3:11 | 2023-08-03 | 2023-08-11 |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-13 | 2023-07-21 |
+| [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-12 |  |
 | [ENDLESS WAVE \(feat\. Emerson Kitamura\)](https://open.spotify.com/track/1RDOs9tjXepIxJyVuibiMm) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up), [Emerson Kitamura](https://open.spotify.com/artist/2oDfZI1woLIypoYM53lv72) | [ENDLESS WAVE \(feat\. Emerson Kitamura\)](https://open.spotify.com/album/2tiz9IlXCiqGIyhUC9AJwQ) | 3:26 | 2025-06-06 | 2025-06-13 |
 | [Endlessly](https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Endlessly](https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn) | 3:36 | 2023-03-02 | 2023-03-10 |
 | [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 | 2026-02-20 | 2026-02-27 |
@@ -4766,6 +4767,7 @@
 | [Human Now \(feat\. Luke Steele\)](https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Luke Steele](https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0) | [The End Of Genesys](https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu) | 3:10 | 2025-05-30 | 2025-06-06 |
 | [Humankind](https://open.spotify.com/track/3LH03hNxNUceSZCUXdgfRm) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Humankind](https://open.spotify.com/album/6IHG8lHGYHGVWfrtBosCJd) | 3:03 | 2024-06-21 | 2024-06-28 |
 | [Humiliation Ritual](https://open.spotify.com/track/1FWWfdQgVeyHsPnScxtsRk) | [Kyra Machida](https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6) | [Humiliation Ritual](https://open.spotify.com/album/7J5jQo3kiK4rKN2UXXTFuJ) | 2:22 | 2026-03-05 | 2026-03-13 |
+| [Humming \(feat\. DADA\)](https://open.spotify.com/track/0mo4MXeG9jXvy3dcDE7HIi) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [as i am](https://open.spotify.com/album/2eNe5umnF7S1Tz1E6QcrKO) | 2:31 | 2026-03-12 |  |
 | [hummingbird](https://open.spotify.com/track/7uh1vX2ecH6Zdf8zXB6eAe) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [hummingbird](https://open.spotify.com/album/3UYJbvUYlO9bx4DEoV3XZW) | 3:38 | 2024-04-26 | 2024-05-03 |
 | [Hummingbird](https://open.spotify.com/track/70I4o2N1z1zF0zOkXMWnVw) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Chasing Moving Trains](https://open.spotify.com/album/50eGAFAREgtdDVmSl7gD1y) | 4:06 | 2024-11-01 | 2024-11-08 |
 | [Hungry Heart](https://open.spotify.com/track/2KBuHBac1gbzFzhkL5Wlvx) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Hungry Heart](https://open.spotify.com/album/2lKs76sqJci5CvDjEyOpQJ) | 2:20 | 2024-01-05 | 2024-01-12 |
@@ -11419,7 +11421,7 @@
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 | 2025-09-26 |
 | [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-06-29 | 2023-07-07 |
 | [Where Love Lives \- MK Remix](https://open.spotify.com/track/1PklFCtCsOBrsP8DYYZeW8) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Where Love Lives \(MK Remix\)](https://open.spotify.com/album/40Kvzh94VVqWi8xzCFaWN7) | 2:27 | 2025-12-18 | 2025-12-26 |
-| [Where My Daddy \(feat\. MIA\)](https://open.spotify.com/track/28rGvzyj1cAeo5ItP6EzMi) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5), [MIA](https://open.spotify.com/artist/02fJwZIbNoGhMULLURNY9I) | [City of Heaven](https://open.spotify.com/album/5S9Q26Kp4NCBRUwmZ8aFBt) | 2:36 | 2026-03-12 |  |
+| [Where My Daddy At \(feat\. MIA\)](https://open.spotify.com/track/28rGvzyj1cAeo5ItP6EzMi) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5), [MIA](https://open.spotify.com/artist/02fJwZIbNoGhMULLURNY9I) | [City of Heaven](https://open.spotify.com/album/5S9Q26Kp4NCBRUwmZ8aFBt) | 2:36 | 2026-03-12 |  |
 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-18 | 2023-05-26 |
 | [where the sunlight glows](https://open.spotify.com/track/0cearh4ImlTTFfjHX6QwLu) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [where the sunlight glows](https://open.spotify.com/album/0otYOrLWaDQLZLo3WychLa) | 2:43 | 2025-05-30 | 2025-06-06 |

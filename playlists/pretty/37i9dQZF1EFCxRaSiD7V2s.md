@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 279 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 544 likes - 279 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 114 | [What's My Line](https://open.spotify.com/track/0zpfPQFJDoQ5FA1csOuTZs) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:50 |
 | 115 | [Some Assembly Required](https://open.spotify.com/track/7nMaZu5IqXajAi19foNCzh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:04 |
 | 116 | [Out of Mind, Out of Sight](https://open.spotify.com/track/7tOWu1b5amYHnt9Pz6x2cz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season One](https://open.spotify.com/album/2gZqmPoQ4KQDGjjySohI0d) | 2:00 |
-| 117 | [Innocence](https://open.spotify.com/track/40NJ9P07yYGqi3V7A2EDBC) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:25 |
-| 118 | [Homecoming](https://open.spotify.com/track/3cU8K4fe4iHcG6A0XEY1Dz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:57 |
+| 117 | [Homecoming](https://open.spotify.com/track/3cU8K4fe4iHcG6A0XEY1Dz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:57 |
+| 118 | [Innocence](https://open.spotify.com/track/40NJ9P07yYGqi3V7A2EDBC) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 3:25 |
 | 119 | [Halloween](https://open.spotify.com/track/29VC2kQrNweVAnYkgVHdn5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:36 |
 | 120 | [School Hard](https://open.spotify.com/track/5TivemrBkp7R9jzrxMwsnz) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:25 |
 | 121 | [Totally Worth It](https://open.spotify.com/track/5vFeFjoi4ueuHlVa6cSW5S) | [L.A\. Exes](https://open.spotify.com/artist/4UXwLNXFz8MTQ8X5NHQfMu) | [Get Some](https://open.spotify.com/album/7rdPIeFMS57uEnVATKUPW7) | 2:48 |
@@ -224,8 +224,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 214 | [Conversations With Dead People](https://open.spotify.com/track/3BEuiTrVQsVDfQ0hUV5dWm) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Hrishikesh Hirway](https://open.spotify.com/artist/2nMDfp8TJzahlTJr5Hvetf), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Seven](https://open.spotify.com/album/2ionR1WChNlzQbTkjI69CV) | 3:34 |
 | 215 | [Big Fucking Nerds](https://open.spotify.com/track/7EpSJuO2PatItfWXdnbdRh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [LaToya Ferguson](https://open.spotify.com/artist/4ztvrFVSocrRuY6pDa7jvM), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Kristin Russo](https://open.spotify.com/artist/7MVfPHErObQ0she3vUTg6N) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 3:08 |
 | 216 | [The Body](https://open.spotify.com/track/3sN7oop8jlw4RYuC5iDH6Q) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Saul Simon MacWilliams](https://open.spotify.com/artist/0FlGu9ZnuvVtbtN2Gc9GNg) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 5:10 |
-| 217 | [Intervention](https://open.spotify.com/track/3GIUw3RUKbE2A8MRfSIix5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:47 |
-| 218 | [Out of My Mind](https://open.spotify.com/track/5QmJbMnlsE9XoG5zTrdUy9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:00 |
+| 217 | [Out of My Mind](https://open.spotify.com/track/5QmJbMnlsE9XoG5zTrdUy9) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 3:00 |
+| 218 | [Intervention](https://open.spotify.com/track/3GIUw3RUKbE2A8MRfSIix5) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:47 |
 | 219 | [The Replacement](https://open.spotify.com/track/0o8amrICrjzSNmXlExuuti) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:35 |
 | 220 | [Wrecked](https://open.spotify.com/track/318ocjg9TXfe2XNnwaGZio) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 3:03 |
 | 221 | [No Place Like Home](https://open.spotify.com/track/46XJMHRMil9TepCXDPMOyj) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Five](https://open.spotify.com/album/1KmUgM74R1SGZnv6DSqp7L) | 2:26 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 278 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 279 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AcL9wAAAAAB1h954j6npKZ2RdM+BtHxz`
+Snapshot ID: `AcMDYAAAAAA0KQ+YWEXcGrpb2G+NcQZf`

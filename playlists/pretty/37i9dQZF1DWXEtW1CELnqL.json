@@ -1,6 +1,6 @@
 {
   "description": "Laisse go.",
-  "num_followers": 87519,
+  "num_followers": 87538,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-12 23:00:39",
       "album": {
-        "name": "Where's My Phone?",
-        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Where's My Phone?",
-      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
-    },
-    {
-      "added_at": "2026-02-12 23:00:39",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 213800,
       "name": "Every You Every Me",
       "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:39",
+      "album": {
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
     },
     {
       "added_at": "2026-02-12 23:00:39",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-02-12 23:00:39",
       "album": {
+        "name": "Get This",
+        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 199632,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
+    },
+    {
+      "added_at": "2026-02-12 23:00:39",
+      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-02-12 23:00:39",
       "album": {
-        "name": "Get This",
-        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
       "artists": [
         {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 199632,
-      "name": "Get This",
-      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
+      "duration_ms": 198324,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
     },
     {
       "added_at": "2026-02-12 23:00:39",
@@ -963,22 +979,6 @@
       "duration_ms": 236400,
       "name": "Unsung",
       "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
-    },
-    {
-      "added_at": "2026-02-12 23:00:39",
-      "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198324,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP"
     }
   ],
   "unique_name": "Balec !",

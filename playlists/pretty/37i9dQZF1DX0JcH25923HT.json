@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 579474,
+  "num_followers": 579702,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -959,30 +959,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "Hennessy",
-      "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Jimmy Fallon (Remix)",
         "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 242376,
       "name": "Jimmy Fallon - Remix",
       "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/0OoijCMFMoorw6EBRkULoJ"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 236360,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4XgcpHJAulT6gSTPFODnB7"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Buf\u00f3n",
+        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Buf\u00f3n",
+      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "La Cone",
         "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Buf\u00f3n",
-        "url": "https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Buf\u00f3n",
-      "url": "https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1799,18 +1799,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+        "name": "Piso",
+        "url": "https://open.spotify.com/album/4Vsl4WJiebxjDwpBp7JqPQ"
       },
       "artists": [
         {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
+      "duration_ms": 219924,
+      "name": "Piso",
+      "url": "https://open.spotify.com/track/2nxft8uvdFYovqAcaxulSz"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1839,26 +1847,18 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Piso",
-        "url": "https://open.spotify.com/album/4Vsl4WJiebxjDwpBp7JqPQ"
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
       },
       "artists": [
         {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
         }
       ],
-      "duration_ms": 219924,
-      "name": "Piso",
-      "url": "https://open.spotify.com/track/2nxft8uvdFYovqAcaxulSz"
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 242418,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Dubai",
         "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
       },
@@ -1943,26 +1963,6 @@
       "duration_ms": 133718,
       "name": "Si Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/1NKwmnPXpm2WaZbiPBcfYY"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
-      },
-      "artists": [
-        {
-          "name": "Bhavi",
-          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 242418,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Malportau",
-        "url": "https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 213471,
-      "name": "Malportau",
-      "url": "https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "My Blood Remix (feat. Julianno Sosa)",
         "url": "https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 252212,
       "name": "My Blood Remix (feat. Julianno Sosa)",
       "url": "https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Malportau",
+        "url": "https://open.spotify.com/album/2vfsczLvfRlioZqTWfoaDx"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 213471,
+      "name": "Malportau",
+      "url": "https://open.spotify.com/track/4jLFEYbIYqNWnxbuLEf7z5"
     },
     {
       "added_at": "2024-03-08 16:14:30",

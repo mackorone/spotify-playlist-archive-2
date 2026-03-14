@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Charlotte Cornfield",
+  "description": "A laid-back trip in the folk scene. Cover: Noah Kahan",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 179559,
       "name": "A Good Sign",
       "url": "https://open.spotify.com/track/71bZM5Ds5U2sXxZJ30gsRO"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172985,
       "name": "Bound to Rain - Live",
       "url": "https://open.spotify.com/track/1Ii9SXQyAixGG35Okz4MuZ"
@@ -3266,7 +3266,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 247053,
       "name": "Break The Jaw",
       "url": "https://open.spotify.com/track/5J9Y2roWzvClVvb39fHMiW"
@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/12qM2XNUl5g1mhhNrrpIey"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168078,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/52w9vFDgebB8OxdYL1BK1t"
+    },
+    {
+      "album": {
         "name": "Buzz Cut",
         "url": "https://open.spotify.com/album/04QmI7yV5m6I8UtUKjiQMs"
       },
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 222266,
       "name": "Calendule",
       "url": "https://open.spotify.com/track/3Yq5A6rbffa3RL5LghSKVO"
@@ -5692,6 +5710,24 @@
       "duration_ms": 195187,
       "name": "Die Slower",
       "url": "https://open.spotify.com/track/7lwqr6NGpzsYVZK5ovcyRr"
+    },
+    {
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/7vlkgyaOI5iCZwqKy3MpFa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232790,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/2hzpbfjj9cVCSB1EeHKGXt"
     },
     {
       "album": {
@@ -8425,6 +8461,24 @@
     },
     {
       "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/5oFeXV2HqSoLuFbPHOAIXt"
+      },
+      "artists": [
+        {
+          "name": "Michaela Slinger",
+          "url": "https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248437,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/3q99nHKtH9hs5n055NRhfd"
+    },
+    {
+      "album": {
         "name": "Float On Now",
         "url": "https://open.spotify.com/album/1nGrvEoFsho3KsDtk4FYzd"
       },
@@ -9152,7 +9206,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 497160,
       "name": "Fruit Bat",
       "url": "https://open.spotify.com/track/2hmo6Qz1zHKl7nGbVZSl8Z"
@@ -9314,7 +9368,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 278862,
       "name": "Get It Over With",
       "url": "https://open.spotify.com/track/3U2ssFocMXixGcMyMfCK77"
@@ -9852,10 +9906,28 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184749,
       "name": "Hanging on",
       "url": "https://open.spotify.com/track/4YszbOWQMFO9KRaPLl0Kmu"
+    },
+    {
+      "album": {
+        "name": "Hanging on Hope",
+        "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223939,
+      "name": "Hanging on Hope",
+      "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
     },
     {
       "album": {
@@ -10350,7 +10422,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190781,
       "name": "Heavy, Heavy Love",
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
@@ -11168,6 +11240,28 @@
       "duration_ms": 177081,
       "name": "How You Holding On",
       "url": "https://open.spotify.com/track/7ypL6b8HgInzoRkHFT7ABY"
+    },
+    {
+      "album": {
+        "name": "Big Flower Light Go Boom",
+        "url": "https://open.spotify.com/album/4C27UvumyTSiKspelTt7tJ"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Hudson (feat. Lady Lamb)",
+      "url": "https://open.spotify.com/track/4onZizmJw8YYgZXOjj9JK8"
     },
     {
       "album": {
@@ -14284,7 +14378,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 252338,
       "name": "Little Help",
       "url": "https://open.spotify.com/track/55Gj1Jn2NbSugAhzLudq9F"
@@ -16247,6 +16341,24 @@
     },
     {
       "album": {
+        "name": "Mountain Girl",
+        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162925,
+      "name": "Mountain Girl",
+      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
+    },
+    {
+      "album": {
         "name": "mountain of a memory",
         "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
       },
@@ -16427,6 +16539,24 @@
     },
     {
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/6Cv0Ml05DyKjLJEV6jXJK6"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/61nMcUOT94tvopjHlXsoZE"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -16546,7 +16676,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184083,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/3THln96cTn4UblX2X6oS0v"
@@ -19166,6 +19296,24 @@
       "duration_ms": 229504,
       "name": "Pools",
       "url": "https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
       "album": {
@@ -24969,6 +25117,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/71ea1K9DbU0smBzuxA4YSd"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Tommy\u2019s Song",
+      "url": "https://open.spotify.com/track/17RET7bm7bzZRWsRlYChwe"
+    },
+    {
+      "album": {
         "name": "Tongue Tied",
         "url": "https://open.spotify.com/album/6qaa92H8qSXZXrJy5rXPNh"
       },
@@ -27072,7 +27238,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 244869,
       "name": "Why\u2019d You Have To Bring Me Flowers",
       "url": "https://open.spotify.com/track/7viO1UnkLczY52y7OubgwH"
@@ -27807,6 +27973,24 @@
     },
     {
       "album": {
+        "name": "You Don't Really Like Me",
+        "url": "https://open.spotify.com/album/2BocWiE6BIzA7yjOQCUxvS"
+      },
+      "artists": [
+        {
+          "name": "Emma Andersen",
+          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166221,
+      "name": "You Don't Really Like Me",
+      "url": "https://open.spotify.com/track/5aSEbL2JKTt9qoHZRpW5kT"
+    },
+    {
+      "album": {
         "name": "Sanctity of Silence",
         "url": "https://open.spotify.com/album/2x9gBZX2IKiF9TnkgQVUdk"
       },
@@ -27948,6 +28132,24 @@
       "duration_ms": 216000,
       "name": "You're My Winter",
       "url": "https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ"
+    },
+    {
+      "album": {
+        "name": "You're Right",
+        "url": "https://open.spotify.com/album/4tNyCZlcp83pxK5ktfTx5Q"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180128,
+      "name": "You're Right",
+      "url": "https://open.spotify.com/track/4UEjz6lD71GweiK1BXpUYC"
     },
     {
       "album": {

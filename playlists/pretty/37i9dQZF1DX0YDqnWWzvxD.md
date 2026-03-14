@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,908 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,071 likes - 100 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 54 | [Birds Sounds](https://open.spotify.com/track/09fCHLmBKJHdll5CSmyvQ9) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 2:45 |
 | 55 | [Imgur](https://open.spotify.com/track/5Jxym542I1NBxCm6N2i2uo) | [Pola Ris](https://open.spotify.com/artist/16VXoSl3epjUhXIASoa0qO) | [Sleep](https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n) | 3:49 |
 | 56 | [Leviathan](https://open.spotify.com/track/0BYHrCCKTQyHqLBFNb5yMQ) | [Dean Delaux](https://open.spotify.com/artist/4n8xlf3g6Q5K64ZDw1qVx0) | [Leviathan](https://open.spotify.com/album/2udP6hGcDbxPiOQOcBngRz) | 2:24 |
-| 57 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
-| 58 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
+| 57 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
+| 58 | [Baby Deep Sleep](https://open.spotify.com/track/3TMqMZ95fg68pNselDiFT4) | [Namaste Healing Yoga](https://open.spotify.com/artist/30u03dHVwT6ByMPQYs7e2P) | [Tranquility: Just Relax \- 50 Deep Meditation Tracks and Healing Sounds to Relax, Music for Spa, Study, Sleep and Well Being](https://open.spotify.com/album/6clHEi3juRJmRqriKRSYsc) | 3:54 |
 | 59 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
 | 60 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
 | 61 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Selene Noor](https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 97 | [Holistic Water](https://open.spotify.com/track/5vLlwuqv3g0AKjOY6urkui) | [Tao Lounge](https://open.spotify.com/artist/7g6SFEhjnq2V2kpY8juNuD) | [TAO Lounge](https://open.spotify.com/album/3cNVpXWMBraQIAHZgmSTN9) | 5:13 |
 | 98 | [Illumination of the Heart](https://open.spotify.com/track/6BOBioDka5as3H3PKfkEFp) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Nada Himalaya: Music for Meditation](https://open.spotify.com/album/1jE4zYk5CeenzZAu2yvypg) | 9:34 |
 | 99 | [Oxygen Bar](https://open.spotify.com/track/1qborK6nItSSVgZkXosT4k) | [Deep Divers](https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL) | [Chill Me Out](https://open.spotify.com/album/2pMPUcaC0WR7lJwNraywTn) | 5:31 |
-| 100 | [Moonlight Saptah](https://open.spotify.com/track/6gu8EBy9qA8dF6HBN3Gq9T) | [Craig Kohland & Shaman's Dream](https://open.spotify.com/artist/1TGMZFLE54UJlOJCPxYggZ) | [Bindu](https://open.spotify.com/album/2MolLpSGO6Bh3DPOcH56Ap) | 9:41 |
+| 100 | [Blue Dunes](https://open.spotify.com/track/3nHM0vcX17s8pBDcGIozHQ) | [Soulgarden](https://open.spotify.com/artist/4D1RsYNSjyxvaKtj5qIdps) | [Blue Dunes](https://open.spotify.com/album/4N4vqojadhjwZCBKFyzMBv) | 2:48 |
 
 Snapshot ID: `AAAAAIoVa6tRSSR7MCWByBJYwjymuMrw`

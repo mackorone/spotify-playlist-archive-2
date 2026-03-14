@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,047 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,059 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 49 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 |
 | 50 | [La Puntada](https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Trayectoria](https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g) | 2:54 |
 | 51 | [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 |
-| 52 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 |
-| 53 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 |
+| 52 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 |
+| 53 | [Allá Va la Liebre](https://open.spotify.com/track/3512Mh1spOR8MLMlz57VtE) | [Los Perros del Monte](https://open.spotify.com/artist/2AxWGmmPEVBfTufVKWVYKs), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Una Hora para Bailar](https://open.spotify.com/album/4rACcbOMPBbwWBiCLp5M7B) | 3:21 |
 | 54 | [Me Opongo](https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7) | [J Matt](https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96) | [Me Opongo](https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d) | 2:57 |
 | 55 | [El Sol No Regresa](https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [El Sol No Regresa](https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH) | 2:54 |
 | 56 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 75 | [Quisiera y No Quisiera](https://open.spotify.com/track/4WADI81zhZC8YQGKLYeb76) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Quisiera y No Quisiera](https://open.spotify.com/album/3nd1fYlZYfOeuliXL5Lwat) | 2:34 |
 | 76 | [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 |
 | 77 | [La Pagarás](https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [La Pagarás](https://open.spotify.com/album/4A20U2NzYqyWFwsmdubrcz) | 3:52 |
-| 78 | [Ya No Siento Nada](https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 3:37 |
-| 79 | [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 |
+| 78 | [La Pololita](https://open.spotify.com/track/4Eyu9MSZ4pb29Y6oLMv01B) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [La Pololita](https://open.spotify.com/album/0cLkRFrl1nzwUqL2dk5TlX) | 3:20 |
+| 79 | [Ya No Siento Nada](https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 3:37 |
 | 80 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 |
 | 81 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 |
 | 82 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 |

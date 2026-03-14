@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269550,
+  "num_followers": 269548,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADs1oUaFE1IFRF9ngN8Q1b6",
+  "snapshot_id": "abICAAAAAADeLiiy1nQLrl9y0kpDR3xX",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Onde Iremos?",
-        "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Teu Santo Nome",
-      "url": "https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Onde Iremos?",
+        "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Teu Santo Nome",
+      "url": "https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 326883,
       "name": "Hosana - Ao Vivo",
       "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,472 likes - 95 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,519 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 18](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 0:00 |
+| 1 | [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 |
 | 2 | [Umswarelo](https://open.spotify.com/track/6P9pmZApftUy4PcEG4faUI) | [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [South Coast Yungin’ Never Follows Mixtape](https://open.spotify.com/album/4T0k6N6dCVAwjApFyjoPEn) | 2:22 |
 | 3 | [Racks](https://open.spotify.com/track/4mx2WjAQRbIblzmlJza39M) | [Usimamane](https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs) | [G \- Wagon Music : Baby Tai](https://open.spotify.com/album/7nBsSZyhe8sgZ4UU1PG5XS) | 4:08 |
 | 4 | [BRACE](https://open.spotify.com/track/2IDEt0ewMMagJ6q5KmtzDI) | [G\-TECH 2bit](https://open.spotify.com/artist/7eLNbVknbYJ1S9GHpjR2T0), [Mochen](https://open.spotify.com/artist/7DkwT8IpIAjcquKnCwyFRg), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Slim Dumpie](https://open.spotify.com/artist/7f9sPDjFkaIpFIuX8WZoH0) | [BRACE](https://open.spotify.com/album/0ceqvf0uOMcVJSFH5KGyLq) | 2:41 |

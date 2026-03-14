@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264996,
+  "num_followers": 264992,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAAbTVib75Jaqt9Z1SjRxeqO",
+  "snapshot_id": "abICAAAAAACnxBuK9b5BkyWkfZrnQhim",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 155384,
-      "name": "MULHER DO ANO XD",
-      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155384,
+      "name": "MULHER DO ANO XD",
+      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 182112,
+      "name": "Chico",
+      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 182112,
-      "name": "Chico",
-      "url": "https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
     },
     {
       "added_at": null,
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 183992,
-      "name": "\u00c1guas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/0MHySawcjVkAcxHdsyI6o1"
+      "duration_ms": 154185,
+      "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4sXcwMbKlD9eEy4gTK4t2L"
     },
     {
       "added_at": null,

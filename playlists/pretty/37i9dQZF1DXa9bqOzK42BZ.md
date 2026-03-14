@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Guardian Angel
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,839 likes - 100 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,896 likes - 100 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Moyoni](https://open.spotify.com/track/2qVFAjT0CajtnkuXo2BlWO) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Moyoni](https://open.spotify.com/album/3qahfDTvESpoSNZs25e4LY) | 2:47 |
 | 100 | [Dunia](https://open.spotify.com/track/6A8DkTvU2v7Z7UiHz76kwj) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Dunia](https://open.spotify.com/album/6JQDVjdfoEEr64kmDn6zCu) | 2:45 |
 
-Snapshot ID: `AAAAADtKGffQKUIwp1I+i/E6PODUDhGn`
+Snapshot ID: `AAAAALIHZJP4gJ3Jd4kddLY2bk+4WLiM`

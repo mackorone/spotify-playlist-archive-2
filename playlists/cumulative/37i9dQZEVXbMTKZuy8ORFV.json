@@ -4304,10 +4304,28 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 238560,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/1gaxE1VJlnRacd2gtcdf1Z"
+    },
+    {
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
       "album": {
@@ -8742,7 +8760,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5"
@@ -8760,7 +8778,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/42OqawcAj14gAsiDmCgfCj"
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 214920,
       "name": "Cuando quieres",
       "url": "https://open.spotify.com/track/502iJvcXNph5p8oPqjg0M8"
@@ -14256,7 +14274,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 209964,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A"
@@ -34127,6 +34145,36 @@
     },
     {
       "album": {
+        "name": "Procuro Olvidarte",
+        "url": "https://open.spotify.com/album/7Faq8oWt8VHNPQ16dkWRSs"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        },
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Nicole Fernandez",
+          "url": "https://open.spotify.com/artist/14xbdbCaHTeL1Avipao2rU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215084,
+      "name": "Procuro Olvidarte",
+      "url": "https://open.spotify.com/track/25BDjJ4QYZofbQVGNo6RGe"
+    },
+    {
+      "album": {
         "name": "Promet\u00ed No Enamorarme",
         "url": "https://open.spotify.com/album/44Bvo2ylCKCvPeMEuxugU5"
       },
@@ -35776,6 +35824,24 @@
       "duration_ms": 95682,
       "name": "Respectless",
       "url": "https://open.spotify.com/track/6UTPUfrTvKzD7GhLAhi1x7"
+    },
+    {
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/3qVPWXNRQol9jACnhVrLVk"
+      },
+      "artists": [
+        {
+          "name": "untitled",
+          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173683,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO"
     },
     {
       "album": {

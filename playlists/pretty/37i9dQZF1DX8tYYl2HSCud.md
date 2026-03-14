@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 
 > Gentle ambient for a calm baby during bath time, playtime or baby massage.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,120 likes - 200 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,209 likes - 200 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tYYl2HSCud.md) - [plain]
 | 122 | [Shining Ridge](https://open.spotify.com/track/4hEcCpmatnGCDpo1DzZtk6) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Shining Ridge](https://open.spotify.com/album/0tWucW3Z5i6yDDWYeiz4tK) | 2:30 |
 | 123 | [Waning Cortical Drift](https://open.spotify.com/track/7qTNI3e1JF2h1IxVweplwv) | [Shinrinyoku](https://open.spotify.com/artist/6RSIkDIx7MDIVhYUbLQ8Pt) | [Waning Cortical Drift](https://open.spotify.com/album/6rR06C0Wn6zlD94jTPX4Xm) | 2:42 |
 | 124 | [Reticence](https://open.spotify.com/track/1FIlIkztQaqOkR0atyo46g) | [Ministry of Ambience](https://open.spotify.com/artist/1RoGSkb1MexMKcChn74Vx9) | [Reticence](https://open.spotify.com/album/2H1HigBABkhdHBj6xBTLBZ) | 2:19 |
-| 125 | [Every Hope](https://open.spotify.com/track/50QFOqUt8RKotwbYqCbRTf) | [Centauri](https://open.spotify.com/artist/2tRg9EKr464R7jsBf9YlbX) | [Every Hope](https://open.spotify.com/album/6Xcia61gH5igbb64hBMeu7) | 2:19 |
+| 125 | [Every Hope](https://open.spotify.com/track/50QFOqUt8RKotwbYqCbRTf) | [Centauri](https://open.spotify.com/artist/1Ao8elb7po99VD1sSNZqou) | [Every Hope](https://open.spotify.com/album/6Xcia61gH5igbb64hBMeu7) | 2:19 |
 | 126 | [Lunar Pace](https://open.spotify.com/track/0RbTrXVcWwKMMXaG5lIh7J) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Lunar Pace](https://open.spotify.com/album/2ZSvEKR45sPaJIIxuzRQI9) | 2:43 |
 | 127 | [Horizons Dissolve](https://open.spotify.com/track/2gbV1r4WNTe5aeq1DwLPmY) | [Harmony of Zither](https://open.spotify.com/artist/0HuH3ibculvSvybbJWkCfe) | [Horizons Dissolve](https://open.spotify.com/album/1Ob0XLA2iT9KGq3pytXnZ3) | 2:39 |
 | 128 | [Returning](https://open.spotify.com/track/3gxLUyChsjMqr6qCMWoFaH) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Returning](https://open.spotify.com/album/1c29mbJXmLbYE5nWOQ9667) | 2:57 |

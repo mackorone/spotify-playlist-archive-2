@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,038,057 likes - 59 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,038,542 likes - 59 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 45 | [Sobe Na Moto Roubadona](https://open.spotify.com/track/55X6DSZ3CEWeIQrVxMOR9h) | [DJ KELVINHO DA ZS](https://open.spotify.com/artist/5RvyQxggVkuBridsJFiMzs), [Iraqui ZL](https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS) | [Sobe Na Moto Roubadona](https://open.spotify.com/album/61sD9EqJr7Mfty0G0Hj5HA) | 2:08 |
 | 46 | [Equipe Caos](https://open.spotify.com/track/6UveejVb6aioPKeamhz1nE) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Biurifol](https://open.spotify.com/artist/6kHgGRuWCJ5FpbieBncl9X), [Mc Mylla](https://open.spotify.com/artist/5y1arZoe6vuqNqEECfFTIq), [DJ Emige](https://open.spotify.com/artist/7Bwy2izsR02avTMcKR6EOr), [Mais Alto](https://open.spotify.com/artist/6ArlLCqc3gl1ASDpaK19qr) | [Equipe Caos](https://open.spotify.com/album/3g7tO5O1qKMYhVoA7NuaCR) | 3:03 |
 | 47 | [Cada Vez Mais Gostosa](https://open.spotify.com/track/6v6MmJlw7elqJUty23mvS4) | [Dj Tchouzen](https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [Cada Vez Mais Gostosa](https://open.spotify.com/album/4QruqlNqDMXyQYOp5oLUq1) | 2:13 |
-| 48 | [VAI NO CHÃO BANDIDA](https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd) | [Dj Guuh](https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [VAI NO CHÃO BANDIDA](https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ) | 2:20 |
+| 48 | [VAI NO CHÃO BANDIDA](https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd) | [Dj Guuh](https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [VAI NO CHÃO BANDIDA](https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ) | 2:20 |
 | 49 | [Valentino](https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5) | [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Valentino](https://open.spotify.com/album/68C4teLrfFcr8XfEZL1qa4) | 2:37 |
 | 50 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [fire hair](https://open.spotify.com/artist/6wyE69vcYrfYvRaG5GNEkN), [WenHard](https://open.spotify.com/artist/4otphgHII0GMrR36Kexd3o) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
 | 51 | [ME LIGOU NA MADRUGADA](https://open.spotify.com/track/0yYWhqVvSz4md3aalzx5vY) | [DJ PK O Único](https://open.spotify.com/artist/4iXNSRP2ca7nDdn8cqexyq), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [Mc Lysa](https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7) | [ME LIGOU NA MADRUGADA](https://open.spotify.com/album/4BOzp4sgike2u0QchbxaDE) | 1:58 |

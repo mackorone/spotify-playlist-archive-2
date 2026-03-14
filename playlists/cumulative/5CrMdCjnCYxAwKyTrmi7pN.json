@@ -1351,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E"
+    },
+    {
+      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
@@ -2828,6 +2846,24 @@
       "duration_ms": 181475,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/4YNoaytMcFUCGXXxZfXLO1"
+    },
+    {
+      "album": {
+        "name": "Livin' For",
+        "url": "https://open.spotify.com/album/7waKmw79F9XR4PzgxCwzqk"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219103,
+      "name": "Livin' For",
+      "url": "https://open.spotify.com/track/61XPuOp0FkBsucySpjoWVG"
     },
     {
       "album": {
@@ -5128,6 +5164,24 @@
       "duration_ms": 202973,
       "name": "The Treadmill",
       "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "album": {

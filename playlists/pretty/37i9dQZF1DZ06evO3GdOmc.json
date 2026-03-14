@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 45710,
+  "num_followers": 45712,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAD4Jhqb/JBhk1fCpoTjqHoM",
+  "snapshot_id": "abICAAAAAAA7OI6kWCDF4e1NXRSG2Z7Z",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Altar and The Door",
-        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Slow Fade",
-      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Live Worship Experience",
-        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
       "artists": [
         {
@@ -544,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 379213,
-      "name": "Good Good Father - Live",
-      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
+      "duration_ms": 277293,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
     },
     {
       "added_at": null,
@@ -560,9 +544,25 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 244067,
-      "name": "All You've Ever Wanted",
-      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+      "duration_ms": 285439,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 379213,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Altar and The Door",
-        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 170520,
-      "name": "Prayer For A Friend",
-      "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 285439,
-      "name": "Broken Together",
-      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+      "duration_ms": 244067,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
     },
     {
       "added_at": null,
@@ -643,6 +627,22 @@
       "duration_ms": 295200,
       "name": "The Well",
       "url": "https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Prayer For A Friend",
+      "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
     },
     {
       "added_at": null,
@@ -672,25 +672,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 208466,
-      "name": "What If His People Prayed",
-      "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "The Power of the Cross",
-      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
+      "duration_ms": 250826,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 249600,
       "name": "City On The Hill",
       "url": "https://open.spotify.com/track/2oEy4YPNn1h6ZQRpcIFk6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "The Power of the Cross",
+      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 250826,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n"
+      "duration_ms": 208466,
+      "name": "What If His People Prayed",
+      "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Sexy Jay
 
-4,035 songs - 9 day 19 hr 40 min
+4,036 songs - 9 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1970,7 +1970,7 @@
 | [Leave It All](https://open.spotify.com/track/6BZez45iaWR11EphauVyQW) | [Trynket](https://open.spotify.com/artist/532KYewibPingKExTDrDbA), [DJ Nicar](https://open.spotify.com/artist/55UMFd9r0qGYgueJPE93tW) | [Leave It All](https://open.spotify.com/album/0cIYfzsJpnQJJJSC4nbfRb) | 2:21 | 2022-07-28 | 2022-09-23 |
 | [Leave Me Forever](https://open.spotify.com/track/4OYzQRCY3NssUbedx7W280) | [Jamm Rea](https://open.spotify.com/artist/0Fs0ZCPYp5DKdsD5vtKnlN) | [Leave Me Forever](https://open.spotify.com/album/0ypBqOcoJ16eehB9u7dP5N) | 4:08 | 2023-11-02 | 2023-12-09 |
 | [Leftover Love](https://open.spotify.com/track/7z1HzJA2gZj3nwD2CHqw56) | [SUGARKISS](https://open.spotify.com/artist/0nQjXAizuIhTIWCmlkmA6w), [Vince Lucero](https://open.spotify.com/artist/2YC1rjwK4GNEBwim8pNSo5) | [Leftover Love](https://open.spotify.com/album/3aS8EvWhOFXzlbbl7Al5MX) | 3:00 | 2024-06-27 | 2024-07-27 |
-| [Lemme Down Ya](https://open.spotify.com/track/7whCn9PTFyfObZKIOctZfA) | [SAVV4L](https://open.spotify.com/artist/56vovxvNE5016QeWzm8ZRq), [Paul](https://open.spotify.com/artist/357QB78Xb6GKEXYrjfg7J0) | [Lemme Down Ya](https://open.spotify.com/album/4reDGD2WRc5Nyyt8Emdiaa) | 4:11 | 2026-02-05 |  |
+| [Lemme Down Ya](https://open.spotify.com/track/7whCn9PTFyfObZKIOctZfA) | [SAVV4L](https://open.spotify.com/artist/56vovxvNE5016QeWzm8ZRq), [Paul](https://open.spotify.com/artist/4Eq6bPItsoUB3NMi6NYCfF) | [Lemme Down Ya](https://open.spotify.com/album/4reDGD2WRc5Nyyt8Emdiaa) | 4:11 | 2026-02-05 |  |
 | [Lemonade](https://open.spotify.com/track/3bFm32KBgR7yuqH4w2Qz1p) | [Javier Sale](https://open.spotify.com/artist/0bJ0Cr7lha1Yq6jbtS4hDo) | [Lemonade](https://open.spotify.com/album/2Mko7W4gMcTgg5ZVkcltI0) | 3:26 | 2022-02-10 | 2022-03-11 |
 | [Lenggwahe Pangkalawakan](https://open.spotify.com/track/3jDePxbgECxOxGSWPo4WGe) | [Giro](https://open.spotify.com/artist/0QqlaTyZWFfw8mGQVviqdv) | [Lenggwahe Pangkalawakan](https://open.spotify.com/album/67SI1waI31THPM3SMTQoh1) | 3:20 | 2024-05-02 | 2024-06-14 |
 | [Leonardo](https://open.spotify.com/track/4S2VkqoBSQFUzgMP9JpUhb) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Leonardo](https://open.spotify.com/album/5yyjZIVealY14nLIGUCffp) | 2:11 | 2023-02-16 | 2023-03-03 |
@@ -3206,6 +3206,7 @@
 | [See No Evil](https://open.spotify.com/track/0E4i9qwuPJgJFfspUI2s1L) | [Dispatcher](https://open.spotify.com/artist/2dvpIzflxrYv35grTMTAYd) | [See No Evil](https://open.spotify.com/album/5FGxj0OI9k2CvcMkaxGkgb) | 2:56 | 2025-11-06 | 2026-01-23 |
 | [see ya](https://open.spotify.com/track/4MY3aShMmxpOJVMa5qy16t) | [yuske](https://open.spotify.com/artist/51YclfICtVbD3jYLlJHdEh), [vin0](https://open.spotify.com/artist/0D0IrQS1666lLFXoIpm2Lk) | [see ya](https://open.spotify.com/album/6OLFOngcISIEkbJjWtWMI3) | 2:29 | 2024-03-21 | 2024-05-03 |
 | [See You Next Year](https://open.spotify.com/track/5mU1EQ3cpXbY8Acb1regIN) | [Violet Aurora](https://open.spotify.com/artist/5Evxi5m14YWdNYE1EFADf0) | [See You Next Year](https://open.spotify.com/album/4d48a9BmYlPqmK0iX1g8rO) | 3:46 | 2023-10-26 | 2023-12-09 |
+| [Seen Mode Pero Kinikilig](https://open.spotify.com/track/49pbI057JhUKe3eJheUObk) | [KITTRIX](https://open.spotify.com/artist/2FRZOh4SI42Oy3OmlRJOx1) | [Seen Mode Pero Kinikilig](https://open.spotify.com/album/2gKjrQfwHePKM1ngcEWc4T) | 2:51 | 2026-03-12 |  |
 | [Selene, Pt\. 1](https://open.spotify.com/track/1Jtmq4Xza2DkCPK5K790mj) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e) | [Selene, Pt\. 1](https://open.spotify.com/album/1DkQ2Cn7Hy6IiENiyz1xvA) | 4:40 | 2022-10-13 | 2023-02-10 |
 | [Sensitibo](https://open.spotify.com/track/5jAGGpzQgk5wYh3nPJHiNO) | [Maropok](https://open.spotify.com/artist/7zR09LIFOL2rpfGfW4iYCA) | [Sensitibo](https://open.spotify.com/album/1TISPOFVCmznzfRB7pqe3n) | 3:55 | 2024-06-06 | 2024-06-28 |
 | [SENTIMENTAL](https://open.spotify.com/track/4vzishIRtp1A4qaO4XpB6m) | [MIGUI B](https://open.spotify.com/artist/3P8PkWwSgr0O96tKD8sKZH) | [ENTER! SESH LORD MANSION](https://open.spotify.com/album/3wTmETkmA6zRBkpZLI3OSa) | 4:17 | 2025-07-10 | 2025-09-26 |

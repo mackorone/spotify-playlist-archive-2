@@ -1517,6 +1517,28 @@
     },
     {
       "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/3oH77EeAbGRTtNKIWzs4n0"
+      },
+      "artists": [
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        },
+        {
+          "name": "Paris Sandford",
+          "url": "https://open.spotify.com/artist/2Wp8nQbK8UlgrPvH8yWxU1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192096,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/1owyBeWacFOghQy4mnSzEf"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9"
       },
@@ -2712,7 +2734,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 165276,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
@@ -4550,7 +4572,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 173432,
       "name": "Edge Of The World (feat. Nu-La)",
       "url": "https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW"
@@ -12025,6 +12047,28 @@
     },
     {
       "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208561,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
+    },
+    {
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/6YlAzR1tvsXIJgR7Nu1pzq"
       },
@@ -14322,7 +14366,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 243478,
       "name": "Radiate (feat. Hayley May)",
       "url": "https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm"
@@ -17039,6 +17083,28 @@
     },
     {
       "album": {
+        "name": "Suelta",
+        "url": "https://open.spotify.com/album/5EtzYU2zcMMb9ne5gGEcMQ"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122578,
+      "name": "Suelta",
+      "url": "https://open.spotify.com/track/1aq0EdFEBMJNfGKnbxdNZX"
+    },
+    {
+      "album": {
         "name": "Summer.mp3",
         "url": "https://open.spotify.com/album/4PEgglaiWfxpCVatyQiCR9"
       },
@@ -18999,6 +19065,32 @@
     },
     {
       "album": {
+        "name": "Ultra Love",
+        "url": "https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203516,
+      "name": "Ultra Love",
+      "url": "https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi"
+    },
+    {
+      "album": {
         "name": "Una Velita",
         "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
       },
@@ -19296,7 +19388,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 187617,
       "name": "Wait",
       "url": "https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC"

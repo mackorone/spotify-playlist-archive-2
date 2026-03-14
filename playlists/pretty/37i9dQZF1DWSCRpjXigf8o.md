@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,924 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,925 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 41 | [You](https://open.spotify.com/track/7lv0grRnvqhmnERdn320PX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [You](https://open.spotify.com/album/4LzXjuPhXe5FxeP31CCbkb) | 2:52 |
 | 42 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 |
 | 43 | [Fall Into You](https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Fall Into You](https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS) | 2:48 |
-| 44 | [Close to you](https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/0mBGh0XeyVwHbh9aceF2Sp) | 3:38 |
-| 45 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
+| 44 | [Sweetest Potion](https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [NOICE](https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7) | 2:45 |
+| 45 | [Close to you](https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT COVER](https://open.spotify.com/album/0mBGh0XeyVwHbh9aceF2Sp) | 3:38 |
 | 46 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
 | 47 | [One More Time](https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Zer Nguyễn](https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz) | [One More Time](https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP) | 3:39 |
 | 48 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 50 | [Your Light](https://open.spotify.com/track/4qEnCuCn5N4gO2TyWyIOeZ) | [8WHAT](https://open.spotify.com/artist/7sUI7Wt3xbG60XRh00Kf6i), [Alisara Arial](https://open.spotify.com/artist/181vxGPS6gV3SWQUXzNpZP), [YiDD](https://open.spotify.com/artist/1YeTLfx7aPF0T5hmNHTsMk) | [Your Light](https://open.spotify.com/album/3D2AoXbOpUScjeH9zOWwWJ) | 2:44 |
 | 51 | [Every Second \- Japanese Version](https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days \(Japanese Edition\)](https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc) | 3:02 |
 | 52 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
-| 53 | [A Little More Time](https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [A Little More Time](https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa) | 4:00 |
-| 54 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 |
+| 53 | [家族の風景](https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [音タイム](https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW) | 4:37 |
+| 54 | [A Little More Time](https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [A Little More Time](https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa) | 4:00 |
 | 55 | [やさしいままで](https://open.spotify.com/track/12ILanij3qGao68KxZtwR9) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [やさしいままで](https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM) | 3:44 |
 | 56 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
 | 57 | [サヨナラCOLOR](https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq) | [SUPER BUTTER DOG](https://open.spotify.com/artist/3FxIxhSKWszGB3z3FoZDXh) | [grooblue](https://open.spotify.com/album/0EAMYAFAnh3421GkbvTI0e) | 5:18 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 93 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
 | 94 | [Blush](https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Blush](https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW) | 2:44 |
 | 95 | [キャンディ](https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 3:46 |
-| 96 | [Merlot](https://open.spotify.com/track/0ZU4i08whFwyU3N84TZqFv) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [STVN](https://open.spotify.com/artist/68RZFsJF2BEa9tva4Ll0uE) | [Merlot](https://open.spotify.com/album/6KphorluMyxNdcJPYD0Ld8) | 2:45 |
-| 97 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
-| 98 | [Make it Right](https://open.spotify.com/track/5E8KMsnXfuuzBKw149o7RS) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Make it Right](https://open.spotify.com/album/3jhIleUdOWesOnWaDc88rD) | 2:51 |
-| 99 | [APPLE PIE](https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [APPLE PIE](https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull) | 4:02 |
+| 96 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
+| 97 | [Merlot](https://open.spotify.com/track/0ZU4i08whFwyU3N84TZqFv) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [STVN](https://open.spotify.com/artist/68RZFsJF2BEa9tva4Ll0uE) | [Merlot](https://open.spotify.com/album/6KphorluMyxNdcJPYD0Ld8) | 2:45 |
+| 98 | [APPLE PIE](https://open.spotify.com/track/2oZXiY2TUfafJj6qec5Oqv) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [APPLE PIE](https://open.spotify.com/album/4zmH8hhWPeE6PE2DNPLull) | 4:02 |
+| 99 | [Make it Right](https://open.spotify.com/track/5E8KMsnXfuuzBKw149o7RS) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O), [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ) | [Make it Right](https://open.spotify.com/album/3jhIleUdOWesOnWaDc88rD) | 2:51 |
 | 100 | [the end of us](https://open.spotify.com/track/5m0GpaJsM3Bk7noJaTH4vf) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [first light](https://open.spotify.com/album/2Xszy3tyIDXRU7GfO1oS0U) | 3:24 |
 
 Snapshot ID: `AAAAADiqvu+Ko/XjD0PHj3Oq60n/MWiT`

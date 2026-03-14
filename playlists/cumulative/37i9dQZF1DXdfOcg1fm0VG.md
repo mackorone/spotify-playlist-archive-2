@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-203 songs - 11 hr 39 min
+204 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Main Title](https://open.spotify.com/track/3ynOh82NOks4d4YcKkcrnt) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Fallout 3: Original Game Soundtrack](https://open.spotify.com/album/5eikNDtOsRBp4npSO9nFOJ) | 2:04 | 2021-12-15 |  |
 | [Menu \(Protect the Loop\)](https://open.spotify.com/track/0HGknL22SeV3WN0hrWffhp) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Deathloop \(Original Game Soundtrack\)](https://open.spotify.com/album/2VNdSDOOqN9f1uFHrZt75y) | 1:14 | 2022-01-04 |  |
 | [Metal Gear Saga](https://open.spotify.com/track/3gMRvptppSZGbhYBeIqxV3) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [METAL GEAR SOLID 4 GUNS OF THE PATRIOTS ORIGINAL SOUND TRACK](https://open.spotify.com/album/1tBv8dV8YXy58L9io2eYbI) | 4:19 | 2022-08-30 |  |
+| [Midnight](https://open.spotify.com/track/2fwFsyTOzehiN7AEU8xXtD) | [Jake Lefkowitz](https://open.spotify.com/artist/1RoBZgzvFxLIBCFKe7KvCj), [Adam Burgess](https://open.spotify.com/artist/12CJXkHHiMUAzNDr2q5mBc), [Leo Kaliski](https://open.spotify.com/artist/0Q17losYLQmvFMI0dxBqIz), [Neal Acree](https://open.spotify.com/artist/5mocQZIZJJsA389LmLpCkk), [Joshua Ra Goodman](https://open.spotify.com/artist/2E7i8X0ZRf0FSZXMtV0dwg), [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0), [Glenn Stafford](https://open.spotify.com/artist/0QHPo4EDeIiHCs37RRfhCM), [Jason Hayes](https://open.spotify.com/artist/1RGNzkIbAdJlqJooCykfG8), [Blizzard Entertainment](https://open.spotify.com/artist/6UJ3pPsN7xzsz0Cneucy59), [World of Warcraft](https://open.spotify.com/artist/2dlo6TFsxQawXjxytNerod) | [World of Warcraft: Midnight \(Original Soundtrack\)](https://open.spotify.com/album/1bw95uXBv4lokNNtl2XDMM) | 19:05 | 2026-03-13 |  |
 | [Migration](https://open.spotify.com/track/4p4KwzIJ6Ztjh9HsKYCgOw) | [Guillaume Ferran](https://open.spotify.com/artist/228Gomw7aulbQurdDNRv7r) | [Jusant \(Original Game Soundtrack\)](https://open.spotify.com/album/65gX1rOrAQvcxGEbUGAfvz) | 1:49 | 2023-11-30 |  |
 | [Mirage Theme \- From Assassin's Creed Mirage](https://open.spotify.com/track/17D3bYY9JJJjH1TUAruBJr) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Mirage Theme \(From Assassin's Creed Mirage\)](https://open.spotify.com/album/5zqIzGbR9wAkZFSLRkndlK) | 3:32 | 2023-10-06 |  |
 | [Monkey Island Theme](https://open.spotify.com/track/6xgicG9zxRtZnauyqurAuW) | [Michael Z\. Land](https://open.spotify.com/artist/5vlxfbCfKvnlesc4rE3w2S) | [Return to Monkey Island \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4XB1SVZfzNnMCybZQbC3aR) | 1:44 | 2023-09-15 |  |

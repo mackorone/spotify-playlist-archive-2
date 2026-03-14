@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94030,
+  "num_followers": 94036,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
         "name": "Bowery (feat. Kings of Leon)",
         "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Happiness Bastards",
+        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Middle of Nowhere (feat. Chad Kroeger)",
         "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 240014,
       "name": "Middle of Nowhere (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "Happiness Bastards",
-        "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 255560,
-      "name": "Wanting and Waiting",
-      "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "Won't Take Me Alive",
-        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 225596,
-      "name": "Won't Take Me Alive",
-      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
         "name": "Happiness Bastards",
         "url": "https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 306706,
       "name": "Wilted Rose (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
+        "name": "Won't Take Me Alive",
+        "url": "https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 225596,
+      "name": "Won't Take Me Alive",
+      "url": "https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Without The Pain",
         "url": "https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 207857,
       "name": "Down No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2026-01-12 23:46:55",

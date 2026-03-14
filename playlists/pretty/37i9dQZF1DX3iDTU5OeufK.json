@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 127633,
+  "num_followers": 127661,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-03-06 06:00:04",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": "2026-03-06 06:00:04",
-      "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 186612,
       "name": "Busy Woman",
       "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
+    },
+    {
+      "added_at": "2026-03-06 06:00:04",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": "2026-03-06 06:00:04",
@@ -715,6 +715,34 @@
     {
       "added_at": "2026-03-06 06:00:04",
       "album": {
+        "name": "Chaparrita (Remix)",
+        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Chaparrita (Remix)",
+      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+    },
+    {
+      "added_at": "2026-03-06 06:00:04",
+      "album": {
         "name": "WASSUP",
         "url": "https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM"
       },
@@ -727,22 +755,6 @@
       "duration_ms": 162263,
       "name": "WASSUP",
       "url": "https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn"
-    },
-    {
-      "added_at": "2026-03-06 06:00:04",
-      "album": {
-        "name": "yes, and?",
-        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 214994,
-      "name": "yes, and?",
-      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2026-03-06 06:00:04",
@@ -775,30 +787,18 @@
     {
       "added_at": "2026-03-06 06:00:04",
       "album": {
-        "name": "Chaparrita (Remix)",
-        "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
       "artists": [
         {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Chaparrita (Remix)",
-      "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "added_at": "2026-03-06 06:00:04",
@@ -859,6 +859,22 @@
       "duration_ms": 159183,
       "name": "Secunena",
       "url": "https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM"
+    },
+    {
+      "added_at": "2026-03-06 06:00:04",
+      "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 155867,
+      "name": "M\u00e1s Cara",
+      "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
     },
     {
       "added_at": "2026-03-06 06:00:04",
@@ -935,22 +951,6 @@
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
-    },
-    {
-      "added_at": "2026-03-06 06:00:04",
-      "album": {
-        "name": "M\u00e1s Cara",
-        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 155867,
-      "name": "M\u00e1s Cara",
-      "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
     },
     {
       "added_at": "2026-03-06 06:00:04",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-03-06 06:00:04",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
+    },
+    {
+      "added_at": "2026-03-06 06:00:04",
+      "album": {
         "name": "Veo Veo",
         "url": "https://open.spotify.com/album/24t1jTlCwVs2wtvVRAy48G"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 171344,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/2eR46kcYzdZtFN3Q1NkNcK"
-    },
-    {
-      "added_at": "2026-03-06 06:00:04",
-      "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/4EHVcKOs6x6DyYqocO6rTe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/2gwPSweI4iehGyEkDYYxzF"
     },
     {
       "added_at": "2026-03-06 06:00:04",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2026-03-06 06:00:04",
       "album": {
-        "name": "AyMami",
-        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "AyMami",
-      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
-    },
-    {
-      "added_at": "2026-03-06 06:00:04",
-      "album": {
         "name": "J\u00e1lale alv",
         "url": "https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 109866,
       "name": "J\u00e1lale alv",
       "url": "https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE"
+    },
+    {
+      "added_at": "2026-03-06 06:00:04",
+      "album": {
+        "name": "AyMami",
+        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "AyMami",
+      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
     },
     {
       "added_at": "2026-03-06 06:00:04",

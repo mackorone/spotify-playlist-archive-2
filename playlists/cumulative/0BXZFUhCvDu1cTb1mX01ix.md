@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/0BXZFUhCvDu1cTb1mX01ix.md) - cumulative - [plain](/playlists/plain/0BXZFUhCvDu1cTb1mX01ix) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0BXZFUhCvDu1cTb1mX01ix)
 
-### [90's Pop Party](https://open.spotify.com/playlist/0BXZFUhCvDu1cTb1mX01ix)
+### [90s Pop Party](https://open.spotify.com/playlist/0BXZFUhCvDu1cTb1mX01ix)
 
-> Crank it, sing along, and relive the decade that brought some of the best hits! Cover: No Doubt
+> Crank it, sing along, and relive the decade that brought some of the best hits! Cover: Spice Girls
 
 83 songs - 5 hr 48 min
 

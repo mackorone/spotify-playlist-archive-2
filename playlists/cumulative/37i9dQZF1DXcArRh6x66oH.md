@@ -4,7 +4,7 @@
 
 > roots run deep with Sam Barber
 
-436 songs - 1 day 2 hr 2 min
+437 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [More Than A Night](https://open.spotify.com/track/0Qgf8nGU2B8cfulKlt5T4p) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [More Than A Night](https://open.spotify.com/album/3StMprmUcvogSDIJytWOFD) | 4:07 | 2024-03-13 | 2024-07-27 |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/0yebM7lJyoX5doGOCW9fmk) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 3:43 | 2024-01-26 | 2024-04-19 |
 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 | 2023-09-29 |  |
+| [Mountain Girl](https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Mountain Girl](https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu) | 2:42 | 2026-03-13 |  |
 | [Mr\. Meyers](https://open.spotify.com/track/02H4xB4mpWx5mwc2z4BKIt) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Mr\. Meyers](https://open.spotify.com/album/5walGfxzAQLaLzaO0YaaZf) | 3:37 | 2023-08-25 | 2023-12-09 |
 | [My Expense](https://open.spotify.com/track/6CI6UohMB7T9AbKPltin9i) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [My Expense](https://open.spotify.com/album/4HWNcfegPrg2vmIaxqK3KL) | 3:41 | 2025-04-04 |  |
 | [Never Comin' Back](https://open.spotify.com/track/1wQaPoRJ0Ip6MtNxTlA3SY) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Never Comin' Back](https://open.spotify.com/album/3gPZkCBz8sGb9OQhgSrh36) | 3:57 | 2026-01-16 |  |

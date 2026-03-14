@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Grupo Triunfadores, Posadas📸
 
-539 songs - 1 day 5 hr 22 min
+541 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 | 2023-01-06 | 2023-05-27 |
 | [Imposible Olvidarte](https://open.spotify.com/track/5K6TasxtPwfj8Emukmo8Mr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Temas de Mis Películas](https://open.spotify.com/album/7KKWOK7PeMZJEKa6ZIJcgq) | 2:49 | 2024-05-24 | 2026-02-21 |
 | [Inalcanzable](https://open.spotify.com/track/7pVzMxG8AWgqZAbltLxjGB) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Valdespino](https://open.spotify.com/artist/4gmPWmVobcU0zK2ErrSvJw) | [Inalcanzable](https://open.spotify.com/album/2Ml3uMdJW2Dzub5GkfTSUp) | 2:48 | 2025-09-12 |  |
+| [Incompatibles](https://open.spotify.com/track/4juql59uxr41uXNRuDpm5V) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Incompatibles](https://open.spotify.com/album/7cogm05e8Q4uStWVUY2JFB) | 2:53 | 2026-03-13 |  |
 | [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 | 2023-01-06 | 2025-01-15 |
 | [Inolvidable](https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Inolvidable](https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB) | 2:33 | 2024-01-12 | 2025-11-15 |
 | [Juro Que Nunca Volveré](https://open.spotify.com/track/5GaV1tOjwm5UoiYqQDRUOr) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Juro Que Nunca Volveré](https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP) | 2:38 | 2025-10-03 |  |
@@ -232,6 +233,7 @@
 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 | 2023-01-06 | 2023-05-27 |
 | [La Muerte No Es el Olvido](https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [La Muerte No Es el Olvido](https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip) | 3:40 | 2023-11-10 | 2024-03-09 |
 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 | 2023-01-20 | 2024-05-25 |
+| [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 | 2026-03-13 |  |
 | [La Plañidera](https://open.spotify.com/track/6pQ8cHgtiGSBXkj82gNfue) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [La Plañidera](https://open.spotify.com/album/6UCJhAiOIEb0YvoXgrmF5z) | 3:49 | 2025-10-17 | 2026-01-17 |
 | [La Que Se Fue, Se Fue](https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Que Se Fue, Se Fue](https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e) | 2:39 | 2025-07-04 |  |
 | [La Que Sigue de Mi](https://open.spotify.com/track/0wDeNyKJ1Nbn6TRqqtL4Il) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Contundente](https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm) | 3:15 | 2022-05-13 | 2022-05-30 |

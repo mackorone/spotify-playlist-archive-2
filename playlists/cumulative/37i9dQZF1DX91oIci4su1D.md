@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,253 songs - 3 day 3 hr 0 min
+1,254 songs - 3 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Atlantis](https://open.spotify.com/track/2Q6crgCiZsT5cSbCOn5snz) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Atlantis](https://open.spotify.com/album/2Jc6QLBZHVicHidjCASyBf) | 3:28 | 2022-03-04 | 2022-07-07 |
 | [Atom \- 138 Mix](https://open.spotify.com/track/3d2580DKGk2tH3XrTFiRZf) | [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Atom \(138 Mix\)](https://open.spotify.com/album/5dFn5Dz7VfyViSJWujZaUC) | 3:26 | 2022-10-14 | 2023-12-09 |
 | [Au79](https://open.spotify.com/track/6ZCDcrD8fetYcBmQOrhLfI) | [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd), [Leonard A](https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC) | [Au79](https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v) | 3:41 | 2021-12-17 | 2022-07-13 |
-| [Autumn Avenue](https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Autumn Avenue](https://open.spotify.com/album/16Jnds3sUuEA6tkhwHap1p) | 3:23 | 2024-10-25 |  |
+| [Autumn Avenue](https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Autumn Avenue](https://open.spotify.com/album/16Jnds3sUuEA6tkhwHap1p) | 3:23 | 2024-10-25 | 2026-03-14 |
 | [Avalanche](https://open.spotify.com/track/17GnspHtyyrQRknKvDdT0N) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [Avalanche](https://open.spotify.com/album/6aQVHmfnrKJD5l5hjahHDR) | 3:06 | 2025-09-19 | 2025-12-16 |
 | [Away](https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Away](https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH) | 3:31 | 2025-11-07 |  |
 | [Away From You](https://open.spotify.com/track/4DRmet0zFQ4dzQzHRqYbZI) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Kay Wilder](https://open.spotify.com/artist/0ySNFsBXHoZE2NqwM0FCtV) | [Away From You](https://open.spotify.com/album/6Aboyci4QbukIyV93AdcKo) | 3:54 | 2023-10-27 | 2024-10-26 |
@@ -1213,6 +1213,7 @@
 | [We're Home](https://open.spotify.com/track/5GtVdHotE7ouGRkBvdIsIR) | [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [We're Home](https://open.spotify.com/album/4cMM7JW9oNUgG571xFgLxg) | 3:41 | 2023-04-29 | 2024-02-17 |
 | [Weight of The World](https://open.spotify.com/track/2NDwDSOgLdxb4HX17bw1SV) | [Lost Witness](https://open.spotify.com/artist/2NCerM6sPl0bsa2XzOKrTY), [Laura Ly](https://open.spotify.com/artist/3jTzzqAVXk8cUyuvoxVNcx) | [Weight of The World](https://open.spotify.com/album/2IIyDX25vYa0c2ey5sQ0D5) | 3:32 | 2021-12-17 | 2022-07-02 |
 | [What Matters](https://open.spotify.com/track/5rLBj4z9lPCbIinloZ9Pre) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [What Matters](https://open.spotify.com/album/2Ju4PFy5E0PRnyQYiI2y7M) | 4:31 | 2023-02-03 | 2024-02-17 |
+| [What Music Felt Like In 2007](https://open.spotify.com/track/2F6ie4adRPCCQquwR03nui) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [What Music Felt Like In 2007](https://open.spotify.com/album/5YBLvsQH3hSEOfOY6UraKJ) | 3:55 | 2026-03-13 |  |
 | [What Took You So Long](https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [What Took You So Long](https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h) | 3:31 | 2024-04-05 | 2025-07-19 |
 | [What You Do To Me](https://open.spotify.com/track/0ZsAAagVs6AShpZhRsu3yi) | [Phillip Castle](https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [What You Do To Me](https://open.spotify.com/album/6kiLshj5dVelMDXNoCL57k) | 3:26 | 2025-08-22 | 2025-10-06 |
 | [When Darkness Comes](https://open.spotify.com/track/7saRdP4N7PG6a38pI2Hpo9) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J), [Shelby Merry](https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd) | [When Darkness Comes](https://open.spotify.com/album/2Spkplbbo86ZRfx6WB5eL6) | 4:41 | 2022-03-18 | 2023-03-04 |

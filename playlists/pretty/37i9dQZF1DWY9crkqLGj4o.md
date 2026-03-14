@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,712 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,743 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 62 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
 | 63 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
 | 64 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
-| 65 | [Vem Dando Glória \- Ao Vivo](https://open.spotify.com/track/13cRpWPJjyC6aFqNKNX9aO) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [Vem Dando Glória \(Ao Vivo\)](https://open.spotify.com/album/5S7hBEDl08T6ekDrqg5N4H) | 4:19 |
-| 66 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
+| 65 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
+| 66 | [Vem Dando Glória \- Ao Vivo](https://open.spotify.com/track/13cRpWPJjyC6aFqNKNX9aO) | [Néia Do Surdo](https://open.spotify.com/artist/52yjuIfCOxTgugRDIxZvCw), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [Vem Dando Glória \(Ao Vivo\)](https://open.spotify.com/album/5S7hBEDl08T6ekDrqg5N4H) | 4:19 |
 | 67 | [No Caminho do Milagre](https://open.spotify.com/track/2PA760uz4zfHLhmbwpcArL) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [No Caminho do Milagre \- Ao Vivo](https://open.spotify.com/album/4b76pdbnjJ6Ur7x7VDOxmZ) | 6:05 |
 | 68 | [De Quem É? \- studio](https://open.spotify.com/track/35KS4m2ecXMwiyqk1sL55p) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG) | [Meu Mestre](https://open.spotify.com/album/4RCLWOpMlP0424CDa4TK3Z) | 4:08 |
 | 69 | [Noites Traiçoeiras](https://open.spotify.com/track/0jcqQIp3hjuSAtYsQmTCcx) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Noites Traiçoeiras](https://open.spotify.com/album/4e4BIYWvAWGKdgI5bFxz8s) | 4:12 |

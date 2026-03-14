@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 124358,
+  "num_followers": 124365,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "You (Are) Mean a Lot to Me",
-        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
-      },
-      "artists": [
-        {
-          "name": "Blackbeans",
-          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
-        }
-      ],
-      "duration_ms": 271764,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 212571,
       "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "You (Are) Mean a Lot to Me",
+        "url": "https://open.spotify.com/album/1qYFmgwv3gwRwqa2oFGgbq"
+      },
+      "artists": [
+        {
+          "name": "Blackbeans",
+          "url": "https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo"
+        }
+      ],
+      "duration_ms": 271764,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "Club",
         "url": "https://open.spotify.com/album/3FIStO0Jqw4wX6aXbvDd6L"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 266893,
       "name": "\u0e04\u0e39\u0e48\u0e01\u0e31\u0e19 (Soulmate)",
       "url": "https://open.spotify.com/track/2SewBThepvNfjZ6fyBhGYT"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
+        "name": "SKY",
+        "url": "https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM"
       },
       "artists": [
         {
-          "name": "Catchy",
-          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
+          "name": "Stamp",
+          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 229166,
-      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
-      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
+      "duration_ms": 204999,
+      "name": "\u0e1d\u0e31\u0e19\u0e2b\u0e27\u0e32\u0e19\u0e2d\u0e32\u0e22\u0e08\u0e39\u0e1a",
+      "url": "https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -795,22 +799,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "SKY",
-        "url": "https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM"
+        "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+        "url": "https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc"
       },
       "artists": [
         {
-          "name": "Stamp",
-          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
-        },
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "Catchy",
+          "url": "https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat"
         }
       ],
-      "duration_ms": 204999,
-      "name": "\u0e1d\u0e31\u0e19\u0e2b\u0e27\u0e32\u0e19\u0e2d\u0e32\u0e22\u0e08\u0e39\u0e1a",
-      "url": "https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv"
+      "duration_ms": 229166,
+      "name": "\u0e40\u0e18\u0e2d\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1e\u0e23\u0e2b\u0e21\u0e25\u0e34\u0e02\u0e34\u0e15\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 [Destiny]",
+      "url": "https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
-        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
+        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
       },
       "artists": [
         {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
         }
       ],
-      "duration_ms": 207387,
-      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
+      "duration_ms": 229250,
+      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
+        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
       },
       "artists": [
         {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
         }
       ],
-      "duration_ms": 229250,
-      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
+      "duration_ms": 207387,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-12-29 19:08:47",
       "album": {
-        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
-        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
-      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
         "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
         "url": "https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
+        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1491,6 +1491,22 @@
       "duration_ms": 208000,
       "name": "\u0e21\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0teSa2LZFYcmJsWL3OQJXJ"
+    },
+    {
+      "added_at": "2025-12-29 19:08:47",
+      "album": {
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
+      },
+      "artists": [
+        {
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
     },
     {
       "added_at": "2025-12-29 19:08:47",
@@ -1659,22 +1675,6 @@
       "duration_ms": 238651,
       "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
       "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
-    },
-    {
-      "added_at": "2025-12-29 19:08:47",
-      "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
-      },
-      "artists": [
-        {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
     },
     {
       "added_at": "2025-12-29 19:08:47",

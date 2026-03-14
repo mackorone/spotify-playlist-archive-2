@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/skylardigginssmith/\">Skylar Diggins-Smith</a>",
-  "num_followers": 12795,
+  "num_followers": 12797,
   "original_name": "Skylar Diggins' Taste",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-10-02 02:05:19",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7EPmezGIzLHj7LeTtLYhJZ"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T"
+    },
+    {
+      "added_at": "2022-10-02 02:05:19",
+      "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
-    },
-    {
-      "added_at": "2022-10-02 02:05:19",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7EPmezGIzLHj7LeTtLYhJZ"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "It Was A Good Day",
-      "url": "https://open.spotify.com/track/2GrOq1y5gksYrqkc8Jzl9T"
     },
     {
       "added_at": "2022-10-02 02:05:19",

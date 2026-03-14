@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Nia Smith, Destin Conrad
 
-571 songs - 1 day 5 hr 36 min
+571 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [4ursafety](https://open.spotify.com/track/7u0JIVXQBpCD74ivUiPAPR) | [Sade Amor](https://open.spotify.com/artist/77ju645AaIn4CZEigJDrrq) | [4ursafety](https://open.spotify.com/album/6C3h92X0tgBeEEliuuX2WR) | 2:18 | 2026-02-27 |  |
 | [6 Feet Down](https://open.spotify.com/track/702iObycXld7AL2LQpTpUc) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [6 Feet Down](https://open.spotify.com/album/6i93wnZ5LMF7g7mBgYGF3V) | 2:48 | 2024-09-12 | 2024-10-12 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-22 | 2024-04-19 |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-13 |  |
 | [A Million Ways](https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [A Million Ways](https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA) | 3:04 | 2024-09-20 | 2024-10-18 |
 | [A Penny For Your Thoughts](https://open.spotify.com/track/3quSErRei0EBupQnK6ze5h) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/7b9pX2SFotCMRcfU3PYvPW) | 1:38 | 2024-04-26 | 2024-05-11 |
 | [AAA](https://open.spotify.com/track/2Oo9Heg2qZNGaZIz3shwUx) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B) | 3:24 | 2024-11-15 | 2025-06-27 |
@@ -523,7 +524,6 @@
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 |  |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-12-11 |
-| [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 | 2026-03-13 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-09-04 | 2026-02-27 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-22 | 2024-07-19 |

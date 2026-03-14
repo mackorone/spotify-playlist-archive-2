@@ -4,7 +4,7 @@
 
 > Mental illness
 
-69 songs - 3 hr 50 min
+70 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cry for Judas](https://open.spotify.com/track/6dzU8kkXmOGCMNyX149BX3) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 3:12 | 2024-09-15 |  |
 | [Daisies](https://open.spotify.com/track/0AoNT5b3YYf28IIq6pGojV) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Daisies](https://open.spotify.com/album/4cZdcHdODTbgZqR4A10CyQ) | 2:18 | 2026-02-20 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-27 |  |
+| [Disco! in the Panic Room](https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx) | [Bug Hunter](https://open.spotify.com/artist/3icuKNh1iYRvYPiEkxiAfR) | [The Rough Draft](https://open.spotify.com/album/3BIJimflJCEKdoMFSenabT) | 3:31 | 2026-03-13 |  |
 | [Double Vision](https://open.spotify.com/track/0fsj3HxzBHev6EJ7OLFE3r) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 3:44 | 2023-11-20 |  |
 | [Escaping the Asylum](https://open.spotify.com/track/37t5WApvd9cluPunHf7IZ5) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Originals Volume 2](https://open.spotify.com/album/5QqJtpXawzRkRKvyJCp8UM) | 2:16 | 2023-03-23 |  |
 | [Feel Better](https://open.spotify.com/track/0mfHN9LcAPidSI3JCPqYml) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 4:12 | 2026-01-15 |  |

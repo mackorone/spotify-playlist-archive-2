@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 54336,
+  "num_followers": 54429,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACAd457ifXhXBcldQUvyTpl",
+  "snapshot_id": "abICAAAAAAAhJSDjLmbvMHFH9Yp7EBMF",
   "tracks": [
     {
       "added_at": null,
@@ -407,38 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 150950,
-      "name": "Paz En Este Amor - En Vivo",
-      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Que Color Es La Suerte",
         "url": "https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD"
       },
@@ -463,22 +431,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 183311,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
+      "duration_ms": 150950,
+      "name": "Paz En Este Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
     },
     {
       "added_at": null,
@@ -499,6 +479,26 @@
       "duration_ms": 155365,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
     },
     {
       "added_at": null,

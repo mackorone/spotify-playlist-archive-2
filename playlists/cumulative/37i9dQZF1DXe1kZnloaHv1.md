@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-136 songs - 7 hr 18 min
+137 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Rainy n Bed](https://open.spotify.com/track/7dkkW6rmoC4IAtVDpaZNX1) | [sumgoyange](https://open.spotify.com/artist/7kUElOJQ6VHTmIGp57pAff) | [Rainy n Bed](https://open.spotify.com/album/50lNXjV17xNe38bsHJ3Jvr) | 2:36 | 2023-11-09 | 2026-03-11 |
 | [Refresh](https://open.spotify.com/track/4z1XBGODhvrP73681Cmluj) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Refresh](https://open.spotify.com/album/4TWFoQslU8MtoWZWB9VlJk) | 3:36 | 2023-11-09 | 2025-05-08 |
 | [Relax Holic](https://open.spotify.com/track/1UW32RzePHgU2cvAq7C8YU) | [Jueun](https://open.spotify.com/artist/5ozAVjACutjHz3lBDxxtn4) | [NONOL VOL 74\. Jueun ‘ Relax Holic ’](https://open.spotify.com/album/0xtA8EBnUPXdIhdwL6eFtD) | 2:38 | 2026-01-19 |  |
+| [right next to me](https://open.spotify.com/track/6G4qa5d3rrRrCLIuHZyKQH) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [right next to me](https://open.spotify.com/album/5JwrbfAphlVvKf1HWxXT1z) | 4:15 | 2026-03-13 |  |
 | [Shrimp with Mental Illness](https://open.spotify.com/track/6f9EvnVk5tMRCZUbttLxYo) | [Deng.E](https://open.spotify.com/artist/4ockKZwqrNI9wO6LWtulK3) | [life like a machine, day like a shrimp, and daily life like a bus.](https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5) | 3:10 | 2023-11-09 | 2026-03-11 |
 | [Silky](https://open.spotify.com/track/0vq0jeNuAKYryydXzZUoYw) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [PERCENT](https://open.spotify.com/album/4de5hT5ZhXjpGXvwsLsZNW) | 2:34 | 2025-07-17 |  |
 | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/track/7vaRmtGZHHRajza4oI5XxX) | [404](https://open.spotify.com/artist/6hJaJkkFyYCBaYr2THZvvH), [JJANGYOU](https://open.spotify.com/artist/3ViJGHHVOYothA6WMi2rYR) | [SK8 KID \(feat\. JJANGYOU\)](https://open.spotify.com/album/5HOSQMPqzkbtyLydTkGzxf) | 2:09 | 2023-11-09 | 2025-11-06 |

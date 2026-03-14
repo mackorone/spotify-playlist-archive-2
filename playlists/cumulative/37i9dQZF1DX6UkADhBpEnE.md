@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-1,071 songs - 2 day 10 hr 37 min
+1,072 songs - 2 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 | 2023-04-20 | 2023-06-05 |
 | [HARD MODE](https://open.spotify.com/track/1zgudvNqBtxLBnBNbRuuuG) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [HARD MODE](https://open.spotify.com/album/0P9dHTIuTUDWE6QlSJJT8d) | 3:51 | 2026-02-05 |  |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-11-09 | 2023-11-17 |
-| [Hasta Jesús Tuvo un Mal Día](https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Hasta Jesús Tuvo un Mal Día](https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY) | 3:15 | 2026-02-12 |  |
+| [Hasta Jesús Tuvo un Mal Día](https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Hasta Jesús Tuvo un Mal Día](https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY) | 3:15 | 2026-02-12 | 2026-03-14 |
 | [Have a Good Time Here](https://open.spotify.com/track/3rDewXZvbOQPWUR8TPi6VW) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Have a Good Time Here](https://open.spotify.com/album/2oRX6o3vzi8w3EQQla48LW) | 3:43 | 2023-12-21 | 2024-01-05 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-17 | 2024-06-29 |
 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 | 2024-01-11 | 2024-01-19 |
@@ -868,6 +868,7 @@
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-19 | 2023-11-10 |
 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 | 2026-01-15 | 2026-03-13 |
 | [Wish upon the Summer](https://open.spotify.com/track/1olB9d6rSgSJOcgl34VaYl) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Wish upon the Summer](https://open.spotify.com/album/00Ye5zlkyQbYj23OqKv0xe) | 3:01 | 2023-07-11 | 2023-09-27 |
+| [WITH ME](https://open.spotify.com/track/7sMu7u5KzqJLYo9zUDFPFa) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [WITH ME](https://open.spotify.com/album/3Ftu3XGiFI03GVosY29p4y) | 3:03 | 2026-03-12 |  |
 | [wo ai ni](https://open.spotify.com/track/15f7uyz8tXgasYAL7N6WWE) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [wo ai ni / break it even](https://open.spotify.com/album/3GKlSjIhy3WIQg34qcEeyG) | 3:31 | 2025-10-16 | 2025-11-21 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 | 2025-08-16 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-09-17 |

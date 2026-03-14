@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-497 songs - 1 day 1 hr 38 min
+497 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Domino](https://open.spotify.com/track/1S0n6HR1ZHZ8vOzMJiQKQE) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Unfinished](https://open.spotify.com/album/0b6nhv53sGGd3jsjxZU96a) | 3:00 | 2025-06-13 | 2025-09-25 |
 | [Don't Do Drugs](https://open.spotify.com/track/2jqXB02jRg1esPEQxxYZ7q) | [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0) | [Don't Do Drugs](https://open.spotify.com/album/6GI4X6DNKBz1AthKNkiAqG) | 2:33 | 2025-05-15 | 2025-05-23 |
 | [Don't Go](https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Don't Go](https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ) | 2:21 | 2024-10-18 | 2025-03-29 |
-| [Don't Let Him Go](https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Don't Let Him Go](https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09) | 2:57 | 2026-03-05 | 2026-03-13 |
+| [Don't Let Him Go](https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Don't Let Him Go](https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09) | 2:57 | 2026-03-05 |  |
 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 | 2024-06-27 |  |
 | [Don't You](https://open.spotify.com/track/4SCGx3pO13awv6gpHz1ebm) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Naomi Ayleen](https://open.spotify.com/artist/7eHijIZEf09FGSZYcysqe9) | [Don't You](https://open.spotify.com/album/5cvlDr98frKNS47U2Antil) | 3:11 | 2024-12-07 | 2025-03-23 |
 | [Doomsday Kiss](https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Doomsday Kiss](https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa) | 2:48 | 2025-05-22 | 2025-09-13 |
@@ -131,7 +131,7 @@
 | [Durch die Nacht](https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Durch die Nacht](https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97) | 2:53 | 2025-08-28 |  |
 | [Echo](https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Echo](https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n) | 2:55 | 2026-02-19 |  |
 | [Ehreteam](https://open.spotify.com/track/7aqXRqvTzoOyxt9vQpCL6c) | [ETO](https://open.spotify.com/artist/0Y7IHICQTiPlRK9bhSbYFj) | [Ehreteam](https://open.spotify.com/album/2jDRPzcGRsai4aB5f79md1) | 2:53 | 2025-04-24 | 2025-05-02 |
-| [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 |  |
+| [Ehrlich](https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Ehrlich](https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3) | 3:50 | 2024-06-27 | 2026-03-14 |
 | [Ein bisschen Frieden](https://open.spotify.com/track/1NTjTztpbbrpbrkVLppj6c) | [San Silvan](https://open.spotify.com/artist/4MY0xfcyD9dLgbj27g59XT), [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ein bisschen Frieden](https://open.spotify.com/album/7n5pZ8QBFhwjjft94495tQ) | 3:52 | 2024-12-20 | 2025-03-08 |
 | [Eisbär](https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX) | [Grauzone](https://open.spotify.com/artist/2oNZUW4sR0AGXRyPExtFnW) | [Eisbär](https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE) | 4:48 | 2025-05-15 | 2025-05-23 |
 | [Emily](https://open.spotify.com/track/4cpbe6NFv4D6ZhhseFxzbn) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Killer](https://open.spotify.com/album/42fS5G4YXzoi4iz2pztDLP) | 3:43 | 2025-11-13 | 2025-11-28 |
@@ -378,7 +378,7 @@
 | [September Skies](https://open.spotify.com/track/2MQ6lxKWTVglCe88CDK7Xv) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [September Skies](https://open.spotify.com/album/1A5hVwUNgtvJudlzsnBKdV) | 3:25 | 2025-04-17 | 2025-04-25 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
 | [she calls me daddy](https://open.spotify.com/track/6411vwtWuPOLhAy4eipNOC) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 2:29 | 2025-04-24 | 2025-05-02 |
-| [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 | 2025-10-09 |  |
+| [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 | 2025-10-09 | 2026-03-14 |
 | [Si t'étais là](https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Si t'étais là](https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN) | 3:15 | 2025-10-24 | 2026-02-13 |
 | [si tu me demandes](https://open.spotify.com/track/6N9wdVht1PjAnt4AZq9Nou) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [si tu me demandes](https://open.spotify.com/album/5U3B2zbIx8XEXpy55hhOLl) | 2:45 | 2026-02-26 |  |
 | [Silhouette](https://open.spotify.com/track/3S0VGP8aFRl9prAYjEU8Ea) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Silhouette](https://open.spotify.com/album/32JCcFJtu9VVz8GgcTZ4CY) | 2:56 | 2025-09-05 |  |
@@ -432,10 +432,11 @@
 | [The World \(AR\)](https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [The World \(AR\)](https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6) | 3:47 | 2025-11-06 |  |
 | [The Wrong Cards](https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Wrong Cards](https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA) | 2:54 | 2025-06-05 | 2025-11-28 |
 | [The Years of the in Between](https://open.spotify.com/track/1pHCmwclPk8KYrOgTZURp3) | [Nick Mellow](https://open.spotify.com/artist/2Ltz77e0WzkbszFytIy6SY) | [The Years of the in Between](https://open.spotify.com/album/3QrpI4Li79r7iWo0xGKxuR) | 3:01 | 2025-09-19 | 2025-09-26 |
+| [Therapist](https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Damaged By Their Silence](https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI) | 4:31 | 2026-03-12 |  |
 | [There For You](https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [There For You](https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv) | 3:25 | 2025-11-20 |  |
 | [theremin](https://open.spotify.com/track/0qqtydxO4KMSnhww9PlrqQ) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [theremin](https://open.spotify.com/album/7pYNdcVuPsnHE6KzsG33a1) | 2:41 | 2024-11-01 | 2025-01-12 |
 | [These Walls](https://open.spotify.com/track/5fr2nes4H8khGAlOT9Vj6t) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [These Walls](https://open.spotify.com/album/6aLdjyeTqqpkUk86IaE69g) | 3:04 | 2026-01-23 |  |
-| [This I Know](https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [This I Know](https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V) | 2:53 | 2026-03-05 | 2026-03-13 |
+| [This I Know](https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [This I Know](https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V) | 2:53 | 2026-03-05 |  |
 | [TikTak](https://open.spotify.com/track/0XAowYuRYwsuEZUtNhBsA2) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [TikTak](https://open.spotify.com/album/4r7bzEFYlW0JelO4TOVCOk) | 2:43 | 2024-06-27 | 2024-09-28 |
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-14 |
 | [Time to Shine](https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Time to Shine](https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt) | 2:43 | 2025-09-08 |  |
@@ -447,7 +448,6 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
-| [Track 1](https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Damaged By Their Silence](https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI) | 0:00 | 2026-03-12 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |

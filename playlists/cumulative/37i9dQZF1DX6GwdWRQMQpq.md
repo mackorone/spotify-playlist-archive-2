@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Taffy
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Sexyy Red
 
-792 songs - 1 day 11 hr 13 min
+794 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [11:11](https://open.spotify.com/track/5mVcYCCKAKkOW1Yjjgo1zh) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [11:11](https://open.spotify.com/album/7goPUFOOsxCg5WNxUpsILS) | 1:33 | 2023-04-21 | 2023-06-24 |
 | [2 Crash Outs \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2sQGacYminlTtshdBM81sx) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:48 | 2025-10-10 | 2025-11-15 |
 | [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2024-12-06 | 2024-12-28 |
+| [285 \(feat\. Monaleo\)](https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 1:58 | 2026-03-13 |  |
 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 | 2024-12-20 | 2025-01-04 |
 | [50/50](https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [50/50](https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F) | 1:40 | 2024-02-09 | 2024-03-16 |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-12-09 | 2023-09-02 |
@@ -530,6 +531,7 @@
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-23 | 2024-07-27 |
 | [ON THE LOW](https://open.spotify.com/track/7JJsA3K4QxzK6SU3BRnvMd) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [ON THE LOW](https://open.spotify.com/album/3Zu1sBpLxNrYzEDAk6mEjN) | 2:16 | 2025-03-28 | 2025-04-12 |
 | [ONE THING](https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ONE THING](https://open.spotify.com/album/4SpGTji6llKZtSiJ5aN90V) | 3:37 | 2025-07-18 | 2025-08-16 |
+| [oooshxt!](https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [oooshxt!](https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN) | 2:15 | 2026-03-13 |  |
 | [Otaku Hot Girl](https://open.spotify.com/track/6saYisCUAZXc505blie9kZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:38 | 2024-07-01 | 2024-11-02 |
 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 | 2025-06-20 |  |
 | [Outside \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Outside](https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA) | 3:16 | 2022-09-16 | 2022-11-12 |
@@ -537,7 +539,7 @@
 | [Outta There](https://open.spotify.com/track/2oEF0ivrTFAJfKLqkTAWFZ) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Outta There](https://open.spotify.com/album/7oreGHED08khmIkNf4VXxB) | 1:52 | 2025-06-06 | 2025-06-21 |
 | [Ova Bad](https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:11 | 2024-05-24 | 2024-06-15 |
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2022-04-08 | 2022-06-11 |
-| [Owe Me One](https://open.spotify.com/track/1iND0yyleoNyAKgcXf8MFt) | [Mellow Rackz](https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w) | [Owe Me One](https://open.spotify.com/album/6yez14TlddOAlC0eis2wGK) | 1:53 | 2026-03-06 |  |
+| [Owe Me One](https://open.spotify.com/track/1iND0yyleoNyAKgcXf8MFt) | [Mellow Rackz](https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w) | [Owe Me One](https://open.spotify.com/album/6yez14TlddOAlC0eis2wGK) | 1:53 | 2026-03-06 | 2026-03-14 |
 | [Pacer](https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Pacer](https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm) | 2:56 | 2023-09-22 | 2023-10-21 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-04 | 2024-09-14 |
 | [Party](https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Party](https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO) | 3:53 | 2021-11-12 | 2022-02-05 |
@@ -774,7 +776,7 @@
 | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [WHIM WHAMIEE \(feat\. Sexyy Red\) \[Remix\]](https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB) | 2:27 | 2025-05-30 | 2025-06-28 |
 | [WHITE CAPRICE](https://open.spotify.com/track/3Q0h7wkHLIlwySLGZYqFPu) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [REAL B\*TCHES DON'T DIE!](https://open.spotify.com/album/2man3aalGPUqaZqKrTBdDX) | 3:16 | 2023-05-26 | 2023-06-17 |
 | [Who U Know](https://open.spotify.com/track/1CWOyqjpuktFyDUae1bOVs) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Ain't Shit Stopped](https://open.spotify.com/album/09QccDPYvqNdIs8ZnDm2KS) | 2:11 | 2025-09-05 | 2025-09-27 |
-| [Whole Thang](https://open.spotify.com/track/4IttPmt52O0eS19zFgdgkg) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Whole Thang](https://open.spotify.com/album/0tDfmVyolVUEV68yiYtyO4) | 3:19 | 2026-02-27 |  |
+| [Whole Thang](https://open.spotify.com/track/4IttPmt52O0eS19zFgdgkg) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [Whole Thang](https://open.spotify.com/album/0tDfmVyolVUEV68yiYtyO4) | 3:19 | 2026-02-27 | 2026-03-14 |
 | [Wicked Butterflies](https://open.spotify.com/track/4B2DEH1EMgNRU9LuoZkeKJ) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:32 | 2023-09-01 | 2023-09-23 |
 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 | 2022-06-10 | 2022-12-24 |
 | [Wig](https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 | 2023-10-27 | 2023-11-04 |

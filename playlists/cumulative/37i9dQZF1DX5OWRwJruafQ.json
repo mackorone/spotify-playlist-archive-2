@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 144004,
       "name": "Atlantic",
       "url": "https://open.spotify.com/track/7B3n75ZSSr6G6VCEI2huOz"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213248,
       "name": "Dead Body",
       "url": "https://open.spotify.com/track/5gqctUqvKbxo9c36hv47AV"
@@ -6036,6 +6036,28 @@
       "duration_ms": 184157,
       "name": "GOD KNOWS",
       "url": "https://open.spotify.com/track/7C935wQnKmvg27V3kxWDuP"
+    },
+    {
+      "album": {
+        "name": "God Mode On",
+        "url": "https://open.spotify.com/album/1FtRXcJxKqCohUOdie3omb"
+      },
+      "artists": [
+        {
+          "name": "Turban Beats",
+          "url": "https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE"
+        },
+        {
+          "name": "Gammy",
+          "url": "https://open.spotify.com/artist/7xjjktWTKRlzBcu176C29D"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173082,
+      "name": "God Mode On",
+      "url": "https://open.spotify.com/track/6krbwFqqtDqkiNTdFMONwF"
     },
     {
       "album": {
@@ -9450,7 +9472,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 197000,
       "name": "Level",
       "url": "https://open.spotify.com/track/3RoboJgok3ZV8LmW3FHkYj"
@@ -11377,6 +11399,28 @@
     },
     {
       "album": {
+        "name": "No Warning",
+        "url": "https://open.spotify.com/album/4m9NB3gZg9fIswBJ1Iraov"
+      },
+      "artists": [
+        {
+          "name": "Kotti",
+          "url": "https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125052,
+      "name": "No Warning",
+      "url": "https://open.spotify.com/track/0IpjYI6B7fQ8pHf7DehETC"
+    },
+    {
+      "album": {
         "name": "Versatile",
         "url": "https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V"
       },
@@ -13070,6 +13114,28 @@
       "duration_ms": 191595,
       "name": "Rebel",
       "url": "https://open.spotify.com/track/55nyHIEC9uSC5nqgMGiZIe"
+    },
+    {
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/0mYyZKRMAVxjEjjM6Gx7bg"
+      },
+      "artists": [
+        {
+          "name": "Raahi Rana",
+          "url": "https://open.spotify.com/artist/2oyC92A0JdkwjwXSiaMISV"
+        },
+        {
+          "name": "Sokhey",
+          "url": "https://open.spotify.com/artist/4laP09HfJ6zF5LCriwUZCJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146374,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/2v2mjj2MR3Hn4tqsGUY9yy"
     },
     {
       "album": {

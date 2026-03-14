@@ -15570,6 +15570,10 @@
         {
           "name": "Vikas SG",
           "url": "https://open.spotify.com/artist/3zwDW7yoVBUi6ykhAx2M4V"
+        },
+        {
+          "name": "Mallikarjun NK",
+          "url": "https://open.spotify.com/artist/5niZx2cYkymJ0lezZsNTk0"
         }
       ],
       "date_added": "2026-03-10",
@@ -27724,6 +27728,32 @@
       "duration_ms": 156092,
       "name": "Muddu Magale (From \"LANDLORD\")",
       "url": "https://open.spotify.com/track/4kyGjGe4YNCc3UkUv89wsp"
+    },
+    {
+      "album": {
+        "name": "Muddu Magale (From \"Love Mocktail 3\")",
+        "url": "https://open.spotify.com/album/6ItlcgSOb75UDVYi51NhUH"
+      },
+      "artists": [
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Arun Kumar",
+          "url": "https://open.spotify.com/artist/0C3uhYRFJBXyIIKEw9cdMT"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195804,
+      "name": "Muddu Magale (From \"Love Mocktail 3\")",
+      "url": "https://open.spotify.com/track/5lTHM4bDHzj4qiViqU4rwr"
     },
     {
       "album": {
@@ -42842,8 +42872,8 @@
           "url": "https://open.spotify.com/artist/79yEkymoTkieurpetMpr9G"
         },
         {
-          "name": "Chirayu Maddy",
-          "url": "https://open.spotify.com/artist/3bQxRdqp3IzJKi3dj6ycs6"
+          "name": "Chirayu",
+          "url": "https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ"
         }
       ],
       "date_added": "2026-02-27",
@@ -43184,7 +43214,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 216264,
       "name": "The Kaali Song (From \"Mark\") (Kannada)",
       "url": "https://open.spotify.com/track/4Et945EsyVyHgBC86e4nsw"

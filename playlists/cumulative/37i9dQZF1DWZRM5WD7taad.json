@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Amor \u00c9pico",
+        "url": "https://open.spotify.com/album/4rVQGDrqBbODiJ01nJGJKa"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Ninja Uno",
+          "url": "https://open.spotify.com/artist/1kn8XRPChokPcBtFcQT7Vk"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Amor \u00c9pico",
+      "url": "https://open.spotify.com/track/2nGASu078wUHDNZah34NFT"
+    },
+    {
+      "album": {
         "name": "Andamos Al Cien",
         "url": "https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF"
       },
@@ -3364,7 +3386,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 124949,
       "name": "I'M SO SEXY",
       "url": "https://open.spotify.com/track/7kh7H2L79O90XyBD5w9Nip"
@@ -3662,7 +3684,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162497,
       "name": "Juntas",
       "url": "https://open.spotify.com/track/7FQyqcmxZaPncz5370wexn"
@@ -5294,6 +5316,32 @@
       "duration_ms": 117418,
       "name": "No Era para M\u00ed",
       "url": "https://open.spotify.com/track/3IIQe8NgBw1lEOVHVBW19I"
+    },
+    {
+      "album": {
+        "name": "No Es Moda",
+        "url": "https://open.spotify.com/album/2Whxi8djRma1ltJ89bhSIO"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        },
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154193,
+      "name": "No Es Moda",
+      "url": "https://open.spotify.com/track/4aNduyULD990tspIEhKM0x"
     },
     {
       "album": {

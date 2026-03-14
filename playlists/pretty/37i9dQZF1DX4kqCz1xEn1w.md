@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,181 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,178 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 41 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
 | 42 | [Fierce \- Live](https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 4:06 |
 | 43 | [In Christ Alone](https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Hymns For The Christian Life](https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz) | 4:17 |
-| 44 | [Jesus Forever](https://open.spotify.com/track/0uj4h2Ltq68hUBoaTp62Oy) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Presence People](https://open.spotify.com/album/3kSJsZ20S5G9Q53vkhrDAi) | 7:51 |
-| 45 | [Promise Keeper](https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:00 |
+| 44 | [Promise Keeper](https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:00 |
+| 45 | [Jesus Forever](https://open.spotify.com/track/0uj4h2Ltq68hUBoaTp62Oy) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [Presence People](https://open.spotify.com/album/3kSJsZ20S5G9Q53vkhrDAi) | 7:51 |
 | 46 | [He Lives \- Live](https://open.spotify.com/track/68OJj3OTc9mnXsy39B7eve) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [He Lives](https://open.spotify.com/album/4p1AUbD3hdYhEu62DUOUEQ) | 4:52 |
 | 47 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
 | 48 | [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 |

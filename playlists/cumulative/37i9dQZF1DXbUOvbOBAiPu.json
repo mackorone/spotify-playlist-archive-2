@@ -24991,6 +24991,24 @@
     },
     {
       "album": {
+        "name": "Cold Sun",
+        "url": "https://open.spotify.com/album/51bLnxYx9dqHrKUzQak1Ws"
+      },
+      "artists": [
+        {
+          "name": "The Hickey Underworld",
+          "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185161,
+      "name": "Capt Fragile",
+      "url": "https://open.spotify.com/track/2FH9cN7fZGThneEClXjU5V"
+    },
+    {
+      "album": {
         "name": "H\u00e9l\u00e9 2",
         "url": "https://open.spotify.com/album/5OjVK3QVK6c5VrY607wSGB"
       },
@@ -77174,8 +77192,8 @@
           "url": "https://open.spotify.com/artist/0j88iwyJrnRpKBhiJtG0je"
         },
         {
-          "name": "Ok",
-          "url": "https://open.spotify.com/artist/2SekqDKG4htuFz4mk7OlcS"
+          "name": "ok",
+          "url": "https://open.spotify.com/artist/1uiGVqVPmQxy5lD8SHGAy5"
         }
       ],
       "date_added": "2026-03-12",
@@ -83243,6 +83261,24 @@
     },
     {
       "album": {
+        "name": "HENOPSIA",
+        "url": "https://open.spotify.com/album/7M83YNKdfcafmezxUhtAUI"
+      },
+      "artists": [
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156893,
+      "name": "LES HALLES",
+      "url": "https://open.spotify.com/track/2LR1PHNX71SmeTSq0bnUJt"
+    },
+    {
+      "album": {
         "name": "L'oiseau bleu",
         "url": "https://open.spotify.com/album/6KukxYYn4YtlJBQmbaHgvM"
       },
@@ -83598,6 +83634,24 @@
       "duration_ms": 147600,
       "name": "Less Than Average",
       "url": "https://open.spotify.com/track/212LY4cjA3rB8vVkV6Dqzn"
+    },
+    {
+      "album": {
+        "name": "L'Assembl\u00e9e",
+        "url": "https://open.spotify.com/album/74WihV1pqmEaYqD1sPg5Ut"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9",
+          "url": "https://open.spotify.com/artist/4HqcsYNS7yVElPHKULpbqu"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186632,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4HHi9DNr6Cbkw8gVYVsS9P"
     },
     {
       "album": {
@@ -108685,6 +108739,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/2QBFkigoHsBG4de8GvPpxb"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2FxrSoyJveDqplfa5l9ssI"
+    },
+    {
+      "album": {
         "name": "On peut comme \u00e7a",
         "url": "https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT"
       },
@@ -121336,6 +121408,32 @@
       "duration_ms": 129759,
       "name": "RALENTIS",
       "url": "https://open.spotify.com/track/12OtqAs2bH931uW93vLxrM"
+    },
+    {
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
     },
     {
       "album": {
@@ -152642,78 +152740,6 @@
       "duration_ms": 208413,
       "name": "Traces",
       "url": "https://open.spotify.com/track/2ovgJSq4o0pLynO6y7kJUj"
-    },
-    {
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/2QBFkigoHsBG4de8GvPpxb"
-      },
-      "artists": [
-        {
-          "name": "Marie Sarah",
-          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2FxrSoyJveDqplfa5l9ssI"
-    },
-    {
-      "album": {
-        "name": "HENOPSIA",
-        "url": "https://open.spotify.com/album/7M83YNKdfcafmezxUhtAUI"
-      },
-      "artists": [
-        {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2LR1PHNX71SmeTSq0bnUJt"
-    },
-    {
-      "album": {
-        "name": "Cold Sun",
-        "url": "https://open.spotify.com/album/51bLnxYx9dqHrKUzQak1Ws"
-      },
-      "artists": [
-        {
-          "name": "The Hickey Underworld",
-          "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/2FH9cN7fZGThneEClXjU5V"
-    },
-    {
-      "album": {
-        "name": "L'Assembl\u00e9e",
-        "url": "https://open.spotify.com/album/74WihV1pqmEaYqD1sPg5Ut"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9",
-          "url": "https://open.spotify.com/artist/4HqcsYNS7yVElPHKULpbqu"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4HHi9DNr6Cbkw8gVYVsS9P"
     },
     {
       "album": {

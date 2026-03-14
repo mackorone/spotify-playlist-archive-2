@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 199660,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS"
@@ -3917,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/3BpgkGGY3CjIDhlRsoAzoZ"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/45CAsiLFBU9iKsQtyd2kmq"
+    },
+    {
+      "album": {
         "name": "Glow to Haze",
         "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
       },
@@ -3964,7 +3982,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191093,
       "name": "ESCAPE (Bang Chan & Hyunjin)",
       "url": "https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K"
@@ -12454,7 +12472,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"

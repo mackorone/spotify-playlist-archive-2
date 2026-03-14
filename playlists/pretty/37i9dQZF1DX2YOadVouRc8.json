@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 45982,
+  "num_followers": 45986,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-03-13 00:01:23",
       "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
-    },
-    {
-      "added_at": "2026-03-13 00:01:23",
-      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": "2026-03-13 00:01:23",
+      "album": {
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2026-03-13 00:01:23",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-03-13 00:01:23",
       "album": {
+        "name": "WILL I EVER",
+        "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
+      },
+      "artists": [
+        {
+          "name": "Boybreed",
+          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
+        }
+      ],
+      "duration_ms": 174050,
+      "name": "WILL I EVER",
+      "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
+    },
+    {
+      "added_at": "2026-03-13 00:01:23",
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 195816,
       "name": "Verily",
       "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
-    },
-    {
-      "added_at": "2026-03-13 00:01:23",
-      "album": {
-        "name": "WILL I EVER",
-        "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
-      },
-      "artists": [
-        {
-          "name": "Boybreed",
-          "url": "https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc"
-        }
-      ],
-      "duration_ms": 174050,
-      "name": "WILL I EVER",
-      "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
     },
     {
       "added_at": "2026-03-13 00:01:23",

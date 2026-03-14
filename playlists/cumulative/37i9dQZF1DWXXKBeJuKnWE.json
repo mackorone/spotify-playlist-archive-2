@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: Split Chain",
+  "description": "The home for heavy music. Cover: Drug Church",
   "name": "The Pit",
   "tracks": [
     {
@@ -78,6 +78,24 @@
       "duration_ms": 207706,
       "name": "(sic) - Ulrich Wild Mix",
       "url": "https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0"
+    },
+    {
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236775,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
     },
     {
       "album": {
@@ -4209,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Bridge of Sacrifice",
+        "url": "https://open.spotify.com/album/5eOAPYE1nsv4BlnapweOpq"
+      },
+      "artists": [
+        {
+          "name": "Powerplant",
+          "url": "https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277357,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/35uOOYj5KVoqj78sNCHXGB"
+    },
+    {
+      "album": {
         "name": "How To Disappear",
         "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
       },
@@ -4704,7 +4740,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190230,
       "name": "Gladrags",
       "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
@@ -7414,7 +7450,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 235000,
       "name": "Make Me A Martyr",
       "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
@@ -7846,7 +7882,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212215,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr"
@@ -8270,7 +8306,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 206811,
       "name": "NO LIES.",
       "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
@@ -9103,6 +9139,24 @@
     },
     {
       "album": {
+        "name": "Pynch",
+        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Pynch",
+      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
+    },
+    {
+      "album": {
         "name": "QUIT!!",
         "url": "https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm"
       },
@@ -9373,6 +9427,24 @@
     },
     {
       "album": {
+        "name": "Pull Like a Dog",
+        "url": "https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210904,
+      "name": "Roses n Poses",
+      "url": "https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ"
+    },
+    {
+      "album": {
         "name": "rot.exe / ra.exe",
         "url": "https://open.spotify.com/album/6E4AB1ezZM633pOFabjszx"
       },
@@ -9528,7 +9600,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 246946,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
@@ -10640,6 +10712,24 @@
       "duration_ms": 198107,
       "name": "Sunshine!",
       "url": "https://open.spotify.com/track/75jOZla67WCSH24GjJrq5r"
+    },
+    {
+      "album": {
+        "name": "SUPER TURBO.",
+        "url": "https://open.spotify.com/album/726BjjOZorUfr3BoGbWFUF"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173456,
+      "name": "SUPER TURBO.",
+      "url": "https://open.spotify.com/track/7HiHUkIPAp8Sgq8AcIoM86"
     },
     {
       "album": {
@@ -12366,7 +12456,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 209933,
       "name": "Violent Obsession",
       "url": "https://open.spotify.com/track/4a6irBo5JD7ktrmE3K1EvD"
@@ -12666,6 +12756,24 @@
       "duration_ms": 253169,
       "name": "We Were Never the Same",
       "url": "https://open.spotify.com/track/7z37xqq3y94KyVl7VWB88x"
+    },
+    {
+      "album": {
+        "name": "Somewhere In Between",
+        "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147253,
+      "name": "WEAPON",
+      "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
     },
     {
       "album": {

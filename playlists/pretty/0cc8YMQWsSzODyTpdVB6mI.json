@@ -1,12 +1,12 @@
 {
   "description": "Music around the world \u2708\ufe0f",
-  "num_followers": 50117,
+  "num_followers": 50116,
   "original_name": "Ibiza Vibes : Sunset to Sunrise (House, Afro house)",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAM22YZ8cWUIWH3L9u/A9K3eSWR8qFQ",
+  "snapshot_id": "AAAM3C4AoTzfFqmZ4CbYjrrpp8rdw1hI",
   "tracks": [
     {
       "added_at": "2026-03-06 14:24:53",
@@ -995,6 +995,38 @@
       "duration_ms": 273999,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N"
+    },
+    {
+      "added_at": "2026-03-13 23:54:10",
+      "album": {
+        "name": "Party Started (feat. French Caviar)",
+        "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ochok",
+          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
+        },
+        {
+          "name": "French Caviar",
+          "url": "https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb"
+        }
+      ],
+      "duration_ms": 143801,
+      "name": "Party Started (feat. French Caviar)",
+      "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
     }
   ],
   "unique_name": "Ibiza Vibes : Sunset to Sunrise (House, Afro house)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,687 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,694 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0ndulfVsG7.md) - [plain]
 | 47 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
 | 48 | [Kepuraanmu](https://open.spotify.com/track/5tNfSGN2zQ6y3E5pl5Wggy) | [Luqman Faiz](https://open.spotify.com/artist/2ZhUfT19cZKRi7sayQcEZH) | [Kepuraanmu](https://open.spotify.com/album/2rMuIKkyrOHg60Ulf9Sa1e) | 3:51 |
 | 49 | [Sudah Ku Tahu](https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9) | [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sudah Ku Tahu](https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0) | 4:18 |
-| 50 | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/4sRPgFGFMkGGW2zYFgUPZZ) | [Ella](https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574) | [Identiti](https://open.spotify.com/album/1mtuo1TIeHj64UWWPzjSZI) | 4:40 |
+| 50 | [Biarkanlah](https://open.spotify.com/track/0TbxuF4pkOZBfdBipPorYQ) | [Drama Band](https://open.spotify.com/artist/5NWfEZx5XGbVCAQTjhSxlR) | [Biarkanlah](https://open.spotify.com/album/5oR5jLtz8APUIBiZ5lB4CL) | 4:13 |
 
 Snapshot ID: `AAAAAHdP5Z/9sigil/UluybLzNf5WwV/`

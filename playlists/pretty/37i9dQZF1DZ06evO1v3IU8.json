@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1362916,
+  "num_followers": 1363004,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAA/HDhwXoTpqlcEOiw12Pd+",
+  "snapshot_id": "abICAAAAAACBd0TU/tdKUzIyNi5OJa1V",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "Tu Postura",
-      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Todas Las Fuerzas",
         "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 225213,
       "name": "Por Mi No Te Detengas",
       "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 281400,
+      "name": "Tu Postura",
+      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+      "duration_ms": 201026,
+      "name": "Te Equivocas",
+      "url": "https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Preparaci\u00f3n",
-        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 201026,
-      "name": "Te Equivocas",
-      "url": "https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn"
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
     },
     {
       "added_at": null,

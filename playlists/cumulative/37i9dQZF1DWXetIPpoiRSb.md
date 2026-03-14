@@ -4,7 +4,7 @@
 
 > High gloss glitch pop 🪩<br/>Cover: Bebe Rexha
 
-2,170 songs - 4 day 12 hr 32 min
+2,171 songs - 4 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -638,6 +638,7 @@
 | [Fckd In The Head](https://open.spotify.com/track/53EMDhqNCRuwbNmR19HtU5) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Fckd In The Head](https://open.spotify.com/album/0G0xGv6lLd8DlcT7mwaeO6) | 2:13 | 2022-07-01 | 2022-09-10 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-03-17 | 2024-04-10 |
 | [feel good inc \(bbno$ re\-finessed\) \- spotify single](https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [spotify singles](https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC) | 3:28 | 2022-11-18 | 2023-01-28 |
+| [Feel Like I Died](https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [paint me like one of your fav american girls](https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7) | 2:23 | 2026-03-13 |  |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-03-25 | 2022-05-28 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-02 | 2021-11-13 |
 | [FFFFF](https://open.spotify.com/track/33zsWwMMcJawZoy2h40eNm) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [FFFFF](https://open.spotify.com/album/6zgwKHP92p0cYgndnsk6Jd) | 3:03 | 2025-05-29 | 2025-06-24 |
@@ -1053,6 +1054,7 @@
 | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:08 | 2025-06-23 | 2025-07-12 |
 | [JUST TELL ME](https://open.spotify.com/track/0hR3NXXTPCBoHdPfjSapiz) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [THE REPUBLIC OF MOTION](https://open.spotify.com/album/6PJkAsFlBTU5twaYKMHFiL) | 2:29 | 2025-11-07 | 2026-01-15 |
 | [Kamikaze](https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF) | [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Kamikaze](https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj) | 2:02 | 2026-02-20 |  |
+| [Keep it sweet](https://open.spotify.com/track/4UEilMlwmhPdBMcW1hhJIN) | [BLUU JAAY](https://open.spotify.com/artist/3Ss2yifG86d5tzBA1nDGZK) | [Keep it sweet](https://open.spotify.com/album/1YXA6UsXhAAdGU7Ir4nlNB) | 1:45 | 2026-03-13 |  |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-04-09 | 2024-06-05 |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-21 | 2025-05-02 |
 | [Keep You](https://open.spotify.com/track/0Zt8JqvafNeQGJhRdqT5ul) | [Ji Nilsson](https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY) | [Keep You](https://open.spotify.com/album/79aDYwPjnX36HH3pXTusEO) | 2:57 | 2025-04-24 | 2025-05-16 |
@@ -1985,7 +1987,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 2](https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [paint me like one of your fav american girls](https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7) | 0:00 | 2026-03-13 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |

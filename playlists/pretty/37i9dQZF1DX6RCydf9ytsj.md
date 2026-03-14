@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,819 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,926 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 84 | [Twinkle, Twinkle Lucky Star](https://open.spotify.com/track/5lxDdFXillBqYvKe9gsYT1) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 3:23 |
 | 85 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
 | 86 | [Diggin' Up Bones](https://open.spotify.com/track/6stD0CS3QFs2yY3CoBfK8K) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 2:59 |
-| 87 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
+| 87 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
 | 88 | [Love At The Five & Dime](https://open.spotify.com/track/02WLZdGJfTX1ZgshVkj2aB) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Walk The Way The Wind Blows](https://open.spotify.com/album/5F5np5Tdq8eWV79SNf8HHv) | 3:38 |
-| 89 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
+| 89 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
 | 90 | [Who's Gonna Fill Their Shoes](https://open.spotify.com/track/4wDpjRQOvOHXE9AtNWpdVQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Super Hits](https://open.spotify.com/album/4LN572kqxZfNyNgt2rGGKR) | 3:15 |
 | 91 | [What's Forever For?](https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu) | [The Best Of Michael Martin Murphey](https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN) | 2:51 |
 | 92 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 117 | [Mama's Never Seen Those Eyes](https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 2:50 |
 | 118 | [Good Ole Boys Like Me \- Single Version](https://open.spotify.com/track/7fw6XQdMN9BszacQxoz4gZ) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:11 |
 | 119 | [Born To Boogie](https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:44 |
-| 120 | [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 |
-| 121 | [Why Does It Have to Be \(Wrong or Right\)](https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 3:00 |
+| 120 | [Why Does It Have to Be \(Wrong or Right\)](https://open.spotify.com/track/2PgFdBqxZ3jJgcnotSLd65) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 3:00 |
+| 121 | [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 |
 | 122 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 3:02 |
 | 123 | [Baby I Lied](https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Cheat the Night](https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM) | 4:12 |
 | 124 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |

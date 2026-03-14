@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-222 songs - 10 hr 35 min
+223 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2025-02-03 |  |
 | [Over The Rainbow](https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:58 | 2023-11-20 |  |
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2023-11-20 | 2025-05-17 |
-| [Pachelbel Canon In D \- Solo Piano \- Cannon, Kanon](https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3) | [10 Ways Of Canon In D By Johann Pachelbel](https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh) | 3:20 | 2025-11-24 |  |
+| [Pachelbel Canon In D \- Solo Piano \- Cannon, Kanon](https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3) | [10 Ways Of Canon In D By Johann Pachelbel](https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh) | 3:20 | 2025-11-24 | 2026-03-14 |
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2024-12-23 | 2025-03-23 |
 | [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2024-02-12 | 2024-11-30 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2023-11-20 | 2026-02-20 |
@@ -208,6 +208,7 @@
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2025-11-10 | 2026-02-04 |
 | [Tôt le matin](https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Tôt le matin](https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR) | 2:10 | 2024-08-12 | 2025-12-02 |
 | [Unchained Melody](https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:51 | 2025-11-10 |  |
+| [Unforgetable](https://open.spotify.com/track/5WC6MJOe9oVg0yz2yj2KA0) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:24 | 2026-02-09 |  |
 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 | 2023-11-20 | 2025-09-09 |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2023-11-20 |  |
 | [Valse De Beaufort](https://open.spotify.com/track/57cnKa2QfwxhWRY7ZiabvW) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse De Beaufort](https://open.spotify.com/album/71ywywv3R4nZ4HzUeaokZQ) | 2:43 | 2025-12-09 | 2026-01-20 |

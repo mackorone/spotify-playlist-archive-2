@@ -4,7 +4,7 @@
 
 > Nuovi brani di Annalisa, Madame, Fulminacci, Emma e Rkomi, Mara Sattei ed Elisa, e tanti altri.
 
-8,243 songs - 17 day 8 hr 58 min
+8,245 songs - 17 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [\#2](https://open.spotify.com/track/4A6Wm22EE1wWmMPu9wsmia) | [Les Enfants](https://open.spotify.com/artist/2I1iwTWUlyqq1riD3XzOm7) | [AL ROGO](https://open.spotify.com/album/7IpfClCJq8ImLhuDLsdfLm) | 5:04 | 2025-02-20 | 2025-02-28 |
 | [\#domanisconosciuti](https://open.spotify.com/track/5Pm8CLUHvlmungv1XeW2Kv) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [\#domanisconosciuti](https://open.spotify.com/album/6rHVcMdjRVehtkugTHrwJf) | 2:49 | 2026-02-12 | 2026-02-20 |
 | [\#NEEDTHAT](https://open.spotify.com/track/1jKM9Z8sCSGYfTK1gXObPo) | [EXXIA](https://open.spotify.com/artist/2YJcNIoAmRFFdVcvhMZHDr) | [\#NEEDTHAT](https://open.spotify.com/album/4yIsPqLgBsnIJjimORxUiV) | 2:26 | 2025-05-08 | 2025-05-16 |
-| [$LOT MACHINE \(feat\. Tony2milli\)](https://open.spotify.com/track/78Y5sd7YADvm7M1nMZqv6V) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Tony2milli](https://open.spotify.com/artist/22gCGk009wHno7iKa9fPhb), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 3:01 | 2026-03-12 |  |
+| [$LOT MACHINE \(feat\. Tony 2Milli\)](https://open.spotify.com/track/78Y5sd7YADvm7M1nMZqv6V) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 3:01 | 2026-03-12 |  |
 | [$OLDI DI TUO PADRE](https://open.spotify.com/track/1Fu0KIYfFUyVZrB2ESHldi) | [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf) | [$OLDI DI TUO PADRE](https://open.spotify.com/album/2qDA77QQHqesPqUzh3Au0h) | 2:08 | 2024-06-27 | 2024-07-05 |
 | ['A Passion](https://open.spotify.com/track/4ym7q5FBvi0hBpDLmdRrCA) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | ['A Passion](https://open.spotify.com/album/1TfcZ8uJZ9nZXiLBXknhBx) | 2:56 | 2024-12-12 | 2024-12-20 |
 | ['Nguento](https://open.spotify.com/track/0wCmVowJggewWDWuXshkLo) | [DADA'](https://open.spotify.com/artist/2Ax9dIb8VekO3ObDrmz8ug) | [CORE IN FABULA \- PRIMO PORTALE](https://open.spotify.com/album/2gdkeez5uE0YhXSUUEj5hO) | 2:44 | 2025-04-24 | 2025-05-02 |
@@ -2277,6 +2277,7 @@
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 | 2025-04-11 |
 | [End of the Year](https://open.spotify.com/track/55JcTxVmBC4bVeO42IoRPh) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [End of the Year](https://open.spotify.com/album/3UghR5qoMeGM9YQTZ9uwpw) | 3:19 | 2025-12-05 | 2025-12-12 |
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-04 | 2025-09-12 |
+| [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-13 |  |
 | [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 | 2026-02-19 | 2026-02-27 |
 | [ENEMIE2](https://open.spotify.com/track/76u819Qt0qds4r3GfVHOEB) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [ENEMIES](https://open.spotify.com/album/0Wnb1e4sXWNpoPK3CrjIut) | 2:00 | 2024-09-19 | 2024-09-27 |
 | [Enemigos](https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Enemigos](https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1) | 3:21 | 2025-11-20 | 2025-11-28 |
@@ -3216,6 +3217,7 @@
 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 | 2024-10-10 | 2024-10-18 |
 | [how dare you](https://open.spotify.com/track/2O1jcUYVAHZLF7ihpWUENI) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:30 | 2024-05-09 | 2024-05-17 |
 | [HOW DARE YOU](https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:58 | 2024-06-27 | 2024-07-05 |
+| [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 | 2026-03-13 |  |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-18 | 2024-07-27 |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 | 2025-06-27 |
 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 | 2026-02-26 | 2026-03-06 |

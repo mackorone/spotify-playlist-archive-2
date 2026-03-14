@@ -4,15 +4,17 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: KiLLOWEN
 
-156 songs - 6 hr 40 min
+156 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Intro\) imma pick you up imma](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 2:18 | 2026-03-13 |  |
 | [12 CAR CONVOY.](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 CAR CONVOY.](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 | 2025-12-12 |  |
 | [16 Eden](https://open.spotify.com/track/2FqnCosayR6UTyRyVHhymb) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [16 Eden](https://open.spotify.com/album/5EUbD8c1aaQPPyaREQXRwB) | 2:30 | 2025-10-23 | 2025-11-21 |
 | [2026](https://open.spotify.com/track/1LZX6iUlpK8tuPs1nx2Cdy) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [2026](https://open.spotify.com/album/1O1WoIaT456pONc2cKWX83) | 2:01 | 2026-01-09 |  |
 | [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 | 2026-02-27 |  |
 | [40 Doors](https://open.spotify.com/track/03CBYseqfLSqzUXhRuJZqR) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [40 Doors](https://open.spotify.com/album/50mql4nHa72ylubgL32the) | 3:02 | 2025-10-23 | 2025-11-21 |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-13 |  |
 | [All Da Same](https://open.spotify.com/track/4n4SppfXnfxYXfdLUSHGBs) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [All Da Same](https://open.spotify.com/album/0Yjbfdt0RSEDFxWD4BbD6D) | 2:24 | 2025-10-23 | 2025-11-21 |
 | [Antihistamine](https://open.spotify.com/track/1Y2UbnQCMIJQczK5gii5Bp) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Antihistamine](https://open.spotify.com/album/59Eqptt4nEwOPcMVb8mGcL) | 2:49 | 2026-03-13 |  |
 | [B.A.B.Y](https://open.spotify.com/track/05xpB7tbfqbl9m12mOKhZb) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [B.A.B.Y](https://open.spotify.com/album/3gkfCtoxgXmtwie9LsOyV0) | 1:31 | 2025-11-07 | 2026-02-27 |
@@ -141,8 +143,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 |  |
 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 | 2025-10-23 | 2025-11-07 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 |  |
-| [Track 1](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 0:00 | 2026-03-13 |  |
-| [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 | 2026-03-13 |  |
 | [Trippin'](https://open.spotify.com/track/22sUkuhndJu54imupWXb6p) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr) | [Trippin'](https://open.spotify.com/album/42HmHOPTR9tLzYm5pM7Uib) | 2:53 | 2025-10-23 | 2026-02-06 |
 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 | 2025-11-14 | 2026-02-27 |
 | [twoblaccbois](https://open.spotify.com/track/3A6z7lhMM5popptpx3G5Wm) | [Rome](https://open.spotify.com/artist/1Aa5jZ6PiMpSNLqfHGMWmd), [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v) | [twoblaccbois](https://open.spotify.com/album/5IMFe2Zw4GgTqOFNU4jxfA) | 2:34 | 2025-10-23 | 2026-02-27 |

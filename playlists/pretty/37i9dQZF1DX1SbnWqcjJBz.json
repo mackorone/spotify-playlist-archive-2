@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 134301,
+  "num_followers": 134331,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Gourmandises",
+        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
+      },
+      "artists": [
+        {
+          "name": "Aliz\u00e9e",
+          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
+        }
+      ],
+      "duration_ms": 264282,
+      "name": "Moi... Lolita",
+      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Gourmandises",
-        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
+        "name": "Never Really Over",
+        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
       "artists": [
         {
-          "name": "Aliz\u00e9e",
-          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 264282,
-      "name": "Moi... Lolita",
-      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+      "duration_ms": 223523,
+      "name": "Never Really Over",
+      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -291,22 +307,6 @@
       "duration_ms": 214386,
       "name": "U + Ur Hand",
       "url": "https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Never Really Over",
-        "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223523,
-      "name": "Never Really Over",
-      "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Rebel Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Bitch I'm Madonna",
-      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "I\u2019m Ready (with Demi Lovato)",
         "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 212043,
       "name": "Here Comes The Night",
       "url": "https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Bitch I'm Madonna",
+      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "TREAT MYSELF",
-        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        }
-      ],
-      "duration_ms": 176947,
-      "name": "Wave (feat. Mike Sabath)",
-      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        }
+      ],
+      "duration_ms": 176947,
+      "name": "Wave (feat. Mike Sabath)",
+      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
     },
     {
       "added_at": "2024-06-02 21:23:10",

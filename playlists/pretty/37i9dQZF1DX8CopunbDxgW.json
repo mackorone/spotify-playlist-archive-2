@@ -1,64 +1,28 @@
 {
-  "description": "joshua idehen's new album has us beaming \ud83e\udde1 metropolis is your home for the best indie dance",
-  "num_followers": 874562,
+  "description": "the heron waits patiently \ud83d\udc26 metropolis is your home for the best indie dance",
+  "num_followers": 874531,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJ6OrYnap/PGxpAUWJJli6WLr3k",
+  "snapshot_id": "AAAAAOdjaO+Bx/+Z4cj676DVBRRBbAHq",
   "tracks": [
     {
-      "added_at": "2026-03-06 17:10:39",
+      "added_at": "2026-03-13 04:00:42",
       "album": {
-        "name": "I know you're hurting, everyone is hurting, everyone is trying, you have got to try",
-        "url": "https://open.spotify.com/album/0DcM6gjvAIGwlParaxKz8w"
+        "name": "The Heron",
+        "url": "https://open.spotify.com/album/4gJuBiP543avQV6R5eK8L3"
       },
       "artists": [
         {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+          "name": "Antony Szmierek",
+          "url": "https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn"
         }
       ],
-      "duration_ms": 205096,
-      "name": "Turn It Around",
-      "url": "https://open.spotify.com/track/5YdXaCrBhHWCMe9VUBCZ91"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "Do I Like You Like That?",
-        "url": "https://open.spotify.com/album/1uL0MJ82ZEIJXzBLN7l2in"
-      },
-      "artists": [
-        {
-          "name": "Justin Jay",
-          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
-        },
-        {
-          "name": "EVA",
-          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Do I Like You Like That?",
-      "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
+      "duration_ms": 185653,
+      "name": "The Heron",
+      "url": "https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -83,6 +47,82 @@
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-03-13 04:00:42",
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "added_at": "2026-03-13 04:00:42",
+      "album": {
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/41RuCkxLwXxcDe04TFuiXC"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 164558,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/0BNV8qChVecUDgWV8xAmWl"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Do I Like You Like That?",
+        "url": "https://open.spotify.com/album/1uL0MJ82ZEIJXzBLN7l2in"
+      },
+      "artists": [
+        {
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        },
+        {
+          "name": "EVA",
+          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Do I Like You Like That?",
+      "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
         "name": "The Cocktail Hour",
         "url": "https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct"
       },
@@ -101,6 +141,22 @@
       "url": "https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz"
     },
     {
+      "added_at": "2026-03-13 04:00:42",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0vJKvYSIkSoTigjEgb1nkA"
+    },
+    {
       "added_at": "2026-02-25 17:39:37",
       "album": {
         "name": "I Wish",
@@ -117,6 +173,22 @@
       "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
+      "added_at": "2026-03-06 17:10:39",
+      "album": {
+        "name": "I know you're hurting, everyone is hurting, everyone is trying, you have got to try",
+        "url": "https://open.spotify.com/album/0DcM6gjvAIGwlParaxKz8w"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "duration_ms": 205096,
+      "name": "Turn It Around",
+      "url": "https://open.spotify.com/track/5YdXaCrBhHWCMe9VUBCZ91"
+    },
+    {
       "added_at": "2026-03-06 05:00:16",
       "album": {
         "name": "if you wanna party, come over to my house",
@@ -131,6 +203,26 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -155,26 +247,6 @@
       "duration_ms": 189090,
       "name": "JOY (This One)",
       "url": "https://open.spotify.com/track/188ciRFWgwvGO63WwTRcfm"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "mangetout (The Dare remix)",
-        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        },
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 200192,
-      "name": "mangetout - The Dare remix",
-      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -239,6 +311,26 @@
       "duration_ms": 244848,
       "name": "Caf\u00e9 Pacific",
       "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK"
+    },
+    {
+      "added_at": "2026-03-13 04:00:42",
+      "album": {
+        "name": "Get Funky",
+        "url": "https://open.spotify.com/album/5ESk7LZ6OVFrWjFFAo8UTE"
+      },
+      "artists": [
+        {
+          "name": "Rad&Co",
+          "url": "https://open.spotify.com/artist/5SWWNKNGRfpxkgaZENBf6u"
+        },
+        {
+          "name": "Palomae",
+          "url": "https://open.spotify.com/artist/2PGPdwglFaL1sj4DElQE3C"
+        }
+      ],
+      "duration_ms": 216190,
+      "name": "Sugar Powder",
+      "url": "https://open.spotify.com/track/6Naz3jKSqmVrDyLzfA416t"
     },
     {
       "added_at": "2026-03-11 02:39:16",
@@ -937,22 +1029,6 @@
       "url": "https://open.spotify.com/track/7Ehjne6Dao0AXr5D6GaHSa"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/6EwceabziOOptW7N7tT626"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 212909,
-      "name": "Hang",
-      "url": "https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h"
-    },
-    {
       "added_at": "2026-01-30 05:01:10",
       "album": {
         "name": "Fell So Out",
@@ -999,22 +1075,6 @@
       "duration_ms": 185660,
       "name": "Soft Focus",
       "url": "https://open.spotify.com/track/3Mt1lCEvVenbds2U8LNLhI"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "in this world",
-        "url": "https://open.spotify.com/album/0PANKslBeOSE47xaiK09Yd"
-      },
-      "artists": [
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "in this world",
-      "url": "https://open.spotify.com/track/18SkZPigYCfd5Y37qNz2BM"
     },
     {
       "added_at": "2026-01-16 05:00:40",
@@ -1071,38 +1131,6 @@
       "duration_ms": 272492,
       "name": "Feel So Good Around U",
       "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/5AOOdE61qcqBULKF1EiVLb"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 137012,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg"
-    },
-    {
-      "added_at": "2026-01-23 05:00:29",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/5zZSa7rvW8JnI5PR0eTHpp"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 265511,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/5RZ74VjNYc2wX6jMU9qD2G"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -1247,22 +1275,6 @@
       "duration_ms": 142501,
       "name": "Paris",
       "url": "https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52"
-    },
-    {
-      "added_at": "2026-01-30 05:01:10",
-      "album": {
-        "name": "WAITING TO BEGIN",
-        "url": "https://open.spotify.com/album/512SLD6mliH8D0CB14oWeh"
-      },
-      "artists": [
-        {
-          "name": "Coloray",
-          "url": "https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E"
-        }
-      ],
-      "duration_ms": 156618,
-      "name": "WAITING TO BEGIN",
-      "url": "https://open.spotify.com/track/43yiqpJJwVvR3vMg8CgzB0"
     },
     {
       "added_at": "2026-01-23 05:00:29",

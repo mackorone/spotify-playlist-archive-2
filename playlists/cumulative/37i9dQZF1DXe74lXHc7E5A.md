@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Baby Keem
 
-623 songs - 1 day 7 hr 12 min
+623 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-28 | 2024-03-16 |
 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 | 2023-11-10 | 2024-04-19 |
 | [Meridian](https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian](https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU) | 4:15 | 2023-09-14 | 2023-11-11 |
+| [Mi Amor](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 2:00 | 2026-03-13 |  |
 | [Minciza](https://open.spotify.com/track/6gpBEVqKI55d3JAtDDde24) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Minciza](https://open.spotify.com/album/2nbTVh5PpRHYAAlb40TgKG) | 3:36 | 2025-03-21 | 2025-04-06 |
 | [MMD \(Money Must Drop\)](https://open.spotify.com/track/2Hetnf0XsYPtFyDaB3JI99) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [MMD \(Money Must Drop\)](https://open.spotify.com/album/15WfgiAp3HNIlUaqLE3mLr) | 3:37 | 2024-05-10 | 2024-05-24 |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2023-09-18 | 2023-11-11 |
@@ -568,7 +569,6 @@
 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 | 2024-07-05 | 2024-11-09 |
 | [Too Hot \(feat\. Adekunle Gold\)](https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Too Hot \(Maxi Single\)](https://open.spotify.com/album/69GtT9BY795ZqWrKnSbY2d) | 2:59 | 2022-07-27 | 2023-02-22 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-11-09 |
-| [Track 18](https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free \(Deluxe\)](https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo) | 0:00 | 2026-03-13 |  |
 | [TRICKIN'](https://open.spotify.com/track/1jBMZDuirIUrnXyhS2ExfB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TRICKIN'](https://open.spotify.com/album/1o8Qeyne1vdIDJtPCwwbvw) | 1:45 | 2023-09-29 | 2023-10-13 |
 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 | 2023-06-09 | 2025-06-20 |
 | [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 | 2025-11-07 |  |

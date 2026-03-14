@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 200906,
       "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
       "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
@@ -3646,6 +3646,24 @@
       "duration_ms": 231148,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
+    },
+    {
+      "album": {
+        "name": "Clark Younger",
+        "url": "https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y"
+      },
+      "artists": [
+        {
+          "name": "Clark Younger",
+          "url": "https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204558,
+      "name": "Unforgetable",
+      "url": "https://open.spotify.com/track/5WC6MJOe9oVg0yz2yj2KA0"
     },
     {
       "album": {

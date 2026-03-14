@@ -1,12 +1,12 @@
 {
   "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday |",
-  "num_followers": 260351,
+  "num_followers": 260336,
   "original_name": "Armada Today",
   "owner": {
     "name": "Armada Music",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "AADVk/f08SghtRpfPSR3rY2sgM7Aiy1h",
+  "snapshot_id": "AADVlPBAYjWRpNqQNXAKDzTiYoplnFuI",
   "tracks": [
     {
       "added_at": "2026-03-13 03:00:21",
@@ -99,6 +99,26 @@
       "duration_ms": 170091,
       "name": "Space Funk",
       "url": "https://open.spotify.com/track/7kNGpPxG8mGt8KoQGxTJ6O"
+    },
+    {
+      "added_at": "2026-03-13 12:05:35",
+      "album": {
+        "name": "Falls",
+        "url": "https://open.spotify.com/album/0Rq5jIPHhDiaJVkihTS3Ba"
+      },
+      "artists": [
+        {
+          "name": "EBENEZER",
+          "url": "https://open.spotify.com/artist/3yCWyIDYH1hI29Wi0wjsAs"
+        },
+        {
+          "name": "Ruben de Ronde",
+          "url": "https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m"
+        }
+      ],
+      "duration_ms": 202113,
+      "name": "Falls",
+      "url": "https://open.spotify.com/track/3yszaYOnNzKbYC5kVO1pdD"
     },
     {
       "added_at": "2026-03-13 03:00:21",

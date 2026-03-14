@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,982 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,986 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 51 | [Why You Lying](https://open.spotify.com/track/0Xol9bu4ZcAhxbUYZDKKVf) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Why You Lying](https://open.spotify.com/album/1iwiVSNUzS3ylg3XqHcmID) | 2:43 |
 | 52 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 53 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
-| 54 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
-| 55 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
+| 54 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
+| 55 | [Compose](https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Compose](https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV) | 2:24 |
 | 56 | [Bobo](https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Bobo](https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL) | 3:02 |
 | 57 | [Crazily](https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Crazily](https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k) | 2:29 |
 | 58 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 70 | [Bebe](https://open.spotify.com/track/3P0dv391ifXeo4wjJbWd2I) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Soundgod Fest IV](https://open.spotify.com/album/23h9PNNngtRFuQouyVFEsv) | 2:08 |
 | 71 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 72 | [Palava](https://open.spotify.com/track/52hCcthhhqHCwGaLAOqvUo) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [MYTH\-ERA](https://open.spotify.com/album/3zQqn6nxT3nl4KT057EbY3) | 2:41 |
-| 73 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
-| 74 | [So So Bad](https://open.spotify.com/track/3qTDPMjG9CoyQEaxIPISg2) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [So So Bad](https://open.spotify.com/album/1dnglGb52CUqIgQhI0gOX2) | 2:43 |
-| 75 | [this!](https://open.spotify.com/track/2Cerrfi8MbeJLW07itVbr4) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 3:04 |
-| 76 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
-| 77 | [E\-Major](https://open.spotify.com/track/2DQcw0LhHaTbg3JnMcV0O8) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [E\-Major](https://open.spotify.com/album/3hHAePr1rCWX5ImgaEdPas) | 2:48 |
-| 78 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |
-| 79 | [WILL I EVER](https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [WILL I EVER](https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi) | 2:54 |
+| 73 | [WILL I EVER](https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [WILL I EVER](https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi) | 2:54 |
+| 74 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 75 | [So So Bad](https://open.spotify.com/track/3qTDPMjG9CoyQEaxIPISg2) | [Gl0bal](https://open.spotify.com/artist/3nkApPk39ekjlyilodddaV), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [So So Bad](https://open.spotify.com/album/1dnglGb52CUqIgQhI0gOX2) | 2:43 |
+| 76 | [this!](https://open.spotify.com/track/2Cerrfi8MbeJLW07itVbr4) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 3:04 |
+| 77 | [Talisman](https://open.spotify.com/track/2P22ObGtUEeNwO8r2BNfOW) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 2:59 |
+| 78 | [E\-Major](https://open.spotify.com/track/2DQcw0LhHaTbg3JnMcV0O8) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q) | [E\-Major](https://open.spotify.com/album/3hHAePr1rCWX5ImgaEdPas) | 2:48 |
+| 79 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |
 | 80 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
 
 Snapshot ID: `AAAAAOkndn7r8l4+pSdqUR71pn3RE1o9`

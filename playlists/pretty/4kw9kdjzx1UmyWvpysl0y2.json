@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124217,
+  "num_followers": 124210,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVNsLVgVzqpcV38gSFnddkpcBGn7db",
+  "snapshot_id": "AAAVNzniOg8bVZt2VS0J4bbmXgqFcyQf",
   "tracks": [
+    {
+      "added_at": "2026-03-13 15:12:41",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0GV0Mgwiwx7SdKemncmVbi"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "duration_ms": 172344,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X"
+    },
     {
       "added_at": "2026-03-11 14:52:12",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: maye",
+  "description": "Fresh Latin Indie you should know. Cover: CA7RIEL & Paco Amoroso & Jack Black",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -896,10 +896,32 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188117,
       "name": "Algo Real",
       "url": "https://open.spotify.com/track/1OqbsUfQa7uQzrNB61xIup"
+    },
+    {
+      "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
     },
     {
       "album": {
@@ -2052,7 +2074,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196034,
       "name": "bandOlerO",
       "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
@@ -2314,7 +2336,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212190,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/7bEObK9WaIvFaS4OdRgnd9"
@@ -4442,7 +4464,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 250259,
       "name": "DE SASTRE",
       "url": "https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv"
@@ -5814,6 +5836,28 @@
       "duration_ms": 254266,
       "name": "El Show Debe Continuar",
       "url": "https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj"
+    },
+    {
+      "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "album": {
@@ -7501,6 +7545,28 @@
     },
     {
       "album": {
+        "name": "Goo Goo Ga Ga",
+        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191765,
+      "name": "Goo Goo Ga Ga",
+      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
+    },
+    {
+      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/3cYRYP5hyYc6wFpGKiNjqm"
       },
@@ -8292,7 +8358,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 153836,
       "name": "IND 2 JFK",
       "url": "https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3"
@@ -11443,6 +11509,32 @@
     },
     {
       "album": {
+        "name": "YORU",
+        "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Vestre",
+          "url": "https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb"
+        },
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "MENTIRNOS HOY",
+      "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
+    },
+    {
+      "album": {
         "name": "Observation I: Metamorphosis",
         "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
       },
@@ -11632,6 +11724,24 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "album": {
+        "name": "Mi loco cowboy",
+        "url": "https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188256,
+      "name": "Mi loco cowboy",
+      "url": "https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc"
     },
     {
       "album": {
@@ -16776,7 +16886,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 151867,
       "name": "Sediento",
       "url": "https://open.spotify.com/track/5WQTKOfagQ6ZlKaz9czMSZ"
@@ -21362,6 +21472,24 @@
       "duration_ms": 174813,
       "name": "\u00daltimo D\u00eda",
       "url": "https://open.spotify.com/track/7gQo36dSDAtrtosHRuV6E0"
+    },
+    {
+      "album": {
+        "name": "\u00dasame",
+        "url": "https://open.spotify.com/album/4vnJLpo5yCmBCOpEVG33A6"
+      },
+      "artists": [
+        {
+          "name": "RYAN",
+          "url": "https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183681,
+      "name": "\u00dasame",
+      "url": "https://open.spotify.com/track/1TYqggFVoo2ILv5leZRFpE"
     },
     {
       "album": {

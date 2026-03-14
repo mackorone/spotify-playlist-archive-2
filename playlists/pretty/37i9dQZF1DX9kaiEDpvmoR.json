@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93810,
+  "num_followers": 93827,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 229770,
+      "name": "Inner City Ghosts",
+      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
+    },
+    {
+      "added_at": "2026-03-12 23:00:30",
+      "album": {
         "name": "Human (feat. Jesse & Joy)",
         "url": "https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 243795,
       "name": "Human (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR"
-    },
-    {
-      "added_at": "2026-03-12 23:00:30",
-      "album": {
-        "name": "Forevers",
-        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 229770,
-      "name": "Inner City Ghosts",
-      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -667,6 +667,22 @@
       "duration_ms": 202453,
       "name": "Give and Take",
       "url": "https://open.spotify.com/track/7vfRnx1IvMPBjL0EqRGaGk"
+    },
+    {
+      "added_at": "2026-03-12 23:00:30",
+      "album": {
+        "name": "Face The Unknown",
+        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 210416,
+      "name": "Face The Unknown",
+      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -755,22 +771,6 @@
       "duration_ms": 317160,
       "name": "Mother's Love Conquers All",
       "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
-    },
-    {
-      "added_at": "2026-03-12 23:00:30",
-      "album": {
-        "name": "Face The Unknown",
-        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 210416,
-      "name": "Face The Unknown",
-      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
-        "name": "Tracks II: The Lost Albums",
-        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 345866,
-      "name": "Unsatisfied Heart",
-      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
-    },
-    {
-      "added_at": "2026-03-12 23:00:30",
-      "album": {
         "name": "Stanna tiden",
         "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 192875,
       "name": "Stanna tiden",
       "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+    },
+    {
+      "added_at": "2026-03-12 23:00:30",
+      "album": {
+        "name": "Tracks II: The Lost Albums",
+        "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 345866,
+      "name": "Unsatisfied Heart",
+      "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
+        "name": "The Spectrum of Love",
+        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
+      },
+      "artists": [
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 193114,
+      "name": "The Spectrum of Love",
+      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
+    },
+    {
+      "added_at": "2026-03-12 23:00:30",
+      "album": {
         "name": "Bara vi andas",
         "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 167266,
       "name": "Bara vi andas",
       "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
-    },
-    {
-      "added_at": "2026-03-12 23:00:30",
-      "album": {
-        "name": "The Spectrum of Love",
-        "url": "https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t"
-      },
-      "artists": [
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
-        }
-      ],
-      "duration_ms": 193114,
-      "name": "The Spectrum of Love",
-      "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
-        "name": "F-Bomb",
-        "url": "https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3"
+        "name": "H\u00f6kvind",
+        "url": "https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe"
       },
       "artists": [
         {
-          "name": "Jill Johnson",
-          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+          "name": "Les Big Byrd",
+          "url": "https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap"
         }
       ],
-      "duration_ms": 227026,
-      "name": "F-Bomb",
-      "url": "https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4"
+      "duration_ms": 430892,
+      "name": "H\u00f6kvind",
+      "url": "https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
-        "name": "Sol \u00e5 snygga m\u00e4n",
-        "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
+        "name": "F-Bomb",
+        "url": "https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3"
       },
       "artists": [
         {
-          "name": "Lina Hedlund",
-          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
         }
       ],
-      "duration_ms": 212339,
-      "name": "Sol \u00e5 snygga m\u00e4n",
-      "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
+      "duration_ms": 227026,
+      "name": "F-Bomb",
+      "url": "https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
+        "name": "Sol \u00e5 snygga m\u00e4n",
+        "url": "https://open.spotify.com/album/3VfsKFPtcTtlhDf2l8MyHA"
+      },
+      "artists": [
+        {
+          "name": "Lina Hedlund",
+          "url": "https://open.spotify.com/artist/0ISkgZ0y3iY60jiG3SQgvN"
+        }
+      ],
+      "duration_ms": 212339,
+      "name": "Sol \u00e5 snygga m\u00e4n",
+      "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"
+    },
+    {
+      "added_at": "2026-03-12 23:00:30",
+      "album": {
         "name": "Emilie's Song (From the TV series \"Tordyveln flyger i skymningen\")",
         "url": "https://open.spotify.com/album/5UXEPUUmaP2yXhPYAI5pMd"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2026-03-12 23:00:30",
       "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
-    },
-    {
-      "added_at": "2026-03-12 23:00:30",
-      "album": {
         "name": "M\u00e5nen",
         "url": "https://open.spotify.com/album/1l5Mvjssz7K5HfIyTHD0g2"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 159329,
       "name": "M\u00e5nen",
       "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:30",
+      "album": {
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
+      },
+      "artists": [
+        {
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2026-03-12 23:00:30",
@@ -1471,22 +1487,6 @@
       "duration_ms": 239360,
       "name": "Far",
       "url": "https://open.spotify.com/track/4wMH1Ic4taDwbqQGUNdGON"
-    },
-    {
-      "added_at": "2026-03-12 23:00:30",
-      "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
-      },
-      "artists": [
-        {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,814 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,893 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 37 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 |
 | 38 | [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 |
 | 39 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
-| 40 | [Sumbua](https://open.spotify.com/track/129DWV13Rj3gcKmpCQiOVH) | [Ally Fresh](https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh), [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Swakacha](https://open.spotify.com/album/7nys88wiMoCo8C7NDJnYgF) | 5:30 |
+| 40 | [Sumbua](https://open.spotify.com/track/129DWV13Rj3gcKmpCQiOVH) | [Ally Fresh](https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh), [Mura](https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD) | [Swakacha](https://open.spotify.com/album/7nys88wiMoCo8C7NDJnYgF) | 5:30 |
 | 41 | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz) | [Bengicela \(feat\. JAZZWRLD\)](https://open.spotify.com/album/2hQeaUm6h4P4qgf45IToZ6) | 5:58 |
 | 42 | [Water Water Yansh](https://open.spotify.com/track/0VSDlMxY0MmkVrTloPOKuJ) | [OBA DDJ45](https://open.spotify.com/artist/0YYhkcOClhez1bIgsKwB3M), [Muripounds](https://open.spotify.com/artist/3hEUb73oRSHRqUwGSShcG5), [Emmyblaqcfr\_](https://open.spotify.com/artist/3vmt0ECmETTJzJInF8maoB) | [Water Water Yansh](https://open.spotify.com/album/5Fx3D1mEkXudkDzqZxWK95) | 3:32 |
 | 43 | [Love](https://open.spotify.com/track/6fXDXIPwX97mqCrqLFAt2p) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:56 |

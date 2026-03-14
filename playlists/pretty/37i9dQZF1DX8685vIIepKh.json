@@ -1,6 +1,6 @@
 {
   "description": "La playlist survitamin\u00e9e !",
-  "num_followers": 764419,
+  "num_followers": 764426,
   "original_name": "Garde la p\u00eache !",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-02-26 23:00:49",
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+    },
+    {
+      "added_at": "2026-02-26 23:00:49",
+      "album": {
         "name": "I Run",
         "url": "https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
-    },
-    {
-      "added_at": "2026-02-26 23:00:49",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2026-02-26 23:00:49",
@@ -495,26 +495,6 @@
     {
       "added_at": "2026-02-26 23:00:49",
       "album": {
-        "name": "melodrama",
-        "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
-      },
-      "artists": [
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        },
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "melodrama",
-      "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
-    },
-    {
-      "added_at": "2026-02-26 23:00:49",
-      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2026-02-26 23:00:49",
+      "album": {
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
       "added_at": "2026-02-26 23:00:49",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-02-26 23:00:49",
       "album": {
-        "name": "Hotel Cabana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
-      },
-      "artists": [
-        {
-          "name": "Naughty Boy",
-          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
-    },
-    {
-      "added_at": "2026-02-26 23:00:49",
-      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
+    },
+    {
+      "added_at": "2026-02-26 23:00:49",
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
     },
     {
       "added_at": "2026-02-26 23:00:49",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Taffy",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Sexyy Red",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 200655,
       "name": "2016 (feat. Cleotrapa)",
       "url": "https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ"
+    },
+    {
+      "album": {
+        "name": "Grady Baby",
+        "url": "https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118440,
+      "name": "285 (feat. Monaleo)",
+      "url": "https://open.spotify.com/track/6twVbeb9EzKRWqU6lGM0zU"
     },
     {
       "album": {
@@ -10397,6 +10419,24 @@
     },
     {
       "album": {
+        "name": "oooshxt!",
+        "url": "https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135767,
+      "name": "oooshxt!",
+      "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
+    },
+    {
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -10546,7 +10586,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 113831,
       "name": "Owe Me One",
       "url": "https://open.spotify.com/track/1iND0yyleoNyAKgcXf8MFt"
@@ -15332,7 +15372,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 199230,
       "name": "Whole Thang",
       "url": "https://open.spotify.com/track/4IttPmt52O0eS19zFgdgkg"

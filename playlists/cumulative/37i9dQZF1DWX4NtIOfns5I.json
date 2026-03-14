@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-07",
-  "description": "new the army, the navy \ud83c\udff9",
+  "description": "emma harner gently ushering in spring \ud83c\udf43",
   "name": "juniper",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 203000,
       "name": "17",
       "url": "https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182713,
       "name": "Betty",
       "url": "https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM"
@@ -1502,6 +1502,24 @@
       "duration_ms": 222708,
       "name": "Bumper Sticker",
       "url": "https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco"
+    },
+    {
+      "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/12qM2XNUl5g1mhhNrrpIey"
+      },
+      "artists": [
+        {
+          "name": "runo plum",
+          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168078,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/52w9vFDgebB8OxdYL1BK1t"
     },
     {
       "album": {
@@ -7380,7 +7398,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 163292,
       "name": "Mind Reader",
       "url": "https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE"
@@ -8000,7 +8018,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 226158,
       "name": "nail polish",
       "url": "https://open.spotify.com/track/7qTTQpGiy31t0zjsctXmYN"
@@ -9075,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
+    },
+    {
+      "album": {
         "name": "Potion",
         "url": "https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17"
       },
@@ -9566,7 +9602,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 263750,
       "name": "River Runs Dry",
       "url": "https://open.spotify.com/track/4CHHkSkDNst5mTNRfdUIyn"
@@ -13528,6 +13564,24 @@
       "duration_ms": 202865,
       "name": "You're All I Got",
       "url": "https://open.spotify.com/track/44DEp6ZrAVlptrzOKBjO88"
+    },
+    {
+      "album": {
+        "name": "You're Right",
+        "url": "https://open.spotify.com/album/4tNyCZlcp83pxK5ktfTx5Q"
+      },
+      "artists": [
+        {
+          "name": "Emma Harner",
+          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180128,
+      "name": "You're Right",
+      "url": "https://open.spotify.com/track/4UEjz6lD71GweiK1BXpUYC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Modest Mouse
 
-2,592 songs - 6 day 4 hr 54 min
+2,593 songs - 6 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1467,6 +1467,7 @@
 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 | 2024-09-05 | 2024-09-27 |
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-20 | 2025-04-04 |
 | [Mile For Mile](https://open.spotify.com/track/6BVolulUreagRUJ57EO4Y5) | [Wezn](https://open.spotify.com/artist/4m3BkdzgdpL8lkC5PfZdXf) | [Meet Me In The Middle](https://open.spotify.com/album/1noFSMfhO1Ard864yZHMl2) | 3:37 | 2024-09-12 | 2024-09-27 |
+| [Miles](https://open.spotify.com/track/1gxVl5U2eD4ZRCTiDjyi1L) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Miles](https://open.spotify.com/album/67meSfnsEUQRMvolemxRMv) | 1:55 | 2026-03-12 |  |
 | [miles out](https://open.spotify.com/track/5PelKtmzbzuOBdtCJ1ooRm) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [miles out](https://open.spotify.com/album/0Uv4GRD8QHt6IKParKyZtn) | 3:08 | 2025-02-20 | 2025-03-21 |
 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 | 2024-08-22 | 2024-09-20 |
 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 | 2024-11-28 | 2025-01-10 |
@@ -2271,6 +2272,7 @@
 | [The World \(AR\)](https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [The World \(AR\)](https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6) | 3:47 | 2025-11-06 | 2025-12-05 |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-18 | 2024-08-02 |
 | [The Wrong Cards](https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [The Wrong Cards](https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA) | 2:54 | 2025-06-05 | 2025-06-20 |
+| [Therapist](https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Damaged By Their Silence](https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI) | 4:31 | 2026-03-12 |  |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [There Will Never Be Another You](https://open.spotify.com/track/5U1JwfxPnSNpdMhHqEujW5) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [There Will Never Be Another You](https://open.spotify.com/album/67PmI6KNSRzYZP4LxciUcj) | 3:19 | 2025-04-03 | 2025-04-18 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 | 2025-05-09 |
@@ -2337,7 +2339,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 1](https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Damaged By Their Silence](https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI) | 0:00 | 2026-03-12 |  |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |

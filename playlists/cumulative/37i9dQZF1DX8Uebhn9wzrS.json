@@ -3092,7 +3092,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 131157,
       "name": "Avocades",
       "url": "https://open.spotify.com/track/72VPz6obgR5JjPCv8uRotp"
@@ -4233,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "better days",
+        "url": "https://open.spotify.com/album/0oJY66xAiN6NgSOZrB6zjp"
+      },
+      "artists": [
+        {
+          "name": "skyshapes",
+          "url": "https://open.spotify.com/artist/6MMiMw3WzWnkSwK9KcvcD2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118356,
+      "name": "better days",
+      "url": "https://open.spotify.com/track/09Yg70R74xfcWdLNqobXP4"
+    },
+    {
+      "album": {
         "name": "Better Life",
         "url": "https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy"
       },
@@ -4824,6 +4842,24 @@
       "duration_ms": 128212,
       "name": "Blue Side",
       "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
+    },
+    {
+      "album": {
+        "name": "blue sky",
+        "url": "https://open.spotify.com/album/22RRAV5vBwQxig9lPEl8AZ"
+      },
+      "artists": [
+        {
+          "name": "the tofu paradigm",
+          "url": "https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "blue sky",
+      "url": "https://open.spotify.com/track/4Kr0QtrKnvUTfqS89FbbVR"
     },
     {
       "album": {
@@ -5620,6 +5656,24 @@
       "duration_ms": 159250,
       "name": "Buoyant Time",
       "url": "https://open.spotify.com/track/10ka1GxK5M8AJxzc21XzeW"
+    },
+    {
+      "album": {
+        "name": "burrow",
+        "url": "https://open.spotify.com/album/60f293dKPsh15AcHajvF7f"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "burrow",
+      "url": "https://open.spotify.com/track/1Ct1TYvI4Hx12oSHq40bda"
     },
     {
       "album": {
@@ -9892,7 +9946,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182029,
       "name": "Deep Breaths",
       "url": "https://open.spotify.com/track/24tCFs2DAT3Js3kBBalhb0"
@@ -11186,6 +11240,24 @@
       "duration_ms": 115384,
       "name": "Dream Weaver",
       "url": "https://open.spotify.com/track/6bU7I0yIIH6LpokLVuhstK"
+    },
+    {
+      "album": {
+        "name": "dreamwalk",
+        "url": "https://open.spotify.com/album/5H16q3QplTPf764zMWYKYR"
+      },
+      "artists": [
+        {
+          "name": "loutwo",
+          "url": "https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "dreamwalk",
+      "url": "https://open.spotify.com/track/4x2mb4NOW5YppXVH4kRik7"
     },
     {
       "album": {
@@ -14408,7 +14480,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 129278,
       "name": "Flow",
       "url": "https://open.spotify.com/track/24oe9T1UinWoBuX7tZRjPs"
@@ -14658,6 +14730,24 @@
       "duration_ms": 135697,
       "name": "Foemeo",
       "url": "https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X"
+    },
+    {
+      "album": {
+        "name": "Folded Rhythm",
+        "url": "https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9"
+      },
+      "artists": [
+        {
+          "name": "weightless minutes",
+          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110438,
+      "name": "Folded Rhythm",
+      "url": "https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1"
     },
     {
       "album": {
@@ -21485,6 +21575,24 @@
     },
     {
       "album": {
+        "name": "Late Room Signals",
+        "url": "https://open.spotify.com/album/5eUualgfUQMPCE6fXTV9mu"
+      },
+      "artists": [
+        {
+          "name": "Cloudroom",
+          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Late Room Signals",
+      "url": "https://open.spotify.com/track/5rc9MM9XR41dj6vQ0KdCI4"
+    },
+    {
+      "album": {
         "name": "Later Than Expected",
         "url": "https://open.spotify.com/album/4sqMz9sqZ0Rvawoc4Bcvan"
       },
@@ -21684,7 +21792,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 155820,
       "name": "Leaning on Yesterday",
       "url": "https://open.spotify.com/track/3uWjwQfX4Kl14M0nhNxNls"
@@ -33288,7 +33396,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 126338,
       "name": "restful",
       "url": "https://open.spotify.com/track/1drYD8ukm3NeTW45JkCVP4"
@@ -36738,7 +36846,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 124324,
       "name": "Snooze Groove",
       "url": "https://open.spotify.com/track/0Pvu5OJLVcukLnrLFZ8YgH"
@@ -42352,7 +42460,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 107082,
       "name": "Tough Night",
       "url": "https://open.spotify.com/track/2SIG8r7jJLXc9Q3fAOUrwx"
@@ -44136,6 +44244,24 @@
       "duration_ms": 119944,
       "name": "Vitalization",
       "url": "https://open.spotify.com/track/3pp6vpEactYNh8gVMTt5Bk"
+    },
+    {
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/487yOSsqOPxqMtckj07yUD"
+      },
+      "artists": [
+        {
+          "name": "Spring Bingo",
+          "url": "https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/2UdBrtmAdAKu7bfC3WUgcv"
     },
     {
       "album": {

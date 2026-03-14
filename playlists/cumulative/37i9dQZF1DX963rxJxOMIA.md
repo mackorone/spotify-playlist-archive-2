@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Aria Vega.
 
-361 songs - 19 hr 5 min
+362 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Todo Lo Bueno Tarda](https://open.spotify.com/track/5HNjGi0qYXvZgksCYRVXAH) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 | 2022-10-13 | 2024-01-27 |
 | [Todos Mienten](https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Los Rogelios](https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers), [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg) | [Todos Mienten](https://open.spotify.com/album/3Smf95F1l0e8wO5TDfpnpV) | 6:24 | 2024-07-26 | 2025-03-15 |
 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 | 2026-02-27 |  |
+| [TOPSHELF](https://open.spotify.com/track/3fhrXxnWnFiKShE8RNUWwU) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TRAP DE KOLOMBIA](https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd) | 2:52 | 2026-03-13 |  |
 | [Toretto](https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Toretto \(FAST X / Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1) | 2:30 | 2023-05-12 | 2023-06-24 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 | 2023-08-12 |
 | [Triple S](https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Triple S](https://open.spotify.com/album/2Vum7fnobCUz4Ac6TsZyt4) | 3:12 | 2024-03-01 | 2024-08-10 |

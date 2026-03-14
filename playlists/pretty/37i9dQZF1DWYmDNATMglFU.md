@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. my first time
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,175 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,163 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 54 | [Blankspace](https://open.spotify.com/track/1COHSIrHwu5ysyly3BlNpX) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Sunlight Echoes](https://open.spotify.com/album/4jHGgkjeyoEF5My7OLhXhB) | 3:04 |
 | 55 | [Falling Posture](https://open.spotify.com/track/7xoDYHccYoi09Y2qv7dvk3) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Falling Posture](https://open.spotify.com/album/3f71SUpFswCJCDRWGI5CJY) | 2:58 |
 
-Snapshot ID: `AAAAAFMZFn3mGRnSdAshrYlfsR2/j1Pf`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

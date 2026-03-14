@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Megan Moroney",
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Carly Pearce and Riley Green",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 183815,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
@@ -1256,6 +1256,24 @@
       "duration_ms": 245511,
       "name": "Blue Over You",
       "url": "https://open.spotify.com/track/6ymafuSC9VWoGRPquZkQKV"
+    },
+    {
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229905,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6"
     },
     {
       "album": {
@@ -2636,6 +2654,24 @@
       "duration_ms": 133560,
       "name": "DON'T WANNA GO HOME",
       "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
+    },
+    {
+      "album": {
+        "name": "Done For",
+        "url": "https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153315,
+      "name": "Done For",
+      "url": "https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt"
     },
     {
       "album": {
@@ -4293,6 +4329,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
+    },
+    {
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -5147,6 +5205,28 @@
     },
     {
       "album": {
+        "name": "If I Don't Leave I'm Gonna Stay",
+        "url": "https://open.spotify.com/album/70if0dAxjMSroh1m6It9LZ"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212929,
+      "name": "If I Don't Leave I'm Gonna Stay",
+      "url": "https://open.spotify.com/track/5RehL4XyHKmmOvBwADqYt9"
+    },
+    {
+      "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
@@ -5592,7 +5672,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192380,
       "name": "Keeps Me Sane",
       "url": "https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew"
@@ -5826,7 +5906,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198866,
       "name": "Let The Lonely",
       "url": "https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4"
@@ -5978,7 +6058,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174709,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/2SF6DL81zTodxZPW7m3VHl"
@@ -7258,6 +7338,24 @@
       "duration_ms": 208759,
       "name": "No Caller ID",
       "url": "https://open.spotify.com/track/2uHgCkaiHwZKl7tDBTVsyW"
+    },
+    {
+      "album": {
+        "name": "No Need For Leavin'",
+        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "No Need For Leavin'",
+      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
     },
     {
       "album": {
@@ -9794,7 +9892,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 256501,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5"
@@ -10328,7 +10426,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204013,
       "name": "Turn This Truck Around",
       "url": "https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l"
@@ -11542,6 +11640,24 @@
       "duration_ms": 196253,
       "name": "You",
       "url": "https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"
     },
     {
       "album": {

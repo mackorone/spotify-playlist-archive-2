@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1104456,
+  "num_followers": 1104686,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACCfhWy8O7UmCBLF/sn4oNW",
+  "snapshot_id": "abICAAAAAAAxFSNfC0Uhn3k/w5Nvs3Jw",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1nto Cuesta",
-        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 174075,
-      "name": "Cu\u00e1nto Cuesta",
-      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/34cKEFiNsJI3o0Nl1TB88I"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 209000,
       "name": "C\u00f3mo Pudiste (En Vivo)",
       "url": "https://open.spotify.com/track/6qioUHZ4zBU3v9k3lQAJx2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1nto Cuesta",
+        "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 174075,
+      "name": "Cu\u00e1nto Cuesta",
+      "url": "https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M"
     },
     {
       "added_at": null,

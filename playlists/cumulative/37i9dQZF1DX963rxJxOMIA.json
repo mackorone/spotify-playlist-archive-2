@@ -7263,6 +7263,28 @@
     },
     {
       "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "TOPSHELF",
+      "url": "https://open.spotify.com/track/3fhrXxnWnFiKShE8RNUWwU"
+    },
+    {
+      "album": {
         "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },

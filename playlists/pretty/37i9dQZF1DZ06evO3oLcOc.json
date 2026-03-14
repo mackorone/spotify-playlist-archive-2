@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 228835,
+  "num_followers": 228863,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACvQCgIKFvx0+pkvfa/82/4",
+  "snapshot_id": "abICAAAAAABGMVbZEkLlQ2bkqj3uyC2X",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayy Macarena",
+        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 131606,
+      "name": "Ayy Macarena",
+      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hookah",
         "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 202320,
       "name": "Hookah",
       "url": "https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayy Macarena",
-        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 131606,
-      "name": "Ayy Macarena",
-      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Careless World: Rise Of The Last King",
-        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 182532,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Careless World: Rise Of The Last King",
+        "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/4vULFpGH9sCBdCfCC6p3Xo"
     },
     {
       "added_at": null,

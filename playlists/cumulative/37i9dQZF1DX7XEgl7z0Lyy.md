@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-285 songs - 10 hr 11 min
+286 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [MONEY! \(Money Money, Green Green\)](https://open.spotify.com/track/40MPZ79Nb7wBZqA9PzLVy0) | [Kaytoven](https://open.spotify.com/artist/4DDuVAfwHpJyGSmNUHRTGm) | [MONEY! \(Money Money, Green Green\)](https://open.spotify.com/album/2RVKC6Ji7sQfRb4iMCu8gX) | 1:18 | 2024-04-12 |  |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2023-12-28 |  |
 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 | 2023-08-18 |  |
-| [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 |  |
+| [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 | 2026-03-14 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-07-21 | 2023-11-21 |
 | [NASTYWERKKKK!](https://open.spotify.com/track/7kvQptbfqq5b4MWRQOMrZC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [NASTYWERKKKK!](https://open.spotify.com/album/0eFoFhftAdNeb0vtTJ0iSB) | 2:19 | 2025-03-14 |  |
 | [New Species](https://open.spotify.com/track/43IxujU228QDYxlnMcotzW) | [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB) | [Tidal Memory Exo](https://open.spotify.com/album/7CQp27clxVYy6Ou6jXht6g) | 3:21 | 2024-05-26 |  |
@@ -215,6 +215,7 @@
 | [Pink flame](https://open.spotify.com/track/37NZqHHBOWPyUy7QeWjY1t) | [Nuvfr](https://open.spotify.com/artist/2fWukyNksCO4foi0KYnRJy) | [Pink flame](https://open.spotify.com/album/5lkVw5Cqs1nCqf2T8uFsjQ) | 4:14 | 2023-08-25 |  |
 | [Pop like this Pt\. 2 \- Slowed](https://open.spotify.com/track/3xvzR05d6KgexfzjJgDRDl) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z) | [Pop like this Pt\. 2 \(Slowed\)](https://open.spotify.com/album/7AxvdeyukmAFes9SBWYE6x) | 2:02 | 2024-06-21 |  |
 | [POSSESSIVE LOVE DISORDER](https://open.spotify.com/track/0D2xaGV4gxw3gKYnjbxrjz) | [ZØMB](https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2), [durpo1x](https://open.spotify.com/artist/7hlFRSHZn33TvcCftHWtw0) | [POSSESSIVE LOVE DISORDER](https://open.spotify.com/album/5yq3vYECtmWY0TMpFVtZle) | 1:55 | 2024-02-13 |  |
+| [PPAPTEKK \- Super Slowed](https://open.spotify.com/track/4SzDinY7LcC1bGcXk2LQKd) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [PPAPTEKK](https://open.spotify.com/album/7fQT6muL1G3fFmx6BJlK7B) | 1:51 | 2026-03-13 |  |
 | [Pretty Scene Girl!](https://open.spotify.com/track/0On2m1x86sC0Quwsu0JXQl) | [Clover!](https://open.spotify.com/artist/32cxkkzCHntC7KY72NOyHD), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG) | [Pretty Scene Girl!](https://open.spotify.com/album/6OfC8fXFOLdsF3sjU7vq11) | 2:28 | 2025-03-14 |  |
 | [PROJECT X](https://open.spotify.com/track/0jMuuABfFQuARURU74MzSi) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [PROJECT X](https://open.spotify.com/album/0MqIdzr2Fp88ju0IREEzJX) | 2:52 | 2024-04-05 | 2024-06-14 |
 | [PROTECTION CHARM \- SLOW & HARD VERSION](https://open.spotify.com/track/3rcw75i7dkInJWy12aR3dO) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [EMBRACE CHAOS I](https://open.spotify.com/album/3s5ZPci0kkPtuab6ChSjde) | 3:30 | 2024-02-13 |  |

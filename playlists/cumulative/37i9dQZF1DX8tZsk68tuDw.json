@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with ANOTR",
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Adam Ten",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 210234,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/0vnz6lN4xKHZX7gtFMplMY"
@@ -7148,7 +7148,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 113702,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
@@ -10098,6 +10098,24 @@
       "duration_ms": 169730,
       "name": "Break",
       "url": "https://open.spotify.com/track/3JNS1gdHgr8fms90xGqmzP"
+    },
+    {
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO"
     },
     {
       "album": {
@@ -18114,7 +18132,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 257419,
       "name": "Dirty Conga (feat. Kanis)",
       "url": "https://open.spotify.com/track/5DMZeSnioIjR2xaQGl9vCK"
@@ -24502,7 +24520,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
@@ -24616,7 +24634,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 249545,
       "name": "find a reason",
       "url": "https://open.spotify.com/track/69Pi3PmvFx9jJFy07vf4KU"
@@ -25678,7 +25696,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 175384,
       "name": "For The Soul",
       "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
@@ -27652,6 +27670,28 @@
       "duration_ms": 230500,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/2pqDpDsdxlZZFdNNrEE29C"
+    },
+    {
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
     },
     {
       "album": {
@@ -33029,6 +33069,24 @@
     },
     {
       "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V"
+      },
+      "artists": [
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213900,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0"
+    },
+    {
+      "album": {
         "name": "How It Feels",
         "url": "https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp"
       },
@@ -36962,7 +37020,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 131299,
       "name": "Into My Life (feat. Joyce Sims)",
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
@@ -44153,6 +44211,28 @@
     },
     {
       "album": {
+        "name": "Love On Me",
+        "url": "https://open.spotify.com/album/3ScGSR9l9CAIr7NNYq5bOJ"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        },
+        {
+          "name": "House Of Molly",
+          "url": "https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Love On Me",
+      "url": "https://open.spotify.com/track/3rBYmkOB8N1Z4bCa3DsdPK"
+    },
+    {
+      "album": {
         "name": "LOVE ON ME",
         "url": "https://open.spotify.com/album/29QSS0FS77NYUOPoidnViy"
       },
@@ -45002,6 +45082,24 @@
       "duration_ms": 229180,
       "name": "Magic Circus",
       "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
+    },
+    {
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "album": {
@@ -47040,6 +47138,32 @@
       "duration_ms": 392709,
       "name": "Missing Channel - Original Mix",
       "url": "https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/6LYLOQazeVSk4nkh1ekbdp"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG"
     },
     {
       "album": {
@@ -52140,7 +52264,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191250,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6m9GNw85z5BjJWD7VB3jq6"
@@ -55983,6 +56107,24 @@
     },
     {
       "album": {
+        "name": "Picking Up The Pace",
+        "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178777,
+      "name": "Picking Up The Pace",
+      "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
+    },
+    {
+      "album": {
         "name": "Picture",
         "url": "https://open.spotify.com/album/5Y86auMfgcbLbCKFfVh4hq"
       },
@@ -57214,6 +57356,24 @@
       "duration_ms": 286928,
       "name": "Pull Out",
       "url": "https://open.spotify.com/track/3yLZ9iZRFJokbQypcIetjo"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "album": {
@@ -61948,7 +62108,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188481,
       "name": "Say Nothing",
       "url": "https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW"
@@ -73728,7 +73888,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212336,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/1dw6NEuLrDfbbKa5WHYmSl"
@@ -77131,6 +77291,28 @@
     },
     {
       "album": {
+        "name": "Warawara",
+        "url": "https://open.spotify.com/album/4dPznvhGo9Yd7vEwGGPjUK"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Asulin",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219047,
+      "name": "Warawara",
+      "url": "https://open.spotify.com/track/6iICsz7vM9BkAPGw0Axsyq"
+    },
+    {
+      "album": {
         "name": "GORILLA WARFARE",
         "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
@@ -78690,6 +78872,28 @@
       "duration_ms": 146512,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/5Yg3kRGlB8UB6Sa8Fq4njc"
+    },
+    {
+      "album": {
+        "name": "What Music Felt Like In 2007",
+        "url": "https://open.spotify.com/album/5YBLvsQH3hSEOfOY6UraKJ"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "BAUGRUPPE90",
+          "url": "https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "What Music Felt Like In 2007",
+      "url": "https://open.spotify.com/track/2F6ie4adRPCCQquwR03nui"
     },
     {
       "album": {

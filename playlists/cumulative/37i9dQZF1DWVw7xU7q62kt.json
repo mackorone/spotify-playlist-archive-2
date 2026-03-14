@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/77TzCobVfrXwcImAcYkpqq"
+      },
+      "artists": [
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "yungmerrin",
+          "url": "https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111225,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/3ioiZNGTg5pO9TutzubAu6"
+    },
+    {
+      "album": {
         "name": "Agave",
         "url": "https://open.spotify.com/album/6r8jn5NGZv72u1MHgfzE6r"
       },
@@ -478,6 +500,24 @@
       "duration_ms": 144972,
       "name": "Allure",
       "url": "https://open.spotify.com/track/04ooGGf7K6S82kmzceMqX3"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/6ea46sOKx7WCN3FH7IRU5J"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3cGFo49s5eg1eA0Y0ypMx5"
     },
     {
       "album": {
@@ -678,6 +718,28 @@
       "duration_ms": 235779,
       "name": "Angels Speak",
       "url": "https://open.spotify.com/track/3rpnDxCVthm3sJO6lYbBMC"
+    },
+    {
+      "album": {
+        "name": "Anguilla",
+        "url": "https://open.spotify.com/album/12LzgfFyhdEt7y4FKf84FA"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "J Fletch",
+          "url": "https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102857,
+      "name": "Anguilla",
+      "url": "https://open.spotify.com/track/4zxC5ctshiTETKnYbFMRRD"
     },
     {
       "album": {
@@ -4673,6 +4735,28 @@
     },
     {
       "album": {
+        "name": "flygawd",
+        "url": "https://open.spotify.com/album/5SPbet9NmIrjo2YuvbH8wA"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "think less.",
+          "url": "https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125159,
+      "name": "flygawd",
+      "url": "https://open.spotify.com/track/1GVk47Cvw4gRGMpex3zZUp"
+    },
+    {
+      "album": {
         "name": "Flyin'",
         "url": "https://open.spotify.com/album/2SdtTidqXKSpeYUp5sOR0Y"
       },
@@ -6334,7 +6418,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 122995,
       "name": "Imaginary",
       "url": "https://open.spotify.com/track/2w6LzuwyGCAV75dlAPcNBN"
@@ -6458,6 +6542,24 @@
       "duration_ms": 128000,
       "name": "Indica Badu",
       "url": "https://open.spotify.com/track/283WNLow8l5Opa1q1VmLVQ"
+    },
+    {
+      "album": {
+        "name": "Indigo Skies",
+        "url": "https://open.spotify.com/album/4kKFYbEqLooP3ftxea7B3z"
+      },
+      "artists": [
+        {
+          "name": "Harry Hawaii",
+          "url": "https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Indigo Skies",
+      "url": "https://open.spotify.com/track/3Lp1uLJFj8V8tsxtftZRqf"
     },
     {
       "album": {
@@ -6936,6 +7038,24 @@
       "duration_ms": 128000,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/5dDLQrOok7ZPktB27ulWeN"
+    },
+    {
+      "album": {
+        "name": "Kick, Push",
+        "url": "https://open.spotify.com/album/2W0Ww4kEguunlReICZj3n6"
+      },
+      "artists": [
+        {
+          "name": "7th Realm",
+          "url": "https://open.spotify.com/artist/4UtJ3cnpM9ptMHY6LSfMUs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110359,
+      "name": "Kick, Push",
+      "url": "https://open.spotify.com/track/2b2WHCsFm7NWEVJQ1P3G9O"
     },
     {
       "album": {
@@ -9942,7 +10062,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 118780,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/65KkTHbME2KkNOE0EDupfy"
@@ -10060,6 +10180,24 @@
       "duration_ms": 124337,
       "name": "Nowadayz",
       "url": "https://open.spotify.com/track/4HvdrpohNELdW4PJbh617a"
+    },
+    {
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/17dF2efA6obGobWwGFRjoV"
+      },
+      "artists": [
+        {
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/0JLPyMNpKYeILjc3T4rBzC"
     },
     {
       "album": {
@@ -10274,7 +10412,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 115500,
       "name": "On The Roof",
       "url": "https://open.spotify.com/track/1DnYVSvXJehuGoKjkjfGGG"
@@ -11722,7 +11860,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 118554,
       "name": "Reminder",
       "url": "https://open.spotify.com/track/67TDGIDhyTq7fp9mkViZH1"
@@ -13082,7 +13220,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 216585,
       "name": "Sonic Poetry",
       "url": "https://open.spotify.com/track/4kS8vHttgVMj8wJsTwAg25"
@@ -14402,7 +14540,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 135555,
       "name": "Sweet Smooth",
       "url": "https://open.spotify.com/track/7rumqemyqCvap0ZpNsWlay"
@@ -15504,7 +15642,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 146558,
       "name": "Torpor",
       "url": "https://open.spotify.com/track/4Dqxe743LCn58BB2dHytxL"
@@ -16448,7 +16586,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 145511,
       "name": "Vital",
       "url": "https://open.spotify.com/track/5llxwM7zuQpWr63NGnlBOe"
@@ -16552,6 +16690,28 @@
       "duration_ms": 134634,
       "name": "Voyageurs",
       "url": "https://open.spotify.com/track/5d8z9xQC88LkBn06ETDkpS"
+    },
+    {
+      "album": {
+        "name": "Wacky Pomo",
+        "url": "https://open.spotify.com/album/0dxY3iazDOv71fVpeSBlq5"
+      },
+      "artists": [
+        {
+          "name": "H\u00f8xde",
+          "url": "https://open.spotify.com/artist/5RnYrq4xtYP886f46j4TVZ"
+        },
+        {
+          "name": "Simber",
+          "url": "https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Wacky Pomo",
+      "url": "https://open.spotify.com/track/7n1CM0gfBavi4FVDemZDkv"
     },
     {
       "album": {

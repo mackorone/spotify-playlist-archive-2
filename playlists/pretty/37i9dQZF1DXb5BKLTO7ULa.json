@@ -1,6 +1,6 @@
 {
   "description": "Nieuw: Martin Garrix, Kensington, Suzan & Freek, Dopebwoy, Sienna Spiro en meer..\n",
-  "num_followers": 291234,
+  "num_followers": 291529,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-03-12 23:00:52",
       "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs"
+    },
+    {
+      "added_at": "2026-03-12 23:00:52",
+      "album": {
         "name": "Cry About It",
         "url": "https://open.spotify.com/album/14RUy1Ok244Y3NMj3gcTmQ"
       },
@@ -480,8 +496,8 @@
           "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 108131,
+      "name": "Stenen & Liquide",
       "url": "https://open.spotify.com/track/6BwAzx1XS2j7QTHPFPOnEm"
     },
     {
@@ -838,10 +854,18 @@
         {
           "name": "SIM\u2014OJ",
           "url": "https://open.spotify.com/artist/5iTVV4xiBCFr1hLJ1O98GQ"
+        },
+        {
+          "name": "SIROJ",
+          "url": "https://open.spotify.com/artist/0SQOIur6PFpZ7ACj9BX2Tv"
+        },
+        {
+          "name": "Sim Fane",
+          "url": "https://open.spotify.com/artist/2kSYc7wBDmCcqXkG0J8oa2"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 300000,
+      "name": "NEXT 2 U",
       "url": "https://open.spotify.com/track/5B6ojXi9IXBZksE5ZozocW"
     },
     {
@@ -992,8 +1016,8 @@
           "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 167195,
+      "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
     },
     {

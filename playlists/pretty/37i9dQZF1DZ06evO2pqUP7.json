@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69947,
+  "num_followers": 69943,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABc2yCuuUnUMMig5nfx6MR1",
+  "snapshot_id": "abICAAAAAABn0dNn4qspbq4Ekfp8o94m",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 139350,
-      "name": "Nuevo",
-      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boca (Remix)",
         "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 188467,
       "name": "La Boca - Remix",
       "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevo",
+        "url": "https://open.spotify.com/album/41n0TpObqsR4TbOmBdkrLX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 139350,
+      "name": "Nuevo",
+      "url": "https://open.spotify.com/track/5OAUEIwUw1TsoeCkoI1hbo"
     },
     {
       "added_at": null,
@@ -431,34 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los M\u00e1gicos",
-        "url": "https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/6UohJGgFLfVimuuLqp96l5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -483,6 +455,34 @@
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los M\u00e1gicos",
+        "url": "https://open.spotify.com/album/1qQmiMijIXD2v7WIEekNLb"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/6UohJGgFLfVimuuLqp96l5"
     },
     {
       "added_at": null,
@@ -1071,22 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Ropa",
-        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 155390,
-      "name": "Sin Ropa",
-      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Top Gone (with Lunay)",
         "url": "https://open.spotify.com/album/6pzt4VtRQPVattiSb1ZZAO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 194453,
       "name": "Top Gone (with Lunay)",
       "url": "https://open.spotify.com/track/0EgkGFmAdFLkZVtbyGlQRe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/0f18VhfbW22pyrX6l4MIjX"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 155390,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/09HSL5vRZgxXmoSrDVKMDB"
     },
     {
       "added_at": null,

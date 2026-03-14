@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Dharius, C-Kan, Gera MX, y La Santa Grifa en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Union Fatal en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -5743,6 +5743,32 @@
     },
     {
       "album": {
+        "name": "El Dolor de Aliado",
+        "url": "https://open.spotify.com/album/3W9eELNnfbQYHoukK5tMZy"
+      },
+      "artists": [
+        {
+          "name": "Santa Suerte",
+          "url": "https://open.spotify.com/artist/1eblaVtbXUDGr90qMXfqAa"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        },
+        {
+          "name": "Cayro Music",
+          "url": "https://open.spotify.com/artist/0oLSGoCin3HiQSbBdnFyZ9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185769,
+      "name": "El Dolor de Aliado",
+      "url": "https://open.spotify.com/track/1IQFcm0ip4MfNWvtSU3vfK"
+    },
+    {
+      "album": {
         "name": "El D\u00eda de Nuestra Suerte",
         "url": "https://open.spotify.com/album/1OX990RQ1SpGmMyDFVUKoK"
       },
@@ -5802,6 +5828,28 @@
       "duration_ms": 177524,
       "name": "El Hood de los 27",
       "url": "https://open.spotify.com/track/1cXMm24SEr2PzJkq5uairg"
+    },
+    {
+      "album": {
+        "name": "El Humo de la Juana",
+        "url": "https://open.spotify.com/album/2LxCMpN96v311O9blGAgX8"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Polybiu$",
+          "url": "https://open.spotify.com/artist/4mi6mNrapKGYdUfisWvcDH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164995,
+      "name": "El Humo de la Juana",
+      "url": "https://open.spotify.com/track/4QbXqODsG9QlZ0cwlYvOfk"
     },
     {
       "album": {
@@ -6182,6 +6230,24 @@
       "duration_ms": 214000,
       "name": "El Wizcas",
       "url": "https://open.spotify.com/track/7kmr2oDTv9irqWs6TGCkxC"
+    },
+    {
+      "album": {
+        "name": "Elemento Confidencial",
+        "url": "https://open.spotify.com/album/3QK9oFp2UJQyQbqokiqJNU"
+      },
+      "artists": [
+        {
+          "name": "MR Tyson",
+          "url": "https://open.spotify.com/artist/2wu9w7R9TJuxVQqm5l361K"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Elemento Confidencial",
+      "url": "https://open.spotify.com/track/3TCYdAQIyrPpqbP3om9N0G"
     },
     {
       "album": {
@@ -10627,6 +10693,28 @@
     },
     {
       "album": {
+        "name": "Makia",
+        "url": "https://open.spotify.com/album/1Y9L31kOYOYwGCOv4TLdI3"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167450,
+      "name": "Makia",
+      "url": "https://open.spotify.com/track/2pwqiLyqSPC5tvChw2J8I0"
+    },
+    {
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/6d5VzSMEzMJqwFEuzcqZka"
       },
@@ -14450,6 +14538,24 @@
       "duration_ms": 200602,
       "name": "Primer Corte",
       "url": "https://open.spotify.com/track/3fnfh96j22RDpBNQajdvf7"
+    },
+    {
+      "album": {
+        "name": "Primera Advertencia",
+        "url": "https://open.spotify.com/album/17PI0jhomAOPOBLYOVSjzG"
+      },
+      "artists": [
+        {
+          "name": "Union Fatal",
+          "url": "https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232563,
+      "name": "Primera Advertencia",
+      "url": "https://open.spotify.com/track/3TBydtJq4rmiHgceU2p8Bk"
     },
     {
       "album": {

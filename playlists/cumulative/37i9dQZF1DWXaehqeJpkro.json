@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Fancy belting out your favorite Korean songs?) (Cover: \ud55c\ub85c\ub85c (HANRORO))",
+  "description": "\uc9c0\uae08 \ub178\ub798\ubc29\uc5d0\uc11c \uac00\uc7a5 \ud56b\ud55c \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Fancy belting out your favorite Korean songs?) (Cover: WOODZ)",
   "name": "\ub178\ub798\ubc29 \uc778\uae30\uac00\uc694 (Karaoke K-Pop Bests)",
   "tracks": [
     {
@@ -360,6 +360,24 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "As Flowers Bloom and Fall",
+        "url": "https://open.spotify.com/album/4f2ONlcbBUFaPnbPEGl4au"
+      },
+      "artists": [
+        {
+          "name": "Jo Seung Woo",
+          "url": "https://open.spotify.com/artist/5Msp3jgTyvIgAbhCQIun0e"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216817,
+      "name": "As Flowers Bloom and Fall",
+      "url": "https://open.spotify.com/track/7LCWDYmsmIhe9KZiB57CVR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Pretty Pink, Lauren Mia
 
-6,629 songs - 22 day 18 hr 36 min
+6,629 songs - 22 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1194,6 +1194,7 @@
 | [Crane Song \- HnH Mix](https://open.spotify.com/track/4UWO61U1teHb6qIReXbYM8) | [Robert Dietz](https://open.spotify.com/artist/5WrS4X7vJdNVUXIMZFcDRi) | [Crane Song](https://open.spotify.com/album/2UVoqJTWRLL4bB1muL4zag) | 2:31 | 2024-05-02 | 2024-05-10 |
 | [Crank](https://open.spotify.com/track/1b1WyZunBus5nYfrNJ1Qc2) | [Oliver Huntemann](https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR) | [Crank](https://open.spotify.com/album/12kdmABQ7EiA1OKnmrsNTc) | 6:28 | 2024-11-14 | 2024-12-06 |
 | [Crank It Up](https://open.spotify.com/track/3BN1vfnIwNeHOrSRNJXW8N) | [Helang](https://open.spotify.com/artist/5LSoyfv32nSX2ECYL5Yiy3) | [Crank It Up](https://open.spotify.com/album/63s5KfuMP27RquFGT1zfYd) | 3:04 | 2025-04-03 | 2025-04-25 |
+| [Crash Goes Love](https://open.spotify.com/track/7rr0SKUlTYL587b3oICGzs) | [Momoda](https://open.spotify.com/artist/58ED0PDMaqpmw6y4nHwPvM) | [Crash Goes Love](https://open.spotify.com/album/0SohRoxRS1kjr0XvR6bw6M) | 4:54 | 2026-03-12 |  |
 | [Crave](https://open.spotify.com/track/1VNThqTH5v8gi02dplXrSw) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Crave](https://open.spotify.com/album/3jX2LlPJdLJo9l4q6OUEe1) | 4:22 | 2023-06-30 | 2023-07-21 |
 | [Craver](https://open.spotify.com/track/1gGUBYgzb038qQbALIvfX8) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [MASILLA](https://open.spotify.com/artist/5kNvtqUuq5Zq1uCryy7Nrh) | [Craver](https://open.spotify.com/album/3GUBob1Q8WP3YPN42jcLGv) | 2:29 | 2026-03-05 |  |
 | [Crawler](https://open.spotify.com/track/5pBucw37w7mT856uaYgRUP) | [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Crawler](https://open.spotify.com/album/0exawAoGc5Gqx3VO3UxNlJ) | 5:23 | 2022-07-07 | 2022-07-29 |
@@ -5180,6 +5181,7 @@
 | [So Alive](https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [So Alive](https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra) | 5:22 | 2023-07-20 | 2023-08-11 |
 | [So Am I](https://open.spotify.com/track/6yhHISXUUuX8ayrXF0mxo9) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Picture: Volkoder](https://open.spotify.com/album/1LL2XVTzO6xLRNMag9XtXV) | 3:11 | 2026-02-05 | 2026-02-27 |
 | [So Cold](https://open.spotify.com/track/478kvOP37KUNyqRoqy2VEq) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI) | [So Cold](https://open.spotify.com/album/4qXOKKdnz5H8EWtLNoThaW) | 3:10 | 2023-07-27 | 2023-08-18 |
+| [So Divine](https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [So Divine EP](https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs) | 3:09 | 2026-03-12 |  |
 | [So Far So Good](https://open.spotify.com/track/7evLcrrniiw3S0LA8F3P1v) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [So Far So Good](https://open.spotify.com/album/4Sb3rbT2NEaOfzy4wSpMCd) | 4:16 | 2023-06-16 | 2023-06-30 |
 | [So Good](https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [So Good](https://open.spotify.com/album/1KzSi6di0a0c4ZotbQuyBI) | 5:44 | 2024-04-04 | 2024-04-26 |
 | [So Hard So Hot \- Yotto Remix](https://open.spotify.com/track/7jxuK0A2WTp4J0GWL5tKXA) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [So Hard So Hot \(Yotto Remix\)](https://open.spotify.com/album/5kLe7KUMPVnQI8R81Qgo4B) | 3:52 | 2023-07-06 | 2023-07-28 |
@@ -5956,8 +5958,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/3Jw0Ll8KQ58RvNMZXgA7Aq) | [Deer Jade](https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv) | [So Divine EP](https://open.spotify.com/album/5OCpYdpNDtgpouukkMNQPs) | 0:00 | 2026-03-12 |  |
-| [Track 1](https://open.spotify.com/track/7rr0SKUlTYL587b3oICGzs) | [Momoda](https://open.spotify.com/artist/58ED0PDMaqpmw6y4nHwPvM) | [Crash Goes Love](https://open.spotify.com/album/0SohRoxRS1kjr0XvR6bw6M) | 0:00 | 2026-03-12 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

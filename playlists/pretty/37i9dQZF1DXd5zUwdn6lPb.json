@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 586965,
+  "num_followers": 587143,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268002,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 242333,
       "name": "Try",
       "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 268002,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -855,8 +855,8 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
-        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
+        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
       },
       "artists": [
         {
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
         }
       ],
-      "duration_ms": 268461,
-      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
-      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
+      "duration_ms": 151923,
+      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -955,8 +955,8 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-        "url": "https://open.spotify.com/album/4eYyEdtwong1g17SQMvbww"
+        "name": "J.S. Bach: Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+        "url": "https://open.spotify.com/album/06qLCT2VJCWRbxkJV7YvC8"
       },
       "artists": [
         {
@@ -964,13 +964,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Gabriele Bagnati",
-          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 151923,
-      "name": "Air Piano Variation (From Orchestral Suite No. 3, BWV 1068, Arr. for Piano by Svetoslav Karparov)",
-      "url": "https://open.spotify.com/track/4hgo2apb7EngXvnpQiYJBK"
+      "duration_ms": 268461,
+      "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
+      "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -995,8 +995,8 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "MAN\u00edA",
-        "url": "https://open.spotify.com/album/510ooESeRor4qHmIQzIj8K"
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
       },
       "artists": [
         {
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "James Rhodes",
-          "url": "https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh"
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
         }
       ],
-      "duration_ms": 470000,
-      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major, 'Lento sostenuto'",
-      "url": "https://open.spotify.com/track/0FKULDvNOHU1r3I4nKtwoJ"
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+        "name": "MAN\u00edA",
+        "url": "https://open.spotify.com/album/510ooESeRor4qHmIQzIj8K"
       },
       "artists": [
         {
@@ -1112,13 +1112,13 @@
           "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+          "name": "James Rhodes",
+          "url": "https://open.spotify.com/artist/5CDonRtIeV3ZYeE8nFjBUh"
         }
       ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+      "duration_ms": 470000,
+      "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major, 'Lento sostenuto'",
+      "url": "https://open.spotify.com/track/0FKULDvNOHU1r3I4nKtwoJ"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 138239,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
       "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2026-02-06 14:09:57",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-02-06 14:09:57",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
-    },
-    {
-      "added_at": "2026-02-06 14:09:57",
-      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+    },
+    {
+      "added_at": "2026-02-06 14:09:57",
+      "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+        }
+      ],
+      "duration_ms": 169659,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2026-02-06 14:09:57",

@@ -1229,6 +1229,28 @@
     },
     {
       "album": {
+        "name": "Chrysalis (Electronic)",
+        "url": "https://open.spotify.com/album/7v9kBvyMqa29tVSeLZu0FF"
+      },
+      "artists": [
+        {
+          "name": "Elias Braun",
+          "url": "https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202476,
+      "name": "Chrysalis - Electronic",
+      "url": "https://open.spotify.com/track/58CjMVyZtZoZBhsnIlDlHR"
+    },
+    {
+      "album": {
         "name": "Full Circle Reworks",
         "url": "https://open.spotify.com/album/456HZjogXSlOUsCkKmjoqC"
       },
@@ -2416,7 +2438,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 115124,
       "name": "Ghosts [Strings]",
       "url": "https://open.spotify.com/track/4SoEq0RSooiICciUo2pL5F"
@@ -4205,6 +4227,28 @@
     },
     {
       "album": {
+        "name": "Love Is The Cure",
+        "url": "https://open.spotify.com/album/6vKJFosGLicoqtwrW0bpVf"
+      },
+      "artists": [
+        {
+          "name": "Planet Of Souls",
+          "url": "https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu"
+        },
+        {
+          "name": "Samsaruh",
+          "url": "https://open.spotify.com/artist/1TsJYonLU3ogjhzPP9qOhu"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224886,
+      "name": "Love Is The Cure",
+      "url": "https://open.spotify.com/track/6bw4Uiz3QxgAiOHro34r20"
+    },
+    {
+      "album": {
         "name": "Love or Lust (Piano Rework)",
         "url": "https://open.spotify.com/album/68YwIbANNfUaCNZCPp8ucJ"
       },
@@ -4654,7 +4698,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184149,
       "name": "Mercury - Durante Ambient Edit",
       "url": "https://open.spotify.com/track/3XhJvC5B0smhtRZxJJ0xEI"

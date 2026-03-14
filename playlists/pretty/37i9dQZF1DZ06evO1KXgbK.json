@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255194,
+  "num_followers": 255198,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACUByslOKF/DnB/gQ66hIyU",
+  "snapshot_id": "abICAAAAAAAp2O/Wy9INKOQGJrMT5+/Z",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
-      },
-      "artists": [
-        {
-          "name": "Sabyn",
-          "url": "https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 231044,
-      "name": "9 to 5 to 9",
-      "url": "https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
+      },
+      "artists": [
+        {
+          "name": "Sabyn",
+          "url": "https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 231044,
+      "name": "9 to 5 to 9",
+      "url": "https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH"
     },
     {
       "added_at": null,

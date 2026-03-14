@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-170 songs - 12 hr 39 min
+171 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 | 2024-09-21 |
 | [Abandono](https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q) | [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Relembrando Canções, Vol\. 01](https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF) | 3:40 | 2024-08-23 | 2025-01-18 |
 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 | 2022-09-02 | 2023-02-04 |
-| [Adorarei](https://open.spotify.com/track/78emLVVS8NjCN3bksMeKKv) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Acústico, Vol\. 4](https://open.spotify.com/album/1SdnAD8W9tPuULdYDZGuhm) | 3:53 | 2024-11-29 |  |
+| [Adorarei](https://open.spotify.com/track/78emLVVS8NjCN3bksMeKKv) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Acústico, Vol\. 4](https://open.spotify.com/album/1SdnAD8W9tPuULdYDZGuhm) | 3:53 | 2024-11-29 | 2026-03-14 |
 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 | 2022-09-02 |  |
 | [Algo Novo \- Acústico](https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Acústico\)](https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG) | 3:37 | 2022-09-02 |  |
 | [Alguém Como Eu](https://open.spotify.com/track/6kbcLo1Sgi5OjzEvtdgxyy) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Alguém Como Eu](https://open.spotify.com/album/6gO3nrarrqWVwBYDnjTjrr) | 4:13 | 2023-11-03 | 2023-11-25 |
@@ -176,6 +176,7 @@
 | [Valeu a Pena](https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw), [Esdras Gondim](https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb) | [Valeu a Pena](https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48) | 3:57 | 2022-09-02 |  |
 | [Valeu a Pena: Releitura](https://open.spotify.com/track/49pcbzSIk8GU3SZ1geQowm) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Mari Marques](https://open.spotify.com/artist/6Fi2a2JgeYRENRKPCdXTwS) | [Releituras](https://open.spotify.com/album/2tg2BbJGxG6ygnGLGFJ0aT) | 3:54 | 2022-09-02 | 2023-04-16 |
 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 | 2022-09-02 |  |
+| [Viver Em Comunhão \- Acústico Ao Vivo](https://open.spotify.com/track/2NkA66BkNG4qINmvobpcvz) | [Audiolife](https://open.spotify.com/artist/0eqZOtRbGGZr49typLoBH2), [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [W2B Music](https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr) | [Viver Em Comunhão](https://open.spotify.com/album/7vpCq0TqxtBc8Ye0K0ZHCb) | 2:39 | 2026-03-13 |  |
 | [Vulnerável \- Acústico](https://open.spotify.com/track/6Q24Gewxq13E2nBwuAEsxa) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Vulnerável \(Acústico\)](https://open.spotify.com/album/2C25ASgEB7G9HYCmvJpkXZ) | 3:45 | 2023-02-11 | 2023-03-12 |
 | [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \(Acústico\)](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 | 2024-08-30 |  |
 

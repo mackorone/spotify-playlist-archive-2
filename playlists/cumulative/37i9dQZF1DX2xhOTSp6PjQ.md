@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Phangandawo
+> Khuphuka lapho… seku\-late! Cover: Lihle Xhakaza
 
 287 songs - 22 hr 43 min
 

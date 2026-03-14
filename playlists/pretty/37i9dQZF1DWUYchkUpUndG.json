@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: Neon Adejo",
-  "num_followers": 49842,
+  "num_followers": 49969,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-03-13 00:01:17",
       "album": {
+        "name": "Levite's Creed",
+        "url": "https://open.spotify.com/album/6zR47IMQ7GVOJMcezJVj7b"
+      },
+      "artists": [
+        {
+          "name": "Asher Ruona",
+          "url": "https://open.spotify.com/artist/1BoUFYw1TmMEDrqpNuH3G6"
+        }
+      ],
+      "duration_ms": 730331,
+      "name": "Levite's Creed",
+      "url": "https://open.spotify.com/track/6fJ4kzxS1IkJiTymMNyGRC"
+    },
+    {
+      "added_at": "2026-03-13 00:01:17",
+      "album": {
         "name": "Can't Go Nowhere",
         "url": "https://open.spotify.com/album/6pj7GyNOfPJmHcG1xReDaV"
       },
@@ -740,8 +756,8 @@
           "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 175250,
+      "name": "Repairman",
       "url": "https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M"
     },
     {
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2026-03-13 00:01:17",
       "album": {
+        "name": "Hanthe Jesu o na mpona (Instrumental)",
+        "url": "https://open.spotify.com/album/1swQkGoLPlcNEWx1WSLtIM"
+      },
+      "artists": [
+        {
+          "name": "Kea Studios",
+          "url": "https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Hanthe Jesu o na mpona - Instrumental",
+      "url": "https://open.spotify.com/track/1fYRdySGsJx9SHh3nrrbGo"
+    },
+    {
+      "added_at": "2026-03-13 00:01:17",
+      "album": {
         "name": "No Equal",
         "url": "https://open.spotify.com/album/4PhJzcq83nvdy4OoJ8mRHL"
       },
@@ -1652,8 +1684,8 @@
           "url": "https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6"
         },
         {
-          "name": "Icon lamaf",
-          "url": "https://open.spotify.com/artist/0p2lSUwwgamVRW94WtxfOd"
+          "name": "Icon Lamaf",
+          "url": "https://open.spotify.com/artist/39EBQatJevxUioe4lnkNym"
         },
         {
           "name": "Wade Yarrow",

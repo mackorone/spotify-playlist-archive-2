@@ -1,6 +1,6 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 1008937,
+  "num_followers": 1008916,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Stop Stealing The Covers!",
-        "url": "https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah"
-      },
-      "artists": [
-        {
-          "name": "Edith Whiskers",
-          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Stop Stealing The Covers!",
+        "url": "https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah"
+      },
+      "artists": [
+        {
+          "name": "Edith Whiskers",
+          "url": "https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 170363,
-      "name": "I Only Hope to Feel Love",
-      "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 223506,
       "name": "Northsiders",
       "url": "https://open.spotify.com/track/4EPLcAKK32fBbMi8yu4aSd"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "New Star",
+      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Watchhouse",
-        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
       },
       "artists": [
         {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
         }
       ],
-      "duration_ms": 185728,
-      "name": "New Star",
-      "url": "https://open.spotify.com/track/5XCySQu79sw9DDCuAjdn2R"
+      "duration_ms": 170363,
+      "name": "I Only Hope to Feel Love",
+      "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Sleepless in Seattle",
+      "url": "https://open.spotify.com/track/1NwqQ7E9NfQ4GW2a9LDMNI"
+    },
+    {
+      "added_at": "2025-01-10 05:00:40",
+      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
-    },
-    {
-      "added_at": "2025-01-10 05:00:40",
-      "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Sleepless in Seattle",
-      "url": "https://open.spotify.com/track/1NwqQ7E9NfQ4GW2a9LDMNI"
     },
     {
       "added_at": "2025-01-10 05:00:40",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2025-01-10 05:00:40",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     }
   ],
   "unique_name": "wanderlust",

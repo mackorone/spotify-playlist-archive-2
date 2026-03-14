@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Tessellated
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,105,657 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,604 likes - 70 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 59 | [Summertime](https://open.spotify.com/track/0qVi78o4X4gi3jHpDaLhED) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Summertime](https://open.spotify.com/album/5H8lZKP8gKPxdLVYDCXZmO) | 3:08 |
 | 60 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
 | 61 | [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 |
-| 62 | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG) | [KA$E](https://open.spotify.com/artist/11p4fDNXEPs2gMtNVEYmKG), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB) | 2:48 |
-| 63 | [Gunman Town](https://open.spotify.com/track/48r2Nnf0nBUbcBMgIzuXkW) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Gunman Town](https://open.spotify.com/album/41GAvPH9GV6aLrwGZnJ19X) | 2:50 |
+| 62 | [Gunman Town](https://open.spotify.com/track/48r2Nnf0nBUbcBMgIzuXkW) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Gunman Town](https://open.spotify.com/album/41GAvPH9GV6aLrwGZnJ19X) | 2:50 |
+| 63 | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG) | [KA$E](https://open.spotify.com/artist/11p4fDNXEPs2gMtNVEYmKG), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Loud City](https://open.spotify.com/artist/32qMqnULiJK7mNiYKrx3P1) | [By Any Mean$ \(with Jesse Royal\)](https://open.spotify.com/album/2Hrl1LzZTfBQ9yyr0ME1rB) | 2:48 |
 | 64 | [Alert](https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Irie Ites](https://open.spotify.com/artist/0ypDXMZA9gXwM7ulFUOHY3) | [Alert](https://open.spotify.com/album/5oV2GCECRmisn7MnTFOBAc) | 2:59 |
 | 65 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 |
 | 66 | [Jungle](https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Jungle](https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE) | 2:21 |

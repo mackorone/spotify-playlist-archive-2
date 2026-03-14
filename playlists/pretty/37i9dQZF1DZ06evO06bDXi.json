@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABN4Eh41s1/vfof+UlNq8p+",
+  "snapshot_id": "abICAAAAAACSn9TGnsKoWwFEXPp7oEqK",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
-      "url": "https://open.spotify.com/track/3RUBMVfbweULyfoVMXTOLV"
+      "duration_ms": 183906,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
+      "url": "https://open.spotify.com/track/57ctGLtp2RlKv5SHDn8i6f"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4RkU7dxppCNi2078hPMUI4"
         }
       ],
-      "duration_ms": 183906,
-      "name": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
-      "url": "https://open.spotify.com/track/57ctGLtp2RlKv5SHDn8i6f"
+      "duration_ms": 196826,
+      "name": "Vivaldi: The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "url": "https://open.spotify.com/track/3RUBMVfbweULyfoVMXTOLV"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Solo Violin Sonatas",
-        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
-      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -1007,26 +987,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+        "name": "Works for Two Violins",
+        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
       },
       "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
         }
       ],
-      "duration_ms": 316426,
-      "name": "Remembrances",
-      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+      "duration_ms": 135000,
+      "name": "3 Violin Duets (1996 Digital Remaster): II. Gavotte",
+      "url": "https://open.spotify.com/track/0M40vjkiQFs1Vu1tJfEToY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Solo Violin Sonatas",
+        "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Bach, JS: Sonata for Solo Violin No. 1 in G Minor, BWV 1001: IV. Presto",
+      "url": "https://open.spotify.com/track/7ftsdGd4xeqDvpTjJbCdyO"
     },
     {
       "added_at": null,
@@ -1063,22 +1059,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Works for Two Violins",
-        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 135000,
-      "name": "3 Violin Duets (1996 Digital Remaster): II. Gavotte",
-      "url": "https://open.spotify.com/track/0M40vjkiQFs1Vu1tJfEToY"
+      "duration_ms": 316426,
+      "name": "Remembrances",
+      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beethoven: Violin Concerto, Op. 61",
+        "url": "https://open.spotify.com/album/3BqyqCJKKJb9G5Hw3dx0Zy"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Carlo Maria Giulini",
+          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 564373,
+      "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto -",
+      "url": "https://open.spotify.com/track/6bTCLiehVxx9FBKJBw9Yyi"
     },
     {
       "added_at": null,
@@ -1111,34 +1139,6 @@
       "duration_ms": 259600,
       "name": "For the World",
       "url": "https://open.spotify.com/track/5U2eLcIC0k1gHAnlJCLqai"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beethoven: Violin Concerto, Op. 61",
-        "url": "https://open.spotify.com/album/3BqyqCJKKJb9G5Hw3dx0Zy"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Carlo Maria Giulini",
-          "url": "https://open.spotify.com/artist/7LeEa79J3ePCT5pXKQ7Mkv"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 564373,
-      "name": "Beethoven: Violin Concerto in D Major, Op. 61: II. Larghetto -",
-      "url": "https://open.spotify.com/track/6bTCLiehVxx9FBKJBw9Yyi"
     },
     {
       "added_at": null,

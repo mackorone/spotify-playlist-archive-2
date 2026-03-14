@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > ¡Disfruta de las canciones pop con Juan Carlos Bodoque y Tulio Triviño!
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,028 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,027 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mi Equilibrio Espiritual](https://open.spotify.com/track/4Qs3OEgzBPGPmRR5QJ0UIs) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Freddy Turbina](https://open.spotify.com/artist/1FUkxBFhROt3Eol4fzle1Z) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 2:25 |
-| 2 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
+| 1 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
+| 2 | [Alas \- Versión 2026 \- De "Soy Luna" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 |
 | 3 | [Tik Tok](https://open.spotify.com/track/0hnZBJrL2YIpLX0E3Bc9Us) | [Kardenas HK3](https://open.spotify.com/artist/3tmacOSHtx3qPuLzpo54Y5) | [Tik Tok](https://open.spotify.com/album/7s8q0JJIToRswzmlwpzs6w) | 2:51 |
 | 4 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
 | 5 | [Bailan Sin Cesar](https://open.spotify.com/track/3nhnk5hWPvxdCcv69IgMRO) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG), [Latidos Latinos Unidos Emergentes Hip\-Hop Hermanos Brothers](https://open.spotify.com/artist/2W7e4XFD8jPj8KzzdC6PvS) | [31 Minutos](https://open.spotify.com/album/5F7dnLUwdrbhEReS86ebyG) | 1:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 49 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
 | 50 | [Shake It Off \(Taylor's Version\)](https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:39 |
 
-Snapshot ID: `AAAAAFA6DzDTvWI+rgc77CHyA3Upo24z`
+Snapshot ID: `AAAAAEf/QJ6mwu1qmSbTAz3eMOaET+xj`

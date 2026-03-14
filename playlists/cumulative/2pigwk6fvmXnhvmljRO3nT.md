@@ -4,7 +4,7 @@
 
 > 
 
-8,499 songs - 21 day 15 hr 27 min
+8,502 songs - 21 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3398,6 +3398,7 @@
 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-05-29 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2025-01-03 |  |
 | [Just What I Am](https://open.spotify.com/track/20bJBbPapGQ4bqs0YcA9xY) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [King Chip](https://open.spotify.com/artist/5NjUjtjtkzZqRuWFdspT1K) | [Indicud](https://open.spotify.com/album/262o5a05pMUDSV2uzo5EwQ) | 3:48 | 2025-01-03 |  |
+| [JUSTadICE](https://open.spotify.com/track/6IVM1YYZq6K6NG6qqC26o4) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [JUSTadICE](https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE) | 3:52 | 2026-03-13 |  |
 | [Justin](https://open.spotify.com/track/3hKvzj76LffbRbzdM8Grof) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Dark Times](https://open.spotify.com/album/30BFY5VHii4PyWqkTubUWX) | 2:04 | 2025-01-15 |  |
 | [Justin Scott](https://open.spotify.com/track/1UDjtsG3E7KTGL4yay5nr7) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [4eva Is A Mighty Long Time](https://open.spotify.com/album/2OteKdXf1PYPQF2omNOISk) | 4:00 | 2024-12-10 |  |
 | [K POP](https://open.spotify.com/track/00iLTetTLAeImmBlh6jOJh) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:52 | 2025-03-25 |  |
@@ -7339,6 +7340,7 @@
 | [You Said \(feat\. Quavo\)](https://open.spotify.com/track/1gUakci7HwPcImtp0i79N3) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 6:42 | 2025-01-15 |  |
 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 | 2025-05-09 |  |
 | [You Still Take Me To The Light](https://open.spotify.com/track/0O3Pb33KINQl8t04jGOrX2) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [You Still Take Me To The Light](https://open.spotify.com/album/6oFQl7pwUemwqjp1rUmO1t) | 3:28 | 2025-01-03 |  |
+| [You Suck at Love](https://open.spotify.com/track/77hwX9Akupyg4TdPIf0s6a) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Get Your Heart On!](https://open.spotify.com/album/7hWHxMRVmCLi1nXXrijalR) | 3:11 | 2026-03-13 |  |
 | [You Was Right](https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lil Uzi Vert vs\. The World](https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM) | 2:43 | 2025-01-03 |  |
 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2025-01-03 |  |
 | [You&I](https://open.spotify.com/track/6nqXh3vnt1mMRYVIK6SL0L) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/5CWesejcPaGkUPNauwwSXv) | 3:35 | 2025-01-03 |  |
@@ -7482,6 +7484,7 @@
 | [ふゆびより](https://open.spotify.com/track/08atpBEogaRGz58N7yVi0J) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ふゆびより\(TVアニメ「ゆるキャン△」EDテーマ\)](https://open.spotify.com/album/4M5mceOoTiPvE9bPXSy1iN) | 4:37 | 2025-01-15 |  |
 | [ほうき星](https://open.spotify.com/track/3nfZrNSXZfonDEA9RuzTOq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星 / タッチ BESTタッグ](https://open.spotify.com/album/5lBe0TGgWsuJlM9eOYNOcD) | 3:17 | 2025-01-15 | 2025-09-28 |
 | [ほうき星](https://open.spotify.com/track/5nDurRPt24Rtl2sMnhMoyD) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星](https://open.spotify.com/album/3F00qiSI5y2JiM39TCdoQG) | 3:17 | 2025-01-15 |  |
+| [ぼなぺてぃーと▽S](https://open.spotify.com/track/2C7DrdqoU4U7Wc0vZRVi21) | [ブレンド・A](https://open.spotify.com/artist/1djn2nFD39MVfBAYV3S7M2) | [ぼなぺてぃーと▽S／デタラメなマイナスとプラスにおけるブレンド考](https://open.spotify.com/album/4K3CsZTPVv5qnYu73aXeZ8) | 4:15 | 2026-03-13 |  |
 | [また明日\(Alternate Version\)](https://open.spotify.com/track/5GQWKr06DK6EP2ckpXMS4C) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Confidential](https://open.spotify.com/album/7APNVXBJuVVqeqkJG1CMMT) | 4:24 | 2025-01-04 |  |
 | [また逢う日まで](https://open.spotify.com/track/3awymLmIrvn9lkJeFpmRSf) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Slow & Easy](https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8) | 4:15 | 2025-01-03 |  |
 | [まちがいさがし](https://open.spotify.com/track/1YykWT9Ry8SNMp4Y1tUhKJ) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/0iSNkxOcMtCmuOb59ityJG) | 3:43 | 2025-01-15 |  |

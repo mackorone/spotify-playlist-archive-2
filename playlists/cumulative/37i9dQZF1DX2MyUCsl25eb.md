@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-961 songs - 2 day 7 hr 30 min
+963 songs - 2 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [i hope i never fall in love](https://open.spotify.com/track/0cReJwYGe3GlKZ54PDzCm6) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [i hope i never fall in love](https://open.spotify.com/album/5mc2oRLJlsEleIHtNzQ1Zz) | 3:36 | 2024-07-12 |  |
 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 | 2024-01-26 | 2024-05-03 |
 | [I Just Don't Think I'll Ever Get Over You](https://open.spotify.com/track/2IR01O6kw4IB68hcV9FWYN) | [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Transcendental Highway](https://open.spotify.com/album/6ooDMq5QxVHFeMootZ7D7m) | 5:28 | 2021-08-04 | 2022-04-21 |
+| [I just wanna be happy](https://open.spotify.com/track/2aFPZQGmRmp3vUhiclA3r0) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [I just wanna be happy](https://open.spotify.com/album/32UHmeBh71WnfehWxbCS0g) | 2:34 | 2026-03-13 |  |
 | [I Just Wanna Dance](https://open.spotify.com/track/0yNEwSPh242GgcGexlQpi3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:07 | 2024-03-08 | 2025-03-15 |
 | [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 | 2022-11-02 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
@@ -468,7 +469,7 @@
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2023-07-08 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-10-06 | 2023-11-25 |
 | [Keep on Climbing](https://open.spotify.com/track/1QmNu2gHovCjrZw7tOtJOA) | [Tyrone Wells](https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR) | [Who We Are](https://open.spotify.com/album/62emu7l49XpSy9iHX8fDTK) | 3:05 | 2022-03-11 | 2022-04-19 |
-| [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 | 2024-05-03 |  |
+| [Kids](https://open.spotify.com/track/6EmYpFjAcFMF5dt2krHSSt) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Kids](https://open.spotify.com/album/3A7lw3LCydkMHdvFS7nv1K) | 2:58 | 2024-05-03 | 2026-03-14 |
 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 | 2022-02-25 | 2023-01-28 |
 | [Kingdom](https://open.spotify.com/track/2Bt7na3WTuKepNlGw5WM9y) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/2LHeOpeUN55W1hj1YD3azL) | 3:28 | 2022-05-27 | 2022-06-04 |
 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 | 2021-08-04 | 2022-03-31 |
@@ -859,7 +860,7 @@
 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 | 2021-08-04 | 2022-04-01 |
 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:51 | 2023-03-10 | 2023-08-26 |
 | [Tiebreaker](https://open.spotify.com/track/2jQrCn5lMF1tnICJ0sv1qZ) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Tiebreaker](https://open.spotify.com/album/3bwXvL4RrCIHPRNKJt0nxb) | 3:59 | 2022-03-25 | 2022-07-29 |
-| [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 | 2024-07-26 |  |
+| [Time Well Wasted](https://open.spotify.com/track/3aiuUpr6enuPjTyZcFhUlS) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Time Well Wasted](https://open.spotify.com/album/5QS64j2i3oaXlx3LdUwU45) | 2:50 | 2024-07-26 | 2026-03-14 |
 | [To Die For](https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [To Die For](https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf) | 3:13 | 2021-08-04 | 2022-08-13 |
 | [Tomorrow Can Wait](https://open.spotify.com/track/5MpQv6ULtezyLFtnx8VX1M) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Tomorrow Can Wait](https://open.spotify.com/album/5xLYRqDmG1UGElZqLwVFVU) | 3:10 | 2022-10-07 | 2023-05-20 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-03-01 | 2024-03-16 |
@@ -917,6 +918,7 @@
 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 | 2023-05-05 | 2023-06-24 |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 | 2024-02-03 |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/7ze7X8r4fopBs9ZRtwYFOX) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [When Am I Gonna Lose You / Café Amarillo](https://open.spotify.com/album/5H8ISmLN3YojIx9mM9CslN) | 4:24 | 2021-08-04 | 2022-04-01 |
+| [When Did You Stop Loving Me?](https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft 2](https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte) | 3:50 | 2026-03-13 |  |
 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 | 2023-02-17 | 2025-04-12 |
 | [When The Lights Go Out](https://open.spotify.com/track/7xY5PbhYQgCCbpfpn7HDT9) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX) | 3:18 | 2021-10-01 | 2022-11-05 |
 | [When Ur Mad](https://open.spotify.com/track/3TRmdYcOKFEmTWeJJKiatY) | [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [Trip Around Saturn \(Deluxe\)](https://open.spotify.com/album/5mttq7YspopoXm1YxZCez5) | 3:27 | 2022-11-04 | 2022-12-17 |

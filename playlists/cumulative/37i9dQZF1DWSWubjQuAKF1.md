@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Daniel Godson
 
-769 songs - 1 day 13 hr 35 min
+770 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [come over?](https://open.spotify.com/track/5Y1REJUiVtJGGUAqTEphWz) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [come over?](https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ) | 2:40 | 2025-01-23 | 2025-07-18 |
 | [comeback!](https://open.spotify.com/track/5fCioQ9fV5gDORRTRTC0j7) | [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [comeback!](https://open.spotify.com/album/5mUXseiDHWqq7GeGte41aq) | 2:16 | 2025-04-17 | 2025-06-06 |
 | [coraline](https://open.spotify.com/track/35UnweHI2mOrBbIIlYNClF) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [coraline](https://open.spotify.com/album/5mfxTjYFFXaQ1MIqxybwU2) | 2:49 | 2025-01-30 | 2025-03-21 |
+| [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-03-12 |  |
 | [cytryny](https://open.spotify.com/track/2kALiinvsN4vscBG29IvL7) | [villaz](https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U) | [cytryny](https://open.spotify.com/album/7ff1IXrHp9ownWMMZC2KdK) | 4:24 | 2025-01-23 | 2025-02-21 |
 | [Czas](https://open.spotify.com/track/7qj1lu6yxDl5GTnSItuIdh) | [Filip Max](https://open.spotify.com/artist/2Af5aejlBF2UrIn1xmPWJ5) | [Czas](https://open.spotify.com/album/0W6CLUac2XfDjfURHOzF4V) | 2:06 | 2025-09-30 | 2025-11-02 |
 | [Czas](https://open.spotify.com/track/2TnAYZzFHlBG42HtRItZ04) | [Markus ivi](https://open.spotify.com/artist/2tqi9ifoIBbWNsUxzzscaY) | [Ptaki](https://open.spotify.com/album/5ZCDmvazUKV7RbKBSQX9Di) | 3:55 | 2025-06-19 | 2025-09-05 |
@@ -242,12 +243,12 @@
 | [Happy End](https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Happy End](https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [have fun bby](https://open.spotify.com/track/1HEBn1kTxE6fwDofeN1abq) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [have fun bby](https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6) | 2:36 | 2026-03-05 |  |
 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 | 2025-01-30 | 2025-07-04 |
-| [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 | 2026-03-12 |  |
+| [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Michał Rajca](https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 | 2026-03-12 |  |
 | [hibernacja](https://open.spotify.com/track/22XLWNDIzzHxYgNgRcbbYg) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn) | [hibernacja](https://open.spotify.com/album/0y6NHNQH4IpchUC8p79ay5) | 2:54 | 2025-10-14 | 2025-11-05 |
 | [hold my hand \- na podstawie serii "Friends" Aleksandry Negrońskiej](https://open.spotify.com/track/12mIstRUj9otCIpO6ZLXUa) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [hold my hand \(na podstawie serii "Friends" Aleksandry Negrońskiej\)](https://open.spotify.com/album/5LbaE7Z96J1aNDz3gFUw4i) | 3:41 | 2025-01-23 | 2025-03-08 |
 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 | 2025-07-03 | 2025-09-17 |
 | [Hold The Light](https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Hold The Light](https://open.spotify.com/album/2SdhyWpB8qATf1p5nzXN37) | 2:56 | 2025-01-23 | 2025-03-21 |
-| [Hollywoodzkie role](https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Hollywoodzkie role](https://open.spotify.com/album/5NhnsgRayVHZgKqTpSzE0i) | 2:42 | 2026-02-05 |  |
+| [Hollywoodzkie role](https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Hollywoodzkie role](https://open.spotify.com/album/5NhnsgRayVHZgKqTpSzE0i) | 2:42 | 2026-02-05 | 2026-03-14 |
 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 | 2025-02-06 | 2025-03-28 |
 | [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 | 2024-08-22 | 2025-01-24 |
 | [I Just Need A Friend](https://open.spotify.com/track/407q3NjRIfCG4N75zPeTsU) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [I Just Need A Friend](https://open.spotify.com/album/50MKOk88z1L7iwhvSyxNTI) | 2:58 | 2024-06-28 | 2024-07-05 |

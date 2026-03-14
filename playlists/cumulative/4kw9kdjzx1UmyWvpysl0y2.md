@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,190 songs - 2 day 18 hr 20 min
+1,191 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,6 +783,7 @@
 | [Palm Of Your Hand](https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Palm Of Your Hand](https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio) | 3:35 | 2025-10-10 | 2026-01-15 |
 | [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 | 2024-11-23 |
 | [Paradise](https://open.spotify.com/track/0DrCOcgrsmY1fjiDjt3JEN) | [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Silk Selections 06](https://open.spotify.com/album/18ePX3brO8fQvulAwFNvNR) | 2:58 | 2025-12-16 |  |
+| [Paralyzed](https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Paralyzed](https://open.spotify.com/album/0GV0Mgwiwx7SdKemncmVbi) | 2:52 | 2026-03-13 |  |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Pay Respect](https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [FRAXURE](https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Pay Respect](https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G) | 3:40 | 2025-03-28 | 2025-06-24 |
 | [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 | 2024-08-29 | 2024-11-22 |

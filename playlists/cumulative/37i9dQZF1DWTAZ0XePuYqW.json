@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "Shelailai's got that big energy. ",
+  "description": "Buddy's got that big energy. ",
   "name": "Bounce",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 141230,
       "name": "4PLAY - Remix",
       "url": "https://open.spotify.com/track/6rV8LTBkeWiJA5G3KkQ1Pn"
@@ -3393,6 +3393,28 @@
     },
     {
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/2rVrgKwvQKGHe9wPjvpsDa"
+      },
+      "artists": [
+        {
+          "name": "Shy One",
+          "url": "https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ"
+        },
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253725,
+      "name": "Driving On Sand",
+      "url": "https://open.spotify.com/track/1XKrSSrclVXSAsrTK0E6y9"
+    },
+    {
+      "album": {
         "name": "Dump All Your Worries on the Dance Floor",
         "url": "https://open.spotify.com/album/0Jcwe17QFJrA8Yny6hJxy4"
       },
@@ -5425,6 +5447,28 @@
     },
     {
       "album": {
+        "name": "House Jam",
+        "url": "https://open.spotify.com/album/0pKBP05mxza4KvXQbniKoN"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "FAUCET",
+          "url": "https://open.spotify.com/artist/5BlglOc7NoqrjoXtypMBVn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276190,
+      "name": "House Jam",
+      "url": "https://open.spotify.com/track/5nputVTyUHyggGzxKP1er4"
+    },
+    {
+      "album": {
         "name": "House of Blues (feat. Big K.R.I.T., Curren$y & Girl Talk)",
         "url": "https://open.spotify.com/album/6xjCkh4iZgNvClGhi36WIr"
       },
@@ -5782,6 +5826,28 @@
       "duration_ms": 183272,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/4UGBZOfhpyFGu62NqXVZAQ"
+    },
+    {
+      "album": {
+        "name": "In This Bih'",
+        "url": "https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210923,
+      "name": "In This Bih'",
+      "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
     },
     {
       "album": {
@@ -7136,7 +7202,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 202133,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/3toVjdlPnJzbBhh6qUnyoK"
@@ -9210,6 +9276,24 @@
       "duration_ms": 151111,
       "name": "PROLLY US",
       "url": "https://open.spotify.com/track/0MrC4TPiI18N38Ga7Cl4qO"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "album": {
@@ -12240,7 +12324,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 131250,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
@@ -12312,7 +12396,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 187014,
       "name": "UNTITLED 1981",
       "url": "https://open.spotify.com/track/61RCyIHnmBpbNNvVNNHe0F"

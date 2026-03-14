@@ -86267,6 +86267,32 @@
     },
     {
       "album": {
+        "name": "Mannen Som D\u00f8de St\u00e5ende",
+        "url": "https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        },
+        {
+          "name": "Ousu Leigh",
+          "url": "https://open.spotify.com/artist/6CpjPG0lD6QJlkrCrNpdH4"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244413,
+      "name": "Ingen Meg Uten Deg",
+      "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
+    },
+    {
+      "album": {
         "name": "BACK2BASICS",
         "url": "https://open.spotify.com/album/1K6ocPEoGkoYJNh539UNfu"
       },
@@ -149319,6 +149345,24 @@
     },
     {
       "album": {
+        "name": "Something to Hope For",
+        "url": "https://open.spotify.com/album/649xH0ILrI0AxbpCEZlsOS"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174270,
+      "name": "Something to Hope For",
+      "url": "https://open.spotify.com/track/2mXJUvkWU4buVwVr34FUlf"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/41Mvg2Uxy2MG3ChxKA2vlL"
       },
@@ -168531,42 +168575,6 @@
     },
     {
       "album": {
-        "name": "WHERE DO I GO?",
-        "url": "https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt"
-      },
-      "artists": [
-        {
-          "name": "OLIIVER",
-          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"
-    },
-    {
-      "album": {
-        "name": "Mannen Som D\u00f8de St\u00e5ende",
-        "url": "https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
-    },
-    {
-      "album": {
         "name": "d.a.t.a.d.e.a.t.h.",
         "url": "https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd"
       },
@@ -180876,6 +180884,24 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
+    },
+    {
+      "album": {
+        "name": "WHERE DO I GO?",
+        "url": "https://open.spotify.com/album/4sIC55nFfEL0Gy7RRYAgbt"
+      },
+      "artists": [
+        {
+          "name": "OLIIVER",
+          "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129634,
+      "name": "WHERE DO I GO?",
+      "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-350 songs - 21 hr 49 min
+353 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-09 | 2026-02-04 |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-12 | 2025-12-12 |
 | [Don't Wanna](https://open.spotify.com/track/2ZUpvS0jEJ0pfnRXB5dn7A) | [Empty Head](https://open.spotify.com/artist/6UWKEdxaXbMMQYtIyBWe9X) | [Don't Wanna](https://open.spotify.com/album/1UdvKOk5LxOXyaKhhPmg4l) | 4:19 | 2025-11-21 | 2025-12-12 |
+| [Don’t Let Your Boyfriends Go to Europe](https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1) | [Gardening Club](https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg) | [Don’t Let Your Boyfriends Go to Europe / America](https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8) | 3:33 | 2026-03-13 |  |
 | [Dove potremmo volare](https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:07 | 2026-01-11 | 2026-02-04 |
 | [Down to My Feet](https://open.spotify.com/track/2DlausN3Iu4vDkdAID6w2c) | [Tuesday Morality](https://open.spotify.com/artist/2cFjxotbhCT7shNvSC4NxS) | [PARASITES](https://open.spotify.com/album/0OYvlXzuH05dKaP9uLsjYa) | 5:03 | 2025-12-05 | 2025-12-28 |
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2025-11-26 | 2026-01-21 |
@@ -121,6 +122,7 @@
 | [FLOWER CHILD](https://open.spotify.com/track/0PYoxGNSQo2kMZWwSE8lcH) | [Krista Hartman](https://open.spotify.com/artist/0kwEEdnKa1I4oELZFRA6kN) | [Transcend](https://open.spotify.com/album/5CFY6AXx0tLDqkzbVpoUSu) | 4:22 | 2026-01-31 | 2026-02-18 |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 | 2026-01-05 |
+| [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-14 |  |
 | [Forever And Ever](https://open.spotify.com/track/6FkZz1WwonBHvyu6ytNIux) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Forever And Ever](https://open.spotify.com/album/1Uu9MJvs7qF8meXMwCLPUk) | 4:06 | 2026-02-14 |  |
 | [Forevermore](https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4) | [Emsea](https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u) | [Forevermore](https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0) | 2:42 | 2026-02-07 | 2026-03-04 |
 | [Full Sway](https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Full Sway](https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX) | 3:39 | 2026-02-20 |  |
@@ -298,6 +300,7 @@
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-13 | 2026-01-05 |
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2025-12-28 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-06 | 2025-12-28 |
+| [The Kingdom](https://open.spotify.com/track/3ajLHTSHgtYmONgZBJjxZi) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Kingdom](https://open.spotify.com/album/1z6kqRlNo0i9j5weIERsa4) | 3:49 | 2026-03-14 |  |
 | [The Longest Time](https://open.spotify.com/track/0unM5Lavi7GnYL2cL1KJYi) | [Little Beast](https://open.spotify.com/artist/1VtBno35V1m2SDlvNwaWbY) | [The Longest Time](https://open.spotify.com/album/2y1ZM2E7RxgzgXeDijbnl7) | 4:30 | 2025-11-11 | 2025-12-12 |
 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 | 2026-02-10 | 2026-03-04 |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2025-12-29 | 2026-01-29 |

@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: DLKC, Narysal
 
-1,290 songs - 2 day 22 hr 18 min
+1,291 songs - 2 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [afterglow \(feat\. YAØ\)](https://open.spotify.com/track/3I46nkqKk8gV1fjhOy2RY0) | [owellciao](https://open.spotify.com/artist/5S9GPm0jvveRHL8QNWircV), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [afterglow \(feat\. YAØ\)](https://open.spotify.com/album/3ZR5OdTM2QShKcrZzpznbb) | 2:46 | 2025-08-28 | 2025-10-31 |
 | [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 | 2024-08-22 | 2024-09-13 |
 | [AH BENG MEH? \(feat\. Simonboy & Tommy\) \- Remix](https://open.spotify.com/track/5DmkcNarITSifWhRiN425g) | [Zadon](https://open.spotify.com/artist/0WsHMstGTwjQSkx7PlS50X), [Simonboy](https://open.spotify.com/artist/0FvXsItrmMCguTll0NtnSC), [Tommy](https://open.spotify.com/artist/4l4ZKtWkERcn4dUNLRiaHk) | [AH BENG MEH? Remix \(feat\. Simonboy & Tommy\)](https://open.spotify.com/album/0CKlJzbX3O2HrcSoer7rb2) | 2:18 | 2025-08-07 | 2025-10-10 |
+| [Aidilfitri Mulia](https://open.spotify.com/track/0BtQSqGEzukpJoKhUZn4JU) | [1\-800\-Wicked](https://open.spotify.com/artist/7gmOnn3LgMFboTnd3pVe2I) | [Aidilfitri Mulia](https://open.spotify.com/album/5PgUyEa7X5JS5rB1uIm1k6) | 4:28 | 2026-03-12 |  |
 | [Ain't The Same](https://open.spotify.com/track/4bCo4R8BpdoyLdrcZcbOmW) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Push&Pull](https://open.spotify.com/album/0WzcMeriAjLqUAMGdT0YGH) | 2:47 | 2024-11-08 | 2024-12-20 |
 | [Ain't the Same](https://open.spotify.com/track/15KqGIpBfvccRhvtcPRRSU) | [Sarah Syazlina](https://open.spotify.com/artist/4sdRknKR5R415XWcELm3il) | [Ain't the Same](https://open.spotify.com/album/1zypId3rIQPZ5V3ncqeuLG) | 2:45 | 2025-10-30 | 2025-12-05 |
 | [AIR MATA](https://open.spotify.com/track/5coMupfXCXasAbvM2Tg1RR) | [Twntytwodegree](https://open.spotify.com/artist/5FUjZ0QR0zLoEov5g5uzsk), [Guccimith](https://open.spotify.com/artist/7HD9LqZEcayqh3S6F9F3uy), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [AIR MATA](https://open.spotify.com/album/3sE59rQ6bmyi2rtFfkHMEM) | 3:56 | 2025-08-28 | 2025-09-26 |

@@ -2,9 +2,9 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> the best in hardcore\. open the pit w/ Terror.
+> the best in hardcore\. open the pit w/ Gouge Away.
 
-421 songs - 17 hr 13 min
+425 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,14 +53,14 @@
 | [Bullet](https://open.spotify.com/track/7pGFtBjxJv8vzb7t1KbQmk) | [Ingrown](https://open.spotify.com/artist/7DHEVu8mFuQP14XdDIFhss) | [Bullet](https://open.spotify.com/album/4eRGUoN10rIgZC7Z3zzjLb) | 1:43 | 2025-01-17 | 2025-03-08 |
 | [Bulletproof](https://open.spotify.com/track/77uuyBIpyczOIkkbeJqLVb) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Bulletproof](https://open.spotify.com/album/7cJrjU2s9qj6g3DX9mZYXC) | 2:28 | 2025-12-12 |  |
 | [Burst](https://open.spotify.com/track/5seDapgh8K6TQ3W1M3BBag) | [Riot Stares](https://open.spotify.com/artist/12cQFjMJf8HYgFqTMwz7Hn) | [Burst](https://open.spotify.com/album/3MycS5QDIKT1HVouCbkbpT) | 2:12 | 2023-02-24 | 2024-03-23 |
-| [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 | 2025-01-17 |  |
+| [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 | 2025-01-17 | 2026-03-14 |
 | [Can We Watch Something Happy?](https://open.spotify.com/track/3vkszRLYIb9UB00SMgiFYD) | [Roman Candle](https://open.spotify.com/artist/5u1YdY7ZKkBNRvsAQXhFVy) | [Can We Watch Something Happy?](https://open.spotify.com/album/01Pia49NWSXCIUZEcKYrkP) | 2:22 | 2026-01-24 |  |
 | [Can't Kill The Love](https://open.spotify.com/track/0r7tshQxAAxx9lXMZ8a5wz) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [The Love](https://open.spotify.com/album/7p8s3koe3xOXR1vjG22TTq) | 2:29 | 2025-12-12 |  |
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-08-09 | 2025-02-01 |
 | [CAN'T STOP IT](https://open.spotify.com/track/6RJB07ZqQUOb08bnJYKAGv) | [Hereditary](https://open.spotify.com/artist/0dt2nmzBLD7oAyy7sjszvo), [Big Boy](https://open.spotify.com/artist/3jOHrCdds0VE1VzdjPvvv1) | [CAN'T STOP IT](https://open.spotify.com/album/0UScfF1NDqhyU3fYgnUPBS) | 2:34 | 2024-04-26 |  |
 | [Carry My Own Torch](https://open.spotify.com/track/42B8UsJCOI7kC2yoABBULa) | [Firewalker](https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si) | [Hell Bent](https://open.spotify.com/album/6kmwWlNdCsUkStiJxZxV2R) | 1:49 | 2024-07-03 | 2025-03-08 |
 | [Cause and Effect](https://open.spotify.com/track/4ZrmK8wrGLBdkEp1qgDVRc) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [No Escape](https://open.spotify.com/album/0VOK9FZtYpXbKSg9qROQTL) | 2:14 | 2026-03-10 |  |
-| [Chains](https://open.spotify.com/track/2xxCaSfOiU11PgSZYvSKsB) | [Rise Above](https://open.spotify.com/artist/3le4zTdLcBAhhjhYOgqCnW) | [Thread the Needle](https://open.spotify.com/album/0OBvndHGQo0sDVuCjsZUSO) | 1:58 | 2025-07-18 |  |
+| [Chains](https://open.spotify.com/track/2xxCaSfOiU11PgSZYvSKsB) | [Rise Above](https://open.spotify.com/artist/3le4zTdLcBAhhjhYOgqCnW) | [Thread the Needle](https://open.spotify.com/album/0OBvndHGQo0sDVuCjsZUSO) | 1:58 | 2025-07-18 | 2026-03-14 |
 | [Charm](https://open.spotify.com/track/5E3FIBDyOjVuV0SPOLg6sM) | [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Mile End](https://open.spotify.com/album/22EabJ9O2Sqdvblo9qlv0F) | 2:59 | 2024-11-22 |  |
 | [Chew](https://open.spotify.com/track/3QOg1az5WvUJNT0pVhCI3q) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Be My Vengeance](https://open.spotify.com/album/1k50Z5L0x3NHXo3aocmSEL) | 2:42 | 2024-01-30 | 2025-04-05 |
 | [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 | 2024-05-05 | 2025-07-19 |
@@ -133,6 +133,7 @@
 | [Familia Finito](https://open.spotify.com/track/6efk4XQySFHObUildXzh6e) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Familia Finito](https://open.spotify.com/album/2NsPZAEAUb7jCoHSuVTA5z) | 1:27 | 2023-02-24 | 2023-08-12 |
 | [Famine](https://open.spotify.com/track/4X8jREuc6luiF7HeCdDHes) | [Paint It Black](https://open.spotify.com/artist/7GtvuoYRvRQbBnvgu9VS11) | [Famine](https://open.spotify.com/album/3d8dwL3KjNSfhduDaVCObn) | 1:52 | 2023-11-10 | 2024-05-06 |
 | [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/track/0qhzDJvawg5ePgaTeNulWb) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO), [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Far Out, Bro \(Feat\. Daryl Taberski of Snapcase\)](https://open.spotify.com/album/3DWnpS0PYuV1ELuWmH75pm) | 3:27 | 2024-06-21 | 2025-04-05 |
+| [Figurine](https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Figurine](https://open.spotify.com/album/27P08yRazykZcJCbgQxheh) | 2:31 | 2026-03-13 |  |
 | [Five Eyes](https://open.spotify.com/track/2aCYQtPrlzxthi1poK6I5d) | [Demonstration Of Power](https://open.spotify.com/artist/3BHc8N6IN6zuspqwFV17Rs) | [Five Eyes](https://open.spotify.com/album/4w7dXBhRG04dS4f8zR7VgV) | 3:30 | 2024-03-01 | 2024-04-27 |
 | [Flavorless](https://open.spotify.com/track/0RhuWspdZFzl2nbUo0YSOA) | [Gumm](https://open.spotify.com/artist/4iJSuRiHxC9zkb3nN4aYWA) | [Beneath the Wheel](https://open.spotify.com/album/2F4ghd19BiTO6y1dJWXjac) | 2:31 | 2026-02-27 |  |
 | [Fool](https://open.spotify.com/track/3uYxIcmISekmOBE9uwMGtp) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 2:07 | 2023-04-21 | 2024-06-22 |
@@ -145,7 +146,7 @@
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-24 | 2023-05-20 |
 | [Fuck 'Em](https://open.spotify.com/track/6T0UkiNLu35LetDjwQmUP5) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Fuck 'Em](https://open.spotify.com/album/7gsQPfDVZL8A6dsmkTmOqH) | 1:20 | 2024-01-30 | 2024-03-23 |
 | [Fuck the System](https://open.spotify.com/track/0sbwvcEV7zQjpuAUsV5tWz) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Fuck the System](https://open.spotify.com/album/01X2mxDVld7CZs99AtHgJN) | 3:43 | 2025-07-18 |  |
-| [Fuck Wrong](https://open.spotify.com/track/3v4bQH7UwRM4uBuMoNOUYM) | [Chopping Block](https://open.spotify.com/artist/18qmleuiHpykV12Wg3FMWI) | [Nowhere To Run](https://open.spotify.com/album/6lxZ7ISrXQEulBykfuaDfW) | 1:42 | 2026-02-13 |  |
+| [Fuck Wrong](https://open.spotify.com/track/3v4bQH7UwRM4uBuMoNOUYM) | [Chopping Block](https://open.spotify.com/artist/18qmleuiHpykV12Wg3FMWI) | [Nowhere To Run](https://open.spotify.com/album/6lxZ7ISrXQEulBykfuaDfW) | 1:42 | 2026-02-13 | 2026-03-14 |
 | [Full Tilt](https://open.spotify.com/track/6pRz4FOOldOq0E7Sd2M6M0) | [Dose](https://open.spotify.com/artist/3N5SZj8bBJqyQgkHtOz7mI) | [Trouble](https://open.spotify.com/album/0F5j7qujGeTfEONocKROif) | 2:33 | 2025-04-04 | 2025-07-19 |
 | [Fun's Over](https://open.spotify.com/track/53bqV8I1QeWPBfLSTlP0Ok) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 1:52 | 2023-02-24 | 2023-03-11 |
 | [Gaining Purpose](https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN) | [Twitching Tongues](https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy) | [Gaining Purpose Through Passionate Hatred](https://open.spotify.com/album/1odexVafvTYzG1bCxz9AiO) | 3:51 | 2023-02-24 | 2023-05-20 |
@@ -203,6 +204,7 @@
 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 | 2025-02-11 |  |
 | [Landslide](https://open.spotify.com/track/0xZYAXXGFoe3PfjglBrr8B) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [This Is All We Ever Get](https://open.spotify.com/album/3W1oOBFsQ3OETOnmX1NmH4) | 1:36 | 2024-04-26 | 2026-03-10 |
 | [Landslide](https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Landslide](https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A) | 1:36 | 2024-01-30 | 2024-04-27 |
+| [Let's Keep the Circle Small](https://open.spotify.com/track/72NvyfMA5r0YFfNU1mEFlV) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Let's Keep the Circle Small](https://open.spotify.com/album/1k3VkVZEyGGhvCLYc2u4Tz) | 1:25 | 2026-03-13 |  |
 | [LIAR](https://open.spotify.com/track/1nJ8mIgJWtDXIHzckDZtUV) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [LIAR](https://open.spotify.com/album/6jBHYrJCpKfDWKXeSlD6f8) | 2:35 | 2025-07-18 |  |
 | [Life](https://open.spotify.com/track/5Yoou8RssU63J1J3jX8wPg) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Life](https://open.spotify.com/album/6FYvq6Y0Ohx9bBF8BlB2sD) | 2:58 | 2024-11-08 |  |
 | [Life Sublime](https://open.spotify.com/track/4qYuydklNFhmMZu4xvFagc) | [End It](https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn) | [Wrong Side of Heaven](https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2) | 2:13 | 2025-12-12 |  |
@@ -222,7 +224,7 @@
 | [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 | 2024-10-11 | 2026-02-14 |
 | [Mascot](https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Mascot](https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO) | 2:42 | 2025-03-07 |  |
 | [Meander](https://open.spotify.com/track/1nt5vUklwwizdkVbM26oTf) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Ministerial Cafeteria](https://open.spotify.com/album/1l9JzOaRISFpNO4lT6KOjP) | 1:59 | 2024-11-08 | 2024-11-16 |
-| [Meltdown](https://open.spotify.com/track/18dNnb5UvGiZVdueNUSJlL) | [Terminator](https://open.spotify.com/artist/0xYK8YeZp4m46eMtkGlXO3) | [Identity](https://open.spotify.com/album/6iOBsSFdhMDH9wXc8qQeoE) | 1:14 | 2026-01-13 |  |
+| [Meltdown](https://open.spotify.com/track/18dNnb5UvGiZVdueNUSJlL) | [Terminator](https://open.spotify.com/artist/0xYK8YeZp4m46eMtkGlXO3) | [Identity](https://open.spotify.com/album/6iOBsSFdhMDH9wXc8qQeoE) | 1:14 | 2026-01-13 | 2026-03-14 |
 | [Memories](https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:34 | 2023-04-03 | 2024-01-31 |
 | [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 | 2023-04-09 |
 | [Midian](https://open.spotify.com/track/5Sj3S8HyhoEcoq1y2D9LDk) | [Thirdface](https://open.spotify.com/artist/7ELgaDINZw50qnlbK7iPhG) | [Ministerial Cafeteria](https://open.spotify.com/album/1l9JzOaRISFpNO4lT6KOjP) | 1:21 | 2024-11-15 | 2025-03-08 |
@@ -301,6 +303,7 @@
 | [Promises Broken](https://open.spotify.com/track/3AAtOsNxNuJ7YA7cVa1Kcz) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Devastation](https://open.spotify.com/album/14CX7obhYfTmp9o4iEcBB8) | 2:35 | 2024-07-12 | 2024-11-23 |
 | [Prove You Wrong](https://open.spotify.com/track/4IVOI84lTIm8Uo6KEm7jK7) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 1:53 | 2023-02-24 | 2023-07-18 |
 | [Psychic Jailbreak](https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Psychic Jailbreak](https://open.spotify.com/album/1g7U1EbReW4TqUHYc1dTsd) | 3:03 | 2023-02-24 | 2023-04-09 |
+| [Pynch](https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Pynch](https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU) | 2:42 | 2026-03-13 |  |
 | [REAL LIFE LOVE](https://open.spotify.com/track/5IIVm7wOR0Ru5HuriESwjA) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/5tAct1GM2ZHKZHyQQkiqht) | 3:02 | 2024-05-05 | 2024-06-22 |
 | [Reaper](https://open.spotify.com/track/1Z1gDW1hKjKM8HX3tmeKOq) | [Rotting Out](https://open.spotify.com/artist/7tjMOkm52H3Qiz3ty2tbNw) | [Ronin](https://open.spotify.com/album/1dMvXfgG3u4lJ144uO4elO) | 1:38 | 2023-02-24 | 2025-02-01 |
 | [Refrain](https://open.spotify.com/track/4MiEv1tSs9TfrxERXYd6Op) | [Frail Body](https://open.spotify.com/artist/087dxTWzkw5RjrjOiJCfBH) | [Refrain](https://open.spotify.com/album/52GBvq9WmkMUc1BYaDDEac) | 2:43 | 2024-03-01 | 2024-06-29 |
@@ -427,6 +430,7 @@
 | [Year of the Guillotine](https://open.spotify.com/track/1KGCcGF0oE7u3UCU4ZvlXQ) | [Death Goals](https://open.spotify.com/artist/00I2SJI3kqtdl3IWdAPTk5) | [Year of the Guillotine](https://open.spotify.com/album/0i3G0DRyZVya1t12C0TQXc) | 1:14 | 2023-04-07 | 2023-11-11 |
 | [You Already Know](https://open.spotify.com/track/4lxxGe6I12Iq9FzGjmxNPH) | [Missing Link](https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ) | [Miracle Smile](https://open.spotify.com/album/6144h23BFDEz9RhnSAaDKR) | 2:56 | 2026-01-13 |  |
 | [You're Gonna Have To Kill Me](https://open.spotify.com/track/0EOX4S6BJLixT61KRika3H) | [Blood For Blood](https://open.spotify.com/artist/1x61OF80wiXb3qawWTGUDA) | [You're Gonna Have To Kill Me](https://open.spotify.com/album/1LLMdiKtf5rmffV9bhhSm7) | 2:52 | 2025-12-12 |  |
+| [Your Phantasm](https://open.spotify.com/track/318Tb1QejxmItd6N4uyD5m) | [World I Hate](https://open.spotify.com/artist/04l0T0rBlp4cMuYY59JMrO) | [Total Nuclear Annihilation](https://open.spotify.com/album/0C1tZwGhmTG6pcDld9zj3J) | 1:31 | 2026-03-13 |  |
 | [Your Unyielding Light](https://open.spotify.com/track/4Ofd8MyfUKHum4Gka9J5qB) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [Six Pacts Etched In Blood](https://open.spotify.com/album/4GFVct3CfTj54RUVpdQjFc) | 6:28 | 2024-09-13 |  |
 | [Zoo](https://open.spotify.com/track/5DuLYFs13hJ5QhAfXT3Jxs) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [What Makes You Tick?](https://open.spotify.com/album/5cDmhZrR4QJCYxE0W5GvOm) | 1:15 | 2023-02-24 | 2023-09-23 |
 

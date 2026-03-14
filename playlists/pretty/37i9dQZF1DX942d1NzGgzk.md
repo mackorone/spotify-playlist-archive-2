@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Nia Smith, Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,965 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,993 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 4 | [Fucking City](https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Fucking City](https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97) | 3:18 |
 | 5 | [Mercenary](https://open.spotify.com/track/5s0l8YyXuAtX1OsKb5faoF) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Mercenary](https://open.spotify.com/album/3buDFufXTD8bf5s5SkKSGY) | 2:19 |
 | 6 | [love](https://open.spotify.com/track/6ArPJvKhguHqZrx8aD8zJT) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [love](https://open.spotify.com/album/2uDW0OQlJVSLNSViGusi3A) | 2:57 |
-| 7 | [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 |
+| 7 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 8 | [round, round](https://open.spotify.com/track/3udUpLCl78125UkbwtSNIE) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [round, round](https://open.spotify.com/album/2x2WXC5PAPfkB0XFsRhexd) | 2:23 |
 | 9 | [Without You](https://open.spotify.com/track/10XHA4AVC8qfg5AUKt097S) | [Sym](https://open.spotify.com/artist/0F05OcSI8dBsO4UufWUIXa) | [Without You](https://open.spotify.com/album/5BAiPRWe1RHTDdRsspQDfO) | 3:10 |
 | 10 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Phangandawo
+> Khuphuka lapho… seku\-late! Cover: Lihle Xhakaza
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,761 likes - 98 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,862 likes - 98 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UKHETHE MINA](https://open.spotify.com/track/35nJgry48wr2AaxRfouhfD) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Awuyiphumuze](https://open.spotify.com/album/3VFuhDO3hOZCCkrZktpGkD) | 5:20 |
-| 2 | [Umaqondana](https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt) | 4:31 |
-| 3 | [Inomnikazi \(feat\. Thembani\)](https://open.spotify.com/track/7AihPCGkjTBJWsbPxYv0Ga) | [Phangandawo](https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb), [Thembani](https://open.spotify.com/artist/2vbA1nT8iVxOzv6zio0Krs) | [Inomnikazi \(feat\. Thembani\)](https://open.spotify.com/album/1L3oasnGEviwOWqkdmC47e) | 3:38 |
-| 4 | [IVALENTINE](https://open.spotify.com/track/12Qat89DHA65Q16UbtuIw5) | [Skhanga](https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [IVALENTINE](https://open.spotify.com/album/43JZh9JBi8M5D8rxFGN042) | 4:00 |
-| 5 | [Uthando Lwami 2.0](https://open.spotify.com/track/1pBdkvTWIOTqMSKbBh13gr) | [Lihle Xhakaza](https://open.spotify.com/artist/6GD0nzyhk6IOrjnUOWb25a), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz), [Samkelisiwe Ncwane](https://open.spotify.com/artist/2JuXtHN1aSXNpUAPLztPUX) | [Uthando Lwami 2.0](https://open.spotify.com/album/6orZcsvAEQDkgpccHiRQfl) | 5:33 |
+| 2 | [Uthando Lwami 2.0](https://open.spotify.com/track/1pBdkvTWIOTqMSKbBh13gr) | [Lihle Xhakaza](https://open.spotify.com/artist/6GD0nzyhk6IOrjnUOWb25a), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz), [Samkelisiwe Ncwane](https://open.spotify.com/artist/2JuXtHN1aSXNpUAPLztPUX) | [Uthando Lwami 2.0](https://open.spotify.com/album/6orZcsvAEQDkgpccHiRQfl) | 5:33 |
+| 3 | [Umaqondana](https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt) | 4:31 |
+| 4 | [Inomnikazi \(feat\. Thembani\)](https://open.spotify.com/track/7AihPCGkjTBJWsbPxYv0Ga) | [Phangandawo](https://open.spotify.com/artist/3irECGtZGGBOARaZElSiLb), [Thembani](https://open.spotify.com/artist/2vbA1nT8iVxOzv6zio0Krs) | [Inomnikazi \(feat\. Thembani\)](https://open.spotify.com/album/1L3oasnGEviwOWqkdmC47e) | 3:38 |
+| 5 | [IVALENTINE](https://open.spotify.com/track/12Qat89DHA65Q16UbtuIw5) | [Skhanga](https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [IVALENTINE](https://open.spotify.com/album/43JZh9JBi8M5D8rxFGN042) | 4:00 |
 | 6 | [Ngixolele Mtanami](https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ngixolele Mtanami](https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw) | 4:24 |
 | 7 | [We\-Skhinkily](https://open.spotify.com/track/0MBvgnHXWHA9iusb7TZb9K) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q) | [Unamagqubu](https://open.spotify.com/album/1VLcOburufLSyk0HhztmnV) | 3:31 |
 | 8 | [Uyoncengwa Unyoko](https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Uyoncengwa Unyoko](https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq) | 4:19 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 97 | [Inja Nodogo](https://open.spotify.com/track/7CiL2zVTGVrJYT7tcVk0dl) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inja Nogodo](https://open.spotify.com/album/1i1JkpUl5vILSSLKwsVHAO) | 4:15 |
 | 98 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 
-Snapshot ID: `AAAAAJFQYOWxrXe7MqaX5HlNU1JI5S/g`
+Snapshot ID: `AAAAAC+yqmK26iZgeN/LVVdWWcwp+wmV`

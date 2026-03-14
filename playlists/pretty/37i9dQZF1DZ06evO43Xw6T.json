@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 181611,
+  "num_followers": 181656,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABSTg3JXZkbL0E3ofEgP/2f",
+  "snapshot_id": "abICAAAAAABAu484qz61EIvvN3RN8b75",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "A Puro Dolor",
+      "url": "https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "A Puro Dolor",
-      "url": "https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amarre",
-        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Amarre",
-      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ESCONDIDAS",
         "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 173034,
       "name": "ESCONDIDAS",
       "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarre",
+        "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Amarre",
+      "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Mi Muerte",
-        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "Pegaso",
-      "url": "https://open.spotify.com/track/2fsGiCx2MgrM0zKLt55S7v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE GB",
         "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
       },
@@ -879,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+        "name": "Mi Vida Mi Muerte",
+        "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         },
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 259876,
-      "name": "CADAVER DE LA NOVIA",
-      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
+      "duration_ms": 187281,
+      "name": "Pegaso",
+      "url": "https://open.spotify.com/track/2fsGiCx2MgrM0zKLt55S7v"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 170702,
       "name": "F's",
       "url": "https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 259876,
+      "name": "CADAVER DE LA NOVIA",
+      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 169758,
+      "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
+      "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTERLIFE",
         "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 191655,
       "name": "NADA PERSONAL",
       "url": "https://open.spotify.com/track/4d4FWgqLB0EXTmLepJOGFW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 169758,
-      "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
-      "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
     },
     {
       "added_at": null,

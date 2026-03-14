@@ -1,12 +1,12 @@
 {
   "description": "<3 ___ <3",
-  "num_followers": 494643,
+  "num_followers": 494769,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADVQ5JG0FU92Gt2psx4L+T07er62",
+  "snapshot_id": "AAAAAO6+flZzQ3xxhQaXXP4NKP6x7yiz",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:52",
@@ -39,6 +39,22 @@
       "duration_ms": 170381,
       "name": "START OVER",
       "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "one4u",
+        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 255428,
+      "name": "one4u",
+      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -87,22 +103,6 @@
       "duration_ms": 127843,
       "name": "Heels broke = died",
       "url": "https://open.spotify.com/track/1nVg0Xk8QSIQZQHuHRrTaU"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "one4u",
-        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 255428,
-      "name": "one4u",
-      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
     },
     {
       "added_at": "2026-03-06 05:00:15",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz"
     },
     {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
+        "name": "I Love Colours",
+        "url": "https://open.spotify.com/album/5P4hSsd3LelwOT0rI60Yz3"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        }
+      ],
+      "duration_ms": 200390,
+      "name": "11 Days Ago",
+      "url": "https://open.spotify.com/track/47431iZn2mMKVTCootFjaP"
+    },
+    {
       "added_at": "2025-09-12 04:00:15",
       "album": {
         "name": "Enjoy Yourself (very cool tutorials Remix)",
@@ -305,6 +321,22 @@
       "url": "https://open.spotify.com/track/164KRTDMG3ol7IMpgK38bv"
     },
     {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
+        "name": "famous",
+        "url": "https://open.spotify.com/album/5RU8ec3zzaFg8cGzZDqp9C"
+      },
+      "artists": [
+        {
+          "name": "pager",
+          "url": "https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl"
+        }
+      ],
+      "duration_ms": 179300,
+      "name": "famous",
+      "url": "https://open.spotify.com/track/25ynds8G8VI01XYFAX9h7g"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Sisters",
@@ -341,22 +373,6 @@
       "url": "https://open.spotify.com/track/4nCsd9bkLsQc6MIapeCBNz"
     },
     {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "Get Used To Me",
-        "url": "https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP"
-      },
-      "artists": [
-        {
-          "name": "Sorisa",
-          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
-        }
-      ],
-      "duration_ms": 201919,
-      "name": "Get Used To Me",
-      "url": "https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j"
-    },
-    {
       "added_at": "2025-10-10 04:00:26",
       "album": {
         "name": "Missing",
@@ -387,6 +403,34 @@
       "duration_ms": 147752,
       "name": "4me?",
       "url": "https://open.spotify.com/track/1V57UV83BZdTSR1N0Nd8cI"
+    },
+    {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
+        "name": "YUM-ME (Big Softy Remix)",
+        "url": "https://open.spotify.com/album/5givvfq7JorHlh6vIffJjK"
+      },
+      "artists": [
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "Two Planets",
+          "url": "https://open.spotify.com/artist/7ujhs6kppvxNBZyeDVZKhr"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        },
+        {
+          "name": "Big Softy",
+          "url": "https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw"
+        }
+      ],
+      "duration_ms": 160922,
+      "name": "YUM-ME - Big Softy Remix",
+      "url": "https://open.spotify.com/track/5iTm9Ud5amR61Yr1I3koZy"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -491,6 +535,22 @@
       "duration_ms": 211500,
       "name": "It's You - underscores' \"It\u2019s U\" Remix",
       "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Get Used To Me",
+        "url": "https://open.spotify.com/album/7wVujmQw1lbNN2uqq1HobP"
+      },
+      "artists": [
+        {
+          "name": "Sorisa",
+          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
+        }
+      ],
+      "duration_ms": 201919,
+      "name": "Get Used To Me",
+      "url": "https://open.spotify.com/track/5r8yYNy65zjzKVHLbXm04j"
     },
     {
       "added_at": "2026-02-18 19:24:40",
@@ -757,26 +817,6 @@
       "url": "https://open.spotify.com/track/54cndId4zaTpxiheavHpVR"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "clear.cache",
-        "url": "https://open.spotify.com/album/54MMFo1emdksDxTyv4oe8w"
-      },
-      "artists": [
-        {
-          "name": "Pesolife",
-          "url": "https://open.spotify.com/artist/7f9jDhglsest0HQ921acyT"
-        },
-        {
-          "name": "Mars Meddo",
-          "url": "https://open.spotify.com/artist/7pC4Rmm7gHq5Ey2I7tvTtX"
-        }
-      ],
-      "duration_ms": 141573,
-      "name": "BURY ME",
-      "url": "https://open.spotify.com/track/2jIrevsJGvzjx0u9kjD5kh"
-    },
-    {
       "added_at": "2026-02-20 05:00:48",
       "album": {
         "name": "ag\u00edto",
@@ -1017,30 +1057,6 @@
       "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "Dose Shinu Nara",
-        "url": "https://open.spotify.com/album/1xwmmcIiVnoUDmpOFJBXgv"
-      },
-      "artists": [
-        {
-          "name": "4s4ki",
-          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
-        },
-        {
-          "name": "ROAR",
-          "url": "https://open.spotify.com/artist/7gwJ8TW7iRGwBMUplmuLte"
-        },
-        {
-          "name": "NUU$HI",
-          "url": "https://open.spotify.com/artist/0JmQGPrO3rgHZoyL2WwgIh"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Dose Shinu Nara",
-      "url": "https://open.spotify.com/track/0gJqDii6xMpYAAKVSBk00A"
-    },
-    {
       "added_at": "2025-11-03 16:08:15",
       "album": {
         "name": "Forever",
@@ -1159,22 +1175,6 @@
       "duration_ms": 296834,
       "name": "2026",
       "url": "https://open.spotify.com/track/0H03dWs6Z1RkvDsbmmuDFl"
-    },
-    {
-      "added_at": "2026-01-16 05:00:36",
-      "album": {
-        "name": "I Didn\u2019t Run This Time",
-        "url": "https://open.spotify.com/album/72yyMwLlKUBxk6mOY75o7r"
-      },
-      "artists": [
-        {
-          "name": "Cuntsniffer",
-          "url": "https://open.spotify.com/artist/3NkJXmkbysV8LnsI2ast6U"
-        }
-      ],
-      "duration_ms": 116475,
-      "name": "I Didn\u2019t Run This Time",
-      "url": "https://open.spotify.com/track/6SbhlHyQWvCOi05EgbDHcs"
     },
     {
       "added_at": "2026-01-27 19:35:33",

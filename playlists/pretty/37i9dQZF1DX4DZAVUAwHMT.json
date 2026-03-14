@@ -1,12 +1,12 @@
 {
   "description": "The UK's biggest rock playlist. Cover: The Scratch",
-  "num_followers": 1044476,
+  "num_followers": 1044393,
   "original_name": "The Rock List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAmWY4uLC7koHLsZp9BxD+mLvcCL",
+  "snapshot_id": "AAAAAOXsyjdxiuSvF6fwaZ/ZPwp09EZH",
   "tracks": [
     {
       "added_at": "2026-03-13 00:00:11",
@@ -321,20 +321,20 @@
       "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
     },
     {
-      "added_at": "2026-03-13 00:00:11",
+      "added_at": "2026-03-13 12:04:02",
       "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE"
+        "name": "Until You're Satisfied",
+        "url": "https://open.spotify.com/album/44XBTJ2FnCtqaQNhNBHNZK"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 128982,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1"
+      "duration_ms": 175835,
+      "name": "Miss Millennial",
+      "url": "https://open.spotify.com/track/5CppV85q7sOY4Okurdsa9j"
     },
     {
       "added_at": "2026-03-13 00:00:11",
@@ -467,6 +467,22 @@
       "duration_ms": 279373,
       "name": "Dark Days Are Coming",
       "url": "https://open.spotify.com/track/5Hpgp8un1ef1VMdmI6perX"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 128982,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1"
     },
     {
       "added_at": "2026-03-13 00:00:11",
@@ -1279,22 +1295,6 @@
       "duration_ms": 211055,
       "name": "Second Best",
       "url": "https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF"
-    },
-    {
-      "added_at": "2026-03-13 00:00:11",
-      "album": {
-        "name": "Get This",
-        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 199632,
-      "name": "Get This",
-      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
     },
     {
       "added_at": "2026-03-13 00:00:11",

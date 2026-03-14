@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,925 likes - 46 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,927 likes - 46 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 40 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
 | 41 | [My Back](https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [My Back](https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH) | 3:23 |
 | 42 | [Joy](https://open.spotify.com/track/0vUWg5NoY2umz4SQnkkEU6) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [AS I AM GRATEFUL](https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm) | 3:02 |
-| 43 | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn) | 3:24 |
+| 43 | [Help Me To Remember](https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Help Me To Remember](https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P) | 3:29 |
 | 44 | [Water](https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:10 |
-| 45 | [Help Me To Remember](https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Help Me To Remember](https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P) | 3:29 |
+| 45 | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI\(The Name of Jesus\)](https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn) | 3:24 |
 | 46 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `abCwgAAAAAD5BvdzA6kSKyMfn+0J3Q4Q`
+Snapshot ID: `abICAAAAAABEWupC/p1tlJDOHIKIjrAk`

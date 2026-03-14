@@ -4,7 +4,7 @@
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-157 songs - 8 hr 22 min
+158 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-12-21 | 2025-07-04 |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-12-21 | 2024-04-13 |
 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-05-22 |  |
-| [B.M.S \(version acoustique\)](https://open.spotify.com/track/4U2Bj3qDV7T3wjBbjTdEsK) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(version acoustique\)](https://open.spotify.com/album/2qSucHSdqc8F0glawx1X4Q) | 3:21 | 2026-02-27 |  |
+| [B.M.S \(version acoustique\)](https://open.spotify.com/track/4U2Bj3qDV7T3wjBbjTdEsK) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(version acoustique\)](https://open.spotify.com/album/2qSucHSdqc8F0glawx1X4Q) | 3:21 | 2026-02-27 | 2026-03-14 |
 | [Bad Dreams \- Acoustic](https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams \(Acoustic\)](https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg) | 2:56 | 2024-11-21 |  |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-12-21 | 2025-11-07 |
 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 | 2024-03-21 |  |
@@ -62,6 +62,7 @@
 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 | 2023-11-20 |  |
 | [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 | 2025-07-10 |  |
 | [Gold \- Acoustic Version](https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold \(Acoustic Version\)](https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi) | 3:19 | 2023-09-12 |  |
+| [Golden](https://open.spotify.com/track/7KmUrCGhaeNrelr6B42kd8) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Golden](https://open.spotify.com/album/7j9Ik9C5pAIEcttti4TRjM) | 3:11 | 2026-03-13 |  |
 | [Gone Gone Gone \(feat\. Teddy Swims\) \[Tones And I Acoustic\]](https://open.spotify.com/track/5fnNkscKYiOTbN1fjQGoc5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[Unplugged\]](https://open.spotify.com/album/3hyvSEl7i7M1CNyPTxDO2e) | 3:18 | 2026-01-29 |  |
 | [Good To Be \(Acoustic\)](https://open.spotify.com/track/3YT6fGZlPhOg3fG9Af7Agh) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/55yQ8KpIwWVkIiB5bJPTce) | 2:22 | 2024-11-21 | 2025-01-31 |
 | [greedy acoustic](https://open.spotify.com/track/7LoyqdrF51XVflrSKFHH1a) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy \(remixes\)](https://open.spotify.com/album/0dIpV8isK5mSDnSm8odPWW) | 2:22 | 2024-02-08 |  |

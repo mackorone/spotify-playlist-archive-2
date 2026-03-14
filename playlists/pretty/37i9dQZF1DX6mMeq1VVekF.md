@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,667 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,660 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 23 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
 | 24 | [cook & effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [cook & effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 |
 | 25 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
-| 26 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
-| 27 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
+| 26 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
+| 27 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
 | 28 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 |
 | 29 | [all i need](https://open.spotify.com/track/449zwwLd5mT6AmRZMFJC96) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [all i need](https://open.spotify.com/album/1gK0aKOhqwRRASeRhD2hRQ) | 3:33 |
 | 30 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |

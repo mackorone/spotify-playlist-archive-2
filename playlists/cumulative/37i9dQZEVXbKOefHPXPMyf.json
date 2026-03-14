@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 253479,
       "name": "A la Sombra de tus Alas",
       "url": "https://open.spotify.com/track/6yzN91UcO90nH2mRB59ZCP"
@@ -6418,7 +6418,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 138380,
       "name": "AY MAMA (mi tibur\u00f3n)",
       "url": "https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46"
@@ -8536,6 +8536,24 @@
       "duration_ms": 225533,
       "name": "Be Bold Like Elijah",
       "url": "https://open.spotify.com/track/54FaLGA2BMZYhEoJKanvfq"
+    },
+    {
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
       "album": {
@@ -14810,7 +14828,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 201481,
       "name": "CHUCHA",
       "url": "https://open.spotify.com/track/01dFxiEOMTTzim5J3kytjA"
@@ -23050,7 +23068,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 225750,
       "name": "El AchanTAdo",
       "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
@@ -25948,7 +25966,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 209964,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A"
@@ -29818,7 +29836,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 159768,
       "name": "Fuerzas Pa'",
       "url": "https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP"
@@ -31404,7 +31422,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
@@ -44612,7 +44630,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 169696,
       "name": "Luku",
       "url": "https://open.spotify.com/track/36zVrc3QTlrDB3QIYowh8F"
@@ -65046,7 +65064,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 316800,
       "name": "Rich Badness 2.0",
       "url": "https://open.spotify.com/track/0PPhf8ZHy3KWBW5FCiwIrx"
@@ -65651,6 +65669,32 @@
     },
     {
       "album": {
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
+    },
+    {
+      "album": {
         "name": "ROSONES",
         "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
@@ -65742,7 +65786,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -65760,7 +65804,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -80652,7 +80696,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE"

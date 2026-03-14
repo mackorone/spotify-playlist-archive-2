@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 281800,
       "name": "Auto Pilot",
       "url": "https://open.spotify.com/track/7EYkf0kYoJkWJUii8bn9Z4"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1934,6 +1934,24 @@
       "duration_ms": 203308,
       "name": "Emotions of Gray",
       "url": "https://open.spotify.com/track/0lSx4ZCLjisMT9mw60l1Nr"
+    },
+    {
+      "album": {
+        "name": "En dag av gangen",
+        "url": "https://open.spotify.com/album/3SGsNdjzfIfeDqlQzTjt4Q"
+      },
+      "artists": [
+        {
+          "name": "DR\u00d8NN",
+          "url": "https://open.spotify.com/artist/6TvmF1IDrh4wVbq0OuJXBT"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253243,
+      "name": "En dag av gangen",
+      "url": "https://open.spotify.com/track/0yELAtIbjrnIb6hmYogy4c"
     },
     {
       "album": {
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Far Below",
       "url": "https://open.spotify.com/track/3uoOgcDg6s74nDVwovObch"
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196600,
       "name": "Full Moon Theri\u00adanthropy",
       "url": "https://open.spotify.com/track/1DUSjz70AMjOayuWDKQM2T"
@@ -3322,7 +3340,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 272042,
       "name": "Insecurity (Radio Edit)",
       "url": "https://open.spotify.com/track/7qkbq9iXcW1pWI6NNLJ7Jv"
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -4326,7 +4344,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "Mind Riots",
       "url": "https://open.spotify.com/track/47LkoKpccLo3UDq4CpM81H"
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -5156,7 +5174,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -5506,7 +5524,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 203941,
       "name": "Prisionero del Amor",
       "url": "https://open.spotify.com/track/1RXVsrMTccnIYso9Da4WQM"
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -6560,7 +6578,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -7242,7 +7260,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -7978,7 +7996,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -8068,7 +8086,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -8256,7 +8274,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"
@@ -8364,7 +8382,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"

@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16186,
+  "num_followers": 16189,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADebvNDJ17rZplj+8lymBt1",
+  "snapshot_id": "abICAAAAAADYgvGGnzGC75Sq/Wz66oxF",
   "tracks": [
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Petals",
-        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
       "artists": [
         {
@@ -812,13 +812,17 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 214767,
-      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
-      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
+      "duration_ms": 188783,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
     },
     {
       "added_at": null,
@@ -843,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
+        "name": "Rose Petals",
+        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
       },
       "artists": [
         {
@@ -852,17 +856,13 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         },
         {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 188783,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
+      "duration_ms": 214767,
+      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
+      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
     },
     {
       "added_at": null,

@@ -1,48 +1,32 @@
 {
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Juan Duque",
-  "num_followers": 634847,
+  "num_followers": 634838,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdTx0AFoRuwFG+7sXR3b8qng228",
+  "snapshot_id": "AAAAAFolHNsYlM/UbBy76U662PNe+vuI",
   "tracks": [
     {
-      "added_at": "2025-10-17 04:59:02",
+      "added_at": "2026-03-13 04:59:25",
       "album": {
-        "name": "Flow Diferente",
-        "url": "https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n"
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
       },
       "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
         {
           "name": "Juan Duque",
           "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Flow Diferente",
-      "url": "https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen"
-    },
-    {
-      "added_at": "2025-10-17 04:59:02",
-      "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
     },
     {
       "added_at": "2025-10-17 04:59:02",
@@ -63,22 +47,6 @@
       "duration_ms": 171000,
       "name": "Los Tragos",
       "url": "https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP"
-    },
-    {
-      "added_at": "2025-10-17 04:59:02",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2025-10-17 04:59:02",
@@ -211,26 +179,6 @@
       "duration_ms": 200769,
       "name": "CALOR",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2025-10-17 04:59:02",
-      "album": {
-        "name": "Pa que ya no est\u00e9s triste",
-        "url": "https://open.spotify.com/album/1HzgN9B54LNZgdGqFE9wHR"
-      },
-      "artists": [
-        {
-          "name": "BROKIX",
-          "url": "https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Pa que ya no est\u00e9s triste",
-      "url": "https://open.spotify.com/track/4Foho0RcX50Fqg9wgdiQBQ"
     },
     {
       "added_at": "2025-10-17 04:59:02",
@@ -1443,22 +1391,6 @@
       "duration_ms": 168387,
       "name": "Milagro",
       "url": "https://open.spotify.com/track/5uAwmFcI1aSSYp3AI8k6U1"
-    },
-    {
-      "added_at": "2025-10-17 04:59:02",
-      "album": {
-        "name": "Pa\u2019 Volver",
-        "url": "https://open.spotify.com/album/3Dez2BuvhHmtu1yqkXYc49"
-      },
-      "artists": [
-        {
-          "name": "West Blanco",
-          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Pa\u2019 Volver",
-      "url": "https://open.spotify.com/track/7H28V8PlUQfAwvZfGnUHIJ"
     },
     {
       "added_at": "2025-10-17 04:59:02",

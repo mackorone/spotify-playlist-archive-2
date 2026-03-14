@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Billy Choi
 
-1,637 songs - 3 day 20 hr 40 min
+1,639 songs - 3 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/2Zfhyxqj6j0MYbX8Tmjelw) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 | 2023-04-13 | 2023-07-14 |
 | [S.H.I.T](https://open.spotify.com/track/0CtiGcW3OyABsFA7jmryFM) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [S.H.I.T](https://open.spotify.com/album/27pguvAfmV3j5kDAc07XqU) | 2:22 | 2022-05-26 | 2022-07-29 |
 | [S13](https://open.spotify.com/track/0wglIXDfqS6TOZZLxKDgpp) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [S13](https://open.spotify.com/album/6raLwY2BhDXSwNksc5KVRr) | 6:55 | 2025-08-21 | 2026-01-23 |
+| [Sahiba](https://open.spotify.com/track/44h5o8lxCMLWGaz6njOwKT) | [Styre](https://open.spotify.com/artist/2e8aCBtwxdwGaYdx3bWfcM) | [Sahiba](https://open.spotify.com/album/0qYRNz2VloYrMS1nop02n8) | 4:32 | 2026-03-12 |  |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-05-26 | 2022-07-29 |
 | [Sailor Boy](https://open.spotify.com/track/7ewmQnGCpYG6VvDMzVxmLk) | [Orange Leung](https://open.spotify.com/artist/072b9AYGZXFRwlwHUmXYrl), [YK](https://open.spotify.com/artist/23ysObqvDVv5XOqHBPnNwk) | [Sailor Boy](https://open.spotify.com/album/1FlhR8ta0DUoBTiXLRyhrn) | 4:44 | 2022-10-06 | 2023-02-03 |
 | [Samba Love](https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Pacific](https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT) | 3:44 | 2025-03-20 | 2025-07-11 |
@@ -1310,6 +1311,7 @@
 | [後起之秀](https://open.spotify.com/track/2sU9mqsWjUD00yv8fy4WkQ) | [Heimydear](https://open.spotify.com/artist/4GHDJYlvvJUGfEDkkhTnxZ), [ZAIN](https://open.spotify.com/artist/4hrSnopounpvRQy7EfH2eY) | [後起之秀](https://open.spotify.com/album/0S1YvcwaZaqFrlhimGHNTI) | 2:46 | 2025-05-01 | 2025-08-01 |
 | [微光](https://open.spotify.com/track/6BXwrKETFgjzwV0EGjOE6T) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [Monologue](https://open.spotify.com/album/5FyXA1no5WG94R1b8RA9Nr) | 3:54 | 2026-01-29 |  |
 | [微笑抑鬱症](https://open.spotify.com/track/1OSWoSmCIughniERrfpmpM) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [微笑抑鬱症](https://open.spotify.com/album/11BB0CYN7tQQWDizPdsY4l) | 3:25 | 2026-01-29 |  |
+| [微觀](https://open.spotify.com/track/1W67deW8vRH7P7x83w5Mqq) | [Dale](https://open.spotify.com/artist/71Ud35JxrwQLrcq4DCjdWs) | [難道要等收到通知那天我才走](https://open.spotify.com/album/1jdcqDspBumL3p9AMIVoaa) | 0:54 | 2026-03-12 |  |
 | [心的車站](https://open.spotify.com/track/3xCwbsEVVgkofycxGMiLtI) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [心的車站](https://open.spotify.com/album/175Ku3INHJdvf3pBOgOE5D) | 3:09 | 2025-05-15 | 2025-11-21 |
 | [心跳洩漏](https://open.spotify.com/track/4kE30fY2BQslgFzKtHsllu) | [NOSmke](https://open.spotify.com/artist/5UEvJoDztX8J2LFmBCHyxb), [boytryhard](https://open.spotify.com/artist/49BGq1ZuG5xfFswpzcsobu) | [心跳洩漏](https://open.spotify.com/album/46PjgPhjbQXE3ruuX0UKrv) | 2:57 | 2023-09-21 | 2023-11-24 |
 | [怎樣寫一首開心的歌](https://open.spotify.com/track/5vIB81QWEDqFbTJx2saEYH) | [SAWA](https://open.spotify.com/artist/0HCd0T7uXpnIUJgrBTlEvE) | [怎樣寫一首開心的歌](https://open.spotify.com/album/6IYATR6S4ZuOJBMarf0xrj) | 4:17 | 2023-01-12 | 2023-05-26 |

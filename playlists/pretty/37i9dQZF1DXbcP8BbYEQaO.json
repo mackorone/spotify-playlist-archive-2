@@ -1,12 +1,12 @@
 {
   "description": "Pop for neon streets, rainy windows, and everything you still feel after dark.",
-  "num_followers": 277120,
+  "num_followers": 277126,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnFUnTrCk2XUHPSSkNDHa1S3CTy",
+  "snapshot_id": "AAAAACfMxmk7PZgHaTrqBrY8KfvzrV3F",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:07",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
     },
     {
+      "added_at": "2026-03-13 04:00:46",
+      "album": {
+        "name": "Struck",
+        "url": "https://open.spotify.com/album/3B0sdKkVWHf1g0dnbU3gSs"
+      },
+      "artists": [
+        {
+          "name": "Charlotte MacInnes",
+          "url": "https://open.spotify.com/artist/6awXERWZUqqR1jyC9CwZWb"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Struck",
+      "url": "https://open.spotify.com/track/7tMK10zFkVYO9jEQIWh8d8"
+    },
+    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "Wuthering Heights",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
     },
     {
+      "added_at": "2026-03-13 04:00:46",
+      "album": {
+        "name": "paint me like one of your fav american girls",
+        "url": "https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "Feel Like I Died",
+      "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
+    },
+    {
       "added_at": "2026-03-06 05:00:07",
       "album": {
         "name": "Burial (from Mother Mary)",
@@ -55,6 +87,22 @@
       "duration_ms": 189859,
       "name": "Burial (from Mother Mary)",
       "url": "https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6"
+    },
+    {
+      "added_at": "2026-03-13 04:00:46",
+      "album": {
+        "name": "Emotional Virgin",
+        "url": "https://open.spotify.com/album/30CQlL2HWaWxbhAJNPsLbG"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "Against The Gates",
+      "url": "https://open.spotify.com/track/48r9lJLYNBHTB4P1YE8M4T"
     },
     {
       "added_at": "2026-02-13 05:00:48",
@@ -873,22 +921,6 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
-      "added_at": "2025-08-08 04:00:33",
-      "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "eternal sunshine",
@@ -971,38 +1003,6 @@
       "duration_ms": 179605,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1kQffpF3I0YD5dDVSYaEGG"
-    },
-    {
-      "added_at": "2025-07-02 15:52:36",
-      "album": {
-        "name": "Vanity",
-        "url": "https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 210029,
-      "name": "Vanity",
-      "url": "https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos"
-    },
-    {
-      "added_at": "2025-07-18 04:00:32",
-      "album": {
-        "name": "I luv that babe",
-        "url": "https://open.spotify.com/album/4Tkh0wRWbGH1qLq00laUYc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Valentina",
-          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "I luv that babe",
-      "url": "https://open.spotify.com/track/6ZT6neqII47y0pj6jekfS4"
     },
     {
       "added_at": "2025-06-06 04:00:31",

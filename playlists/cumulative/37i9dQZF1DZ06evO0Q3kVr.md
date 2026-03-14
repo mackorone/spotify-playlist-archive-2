@@ -4,7 +4,7 @@
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 36 min
+77 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Perra Callejera](https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:21 | 2023-05-08 |  |
 | [Presentación](https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 2:09 | 2023-01-14 |  |
 | [Profugo](https://open.spotify.com/track/5sCTUepkCI6CsuyaGwEHwJ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:34 | 2023-10-04 | 2025-08-13 |
-| [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 | 2023-01-23 |  |
+| [Que Facil](https://open.spotify.com/track/5WC1NftBsLtyyLTbdVGUf6) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2) | 4:45 | 2026-03-14 |  |
+| [Que Fácil](https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 4:47 | 2023-01-23 | 2026-03-14 |
 | [Rateros Con Placa](https://open.spotify.com/track/5xQdOG1KuPAK6Ku1NFm7Il) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 2:54 | 2025-03-09 |  |
 | [Rateros Con Placas](https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 3:33 | 2023-01-14 |  |
 | [Reclusorio Barrientos](https://open.spotify.com/track/1hZXjj7WMINIutzRkvh7wd) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 5:08 | 2023-01-14 |  |
@@ -74,7 +75,8 @@
 | [Tlatelolco](https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 4:46 | 2023-01-14 |  |
 | [Tocando Fondo](https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 6:33 | 2025-08-14 |  |
 | [Tocando Fondo \- En Vivo](https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 1](https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD) | 6:53 | 2023-01-14 | 2025-08-14 |
-| [Trascendencia](https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 3:59 | 2023-01-14 |  |
+| [Trascendencia](https://open.spotify.com/track/1Y89NWpT8TVJFeDT8ffPoM) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2) | 3:57 | 2026-03-14 |  |
+| [Trascendencia](https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k) | 3:59 | 2023-01-14 | 2026-03-14 |
 | [Trata de Cambiar](https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [En el Camino](https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3) | 2:26 | 2023-01-14 |  |
 | [Una Leyenda Viviente](https://open.spotify.com/track/7Ir0MnAlJP6SwDQeAktB77) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Del Barrio](https://open.spotify.com/album/21867014aseBS6APsqGgcN) | 5:12 | 2025-08-09 |  |
 | [Viajero](https://open.spotify.com/track/5AbNMFadsSbVhYd27XnkMZ) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Viajero](https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc) | 4:13 | 2025-02-28 | 2026-03-02 |

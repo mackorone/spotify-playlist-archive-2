@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048 likes - 159 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049 likes - 159 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 97 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 |
 | 98 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 |
 | 99 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
-| 100 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
-| 101 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
+| 100 | [Serial Killer](https://open.spotify.com/track/3xqC5Ya3UmVOM4eC6lZA2a) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Serial Killer](https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti) | 2:52 |
+| 101 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
 | 102 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 |
 | 103 | [Facile](https://open.spotify.com/track/7xs0gw660PtVVJqdkYyVtV) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [UN\-POPULAR](https://open.spotify.com/album/47GZGkmfz5Ex4NA9Xbr68y) | 2:40 |
 | 104 | [Bambina](https://open.spotify.com/track/4jURDAhRGG8UkW1WTjSxkP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:59 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 158 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 159 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcL9tgAAAADeba8f/mi2ZomOSq5ziTZs`
+Snapshot ID: `AcMDVgAAAACh0Tjb+sXGO38ZM90J1BH3`

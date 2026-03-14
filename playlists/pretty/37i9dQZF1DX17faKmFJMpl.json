@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 5768,
+  "num_followers": 5777,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Best of Best",
+        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 188969,
+      "name": "\ud0c4\ub760",
+      "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 222693,
       "name": "\ud6d4\uccd0 Rob It (feat. Double K)",
       "url": "https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Best of Best",
-        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 188969,
-      "name": "\ud0c4\ub760",
-      "url": "https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "but I \ub4dc\ub824",
+        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 218671,
+      "name": "\ub098\ub294\ub098\ubed0",
+      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Positive Mind",
         "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "but I \ub4dc\ub824",
-        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+        "name": "Massmediah",
+        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
       },
       "artists": [
         {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
         }
       ],
-      "duration_ms": 218671,
-      "name": "\ub098\ub294\ub098\ubed0",
-      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
+      "duration_ms": 260062,
+      "name": "compass",
+      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -607,22 +623,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Massmediah",
-        "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 260062,
-      "name": "compass",
-      "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "t 3 YOONMIRAE",
         "url": "https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 230765,
       "name": "Black Diamond",
       "url": "https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Mirror (28 Look at Youth)",
+        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 299470,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -675,18 +691,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Mirror (28 Look at Youth)",
-        "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
+        "name": "Matics",
+        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
       },
       "artists": [
         {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+          "name": "CB MASS",
+          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
         }
       ],
-      "duration_ms": 299470,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W"
+      "duration_ms": 225140,
+      "name": "CBMASS is my friend",
+      "url": "https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Matics",
-        "url": "https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx"
-      },
-      "artists": [
-        {
-          "name": "CB MASS",
-          "url": "https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL"
-        }
-      ],
-      "duration_ms": 225140,
-      "name": "CBMASS is my friend",
-      "url": "https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "HONEY FAMILY",
         "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 293041,
       "name": "\ub7a9\uad50 1\ub9c9",
       "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Bizzionary",
-        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
-      },
-      "artists": [
-        {
-          "name": "Bizzy",
-          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
-        }
-      ],
-      "duration_ms": 477231,
-      "name": "Movement 4",
-      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -775,6 +759,22 @@
       "duration_ms": 256417,
       "name": "\uac70\uc6b8 - New Version",
       "url": "https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Bizzionary",
+        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
+        }
+      ],
+      "duration_ms": 477231,
+      "name": "Movement 4",
+      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Thunderground",
+        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "You Don\u2019t Know",
+      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Handalas",
         "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Thunderground",
-        "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
+        "name": "Yangdonggeun a.k.a Madman",
+        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
       },
       "artists": [
         {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
         }
       ],
-      "duration_ms": 223640,
-      "name": "You Don\u2019t Know",
-      "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+      "duration_ms": 243621,
+      "name": "\uc120\ubb38\ub2f5",
+      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Yangdonggeun a.k.a Madman",
-        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 243621,
-      "name": "\uc120\ubb38\ub2f5",
-      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -955,22 +971,6 @@
       "duration_ms": 254866,
       "name": "Give It to H.E.R. (feat. Leo Kekoa, Dok2 & Simon Dominic)",
       "url": "https://open.spotify.com/track/1O9ISbgA6X0XnasYehWRtS"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 164354,
-      "name": "Radio - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 231993,
       "name": "\uc774 \uad6c\uc5ed\uc5d0 \ubbf8\uce5c\ub188\uc740 \ub098\uc57c (feat. Geegooin & New Champ)",
       "url": "https://open.spotify.com/track/3diybLrU4zkdF4Ka1ICrEa"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 164354,
+      "name": "Radio - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1167,30 +1167,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        },
-        {
-          "name": "The Illest I.L.L.S.",
-          "url": "https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1235,6 +1211,30 @@
       "duration_ms": 297586,
       "name": "B.L.K. (feat. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco) [Bonus Track]",
       "url": "https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        },
+        {
+          "name": "The Illest I.L.L.S.",
+          "url": "https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 241263,
-      "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Heavy Deep",
         "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
       },
@@ -1335,6 +1315,22 @@
       "duration_ms": 263575,
       "name": "\uc0dd\uae34\ub300\ub85c \ub180\uc544 (feat. Juvie Train & Koonta)",
       "url": "https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "History In The Making - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1387,22 +1383,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "History In The Making - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 258955,
       "name": "Imagine That",
       "url": "https://open.spotify.com/track/3CSovfXGMPwvtEXtSNO4Bk"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 241263,
+      "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
     },
     {
       "added_at": "2024-11-20 08:34:55",

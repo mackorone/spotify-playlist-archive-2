@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "the best in hardcore. open the pit w/ Terror.",
+  "description": "the best in hardcore. open the pit w/ Gouge Away.",
   "name": "the Breakdown",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 141000,
       "name": "Bury Me (One Thousand Times)",
       "url": "https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 118153,
       "name": "Chains",
       "url": "https://open.spotify.com/track/2xxCaSfOiU11PgSZYvSKsB"
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "Figurine",
+        "url": "https://open.spotify.com/album/27P08yRazykZcJCbgQxheh"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151580,
+      "name": "Figurine",
+      "url": "https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw"
+    },
+    {
+      "album": {
         "name": "Five Eyes",
         "url": "https://open.spotify.com/album/4w7dXBhRG04dS4f8zR7VgV"
       },
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 102706,
       "name": "Fuck Wrong",
       "url": "https://open.spotify.com/track/3v4bQH7UwRM4uBuMoNOUYM"
@@ -3591,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "Let's Keep the Circle Small",
+        "url": "https://open.spotify.com/album/1k3VkVZEyGGhvCLYc2u4Tz"
+      },
+      "artists": [
+        {
+          "name": "Western Addiction",
+          "url": "https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85983,
+      "name": "Let's Keep the Circle Small",
+      "url": "https://open.spotify.com/track/72NvyfMA5r0YFfNU1mEFlV"
+    },
+    {
+      "album": {
         "name": "LIAR",
         "url": "https://open.spotify.com/album/6jBHYrJCpKfDWKXeSlD6f8"
       },
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 74014,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/18dNnb5UvGiZVdueNUSJlL"
@@ -5400,6 +5436,24 @@
       "duration_ms": 183400,
       "name": "Psychic Jailbreak",
       "url": "https://open.spotify.com/track/3SsqFrFdBNcZNqeYoZsb9o"
+    },
+    {
+      "album": {
+        "name": "Pynch",
+        "url": "https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Pynch",
+      "url": "https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE"
     },
     {
       "album": {
@@ -7728,6 +7782,24 @@
       "duration_ms": 172610,
       "name": "You're Gonna Have To Kill Me",
       "url": "https://open.spotify.com/track/0EOX4S6BJLixT61KRika3H"
+    },
+    {
+      "album": {
+        "name": "Total Nuclear Annihilation",
+        "url": "https://open.spotify.com/album/0C1tZwGhmTG6pcDld9zj3J"
+      },
+      "artists": [
+        {
+          "name": "World I Hate",
+          "url": "https://open.spotify.com/artist/04l0T0rBlp4cMuYY59JMrO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91328,
+      "name": "Your Phantasm",
+      "url": "https://open.spotify.com/track/318Tb1QejxmItd6N4uyD5m"
     },
     {
       "album": {

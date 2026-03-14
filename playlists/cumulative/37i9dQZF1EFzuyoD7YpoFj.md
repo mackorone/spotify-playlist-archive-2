@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-674 songs - 1 day 12 hr 17 min
+675 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,12 +102,13 @@
 | [Cole Porter Medley](https://open.spotify.com/track/3ifsw4YcxwZ75GfWPVGCNZ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Complete Improv Recordings](https://open.spotify.com/album/1w1U6hqgq6mWCbn39EBAK7) | 13:51 | 2025-06-27 |  |
 | [Cole Porter: Stereophonic Sound \(From "Silk Stockings"\)](https://open.spotify.com/track/2ppMGyJrIc2RQigVQrUKsl) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [The John Wilson Orchestra](https://open.spotify.com/artist/4FSqA5w4tlXuaxoHHQVO0J), [John Wilson](https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh), [Anna Jane Casey](https://open.spotify.com/artist/6LA5IJz8XIjmWiDIzO5lHA), [Matthew Ford](https://open.spotify.com/artist/7dJKuO0pOVK3SjlNhWk4U2) | [Cole Porter in Hollywood](https://open.spotify.com/album/3urUcnykG9cWl5DTntOjS0) | 4:06 | 2024-07-24 |  |
 | [Come Along With Me](https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Best Of The Del Vikings](https://open.spotify.com/album/5rD1gVh3RZ6PfZLlodeWG9) | 1:59 | 2025-02-06 | 2025-12-22 |
+| [Come Along With Me](https://open.spotify.com/track/2NWSSrflEPoCBCWD53QS88) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Fly with Harmony](https://open.spotify.com/album/0CkRCtbt7sBYnW7jwVTE7Q) | 1:59 | 2026-03-13 |  |
 | [Come Along with Me](https://open.spotify.com/track/39cAmciNkzB7L2HueHCqAv) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Cool Girl](https://open.spotify.com/album/2gvRCjqsNxljJd7gTHsd3Q) | 1:59 | 2025-12-07 | 2025-12-18 |
 | [Come Along with Me](https://open.spotify.com/track/42xWiOMbPzlJMixzealLpU) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come On, Girl](https://open.spotify.com/album/2P7myzOwsDeB49O8jtptas) | 1:59 | 2025-12-21 | 2026-03-09 |
 | [Come Along with Me](https://open.spotify.com/track/54eums2raBC1wvFDpyBXH3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Myth of The Del\-Vikings](https://open.spotify.com/album/3vCwyGlXIqFi5z80vUVZiV) | 1:59 | 2024-11-17 | 2024-12-13 |
 | [Come Along With Me](https://open.spotify.com/track/70TGI1NO3pzQEySOklYq8z) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Don't Be a Fool](https://open.spotify.com/album/7MNhe83MSX8fYC7346vERB) | 1:59 | 2024-12-19 | 2025-02-07 |
 | [Come Along With Me](https://open.spotify.com/track/1W9YPL472FoDgEnWJzcLiO) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 1:59 | 2024-07-24 | 2024-12-20 |
-| [Come Along with Me](https://open.spotify.com/track/7zISgyACRGrY5VlXmMOpMP) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [THE DEL VIKINGS \- FOREVER SOUL HITS \(DOOWOP\)](https://open.spotify.com/album/4RD9MbupigwAPJmR1qIYFc) | 2:01 | 2026-03-08 |  |
+| [Come Along with Me](https://open.spotify.com/track/7zISgyACRGrY5VlXmMOpMP) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [THE DEL VIKINGS \- FOREVER SOUL HITS \(DOOWOP\)](https://open.spotify.com/album/4RD9MbupigwAPJmR1qIYFc) | 2:01 | 2026-03-08 | 2026-03-14 |
 | [Come On In \- Live At Cimarron Ballroom, 1961](https://open.spotify.com/track/4MuKRLvRM2KKKX1dzdqOgc) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Live At The Cimarron Ballroom](https://open.spotify.com/album/0TG2GEHyjM6E2JD2jQPfCV) | 1:38 | 2024-07-24 |  |
 | [Come To The Supermarket \(In Old Peking\)](https://open.spotify.com/track/2ow3kvWNcnOf3DrPppaCzL) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [The Barbra Streisand Album: Arranged and Conducted by Peter Matz](https://open.spotify.com/album/6lJaBPh4nMloLfWh2SQI6x) | 1:55 | 2024-07-24 |  |
 | [Concentration](https://open.spotify.com/track/5UBn82922HuHcy40XcMaHR) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Jug Sessions](https://open.spotify.com/album/0Y5al2H1ffDUNgz9jUu4nP) | 3:04 | 2024-07-24 | 2025-07-10 |

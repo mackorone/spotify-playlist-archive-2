@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "right next to me",
+        "url": "https://open.spotify.com/album/5JwrbfAphlVvKf1HWxXT1z"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "right next to me",
+      "url": "https://open.spotify.com/track/6G4qa5d3rrRrCLIuHZyKQH"
+    },
+    {
+      "album": {
         "name": "life like a machine, day like a shrimp, and daily life like a bus.",
         "url": "https://open.spotify.com/album/0BgdfoBbiczsx6hZf50sZ5"
       },

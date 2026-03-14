@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 43752,
+  "num_followers": 43763,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABdH+97zskjhFkTqm8LmCus",
+  "snapshot_id": "abICAAAAAACCjHaRWPb9lHifCCY/ZbMM",
   "tracks": [
     {
       "added_at": null,
@@ -827,30 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
-        "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "KARRAHBOOO",
-          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
-        }
-      ],
-      "duration_ms": 179795,
-      "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
-      "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop It (GloRilla, Mike WiLL Made-It)",
         "url": "https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 174000,
       "name": "Pop It (GloRilla, Mike WiLL Made-It)",
       "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
+        "url": "https://open.spotify.com/album/00rWgbD4zkoJ9i9TOMcBAr"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "duration_ms": 179795,
+      "name": "Never Need (feat. GloRilla & KARRAHBOOO)",
+      "url": "https://open.spotify.com/track/2G2uOM1Jex8jtjt4Skqr2c"
     },
     {
       "added_at": null,

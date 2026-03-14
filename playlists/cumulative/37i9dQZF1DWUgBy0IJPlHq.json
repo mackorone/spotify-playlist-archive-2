@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Willow Avalon",
+  "description": "A new shade of Country. Cover: Colton Bowlin",
   "name": "Indigo",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177935,
       "name": "All Around Cowboy",
       "url": "https://open.spotify.com/track/4bgXtfU50hzMoPlA6kBl2S"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207527,
       "name": "conversations with the moon",
       "url": "https://open.spotify.com/track/5slNp3QyBb4SbSxEEGoByw"
@@ -2686,6 +2686,24 @@
       "duration_ms": 147666,
       "name": "Corralling the Blues",
       "url": "https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF"
+    },
+    {
+      "album": {
+        "name": "Couch at My Parents House",
+        "url": "https://open.spotify.com/album/2dkyv11e9RKRgFc3zxaNhm"
+      },
+      "artists": [
+        {
+          "name": "Joe Jordan",
+          "url": "https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181338,
+      "name": "Couch at My Parents House",
+      "url": "https://open.spotify.com/track/2MvpD6nQKbaPY6FIizjsoM"
     },
     {
       "album": {
@@ -4071,6 +4089,42 @@
     },
     {
       "album": {
+        "name": "False Start",
+        "url": "https://open.spotify.com/album/0yytuAMgULL79wV6dVu9DG"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203859,
+      "name": "False Start",
+      "url": "https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq"
+    },
+    {
+      "album": {
+        "name": "Fastest Gun Alive",
+        "url": "https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "Fastest Gun Alive",
+      "url": "https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt"
+    },
+    {
+      "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
@@ -4108,6 +4162,24 @@
       "duration_ms": 275054,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
+    },
+    {
+      "album": {
+        "name": "Finally Complete",
+        "url": "https://open.spotify.com/album/34BjnNVsMM6OQGwUtm3wvq"
+      },
+      "artists": [
+        {
+          "name": "Clayton Nile Young",
+          "url": "https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192713,
+      "name": "Finally Complete",
+      "url": "https://open.spotify.com/track/1LNSC5mQxjZClcoMA32t26"
     },
     {
       "album": {
@@ -4320,7 +4392,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 219400,
       "name": "Foolish Thing To Do",
       "url": "https://open.spotify.com/track/0tBQedfWEJPcf6G54Xj8Im"
@@ -5070,6 +5142,24 @@
       "duration_ms": 257117,
       "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
+    },
+    {
+      "album": {
+        "name": "Hanging on Hope",
+        "url": "https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223939,
+      "name": "Hanging on Hope",
+      "url": "https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt"
     },
     {
       "album": {
@@ -8269,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Mountain Girl",
+        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162925,
+      "name": "Mountain Girl",
+      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
+    },
+    {
+      "album": {
         "name": "Mountain Song",
         "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
       },
@@ -8692,6 +8800,24 @@
       "duration_ms": 193591,
       "name": "Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L"
+    },
+    {
+      "album": {
+        "name": "Nothing's Wrong",
+        "url": "https://open.spotify.com/album/12LA0B9aSUiE5zaTydkFnr"
+      },
+      "artists": [
+        {
+          "name": "Jacob McCoy",
+          "url": "https://open.spotify.com/artist/1ZF1pknOx8smpDfSgsb7uh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "Nothing's Wrong",
+      "url": "https://open.spotify.com/track/3ejswiDrCHaq6OxOB21iLe"
     },
     {
       "album": {
@@ -9978,7 +10104,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191146,
       "name": "Roses and Wolves (feat. Hailey Whitters)",
       "url": "https://open.spotify.com/track/0Q9ILgShrEv0ap5YIaMAC7"
@@ -10032,7 +10158,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 210639,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW"
@@ -10480,7 +10606,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 185311,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/0RCHYLH8znuGWAlBqWThu1"
@@ -12217,6 +12343,24 @@
     },
     {
       "album": {
+        "name": "Grandpa's Mill",
+        "url": "https://open.spotify.com/album/4PKlKNnkXHALrysN4dWm5C"
+      },
+      "artists": [
+        {
+          "name": "Colton Bowlin",
+          "url": "https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Time for Sale",
+      "url": "https://open.spotify.com/track/0IbSQ5CTREVa6ylXFnVMo8"
+    },
+    {
+      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -12282,7 +12426,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 233175,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/7Lsoyc0ZfPoqsPwmaVeV8C"
@@ -13034,7 +13178,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 166500,
       "name": "When It Snows In Texas",
       "url": "https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx"

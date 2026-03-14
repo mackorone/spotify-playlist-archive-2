@@ -1,13 +1,53 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/everything-comes-back-around-and\">read our substack \ud83e\udee7  </a>   Cover: waterbaby",
-  "num_followers": 1186814,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/everything-comes-back-around-and\">read our substack \ud83e\udee7  </a>   Cover: beabadoobee \ud83c\udf19",
+  "num_followers": 1186842,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL+au29RzkLmU6c6Ic8A8+MBBzOn",
+  "snapshot_id": "AAAAAI/HqdfbFpVbmCSMEg2V3Z6sJN21",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 223788,
+      "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 156764,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH"
+    },
     {
       "added_at": "2026-03-06 05:00:24",
       "album": {
@@ -23,6 +63,70 @@
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
+    },
+    {
+      "added_at": "2026-02-20 05:00:52",
+      "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:24",
+      "album": {
+        "name": "Elktorn / All I Could Think Of",
+        "url": "https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Elktorn",
+      "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
+    },
+    {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "PLAY ME",
+        "url": "https://open.spotify.com/album/6YKDklqTiPc8bjMsjzIlst"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 148227,
+      "name": "PLAY ME",
+      "url": "https://open.spotify.com/track/3r8jMGukBwtwapk6C8QrA3"
     },
     {
       "added_at": "2026-02-26 15:50:04",
@@ -73,6 +177,22 @@
       "url": "https://open.spotify.com/track/6BXUGrMChRpa4jXpUJWseE"
     },
     {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "do your best nicholas",
+        "url": "https://open.spotify.com/album/67Du2l80pIHE1ZqvGmACxn"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "do your best nicholas",
+      "url": "https://open.spotify.com/track/5PWeF1kZWTklD9GiXq3FJL"
+    },
+    {
       "added_at": "2026-02-27 05:00:32",
       "album": {
         "name": "Berlin",
@@ -109,22 +229,6 @@
       "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
     },
     {
-      "added_at": "2026-03-06 05:00:24",
-      "album": {
-        "name": "Elktorn / All I Could Think Of",
-        "url": "https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Elktorn",
-      "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
-    },
-    {
       "added_at": "2026-03-09 18:29:30",
       "album": {
         "name": "?",
@@ -141,6 +245,34 @@
       "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
     },
     {
+      "added_at": "2026-03-13 04:00:54",
+      "album": {
+        "name": "Perfect Hand (Power Snatch Version)",
+        "url": "https://open.spotify.com/album/2JZbYMSKIM2MCoOHkPVnOM"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        },
+        {
+          "name": "Daniel James",
+          "url": "https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9"
+        }
+      ],
+      "duration_ms": 213144,
+      "name": "Perfect Hand - Power Snatch Version",
+      "url": "https://open.spotify.com/track/041it5i3hjWkeCq0Cm7tzD"
+    },
+    {
       "added_at": "2026-02-20 05:00:52",
       "album": {
         "name": "Manmade Manmaid",
@@ -155,22 +287,6 @@
       "duration_ms": 160408,
       "name": "Manmade Manmaid",
       "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
-    },
-    {
-      "added_at": "2026-02-20 05:00:52",
-      "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
     },
     {
       "added_at": "2026-02-13 05:00:39",
@@ -2819,70 +2935,6 @@
       "duration_ms": 183000,
       "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"
-    },
-    {
-      "added_at": "2025-09-19 04:35:41",
-      "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        }
-      ],
-      "duration_ms": 250489,
-      "name": "Otherworld",
-      "url": "https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5"
-    },
-    {
-      "added_at": "2025-09-19 04:35:41",
-      "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
-    },
-    {
-      "added_at": "2025-09-12 04:00:21",
-      "album": {
-        "name": "Mount Crystal",
-        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
-      },
-      "artists": [
-        {
-          "name": "Joviale",
-          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
-        }
-      ],
-      "duration_ms": 189761,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
-    },
-    {
-      "added_at": "2025-09-19 04:35:41",
-      "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     }
   ],
   "unique_name": "Lorem",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,267 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,272 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 16 | [Candyman](https://open.spotify.com/track/2DNDL86nEvF4HKw6F0U9J1) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:44 |
 | 17 | [Dazzle](https://open.spotify.com/track/7bnCNRtPeex7J5vU7gWJ7t) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 5:31 |
 | 18 | [Night Shift](https://open.spotify.com/track/3OTGIMpePnTxxjigPJW2eA) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 6:04 |
-| 19 | [Face To Face](https://open.spotify.com/track/0wovyVOcYuRoCl0kMmIlXF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:25 |
+| 19 | [Melt](https://open.spotify.com/track/1yWg96Y3WI1auS6fyPQVcE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 3:47 |
 | 20 | [Starcrossed Lovers](https://open.spotify.com/track/4zgnIxgY1g3yZ6csMOxh5y) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 4:07 |
-| 21 | [Melt](https://open.spotify.com/track/1yWg96Y3WI1auS6fyPQVcE) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 3:47 |
+| 21 | [Face To Face](https://open.spotify.com/track/0wovyVOcYuRoCl0kMmIlXF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:25 |
 | 22 | [Halloween](https://open.spotify.com/track/3lM9UdOYvDIs5PSY8aBEl2) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:41 |
 | 23 | [Red Light](https://open.spotify.com/track/2WgUntfJ6wcxzUTHcqOQ5M) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 3:21 |
 | 24 | [92°](https://open.spotify.com/track/6is813aEOH9u4BzdpzLuQu) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 6:02 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 40 | [The Last Beat Of My Heart](https://open.spotify.com/track/1V1YzBdPZB1DVowObsInWF) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 4:30 |
 | 41 | [Fireworks \- 12" Version](https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:30 |
 | 42 | [Mirage](https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:50 |
-| 43 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 3:08 |
-| 44 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 |
+| 43 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 |
+| 44 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/1lc3fDoaJfulun0scRNXDJ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 3:08 |
 | 45 | [Swimming Horses](https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 4:04 |
 | 46 | [Shadowtime](https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:28 |
 | 47 | [Carcass](https://open.spotify.com/track/2OwRRgr6rGkO0qYPwkUaoN) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 49 | [Placebo Effect](https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 4:37 |
 | 50 | [Trophy](https://open.spotify.com/track/7BBpYnTNSneK4X6ID1w2mD) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 3:17 |
 
-Snapshot ID: `abCwgAAAAACIwVHNKNgf8Z5mWkJXdnr9`
+Snapshot ID: `abICAAAAAACnK7extVMVpNNcRDT1E9ZR`

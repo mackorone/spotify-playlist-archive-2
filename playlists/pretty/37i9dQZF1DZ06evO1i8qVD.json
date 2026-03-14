@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 38476,
+  "num_followers": 38482,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABiei5PByqw7dhH5prUAFT2",
+  "snapshot_id": "abICAAAAAAB1ds8vHQLiGg431717vEJY",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+      "duration_ms": 313586,
+      "name": "The Blues Is Alive And Well",
+      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+        "name": "Buddy Guy & Junior Wells Play The Blues",
+        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 313586,
-      "name": "The Blues Is Alive And Well",
-      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
+      "duration_ms": 135546,
+      "name": "Messin' with the Kid",
+      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
     },
     {
       "added_at": null,
@@ -563,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+      "duration_ms": 242274,
+      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
         {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         },
         {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 242274,
-      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 126933,
       "name": "Hoodoo Man Blues",
       "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Where The Blues Begins (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Chase The Blues Away",
         "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
       },
@@ -807,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 317226,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+      "duration_ms": 277906,
+      "name": "Where The Blues Begins (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
     },
     {
       "added_at": null,
@@ -879,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 317226,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -919,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Good Morning Schoolgirl",
-      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 210533,
       "name": "Wear You Out (feat. Billy Gibbons)",
       "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Good Morning Schoolgirl",
+      "url": "https://open.spotify.com/track/0jcggWMJbg0VfBsuiWb57T"
     }
   ],
   "unique_name": "This Is Buddy Guy",

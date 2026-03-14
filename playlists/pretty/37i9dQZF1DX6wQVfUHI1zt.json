@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 244428,
+  "num_followers": 244481,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -432,13 +432,13 @@
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "Pete Astudillo",
+          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
         }
       ],
-      "duration_ms": 189920,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
+      "duration_ms": 278920,
+      "name": "Como Te Extrano",
+      "url": "https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -448,13 +448,13 @@
       },
       "artists": [
         {
-          "name": "Pete Astudillo",
-          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 278920,
-      "name": "Como Te Extrano",
-      "url": "https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1"
+      "duration_ms": 189920,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 143053,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 217129,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "30 Exitos Insuperables",
         "url": "https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 222373,
       "name": "Qu\u00e9 Porqu\u00e9 Te Quiero?",
       "url": "https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "Chulas Fronteras and Del Mero Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+      },
+      "artists": [
+        {
+          "name": "Little Joe & La Familia",
+          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -739,18 +755,34 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Chulas Fronteras and Del Mero Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
       },
       "artists": [
         {
-          "name": "Little Joe & La Familia",
-          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
         }
       ],
-      "duration_ms": 294533,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
+      "duration_ms": 241560,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "FOREVER MAZZ",
+        "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -787,34 +819,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "FOREVER MAZZ",
-        "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
       "artists": [
         {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
         }
       ],
-      "duration_ms": 278546,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
+      "duration_ms": 205626,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -831,22 +847,6 @@
       "duration_ms": 247533,
       "name": "Contigo Quiero Estar",
       "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 205626,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 167279,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "Gran Encuentro (20 \u00c9xitos Originales)",
         "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 206200,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 167279,
-      "name": "Que Tristeza",
-      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
-        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
-      },
-      "artists": [
-        {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "Al Partir",
-      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 169466,
       "name": "Ay Mujer",
       "url": "https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Gran Encuentro (20 \u00c9xitos Originales)",
+        "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
+      },
+      "artists": [
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "Al Partir",
+      "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
     },
     {
       "added_at": "2024-05-02 04:14:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 46006,
+  "num_followers": 46056,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAAgnan0gKgAkDEoIuwzymp0",
+  "snapshot_id": "abICAAAAAACOcPJ+nQPzwgyZKfdAG6Nk",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Hushpuppi",
+      "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hat-Trick",
         "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 156134,
       "name": "Emo (Remix)",
       "url": "https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Hushpuppi",
-      "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 164675,
-      "name": "NSNV",
-      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
+      "duration_ms": 212297,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 212297,
-      "name": "God Sent",
-      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+      "duration_ms": 164675,
+      "name": "NSNV",
+      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
     },
     {
       "added_at": null,

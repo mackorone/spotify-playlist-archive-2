@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 361070,
+  "num_followers": 361116,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
+      },
+      "artists": [
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 124363,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
-      },
-      "artists": [
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 124363,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Paradise Break",
-        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
-      },
-      "artists": [
-        {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
-        }
-      ],
-      "duration_ms": 175567,
-      "name": "Lady Paradise",
-      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Goodbye Future Funk",
         "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 216774,
       "name": "Le Knight Club Is Playing at My House",
       "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Paradise Break",
+        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "duration_ms": 175567,
+      "name": "Lady Paradise",
+      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Virtual Girls Band a.k.a. Sparkle",
-        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Talk Of The Dancefloor",
         "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 202783,
       "name": "I Didn't Know",
       "url": "https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Virtual Girls Band a.k.a. Sparkle",
+        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
     },
     {
       "added_at": "2023-07-18 02:21:29",

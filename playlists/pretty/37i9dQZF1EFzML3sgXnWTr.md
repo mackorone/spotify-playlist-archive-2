@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 27 | [raggi gamma](https://open.spotify.com/track/6UEPZv9ZGcoZRxnkCq5C2p) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/7oMyjqYnpRhVYQKwjHrnFd) | 3:15 |
 | 28 | [Tutti I Miei Ricordi](https://open.spotify.com/track/6TcnHPvUaY3OH6SKKiS2N1) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [MATERIA \(TERRA\)](https://open.spotify.com/album/38nebQ0IpOOQ4y8OERnIwZ) | 3:24 |
 | 29 | [L'UNICA](https://open.spotify.com/track/4UFS1osMKu4hGJwZtmfvuX) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:10 |
-| 30 | [Taki](https://open.spotify.com/track/24HZYhiT0GhKM3KY95NTp0) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:33 |
-| 31 | [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 |
+| 30 | [MALE NECESSARIO](https://open.spotify.com/track/4kK4uxstY0lTdun71200Al) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [MALE NECESSARIO](https://open.spotify.com/album/2bewKhlwZYgeHhXPf7xyqs) | 3:07 |
+| 31 | [Taki](https://open.spotify.com/track/24HZYhiT0GhKM3KY95NTp0) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:33 |
 | 32 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
 | 33 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 34 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 92 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 | 93 | [Per sempre si](https://open.spotify.com/track/5lzOrsEUpdwykAnwRyoigL) | [Dune Filter](https://open.spotify.com/artist/6ArEC79lELbr2BGaaE3nQM) | [Desert Echoes of Sanremo 2026 \(Remix\)](https://open.spotify.com/album/2oCyg93atTjh8KLZfc2H8N) | 3:16 |
 
-Snapshot ID: `AcL9wAAAAAAnd/1QAdmGi0ktpzgV6J5o`
+Snapshot ID: `AcMDYAAAAAAgFBBsZh9plFNHeQ03PfjQ`

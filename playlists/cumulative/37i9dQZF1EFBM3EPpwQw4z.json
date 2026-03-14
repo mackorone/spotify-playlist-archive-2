@@ -1781,6 +1781,32 @@
     },
     {
       "album": {
+        "name": "People Happy (Ferreck Dawn Remix)",
+        "url": "https://open.spotify.com/album/7wKOwtN0oTkqt1LzoKKgd6"
+      },
+      "artists": [
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        },
+        {
+          "name": "Stace Cadet",
+          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352662,
+      "name": "People Happy - Ferreck Dawn Extended Mix",
+      "url": "https://open.spotify.com/track/2pGgl37Wmb2RgjQnlXfawM"
+    },
+    {
+      "album": {
         "name": "Dance Silly",
         "url": "https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js"
       },

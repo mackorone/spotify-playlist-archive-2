@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 133098,
       "name": "100 acres",
       "url": "https://open.spotify.com/track/3jN6g6mKie1bLw2szDe0Zy"
@@ -6110,7 +6110,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 120000,
       "name": "Analog Halo",
       "url": "https://open.spotify.com/track/0IjFdER7XvJINMBVEbTEyD"
@@ -14752,7 +14752,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 125053,
       "name": "blossom",
       "url": "https://open.spotify.com/track/3ZDVwXqG26wkA81iJFjAvn"
@@ -36885,6 +36885,24 @@
     },
     {
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/2cpZz7i3IkoytP68Gx3NA8"
+      },
+      "artists": [
+        {
+          "name": "Soft Dunes",
+          "url": "https://open.spotify.com/artist/6VxhYRvoYXiPFKVKGzzhPI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141290,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/49m73NSObgoa7wSPLQnuyH"
+    },
+    {
+      "album": {
         "name": "Dust & Sparkles",
         "url": "https://open.spotify.com/album/4XY5ByryG4cSTaXpXzwqQb"
       },
@@ -40786,7 +40804,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 109857,
       "name": "Eversin",
       "url": "https://open.spotify.com/track/6weh9CllpafO3csLMAWw6k"
@@ -41116,7 +41134,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 143823,
       "name": "Explore",
       "url": "https://open.spotify.com/track/7yLzGLh1WGEAfpAPvB5wZm"
@@ -42106,7 +42124,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 144424,
       "name": "far far away",
       "url": "https://open.spotify.com/track/6krtykK9rfWdArY7XC5Dja"
@@ -55862,7 +55880,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 104000,
       "name": "hello buddy",
       "url": "https://open.spotify.com/track/0wiLSYNHMz516FpQ8Uy1Nw"
@@ -68846,7 +68864,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 142285,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/7Iq4EiDVxmeqHmzXxZiTgk"
@@ -68966,7 +68984,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 128142,
       "name": "Laissez-Faire",
       "url": "https://open.spotify.com/track/0iHmdJI6aSAPzNBD3i1ns5"
@@ -68984,7 +69002,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 147000,
       "name": "Lake",
       "url": "https://open.spotify.com/track/1snpWCtr5ZtIwfgWaaxLcq"
@@ -69076,6 +69094,24 @@
       "duration_ms": 122727,
       "name": "Lake Tahoe",
       "url": "https://open.spotify.com/track/6pcwWAYUmacRBavgQyEr69"
+    },
+    {
+      "album": {
+        "name": "lakehouse",
+        "url": "https://open.spotify.com/album/2hh8WRTvoZR6aP0xRIKnTC"
+      },
+      "artists": [
+        {
+          "name": "marsquake",
+          "url": "https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "lakehouse",
+      "url": "https://open.spotify.com/track/1zRZ90OaCV1fmL6GB60L81"
     },
     {
       "album": {
@@ -76392,6 +76428,24 @@
       "duration_ms": 136846,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/7DvFefh4tcbBPuqlLZkYlY"
+    },
+    {
+      "album": {
+        "name": "Low Tide Memories",
+        "url": "https://open.spotify.com/album/0avwHfKjIS4mEx6z9NQSM9"
+      },
+      "artists": [
+        {
+          "name": "Mareel",
+          "url": "https://open.spotify.com/artist/7nI22V07BuRLz4BKbXtE5z"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127125,
+      "name": "Low Tide Memories",
+      "url": "https://open.spotify.com/track/5gn8lB1op2RVLN3dQD4j1P"
     },
     {
       "album": {
@@ -91117,6 +91171,24 @@
     },
     {
       "album": {
+        "name": "Noru",
+        "url": "https://open.spotify.com/album/0rIJZrLVEWozfhW0zmbcO6"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121791,
+      "name": "Noru",
+      "url": "https://open.spotify.com/track/6KRQso2wzi3mz8EOqK4Urd"
+    },
+    {
+      "album": {
         "name": "Nos Usamos",
         "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
@@ -93028,7 +93100,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 109687,
       "name": "off grid",
       "url": "https://open.spotify.com/track/2tT9LVtsqcNkeJYIfEItHA"
@@ -97372,7 +97444,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 134229,
       "name": "Paperlate",
       "url": "https://open.spotify.com/track/7DoTmrQiqHuwVT25e4YwTX"
@@ -101327,6 +101399,24 @@
     },
     {
       "album": {
+        "name": "poppy seeds",
+        "url": "https://open.spotify.com/album/4nm1IIKOIqzDf7MYyiW20P"
+      },
+      "artists": [
+        {
+          "name": "rasbora",
+          "url": "https://open.spotify.com/artist/4wquevbkDU8HqWvxboIzYF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116357,
+      "name": "poppy seeds",
+      "url": "https://open.spotify.com/track/1sOmXxHaVQiYalk85NG0S1"
+    },
+    {
+      "album": {
         "name": "por ti",
         "url": "https://open.spotify.com/album/49WK1NRZCYgOjdT4wWsEyo"
       },
@@ -102378,6 +102468,24 @@
       "duration_ms": 135786,
       "name": "Promises Of Utopia",
       "url": "https://open.spotify.com/track/3Asjor2j7g68v2QmJC5W6V"
+    },
+    {
+      "album": {
+        "name": "Proper Noun",
+        "url": "https://open.spotify.com/album/0UQEAz31NvIzlwGzQw4lDo"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162608,
+      "name": "Proper Noun",
+      "url": "https://open.spotify.com/track/3ZtNOy4rhlKHu9gUIaE2As"
     },
     {
       "album": {
@@ -103912,6 +104020,24 @@
       "duration_ms": 126000,
       "name": "rain on leaf",
       "url": "https://open.spotify.com/track/7M5FcAfLlFBb22EysPkX7w"
+    },
+    {
+      "album": {
+        "name": "Rain on Old Pages",
+        "url": "https://open.spotify.com/album/0vL6n34GUPywSzN7bQ3ZV3"
+      },
+      "artists": [
+        {
+          "name": "Moonloop",
+          "url": "https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135616,
+      "name": "Rain on Old Pages",
+      "url": "https://open.spotify.com/track/387MDhCRka9vd3F3BkWJjM"
     },
     {
       "album": {
@@ -125475,6 +125601,24 @@
     },
     {
       "album": {
+        "name": "sunkissed",
+        "url": "https://open.spotify.com/album/2FVgeKr6KJFVT90Os7PPTo"
+      },
+      "artists": [
+        {
+          "name": "Monzzune",
+          "url": "https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "sunkissed",
+      "url": "https://open.spotify.com/track/5nkFRLpQxeC4ayBH0aYEM8"
+    },
+    {
+      "album": {
         "name": "Chillhop Essentials Spring 2019",
         "url": "https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0"
       },
@@ -136526,7 +136670,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 130660,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/583q9viG8tUw5Cxviil4wj"
@@ -140805,6 +140949,24 @@
     },
     {
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/487yOSsqOPxqMtckj07yUD"
+      },
+      "artists": [
+        {
+          "name": "Spring Bingo",
+          "url": "https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/2UdBrtmAdAKu7bfC3WUgcv"
+    },
+    {
+      "album": {
         "name": "Volpaia",
         "url": "https://open.spotify.com/album/1ELKh52boFPAkRyVYAUpm8"
       },
@@ -144704,7 +144866,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 129729,
       "name": "Where We Met",
       "url": "https://open.spotify.com/track/19HoWmtmLDE5soVyTp2bZW"

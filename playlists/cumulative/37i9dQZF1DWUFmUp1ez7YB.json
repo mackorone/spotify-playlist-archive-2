@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "El Baquin\u00e9 de Angelitos Negros (Remastered 2026)",
+        "url": "https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212123,
+      "name": "Camino al Barrio - Remastered 2026",
+      "url": "https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd"
+    },
+    {
+      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 269800,
       "name": "Comerte a Besos - Salsa Version",
       "url": "https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7"

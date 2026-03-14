@@ -6359,6 +6359,28 @@
     },
     {
       "album": {
+        "name": "Scarpetta (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1Y7fvExZZwPmpWtOOwgceJ"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        },
+        {
+          "name": "Perrine Virgile",
+          "url": "https://open.spotify.com/artist/5ooWVyM8r9cmPHRl4jXZ4R"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Kay Scarpetta",
+      "url": "https://open.spotify.com/track/3taD7IEVTrSes0V33D4249"
+    },
+    {
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4zZuch6tto3R0TMzcAn0oc"
       },

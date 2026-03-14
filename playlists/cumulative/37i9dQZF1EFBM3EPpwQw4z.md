@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-152 songs - 8 hr 50 min
+153 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Out To Dry \(feat\. Nicole Millar\)](https://open.spotify.com/track/06DDp1IHFsnTNl9hYcenGw) | [Emoh Instead](https://open.spotify.com/artist/5Ai88dkFR1iV1tAaCJ6XQG) | [Say So EP](https://open.spotify.com/album/15RkQDFY9xniA42qD4uNUf) | 4:04 | 2023-12-30 | 2025-07-24 |
 | [Pack It Up](https://open.spotify.com/track/5vW3Hf45hQb6x2dkez2G6v) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:59 | 2023-12-30 |  |
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-10-23 |  |
+| [People Happy \- Ferreck Dawn Extended Mix](https://open.spotify.com/track/2pGgl37Wmb2RgjQnlXfawM) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [People Happy \(Ferreck Dawn Remix\)](https://open.spotify.com/album/7wKOwtN0oTkqt1LzoKKgd6) | 5:52 | 2026-03-13 |  |
 | [Potty Party](https://open.spotify.com/track/7lzg2dzYCZcl1c9436NfZM) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:45 | 2023-12-30 |  |
 | [Push](https://open.spotify.com/track/68yeGVCUVICu3EiPv9D9LY) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:50 | 2023-12-30 |  |
 | [Q Jumper \- Matt Caseli & Marrs TV Remix](https://open.spotify.com/track/5VlRn5U7lPQs9cemXbv2nP) | [Beth Yen](https://open.spotify.com/artist/3wmNTfspSAkGE1RtYFzo6p), [Layers](https://open.spotify.com/artist/4qRyBQsyAADBvytQzidpsd) | [Q Jumper \(feat\. Layers\)](https://open.spotify.com/album/5riy8SZTz5h02flzUtMNEX) | 5:48 | 2023-12-30 | 2025-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,385 likes - 33 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,925 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 21 | [Just Go](https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD) | [JIVA](https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc) | [Just Go](https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc) | 3:00 |
 | 22 | [Andromeda](https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo) | [LELEK](https://open.spotify.com/artist/3XRa1ssBicMHAW76NxXDts) | [Andromeda](https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo) | 2:59 |
 | 23 | [Superstar](https://open.spotify.com/track/7vsJ0bqsjhVnZxV2W2wRiD) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Superstar](https://open.spotify.com/album/5L5QsjQu2WZ2wnLYmRd7b4) | 2:54 |
-| 24 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:47 |
+| 24 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:54 |
 | 25 | [Ēnā](https://open.spotify.com/track/5jrN6fnBH38Bh0IQJnjiUJ) | [Atvara](https://open.spotify.com/artist/4FTGADpPjk9LgpAQAqQhI0) | [Ēnā](https://open.spotify.com/album/5B0vWqpxIriwZSTdE5Wv4K) | 2:53 |
 | 26 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [Alicja](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
 | 27 | [Kraj mene](https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu) | [Lavina](https://open.spotify.com/artist/2a1W5RyJCm4GugnlqckLw3) | [Kraj mene](https://open.spotify.com/album/5jZzL46mXq6XDHbsTwO29o) | 3:01 |

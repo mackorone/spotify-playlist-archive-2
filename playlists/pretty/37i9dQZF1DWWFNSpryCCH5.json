@@ -1,6 +1,6 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1069481,
+  "num_followers": 1069438,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        },
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 328906,
-      "name": "El Duelo (feat. Ely Guerra)",
-      "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        },
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 328906,
+      "name": "El Duelo (feat. Ely Guerra)",
+      "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
     },
     {
       "added_at": "2026-02-12 19:18:10",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
-        "name": "Panda MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b"
-      },
-      "artists": [
-        {
-          "name": "PXNDX",
-          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
-        }
-      ],
-      "duration_ms": 236769,
-      "name": "Cita En El Quir\u00f3fano - MTV Unplugged",
-      "url": "https://open.spotify.com/track/7pxQFizSwS8IN39T0dlc2W"
-    },
-    {
-      "added_at": "2026-02-12 19:18:10",
-      "album": {
         "name": "Y solo se me ocurre amarte (Unplugged) - video",
         "url": "https://open.spotify.com/album/2mSEhXAn73acIZWlx94mS8"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 264234,
       "name": "Y s\u00f3lo se me ocurre amarte",
       "url": "https://open.spotify.com/track/5mj44pCWLmC6KVBQjGFngi"
+    },
+    {
+      "added_at": "2026-02-12 19:18:10",
+      "album": {
+        "name": "Panda MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "duration_ms": 236769,
+      "name": "Cita En El Quir\u00f3fano - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7pxQFizSwS8IN39T0dlc2W"
     },
     {
       "added_at": "2026-02-12 19:18:10",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-02-12 19:18:10",
       "album": {
-        "name": "Los Bunkers (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
+        "name": "Mentira (Unplugged) - Video Oficial",
+        "url": "https://open.spotify.com/album/0F09OsVhJbYnrK5AaF6O8D"
       },
       "artists": [
         {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 366109,
-      "name": "Llueve Sobre la Ciudad - MTV Unplugged",
-      "url": "https://open.spotify.com/track/11wdpfVtZZLimMAnHM5pTj"
+      "duration_ms": 288256,
+      "name": "Mentira - Unplugged",
+      "url": "https://open.spotify.com/track/0ZN94oWGDeX9GCLoYQvcOO"
     }
   ],
   "unique_name": "Videos Unplugged",

@@ -4,7 +4,7 @@
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 51 min
+52 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,17 +26,19 @@
 | [I Heard It Through The Grapevine \- Live On Jools Holland Hootenanny / 31st December 2006](https://open.spotify.com/track/5kB7BZY3dJJtQYiXkyesrD) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:54 | 2025-10-28 |  |
 | [In My Bed](https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 5:17 | 2025-10-28 |  |
 | [Intro / Stronger Than Me](https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:54 | 2025-10-28 |  |
-| [Just Friends](https://open.spotify.com/track/2i1S5Dq9SaFGcnw8mnb4ks) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:11 | 2026-03-05 |  |
-| [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 | 2025-10-28 |  |
+| [Just Friends](https://open.spotify.com/track/2i1S5Dq9SaFGcnw8mnb4ks) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:11 | 2026-03-05 | 2026-03-14 |
+| [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 | 2026-03-14 |  |
+| [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 | 2025-10-28 | 2026-03-14 |
 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 | 2025-10-28 |  |
 | [Me & Mr Jones](https://open.spotify.com/track/5RqIM2vv5nw2PGJBqPD8Rg) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:31 | 2026-03-06 |  |
+| [Monkey Man](https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:56 | 2026-03-14 |  |
 | [Monkey Man](https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Sirens of Song](https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA) | 2:45 | 2025-10-28 |  |
 | [Monkey Man \- Live On Jools Holland Hootenanny / 2006](https://open.spotify.com/track/11RwX2XrkrduAwdmug89ja) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:19 | 2025-10-28 |  |
 | [Mr Magic \(Through The Smoke\)](https://open.spotify.com/track/5ZTZL5UlpF3UZ8H7BhoI9N) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:56 | 2025-10-28 |  |
 | [Our Day Will Come](https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:49 | 2025-10-28 |  |
 | [Rehab](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:34 | 2025-10-28 |  |
 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 | 2025-10-28 |  |
-| [Some Unholy War](https://open.spotify.com/track/0RatRR1mlxEVR6WATH4jV3) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:21 | 2026-03-09 |  |
+| [Some Unholy War](https://open.spotify.com/track/0RatRR1mlxEVR6WATH4jV3) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:21 | 2026-03-09 | 2026-03-14 |
 | [Someone To Watch Over Me \- Demo](https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 4:28 | 2025-10-28 |  |
 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 | 2025-10-28 |  |
 | [Take The Box](https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:20 | 2025-10-28 |  |
@@ -54,7 +56,9 @@
 | [What Is It About Men](https://open.spotify.com/track/6QIdkhQ33eTSPBHu4NWl7l) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:29 | 2025-10-28 |  |
 | [What It Is](https://open.spotify.com/track/79dmkAahkE4zQfAWtk3hhF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Stronger Than Me](https://open.spotify.com/album/17M1mlaV8mmeMt6oSHYxC7) | 4:43 | 2025-10-28 |  |
 | [Will You Still Love Me Tomorrow? \- 2011](https://open.spotify.com/track/0LbK1bodGLc9xmV1cS9jvL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 4:22 | 2025-10-28 |  |
-| [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 | 2025-10-28 |  |
+| [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 | 2026-03-14 |  |
+| [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 | 2025-10-28 | 2026-03-14 |
 | [You Sent Me Flying / Cherry](https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 6:50 | 2025-10-28 |  |
+| [You're Wondering Now](https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:33 | 2026-03-14 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

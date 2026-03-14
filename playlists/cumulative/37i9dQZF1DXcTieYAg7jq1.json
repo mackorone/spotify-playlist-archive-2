@@ -738,7 +738,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 133000,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 216314,
       "name": "Big Dumb Heart",
       "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
@@ -5233,6 +5233,24 @@
     },
     {
       "album": {
+        "name": "Love Bites Back",
+        "url": "https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191495,
+      "name": "Love Bites Back",
+      "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"
+    },
+    {
+      "album": {
         "name": "Love Don\u2019t Let Me Go",
         "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
       },
@@ -5244,7 +5262,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177793,
       "name": "Love Don't Let Me Go",
       "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
@@ -5284,6 +5302,24 @@
       "duration_ms": 186783,
       "name": "Love Is Love",
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
+    },
+    {
+      "album": {
+        "name": "Love Me Twice",
+        "url": "https://open.spotify.com/album/63R5hFgQ7DPeLdJijGmmoP"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143745,
+      "name": "Love Me Twice",
+      "url": "https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk"
     },
     {
       "album": {
@@ -5792,6 +5828,24 @@
       "duration_ms": 167035,
       "name": "Mr Right (with Meghan Trainor)",
       "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
+    },
+    {
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
     },
     {
       "album": {
@@ -7084,7 +7138,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
@@ -8702,6 +8756,24 @@
       "duration_ms": 152066,
       "name": "The Two of Us",
       "url": "https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc"
+    },
+    {
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "album": {

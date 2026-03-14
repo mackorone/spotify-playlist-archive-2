@@ -18049,6 +18049,24 @@
     },
     {
       "album": {
+        "name": "Crystalpunk",
+        "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298904,
+      "name": "Longer",
+      "url": "https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC"
+    },
+    {
+      "album": {
         "name": "Look Ma, No Brains!",
         "url": "https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb"
       },
@@ -31268,24 +31286,6 @@
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
-    },
-    {
-      "album": {
-        "name": "Crystalpunk",
-        "url": "https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC"
     },
     {
       "album": {

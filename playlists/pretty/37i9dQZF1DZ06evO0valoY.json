@@ -1,33 +1,13 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 214201,
+  "num_followers": 214212,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABp9f70L/xLr/8ZNemMBZE0",
+  "snapshot_id": "abICAAAAAACEl+81mZCMaF0nYzsiDP4w",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 209902,
-      "name": "HASTA LA MUERTE",
-      "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 209902,
+      "name": "HASTA LA MUERTE",
+      "url": "https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 208326,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
+      "duration_ms": 234068,
+      "name": "Me Siento Perdido",
+      "url": "https://open.spotify.com/track/1MWEsvmtNneecpUrSgSnz8"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/7F7hBGecl8FIkvHE7pCTGG"
+      "duration_ms": 189375,
+      "name": "No Dudes de Ti",
+      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 189375,
-      "name": "No Dudes de Ti",
-      "url": "https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP"
+      "duration_ms": 228000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/7F7hBGecl8FIkvHE7pCTGG"
     }
   ],
   "unique_name": "This Is Eslabon Armado",

@@ -4,7 +4,7 @@
 
 > RAYE and music for your soul.
 
-1,742 songs - 4 day 6 hr 15 min
+1,744 songs - 4 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 | 2025-09-19 | 2025-11-08 |
 | [CINDERELLA, Pt\. 2](https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [ONCE UPON A TIME](https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu) | 2:10 | 2021-03-14 | 2021-05-27 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 | 2024-09-21 |
-| [Circles](https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [A Constant Charade](https://open.spotify.com/album/60rPZxVWJo6Gy8RduvuKlY) | 2:44 | 2025-11-21 |  |
+| [Circles](https://open.spotify.com/track/1IbcX5yIsTavsZmZKr2OGR) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [A Constant Charade](https://open.spotify.com/album/60rPZxVWJo6Gy8RduvuKlY) | 2:44 | 2025-11-21 | 2026-03-14 |
+| [Claim To Fame](https://open.spotify.com/track/1QFzbzgffdy4XxxZvtxXAi) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Claim To Fame](https://open.spotify.com/album/787LMvGOkQv1Zx24FpscpJ) | 4:46 | 2026-03-13 |  |
 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2023-10-14 |
 | [Climbing Trees](https://open.spotify.com/track/78V23YASIqpSZJbWb8GmNi) | [Takeleave](https://open.spotify.com/artist/3H4357cuK5CEmtrOB5lPv9) | [Climbing Trees](https://open.spotify.com/album/7xmqjjNLFHvbiHtuOpHyTQ) | 2:25 | 2019-12-14 | 2020-01-14 |
 | [Closer](https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Closer](https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm) | 3:55 | 2023-11-17 | 2024-02-17 |
@@ -612,7 +613,7 @@
 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 | 2023-03-17 | 2023-04-22 |
 | [Go Now](https://open.spotify.com/track/6rXnPIUlGK2IFH6FfnAiFV) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3), [Airrion Love](https://open.spotify.com/artist/4iIUGgoxDjoMWk34GIcGs6) | [Heavy](https://open.spotify.com/album/5qynGHJVgJQDmhUTuPp0nf) | 3:30 | 2025-10-17 | 2025-11-08 |
 | [Go Ur Own Way](https://open.spotify.com/track/1KOB1FwCB4yFfpAyEsZ3IK) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Go Ur Own Way](https://open.spotify.com/album/3XX1cFgmYp1TW9eyk7rrD5) | 2:14 | 2024-06-21 | 2024-10-05 |
-| [GOD IS REAL](https://open.spotify.com/track/0reyWELcnHNCEG2kGZ0Ctp) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY YOU](https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43) | 2:12 | 2025-10-17 |  |
+| [GOD IS REAL](https://open.spotify.com/track/0reyWELcnHNCEG2kGZ0Ctp) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [LUCKY YOU](https://open.spotify.com/album/4dHcuizgdi9fpKX8MKQm43) | 2:12 | 2025-10-17 | 2026-03-14 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 |  |
 | [Going Home](https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Going Home](https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ) | 4:02 | 2025-11-21 | 2026-01-17 |
 | [Going Through](https://open.spotify.com/track/42BOdzpGLyJrVqtDozov4H) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK) | [Going Through](https://open.spotify.com/album/5IHzSqvCDBjCH4E2RkH20O) | 3:01 | 2020-06-12 | 2020-09-11 |
@@ -1177,6 +1178,7 @@
 | [Part of the Plan](https://open.spotify.com/track/2kPFMV84TsbapBvvZD5rIR) | [\[ K S R \]](https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk), [Konny Kon](https://open.spotify.com/artist/6iXAWFAyOH7C7lp4Dl3rYI) | [Part of the Plan / Faded from the Jump](https://open.spotify.com/album/3IB7r6ilRLHfjf6ckuTfA5) | 3:19 | 2025-01-03 | 2025-02-08 |
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-12 | 2023-06-25 |
 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 | 2025-01-10 | 2025-02-08 |
+| [Past Tense](https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Past Tense](https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA) | 3:18 | 2026-03-13 |  |
 | [pay ur bills](https://open.spotify.com/track/1G3onwb5hFsUifaJQIXb8e) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [pay ur bills](https://open.spotify.com/album/4IvIJ10ma2QkfCpqxNPrXp) | 2:02 | 2023-06-24 | 2023-07-15 |
 | [PEACES](https://open.spotify.com/track/0DcB1hWky142AZjHKIVmTO) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [PEACES](https://open.spotify.com/album/3Cuw5zyJLLwccv21SELj2o) | 2:22 | 2026-02-20 |  |
 | [Peach Optimo](https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Peach Optimo](https://open.spotify.com/album/3Thk2OpOq4xLIg3Qmetarj) | 2:50 | 2024-03-22 | 2024-06-15 |

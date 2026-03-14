@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -5628,6 +5628,24 @@
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
+    },
+    {
+      "album": {
+        "name": "White Trails (Expanded)",
+        "url": "https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255946,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
     },
     {
       "album": {
@@ -15084,7 +15102,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 147407,
       "name": "En Derine",
       "url": "https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji"
@@ -17216,7 +17234,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177692,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP"
@@ -23324,7 +23342,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 160702,
       "name": "Homeoffice",
       "url": "https://open.spotify.com/track/11k0f96I27EykmXCrQAmkw"
@@ -35876,7 +35894,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -42423,6 +42441,24 @@
     },
     {
       "album": {
+        "name": "Ring My Bell",
+        "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
+      },
+      "artists": [
+        {
+          "name": "Anita Ward",
+          "url": "https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491933,
+      "name": "Ring My Bell",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
+    },
+    {
+      "album": {
         "name": "rio (freestyle)",
         "url": "https://open.spotify.com/album/20ePOXAZ866l5W4gkaR2Ut"
       },
@@ -42840,7 +42876,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -42858,7 +42894,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-322 songs - 20 hr 2 min
+323 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Wolf Totem \(feat\. Jacoby Shaddix of Papa Roach\)](https://open.spotify.com/track/4MpWej5PustlOe6Wihucky) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 5:17 | 2022-09-21 | 2023-01-04 |
 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/1YZcTRm1zXj9Gn2HvjBpSS) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Woo Hah!! Got You All in Check](https://open.spotify.com/album/7gfSw51j1p4tbKeZyf5z5A) | 3:57 | 2023-07-14 |  |
 | [Worst Behavior](https://open.spotify.com/track/6ytfPO94m3vVsdaLapzn3W) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Worst Behavior](https://open.spotify.com/album/0AuvTqyfSRNelI2rlw5dhY) | 3:05 | 2023-01-03 | 2024-04-10 |
+| [Yamato](https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Yamato](https://open.spotify.com/album/70XKff09whZDIn5OaqrPbU) | 3:21 | 2026-03-13 |  |
 | [YOU DON'T KNOW WHAT LOVE MEANS](https://open.spotify.com/track/2Ktf2I6JdWIczgrBpLEnXn) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [YOU DON’T KNOW WHAT LOVE MEANS](https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR) | 4:08 | 2022-08-17 | 2023-01-05 |
 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 | 2023-05-17 |  |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2021-08-20 |  |

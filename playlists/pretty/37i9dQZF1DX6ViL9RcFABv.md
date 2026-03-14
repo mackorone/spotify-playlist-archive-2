@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: IOLANDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,856 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,909 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 3:00 |
-| 2 | [Track 1](https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [cantar as dores baixinho \(vol\. 1\)](https://open.spotify.com/album/7GkCQaJ2CSTApEaOFlo5Wx) | 0:00 |
+| 2 | [francisco](https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [Rodrigo Correia](https://open.spotify.com/artist/1GJqIcqg2aB979wl5TIORC) | [cantar as dores baixinho \(vol\. 1\)](https://open.spotify.com/album/7GkCQaJ2CSTApEaOFlo5Wx) | 3:35 |
 | 3 | [AVELINO](https://open.spotify.com/track/1ZgTbFkY9KQFJRjCua1U0C) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [AVELINO](https://open.spotify.com/album/3krb0zGuysDTj7bMDN2VFz) | 3:08 |
 | 4 | [maria](https://open.spotify.com/track/0G7D0PfNw6VGSRR0QB1FiU) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [Rodrigo Correia](https://open.spotify.com/artist/1GJqIcqg2aB979wl5TIORC) | [maria](https://open.spotify.com/album/7g7ys0POOvhZNCZoAnnfFO) | 3:39 |
 | 5 | [Já Não Saio](https://open.spotify.com/track/082OgsZCbOvptVV5p5t6fV) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Já Não Saio](https://open.spotify.com/album/4iqIaovHEWSGNWtfRmRVEd) | 3:21 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Rashmeet Kaur
+> Catch the hottest Punjabi tracks\. Cover: Kunwarr
 
 207 songs - 10 hr 29 min
 

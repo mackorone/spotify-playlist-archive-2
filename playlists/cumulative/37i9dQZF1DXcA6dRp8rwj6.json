@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: Juice WRLD)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: Jack Harlow)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -5487,6 +5487,32 @@
     },
     {
       "album": {
+        "name": "Back in a Minute",
+        "url": "https://open.spotify.com/album/2AQCvD17QhqS38BlKx9S6B"
+      },
+      "artists": [
+        {
+          "name": "Dank Puffs",
+          "url": "https://open.spotify.com/artist/2bTRmUYk3HLOlmfaAFnHcg"
+        },
+        {
+          "name": "Ben Utomo",
+          "url": "https://open.spotify.com/artist/2w1klrlMW8RqL6YLOy0OKs"
+        },
+        {
+          "name": "Profound LA",
+          "url": "https://open.spotify.com/artist/2WeHGOzmbHhXW1jpkEGZwq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189329,
+      "name": "Back in a Minute",
+      "url": "https://open.spotify.com/track/4CV0JyctkM8wIAI2ciwumy"
+    },
+    {
+      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
       },
@@ -9228,7 +9254,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 112733,
       "name": "Booga",
       "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
@@ -19562,7 +19588,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 138795,
       "name": "FaceTime (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7bxtXC2RHjmd7yNQPnbiZI"
@@ -25090,6 +25116,24 @@
       "duration_ms": 121112,
       "name": "Grrrls",
       "url": "https://open.spotify.com/track/7Mto5DGHzHXzF1hpsMRtYK"
+    },
+    {
+      "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
     },
     {
       "album": {
@@ -42722,6 +42766,28 @@
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "album": {
+        "name": "Not Me",
+        "url": "https://open.spotify.com/album/2VNAAIKyHXofZt4BA9zpQR"
+      },
+      "artists": [
+        {
+          "name": "Amayajane",
+          "url": "https://open.spotify.com/artist/0hE5enk7A5YxpmP0dzpnib"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "Not Me",
+      "url": "https://open.spotify.com/track/58o4g28FBSvEGzWbnLkDBl"
     },
     {
       "album": {
@@ -61989,6 +62055,32 @@
     },
     {
       "album": {
+        "name": "THEME OF TAXMEN",
+        "url": "https://open.spotify.com/album/0fodGZkEU3fVNsnS4VnaMB"
+      },
+      "artists": [
+        {
+          "name": "TAXMEN",
+          "url": "https://open.spotify.com/artist/3jPLkrcUodhzpbCXABDixk"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        },
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180844,
+      "name": "THEME OF TAXMEN",
+      "url": "https://open.spotify.com/track/3SWgMu41C5oF6pnw8NtRwF"
+    },
+    {
+      "album": {
         "name": "Therapy pt. 2 [Feat. Mac Miller]",
         "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
@@ -63750,6 +63842,24 @@
       "duration_ms": 130996,
       "name": "TRACK D",
       "url": "https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
     },
     {
       "album": {

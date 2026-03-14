@@ -4288,7 +4288,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 265511,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5RZ74VjNYc2wX6jMU9qD2G"
@@ -6863,6 +6863,24 @@
     },
     {
       "album": {
+        "name": "Mama (\u5988\u5988)",
+        "url": "https://open.spotify.com/album/2y68RXbWC1zJuy7cdOn1I2"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220948,
+      "name": "Mama (\u5988\u5988)",
+      "url": "https://open.spotify.com/track/5lIHqThQVZmGFZIIn7B2ys"
+    },
+    {
+      "album": {
         "name": "Manzana",
         "url": "https://open.spotify.com/album/28Z3NNHpbtL0aqhAWLuIIb"
       },
@@ -9135,6 +9153,24 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
+    },
+    {
+      "album": {
         "name": "Pullin'",
         "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
       },
@@ -10110,7 +10146,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174338,
       "name": "Somersaults",
       "url": "https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB"

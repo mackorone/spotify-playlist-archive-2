@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJ67adBH6PWzRRH7839jlbVR0H7sLR",
+  "snapshot_id": "AAAJ7w4Pr2S7k0qwoEij9WXJCI7srjyC",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -39647,6 +39647,74 @@
       "duration_ms": 264742,
       "name": "Sous la lune, le murmure",
       "url": "https://open.spotify.com/track/1F7g51N0nafLXuALdyKJyJ"
+    },
+    {
+      "added_at": "2026-03-14 02:22:47",
+      "album": {
+        "name": "My Chinese lunch",
+        "url": "https://open.spotify.com/album/5LZoQOUy5sCwOzrxscPllT"
+      },
+      "artists": [
+        {
+          "name": "Ladat",
+          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "My Chinese lunch",
+      "url": "https://open.spotify.com/track/1TskrYmWygyW0Jri2HicKC"
+    },
+    {
+      "added_at": "2026-03-14 02:23:04",
+      "album": {
+        "name": "On My Own (Live)",
+        "url": "https://open.spotify.com/album/5lCNLhmQSKiFHmLLPAVPFb"
+      },
+      "artists": [
+        {
+          "name": "Herbert Kretzmer",
+          "url": "https://open.spotify.com/artist/7mK42D3rSMKrezfx5n4dWY"
+        },
+        {
+          "name": "Ray Lao",
+          "url": "https://open.spotify.com/artist/4ke0Z6uwW8AZKFMX1AdfJf"
+        }
+      ],
+      "duration_ms": 136908,
+      "name": "On My Own (Live)",
+      "url": "https://open.spotify.com/track/26g3Bk34MqtXNS0wuO2Ire"
+    },
+    {
+      "added_at": "2026-03-14 02:23:58",
+      "album": {
+        "name": "Joseph Prayed in Faith",
+        "url": "https://open.spotify.com/album/38UcjJyyb7lyKToh7saOQk"
+      },
+      "artists": [
+        {
+          "name": "Hyrum Gray",
+          "url": "https://open.spotify.com/artist/23nAsyhNKSQ7CnMi1RugQs"
+        }
+      ],
+      "duration_ms": 217430,
+      "name": "Joseph Prayed in Faith",
+      "url": "https://open.spotify.com/track/6Ku5qUZycBzXE6CwkhuMnI"
+    },
+    {
+      "added_at": "2026-03-14 02:27:20",
+      "album": {
+        "name": "Mi Coraz\u00f3n En Pedazos",
+        "url": "https://open.spotify.com/album/0JgLGUnsb4SXd6Z0IyQum3"
+      },
+      "artists": [
+        {
+          "name": "JINSEN",
+          "url": "https://open.spotify.com/artist/3CvhFGSPAKLmCJUpEiCsUh"
+        }
+      ],
+      "duration_ms": 139142,
+      "name": "Mi Coraz\u00f3n En Pedazos",
+      "url": "https://open.spotify.com/track/6j0TJFdQmdAsJTXg41XeBG"
     }
   ],
   "unique_name": "Cruise Music",

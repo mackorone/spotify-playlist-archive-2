@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-342 songs - 20 hr 15 min
+343 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 | 2022-02-25 | 2022-08-06 |
 | [Closer](https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Patience](https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8) | 3:17 | 2025-06-28 |  |
 | [Come For Me \(Unlocked\) \(feat\. Khalid & Lucky Daye\)](https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:29 | 2022-02-25 | 2022-03-26 |
-| [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 | 2022-02-25 |  |
+| [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 | 2022-02-25 | 2026-03-14 |
 | [Comeback.](https://open.spotify.com/track/3rfw4ft9rlXbbQzqRJIaYV) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:03 | 2022-02-25 | 2025-06-14 |
 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 | 2022-02-25 | 2022-03-12 |
 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 | 2022-02-25 |  |
@@ -331,6 +331,7 @@
 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 | 2022-07-01 | 2024-04-19 |
 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 | 2024-01-26 | 2024-02-03 |
 | [Waterfall](https://open.spotify.com/track/3MUb3mziKpbLN8NB0VPplV) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk), [PLANTTTA Lab](https://open.spotify.com/artist/25DO6Yyq4TbNo7ICQIwLSU) | [Waterfall](https://open.spotify.com/album/4P35qUvgULbZRNpohOdoeI) | 3:20 | 2022-05-06 | 2022-05-20 |
+| [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 | 2026-03-13 |  |
 | [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-02-25 |  |
 | [Wet Dreamz](https://open.spotify.com/track/2OhVsFUxkFIp8LuBTjH2Rs) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 3:05 | 2023-11-10 | 2024-04-19 |
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-22 | 2022-06-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Start you day with God and let these songs set you up to have a GOoD morning! ",
-  "num_followers": 121444,
+  "num_followers": 121468,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-12 22:14:59",
       "album": {
-        "name": "awakening",
-        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "awakening",
-      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
-    },
-    {
-      "added_at": "2025-12-12 22:14:59",
-      "album": {
         "name": "So Blessed",
         "url": "https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 196862,
       "name": "So Blessed",
       "url": "https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr"
+    },
+    {
+      "added_at": "2025-12-12 22:14:59",
+      "album": {
+        "name": "awakening",
+        "url": "https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "awakening",
+      "url": "https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi"
     },
     {
       "added_at": "2025-12-12 22:14:59",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-12-12 22:14:59",
       "album": {
-        "name": "Don't Run Away",
-        "url": "https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        },
-        {
-          "name": "DJ DENZ The Rooster",
-          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
-        }
-      ],
-      "duration_ms": 188482,
-      "name": "Don't Run Away",
-      "url": "https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ"
-    },
-    {
-      "added_at": "2025-12-12 22:14:59",
-      "album": {
         "name": "Seeking",
         "url": "https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 214000,
       "name": "Seeking",
       "url": "https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8"
+    },
+    {
+      "added_at": "2025-12-12 22:14:59",
+      "album": {
+        "name": "Don't Run Away",
+        "url": "https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        },
+        {
+          "name": "DJ DENZ The Rooster",
+          "url": "https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd"
+        }
+      ],
+      "duration_ms": 188482,
+      "name": "Don't Run Away",
+      "url": "https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ"
     },
     {
       "added_at": "2025-12-12 22:14:59",

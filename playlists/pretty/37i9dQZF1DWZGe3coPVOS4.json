@@ -1,13 +1,29 @@
 {
   "description": "The perfect family party playlist - jam packed with all your favorite KIDZ BOP hits.",
-  "num_followers": 18314,
+  "num_followers": 18321,
   "original_name": "Kidz Bop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClJSH2JKSbF/qiSX//OdPiOeLy8",
+  "snapshot_id": "AAAAAEJ6tfJHVVpoaadhMJOUKddX70Wt",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 232190,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
+    },
     {
       "added_at": "2026-02-06 05:00:36",
       "album": {
@@ -759,22 +775,6 @@
       "duration_ms": 207653,
       "name": "Popular",
       "url": "https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z"
-    },
-    {
-      "added_at": "2026-01-09 05:31:05",
-      "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 179247,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
     },
     {
       "added_at": "2026-01-09 05:31:05",

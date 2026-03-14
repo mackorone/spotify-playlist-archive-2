@@ -582,7 +582,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 329545,
       "name": "Goriye Main Jana Pardes",
       "url": "https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9"
@@ -1522,6 +1522,32 @@
       "duration_ms": 248554,
       "name": "Raat Chanani Maen Turan",
       "url": "https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux"
+    },
+    {
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X"
+      },
+      "artists": [
+        {
+          "name": "Shye Ben Tzur",
+          "url": "https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf"
+        },
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        },
+        {
+          "name": "The Rajasthan Express",
+          "url": "https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291251,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB"
     },
     {
       "album": {

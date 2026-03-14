@@ -4321,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174120,
+      "name": "The Best of Both Worlds - From \"Hannah Montana\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg"
+    },
+    {
+      "album": {
         "name": "Hannah Montana The Movie",
         "url": "https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o"
       },

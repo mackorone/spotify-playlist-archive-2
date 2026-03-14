@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+    },
+    {
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190866,
       "name": "Hotter",
       "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
@@ -2360,6 +2378,28 @@
       "duration_ms": 156620,
       "name": "Jacar\u00e9",
       "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "album": {
@@ -2924,6 +2964,24 @@
       "duration_ms": 198425,
       "name": "Love Songs (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
+    },
+    {
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "album": {
@@ -3910,6 +3968,32 @@
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
+    },
+    {
+      "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
     },
     {
       "album": {
@@ -4985,6 +5069,32 @@
     },
     {
       "album": {
+        "name": "Sun Went Down, Sky Went Dark",
+        "url": "https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0"
+      },
+      "artists": [
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "GIVVEN",
+          "url": "https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly"
+        },
+        {
+          "name": "Senes",
+          "url": "https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Sun Went Down, Sky Went Dark",
+      "url": "https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo"
+    },
+    {
+      "album": {
         "name": "Kids in Love",
         "url": "https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM"
       },
@@ -5154,6 +5264,28 @@
       "duration_ms": 209178,
       "name": "Talk It Over",
       "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
       "album": {
@@ -5336,7 +5468,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 176114,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"

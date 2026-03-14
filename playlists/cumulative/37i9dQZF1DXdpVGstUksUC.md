@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-340 songs - 1 day 8 hr 42 min
+342 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bright Lights](https://open.spotify.com/track/34vd6m1U66lnoSXZtC4fyI) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [6](https://open.spotify.com/album/7wv7I672qgjQABJ7SM2zi4) | 3:53 | 2023-09-29 |  |
 | [Burning Planet](https://open.spotify.com/track/1q7nVW28Sj9UzLbsQ8moCp) | [Lord Vapour](https://open.spotify.com/artist/4k2Remoagbeqqoh5C5MDuz) | [Semuta](https://open.spotify.com/album/2dJ5HeNcfd7Xgl98EWYnaP) | 5:49 | 2022-01-14 | 2022-02-19 |
 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 | 2023-03-22 |  |
-| [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 | 2023-07-21 |  |
+| [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 | 2023-07-21 | 2026-03-14 |
 | [Cactus](https://open.spotify.com/track/33E8wWq7EO0wKObVxgv2DW) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/4GzKoHmSWH8d9QmAW679es) | 5:49 | 2021-11-30 | 2022-07-29 |
 | [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 | 2022-08-26 | 2023-03-23 |
 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 | 2023-05-19 | 2025-11-02 |
@@ -128,7 +128,7 @@
 | [Get It](https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2) | 3:10 | 2022-04-28 | 2023-03-23 |
 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 | 2023-02-10 |  |
 | [Ghost In My Speaker](https://open.spotify.com/track/4iv6rGqTTY9OPo3gO9kImr) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Love, Sex, Volume](https://open.spotify.com/album/5c8n4VqsS8iUCCSJtBBsWQ) | 4:17 | 2021-11-30 | 2022-07-24 |
-| [Gila Monster](https://open.spotify.com/track/3M48swVS1NBX5V4SLESekp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation](https://open.spotify.com/album/53X6xpjjMDMfZ5IWMyonvC) | 4:35 | 2023-06-23 |  |
+| [Gila Monster](https://open.spotify.com/track/3M48swVS1NBX5V4SLESekp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation](https://open.spotify.com/album/53X6xpjjMDMfZ5IWMyonvC) | 4:35 | 2023-06-23 | 2026-03-14 |
 | [Gimme the Keys](https://open.spotify.com/track/2spBFZ0QX3dr0litwWfsmC) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/4NhNjAi8FbwJQBsYf7BSfS) | 3:32 | 2021-11-30 | 2022-07-29 |
 | [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 |  |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2021-11-30 | 2022-02-14 |
@@ -232,6 +232,7 @@
 | [Rabbit One](https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sunrise On The Sufferbus](https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5) | 3:33 | 2021-11-30 |  |
 | [Rattle](https://open.spotify.com/track/2G7nuGoxXXKbxoMmTyXk1h) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/3H640JprxOBh9mxeD4kLHx) | 5:32 | 2023-03-10 | 2023-08-26 |
 | [Rattle](https://open.spotify.com/track/5t5NH0Rx2VuJ9UVflTieoT) | [Wailin' Storms](https://open.spotify.com/artist/2e1J5JQpROgSuT7RcsUbZ2) | [Rattle](https://open.spotify.com/album/2mZfuMXQuGX8ktWQvwq9rO) | 5:32 | 2021-11-30 | 2022-07-29 |
+| [Red Rocking Chair](https://open.spotify.com/track/1u13aCgd6aurUwkuUu4vR3) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Red Rocking Chair](https://open.spotify.com/album/5UXoHjimRykqta25wy8w2B) | 6:28 | 2026-03-13 |  |
 | [Regular John](https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 4:37 | 2022-04-28 | 2024-04-19 |
 | [Regular John](https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI) | 4:37 | 2021-11-30 | 2022-07-29 |
 | [Return to the Tundrasphere](https://open.spotify.com/track/2bDCKq0cgrMFEbgaLvCTqG) | [Kanaan](https://open.spotify.com/artist/3Hb1TSP5l7tR214bjmHIBA) | [Earthbound](https://open.spotify.com/album/5cgZyUkPspSn9DxxsIPWoK) | 8:41 | 2021-11-30 | 2022-02-13 |
@@ -271,6 +272,7 @@
 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 | 2023-03-22 |  |
 | [Space Lord](https://open.spotify.com/track/6GGfYfQlQhHidVOJO1tNgK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/51RrYaRLHpw1pbtpL6BE4L) | 5:55 | 2023-10-06 | 2024-04-19 |
 | [Spacegrass](https://open.spotify.com/track/2Mor7Tp1w61mPKozLewqey) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Clutch](https://open.spotify.com/album/5snxt6YTFHrBD8ACd0hPJA) | 6:31 | 2021-11-30 |  |
+| [Starting Line](https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Starting Line](https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS) | 3:51 | 2026-03-13 |  |
 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 | 2024-02-09 |  |
 | [Stigma](https://open.spotify.com/track/1pd9ahIz23fDLzgcAE9Kb8) | [Ufomammut](https://open.spotify.com/artist/105vC0oJ985P5G3g36EosL) | [Idolum \(Standard Edition\)](https://open.spotify.com/album/03nNWMkQjRkPMisaGgGwM4) | 7:12 | 2021-11-30 | 2022-02-01 |
 | [Strange Gods, Strange Altars](https://open.spotify.com/track/3MH8EVD8DLAo93PlNN5TXi) | [Sheavy](https://open.spotify.com/artist/2VFx18gs5RCvXZPHJpYjcR) | [Celestial Hi\-Fi](https://open.spotify.com/album/5bAYdLWZ9P7oHQaPFzAcwp) | 6:38 | 2021-11-30 | 2022-08-04 |

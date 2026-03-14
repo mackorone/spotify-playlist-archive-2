@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation\. Chill vibes \| Romantic dinner 2026 \| Romantische Muziek ❤️ Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 488,527 likes - 105 songs - 6 hr 58 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 488,505 likes - 105 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,18 +100,18 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 | 90 | [If I Were a Boy](https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:09 |
 | 91 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
 | 92 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 |
-| 93 | [Dream As One \- from Avatar: Fire and Ash](https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Dream As One \(from Avatar: Fire and Ash\)](https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q) | 3:19 |
-| 94 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
-| 95 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
-| 96 | [BACK WHEN YOU WERE MINE](https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BACK WHEN YOU WERE MINE](https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k) | 2:41 |
-| 97 | [Born With a Broken Heart](https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:28 |
-| 98 | [Say Something](https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There? \- Track by Track Commentary](https://open.spotify.com/album/3kwbwO3wtwyNo7zCFzWkcW) | 3:49 |
-| 99 | [This Year's Love](https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:05 |
-| 100 | [Last Goodbyes \(Acoustic Version\)](https://open.spotify.com/track/2PJcce23TKlBYwkusjGt2K) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/4fw7jipazKGdJZIKzAUo8t) | 3:13 |
-| 101 | [Weight](https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Weight](https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6) | 3:11 |
-| 102 | [Nervous \- Acoustic](https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW) | 4:10 |
-| 103 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
+| 93 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
+| 94 | [Dream As One \- from Avatar: Fire and Ash](https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Dream As One \(from Avatar: Fire and Ash\)](https://open.spotify.com/album/0xPHJd0x9iR0BLMkB2Lu4Q) | 3:19 |
+| 95 | [Skinny Love](https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 3:21 |
+| 96 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
+| 97 | [BACK WHEN YOU WERE MINE](https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BACK WHEN YOU WERE MINE](https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k) | 2:41 |
+| 98 | [Born With a Broken Heart](https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:28 |
+| 99 | [Say Something](https://open.spotify.com/track/5TvE3pk05pyFIGdSY9j4DJ) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There? \- Track by Track Commentary](https://open.spotify.com/album/3kwbwO3wtwyNo7zCFzWkcW) | 3:49 |
+| 100 | [This Year's Love](https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV) | [White Ladder \(2020 Remaster\)](https://open.spotify.com/album/65dV0TVZ9BEfudSPEt1hb6) | 4:05 |
+| 101 | [Last Goodbyes \(Acoustic Version\)](https://open.spotify.com/track/2PJcce23TKlBYwkusjGt2K) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/4fw7jipazKGdJZIKzAUo8t) | 3:13 |
+| 102 | [Weight](https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Weight](https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6) | 3:11 |
+| 103 | [Nervous \- Acoustic](https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW) | 4:10 |
 | 104 | [Blame It on Me](https://open.spotify.com/track/2vzMWO0T008m86yDnXwkII) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:15 |
 | 105 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 
-Snapshot ID: `AAAVwCt3EpdJgI0ZxRABcXFW/KvtmAH/`
+Snapshot ID: `AAAVxNryx0Ps+H2ysI4VSi5srPia2aIV`

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 김나영 \(Kim Na Young\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,697 songs - 4 day 14 hr 17 min
+1,698 songs - 4 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 | 2023-12-06 | 2024-05-18 |
 | [Here I Am Again](https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB) | 3:54 | 2021-12-20 | 2022-07-08 |
 | [Here We Are](https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3mTdCQaktzKJihC6TeI4fP) | 4:04 | 2021-12-20 | 2022-07-08 |
+| [Hidden Words](https://open.spotify.com/track/2kQJ8c4sIys2FWDgmrfYnL) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Still Shining OST Part.3](https://open.spotify.com/album/7farlwaCeA7X7HVdoV3SKu) | 4:19 | 2026-03-13 |  |
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-11 | 2022-07-27 |
 | [Hitomio Tojite](https://open.spotify.com/track/3Hf14iQ8Yx9feBxGEeMGlO) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [Hitomio Tojite](https://open.spotify.com/album/1zZ45eUO8njWPET8hCM9Mo) | 5:43 | 2024-07-31 | 2024-12-03 |
 | [Hobby](https://open.spotify.com/track/1AdQRDBrSEvrjfkJrAHY8E) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Hobby](https://open.spotify.com/album/08Elmqrujo2Zyf8BmOJnLI) | 3:37 | 2022-03-31 | 2022-04-15 |
@@ -741,7 +742,7 @@
 | [Just for a moment](https://open.spotify.com/track/0V7elfOc7DP0R0sOswnPsD) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [Greeting](https://open.spotify.com/album/026uWhfvMFjZyNEF6p0GBs) | 4:32 | 2022-03-24 | 2022-04-12 |
 | [Just hug me](https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Just hug me](https://open.spotify.com/album/5DeM0LUxSOmfXQzBedDA2F) | 3:22 | 2021-12-20 | 2022-06-29 |
 | [Just Leave Me](https://open.spotify.com/track/5ThV0PXVkkkw74WsjVrjYU) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [The World of the Married, Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/1EAuKZNnt6SEwmzKNDNW0M) | 4:19 | 2022-03-29 | 2022-04-20 |
-| [Just Love Me](https://open.spotify.com/track/5fFFK5Cy5IZzUChdQ493b5) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Just Love Me](https://open.spotify.com/album/3krLOdXJqvRFHT7XMz6FqL) | 4:37 | 2025-10-27 |  |
+| [Just Love Me](https://open.spotify.com/track/5fFFK5Cy5IZzUChdQ493b5) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Just Love Me](https://open.spotify.com/album/3krLOdXJqvRFHT7XMz6FqL) | 4:37 | 2025-10-27 | 2026-03-14 |
 | [Just Watching You](https://open.spotify.com/track/0pPl0eb7HcfwuXkFZqp4TU) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Alchemy of Souls, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5FEmnt9FCOivDPeAfNxuin) | 4:02 | 2022-07-26 | 2022-10-27 |
 | [Karaoke](https://open.spotify.com/track/79tpcoJe0n5uKGPXCq8TGM) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [Karaoke](https://open.spotify.com/album/3xkzWatd2eyaTR6wiyBB7i) | 3:21 | 2024-10-14 | 2025-04-09 |
 | [Knock](https://open.spotify.com/track/0xhykBkGxhVf2trGATsAfA) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 01](https://open.spotify.com/album/30bYSVfQCQ8sozUnbEsFrh) | 4:05 | 2023-01-20 | 2023-02-15 |

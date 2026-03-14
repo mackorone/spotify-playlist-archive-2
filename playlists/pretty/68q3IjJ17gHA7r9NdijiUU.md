@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 
 > Finally, the perfect road trip playlist is here\. Sing along to these classic hits, and discover new favorites! Classic Road Trip Songs \- Road Trip Singalong \- Throwback Drive \- Family Road Trip \- Driving Mix \- Classic Driving Mix \- Late Night Drives \- Songs to Sing in the Car \- POV: Holiday Road Trip \- Holiday Drive \- Vacation Road Trip
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 313,019 likes - 150 songs - 9 hr 47 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 313,009 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/68q3IjJ17gHA7r9NdijiUU.md) - [plain]
 | 149 | [Nothing Else Matters](https://open.spotify.com/track/0nLiqZ6A27jJri2VCalIUs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 6:28 |
 | 150 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 
-Snapshot ID: `AAAIWfGe5Ct7QczRpl4WVJo6kdmNWFMI`
+Snapshot ID: `AAAIW/5sh6W/UKfl/Teklfdog+2CN0HP`

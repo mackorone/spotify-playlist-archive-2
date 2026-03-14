@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 50028,
+  "num_followers": 50064,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACLuk8oIYn3FtDFE20+KlEo",
+  "snapshot_id": "abICAAAAAAASqzbUl35jrdODpCPP5qyc",
   "tracks": [
     {
       "added_at": null,
@@ -163,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rule Of Nines",
-        "url": "https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr"
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
       },
       "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 211154,
-      "name": "Rule Of Nines",
-      "url": "https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ"
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "added_at": null,
@@ -195,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+        "name": "Rule Of Nines",
+        "url": "https://open.spotify.com/album/0BGme1FUv8SQHVCPDzXJlr"
       },
       "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
         {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+      "duration_ms": 211154,
+      "name": "Rule Of Nines",
+      "url": "https://open.spotify.com/track/4vtJnyP8ukIKcYZ7MhfBHJ"
     },
     {
       "added_at": null,

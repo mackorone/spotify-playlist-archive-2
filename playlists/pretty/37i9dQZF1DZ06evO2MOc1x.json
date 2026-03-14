@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52875,
+  "num_followers": 52874,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABq6NZrGJK470VfwSSICm29",
+  "snapshot_id": "abICAAAAAACsor1lBCz5H89Ck5iKsZjJ",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Since I Fell for You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 216626,
       "name": "Write Me a Few of Your Lines / Kokomo Blues - 2008 Remaster",
       "url": "https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Since I Fell for You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From The Motion Picture Michael",
-        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 223133,
       "name": "You've Been in Love Too Long - 2008 Remaster",
       "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        },
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Good Man, Good Woman",
-      "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonnie Raitt And Friends",
         "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 300400,
       "name": "I Don't Want Anything To Change - Live",
       "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        },
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Good Man, Good Woman",
+      "url": "https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei"
     },
     {
       "added_at": null,

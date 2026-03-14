@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Bam Adebayo
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander
 
-887 songs - 1 day 21 hr 14 min
+888 songs - 1 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-08 |  |
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2021-09-02 | 2022-06-25 |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2023-02-26 | 2023-03-14 |
-| [Still On Dat \(with G Herbo\)](https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 3:22 | 2026-01-23 |  |
+| [Still On Dat \(with G Herbo\)](https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 3:22 | 2026-01-23 | 2026-03-14 |
 | [Still Runnin \(feat\. Meek Mill\)](https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 2:53 | 2021-09-02 | 2022-06-25 |
 | [Still Up](https://open.spotify.com/track/50oCGizbOI6tjurijUOv12) | [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [IN SU! TIME](https://open.spotify.com/album/18lckI67Rdgzp2HgB8dhZS) | 2:50 | 2024-07-12 | 2024-07-19 |
 | [STOLE YA FLOW](https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:19 | 2026-01-16 |  |
@@ -779,6 +779,7 @@
 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 | 2021-09-02 | 2024-11-02 |
 | [The Biggest G](https://open.spotify.com/track/1AgxScwu5I2MDVshvPX5cY) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [The Biggest G](https://open.spotify.com/album/5Y38W6JGNBgUfpTpMgQC8c) | 2:37 | 2025-02-21 | 2025-05-03 |
 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 | 2021-09-02 | 2023-06-10 |
+| [The Crib](https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Crib](https://open.spotify.com/album/6mrjG8ZNd723nncb0G58r6) | 1:48 | 2026-03-13 |  |
 | [The Hillbillies](https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Hillbillies](https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns) | 3:24 | 2023-08-25 | 2024-07-19 |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/6p9Y1K9yu3ojyS8fBJXUnp) | 3:20 | 2021-09-02 | 2023-03-03 |
 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 | 2024-01-12 | 2025-03-28 |

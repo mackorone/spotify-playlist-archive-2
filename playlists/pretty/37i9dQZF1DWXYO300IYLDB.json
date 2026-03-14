@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138299,
+  "num_followers": 138295,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
-        "name": "Something Stupid",
-        "url": "https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax"
-      },
-      "artists": [
-        {
-          "name": "Michal Leah",
-          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
-        }
-      ],
-      "duration_ms": 140482,
-      "name": "Something Stupid",
-      "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
         "name": "\u82b1",
         "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 247554,
       "name": "\u82b1 - Ballad",
       "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
+        "name": "Something Stupid",
+        "url": "https://open.spotify.com/album/67CNEX0WcDIDihhdoQJwax"
+      },
+      "artists": [
+        {
+          "name": "Michal Leah",
+          "url": "https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb"
+        }
+      ],
+      "duration_ms": 140482,
+      "name": "Something Stupid",
+      "url": "https://open.spotify.com/track/3yHFw2lWQRLUms1Ai3SBIS"
     },
     {
       "added_at": "2026-03-12 15:00:29",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-03-12 15:00:29",
       "album": {
+        "name": "here comes the sun",
+        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "here comes the sun",
+      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
+    },
+    {
+      "added_at": "2026-03-12 15:00:29",
+      "album": {
         "name": "Think I'm Gonna Love You",
         "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
-    },
-    {
-      "added_at": "2026-03-12 15:00:29",
-      "album": {
-        "name": "here comes the sun",
-        "url": "https://open.spotify.com/album/7yGmGWFrillHHv4p5b10q7"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "here comes the sun",
-      "url": "https://open.spotify.com/track/3XTjsOmjzu5fVDCTlLpgIQ"
     },
     {
       "added_at": "2026-03-12 15:00:29",

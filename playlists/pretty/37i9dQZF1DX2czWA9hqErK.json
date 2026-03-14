@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1327996,
+  "num_followers": 1327933,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Rubber Band Man (with Hozier)",
-        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
         }
       ],
-      "duration_ms": 220266,
-      "name": "Rubber Band Man (with Hozier)",
-      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -179,18 +175,22 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+        "name": "Rubber Band Man (with Hozier)",
+        "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 192124,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
+      "duration_ms": 220266,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "ROOM UNDER THE STAIRS",
         "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "My First Heartbreak",
         "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 206800,
       "name": "My First Heartbreak",
       "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "This Must Be Love",
-        "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
-      },
-      "artists": [
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 167459,
-      "name": "This Must Be Love",
-      "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "The Great Impersonator",
         "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "This Must Be Love",
+        "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 167459,
+      "name": "This Must Be Love",
+      "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "damn, look at the view !",
         "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 217419,
       "name": "walking on air",
       "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 148906,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Save My Heart",
         "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 181260,
       "name": "Save My Heart",
       "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Chloe Qisha",
+        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 164175,
+      "name": "Scary Movie",
+      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     }
   ],
   "unique_name": "Easy",

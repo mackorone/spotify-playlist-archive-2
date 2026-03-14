@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1176399,
+  "num_followers": 1176490,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Everlasting Light",
-      "url": "https://open.spotify.com/track/50ruR1ueH4wroJBpJOnjQS"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 203733,
       "name": "Crooked Teeth",
       "url": "https://open.spotify.com/track/1crbFuCkGL4kXnAGd63RXq"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Everlasting Light",
+      "url": "https://open.spotify.com/track/50ruR1ueH4wroJBpJOnjQS"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "The King Is Dead",
-        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "Don't Carry It All",
-      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "In Mind",
         "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "The King Is Dead",
+        "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Don't Carry It All",
+      "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
     },
     {
       "added_at": "2025-06-23 14:31:12",

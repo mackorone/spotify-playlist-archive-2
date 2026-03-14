@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,115 likes - 224 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,116 likes - 224 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 87 | [Landmine](https://open.spotify.com/track/6Sjg6cp8yXtKX5DrcEl7HV) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:04 |
 | 88 | [Straight to Hell](https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 3:45 |
 | 89 | [Blade Of Grass](https://open.spotify.com/track/7xIoinMSiwIp5BWR7toO1O) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:17 |
-| 90 | [Buyer Beware](https://open.spotify.com/track/6wOmmoM5nyS6mOyzo9wDjC) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:53 |
-| 91 | [Gabriela \(with Young Miko\) \- Young Miko Remix](https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Gabriela \(with Young Miko\) \[Young Miko Remix\]](https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1) | 3:18 |
+| 90 | [Gabriela \(with Young Miko\) \- Young Miko Remix](https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Gabriela \(with Young Miko\) \[Young Miko Remix\]](https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1) | 3:18 |
+| 91 | [Buyer Beware](https://open.spotify.com/track/6wOmmoM5nyS6mOyzo9wDjC) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:53 |
 | 92 | [THE END](https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [THE END](https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e) | 3:26 |
 | 93 | [Hold My Breath](https://open.spotify.com/track/4qtxILwBcAHEHbG7R0xF4r) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:28 |
 | 94 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 223 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 224 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcL96AAAAAAKXtmoCMsFKNpw7iPOIjX2`
+Snapshot ID: `AcMDTAAAAAANIt9304I3lXixWeAmd6ul`

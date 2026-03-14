@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ah\u00ed. Moy Bobadilla en portada.",
+  "description": "Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ah\u00ed. Los 2 de la S en portada.",
   "name": "Sentado en una hielera",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 157962,
       "name": "25 De Diciembre",
       "url": "https://open.spotify.com/track/6E2pxdNAp9Z3x8vJYqkUMb"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/3ziPLZjFDBwoMY6ivUwsPN"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172760,
+      "name": "25 De Diciembre - En Vivo",
+      "url": "https://open.spotify.com/track/2ew56Y4NaizsIKPOY7pum8"
     },
     {
       "album": {
@@ -352,7 +370,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 150675,
       "name": "Ayudame a Olvidar (En Vivo)",
       "url": "https://open.spotify.com/track/34zkRCIjw11W3lcuK418os"
@@ -519,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Especial Decembrino JUNTOS (Live)",
+        "url": "https://open.spotify.com/album/3kP7KPajXleEBy3R0JjB7O"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199926,
+      "name": "Carita de Perd\u00f3n - Juntos - Live",
+      "url": "https://open.spotify.com/track/30FxAhlxwAFAT4a82HmpbJ"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -614,7 +654,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 223886,
       "name": "Chaparrita - En Vivo",
       "url": "https://open.spotify.com/track/7IZFygqsitO8CQtPATZSJK"
@@ -840,7 +880,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 161480,
       "name": "Ctrl + Z (En Vivo)",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
@@ -1446,7 +1486,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 234506,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/3b2hRoU8E4NHvoZ7LtwBsa"
@@ -1534,6 +1574,32 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
+    },
+    {
+      "album": {
+        "name": "La Revancha Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183552,
+      "name": "El desquite - En Vivo",
+      "url": "https://open.spotify.com/track/5MyARyHHKOOs2IV7HAWMiC"
     },
     {
       "album": {
@@ -1882,7 +1948,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169993,
       "name": "El Machete - En Vivo",
       "url": "https://open.spotify.com/track/5rln23XlGiVMWC2jJuY5w9"
@@ -2138,6 +2204,28 @@
       "duration_ms": 147514,
       "name": "El Rey De Mil Coronas",
       "url": "https://open.spotify.com/track/0O98RZVXFehnS7bwICxk18"
+    },
+    {
+      "album": {
+        "name": "El Rey De Mil Coronas (En Vivo)",
+        "url": "https://open.spotify.com/album/4CK2UFpYOeRduNaxEaWLwx"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "El Rey De Mil Coronas (En Vivo)",
+      "url": "https://open.spotify.com/track/0YO0eVBZsdEgFdUgY59O6g"
     },
     {
       "album": {
@@ -2767,6 +2855,32 @@
     },
     {
       "album": {
+        "name": "Hace Falta Alfredo",
+        "url": "https://open.spotify.com/album/3jVXhKj4iD47za3T8jPB8p"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Fuera De Serie",
+          "url": "https://open.spotify.com/artist/7cBeYyUmgHMHbDO2Zr7utS"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191669,
+      "name": "Hace Falta Alfredo",
+      "url": "https://open.spotify.com/track/3c7VK84Okpyjd2sm31yuee"
+    },
+    {
+      "album": {
         "name": "Hublot",
         "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
@@ -3227,6 +3341,24 @@
     },
     {
       "album": {
+        "name": "La Ni\u00f1a Del Telefono",
+        "url": "https://open.spotify.com/album/4kQU0krh0xtWW2Ox2MWsBF"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Tempestad",
+          "url": "https://open.spotify.com/artist/7m1jfOxpHhKzzhFRJyfKAK"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231804,
+      "name": "La Ni\u00f1a Del Telefono",
+      "url": "https://open.spotify.com/track/4n1jsARd9OG4o0H2BJdoMU"
+    },
+    {
+      "album": {
         "name": "Con Tololoche",
         "url": "https://open.spotify.com/album/08xun4wjXiDdPpKbxElBjc"
       },
@@ -3638,7 +3770,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 148793,
       "name": "Los Collares",
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
@@ -3656,7 +3788,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 205287,
       "name": "Los Cremas - En Vivo",
       "url": "https://open.spotify.com/track/7fDG6q9NR5tYVCyQ2C3SW1"
@@ -3948,7 +4080,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 256754,
       "name": "Malas Rachas (En Vivo)",
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
@@ -4131,6 +4263,32 @@
     },
     {
       "album": {
+        "name": "La Revancha Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210849,
+      "name": "Mi gusto es - En Vivo",
+      "url": "https://open.spotify.com/track/07YcTW7scjFf5871jslZV8"
+    },
+    {
+      "album": {
         "name": "Exitos En Vivo Vol. 1",
         "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
       },
@@ -4261,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
+    },
+    {
+      "album": {
         "name": "Asi o Mas Norte\u00f1os",
         "url": "https://open.spotify.com/album/3hxu13g3iTKzO1X6UZg4YD"
       },
@@ -4272,10 +4448,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 247560,
       "name": "Navidad Sin Ti",
       "url": "https://open.spotify.com/track/6FaOl8zvMlK0FzznXZhDyZ"
+    },
+    {
+      "album": {
+        "name": "Puras Complacencias, Vol. 2",
+        "url": "https://open.spotify.com/album/5uXctxnOwGBIux2rr2WJc5"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "No le Digas a Nadie - En Vivo",
+      "url": "https://open.spotify.com/track/0rLGEE7NTkVuH1IHMeESWC"
     },
     {
       "album": {
@@ -4352,7 +4546,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 193828,
       "name": "Oro - En Vivo",
       "url": "https://open.spotify.com/track/6Q7uyLCshIgpdM7raSms3w"
@@ -4378,7 +4572,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 230439,
       "name": "Pacas De A Kilo - En Vivo",
       "url": "https://open.spotify.com/track/56KYV3AJ5ClHLe2g7e4pkM"
@@ -4635,6 +4829,54 @@
     },
     {
       "album": {
+        "name": "Coronar Hasta Que Amanezca (En Vivo)",
+        "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192978,
+      "name": "Por Qui\u00e9n Me Dejas (En vivo)",
+      "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
+    },
+    {
+      "album": {
+        "name": "La Revancha Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Banda la \u00danica del Rancho",
+          "url": "https://open.spotify.com/artist/7H2EP5MBxgYqLuqlgQ1bXU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148152,
+      "name": "Por una mujer casada - En Vivo",
+      "url": "https://open.spotify.com/track/0y0Y7bOI9764Gwhffr0wdj"
+    },
+    {
+      "album": {
         "name": "En Vivo Fiesta Privada",
         "url": "https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM"
       },
@@ -4646,7 +4888,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 180324,
       "name": "Prision de Amor (En Vivo)",
       "url": "https://open.spotify.com/track/6xD9FbY40IWNyXW9TQFZLr"
@@ -4762,7 +5004,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 257056,
       "name": "Que Me Lleve El Diablo",
       "url": "https://open.spotify.com/track/6S3ivLBEftGWonFmEfj28C"
@@ -4780,7 +5022,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177322,
       "name": "Regalo de Reyes",
       "url": "https://open.spotify.com/track/1VwLFsg30l1eYY3hmtjZXj"
@@ -4816,10 +5058,32 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 131320,
       "name": "Sabiendo Quien Era Yo",
       "url": "https://open.spotify.com/track/177ejgmwvRWIWN1WALqrFS"
+    },
+    {
+      "album": {
+        "name": "Sabor A Sonora (En Vivo)",
+        "url": "https://open.spotify.com/album/6i7iwcGLHbQ81Y2X1eo5Jb"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Los Pikadientes De Caborca",
+          "url": "https://open.spotify.com/artist/3aWnyANApsrS1yIpPu873P"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143445,
+      "name": "Sabor A Sonora - En Vivo",
+      "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
     },
     {
       "album": {
@@ -4933,6 +5197,24 @@
     },
     {
       "album": {
+        "name": "Sentimental (En Vivo)",
+        "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Sentimental - En Vivo",
+      "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
+    },
+    {
+      "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
@@ -4987,6 +5269,46 @@
     },
     {
       "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+    },
+    {
+      "album": {
+        "name": "Sonri\u00e9ndole A La Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/6uTfMJlT4CO62cQrrGKWhn"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Sonri\u00e9ndole A La Vida - En Vivo",
+      "url": "https://open.spotify.com/track/0rVWmNE47AvPDTqtfHXbIA"
+    },
+    {
+      "album": {
         "name": "En Vivo Con Servando ZL Vol. 3",
         "url": "https://open.spotify.com/album/4DxjpnbDqmWki8TfB5PAMz"
       },
@@ -5038,6 +5360,24 @@
       "duration_ms": 173750,
       "name": "Suerte He Tenido (En Vivo)",
       "url": "https://open.spotify.com/track/6LhkPyMHj6CGrDHRpw0dSD"
+    },
+    {
+      "album": {
+        "name": "Puras Complacencias, Vol. 1",
+        "url": "https://open.spotify.com/album/5GaOP53Bq1IYjIpj1GpuRT"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona del Rey",
+          "url": "https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185434,
+      "name": "Suspiros (En Vivo)",
+      "url": "https://open.spotify.com/track/3ssU6votRPPRQyLc7ir8Lp"
     },
     {
       "album": {
@@ -5096,7 +5436,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 588060,
       "name": "Te Presumo - Por Que Te Quiero (En Vivo)",
       "url": "https://open.spotify.com/track/3AHrF7WOEWsJOv2m8Jk4nN"
@@ -5212,7 +5552,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207625,
       "name": "Un Tabaco - En Vivo",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
@@ -5398,6 +5738,28 @@
       "duration_ms": 145472,
       "name": "Ya la Luna",
       "url": "https://open.spotify.com/track/0sJmbFssvPsTJUkrUyAMkj"
+    },
+    {
+      "album": {
+        "name": "Especial Decembrino JUNTOS (Live)",
+        "url": "https://open.spotify.com/album/3kP7KPajXleEBy3R0JjB7O"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173289,
+      "name": "Yo Me Confi\u00e9 - Juntos - Live",
+      "url": "https://open.spotify.com/track/41rtBaUgB8nK0entRkjVMv"
     },
     {
       "album": {

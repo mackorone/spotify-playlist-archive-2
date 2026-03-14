@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Bless Your Name",
+        "url": "https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251473,
+      "name": "Bless Your Name",
+      "url": "https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64"
+    },
+    {
+      "album": {
         "name": "Blood Of Christ",
         "url": "https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l"
       },
@@ -12462,6 +12480,24 @@
       "duration_ms": 286152,
       "name": "Still The King",
       "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
+    },
+    {
+      "album": {
+        "name": "Break Open",
+        "url": "https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398558,
+      "name": "Stories - Break Open",
+      "url": "https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW"
     },
     {
       "album": {

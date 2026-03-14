@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Calle 24 en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Charly Gynn en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -1334,7 +1334,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 168601,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198133,
       "name": "Agua En Mis Manos",
       "url": "https://open.spotify.com/track/4bbipIJtjjxSoyhyxpEC39"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 407073,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/5RhdxZfyZyVRWJtqVjeLHc"
@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 186454,
       "name": "Cada D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0"
@@ -7773,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "C\u00d3MO QUIERES",
+        "url": "https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "C\u00d3MO QUIERES",
+      "url": "https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc"
+    },
+    {
+      "album": {
         "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
         "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
@@ -9392,7 +9410,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 175375,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
@@ -10953,6 +10971,28 @@
     },
     {
       "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
+    },
+    {
+      "album": {
         "name": "El Tony",
         "url": "https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu"
       },
@@ -11902,6 +11942,24 @@
       "duration_ms": 148709,
       "name": "ESTO TAMBIEN ES REGGAETON MEXA",
       "url": "https://open.spotify.com/track/033wAL9AOf65vhGhLIq9uP"
+    },
+    {
+      "album": {
+        "name": "ESTOICISMO",
+        "url": "https://open.spotify.com/album/4qAlEESvgHKRHphbZc6QVC"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "ESTOICISMO",
+      "url": "https://open.spotify.com/track/7sF5eflbAhpo0wh5NX2jDZ"
     },
     {
       "album": {
@@ -13840,6 +13898,24 @@
       "duration_ms": 184766,
       "name": "Hija de Papi",
       "url": "https://open.spotify.com/track/4iFLN0kEn4iVNGsXjHJHnd"
+    },
+    {
+      "album": {
+        "name": "Historias de Amor",
+        "url": "https://open.spotify.com/album/6JRyu67LNMlSqQecsDiRuA"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175709,
+      "name": "Historias de Amor",
+      "url": "https://open.spotify.com/track/3dCC1fMIkmCH6Gnnv8pXGT"
     },
     {
       "album": {
@@ -16702,7 +16778,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 176341,
       "name": "Le Reclam\u00e9 A Cupido",
       "url": "https://open.spotify.com/track/0YnR66KiP0J4BqDYF3lm4m"
@@ -17855,6 +17931,28 @@
     },
     {
       "album": {
+        "name": "Lumbares",
+        "url": "https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202542,
+      "name": "Lumbares",
+      "url": "https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i"
+    },
+    {
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -17984,6 +18082,28 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
+    },
+    {
+      "album": {
+        "name": "Makia",
+        "url": "https://open.spotify.com/album/1Y9L31kOYOYwGCOv4TLdI3"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167450,
+      "name": "Makia",
+      "url": "https://open.spotify.com/track/2pwqiLyqSPC5tvChw2J8I0"
     },
     {
       "album": {
@@ -18422,7 +18542,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162752,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/2wSKMY0JVN7z1qvgBwg2gQ"
@@ -19396,7 +19516,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 175856,
       "name": "Mi 14",
       "url": "https://open.spotify.com/track/41Nrs8jqoZFgQ1n1b2OhDt"
@@ -20650,6 +20770,24 @@
       "duration_ms": 130909,
       "name": "MTY",
       "url": "https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6"
+    },
+    {
+      "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/2zA3A4nFCfiFitdLqgLg0G"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188121,
+      "name": "Muchacho Alegre",
+      "url": "https://open.spotify.com/track/101qOS5lXHs5hvu5xVT8Q1"
     },
     {
       "album": {
@@ -26960,7 +27098,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -30387,6 +30525,36 @@
     },
     {
       "album": {
+        "name": "TiTis",
+        "url": "https://open.spotify.com/album/5XuPajFl5ZCXTGXrO6op1Q"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+        },
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121800,
+      "name": "TiTis",
+      "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
+    },
+    {
+      "album": {
         "name": "Toca Toca",
         "url": "https://open.spotify.com/album/7iqZCK0dPbJlEc8fJbwM8r"
       },
@@ -32727,6 +32895,24 @@
     },
     {
       "album": {
+        "name": "Da\u00f1os Luz",
+        "url": "https://open.spotify.com/album/3J0M1SWFaen1h5Uiq9zdAy"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231625,
+      "name": "Vida En El Espectro",
+      "url": "https://open.spotify.com/track/1lLuaTXombvzIx89FMLBwN"
+    },
+    {
+      "album": {
         "name": "Vida Llanera",
         "url": "https://open.spotify.com/album/1RCqttIB8GPUfZ6n5F0c6T"
       },
@@ -33890,6 +34076,32 @@
       "duration_ms": 222133,
       "name": "Ya Solo Eres Mi Ex",
       "url": "https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG"
+    },
+    {
+      "album": {
+        "name": "Ya sup\u00e9ralo",
+        "url": "https://open.spotify.com/album/0TXCjPpZMrXjPB5Tt1cH0Z"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174821,
+      "name": "Ya sup\u00e9ralo",
+      "url": "https://open.spotify.com/track/0Nx4Y4mZ7Q8Lr28XrEVdlf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > essa é pros apaixonados
 
-207 songs - 12 hr 4 min
+208 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 | 2024-03-08 |  |
 | [Deusa do Amor](https://open.spotify.com/track/5AT2d6phw8bTwJYT9HgOUx) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/6opVCvfeVOBzV7a8xR4QBl) | 5:09 | 2023-05-31 | 2024-04-19 |
 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 | 2021-09-03 |  |
-| [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 | 2024-08-22 |  |
+| [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 | 2024-08-22 | 2026-03-14 |
+| [Do Que é Feito o Amor?](https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Crisálida](https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe) | 3:43 | 2026-03-13 |  |
 | [Eclipse](https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Eclipse](https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc) | 3:06 | 2024-06-14 |  |
 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 | 2024-03-22 |  |
 | [encontro de alma](https://open.spotify.com/track/0MdwaLcYuSOslnLYj3KwSb) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [encontro de alma](https://open.spotify.com/album/0HtqGveQhYxnORlsbToqEz) | 3:05 | 2025-01-31 | 2025-07-12 |

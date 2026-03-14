@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
+    },
+    {
+      "album": {
         "name": "Celebrando Al Pr\u00edncipe",
         "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
       },
@@ -2807,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "FEMME FATALE (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258967,
+      "name": "Femme Fatale - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
+    },
+    {
+      "album": {
         "name": "Florecer Contigo",
         "url": "https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG"
       },
@@ -3816,7 +3856,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
@@ -4768,7 +4808,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 189276,
       "name": "No Te Vayas Todav\u00eda",
       "url": "https://open.spotify.com/track/5YsFJQophOwbEIae7i1gtg"

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 691853,
+  "num_followers": 691891,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADhqRhVYCSz+ANMJLN2J8Im",
+  "snapshot_id": "abICAAAAAADzhTXkyhQWsKbMpAqpNDBW",
   "tracks": [
     {
       "added_at": null,
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 303076,
-      "name": "MotorSport",
-      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanna Be (Remix Alternate Versions)",
         "url": "https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 224000,
       "name": "Wanna Be (with Megan Thee Stallion & Cardi B) - Remix",
       "url": "https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
     },
     {
       "added_at": null,

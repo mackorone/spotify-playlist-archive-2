@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,232 likes - 15 songs - 1 hr 4 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,238 likes - 16 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,5 +23,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 13 | [Blab La La](https://open.spotify.com/track/2Nj0ogi7PlkI5QcHoBuCpi) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 3:17 |
 | 14 | [compass in the sea](https://open.spotify.com/track/36tOsJKdZo28qKjOyCc9Xs) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 5:12 |
 | 15 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 |
+| 16 | [Meaning Business](https://open.spotify.com/track/2NlsCmQjDF6MtFdcXOQZE2) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Meaning Business](https://open.spotify.com/album/73gasAEPo2MCGHHIZNj9oN) | 4:18 |
 
-Snapshot ID: `AAAOBX92YuTkYCbYCN7DkvovuTBrmaBg`
+Snapshot ID: `AAAOCKOqH23j4eu2M+XZs4P3L2Py4VbI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,500 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,508 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 33 | [愛・おぼえていますか](https://open.spotify.com/track/2uTwJLK1BaFVbEX5qX9D1W) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [「映画 超時空要塞マクロス」 愛・おぼえていますか ＜音楽篇＞](https://open.spotify.com/album/4M8FC84kiEbXl7W49WxspP) | 5:09 |
 | 34 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
 | 35 | [夏のミラージュ](https://open.spotify.com/track/17QmZTdwAkTB3b9rGLNbur) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [Esquisse（エスキース）](https://open.spotify.com/album/41ka6U4rOJel17t5UI8Fvl) | 4:31 |
-| 36 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
-| 37 | [愛がひとりぼっち](https://open.spotify.com/track/5xAKNKw4sa77VlVDdF1dtP) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [タッチ](https://open.spotify.com/album/6gSfmXLxjFCLtYqMtMWZrp) | 3:57 |
+| 36 | [愛がひとりぼっち](https://open.spotify.com/track/5xAKNKw4sa77VlVDdF1dtP) | [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV) | [タッチ](https://open.spotify.com/album/6gSfmXLxjFCLtYqMtMWZrp) | 3:57 |
+| 37 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 38 | [Angel Night （天使のいる場所）](https://open.spotify.com/track/0ptGT3l9KtWn9ZObisgdB8) | [PSY・S［saiz］](https://open.spotify.com/artist/3zntsh5zPf73xyMnRi91jv) | [劇場版シティーハンター <新宿プライベート・アイズ> \-VOCAL COLLECTION\-](https://open.spotify.com/album/7wUFFg8P5ctTc13EOKCBdy) | 4:28 |
 | 39 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
 | 40 | [ゴーゴーヘブン](https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP) | [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [The LEGEND](https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL) | 3:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 45 | [コン・バトラ－Vのテーマ \(超電磁ロボ コン・バトラーV\)](https://open.spotify.com/track/1OW3ZQGNigjhgK3XPLGKQM) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [スーパーロボット大戦 ボーカルコレクション ROBONATION.1](https://open.spotify.com/album/4k3YcCaweAEVWNdRhdCPbz) | 2:55 |
 | 46 | [ロ・ロ・ロ・ロシアン・ルーレット \- レコード・ヴァージョン](https://open.spotify.com/track/0Zxy0ruSsqpKy948m4b4Qw) | [Meiko Nakahara](https://open.spotify.com/artist/0dIGBGRHRiNzdTpZofcJ3Z) | [2000BEST（ミレニアムベスト）中原めいこ　ベスト](https://open.spotify.com/album/1br0H7DDGX0tXAANMR8AC3) | 3:43 |
 | 47 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
-| 48 | [恋の呪文はスキトキメキトキス](https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3) | [Sayaka Ito](https://open.spotify.com/artist/6nKujzNF0kB0rt5ybWy0Qc) | [恋の呪文はスキトキメキトキス](https://open.spotify.com/album/1A7VavwNMyg7qVHc9NHlO1) | 3:15 |
+| 48 | [リンゴの森の子猫たち](https://open.spotify.com/track/3tHYALAtyNsJsR641c6T36) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [スプーンおばさん 音楽集](https://open.spotify.com/album/2tn11xfn8ykLdxdg1SlyLN) | 2:28 |
 | 49 | [キン肉マン Go Fight! \(キン肉マン\)](https://open.spotify.com/track/4FgRL3zhaMIptBNJoGa8IM) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈！アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:37 |
-| 50 | [リンゴの森の子猫たち](https://open.spotify.com/track/3tHYALAtyNsJsR641c6T36) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [スプーンおばさん 音楽集](https://open.spotify.com/album/2tn11xfn8ykLdxdg1SlyLN) | 2:28 |
+| 50 | [恋の呪文はスキトキメキトキス](https://open.spotify.com/track/2h2kYXIY5fZ5E0RUwb9Ln3) | [Sayaka Ito](https://open.spotify.com/artist/6nKujzNF0kB0rt5ybWy0Qc) | [恋の呪文はスキトキメキトキス](https://open.spotify.com/album/1A7VavwNMyg7qVHc9NHlO1) | 3:15 |
 
 Snapshot ID: `AAAAAH8VITlEKzhdQqHpkq54N7lLP+tj`

@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-788 songs - 1 day 23 hr 13 min
+789 songs - 1 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,7 +549,7 @@
 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 | 2021-12-17 |  |
 | [Quick Hands](https://open.spotify.com/track/6HCf9COkucXMcnqxJ1hfP0) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [Quick Hands](https://open.spotify.com/album/0CDO8xzg9Ke3k9og3g8BYq) | 3:23 | 2022-07-29 |  |
 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 | 2022-01-24 | 2022-04-20 |
-| [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 | 2021-12-17 |  |
+| [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 | 2021-12-17 | 2026-03-14 |
 | [Raining in June](https://open.spotify.com/track/72Q3BQhu0w6A81ouAUp7UL) | [Olive Klug](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/6QV1td1iGOspFOKYZOfUbv) | 2:46 | 2022-07-22 | 2024-04-19 |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2021-12-17 | 2022-04-20 |
 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 | 2021-12-17 |  |
@@ -573,6 +573,7 @@
 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2022-01-24 | 2023-01-28 |
 | [Romeo and Juliet](https://open.spotify.com/track/2Qp8gzkYvzANKwLreWj40d) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Romeo and Juliet](https://open.spotify.com/album/2A27vmxWEHF8HZ7tNJ7x2P) | 5:32 | 2022-01-24 | 2022-04-15 |
 | [Roses](https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Roses](https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU) | 4:22 | 2021-12-17 |  |
+| [Roses](https://open.spotify.com/track/62s52tM1aHavlhEi57R4ob) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 4:13 | 2026-03-13 |  |
 | [Rosie](https://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 4:02 | 2022-01-24 |  |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-02-01 | 2022-04-21 |
 | [Run the Other Way](https://open.spotify.com/track/2jH8Hf5xo7BDseC9FNDJ0a) | [Austin Ward](https://open.spotify.com/artist/3iQH8Wnh2zRBvZEdoV2aHz) | [Let Me Go](https://open.spotify.com/album/3Q7QvqrBY1tmstIaPsixkt) | 4:00 | 2022-01-24 | 2022-04-20 |

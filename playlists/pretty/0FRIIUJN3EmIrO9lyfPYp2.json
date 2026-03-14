@@ -6,8 +6,164 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACcm942APg5D+7BiLNgty5JpRFLmX8",
+  "snapshot_id": "AAACc45rfZcvoTV04GLOkKSc2oAoGCUY",
   "tracks": [
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "nowhere",
+        "url": "https://open.spotify.com/album/187wrSVkg8pCIeYpbiqMxA"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 108800,
+      "name": "nowhere",
+      "url": "https://open.spotify.com/track/4DTHu3EyXMsXHloMVKJIY7"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "lacuria",
+        "url": "https://open.spotify.com/album/5wGjaXZZp9KaGS2h9eyQAL"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        },
+        {
+          "name": "wairua",
+          "url": "https://open.spotify.com/artist/7x0lIBdNsjGYpP372dTIhq"
+        }
+      ],
+      "duration_ms": 79370,
+      "name": "lacuria",
+      "url": "https://open.spotify.com/track/0YxDkWD0AUg0QYaNp3EpSy"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "desperate",
+        "url": "https://open.spotify.com/album/5RUzy9F0FvO4DusO4TpUgv"
+      },
+      "artists": [
+        {
+          "name": "Shomamick.",
+          "url": "https://open.spotify.com/artist/5cBBiwYlrrXcMDHPAMKIep"
+        }
+      ],
+      "duration_ms": 175495,
+      "name": "you decided that",
+      "url": "https://open.spotify.com/track/3yshUcmx6Xjz57nM57x6KH"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "somebody like you",
+        "url": "https://open.spotify.com/album/6t4B4Qe3PRFD8vhGrPjAsN"
+      },
+      "artists": [
+        {
+          "name": "insensible",
+          "url": "https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU"
+        }
+      ],
+      "duration_ms": 142163,
+      "name": "somebody like you",
+      "url": "https://open.spotify.com/track/06R5UhaVHHSWXcOEbmtFD4"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "healing",
+        "url": "https://open.spotify.com/album/46LS6PkNdRsO7OTIIl5cWd"
+      },
+      "artists": [
+        {
+          "name": "Etsu",
+          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
+        }
+      ],
+      "duration_ms": 100459,
+      "name": "healing",
+      "url": "https://open.spotify.com/track/1y0YuST93O5QcVrUjQnUe2"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "beyond",
+        "url": "https://open.spotify.com/album/17oEoOWCkUMniPW3BwvwKt"
+      },
+      "artists": [
+        {
+          "name": "l\u00f8nelyspirit",
+          "url": "https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih"
+        },
+        {
+          "name": "sevenlies",
+          "url": "https://open.spotify.com/artist/5Rk8mfDsfEfTWfh3EsY9n7"
+        }
+      ],
+      "duration_ms": 145276,
+      "name": "beyond",
+      "url": "https://open.spotify.com/track/44fnnuKxMZwCkpURnQQpYM"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "Asleep",
+        "url": "https://open.spotify.com/album/3jAw0pT2eeF80JPVBqcJJq"
+      },
+      "artists": [
+        {
+          "name": "Imxone",
+          "url": "https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP"
+        }
+      ],
+      "duration_ms": 188072,
+      "name": "Asleep",
+      "url": "https://open.spotify.com/track/0Mkx0cAnUaqIa4UUnhAwzE"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "faith",
+        "url": "https://open.spotify.com/album/5CxocrVEp6aDqdPiRe6Hn1"
+      },
+      "artists": [
+        {
+          "name": "Unnholy",
+          "url": "https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX"
+        },
+        {
+          "name": "ankiiyo",
+          "url": "https://open.spotify.com/artist/4yPuVkZ2p8q37O8p7SgFA9"
+        }
+      ],
+      "duration_ms": 75543,
+      "name": "faith",
+      "url": "https://open.spotify.com/track/4M2fCQRL0FXTkBtkNglCC3"
+    },
+    {
+      "added_at": "2026-03-13 20:11:07",
+      "album": {
+        "name": "lovehurts",
+        "url": "https://open.spotify.com/album/5hn4MDNxjbejLsPipmc1sM"
+      },
+      "artists": [
+        {
+          "name": "furosha",
+          "url": "https://open.spotify.com/artist/2zOnDIoiXCQvxNUEkhLM8l"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "lovehurts",
+      "url": "https://open.spotify.com/track/0bcLRLS4nAtETYjKWrUPCh"
+    },
     {
       "added_at": "2026-03-07 21:25:35",
       "album": {

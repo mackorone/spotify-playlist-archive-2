@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-196 songs - 11 hr 35 min
+197 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [De Cara a la Pared](https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:15 | 2025-07-18 |  |
 | [Delay](https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Delay](https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw) | 2:43 | 2025-11-06 | 2026-01-23 |
 | [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 | 2025-11-06 | 2026-01-15 |
-| [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 | 2026-02-27 |  |
+| [Don't Forget Yourself](https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [California Calling](https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp) | 3:21 | 2026-02-27 | 2026-03-14 |
 | [Driving on the Highway](https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 3:29 | 2025-11-06 |  |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-14 | 2026-02-14 |
 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 | 2025-11-14 |  |
@@ -67,6 +67,7 @@
 | [Found Your Love](https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [Kuyen](https://open.spotify.com/artist/19Dh373FE7YK7FWvVxOk3b) | [Celestial Strut](https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM) | 5:49 | 2025-07-18 |  |
 | [Friends Forever](https://open.spotify.com/track/5eHgnG2cyhOSXnwWhXHzBH) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Friends Forever](https://open.spotify.com/album/0aHENRpaOYXCBwOTGNpvyB) | 2:50 | 2025-07-18 | 2025-08-22 |
 | [FYO](https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [FYO](https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1) | 2:44 | 2026-01-30 | 2026-02-01 |
+| [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 |  |
 | [Get Knocked Down](https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Get Knocked Down](https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4) | 3:40 | 2025-07-18 | 2025-08-10 |
 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 | 2025-07-18 |  |
 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 | 2026-01-30 | 2026-03-07 |

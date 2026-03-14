@@ -4,7 +4,7 @@
 
 > De magie van R&B \| Nieuwe releases \| Cover: Naomi Sharon
 
-719 songs - 1 day 13 hr 2 min
+720 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,7 +404,7 @@
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-12-16 | 2022-01-21 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2021-12-16 | 2023-01-13 |
 | [Minute Of Your Time](https://open.spotify.com/track/7HNWDwnXo5othNGGiuAOjq) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [BLACKLIGHT](https://open.spotify.com/album/2RqlUrnGFM11mCCUccZPVw) | 3:04 | 2026-02-26 |  |
-| [Misbehave](https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:15 | 2025-06-27 |  |
+| [Misbehave](https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:15 | 2025-06-27 | 2026-03-14 |
 | [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 | 2023-09-01 |
 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 | 2026-02-26 |  |
 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 | 2026-02-23 |  |
@@ -491,6 +491,7 @@
 | [Petty](https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:03 | 2023-01-12 | 2023-05-13 |
 | [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 | 2023-01-12 | 2023-05-12 |
 | [Petty](https://open.spotify.com/track/5s7SToFcsOVGPDIv6Fv6dA) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 3:15 | 2023-05-08 | 2023-09-01 |
+| [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 | 2026-03-13 |  |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2023-01-12 | 2023-03-09 |
 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 | 2026-02-03 |  |
 | [Players Voicemail](https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2) | [Players Voicemail](https://open.spotify.com/album/4fG96aFKveEb0QV0vZmaTs) | 2:52 | 2024-07-05 | 2025-03-08 |

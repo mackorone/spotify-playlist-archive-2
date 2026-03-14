@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,554 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,554 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 17 | [Matkor](https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Aaj Hamar Pyar Ke Shadi Ba](https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi) | 2:56 |
 | 18 | [Sir Ke Sundoor Re Gavanva](https://open.spotify.com/track/1lUZzS2Yt5MjSXgFAxmq4f) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:13 |
 | 19 | [Janghiya Baithawal Ae Papa](https://open.spotify.com/track/3rItI3pw4qd21dUfpQgoDI) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Ailein Dulha Raja](https://open.spotify.com/album/6OKyFlMxEdBcoEJozVgbiI) | 4:13 |
-| 20 | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Shatakshi Chakraborty](https://open.spotify.com/artist/0sHqr4WJZKAFNTZHQGClzA) | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ) | 2:54 |
-| 21 | [Chal Jayie Sasural](https://open.spotify.com/track/5kfAtenoVSfYjavPReU68R) | [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT) | [Dacait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2iL6AoCQ6oZYsLibMz49nz) | 4:08 |
+| 20 | [Chal Jayie Sasural](https://open.spotify.com/track/5kfAtenoVSfYjavPReU68R) | [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT) | [Dacait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2iL6AoCQ6oZYsLibMz49nz) | 4:08 |
+| 21 | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Shatakshi Chakraborty](https://open.spotify.com/artist/0sHqr4WJZKAFNTZHQGClzA) | [Samdhi Ji \(Wedding Song 2\)](https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ) | 2:54 |
 | 22 | [Sone Ke Sinhorwa \- From "Mehaan"](https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu), [RR Pankaj](https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7) | [Sone Ke Sinhorwa \(From "Mehaan"\)](https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu) | 2:43 |
 | 23 | [Saanvar \- Saanvar Suratiya Tohar Dulha \(Baraat\)](https://open.spotify.com/track/5EROAJcLJVFVIC3qFb67aY) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 7:27 |
 | 24 | [Jehne Kishori Mori](https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Jehne Kishori Mori](https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF) | 4:41 |
 | 25 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 |
-| 26 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 |
-| 27 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
+| 26 | [Chutki Bhar Senura](https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q) | [Chutki Bhar Senura](https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w) | 6:52 |
+| 27 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 |
 | 28 | [Suna Ho Paahun \(Lava Chhitaai\)](https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 4:09 |
 | 29 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 |
 | 30 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 47 | [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 |
 | 48 | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu) | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq) | 2:20 |
 | 49 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
-| 50 | [Shaadi Ke Bandan](https://open.spotify.com/track/5Ju0yXlVpxYw8DjdMRFzwQ) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 8:24 |
+| 50 | [Shri Ganeshay Namah](https://open.spotify.com/track/5WoSQKlucY7p6W4laXFGLd) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 5:43 |
 
 Snapshot ID: `AAAAAJ1Dm70MT6tGfUq22FaUzXFNiJLa`

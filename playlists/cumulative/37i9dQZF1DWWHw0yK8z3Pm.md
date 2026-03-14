@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of country and folk\. Cover: Bella White
+> Fearless sounds at the crossroads of country and folk\. Cover: Whitehorse
 
-685 songs - 1 day 17 hr 24 min
+686 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 | 2023-06-02 | 2025-06-07 |
 | [Mountain Song](https://open.spotify.com/track/2V7pN4tpheOfsPd7JkUQ22) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 4:09 | 2024-03-15 | 2024-04-19 |
 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 | 2022-08-26 | 2024-06-27 |
-| [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-12-06 |  |
+| [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 | 2024-12-06 | 2026-03-14 |
 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 | 2025-02-07 |  |
 | [Music for the Soul](https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Music for the Soul](https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal) | 3:44 | 2025-08-01 |  |
 | [My Best Western](https://open.spotify.com/track/3rmizqk5SbVCc1phDEiLUM) | [Yesterday's Ring](https://open.spotify.com/artist/7z76KyK7conOi6VHDiEPk6) | [Goodbye Nightlife](https://open.spotify.com/album/1llw5IJGwZzz7E2YqYQtv2) | 3:15 | 2022-05-13 | 2022-07-29 |
@@ -535,6 +535,7 @@
 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 | 2024-07-19 | 2025-03-22 |
 | [Seasons](https://open.spotify.com/track/6E04ZDC2zmiBNonSpjVCe8) | [Blackbird Valley](https://open.spotify.com/artist/44Q243Ct8zD0pJAT6v4jGV) | [Seasons](https://open.spotify.com/album/3Wuu6SCOFRfoo0NVf40lef) | 5:01 | 2022-07-22 | 2023-04-22 |
 | [Second Thought](https://open.spotify.com/track/6aVcvW1HA1hEblYlJM8hAN) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Second Thought](https://open.spotify.com/album/0eMOa6K8m3LyiOUozJLrri) | 3:29 | 2022-08-26 | 2022-10-01 |
+| [See the Light](https://open.spotify.com/track/4jefPAr9RrTpv9wjF55RvC) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [See the Light](https://open.spotify.com/album/6LBRPd6kLMbi9FjtAYPQKl) | 4:27 | 2026-03-13 |  |
 | [Seeds](https://open.spotify.com/track/0t47bIDjKLTxUSwtWGZcj6) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Seeds](https://open.spotify.com/album/2UWDJDoJRSgCyYpH333UlV) | 4:03 | 2022-06-29 | 2022-09-17 |
 | [Sell all you have](https://open.spotify.com/track/4rQ9Rj1Au4Weq6szFakdZK) | [Zachary Lucky](https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E) | [Sell all you have](https://open.spotify.com/album/1NIiKN6O4r92ggOyAtBHvh) | 4:24 | 2026-02-06 | 2026-02-28 |
 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 | 2023-08-04 | 2025-10-18 |

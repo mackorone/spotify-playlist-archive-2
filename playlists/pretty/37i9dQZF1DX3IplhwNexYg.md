@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,114 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,107 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 35 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
 | 36 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 |
 | 37 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
-| 38 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
-| 39 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 |
+| 38 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 |
+| 39 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
 | 40 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
 | 41 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |
 | 42 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 57 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
 | 58 | [willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 |
 | 59 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 |
-| 60 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
-| 61 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
+| 60 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
+| 61 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
 | 62 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 |
 | 63 | [EXHAUST THE TOPIC](https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 5:10 |
 | 64 | [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 69 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
 | 70 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 71 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 |
-| 72 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
-| 73 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
-| 74 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
+| 72 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
+| 73 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 74 | [drains](https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [drains](https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q) | 3:48 |
 | 75 | [Coyote](https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Coyote](https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8) | 4:04 |
 | 76 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 |
 | 77 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
@@ -97,10 +97,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 87 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 |
 | 88 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 |
 | 89 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 |
-| 90 | [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 |
-| 91 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
-| 92 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
-| 93 | [steamroller](https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [steamroller](https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP) | 3:10 |
+| 90 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
+| 91 | [steamroller](https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [steamroller](https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP) | 3:10 |
+| 92 | [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 |
+| 93 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
 | 94 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 |
 | 95 | [Lady Messiah](https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Lady Messiah](https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q) | 3:26 |
 | 96 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 |

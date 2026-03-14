@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante, como Aria Vega. ",
-  "num_followers": 221181,
+  "num_followers": 221187,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAUn0xhSizdorANGk9WeGO01J3I5",
+  "snapshot_id": "AAAAAFfRH24YWtLZQFPt5m9f2X2H5bkd",
   "tracks": [
     {
       "added_at": "2026-03-06 04:59:28",
@@ -67,6 +67,26 @@
       "duration_ms": 122696,
       "name": "BIZCOCHO",
       "url": "https://open.spotify.com/track/38JH6euiEfvwWDOfhNWWyE"
+    },
+    {
+      "added_at": "2026-03-13 15:17:52",
+      "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/5aBhlr7SPeB7kaWnSmT1Qd"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "TOPSHELF",
+      "url": "https://open.spotify.com/track/3fhrXxnWnFiKShE8RNUWwU"
     },
     {
       "added_at": "2026-03-06 04:59:28",

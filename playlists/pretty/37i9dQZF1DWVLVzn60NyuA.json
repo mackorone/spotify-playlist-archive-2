@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 498212,
+  "num_followers": 498211,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -727,8 +727,8 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
       "artists": [
         {
@@ -736,13 +736,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 211284,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+      "duration_ms": 196156,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -819,8 +819,8 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
       "artists": [
         {
@@ -828,13 +828,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 196156,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+      "duration_ms": 211284,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Sip (Alcohol)",
-        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Sip (Alcohol)",
-      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "No Dey Form",
         "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Sip (Alcohol)",
+        "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Sip (Alcohol)",
+      "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1543,30 +1543,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
       "artists": [
         {
-          "name": "Rampa",
-          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Sparrow (CH)",
-          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 381322,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1591,22 +1583,30 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        },
+        {
+          "name": "Sparrow (CH)",
+          "url": "https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
+      "duration_ms": 381322,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Big Thug Boys (Dj Yo! Remix)",
+        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "duration_ms": 174774,
+      "name": "Big Thug Boys (Dj Yo! Remix)",
+      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -1907,26 +1927,6 @@
       "duration_ms": 213913,
       "name": "LV N ATTN feat. Wizkid",
       "url": "https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Big Thug Boys (Dj Yo! Remix)",
-        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        },
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        }
-      ],
-      "duration_ms": 174774,
-      "name": "Big Thug Boys (Dj Yo! Remix)",
-      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2167,6 +2167,26 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4"
       },
@@ -2203,26 +2223,6 @@
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -2331,18 +2315,18 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Sal Gason",
-        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
       "artists": [
         {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 138897,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2415,6 +2399,22 @@
       "duration_ms": 126323,
       "name": "Top Gyal",
       "url": "https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Sal Gason",
+        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+      },
+      "artists": [
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2539,26 +2539,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Ayaya",
-        "url": "https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        }
-      ],
-      "duration_ms": 155783,
-      "name": "Ayaya",
-      "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Eve Bounce",
         "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
@@ -2575,6 +2555,26 @@
       "duration_ms": 204631,
       "name": "Eve Bounce - Remix",
       "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Ayaya",
+        "url": "https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "duration_ms": 155783,
+      "name": "Ayaya",
+      "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2751,22 +2751,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Day 2 Day",
         "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
       },
@@ -2779,6 +2763,22 @@
       "duration_ms": 168750,
       "name": "Day 2 Day",
       "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2875,18 +2875,26 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Bad Gyal",
-        "url": "https://open.spotify.com/album/0id9uIH0ECODKD6mVhbCol"
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/0GRrax56zKbepKz9U8Vh0y"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "DJ Ecko",
+          "url": "https://open.spotify.com/artist/2SxKRbDOk3ZbpXxzKCwS0J"
+        },
+        {
+          "name": "Stefario",
+          "url": "https://open.spotify.com/artist/0pMIyWZ9WFbOCVqRaavWhj"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
         }
       ],
-      "duration_ms": 216470,
-      "name": "Bad Gyal",
-      "url": "https://open.spotify.com/track/6zbYEipVzi9anrP6OMhPxI"
+      "duration_ms": 152232,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/3gS80FzuNsJ4iTFrNh6tTY"
     },
     {
       "added_at": "2026-02-26 23:00:40",

@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 83835,
+  "num_followers": 83889,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Intimacy Calling - Standard Time Vol. 2",
-        "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 514293,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Big Brass",
         "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 422480,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Intimacy Calling - Standard Time Vol. 2",
+        "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 514293,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
     },
     {
       "added_at": "2025-09-10 12:53:12",

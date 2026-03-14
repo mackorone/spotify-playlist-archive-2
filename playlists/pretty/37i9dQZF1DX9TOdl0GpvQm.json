@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 193193,
+  "num_followers": 193235,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Valtari",
-        "url": "https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN"
+        "name": "Never Were the Way She Was",
+        "url": "https://open.spotify.com/album/6strsYjypCDE3OTh2f9W8l"
       },
       "artists": [
         {
-          "name": "Sigur R\u00f3s",
-          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        },
+        {
+          "name": "Sarah Neufeld",
+          "url": "https://open.spotify.com/artist/17YxHBveizVRDwCUBVn1X0"
         }
       ],
-      "duration_ms": 396853,
-      "name": "Var\u00fa\u00f0",
-      "url": "https://open.spotify.com/track/6Ss7upGobLSpoLNmO7jj7u"
+      "duration_ms": 176746,
+      "name": "And Still They Move",
+      "url": "https://open.spotify.com/track/1pXDFB8gCjU2eTAUKZqzpd"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -379,22 +383,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Never Were the Way She Was",
-        "url": "https://open.spotify.com/album/6strsYjypCDE3OTh2f9W8l"
+        "name": "Valtari",
+        "url": "https://open.spotify.com/album/784AinfJcPwVdpbXR4U8mN"
       },
       "artists": [
         {
-          "name": "Colin Stetson",
-          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
-        },
-        {
-          "name": "Sarah Neufeld",
-          "url": "https://open.spotify.com/artist/17YxHBveizVRDwCUBVn1X0"
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
         }
       ],
-      "duration_ms": 176746,
-      "name": "And Still They Move",
-      "url": "https://open.spotify.com/track/1pXDFB8gCjU2eTAUKZqzpd"
+      "duration_ms": 396853,
+      "name": "Var\u00fa\u00f0",
+      "url": "https://open.spotify.com/track/6Ss7upGobLSpoLNmO7jj7u"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Micropop",
+        "url": "https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber's Micropop",
+          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+        }
+      ],
+      "duration_ms": 31408,
+      "name": "Eyelash",
+      "url": "https://open.spotify.com/track/6fmhQDBrLGb4qVirehoBsy"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Musick To Play In The Dark",
         "url": "https://open.spotify.com/album/6qS0pSqK662v2SqooTNDeK"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 576001,
       "name": "Are You Shivering?",
       "url": "https://open.spotify.com/track/1a6IYbbBSZiiNZoUwZjPIa"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Tomb of Horror",
-        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
-      },
-      "artists": [
-        {
-          "name": "Slasher Dave",
-          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
-        }
-      ],
-      "duration_ms": 241621,
-      "name": "Half Past Midnight",
-      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Micropop",
-        "url": "https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k"
+        "name": "Tomb of Horror",
+        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
       },
       "artists": [
         {
-          "name": "Jack Stauber's Micropop",
-          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+          "name": "Slasher Dave",
+          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
         }
       ],
-      "duration_ms": 31408,
-      "name": "Eyelash",
-      "url": "https://open.spotify.com/track/6fmhQDBrLGb4qVirehoBsy"
+      "duration_ms": 241621,
+      "name": "Half Past Midnight",
+      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Philosopher of the Needle",
-        "url": "https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO"
-      },
-      "artists": [
-        {
-          "name": "Fester Witch",
-          "url": "https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "Intro Into Madness",
-      "url": "https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Virgins",
         "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 173503,
       "name": "Prism",
       "url": "https://open.spotify.com/track/3BCSPiSfeDxnVsBclfcnki"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Philosopher of the Needle",
+        "url": "https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO"
+      },
+      "artists": [
+        {
+          "name": "Fester Witch",
+          "url": "https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "Intro Into Madness",
+      "url": "https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Hexerei Im Zwielicht Der Finsternis",
-        "url": "https://open.spotify.com/album/5AM3FhWnJTScyFpQnaSrdF"
-      },
-      "artists": [
-        {
-          "name": "Aghast",
-          "url": "https://open.spotify.com/artist/4QxZ1HbafIeGJ5vP3Z7mK1"
-        }
-      ],
-      "duration_ms": 339760,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4QGTd1VAsRVOAZKqQViC7i"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Other Channels",
         "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 207866,
       "name": "Sundial",
       "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Hexerei Im Zwielicht Der Finsternis",
+        "url": "https://open.spotify.com/album/5AM3FhWnJTScyFpQnaSrdF"
+      },
+      "artists": [
+        {
+          "name": "Aghast",
+          "url": "https://open.spotify.com/artist/4QxZ1HbafIeGJ5vP3Z7mK1"
+        }
+      ],
+      "duration_ms": 339760,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4QGTd1VAsRVOAZKqQViC7i"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "In Free Fall",
         "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 244693,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
-        "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
+        "name": "Sky Hooks",
+        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
       },
       "artists": [
         {
-          "name": "Yikii",
-          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 256746,
-      "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
-      "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Sky Hooks",
-        "url": "https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp"
+        "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
+        "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Yikii",
+          "url": "https://open.spotify.com/artist/0WupbuT0axmYIRMOUtl9Bm"
         }
       ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
+      "duration_ms": 256746,
+      "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
+      "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Director",
-        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
-      },
-      "artists": [
-        {
-          "name": "Chrome Canyon",
-          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
-        }
-      ],
-      "duration_ms": 129953,
-      "name": "Broken Theme",
-      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Silver Threshold",
         "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
       },
@@ -1503,6 +1487,38 @@
       "duration_ms": 256402,
       "name": "The Silver Threshold",
       "url": "https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Cielo repleto de naves extraterrestres",
+        "url": "https://open.spotify.com/album/1c4Rtyw42IAbMw7PklGOnL"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Cielo repleto de naves extraterrestres",
+      "url": "https://open.spotify.com/track/0n7S1BxSt6BoM0iXixxi63"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Director",
+        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        }
+      ],
+      "duration_ms": 129953,
+      "name": "Broken Theme",
+      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1551,22 +1567,6 @@
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Cielo repleto de naves extraterrestres",
-        "url": "https://open.spotify.com/album/1c4Rtyw42IAbMw7PklGOnL"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Cielo repleto de naves extraterrestres",
-      "url": "https://open.spotify.com/track/0n7S1BxSt6BoM0iXixxi63"
     },
     {
       "added_at": "2025-11-14 17:00:34",

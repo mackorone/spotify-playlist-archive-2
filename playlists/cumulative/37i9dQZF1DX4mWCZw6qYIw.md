@@ -4,7 +4,7 @@
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-363 songs - 20 hr 30 min
+364 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2022-04-01 | 2022-04-21 |
 | [Hate You + Love You \(feat\. AJ Mitchell\)](https://open.spotify.com/track/7DgkSYT6vh3UAYQlFbsj6z) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hate You + Love You \(feat\. AJ Mitchell\)](https://open.spotify.com/album/7CeCrIT4kz7ccgVUr4mHNQ) | 3:18 | 2022-04-01 | 2022-04-10 |
 | [Haunt You \(feat\. chloe moriondo\)](https://open.spotify.com/track/185cmBOExC1AHWe3xrbmQ8) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Mad World](https://open.spotify.com/album/1MqtK6ggc4XnWH7y7XvUjD) | 2:47 | 2021-12-17 | 2022-07-29 |
-| [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-17 |  |
+| [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-17 | 2026-03-14 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-12-17 |  |
 | [Here's ur chance](https://open.spotify.com/track/05lr1ZurY0L2m2OVe473DH) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [Here's ur chance](https://open.spotify.com/album/1DS3oMYYezGTIcFAlvY7Z2) | 2:29 | 2022-04-01 | 2022-04-14 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-12-17 | 2022-07-28 |
@@ -315,6 +315,7 @@
 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 | 2021-12-17 | 2022-07-29 |
 | [The Climb](https://open.spotify.com/track/3poVkmum6RvNzzL1X081H1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Girl Power Hits \- Pinoy Picks Edition](https://open.spotify.com/album/75uyWg5pBCC1Iqn5sc1Rog) | 3:56 | 2022-04-08 | 2022-04-21 |
 | [The Good Ones](https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:35 | 2022-04-01 | 2022-04-21 |
+| [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-03-14 |  |
 | [The Hardest Part](https://open.spotify.com/track/3OYUuT8iujKMFUoeKrnhwe) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [The Hardest Part](https://open.spotify.com/album/1URmuEjZuBuXuLegkhvQr0) | 3:23 | 2022-06-03 | 2022-07-18 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2022-04-01 | 2022-04-19 |
 | [the lifeboat's empty!](https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [the lifeboat's empty!](https://open.spotify.com/album/1hiHsgIreI5njj9HRJndWF) | 2:54 | 2022-02-04 | 2022-04-19 |

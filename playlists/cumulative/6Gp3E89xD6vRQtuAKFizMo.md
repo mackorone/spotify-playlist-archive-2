@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-545 songs - 1 day 2 hr 3 min
+547 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,9 @@
 | [No Brakes](https://open.spotify.com/track/2rNt0cXjLDLefeCItQrFwG) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Brakes](https://open.spotify.com/album/7o60ves6sdc3vr5LuUpK3Y) | 2:41 | 2022-05-06 | 2022-10-28 |
 | [No Crumbs](https://open.spotify.com/track/2zOJ6fmpd0T9oJLfXSpA1I) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [No Crumbs](https://open.spotify.com/album/0f6obn47vRBYI53s0UumAU) | 2:23 | 2025-04-18 |  |
 | [No Letting Go](https://open.spotify.com/track/07I7Hz83jHYGHXIJikhtff) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [No Letting Go](https://open.spotify.com/album/4iNWYE57VPq610LghtgtIS) | 2:18 | 2025-09-08 |  |
+| [No Signal](https://open.spotify.com/track/4DRu7STk30xCw2kABUcNYs) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [ECHOES](https://open.spotify.com/album/5NBCU6WU4isrmM3lXzMXT1) | 2:30 | 2026-03-13 |  |
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 | 2025-04-27 |
+| [Nomad](https://open.spotify.com/track/1bmPLCKUDXgi3lshIANpnf) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [AZCK](https://open.spotify.com/artist/1s4iV4CTEXOsub9gA2aBHy) | [Nomad](https://open.spotify.com/album/55yYRdjzzkCGVaRkLuQyxW) | 1:53 | 2026-03-13 |  |
 | [Not That Innocent](https://open.spotify.com/track/4Zn6WSY8SBZ4j83RwZQwII) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Not That Innocent](https://open.spotify.com/album/15U7DS0yalcE2kkNMNZK8T) | 1:51 | 2026-01-23 |  |
 | [Nothing On You](https://open.spotify.com/track/7xoot19ryXi8maMYeu08FD) | [Sangarang](https://open.spotify.com/artist/1lpYFtlybuldYAw2IyXjyI), [Chris Pree](https://open.spotify.com/artist/7EccQTucmvRW7s6DUy6pQb) | [Nothing On You](https://open.spotify.com/album/6V6eGyclS8zPqEEzLsHsOB) | 3:07 | 2023-12-07 | 2025-04-27 |
 | [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-11-24 |  |

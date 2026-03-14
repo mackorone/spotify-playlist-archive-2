@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
@@ -5514,6 +5514,24 @@
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "album": {
@@ -8821,6 +8839,28 @@
     },
     {
       "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "album": {
         "name": "Tell Me Something Good",
         "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
       },
@@ -9484,7 +9524,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"

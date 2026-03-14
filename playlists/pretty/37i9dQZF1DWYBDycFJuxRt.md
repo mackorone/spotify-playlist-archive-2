@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/344652">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,569 likes - 64 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,606 likes - 64 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 22 | [春夏秋冬](https://open.spotify.com/track/6QfnWtaW5oerFQeIrjMGrr) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Mother Tree](https://open.spotify.com/album/5R3DJCQQ4HcIL2o7dDc5Au) | 4:06 |
 | 23 | [コイスルオトメ](https://open.spotify.com/track/3geDOcJIAEV9kNvtLtBOPP) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [いきものがかり meets 2](https://open.spotify.com/album/0RodoOXPrLGPK89Ohbof9j) | 3:51 |
 | 24 | [Right on Shower](https://open.spotify.com/track/6DdkjVt1RY7BxSZW8MRj6v) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [Right on Shower](https://open.spotify.com/album/1NR4oBEksFAl11lYnTVHBc) | 4:16 |
-| 25 | [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [MILIYAH](https://open.spotify.com/artist/5BuSmo5epEbM7Mt0KzLO2Q) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 |
+| 25 | [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 |
 | 26 | [光の果実 \[TOSHIKI HAYASHI \(%C\) REMIX\]](https://open.spotify.com/track/67ApWdsjj7NdJpYnQrh8Xn) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [光の果実 Remix](https://open.spotify.com/album/5MTXwtoPOBJhVq5n2ePSBO) | 4:54 |
 | 27 | [Bassline](https://open.spotify.com/track/2Nw5FJmcZfM7kQVU2GsYOR) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Bassline](https://open.spotify.com/album/0OutIfPgB0uJbyXMaJqmOl) | 2:52 |
 | 28 | [Twenty](https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7) | 3:10 |

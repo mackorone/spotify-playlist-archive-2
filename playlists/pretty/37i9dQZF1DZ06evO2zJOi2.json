@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 748750,
+  "num_followers": 748858,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABKyOnKDwX2m5NRJzAwwDcN",
+  "snapshot_id": "abICAAAAAACcM9m9+qDPETp0zqlMabqH",
   "tracks": [
     {
       "added_at": null,
@@ -276,7 +276,7 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM"
+      "duration_ms": 210506,
+      "name": "7 Summers",
+      "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr"
     },
     {
       "added_at": null,
@@ -344,7 +344,7 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 210506,
-      "name": "7 Summers",
-      "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr"
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/5YanmSgudc0CaxZrn40YnM"
     },
     {
       "added_at": null,

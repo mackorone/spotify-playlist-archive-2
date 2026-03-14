@@ -4831,6 +4831,24 @@
     },
     {
       "album": {
+        "name": "The Terrys (For The People)",
+        "url": "https://open.spotify.com/album/02HPYY8R9lwfIyZobiUFI8"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195858,
+      "name": "Jokes Aside",
+      "url": "https://open.spotify.com/track/2XuRpPtcSZOfOy2bXQccRY"
+    },
+    {
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
       },
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 284271,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt"
@@ -8804,7 +8822,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 328655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
@@ -9844,24 +9862,6 @@
       "duration_ms": 227142,
       "name": "Touchy Subject",
       "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "album": {
-        "name": "The Terrys (For The People)",
-        "url": "https://open.spotify.com/album/02HPYY8R9lwfIyZobiUFI8"
-      },
-      "artists": [
-        {
-          "name": "The Terrys",
-          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/2XuRpPtcSZOfOy2bXQccRY"
     },
     {
       "album": {

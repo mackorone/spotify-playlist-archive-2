@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  Anaïs Cardot
+> Stripped back vibes\. Cover:  Arima Ederra
 
-310 songs - 17 hr 59 min
+314 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Capable](https://open.spotify.com/track/6EWoKC9WQ2acoHzZ1Tkb9t) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:42 | 2025-09-07 |  |
 | [CARI'S HONEYMOON](https://open.spotify.com/track/0AU4Spk0C443gEWAJ6hUh9) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 1:00 | 2025-05-09 |  |
 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 | 2024-08-16 |  |
+| [Choose \- Acoustic](https://open.spotify.com/track/6jkghwue86fgr11HEnImKd) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Choose \(Acoustic\)](https://open.spotify.com/album/4R7CPDAXrt2C0JgGrqRd2z) | 3:54 | 2026-03-13 |  |
 | [Coffee](https://open.spotify.com/track/3SY2LmMCRA5eLNXjyY2zPU) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coffee](https://open.spotify.com/album/7K9I81H2Gph67Ep83p2EXF) | 2:42 | 2024-11-01 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/1I3hnFXFmco3dUY2AYcvLL) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 3:46 | 2024-01-17 | 2024-04-19 |
 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-02-17 |  |
@@ -247,6 +248,7 @@
 | [Self Sabotage \- Acoustic](https://open.spotify.com/track/7FWW21iLIVkYg99gANYfV6) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Self Sabotage \(Acoustic\)](https://open.spotify.com/album/4YCEWCy3qYjeU1r3kbGF7x) | 2:52 | 2023-09-28 |  |
 | [Seven Times \- Live](https://open.spotify.com/track/7xvnFLLcemBrNCtkmCNQlt) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 3:29 | 2021-12-09 | 2024-02-09 |
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 | 2024-02-09 |
+| [Shine](https://open.spotify.com/track/1oYbTd4DuOVuSsuQuK8KLl) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 3:51 | 2026-03-13 |  |
 | [SHIVER](https://open.spotify.com/track/4zJh7D3QxnCTJ3Uvsow5iN) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:14 | 2025-02-21 |  |
 | [Simple](https://open.spotify.com/track/3jdDlPCVxwqv3Ars52mXcR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [The Last Great American Summer](https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC) | 3:31 | 2025-09-19 |  |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |
@@ -261,6 +263,7 @@
 | [Speak Now](https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Speak Now \(From The Motion Picture Soundtrack Of One Night In Miami...\)](https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR) | 3:37 | 2021-12-09 | 2024-02-09 |
 | [Spell It Out \- Demo](https://open.spotify.com/track/1KdJeNUjmIdA3qoSsA1YxI) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Spell It Out \(Demo\)](https://open.spotify.com/album/2wVazdXHkuNXghWKOI9kPU) | 3:06 | 2024-12-06 |  |
 | [START OVER \- Acoustic](https://open.spotify.com/track/6GJfB3PI0OAkyXsDEZKc6H) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [START OVER II.](https://open.spotify.com/album/7GyuBVawGjSCm4FFMgTh25) | 3:38 | 2025-11-21 |  |
+| [Step Back \- Acoustic](https://open.spotify.com/track/2wNrBuvxAaNgqzs52bXIPj) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:59 | 2026-03-13 |  |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/3oVKIhOJZwe2BttWt3yYbG) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/2AIEo0JzqtJX6iyuZWDtqw) | 3:18 | 2022-12-15 | 2023-04-09 |
 | [Still \- Mahogany Sessions](https://open.spotify.com/track/4YE0W3TgLWGr5lbRjCynfl) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [America / Still \(Mahogany Sessions\)](https://open.spotify.com/album/5mvlL1QYEbuXfWBCtX3EZL) | 3:18 | 2021-12-09 | 2022-12-25 |
 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-03-09 |  |
@@ -305,6 +308,7 @@
 | [What is Love](https://open.spotify.com/track/3NtgkbiePe3ccFyX5uOrGk) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [What is Love](https://open.spotify.com/album/5xqsx7KZjvgLJE2EcbAr9q) | 3:46 | 2021-12-09 | 2024-02-09 |
 | [What You Did \(feat\. Ella Mai\) \- Acoustic](https://open.spotify.com/track/5KEze8FT62AJCly8UnBcq2) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [What You Did \(feat\. Ella Mai\) \[Acoustic\]](https://open.spotify.com/album/1pqagkRkaqCXdZ2cOHS5NH) | 3:27 | 2021-12-09 | 2022-05-06 |
 | [Where Do We Go](https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Where Do We Go](https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi) | 4:59 | 2024-02-09 |  |
+| [Where R U Now \- Acoustic](https://open.spotify.com/track/1J4DMlKw5q8bYi9qetogQz) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:46 | 2026-03-13 |  |
 | [Where You're At](https://open.spotify.com/track/3LV3sOLM2q0lEJpQIUp5Rl) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Where You're At](https://open.spotify.com/album/5sng5RIrlvtfsIxy45FXHl) | 2:50 | 2021-12-09 |  |
 | [Where You're At](https://open.spotify.com/track/4bV7BVBRqnK8dVtjD5OMV7) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 2:50 | 2023-07-10 | 2024-04-19 |
 | [Whoever You Are \- Live at RAK](https://open.spotify.com/track/6kVsawZQt4GPbFXSYS3DsY) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Live at RAK](https://open.spotify.com/album/2bzinM4FmvifmFBf6XUGZ6) | 7:00 | 2023-11-04 |  |

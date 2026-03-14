@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-1,020 songs - 2 day 11 hr 44 min
+1,021 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Beneath It All](https://open.spotify.com/track/7AGPS3yD3CJR3xrPBTLhcO) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Beneath It All](https://open.spotify.com/album/2Zk97EqDVC4iLN4GdX0RIs) | 2:51 | 2022-12-08 | 2025-08-20 |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-04-11 | 2025-01-21 |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 | 2025-03-04 |
+| [Bird's Nest](https://open.spotify.com/track/68uJoV7wMhmaVa7CTnGlVC) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Bird's Nest](https://open.spotify.com/album/2ysgbmRiW9qFW1mrKWSHk9) | 3:17 | 2026-03-13 |  |
 | [Birds Down South](https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Birds Down South](https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W) | 2:54 | 2022-04-26 | 2023-03-10 |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 | 2025-07-24 |
 | [Blue Drift](https://open.spotify.com/track/2Lqa5hHBQWmXAGk864aVcg) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Blue Drift](https://open.spotify.com/album/3Unsom9QCSrXtOTaqewmer) | 3:10 | 2026-03-06 |  |
@@ -812,7 +813,7 @@
 | [Sweet And Lovely](https://open.spotify.com/track/2CWgW8oWE5Ec1CvMvawwQ6) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Sweet And Lovely](https://open.spotify.com/album/5lyuMvNyS4lbRByuICf61I) | 3:04 | 2022-10-06 | 2025-09-24 |
 | [Sweet Smile](https://open.spotify.com/track/5DghAA2I1vE1jqFOaJRIsv) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Sweet Smile](https://open.spotify.com/album/0z6Bmefx4SMCYqfRqZfJcH) | 3:54 | 2024-02-02 | 2025-01-28 |
 | [Take me to Liverpool](https://open.spotify.com/track/5Df2sfwDdTC266NFO3qfa0) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Take me to Liverpool](https://open.spotify.com/album/1YFTNcAXtntuZCnMK92OPe) | 3:24 | 2023-09-29 | 2025-11-15 |
-| [Take My Heart](https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Take My Heart](https://open.spotify.com/album/3NM7Y1p5b0X1WfXSHAiPJ1) | 3:31 | 2024-01-19 |  |
+| [Take My Heart](https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Take My Heart](https://open.spotify.com/album/3NM7Y1p5b0X1WfXSHAiPJ1) | 3:31 | 2024-01-19 | 2026-03-14 |
 | [Tales of the Urban Night](https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Tales of the Urban Night](https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU) | 3:55 | 2024-03-08 | 2024-08-20 |
 | [Talk About Her Luck](https://open.spotify.com/track/0P6c4tOGYLMkrjDV0wLqRj) | [Fortune Morel Trio](https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf) | [Talk About Her Luck](https://open.spotify.com/album/5nRpyRfHFVsSR1kLx9MnOk) | 2:32 | 2022-12-22 | 2023-09-01 |
 | [Tammy's Song](https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Tammy's Song](https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2) | 4:20 | 2022-06-28 | 2023-01-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17892,
+  "num_followers": 17894,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABr5BCq5q92tVOK+D980II9",
+  "snapshot_id": "abICAAAAAAC4ALmFlkQXLAlwul1ixbkf",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Kitchen EP",
-        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
+        "name": "BRUT",
+        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
       },
       "artists": [
-        {
-          "name": "Puggy",
-          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 205746,
-      "name": "Lost Child",
-      "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
+      "duration_ms": 213601,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
     },
     {
       "added_at": null,
@@ -491,18 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUT",
-        "url": "https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44"
+        "name": "Radio Kitchen EP",
+        "url": "https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5"
       },
       "artists": [
+        {
+          "name": "Puggy",
+          "url": "https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 213601,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/3S1MMsTBuW5BeT5NYadtYJ"
+      "duration_ms": 205746,
+      "name": "Lost Child",
+      "url": "https://open.spotify.com/track/4DmpRr6LwSvMun4NNZMESh"
     },
     {
       "added_at": null,

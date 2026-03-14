@@ -2,9 +2,9 @@
 
 ### [Hamd\-o\-Naat](https://open.spotify.com/playlist/37i9dQZF1DXbCdb6frP71o)
 
-> Devotional tracks for an immersive Ramadan\. Cover: Atif Aslam
+> Devotional tracks for an immersive Ramadan\. Cover: Ali Zafar
 
-135 songs - 13 hr 14 min
+136 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 | 2024-03-21 |  |
 | [Yaa Nabi](https://open.spotify.com/track/36ffDR0oxNSX2ZBdC376HD) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Yaa Nabi](https://open.spotify.com/album/3hHe4MtbLOLB3ukOwaZfvT) | 3:54 | 2024-03-14 | 2026-01-31 |
 | [Yeh Moamla Koi Aur Hai](https://open.spotify.com/track/0VHN0L82tso3NAetvYME6h) | [Najam Sheraz](https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP) | [Yeh Moamla Koi Aur Hai](https://open.spotify.com/album/50EadKzYDaTzKaaPiFc4OD) | 10:07 | 2026-01-30 |  |
+| [Zahe Muqaddar](https://open.spotify.com/track/47lvKpXTQsE3rfkgHi0i74) | [Abdullah Qureshi](https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8) | [Zahe Muqaddar](https://open.spotify.com/album/1b32qb9WSMQgLHESO1n7Q2) | 3:57 | 2026-03-13 |  |
 | [Zahe Muqaddar](https://open.spotify.com/track/5toG8BJcKjlxCj1BsuBDb4) | [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz), [Ar Sonu](https://open.spotify.com/artist/0XFpn7dgJIgKTgJYNPwgtF), [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Zahe Muqaddar](https://open.spotify.com/album/6DwzacnTiRoAA4fEHDnDOP) | 4:29 | 2024-03-14 | 2026-01-31 |
 | [Zahe Muqaddar Huzoor\-e\-Haq Se](https://open.spotify.com/track/0ZeBSF0m2ekop6N7X0iiVB) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/5oIo7j4mC244GYtN5W3QWo) | 8:43 | 2026-01-30 |  |
 | [Zahe Muqaddar Huzoor\-e\-Haq Se](https://open.spotify.com/track/2dU2xQWjxbzpBICGW5uJZw) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Gulzar e Madina, Vol\. 2](https://open.spotify.com/album/7kQP5I9bMRI24rA3NPm3aX) | 8:43 | 2024-02-21 | 2026-02-25 |

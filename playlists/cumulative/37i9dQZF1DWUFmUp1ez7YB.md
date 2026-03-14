@@ -4,7 +4,7 @@
 
 > Descansa en paz, Willie Colón\. Siempre recordaremos a "El Malo" 🕊️
 
-164 songs - 13 hr 27 min
+165 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Cali Pachanguero](https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV) | 5:09 | 2021-11-12 | 2022-07-29 |
 | [Cali Pachanguero](https://open.spotify.com/track/1Z6fpTTJelPqdI4CwvnpK4) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 5:10 | 2021-11-12 | 2022-10-23 |
 | [Cali Pachanguero](https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [No Hay Quinto Malo](https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ) | 5:10 | 2022-08-02 | 2024-04-19 |
+| [Camino al Barrio \- Remastered 2026](https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [El Baquiné de Angelitos Negros \(Remastered 2026\)](https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd) | 3:32 | 2026-03-13 |  |
 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 | 2021-11-12 |  |
 | [Carito](https://open.spotify.com/track/4yAYtGDz2jO7a9o85sQ2xc) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Carito](https://open.spotify.com/album/38ezDtg7olJiCmHOKTDzR8) | 3:11 | 2025-04-04 | 2026-02-17 |
 | [Casi Te Envidio](https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Oro Salsero](https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz) | 5:21 | 2021-11-12 |  |
@@ -40,7 +41,7 @@
 | [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 | 2021-11-12 | 2022-01-15 |
 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 | 2023-01-02 | 2023-09-24 |
 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 | 2021-11-12 |  |
-| [Comerte a Besos \- Salsa Version](https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Mario de Jesús](https://open.spotify.com/artist/6XjFh7IQknY7HAncX72nCU), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Por Tu Placer](https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f) | 4:29 | 2023-09-26 |  |
+| [Comerte a Besos \- Salsa Version](https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Mario de Jesús](https://open.spotify.com/artist/6XjFh7IQknY7HAncX72nCU), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Por Tu Placer](https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f) | 4:29 | 2023-09-26 | 2026-03-14 |
 | [Como Te Hago Entender](https://open.spotify.com/track/3uzIBpBL6f6hvaTi3X0E7P) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Los Rostros de la Salsa](https://open.spotify.com/album/0i86M5tnB7ikXChtz10Kli) | 5:44 | 2021-11-12 |  |
 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2021-11-12 | 2024-06-22 |
 | [Como Te Pago](https://open.spotify.com/track/7we7oZsjbgE7h0kbYu1aej) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/3WPkx7JolDej1qtX4IhZkJ) | 3:13 | 2023-01-02 | 2024-04-19 |

@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
@@ -6940,7 +6940,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
@@ -7929,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Damaged By Their Silence",
+        "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271680,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
+    },
+    {
+      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
@@ -7994,7 +8012,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 173302,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
@@ -8204,24 +8222,6 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
-    },
-    {
-      "album": {
-        "name": "Damaged By Their Silence",
-        "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
-      },
-      "artists": [
-        {
-          "name": "Malumm\u00ed",
-          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
     },
     {
       "album": {

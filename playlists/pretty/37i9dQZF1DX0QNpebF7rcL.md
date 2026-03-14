@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,838 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,874 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Rise up Children](https://open.spotify.com/track/5chjzwI7qrIVedcBnfDsbd) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [Rise up Children](https://open.spotify.com/album/6brcnCzpCw27Aa9Uzoz5Pb) | 3:25 |
 | 100 | [2x2](https://open.spotify.com/track/1ErjgoKMkRUjsEQ50bFaTJ) | [Taj Farrant](https://open.spotify.com/artist/33yogRYdM0M5dc9VxfoqaJ) | [2x2](https://open.spotify.com/album/5bgr5dGuxXoVUZigkqMGcK) | 2:40 |
 
-Snapshot ID: `AAAAACUw5n0/H1wz2YtR5g5+3oXqRVag`
+Snapshot ID: `AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc`

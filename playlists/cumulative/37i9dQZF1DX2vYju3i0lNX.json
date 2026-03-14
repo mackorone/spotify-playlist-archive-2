@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Mellow jazz to stay focused or unwind.",
+  "description": "Mellow jazz for springtime focus or unwinding.",
   "name": "Chilled Jazz",
   "tracks": [
     {
@@ -1774,6 +1774,24 @@
       "duration_ms": 168882,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/3cOtGzGlzFl6qc8WFWfKhO"
+    },
+    {
+      "album": {
+        "name": "Almost Tomorrow",
+        "url": "https://open.spotify.com/album/6Jt5O3so2snD5gDnS8NecU"
+      },
+      "artists": [
+        {
+          "name": "Night Current",
+          "url": "https://open.spotify.com/artist/2UZE6F0C8uKiUUm6cz2pu5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Almost Tomorrow",
+      "url": "https://open.spotify.com/track/2rv9cIy5QhL71Z6opTfQGU"
     },
     {
       "album": {
@@ -7583,6 +7601,24 @@
     },
     {
       "album": {
+        "name": "Golden Hush",
+        "url": "https://open.spotify.com/album/1br33xy04O8QbMfUUqMRVo"
+      },
+      "artists": [
+        {
+          "name": "Halcyon Jazz Band",
+          "url": "https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156404,
+      "name": "Golden Hush",
+      "url": "https://open.spotify.com/track/1O6feycuOpLCRPXA4RcEm7"
+    },
+    {
+      "album": {
         "name": "Golden Moments",
         "url": "https://open.spotify.com/album/2cAgvg2iWFCBNr6tIHf78K"
       },
@@ -10510,7 +10546,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 218504,
       "name": "It\u2019s now again",
       "url": "https://open.spotify.com/track/0qHrcMutzTWX6rfj6Pf9p0"
@@ -13102,7 +13138,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195756,
       "name": "Midnight Hour",
       "url": "https://open.spotify.com/track/5MUUIuJOPi4LrG1VOiUiTI"
@@ -15842,6 +15878,24 @@
       "duration_ms": 194196,
       "name": "Perform Forever",
       "url": "https://open.spotify.com/track/3EFTOQdF41pDKj8YHqO5Y9"
+    },
+    {
+      "album": {
+        "name": "Petals on the Water",
+        "url": "https://open.spotify.com/album/6MR54CcjTwP9asNHwGvmVg"
+      },
+      "artists": [
+        {
+          "name": "The Soulful Strut",
+          "url": "https://open.spotify.com/artist/2WmxhCJKKXBoZywcTee5wM"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234376,
+      "name": "Petals on the Water",
+      "url": "https://open.spotify.com/track/44rwOqEfeLCMovLhtr2uV1"
     },
     {
       "album": {
@@ -23774,7 +23828,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 240826,
       "name": "Your lucky self",
       "url": "https://open.spotify.com/track/1NpOV6K1tm05HrIQyn9ekQ"

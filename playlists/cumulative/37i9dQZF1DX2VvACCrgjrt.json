@@ -10600,7 +10600,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 150476,
       "name": "Got A Crush",
       "url": "https://open.spotify.com/track/6Rw87MBv2sjTLx9oqHHQTz"
@@ -11436,7 +11436,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196521,
       "name": "Hit The Ground",
       "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
@@ -14869,6 +14869,24 @@
     },
     {
       "album": {
+        "name": "Make Some Noise",
+        "url": "https://open.spotify.com/album/1tLvx3RU7RpR2DzAx288dx"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191139,
+      "name": "Make Some Noise",
+      "url": "https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o"
+    },
+    {
+      "album": {
         "name": "Make U Sick",
         "url": "https://open.spotify.com/album/2HDGZrwuzUgSWX1yjYfItq"
       },
@@ -15799,6 +15817,24 @@
     },
     {
       "album": {
+        "name": "My Body",
+        "url": "https://open.spotify.com/album/3EA4w4EAShgp3HsHYdl1HK"
+      },
+      "artists": [
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "My Body",
+      "url": "https://open.spotify.com/track/6HFnh0hW2q0j7XpuXd02cr"
+    },
+    {
+      "album": {
         "name": "My Bubble",
         "url": "https://open.spotify.com/album/0LzrBMYBbB9OxNjeTHh411"
       },
@@ -16664,7 +16700,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 134119,
       "name": "No Excuse",
       "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
@@ -16700,7 +16736,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182325,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
@@ -16806,6 +16842,24 @@
       "duration_ms": 169248,
       "name": "No Signal",
       "url": "https://open.spotify.com/track/2h4hbNaCeBtCEdPXy2apbv"
+    },
+    {
+      "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/5NBCU6WU4isrmM3lXzMXT1"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/4DRu7STk30xCw2kABUcNYs"
     },
     {
       "album": {
@@ -18112,7 +18166,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
@@ -18288,6 +18342,24 @@
       "duration_ms": 174346,
       "name": "People In The Back",
       "url": "https://open.spotify.com/track/4uWIE7G9Jtv8uH8WXI2CNT"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/6Dma6WJEnpIjs2tJgT9UQw"
+      },
+      "artists": [
+        {
+          "name": "BLiNKR",
+          "url": "https://open.spotify.com/artist/19oNuL1mBROeWMN4t6Ax1x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/50sgvSUMuXD6xDvbo3392r"
     },
     {
       "album": {
@@ -24414,6 +24486,24 @@
       "duration_ms": 165692,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/20TXAzJqpeulPwKmTPWEpD"
+    },
+    {
+      "album": {
+        "name": "To The Groove",
+        "url": "https://open.spotify.com/album/2inWgYq7nxcGIq0DZMjAal"
+      },
+      "artists": [
+        {
+          "name": "Esox",
+          "url": "https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "To The Groove",
+      "url": "https://open.spotify.com/track/0bYREe71kefV9ZO8RtOm34"
     },
     {
       "album": {

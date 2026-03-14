@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Cielo de Tambores",
+        "url": "https://open.spotify.com/album/76IN5nA4NLEwS2yoxNbWZz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Deber\u00eda Olvidarla",
+      "url": "https://open.spotify.com/track/5RupmgidTuHxXEV8lpRl2i"
+    },
+    {
+      "album": {
         "name": "Cielo De Tambores",
         "url": "https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ"
       },
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 309746,
       "name": "Mec\u00e1nico",
       "url": "https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg"

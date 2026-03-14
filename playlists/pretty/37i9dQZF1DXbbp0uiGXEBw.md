@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Châu Bùi
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,916 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,918 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [gentle, baby](https://open.spotify.com/track/4nOEo6aHxRRkHAlPvvTuFu) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [phases of the moon](https://open.spotify.com/album/28gPrPbtLBPV8Fh0fCTnQ3) | 3:31 |
 | 50 | [Ý ANH SAO](https://open.spotify.com/track/7oRpGGfcJPYDE1404Aukin) | [Giana](https://open.spotify.com/artist/5cXguE28EOWHvdWaPGwBox) | [FOR ME](https://open.spotify.com/album/1Ys9Px3gJ68c43yLlSJcMB) | 3:04 |
 
-Snapshot ID: `AAAAAITihA/P92a8FDMiKSPuUGbFuPkO`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

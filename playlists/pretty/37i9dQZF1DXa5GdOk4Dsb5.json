@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 164734,
+  "num_followers": 164803,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "ALFA & OMEGA",
-        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "Sin Explicaciones",
-      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 202160,
       "name": "No discutamos",
       "url": "https://open.spotify.com/track/4LOoLsXcPdAHzPwSznpq3Y"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "ALFA & OMEGA",
+        "url": "https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 172546,
+      "name": "Sin Explicaciones",
+      "url": "https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "No Pongan Esas Canciones",
-        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 214180,
-      "name": "Olvido Intencional",
-      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Que No Se Caiga el Ritmo",
-        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
+        "name": "No Pongan Esas Canciones",
+        "url": "https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h"
       },
       "artists": [
         {
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 231916,
-      "name": "Soltero Feliz",
-      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
+      "duration_ms": 214180,
+      "name": "Olvido Intencional",
+      "url": "https://open.spotify.com/track/2d518N5JSyohQ3JVYdcm2n"
     },
     {
       "added_at": "2025-12-05 04:59:34",

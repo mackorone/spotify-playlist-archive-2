@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-218 songs - 11 hr 2 min
+219 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Chemistry](https://open.spotify.com/track/7kF0hYHCa1j5AyiJeMQuvf) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [Chemistry](https://open.spotify.com/album/5mvpCFZ3zKUaag4ReegRdd) | 3:23 | 2026-03-06 |  |
 | [Coco](https://open.spotify.com/track/5C6gFpZkq1GsDVj7LHTbB1) | [Mitch Vice](https://open.spotify.com/artist/7wi3I1gTQJtcZdhsvfXukG) | [Leaders Of The New School 2026](https://open.spotify.com/album/78PEi8LTSF6z90hLzxcaQL) | 3:20 | 2026-01-30 |  |
 | [Come Back 2 Me](https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Andre Zimmer](https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA) | [Come Back 2 Me](https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq) | 3:13 | 2026-02-13 |  |
+| [Come To Me](https://open.spotify.com/track/2qWEfQHQsIjJKkZk3NYr2O) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Come To Me](https://open.spotify.com/album/35D0vdADZhq3wiyrejju1d) | 3:19 | 2026-03-13 |  |
 | [Como Se Llama](https://open.spotify.com/track/3DgKAnFjBdfB9s3UVMbkqt) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Como Se Llama](https://open.spotify.com/album/2OUgnZvY9qxz9aCbnxrcTK) | 2:41 | 2025-10-10 |  |
 | [Confession](https://open.spotify.com/track/1KFhH40ZSpyrUijzmCOXpr) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Confession](https://open.spotify.com/album/6WuivseYo5zD3KcEiaQ39T) | 2:35 | 2026-02-06 |  |
 | [Count On You](https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Count On You](https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH) | 2:45 | 2025-04-11 | 2025-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,813 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,818 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 27 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
 | 28 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
 | 29 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
-| 30 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 |
-| 31 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 |
+| 30 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 |
+| 31 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 |
 | 32 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
 | 33 | [Baby, It’s Cold Outside](https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:13 |
 | 34 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |

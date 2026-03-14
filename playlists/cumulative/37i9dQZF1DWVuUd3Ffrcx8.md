@@ -2,9 +2,9 @@
 
 ### [Pop Rising Korea](https://open.spotify.com/playlist/37i9dQZF1DWVuUd3Ffrcx8)
 
-> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Bebe Rexha\)
+> 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: Jack Harlow\)
 
-789 songs - 1 day 18 hr 44 min
+791 songs - 1 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2024-06-28 | 2024-07-27 |
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-28 | 2024-07-27 |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-06-28 | 2024-07-19 |
-| [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 | 2026-01-15 |  |
+| [bad enough](https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:42 | 2026-01-15 | 2026-03-14 |
 | [BAD4US](https://open.spotify.com/track/1CqGRxs4nQsbMVCuiPOgjX) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [BAD4US](https://open.spotify.com/album/34eSMGvz4VxxuZEWsSi9iX) | 2:32 | 2024-07-25 | 2024-09-15 |
 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 | 2026-02-19 |  |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-09 | 2025-02-21 |
@@ -652,6 +652,7 @@
 | [T2T](https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [T2T](https://open.spotify.com/album/36tmLHUiLvhRAiEihPDTmI) | 3:20 | 2025-12-18 | 2026-03-06 |
 | [take cover!](https://open.spotify.com/track/2cKhEB4vaUu70ZHmoEIpQx) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [take cover!](https://open.spotify.com/album/3gNRNAzdwAK5kvYdrShpgm) | 1:55 | 2025-04-30 | 2025-06-05 |
 | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/track/299bs3nx4r3zcmLD8tRPi3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Take Me to the Beach \(feat\. Jungeli\)](https://open.spotify.com/album/1eFuf3Xkm3XiiPRVX9ambn) | 2:47 | 2024-10-31 | 2024-12-20 |
+| [Take you away](https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Take you away](https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR) | 3:54 | 2026-03-13 |  |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-14 | 2025-04-04 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-06-19 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-28 | 2024-10-11 |
@@ -714,6 +715,7 @@
 | [Touch](https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Touch](https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv) | 2:09 | 2024-07-25 | 2024-12-06 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-23 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-27 |
+| [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 |  |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-20 | 2025-04-18 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2024-12-06 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2024-06-28 | 2024-07-19 |

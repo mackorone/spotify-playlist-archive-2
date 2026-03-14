@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 148531,
+  "num_followers": 148530,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACA8jTLmrgm4++CDYPVUgI4",
+  "snapshot_id": "abICAAAAAAD7r4pLtSKhAKDI1vzsW6U8",
   "tracks": [
     {
       "added_at": null,
@@ -547,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
       "artists": [
         {
           "name": "Billie Holiday",
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "John Simmons & His Orchestra",
+          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+      "duration_ms": 193800,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
     },
     {
       "added_at": null,
@@ -595,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 187560,
       "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "John Simmons & His Orchestra",
-          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
     },
     {
       "added_at": null,

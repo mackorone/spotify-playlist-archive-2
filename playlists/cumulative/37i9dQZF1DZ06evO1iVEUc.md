@@ -4,13 +4,13 @@
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 12 min
+65 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bad Habits](https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:57 | 2025-03-11 |  |
 | [All I'm Missing](https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb), [Jaunita Wynn](https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69) | [All I'm Missing](https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD) | 2:40 | 2025-12-02 | 2026-02-21 |
-| [Angie Stone \- IQ Musique House Mix](https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [IQ Musique](https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38) | [Angie Stone \- Wish I Didn't Miss You \(IQ Musique House Remix\)](https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI) | 5:21 | 2025-12-12 |  |
+| [Angie Stone \- IQ Musique House Mix](https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [IQ Musique](https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38) | [Angie Stone \- Wish I Didn't Miss You \(IQ Musique House Remix\)](https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI) | 5:21 | 2025-12-12 | 2026-03-14 |
 | [Baby](https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:50 | 2025-03-11 |  |
 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 | 2025-09-11 |  |
 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 | 2025-03-11 |  |
@@ -33,6 +33,7 @@
 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 | 2025-03-11 |  |
 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 | 2025-03-11 |  |
 | [High](https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:47 | 2025-03-11 |  |
+| [Hold Me Down \(feat\. Angie Stone\)](https://open.spotify.com/track/7oYRjaI7yDJB7hCa20kbbD) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Time To Share](https://open.spotify.com/album/6b8QS64EfefuXpdZ0dLHWX) | 3:21 | 2026-03-14 |  |
 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 | 2025-03-11 |  |
 | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya](https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF) | 3:47 | 2025-03-11 | 2025-12-26 |
 | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1czczFfdsmQyH0qUnH8Clk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \[Radio Edit\]](https://open.spotify.com/album/2P5fZ0GeRsbMViExlAWJKO) | 3:49 | 2025-12-26 |  |

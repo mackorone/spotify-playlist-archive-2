@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: James Hype
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,149 likes - 200 songs - 10 hr 21 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 21,148 likes - 202 songs - 10 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 | 198 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 |
 | 199 | [Dance Alone \- Vault Mix](https://open.spotify.com/track/6n00liQgt7sZYPD55bfbfT) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [The Vault, Volume 1](https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2) | 2:14 |
 | 200 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 |
+| 201 | [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 |
+| 202 | [1, 2 Step](https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [1, 2 Step](https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb) | 2:03 |
 
-Snapshot ID: `AAAhY270fZu3EIBfbbbsUj10r9miOE0h`
+Snapshot ID: `AAAhZWtsU5wI6XsAKjhw1J0o25Q88eZR`

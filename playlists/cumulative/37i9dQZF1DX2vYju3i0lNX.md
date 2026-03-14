@@ -2,9 +2,9 @@
 
 ### [Chilled Jazz](https://open.spotify.com/playlist/37i9dQZF1DX2vYju3i0lNX)
 
-> Mellow jazz to stay focused or unwind.
+> Mellow jazz for springtime focus or unwinding.
 
-1,319 songs - 3 day 5 hr 28 min
+1,322 songs - 3 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Almost Heard Your Name](https://open.spotify.com/track/6JH13HNKl7Saer5yXvV85d) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Almost Heard Your Name](https://open.spotify.com/album/0ZtvIaunyZZcGJt5ABl9ZR) | 3:09 | 2026-03-06 |  |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 | 2025-11-19 |
 | [Almost Like Being In Love](https://open.spotify.com/track/3cOtGzGlzFl6qc8WFWfKhO) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Almost Like Being In Love](https://open.spotify.com/album/3yB5yoStWjbIvqlS5hOAXl) | 2:48 | 2023-01-05 | 2025-11-19 |
+| [Almost Tomorrow](https://open.spotify.com/track/2rv9cIy5QhL71Z6opTfQGU) | [Night Current](https://open.spotify.com/artist/2UZE6F0C8uKiUUm6cz2pu5) | [Almost Tomorrow](https://open.spotify.com/album/6Jt5O3so2snD5gDnS8NecU) | 4:06 | 2026-03-13 |  |
 | [Always Already](https://open.spotify.com/track/6ui7GjvFm6BMVssbpU3SF7) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Always Already](https://open.spotify.com/album/3iVN7ehAiu6uErPZWzkOCm) | 2:28 | 2024-08-19 | 2026-01-15 |
 | [Amble](https://open.spotify.com/track/5mqn7zmKnNjHvmsg1OSgnq) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Amble](https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s) | 4:12 | 2022-11-10 | 2023-06-16 |
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-05-31 | 2022-09-30 |
@@ -427,6 +428,7 @@
 | [God Bless The Child](https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [God Bless The Child](https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz) | 4:16 | 2021-12-07 | 2023-05-12 |
 | [Going Home](https://open.spotify.com/track/4igEnj8VAz6VNjkjtEXdy8) | [Reese Quartet](https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm) | [Going Home](https://open.spotify.com/album/4TgMsCNtuscKYq41t8wd3l) | 2:49 | 2024-05-10 | 2024-07-23 |
 | [Going Our Separate Ways](https://open.spotify.com/track/5gk8Zfd0JaAEfSmxr57xdg) | [Dusty Diamond Trio](https://open.spotify.com/artist/1FAFvLZfHJDhpfzib7ple0) | [Moonlight Hour](https://open.spotify.com/album/6dEcOLbZYo356tByGTH8Ff) | 4:08 | 2021-12-07 | 2024-07-23 |
+| [Golden Hush](https://open.spotify.com/track/1O6feycuOpLCRPXA4RcEm7) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Golden Hush](https://open.spotify.com/album/1br33xy04O8QbMfUUqMRVo) | 2:36 | 2026-03-13 |  |
 | [Golden Moments](https://open.spotify.com/track/21G8HryJ6LWITBPNU9o2e1) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Golden Moments](https://open.spotify.com/album/2cAgvg2iWFCBNr6tIHf78K) | 3:28 | 2024-02-23 | 2025-11-19 |
 | [Gone With The Wind](https://open.spotify.com/track/4JU856I3RFY6n37EKwCT2c) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Gone With The Wind](https://open.spotify.com/album/3EQf3toXuxIKOyALK1KlM5) | 4:09 | 2023-01-05 | 2023-10-06 |
 | [Gonna Be Late](https://open.spotify.com/track/0QPQvbiycgvx2H6OqJiczv) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Gonna Be Late](https://open.spotify.com/album/7anoWZIyNTxHvnI1DZx9Pi) | 2:36 | 2024-04-10 | 2026-01-27 |
@@ -589,7 +591,7 @@
 | [It's Raining Outside](https://open.spotify.com/track/6ezo3VE51Lj8IggiawcBHx) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [It's Raining Outside](https://open.spotify.com/album/72SWmZ0lZRxILVW6xNCyQS) | 3:44 | 2022-08-30 | 2024-08-20 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 | 2024-05-11 |
 | [It´s Wonderful](https://open.spotify.com/track/4fIrqRgwWZeHWx1xYzMk0z) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [It´s Wonderful](https://open.spotify.com/album/4NCJxvMwHsCIykqMx97Bew) | 3:12 | 2023-09-22 | 2025-11-19 |
-| [It’s now again](https://open.spotify.com/track/0qHrcMutzTWX6rfj6Pf9p0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [It’s now again](https://open.spotify.com/album/5y3SUtRO3pYKBBB6YZCzfH) | 3:38 | 2026-03-06 |  |
+| [It’s now again](https://open.spotify.com/track/0qHrcMutzTWX6rfj6Pf9p0) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [It’s now again](https://open.spotify.com/album/5y3SUtRO3pYKBBB6YZCzfH) | 3:38 | 2026-03-06 | 2026-03-14 |
 | [I´ll Be Around](https://open.spotify.com/track/4axKyMqOx8NIyGsfKBA7Cv) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [I´ll Be Around](https://open.spotify.com/album/50XozG3HbIyUJWTJ9Fsoao) | 3:35 | 2022-04-11 | 2023-03-10 |
 | [I´ll Never Smile Again](https://open.spotify.com/track/5vFqxBA36r8w1NKDUhpt07) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I´ll Never Smile Again](https://open.spotify.com/album/3ce31a140RpGp1inchw4Cx) | 4:05 | 2021-12-07 | 2025-02-25 |
 | [I´m Glad There Is You](https://open.spotify.com/track/5aSfAExWXaU5P4wuPkBINx) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [I´m Glad There Is You](https://open.spotify.com/album/5S8DO23pBgOdUIIfeup4IT) | 4:29 | 2021-12-07 | 2023-02-24 |
@@ -733,7 +735,7 @@
 | [Midnight Dialogue](https://open.spotify.com/track/7zstE1Dg5qI9OpOxM6nYhJ) | [The Soft Geometry](https://open.spotify.com/artist/3ojL8MCi3IC8GMZA55ncLr) | [Midnight Dialogue](https://open.spotify.com/album/0LCAUYiSaTSZdFOrOLzFgy) | 2:49 | 2025-11-18 |  |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-02 | 2025-11-19 |
 | [Midnight Fog](https://open.spotify.com/track/6DSGKzGP9H5HW3WdNq3iBH) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [Midnight Fog](https://open.spotify.com/album/66aPKq9OcOikr2QZCQcslM) | 3:29 | 2024-11-18 | 2026-03-07 |
-| [Midnight Hour](https://open.spotify.com/track/5MUUIuJOPi4LrG1VOiUiTI) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Midnight Hour](https://open.spotify.com/album/5SHf1JlrPIKcnhoBZiqvBY) | 3:15 | 2025-07-15 |  |
+| [Midnight Hour](https://open.spotify.com/track/5MUUIuJOPi4LrG1VOiUiTI) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Midnight Hour](https://open.spotify.com/album/5SHf1JlrPIKcnhoBZiqvBY) | 3:15 | 2025-07-15 | 2026-03-14 |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-05-17 | 2023-05-05 |
 | [Midnight Memories](https://open.spotify.com/track/2MsHAU74YmVSjtN7BXFtOS) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Midnight Memories](https://open.spotify.com/album/1QOozr6l51QtdjLtXmZmkP) | 2:50 | 2023-08-24 |  |
 | [Midnight Mood](https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Midnight Mood](https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF) | 2:58 | 2023-10-06 | 2025-11-19 |
@@ -886,6 +888,7 @@
 | [Pearl\-button](https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Pearl\-button](https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb) | 3:18 | 2023-03-02 | 2026-02-07 |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-19 | 2025-03-19 |
 | [Perform Forever](https://open.spotify.com/track/3EFTOQdF41pDKj8YHqO5Y9) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Perform Forever](https://open.spotify.com/album/5vn4wUfKQggwhOWxs0GWF1) | 3:14 | 2023-08-10 | 2025-11-19 |
+| [Petals on the Water](https://open.spotify.com/track/44rwOqEfeLCMovLhtr2uV1) | [The Soulful Strut](https://open.spotify.com/artist/2WmxhCJKKXBoZywcTee5wM) | [Petals on the Water](https://open.spotify.com/album/6MR54CcjTwP9asNHwGvmVg) | 3:54 | 2026-03-13 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-01-18 | 2025-07-02 |
 | [Place Under the Sun](https://open.spotify.com/track/4x1NJb0hSXhT042UVh6jky) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Place Under the Sun](https://open.spotify.com/album/0yN7pXxZ5vcUTLv91aVdxa) | 3:24 | 2024-05-23 | 2025-11-19 |
 | [Platinum Goose](https://open.spotify.com/track/3eoLFO9XPg6vnONeRen5hf) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Platinum Goose](https://open.spotify.com/album/2yugNDUqoylzXH3T5FBggD) | 3:02 | 2023-02-02 | 2025-07-24 |
@@ -1325,7 +1328,7 @@
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 | 2025-02-21 |
 | [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-30 | 2023-06-23 |
 | [Your Hint](https://open.spotify.com/track/0AzKAP30y8ws2WCqzHeRRf) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Your Hint](https://open.spotify.com/album/0OCNIJeYCdQOhnLgdstBV4) | 2:40 | 2025-09-30 |  |
-| [Your lucky self](https://open.spotify.com/track/1NpOV6K1tm05HrIQyn9ekQ) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Your lucky self](https://open.spotify.com/album/6P1CFWlljGYhm4omUrc3pb) | 4:00 | 2026-02-20 |  |
+| [Your lucky self](https://open.spotify.com/track/1NpOV6K1tm05HrIQyn9ekQ) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Your lucky self](https://open.spotify.com/album/6P1CFWlljGYhm4omUrc3pb) | 4:00 | 2026-02-20 | 2026-03-14 |
 | [Your Shining Eyes](https://open.spotify.com/track/5Enjr7Vz1J8inrynMzgmc6) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Your Shining Eyes](https://open.spotify.com/album/4lsQ8Bj4OfJHhSjB0byELm) | 3:06 | 2023-04-27 | 2025-03-04 |
 
 \*This playlist was first scraped on 2022-01-01. Prior content cannot be recovered.

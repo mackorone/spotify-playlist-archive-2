@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 541,
+  "num_followers": 552,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAC8dajAUraYQFpmGDcGLRxjXsO/xlu",
+  "snapshot_id": "AAAC9RQsKcPqvn3tRJ0LMe0vb/LZSD3l",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -119,6 +119,22 @@
       "duration_ms": 179923,
       "name": "You Don't Wanna Go Home",
       "url": "https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU"
+    },
+    {
+      "added_at": "2026-03-13 20:11:29",
+      "album": {
+        "name": "Trattore elettrico",
+        "url": "https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "duration_ms": 219605,
+      "name": "Trattore elettrico",
+      "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
     },
     {
       "added_at": "2025-11-16 12:40:10",
@@ -999,6 +1015,38 @@
       "duration_ms": 233239,
       "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
       "url": "https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F"
+    },
+    {
+      "added_at": "2026-03-14 01:56:08",
+      "album": {
+        "name": "MY SONG",
+        "url": "https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C"
+      },
+      "artists": [
+        {
+          "name": "Lonewolves in Paradise",
+          "url": "https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O"
+        }
+      ],
+      "duration_ms": 164227,
+      "name": "MY SONG",
+      "url": "https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk"
+    },
+    {
+      "added_at": "2026-03-14 02:25:26",
+      "album": {
+        "name": "High & Dry",
+        "url": "https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh"
+      },
+      "artists": [
+        {
+          "name": "Altered Edge",
+          "url": "https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "High & Dry",
+      "url": "https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 203021,
+  "num_followers": 203086,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Grande",
-        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
-      },
-      "artists": [
-        {
-          "name": "Von Wegen Lisbeth",
-          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
-        }
-      ],
-      "duration_ms": 230419,
-      "name": "Wenn du tanzt",
-      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eYX6uNoyhwTdZMELCKnMW"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        }
+      ],
+      "duration_ms": 230419,
+      "name": "Wenn du tanzt",
+      "url": "https://open.spotify.com/track/0G7vexduCvboPyIGjJXQIC"
     },
     {
       "added_at": "2026-02-13 13:22:17",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-13 13:22:17",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2026-02-13 13:22:17",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+    },
+    {
+      "added_at": "2026-02-13 13:22:17",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     },
     {
       "added_at": "2026-02-13 13:22:17",

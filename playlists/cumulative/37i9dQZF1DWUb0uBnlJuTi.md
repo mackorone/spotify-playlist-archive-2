@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-452 songs - 1 day 10 hr 16 min
+453 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Fight Harder](https://open.spotify.com/track/302NRQpcU7xP1GzXMn5zOV) | [Emanuel Harrold](https://open.spotify.com/artist/7BCEWQ7ebjQql2El4eAxOU), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Fight Harder](https://open.spotify.com/album/6xZUmkq57p0cWMVLnxIuJC) | 5:32 | 2022-11-18 | 2023-05-27 |
 | [Filibuster](https://open.spotify.com/track/6BWF4wtShcinQ1ikEwzkXl) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Filibuster](https://open.spotify.com/album/5uSG5x7Yu0hwFwn6AIvIpw) | 2:40 | 2024-07-12 | 2025-10-25 |
 | [Fish Grease](https://open.spotify.com/track/4U67MTfdlwuBYwk5EoaX44) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Forecast](https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0) | 5:15 | 2022-08-12 |  |
+| [Flame Keeper \(feat\. Hiromi & Chris Potter\)](https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Flame Keeper \(feat\. Hiromi & Chris Potter\)](https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV) | 6:25 | 2026-03-13 |  |
 | [Fleet Streak](https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Fleet Streak](https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj) | 3:57 | 2023-04-28 |  |
 | [For Horace](https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [For Horace](https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q) | 5:38 | 2023-04-14 |  |
 | [Free Angela \(Thoughts… And All I've Got To Say\)](https://open.spotify.com/track/1VUnI5Inw1b7ZyVw5jnkaq) | [Bayete](https://open.spotify.com/artist/5RC5jsZCSBUIdjT6mJlZU4) | [Jazz Dispensary: Cosmic Stash](https://open.spotify.com/album/0740sT0ZV7SBbkQscLSYM5) | 5:17 | 2020-10-09 | 2022-07-14 |
@@ -430,7 +431,7 @@
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2021-04-16 |  |
 | [War Dance](https://open.spotify.com/track/2tEEhDH6gxSAAzj0aJzpWO) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/5pJXka0Joj77KqooPlQwFu) | 5:38 | 2022-08-12 | 2023-10-18 |
 | [War Dance](https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ) | 5:38 | 2022-08-05 | 2023-04-30 |
-| [War Dance](https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:38 | 2022-08-12 |  |
+| [War Dance](https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Could We Be More](https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl) | 5:38 | 2022-08-12 | 2026-03-14 |
 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:30 | 2020-10-09 |  |
 | [We Are The People, Live at Tri\-C Jazz Fest 2023 \- Live](https://open.spotify.com/track/0THa5usAnIDOG0d5DlMLmu) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [The Admirables](https://open.spotify.com/artist/71YRStFsuR1Y1ACBPggkLF) | [We Are The People, Live at Tri\-C Jazz Fest 2023](https://open.spotify.com/album/3yat4oL4gAATyHuLHHRpNP) | 6:37 | 2023-11-10 |  |
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 |  |

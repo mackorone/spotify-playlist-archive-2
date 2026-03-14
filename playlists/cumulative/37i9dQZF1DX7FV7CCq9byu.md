@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,551 songs - 3 day 7 hr 21 min
+1,553 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1198,6 +1198,7 @@
 | [something bout april](https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [something bout april](https://open.spotify.com/album/7rvEikbxxiQLByajEQcKB8) | 2:54 | 2024-07-11 | 2024-08-30 |
 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-18 | 2025-11-21 |
 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 | 2024-07-18 | 2024-08-30 |
+| [Something to Hope For](https://open.spotify.com/track/2mXJUvkWU4buVwVr34FUlf) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Something to Hope For](https://open.spotify.com/album/649xH0ILrI0AxbpCEZlsOS) | 2:54 | 2026-03-13 |  |
 | [Somewhere Only We Go](https://open.spotify.com/track/4EPeUXo9vWGnQHOZRUF2bx) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Somewhere Only We Go](https://open.spotify.com/album/4MQPQX8TWAMu1gjWwNkY7o) | 2:59 | 2025-08-03 | 2025-09-12 |
 | [Sommar I City](https://open.spotify.com/track/2r65aW5qHNAPnhossYULu1) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Sommar I City](https://open.spotify.com/album/1I3xJDKcD0E4uT4Gd1fIkG) | 2:24 | 2025-04-04 | 2025-05-02 |
 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 | 2025-05-29 | 2025-07-25 |
@@ -1321,6 +1322,7 @@
 | [Tar mig alltid upp](https://open.spotify.com/track/0wDWPM5nK9CSqEKXwMQTWy) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Tar mig alltid upp](https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg) | 2:24 | 2025-11-06 | 2026-01-30 |
 | [Tarantino](https://open.spotify.com/track/7KS2RrJiJ4q89tMQAPTaiI) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Tarantino](https://open.spotify.com/album/4OHSuHEsgNFVPw1kkeA7rD) | 3:54 | 2025-10-23 | 2026-01-15 |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-22 | 2024-10-25 |
+| [Taste Back](https://open.spotify.com/track/3xClevycpBON8bkyxFbAna) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:41 | 2026-03-13 |  |
 | [Tears](https://open.spotify.com/track/1r3g6STDMeHV7ga3MTZpXI) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Tears](https://open.spotify.com/album/2DECZqJgZddWX9TtPlzPIE) | 2:55 | 2024-06-27 | 2024-08-09 |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 | 2025-10-10 |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 | 2024-11-23 |

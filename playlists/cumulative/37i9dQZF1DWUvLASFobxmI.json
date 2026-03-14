@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Varones de Culiac\u00e1n en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Tito Torbellino Jr en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -1501,6 +1501,24 @@
     },
     {
       "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183051,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb"
+    },
+    {
+      "album": {
         "name": "Bajo Mil Llaves",
         "url": "https://open.spotify.com/album/2wMrrozHZP74wIrUmlXV0O"
       },
@@ -2128,6 +2146,24 @@
       "duration_ms": 205606,
       "name": "Canci\u00f3n",
       "url": "https://open.spotify.com/track/5ghhbjOImKADh2guhxUivo"
+    },
+    {
+      "album": {
+        "name": "Corridos de Encargo",
+        "url": "https://open.spotify.com/album/0vxaLt1TCd1YpgQDE57Ngv"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Canelo",
+      "url": "https://open.spotify.com/track/1r80Wnya7cvclGK7XhZlKE"
     },
     {
       "album": {
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190384,
       "name": "Culpa M\u00eda",
       "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
@@ -3648,7 +3684,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 215933,
       "name": "Derecho De Antig\u00fcedad",
       "url": "https://open.spotify.com/track/2udeOpUteFLPbLqLSR2gZh"
@@ -4292,7 +4328,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169484,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
@@ -6697,6 +6733,46 @@
     },
     {
       "album": {
+        "name": "Evolucionando",
+        "url": "https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167552,
+      "name": "Evolucionando",
+      "url": "https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0"
+    },
+    {
+      "album": {
+        "name": "Expectante",
+        "url": "https://open.spotify.com/album/7oiSFOg9wSBK6NVOrAZC6h"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154656,
+      "name": "Expectante",
+      "url": "https://open.spotify.com/track/0UnYh6tNVClp3JlsRjq4C9"
+    },
+    {
+      "album": {
         "name": "Familia, Honor y Talento",
         "url": "https://open.spotify.com/album/5LoCbJU63mYBbG15Dohpid"
       },
@@ -7518,6 +7594,42 @@
       "duration_ms": 195125,
       "name": "Hombre de Negocios",
       "url": "https://open.spotify.com/track/2bhQa2q4GVecKDjc9ZGqpr"
+    },
+    {
+      "album": {
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207886,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+    },
+    {
+      "album": {
+        "name": "Hoy La Vi Pasar",
+        "url": "https://open.spotify.com/album/5pYF9PIn9tJmZB6Vk9qTmW"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Hoy La Vi Pasar",
+      "url": "https://open.spotify.com/track/5sdP4Y32tdclTWN9bIwKn0"
     },
     {
       "album": {
@@ -9638,7 +9750,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188744,
       "name": "Los Besos No Se Piden",
       "url": "https://open.spotify.com/track/09PLQwCtRhJRT93pCw73Bg"
@@ -9692,7 +9804,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184988,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/1EB7ebq9oX7eFr2aEHp3MG"
@@ -9906,6 +10018,24 @@
       "duration_ms": 181374,
       "name": "Me Cuesta",
       "url": "https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN"
+    },
+    {
+      "album": {
+        "name": "Me Derrito",
+        "url": "https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170016,
+      "name": "Me Derrito",
+      "url": "https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM"
     },
     {
       "album": {
@@ -10422,7 +10552,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 149949,
       "name": "Mi Credo",
       "url": "https://open.spotify.com/track/4cVtEr63oDSHlkxSTqdCwv"
@@ -15464,7 +15594,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 193142,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/6S6CZfhAy7T36SppunzYI8"
@@ -16600,7 +16730,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191616,
       "name": "Vete Con \u00c9l",
       "url": "https://open.spotify.com/track/0hBDVEtE936gwIPBGgUbNa"
@@ -16680,6 +16810,24 @@
       "duration_ms": 153377,
       "name": "Viejita Chula",
       "url": "https://open.spotify.com/track/1uo3hSrqYJj5UKeAoEQnAq"
+    },
+    {
+      "album": {
+        "name": "Vivir con ella",
+        "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "Vivir con ella",
+      "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
     },
     {
       "album": {

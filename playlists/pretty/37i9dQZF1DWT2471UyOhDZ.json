@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Anna Calvi",
-  "num_followers": 93702,
+  "num_followers": 93704,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-02-23 15:28:05",
@@ -183,6 +183,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 183192,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Rubber Band Man (with Hozier)",
         "url": "https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 220266,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 183192,
-      "name": "Asshole",
-      "url": "https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 225726,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 257400,
       "name": "Iceberg",
       "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 225726,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 203167,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Dog Eared",
         "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 203167,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 131906,
       "name": "Home",
       "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -903,22 +919,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 222031,
       "name": "The Sound And The Summer",
       "url": "https://open.spotify.com/track/4TydIMmvW6ugl5zEM5KbbJ"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "Little Black Dress",
         "url": "https://open.spotify.com/album/2wVN511oQyf618kr0sSj9b"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Neon Grey Midnight Green",
-        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Wreck",
-      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
+      "duration_ms": 143592,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Neon Grey Midnight Green",
+        "url": "https://open.spotify.com/album/6iTA9mrYpN3l5P3nJbq1BU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Wreck",
+      "url": "https://open.spotify.com/track/2N0e3WdwtkeDSAC8sqvP9a"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Everybody Laughs",
         "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 228253,
       "name": "Everybody Laughs",
       "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Get Sunk",
+        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1339,22 +1355,6 @@
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Get Sunk",
-        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "The Jamie Oliver Petrol Station",
+        "url": "https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 323960,
+      "name": "The Jamie Oliver Petrol Station",
+      "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Oranges",
         "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 228999,
       "name": "drains",
       "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "The Jamie Oliver Petrol Station",
-        "url": "https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 323960,
-      "name": "The Jamie Oliver Petrol Station",
-      "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
     },
     {
       "added_at": "2026-02-20 10:02:12",

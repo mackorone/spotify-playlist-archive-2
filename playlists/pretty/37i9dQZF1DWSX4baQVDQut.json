@@ -1,6 +1,6 @@
 {
   "description": "Nosotros ponemos la m\u00fasica y t\u00fa los pasos ;)\nCan't stop, won't stop dancing!",
-  "num_followers": 1824101,
+  "num_followers": 1824044,
   "original_name": "\u00a1Baila Sin Parar!",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-02-13 05:00:38",
       "album": {
+        "name": "BRONCEADOR",
+        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "BRONCEADOR",
+      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
+    },
+    {
+      "added_at": "2026-02-13 05:00:38",
+      "album": {
         "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
         "url": "https://open.spotify.com/album/2ONEbIxBKRNvD2x4kCdsO4"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:38",
-      "album": {
-        "name": "BRONCEADOR",
-        "url": "https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "BRONCEADOR",
-      "url": "https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j"
     },
     {
       "added_at": "2026-02-13 05:00:38",

@@ -61547,6 +61547,24 @@
     },
     {
       "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
+    },
+    {
+      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -100956,24 +100974,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/61j282lTW0Q2F2Zl7MDQZ9"
-    },
-    {
-      "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "date_added": "2026-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 18",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "album": {

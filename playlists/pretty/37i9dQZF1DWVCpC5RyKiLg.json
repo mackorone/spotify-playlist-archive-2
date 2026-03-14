@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 745726,
+  "num_followers": 745740,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 161678,
-      "name": "Beijo De Varanda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Tchau Brigado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 163402,
       "name": "Tchau Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 161678,
+      "name": "Beijo De Varanda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 238275,
       "name": "Escreve A\u00ed",
       "url": "https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     },
     {
       "added_at": "2025-11-07 18:47:10",

@@ -3332,7 +3332,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 224000,
       "name": "dusk",
       "url": "https://open.spotify.com/track/3WZjQWBQjzVlIGERMHMJey"
@@ -7442,7 +7442,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 126000,
       "name": "M\u00f3an\u00f3ra",
       "url": "https://open.spotify.com/track/2E6xqTEmNBquHWnQwx5ii3"
@@ -10135,6 +10135,28 @@
     },
     {
       "album": {
+        "name": "Soul Glide (Rework)",
+        "url": "https://open.spotify.com/album/0yBp3goZI46S0otBvxv5oC"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Okabayashi",
+          "url": "https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165405,
+      "name": "Soul Glide - Rework",
+      "url": "https://open.spotify.com/track/0GNMamGlFNw9QbjuMLcj6F"
+    },
+    {
+      "album": {
         "name": "Soul I (Avow)",
         "url": "https://open.spotify.com/album/2UKecuITg86lUtsTWlDxGR"
       },
@@ -10862,7 +10884,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 220760,
       "name": "Suspended - Reworked",
       "url": "https://open.spotify.com/track/4PzdK4G7ySynFFzMuPNSiD"
@@ -11500,6 +11522,24 @@
       "duration_ms": 419120,
       "name": "The Spin",
       "url": "https://open.spotify.com/track/2Wac2hlUTjfiUu27sLHGIi"
+    },
+    {
+      "album": {
+        "name": "The Stars Will Dim (Nowhere Sessions)",
+        "url": "https://open.spotify.com/album/4Eil98QcM8s8ES9vCP7Pxl"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161353,
+      "name": "The Stars Will Dim - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/59FkcwkiWIq6HBVrSai5Db"
     },
     {
       "album": {
@@ -12722,6 +12762,28 @@
       "duration_ms": 288000,
       "name": "Wayfare",
       "url": "https://open.spotify.com/track/4d6uIeiv5alKW5I0vb72uT"
+    },
+    {
+      "album": {
+        "name": "We Move Slightly Forward",
+        "url": "https://open.spotify.com/album/4iClAq2zbA2OzAYBmEYjvM"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        },
+        {
+          "name": "Blu Miles",
+          "url": "https://open.spotify.com/artist/6Im1pI4Fs0wC6Vb4nj6E9A"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77760,
+      "name": "We Move Slighly Forward",
+      "url": "https://open.spotify.com/track/13jl7QOGhx4YAXDjXP3Abb"
     },
     {
       "album": {

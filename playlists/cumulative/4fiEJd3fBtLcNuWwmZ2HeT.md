@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-457 songs - 1 day 2 hr 35 min
+463 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [pa!](https://open.spotify.com/track/23Xv6xyVdvYRbNGhKWYfe7) | [SEE](https://open.spotify.com/artist/2hJ5WKq9RUpQyzNJZqlzPM) | [Kakeashi](https://open.spotify.com/album/6hQhnhaRaTVh2N5832ghFL) | 3:17 | 2025-07-07 |  |
 | [Packet Hero](https://open.spotify.com/track/5GQaOyGSPoC07JlrTGcMpi) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:38 | 2026-01-17 |  |
 | [Paradisus\-Paradoxum](https://open.spotify.com/track/3CrYQaVrFUppSElxRwNHJK) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:51 | 2023-11-08 |  |
+| [Perverted Martyr](https://open.spotify.com/track/1Xb86IudDAjgxvkejaaQ1O) | [Femme Fatale](https://open.spotify.com/artist/1Xx67XOeAxqfb5CUbaugg5) | [ARCANA](https://open.spotify.com/album/4AevWRFRi6OOeck4wDOL80) | 3:52 | 2026-03-13 |  |
 | [Petrichor \(feat\. 9Lana\)](https://open.spotify.com/track/6MESRIHFSpI37ox8qSKX06) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [404 NOT FOUND](https://open.spotify.com/album/3yMOVTrwwXgi7ozbX51uMg) | 2:04 | 2024-11-20 |  |
 | [Phony](https://open.spotify.com/track/0easKsHTKz3x4OayMKoZET) | [Xiulan Long](https://open.spotify.com/artist/4rUM4AisHJilVENH56wqCY) | [Phony](https://open.spotify.com/album/1ndZLzQ1XDrFz2Lq4S2TCV) | 3:09 | 2024-03-25 |  |
 | [Pink](https://open.spotify.com/track/5KI8zXj9lxLr1goQoGYaIA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Pink](https://open.spotify.com/album/51KEnPmInGx4cXyBIISzgj) | 3:42 | 2022-11-11 |  |
@@ -218,6 +219,7 @@
 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 | 2025-10-08 |  |
 | [QUEEN OF THE NIGHT](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [QUEEN OF THE NIGHT](https://open.spotify.com/album/6kKMUex64mP35JZpbRp3Ma) | 2:44 | 2024-04-06 |  |
 | [R.I.P\. Gossip Sea](https://open.spotify.com/track/7xz8uuhmnW80qujTXrtX2N) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:39 | 2022-11-11 |  |
+| [rabbit](https://open.spotify.com/track/24FpmtvLCN7ExbThu78Ppe) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ANGRY DOG](https://open.spotify.com/album/3XlpgvHos5aLXf6QufH8B4) | 2:27 | 2026-03-13 |  |
 | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/track/5vR8dVVGrEBYoso2InjuKo) | [ミコ吉](https://open.spotify.com/artist/1Q9WuPC9wFV6V8BBeR7GEF), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/album/3d2gch75FvpDfumKzaojoo) | 4:48 | 2023-11-27 |  |
 | [Rafflesia \(feat\. Isubokuro\)](https://open.spotify.com/track/1nWBtij4RxBzDUfDIhXl1G) | [Toiki](https://open.spotify.com/artist/0aY8PnGurODkjLN9Zj1AvF), [Isubokuro](https://open.spotify.com/artist/0HQnZbt1PljICvEwcA6d6R) | [Rafflesia \(feat\. Isubokuro\)](https://open.spotify.com/album/4Qz205CzKQp6sSh07rdkgH) | 2:20 | 2024-06-26 |  |
 | [RAISON D'ETRE](https://open.spotify.com/track/3nkNQlnl1hg98AaUQ3HrlC) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:41 | 2023-11-08 |  |
@@ -348,6 +350,7 @@
 | [ドクハク](https://open.spotify.com/track/4u1vzzB6PIzYgwqb7ABSpH) | [MARETU](https://open.spotify.com/artist/5xyAdpFAdfuMpS3uRXKPpB) | [ドクハク](https://open.spotify.com/album/0h6BDdJ8aeoBhIY2VER4Xv) | 4:05 | 2026-03-01 |  |
 | [ネバーフィクション \(feat\. 星街すいせい\)](https://open.spotify.com/track/3LW4FCmPUAErFmMRDOhvE0) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ネバーフィクション \(feat\. 星街すいせい\)](https://open.spotify.com/album/61hPWE3xufYcYjiqZGYHXp) | 2:03 | 2024-10-21 |  |
 | [ハゼ馳せる果てるまで](https://open.spotify.com/track/2wrSQcRHBksoXNMn4lZNfv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 4:04 | 2024-08-12 |  |
+| [ハッピー内蔵ケーキ](https://open.spotify.com/track/3H9CreSymo0QWcst8GF9gj) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [ハッピー内蔵ケーキ](https://open.spotify.com/album/07mcV8nr6ea7Gwx6hA3ReL) | 2:37 | 2026-03-13 |  |
 | [ハツコイソウ](https://open.spotify.com/track/7IEvo5fRMgBMt8OUqgfP0Z) | [FLG4](https://open.spotify.com/artist/63MKBngdiEGvCJhGfCDjMD) | [ハツコイソウ](https://open.spotify.com/album/5bD2jwdnOH59bDmh8UIfqX) | 2:51 | 2023-12-18 |  |
 | [バカ通信 \(feat\. 知声\)](https://open.spotify.com/track/4BC7to7tQh5gF7BsuccT60) | [isonosuke](https://open.spotify.com/artist/59J6Ko7gRBJamo9e1jAl9x), [Chis\-A](https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av) | [バカ通信](https://open.spotify.com/album/6ezc0MKyRoMRf1zWricVch) | 2:29 | 2024-07-08 |  |
 | [バグ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/3Lu59KjuBy96vEaMBgGPud) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [ノマド/バグ](https://open.spotify.com/album/5mZsk1IhSXRG4N2I37CRty) | 2:51 | 2024-02-19 |  |
@@ -375,11 +378,13 @@
 | [ラブコール](https://open.spotify.com/track/7hDwyZJ9GA6Ogza1O9TBX7) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [ラブコール](https://open.spotify.com/album/2vt8bccloZZ7eaNsZk5eR2) | 3:00 | 2024-03-10 |  |
 | [ラプラスショコラ](https://open.spotify.com/track/1peOsJELHn8Clf4kjX9g71) | [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR) | [ラプラスショコラ](https://open.spotify.com/album/7fRf7AoKjsuAMstix32dwX) | 2:17 | 2024-12-24 |  |
 | [リドー](https://open.spotify.com/track/36K1AFSLlk3agjXQLMNZk7) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 3:41 | 2025-01-13 |  |
+| [リビングデッド](https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [セレナーデ](https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG) | 2:29 | 2026-03-13 |  |
 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 | 2025-08-02 |  |
 | [レイニーブーツ](https://open.spotify.com/track/1OQwvsS1fqohD6xH7zoOy7) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 3:14 | 2026-03-01 |  |
 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 | 2024-07-01 |  |
 | [ロストワンの号哭](https://open.spotify.com/track/7bjO3BMl5ps63mpPMfhPDC) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [Kagaminext feat\. 鏡音リン、鏡音レン ―10th ANNIVERSARY BEST―](https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if) | 3:34 | 2022-08-27 |  |
 | [ワタシダケユウレイ](https://open.spotify.com/track/0NcF5dy25NReeUXi1bqzN6) | [SICK HACK](https://open.spotify.com/artist/6fnZR0smagz84PHCLRxpzg) | [ワタシダケユウレイ](https://open.spotify.com/album/0JY6ycA8JtdavRVGDj9uYB) | 3:22 | 2024-09-20 |  |
+| [ヴェノマニア公の狂気](https://open.spotify.com/track/4SBbk1mjX4ZyEmPB9RgfRi) | [mothy](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) | [EVILS FOREST](https://open.spotify.com/album/1Ny1AB9rQdgU8ulXGbMyVM) | 4:05 | 2026-03-13 |  |
 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 | 2024-08-06 |  |
 | [三原色](https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [三原色](https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h) | 3:44 | 2023-10-05 |  |
 | [世界を壊している](https://open.spotify.com/track/0k6S71Qc4oKox0YVF2AWXh) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [マイネームイズラヴソング](https://open.spotify.com/album/676AXtU3CFKuDBf0wJsYuz) | 3:29 | 2022-08-18 |  |
@@ -389,6 +394,7 @@
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-02-06 |  |
 | [全部夢だった！](https://open.spotify.com/track/7wxif1TWcN6X2Bw32aS8wD) | [黒うさぎ](https://open.spotify.com/artist/1yktWH0UsU3lcsE71vI6as) | [全部夢だった！](https://open.spotify.com/album/0oalNGCxUYa0lKB7zPVPWI) | 2:13 | 2024-11-10 |  |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-05-03 |  |
+| [協奏曲 〜耽美なる血統〜](https://open.spotify.com/track/2ynnDxWzNtn6VsfZnqq6OJ) | [JVM Roses Blood Symphony](https://open.spotify.com/artist/5ch4R7MYTiqAcfb4Ig6cSt) | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/album/4dGtND8i4qXqtV1DkNnZYW) | 6:56 | 2026-03-13 |  |
 | [厭世という名の病](https://open.spotify.com/track/4wX19Nf6Mc2ACCOnfD01bQ) | [蟲の知らせ](https://open.spotify.com/artist/28dGfhcMY5UMKJCRLLonvf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [厭世という名の病](https://open.spotify.com/album/1ZU3Lcg2jRN1UcoqfbBPbk) | 3:50 | 2024-10-03 |  |
 | [君はできない子](https://open.spotify.com/track/7corSqnjU5bX09ZXy3nhVD) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:21 | 2022-11-25 |  |
 | [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 | 2024-10-14 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B/Soul meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Phabo",
+  "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Jack Harlow",
   "name": "Channel-X",
   "tracks": [
     {
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 163314,
       "name": "All Gas No Brakes (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 216266,
       "name": "Allegedly (with Teddy Swims)",
       "url": "https://open.spotify.com/track/6X6O1AbGQqs7Dewftjpoz7"
@@ -9873,6 +9873,28 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+    },
+    {
+      "album": {
         "name": "How Soon",
         "url": "https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK"
       },
@@ -16298,7 +16320,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 171814,
       "name": "PARTY FAVORS (feat. Big Sean)",
       "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
@@ -17096,6 +17118,24 @@
       "duration_ms": 205530,
       "name": "Power (Remember Who You Are) - From The Flipper\u2019s Skate Heist Short Film",
       "url": "https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195516,
+      "name": "Prague",
+      "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
     },
     {
       "album": {
@@ -20503,6 +20543,24 @@
     },
     {
       "album": {
+        "name": "LK99",
+        "url": "https://open.spotify.com/album/7oXn08skc0Lc0juXrb5kDP"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Starlet",
+      "url": "https://open.spotify.com/track/3F2biaPqxg6glYqh4z6LDZ"
+    },
+    {
+      "album": {
         "name": "Wildest Dreams",
         "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
       },
@@ -21866,6 +21924,24 @@
       "duration_ms": 213384,
       "name": "the boy is mine (with Brandy, Monica) - Remix",
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
+    },
+    {
+      "album": {
+        "name": "The Fix",
+        "url": "https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "The Fix",
+      "url": "https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR"
     },
     {
       "album": {
@@ -24880,7 +24956,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 200347,
       "name": "Worth My Time",
       "url": "https://open.spotify.com/track/1xxRHYyJBPa86QSa3LpxBW"

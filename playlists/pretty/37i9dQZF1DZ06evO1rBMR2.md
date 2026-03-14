@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 > This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,768 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,785 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Cruz De Madera](https://open.spotify.com/track/2toJ7xrqoeGas5RLnrifgM) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 2:53 |
 | 50 | [Sangre De Gallo](https://open.spotify.com/track/1nNhBCnOQQuo62aXIj6FdW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En Que Trabaja El Muchacho](https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB) | 2:25 |
 
-Snapshot ID: `abCwgAAAAACc72KS/dl/+wHb4elPCiXJ`
+Snapshot ID: `abICAAAAAABEL34V14pdtGj4F6Hhqf/X`

@@ -2,9 +2,9 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique covers by your favorite country artists\. Cover: Dan + Shay
+> Unique covers by your favorite country artists\. Cover: Gavin Adcock
 
-447 songs - 1 day 3 hr 56 min
+449 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Dreaming My Dreams With You](https://open.spotify.com/track/5ypmJxIJxZl7L6Ez3yOnFu) | [Bria](https://open.spotify.com/artist/7f71lxhHip9KvlOVpwtWm3) | [Dreaming My Dreams With You](https://open.spotify.com/album/33xpBrWhJV2rSmPv6s4sN4) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [Dreams](https://open.spotify.com/track/631XEttfPmkuw4XwR3XScB) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Dreams](https://open.spotify.com/album/5nBcBNpc9CWqKGfeIzvlo6) | 4:19 | 2021-12-10 | 2022-07-29 |
 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 | 2021-12-10 | 2024-05-07 |
+| [Dress](https://open.spotify.com/track/3vvmbIzOCUfxbQSTXmW3Yd) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Dress](https://open.spotify.com/album/58AiKLjoGOQ8zSt58uml2q) | 4:02 | 2026-03-13 |  |
 | [Drivers License](https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dylan Marlowe](https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY) | 3:22 | 2021-12-10 | 2024-08-31 |
 | [Dust on the Bottle](https://open.spotify.com/track/6IN6nAjQcLXtT1ToYrUzU9) | [Curt Chambers](https://open.spotify.com/artist/5NfiN9W8v7WMG2m90UpxCJ) | [Pops 90's Country Weekend Mixtape](https://open.spotify.com/album/3Bf6b12SWWeLPaiYgIczCM) | 3:52 | 2022-03-25 | 2022-06-08 |
 | [East Bound And Down](https://open.spotify.com/track/5JelBZwTfs9LZAUbeeVbqd) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [East Bound And Down](https://open.spotify.com/album/1ACfrm46Pjku8SZ1F1JVMe) | 2:57 | 2021-12-10 | 2023-01-06 |
@@ -126,7 +127,7 @@
 | [Forever and Ever, Amen](https://open.spotify.com/track/0oMLaBjKKvoPfBPT1Z2zra) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Forever and Ever, Amen](https://open.spotify.com/album/5wjcHJKRGMNd3te7DDF3lF) | 3:14 | 2023-03-03 | 2023-03-28 |
 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 | 2022-03-25 | 2022-04-20 |
 | [From Here to the Moon and Back](https://open.spotify.com/track/4uMtJHTvF9voh8OVTeiVRd) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [From Here to the Moon and Back](https://open.spotify.com/album/55bQqkdzq925IPD7A489nN) | 4:16 | 2022-07-08 | 2022-08-02 |
-| [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 | 2023-02-17 |  |
+| [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 | 2023-02-17 | 2026-03-14 |
 | [Funny How Time Slips Away \- Live at The Hollywood Bowl, Los Angeles, CA \- April 30, 2023](https://open.spotify.com/track/6P61IM7ZYZZBkGWLCiBo06) | [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [Funny How Time Slips Away \(from Long Story Short: Willie Nelson 90 \- Live\)](https://open.spotify.com/album/4rgcCRcwpmWK4PqMvnYJsl) | 3:46 | 2023-10-20 | 2023-11-25 |
 | [Genie In A Bottle](https://open.spotify.com/track/3w5YJiz32rxDgteI68XxMK) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Genie In A Bottle](https://open.spotify.com/album/1BcfiXljRfyRP91OvKZz57) | 3:51 | 2023-11-03 |  |
 | [Gentle On My Mind](https://open.spotify.com/track/1FXnfvFJiCSVyanoUNmGiO) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Gentle On My Mind](https://open.spotify.com/album/4XrkDWDSjprpJicwP7fL1s) | 4:05 | 2022-01-21 | 2022-07-27 |
@@ -253,6 +254,7 @@
 | [Make Me Want To](https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Little More Tequila](https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew) | 2:55 | 2023-02-10 | 2023-04-10 |
 | [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 | 2023-11-11 |
 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-03 | 2026-03-07 |
+| [Mama Tried](https://open.spotify.com/track/2WfuFrcBnoDHInW6Lb7RzI) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Country Never Dies](https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk) | [Country Never Dies](https://open.spotify.com/album/2a6THopXVAZN4ivuKdOi2d) | 2:26 | 2026-03-13 |  |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/27hFnDcq32Q9wGx0W3bFUG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Mama, I'm Coming Home](https://open.spotify.com/album/34VR7v0VYnTqwT7bLHD94o) | 3:56 | 2025-10-17 |  |
 | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/50yaJDcExOmFaKeyGOyRiE) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82) | 3:32 | 2022-03-11 | 2022-06-28 |
 | [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 | 2023-08-18 | 2023-09-02 |
@@ -407,7 +409,7 @@
 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 | 2021-12-10 | 2022-10-27 |
 | [Vienna](https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK) | 3:09 | 2022-08-05 | 2024-04-19 |
 | [Vienna](https://open.spotify.com/track/2DP7FXMdejVk2sx6sFd2ne) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/0LRJCqgduJF7dmTdKcXbEK) | 3:09 | 2022-04-08 | 2022-08-10 |
-| [Vindicated](https://open.spotify.com/track/2677cbfkAwf2sAKFJ8XCdB) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Vindicated](https://open.spotify.com/album/5lKZXybVCH7jdTa72C1mVJ) | 3:16 | 2025-08-29 |  |
+| [Vindicated](https://open.spotify.com/track/2677cbfkAwf2sAKFJ8XCdB) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Vindicated](https://open.spotify.com/album/5lKZXybVCH7jdTa72C1mVJ) | 3:16 | 2025-08-29 | 2026-03-14 |
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2021-12-10 |  |
 | [Wait For It](https://open.spotify.com/track/26YCF5XU80CJ93UJZBR6W6) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Wait For It](https://open.spotify.com/album/66cPby9NYwxBI9qQacw8tU) | 3:26 | 2021-12-10 | 2022-07-27 |
 | [Wake Me up \(Country Version\)](https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me up \(Country Version\)](https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e) | 3:10 | 2024-11-22 |  |

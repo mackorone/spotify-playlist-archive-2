@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ROBI",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Bratty & Marc Segu\u00ed",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 194873,
       "name": "(feliz por ti)",
       "url": "https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj"
@@ -262,6 +262,24 @@
       "duration_ms": 203786,
       "name": "20 Minutos",
       "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
+    },
+    {
+      "album": {
+        "name": "2023",
+        "url": "https://open.spotify.com/album/5Wh7xOOYzQhT9obKvG1JDA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182016,
+      "name": "2023",
+      "url": "https://open.spotify.com/track/7qGEx91lcThz9i0WJkuj39"
     },
     {
       "album": {
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 153152,
       "name": "Crayola - Con Nicole Favre",
       "url": "https://open.spotify.com/track/32sUSaURmxkPrTF2mILyk5"
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 250259,
       "name": "DE SASTRE",
       "url": "https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv"
@@ -6526,6 +6544,28 @@
       "duration_ms": 172685,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
+    },
+    {
+      "album": {
+        "name": "el silencio",
+        "url": "https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218217,
+      "name": "el silencio",
+      "url": "https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G"
     },
     {
       "album": {
@@ -8402,7 +8442,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 218185,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/39e9XFY4lKx8CPwspoT0A1"
@@ -8420,7 +8460,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184716,
       "name": "GIMME MORE",
       "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
@@ -8442,6 +8482,28 @@
       "duration_ms": 153363,
       "name": "Girasoles",
       "url": "https://open.spotify.com/track/3eZF3DQo3wmT7PUD5PQSPz"
+    },
+    {
+      "album": {
+        "name": "Goo Goo Ga Ga",
+        "url": "https://open.spotify.com/album/0QrOLBDdv5gk0oVI1hAolW"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191765,
+      "name": "Goo Goo Ga Ga",
+      "url": "https://open.spotify.com/track/1OshrLJk7kar0EoabLbEOo"
     },
     {
       "album": {
@@ -8558,6 +8620,24 @@
       "duration_ms": 193426,
       "name": "Grande",
       "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
+    },
+    {
+      "album": {
+        "name": "grillos",
+        "url": "https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204194,
+      "name": "grillos",
+      "url": "https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A"
     },
     {
       "album": {
@@ -10832,7 +10912,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 168709,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/2M9KywBQWUmeFAdmjYi0ny"
@@ -10930,6 +11010,24 @@
       "duration_ms": 195200,
       "name": "Llorar En La Ducha",
       "url": "https://open.spotify.com/track/1eXn4omRJkqVqUynAcp7dR"
+    },
+    {
+      "album": {
+        "name": "Llueve tu nombre",
+        "url": "https://open.spotify.com/album/6TJzzmtspXKn4zdR3uVLXH"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221179,
+      "name": "Llueve tu nombre",
+      "url": "https://open.spotify.com/track/4Y7OdHmdC0lrSnA0sKK2bb"
     },
     {
       "album": {
@@ -11872,6 +11970,24 @@
       "duration_ms": 151105,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03"
+    },
+    {
+      "album": {
+        "name": "MARAT\u00d3N",
+        "url": "https://open.spotify.com/album/6CM5kf3dg3IQntsZGFR9vw"
+      },
+      "artists": [
+        {
+          "name": "Sam Eli",
+          "url": "https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "MARAT\u00d3N",
+      "url": "https://open.spotify.com/track/0RXaOOXgnJEggNryOdyOOj"
     },
     {
       "album": {
@@ -12830,7 +12946,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178512,
       "name": "mil preguntas",
       "url": "https://open.spotify.com/track/3DvtcMBAwZev5i9VToHWgZ"
@@ -15639,6 +15755,24 @@
     },
     {
       "album": {
+        "name": "pecos",
+        "url": "https://open.spotify.com/album/52UqQdtl1tkSGMiSM7d8OV"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187114,
+      "name": "pecos",
+      "url": "https://open.spotify.com/track/1U4gvn7EQFC2RQgaYEthVa"
+    },
+    {
+      "album": {
         "name": "Pedazos",
         "url": "https://open.spotify.com/album/4U1ADRGdBghTsx1LcptLCd"
       },
@@ -17355,6 +17489,28 @@
     },
     {
       "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "album": {
         "name": "Regina",
         "url": "https://open.spotify.com/album/47nKPXpqMjbVxYRnsLw2tj"
       },
@@ -17842,7 +17998,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 161984,
       "name": "SABES QU\u00c9???",
       "url": "https://open.spotify.com/track/2lmm2IkjMRbZPnsDBb4WMd"
@@ -19311,6 +19467,24 @@
     },
     {
       "album": {
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
+    },
+    {
+      "album": {
         "name": "T.R.A.",
         "url": "https://open.spotify.com/album/6f6eazdaio0wroNktANaC9"
       },
@@ -20014,7 +20188,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 214696,
       "name": "tiempo pasa",
       "url": "https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV"

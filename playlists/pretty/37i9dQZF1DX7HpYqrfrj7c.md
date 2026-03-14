@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,963 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,006 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 96 | [Tonights Da Night \- Instrumental](https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [The Funk Lord Instrumentals](https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0) | 3:02 |
 | 97 | [1999 \- Instrumental](https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [1999 / Like They Used To Say \(Remixes\)](https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf) | 4:16 |
 
-Snapshot ID: `AAAAAPVlrVgDbiUEih+l9pFCekoWuGPz`
+Snapshot ID: `AAAAAHDoMkdoNhWlch0au6kZaUdh+0Ln`

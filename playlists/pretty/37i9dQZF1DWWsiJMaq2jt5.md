@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7FPvltQvvREl3A8RnZ6Fyo">INA WEST</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,845 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,846 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Ziemia](https://open.spotify.com/track/61tVwoWINpqA8ZXXJu9h36) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U), [Marta Zalewska](https://open.spotify.com/artist/3EEWtBUzHJePfpex8kQYHY) | [Ziemia](https://open.spotify.com/album/22eHdO215EtNTD6uYFeWKY) | 4:19 |
 | 50 | [Seven Hundred Gates](https://open.spotify.com/track/2I9MfyBcy0XBC1JvMgFlUc) | [Ania Szarmach](https://open.spotify.com/artist/1LuaIftFN5BzXzUSKewJTL) | [Seven Hundred Gates](https://open.spotify.com/album/5duQkGqI6y5uTlKSnGN6mn) | 3:29 |
 
-Snapshot ID: `AAAAAOtcDRRbZ7Lzm9VgPuebvBrTL5G9`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

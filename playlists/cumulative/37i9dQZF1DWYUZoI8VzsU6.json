@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "forgive, forget.",
+        "url": "https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Blood Runs Thicker",
+      "url": "https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm"
+    },
+    {
+      "album": {
         "name": "Bowery (feat. Kings of Leon)",
         "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
@@ -684,6 +702,24 @@
       "duration_ms": 255125,
       "name": "Missed Call",
       "url": "https://open.spotify.com/track/6ybZUqlfk938oS6WeBmDab"
+    },
+    {
+      "album": {
+        "name": "Possum Rock",
+        "url": "https://open.spotify.com/album/0GKq4OBj4u2K5eYnYFm2Cp"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes @ Sunset",
+          "url": "https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196970,
+      "name": "My Fix",
+      "url": "https://open.spotify.com/track/4VwxCRrx0uJdNH54YOfMQe"
     },
     {
       "album": {

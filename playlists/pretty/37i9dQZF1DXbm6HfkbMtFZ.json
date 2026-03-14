@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 836885,
+  "num_followers": 836969,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235870,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219560,
       "name": "Give Me the Night - Edit",
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235870,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/5Kl37pew4uRgdOjttuQHSN"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 236599,
-      "name": "Take 3",
-      "url": "https://open.spotify.com/track/6PnOrZaQR29E7Y5KPuSYUn"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "The Miraculous Hump Returns From The Moon",
         "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 314653,
       "name": "Fazon",
       "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/5Kl37pew4uRgdOjttuQHSN"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Take 3",
+      "url": "https://open.spotify.com/track/6PnOrZaQR29E7Y5KPuSYUn"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
     },
     {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "Sun & Moon",
-        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 165712,
-      "name": "Sun & Moon",
-      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
-    },
-    {
       "added_at": "2026-03-02 16:33:59",
       "album": {
         "name": "Sounds Good",
@@ -1779,6 +1763,22 @@
       "duration_ms": 134702,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Sun & Moon",
+        "url": "https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 165712,
+      "name": "Sun & Moon",
+      "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2026-01-28 21:43:36",

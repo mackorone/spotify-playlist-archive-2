@@ -2,7 +2,7 @@
 
 ### [Soul Brasil](https://open.spotify.com/playlist/37i9dQZF1DWVJE8hP95f7v)
 
-> Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
+> Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
 110 songs - 6 hr 36 min
 

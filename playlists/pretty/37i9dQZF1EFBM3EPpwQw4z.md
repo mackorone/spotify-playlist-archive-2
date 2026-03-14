@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 103 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 101 | [Before Goodbyes](https://open.spotify.com/track/6pUAlW0yIC8ySMNSaPpJZp) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Before Goodbyes](https://open.spotify.com/album/2STzRQPDd5oukOCsvy11jP) | 3:21 |
 | 102 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
 | 103 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
+| 104 | [People Happy \- Ferreck Dawn Extended Mix](https://open.spotify.com/track/2pGgl37Wmb2RgjQnlXfawM) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Stace Cadet](https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [People Happy \(Ferreck Dawn Remix\)](https://open.spotify.com/album/7wKOwtN0oTkqt1LzoKKgd6) | 5:52 |
 
-Snapshot ID: `AcL96AAAAABzvz8rrZvycF7FAyqOqaS3`
+Snapshot ID: `AcMDTAAAAABB1PftnfsaMF0O4nMnQIfn`

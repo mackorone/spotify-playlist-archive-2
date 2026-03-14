@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279682,
+      "name": "Days Of Us (feat. Kaidi Akinnibi)",
+      "url": "https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO"
+    },
+    {
+      "album": {
         "name": "Still Blank",
         "url": "https://open.spotify.com/album/3rDUokLO2pAWEtjT9aRTIc"
       },
@@ -717,6 +739,46 @@
     },
     {
       "album": {
+        "name": "Drink The Water",
+        "url": "https://open.spotify.com/album/0OAgOyC13x2BeobHWpkWOD"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Drink The Water",
+      "url": "https://open.spotify.com/track/2WO8854ooH5dQDBi5Hyntq"
+    },
+    {
+      "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
+    },
+    {
+      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/3dXiBODwl4T0kIQIzFTPMI"
       },
@@ -790,6 +852,24 @@
       "duration_ms": 246356,
       "name": "Eldest Daughter",
       "url": "https://open.spotify.com/track/62HoDY1Km6lm47haFpUn9c"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E"
     },
     {
       "album": {
@@ -876,7 +956,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172533,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ"
@@ -1732,6 +1812,24 @@
       "duration_ms": 205263,
       "name": "Pictures Of You",
       "url": "https://open.spotify.com/track/0cqnQVk6gv2rnZXeEO2YPJ"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
       "album": {

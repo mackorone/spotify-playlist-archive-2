@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 166320,
+  "num_followers": 166362,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZnrQPKwOinrvY/j1mBbdFUV3Mg",
+  "snapshot_id": "AAAAANvwbD5g31IIP0rtA4RDi4izYOkT",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Angelo",
+        "url": "https://open.spotify.com/album/4fgGigtdkhRo5guam2XUGu"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 261253,
+      "name": "Angelo",
+      "url": "https://open.spotify.com/track/32ThkhTL1UraEj9OluuBuP"
+    },
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
@@ -25,10 +41,10 @@
       "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
     },
     {
-      "added_at": "2026-02-20 05:00:31",
+      "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "The Words I Cannot Say",
-        "url": "https://open.spotify.com/album/4r1LRIyapEpSUzkHw0KqgQ"
+        "name": "Don't Be Afraid",
+        "url": "https://open.spotify.com/album/3nUprO2inpp9hUrvckbiIi"
       },
       "artists": [
         {
@@ -36,25 +52,29 @@
           "url": "https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi"
         }
       ],
-      "duration_ms": 317573,
-      "name": "The Words I Cannot Say",
-      "url": "https://open.spotify.com/track/6Q6sl4SXzYPj4LBFWU3jGD"
+      "duration_ms": 453084,
+      "name": "Don't Be Afraid",
+      "url": "https://open.spotify.com/track/4bVkdSbwzYoxO7v6ESmChX"
     },
     {
-      "added_at": "2026-02-13 05:00:20",
+      "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Prisoner of Love",
-        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+        "name": "part I - the mirror",
+        "url": "https://open.spotify.com/album/1iNEF3fssEck988ry9uIWH"
       },
       "artists": [
         {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+          "name": "Nicole Zuraitis",
+          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
+        },
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
         }
       ],
-      "duration_ms": 143746,
-      "name": "Prisoner of Love",
-      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
+      "duration_ms": 264733,
+      "name": "won't make it out alive",
+      "url": "https://open.spotify.com/track/7arlvN4GyHbjszLrkCfLtv"
     },
     {
       "added_at": "2026-02-20 05:00:31",
@@ -767,22 +787,6 @@
       "duration_ms": 304893,
       "name": "Somalia Rose",
       "url": "https://open.spotify.com/track/1Aq4i6pPnk8GsDOJbDamOA"
-    },
-    {
-      "added_at": "2025-06-27 04:00:22",
-      "album": {
-        "name": "siren songs volume 2",
-        "url": "https://open.spotify.com/album/7zhDnNltNR8wel770VWh80"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zuraitis",
-          "url": "https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A"
-        }
-      ],
-      "duration_ms": 247062,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/2Xt4eJCrm2GTuppWkG1ysy"
     },
     {
       "added_at": "2025-06-13 04:00:31",

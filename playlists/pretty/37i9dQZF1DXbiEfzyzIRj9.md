@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Frog 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,578 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,586 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 23 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |
 | 24 | [Kinesphere](https://open.spotify.com/track/0JktQvQRsWSwzVPsIFNnBd) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Coco Nancy](https://open.spotify.com/artist/6UdrfJ5hsqDUsANqLtQ42b) | [Kinesphere](https://open.spotify.com/album/34riHamtey94DLboN3bmo4) | 3:34 |
 | 25 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
-| 26 | [Track 5](https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 0:00 |
+| 26 | [People Get Lost](https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 4:44 |
 | 27 | [Just The Way You Are \- Extended](https://open.spotify.com/track/3J3yfPZAjgUlH4ciBHBqiA) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are \(Extended\)](https://open.spotify.com/album/6nbPhb4uwrKC3ibYNv8Fep) | 4:14 |
 | 28 | [Illegalized Dub](https://open.spotify.com/track/5ePc3hTr9PiezUurlj5mWF) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Foglore\#1](https://open.spotify.com/album/7iFxhKoPsCjJpMSmspURy5) | 5:45 |
 | 29 | [Sweet Flower \(Feat\. Emi Grace\)](https://open.spotify.com/track/2l5EEmemzcWD6GUOluauCp) | [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [Sweet Flower \(Feat\. Emi Grace\)](https://open.spotify.com/album/0dgNZBer4wpHrmivRBbuY8) | 4:21 |
 | 30 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 |
 | 31 | [Bounce](https://open.spotify.com/track/1tYnkR9N4BR9ayDwc8neXm) | [RUI HAYAKAWA](https://open.spotify.com/artist/7eOuxMv5X3RAZiAn2fSWc6) | [Bounce?](https://open.spotify.com/album/4CI7xi1CO1pm7ggV0jHWKf) | 4:36 |
-| 32 | [solo \- KETTAMA remix](https://open.spotify.com/track/76dbSb7NAlj8TV4jQ7Oeud) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 4:20 |
+| 32 | [solo \- KETTAMA remix](https://open.spotify.com/track/76dbSb7NAlj8TV4jQ7Oeud) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BLANCO](https://open.spotify.com/artist/107oA7JxR0kX37IEt1zYbi) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 4:20 |
 | 33 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Butterfly](https://open.spotify.com/album/6EwceabziOOptW7N7tT626) | 3:32 |
 | 34 | [Love Who You Love \- KI/KI Remix \- Radio Edit](https://open.spotify.com/track/4eupIj45yiQy6W7g65Qhzx) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Love Who You Love \(KI/KI Remix \- Radio Edit\)](https://open.spotify.com/album/5M4eQWmJq9PuzbniuK2P9e) | 3:34 |
 | 35 | [Dynamometro](https://open.spotify.com/track/3KJQ3ExWUV09J46HMICNzg) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Dynamometro](https://open.spotify.com/album/1vCW2zFeLAzrEKZheVDc5E) | 5:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,757 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,756 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 51 | [I Can't See Myself Leaving You](https://open.spotify.com/track/0MsJNBcfNoIcf868I2MOHo) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:01 |
 | 52 | [I'M A MAN \- MIDNIGHT VERSION](https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OLD SONGS, SAME LOVE](https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5) | 2:50 |
 | 53 | [It's Something](https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u) | [Brenda Russell](https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W) | [Two Eyes](https://open.spotify.com/album/4LdC7V7eneSdAgfFS4MCE3) | 3:31 |
-| 54 | [Midnight Love Affair](https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:34 |
-| 55 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 |
+| 54 | [Lovin' you Is Easy](https://open.spotify.com/track/591hJcYCBItu3Io608n5fv) | [Maysa](https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC) | [Lovin' you Is Easy](https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa) | 4:05 |
+| 55 | [Midnight Love Affair](https://open.spotify.com/track/3IGYL4FbFEv9u9J1QC5BKI) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Smooth Soul](https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD) | 3:34 |
 | 56 | [Just Don't Want To Be Lonely](https://open.spotify.com/track/15moIwvRD6cUWrDUIB6tJo) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Reachin' Back](https://open.spotify.com/album/1ECSHlpISo7TsVMsbEdiuT) | 4:04 |
 | 57 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 |
 | 58 | ['Til You Come Back to Me](https://open.spotify.com/track/7D3rmjinop0EDd9ouwTaT1) | [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Famous R&B Divas](https://open.spotify.com/album/2bFVzLA1rFHv3xh4wEvMCf) | 4:38 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 63 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 64 | [Valentine Love \(Slow Version\)](https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap) | [Michael Henderson](https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K) | [The Best of Michael Henderson](https://open.spotify.com/album/6feal3fAi2Mr3FURLMpTfZ) | 3:58 |
 | 65 | [Say That You Will](https://open.spotify.com/track/6L83YiKa3WRx1Fti8eD2br) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [The Essential George Duke](https://open.spotify.com/album/0n0oFhwxTmphj7Et9awn3L) | 3:05 |
-| 66 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
-| 67 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
+| 66 | [Good For The Money](https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF) | [Aliah Sheffield](https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ) | [These Songs Are For Anyone Sick Of Earth](https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j) | 3:49 |
+| 67 | [A Song For You](https://open.spotify.com/track/1PRNgcg4CMQH0d8O8SCNsh) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Song Book 1985\-2010](https://open.spotify.com/album/7rXUuTQzUE1S54HJ5Yqgod) | 4:08 |
 | 68 | [I'll Come Running Back \(Mr Scruff Edit\)](https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj) | [Sandra Wright](https://open.spotify.com/artist/7ljM9d3lbU9yR0NN8z18ER) | [I'll Come Running Back \(Mr Scruff Edit\) \- Single](https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl) | 2:05 |
 | 69 | [Love Buddies](https://open.spotify.com/track/5ILMeTJNgTldGWbbI0YQ4L) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 3:41 |
 | 70 | [Never Can Say Goodbye \- Remastered 2025](https://open.spotify.com/track/0rjkiwYZwj3ybYTs3MGwuo) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [The Best Of \(Remastered 2025\)](https://open.spotify.com/album/5IMsqefh5TSqqVlDs3tIO1) | 3:38 |

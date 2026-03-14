@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195398,
       "name": "All That Falls Apart",
       "url": "https://open.spotify.com/track/5Nql4POlmj3M1qSattLpdn"
@@ -4131,6 +4131,24 @@
     },
     {
       "album": {
+        "name": "Modal Stims",
+        "url": "https://open.spotify.com/album/0wFAYvG9t0mNPMhRURFSSU"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350142,
+      "name": "Houdini Modal",
+      "url": "https://open.spotify.com/track/2K0KQAfrP9BL4UdQY43fqY"
+    },
+    {
+      "album": {
         "name": "Hydrogen23",
         "url": "https://open.spotify.com/album/5f9ItIuLGnyi0I2QEXrDdc"
       },
@@ -4327,6 +4345,28 @@
     },
     {
       "album": {
+        "name": "In Your Eyes (JIALING Remix)",
+        "url": "https://open.spotify.com/album/595GfEN3aHyoVhfHXfiMy5"
+      },
+      "artists": [
+        {
+          "name": "Swoush",
+          "url": "https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm"
+        },
+        {
+          "name": "JIALING",
+          "url": "https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223094,
+      "name": "In Your Eyes - JIALING Remix",
+      "url": "https://open.spotify.com/track/570txgJxoW3bB264CJIZxL"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/6rEzGtEmEOvvzrn5KA0jbM"
       },
@@ -4454,7 +4494,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 386332,
       "name": "Janus Modal",
       "url": "https://open.spotify.com/track/5L5BlUsV6YbG9mGb8AkIJl"
@@ -4760,6 +4800,24 @@
       "duration_ms": 283000,
       "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
       "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
+      "album": {
+        "name": "Terra",
+        "url": "https://open.spotify.com/album/3qW1EhwK8CFXd4tiUMg7mk"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "La Riva",
+      "url": "https://open.spotify.com/track/5YcH4BZgRV8pcfsUy1bc06"
     },
     {
       "album": {
@@ -6584,7 +6642,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 194304,
       "name": "Phase",
       "url": "https://open.spotify.com/track/3CESG19e31e3WpUaIblz50"
@@ -6772,6 +6830,24 @@
       "duration_ms": 264493,
       "name": "Poly",
       "url": "https://open.spotify.com/track/4HgqoBOSndOBBqtXcfad1A"
+    },
+    {
+      "album": {
+        "name": "Pressure / Sine Machine",
+        "url": "https://open.spotify.com/album/49xnZCzkwPkVZbqSboc2RN"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254090,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2tqgGbISrFLxIWaKiGqPJQ"
     },
     {
       "album": {
@@ -8464,7 +8540,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 265041,
       "name": "syntax anomaly",
       "url": "https://open.spotify.com/track/39NAehhURLEBhAwJLv3WEK"

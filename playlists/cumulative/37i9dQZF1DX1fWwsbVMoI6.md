@@ -2,9 +2,9 @@
 
 ### [Cumbias de Oro](https://open.spotify.com/playlist/37i9dQZF1DX1fWwsbVMoI6)
 
-> A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
+> A ponerse a tono con los mejores cumbiones\. Foto: Grupo Frontera y Silvestre Dangond
 
-164 songs - 11 hr 6 min
+165 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 | 2022-02-11 | 2026-01-15 |
 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 | 2022-02-11 |  |
 | [AYAYAY!](https://open.spotify.com/track/4ZPCNMnfJ61hpuq5tjvTtV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Spiritual](https://open.spotify.com/artist/7dJnUKfWyG3iYsPFyo5HpQ) | [AYAYAY!](https://open.spotify.com/album/2zDCDoc0avgic2BKapvtvj) | 2:49 | 2024-08-16 | 2025-12-05 |
-| [Cambio Mi Corazón \- En Vivo](https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Teatro Gran Rex \(En Vivo\)](https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ) | 3:39 | 2022-02-11 |  |
+| [Cambio Mi Corazón \- En Vivo](https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Teatro Gran Rex \(En Vivo\)](https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ) | 3:39 | 2022-02-11 | 2026-03-14 |
 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 | 2023-03-31 | 2024-04-19 |
 | [Cervecero](https://open.spotify.com/track/4mdkLjfCwdVNZZD8jrtqQJ) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0ti5xGT8I0efMsFbVBw7if) | 5:26 | 2022-02-11 | 2022-07-29 |
 | [Cervecero](https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK) | 5:26 | 2022-02-11 | 2023-06-04 |
@@ -38,7 +38,7 @@
 | [Cual Adiós](https://open.spotify.com/track/5bivFU6gebehzoGKdslN3F) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:25 | 2022-02-11 |  |
 | [Cuando Callas](https://open.spotify.com/track/3CnEvFoHutoAqCzQPEJyTB) | [Mauricio Mesones](https://open.spotify.com/artist/3rncKt7sH5O1C2xPOyGlze), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Cuando Callas](https://open.spotify.com/album/24GzLBDiMywg6h01AiW6Fn) | 4:06 | 2022-02-11 | 2022-06-05 |
 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 | 2022-02-11 |  |
-| [Cumbia y Cerveza](https://open.spotify.com/track/29NOUJCryPob2OT7mvBAqY) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Cumbia y Cerveza](https://open.spotify.com/album/0GOIkDiSw2mghVEF8KF90a) | 3:06 | 2023-09-22 | 2024-02-17 |
+| [Cumbia y Cerveza](https://open.spotify.com/track/29NOUJCryPob2OT7mvBAqY) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Cumbia y Cerveza](https://open.spotify.com/album/0GOIkDiSw2mghVEF8KF90a) | 3:06 | 2023-09-22 |  |
 | [Cumbias Pegaditas Mix 1](https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Cumbias Pegaditas](https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2) | 20:03 | 2022-02-11 |  |
 | [Decidí Vivir Sin Ti](https://open.spotify.com/track/6dQnfkXZU4ikIk8V54bwVI) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Expreso Tropical Parada 1](https://open.spotify.com/album/5uoW9SUUtQ17G3pLHwdmV9) | 3:39 | 2022-02-11 | 2023-04-14 |
 | [Dejar de Amarte / Sentada en un Bar \- En Vivo](https://open.spotify.com/track/1ZYEy0WY5z97M4UnJs1lUR) | [Los Rebeldes De La Cumbia](https://open.spotify.com/artist/4Kq6PhHm3gDTuxwXAMJkyY) | [Dejar de Amarte / Sentada en un Bar \(En Vivo\)](https://open.spotify.com/album/6LP9Pvkqi4ffmo9z9ImAjf) | 6:28 | 2023-02-03 | 2024-06-29 |
@@ -72,13 +72,14 @@
 | [He Sentido Amor](https://open.spotify.com/track/2omcZyahahtsgUkSLwbkdc) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [17 Años de Música](https://open.spotify.com/album/2fSQZdE24zSmpHvft5FwfP) | 3:55 | 2022-02-11 | 2022-07-29 |
 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 | 2022-02-11 | 2024-04-19 |
 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 | 2022-02-11 |  |
+| [IMPOSIBLE](https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [IMPOSIBLE](https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW) | 3:13 | 2026-03-13 |  |
 | [Imposible Olvidarte](https://open.spotify.com/track/1v57w0VNYnXwVlomUgdddU) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Cariño Loco](https://open.spotify.com/album/47jmWuLpOc9R5bb06VM2Y6) | 4:10 | 2022-02-11 | 2022-07-28 |
 | [Imposible Olvidarte](https://open.spotify.com/track/28OYshVQTfw9ytKlXHjaqg) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Cariño Loco](https://open.spotify.com/album/2g3QVAasQuXmVPXmaWG6PT) | 4:10 | 2022-08-05 | 2022-11-13 |
 | [Julio Jaramillo](https://open.spotify.com/track/1cInTEjOalbn410rMb3nzV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [Julio Jaramillo](https://open.spotify.com/album/5YYbji1Fm46dNhQyLX7tj9) | 2:23 | 2024-10-18 | 2025-07-01 |
 | [Juraste Querrerme](https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [El Baile de la Serpiente](https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt) | 3:29 | 2022-02-11 |  |
 | [Júrame](https://open.spotify.com/track/2jlvQG0RDIj5KgnM2xjlUk) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Lo Mejor Del...](https://open.spotify.com/album/2IWLIYTe44e5MD6orWUaiC) | 4:07 | 2022-02-11 | 2022-07-29 |
 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 | 2022-02-11 | 2024-04-19 |
-| [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 | 2022-02-11 |  |
+| [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 | 2022-02-11 | 2026-03-14 |
 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 | 2022-02-11 | 2025-05-19 |
 | [La Duda](https://open.spotify.com/track/1euvZCoC0ETg1aiK0tfkEs) | [Armonía 10 de Walther Lozada](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Una Cualquiera](https://open.spotify.com/album/1ShwZyhoqhWGaZkQg6yVfS) | 4:24 | 2022-11-11 |  |
 | [Lejos de Ti](https://open.spotify.com/track/0p1Tg14xmC1MgxncLFkt6d) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Lejos de Ti](https://open.spotify.com/album/3VugzWWNSNU6AiSecTnbn6) | 4:01 | 2022-02-11 | 2024-04-19 |

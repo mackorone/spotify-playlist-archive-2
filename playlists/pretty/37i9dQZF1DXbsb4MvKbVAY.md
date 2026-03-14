@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa PinkPantheress ja Zara Larsson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,650 likes - 66 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,651 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 27 | [Make up your mind](https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Make up your mind](https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj) | 3:08 |
 | 28 | [Mannerheim](https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 2:48 |
 | 29 | [+\-0](https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 |
-| 30 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 |
-| 31 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
+| 30 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
+| 31 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 |
 | 32 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
 | 33 | [Four Seasons](https://open.spotify.com/track/02nEidsI2MiwbrSaXznrin) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 3:03 |
 | 34 | [Se ei mennyt niin](https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:50 |

@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- LØLØ on the cover
 
-1,060 songs - 2 day 0 hr 59 min
+1,065 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Armageddon](https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:16 | 2024-05-31 | 2024-07-27 |
 | [Army](https://open.spotify.com/track/2iDHXVlRmTG5Yuo2Z6yYDT) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Army](https://open.spotify.com/album/1TSAkrsWaBByYUvbzM6Lo1) | 2:48 | 2024-09-06 | 2024-10-19 |
 | [ASPHALT RODEO](https://open.spotify.com/track/2u0NrSifafd4x4kO5NrSx8) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ASPHALT RODEO](https://open.spotify.com/album/6pH7vizaLhjOBNXQJvo8EK) | 2:38 | 2024-04-26 | 2024-06-29 |
+| [Autopsy](https://open.spotify.com/track/0EKfkLIPkAqNTGUy6vwcQ0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Autopsy](https://open.spotify.com/album/1X9f6a4VaPAj6XIDIzbLyN) | 2:56 | 2026-03-13 |  |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-18 | 2023-08-26 |
 | [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 | 2025-11-14 |  |
 | [B!TCH](https://open.spotify.com/track/2Nyv7f1EPb0orOAV358ipT) | [NIKI DEMAR](https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5) | [RUINED MY LIFE](https://open.spotify.com/album/3IN651OP5lN22mIlzqj9lt) | 2:59 | 2023-07-07 | 2023-12-16 |
@@ -104,6 +105,7 @@
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-01-28 | 2022-05-14 |
 | [Better On Mute](https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Better On Mute](https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09) | 2:37 | 2023-11-10 | 2024-01-05 |
 | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/track/11BIdkGoqRisAm21nXcTFx) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/album/0BqTnZD4dmxKVg7ZYgmmXY) | 2:39 | 2024-01-05 | 2024-04-24 |
+| [Better Than a Man](https://open.spotify.com/track/7dRrGnxYlWuaOukJRSlE2C) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [Better Than a Man](https://open.spotify.com/album/2pXAF4a7RVpKS9wkakuk0J) | 3:04 | 2026-03-13 |  |
 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 | 2023-07-14 | 2023-09-23 |
 | [BIBI Vengeance](https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 2:45 | 2025-01-20 | 2025-05-10 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 | 2024-08-09 | 2025-01-25 |
@@ -763,6 +765,7 @@
 | [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-09 | 2023-08-11 |
 | [red flag collector](https://open.spotify.com/track/6a0x5MhnYdjxaotPNKXUvW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 2:58 | 2023-07-28 | 2023-09-09 |
 | [RED LIPSTICK](https://open.spotify.com/track/4Q0WhPIQdLXdPuKn9JNLyw) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [RED LIPSTICK](https://open.spotify.com/album/1DGbPWLPkBilIX4nCobzr4) | 3:30 | 2025-04-11 | 2025-06-14 |
+| [Regular Shmegular Girl](https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [20nothing](https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz) | 2:54 | 2026-03-13 |  |
 | [Relevant](https://open.spotify.com/track/0M4b06JYKNHHOv5vi5XsfJ) | [Kiki Kramer](https://open.spotify.com/artist/5TWBR6yQaUY06b4q1W3oJL) | [Relevant](https://open.spotify.com/album/2blPerUgDpv3dod46541Wr) | 2:49 | 2024-10-25 | 2025-02-08 |
 | [Reminisce](https://open.spotify.com/track/6JMdjoMWLRwyqUm6RjyO07) | [Povi](https://open.spotify.com/artist/2So7IMAC8UNsbJ1qmOJD1B) | [Reminisce](https://open.spotify.com/album/1FtbOVjWehrdpUjFXVu67R) | 2:35 | 2024-10-11 | 2025-01-25 |
 | [RENT FREE](https://open.spotify.com/track/63OJuAjBAhM0SV7EKAXVC3) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [RENT FREE](https://open.spotify.com/album/5k92ch8gWdvXYrbjOcxMsb) | 2:51 | 2023-06-16 | 2023-08-05 |
@@ -770,6 +773,7 @@
 | [REPTILIAN](https://open.spotify.com/track/1KOAG6KxLh30RtqM31rjsI) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [F.I.L.T.H.](https://open.spotify.com/album/4k5z8ssWpDmFuPdz73iNtV) | 2:27 | 2024-10-18 | 2025-01-25 |
 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 | 2023-12-01 | 2024-03-23 |
 | [Rich Man](https://open.spotify.com/track/48SHHV3qxvboO8TFWrroC4) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Rich Man](https://open.spotify.com/album/1LbXVD0LLYNvAv6ZJt4DRa) | 2:51 | 2022-02-11 | 2022-03-18 |
+| [Right From Left](https://open.spotify.com/track/4ppNmrjyEEI6yD5FkGe6lw) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [JULITH](https://open.spotify.com/artist/59OjXOG1kuIeJYUkLEabJB) | [Right From Left](https://open.spotify.com/album/2Ny3S3m4QAcvUcyONAwf7C) | 3:25 | 2026-03-13 |  |
 | [Ring Ring](https://open.spotify.com/track/1mLrKUepZE0AI11JvOwWci) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Ring Ring](https://open.spotify.com/album/7HDaOyg3G7ltdxVPbQIkry) | 2:03 | 2024-05-24 | 2024-06-29 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-21 | 2024-08-10 |
 | [ROCKNROLL](https://open.spotify.com/track/0g2TDHDWIra0CatRXtUvd3) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ROCKNROLL](https://open.spotify.com/album/6YZrNliHSuIg4tbI1vc27j) | 2:29 | 2025-07-11 | 2025-09-06 |
@@ -872,6 +876,7 @@
 | [Stuck](https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Stuck](https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE) | 2:04 | 2024-04-12 | 2024-06-08 |
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-20 |
 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 | 2022-04-15 | 2022-08-27 |
+| [Sucker](https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6) | [gracie](https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Sucker](https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD) | 3:55 | 2026-03-13 |  |
 | [Sucker Punch](https://open.spotify.com/track/7ghhBpqgGXTuNzUsAbltCO) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Sucker Punch](https://open.spotify.com/album/00WgbrL5iRFBAT9BjvgiSv) | 3:17 | 2024-03-15 | 2024-04-24 |
 | [SUCKER4PAIN](https://open.spotify.com/track/5pZdqQTXSH5A1tLYg3JiPw) | [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [Jxve](https://open.spotify.com/artist/2WupjRbsK0tgRY3pFyF37o) | [SUCKER4PAIN](https://open.spotify.com/album/7wMQoZWDeXJBeldAlKWMs2) | 2:32 | 2022-01-28 | 2022-04-23 |
 | [Sugar Baby](https://open.spotify.com/track/1eH3H5BjzfeicRnl5dJl1O) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sugar Baby](https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW) | 2:56 | 2023-07-28 | 2023-12-23 |

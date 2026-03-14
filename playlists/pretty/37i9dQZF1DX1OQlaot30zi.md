@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Vaz Tè, Tony Effe e Side Baby,  Disme, Clamö e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,049 likes - 119 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,063 likes - 119 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 28 | [DRIP DROP](https://open.spotify.com/track/2G6evQinarS5tPBgU9Zh89) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [DRIP DROP](https://open.spotify.com/album/3q2M54MfMzh8O64iJ9f9vV) | 2:18 |
 | 29 | [MILLIMETRI \(feat\. Guè & IvanBi\)](https://open.spotify.com/track/2Bz0Q6A72N0CucEqfvYXxg) | [Rame](https://open.spotify.com/artist/4jQQ2yfZyDgktZW5eI6BA7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [MILLIMETRI \(feat\. Guè & IvanBi\)](https://open.spotify.com/album/60yPFMJXFuMxUdScNz2Wh7) | 3:12 |
 | 30 | [CANI RANDAGI \(feat\. Melons\)](https://open.spotify.com/track/3JnywAfzQZbeGi9ADvRRQB) | [Scaccia](https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [CANI RANDAGI \(feat\. Melons\)](https://open.spotify.com/album/3oj4Texw7hFDNhPyuKiaPj) | 2:10 |
-| 31 | [$LOT MACHINE \(feat\. Tony2milli\)](https://open.spotify.com/track/78Y5sd7YADvm7M1nMZqv6V) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Tony2milli](https://open.spotify.com/artist/22gCGk009wHno7iKa9fPhb), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 3:01 |
+| 31 | [$LOT MACHINE \(feat\. Tony 2Milli\)](https://open.spotify.com/track/78Y5sd7YADvm7M1nMZqv6V) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [PIÙ CHE SOLIDO](https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT) | 3:01 |
 | 32 | [AMOREMIOWHEREAREUGOING?](https://open.spotify.com/track/42hi4tBRhkhUhG3NrzRnMn) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [AMOREMIOWHEREAREUGOING?](https://open.spotify.com/album/2I320eDcBg4l7Vpxv7sk11) | 2:19 |
 | 33 | [CANNABIS](https://open.spotify.com/track/3CgrumOfnBFaDu5fcDbjtc) | [BADMAN](https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p) | [CANNABIS](https://open.spotify.com/album/2nS3CEKU4PolUtOuF7pmig) | 2:03 |
 | 34 | [Versatile](https://open.spotify.com/track/7qQdFLSY8TRpfXWj1fs63Y) | [Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Versatile](https://open.spotify.com/album/44zRef11e4WcAEX74HaZ2u) | 2:12 |

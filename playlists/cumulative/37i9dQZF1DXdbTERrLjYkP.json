@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250883,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
+    },
+    {
+      "album": {
         "name": "another guy",
         "url": "https://open.spotify.com/album/78o1cne21EKhzHTaMKu6q6"
       },
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 226244,
       "name": "Baby Just Be",
       "url": "https://open.spotify.com/track/3500z3pULXj7gW4xP7TnvF"
@@ -4454,7 +4472,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 208023,
       "name": "double edged sword",
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
@@ -5740,7 +5758,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 238641,
       "name": "Fuck Up",
       "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
@@ -9219,6 +9237,24 @@
     },
     {
       "album": {
+        "name": "It's Not You It's Him",
+        "url": "https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169872,
+      "name": "It's Not You It's Him",
+      "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
+    },
+    {
+      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -10314,7 +10350,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 205941,
       "name": "Lost in LA",
       "url": "https://open.spotify.com/track/1C1BSzlhjqAE3SMSXjV8N0"
@@ -11852,7 +11888,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 168864,
       "name": "nobody cares",
       "url": "https://open.spotify.com/track/4U8hzIkAh6cNEvbYF435Cn"
@@ -15569,6 +15605,24 @@
     },
     {
       "album": {
+        "name": "teach you to love me",
+        "url": "https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189192,
+      "name": "teach you to love me",
+      "url": "https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL"
+    },
+    {
+      "album": {
         "name": "Teenage Mona Lisa",
         "url": "https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d"
       },
@@ -17709,6 +17763,24 @@
     },
     {
       "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
+    },
+    {
+      "album": {
         "name": "When You Look At Me",
         "url": "https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk"
       },
@@ -18228,6 +18300,24 @@
       "duration_ms": 219922,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6RvwCMqJpoEnKlboHszwuB"
+    },
+    {
+      "album": {
+        "name": "You Don't Really Like Me",
+        "url": "https://open.spotify.com/album/2BocWiE6BIzA7yjOQCUxvS"
+      },
+      "artists": [
+        {
+          "name": "Emma Andersen",
+          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166221,
+      "name": "You Don't Really Like Me",
+      "url": "https://open.spotify.com/track/5aSEbL2JKTt9qoHZRpW5kT"
     },
     {
       "album": {

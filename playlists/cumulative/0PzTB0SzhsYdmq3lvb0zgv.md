@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-493 songs - 1 day 3 hr 28 min
+495 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Gravity](https://open.spotify.com/track/67ZToNMUVrEPd4LppSTjH7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3) | 4:05 | 2026-01-09 |  |
 | [Grow](https://open.spotify.com/track/4oKZFnSK6xmq40KLehqYs5) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Grow](https://open.spotify.com/album/6i2Q9I1AkYBdvTjQMTVVE2) | 3:01 | 2025-07-18 | 2025-10-28 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/5eutB2O8MLQjPJmAlYvxXC) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ) | 3:04 | 2025-07-18 | 2025-10-28 |
+| [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-03-13 |  |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2025-07-18 |  |
 | [He Said, She Said](https://open.spotify.com/track/0WVqGklPRYtJD9bjWiMXvM) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:44 | 2025-08-22 | 2025-11-01 |
 | [healthy habit](https://open.spotify.com/track/3jYZFB7ohoWPuZ5wLhZkuk) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 1:56 | 2026-01-16 | 2026-02-20 |
@@ -374,6 +375,7 @@
 | [Send It Back](https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 2:53 | 2026-01-09 |  |
 | [Shake Off the Rain](https://open.spotify.com/track/6sRdvX9B5dGqTFG1xAZ9vp) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/1EbcZlvCtWobdKAoowEQSo) | 4:42 | 2026-01-09 | 2026-02-20 |
 | [She Makes Me](https://open.spotify.com/track/4UPPsbC81yQ1oxj80lfKWg) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [She Makes Me](https://open.spotify.com/album/0ts5DfHtMBh47p5OBEKvuh) | 3:06 | 2025-07-18 | 2025-10-28 |
+| [Shells](https://open.spotify.com/track/7kH2dQEgC2OMFxJJKqmCnx) | [Romy Liz Rose](https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS) | [I Am June](https://open.spotify.com/album/2WGkOXxTTMXnWJuZU3bJuG) | 3:49 | 2026-03-13 |  |
 | [Shine](https://open.spotify.com/track/4EXXzIGycI3YICPNTaCd7S) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Sunkissed](https://open.spotify.com/album/1CNSRsNssTaf56NFP3hwNL) | 3:14 | 2025-07-18 |  |
 | [Shoes Of Lightning](https://open.spotify.com/track/6HIv1vFwzhrAP2uLbne3SV) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [All in Good Time](https://open.spotify.com/album/59T3Qz12VdSNpyLTlBrJ1f) | 3:40 | 2025-08-22 | 2026-02-20 |
 | [Si Te Quedas \(feat\. Pablo Alborán\)](https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si Te Quedas \(feat\. Pablo Alborán\)](https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105) | 2:55 | 2025-12-15 | 2026-02-20 |

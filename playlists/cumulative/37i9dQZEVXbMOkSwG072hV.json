@@ -15868,7 +15868,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 183000,
       "name": "CHARME",
       "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
@@ -42930,7 +42930,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 176000,
       "name": "Lobo da Matilha",
       "url": "https://open.spotify.com/track/75TRdahib714ZAAG24SboJ"
@@ -67059,6 +67059,28 @@
     },
     {
       "album": {
+        "name": "Processo Delicado",
+        "url": "https://open.spotify.com/album/34yVeYdpgqlP734gh7kboJ"
+      },
+      "artists": [
+        {
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172277,
+      "name": "Processo Delicado",
+      "url": "https://open.spotify.com/track/0aKZSEgjHbUngVi04ZrHBz"
+    },
+    {
+      "album": {
         "name": "Proibido Terminar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wOZJYlZoefQ4fWRSiz6R8"
       },
@@ -91124,6 +91146,28 @@
       "duration_ms": 247906,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/7nDM58kOxSnuZqKMUYB6q2"
+    },
+    {
+      "album": {
+        "name": "Where Have You Been (Brazilian Funk)",
+        "url": "https://open.spotify.com/album/4E8IE3m64qqVpWVEADri9D"
+      },
+      "artists": [
+        {
+          "name": "MLQ 2N",
+          "url": "https://open.spotify.com/artist/7uhYm3jkkGokLHaxi3PceF"
+        },
+        {
+          "name": "RENKAI",
+          "url": "https://open.spotify.com/artist/0jtXukB5gQwgyYKaPPMGiI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Where Have You Been (Brazilian Funk)",
+      "url": "https://open.spotify.com/track/7u3LEBavFlG1ax7hDTZ1Kf"
     },
     {
       "album": {

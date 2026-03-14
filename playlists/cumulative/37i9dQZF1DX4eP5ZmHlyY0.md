@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: P1Harmony
 
-924 songs - 2 day 2 hr 32 min
+925 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [EMBER](https://open.spotify.com/track/4h2V11d3WGC0388eBkm6tC) | [YUTA](https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua) | [PERSONA](https://open.spotify.com/album/0PqzdmRYw6MfmrUtmlrDv1) | 3:36 | 2025-10-24 | 2025-11-06 |
 | [encore](https://open.spotify.com/track/6PtdknJWWbQMz2WbfEZYFK) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [encore](https://open.spotify.com/album/5jKqkpuXAITg8wLB57P34I) | 4:06 | 2025-05-27 | 2025-06-18 |
 | [Endless Ending](https://open.spotify.com/track/6wiUeyw6rmng1HTjjyPyrQ) | [BEAST \(HIGHLIGHT\)](https://open.spotify.com/artist/2jR5OEkMem5Ntarz6fAZ48) | [Endless Ending](https://open.spotify.com/album/2LzOVYi9YCKmIJK5j29HES) | 3:25 | 2025-05-01 | 2025-08-30 |
+| [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-12 |  |
 | [Enter](https://open.spotify.com/track/23bBvLsCna9U8Ehi9ckZjm) | [零](https://open.spotify.com/artist/7s4JAJwCa1wNKbJrrxvbjY) | [Delete / Enter](https://open.spotify.com/album/79DwCEf7bv1cZWAEQPVVRq) | 3:00 | 2025-03-06 | 2025-04-30 |
 | [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-13 | 2025-09-04 |
 | [Evergreen](https://open.spotify.com/track/1FwpLolu29OCFHU1Yqyz17) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Evergreen](https://open.spotify.com/album/0GUY29JTqpAq7U0q1LZvRT) | 3:36 | 2024-06-18 | 2024-06-26 |

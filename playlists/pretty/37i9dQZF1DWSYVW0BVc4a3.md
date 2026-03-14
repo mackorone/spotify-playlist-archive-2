@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Jeremy Olander
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,847 likes - 132 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,879 likes - 132 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 15 | [Don't Stop The Fight](https://open.spotify.com/track/6QzcQLJoW7qYXzI0SeW6Ha) | [Fabe \(Ger\)](https://open.spotify.com/artist/6B26Bff3HRDm1VnX3hr60j) | [Flowkey E.P.](https://open.spotify.com/album/3kvM2dRL7p3rN9h2qb87Yp) | 6:45 |
 | 16 | [Forever \- Tom VR Remix](https://open.spotify.com/track/5DXV1tyJr3lsyWMbCONhiJ) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Forever \(Tom VR Remix\)](https://open.spotify.com/album/1shyfgGzRsiTPDRdH5tWlL) | 5:47 |
 | 17 | [Echoed Dafnino](https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Echoed Dafnino](https://open.spotify.com/album/2VklyfVYWd26jxCdsuRHsj) | 5:33 |
-| 18 | [Track 5](https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 0:00 |
+| 18 | [People Get Lost](https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 4:44 |
 | 19 | [Higher](https://open.spotify.com/track/1T30Wzo3VuxPTGjTXZQVho) | [Particles](https://open.spotify.com/artist/5XKRiTg2TKQMB82UgJyRIu), [Venice](https://open.spotify.com/artist/79M8DWuZTJQypTILAL1Lef), [Kaan Duzarat](https://open.spotify.com/artist/5mA77js8qqRbZqvmBo8uZy) | [Higher](https://open.spotify.com/album/46jKYtiHbVIQprA4r5LKBD) | 4:01 |
 | 20 | [Hello Hello](https://open.spotify.com/track/5wdDInqBbiFwTyLINr0wE0) | [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t) | [Hello Hello](https://open.spotify.com/album/4dTB5Nban4X0A1znzfrlzj) | 3:43 |
 | 21 | [Tamagucci](https://open.spotify.com/track/0NQhEyuwxND8hM5JSsIg9I) | [Elfenberg](https://open.spotify.com/artist/3rVvL036o05Y34SPRsW63P) | [Tamagucci](https://open.spotify.com/album/5jXQ5K43Mzh4lq9VWPJar2) | 5:04 |
 | 22 | [The Flower \- Basement of Love Mix](https://open.spotify.com/track/0AU6WEie4MHnjF6AiFWsQr) | [Dj Split](https://open.spotify.com/artist/5W3bmQYJXyK0uz3ZC30xpG) | [The Flower \(Basement of Love Mix\)](https://open.spotify.com/album/2fKSY31o0jUTWk1ejiCjmE) | 6:19 |
 | 23 | [Formula E](https://open.spotify.com/track/3JZgsDobr33SDoyQztcthE) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Formula E](https://open.spotify.com/album/2Qb7iU0rKN68fGjUN9pTNN) | 4:46 |
-| 24 | [In The Air](https://open.spotify.com/track/5PpJ82GgKKdSg3l3x9lvk2) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj) | [In The Air](https://open.spotify.com/album/1GavMCOw7vTWvKtMWBAoCc) | 2:46 |
+| 24 | [In The Air](https://open.spotify.com/track/5PpJ82GgKKdSg3l3x9lvk2) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Avision](https://open.spotify.com/artist/25L7U77b5R5fO5pRjDP1Cj), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx) | [In The Air](https://open.spotify.com/album/1GavMCOw7vTWvKtMWBAoCc) | 2:46 |
 | 25 | [It's Time](https://open.spotify.com/track/0r5Vg7vF0wFgcOY5od6Qsi) | [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ), [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [It's Time / Showblow](https://open.spotify.com/album/36lnyKZKROYaSCxOskBsWZ) | 3:15 |
 | 26 | [People Like Us](https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [People Like Us](https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM) | 3:12 |
 | 27 | [Can I Take You Home](https://open.spotify.com/track/24B0ePrVEASYgMp3MyxSWs) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Can I Take You Home](https://open.spotify.com/album/11DdfoOJMI9WR5pqzXeE0z) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: J. Cole",
+  "description": "The hottest out the South. Cover: T.I.",
   "name": "No Cap",
   "tracks": [
     {
@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 104000,
       "name": "Act Like Money",
       "url": "https://open.spotify.com/track/59srqH5Kg6NWlUzH1T5olL"
@@ -3504,6 +3504,24 @@
       "duration_ms": 140613,
       "name": "B.B.B.",
       "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
+    },
+    {
+      "album": {
+        "name": "B.B.L.S.",
+        "url": "https://open.spotify.com/album/2EoQ3AGNxVWaCI3JIVC1wE"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107234,
+      "name": "B.B.L.S.",
+      "url": "https://open.spotify.com/track/0NjVgY0ozThRP2odytEsUj"
     },
     {
       "album": {
@@ -13169,6 +13187,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/3iOdVj6hlLXxDgW7ooU9ZA"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142680,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3r4myCRyUHfTc8joUS3st5"
+    },
+    {
+      "album": {
         "name": "Dreidel Bop",
         "url": "https://open.spotify.com/album/28gqEZY9Gne8LSugkaoKIR"
       },
@@ -13668,7 +13704,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 120433,
       "name": "Dumb Crasy Too",
       "url": "https://open.spotify.com/track/2M6X6gDxzKvQSS3h7PyiAl"
@@ -13690,7 +13726,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162758,
       "name": "Dumb wit it (get in dea) - Remix",
       "url": "https://open.spotify.com/track/3u2QIFXPyss9Kf5Fux8DVi"
@@ -13814,6 +13850,28 @@
       "duration_ms": 192013,
       "name": "EASY DUB (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS"
+    },
+    {
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "album": {
@@ -15292,7 +15350,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 113700,
       "name": "Fine Shit",
       "url": "https://open.spotify.com/track/4E0VlejtaZ0FKSfYqflytn"
@@ -21150,7 +21208,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 139206,
       "name": "Hood (feat. Nino Paid)",
       "url": "https://open.spotify.com/track/7ybgZ5WdkKMZwBSDCKuei2"
@@ -21834,6 +21892,32 @@
       "duration_ms": 131506,
       "name": "I Don\u2019t Text Back (feat. Yeat)",
       "url": "https://open.spotify.com/track/6Gh8SC2X9tC1EmgJK6tin0"
+    },
+    {
+      "album": {
+        "name": "I GO",
+        "url": "https://open.spotify.com/album/1whhawnTHrTbQhQfvBDPl8"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "MurdaGang PB",
+          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
+        },
+        {
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136480,
+      "name": "I GO",
+      "url": "https://open.spotify.com/track/6rWq3uA3tuz0MMxtvhMdHZ"
     },
     {
       "album": {
@@ -24152,7 +24236,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 138571,
       "name": "Jumpin' Out a Window",
       "url": "https://open.spotify.com/track/5s5yhDeZvpdhEbK5E6xmbh"
@@ -25160,7 +25244,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 124268,
       "name": "Kobe",
       "url": "https://open.spotify.com/track/7Kw8y31KPpco4LBMckGfyn"
@@ -26742,6 +26826,32 @@
       "duration_ms": 95386,
       "name": "Lil O The Impaler",
       "url": "https://open.spotify.com/track/1bR6wx1XbLqqU3dQ2xgrpY"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/264B6yLmYML7LdkK7Z7fbU"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+        },
+        {
+          "name": "Lil' Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206660,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/0MnMAwwZDBLC967RmhL2Jd"
     },
     {
       "album": {
@@ -29846,6 +29956,24 @@
       "duration_ms": 143147,
       "name": "Motion God",
       "url": "https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS"
+    },
+    {
+      "album": {
+        "name": "Motion Party",
+        "url": "https://open.spotify.com/album/3SqG2aIX6OI0o4SFSDqHjr"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95840,
+      "name": "Motion Party",
+      "url": "https://open.spotify.com/track/6i33LrYcqEjfhDudr0PRy9"
     },
     {
       "album": {
@@ -33972,6 +34100,24 @@
       "duration_ms": 139038,
       "name": "OOGA BOOGA!",
       "url": "https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G"
+    },
+    {
+      "album": {
+        "name": "oooshxt!",
+        "url": "https://open.spotify.com/album/5lati9k4WZBRfjaDU28IyN"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135767,
+      "name": "oooshxt!",
+      "url": "https://open.spotify.com/track/5g7ekg0eed42JuSCUEuSEe"
     },
     {
       "album": {
@@ -41891,6 +42037,24 @@
     },
     {
       "album": {
+        "name": "So Groovy",
+        "url": "https://open.spotify.com/album/1rATk1CV7PQIQzkLxaOlsX"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164850,
+      "name": "So Groovy",
+      "url": "https://open.spotify.com/track/5LLxJJ6CE38tp5MkHcL4LE"
+    },
+    {
+      "album": {
         "name": "FOR NOTHING",
         "url": "https://open.spotify.com/album/4apnTORFFrrRlpXeZQibAf"
       },
@@ -42592,7 +42756,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 96936,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/4MbcYaIPmMotpLc73RNJ98"
@@ -43974,7 +44138,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 121791,
       "name": "SUICIDE NOTE",
       "url": "https://open.spotify.com/track/0jKJHqpSazr1i29IILH5wi"

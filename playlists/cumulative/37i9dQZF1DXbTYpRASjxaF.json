@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "todos pro alto, cada um com o seu. Foto: Yuri Redicopa",
+  "description": "todos pro alto, cada um com o seu. Foto: Oklin, NandaTsunami",
   "name": "Cop\u00e3o na M\u00e3o",
   "tracks": [
     {
@@ -534,6 +534,32 @@
       "duration_ms": 145600,
       "name": "Acelerado",
       "url": "https://open.spotify.com/track/2WIFDdMuzxwnR7i3uYnqWM"
+    },
+    {
+      "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
+      },
+      "artists": [
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
     },
     {
       "album": {
@@ -15112,7 +15138,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 226875,
       "name": "Vou Nessa",
       "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"

@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 478955,
+  "num_followers": 479009,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAB7m6WxztMHjm5k86PDQClT",
+  "snapshot_id": "abICAAAAAADOHeWwIfRXl+dlG7vC+TjM",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 298613,
-      "name": "80's Comedown Machine",
-      "url": "https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2"
+      "duration_ms": 222360,
+      "name": "Tap Out",
+      "url": "https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 222360,
-      "name": "Tap Out",
-      "url": "https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg"
+      "duration_ms": 298613,
+      "name": "80's Comedown Machine",
+      "url": "https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2"
     },
     {
       "added_at": null,

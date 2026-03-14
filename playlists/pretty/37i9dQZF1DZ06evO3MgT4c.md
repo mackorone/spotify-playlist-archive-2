@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,956 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,983 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 45 | [First 48](https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:18 |
 | 46 | [Blue Cheese](https://open.spotify.com/track/67gmXPQZL1ISSh13OJJ1Pu) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 5:08 |
 | 47 | [Sacrifices](https://open.spotify.com/track/1r0faljjM2b876iNoaDUh5) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [I Decided.](https://open.spotify.com/album/0XAIjjN5qxViVS0Y5fYkar) | 4:47 |
-| 48 | [Gucci On My \(feat\. 21 Savage, YG & Migos\)](https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Ransom 2](https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw) | 4:34 |
-| 49 | [Moses](https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Excuse My French \(Deluxe 2.0\)](https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ) | 4:32 |
+| 48 | [Moses](https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Excuse My French \(Deluxe 2.0\)](https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ) | 4:32 |
+| 49 | [Gucci On My \(feat\. 21 Savage, YG & Migos\)](https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Ransom 2](https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw) | 4:34 |
 | 50 | [Peek A Boo](https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Peek A Boo](https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b) | 4:07 |
 
-Snapshot ID: `abCwgAAAAAC3PxMxxFMGTFA/gNaKcpi5`
+Snapshot ID: `abICAAAAAAC2a8K28WLH9y406lAZ+BGi`

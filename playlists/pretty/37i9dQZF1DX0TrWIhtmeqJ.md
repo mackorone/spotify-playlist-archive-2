@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: KiLLOWEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,730 likes - 69 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,760 likes - 69 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 2 | [2099](https://open.spotify.com/track/4ooICmT2zrfMprazExomIi) | [Sade Olutola](https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm) | [Arrow Heart](https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c) | 2:27 |
 | 3 | [matcha bros](https://open.spotify.com/track/6j039F1GAbxnO4un1630wK) | [Taifunds](https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr), [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [matcha bros](https://open.spotify.com/album/6wdFukaniwdxTSZp6cnfGg) | 2:20 |
 | 4 | [Fucking City](https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Fucking City](https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97) | 3:18 |
-| 5 | [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 |
+| 5 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 6 | [Say What's Up](https://open.spotify.com/track/5vG6DJBJAxuK5em5U14vis) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [Mya K](https://open.spotify.com/artist/1s6hHUCO2I3IZN4qFy0ypm) | [Say What's Up](https://open.spotify.com/album/4bVnuj0kX8bcAjA6n9zlf3) | 3:44 |
 | 7 | [BACKWARDS, INTO U](https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [The Elephant](https://open.spotify.com/album/1fML3Ns0a3fXw8A4Y7CPiK) | 3:28 |
 | 8 | [Pattern](https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [\#FEDERAL++](https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU) | 2:33 |
 | 9 | [Slow It Down](https://open.spotify.com/track/6wNsQL63SDzUv3AWjiBL0c) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Slow It Down / She Don't Wanna Go Tape](https://open.spotify.com/album/6Rf7Cqeih99GsskCOn9oEl) | 1:38 |
 | 10 | [Favela](https://open.spotify.com/track/0eTBOGiX3nHdoUkP3QcqDA) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Favela](https://open.spotify.com/album/5MykttFGutQ8FE4C6bSP7J) | 1:58 |
-| 11 | [Track 1](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 0:00 |
+| 11 | [\(Intro\) imma pick you up imma](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 2:18 |
 | 12 | [Inside Out](https://open.spotify.com/track/2Y0EVQZvvA16eoejvPfW12) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Inside Out](https://open.spotify.com/album/2VqTbLEoditxboQwT8h1ix) | 2:38 |
 | 13 | [Antihistamine](https://open.spotify.com/track/1Y2UbnQCMIJQczK5gii5Bp) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Antihistamine](https://open.spotify.com/album/59Eqptt4nEwOPcMVb8mGcL) | 2:49 |
 | 14 | [Jump Shot](https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [Jump Shot](https://open.spotify.com/album/4C0Eo4wzTSL8PJwo3mLFnS) | 3:07 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de marzo 2026. Cover: Omar Courtz",
-  "num_followers": 1554471,
+  "num_followers": 1555063,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 127575,
+      "name": "Te Dar\u00e9",
+      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
         "name": "LA 8VA MARAVILLA",
         "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "M\u00e1s Cara",
-        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+        "name": "MAN IN BLACK",
+        "url": "https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3"
       },
       "artists": [
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         }
       ],
-      "duration_ms": 127575,
-      "name": "Te Dar\u00e9",
-      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
+      "duration_ms": 191250,
+      "name": "UuUuuU",
+      "url": "https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -371,22 +387,6 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "MAN IN BLACK",
-        "url": "https://open.spotify.com/album/6tSMLC7sCpo11PfrDJFCy3"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "UuUuuU",
-      "url": "https://open.spotify.com/track/2agO3LjMdwhgVrDt7bsBB6"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
         "name": "Algo de m\u00ed",
         "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 181914,
       "name": "Algo de m\u00ed",
       "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
+        "name": "NEXO 01. Me acuerdo de ti",
+        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 195279,
+      "name": "NEXO 01. Me acuerdo de ti",
+      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -419,22 +435,6 @@
       "duration_ms": 172857,
       "name": "ESPACIO",
       "url": "https://open.spotify.com/track/0EOhkB8NqywpgtAYKoq4tw"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
-        "name": "NEXO 01. Me acuerdo de ti",
-        "url": "https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 195279,
-      "name": "NEXO 01. Me acuerdo de ti",
-      "url": "https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "miau",
-        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 206366,
-      "name": "miau",
-      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
         "name": "La M\u00e1quina",
         "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "BES4ME",
-        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+        "name": "miau",
+        "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
         }
       ],
-      "duration_ms": 153176,
-      "name": "BES4ME",
-      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+      "duration_ms": 206366,
+      "name": "miau",
+      "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -703,6 +687,22 @@
       "duration_ms": 147000,
       "name": "UN PIKETON",
       "url": "https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
+        "name": "BES4ME",
+        "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "BES4ME",
+      "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "N U E V A S A M I G A S",
-        "url": "https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "N U E V A S A M I G A S",
-      "url": "https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
         "name": "monumento..",
         "url": "https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 170904,
       "name": "monumento..",
       "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
+        "name": "N U E V A S A M I G A S",
+        "url": "https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "N U E V A S A M I G A S",
+      "url": "https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u"
     },
     {
       "added_at": "2026-03-11 13:46:35",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-11 13:46:35",
       "album": {
-        "name": "SILENCIO HABLA",
-        "url": "https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 137128,
-      "name": "LO TENGO TODO",
-      "url": "https://open.spotify.com/track/0VZIXTkvmU56oPJ3KcFLft"
-    },
-    {
-      "added_at": "2026-03-11 13:46:35",
-      "album": {
         "name": "consuelo",
         "url": "https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
+    },
+    {
+      "added_at": "2026-03-11 13:46:35",
+      "album": {
+        "name": "SILENCIO HABLA",
+        "url": "https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 137128,
+      "name": "LO TENGO TODO",
+      "url": "https://open.spotify.com/track/0VZIXTkvmU56oPJ3KcFLft"
     }
   ],
   "unique_name": "Lo mejor del mes",

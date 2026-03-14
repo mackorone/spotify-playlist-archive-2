@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Litty
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,075 likes - 99 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,077 likes - 99 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

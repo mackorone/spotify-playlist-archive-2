@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Curren$y, The Alchemist & Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,815 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,569,753 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Blame](https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:46 |
-| 2 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
-| 3 | [I Love Her Again](https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:32 |
+| 1 | [I Love Her Again](https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:32 |
+| 2 | [No Blame](https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:46 |
+| 3 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
 | 4 | [No Security](https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 1:58 |
 | 5 | [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:29 |
-| 6 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
+| 6 | [Earth](https://open.spotify.com/track/7xBNU6Bp2Wvebc66R4Qqg8) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Minty](https://open.spotify.com/album/4ep3T753Rhypn7EVN5NXeE) | 1:37 |
 | 7 | [Manhunt](https://open.spotify.com/track/3VybQPFudU3wTcVChVG05W) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Manhunt](https://open.spotify.com/album/5OAT54oeB6x3VFbcbGwkbX) | 3:08 |
 | 8 | [2Easy 2Ounces \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2CUrNWoKjqw1dIwfW5JEnS) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Everywhere You Look](https://open.spotify.com/album/0gmRz6T3kS0F9qlIFVI8WI) | 3:34 |
-| 9 | [Rain Dance](https://open.spotify.com/track/4iR0fEBALJVv9n37A8ZtCG) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [Errol Holden](https://open.spotify.com/artist/6Hnyhlg5BXoWxxHyJ2OaEP) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:31 |
+| 9 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
 | 10 | [The Fall](https://open.spotify.com/track/3aaqAiPAaaKyO67ANXbBr0) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Don't Play With My Heart](https://open.spotify.com/album/4D1l4RcZi4UK0XZndoAS1W) | 3:01 |
 | 11 | [SAFETY](https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:18 |
 | 12 | [FLAKKA](https://open.spotify.com/track/7JXgFyQNzpxcfIILwryyJZ) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [e.t.d.s\. A Mixtape by .idk.](https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [BMG](https://open.spotify.com/track/5n4VgqcZdzbtkV6jYl77aG) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [You Can't Kill God With Bullets](https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG) | 3:05 |
 | 50 | [My Story Your Story](https://open.spotify.com/track/4f9iEXTJnyHVwScTmbF2J7) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg) | [Light\-Years](https://open.spotify.com/album/3uDMOY194FBxufCH0dYN3B) | 3:48 |
 
-Snapshot ID: `AAAAAKzSFgNk9OwTlXtLVG04N4GsIWP7`
+Snapshot ID: `AAAAALMOpca4GvhK/RgaSGacHGUYJCDn`

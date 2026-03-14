@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ちゃんみな & HIROTO \(INI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,818 likes - 69 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,885 likes - 69 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 42 | [UNTRACK](https://open.spotify.com/track/4bTx1agESTnQugMlAHalr4) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [UNTRACK](https://open.spotify.com/album/4zuoLAxluImhtOudwtPbJU) | 3:33 |
 | 43 | [Caravan](https://open.spotify.com/track/1qIqdSf6s2iSe4gFmQOJ5V) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Caravan](https://open.spotify.com/album/66SrqD24mU58LGnRqer2f8) | 3:51 |
 | 44 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 |
-| 45 | [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [MILIYAH](https://open.spotify.com/artist/5BuSmo5epEbM7Mt0KzLO2Q) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 |
+| 45 | [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 |
 | 46 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
 | 47 | [Your Sun](https://open.spotify.com/track/2DTfdQtql1IyVSaojbvzh2) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Letters](https://open.spotify.com/album/1sU96bJsU1oSH6CpGkte4T) | 3:52 |
 | 48 | [キセキセツ](https://open.spotify.com/track/4YYfSv3Y4Vq24NUwoSJMqM) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [REAL POP 2](https://open.spotify.com/album/5u867QIMtzETncq5C168ur) | 2:51 |

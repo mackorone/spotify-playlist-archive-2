@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,286 likes - 178 songs - 10 hr 15 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,288 likes - 183 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,5 +186,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 176 | [Love is all we need](https://open.spotify.com/track/7mkR7Xuh8k2wU0tFY1x12R) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Love is all we need](https://open.spotify.com/album/2aX35AWbyUl6nuWgYDz6Cg) | 4:12 |
 | 177 | [Era in Italia](https://open.spotify.com/track/29G7teGtcWrd0bIZyTJx5s) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Era in Italia](https://open.spotify.com/album/2aMiI2gLHWmoBwLeJQxs35) | 4:07 |
 | 178 | [New Moon](https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE) | [Drawing on Scars](https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu) | [Green House](https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q) | 3:11 |
+| 179 | [Before You Go \- Cover](https://open.spotify.com/track/77LJibXZjnlnAlPkJWyE9o) | [Naham Nakrour](https://open.spotify.com/artist/4Y6NGFNQxsNe5RcN37DNfs) | [Before You Go \(Cover\)](https://open.spotify.com/album/3v1kIPgLbTTLN5wykaAzh3) | 2:26 |
+| 180 | [Day One](https://open.spotify.com/track/3MQ7aLt6WdX4JwWTNkEU1E) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Losing CTRL](https://open.spotify.com/album/10uCN18aqpvdTtxvc0syKN) | 3:31 |
+| 181 | [Tüm Aşklara](https://open.spotify.com/track/6Sn4TSB7bhoCgqv8Y5xIL7) | [Engin Erg](https://open.spotify.com/artist/38iOgsod2sPlSBLdjUYcu5) | [Tüm Aşklara](https://open.spotify.com/album/44g3O3T5pC0ToiqjJVZ41V) | 3:31 |
+| 182 | [The Good Ole Days](https://open.spotify.com/track/2qzIUE2T6tDUGyrNmvSQNc) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [The Good Ole Days](https://open.spotify.com/album/47YSw42Eop1hf2w7eK3xK8) | 7:31 |
+| 183 | [Leitmotiv](https://open.spotify.com/track/21xKwv5djzVaB9ztvET6y0) | [Emmett Garam](https://open.spotify.com/artist/3ja43fWPD90vfzhGkm9dLY) | [Leitmotiv](https://open.spotify.com/album/2RHneU6EMRpjjfc6VSxiKA) | 3:12 |
 
-Snapshot ID: `AAARj0aWRSte1C6N4eIXpTaZbqFiowzD`
+Snapshot ID: `AAARlIXrR4hvPdV573WUYIJLn6kHuAe2`

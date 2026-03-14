@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: villagerrr",
+  "description": "Underground indie rock gems. Cover: Lowertown",
   "name": "undercurrents",
   "tracks": [
     {
@@ -3163,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "Big Thumb",
+        "url": "https://open.spotify.com/album/0Ayiezz9eXPZ9qHgvqedsN"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Big Thumb",
+      "url": "https://open.spotify.com/track/6zM5DnEteGY91rm33Nu9sN"
+    },
+    {
+      "album": {
         "name": "Big Wheel",
         "url": "https://open.spotify.com/album/4gYJZjcBe0hbXNCfkiHgeD"
       },
@@ -5061,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "Sweetness",
+        "url": "https://open.spotify.com/album/00CNmHlBN88lF6nc7NYPaF"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178493,
+      "name": "Champ",
+      "url": "https://open.spotify.com/track/7B5X78T7mecobNKD8jBQzc"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83"
       },
@@ -6272,7 +6308,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 227800,
       "name": "Concrete Trees",
       "url": "https://open.spotify.com/track/7pIXHlkSp5cbv8ExG5gpqr"
@@ -10256,7 +10292,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 165146,
       "name": "Favorite",
       "url": "https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi"
@@ -17088,7 +17124,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 223684,
       "name": "Justin's Headed Out",
       "url": "https://open.spotify.com/track/54XAYy0CyIqFhoOpkmDvXT"
@@ -17877,6 +17913,24 @@
     },
     {
       "album": {
+        "name": "*FLUTTERS AWAY*",
+        "url": "https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176764,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/4rp8MSeLyjWlFu6BLQnOpX"
+    },
+    {
+      "album": {
         "name": "My Friend Mica",
         "url": "https://open.spotify.com/album/2ff0HOIQXJNMwAuKCuRXh8"
       },
@@ -18410,7 +18464,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192000,
       "name": "Live by the Sun",
       "url": "https://open.spotify.com/track/4ViOjA8epF7IxrMZGtORj9"
@@ -18597,6 +18651,24 @@
     },
     {
       "album": {
+        "name": "Transmitter",
+        "url": "https://open.spotify.com/album/0E0ELU3LQuzcAt5NhrSTh4"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Long Weekend",
+      "url": "https://open.spotify.com/track/3HWUHhO2YfHDiw3OxRmB4N"
+    },
+    {
+      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/6gFtp8zJN1xPe0Q93rTiao"
       },
@@ -18756,7 +18828,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188271,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
@@ -20566,7 +20638,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 92883,
       "name": "Name the Band",
       "url": "https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN"
@@ -21028,7 +21100,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 218386,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM"
@@ -27113,6 +27185,24 @@
     },
     {
       "album": {
+        "name": "Sour Carol, I",
+        "url": "https://open.spotify.com/album/3KDTW9nBRTcSVIGnORxLzy"
+      },
+      "artists": [
+        {
+          "name": "ladylike",
+          "url": "https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310974,
+      "name": "Sour Carol, I",
+      "url": "https://open.spotify.com/track/6g0gxCx3KIhfCVnXSnLq2n"
+    },
+    {
+      "album": {
         "name": "Sour Patch",
         "url": "https://open.spotify.com/album/6CLdVHeb9EBQU0pnHdcyMO"
       },
@@ -28058,6 +28148,24 @@
       "duration_ms": 151384,
       "name": "Structure",
       "url": "https://open.spotify.com/track/0OPD9fnjX6xWgHBQ4QClgu"
+    },
+    {
+      "album": {
+        "name": "Stuck (here)",
+        "url": "https://open.spotify.com/album/4kyMNDFqQM6tvfTZtc7w2K"
+      },
+      "artists": [
+        {
+          "name": "beaming",
+          "url": "https://open.spotify.com/artist/3CXe43s6Cq1U4ycpcxFvui"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222968,
+      "name": "Stuck (here)",
+      "url": "https://open.spotify.com/track/67UGNAsxTDki453lkJUagJ"
     },
     {
       "album": {

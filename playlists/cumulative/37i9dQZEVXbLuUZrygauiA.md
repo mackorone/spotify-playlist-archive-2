@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,681 songs - 8 day 8 hr 45 min
+3,682 songs - 8 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1142,7 +1142,7 @@
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-02-08 | 2022-02-16 |
 | [Entre Tus Manos \(Alabanza Ranchera\)](https://open.spotify.com/track/3XTjQ9BlWrfF6NtlQxbLeV) | [''El Obama'' Carlos Anderson](https://open.spotify.com/artist/3u2W429W7BHf3rjbdHUir1) | [Entre Tus Manos \(Alabanza Ranchera\)](https://open.spotify.com/album/5h4cpQQih7RNgC0ZStgxAt) | 3:09 | 2023-05-24 | 2023-06-04 |
 | [Entre tú y yo](https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok) | 3:29 | 2025-12-25 | 2026-03-11 |
-| [Entre tú y yo](https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc) | 3:29 | 2026-03-10 |  |
+| [Entre tú y yo](https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc) | 3:29 | 2026-03-10 | 2026-03-14 |
 | [Entrega De Amor](https://open.spotify.com/track/2U3WhIAvp9yBeoXDhPr6F6) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Cumbia A Toda Banda](https://open.spotify.com/album/5WUcha1RgCXnyI1JIIiAnC) | 2:42 | 2024-10-25 | 2024-10-27 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-14 | 2022-04-27 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-05 | 2022-04-17 |
@@ -3417,6 +3417,7 @@
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-16 | 2024-02-23 |
 | [Valió La Pena Equivocarme](https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Valió La Pena Equivocarme](https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc) | 3:41 | 2025-11-25 | 2025-12-07 |
 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 | 2025-07-15 | 2025-07-29 |
+| [VAMOaCOCHI](https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:19 | 2026-03-13 |  |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-25 | 2023-08-12 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-05-03 | 2025-05-09 |
 | [Vaquero](https://open.spotify.com/track/2ooKgNKvmTKxqkQUdyX7Mz) | [La Dinastia](https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2) | [100 % Mexicano](https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K) | 4:05 | 2024-01-13 | 2024-02-25 |

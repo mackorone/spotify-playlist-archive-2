@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,101 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,102 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 27 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |
 | 28 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 | 29 | [Honderd Keer](https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Honderd Keer](https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo) | 3:16 |
-| 30 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
-| 31 | [Lichaamstaal](https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n) | [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Lichaamstaal](https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62) | 2:28 |
+| 30 | [Lichaamstaal](https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n) | [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Lichaamstaal](https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62) | 2:28 |
+| 31 | [Stapje](https://open.spotify.com/track/49BzgE7lD0hPwN8ixEK85c) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G), [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Stapje](https://open.spotify.com/album/7iEOSSkLuDrWH71uk8nTw4) | 2:13 |
 | 32 | [Zin In De Zomer Man](https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Zin In De Zomer Man](https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG) | 2:15 |
 | 33 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 |
 | 34 | [Kadootje](https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Kadootje](https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy) | 2:23 |

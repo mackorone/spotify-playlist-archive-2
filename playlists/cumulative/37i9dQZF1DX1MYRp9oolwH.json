@@ -875,6 +875,36 @@
     },
     {
       "album": {
+        "name": "Bangaru Bomma (From \"Godari Gattupaina\")",
+        "url": "https://open.spotify.com/album/765LZvVVWMQxK3GhPD5DoF"
+      },
+      "artists": [
+        {
+          "name": "Naga Vamshi",
+          "url": "https://open.spotify.com/artist/3aCf2BjucUTbsyTR6GcnVc"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333832,
+      "name": "Bangaru Bomma (From \"Godari Gattupaina\")",
+      "url": "https://open.spotify.com/track/4wdopoz5mIBGO4N1GLlTGs"
+    },
+    {
+      "album": {
         "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
         "url": "https://open.spotify.com/album/4fUeGMIYVi22stROdyMxEr"
       },
@@ -1688,7 +1718,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212268,
       "name": "Dhochaave Nanne (From \"Premante\")",
       "url": "https://open.spotify.com/track/1T66KUOewj4WoG91CBfFFH"

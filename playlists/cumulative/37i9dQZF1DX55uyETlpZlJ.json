@@ -3273,6 +3273,32 @@
     },
     {
       "album": {
+        "name": "Finding Her (Kannada Version)",
+        "url": "https://open.spotify.com/album/4BIqq9YekFVyQpOTNhIKve"
+      },
+      "artists": [
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211432,
+      "name": "Finding Her (Kannada Version)",
+      "url": "https://open.spotify.com/track/3GkpEXkMibSCNIvMHT9dxa"
+    },
+    {
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/7dToRHP9YSM59XDasnwIbw"
       },
@@ -6200,7 +6226,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 161590,
       "name": "KROORI",
       "url": "https://open.spotify.com/track/4nBYuzv6x8EFJlTH4yfEvL"
@@ -7404,6 +7430,24 @@
       "duration_ms": 182439,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/4257sWSwAnFjI725qd4YT4"
+    },
+    {
+      "album": {
+        "name": "Middle Class",
+        "url": "https://open.spotify.com/album/1lvqtLmDTND6dZ0PbUM5Uq"
+      },
+      "artists": [
+        {
+          "name": "MrinmayMS",
+          "url": "https://open.spotify.com/artist/6v5DdTFX82mPM3PS0GDj0x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71346,
+      "name": "Middle Class",
+      "url": "https://open.spotify.com/track/3og2Ymk1krtW30QTf8xTFV"
     },
     {
       "album": {
@@ -12814,7 +12858,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182499,
       "name": "UTTHARA",
       "url": "https://open.spotify.com/track/2sNgNmLWdkGRjjTnKmIAuo"

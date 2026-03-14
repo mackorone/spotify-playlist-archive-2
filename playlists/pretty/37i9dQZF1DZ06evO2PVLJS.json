@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1118932,
+  "num_followers": 1119044,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAAK10fVKghT6HgQWlWPXsxU",
+  "snapshot_id": "abICAAAAAABG/YzuMQ3iYJWmwwh9aTG8",
   "tracks": [
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 132426,
-      "name": "Si Te Vas No Hay Lio",
-      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
+      "duration_ms": 203813,
+      "name": "Ya Me Voy para Siempre",
+      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Ya Me Voy para Siempre",
-      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
+      "duration_ms": 132426,
+      "name": "Si Te Vas No Hay Lio",
+      "url": "https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm"
     },
     {
       "added_at": null,

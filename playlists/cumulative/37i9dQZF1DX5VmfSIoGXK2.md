@@ -4,7 +4,7 @@
 
 > Our favorite Jazz House selections 😌 featuring Kareem Ali
 
-199 songs - 12 hr 40 min
+200 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Chilly Winds Don't Blow \- Bolden\. Remix](https://open.spotify.com/track/3QaLeFkFcnBb9Klvf7jNIX) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Chilly Winds Don't Blow \(Bolden\. Remix\)](https://open.spotify.com/album/6t9jA8KDGRoewxzCWVn4O2) | 3:20 | 2025-09-26 |  |
 | [Cloud Nine](https://open.spotify.com/track/4HbYC5n3UHmm6SxdCC7Jn2) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Days In The Sun](https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx) | 3:12 | 2025-02-21 | 2025-08-30 |
 | [Cold nights and city bike rides.](https://open.spotify.com/track/2RilgE0ppOuYLzh3UgXdMR) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Oliver Rees](https://open.spotify.com/artist/4xZr1WHGA2uoIDxqWw5WwI) | [Cold nights and city bike rides.](https://open.spotify.com/album/1Ckf2d3h4SerfA7E8IFjp2) | 2:46 | 2025-06-27 | 2026-01-17 |
-| [Cosmic Future](https://open.spotify.com/track/51g8zf95z13bo1BegMHSlF) | [ysv](https://open.spotify.com/artist/7iODejXkEsPclpkrCXdn7B), [Terrazze](https://open.spotify.com/artist/7MDks2QCzuABeUTHipzysK), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm) | [Cosmic Club](https://open.spotify.com/album/5sXMGLlqMCxrhOdf9UTNnp) | 3:52 | 2025-08-29 |  |
+| [Cosmic Future](https://open.spotify.com/track/51g8zf95z13bo1BegMHSlF) | [ysv](https://open.spotify.com/artist/7iODejXkEsPclpkrCXdn7B), [Terrazze](https://open.spotify.com/artist/7MDks2QCzuABeUTHipzysK), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm) | [Cosmic Club](https://open.spotify.com/album/5sXMGLlqMCxrhOdf9UTNnp) | 3:52 | 2025-08-29 | 2026-03-14 |
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-03-28 | 2025-09-13 |
 | [daydream](https://open.spotify.com/track/60ghoHsVEM4VEE1f7OKzcv) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [daydream](https://open.spotify.com/album/0VLNY1VYVWe0AWm0BI5nDA) | 2:52 | 2025-07-04 |  |
 | [Dayglow](https://open.spotify.com/track/2Ks7xbQlUy63n3tsOJ9sE8) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Dayglow](https://open.spotify.com/album/2CCJa5oVUjYUm3mCewK6Mg) | 2:54 | 2026-02-06 |  |
@@ -58,6 +58,7 @@
 | [Empty.](https://open.spotify.com/track/4oOKNkUzGkjwI3nBoRuc4q) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Would appear to be jazz.](https://open.spotify.com/album/5XjZB8V2VFP8yPaMsB1NSJ) | 1:51 | 2025-08-29 |  |
 | [Euro](https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Euro](https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px) | 2:48 | 2025-09-12 |  |
 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 | 2025-02-21 |  |
+| [Falling](https://open.spotify.com/track/3pOcr1YHQap65TgnCxJXtY) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Falling](https://open.spotify.com/album/5rQSSNUg4uPr9vQaD7kcKu) | 4:27 | 2026-03-13 |  |
 | [Faux Départ](https://open.spotify.com/track/6he02h6WNseMS0VidRjBFT) | [DJ Psychiatre](https://open.spotify.com/artist/3roL1q2jZoQt3yZqbCb1DR) | [Faux Départ](https://open.spotify.com/album/2x3aYh9DTmqKvYjcHxl1o8) | 4:37 | 2025-02-21 | 2025-06-28 |
 | [Feel The Groove](https://open.spotify.com/track/6Ldd26XXj9otYOR98T7YIt) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Feel The Groove](https://open.spotify.com/album/7EMz0fVR8fitHF1h9cAp6a) | 2:24 | 2026-02-27 |  |
 | [fiesta jazz](https://open.spotify.com/track/10vXmDQbYD0EtwwdNXwcKU) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [fiesta jazz](https://open.spotify.com/album/78nm9fNZtgUmzlhXTuF19g) | 1:55 | 2025-05-30 | 2025-08-02 |

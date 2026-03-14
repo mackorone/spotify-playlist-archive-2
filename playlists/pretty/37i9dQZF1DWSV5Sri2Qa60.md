@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Tooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,131 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,133 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Sit Awake](https://open.spotify.com/track/3yzxeoLhMMwXNe3xqy5Baw) | [Fuzz Lightyear](https://open.spotify.com/artist/24Eklv4Dvhk1c6iXuCFzoL) | [Sit Awake](https://open.spotify.com/album/1TkNN5PGB0SlU4ajSHWr0u) | 3:30 |
 | 50 | [Bumble Been](https://open.spotify.com/track/7HMUW5O54l5hdzJR4pfdf0) | [Hot Face](https://open.spotify.com/artist/42uDv2iDELwbdlk45yUt1a) | [Bumble Been](https://open.spotify.com/album/4ih1VJuP6QOoTizr5Vhbeh) | 1:09 |
 
-Snapshot ID: `AAAAAPoGmRqMxxllqf2j4gbCwWqOwHmM`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

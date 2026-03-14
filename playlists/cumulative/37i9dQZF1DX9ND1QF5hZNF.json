@@ -956,7 +956,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 153500,
       "name": "Bloom (ERIICE Remix)",
       "url": "https://open.spotify.com/track/7yWmLo9KmwPYitqNPE4wyh"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
+    },
+    {
+      "album": {
         "name": "cc like that",
         "url": "https://open.spotify.com/album/5G77D202zIyLOgW2eZBFOR"
       },
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 250014,
       "name": "CRONITIS BOY",
       "url": "https://open.spotify.com/track/1aYNfc9R7AZuWvSqUO5TWt"
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 152943,
       "name": "Eyes All Over Mine",
       "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162295,
       "name": "Falling",
       "url": "https://open.spotify.com/track/25RjrYsqVOAD1QgZXQsNPK"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 159617,
       "name": "Get To You",
       "url": "https://open.spotify.com/track/02iEVPyNUkjeHq0oGN8XK4"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 133515,
       "name": "go!",
       "url": "https://open.spotify.com/track/1WoXMkQdS0vvQLrsfAozSw"
@@ -3817,6 +3835,28 @@
     },
     {
       "album": {
+        "name": "Love Story - Indila Remix",
+        "url": "https://open.spotify.com/album/465JtjlOIgA68GRNz7Obcs"
+      },
+      "artists": [
+        {
+          "name": "Mark Diaz",
+          "url": "https://open.spotify.com/artist/49IR3RCQ4ihqBooEeK3ABq"
+        },
+        {
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302509,
+      "name": "Love Story - Indila Remix",
+      "url": "https://open.spotify.com/track/7s5MyB83DXEcFcugi88Mjl"
+    },
+    {
+      "album": {
         "name": "love u",
         "url": "https://open.spotify.com/album/6XihBoq4eeJdM1Hj18fDiO"
       },
@@ -4318,7 +4358,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 215433,
       "name": "Meu Ver\u00e3o",
       "url": "https://open.spotify.com/track/1M3osJunuDlz44RtVyCacx"
@@ -4436,6 +4476,32 @@
       "duration_ms": 181893,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/0vzWDHKtEUfbvyVZTiFg4r"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/6LYLOQazeVSk4nkh1ekbdp"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/6d6QihVmJ7M5Z7qwYoiHqG"
     },
     {
       "album": {
@@ -4696,7 +4762,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169180,
       "name": "Night Walking",
       "url": "https://open.spotify.com/track/76uWZYQ8ifL8fAq7byloD2"
@@ -4976,6 +5042,24 @@
       "duration_ms": 174398,
       "name": "Old Friend (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
+    },
+    {
+      "album": {
+        "name": "Endless Melancholia",
+        "url": "https://open.spotify.com/album/2BFFpgJ24j3RyW9UPrkUml"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228510,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/60wepy1GBYHThysmuDwzIt"
     },
     {
       "album": {

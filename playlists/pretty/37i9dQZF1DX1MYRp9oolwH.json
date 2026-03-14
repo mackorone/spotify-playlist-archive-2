@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
-  "num_followers": 168253,
+  "num_followers": 168293,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPhglj3YDKgc5AGEnsgpvuRXlJMA",
+  "snapshot_id": "AAAAABx1mGVDc3FNrlZU87T9B/urp0+N",
   "tracks": [
     {
       "added_at": "2026-02-13 14:09:35",
@@ -135,6 +135,34 @@
       "duration_ms": 195999,
       "name": "Rubaroo (From \"Dacoit (Telugu)\")",
       "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
+    },
+    {
+      "added_at": "2026-03-13 16:36:58",
+      "album": {
+        "name": "Bangaru Bomma (From \"Godari Gattupaina\")",
+        "url": "https://open.spotify.com/album/765LZvVVWMQxK3GhPD5DoF"
+      },
+      "artists": [
+        {
+          "name": "Naga Vamshi",
+          "url": "https://open.spotify.com/artist/3aCf2BjucUTbsyTR6GcnVc"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "duration_ms": 333832,
+      "name": "Bangaru Bomma (From \"Godari Gattupaina\")",
+      "url": "https://open.spotify.com/track/4wdopoz5mIBGO4N1GLlTGs"
     },
     {
       "added_at": "2025-12-17 13:09:33",
@@ -1003,30 +1031,6 @@
       "duration_ms": 256000,
       "name": "Bhalle Bhalle (From \"Nari Nari Naduma Murari\") (Telugu)",
       "url": "https://open.spotify.com/track/7oPSWYvSHoC8UA8WVUngq4"
-    },
-    {
-      "added_at": "2025-10-09 08:17:22",
-      "album": {
-        "name": "Dhochaave Nanne (From \"Premante\")",
-        "url": "https://open.spotify.com/album/3qZ69MZPHVoWr6NbZs28da"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Abby V",
-          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
-        },
-        {
-          "name": "Shree Mani",
-          "url": "https://open.spotify.com/artist/5DBt33WIllF4C75q0WqqoL"
-        }
-      ],
-      "duration_ms": 212268,
-      "name": "Dhochaave Nanne (From \"Premante\")",
-      "url": "https://open.spotify.com/track/1T66KUOewj4WoG91CBfFFH"
     },
     {
       "added_at": "2025-12-09 05:56:56",

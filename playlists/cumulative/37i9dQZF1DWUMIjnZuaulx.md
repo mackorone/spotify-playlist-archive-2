@@ -4,7 +4,7 @@
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Voices of Fire & Pharrell Williams
 
-762 songs - 2 day 16 hr 41 min
+763 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Sunshine](https://open.spotify.com/track/1EgIKxaz00bsPiPjz27tS9) | [Nia Allen](https://open.spotify.com/artist/5NtYK3nuKd8l8nlUcgAgOg), [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [Sunshine](https://open.spotify.com/album/2fS54bNlWaaWzJgRY0RbAk) | 3:21 | 2024-07-19 | 2025-01-11 |
 | [Superheroes Prayer \- Radio Single](https://open.spotify.com/track/2ViRZlKBX6nLLC6Wb41668) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Superheroes Prayer](https://open.spotify.com/album/6KUfbWnZif821UNTGx3ZXM) | 5:03 | 2022-07-01 | 2022-07-23 |
 | [Sure As](https://open.spotify.com/track/6xPrEUR122PanXatL2f3EH) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Still \(Deluxe\)](https://open.spotify.com/album/5qhNzwE7BBAnlkXdxgVqhl) | 4:46 | 2022-07-08 | 2022-10-01 |
+| [Sure Of \- Live](https://open.spotify.com/track/64ZOXlG7V4dXpz3zTelk7z) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Sure Of \(Live\)](https://open.spotify.com/album/3ntL5US10wXJVRezfRPN1z) | 4:45 | 2026-03-13 |  |
 | [Sustain \- Live](https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Sustain \- Live](https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA) | 12:06 | 2024-08-30 | 2024-09-21 |
 | [Sweet, Sweet Spirit](https://open.spotify.com/track/3InktyoLLJqyCWQdmqHylp) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Sweet, Sweet Spirit](https://open.spotify.com/album/7wroq6zvI9ZCAa7B0ReAoI) | 5:39 | 2025-12-05 | 2026-01-24 |
 | [Take Heart](https://open.spotify.com/track/3YANTnjzNjI2OHeVEDgiAf) | [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [Take Heart](https://open.spotify.com/album/067GsZIoIEInbT7pI4j51P) | 3:37 | 2023-03-17 | 2023-09-23 |
@@ -662,7 +663,7 @@
 | [Tired \- Live in Richmond, VA](https://open.spotify.com/track/2GSQLnTvR19qrC19ntpFRh) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Tired \(Live in Richmond, VA\)](https://open.spotify.com/album/5xOcdgRDpu5JydvRZVKBMx) | 7:33 | 2023-09-08 | 2025-03-29 |
 | [To Worship You](https://open.spotify.com/track/7lYb03C6Fvli51HYEGGHFJ) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [To Worship You](https://open.spotify.com/album/0o6AotJQgkgCk1QDS7pKpX) | 4:12 | 2024-01-26 | 2024-04-19 |
 | [Tomorrow](https://open.spotify.com/track/2GTB5IhZqhdYLBGpAIfAPL) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE) | [Tomorrow](https://open.spotify.com/album/3idokIb9ZCAu6nBxKjV8mk) | 3:23 | 2024-02-16 | 2024-04-27 |
-| [Touched By Fire](https://open.spotify.com/track/6JICfyfPDtmUkl3wc0523z) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Made In The South](https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d) | 3:03 | 2025-08-22 |  |
+| [Touched By Fire](https://open.spotify.com/track/6JICfyfPDtmUkl3wc0523z) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Made In The South](https://open.spotify.com/album/3QHcxJF7Phwk45RQ4aJb4d) | 3:03 | 2025-08-22 | 2026-03-14 |
 | [Transitions](https://open.spotify.com/track/1nboBaRhaDHuJ29ULkLQwH) | [Todd Curry](https://open.spotify.com/artist/55oZhVe2j6uTnRxJavVpNY), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt) | [Transitions](https://open.spotify.com/album/40ueWGytYUNXbZ0HBjRKFE) | 3:44 | 2023-02-03 | 2024-02-03 |
 | [Trouble Don't Last](https://open.spotify.com/track/63EflERVDpEWWoTZJeWLQC) | [Crystal Aikin](https://open.spotify.com/artist/5AfDeAE9DebBuxecThmRsf) | [Trouble Don't Last](https://open.spotify.com/album/6vrkkkcwBKcFcOu2pogwNk) | 4:34 | 2022-04-29 | 2023-04-09 |
 | [Trust And Obey](https://open.spotify.com/track/2WejXaH5aMxcd0AEb6dsC0) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Trust And Obey](https://open.spotify.com/album/7v8jeOwumU7aGUbEt84srF) | 3:36 | 2023-08-25 | 2023-09-16 |

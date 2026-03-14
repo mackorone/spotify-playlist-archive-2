@@ -4,7 +4,7 @@
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-85 songs - 6 hr 20 min
+86 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [SAWARIYA](https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [SAWARIYA](https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT) | 3:26 | 2025-09-15 | 2026-03-07 |
 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 | 2025-09-15 |  |
 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 | 2026-03-06 |  |
-| [Shaadi Ke Bandan](https://open.spotify.com/track/5Ju0yXlVpxYw8DjdMRFzwQ) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 8:24 | 2026-03-06 |  |
+| [Shaadi Ke Bandan](https://open.spotify.com/track/5Ju0yXlVpxYw8DjdMRFzwQ) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 8:24 | 2026-03-06 | 2026-03-14 |
+| [Shri Ganeshay Namah](https://open.spotify.com/track/5WoSQKlucY7p6W4laXFGLd) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 5:43 | 2026-03-06 |  |
 | [Shubh Vivah](https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ) | [Neelkamal Singh](https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC), [Amrita Dixit](https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH), [Antra Singh Priyanka](https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd) | [Shubh Vivah](https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA) | 12:58 | 2026-03-06 |  |
 | [Sikadiya](https://open.spotify.com/track/4d4eiUekZmnWelJZt90nB8) | [Khushbu Tiwari KT](https://open.spotify.com/artist/2fzxSTOd2GIgQWLCSUUFkk) | [Sikadiya](https://open.spotify.com/album/6GdKZ1aZEVeZIOiRspXdBX) | 4:42 | 2026-03-06 |  |
 | [Sir Ke Sundoor Re Gavanva](https://open.spotify.com/track/1lUZzS2Yt5MjSXgFAxmq4f) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:13 | 2026-03-06 |  |

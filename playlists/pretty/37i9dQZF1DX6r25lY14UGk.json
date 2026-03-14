@@ -1,13 +1,117 @@
 {
   "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 91848,
+  "num_followers": 91992,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJu4PG6J5YV8hfnsMF14MRu/rHGg",
+  "snapshot_id": "AAAAANiWoS3CYNK/PbpdJ7kgWmGMPmZr",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Sesame Street (Songs from Season 56, Vol. 2)",
+        "url": "https://open.spotify.com/album/3gqnzTjR3GuGgB5saUvxK8"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "duration_ms": 65906,
+      "name": "Elmo's Awesome Bike",
+      "url": "https://open.spotify.com/track/3P5Bq6VYZVP4v6jAnCTb1M"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Hello, We're The Wiggles",
+        "url": "https://open.spotify.com/album/7w5AcI3mYHA6QcGWBpEA5z"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 124006,
+      "name": "Love's Got The World Jumping",
+      "url": "https://open.spotify.com/track/4C0EAT1xnrQZNOlzrIFtbJ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Dinosaur Jetpack",
+        "url": "https://open.spotify.com/album/1rs2aq84Newav8aNF49IYN"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 210634,
+      "name": "Dinosaur Jetpack",
+      "url": "https://open.spotify.com/track/6mvEyehJpbFwc9QZVIlf2H"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/5uiG6J3o6Q7n6d2lb8Z30d"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 232190,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/7FKJfmazFSTkfEx77MYToD"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Spring Has Come",
+        "url": "https://open.spotify.com/album/7gbyEW6IEc8AKKLZvHF7c9"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Spring Has Come",
+      "url": "https://open.spotify.com/track/3FWmLCZrJQsfxjqcxV6Xc9"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "At the Construction Site",
+        "url": "https://open.spotify.com/album/3T33kzi0F6T0YJnO2N6rTV"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 158212,
+      "name": "At the Construction Site",
+      "url": "https://open.spotify.com/track/4JjM96FKqVcxQvJIRjG7Dg"
+    },
     {
       "added_at": "2026-03-06 05:00:08",
       "album": {

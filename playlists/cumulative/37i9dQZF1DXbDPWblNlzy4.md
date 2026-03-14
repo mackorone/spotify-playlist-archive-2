@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Laura Maré
 
-527 songs - 1 day 3 hr 31 min
+528 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Eva](https://open.spotify.com/track/3kof23H8ZheEzzhARBlf4o) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 4:08 | 2023-03-17 | 2023-06-24 |
 | [Ex \(con La Joaqui\)](https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 3:04 | 2023-07-21 | 2023-08-05 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2023-03-17 | 2023-08-19 |
+| [Femme Fatale \- Spotify Sessions](https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE \(Spotify Sessions\)](https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x) | 4:18 | 2026-03-13 |  |
 | [Feo](https://open.spotify.com/track/0zZzASdqR6KoTbwcSKplma) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Feo](https://open.spotify.com/album/3TGo55A7DUHR2tJ7Inot2y) | 2:57 | 2023-09-08 | 2024-06-15 |
 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 | 2023-07-21 | 2023-12-09 |
 | [Florida](https://open.spotify.com/track/230EuK2VIE2Q1coF93xWcp) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida](https://open.spotify.com/album/16VfTu3v8IXc7xCHWWMnhH) | 1:49 | 2025-03-28 |  |

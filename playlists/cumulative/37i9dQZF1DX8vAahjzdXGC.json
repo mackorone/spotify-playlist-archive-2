@@ -148877,6 +148877,24 @@
     },
     {
       "album": {
+        "name": "Endless Sun",
+        "url": "https://open.spotify.com/album/03OMdMTKelaOHZmnzpEL76"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Endless Sun",
+      "url": "https://open.spotify.com/track/2mRdxTKPrdr5EISF2Xcnc1"
+    },
+    {
+      "album": {
         "name": "Endlessly",
         "url": "https://open.spotify.com/album/5eyZGiEW89BBubTNaBE7VD"
       },
@@ -534386,6 +534404,24 @@
       "duration_ms": 233057,
       "name": "trade my heart",
       "url": "https://open.spotify.com/track/6mJlNpwE6l3t6ywhH0XaxZ"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
     },
     {
       "album": {

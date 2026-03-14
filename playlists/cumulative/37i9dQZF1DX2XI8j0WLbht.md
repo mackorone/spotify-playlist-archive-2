@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Natalia Lafourcade en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-268 songs - 17 hr 13 min
+269 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2025-05-30 |  |
 | [Palabras Vacías](https://open.spotify.com/track/3whx5H5CCDyXnkrXgt0nwp) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Índole](https://open.spotify.com/album/1u69ELQ46bSTtXtxAjOhDC) | 3:18 | 2025-11-07 | 2026-01-17 |
 | [Pensacola](https://open.spotify.com/track/6etxMwJsdY8SfOexHoWYVS) | [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Pensacola](https://open.spotify.com/album/3wwKokEtjXX8ANKP38hVt5) | 5:03 | 2022-03-04 | 2025-05-31 |
+| [Perdón](https://open.spotify.com/track/1FauUKBCr1kBqJdqwAkxde) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Perdón](https://open.spotify.com/album/0mzOvTXgrKDbt0BVwNK3jz) | 4:10 | 2026-03-13 |  |
 | [Pescador](https://open.spotify.com/track/5Zb5h5ccGnBCvVCWibWEcD) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [Wexico](https://open.spotify.com/album/668lUEi8btiUYBIecpcCeE) | 6:20 | 2022-03-04 | 2023-02-04 |
 | [Pescador](https://open.spotify.com/track/16wTU9Mt9VArJ4SmJC13Qx) | [Snowapple](https://open.spotify.com/artist/6bLz3VdMwvf9q8tSYl3BeM) | [Wexico](https://open.spotify.com/album/1HM64wy3EyYfLH3Ns3ZLWH) | 6:23 | 2022-03-04 | 2022-07-29 |
 | [Piensa en Mí](https://open.spotify.com/track/1KfCdHD9zFCzcjYYhy6dwy) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Piensa en Mí](https://open.spotify.com/album/5R0XXQDPspK5UIQQeOJg6W) | 3:28 | 2022-03-04 | 2025-05-31 |

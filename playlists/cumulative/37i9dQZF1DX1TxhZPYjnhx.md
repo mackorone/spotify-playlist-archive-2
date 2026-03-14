@@ -4,7 +4,7 @@
 
 > Discover new favorites or tomorrow's hits today\. Cover: Regina Song
 
-1,389 songs - 3 day 1 hr 54 min
+1,392 songs - 3 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [All at once](https://open.spotify.com/track/12fyTBfSQPdyQg11oiZJFM) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [All at once](https://open.spotify.com/album/04UfbQhE7ABx1X0jHbLkn8) | 4:00 | 2025-06-12 | 2025-07-25 |
 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/5OdPAqU4a0EZq8LOJgO5og) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/album/541bm0KL5yWslIgIis3jPi) | 2:43 | 2025-06-20 | 2025-07-25 |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-09 | 2025-07-04 |
+| [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 | 2026-03-13 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-06-26 | 2024-08-01 |
 | [All I Know](https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [All I Know](https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf) | 2:56 | 2025-04-03 | 2025-05-10 |
 | [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 | 2025-07-25 |
@@ -1220,6 +1221,7 @@
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 | 2025-09-19 |
 | [The Sun Will Cry](https://open.spotify.com/track/2qxVwFicRzUA71ftfrQUfY) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Sun Will Cry](https://open.spotify.com/album/1gxcOXXdPP7W8vafVmJhIX) | 3:19 | 2024-12-11 | 2025-01-10 |
 | [The Very Thought of You](https://open.spotify.com/track/0sh1Uq35pQc8z878PFPybE) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [The Very Thought of You](https://open.spotify.com/album/5s04Nzaw4wn6KjlDWHXyyZ) | 3:22 | 2025-09-18 | 2025-10-04 |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-13 |  |
 | [The Way We Touch](https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [The Way We Touch](https://open.spotify.com/album/6elYxwsTNLEQlxDvMxacJn) | 3:09 | 2026-03-12 |  |
 | [Then There's You](https://open.spotify.com/track/3l5447HIPhfaDfH1g6yEJV) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Then There's You](https://open.spotify.com/album/6CEIbrfrBtblERDfN4H1Ky) | 3:54 | 2025-08-21 | 2025-10-24 |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-17 | 2024-09-05 |
@@ -1264,6 +1266,7 @@
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-10 | 2024-09-19 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-16 | 2025-07-04 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-11 | 2025-05-02 |
+| [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 |  |
 | [Tropical Downpour](https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Tropical Downpour](https://open.spotify.com/album/59E30iPJI2jYozB70t4bPb) | 3:08 | 2025-11-27 | 2026-01-17 |
 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 | 2025-02-06 | 2025-03-07 |
 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-13 | 2026-01-31 |

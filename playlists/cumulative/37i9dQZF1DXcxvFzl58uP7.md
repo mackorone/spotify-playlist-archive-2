@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,025 songs - 2 day 5 hr 7 min
+1,026 songs - 2 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Crying on the Subway](https://open.spotify.com/track/6dbAKM5iS4ZrdIxuGY5wuT) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Crying on the Subway](https://open.spotify.com/album/1A6NdHTHLt06XCoOanr2sl) | 2:44 | 2019-07-30\* | 2021-05-25 |
 | [Cure](https://open.spotify.com/track/5Y9Yt65EIE3sgfT2cCQqQV) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Cure](https://open.spotify.com/album/5b6ynO9hFN6QShLHxjs2Xc) | 2:39 | 2021-03-29 | 2021-06-03 |
 | [Cut Me Out](https://open.spotify.com/track/1YihSDAg3p8sWmncpIShkS) | [BOYO](https://open.spotify.com/artist/1puLsaxX9EwudKrNBUVFe4) | [Cut Me Out](https://open.spotify.com/album/6AWBNB0ZQ9OGEy6ZbaFyTa) | 2:57 | 2019-07-30\* | 2019-08-09 |
+| [Cute](https://open.spotify.com/track/5Io5zi4VLNLSV0HZ0muPPW) | [Asara](https://open.spotify.com/artist/5W1dRz6kNfJb2cSPQKErpD) | [Cute](https://open.spotify.com/album/0KafD7J4XoiLvLwI9tBjIa) | 2:16 | 2026-03-13 |  |
 | [Cuz You're My Girl](https://open.spotify.com/track/1zrbRA9ADsXFHRt0GSJnJq) | [Yung Heazy](https://open.spotify.com/artist/15fMBLwvm3qGTWXgdxOUCV) | [Cuz You're My Girl](https://open.spotify.com/album/53bd4Vo0JyNRk4odnRYHYT) | 4:07 | 2019-07-30\* | 2022-04-16 |
 | [Daffodils](https://open.spotify.com/track/2vyak1vtVqf328sQoy0VCS) | [Adam Snow](https://open.spotify.com/artist/7aA8brStGaORtuXmY6nrT0) | [Daffodils](https://open.spotify.com/album/5M52Nb9flcsFikTMdfqM19) | 2:46 | 2021-02-26 | 2021-05-27 |
 | [Daisy](https://open.spotify.com/track/3SE3kNoi1T9euYL6NTOcXB) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Daisy](https://open.spotify.com/album/3iz6RVbojDkO2E0DFni9t3) | 3:06 | 2021-10-08 | 2024-04-24 |
@@ -719,7 +720,7 @@
 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 | 2022-03-04 | 2025-01-13 |
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2021-04-12 | 2022-04-21 |
 | [Real Life](https://open.spotify.com/track/5aqslHfDoGviK5vRwyQQgd) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [Real Life](https://open.spotify.com/album/4QEaQ0w17wI48QSvnrR2Fq) | 3:11 | 2019-08-11 | 2022-07-16 |
-| [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 | 2024-04-23 |  |
+| [Really good cry](https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [garage sale](https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP) | 1:54 | 2024-04-23 | 2026-03-14 |
 | [Red Light](https://open.spotify.com/track/4MrYs5bPQYkLjx0TZxzvSR) | [Personal Trainer](https://open.spotify.com/artist/7hA3k0nbR7qQhE6LrbdQrI) | [Red Light](https://open.spotify.com/album/6Whcc2P1zUjqH3xos7Aeam) | 4:07 | 2020-04-21 | 2021-07-07 |
 | [Rendezvous](https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Rendezvous](https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl) | 3:12 | 2024-04-23 | 2024-11-26 |
 | [reruN](https://open.spotify.com/track/6awVH99PHaNfzVyrE04JQq) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [reruN](https://open.spotify.com/album/2D51CHmzMP99e2XlHpkcpM) | 3:09 | 2020-09-25 | 2021-05-28 |

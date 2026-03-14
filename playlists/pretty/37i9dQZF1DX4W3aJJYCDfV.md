@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sienna Spiro, beabadoobee, Jack Harlow and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,820 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,955 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 7 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 | 8 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
 | 9 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 |
-| 10 | [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 |
+| 10 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 11 | [NO LOVE](https://open.spotify.com/track/6TFk7Htqf0AauDfeFhCLIo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [SOUTH LDN LOVER GIRL](https://open.spotify.com/album/6NgizYchTMIgAtm5UU5zqm) | 3:22 |
 | 12 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 |
 | 13 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 26 | [Pattern](https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [\#FEDERAL++](https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU) | 2:33 |
 | 27 | [Who Is It](https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Who Is It](https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37) | 2:54 |
 | 28 | [I Have Always Loved You](https://open.spotify.com/track/6fx3Pn8TZbjtLnZO8WVALt) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [I Have Always Loved You](https://open.spotify.com/album/2amv3tiNHBrXpaFBgjMQuV) | 3:07 |
-| 29 | [Best Of Me](https://open.spotify.com/track/4JeTNXFUwtjtv50sNplZtI) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Until You're Satisfied](https://open.spotify.com/album/44XBTJ2FnCtqaQNhNBHNZK) | 5:03 |
+| 29 | [Miss Millennial](https://open.spotify.com/track/5CppV85q7sOY4Okurdsa9j) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Until You're Satisfied](https://open.spotify.com/album/44XBTJ2FnCtqaQNhNBHNZK) | 2:55 |
 | 30 | [Look How Far...](https://open.spotify.com/track/4ZwsQGsqUGewXIjNBXfrXr) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Look How Far...](https://open.spotify.com/album/34LkLoSNqA6mfajqBcsthm) | 1:55 |
 | 31 | [Spiritual Machines](https://open.spotify.com/track/5yiDGNCsy7f3FhWvwUAjYc) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Spiritual Machines](https://open.spotify.com/album/6R7uOtIhqq6osIL79QJVom) | 3:25 |
 | 32 | [595](https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe) | [Violet Grohl](https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB) | [595](https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP) | 2:29 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 34 | [Picking Up The Pace](https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Picking Up The Pace](https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547) | 2:58 |
 | 35 | [PLAY ME](https://open.spotify.com/track/3r8jMGukBwtwapk6C8QrA3) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [PLAY ME](https://open.spotify.com/album/6YKDklqTiPc8bjMsjzIlst) | 2:28 |
 | 36 | [The Heron](https://open.spotify.com/track/1m3fEE0gGziD0iWzjD3ZTl) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [The Heron](https://open.spotify.com/album/4gJuBiP543avQV6R5eK8L3) | 3:05 |
-| 37 | [Track 4](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 0:00 |
+| 37 | [Longer](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 4:58 |
 | 38 | [Catastrophe](https://open.spotify.com/track/4TGYJY5sUMEnEjLzhH5QLT) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Catastrophe](https://open.spotify.com/album/3zBpioc4PZmklcWOnE1Jpr) | 3:18 |
 | 39 | [Mary](https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:19 |
 | 40 | [Pacifico](https://open.spotify.com/track/7xoKUJyENctTQh64oBTpMY) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Pacifico](https://open.spotify.com/album/4Uri4Wdt8nLr6ICEpyfsBI) | 3:13 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [When Did You Stop Loving Me?](https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft 2](https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte) | 3:50 |
 | 44 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
 | 45 | [Pynch](https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Pynch](https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU) | 2:42 |
-| 46 | [Track 1](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 0:00 |
+| 46 | [\(Intro\) imma pick you up imma](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 2:18 |
 | 47 | [Pull Up](https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pull Up](https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR) | 2:35 |
 | 48 | [Hey Amanda](https://open.spotify.com/track/1MtJdSbVjh4sjiadKRuyFc) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Hey Amanda](https://open.spotify.com/album/1v94s8PQHW2ED8ZKslCfYK) | 3:30 |
 | 49 | [Driving On Sand](https://open.spotify.com/track/1XKrSSrclVXSAsrTK0E6y9) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ), [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Mali](https://open.spotify.com/album/2rVrgKwvQKGHe9wPjvpsDa) | 4:13 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 72 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
 | 73 | [animal](https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj) | [Ben Ellis](https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8) | [animal](https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz) | 4:10 |
 | 74 | [African Soldier](https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [African Soldier](https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan) | 2:46 |
-| 75 | [Track 5](https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 0:00 |
+| 75 | [People Get Lost](https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Eternal Pursuit](https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS) | 4:44 |
 | 76 | [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 |
 | 77 | [Woodwork](https://open.spotify.com/track/022LRJVvrMvlQme5saFlyL) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Woodwork](https://open.spotify.com/album/65mIWSNwx0xH3pLpJzvtqd) | 3:27 |
 | 78 | [Love Me Twice](https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Love Me Twice](https://open.spotify.com/album/63R5hFgQ7DPeLdJijGmmoP) | 2:23 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 83 | [ISENGARD](https://open.spotify.com/track/4kazcRNvuty5hWfWWJZFhr) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm) | [ISENGARD](https://open.spotify.com/album/4gj2U25TAiQwWLIHBEXWFQ) | 3:28 |
 | 84 | [A Land Beyond](https://open.spotify.com/track/1u0mL0QSnaiwcdk3dQ0Mjq) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [A Land Beyond](https://open.spotify.com/album/200GsaA2d69XEgonktq1lr) | 4:04 |
 | 85 | [2000s Pop Punk Rnb](https://open.spotify.com/track/4pCaGHshtacSSPRqXSLK75) | [WHATMORE](https://open.spotify.com/artist/2y4kS2ljmS41pNDNA01P2Q) | [Still Loiteringgg / 2000s Pop Punk Rnb](https://open.spotify.com/album/1PsPAevrYEFFoOwjezQ4LF) | 2:56 |
-| 86 | [Track 2](https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [paint me like one of your fav american girls](https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7) | 0:00 |
+| 86 | [Feel Like I Died](https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [paint me like one of your fav american girls](https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7) | 2:23 |
 | 87 | [Spit or Kiss](https://open.spotify.com/track/7jWCMlmyn42w3Excc4apGd) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Spit or Kiss](https://open.spotify.com/album/6otNVOXG6rAKlxD0dmACfU) | 2:29 |
 | 88 | [What Music Felt Like In 2007](https://open.spotify.com/track/2F6ie4adRPCCQquwR03nui) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [What Music Felt Like In 2007](https://open.spotify.com/album/5YBLvsQH3hSEOfOY6UraKJ) | 3:55 |
 | 89 | [Happy Meaning](https://open.spotify.com/track/0SkkAICzAWkjVcAuBlsDtV) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx) | [Happy Meaning](https://open.spotify.com/album/1bdNZjZT7g7Z5d7Q9RyTSS) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Sour Carol, I](https://open.spotify.com/track/6g0gxCx3KIhfCVnXSnLq2n) | [ladylike](https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9) | [Sour Carol, I](https://open.spotify.com/album/3KDTW9nBRTcSVIGnORxLzy) | 5:10 |
 | 100 | [Angel](https://open.spotify.com/track/4Cz1qB2T6oJH6JxSrj9bxC) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Angel](https://open.spotify.com/album/3xtFJ2mgU28ki0LKSbzoVy) | 4:15 |
 
-Snapshot ID: `AAAAAL749drPSw3KBJe9xplg59g7iy8M`
+Snapshot ID: `AAAAAKM6TkZdSLsJGKLiqPYdwJEmeskK`

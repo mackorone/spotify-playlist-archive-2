@@ -622,10 +622,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 217297,
       "name": "Mina Chavosa",
       "url": "https://open.spotify.com/track/1Ni9NL8sr0eBA6MAjAdI7o"
+    },
+    {
+      "album": {
+        "name": "Mina Chavosa",
+        "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Diabelsmusic",
+          "url": "https://open.spotify.com/artist/79X8GHg4CwZQPJIF1IlqWA"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217306,
+      "name": "Mina Chavosa",
+      "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
     },
     {
       "album": {
@@ -722,10 +744,36 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204000,
       "name": "O Suficiente",
       "url": "https://open.spotify.com/track/7qZClco5dd6Hzxg2ISaEdk"
+    },
+    {
+      "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204013,
+      "name": "O Suficiente (feat. N.I.N.A)",
+      "url": "https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih"
     },
     {
       "album": {
@@ -784,6 +832,24 @@
     {
       "album": {
         "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174240,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
+    },
+    {
+      "album": {
+        "name": "Outra Mulher",
         "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
       },
       "artists": [
@@ -794,7 +860,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174254,
       "name": "Outra Mulher",
       "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
@@ -1208,10 +1274,48 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 343399,
       "name": "Set Ajc",
       "url": "https://open.spotify.com/track/4Rm0KWTctjT6Fw0yny87Gq"
+    },
+    {
+      "album": {
+        "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
+        "url": "https://open.spotify.com/album/2Q8yyzij3ZwnhnBgKq9hO8"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343373,
+      "name": "Set Ajc (feat. Mac J\u00falia, N.I.N.A, Alt Niss, NandaTsunami & Mc Luanna)",
+      "url": "https://open.spotify.com/track/6alaU0cNbfd67sjJqjAXG2"
     },
     {
       "album": {

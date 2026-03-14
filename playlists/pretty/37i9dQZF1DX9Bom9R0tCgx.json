@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 451413,
+  "num_followers": 451476,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1511,6 +1511,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
+      },
+      "artists": [
+        {
+          "name": "ZAPRAVKA",
+          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 140468,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Pedro (W&W Remix)",
         "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 159483,
       "name": "Pedro - W&W Remix",
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "I Feel",
-        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
-      },
-      "artists": [
-        {
-          "name": "ZAPRAVKA",
-          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 140468,
-      "name": "I Feel",
-      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "2004",
         "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 188888,
       "name": "2004",
       "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hit The Road Jack",
-        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        },
-        {
-          "name": "Millows",
-          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
-        }
-      ],
-      "duration_ms": 126428,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        },
+        {
+          "name": "Millows",
+          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
+        }
+      ],
+      "duration_ms": 126428,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Bass Boys",
-        "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        }
-      ],
-      "duration_ms": 179805,
-      "name": "Bass Boys",
-      "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Kisses (feat. bbyclose) [BOVSKI Remix]",
         "url": "https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 130263,
       "name": "Kisses (feat. bbyclose) - BOVSKI Remix",
       "url": "https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Bass Boys",
+        "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        }
+      ],
+      "duration_ms": 179805,
+      "name": "Bass Boys",
+      "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1963,26 +1963,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Mozart's Final Rave (Lacrimosa)",
-        "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Charles B",
-          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
-        },
-        {
-          "name": "Dana Vicci",
-          "url": "https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4"
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
         }
       ],
-      "duration_ms": 105009,
-      "name": "Mozart's Final Rave (Lacrimosa)",
-      "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
+      "duration_ms": 124867,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2027,38 +2019,42 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
+        "name": "Mozart's Final Rave (Lacrimosa)",
+        "url": "https://open.spotify.com/album/7uaOfyOqUaorsTsUmRsjbE"
       },
       "artists": [
         {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Charles B",
+          "url": "https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO"
+        },
+        {
+          "name": "Dana Vicci",
+          "url": "https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4"
         }
       ],
-      "duration_ms": 124867,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
+      "duration_ms": 105009,
+      "name": "Mozart's Final Rave (Lacrimosa)",
+      "url": "https://open.spotify.com/track/5PpS0qaJb2k4BzQA060Uys"
     },
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+        "name": "Kayra",
+        "url": "https://open.spotify.com/album/388sI7up9HOA4bCMkzj4Sk"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         }
       ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+      "duration_ms": 166909,
+      "name": "Kayra",
+      "url": "https://open.spotify.com/track/5Rob2FY3ndcG9F2GpK8ZaQ"
     }
   ],
   "unique_name": "Bass Explosion",

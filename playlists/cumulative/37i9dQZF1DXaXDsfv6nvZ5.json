@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Bruno Mars",
+  "description": "The soulful tunes to ease you into your day. Cover: Glenn Lewis",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174371,
       "name": "Caviar",
       "url": "https://open.spotify.com/track/3bUBljQLIeJcsdfKy9NzsS"
@@ -3694,6 +3694,24 @@
       "duration_ms": 189462,
       "name": "DO 4 LOVE",
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
+    },
+    {
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "album": {
@@ -5280,7 +5298,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 250434,
       "name": "Good Bye",
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
@@ -6262,7 +6280,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172444,
       "name": "Hands",
       "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192250,
       "name": "Harmonize",
       "url": "https://open.spotify.com/track/0aYqmfDlNla4etWY6Y2K53"
@@ -9138,7 +9156,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 171675,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/2k6m9m423ljc0FWG134QAC"
@@ -11291,6 +11309,28 @@
     },
     {
       "album": {
+        "name": "NEVER BE THE SAME",
+        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172376,
+      "name": "NEVER BE THE SAME",
+      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
+    },
+    {
+      "album": {
         "name": "Gravy (Deluxe)",
         "url": "https://open.spotify.com/album/6ZApU6s93DgYUHjev0RFfD"
       },
@@ -12433,6 +12473,24 @@
     },
     {
       "album": {
+        "name": "Past Tense",
+        "url": "https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Past Tense",
+      "url": "https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG"
+    },
+    {
+      "album": {
         "name": "COME AS YOU ARE",
         "url": "https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2"
       },
@@ -13230,6 +13288,24 @@
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
+    },
+    {
+      "album": {
+        "name": "LK99",
+        "url": "https://open.spotify.com/album/7oXn08skc0Lc0juXrb5kDP"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193046,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/15mWVMVFzJwLIEFzYyX3AH"
     },
     {
       "album": {
@@ -14682,7 +14758,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
@@ -16483,6 +16559,24 @@
     },
     {
       "album": {
+        "name": "MINDFIELDS",
+        "url": "https://open.spotify.com/album/6INVkw6zEJjhLSNDjlcp2X"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "To Myself",
+      "url": "https://open.spotify.com/track/74NpjceFhcxsKDVptmskzj"
+    },
+    {
+      "album": {
         "name": "To This Day",
         "url": "https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI"
       },
@@ -17367,6 +17461,24 @@
     },
     {
       "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288766,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/66mklD0K1sx5jlIP0F2w6a"
+    },
+    {
+      "album": {
         "name": "Waterfall (I Adore You)",
         "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
       },
@@ -17378,7 +17490,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 292940,
       "name": "Waterfall (I Adore You)",
       "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
@@ -17542,6 +17654,24 @@
       "duration_ms": 141795,
       "name": "WeMaj (feat. Rapsody)",
       "url": "https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t"
+    },
+    {
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178779,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
     },
     {
       "album": {
@@ -17890,6 +18020,28 @@
       "duration_ms": 254811,
       "name": "Where You Gonna Go",
       "url": "https://open.spotify.com/track/5Q2TlGxrZAEBJZVsI1qlJA"
+    },
+    {
+      "album": {
+        "name": "Beautifully All Over The Place",
+        "url": "https://open.spotify.com/album/15HxqlsxMXbW95U0EkMB75"
+      },
+      "artists": [
+        {
+          "name": "Eric Roberson",
+          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256372,
+      "name": "Where You Gonna Go",
+      "url": "https://open.spotify.com/track/1vYEQT4XzieM6L2JTAiC8I"
     },
     {
       "album": {

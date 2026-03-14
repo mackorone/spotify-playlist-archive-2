@@ -2,31 +2,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: LITTLE JOHN
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: PURPEECH
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,511 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,521 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 2 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
-| 3 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 4 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 5 | [เหนื่อยเกินไป](https://open.spotify.com/track/3bPvxXyKTHq7Pd2IFA10HX) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [เหนื่อยเกินไป](https://open.spotify.com/album/6Nym9IqxppaZR3kJJd8riA) | 5:07 |
-| 6 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
-| 7 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
+| 1 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 2 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 3 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 |
+| 4 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
+| 5 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 |
+| 6 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
+| 7 | [Rain Zone](https://open.spotify.com/track/7nSkSqb1WDtZ7hY2dVEvWY) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Rain Zone](https://open.spotify.com/album/5oAY1ajznhsPn951S81bMa) | 3:05 |
 | 8 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
-| 9 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
-| 10 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
-| 11 | [Rain Zone](https://open.spotify.com/track/7nSkSqb1WDtZ7hY2dVEvWY) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Rain Zone](https://open.spotify.com/album/5oAY1ajznhsPn951S81bMa) | 3:05 |
-| 12 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
-| 13 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
+| 9 | [วิงวอน](https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [CHERRY](https://open.spotify.com/album/6H2DJp8R0UrJjMNU4NNAD7) | 4:11 |
+| 10 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
+| 11 | [เหนื่อยเกินไป](https://open.spotify.com/track/3bPvxXyKTHq7Pd2IFA10HX) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [เหนื่อยเกินไป](https://open.spotify.com/album/6Nym9IqxppaZR3kJJd8riA) | 5:07 |
+| 12 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
+| 13 | [I Just Wanna Know](https://open.spotify.com/track/2hmelRMnKJLo5toNZ5yqZ7) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [I Just Wanna Know](https://open.spotify.com/album/58D3a05FTQi0Eo20WgYWWO) | 3:46 |
 | 14 | [สักวันฉันจะหายดี](https://open.spotify.com/track/6SNwxbDxjzzN2VO3k6pXdR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สักวันฉันจะหายดี](https://open.spotify.com/album/64JJuERE6GnUbFFcJXw73U) | 3:48 |
 | 15 | [นครดารา](https://open.spotify.com/track/2wyjOiDh07ISNq0oq69G4e) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [นครดารา](https://open.spotify.com/album/4EAcsAQeQ7kM5eO9UBBnfM) | 3:16 |
 | 16 | [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 |
 | 17 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
-| 18 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 |
-| 19 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 |
+| 18 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
+| 19 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 |
 | 20 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |
 | 21 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 22 | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/track/4gHm2mJ5WC9nPomTXuwg3c) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H) | [เลือกเองกับมือ \(Bad Choices\)](https://open.spotify.com/album/3ebPLvyB2Xtpkbw4dyg1qy) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 |
 
-Snapshot ID: `AAAAAJ38XiJGN/kPc0mzhWt1Fbj+68Aq`
+Snapshot ID: `AAAAAHgbmR8n6ayhM4Us1qUucJ9ueEqx`

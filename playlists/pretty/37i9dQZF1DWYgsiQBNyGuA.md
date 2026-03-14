@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: GENA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,846 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,815 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 96 | [Nobody’s Perfect](https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:00 |
 | 97 | [My People](https://open.spotify.com/track/6f5mcAYXtP0CMofbR41V0V) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:27 |
 | 98 | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/track/2YKgKQeaYc2sIZIGooyLw0) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [All I Want Is You \[Feat\. October London\]](https://open.spotify.com/album/6J9R7EmL3lIrfnXzZwxRB8) | 3:20 |
-| 99 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
-| 100 | [Elevate](https://open.spotify.com/track/3nHgOnUhWqLoc5OPUjvDqi) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:05 |
+| 99 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
+| 100 | [The Way I Feel](https://open.spotify.com/track/1HwgiZluTgktb8SOFqcKkh) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 5:01 |
 
 Snapshot ID: `AAAAAGcKiPeU+KWD60ukDpYSyqpjYJZv`

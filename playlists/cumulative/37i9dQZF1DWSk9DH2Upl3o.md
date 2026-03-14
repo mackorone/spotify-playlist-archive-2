@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-228 songs - 20 hr 43 min
+229 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 | 2022-06-23 |  |
 | [Dare You](https://open.spotify.com/track/5QOsdIQnOmP9AaKFGgBGio) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [To Live A Making](https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp) | 6:57 | 2023-01-20 | 2023-10-28 |
 | [Dare You](https://open.spotify.com/track/70FAStvmG7cqGfgnmZe0c0) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Dare You](https://open.spotify.com/album/4K4q44abgnpCnxRAx3Zl4C) | 6:57 | 2023-01-13 | 2023-10-02 |
-| [Define Devine](https://open.spotify.com/track/48CT4qpNxluvGt15IuuLuo) | [The Mad Children](https://open.spotify.com/artist/0qcvu55pxTj97gmxAy1ZUF) | [The Mad Children \- EP](https://open.spotify.com/album/1lAUefBVOBXfPCnOJCp5cv) | 5:47 | 2022-07-01 |  |
+| [Define Devine](https://open.spotify.com/track/48CT4qpNxluvGt15IuuLuo) | [The Mad Children](https://open.spotify.com/artist/0qcvu55pxTj97gmxAy1ZUF) | [The Mad Children \- EP](https://open.spotify.com/album/1lAUefBVOBXfPCnOJCp5cv) | 5:47 | 2022-07-01 | 2026-03-14 |
 | [Despierta](https://open.spotify.com/track/3AZlc4kfSwUi3H58Oh4r5h) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/77mybqhJmrAAuhooCm3xW5) | 3:38 | 2023-03-17 | 2024-04-19 |
 | [Despierta](https://open.spotify.com/track/3oVXcvauOF5fUgQXtfcyVy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2ispQP4b20p3IoW4bWfHrQ) | 3:38 | 2023-03-17 |  |
 | [Dig it Good](https://open.spotify.com/track/0JDLm3OWl6o1kBhLTEogz8) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Giant Something](https://open.spotify.com/album/4s8yfx0H0V18KwAgJj20Ob) | 6:02 | 2022-06-23 | 2023-05-06 |
@@ -149,6 +149,7 @@
 | [New Eyes](https://open.spotify.com/track/0iZyxYvHPplB3GTkfyXnkQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Joyfunk Is Dead](https://open.spotify.com/album/0SPbrfi5dOmewfhS0Ec2N7) | 2:53 | 2022-06-23 | 2023-05-06 |
 | [New Sol](https://open.spotify.com/track/3vrivUYRw4s9cMKzJTuNhV) | [Dangermuffin](https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR) | [New Sol](https://open.spotify.com/album/1Jo3CNhZXWLmUzaOSYIizE) | 4:20 | 2024-07-12 | 2024-08-03 |
 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 | 2022-08-26 | 2023-06-03 |
+| [Now and Then](https://open.spotify.com/track/60vWJQbZiM54JApQwfwwP8) | [The Band Memo](https://open.spotify.com/artist/5eWFs66Up0UYQREgM7qygT) | [Now and Then](https://open.spotify.com/album/3ilbEpyXEoJ8CHadIp6fqP) | 4:02 | 2026-03-13 |  |
 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 | 2022-06-23 | 2025-04-12 |
 | [Oblivion](https://open.spotify.com/track/6HvnPZNXaiaOzHldLAiOfE) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Oblivion](https://open.spotify.com/album/6EEjJ6CtxuWLGW34oQkFXv) | 6:03 | 2024-05-24 | 2024-06-15 |
 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 | 2022-06-23 | 2025-08-16 |

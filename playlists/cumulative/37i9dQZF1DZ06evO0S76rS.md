@@ -4,7 +4,7 @@
 
 > This is Grupo Niche\. The essential tracks, all in one playlist.
 
-103 songs - 8 hr 29 min
+104 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 | 2024-05-05 |  |
 | [Cosas Bonitas](https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:13 | 2024-12-22 |  |
 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 | 2022-09-08 | 2024-12-22 |
+| [Debería Olvidarla](https://open.spotify.com/track/5RupmgidTuHxXEV8lpRl2i) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo de Tambores](https://open.spotify.com/album/76IN5nA4NLEwS2yoxNbWZz) | 4:21 | 2026-03-14 |  |
 | [Debiera Olvidarla](https://open.spotify.com/track/3usWzVoV5d2mmWlmhSxfaQ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cielo De Tambores](https://open.spotify.com/album/3Ze1GGNL2Tw7v7BgnPlzNQ) | 4:24 | 2022-09-08 |  |
 | [Del Puente Pa' Allá](https://open.spotify.com/track/0vWfzFRMmU2mhTw7eipl9R) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sólo Hits](https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA) | 6:00 | 2022-09-08 | 2023-12-14 |
 | [Del Puente Pa' Allá](https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 6:00 | 2023-12-13 |  |
@@ -72,7 +73,7 @@
 | [Lo Bonito Y Lo Feo](https://open.spotify.com/track/3RviPwWauFFD8FhcsTFGe7) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 4:56 | 2022-09-08 | 2024-12-09 |
 | [Me Sabe a Peru](https://open.spotify.com/track/00Hcq5S7P9lIJqioIW0Hxb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Danza de la Chancaca](https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj) | 4:06 | 2022-09-08 | 2023-03-18 |
 | [Me Sabe a Perú](https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Me Sabe a Perú](https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX) | 4:22 | 2023-03-17 | 2025-06-06 |
-| [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 | 2022-09-08 |  |
+| [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 | 2022-09-08 | 2026-03-14 |
 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 | 2022-09-08 |  |
 | [Mi Machete](https://open.spotify.com/track/1rZmyIJitURlw2d35xb9fn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Imaginacion](https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs) | 5:27 | 2022-09-08 | 2024-06-10 |
 | [Mi Mundo Al Revés](https://open.spotify.com/track/5eL3CUuqkOycNKjRUJban8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mi Mundo Al Revés](https://open.spotify.com/album/3YSgkCCFuUs3jm3NZuiOxK) | 3:29 | 2025-09-16 |  |

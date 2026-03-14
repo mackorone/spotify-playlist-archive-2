@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: SIENNA SPIRO
 
-1,965 songs - 4 day 3 hr 52 min
+1,966 songs - 4 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 | 2025-05-02 |
 | [Endless Blue](https://open.spotify.com/track/19skr7Flt2KCDxbTRBc9tp) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Endless Blue](https://open.spotify.com/album/21FYS3JS4IoNNv0uMKOYjC) | 3:24 | 2025-05-08 | 2025-06-06 |
 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 | 2024-06-28 | 2024-07-19 |
+| [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-13 |  |
 | [Ends In Y](https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:53 | 2026-02-19 |  |
 | [ENEMIES](https://open.spotify.com/track/4oqfSulRtIhFebLi78TgJ8) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [ENEMIES](https://open.spotify.com/album/3qAq4AsWkf6tN4SwgMchAL) | 2:48 | 2026-02-26 |  |
 | [Enjoy The Ride](https://open.spotify.com/track/2qMTF1e33MMMhSjQNWJh1E) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Enjoy The Ride](https://open.spotify.com/album/1lew1EfwVHcfSnA441E1Ln) | 2:42 | 2025-04-17 | 2025-05-16 |

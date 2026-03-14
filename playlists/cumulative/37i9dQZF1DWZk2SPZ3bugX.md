@@ -4,7 +4,7 @@
 
 > 🍾
 
-274 songs - 15 hr 36 min
+275 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 | 2025-10-02 |  |
 | [Lost](https://open.spotify.com/track/2P008xRvFjXgzOK7OUUVyS) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Lost](https://open.spotify.com/album/6baHRhSnqtzgOo4uPhMAVO) | 3:28 | 2022-12-08 | 2023-06-10 |
 | [LOST IN SPACE](https://open.spotify.com/track/3vPeIA6cFEdv1opegsgQ2E) | [Tayrell](https://open.spotify.com/artist/2eKTxdRiIGgbWMaPhZDR4w), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [LOST IN SPACE](https://open.spotify.com/album/3uU3DdiyrUrGjOEparOAfZ) | 2:55 | 2022-12-08 | 2023-07-29 |
+| [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 | 2026-03-13 |  |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-12-08 | 2023-09-23 |
 | [Lucky Star](https://open.spotify.com/track/3JhAETPmy2RZSLTZ6FmcHp) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Hold Up](https://open.spotify.com/album/7ECP8AzznFSErmzzik305h) | 4:55 | 2022-12-08 | 2023-09-23 |
 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 | 2023-07-28 | 2025-03-21 |
@@ -259,7 +260,7 @@
 | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/track/6w8cza3O4lfQksOP94V2Qw) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE), [Lass](https://open.spotify.com/artist/5lo0kRRetvEfkimf1sJxuX) | [Toujours \(feat\. Tim Dup & Lass\)](https://open.spotify.com/album/7hFlZmAmRd64a8sh7MfQmv) | 3:21 | 2022-12-08 | 2023-02-25 |
 | [Traveling](https://open.spotify.com/track/6gt5K9gmKX6nFU0Z35TPSh) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Traveling](https://open.spotify.com/album/13jajzKoI3hhybfKEBpneW) | 3:22 | 2024-06-21 | 2025-01-24 |
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-12-08 | 2023-09-23 |
-| [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-27 |  |
+| [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 | 2026-02-27 | 2026-03-14 |
 | [Upside Down \(Candy Crush\)](https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Upside Down \(Candy Crush\)](https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf) | 3:29 | 2025-11-06 |  |
 | [Vaitimbora](https://open.spotify.com/track/4PT2ZuTfGLHI86OBqm2Ezt) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Vaitimbora](https://open.spotify.com/album/1XkGjUleNg3jPo1f4j0oFf) | 2:15 | 2025-05-30 |  |
 | [Vinyle](https://open.spotify.com/track/63YoTNZTVXMeiVw8s7fd2V) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs) | [Vinyle](https://open.spotify.com/album/7zKq0eBazgkWFC3vV7L0gu) | 3:19 | 2025-07-10 | 2025-10-03 |

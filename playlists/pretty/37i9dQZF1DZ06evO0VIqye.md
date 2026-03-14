@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,001 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,005 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 29 | [Season of the Witch \- From the Netflix Series The Sons of Sam: A Descent Into Darkness](https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Season of the Witch \(From the Netflix Series The Sons of Sam: A Descent Into Darkness\)](https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA) | 5:02 |
 | 30 | [Tush](https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [The Hit List](https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM) | 2:21 |
 | 31 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
-| 32 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 |
-| 33 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
-| 34 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 |
+| 32 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 |
+| 33 | [School Days](https://open.spotify.com/track/15u5TiwDho7b2WK0R6PvAA) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:02 |
+| 34 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
 | 35 | [I Want You](https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9) | 2:41 |
 | 36 | [New Orleans](https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:53 |
 | 37 | [I Hate Myself For Loving You](https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:07 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 43 | [If You're Blue](https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Mindsets](https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO) | 3:15 |
 | 44 | [Rebel, Rebel](https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 4:10 |
 | 45 | [Ridin' With James Dean](https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:17 |
-| 46 | [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 |
-| 47 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
+| 46 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
+| 47 | [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 |
 | 48 | [I Love Playin' With Fire](https://open.spotify.com/track/2f145m0AvoZX5tF1Rac2QZ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Album \(Expanded Edition\)](https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G) | 3:02 |
-| 49 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
-| 50 | [You Want In, I Want Out](https://open.spotify.com/track/4nPfw7JheKRSPFhqRxPdrQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:15 |
+| 49 | [You Want In, I Want Out](https://open.spotify.com/track/4nPfw7JheKRSPFhqRxPdrQ) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:15 |
+| 50 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 
-Snapshot ID: `abCwgAAAAADUh34ZAu26YcOiFqPFouqC`
+Snapshot ID: `abICAAAAAADF5MwvdQmLliPXU/muNIaB`

@@ -2,9 +2,9 @@
 
 ### [tropipop](https://open.spotify.com/playlist/37i9dQZF1DXa0xldXwsLda)
 
-> ¡Puro sabor con Maluma y Manuel Turizo en portada! 🌺
+> ¡Puro sabor con Lila Downs en portada! 🌺
 
-228 songs - 13 hr 11 min
+231 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aire](https://open.spotify.com/track/77gQSJlncgT3HWmBfy9CQ9) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3hrl3lXAs1oAfDegWOE4to) | 2:54 | 2022-03-28 | 2026-02-14 |
 | [alboroto](https://open.spotify.com/track/1jNgEKGJKxBpK5aIoo8KAm) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [alboroto](https://open.spotify.com/album/2xWAUb5o28hqUEmWkn7mUC) | 3:27 | 2022-03-28 | 2026-02-14 |
 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 | 2022-03-28 | 2026-02-14 |
+| [ALIENS](https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [ALIENS](https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ) | 2:50 | 2026-03-13 |  |
 | [Amor a Primera Vista](https://open.spotify.com/track/5M6bJO7Cfl4lnPoAHG0EdD) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Amor a Primera Vista](https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY) | 3:40 | 2026-02-13 |  |
 | [Amor distante](https://open.spotify.com/track/2rF4RGxhH8eKdFbcFMplyL) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Amor distante](https://open.spotify.com/album/3k2hSXUsXG0WZJhIp4OgaP) | 3:23 | 2023-01-16 | 2026-02-14 |
 | [Amor Papaya en Invierno](https://open.spotify.com/track/4TZ0kv6Elbb4cTsoNXxBZJ) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Amor Papaya](https://open.spotify.com/album/4SedZWefA0qnDU6mnDiXI6) | 3:25 | 2022-03-28 | 2026-02-14 |
@@ -42,7 +43,7 @@
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-03-28 | 2026-02-14 |
 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 | 2022-03-28 | 2026-02-14 |
 | [Bésame](https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Bésame](https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl) | 3:22 | 2026-02-13 |  |
-| [Cambias mi Mundo](https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Cambias mi Mundo](https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk) | 4:50 | 2026-02-13 |  |
+| [Cambias Mi Mundo](https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Cambias Mi Mundo](https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk) | 4:50 | 2026-02-13 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-03-28 | 2024-04-19 |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2022-03-28 | 2026-02-14 |
 | [capaz \(merengueton\)](https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:53 | 2026-02-13 |  |
@@ -71,6 +72,7 @@
 | [Cuerno](https://open.spotify.com/track/7FEAc7tO7oaQ6Q1zzoz7eD) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cuerno](https://open.spotify.com/album/058TOwhFmaaxyTTilf5XJD) | 2:58 | 2022-03-28 | 2026-02-14 |
 | [Cumbia fantasia](https://open.spotify.com/track/41IW719r1CuVwStSFcsY4k) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia fantasia](https://open.spotify.com/album/3EIuPAt9DW7PQNg3A3hSws) | 3:58 | 2026-02-27 |  |
 | [Cuántas Veces](https://open.spotify.com/track/0dfyGtKJoxV8KAYRpSwBiL) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Cuántas Veces](https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj) | 3:14 | 2022-03-28 | 2026-02-14 |
+| [Dame Más](https://open.spotify.com/track/27aV7d1dkIOu8Kcvm2doiQ) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Dame Más](https://open.spotify.com/album/5ZLtypx1R8IcO16B3wijpd) | 3:33 | 2026-03-13 |  |
 | [Diamantes](https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:17 | 2023-01-16 | 2026-02-14 |
 | [DISFRAZ](https://open.spotify.com/track/6elAmmsLGB0JMJPKAp9zkM) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [DISFRAZ](https://open.spotify.com/album/2t4VWnsVlWoNOPqjNh8pux) | 4:09 | 2026-02-20 |  |
 | [Disimular \- Lado A](https://open.spotify.com/track/6EEN9UcdUe2NVdRGOsotyO) | [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Disimular](https://open.spotify.com/album/3jbZJd2LREY095k6RMgkGk) | 3:27 | 2022-03-28 | 2026-01-26 |
@@ -173,6 +175,7 @@
 | [Piensa en mí](https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Piensa en mí](https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev) | 2:53 | 2026-02-13 |  |
 | [Plei](https://open.spotify.com/track/55eG80KfEzp2lFlyd3PuZA) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Plei](https://open.spotify.com/album/7u8JjW7R4q2m2PPwOmC39J) | 3:22 | 2026-02-13 |  |
 | [Por un Pendejo no se llora](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 | 2026-02-13 |  |
+| [Prieta de mi vida](https://open.spotify.com/track/5EKUqcrfBuhjpDkB8YD3B4) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Prieta de mi vida](https://open.spotify.com/album/0ooPiGHHX9NSDjSVKHBvtV) | 2:38 | 2026-03-13 |  |
 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 | 2022-03-28 | 2026-02-14 |
 | [Pégate \(MTV Unplugged Version\)\[Radio Edit\]](https://open.spotify.com/track/2pq667SGzWpbQ7yzhOHKRL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [The Greatest Hits](https://open.spotify.com/album/3k0gbDJ1p2nbqFNHeKVwi4) | 3:10 | 2026-02-13 |  |
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2026-02-13 |  |

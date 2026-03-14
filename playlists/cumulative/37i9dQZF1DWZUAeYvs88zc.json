@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
+    },
+    {
+      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
       },
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204314,
       "name": "feel like shit",
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
@@ -5369,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Knife In The Heart",
+        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177592,
+      "name": "Knife In The Heart",
+      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -7832,7 +7868,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji"
@@ -8078,7 +8114,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 147713,
       "name": "rubberband",
       "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
@@ -8188,6 +8224,24 @@
       "duration_ms": 331537,
       "name": "Running Up That Hill (A Deal With God) [2012 Remix]",
       "url": "https://open.spotify.com/track/3ETZM74L5jfwcfw2ABn9iC"
+    },
+    {
+      "album": {
+        "name": "sabotage",
+        "url": "https://open.spotify.com/album/1DemTqyzxthecdjnR5qmRi"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178176,
+      "name": "sabotage",
+      "url": "https://open.spotify.com/track/0tlJq6Yy3060Ypcod0Oqo7"
     },
     {
       "album": {

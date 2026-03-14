@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-108 songs - 12 hr 55 min
+109 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Ghamaan Di Raat Lammi Ae](https://open.spotify.com/track/6KhkY86gENhVTXcVfGUxEJ) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 3:49 | 2023-12-18 |  |
 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 | 2025-07-03 |  |
 | [Giya Piplan da Dhal](https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 7:11 | 2025-05-13 |  |
-| [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 | 2024-04-24 |  |
+| [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 | 2024-04-24 | 2026-03-14 |
 | [Guddi Wangoo Aj Menoon](https://open.spotify.com/track/67QQZi6aUAajegMNpLVoaq) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 3:07 | 2023-02-15 |  |
 | [Ik Tu Hi Tu Hi \(Mehfil Mix\)](https://open.spotify.com/track/2nOHNCkYKM5964mADMnFp6) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 5:51 | 2025-05-13 |  |
 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 | 2025-05-13 |  |
@@ -86,6 +86,7 @@
 | [Pyar Hoyi Janda Ae \- From "Arjan"](https://open.spotify.com/track/0PrYEWfbDw2tQXb5q68M2j) | [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Pyar Hoyi Janda Ae \(From "Arjan"\)](https://open.spotify.com/album/3naa4ohg6r82kiizdnUMBT) | 4:43 | 2025-02-01 |  |
 | [Qubool Hai](https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ) | [Kanwar Grewal](https://open.spotify.com/artist/406oFsSzz2qjU3FD6fozxu), [Anhad Kaur](https://open.spotify.com/artist/1xTTsDAwaJ17ufCVjpyV86) | [Qubool Hai](https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6) | 6:49 | 2026-02-17 |  |
 | [Raat Chanani Maen Turan](https://open.spotify.com/track/1zgIrkuKeSrVLnTGioQmux) | [Deedar Singh Pardesi](https://open.spotify.com/artist/4NACb6Hrl23pBf62alPMzu) | [Ek Buta Ambi Da](https://open.spotify.com/album/7JPCcT3dRCHKueWHrrgF5i) | 4:08 | 2023-02-15 |  |
+| [Ranjha](https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/3IKEzGl5fUUO29QdbPlc9X) | 4:51 | 2026-03-13 |  |
 | [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-03-19 | 2026-02-27 |
 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 | 2025-05-13 |  |
 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 | 2023-02-15 |  |

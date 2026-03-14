@@ -1,13 +1,89 @@
 {
-  "description": "Instrumental guitar shreddery. Cover: Marcin",
-  "num_followers": 162506,
+  "description": "Instrumental guitar shreddery. Cover: Jack Gardnier",
+  "num_followers": 162531,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJcuqApUFGRSqzE4BDlXETR/nvp",
+  "snapshot_id": "AAAAAKA+0apjGsqq9GC4cgid2GQlQszE",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/71lTPzNjDZvntazcwrBuZh"
+      },
+      "artists": [
+        {
+          "name": "Jack Gardiner",
+          "url": "https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Spark It",
+      "url": "https://open.spotify.com/track/32kRXoL0jsV65UkZ8fJeAG"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Solar Wind",
+        "url": "https://open.spotify.com/album/2IA9Kv4pmjiVOcH3CYR9to"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        },
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 339497,
+      "name": "Solar Wind (feat. Steve Vai)",
+      "url": "https://open.spotify.com/track/23GJxlLmvZr6rXfIlJW478"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Truffle Shuffle (Masterlink Sessions)",
+        "url": "https://open.spotify.com/album/4uCuAfS84dSooHvZP8KFaO"
+      },
+      "artists": [
+        {
+          "name": "Carter Arrington",
+          "url": "https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly"
+        },
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        }
+      ],
+      "duration_ms": 354067,
+      "name": "Truffle Shuffle - Masterlink Sessions",
+      "url": "https://open.spotify.com/track/3BzAaAHiXaGrdPXfOsWdcU"
+    },
+    {
+      "added_at": "2025-02-07 05:00:20",
+      "album": {
+        "name": "Medallion",
+        "url": "https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "duration_ms": 269155,
+      "name": "Medallion",
+      "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
+    },
     {
       "added_at": "2026-02-06 05:00:24",
       "album": {
@@ -31,6 +107,26 @@
       "duration_ms": 251374,
       "name": "Fan Boy",
       "url": "https://open.spotify.com/track/3GKYGyMThFGPpjnYmiNcFa"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Classical Dragon (feat. Tim Henson)",
+        "url": "https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg"
+      },
+      "artists": [
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        },
+        {
+          "name": "Tim Henson",
+          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
+        }
+      ],
+      "duration_ms": 198157,
+      "name": "Classical Dragon (feat. Tim Henson)",
+      "url": "https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C"
     },
     {
       "added_at": "2026-01-16 05:00:18",
@@ -71,42 +167,6 @@
       "duration_ms": 290642,
       "name": "Triangulation (feat. John Petrucci)",
       "url": "https://open.spotify.com/track/2MoGL0GCj3NiaAZB9a5pHi"
-    },
-    {
-      "added_at": "2025-02-07 05:00:20",
-      "album": {
-        "name": "Medallion",
-        "url": "https://open.spotify.com/album/1qZC1twRfaUTzgiX3Er24C"
-      },
-      "artists": [
-        {
-          "name": "Mark Lettieri",
-          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
-        }
-      ],
-      "duration_ms": 269155,
-      "name": "Medallion",
-      "url": "https://open.spotify.com/track/4Oor2Emr3lDd3JtogJVzfC"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Classical Dragon (feat. Tim Henson)",
-        "url": "https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg"
-      },
-      "artists": [
-        {
-          "name": "Marcin",
-          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
-        },
-        {
-          "name": "Tim Henson",
-          "url": "https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4"
-        }
-      ],
-      "duration_ms": 198157,
-      "name": "Classical Dragon (feat. Tim Henson)",
-      "url": "https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C"
     },
     {
       "added_at": "2025-01-10 05:00:08",
@@ -1043,22 +1103,6 @@
     {
       "added_at": "2021-05-04 18:30:17",
       "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/1QBwEou5SRg4nD9Ngd2loU"
-      },
-      "artists": [
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/3rjBROIs1VgeUPcAq6ALn2"
-    },
-    {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
         "name": "Loud and Proud",
         "url": "https://open.spotify.com/album/3jgR2VmuMnmYKlJQISKtqm"
       },
@@ -1283,22 +1327,6 @@
       "duration_ms": 166880,
       "name": "Circus Song",
       "url": "https://open.spotify.com/track/0rMZ3nVMzQQGfgtPVgCBlU"
-    },
-    {
-      "added_at": "2021-05-04 18:30:17",
-      "album": {
-        "name": "Knappsack",
-        "url": "https://open.spotify.com/album/2JaxSwQuKmKzeUjzlQwfE2"
-      },
-      "artists": [
-        {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Knappsack",
-      "url": "https://open.spotify.com/track/2neNxCaTPEwuGTvP7QAU1c"
     },
     {
       "added_at": "2021-06-11 04:01:00",

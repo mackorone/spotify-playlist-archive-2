@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Harry Styles
+> Grandes hits do BR e do 🌎 / Foto: Pedro Sampaio, El Bogueto
 
-439 songs - 21 hr 47 min
+440 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 | 2023-08-31 | 2024-09-21 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-03 | 2022-08-20 |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 | 2023-10-14 |
+| [G\-LATINA](https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [G\-LATINA](https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr) | 2:26 | 2026-03-13 |  |
 | [GALOPA](https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [GALOPA](https://open.spotify.com/album/5nZqQA3vUQUPl1ypuwKvrV) | 2:20 | 2022-05-20 | 2022-10-15 |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-07 | 2025-06-19 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-05-20 | 2022-11-08 |
@@ -435,7 +436,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-03-08 | 2024-04-27 |
 | [When I Was Your Man](https://open.spotify.com/track/0yL0uuThj9Vy67yC0dH4ID) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [into the light](https://open.spotify.com/album/3cOYw28Sbpi7oQlhoeNSLR) | 3:33 | 2024-09-20 | 2025-01-15 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2026-01-26 |  |
-| [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 | 2025-11-07 |  |
+| [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 | 2025-11-07 | 2026-03-14 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-31 | 2024-08-22 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2022-05-20 | 2022-07-23 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6ryWXzeSbDX5cebOrgjMKL) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5toviX45fuHcs6yy9HhZs2) | 2:58 | 2026-02-27 |  |

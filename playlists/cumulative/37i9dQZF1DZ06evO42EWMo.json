@@ -364,10 +364,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191840,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2i1S5Dq9SaFGcnw8mnb4ks"
+    },
+    {
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL"
     },
     {
       "album": {
@@ -382,7 +400,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 155413,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH"
@@ -422,6 +440,24 @@
       "duration_ms": 151573,
       "name": "Me & Mr Jones",
       "url": "https://open.spotify.com/track/5RqIM2vv5nw2PGJBqPD8Rg"
+    },
+    {
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176320,
+      "name": "Monkey Man",
+      "url": "https://open.spotify.com/track/52fqquVYihRW17ySEcy5mA"
     },
     {
       "album": {
@@ -552,7 +588,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 141266,
       "name": "Some Unholy War",
       "url": "https://open.spotify.com/track/0RatRR1mlxEVR6WATH4jV3"
@@ -877,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256946,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -888,7 +942,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 257186,
       "name": "You Know I'm No Good",
       "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
@@ -910,6 +964,24 @@
       "duration_ms": 410760,
       "name": "You Sent Me Flying / Cherry",
       "url": "https://open.spotify.com/track/2XVLtD3PlpQTdh81UP2grX"
+    },
+    {
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153413,
+      "name": "You're Wondering Now",
+      "url": "https://open.spotify.com/track/7ee1XEOzZgzTQWNaiHZvKY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO42EWMo"

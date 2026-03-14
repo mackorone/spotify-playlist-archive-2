@@ -5963,6 +5963,28 @@
     },
     {
       "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0avJv1JOKAQRSrd4WVXhiN"
+      },
+      "artists": [
+        {
+          "name": "Theo Day",
+          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
+        },
+        {
+          "name": "Olivia Ridgely",
+          "url": "https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/4ttz1L9DzppP1ahbqzhLMO"
+    },
+    {
+      "album": {
         "name": "Strange Medicine",
         "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
       },
@@ -9356,7 +9378,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182699,
       "name": "Too Far to Run",
       "url": "https://open.spotify.com/track/1469IXFAtWFkL11GREMfKD"

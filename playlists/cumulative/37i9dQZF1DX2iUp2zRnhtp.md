@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-548 songs - 1 day 3 hr 7 min
+548 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,8 @@
 | [In Every Photograph](https://open.spotify.com/track/70HmqOGAfCDHGYjEF15krZ) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [In Every Photograph](https://open.spotify.com/album/3YpKPSbZ80nkVtUCIOw0fo) | 3:25 | 2025-08-14 |  |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-06-27 | 2025-05-01 |
 | [in plain sight](https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [in plain sight](https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8) | 2:25 | 2025-08-14 |  |
+| [Ingen Meg Uten Deg](https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG), [Ousu Leigh](https://open.spotify.com/artist/6CpjPG0lD6QJlkrCrNpdH4) | [Mannen Som Døde Stående](https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA) | 4:04 | 2026-03-12 |  |
+| [Ingen som skal hjem \(feat\. Staysman\)](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 2:14 | 2026-03-12 |  |
 | [Instamatik](https://open.spotify.com/track/2AnoBZzoeWz5VEfFezhmxF) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Jahn Teigen](https://open.spotify.com/artist/5cXcR0GGNQaGae9lyQOh3W) | [Instamatik](https://open.spotify.com/album/2PaXaOVoTMjTyfXldEL2s3) | 3:03 | 2025-10-30 |  |
 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 | 2025-04-30 | 2025-11-28 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 |  |
@@ -508,8 +510,6 @@
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-21 | 2025-05-01 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-20 | 2025-05-23 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2025-05-01 |
-| [Track 1](https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr) | [Morgan Sulele](https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X) | [Festen er aldri over](https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA) | 0:00 | 2026-03-12 |  |
-| [Track 9](https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Mannen Som Døde Stående](https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA) | 0:00 | 2026-03-12 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2025-03-08 |
 | [trenger min love](https://open.spotify.com/track/4pC15giPh4pwFZQkZL0z5L) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [trenger min love](https://open.spotify.com/album/02lT1avDI4toG3QCw7eoeo) | 3:02 | 2025-04-30 | 2025-05-23 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2025-03-27 | 2025-05-01 |

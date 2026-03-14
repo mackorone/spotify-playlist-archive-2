@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Passion",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Phil Wickham",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -906,7 +906,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 598995,
       "name": "Always On Time - Break Open",
       "url": "https://open.spotify.com/track/6xAzxpF29ET0Ys5BZMmGAB"
@@ -2041,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Bless Your Name",
+        "url": "https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251473,
+      "name": "Bless Your Name",
+      "url": "https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0UhDdx4FunkOEOMDbp0jBY"
       },
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 240882,
       "name": "Breathe On It",
       "url": "https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV"
@@ -2758,7 +2776,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 356938,
       "name": "Cathedral - Live",
       "url": "https://open.spotify.com/track/7giKwleQHQ0rDMZnypzWej"
@@ -2780,7 +2798,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 465379,
       "name": "Center - Live",
       "url": "https://open.spotify.com/track/1yu6UKfMvbFZ0esY29yYlT"
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 248531,
       "name": "Cling To The Cross",
       "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
@@ -4914,6 +4932,24 @@
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
+    },
+    {
+      "album": {
+        "name": "For the Beauty of the Earth",
+        "url": "https://open.spotify.com/album/3zFVqqj3rngtfLw7tN70Wl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262643,
+      "name": "For the Beauty of the Earth",
+      "url": "https://open.spotify.com/track/4v9XGXfQL8iB9C0qjZDp8P"
     },
     {
       "album": {
@@ -9211,6 +9247,24 @@
     },
     {
       "album": {
+        "name": "Jesus Is His Name",
+        "url": "https://open.spotify.com/album/5nb9Mzv2gnyahYwns9tGCe"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357075,
+      "name": "Jesus Is His Name",
+      "url": "https://open.spotify.com/track/5JoiNcH5F8sg5Kxm0028SK"
+    },
+    {
+      "album": {
         "name": "Jesus Is Risen",
         "url": "https://open.spotify.com/album/6FPkFnU8YSzUozYf2DKl22"
       },
@@ -10870,6 +10924,24 @@
       "duration_ms": 242085,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/1uYqNIeFnuuAyECweX2jI7"
+    },
+    {
+      "album": {
+        "name": "Make Room (Live from Germany)",
+        "url": "https://open.spotify.com/album/2OIJhcAdZHRDzfZhJ6Ts19"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366836,
+      "name": "Make Room - Live from Germany",
+      "url": "https://open.spotify.com/track/0Wi83zLd8aAKoeupZpzI5m"
     },
     {
       "album": {
@@ -14070,7 +14142,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 461772,
       "name": "Rain - Live",
       "url": "https://open.spotify.com/track/1X3OKs3UUroYUSsBXXqIDg"
@@ -14198,7 +14270,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 275775,
       "name": "Rejoice Again",
       "url": "https://open.spotify.com/track/0Sny1iaMr1YbyqOk71Jwuz"
@@ -14937,6 +15009,24 @@
     },
     {
       "album": {
+        "name": "Shine Jesus Shine",
+        "url": "https://open.spotify.com/album/2WbsfSnt69eK3wTPDDBCY0"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120874,
+      "name": "Shine Jesus Shine",
+      "url": "https://open.spotify.com/track/5c8exuiri7IgOo0HuK48oE"
+    },
+    {
+      "album": {
         "name": "Live From Rehearsals",
         "url": "https://open.spotify.com/album/3VJ3N74TWo85AbdMsPXiYA"
       },
@@ -15128,6 +15218,28 @@
       "duration_ms": 351225,
       "name": "SING OF THIS - Live",
       "url": "https://open.spotify.com/track/7wrjtqAy3q2781W9gJrVJW"
+    },
+    {
+      "album": {
+        "name": "Sing Of Your Love",
+        "url": "https://open.spotify.com/album/01T3olM6t6V6Ey188YPFO9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Garett & Kate",
+          "url": "https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286474,
+      "name": "Sing Of Your Love",
+      "url": "https://open.spotify.com/track/6DLdrBq8O4phg4ZG9Fzcdx"
     },
     {
       "album": {
@@ -15572,6 +15684,24 @@
       "duration_ms": 346841,
       "name": "Still The King - Live",
       "url": "https://open.spotify.com/track/7iPhwbA9mqSMqsSuao3OJI"
+    },
+    {
+      "album": {
+        "name": "Break Open",
+        "url": "https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398558,
+      "name": "Stories - Break Open",
+      "url": "https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW"
     },
     {
       "album": {
@@ -16130,10 +16260,32 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 242088,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/4I01JiotzjG0twezQt1xqX"
+    },
+    {
+      "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242088,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI"
     },
     {
       "album": {
@@ -17196,7 +17348,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 367184,
       "name": "The Lord My God",
       "url": "https://open.spotify.com/track/5g1XLr8NV66CfMTIGFnvDQ"
@@ -18664,6 +18816,24 @@
       "duration_ms": 460209,
       "name": "Up To Something - Live",
       "url": "https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6"
+    },
+    {
+      "album": {
+        "name": "Counting My Blessings (Infinity Edition)",
+        "url": "https://open.spotify.com/album/5DaU4DgiEdsWOSWZOAH8Ld"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251913,
+      "name": "Valley Of Worship",
+      "url": "https://open.spotify.com/track/7BDMHvOfOWSyPRs5DzklJL"
     },
     {
       "album": {

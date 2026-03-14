@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Gorillaz
 
-5,322 songs - 12 day 20 hr 22 min
+5,323 songs - 12 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,6 +1066,7 @@
 | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/track/4VzyVdmjdy5ud6oqpGkA6j) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Endless Etude \(BEST WISHES TO ALL ver.\)](https://open.spotify.com/album/6G15tHXUBI9ajGjmVXWKjE) | 2:37 | 2024-01-21 | 2024-01-29 |
 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-07-02 | 2023-07-04 |
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-17 | 2023-07-31 |
+| [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 | 2026-03-12 |  |
 | [ENEMY](https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/1aHlLZFaxponNaGJMTWRUt) | 2:41 | 2025-08-07 | 2025-08-22 |
 | [Enough \(Miami\)](https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY) | 2:38 | 2024-03-21 | 2024-03-29 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-30 | 2023-08-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music! (Cover: SKINZ)",
-  "num_followers": 173263,
+  "num_followers": 173974,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
-        "name": "COLOR OUTSIDE THE LINES",
-        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "FaSHioN",
-      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
         "name": "Beat It Up",
         "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 200000,
       "name": "Beat It Up",
       "url": "https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
+        "name": "COLOR OUTSIDE THE LINES",
+        "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "FaSHioN",
+      "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
-        "name": "The Action",
-        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Hollywood Action",
-      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
         }
       ],
-      "duration_ms": 201122,
-      "name": "Pretty Savage",
-      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+      "duration_ms": 148000,
+      "name": "Hollywood Action",
+      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
-        "name": "LOVE DIVE",
-        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 177186,
-      "name": "LOVE DIVE",
-      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
+        "name": "LOVE DIVE",
+        "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "LOVE DIVE",
+      "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
-        "name": "SYNK : aeXIS LINE - 2025 Special Digital Single",
-        "url": "https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "GOOD STUFF - KARINA Solo",
-      "url": "https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
         "name": "Pretty Please",
         "url": "https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt"
       },
@@ -1211,38 +1195,6 @@
       "duration_ms": 204322,
       "name": "Pretty Please",
       "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
-        "name": "BORN PINK",
-        "url": "https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/6tCd8bPvYnceDG7W9M1RMk"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -1263,6 +1215,22 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/6tCd8bPvYnceDG7W9M1RMk"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -1279,6 +1247,22 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
+        "name": "SYNK : aeXIS LINE - 2025 Special Digital Single",
+        "url": "https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "GOOD STUFF - KARINA Solo",
+      "url": "https://open.spotify.com/track/19iJj3pCMwGxrA6pltPat3"
     },
     {
       "added_at": "2026-03-11 09:57:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-03-11 09:57:00",
       "album": {
-        "name": "I DO ME",
-        "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 190556,
-      "name": "I DO ME",
-      "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
-    },
-    {
-      "added_at": "2026-03-11 09:57:00",
-      "album": {
         "name": "minisode1 : Blue Hour",
         "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 209105,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
+    },
+    {
+      "added_at": "2026-03-11 09:57:00",
+      "album": {
+        "name": "I DO ME",
+        "url": "https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 190556,
+      "name": "I DO ME",
+      "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
     },
     {
       "added_at": "2026-03-11 09:57:00",

@@ -1,13 +1,61 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath",
-  "num_followers": 43604,
+  "num_followers": 43611,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmt7TreyE+k0scdAtRuAKWSPW9T",
+  "snapshot_id": "AAAAACvx1UxnMbCR0+VQs8kv4H0y+ymR",
   "tracks": [
+    {
+      "added_at": "2026-03-12 14:20:28",
+      "album": {
+        "name": "Tholi Prema",
+        "url": "https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "Anirudh Shandilya Maramraju",
+          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
+        }
+      ],
+      "duration_ms": 278117,
+      "name": "Tholi Prema",
+      "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"
+    },
+    {
+      "added_at": "2026-01-15 07:23:21",
+      "album": {
+        "name": "Haayi",
+        "url": "https://open.spotify.com/album/06zs6wqQSvQZFMZcOOxReV"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Anirudh Shandilya Maramraju",
+          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
+        }
+      ],
+      "duration_ms": 324166,
+      "name": "Haayi",
+      "url": "https://open.spotify.com/track/0rTQeRNV44kCFxUx53IJ2x"
+    },
     {
       "added_at": "2026-03-06 11:18:07",
       "album": {
@@ -20,9 +68,25 @@
           "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
         }
       ],
-      "duration_ms": 143606,
-      "name": "Raghava Thagavaa",
-      "url": "https://open.spotify.com/track/1ISeQVKqWK3TcUv8lycJSB"
+      "duration_ms": 257068,
+      "name": "Daari Maarina",
+      "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
+    },
+    {
+      "added_at": "2026-02-28 00:01:13",
+      "album": {
+        "name": "Vennela",
+        "url": "https://open.spotify.com/album/6xqTVfYYhITayEtXlVVadT"
+      },
+      "artists": [
+        {
+          "name": "Fleep & Arin",
+          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
+        }
+      ],
+      "duration_ms": 181552,
+      "name": "Vennela",
+      "url": "https://open.spotify.com/track/5WPphyuv7OeTyqeZ3KkJ5i"
     },
     {
       "added_at": "2026-02-14 00:30:30",
@@ -43,22 +107,6 @@
       "duration_ms": 243440,
       "name": "Taaraley",
       "url": "https://open.spotify.com/track/0RWppfpvEJg6ZKGzeJCezz"
-    },
-    {
-      "added_at": "2026-03-06 11:18:07",
-      "album": {
-        "name": "Vinamrata",
-        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
-      },
-      "artists": [
-        {
-          "name": "Sanskari",
-          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
-        }
-      ],
-      "duration_ms": 257068,
-      "name": "Daari Maarina",
-      "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
     },
     {
       "added_at": "2025-12-19 05:03:08",
@@ -97,20 +145,20 @@
       "url": "https://open.spotify.com/track/44QbjliCK9u4CTfcYX42XS"
     },
     {
-      "added_at": "2026-02-28 00:01:13",
+      "added_at": "2026-03-13 08:50:39",
       "album": {
-        "name": "Vennela",
-        "url": "https://open.spotify.com/album/6xqTVfYYhITayEtXlVVadT"
+        "name": "E Kshanamey",
+        "url": "https://open.spotify.com/album/2X2FUV5zUfGAEyjGdVYqOM"
       },
       "artists": [
         {
-          "name": "Fleep & Arin",
-          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
         }
       ],
-      "duration_ms": 181552,
-      "name": "Vennela",
-      "url": "https://open.spotify.com/track/5WPphyuv7OeTyqeZ3KkJ5i"
+      "duration_ms": 198532,
+      "name": "E Kshanamey",
+      "url": "https://open.spotify.com/track/6j5qKkJpWhRN88ltIAWlru"
     },
     {
       "added_at": "2026-02-28 00:01:13",
@@ -181,30 +229,6 @@
       "url": "https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8"
     },
     {
-      "added_at": "2026-03-12 14:20:28",
-      "album": {
-        "name": "Tholi Prema",
-        "url": "https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Suswaram",
-          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
-        },
-        {
-          "name": "Sterlin Nithya",
-          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
-        },
-        {
-          "name": "Anirudh Shandilya Maramraju",
-          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
-        }
-      ],
-      "duration_ms": 278117,
-      "name": "Tholi Prema",
-      "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"
-    },
-    {
       "added_at": "2026-02-20 09:03:20",
       "album": {
         "name": "Anaganaga Jasti",
@@ -243,6 +267,22 @@
       "duration_ms": 256212,
       "name": "Ooha Lokam",
       "url": "https://open.spotify.com/track/7EHaT6V6fkVc1ddrmgWqgI"
+    },
+    {
+      "added_at": "2026-03-13 08:50:39",
+      "album": {
+        "name": "Nene Chinnu",
+        "url": "https://open.spotify.com/album/0tv9lVe4udL0194E2tf7w8"
+      },
+      "artists": [
+        {
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+        }
+      ],
+      "duration_ms": 156269,
+      "name": "Nene Chinnu",
+      "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
     },
     {
       "added_at": "2025-12-05 06:33:44",
@@ -435,6 +475,22 @@
       "duration_ms": 196800,
       "name": "Vellipokey",
       "url": "https://open.spotify.com/track/3X5IkEiEdNzBMQNIyUxP0X"
+    },
+    {
+      "added_at": "2026-03-06 11:18:07",
+      "album": {
+        "name": "Vinamrata",
+        "url": "https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC"
+      },
+      "artists": [
+        {
+          "name": "Sanskari",
+          "url": "https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "Raghava Thagavaa",
+      "url": "https://open.spotify.com/track/1ISeQVKqWK3TcUv8lycJSB"
     },
     {
       "added_at": "2026-02-14 00:30:30",
@@ -805,30 +861,6 @@
       "url": "https://open.spotify.com/track/2JmQmd4T2qBayISYT7nShb"
     },
     {
-      "added_at": "2026-01-15 07:23:21",
-      "album": {
-        "name": "Haayi",
-        "url": "https://open.spotify.com/album/06zs6wqQSvQZFMZcOOxReV"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Anirudh Shandilya Maramraju",
-          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
-        }
-      ],
-      "duration_ms": 324166,
-      "name": "Haayi",
-      "url": "https://open.spotify.com/track/0rTQeRNV44kCFxUx53IJ2x"
-    },
-    {
       "added_at": "2025-12-26 05:54:30",
       "album": {
         "name": "Shores",
@@ -1101,26 +1133,6 @@
       "url": "https://open.spotify.com/track/2X171GMMznwh0UZr5QJ0gF"
     },
     {
-      "added_at": "2025-09-04 14:07:49",
-      "album": {
-        "name": "Chinni Chinni Chandamama",
-        "url": "https://open.spotify.com/album/20nG6atFv55rtC9uwBqyN2"
-      },
-      "artists": [
-        {
-          "name": "Soujanya Bhagavatula",
-          "url": "https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt"
-        },
-        {
-          "name": "Viswadeep",
-          "url": "https://open.spotify.com/artist/5wLbekCe5fytgQjDFG17el"
-        }
-      ],
-      "duration_ms": 212895,
-      "name": "Chinni Chinni Chandamama",
-      "url": "https://open.spotify.com/track/1nddFFScQAwpu7cW9ThUiB"
-    },
-    {
       "added_at": "2025-09-10 07:03:02",
       "album": {
         "name": "Malli",
@@ -1153,30 +1165,6 @@
       "url": "https://open.spotify.com/track/48qXwLDpUe1LySShTJ7mh5"
     },
     {
-      "added_at": "2025-09-05 11:12:35",
-      "album": {
-        "name": "Prema (From \"Loopd\")",
-        "url": "https://open.spotify.com/album/1jxoCUPZXc11AGp1DK7OFr"
-      },
-      "artists": [
-        {
-          "name": "Peddapalli Rohith (PR)",
-          "url": "https://open.spotify.com/artist/45m3peSZBkrwRhyxXGKUv0"
-        },
-        {
-          "name": "Junaid Kumar",
-          "url": "https://open.spotify.com/artist/2JDJv3xcqwBsCjeEL0oSTN"
-        },
-        {
-          "name": "Aishwarya Daruri",
-          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Prema (From \"Loopd\")",
-      "url": "https://open.spotify.com/track/6Q1CdUtTPYsEH97VFV2cHM"
-    },
-    {
       "added_at": "2025-10-23 11:37:31",
       "album": {
         "name": "Prasnalu",
@@ -1191,22 +1179,6 @@
       "duration_ms": 181729,
       "name": "Prasnalu",
       "url": "https://open.spotify.com/track/1jkpUejYSAt1pQj7tBxwfi"
-    },
-    {
-      "added_at": "2025-09-29 06:42:49",
-      "album": {
-        "name": "Premey",
-        "url": "https://open.spotify.com/album/2IBdSJj5qnyc6a0g0th2Qk"
-      },
-      "artists": [
-        {
-          "name": "Eknaath",
-          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
-        }
-      ],
-      "duration_ms": 285499,
-      "name": "Premey",
-      "url": "https://open.spotify.com/track/1ji8IVa3DutxiWbyixwj2i"
     },
     {
       "added_at": "2025-11-20 10:22:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,549 likes - 99 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,584 likes - 99 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 98 | [Keep On Growing \- Live](https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Keep On Growing \(Live\)](https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84) | 10:50 |
 | 99 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `AAAAABy2yrr51UXW3VLqlaVCXNnoNEgB`
+Snapshot ID: `AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J`

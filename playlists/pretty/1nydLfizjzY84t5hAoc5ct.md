@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,352 likes - 209 songs - 13 hr 10 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,352 likes - 210 songs - 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,5 +217,6 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 207 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
 | 208 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
 | 209 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
+| 210 | [These Dire Days](https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [These Dire Days](https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs) | 3:29 |
 
-Snapshot ID: `AAB1fWAg4rsNtBRxILa2yv9YZdoNHLyR`
+Snapshot ID: `AAB1fvbh09up1K8xh2UIFugXpUwj8q95`

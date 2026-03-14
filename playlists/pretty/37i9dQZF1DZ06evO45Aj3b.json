@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 99953,
+  "num_followers": 100047,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAABr+yMJHsjBscy8fB67OICX",
+  "snapshot_id": "abICAAAAAAAL6P1Y0jRd4e6XI1dO4DqW",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 133560,
+      "name": "She Wants My Money",
+      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 133560,
-      "name": "She Wants My Money",
-      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
     },
     {
       "added_at": null,
@@ -671,26 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
       "artists": [
         {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
         }
       ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
+      "duration_ms": 121630,
+      "name": "1.23.23",
+      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
     },
     {
       "added_at": null,
@@ -711,18 +703,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
       },
       "artists": [
         {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
         }
       ],
-      "duration_ms": 121630,
-      "name": "1.23.23",
-      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
     },
     {
       "added_at": null,

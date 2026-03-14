@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "High & Dry",
+        "url": "https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh"
+      },
+      "artists": [
+        {
+          "name": "Altered Edge",
+          "url": "https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "High & Dry",
+      "url": "https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip"
+    },
+    {
+      "album": {
         "name": "Seasons In Exile",
         "url": "https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9"
       },
@@ -2540,6 +2558,24 @@
       "duration_ms": 230253,
       "name": "My Own World",
       "url": "https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC"
+    },
+    {
+      "album": {
+        "name": "MY SONG",
+        "url": "https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C"
+      },
+      "artists": [
+        {
+          "name": "Lonewolves in Paradise",
+          "url": "https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164227,
+      "name": "MY SONG",
+      "url": "https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk"
     },
     {
       "album": {
@@ -4144,6 +4180,24 @@
       "duration_ms": 268000,
       "name": "Trampeltier",
       "url": "https://open.spotify.com/track/6wsAvwlXPQLyEUeItX417g"
+    },
+    {
+      "album": {
+        "name": "Trattore elettrico",
+        "url": "https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq"
+      },
+      "artists": [
+        {
+          "name": "001 BEST",
+          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219605,
+      "name": "Trattore elettrico",
+      "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
     },
     {
       "album": {

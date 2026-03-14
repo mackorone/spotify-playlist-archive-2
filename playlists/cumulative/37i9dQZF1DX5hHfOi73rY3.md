@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-278 songs - 18 hr 47 min
+278 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Get Out My Head](https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [Get Out My Head](https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw) | 3:44 | 2020-11-06 | 2022-12-02 |
 | [Get Out My Head](https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [New Year's Eve Party 2022](https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j) | 3:44 | 2020-11-06 | 2023-12-16 |
 | [Get Stupid](https://open.spotify.com/track/7aFgh0G0BusHzC6gex4wP8) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Get Stupid](https://open.spotify.com/album/1dwyGuNYnXdHnwhfDmdIgK) | 3:02 | 2024-04-05 | 2025-08-08 |
+| [Give Yourself To Me](https://open.spotify.com/track/6VSDyFdqDDouYRQEIBM5pY) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Give Yourself To Me](https://open.spotify.com/album/1nWNxaqAjN0XfhFgYhJGBd) | 5:47 | 2026-03-13 |  |
 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 | 2024-01-12 |  |
 | [Gold Touch](https://open.spotify.com/track/3uyVVGJZxiTL2CkfufthDP) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Gold Touch](https://open.spotify.com/album/1luUub9pWlHNLOKojdhFFN) | 2:25 | 2024-10-25 | 2025-05-31 |
 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 | 2024-01-12 |  |
@@ -253,7 +254,6 @@
 | [Tidal Wave](https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 3:48 | 2020-11-06 | 2024-01-18 |
 | [Time](https://open.spotify.com/track/2HOMVMnOukowkziBJZyf7o) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:20 | 2020-11-06 | 2024-04-05 |
 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 | 2024-03-01 | 2025-04-06 |
-| [Track 1](https://open.spotify.com/track/6VSDyFdqDDouYRQEIBM5pY) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Give Yourself To Me](https://open.spotify.com/album/1nWNxaqAjN0XfhFgYhJGBd) | 0:00 | 2026-03-13 |  |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-07-05 | 2024-10-29 |
 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-07-03 |  |
 | [Turn off the Lights](https://open.spotify.com/track/7dsImih2L25fa6qjNphBI7) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Turn off the Lights](https://open.spotify.com/album/132voEBLKSWmTV959PQuiC) | 3:30 | 2020-11-06 | 2024-04-05 |

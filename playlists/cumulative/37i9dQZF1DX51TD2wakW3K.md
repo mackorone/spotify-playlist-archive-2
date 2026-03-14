@@ -2,7 +2,7 @@
 
 ### [Women of Punk](https://open.spotify.com/playlist/37i9dQZF1DX51TD2wakW3K)
 
-> The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: The Linda Lindas
+> The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
 101 songs - 4 hr 59 min
 

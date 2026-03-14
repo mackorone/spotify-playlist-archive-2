@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73172,
+  "num_followers": 73171,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "The Power (15 Year Anniversary Re-Issue)",
+        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Absolutely Everybody",
+      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Slideshows",
         "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 256389,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "The Power (15 Year Anniversary Re-Issue)",
-        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amorosi",
-          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Absolutely Everybody",
-      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "That's What I'm Talking About",
-        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
-      },
-      "artists": [
-        {
-          "name": "Shannon Noll",
-          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "What About Me",
-      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Live By The Words",
         "url": "https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 187037,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "That's What I'm Talking About",
+        "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
+      },
+      "artists": [
+        {
+          "name": "Shannon Noll",
+          "url": "https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "What About Me",
+      "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
     },
     {
       "added_at": "2024-08-05 06:00:58",

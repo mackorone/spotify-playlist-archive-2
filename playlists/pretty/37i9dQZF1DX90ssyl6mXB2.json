@@ -1,13 +1,29 @@
 {
-  "description": "late night vibes \u2013 notifications off. cover: Devin Donnell",
-  "num_followers": 176042,
+  "description": "late night vibes \u2013 notifications off. cover: Pimmie",
+  "num_followers": 176048,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEWUsyt8f9o3Mqw8+PQnWvg8LNw",
+  "snapshot_id": "AAAAAFggGdCSxsK8AVB5+EAY/mh0WvmN",
   "tracks": [
+    {
+      "added_at": "2026-03-13 06:41:19",
+      "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 122033,
+      "name": "Bet",
+      "url": "https://open.spotify.com/track/0enY45J98M1RzRd01DaQDP"
+    },
     {
       "added_at": "2026-02-27 19:28:08",
       "album": {
@@ -43,6 +59,22 @@
       "duration_ms": 163800,
       "name": "WANTFROMME",
       "url": "https://open.spotify.com/track/2Xi5XcyDAq39wRcbxSHMqo"
+    },
+    {
+      "added_at": "2026-03-13 06:41:19",
+      "album": {
+        "name": "Who Is It",
+        "url": "https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Who Is It",
+      "url": "https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD"
     },
     {
       "added_at": "2026-02-06 07:46:38",
@@ -93,20 +125,36 @@
       "url": "https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF"
     },
     {
-      "added_at": "2026-02-27 19:28:08",
+      "added_at": "2026-03-13 06:41:19",
       "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT"
+        "name": "TABOO",
+        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
       },
       "artists": [
         {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 146363,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
+    },
+    {
+      "added_at": "2026-01-16 05:00:39",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/7dzn4ykqrLk9mUDUbBNLbc"
+      },
+      "artists": [
+        {
+          "name": "Vikter",
+          "url": "https://open.spotify.com/artist/65ydOnRlyOCY3VQ0UdpgF9"
+        }
+      ],
+      "duration_ms": 91016,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4RXgPujZmgl901y537UDsn"
     },
     {
       "added_at": "2025-11-21 10:25:58",
@@ -183,6 +231,22 @@
       "duration_ms": 173108,
       "name": "Ain't Mine (feat. Aaron Page)",
       "url": "https://open.spotify.com/track/3cFhs8Gc6zWdAAw5xHAFeB"
+    },
+    {
+      "added_at": "2026-03-13 06:41:19",
+      "album": {
+        "name": "Love Games",
+        "url": "https://open.spotify.com/album/3EW9montqzJB3SE77Btgtc"
+      },
+      "artists": [
+        {
+          "name": "Larrenwong",
+          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
+        }
+      ],
+      "duration_ms": 153612,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/71oaf11CBiDgpI9wbjkVtD"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -277,20 +341,20 @@
       "url": "https://open.spotify.com/track/5tfbPQ9xEeLgMXsA6KmCBP"
     },
     {
-      "added_at": "2026-01-16 05:00:39",
+      "added_at": "2026-02-27 19:28:08",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/7dzn4ykqrLk9mUDUbBNLbc"
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT"
       },
       "artists": [
         {
-          "name": "Vikter",
-          "url": "https://open.spotify.com/artist/65ydOnRlyOCY3VQ0UdpgF9"
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         }
       ],
-      "duration_ms": 91016,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4RXgPujZmgl901y537UDsn"
+      "duration_ms": 146363,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
     },
     {
       "added_at": "2026-02-27 19:28:08",
@@ -363,6 +427,22 @@
       "duration_ms": 117460,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/250EPvE8NZiTdFoJoU4sSO"
+    },
+    {
+      "added_at": "2026-03-13 06:41:19",
+      "album": {
+        "name": "Windy City",
+        "url": "https://open.spotify.com/album/34FuhixnYHP0j2Mzsh4E23"
+      },
+      "artists": [
+        {
+          "name": "EB3N",
+          "url": "https://open.spotify.com/artist/3BwAAR1uCuMrml0o8WnjNu"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "Windy City",
+      "url": "https://open.spotify.com/track/0fmUlY2MQ1N1nt1dZhvqqk"
     },
     {
       "added_at": "2026-01-16 05:00:39",
@@ -609,22 +689,6 @@
       "url": "https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa"
     },
     {
-      "added_at": "2025-11-14 10:00:24",
-      "album": {
-        "name": "CHIMERA",
-        "url": "https://open.spotify.com/album/1UnCEaAlhuec1c1Nbu4rNC"
-      },
-      "artists": [
-        {
-          "name": "Nobu Woods",
-          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "REMORSE",
-      "url": "https://open.spotify.com/track/4hfvaj1yg3EJdIty9fyvzv"
-    },
-    {
       "added_at": "2025-11-07 05:44:54",
       "album": {
         "name": "strip",
@@ -755,38 +819,6 @@
       "duration_ms": 186788,
       "name": "CONTAGIOUS",
       "url": "https://open.spotify.com/track/4L2Vv8QvsO4jfMPG3luF3z"
-    },
-    {
-      "added_at": "2025-11-07 05:44:54",
-      "album": {
-        "name": "Old Me",
-        "url": "https://open.spotify.com/album/5WfbbIDRiUQOBQ2E6Sqi8g"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 217524,
-      "name": "Old Me",
-      "url": "https://open.spotify.com/track/6cuJsVA2GrUZDHP2cYnD1f"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "passion",
-        "url": "https://open.spotify.com/album/1S9iWjgq8VvkX3XC2F70iN"
-      },
-      "artists": [
-        {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
-        }
-      ],
-      "duration_ms": 183202,
-      "name": "passion",
-      "url": "https://open.spotify.com/track/2aersOe3Pcs4OIZQyziEIM"
     },
     {
       "added_at": "2025-10-17 05:28:56",
@@ -1633,22 +1665,6 @@
       "url": "https://open.spotify.com/track/4G0bpzDl8vZ8yzB6ePI38w"
     },
     {
-      "added_at": "2025-04-25 07:33:12",
-      "album": {
-        "name": "LOVE ON DIGITAL",
-        "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 141473,
-      "name": "FMU!",
-      "url": "https://open.spotify.com/track/3Izei1L5dRVIS7tgpEMG7x"
-    },
-    {
       "added_at": "2025-06-13 04:00:40",
       "album": {
         "name": "Torrential",
@@ -2317,26 +2333,6 @@
       "url": "https://open.spotify.com/track/2YiRMyG1lDI6UCbztq44Gi"
     },
     {
-      "added_at": "2025-01-17 04:00:17",
-      "album": {
-        "name": "Made Me This Way",
-        "url": "https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "alan vuong",
-          "url": "https://open.spotify.com/artist/256TfrxYSmwLQ8eA3mNfcY"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj"
-    },
-    {
       "added_at": "2024-12-20 06:18:13",
       "album": {
         "name": "body2body",
@@ -2545,22 +2541,6 @@
       "url": "https://open.spotify.com/track/3VRHouNm2rxSWm8IThc5YF"
     },
     {
-      "added_at": "2024-07-26 08:11:06",
-      "album": {
-        "name": "Tempt Me",
-        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Tempt Me",
-      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
-    },
-    {
       "added_at": "2024-10-25 07:06:00",
       "album": {
         "name": "Dangerously In Love",
@@ -2691,22 +2671,6 @@
       "duration_ms": 120461,
       "name": "ttuctmd",
       "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "R e a l W o m a n",
-        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "R e a l W o m a n",
-      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2923,22 +2887,6 @@
       "duration_ms": 213636,
       "name": "You (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
-    },
-    {
-      "added_at": "2024-02-02 11:56:17",
-      "album": {
-        "name": "What You Heard",
-        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 238242,
-      "name": "What You Heard",
-      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
     }
   ],
   "unique_name": "DND.",

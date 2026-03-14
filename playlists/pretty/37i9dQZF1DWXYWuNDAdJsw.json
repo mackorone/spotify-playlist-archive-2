@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1008099,
+  "num_followers": 1008070,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,34 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
+        "name": "Sola (Remix)",
+        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
       "artists": [
         {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 242390,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
+      "duration_ms": 307910,
+      "name": "Sola (Remix)",
+      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -211,34 +223,22 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "Sola (Remix)",
-        "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
+        "name": "Nuevas Metas",
+        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Eddy Lover",
+          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
         }
       ],
-      "duration_ms": 307910,
-      "name": "Sola (Remix)",
-      "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
+      "duration_ms": 242390,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
+        "name": "La Promesa",
+        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 238033,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 201122,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
-        "name": "La Promesa",
-        "url": "https://open.spotify.com/album/0vBFa64sBqdd26KKIj4SKZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 238033,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/5ESAML4PZAbsiTK6OgRV2q"
     },
     {
       "added_at": "2025-09-15 06:35:04",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-09-15 06:35:04",
       "album": {
-        "name": "CONTINGENTE",
-        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 219183,
-      "name": "CONTINGENTE",
-      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
-    },
-    {
-      "added_at": "2025-09-15 06:35:04",
-      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 264483,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0"
+    },
+    {
+      "added_at": "2025-09-15 06:35:04",
+      "album": {
+        "name": "CONTINGENTE",
+        "url": "https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 219183,
+      "name": "CONTINGENTE",
+      "url": "https://open.spotify.com/track/5k0iAYwThkoMh9LzFihATe"
     },
     {
       "added_at": "2025-09-15 06:35:04",

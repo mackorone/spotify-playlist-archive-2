@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 104 | [AMÉN BEBÉ](https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:31 |
 | 105 | [Mojito](https://open.spotify.com/track/7mvPlujEQ3p8G74r982CN2) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:53 |
 | 106 | [Policía](https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Policía](https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY) | 2:52 |
-| 107 | [My Man](https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man](https://open.spotify.com/album/2ijwTbKXn46QZEfekW01fC) | 2:57 |
-| 108 | [GUAPA](https://open.spotify.com/track/6ITr6ssOIerjd3azRaL7A8) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
+| 107 | [GUAPA](https://open.spotify.com/track/6ITr6ssOIerjd3azRaL7A8) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
+| 108 | [My Man](https://open.spotify.com/track/3jLVBJpnTVkBHMWXHZAa3F) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [My Man](https://open.spotify.com/album/2ijwTbKXn46QZEfekW01fC) | 2:57 |
 | 109 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 |
 | 110 | [TE CONOZCO](https://open.spotify.com/track/0MrTHUbjsHRC8sMrfLBd65) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:48 |
 | 111 | [Picachu](https://open.spotify.com/track/47okf9FXUNLHknAwoMI1L4) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Picachu](https://open.spotify.com/album/40xnE58mcngMBNfqCYM99U) | 2:47 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 175 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 176 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AcL91AAAAABtvomcbAjkr1B11jwecilu`
+Snapshot ID: `AcMDagAAAAAgMzuX1M1mcr569JG6b8qF`

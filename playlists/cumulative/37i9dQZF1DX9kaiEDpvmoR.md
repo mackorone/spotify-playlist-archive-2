@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-514 songs - 1 day 6 hr 12 min
+515 songs - 1 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 | 2024-12-05 | 2025-05-16 |
 | [Hälften av han](https://open.spotify.com/track/0KALl4TnIi1k6JbKlmDpDl) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Hälften av han](https://open.spotify.com/album/5YQBLNQ1OT9pbLlw2aiJXY) | 2:25 | 2025-05-15 | 2025-05-30 |
 | [Hälsingevind](https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq) | [Engmans Kapell](https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v), [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Hälsingevind](https://open.spotify.com/album/0SqezURYw039gJ7livqLby) | 4:47 | 2025-07-10 |  |
+| [Hökvind](https://open.spotify.com/track/6EjYa0k1UBaSx6lMg6kZBB) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [Hökvind](https://open.spotify.com/album/7cVQz9yUVtm6RGhFkd7rQe) | 7:10 | 2026-03-12 |  |
 | [Hör mig!](https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [En sång till Selma](https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp) | 3:58 | 2025-04-22 | 2025-08-12 |
 | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz), [Frida Andersson](https://open.spotify.com/artist/6DkxCz6NFKTUoMUKJwZ0dR) | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1) | 3:08 | 2024-06-27 | 2024-08-09 |
 | [I Don't Know How to Love You Anymore](https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [I Don't Know How to Love You Anymore](https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA) | 3:53 | 2025-12-18 | 2026-03-04 |
@@ -387,7 +388,7 @@
 | [Siljans strand](https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Siljans strand / Midsommarvisa](https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw) | 3:46 | 2024-06-27 | 2024-09-13 |
 | [Silverregn](https://open.spotify.com/track/11CMU3PNUeEEgcQHhPEY1R) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Silverregn / Återvänd till mig](https://open.spotify.com/album/3bjCpMeIMjPV9t4twZoa95) | 5:54 | 2025-01-23 | 2026-02-09 |
 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 | 2025-01-16 | 2025-05-30 |
-| [Sjung Sjung](https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM) | [Lili & Susie](https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK) | [Sjung Sjung](https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh) | 3:13 | 2025-11-13 |  |
+| [Sjung Sjung](https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM) | [Lili & Susie](https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK) | [Sjung Sjung](https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh) | 3:13 | 2025-11-13 | 2026-03-14 |
 | [Skin and Bones](https://open.spotify.com/track/7ix2pCDHtX8WZcmWWKJZOU) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Where Flowers Grow](https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm) | 3:18 | 2024-11-08 | 2025-05-16 |
 | [Skönheten och odjuret](https://open.spotify.com/track/4GRpxB5acnIxYVfYwMkD18) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Skönheten och odjuret](https://open.spotify.com/album/3rYdH9DNXbIbhqANB6QPeO) | 3:00 | 2025-09-11 |  |
 | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/track/5puE0tlsaUSm5zxqBc8mkl) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt) | [Slå upp dina fönster \(musik för sorgfyllda bröst\)](https://open.spotify.com/album/5g5O50A5IQhBppY1hcaIEe) | 4:31 | 2025-05-19 | 2025-06-03 |

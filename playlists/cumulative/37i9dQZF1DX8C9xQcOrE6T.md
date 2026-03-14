@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-262 songs - 13 hr 21 min
+263 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [The Aristocats](https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Songs From The Aristocats](https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z) | 2:20 | 2022-05-26 | 2025-10-18 |
 | [The Ballad of the Witches' Road \(Sacred Chant Version\)](https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg) | [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Sasheer Zamata](https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ), [Ali Ahn](https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X), [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944), [Debra Jo Rupp](https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo), [Agatha All Along \- Cast](https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD) | [Songs from Agatha All Along \(Episodes 1 & 2\)](https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG) | 3:17 | 2024-10-17 | 2025-03-07 |
 | [The Bare Necessities](https://open.spotify.com/track/7h5crXBSY5SSpXRIlklv74) | [Phil Harris](https://open.spotify.com/artist/2ISMfPtVzHc9jDDVPUEHDa), [Bruce Reitherman](https://open.spotify.com/artist/43HPW60tz4BMYMRnmXMagJ) | [The Jungle Book](https://open.spotify.com/album/7zdZNXoapFcOW663zgLdOE) | 4:51 | 2022-04-01 |  |
+| [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 | 2026-03-13 |  |
 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 | 2024-12-17 |  |
 | [The Family Madrigal](https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp) | [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr), [Olga Merediz](https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX), [Encanto \- Cast](https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:17 | 2022-04-01 | 2025-11-14 |
 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2025-06-06 | 2025-08-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Piso 21 y Yami Safdie en portada.",
+  "description": "El amor no se escucha, se siente...  \ud83d\udc96 Alejandra Guzm\u00e1n en portada.",
   "name": "Radio Coraz\u00f3n",
   "tracks": [
     {
@@ -611,6 +611,28 @@
     },
     {
       "album": {
+        "name": "ALIENS",
+        "url": "https://open.spotify.com/album/4GYUSdvlM3XEZUmekBBRtJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170805,
+      "name": "ALIENS",
+      "url": "https://open.spotify.com/track/3XqtFjnJGnFd7S6ItomaZ7"
+    },
+    {
+      "album": {
         "name": "Alma De Mi Alma",
         "url": "https://open.spotify.com/album/7Fi62vFhahgd2WiK9OpPtv"
       },
@@ -1050,7 +1072,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192020,
       "name": "Antes De Que El Mundo Se Acabe",
       "url": "https://open.spotify.com/track/5rEiFEMZsfptjF6svSHc27"
@@ -1282,7 +1304,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 157080,
       "name": "Bajo La Mesa",
       "url": "https://open.spotify.com/track/7BEPdOI0neT6p7PnLViqmH"
@@ -1460,6 +1482,24 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/6H8rcTgZWzToKfbmfvs8O5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6oxQmC3ERP7opliIZAS5fF"
     },
     {
       "album": {
@@ -3479,6 +3519,28 @@
     },
     {
       "album": {
+        "name": "El Migas",
+        "url": "https://open.spotify.com/album/6Sa48lyofwXtlwyK6WKv4q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Licenciado Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "El Migas",
+      "url": "https://open.spotify.com/track/5wb7ZyhoZUary5rD7CHH6N"
+    },
+    {
+      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -3610,7 +3672,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
@@ -5538,7 +5600,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204861,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/1heIify4NygHEzqrozuVKK"
@@ -6018,6 +6080,24 @@
       "duration_ms": 202799,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
+    },
+    {
+      "album": {
+        "name": "manual",
+        "url": "https://open.spotify.com/album/0cnbDJoRAQoWiW6o6UUku5"
+      },
+      "artists": [
+        {
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166624,
+      "name": "manual",
+      "url": "https://open.spotify.com/track/7u0v3lSE4X6w1jdJTULuv3"
     },
     {
       "album": {
@@ -7701,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "Temporal",
+        "url": "https://open.spotify.com/album/5teXRLlvRFo97NMuCKBMdl"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258753,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/5T0SLV855jjseFhWnFedHW"
+    },
+    {
+      "album": {
         "name": "Pecadora",
         "url": "https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl"
       },
@@ -8632,7 +8730,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182475,
       "name": "Rollitos de Papel",
       "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
@@ -10194,7 +10292,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 185785,
       "name": "tembl\u00f3",
       "url": "https://open.spotify.com/track/2rhdqHEsYc4iJKqt9q5ywP"
@@ -10982,6 +11080,24 @@
       "duration_ms": 158146,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
+    },
+    {
+      "album": {
+        "name": "Viernes Violentos",
+        "url": "https://open.spotify.com/album/0X4UWjhWXPXrFVORK5nOQV"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "Viernes Violentos",
+      "url": "https://open.spotify.com/track/0obKMdBzaCNeJQY2bIfz6d"
     },
     {
       "album": {

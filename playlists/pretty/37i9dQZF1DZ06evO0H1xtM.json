@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 368778,
+  "num_followers": 368864,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAC55rmAZbtKo3MAdRXVvN5P",
+  "snapshot_id": "abICAAAAAADTwFf8opeErdmYKvyjoZJ6",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Guerita",
-        "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 184165,
-      "name": "La Guerita",
-      "url": "https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/5qUKBY3uF5adXBiWfEQvBA"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 234734,
       "name": "El Doctor",
       "url": "https://open.spotify.com/track/2LbzI8ZFmjmZ0BcIriUyaw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Guerita",
+        "url": "https://open.spotify.com/album/5rlkSYkSIuJQ6Kycoo5pPi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 184165,
+      "name": "La Guerita",
+      "url": "https://open.spotify.com/track/3ScaLvfm2RJvLaXETbIYut"
     },
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Darme Explicacion",
-        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Sin Darme Explicacion",
-      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 144932,
       "name": "Pobre No",
       "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Darme Explicacion",
+        "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Sin Darme Explicacion",
+      "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
     },
     {
       "added_at": null,
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+        "name": "Pasado Pisado (En Vivo)",
+        "url": "https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
+      "duration_ms": 156597,
+      "name": "Pasado Pisado (En Vivo)",
+      "url": "https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN"
     },
     {
       "added_at": null,
@@ -443,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pasado Pisado (En Vivo)",
-        "url": "https://open.spotify.com/album/6JXeoZRPoTaa58ESqnEQdz"
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 156597,
-      "name": "Pasado Pisado (En Vivo)",
-      "url": "https://open.spotify.com/track/0UOC6WyT7l1hFAj3J8iliN"
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1gico El Sue\u00f1o",
         "url": "https://open.spotify.com/album/3RIMaNcCUCGWmJNXbAR4ol"
       },
@@ -803,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/4tJptJsd5EYHQUedAR8i9J"
       },
       "artists": [
         {
           "name": "Grupo Marca Registrada",
           "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
         }
       ],
-      "duration_ms": 176903,
-      "name": "El Primo",
-      "url": "https://open.spotify.com/track/13kE65qNSOfOCek24303WY"
+      "duration_ms": 200411,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/0dabIbQCTptfYxECwfO0Vb"
     },
     {
       "added_at": null,
@@ -843,6 +823,26 @@
       "duration_ms": 168251,
       "name": "El Apache (En Vivo)",
       "url": "https://open.spotify.com/track/52t4lVf9K57XzwvDAT2U9r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 176903,
+      "name": "El Primo",
+      "url": "https://open.spotify.com/track/13kE65qNSOfOCek24303WY"
     },
     {
       "added_at": null,

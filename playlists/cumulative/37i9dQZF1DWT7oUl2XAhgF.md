@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-590 songs - 1 day 11 hr 25 min
+591 songs - 1 day 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 | 2023-01-27 | 2023-10-21 |
 | [Defence](https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Defence EP](https://open.spotify.com/album/3tTvRrOthZJ5w7gEwXRuo0) | 4:39 | 2024-05-24 | 2025-12-13 |
 | [Deja Vu](https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Deja Vu](https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9) | 2:42 | 2023-07-14 | 2025-02-08 |
-| [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 | 2024-06-07 |  |
+| [Desperate For Love](https://open.spotify.com/track/5GArZVXDLrhpGYqvtifNPP) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [Desperate For Love](https://open.spotify.com/album/0p1KhvYBw0k7Cql2vkT0io) | 3:14 | 2024-06-07 | 2026-03-14 |
 | [Diamond Violence](https://open.spotify.com/track/5txRJup3ndKlzrapHKQyAp) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if) | [Diamond Violence](https://open.spotify.com/album/4HNPUulBgryvb3GMgfSHrl) | 5:03 | 2022-09-16 | 2022-09-24 |
 | [Digging up Graves](https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B) | [Karen Lee Andrews](https://open.spotify.com/artist/3GBnhIpKY4jSuD6uAKxN20) | [EDIN](https://open.spotify.com/album/50py568QonJj2aTffsp4Qm) | 3:43 | 2022-10-07 | 2022-11-12 |
 | [Do It All Again](https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Do It All Again](https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04) | 3:00 | 2024-09-06 | 2026-01-31 |
@@ -511,6 +511,7 @@
 | [Things Gotta Change](https://open.spotify.com/track/5aOeaLKF1v0CEDv7GRxsJv) | [Sladek](https://open.spotify.com/artist/23HWMd1bp9eo2D8ChMuq57) | [Things Gotta Change](https://open.spotify.com/album/3PfPnsS5YuLWENdvNg2QyO) | 3:03 | 2025-10-24 |  |
 | [This Could Last Forever](https://open.spotify.com/track/1KJLEv9rznKlMnBOG1ofPk) | [The Sextones](https://open.spotify.com/artist/3cXcKlLqfzaqFq80D7RCWu) | [Love Can't Be Borrowed](https://open.spotify.com/album/58xH0DrDeYp9eknc0gY6b0) | 3:57 | 2023-09-29 | 2024-04-19 |
 | [This Could Last Forever](https://open.spotify.com/track/4QvXMdjbpYKw86TDFFmXlI) | [The Sextones](https://open.spotify.com/artist/3cXcKlLqfzaqFq80D7RCWu) | [Love Can't Be Borrowed](https://open.spotify.com/album/4lVwQRcEyiifhaQRhyv0w0) | 3:57 | 2023-09-29 | 2025-10-18 |
+| [This Feelin'](https://open.spotify.com/track/7fZi9X5RGmoCKNMRtJN9in) | [Charlotte Colace](https://open.spotify.com/artist/3LAiKQXxGsQWRFfmKqHyXd) | [No Way But Through](https://open.spotify.com/album/2h7iQYlbNpEVAZjNUVuN3n) | 2:09 | 2026-03-13 |  |
 | [This Is The Day \- Full Band Version](https://open.spotify.com/track/75E9k76b255fUk9iSUqkG9) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [This Is The Day \(Full Band Version\)](https://open.spotify.com/album/6HIzNiydjxIffCg5TGxwBj) | 4:42 | 2021-12-03 | 2023-09-09 |
 | [This Is What Love Looks Like!](https://open.spotify.com/track/3i6lezqE0uwBZzA7jkjx7T) | [Carlton Jumel Smith](https://open.spotify.com/artist/0jbXsyUAMmaJHGgF8g8HZy), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [1634 Lexington Avenue](https://open.spotify.com/album/2gpYieu51skFa8dRdHWf75) | 3:49 | 2021-07-09 | 2022-07-29 |
 | [This Time](https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now) | 3:48 | 2022-10-15 | 2022-10-22 |

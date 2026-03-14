@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Emyrson Flora",
-  "num_followers": 219036,
+  "num_followers": 219041,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJRvV4rTQbfUXOwRLszXKi9MD6CK",
+  "snapshot_id": "AAAAAEjHgKpS6OoFnn1FZunx5l0C0g5d",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:17",
@@ -23,6 +23,54 @@
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
+    },
+    {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "teach you to love me",
+        "url": "https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 189192,
+      "name": "teach you to love me",
+      "url": "https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL"
+    },
+    {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "duration_ms": 250883,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
+    },
+    {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "You Don't Really Like Me",
+        "url": "https://open.spotify.com/album/2BocWiE6BIzA7yjOQCUxvS"
+      },
+      "artists": [
+        {
+          "name": "Emma Andersen",
+          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
+        }
+      ],
+      "duration_ms": 166221,
+      "name": "You Don't Really Like Me",
+      "url": "https://open.spotify.com/track/5aSEbL2JKTt9qoHZRpW5kT"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs"
     },
     {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
+    },
+    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "ALICE",
@@ -87,6 +151,22 @@
       "duration_ms": 246322,
       "name": "One For The Road",
       "url": "https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru"
+    },
+    {
+      "added_at": "2026-03-13 04:00:44",
+      "album": {
+        "name": "It's Not You It's Him",
+        "url": "https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "duration_ms": 169872,
+      "name": "It's Not You It's Him",
+      "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -167,22 +247,6 @@
       "duration_ms": 185629,
       "name": "Ashes & Smoke",
       "url": "https://open.spotify.com/track/5z4vkBqAyhYRksxBdaFRYP"
-    },
-    {
-      "added_at": "2026-02-06 14:38:25",
-      "album": {
-        "name": "double edged sword",
-        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "double edged sword",
-      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -617,22 +681,6 @@
       "url": "https://open.spotify.com/track/2RcoaVM1NDa0ZLwxQzMTl3"
     },
     {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Baby Just Be",
-        "url": "https://open.spotify.com/album/7FQvxpYqB5FSr34Fi6JFgZ"
-      },
-      "artists": [
-        {
-          "name": "Hudson Ingram",
-          "url": "https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo"
-        }
-      ],
-      "duration_ms": 226244,
-      "name": "Baby Just Be",
-      "url": "https://open.spotify.com/track/3500z3pULXj7gW4xP7TnvF"
-    },
-    {
       "added_at": "2025-11-21 05:00:30",
       "album": {
         "name": "Alcohol",
@@ -665,22 +713,6 @@
       "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
     },
     {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "nobody cares",
-        "url": "https://open.spotify.com/album/12X2X5Jezr8aKMmn7eiFqp"
-      },
-      "artists": [
-        {
-          "name": "natalie jinju",
-          "url": "https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu"
-        }
-      ],
-      "duration_ms": 168864,
-      "name": "nobody cares",
-      "url": "https://open.spotify.com/track/4U8hzIkAh6cNEvbYF435Cn"
-    },
-    {
       "added_at": "2026-01-06 19:25:50",
       "album": {
         "name": "Blood On Your Hands",
@@ -695,22 +727,6 @@
       "duration_ms": 183354,
       "name": "Blood On Your Hands",
       "url": "https://open.spotify.com/track/1Fpddj7WijZoyPLhPhHIUu"
-    },
-    {
-      "added_at": "2026-01-16 05:00:31",
-      "album": {
-        "name": "Lost in LA",
-        "url": "https://open.spotify.com/album/0lSD9LGgmhcLMiCqhkCEiV"
-      },
-      "artists": [
-        {
-          "name": "Jordan Anthony",
-          "url": "https://open.spotify.com/artist/5Ec9nF9JPvOgcpQv8NlNay"
-        }
-      ],
-      "duration_ms": 205941,
-      "name": "Lost in LA",
-      "url": "https://open.spotify.com/track/1C1BSzlhjqAE3SMSXjV8N0"
     },
     {
       "added_at": "2025-12-05 05:55:17",
@@ -871,22 +887,6 @@
       "duration_ms": 240944,
       "name": "Eventually",
       "url": "https://open.spotify.com/track/7A9yawxyZYDQv3LklNUOUU"
-    },
-    {
-      "added_at": "2025-11-14 05:00:36",
-      "album": {
-        "name": "Triple Shooting Star",
-        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 238641,
-      "name": "Fuck Up",
-      "url": "https://open.spotify.com/track/2VqTaE9U6JIbOMXuHYyCYT"
     },
     {
       "added_at": "2025-11-07 05:30:58",

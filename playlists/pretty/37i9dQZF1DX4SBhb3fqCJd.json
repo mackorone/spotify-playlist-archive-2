@@ -1,12 +1,12 @@
 {
   "description": "Where R&B lives. Cover: Jill Scott",
-  "num_followers": 6111545,
+  "num_followers": 6111349,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANmCKw9Qej15tawcrtmuV4WTb7Me",
+  "snapshot_id": "AAAAALrYQadr5mcjo6HoejK5ka4I6Tij",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:35",
@@ -161,24 +161,24 @@
       "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
     },
     {
-      "added_at": "2026-02-27 05:00:35",
+      "added_at": "2026-03-13 04:00:55",
       "album": {
-        "name": "Me My Songs & I",
-        "url": "https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu"
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
       },
       "artists": [
         {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
         },
         {
-          "name": "Paradise",
-          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 217694,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
+      "duration_ms": 187096,
+      "name": "Need it Bad (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr"
     },
     {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "Icon",
@@ -383,18 +399,22 @@
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
-        "name": "Solace & The Vices",
-        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+        "name": "Me My Songs & I",
+        "url": "https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        },
+        {
+          "name": "Paradise",
+          "url": "https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto"
         }
       ],
-      "duration_ms": 204308,
-      "name": "Star Signs",
-      "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
+      "duration_ms": 217694,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -415,6 +435,26 @@
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "COCONUT (feat. Eem Triplin)",
+        "url": "https://open.spotify.com/album/0Im4IaqoDeBrrirauvS1PA"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "COCONUT (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/2DCn53M2gsirVc2wybtByF"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -451,26 +491,6 @@
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
-        "name": "CONCUBANIA",
-        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
-      },
-      "artists": [
-        {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256084,
-      "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -503,22 +523,34 @@
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/5HcteuzDMjXil0VFsQMKyB"
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+      "duration_ms": 156892,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/17odCitXaQsvl3uZWskCEH"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -559,18 +591,42 @@
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH"
+        "name": "CONCUBANIA",
+        "url": "https://open.spotify.com/album/74AFDI4K9GYRixO4areLml"
       },
       "artists": [
         {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 159130,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
+      "duration_ms": 256084,
+      "name": "SEE RIGHT THROUGH ME (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -587,22 +643,6 @@
       "duration_ms": 192030,
       "name": "full moon. (fall in tokyo) [bonus track]",
       "url": "https://open.spotify.com/track/6fACn9e0wdMIWZa9CZJym8"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "Something Real",
-        "url": "https://open.spotify.com/album/5HcteuzDMjXil0VFsQMKyB"
-      },
-      "artists": [
-        {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
-        }
-      ],
-      "duration_ms": 156892,
-      "name": "Something Real",
-      "url": "https://open.spotify.com/track/17odCitXaQsvl3uZWskCEH"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -639,22 +679,6 @@
       "duration_ms": 273684,
       "name": "back of the club",
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "SLIDER II",
-        "url": "https://open.spotify.com/album/7EuLS6i7d3LU7eFxnbz2or"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 162773,
-      "name": "swv",
-      "url": "https://open.spotify.com/track/6GJc93iZwtT1sennWoDYLa"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -755,22 +779,6 @@
       "duration_ms": 186416,
       "name": "Reclusive",
       "url": "https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60"
-    },
-    {
-      "added_at": "2026-02-27 05:00:35",
-      "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 226283,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "added_at": "2026-02-27 05:00:35",

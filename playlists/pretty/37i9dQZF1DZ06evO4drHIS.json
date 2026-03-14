@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19259,
+  "num_followers": 19266,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACYAV0yHze8ZYTiKFKQSOZn",
+  "snapshot_id": "abICAAAAAAD+mC3qN1ogYBU3LjeOJzft",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 208902,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nadie Como T\u00fa",
         "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 162146,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 162146,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 150384,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta Que Regreses",
         "url": "https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 185834,
       "name": "Hasta Que Regreses",
       "url": "https://open.spotify.com/track/113DePdXtrX328UFntdtyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 150384,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa No Vuelves",
         "url": "https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 207072,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is The Slits\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 51 min
+33 songs - 1 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Femme Fatale \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:47 | 2026-03-07 |  |
 | [FM](https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut](https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs) | 3:33 | 2026-03-07 |  |
 | [From The Basement](https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [From The Basement](https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs) | 1:38 | 2026-03-07 |  |
+| [Full moon](https://open.spotify.com/track/0ajtqxmXFgB9dRCXYSMf2J) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Full moon](https://open.spotify.com/album/19JQE5kPOQTsSIRYtAuaoI) | 3:03 | 2026-03-14 |  |
 | [Grapevine \(Live\)](https://open.spotify.com/track/60uTDFpYvxfWQUqLY8iQ6Y) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Skateboard Punk Hits](https://open.spotify.com/album/5vjoCr5CfcWzxf66BxGliv) | 3:32 | 2026-03-07 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/2tlQN0gUJz6tW7bPunEaid) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:58 | 2026-03-07 |  |
 | [Improperly Dressed](https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:27 | 2026-03-07 |  |

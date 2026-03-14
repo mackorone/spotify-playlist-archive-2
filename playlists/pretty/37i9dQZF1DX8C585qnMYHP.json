@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 192497,
+  "num_followers": 192513,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "O, Dark Mother",
         "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "By Night",
-        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
       },
       "artists": [
         {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
         }
       ],
-      "duration_ms": 159642,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -671,34 +687,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+        "name": "Remaining",
+        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
       },
       "artists": [
         {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+          "name": "Niels Orens",
+          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
         }
       ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "PREY",
-        "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
-      },
-      "artists": [
-        {
-          "name": "SZARY",
-          "url": "https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca"
-        }
-      ],
-      "duration_ms": 264223,
-      "name": "PREY",
-      "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
+      "duration_ms": 253443,
+      "name": "Remaining",
+      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Remaining",
-        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
+        "name": "PREY",
+        "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
       },
       "artists": [
         {
-          "name": "Niels Orens",
-          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
+          "name": "SZARY",
+          "url": "https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca"
         }
       ],
-      "duration_ms": 253443,
-      "name": "Remaining",
-      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
+      "duration_ms": 264223,
+      "name": "PREY",
+      "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
-      },
-      "artists": [
-        {
-          "name": "moreru",
-          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
-        }
-      ],
-      "duration_ms": 255154,
-      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 146000,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+      },
+      "artists": [
+        {
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+        }
+      ],
+      "duration_ms": 255154,
+      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Just Wanna Live Some",
-        "url": "https://open.spotify.com/album/0PGfRDzCPVoOjdVj8X22fB"
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
       },
       "artists": [
         {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+          "name": "Sara Zozaya",
+          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
         }
       ],
-      "duration_ms": 148903,
-      "name": "Dream Like That",
-      "url": "https://open.spotify.com/track/7ryceVlnP9sDL48Gy6a2k6"
+      "duration_ms": 221972,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Blu",
-        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
+        "name": "Just Wanna Live Some",
+        "url": "https://open.spotify.com/album/0PGfRDzCPVoOjdVj8X22fB"
       },
       "artists": [
         {
-          "name": "Sara Zozaya",
-          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
         }
       ],
-      "duration_ms": 221972,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
+      "duration_ms": 148903,
+      "name": "Dream Like That",
+      "url": "https://open.spotify.com/track/7ryceVlnP9sDL48Gy6a2k6"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Pythagoras",
         "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 314500,
       "name": "Pretty Pigs",
       "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Rememberer",
         "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
-        "url": "https://open.spotify.com/album/2hgThzc4MM3pw3b0tWpG7q"
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
       },
       "artists": [
         {
-          "name": "Hello Psychaleppo",
-          "url": "https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O"
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
         }
       ],
-      "duration_ms": 154025,
-      "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
-      "url": "https://open.spotify.com/track/0G2JzjUz1a3BXXcNZ5We8e"
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
+        "url": "https://open.spotify.com/album/2hgThzc4MM3pw3b0tWpG7q"
+      },
+      "artists": [
+        {
+          "name": "Hello Psychaleppo",
+          "url": "https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O"
+        }
+      ],
+      "duration_ms": 154025,
+      "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
+      "url": "https://open.spotify.com/track/0G2JzjUz1a3BXXcNZ5We8e"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 221960,
       "name": "Windows",
       "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1391,6 +1375,22 @@
       "duration_ms": 196340,
       "name": "Thinking about you",
       "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Zabrisky",
-        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
-      },
-      "artists": [
-        {
-          "name": "Real Timpani",
-          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Zabrisky",
-      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Gosamour",
         "url": "https://open.spotify.com/album/2eYqRX35ZPEaUUu0V0cUlA"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 189500,
       "name": "Sepia Rainbow",
       "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Zabrisky",
+        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
+      },
+      "artists": [
+        {
+          "name": "Real Timpani",
+          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Zabrisky",
+      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1543,22 +1543,6 @@
       "duration_ms": 440269,
       "name": "Waves/Hold/Tied",
       "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Acrobata",
-        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
-      },
-      "artists": [
-        {
-          "name": "Bono / Burattini",
-          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
-        }
-      ],
-      "duration_ms": 296222,
-      "name": "Acrobata",
-      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Acrobata",
+        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "duration_ms": 296222,
+      "name": "Acrobata",
+      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Scintille",
         "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Iti Eta No",
-        "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
-      },
-      "artists": [
-        {
-          "name": "Heimat",
-          "url": "https://open.spotify.com/artist/49xj8qANPTjAOLUjoHGaK2"
-        }
-      ],
-      "duration_ms": 251164,
-      "name": "Iti Eta No",
-      "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Kampana - Vibration, trembling",
         "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 390959,
       "name": "Kampana - Vibration, trembling",
       "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Iti Eta No",
+        "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
+      },
+      "artists": [
+        {
+          "name": "Heimat",
+          "url": "https://open.spotify.com/artist/49xj8qANPTjAOLUjoHGaK2"
+        }
+      ],
+      "duration_ms": 251164,
+      "name": "Iti Eta No",
+      "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
     },
     {
       "added_at": "2026-03-06 05:00:16",

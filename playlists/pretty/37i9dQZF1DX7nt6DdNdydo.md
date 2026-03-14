@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,903 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,914 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grandma Plays The Numbers](https://open.spotify.com/track/5eVbYxvz9Ed9Y9KEjfA64y) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [28 Big Ones](https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT) | 2:35 |
-| 2 | [Butcher Pete \(Part 1\)](https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Risque Blues \- My Ding\-A\-Ling](https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d) | 2:28 |
-| 3 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
-| 4 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
+| 2 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
+| 3 | [Butcher Pete \(Part 1\)](https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Risque Blues \- My Ding\-A\-Ling](https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d) | 2:28 |
+| 4 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 5 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 |
 | 6 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 |
 | 7 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 17 | [\(Every Time I Hear\) That Mellow Saxophone](https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy) | [Roy Montrell](https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq) | [Mardi Gras Blues](https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak) | 2:27 |
 | 18 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
 | 19 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |
-| 20 | [Hey! Ba\-Ba\-Re\-Bop \- Single Version](https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Swingsation: Lionel Hampton](https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66) | 3:22 |
-| 21 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
+| 20 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
+| 21 | [Hey! Ba\-Ba\-Re\-Bop \- Single Version](https://open.spotify.com/track/7gSmmvzQxRYS331hdqyE7W) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP) | [Swingsation: Lionel Hampton](https://open.spotify.com/album/3XX8hxTz2lu7Ux2kKF0R66) | 3:22 |
 | 22 | [Nervous Man Nervous](https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 2:34 |
 | 23 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
 | 24 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |

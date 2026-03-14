@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Lil Uzi Vert",
+  "description": "Up and down I-95. Cover: 41",
   "name": "State of Mind",
   "tracks": [
     {
@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/7H4JnoA5yyyL2y7VmOl0wT"
+      },
+      "artists": [
+        {
+          "name": "Asoh Black!",
+          "url": "https://open.spotify.com/artist/50KItow1zdTmMTAVX3FKIg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222391,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/7dNZzsm7kmNpDQmosjEwYV"
+    },
+    {
+      "album": {
         "name": "Arch Ya Back",
         "url": "https://open.spotify.com/album/1m2zDjLlKHbCLpX7d3lk58"
       },
@@ -2846,6 +2864,32 @@
       "duration_ms": 109775,
       "name": "Bad Beans",
       "url": "https://open.spotify.com/track/3M8fcAKtJf65d5b1k1HDY9"
+    },
+    {
+      "album": {
+        "name": "Bad Bitch",
+        "url": "https://open.spotify.com/album/2RU8jg3q51UuxlS5bsUYnD"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148646,
+      "name": "Bad Bitch",
+      "url": "https://open.spotify.com/track/4baCpqXOivYqROUNMrfUCC"
     },
     {
       "album": {
@@ -4842,7 +4886,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 125200,
       "name": "BLACK LACE",
       "url": "https://open.spotify.com/track/3cy6ZgBiSvB0kOQbaVSd1q"
@@ -9009,6 +9053,24 @@
     },
     {
       "album": {
+        "name": "Dealership",
+        "url": "https://open.spotify.com/album/1Gk0Jao90fr5H57W4delWW"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128473,
+      "name": "Dealership",
+      "url": "https://open.spotify.com/track/3On4egY7d7sRzkzAXkW63h"
+    },
+    {
+      "album": {
         "name": "Dear Fear",
         "url": "https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6"
       },
@@ -11916,7 +11978,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 225000,
       "name": "Faith Lies",
       "url": "https://open.spotify.com/track/7EoDxj5kugBVwOwc7oM9tL"
@@ -15541,6 +15603,24 @@
     },
     {
       "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
+    },
+    {
+      "album": {
         "name": "Gun for Gun",
         "url": "https://open.spotify.com/album/65xUGIszcBbbpBRpoAEiLu"
       },
@@ -18026,7 +18106,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 184630,
       "name": "ILMB (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
@@ -20566,7 +20646,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 152727,
       "name": "Let\u2019s Be Clear",
       "url": "https://open.spotify.com/track/3FGHVcwFT7SNJUqN4IvYMs"

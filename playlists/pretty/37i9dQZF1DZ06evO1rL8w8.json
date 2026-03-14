@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 235430,
+  "num_followers": 235481,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACeDAJdsehjvB4akJWIjYdv",
+  "snapshot_id": "abICAAAAAAD2e69lwFRx0NbeMKCgIYb+",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 172153,
       "name": "Hoy Toca - En Vivo",
       "url": "https://open.spotify.com/track/5xQtuCAnheLi8aHXwpHBuM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Amanezco Con Mi Ex",
+        "url": "https://open.spotify.com/album/5glzmrZQNMJO3Yv3S4AClz"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Los Hnos Rodriguez",
+          "url": "https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU"
+        }
+      ],
+      "duration_ms": 144989,
+      "name": "Me Amanezco Con Mi Ex",
+      "url": "https://open.spotify.com/track/4fWFkrtNHcRH0F4GAwVzsI"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 244121,
       "name": "Juan Ignacio",
       "url": "https://open.spotify.com/track/2FKkmbKDGuAY0VvqWqa8Dv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Corrido De Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "El Corrido De Everardo (En Vivo)",
-      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
     }
   ],
   "unique_name": "This Is El Komander",

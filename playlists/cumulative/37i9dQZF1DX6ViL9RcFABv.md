@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: IOLANDA
 
-449 songs - 23 hr 36 min
+449 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Foste Embora](https://open.spotify.com/track/6elFmzmHRGXeqyya232ZFu) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Aparentemente \- vol 1](https://open.spotify.com/album/626ozUdqBKuPW0cmLkHEuJ) | 2:39 | 2024-06-27 | 2025-02-14 |
 | [Foste Tu](https://open.spotify.com/track/2aQUqkcVAQgCPmsXOQ9Zkj) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Foste Tu](https://open.spotify.com/album/5EcFzVIvBhlgBmYuwX7lWR) | 3:14 | 2025-03-07 | 2025-05-16 |
 | [Fotografia](https://open.spotify.com/track/1PGMVcH0H0inovcdD6jYdk) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [Fotografia](https://open.spotify.com/album/7rDps2hoMmlQ0Es9aEfsNI) | 2:54 | 2025-11-21 | 2026-02-06 |
+| [francisco](https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [Rodrigo Correia](https://open.spotify.com/artist/1GJqIcqg2aB979wl5TIORC) | [cantar as dores baixinho \(vol\. 1\)](https://open.spotify.com/album/7GkCQaJ2CSTApEaOFlo5Wx) | 3:35 | 2026-03-13 |  |
 | [FUGACIDADE](https://open.spotify.com/track/3LFPFTXstkw1bOYGf4s435) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [FUGACIDADE](https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3) | 2:36 | 2024-09-05 | 2024-09-20 |
 | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/album/0wQJo0SvCjABJJjgINGylA) | 3:22 | 2024-06-27 | 2025-03-14 |
 | [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 | 2024-07-04 | 2024-07-17 |
@@ -426,7 +427,6 @@
 | [Teus Beijos](https://open.spotify.com/track/46RHN6flgxqHoCiAMxIkB0) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Teus Beijos](https://open.spotify.com/album/301Vzal6xfXKeBxSHpP8mR) | 3:08 | 2025-03-07 | 2025-10-03 |
 | [Tiginni](https://open.spotify.com/track/2mRcL3BrPlfg0ZQjzzSkiZ) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tiginni](https://open.spotify.com/album/7I02ugloMHnwmg5pN2vn6t) | 2:50 | 2024-09-12 | 2024-09-17 |
 | [Tiques de Rico](https://open.spotify.com/track/1SgsfPW9jh3LdicCpr0ggh) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Miguel Araújo](https://open.spotify.com/artist/0A1fXDw6kferKgLY4UMxNi) | [Tiques de Rico](https://open.spotify.com/album/3077eqHhvWjs1OoudI0gxn) | 3:37 | 2025-06-26 | 2025-12-19 |
-| [Track 1](https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [cantar as dores baixinho \(vol\. 1\)](https://open.spotify.com/album/7GkCQaJ2CSTApEaOFlo5Wx) | 0:00 | 2026-03-13 |  |
 | [Tristeza](https://open.spotify.com/track/2ff0DqG4icPsm0N6M4em6h) | [JOSH](https://open.spotify.com/artist/4U4egOotuNLKqlARiAfYne) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:58 | 2025-03-14 | 2025-04-04 |
 | [Tu Amor](https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor](https://open.spotify.com/album/2IqpqWDTt6n9oLHboUZkaB) | 3:53 | 2024-06-27 | 2024-07-19 |
 | [Tu e Eu \(com Bandidos do Cante\)](https://open.spotify.com/track/2qKvjnvUzkRnN6KMI24ror) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [D≡Z](https://open.spotify.com/album/0LMnsJ0zRyzy1uGRBj7bne) | 3:23 | 2025-10-09 |  |

@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-747 songs - 1 day 16 hr 43 min
+749 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2022-12-02 | 2024-04-10 |
 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-04-11 | 2023-05-31 |
 | [5 Years Time](https://open.spotify.com/track/5VaPx8jYNENRGmOOhScbW1) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/5AuoAfjnUUnH6b6kkpyk6F) | 3:34 | 2022-03-28 | 2022-04-20 |
-| [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2021-12-29 |  |
+| [8TEEN](https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:48 | 2021-12-29 | 2026-03-14 |
 | [About Damn Time](https://open.spotify.com/track/4A2CyJ3VhCxiQCYXlV6zRL) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/5dJGQftJX0fQ14t9tT7nX6) | 3:11 | 2022-05-13 | 2022-07-21 |
 | [Aces](https://open.spotify.com/track/2elzUKJebZM50u2i6dgVnP) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/3RZ5noE2X4Fn4OhdfslVex) | 2:02 | 2022-11-01 | 2022-11-15 |
 | [Aces](https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca) | [dkj](https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE) | [Aces](https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf) | 2:02 | 2023-01-06 | 2023-02-12 |
@@ -123,6 +123,7 @@
 | [Candy](https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:54 | 2024-10-11 | 2024-10-19 |
 | [Candyland](https://open.spotify.com/track/5r20oWs4gfu2UM91XX82yb) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Candyland](https://open.spotify.com/album/5fkAyegufxhQeKg9r51iAU) | 2:46 | 2024-06-28 | 2024-07-19 |
 | [Carefree](https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Carefree](https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg) | 2:59 | 2022-03-25 | 2022-04-21 |
+| [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 | 2026-03-13 |  |
 | [Caroline](https://open.spotify.com/track/5hTpBe8h35rJ67eAWHQsJx) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:29 | 2022-03-25 | 2022-04-20 |
 | [Carry On](https://open.spotify.com/track/6SNDUz9G2XO7XeltUSnQdd) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Carry On](https://open.spotify.com/album/6lyUjiFBMoUByUoBgeLGvn) | 3:10 | 2025-09-12 | 2025-09-20 |
 | [Casanova](https://open.spotify.com/track/07E34p59doB7zhxtcNQLqK) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Casanova](https://open.spotify.com/album/5ryxQvi2WP0hXoH92zgMnp) | 3:01 | 2021-12-29 | 2022-07-29 |
@@ -608,7 +609,7 @@
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2022-04-01 | 2022-04-19 |
 | [Song From Hell](https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Song From Hell](https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL) | 3:03 | 2021-12-29 | 2022-07-29 |
 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 | 2025-08-12 | 2025-08-16 |
-| [Sorted](https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [Banshee The Great](https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p) | [Sorted](https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21) | 3:47 | 2025-12-05 |  |
+| [Sorted](https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [Banshee The Great](https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p) | [Sorted](https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21) | 3:47 | 2025-12-05 | 2026-03-14 |
 | [Soup](https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Soup](https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT) | 3:33 | 2024-07-19 | 2024-08-24 |
 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 | 2022-04-01 | 2022-04-21 |
 | [Sparkle](https://open.spotify.com/track/601a0ZcnViKhwORpkT8RKp) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Sparkle](https://open.spotify.com/album/2GVtX4lv8aj7Yj3rKBwPQo) | 2:10 | 2023-07-14 | 2023-08-12 |
@@ -711,6 +712,7 @@
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-09 | 2023-04-01 |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-20 | 2023-05-31 |
 | [Truth Hurts](https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:53 | 2022-03-25 | 2022-04-12 |
+| [Tryna Be Cool](https://open.spotify.com/track/6FxVw99inxzrYEjXGCTS9P) | [Hi\-Lo Jack](https://open.spotify.com/artist/40Hz7AuUTnlK2XpIyq3ghX), [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Stolen Jars](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r), [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73) | [Tryna Be Cool](https://open.spotify.com/album/0W6hiknmH6WDLz1PxA882n) | 3:39 | 2026-03-13 |  |
 | [Turning Onto You \- HNNY Remix](https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1), [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Turning Onto You \(HNNY Remix\)](https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2) | 3:30 | 2024-06-28 | 2024-07-19 |
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-27 | 2025-06-21 |
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2022-03-25 | 2022-04-21 |

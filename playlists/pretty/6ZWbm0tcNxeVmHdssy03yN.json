@@ -1,13 +1,29 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 51200,
+  "num_followers": 51216,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "AAAZbLggxPW2Czs9Qq63kcyTN0tUgQDu",
+  "snapshot_id": "AAAZhCPJ347Soml2HJaCNV56YR46X9JR",
   "tracks": [
+    {
+      "added_at": "2026-03-13 14:06:21",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/0deZxYvag6SVVVHYTIcRyN"
+      },
+      "artists": [
+        {
+          "name": "loveshy",
+          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
+        }
+      ],
+      "duration_ms": 161374,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/37aKSDoS7Sk2E7t158x9Ru"
+    },
     {
       "added_at": "2026-03-06 13:55:43",
       "album": {
@@ -31,6 +47,274 @@
       "duration_ms": 182727,
       "name": "25-26",
       "url": "https://open.spotify.com/track/6GwnriXWAFekvHsv1McNWU"
+    },
+    {
+      "added_at": "2026-03-13 14:06:34",
+      "album": {
+        "name": "The Lorax (feat. billy woods)",
+        "url": "https://open.spotify.com/album/09MvXzFkbSL9sist3lSOeJ"
+      },
+      "artists": [
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Sebb Bash",
+          "url": "https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        }
+      ],
+      "duration_ms": 194784,
+      "name": "The Lorax (feat. billy woods)",
+      "url": "https://open.spotify.com/track/4vZRjqFrbNhnDU3v1dKYsR"
+    },
+    {
+      "added_at": "2026-03-13 14:23:21",
+      "album": {
+        "name": "Champions league / Blue Lotus",
+        "url": "https://open.spotify.com/album/2KnM9V2Lr1110P1Gqfy7KE"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "FourNine",
+          "url": "https://open.spotify.com/artist/4t5tP3pvrx50ONnbos94lz"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Champions League",
+      "url": "https://open.spotify.com/track/4qma33uSVVDBVUHyEbCVxX"
+    },
+    {
+      "added_at": "2026-03-13 14:06:50",
+      "album": {
+        "name": "I Guess U Had To Be There",
+        "url": "https://open.spotify.com/album/6w1EKyG9WSKIyRrE6sCgAg"
+      },
+      "artists": [
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Sebb Bash",
+          "url": "https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "Equiano (feat. Shabaka Hutchings)",
+      "url": "https://open.spotify.com/track/3uchDZAbz1RoTRU3WjguQQ"
+    },
+    {
+      "added_at": "2026-03-13 14:07:00",
+      "album": {
+        "name": "Scout's Honour",
+        "url": "https://open.spotify.com/album/0sthXEiM36YXUaEbsqiBN4"
+      },
+      "artists": [
+        {
+          "name": "Zafty",
+          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
+        }
+      ],
+      "duration_ms": 177619,
+      "name": "Scout's Honour",
+      "url": "https://open.spotify.com/track/2MHC4ldY1ghNxwtKhkjRcL"
+    },
+    {
+      "added_at": "2026-03-13 14:07:42",
+      "album": {
+        "name": "Ain't Your John Wayne",
+        "url": "https://open.spotify.com/album/0RINeY2V8PEJQoRvw3Vq2v"
+      },
+      "artists": [
+        {
+          "name": "Lost Saints",
+          "url": "https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy"
+        }
+      ],
+      "duration_ms": 208367,
+      "name": "Ain't Your John Wayne",
+      "url": "https://open.spotify.com/track/4g8uedb4Yyi3JyropztFVP"
+    },
+    {
+      "added_at": "2026-03-13 14:07:54",
+      "album": {
+        "name": "Mindsuckers",
+        "url": "https://open.spotify.com/album/4dZYxZVlwkMqt4r6VhLpaH"
+      },
+      "artists": [
+        {
+          "name": "Harvey Rushmore & the Octopus",
+          "url": "https://open.spotify.com/artist/7mrAXYivr97fQvPoROjUGm"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Wet Rabbit",
+      "url": "https://open.spotify.com/track/7fdJg4OMl3HekXxJDdXjUW"
+    },
+    {
+      "added_at": "2026-03-13 14:13:32",
+      "album": {
+        "name": "can't plan it",
+        "url": "https://open.spotify.com/album/4SEJbT1BHzKBrHiloSkrXu"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "can't plan it",
+      "url": "https://open.spotify.com/track/3N5kEpCZLkUtp4oM87bmCw"
+    },
+    {
+      "added_at": "2026-03-13 14:13:51",
+      "album": {
+        "name": "Notes From A Very Loud Mind",
+        "url": "https://open.spotify.com/album/4O2fafqIC8nATYve6F34jH"
+      },
+      "artists": [
+        {
+          "name": "Robbie Mortimer",
+          "url": "https://open.spotify.com/artist/3oa0tGFnDuTzsk7dP2qoDj"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Cold Beer Here",
+      "url": "https://open.spotify.com/track/3AS0BpaYlyerqbBQKTPgEa"
+    },
+    {
+      "added_at": "2026-03-13 14:17:42",
+      "album": {
+        "name": "Ovbe Sa Kpo",
+        "url": "https://open.spotify.com/album/4dsWbWqAzCKq5rWLPd4SGG"
+      },
+      "artists": [
+        {
+          "name": "Elvis Baby",
+          "url": "https://open.spotify.com/artist/7bvTklZDurkCJ5245Zuujz"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Ovbe Sa Kpo",
+      "url": "https://open.spotify.com/track/3QixlxnKT6qSFB607hGNsM"
+    },
+    {
+      "added_at": "2026-03-13 14:17:58",
+      "album": {
+        "name": "Trasandino",
+        "url": "https://open.spotify.com/album/0rhgIwWtCDFv8OFDYFOiUF"
+      },
+      "artists": [
+        {
+          "name": "Rumbo Tumba",
+          "url": "https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH"
+        },
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "duration_ms": 178731,
+      "name": "Trasandino",
+      "url": "https://open.spotify.com/track/2ERcTCJ7LTUCEjCm4qCGiq"
+    },
+    {
+      "added_at": "2026-03-13 14:19:02",
+      "album": {
+        "name": "Vacilar Contigo",
+        "url": "https://open.spotify.com/album/4weGOVUa2AwzstCNQ4dPY5"
+      },
+      "artists": [
+        {
+          "name": "Sergi",
+          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Vacilar Contigo",
+      "url": "https://open.spotify.com/track/0DIpwT3BcGceSdLqIvkhxj"
+    },
+    {
+      "added_at": "2026-03-13 14:06:47",
+      "album": {
+        "name": "I Guess U Had To Be There",
+        "url": "https://open.spotify.com/album/6w1EKyG9WSKIyRrE6sCgAg"
+      },
+      "artists": [
+        {
+          "name": "E L U C I D",
+          "url": "https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB"
+        },
+        {
+          "name": "Sebb Bash",
+          "url": "https://open.spotify.com/artist/3NAVgoymGp2cN3rlqi7Hu5"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "Coonspeak",
+      "url": "https://open.spotify.com/track/5Oq5StVnDSURmzcBiFB7w1"
+    },
+    {
+      "added_at": "2026-03-13 14:19:23",
+      "album": {
+        "name": "Little Faith",
+        "url": "https://open.spotify.com/album/2dBaUsTRjYRRdRaObm0v2d"
+      },
+      "artists": [
+        {
+          "name": "Bethane",
+          "url": "https://open.spotify.com/artist/71B9M0ByGyR7D19UGjJ2sj"
+        }
+      ],
+      "duration_ms": 174354,
+      "name": "Little Faith",
+      "url": "https://open.spotify.com/track/72FBnsgwmUKr7jIOWstPCs"
+    },
+    {
+      "added_at": "2026-03-13 14:24:04",
+      "album": {
+        "name": "WETDREAMZ",
+        "url": "https://open.spotify.com/album/6GQcbFJd7907st4XvZYCa8"
+      },
+      "artists": [
+        {
+          "name": "Trap Q",
+          "url": "https://open.spotify.com/artist/1wVL9AFdcdszRUTAd8xAzY"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "WETDREAMZ",
+      "url": "https://open.spotify.com/track/37RZ7C2MaYYKRHbEGTBpWq"
+    },
+    {
+      "added_at": "2026-03-13 14:24:24",
+      "album": {
+        "name": "SHADOW CHAPEL",
+        "url": "https://open.spotify.com/album/1gkC09IuFemKQhON26Gg1s"
+      },
+      "artists": [
+        {
+          "name": "Idriss Reina",
+          "url": "https://open.spotify.com/artist/6v8vFfZ3zNzZkcopuCdEZt"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/3fhePfK4AQqTn2YG8Tpzny"
     },
     {
       "added_at": "2026-03-06 13:55:43",
@@ -179,6 +463,26 @@
       "duration_ms": 100673,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5UDIKKRbIf7Z4j18z388DB"
+    },
+    {
+      "added_at": "2026-03-06 13:55:43",
+      "album": {
+        "name": "Goodbye to Us (feat. KILLBOY)",
+        "url": "https://open.spotify.com/album/2iDdXOU6QNnITXQqvWOXWo"
+      },
+      "artists": [
+        {
+          "name": "Phix",
+          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
+        },
+        {
+          "name": "KILLBOY",
+          "url": "https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm"
+        }
+      ],
+      "duration_ms": 141739,
+      "name": "Goodbye to Us (feat. KILLBOY)",
+      "url": "https://open.spotify.com/track/1GJ4J1EkvHHOeF14pGLl7t"
     },
     {
       "added_at": "2026-03-06 13:55:43",
@@ -1063,22 +1367,6 @@
     {
       "added_at": "2026-03-06 13:55:43",
       "album": {
-        "name": "Let It Ring (Remix)",
-        "url": "https://open.spotify.com/album/4eNn05MkEDQnjkeDiYD1Xf"
-      },
-      "artists": [
-        {
-          "name": "Lost Saints",
-          "url": "https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Let It Ring (Remix)",
-      "url": "https://open.spotify.com/track/6E1bA9xrMrvGgPw3jOHpIC"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
         "name": "Old Devil Moon",
         "url": "https://open.spotify.com/album/7HhouS03U9iLLdtXBFZjDH"
       },
@@ -1123,54 +1411,6 @@
       "duration_ms": 120482,
       "name": "I Can Be",
       "url": "https://open.spotify.com/track/3Co5NI5GtDeQ7XnE4DOv62"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
-        "name": "GO SHAWTY",
-        "url": "https://open.spotify.com/album/0SQeLh3jBsO2C8ydgIqac4"
-      },
-      "artists": [
-        {
-          "name": "AMARNI",
-          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
-        }
-      ],
-      "duration_ms": 106976,
-      "name": "GO SHAWTY",
-      "url": "https://open.spotify.com/track/2T9pZbcxWcG6QiM04c8LuA"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
-        "name": "Boots On",
-        "url": "https://open.spotify.com/album/7ndNowV1W2QEUNqrYI9FC9"
-      },
-      "artists": [
-        {
-          "name": "Jake Whittaker",
-          "url": "https://open.spotify.com/artist/1qNMPH0kNJPsFvHhTqKipC"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Boots On",
-      "url": "https://open.spotify.com/track/5Ph8KtzUf8Srtd7el9WiY2"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/0rX5POSwjnTl2iYiPF4ovv"
-      },
-      "artists": [
-        {
-          "name": "Ownlife",
-          "url": "https://open.spotify.com/artist/2nCmwSRtRo6NIdVsYnw0u5"
-        }
-      ],
-      "duration_ms": 171699,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/2eIlIiK5rmYr8AVOsO9ghL"
     },
     {
       "added_at": "2026-03-06 13:55:43",
@@ -1383,42 +1623,6 @@
     {
       "added_at": "2026-03-06 13:55:43",
       "album": {
-        "name": "Footnotes",
-        "url": "https://open.spotify.com/album/2tjP3GbGULjcsJdKx7WVZl"
-      },
-      "artists": [
-        {
-          "name": "MATHIAS",
-          "url": "https://open.spotify.com/artist/6HrDqo30wyToXuHV8IOdKK"
-        },
-        {
-          "name": "AR4",
-          "url": "https://open.spotify.com/artist/4tORd6VckUgLhiQkcX90Mq"
-        }
-      ],
-      "duration_ms": 199009,
-      "name": "Footnotes",
-      "url": "https://open.spotify.com/track/0eCMrXH1kSzLpc0BfOqBtw"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
-        "name": "CL",
-        "url": "https://open.spotify.com/album/0DW9MY0uqN8not6YeB8nh9"
-      },
-      "artists": [
-        {
-          "name": "Mornz",
-          "url": "https://open.spotify.com/artist/42OptYZy71aIMGuksh5VBM"
-        }
-      ],
-      "duration_ms": 147951,
-      "name": "CL",
-      "url": "https://open.spotify.com/track/6R5D6ZkMRqQWAZMqrTLpds"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
         "name": "You Said",
         "url": "https://open.spotify.com/album/23j92NDKGgjQpM9vxw7FXC"
       },
@@ -1467,26 +1671,6 @@
       "duration_ms": 183553,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/171Muha9CXXMOePjbsDLcm"
-    },
-    {
-      "added_at": "2026-03-06 13:55:43",
-      "album": {
-        "name": "Goodbye to Us (feat. KILLBOY)",
-        "url": "https://open.spotify.com/album/2iDdXOU6QNnITXQqvWOXWo"
-      },
-      "artists": [
-        {
-          "name": "Phix",
-          "url": "https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT"
-        },
-        {
-          "name": "KILLBOY",
-          "url": "https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm"
-        }
-      ],
-      "duration_ms": 141739,
-      "name": "Goodbye to Us (feat. KILLBOY)",
-      "url": "https://open.spotify.com/track/1GJ4J1EkvHHOeF14pGLl7t"
     },
     {
       "added_at": "2026-03-06 13:55:43",

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,518 songs - 7 day 3 hr 34 min
+4,519 songs - 7 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1249,7 +1249,7 @@
 | [February \- Late Hours](https://open.spotify.com/track/57J8lHD7BjDYmBuW4QEtM9) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [February \- Late Hours](https://open.spotify.com/album/4Kascb2e0obC2DJ4L84orD) | 3:11 | 2019-05-26\* | 2019-12-11 |
 | [FeeFee](https://open.spotify.com/track/4tatrhpNfgRAcUdsAEZLXS) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [FeeFee](https://open.spotify.com/album/3ZkkycEIhxxZJyaOw4PlJ2) | 2:25 | 2019-11-20 | 2020-04-03 |
 | [Feel Good](https://open.spotify.com/track/3JLHDeGKUNbUJFBHdYBnv2) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Feel Good](https://open.spotify.com/album/2r2zIfvSFoL55oafxiOqdk) | 2:46 | 2022-06-09 | 2022-06-23 |
-| [Feeling You](https://open.spotify.com/track/77uTC0YXv22IBQ3ucajhru) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Feeling You](https://open.spotify.com/album/4fY3s81h4x1FYK7E1fBxud) | 2:03 | 2026-03-06 |  |
+| [Feeling You](https://open.spotify.com/track/77uTC0YXv22IBQ3ucajhru) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Feeling You](https://open.spotify.com/album/4fY3s81h4x1FYK7E1fBxud) | 2:03 | 2026-03-06 | 2026-03-14 |
 | [Feels](https://open.spotify.com/track/6uOFOnCqFrgKeFkjapH8N9) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Feels](https://open.spotify.com/album/51pbm2rSE3P7nOkwXfaWwG) | 2:00 | 2021-02-13 | 2021-06-11 |
 | [Feels Like Home](https://open.spotify.com/track/58XGuacTUZLerQAbrOLFHe) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Feels Like Home](https://open.spotify.com/album/4vfuToHZU1hHblhJbYZ22S) | 1:50 | 2024-09-02 |  |
 | [Felices Siestas](https://open.spotify.com/track/37P1VYFyxYXH3jFsnuONhs) | [Señor Siesta](https://open.spotify.com/artist/2i7FDVuvOVPT1aPOhx6oQ5) | [Felices Siestas](https://open.spotify.com/album/1wRRFA1Lv2RZZXFR0EMaBk) | 2:07 | 2023-03-23 | 2025-04-26 |
@@ -2295,6 +2295,7 @@
 | [lupo](https://open.spotify.com/track/6AabHsbQgghgW8Q4YR5wgE) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [lupo](https://open.spotify.com/album/22TkbSNI7ra1XrevgWqcYY) | 2:00 | 2019-06-08 | 2019-11-28 |
 | [Lush](https://open.spotify.com/track/4J6asTKiLo269ro7w6H218) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [Jason Masoud](https://open.spotify.com/artist/2ZDVnuPd31hILsEUXMKcC1) | [Lush](https://open.spotify.com/album/3m6AOkb5DhXjT0ryzmUTRY) | 2:08 | 2023-08-10 | 2023-10-06 |
 | [Lush Grind](https://open.spotify.com/track/4QifSJm6XQE5uK3AEcFufx) | [Anthony Drawn](https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Lush Grind](https://open.spotify.com/album/6rAv9v71tu9aQ75NdeLZai) | 2:28 | 2020-09-11 | 2021-03-14 |
+| [Lush Life](https://open.spotify.com/track/7asjWIkKWVDRz6hy6O6uaC) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Lush Life](https://open.spotify.com/album/6emeWUHnD2Sro9YwBlsblI) | 1:54 | 2026-03-13 |  |
 | [Lust Spell](https://open.spotify.com/track/7493LNYmHKHJsjjkKs84pK) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Lust Spell](https://open.spotify.com/album/4T0VdUejAXSObUrdvfT312) | 1:20 | 2019-05-26\* | 2019-08-24 |
 | [Luv Beam](https://open.spotify.com/track/4Csyw5JzpTkKpsdR2FjGJw) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI), [Ian Roller](https://open.spotify.com/artist/2U1QLrd5GARYpZtPbHbAAn) | [Bonsai Tree](https://open.spotify.com/album/6HIRyGnnjRplf07iyigDI8) | 3:08 | 2019-06-19 | 2019-08-13 |
 | [Luxor](https://open.spotify.com/track/4J5GlxAAwBpIWMwqtYagmn) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Luxor](https://open.spotify.com/album/2ZUqynyhNAjVNpsnNzRQH2) | 1:57 | 2025-05-16 |  |

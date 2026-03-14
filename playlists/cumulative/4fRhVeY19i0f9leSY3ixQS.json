@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Child of Light",
+        "url": "https://open.spotify.com/album/0mZQgu8nj3mP65IIbU44JD"
+      },
+      "artists": [
+        {
+          "name": "Art Papan",
+          "url": "https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239616,
+      "name": "Child of Light",
+      "url": "https://open.spotify.com/track/4F8kVapLmZlBI6JF8VJcgJ"
+    },
+    {
+      "album": {
         "name": "Children of No Nation",
         "url": "https://open.spotify.com/album/1M4M17vcuHlclnUkWQr2ux"
       },
@@ -3754,6 +3772,24 @@
       "duration_ms": 191328,
       "name": "De-Evolution (The Monkey Song) - Live",
       "url": "https://open.spotify.com/track/0Dn0jERufaB3y1rbK1e7en"
+    },
+    {
+      "album": {
+        "name": "Dead of Night",
+        "url": "https://open.spotify.com/album/4MrrrPToJufviP0khFHD9v"
+      },
+      "artists": [
+        {
+          "name": "Jfarrari",
+          "url": "https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224705,
+      "name": "Dead of Night",
+      "url": "https://open.spotify.com/track/4UjscNQZWEKeMR5lanSAOW"
     },
     {
       "album": {
@@ -5626,7 +5662,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 204732,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/4MUfRUYdt358Ghh5qtkGfL"
@@ -6246,7 +6282,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 135664,
       "name": "FUCK IT UP",
       "url": "https://open.spotify.com/track/13MTMEqRON3PbgA7hjHTf9"
@@ -8383,6 +8419,24 @@
     },
     {
       "album": {
+        "name": "No Soy de Aqu\u00ed: Focus 1",
+        "url": "https://open.spotify.com/album/66P9j5PuvRpYKhknmxaZjz"
+      },
+      "artists": [
+        {
+          "name": "s.e.r",
+          "url": "https://open.spotify.com/artist/03iO7GSdDJazWl7NBWBbDp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "In The Playground",
+      "url": "https://open.spotify.com/track/7yhLykpDOQ0Psoc3hIFWoR"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/5ejJOWoO9OmCQ1t9G9RkZO"
       },
@@ -8492,6 +8546,24 @@
       "duration_ms": 83869,
       "name": "INSANE",
       "url": "https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b"
+    },
+    {
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/0vLowwIynpNDDvRYtZ90Jn"
+      },
+      "artists": [
+        {
+          "name": "El Chavito",
+          "url": "https://open.spotify.com/artist/7LYglsbl5OU5h5aEKAEuBc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177257,
+      "name": "Insomniac",
+      "url": "https://open.spotify.com/track/3kVgfLWdCTwG3YO4qlBQLj"
     },
     {
       "album": {
@@ -11128,6 +11200,24 @@
       "duration_ms": 378026,
       "name": "NecroMantis",
       "url": "https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B"
+    },
+    {
+      "album": {
+        "name": "Need you tonight",
+        "url": "https://open.spotify.com/album/6thyaD76fQcRBBKWmzVVGX"
+      },
+      "artists": [
+        {
+          "name": "Luma Rica",
+          "url": "https://open.spotify.com/artist/1KBJX2NaEvwvrwGHrEe7Zg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179959,
+      "name": "Need you tonight",
+      "url": "https://open.spotify.com/track/1pxgunJjVloRx07csdcdsy"
     },
     {
       "album": {
@@ -15192,7 +15282,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 198763,
       "name": "SORRY NOT SORRY",
       "url": "https://open.spotify.com/track/0ynUNnv7dhPa4tv8TQReX2"
@@ -15934,7 +16024,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 129729,
       "name": "Surface Tension",
       "url": "https://open.spotify.com/track/14lIWSDdW8kO9GZVF6Cov3"
@@ -16316,6 +16406,24 @@
       "duration_ms": 217500,
       "name": "Terra Firma",
       "url": "https://open.spotify.com/track/0msuAwC5xHYfjlJsHLPSD2"
+    },
+    {
+      "album": {
+        "name": "Texas Queen",
+        "url": "https://open.spotify.com/album/2ZrKfYcR3IKa3X6yocYSRO"
+      },
+      "artists": [
+        {
+          "name": "Water Gun",
+          "url": "https://open.spotify.com/artist/6XCFiFH42w2Epc27Rhhc7m"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "Texas Queen",
+      "url": "https://open.spotify.com/track/2WG9NtdSRyCpehQMwmbohh"
     },
     {
       "album": {
@@ -17081,6 +17189,24 @@
     },
     {
       "album": {
+        "name": "MNTN GOAT EP (Re-Release)",
+        "url": "https://open.spotify.com/album/2qH4PLWdezuzm2MNZXZe1I"
+      },
+      "artists": [
+        {
+          "name": "MNTN GOAT",
+          "url": "https://open.spotify.com/artist/5EMVT2cgsTmA808D8pbEed"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210561,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/5ZPLGChRtv9ZbzpsD06ShX"
+    },
+    {
+      "album": {
         "name": "Frantic!",
         "url": "https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV"
       },
@@ -17366,6 +17492,24 @@
       "duration_ms": 243250,
       "name": "Time To Party - Radio Edit",
       "url": "https://open.spotify.com/track/2FF0m1MzcfyL6ZS4XM1NfZ"
+    },
+    {
+      "album": {
+        "name": "Time To Rise",
+        "url": "https://open.spotify.com/album/54WDaB7TjtFWbyGY3azfSd"
+      },
+      "artists": [
+        {
+          "name": "We Told You So",
+          "url": "https://open.spotify.com/artist/4S0J9xNGBXBmZDg75JYWen"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Time To Rise",
+      "url": "https://open.spotify.com/track/0sGr5UTeJ7WmIx6ZAQgM8i"
     },
     {
       "album": {
@@ -19075,6 +19219,24 @@
     },
     {
       "album": {
+        "name": "Wojtek prawdziwy cudak",
+        "url": "https://open.spotify.com/album/4o03lxqBRiAOC6LXlBmivx"
+      },
+      "artists": [
+        {
+          "name": "NeoLiryka",
+          "url": "https://open.spotify.com/artist/0lQXkWup3dRqCJNG68Lsn0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161441,
+      "name": "Wojtek prawdziwy cudak",
+      "url": "https://open.spotify.com/track/31hRqJxAQK5KEjBANvllvA"
+    },
+    {
+      "album": {
         "name": "Wolfpack 2025",
         "url": "https://open.spotify.com/album/3z4iy2HHfamxLlTkFbMR3B"
       },
@@ -19180,6 +19342,24 @@
       "duration_ms": 200433,
       "name": "World of Dragons",
       "url": "https://open.spotify.com/track/0WM5S1KbyhIQCTGoUA3pq8"
+    },
+    {
+      "album": {
+        "name": "WORTH DYING FOR",
+        "url": "https://open.spotify.com/album/4wBQJvLYojcD1Gpdb8Oi8N"
+      },
+      "artists": [
+        {
+          "name": "Still No One",
+          "url": "https://open.spotify.com/artist/2WnPcCPjfDwzAdTT2CP7Mu"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113024,
+      "name": "WORTH DYING FOR",
+      "url": "https://open.spotify.com/track/7ftDs6tnh6O7wTnlFwbgVk"
     },
     {
       "album": {

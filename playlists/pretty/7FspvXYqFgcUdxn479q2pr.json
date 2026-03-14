@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31686,
+  "num_followers": 31684,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvYRwNfVGTkWOmLzEwCn7vQAz/+l2j",
+  "snapshot_id": "AAAvbG+FEQoZbVSFHd5TJ5APKzqS9LXz",
   "tracks": [
     {
       "added_at": "2026-03-12 23:00:15",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/25PNm205FTgi0etwvYmuM8"
     },
     {
+      "added_at": "2026-03-13 14:40:48",
+      "album": {
+        "name": "Deepah",
+        "url": "https://open.spotify.com/album/7GMyCd8i1htmfAqVUNynUJ"
+      },
+      "artists": [
+        {
+          "name": "Joseph Robinson",
+          "url": "https://open.spotify.com/artist/7dbjQ3PlFLf2xP1IV3teT6"
+        }
+      ],
+      "duration_ms": 378240,
+      "name": "Deepah",
+      "url": "https://open.spotify.com/track/3FkI0CceNC1P0SQUXFfMlA"
+    },
+    {
       "added_at": "2026-03-06 09:54:26",
       "album": {
         "name": "Loco Loco",
@@ -467,6 +483,42 @@
       "duration_ms": 151525,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7eHFOrGbgThgRhU8lix4dR"
+    },
+    {
+      "added_at": "2026-03-13 14:05:11",
+      "album": {
+        "name": "Shout It",
+        "url": "https://open.spotify.com/album/6Tqds1UxJ5lcoi4nyZctzu"
+      },
+      "artists": [
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "duration_ms": 160606,
+      "name": "Shout It",
+      "url": "https://open.spotify.com/track/5uysngOg7wD748kA8ivMPs"
+    },
+    {
+      "added_at": "2026-03-13 14:24:49",
+      "album": {
+        "name": "Feel The Beat",
+        "url": "https://open.spotify.com/album/1g0DpJYfDZ0OirC6IMKc5u"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        }
+      ],
+      "duration_ms": 168802,
+      "name": "Feel The Beat",
+      "url": "https://open.spotify.com/track/2VtyCXWo1Evi4KbNcZcePw"
     },
     {
       "added_at": "2026-03-06 09:54:26",
@@ -697,6 +749,54 @@
       "url": "https://open.spotify.com/track/3FExfIvAkDsGhfEyZ8xCJC"
     },
     {
+      "added_at": "2026-03-13 14:18:16",
+      "album": {
+        "name": "Midnight Temptation",
+        "url": "https://open.spotify.com/album/72KQ7LHhNDoxXDH912jdEs"
+      },
+      "artists": [
+        {
+          "name": "Just Ben",
+          "url": "https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL"
+        }
+      ],
+      "duration_ms": 146865,
+      "name": "Midnight Temptation",
+      "url": "https://open.spotify.com/track/3MQ7AzuBNN1RZr2GzgLLAu"
+    },
+    {
+      "added_at": "2026-03-13 14:30:39",
+      "album": {
+        "name": "Ginger Sax",
+        "url": "https://open.spotify.com/album/3BCEMFatQwwhrz4DasMQP6"
+      },
+      "artists": [
+        {
+          "name": "Dan McKie",
+          "url": "https://open.spotify.com/artist/5x6OZlUVGFX4F1QHJCgysn"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Ginger Sax",
+      "url": "https://open.spotify.com/track/6BfKMrjjfSj03R5yuvFzr2"
+    },
+    {
+      "added_at": "2026-03-13 13:58:04",
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/155NkgJ3igWBSIktHG4we3"
+      },
+      "artists": [
+        {
+          "name": "Line.y",
+          "url": "https://open.spotify.com/artist/0NNULcqrEhGqwZYGaU75MO"
+        }
+      ],
+      "duration_ms": 228225,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/4Qwq6uKn6qMFFoeMj8pKv3"
+    },
+    {
       "added_at": "2026-03-06 09:54:26",
       "album": {
         "name": "On Faya",
@@ -777,6 +877,22 @@
       "url": "https://open.spotify.com/track/00M5ara85QmCOTVGgOlbIw"
     },
     {
+      "added_at": "2026-03-13 14:40:49",
+      "album": {
+        "name": "Missin U",
+        "url": "https://open.spotify.com/album/3xgMKGCYy9wYqaIHJDRDdU"
+      },
+      "artists": [
+        {
+          "name": "Erick Gardina",
+          "url": "https://open.spotify.com/artist/63Uj2CnOfAAC7tRk4vJDya"
+        }
+      ],
+      "duration_ms": 168980,
+      "name": "Missin U",
+      "url": "https://open.spotify.com/track/0S7GRclhkvXfKQbyvysmj1"
+    },
+    {
       "added_at": "2026-03-06 09:54:26",
       "album": {
         "name": "Pretty Face",
@@ -809,6 +925,22 @@
       "url": "https://open.spotify.com/track/7byboaJhkG192Y7Hb5l54F"
     },
     {
+      "added_at": "2026-03-13 15:08:13",
+      "album": {
+        "name": "Neverland EP",
+        "url": "https://open.spotify.com/album/3zFJxi6oCBovK3GmiOxCON"
+      },
+      "artists": [
+        {
+          "name": "W4STD",
+          "url": "https://open.spotify.com/artist/1ahL8GkhcNfqKICxNttGLK"
+        }
+      ],
+      "duration_ms": 204808,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2rPJNOT7FMo6hksfy9nA2L"
+    },
+    {
       "added_at": "2026-03-06 09:54:26",
       "album": {
         "name": "Satisfaction (with KASIA, Moonphazes, Majewski) [Remix]",
@@ -839,6 +971,26 @@
       "duration_ms": 182780,
       "name": "Satisfaction (with KASIA, Moonphazes, Majewski) - Remix",
       "url": "https://open.spotify.com/track/2G1nZCvN2y3qhjcQR9S2ki"
+    },
+    {
+      "added_at": "2026-03-13 14:18:17",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/55yYRdjzzkCGVaRkLuQyxW"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "AZCK",
+          "url": "https://open.spotify.com/artist/1s4iV4CTEXOsub9gA2aBHy"
+        }
+      ],
+      "duration_ms": 113437,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/1bmPLCKUDXgi3lshIANpnf"
     },
     {
       "added_at": "2026-03-06 09:54:26",
@@ -1269,6 +1421,26 @@
       "url": "https://open.spotify.com/track/7fo8e9ax1XHoF4yP2wHcQ0"
     },
     {
+      "added_at": "2026-03-13 15:08:12",
+      "album": {
+        "name": "S\u00fabelo",
+        "url": "https://open.spotify.com/album/7vbgBssIXSN35AdHOFBdHX"
+      },
+      "artists": [
+        {
+          "name": "Luis Rodriguez",
+          "url": "https://open.spotify.com/artist/3UVoBPCrKG8mz9NVFgmAPn"
+        },
+        {
+          "name": "Santiago",
+          "url": "https://open.spotify.com/artist/2vFP8Mg09YdnnktEYpKdQa"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "S\u00fabelo",
+      "url": "https://open.spotify.com/track/7soCcMG9UX1L36wFQ4Llwt"
+    },
+    {
       "added_at": "2026-03-06 09:54:26",
       "album": {
         "name": "Paradise 3000",
@@ -1519,6 +1691,30 @@
       "duration_ms": 180468,
       "name": "Rock The Rhythm",
       "url": "https://open.spotify.com/track/2xoCiK3hZhSGBT99fR0vae"
+    },
+    {
+      "added_at": "2026-03-13 13:53:19",
+      "album": {
+        "name": "Light Of The Sun (RAEM Remix)",
+        "url": "https://open.spotify.com/album/4HBVcwxucyqQhqHrnB0YZb"
+      },
+      "artists": [
+        {
+          "name": "Flying Decibels",
+          "url": "https://open.spotify.com/artist/2iBwfI0vKOJBGeTezkDTwt"
+        },
+        {
+          "name": "Jana",
+          "url": "https://open.spotify.com/artist/2B2gAQkKLuHmpvOq9G5YWI"
+        },
+        {
+          "name": "RAEM",
+          "url": "https://open.spotify.com/artist/1TG0ridFQXJjJp07FExMph"
+        }
+      ],
+      "duration_ms": 180715,
+      "name": "Light Of The Sun - RAEM Remix",
+      "url": "https://open.spotify.com/track/3Y7E2ZMEX4PjipotDpfj19"
     },
     {
       "added_at": "2026-03-06 09:54:26",

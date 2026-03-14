@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Hammy Muzic
 
-385 songs - 20 hr 42 min
+386 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [170CM from Think Indie](https://open.spotify.com/track/7vIVeEZCmE0UdfIIDTC9Ho) | [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [170CM from Think Indie](https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H) | 2:12 | 2023-09-22 | 2023-10-04 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-03-27 | 2024-04-02 |
 | [3 DRAGS](https://open.spotify.com/track/4tHJc5agHg9LVsijAwtooy) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9) | 2:47 | 2025-06-27 | 2025-10-15 |
+| [3 DRAGS](https://open.spotify.com/track/6TkzDmN6oVbfXNG3C83J9J) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [3 DRAGS](https://open.spotify.com/album/5OblRHQsKSO2vYlK57mO02) | 2:47 | 2026-03-13 |  |
 | [315 \(feat\. Shinda Kahlon & Jazzy B\)](https://open.spotify.com/track/46byBJVhgLiL7e9uedasdg) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY) | [The Brownprint](https://open.spotify.com/album/5ocQ8RmwkpQ2mUwYSgMMH9) | 2:11 | 2024-09-13 | 2025-03-29 |
 | [3:59 AM](https://open.spotify.com/track/2gNMXJDKRmKWuevBGjN8wo) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 4:32 | 2023-08-17 | 2024-10-02 |
 | [3am In Gillco](https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [3am In Gillco](https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t) | 3:19 | 2025-10-10 | 2026-02-28 |
@@ -170,7 +171,7 @@
 | [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-04-19 | 2023-07-22 |
 | [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 | 2023-07-17 | 2023-12-06 |
 | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/track/6zh80VZXzcYm72Wgh6HjWO) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Jagga Jatt \(From "Only Love Gets Reply"\)](https://open.spotify.com/album/4v5lDXsOuEQpT9pxY3J13m) | 3:45 | 2024-05-31 | 2024-07-06 |
-| [Jan Chetna](https://open.spotify.com/track/1COXrlAgzvUzOV09xyNtcf) | [DK Sagar](https://open.spotify.com/artist/6hUxnc6sKz0VTpuHCBpW4L), [Birendra Keshari](https://open.spotify.com/artist/7ebz4MYjpUmMkK6JqzICZe) | [Jan Chetna](https://open.spotify.com/album/2459Rh4HX2GR2kbiDywuIR) | 2:32 | 2026-03-06 |  |
+| [Jan Chetna](https://open.spotify.com/track/1COXrlAgzvUzOV09xyNtcf) | [DK Sagar](https://open.spotify.com/artist/6hUxnc6sKz0VTpuHCBpW4L), [Birendra Keshari](https://open.spotify.com/artist/7ebz4MYjpUmMkK6JqzICZe) | [Jan Chetna](https://open.spotify.com/album/2459Rh4HX2GR2kbiDywuIR) | 2:32 | 2026-03-06 | 2026-03-14 |
 | [Jatt Nahi Dekhya](https://open.spotify.com/track/68WyNOcOccRnKe5EuLjf5i) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj) | [Jatt Nahi Dekhya](https://open.spotify.com/album/3ZILKKdWV01qFymHbZnT6m) | 2:27 | 2025-07-04 | 2025-07-26 |
 | [Jeelo Jeelo](https://open.spotify.com/track/1ESGLmUnjmCQm17B6meNcr) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Jeelo Jeelo](https://open.spotify.com/album/2VyHMIzG8NH8sCszrfgqoR) | 3:21 | 2025-04-18 | 2025-05-10 |
 | [Joban](https://open.spotify.com/track/3KIoFBlUz8Crp42QCkuWIp) | [RESTIVE](https://open.spotify.com/artist/1L4TtjgJFhKLo9fFeY7IfD), [Mcc\-e Mac](https://open.spotify.com/artist/1UsFxA8CuiST0EY1BpNGrx), [Ahmed SupTo](https://open.spotify.com/artist/2RgbPLR1cNK0ijkY12ZE23) | [Hiphoper Bori \- EP](https://open.spotify.com/album/5ilmEFAoHmE9qCPWD0TVPs) | 3:31 | 2025-06-20 | 2025-06-28 |

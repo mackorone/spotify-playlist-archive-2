@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,113 songs - 9 day 2 hr 48 min
+4,114 songs - 9 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1823,6 +1823,7 @@
 | [IO SONO QUI](https://open.spotify.com/track/0OLOmMmkbfMY3c39PtjXqy) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [IO SONO QUI](https://open.spotify.com/album/3nrsk9jpePUmSKLpti0HoO) | 4:16 | 2025-06-01 |  |
 | [Io vivo](https://open.spotify.com/track/1vczhIDK1x7QkcbSIhhiVF) | [Acudo](https://open.spotify.com/artist/2MThqxPPasmHbVF2DB9RkF) | [Io vivo](https://open.spotify.com/album/5bLk4pIX5FF1710OA8XXi2) | 3:41 | 2025-06-06 |  |
 | [Ira](https://open.spotify.com/track/4f1U7j1XN4m584jeRYDmwp) | [Luca Taglioni](https://open.spotify.com/artist/3u3GahUlmZTKMyfTwUby8U) | [7even // System Error!](https://open.spotify.com/album/1H3lwu2xarqYog8RAtqLhQ) | 2:15 | 2026-01-13 |  |
+| [Irish Goodbyes](https://open.spotify.com/track/2FdApGBPtwyMdWVPWcWKyY) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll), [Weathered Pages](https://open.spotify.com/artist/2OihtBTL3YYFu0Y4FbyGui) | [Irish Goodbyes](https://open.spotify.com/album/1pSbkEuIRJmoEIOjqf9SZF) | 4:08 | 2026-03-13 |  |
 | [Iron and Fire](https://open.spotify.com/track/1DokkPiJRC1gzSirZUoabZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Motivational music for body building](https://open.spotify.com/album/7MgJLyZxqc5c8pUgy4kUUL) | 3:11 | 2025-08-19 |  |
 | [Iron and Fire \(another\)](https://open.spotify.com/track/7H1BSMUBCM51exoFkrSS8H) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Motivational music for body building](https://open.spotify.com/album/7MgJLyZxqc5c8pUgy4kUUL) | 3:49 | 2025-08-19 |  |
 | [Iron will](https://open.spotify.com/track/02GmvKt1ED9ZkfToozJgmT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Motivational music for body building](https://open.spotify.com/album/7MgJLyZxqc5c8pUgy4kUUL) | 3:04 | 2025-08-19 |  |

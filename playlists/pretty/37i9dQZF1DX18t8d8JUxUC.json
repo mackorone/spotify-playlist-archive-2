@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 33104,
+  "num_followers": 33135,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "guarda tus migajas",
-        "url": "https://open.spotify.com/album/0e1NpDpEmr5QZEgIBxly2K"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 256633,
-      "name": "guarda tus migajas",
-      "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "guarda tus migajas",
+        "url": "https://open.spotify.com/album/0e1NpDpEmr5QZEgIBxly2K"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 256633,
+      "name": "guarda tus migajas",
+      "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Veo Veo",
-        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
-      },
-      "artists": [
-        {
-          "name": "Gisun",
-          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
-        },
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "Veo Veo",
-      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Escuchado",
         "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Una historia que contar",
-        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
+        "name": "Veo Veo",
+        "url": "https://open.spotify.com/album/2cigOfCH3CpVOO5JvfvPwf"
       },
       "artists": [
         {
-          "name": "Mateo Falgas",
-          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+          "name": "Gisun",
+          "url": "https://open.spotify.com/artist/0m7deAVzyDICJb3x1Lu8kj"
+        },
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         }
       ],
-      "duration_ms": 186995,
-      "name": "Una historia que contar",
-      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
+      "duration_ms": 207999,
+      "name": "Veo Veo",
+      "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "A La Mitad (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6LURF69yHcqbtyr1OrUwko"
+      },
+      "artists": [
+        {
+          "name": "MAURA NAVA",
+          "url": "https://open.spotify.com/artist/3W43SA5H6ybLgyCZ86OANj"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "A La Mitad - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0nZhcBDyshxiuwUXbPs1Ic"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "A La Mitad (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6LURF69yHcqbtyr1OrUwko"
+        "name": "Una historia que contar",
+        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
       },
       "artists": [
         {
-          "name": "MAURA NAVA",
-          "url": "https://open.spotify.com/artist/3W43SA5H6ybLgyCZ86OANj"
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
         }
       ],
-      "duration_ms": 199533,
-      "name": "A La Mitad - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0nZhcBDyshxiuwUXbPs1Ic"
+      "duration_ms": 186995,
+      "name": "Una historia que contar",
+      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 224587,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "Dicen Que Llora",
         "url": "https://open.spotify.com/album/10BgwJJWRUbdyVMFLwbW8d"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 209326,
       "name": "Dicen Que Llora",
       "url": "https://open.spotify.com/track/4ZIwUpohs7PVmyVJDWPprt"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 224587,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
     },
     {
       "added_at": "2026-01-30 05:01:09",

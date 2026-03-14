@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31709,
+  "num_followers": 31711,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACA5HUlXw7qMNy099+zA1pE",
+  "snapshot_id": "abICAAAAAABn8KBJ4Y8Uud3OtDz6tZA+",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country State Of Mind",
-        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
       "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        },
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 180472,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
+      "duration_ms": 192301,
+      "name": "The Pilgrim, Chapter 33",
+      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
     },
     {
       "added_at": null,
@@ -647,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
       "artists": [
         {
@@ -656,9 +652,29 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 192301,
-      "name": "The Pilgrim, Chapter 33",
-      "url": "https://open.spotify.com/track/6NayIkUhQX2HEixCmvbKvY"
+      "duration_ms": 238733,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/7DNGKD2lJcngjtffYpIY9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country State Of Mind",
+        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 180472,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kristofferson",
-        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/7tKThAWCTqEaksY09wViaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Was a Capricorn",
         "url": "https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs"
       },
@@ -787,54 +787,6 @@
       "duration_ms": 206728,
       "name": "Why Me",
       "url": "https://open.spotify.com/track/6uMKkOEkPJRumFvAzo5nr9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "From the Bottle to the Bottom",
-      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 277927,
-      "name": "Desperados Waiting for a Train",
-      "url": "https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK"
     },
     {
       "added_at": null,
@@ -931,6 +883,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "From the Bottle to the Bottom",
+      "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 277927,
+      "name": "Desperados Waiting for a Train",
+      "url": "https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman 2",
         "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
       },
@@ -979,38 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 227878,
-      "name": "Deportee (Plane Wreck at Los Gatos)",
-      "url": "https://open.spotify.com/track/0SjDshX9dKeY73Pf512FMU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
       },
@@ -1039,6 +1007,38 @@
       "duration_ms": 154436,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 227878,
+      "name": "Deportee (Plane Wreck at Los Gatos)",
+      "url": "https://open.spotify.com/track/0SjDshX9dKeY73Pf512FMU"
     },
     {
       "added_at": null,

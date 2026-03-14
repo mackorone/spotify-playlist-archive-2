@@ -928,7 +928,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 455338,
       "name": "Compromisso/ Jesus",
       "url": "https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
@@ -1680,6 +1680,28 @@
       "duration_ms": 504752,
       "name": "Esp\u00edrito Poderoso",
       "url": "https://open.spotify.com/track/3n1t1QGVGNtf0Pmglzddgp"
+    },
+    {
+      "album": {
+        "name": "Essencial (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Maninho",
+          "url": "https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220071,
+      "name": "Essencial - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ"
     },
     {
       "album": {
@@ -2370,7 +2392,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 308875,
       "name": "Louvor dos Pequenos",
       "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 341818,
       "name": "N\u00e3o H\u00e1 Deus Maior - Ao Vivo",
       "url": "https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq"
@@ -4114,7 +4136,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 446526,
       "name": "Ser Mais do Que Ter - Ao Vivo",
       "url": "https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35"

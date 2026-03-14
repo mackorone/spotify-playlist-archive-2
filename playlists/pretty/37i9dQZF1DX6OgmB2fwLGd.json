@@ -1,12 +1,12 @@
 {
   "description": "born on the internet. ft. Nettspend",
-  "num_followers": 1362472,
+  "num_followers": 1362432,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiEWoIyVlmUqJvVz+sFTbGNBM9+",
+  "snapshot_id": "AAAAAGAeY+g/Hz5+AIhHr7rzK4KklDFG",
   "tracks": [
     {
       "added_at": "2026-03-07 23:10:46",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/6jsea2Y8GIyi4pseXQewoZ"
     },
     {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
+        "name": "snow day",
+        "url": "https://open.spotify.com/album/1rCRXGrDjB7MDJO1bw27Hu"
+      },
+      "artists": [
+        {
+          "name": "broncodidntdie",
+          "url": "https://open.spotify.com/artist/4o31UQwKwvdTZdN09IBQ6N"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "halsey st",
+      "url": "https://open.spotify.com/track/3SliAsY0eTWMsS64S7ohUh"
+    },
+    {
       "added_at": "2026-03-09 00:01:52",
       "album": {
         "name": "early life crisis",
@@ -279,6 +295,26 @@
       "duration_ms": 209090,
       "name": "Year of the Dragon",
       "url": "https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N"
+    },
+    {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
+        "name": "We Meant Well",
+        "url": "https://open.spotify.com/album/64xAHKYQraCzrz64jV7tHE"
+      },
+      "artists": [
+        {
+          "name": "nasir",
+          "url": "https://open.spotify.com/artist/1Niu3YCB319WwbIsq18KMh"
+        },
+        {
+          "name": "chinapoet",
+          "url": "https://open.spotify.com/artist/0sGxcnS5CqaIqPohP9Cgy7"
+        }
+      ],
+      "duration_ms": 79952,
+      "name": "Playing",
+      "url": "https://open.spotify.com/track/2CaKcAMr5IPLr9L5NUUxwh"
     },
     {
       "added_at": "2026-02-27 15:29:25",
@@ -411,6 +447,30 @@
       "duration_ms": 160870,
       "name": "fml .",
       "url": "https://open.spotify.com/track/4mVZ9cv6pGt36VNjm6CTue"
+    },
+    {
+      "added_at": "2026-03-13 04:00:41",
+      "album": {
+        "name": "DON'T DIE",
+        "url": "https://open.spotify.com/album/2uEbC2c1GGW93M2KsZEIqW"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        },
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "DON'T DIE",
+      "url": "https://open.spotify.com/track/3mSRZuuXL6NjJosHn64pwu"
     },
     {
       "added_at": "2026-02-27 15:29:25",
@@ -1275,22 +1335,6 @@
     {
       "added_at": "2026-02-27 15:29:25",
       "album": {
-        "name": "ZUMINATI",
-        "url": "https://open.spotify.com/album/6szVSsfB3U9INYVHBQUOCk"
-      },
-      "artists": [
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 121791,
-      "name": "SUICIDE NOTE",
-      "url": "https://open.spotify.com/track/0jKJHqpSazr1i29IILH5wi"
-    },
-    {
-      "added_at": "2026-02-27 15:29:25",
-      "album": {
         "name": "box",
         "url": "https://open.spotify.com/album/4fE2tEA3Ie5jEPyZV9PFDy"
       },
@@ -1407,42 +1451,6 @@
       "duration_ms": 197298,
       "name": "Do It (Yves Remix)",
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
-    },
-    {
-      "added_at": "2026-02-27 15:29:25",
-      "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/7KEc7xSd2Iy00kejA9nGPV"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        },
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/3T7uuh01GneWZzQEkFfXOs"
-    },
-    {
-      "added_at": "2026-02-27 15:29:25",
-      "album": {
-        "name": "925",
-        "url": "https://open.spotify.com/album/0EzTsKjkoeJWbdFBP8NoAj"
-      },
-      "artists": [
-        {
-          "name": "Voda Fuji",
-          "url": "https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO"
-        }
-      ],
-      "duration_ms": 120394,
-      "name": "stay patient",
-      "url": "https://open.spotify.com/track/0shmX3ixNeSi2PWjqWRtJ6"
     }
   ],
   "unique_name": "Internet People",

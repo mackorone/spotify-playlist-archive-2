@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Music around the world ✈️
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,117 likes - 45 songs - 2 hr 39 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 50,116 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 43 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |
 | 44 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 45 | [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 |
+| 46 | [Party Started \(feat\. French Caviar\)](https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ochok](https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [KAYA](https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ), [French Caviar](https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb) | [Party Started \(feat\. French Caviar\)](https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe) | 2:23 |
 
-Snapshot ID: `AAAM22YZ8cWUIWH3L9u/A9K3eSWR8qFQ`
+Snapshot ID: `AAAM3C4AoTzfFqmZ4CbYjrrpp8rdw1hI`

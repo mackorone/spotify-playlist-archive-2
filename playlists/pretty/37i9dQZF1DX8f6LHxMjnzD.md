@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,113 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,581 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 11 | [Aint It Such A Bitch](https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Aint It Such A Bitch](https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p) | 3:26 |
 | 12 | [I’ll Stand By You \(feat\. Blythe\)](https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:33 |
 | 13 | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ) | 2:29 |
-| 14 | [Nothings What It Seems \(feat\. Jackson Dean\)](https://open.spotify.com/track/1lEmEETPDnInlmw2mpPwbg) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z), [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Nothings What It Seems \(feat\. Jackson Dean\)](https://open.spotify.com/album/2qWrDQ6S5kcwfaq4U5eVH1) | 3:12 |
+| 14 | [Nothing's What It Seems \(feat\. Jackson Dean\)](https://open.spotify.com/track/1lEmEETPDnInlmw2mpPwbg) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z), [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Nothing's What It Seems \(feat\. Jackson Dean\)](https://open.spotify.com/album/2qWrDQ6S5kcwfaq4U5eVH1) | 3:12 |
 | 15 | [Light Over the Hill \(from Reminders of Him\)](https://open.spotify.com/track/1TYfVk1t85btBuBGqEnB4g) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Light Over the Hill \(from Reminders of Him\)](https://open.spotify.com/album/3xMWMgRB83AwY5d4fDmTiX) | 4:43 |
 | 16 | [Go Fuck Yourself](https://open.spotify.com/track/4JLAkZz7Dld1XzAs1Q9f4m) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Go Fuck Yourself](https://open.spotify.com/album/5LSoCVjvwI8bfkZlVGYBhu) | 3:42 |
 | 17 | [No Need For Leavin'](https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [No Need For Leavin'](https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6) | 3:35 |

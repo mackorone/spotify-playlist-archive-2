@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 35099,
+  "num_followers": 35115,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -205,10 +205,10 @@
       "url": "https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV"
     },
     {
-      "added_at": "2025-08-07 10:21:40",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Rasera",
-        "url": "https://open.spotify.com/album/18qwZHp3hFLcujFeotKnEc"
+        "name": "MNW Klassiker - Imperiet",
+        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
         }
       ],
-      "duration_ms": 252133,
-      "name": "H\u00f6ghus, l\u00e5ghus, d\u00e5rhus",
-      "url": "https://open.spotify.com/track/6imJaABD546UXqB3HkuD2v"
+      "duration_ms": 256079,
+      "name": "Du ska va president",
+      "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -285,10 +285,10 @@
       "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
     },
     {
-      "added_at": "2024-08-29 22:00:00",
+      "added_at": "2025-08-07 10:21:40",
       "album": {
-        "name": "MNW Klassiker - Imperiet",
-        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
+        "name": "Rasera",
+        "url": "https://open.spotify.com/album/18qwZHp3hFLcujFeotKnEc"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
         }
       ],
-      "duration_ms": 256079,
-      "name": "Du ska va president",
-      "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
+      "duration_ms": 252133,
+      "name": "H\u00f6ghus, l\u00e5ghus, d\u00e5rhus",
+      "url": "https://open.spotify.com/track/6imJaABD546UXqB3HkuD2v"
     },
     {
       "added_at": "2025-08-07 10:21:40",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Grabbarna p\u00e5 Stan",
+        "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
+      },
+      "artists": [
+        {
+          "name": "Danny Cooltmoore",
+          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
+        },
+        {
+          "name": "Grabbarna p\u00e5 Stan",
+          "url": "https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L"
+        }
+      ],
+      "duration_ms": 214592,
+      "name": "Grabbarna p\u00e5 stan",
+      "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "What We Did Best",
         "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 171332,
       "name": "Med munnen full av hat",
       "url": "https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Grabbarna p\u00e5 Stan",
-        "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
-      },
-      "artists": [
-        {
-          "name": "Danny Cooltmoore",
-          "url": "https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF"
-        },
-        {
-          "name": "Grabbarna p\u00e5 Stan",
-          "url": "https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L"
-        }
-      ],
-      "duration_ms": 214592,
-      "name": "Grabbarna p\u00e5 stan",
-      "url": "https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Morgonrock",
-        "url": "https://open.spotify.com/album/49ik5mw9UpRZ8mq3w4HziG"
-      },
-      "artists": [
-        {
-          "name": "J\u00f6nzzonligan",
-          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
-        }
-      ],
-      "duration_ms": 102866,
-      "name": "Morgonrock",
-      "url": "https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "\u00c4nnu En G\u00e5ng",
         "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 155733,
       "name": "\u00c4gander\u00e4tt?",
       "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Morgonrock",
+        "url": "https://open.spotify.com/album/49ik5mw9UpRZ8mq3w4HziG"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6nzzonligan",
+          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+        }
+      ],
+      "duration_ms": 102866,
+      "name": "Morgonrock",
+      "url": "https://open.spotify.com/track/1oCOrqMo9jQykW9kXeeUdg"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Innan du f\u00f6rsvinner",
+        "url": "https://open.spotify.com/album/5vzyrifDDM1ZfYSkVVPJSW"
+      },
+      "artists": [
+        {
+          "name": "Attentat",
+          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "Innan du f\u00f6rsvinner",
+      "url": "https://open.spotify.com/track/38n2koCjpSxcGm5kiun02Q"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "R\u00f6sta p\u00e5 idioter",
         "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 151545,
       "name": "N\u00e4r broar br\u00e4nns",
       "url": "https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Innan du f\u00f6rsvinner",
-        "url": "https://open.spotify.com/album/5vzyrifDDM1ZfYSkVVPJSW"
-      },
-      "artists": [
-        {
-          "name": "Attentat",
-          "url": "https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n"
-        }
-      ],
-      "duration_ms": 200168,
-      "name": "Innan du f\u00f6rsvinner",
-      "url": "https://open.spotify.com/track/38n2koCjpSxcGm5kiun02Q"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Skomakare, bliv vid din l\u00e4st",
+        "url": "https://open.spotify.com/album/292pu4Dl90xGeGfasR16Uv"
+      },
+      "artists": [
+        {
+          "name": "Skallbank",
+          "url": "https://open.spotify.com/artist/3VWuRQ6i73J9RRgpRH2IaH"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "Skomakare, bliv vid din l\u00e4st",
+      "url": "https://open.spotify.com/track/6OUXEjVjBcJF09C3zqJABr"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Vidro / Cankro (Brasil Tour)",
         "url": "https://open.spotify.com/album/08tdwukMxzhjRCFr7owfBw"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Skomakare, bliv vid din l\u00e4st",
-        "url": "https://open.spotify.com/album/292pu4Dl90xGeGfasR16Uv"
-      },
-      "artists": [
-        {
-          "name": "Skallbank",
-          "url": "https://open.spotify.com/artist/3VWuRQ6i73J9RRgpRH2IaH"
-        }
-      ],
-      "duration_ms": 210700,
-      "name": "Skomakare, bliv vid din l\u00e4st",
-      "url": "https://open.spotify.com/track/6OUXEjVjBcJF09C3zqJABr"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "P\u00e5 \u00c4ventyr i Historien III",
         "url": "https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L"
       },
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
         }
       ],
-      "duration_ms": 128973,
-      "name": "Idrottsl\u00e4rarn e str\u00e4ng!",
-      "url": "https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8"
+      "duration_ms": 92360,
+      "name": "SD till Sk\u00e5ne",
+      "url": "https://open.spotify.com/track/3ylfjH5EdN4KmYQd5DMxeV"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "H\u00e5ll er borta",
-        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
-      },
-      "artists": [
-        {
-          "name": "Strikt",
-          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "H\u00e5ll er borta",
-      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "L\u00f6rdag kan bli farlig",
         "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "H\u00e5ll er borta",
+        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
+      },
+      "artists": [
+        {
+          "name": "Strikt",
+          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "H\u00e5ll er borta",
+      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "R\u00f6sta p\u00e5 idioter",
         "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
       },
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
         }
       ],
-      "duration_ms": 92360,
-      "name": "SD till Sk\u00e5ne",
-      "url": "https://open.spotify.com/track/3ylfjH5EdN4KmYQd5DMxeV"
+      "duration_ms": 128973,
+      "name": "Idrottsl\u00e4rarn e str\u00e4ng!",
+      "url": "https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Tills h\u00f6gern skiljer oss \u00e5t",
-        "url": "https://open.spotify.com/album/7gzIKfZxDzOCYjC2QOY0LW"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 177652,
-      "name": "Kom igen det blir kul",
-      "url": "https://open.spotify.com/track/4E8nUba04WNgxFeoLtsxHc"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Upp till dans",
         "url": "https://open.spotify.com/album/18L1bqPh5qwlWXx7LMfib4"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 71094,
       "name": "Allt brinner",
       "url": "https://open.spotify.com/track/7dORssXsZyQAKwXxzMwljM"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Tills h\u00f6gern skiljer oss \u00e5t",
+        "url": "https://open.spotify.com/album/7gzIKfZxDzOCYjC2QOY0LW"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        }
+      ],
+      "duration_ms": 177652,
+      "name": "Kom igen det blir kul",
+      "url": "https://open.spotify.com/track/4E8nUba04WNgxFeoLtsxHc"
     },
     {
       "added_at": "2024-08-29 22:00:00",

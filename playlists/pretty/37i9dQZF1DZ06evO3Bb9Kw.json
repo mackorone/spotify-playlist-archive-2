@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173783,
+  "num_followers": 173782,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAACnjoT6G4g/zCQLqPvXcftw",
+  "snapshot_id": "abICAAAAAAB3csU73Nq2SQ4BSY1kmLSB",
   "tracks": [
     {
       "added_at": null,
@@ -1023,22 +1023,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Shitty Day",
-        "url": "https://open.spotify.com/album/3BZOmOYxTKHHfoxTJD4Yw2"
+        "name": "Greenfields: The Gibb Brothers' Songbook (Vol. 1)",
+        "url": "https://open.spotify.com/album/3IFJ7ZGMjHErGmW9NAOdkp"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Barry Gibb",
+          "url": "https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d"
+        },
+        {
+          "name": "Jay Buchanan",
+          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
         },
         {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 264456,
-      "name": "Hello Shitty Day",
-      "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
+      "duration_ms": 237624,
+      "name": "Jive Talkin' (feat. Jay Buchanan & Miranda Lambert)",
+      "url": "https://open.spotify.com/track/7xJZbFvjiVtlrjSISl8wrK"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

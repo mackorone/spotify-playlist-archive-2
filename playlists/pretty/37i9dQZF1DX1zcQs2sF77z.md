@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,459 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,588 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 40 | [The Sound Of San Francisco \- Progressive Album Mix](https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L) | [Network \- taken from Superstar](https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL) | 3:44 |
 | 41 | [So Many Times](https://open.spotify.com/track/6Sf1pkm2m5Pe2mh6USmg72) | [Gadjo](https://open.spotify.com/artist/28ZtvtD63uuc4Lf81lYWmr), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [We Love House \- The Anthems](https://open.spotify.com/album/4wPX46p1gxaXvDYLyWSGTn) | 4:01 |
 | 42 | [Smack My Bitch Up](https://open.spotify.com/track/48vDCZIRmrFO33fH4QU4ij) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP) | 5:43 |
-| 43 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
-| 44 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
+| 43 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
+| 44 | [Vogue](https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 5:17 |
 | 45 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
 | 46 | [Seek Bromance \- Avicii Vocal Edit](https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Seek Bromance](https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ) | 3:20 |
 | 47 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 |

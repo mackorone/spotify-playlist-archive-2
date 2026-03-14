@@ -3939,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "Cute",
+        "url": "https://open.spotify.com/album/0KafD7J4XoiLvLwI9tBjIa"
+      },
+      "artists": [
+        {
+          "name": "Asara",
+          "url": "https://open.spotify.com/artist/5W1dRz6kNfJb2cSPQKErpD"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136011,
+      "name": "Cute",
+      "url": "https://open.spotify.com/track/5Io5zi4VLNLSV0HZ0muPPW"
+    },
+    {
+      "album": {
         "name": "Cuz You're My Girl",
         "url": "https://open.spotify.com/album/53bd4Vo0JyNRk4odnRYHYT"
       },
@@ -13218,7 +13236,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 114916,
       "name": "Really good cry",
       "url": "https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js"

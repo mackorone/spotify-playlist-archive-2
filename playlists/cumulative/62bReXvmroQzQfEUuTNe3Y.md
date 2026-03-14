@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-556 songs - 1 day 6 hr 37 min
+557 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Want It](https://open.spotify.com/track/37OhtSnCY0kzqkPWmfN3RD) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Want It](https://open.spotify.com/album/495KToZQi6VijKwHedBAAH) | 2:32 | 2021-06-12 | 2021-07-17 |
 | [Warmer](https://open.spotify.com/track/5KiXHbjpJuKD4XHR1fcjYP) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Warmer](https://open.spotify.com/album/5wLRDM7IOWxh997fsJrtD9) | 2:32 | 2021-09-18 | 2021-11-11 |
 | [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 | 2025-11-29 |
+| [We Run](https://open.spotify.com/track/2ZGSXWF4H5HogHxtKbyckj) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [We Run](https://open.spotify.com/album/5U0ILMp243WIMY4dTX9MPO) | 2:42 | 2026-03-13 |  |
 | [Weaker](https://open.spotify.com/track/1WW0ySdWu6esAJmCfgR7IQ) | [Nathan C](https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Weaker](https://open.spotify.com/album/5Le7aCrnjNvszvKLj7wGwM) | 2:53 | 2026-02-06 |  |
 | [Weightless](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Weightless](https://open.spotify.com/album/2lJ4zllo7kxxEbeWTJxLR6) | 3:06 | 2024-10-18 | 2025-04-16 |
 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 | 2025-01-03 | 2025-07-31 |

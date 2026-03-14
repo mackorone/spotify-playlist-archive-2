@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Mulaa Joans
 
-1,035 songs - 2 day 8 hr 59 min
+1,036 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -717,7 +717,7 @@
 | [Over For Real](https://open.spotify.com/track/3VmY28meB22GwWl0L5BxyG) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Over For Real](https://open.spotify.com/album/4B4ozTRKVP1bVQJjsmJaDH) | 2:54 | 2022-06-03 | 2022-06-08 |
 | [Over the Moon](https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Over the Moon](https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef) | 4:16 | 2024-02-16 | 2024-03-05 |
 | [Overplayed](https://open.spotify.com/track/650A0ErUKCd1d8Imckr7qV) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Overplayed](https://open.spotify.com/album/7C2ZsCHmkGtHlXb2xCHgWr) | 3:02 | 2021-12-17 | 2022-07-30 |
-| [Overwhelmed](https://open.spotify.com/track/1PF77rPYFoBNbWseo9utyS) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Overwhelmed](https://open.spotify.com/album/0Ua8pmFJYWdEU0yUcli2qK) | 3:51 | 2025-11-21 |  |
+| [Overwhelmed](https://open.spotify.com/track/1PF77rPYFoBNbWseo9utyS) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Overwhelmed](https://open.spotify.com/album/0Ua8pmFJYWdEU0yUcli2qK) | 3:51 | 2025-11-21 | 2026-03-14 |
 | [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 | 2024-04-26 | 2024-05-18 |
 | [Pain](https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Pain](https://open.spotify.com/album/1gNekazz4PqtPKSkCAORqp) | 3:39 | 2021-12-24 | 2022-06-25 |
 | [pain's my only home](https://open.spotify.com/track/4YGh99Jth1t1pOmVQL5eiq) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [pain's my only home](https://open.spotify.com/album/4hYiYwdqXXdrPE9tHlAmDI) | 3:17 | 2023-01-06 | 2023-09-02 |
@@ -856,6 +856,7 @@
 | [talking in your sleep](https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [From the Next Room](https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY) | 3:10 | 2024-02-23 | 2024-03-05 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2021-12-17 |  |
 | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Te Maldigo \(From "Queer"\)](https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923) | 2:53 | 2024-11-25 | 2025-01-18 |
+| [teach you to love me](https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [teach you to love me](https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE) | 3:09 | 2026-03-13 |  |
 | [tear myself apart](https://open.spotify.com/track/4AuYFl8wn6502LiHDTr0C9) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [all the things i never said](https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Teenage Tears](https://open.spotify.com/track/02bXsIFfIuKXcNw1LTBu80) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Teenage Tears](https://open.spotify.com/album/1V5vfb0B2U2pMuyfz3NDOi) | 3:22 | 2022-09-02 | 2022-09-10 |
 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 | 2026-01-09 |  |

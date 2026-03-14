@@ -4,7 +4,7 @@
 
 > Music around the world ✈️
 
-203 songs - 11 hr 55 min
+204 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Orbit](https://open.spotify.com/track/4Chh48sJvF2SF0ROHaRo30) | [2FA](https://open.spotify.com/artist/5aNRQu2IzF90FAIXbFQq4n), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Liquid Bodies](https://open.spotify.com/album/6HRNxOIua8QIrQcQJo6khj) | 6:05 | 2025-06-26 | 2026-02-27 |
 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 | 2021-11-05 | 2026-02-27 |
 | [PALM SPRINGS](https://open.spotify.com/track/0KWDPINXq2YWsHjlC22flO) | [Distance Learning](https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd) | [PALM SPRINGS](https://open.spotify.com/album/2TbX2nyWZdxlyMI9CgUmRn) | 2:51 | 2022-05-09 | 2022-07-14 |
+| [Party Started \(feat\. French Caviar\)](https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ochok](https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a), [KAYA](https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ), [French Caviar](https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb) | [Party Started \(feat\. French Caviar\)](https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe) | 2:23 | 2026-03-13 |  |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2023-05-30 | 2026-02-27 |
 | [periergo](https://open.spotify.com/track/3h6MzTmKYidaQVvZyshj5j) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [mynameisleonidas](https://open.spotify.com/album/2r9YXXiFLz4VB4oSsVYA2h) | 2:07 | 2023-05-30 | 2026-02-27 |
 | [Playboy](https://open.spotify.com/track/3OHEg0bjexTu5dnVzm5xlN) | [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Playboy](https://open.spotify.com/album/2BDbKVkQ00i8Nwaf4cN3mC) | 3:29 | 2022-06-20 | 2022-09-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: Wizkid and Asake",
+  "description": "Nigeria's hottest tracks.  Cover: Mavo",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
@@ -7045,6 +7045,28 @@
     },
     {
       "album": {
+        "name": "MANY GIRLS",
+        "url": "https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "BRUME",
+          "url": "https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "MANY GIRLS",
+      "url": "https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE"
+    },
+    {
+      "album": {
         "name": "Fuji",
         "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
@@ -7320,6 +7342,24 @@
       "duration_ms": 358550,
       "name": "Mnike (Remix) (feat. DJ Maphorisa, Shallipopi, Lojay, Ceeka RSA, Tyrone Dee & Nandipha808)",
       "url": "https://open.spotify.com/track/77q3rIpcqFsTo7qNvKNiOh"
+    },
+    {
+      "album": {
+        "name": "Mofe",
+        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mofe",
+      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
     },
     {
       "album": {
@@ -10442,7 +10482,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174812,
       "name": "Speed",
       "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"

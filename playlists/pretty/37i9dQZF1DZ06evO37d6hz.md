@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 19 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 466 likes - 19 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37d6hz.md) - [plain]
 | 15 | [Taking It Further](https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:51 |
 | 16 | [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 |
 | 17 | [Appalachian Grove III](https://open.spotify.com/track/79qnW6PocozamltQqh8In9) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 3:14 |
-| 18 | [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 |
+| 18 | [Three Sonic Spaces III](https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 5:53 |
 | 19 | [Drums](https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 7:09 |
 
-Snapshot ID: `abCwgAAAAAAxP1DUJ5pR3Lj7mphqFUCn`
+Snapshot ID: `abICAAAAAAC7SU8tjkVHsDdYkRBMWwXQ`

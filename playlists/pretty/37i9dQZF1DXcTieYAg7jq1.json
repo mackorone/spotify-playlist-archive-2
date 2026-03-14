@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Alex Sampson",
-  "num_followers": 434635,
+  "num_followers": 434747,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALsySSKWuNC4otCUipPfgqGhirP",
+  "snapshot_id": "AAAAAHIFXC4HqlCZZ5mMBpbreIWxDEzE",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
+    },
+    {
       "added_at": "2026-02-27 05:00:42",
       "album": {
         "name": "Let Me Love You",
@@ -55,6 +87,22 @@
       "duration_ms": 193181,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Love Bites Back",
+        "url": "https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 191495,
+      "name": "Love Bites Back",
+      "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"
     },
     {
       "added_at": "2026-03-09 17:32:23",
@@ -73,20 +121,20 @@
       "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
     },
     {
-      "added_at": "2026-02-27 05:00:42",
+      "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Leaving Me Lonely",
-        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
+        "name": "Love Me Twice",
+        "url": "https://open.spotify.com/album/63R5hFgQ7DPeLdJijGmmoP"
       },
       "artists": [
         {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
         }
       ],
-      "duration_ms": 192954,
-      "name": "Leaving Me Lonely",
-      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
+      "duration_ms": 143745,
+      "name": "Love Me Twice",
+      "url": "https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk"
     },
     {
       "added_at": "2026-03-06 05:00:11",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
+      "added_at": "2026-02-20 05:00:45",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
+    },
+    {
       "added_at": "2026-02-27 05:00:42",
       "album": {
         "name": "The Romantic",
@@ -119,6 +183,54 @@
       "duration_ms": 174676,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "halfwaythru",
+        "url": "https://open.spotify.com/album/4M9UUoDwpHSUsCckEVCHs9"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 193627,
+      "name": "halfwaythru",
+      "url": "https://open.spotify.com/track/1MhgFh4MeZidEY3LkyYRr1"
+    },
+    {
+      "added_at": "2026-02-23 17:14:33",
+      "album": {
+        "name": "prettyboy",
+        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
+      },
+      "artists": [
+        {
+          "name": "Mira Housey",
+          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+        }
+      ],
+      "duration_ms": 152125,
+      "name": "prettyboy",
+      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
+    },
+    {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2026-03-09 17:32:23",
@@ -153,20 +265,20 @@
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
-      "added_at": "2026-02-23 17:14:33",
+      "added_at": "2026-02-27 05:00:42",
       "album": {
-        "name": "prettyboy",
-        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
+        "name": "Leaving Me Lonely",
+        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
       },
       "artists": [
         {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
         }
       ],
-      "duration_ms": 152125,
-      "name": "prettyboy",
-      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
+      "duration_ms": 192954,
+      "name": "Leaving Me Lonely",
+      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -199,38 +311,6 @@
       "duration_ms": 182664,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/70SphmUAaMjESCWLOc9eGX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:45",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
-      },
-      "artists": [
-        {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
-    },
-    {
-      "added_at": "2026-02-27 05:00:42",
-      "album": {
-        "name": "Nightingale Lane.",
-        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 302623,
-      "name": "Nightingale Lane.",
-      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -279,22 +359,6 @@
       "duration_ms": 170104,
       "name": "Indicator",
       "url": "https://open.spotify.com/track/6JnryIdhlapiO1ZPV2AD4H"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
-        "name": "halfwaythru",
-        "url": "https://open.spotify.com/album/4M9UUoDwpHSUsCckEVCHs9"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 193627,
-      "name": "halfwaythru",
-      "url": "https://open.spotify.com/track/1MhgFh4MeZidEY3LkyYRr1"
     },
     {
       "added_at": "2026-01-23 05:00:23",
@@ -1647,70 +1711,6 @@
       "duration_ms": 188953,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/0BeqFdVAkpVJHkFSl4EEf7"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Love Don\u2019t Let Me Go",
-        "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
-      },
-      "artists": [
-        {
-          "name": "Angelina Jordan",
-          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
-        }
-      ],
-      "duration_ms": 177793,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/6ezo2KxwPTWq0Ov5IyIx22"
-      },
-      "artists": [
-        {
-          "name": "Brent Morgan",
-          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Big Dumb Heart",
-        "url": "https://open.spotify.com/album/1CgmwafARAUBIoyuOVCDnm"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 216314,
-      "name": "Big Dumb Heart",
-      "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
     }
   ],
   "unique_name": "Retro Pop",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Vincent Khouni",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Bonne nuit, ch\u00e9rie",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/7qJRJWYdkHzZmgh8F4e3k0"
+      },
+      "artists": [
+        {
+          "name": "Philippe B",
+          "url": "https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268559,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/5diLSr4cPJIgopAGt2MWlw"
+    },
+    {
+      "album": {
         "name": "2 go\u00e9lands",
         "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 178306,
       "name": "2 go\u00e9lands",
       "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Amour Reptile",
+        "url": "https://open.spotify.com/album/7Bc8YH3r0ICDLSCRcaXrsw"
+      },
+      "artists": [
+        {
+          "name": "Thomas B\u00e9lair-Ferland",
+          "url": "https://open.spotify.com/artist/7vIyb0WTs17s4loPgQxdEC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170149,
+      "name": "Amour Reptile",
+      "url": "https://open.spotify.com/track/1U66WYXYcwVq1DtSewHAKa"
+    },
+    {
+      "album": {
         "name": "Another Tangerine",
         "url": "https://open.spotify.com/album/4C5UWdlzMyFyBcch7mjck1"
       },
@@ -262,7 +298,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 113898,
       "name": "Au d\u00e9but du soleil",
       "url": "https://open.spotify.com/track/48XwaGQMz2YpbxJk9VBeI9"
@@ -468,7 +504,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 175381,
       "name": "Bellechasse",
       "url": "https://open.spotify.com/track/3NTjxEYcqM6b3m7Qy4TLF6"
@@ -504,7 +540,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 290440,
       "name": "Besoin de personne",
       "url": "https://open.spotify.com/track/4dJUQN4NEO3k5LiUtdQb1b"
@@ -888,7 +924,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 166363,
       "name": "Chance",
       "url": "https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5"
@@ -1026,6 +1062,24 @@
       "duration_ms": 198586,
       "name": "Ch\u00e2teau de sable",
       "url": "https://open.spotify.com/track/4c9YqPthFT6LIFSQehoZre"
+    },
+    {
+      "album": {
+        "name": "Ciao bye bonsoir!",
+        "url": "https://open.spotify.com/album/0r8IYVgDP5ay1TO97VJz6q"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Ciao bye bonsoir!",
+      "url": "https://open.spotify.com/track/5nrFeomM9BET3f0UBu85WM"
     },
     {
       "album": {
@@ -1983,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Fame and Fortune",
+        "url": "https://open.spotify.com/album/7kbAqv24wUpbzc3bJmAUH7"
+      },
+      "artists": [
+        {
+          "name": "Eman Alali",
+          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Fame and Fortune",
+      "url": "https://open.spotify.com/track/4Dc2wdGDO4qFwxzWYV0DkP"
+    },
+    {
+      "album": {
         "name": "Feu de paille",
         "url": "https://open.spotify.com/album/6BRYJkvN7L16RK79er9TPL"
       },
@@ -2384,6 +2456,24 @@
       "duration_ms": 145384,
       "name": "Homme \u00e0 la mer",
       "url": "https://open.spotify.com/track/6dkBRC3Xfo8pNDAuPaqQzi"
+    },
+    {
+      "album": {
+        "name": "Hope/Home",
+        "url": "https://open.spotify.com/album/7Ax0kBAQxqp6w3mQmeD1EE"
+      },
+      "artists": [
+        {
+          "name": "Jason Zerafa",
+          "url": "https://open.spotify.com/artist/3c8FUhue0FjCKhbRQo5w9t"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255951,
+      "name": "Hope/Home",
+      "url": "https://open.spotify.com/track/2JPx92xJ8ezddJz4gueCZO"
     },
     {
       "album": {
@@ -3275,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "R3",
+        "url": "https://open.spotify.com/album/3EcYRQfM93Vi9uAKZ1gVWy"
+      },
+      "artists": [
+        {
+          "name": "Jashim",
+          "url": "https://open.spotify.com/artist/3erJqJ388hvf1VTPKG8JDp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "La confr\u00e9rie du N\u00e9ant",
+      "url": "https://open.spotify.com/track/1sqmolF8WpMPJXJFayjLfb"
+    },
+    {
+      "album": {
         "name": "Pub Royal",
         "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
@@ -3473,6 +3581,24 @@
     },
     {
       "album": {
+        "name": "La saison est finie",
+        "url": "https://open.spotify.com/album/5QtzabOnL8EGEwM6FiFMkB"
+      },
+      "artists": [
+        {
+          "name": "Laurence Castera",
+          "url": "https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "La saison est finie",
+      "url": "https://open.spotify.com/track/2LqwwxfT2oKimMNG5KvtUI"
+    },
+    {
+      "album": {
         "name": "Testament",
         "url": "https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0"
       },
@@ -3582,7 +3708,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188875,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/7fHldbxnhn9KhxvT9yaZZh"
@@ -3961,6 +4087,28 @@
     },
     {
       "album": {
+        "name": "Le Spectre",
+        "url": "https://open.spotify.com/album/5qMrZgeLohAtwItdI7Esax"
+      },
+      "artists": [
+        {
+          "name": "Desy",
+          "url": "https://open.spotify.com/artist/6bWX5tQebid2OyNLzJDT9Q"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214522,
+      "name": "Le Spectre",
+      "url": "https://open.spotify.com/track/2nsfLmU40tquCtYY6dPnnb"
+    },
+    {
+      "album": {
         "name": "Demain il fera beau",
         "url": "https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv"
       },
@@ -4098,7 +4246,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 189200,
       "name": "Les mar\u00e9es",
       "url": "https://open.spotify.com/track/0qqSadjTXmWlIPINefIjTf"
@@ -4206,7 +4354,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 199679,
       "name": "Let 'Em Go",
       "url": "https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc"
@@ -5023,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/3uk1PrItz6lETT2ooiL8wI"
+      },
+      "artists": [
+        {
+          "name": "Emma Beko",
+          "url": "https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180205,
+      "name": "November",
+      "url": "https://open.spotify.com/track/5KvvoUGjQbhvxXcy4uGv92"
+    },
+    {
+      "album": {
         "name": "N\u00e9ant ordinaire",
         "url": "https://open.spotify.com/album/6nkpqHZt6rX5hQLUUWWcpg"
       },
@@ -5380,7 +5546,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 197323,
       "name": "Perdu la t\u00eate",
       "url": "https://open.spotify.com/track/6AXxV0lvClwXZxqf73k86m"
@@ -6243,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "Sortie de secours",
+        "url": "https://open.spotify.com/album/3FrDldEDTE9rEBGj79Oozf"
+      },
+      "artists": [
+        {
+          "name": "Bonne nuit, ch\u00e9rie",
+          "url": "https://open.spotify.com/artist/7ug7YjtHvqyA1QY2tRfjC9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225675,
+      "name": "Sortie de secours",
+      "url": "https://open.spotify.com/track/1cTE0B3UAdUeKvq9ni5aSC"
+    },
+    {
+      "album": {
         "name": "Rowdy",
         "url": "https://open.spotify.com/album/0aVCerUqigTqhq8AybZMh4"
       },
@@ -6665,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Toi mon unique d\u00e9sir",
+        "url": "https://open.spotify.com/album/6mJ3JqXLDRVjGUkRj4BMzX"
+      },
+      "artists": [
+        {
+          "name": "Moindre Mal",
+          "url": "https://open.spotify.com/artist/30BtBeDtNxVUNJQtly9vFo"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272420,
+      "name": "Toi mon unique d\u00e9sir",
+      "url": "https://open.spotify.com/track/0Dam5xgPCZMrh24MH0wiNH"
+    },
+    {
+      "album": {
         "name": "TOUGH CROWD",
         "url": "https://open.spotify.com/album/2gUhRQEjvYryFgNomAPGUh"
       },
@@ -6814,7 +7016,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 174151,
       "name": "Tout recommence",
       "url": "https://open.spotify.com/track/6k4AAQgHGx1Lt7jcz0nsKM"
@@ -7300,7 +7502,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 247019,
       "name": "You Can Dance",
       "url": "https://open.spotify.com/track/7qJEpe7TlhgdRSnj0uSbNZ"
@@ -7383,6 +7585,24 @@
     },
     {
       "album": {
+        "name": "\u00c0 la pointe de l'idiocratie",
+        "url": "https://open.spotify.com/album/3zN0sVqB017nnpxrfF9QKc"
+      },
+      "artists": [
+        {
+          "name": "Tire Le Coyote",
+          "url": "https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227566,
+      "name": "\u00c0 la pointe de l'idiocratie",
+      "url": "https://open.spotify.com/track/08Gj96l9KtVwrVV2k0OPPj"
+    },
+    {
+      "album": {
         "name": "\u00c0 quand les vacances",
         "url": "https://open.spotify.com/album/6DqlBT724KRL48bCsabY5y"
       },
@@ -7434,7 +7654,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 264580,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"

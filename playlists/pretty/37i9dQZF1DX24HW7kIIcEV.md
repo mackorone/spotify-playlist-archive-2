@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > T is for..\. twenty years of High School Musical
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,536 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,566 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 64 | [Determinate \- From "Lemonade Mouth"](https://open.spotify.com/track/4qEoqyPbLYnLOii6mKlIjI) | [Adam Hicks](https://open.spotify.com/artist/3dctbbXhrRgigX1icexnws), [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb), [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:18 |
 | 65 | [Gotta Go My Own Way](https://open.spotify.com/track/5rWIO1uP0GwAoU45RTBJ2F) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:42 |
 | 66 | [Crazier](https://open.spotify.com/track/3De1LyIjNUrzsBt4cTu0iv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Hannah Montana The Movie](https://open.spotify.com/album/2vBF31kBRYg7sGXyrdPdz1) | 3:11 |
-| 67 | [Can't Back Down \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/51NrdlQOSTeq0d6U7xRKsz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Alyson Stoner](https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL), [Anna Maria Perez de Taglé](https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf), [Char Ligera](https://open.spotify.com/artist/2h9CHSuQGKaM74UFj8MYDt) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:19 |
+| 67 | [Can't Back Down \- From "Camp Rock 2: The Final Jam"](https://open.spotify.com/track/51NrdlQOSTeq0d6U7xRKsz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Alyson Stoner](https://open.spotify.com/artist/5ZuWrQzWBgJXbAfcLx2WTL), [Anna Maria Perez de Taglé](https://open.spotify.com/artist/4Sq9ZAY2paQJhzhuBSRoKf) | [Camp Rock 2: The Final Jam](https://open.spotify.com/album/5iK842b9xnZblgZkRxWCFe) | 3:19 |
 | 68 | [You Are the Music in Me](https://open.spotify.com/track/0Qd6nAlCe5RCSpFpQVT4JI) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7) | [High School Musical 2](https://open.spotify.com/album/4EqBweuKsDW4wd0CNZYSrG) | 3:27 |
 | 69 | [Do You Believe In Magic](https://open.spotify.com/track/7zBq7YCjuIxQRxqhtKJNbI) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Into The Rush](https://open.spotify.com/album/1Qx0TayWQYtbHAR7ECJyj7) | 2:14 |
 | 70 | [Kiss the Girl](https://open.spotify.com/track/6kkFjjMbO9EL1YxNt8BKm3) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:22 |

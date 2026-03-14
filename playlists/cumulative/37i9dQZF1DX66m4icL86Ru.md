@@ -2,9 +2,9 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Zara Larsson & PinkPantheress
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Slayyyter
 
-590 songs - 1 day 4 hr 16 min
+591 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Oh Shhh](https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Oh Shhh](https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S) | 1:33 | 2022-01-07 | 2022-02-26 |
 | [Oh Shhh...\(with Travis Scott\)](https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 2:41 | 2024-07-26 | 2024-08-09 |
 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 | 2024-04-12 |  |
+| [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 | 2026-03-13 |  |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2023-09-22 |  |
 | [OMG BRITT](https://open.spotify.com/track/1lHO9Z4KzFzm9VPxKvT0KE) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [OMG BRITT](https://open.spotify.com/album/1ZxJENucMcyS2Q34PckcAx) | 2:52 | 2022-09-09 | 2022-10-22 |
 | [On My Body](https://open.spotify.com/track/5uxzcaOKTqgUf6E9KXftKz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:37 | 2025-04-12 | 2025-10-25 |

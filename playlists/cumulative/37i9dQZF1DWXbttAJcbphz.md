@@ -2,7 +2,7 @@
 
 ### [I Love My '10s R&B](https://open.spotify.com/playlist/37i9dQZF1DWXbttAJcbphz)
 
-> The most essential R&B songs from the 2010s\. Cover: Summer Walker
+> The most essential R&B songs from the 2010s\. Cover: Jhené Aiko
 
 174 songs - 10 hr 55 min
 
@@ -97,7 +97,7 @@
 | [Lay It Down](https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 4:00 | 2020-10-02 |  |
 | [Let It Burn](https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Reality Show](https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh) | 3:43 | 2020-10-02 | 2022-07-26 |
 | [Let Me Know \(feat\. Future\)](https://open.spotify.com/track/7wA4XiTQOWByeF6DGWoxkt) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Let Me Know \(feat\. Future\)](https://open.spotify.com/album/36VA7yfhwI8LjGtK8Kmgrt) | 3:58 | 2025-04-14 |  |
-| [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 | 2022-08-21 | 2024-09-10 |
+| [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 | 2022-08-21 |  |
 | [Location](https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:39 | 2020-10-02 |  |
 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 | 2022-08-21 |  |
 | [Love All Over Me](https://open.spotify.com/track/3jmrIQTRL9ea0Xv4yCvJEJ) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Still Standing](https://open.spotify.com/album/74q6SppUb5vWXAltV7B6bA) | 3:49 | 2020-10-02 | 2022-07-01 |
@@ -110,7 +110,7 @@
 | [Loyal \(feat\. Lil Wayne & Tyga\)](https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 4:24 | 2020-10-02 |  |
 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 | 2020-10-02 |  |
 | [My Main](https://open.spotify.com/track/5embh0i7ZHHn3BXhjoeihX) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [My Main](https://open.spotify.com/album/3QBZR7Km3B91LtvGQ6amck) | 3:32 | 2025-05-30 |  |
-| [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 | 2022-08-21 |  |
+| [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 | 2022-08-21 | 2026-03-14 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2022-08-21 | 2022-09-09 |
 | [Needed Me](https://open.spotify.com/track/4NlnpZPi5Z3r1uuyRglUhO) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/48i37aZTC1prDr4EcpQeEa) | 3:11 | 2020-10-02 | 2022-07-29 |
 | [Needed Me](https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:11 | 2022-08-21 |  |

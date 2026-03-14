@@ -1,18 +1,18 @@
 {
   "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Detonautas",
-  "num_followers": 480151,
+  "num_followers": 480111,
   "original_name": "P\u00e1tria Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr",
+  "snapshot_id": "AAAAAMpe54QgsPPGpv9LxTBSH70LA+yH",
   "tracks": [
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
-        "name": "Vampira",
-        "url": "https://open.spotify.com/album/5cQ3ATb7h1qkPhHu15jKhP"
+        "name": "R\u00e1dio Love Nacional",
+        "url": "https://open.spotify.com/album/1xkaz4CYpvhnsHAHBlmqRv"
       },
       "artists": [
         {
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
         }
       ],
-      "duration_ms": 127877,
-      "name": "Vampira",
-      "url": "https://open.spotify.com/track/4Jxn2gmc5uWV18hwUzDzlB"
+      "duration_ms": 179846,
+      "name": "R\u00e1dio Love Nacional",
+      "url": "https://open.spotify.com/track/4FvLxCjHYdTUKlCPRtXhrc"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Dores",
         "url": "https://open.spotify.com/album/19i3XUbnt8Q63pkDDiK574"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2d6JtFeZ8UoJ0J7IM8Ejjb"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "20 Anos - Ac\u00fastico",
         "url": "https://open.spotify.com/album/16okUPvniGJp4tXjeLBgLw"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/4bsZ1px2MlpkIviocF4qFv"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Acelera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/49V35LbDrHrmGgqModSxwF"
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/1ytWr2DLv9xdTxc1vJQsd1"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "ACNXX Ao Vivo em Salvador",
         "url": "https://open.spotify.com/album/6gNktSnoD3M0KFIecwOBeJ"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/0xOLW52lNZdUssAMxgcTn5"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "Medo",
+        "url": "https://open.spotify.com/album/27By7SFafQ60MkQjPIwIxb"
+      },
+      "artists": [
+        {
+          "name": "Inimigos Do Rei",
+          "url": "https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj"
+        }
+      ],
+      "duration_ms": 172250,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/757ngUc1wC8VWyEMzivOv9"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Frut\u00edfero",
         "url": "https://open.spotify.com/album/5NjD5I7YZ5DTYuTNN0QkGK"
@@ -117,23 +133,7 @@
       "url": "https://open.spotify.com/track/2SZ2QCsVtttTB4jNX9oOJX"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "Helena",
-        "url": "https://open.spotify.com/album/0lcLoM63dT3VY1elCHRBwE"
-      },
-      "artists": [
-        {
-          "name": "Lua Dultra",
-          "url": "https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh"
@@ -149,23 +149,23 @@
       "url": "https://open.spotify.com/track/6S71HoKuRv0DkUseOwBWwl"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/5DDhREXx5fMZqiw9gmKGD7"
+        "name": "Et\u00e9reo",
+        "url": "https://open.spotify.com/album/4cC2ZLjqDWU4MFI1vP9ca5"
       },
       "artists": [
         {
-          "name": "Drive",
-          "url": "https://open.spotify.com/artist/2nYaKzPM2cPAb3W8CmtwHY"
+          "name": "Carvel",
+          "url": "https://open.spotify.com/artist/1EkD4MU0DeLqWp7kBWaxDI"
         }
       ],
-      "duration_ms": 277880,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/7MxbNDAKn4S7JcooB23sdz"
+      "duration_ms": 204032,
+      "name": "Et\u00e9reo",
+      "url": "https://open.spotify.com/track/5GN0aHPMWtoIVM8yqisEie"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Perspectiva",
         "url": "https://open.spotify.com/album/7MVLwQzkCwiVraGaEHpw1h"
@@ -181,27 +181,7 @@
       "url": "https://open.spotify.com/track/10ehnUrR5Hbuu2LV2TGN4C"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "c\u00e2mera lenta",
-        "url": "https://open.spotify.com/album/12jM9nF18d0QNYq4oPGcSU"
-      },
-      "artists": [
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
-        },
-        {
-          "name": "Tupi & Os Crocodilos de Marte",
-          "url": "https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "c\u00e2mera lenta",
-      "url": "https://open.spotify.com/track/7J2k4Z4orcvvABFHncb5p6"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Potinho de Veneno",
         "url": "https://open.spotify.com/album/0FEy7NRnyMSxHF0GSl1Ifw"
@@ -217,7 +197,7 @@
       "url": "https://open.spotify.com/track/3smgMtxQbgUXzNCVxWaIeX"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "EU QUERO VIVER",
         "url": "https://open.spotify.com/album/39qkzFsGJOgOtuwY5ujpLy"
@@ -233,7 +213,7 @@
       "url": "https://open.spotify.com/track/18Vb9R5RB7dQuHwcFQ7EBB"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Agora (Mixagem 2023)",
         "url": "https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz"
@@ -249,7 +229,7 @@
       "url": "https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Perif\u00e9rica",
         "url": "https://open.spotify.com/album/0wHUkC47kUthXsyYEXD0Rz"
@@ -269,23 +249,7 @@
       "url": "https://open.spotify.com/track/5aKakUGgL6zXeiJUj0Y2Fp"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "A NASCENTE",
-        "url": "https://open.spotify.com/album/72ux7Fr72430bcA4Dnw5L2"
-      },
-      "artists": [
-        {
-          "name": "RANCORE",
-          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
-        }
-      ],
-      "duration_ms": 192554,
-      "name": "A NASCENTE",
-      "url": "https://open.spotify.com/track/6bcFUcHsSV1N5ZNdY5y2HL"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Amor",
         "url": "https://open.spotify.com/album/31cdOaeEbzQO8yLI8w8xip"
@@ -309,7 +273,7 @@
       "url": "https://open.spotify.com/track/3KxipU1Yi6wRpI8h9NvdEU"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Capital Inicial 4.0 (Deluxe)",
         "url": "https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv"
@@ -329,7 +293,7 @@
       "url": "https://open.spotify.com/track/3IBGVjbsGYQxkpY9oNNpyG"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "abatido mas n\u00e3o derrotado",
         "url": "https://open.spotify.com/album/0KQMepeez8i64E4P965nFc"
@@ -345,7 +309,7 @@
       "url": "https://open.spotify.com/track/2Sqc8PZC5j2w31BTt0MjEi"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Vol\u00fapia",
         "url": "https://open.spotify.com/album/5GtuXWGeEZtUWXCG6YqfD4"
@@ -361,43 +325,7 @@
       "url": "https://open.spotify.com/track/4IImC7EaEODHkGsfuhM78P"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
-        "url": "https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F"
-      },
-      "artists": [
-        {
-          "name": "BAD LUV",
-          "url": "https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
-      "url": "https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "Desde Que Eu Morri",
-        "url": "https://open.spotify.com/album/7tCz7eqMGfd8tbf5f2JVVZ"
-      },
-      "artists": [
-        {
-          "name": "Ludovic",
-          "url": "https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Desde Que Eu Morri",
-      "url": "https://open.spotify.com/track/485DVlRqkWddYmWvXW3HaS"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "XXX",
         "url": "https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh"
@@ -413,7 +341,7 @@
       "url": "https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Can\u00e7\u00e3o da Despedida",
         "url": "https://open.spotify.com/album/6tJVfCUBxlD6FODRlNqhXT"
@@ -429,7 +357,7 @@
       "url": "https://open.spotify.com/track/6X4TqBLTfYj11DLzEmWOi6"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Ao Vivo Em Paranava\u00ed - Vol. 1",
         "url": "https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob"
@@ -449,7 +377,23 @@
       "url": "https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "Vampira",
+        "url": "https://open.spotify.com/album/5cQ3ATb7h1qkPhHu15jKhP"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 127877,
+      "name": "Vampira",
+      "url": "https://open.spotify.com/track/4Jxn2gmc5uWV18hwUzDzlB"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Bar\u00e3o 40 (Cl\u00e1ssicos)",
         "url": "https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la"
@@ -469,7 +413,7 @@
       "url": "https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Ep\u00edlogo",
         "url": "https://open.spotify.com/album/2XUjEwa7MVRKyMVh4DLx7z"
@@ -485,7 +429,7 @@
       "url": "https://open.spotify.com/track/36kAc7GnlSDxDcXEQYpdQo"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "N\u00e3o V\u00e1",
         "url": "https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4"
@@ -509,7 +453,23 @@
       "url": "https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "A NASCENTE",
+        "url": "https://open.spotify.com/album/72ux7Fr72430bcA4Dnw5L2"
+      },
+      "artists": [
+        {
+          "name": "RANCORE",
+          "url": "https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM"
+        }
+      ],
+      "duration_ms": 192554,
+      "name": "A NASCENTE",
+      "url": "https://open.spotify.com/track/6bcFUcHsSV1N5ZNdY5y2HL"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Tempo de Tela",
         "url": "https://open.spotify.com/album/3pK1obFYj3IV7HgEDhww6g"
@@ -525,7 +485,43 @@
       "url": "https://open.spotify.com/track/2kHdQMiVVY3rlYo6H3x2Np"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "c\u00e2mera lenta",
+        "url": "https://open.spotify.com/album/12jM9nF18d0QNYq4oPGcSU"
+      },
+      "artists": [
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        },
+        {
+          "name": "Tupi & Os Crocodilos de Marte",
+          "url": "https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "c\u00e2mera lenta",
+      "url": "https://open.spotify.com/track/7J2k4Z4orcvvABFHncb5p6"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "Helena",
+        "url": "https://open.spotify.com/album/0lcLoM63dT3VY1elCHRBwE"
+      },
+      "artists": [
+        {
+          "name": "Lua Dultra",
+          "url": "https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/60uJAwRPVW7rmTY7lBO1CS"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Microfonado",
         "url": "https://open.spotify.com/album/4PooNcpHa9bDZwTWwegRg6"
@@ -545,7 +541,7 @@
       "url": "https://open.spotify.com/track/1A5Sem3ctjc99sj8vz7MrI"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "S\u00f3 Rezo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5XiMlXl3eURkSVUdxydgwB"
@@ -561,23 +557,7 @@
       "url": "https://open.spotify.com/track/2Iq5ySiuuWu8E00Pee22Rb"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "ANTICORPOS",
-        "url": "https://open.spotify.com/album/0mqyNRFaBLopcmQC2Tbp7M"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        }
-      ],
-      "duration_ms": 153425,
-      "name": "ANTICORPOS",
-      "url": "https://open.spotify.com/track/6piW6W7BPdjs8TniCDchd9"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Pegasus Fantasy",
         "url": "https://open.spotify.com/album/5QfODrMnD85VwCcrKb8GrN"
@@ -593,27 +573,7 @@
       "url": "https://open.spotify.com/track/5ljfOnPqCGc6iXqdIE0eN7"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "QUEM NUNCA??",
-        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a Moreira",
-          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
-        },
-        {
-          "name": "Egypcio",
-          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
-        }
-      ],
-      "duration_ms": 216255,
-      "name": "QUEM NUNCA??",
-      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Malandragem (Ao Vivo)",
         "url": "https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne"
@@ -629,7 +589,7 @@
       "url": "https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Me Odeie",
         "url": "https://open.spotify.com/album/6mdnqJZWtDLD6XzCeBmhvH"
@@ -645,7 +605,7 @@
       "url": "https://open.spotify.com/track/19tvvbb1Y5yRgsdPwmzZjG"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Quando Eu Me Encontrar",
         "url": "https://open.spotify.com/album/6DOIy83U18iVSgyOdDBtnU"
@@ -665,7 +625,7 @@
       "url": "https://open.spotify.com/track/3eE4G1WkVlXvzzOMoMPFVV"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Sele\u00e7\u00e3o Natural",
         "url": "https://open.spotify.com/album/47hOPiDMmvkefR8GS02HaZ"
@@ -681,7 +641,7 @@
       "url": "https://open.spotify.com/track/7rqlfTEYb189hzMLm4PN3y"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "A Vida Come\u00e7a Agora",
         "url": "https://open.spotify.com/album/0Kxejo9QpudJg4ntHbAhhx"
@@ -697,7 +657,7 @@
       "url": "https://open.spotify.com/track/7iYEnF8fvgq4gOygATtSQg"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Detonautas Ac\u00fastico (Deluxe)",
         "url": "https://open.spotify.com/album/0mHk0k9Nh9hKhrVB9trJQa"
@@ -713,7 +673,7 @@
       "url": "https://open.spotify.com/track/79VJmKsxklamRPSDusWmms"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Pouso",
         "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
@@ -729,7 +689,7 @@
       "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Tour Cedo ou Tarde (Ao Vivo)",
         "url": "https://open.spotify.com/album/4xOPGSx0QLhjmYo1OG1NbR"
@@ -745,7 +705,7 @@
       "url": "https://open.spotify.com/track/0KFnlMH2qIzpAr2daxGXVa"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Porta-Malas",
         "url": "https://open.spotify.com/album/4ZncdiiEK9GwarUR9ZeiAD"
@@ -761,7 +721,7 @@
       "url": "https://open.spotify.com/track/23dCpE0mEQQ4s6IzX3rkdh"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Liga\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2FDKOWcytcGKosuqBzqAMq"
@@ -777,7 +737,7 @@
       "url": "https://open.spotify.com/track/5d9D5hm2xXvgnyUVNMvXLK"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "PERP\u00c9TUO",
         "url": "https://open.spotify.com/album/1jq6ILT0x3Rrx9gHpUGplW"
@@ -793,7 +753,7 @@
       "url": "https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Tonto, Mole, Trouxa (e meio devagar)",
         "url": "https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB"
@@ -809,7 +769,7 @@
       "url": "https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Roque Marciano (Ao Vivo)",
         "url": "https://open.spotify.com/album/3wfEBgPs5sbkqQonQH2ce4"
@@ -825,7 +785,7 @@
       "url": "https://open.spotify.com/track/6tIH2jWM5ty5xxJDVsWcPj"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "O Ver\u00e3o Passou, Mas O Sol Continua Aqui",
         "url": "https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3"
@@ -841,7 +801,63 @@
       "url": "https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta"
     },
     {
-      "added_at": "2026-02-27 03:03:02",
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "O Verso",
+        "url": "https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        }
+      ],
+      "duration_ms": 210795,
+      "name": "O Verso",
+      "url": "https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+        }
+      ],
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
+      "album": {
+        "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
+        "url": "https://open.spotify.com/album/3nX2Z3jKKDkdqy2qlFge4F"
+      },
+      "artists": [
+        {
+          "name": "BAD LUV",
+          "url": "https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "NA NOITE PASSADA EU N\u00c3O DORMI",
+      "url": "https://open.spotify.com/track/0iiytYOHwIudzWXgFg3NrM"
+    },
+    {
+      "added_at": "2026-03-13 03:03:01",
       "album": {
         "name": "Camadas",
         "url": "https://open.spotify.com/album/3CiqBBWdpsCeEOpUIPE3yz"
@@ -859,22 +875,6 @@
       "duration_ms": 228000,
       "name": "Camadas",
       "url": "https://open.spotify.com/track/1FJcwfMjSB0HAbSgiv4LJW"
-    },
-    {
-      "added_at": "2026-02-27 03:03:02",
-      "album": {
-        "name": "O Verso",
-        "url": "https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C"
-      },
-      "artists": [
-        {
-          "name": "Paulo Ricardo",
-          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
-        }
-      ],
-      "duration_ms": 210795,
-      "name": "O Verso",
-      "url": "https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T"
     }
   ],
   "unique_name": "P\u00e1tria Rock",

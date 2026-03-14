@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 219729,
       "name": "At The Cross",
       "url": "https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN"
@@ -2532,6 +2532,24 @@
       "duration_ms": 207121,
       "name": "Bless You",
       "url": "https://open.spotify.com/track/2wwsocS4XbQNbdaU6lqxJQ"
+    },
+    {
+      "album": {
+        "name": "Bless Your Name",
+        "url": "https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251473,
+      "name": "Bless Your Name",
+      "url": "https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64"
     },
     {
       "album": {
@@ -5335,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "eyes on Him",
+        "url": "https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192002,
+      "name": "eyes on Him",
+      "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
+    },
+    {
+      "album": {
         "name": "EZ",
         "url": "https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ"
       },
@@ -6022,6 +6058,28 @@
       "duration_ms": 251185,
       "name": "First Things First",
       "url": "https://open.spotify.com/track/5uqOxamVliO1VCpoOLKDFV"
+    },
+    {
+      "album": {
+        "name": "Song Of The Saints (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZFz19PghLyGeu2ZtF3hBu"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277600,
+      "name": "Flowers (with Jamie MacDonald)",
+      "url": "https://open.spotify.com/track/5UG7WoVM0PrPJbeKpyJ6mD"
     },
     {
       "album": {
@@ -11354,7 +11412,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 185739,
       "name": "ily anyway",
       "url": "https://open.spotify.com/track/2XCUTNsevyCzQEHjH0t6f9"
@@ -11850,7 +11908,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 254000,
       "name": "It Really Is Amazing Grace",
       "url": "https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ"
@@ -12920,7 +12978,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 253431,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/4cioLFyKIm59aYy3UMr5xT"
@@ -13632,7 +13690,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192562,
       "name": "Life With You",
       "url": "https://open.spotify.com/track/1tnR8SHJKG3XBIDKUB5Ys1"
@@ -21489,6 +21547,28 @@
     },
     {
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/5U2jgBcYY2ajkqFfzGvAsc"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242088,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/57raDV5u2fktsZTXZTqnpI"
+    },
+    {
+      "album": {
         "name": "EVEN LOWER",
         "url": "https://open.spotify.com/album/7s6cG4MDvQY8OoITIeyrBd"
       },
@@ -21863,6 +21943,24 @@
     },
     {
       "album": {
+        "name": "That's What The Cross Is For",
+        "url": "https://open.spotify.com/album/4yXdPpcc4IYJLEh8ChNxum"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226620,
+      "name": "That's What The Cross Is For",
+      "url": "https://open.spotify.com/track/6B6CR3obi1KjlmPwftNcJV"
+    },
+    {
+      "album": {
         "name": "That's Who I Praise",
         "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
       },
@@ -22106,7 +22204,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 255638,
       "name": "The Church Is On Fire",
       "url": "https://open.spotify.com/track/0YZzUQUH46pA4vaR4WTHbq"
@@ -23920,6 +24018,24 @@
       "duration_ms": 302559,
       "name": "Up To Something (Live)",
       "url": "https://open.spotify.com/track/4xK22fRATicm5NnGFiMNLk"
+    },
+    {
+      "album": {
+        "name": "Counting My Blessings (Infinity Edition)",
+        "url": "https://open.spotify.com/album/5DaU4DgiEdsWOSWZOAH8Ld"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251913,
+      "name": "Valley Of Worship",
+      "url": "https://open.spotify.com/track/7BDMHvOfOWSyPRs5DzklJL"
     },
     {
       "album": {

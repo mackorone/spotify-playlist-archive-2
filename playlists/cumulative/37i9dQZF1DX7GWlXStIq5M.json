@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 138000,
       "name": "Calma, Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 163236,
       "name": "celebridade",
       "url": "https://open.spotify.com/track/4XsyZnz8hM3oa1MCXZlfFi"
@@ -5948,7 +5948,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 160021,
       "name": "desnecess\u00e1rio",
       "url": "https://open.spotify.com/track/0gAo3JbqmDIbWyv7MEWCds"
@@ -6502,6 +6502,32 @@
       "duration_ms": 143762,
       "name": "Do Jeito Que Ela Gosta",
       "url": "https://open.spotify.com/track/6jhYRLgXWe5tqeGT3QkQds"
+    },
+    {
+      "album": {
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223808,
+      "name": "Do Que \u00e9 Feito o Amor?",
+      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
     },
     {
       "album": {
@@ -7618,7 +7644,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 139726,
       "name": "exausta",
       "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
@@ -9770,7 +9796,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 189600,
       "name": "Impostor",
       "url": "https://open.spotify.com/track/0jR7gMaE3Ohza0i2c463WU"
@@ -14060,7 +14086,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 175258,
       "name": "N\u00e3o pense",
       "url": "https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r"
@@ -17318,7 +17344,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
@@ -17724,7 +17750,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 101583,
       "name": "Queda Livre",
       "url": "https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14"
@@ -19938,7 +19964,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 175813,
       "name": "SOL",
       "url": "https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq"
@@ -23240,6 +23266,24 @@
       "duration_ms": 146933,
       "name": "Vou Atr\u00e1s",
       "url": "https://open.spotify.com/track/5Q5VE9VJtiroXsLxTQWOGM"
+    },
+    {
+      "album": {
+        "name": "vou dar",
+        "url": "https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143018,
+      "name": "vou dar",
+      "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-869 songs - 1 day 17 hr 15 min
+870 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Just Getting Started](https://open.spotify.com/track/5jM0wRsMmksPI5qoWaIETL) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout: Season 2 \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/35b3GZrZd4DqEjAC2rYMj0) | 3:03 | 2025-12-19 |  |
 | [Justin’s Theme](https://open.spotify.com/track/0rUBl0Fu9Dkzv7taNrFTqa) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [The Man Who Fell to Earth: Themes and Sketches \(Original Series Soundtrack\)](https://open.spotify.com/album/4beVfwojO8N54K78hNmAtS) | 2:51 | 2022-06-10 | 2024-11-21 |
 | [KAOS I](https://open.spotify.com/track/0F2qupuPej1RqXOq7v3ALs) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [KAOS \(Score from the Netflix Series\)](https://open.spotify.com/album/7gp3Y9paQrfxmk0p6dSnuy) | 12:31 | 2024-08-30 | 2025-05-24 |
+| [Kay Scarpetta](https://open.spotify.com/track/3taD7IEVTrSes0V33D4249) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Perrine Virgile](https://open.spotify.com/artist/5ooWVyM8r9cmPHRl4jXZ4R) | [Scarpetta \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/1Y7fvExZZwPmpWtOOwgceJ) | 3:05 | 2026-03-13 |  |
 | [Khazad\-dûm](https://open.spotify.com/track/1eF4PXrF3P1y7G5NghaiIB) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4zZuch6tto3R0TMzcAn0oc) | 3:20 | 2022-10-07 | 2024-11-21 |
 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-10-07 | 2024-04-19 |
 | [Killer Heat Suite](https://open.spotify.com/track/2hG4QenRwieCio8bnFxHPG) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e) | [Killer Heat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bNe1b9Ycnx50d4DGZZ6MA) | 3:32 | 2024-10-01 | 2025-06-14 |

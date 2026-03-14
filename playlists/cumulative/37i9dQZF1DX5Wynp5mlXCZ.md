@@ -4,7 +4,7 @@
 
 > "ти мій біль, ти мій яд, дуже нравиця наряд" \- БРИКУЛЕЦЬ на обкладинці 🪩
 
-508 songs - 1 day 1 hr 45 min
+510 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Wind of change](https://open.spotify.com/track/5fBVVccgv3f3CnzvgWcTVh) | [Влад Шериф](https://open.spotify.com/artist/1W6jh6Yfq91iaDoifYaiMq) | [Wind of change](https://open.spotify.com/album/5CVR1ehJj6dEMsMKKMIARy) | 2:55 | 2025-01-23 | 2025-01-31 |
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-12 | 2024-12-20 |
 | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/track/4Z3a18Jw4aGcmN6WLon32x) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Worlds Collide \(Inspired by Arcane League of Legends\)](https://open.spotify.com/album/0kEn5uReYi5megeo5W3IeC) | 3:02 | 2024-12-12 | 2025-03-21 |
+| [yearbook](https://open.spotify.com/track/1xRoiQU4ZH1gnDkDNgNnlE) | [The Multiverse](https://open.spotify.com/artist/7b0VwfMQk9Pv0Q2Hsi2eiE) | [coming of age novels](https://open.spotify.com/album/6hQSDO7kMsnrVtRckGyZ2L) | 2:28 | 2026-03-13 |  |
 | [you feel like home](https://open.spotify.com/track/7HhEt94NDY99LtWUeNwbLh) | [iilliaa](https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F), [sadagain](https://open.spotify.com/artist/7zuQRIjvU5KfSLLsx7ZdUE) | [you feel like home](https://open.spotify.com/album/3orNmaKJ8kdoIhct9Rr3T8) | 3:19 | 2025-03-20 | 2025-03-29 |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-03-20 | 2025-11-14 |
 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 | 2025-05-15 | 2025-12-16 |
@@ -364,6 +365,7 @@
 | [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 | 2024-07-20 |
 | [Лунає](https://open.spotify.com/track/1eD2eY8EOi8pOGm7toAfQF) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [AMARA](https://open.spotify.com/album/4PG7HcZnnk0aIqkvQPLiZR) | 2:34 | 2025-05-30 | 2025-06-20 |
 | [Люди](https://open.spotify.com/track/5Nl4kEjbmDKQH2SiBUTnt4) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Люди](https://open.spotify.com/album/25Z5k4vKlp1POV2vfWZZJw) | 2:52 | 2025-03-28 | 2025-04-04 |
+| [Люмени](https://open.spotify.com/track/6l1YfMI0d8ODrftaUJEP25) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Люмени](https://open.spotify.com/album/1zogCq3gjVftrmmlad8v6i) | 2:08 | 2026-03-13 |  |
 | [Ліза](https://open.spotify.com/track/0L5gNlkXbKJNgKXM7Futrf) | [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [Ліза](https://open.spotify.com/album/2DOtrd6CqfbupbI319TzDy) | 3:01 | 2025-05-01 | 2025-05-16 |
 | [лікую](https://open.spotify.com/track/5nm5ctbjUoTRQkztMaTckL) | [NANA](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [лікую](https://open.spotify.com/album/4r026BckhTLJBXMcCnl7e2) | 2:56 | 2024-08-30 | 2024-11-22 |
 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:41 | 2024-07-04 | 2025-01-19 |
@@ -504,7 +506,7 @@
 | [Чому я не собака?](https://open.spotify.com/track/6H7UPVXBli5M3z2hvQonEw) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Чому я не собака?](https://open.spotify.com/album/3JFcFg8NT760FNNq5qzvHI) | 3:07 | 2024-09-20 | 2024-09-28 |
 | [Чорний автомат](https://open.spotify.com/track/6tvebwgyujcPctnv0NHZJ1) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [тоша](https://open.spotify.com/album/4T6Cd1vobRyq5MRByzFMN7) | 2:44 | 2024-12-05 | 2024-12-13 |
 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 | 2024-12-19 | 2025-04-25 |
-| [Шиншила](https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Шиншила](https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy) | 2:48 | 2025-12-18 |  |
+| [Шиншила](https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Шиншила](https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy) | 2:48 | 2025-12-18 | 2026-03-14 |
 | [Шо ти там?](https://open.spotify.com/track/4PtcjhZHpYA8df8mVMZwFO) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Врубай](https://open.spotify.com/album/1PB9YeUJ2rhQ9ScEnveczZ) | 2:24 | 2024-11-28 | 2025-02-21 |
 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 | 2024-09-07 | 2025-01-06 |
 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 | 2024-09-20 | 2025-01-17 |

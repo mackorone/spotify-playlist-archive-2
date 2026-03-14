@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: Tallulah Argue, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,244 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,254 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 29 | [guérilla des fleurs](https://open.spotify.com/track/0iqiKB14enYEjGSzDk1kym) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 2:39 |
 | 30 | [the city as we speak](https://open.spotify.com/track/5VMXKzsGO67Xvm7wXVp2FU) | [Ley Vara](https://open.spotify.com/artist/5HAxw9TeQTbFuULp22xkXO) | [the city as we speak](https://open.spotify.com/album/6YBl0ijxtOdtsPjSDPE30e) | 3:17 |
 
-Snapshot ID: `AAAAAFZlmCcX/v70lJgMOXgDEDvcFDNV`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

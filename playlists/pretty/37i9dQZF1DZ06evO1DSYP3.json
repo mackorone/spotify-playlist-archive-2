@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAB2piWkJadwNt6dni7bO04E",
+  "snapshot_id": "abICAAAAAAAvh/XwCajBmcuI6PGKeLbg",
   "tracks": [
     {
       "added_at": null,
@@ -315,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "D-LO",
-          "url": "https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Raymon Marco",
-          "url": "https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        }
-      ],
-      "duration_ms": 238181,
-      "name": "YANKIN!",
-      "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SNOOP CUBE 40 $HORT",
         "url": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
       },
@@ -383,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "D-LO",
+          "url": "https://open.spotify.com/artist/40uPOeOQVWuNb6imBRJWjR"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Raymon Marco",
+          "url": "https://open.spotify.com/artist/2hk2X7xeg4QEQwKdnvl0JG"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        }
+      ],
+      "duration_ms": 238181,
+      "name": "YANKIN!",
+      "url": "https://open.spotify.com/track/7xkfjJyZbGXTDG9NnXF7aP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE ONE YOU WANTED",
         "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 190562,
       "name": "100 Days (Feat. YG, P-Lo)",
       "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 181478,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
     },
     {
       "added_at": null,
@@ -451,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 181478,
-      "name": "Stunna Anthem",
-      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Escape",
         "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169566,
-      "name": "WHO ELSE YOU KNOW!?",
-      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 139427,
       "name": "Feel Me?",
       "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169566,
+      "name": "WHO ELSE YOU KNOW!?",
+      "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
     },
     {
       "added_at": null,
@@ -643,30 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Myself",
-        "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
-      },
-      "artists": [
-        {
-          "name": "Lyrics Born",
-          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Trackademicks",
-          "url": "https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz"
-        }
-      ],
-      "duration_ms": 160384,
-      "name": "I Love Myself",
-      "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 201600,
       "name": "shake ya ass (feat. P-Lo)",
       "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love Myself",
+        "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
+      },
+      "artists": [
+        {
+          "name": "Lyrics Born",
+          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Trackademicks",
+          "url": "https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz"
+        }
+      ],
+      "duration_ms": 160384,
+      "name": "I Love Myself",
+      "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Should Know",
-        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
       },
       "artists": [
         {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "Hollywood Cole",
-          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Mack",
-      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     },
     {
       "added_at": null,

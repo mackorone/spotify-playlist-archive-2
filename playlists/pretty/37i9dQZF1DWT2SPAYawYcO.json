@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Spacey Jane, Noah Kahn, Kacey Musgraves, beabadoobee, The Mar\u00edas + more ",
-  "num_followers": 445091,
+  "num_followers": 445519,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKqgGOTNXVi7jwOXgrnPur391uDh",
+  "snapshot_id": "AAAAAEe/hravKIeeiLRJzKcWT95GEsys",
   "tracks": [
     {
       "added_at": "2026-03-12 13:00:26",
@@ -180,8 +180,8 @@
           "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 195858,
+      "name": "Jokes Aside",
       "url": "https://open.spotify.com/track/2XuRpPtcSZOfOy2bXQccRY"
     },
     {
@@ -253,6 +253,46 @@
       "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
     },
     {
+      "added_at": "2026-03-13 04:00:18",
+      "album": {
+        "name": "Ranjha",
+        "url": "https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Ranjha",
+      "url": "https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC"
+    },
+    {
+      "added_at": "2026-03-13 04:00:18",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
+    },
+    {
       "added_at": "2026-03-12 13:00:26",
       "album": {
         "name": "ANGEL'S MESS",
@@ -319,6 +359,22 @@
       "duration_ms": 177592,
       "name": "Knife In The Heart",
       "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
+    },
+    {
+      "added_at": "2026-03-13 04:00:18",
+      "album": {
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "added_at": "2026-03-12 13:00:26",
@@ -391,6 +447,30 @@
       "duration_ms": 202196,
       "name": "Get Go",
       "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
+    },
+    {
+      "added_at": "2026-03-12 13:00:26",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/1LtgZgZZFDBnUzsyrwB5vc"
+      },
+      "artists": [
+        {
+          "name": "Celly",
+          "url": "https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz"
+        },
+        {
+          "name": "J Emz",
+          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
+        },
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/12q6Du2TDearjAQJReeEhD"
     },
     {
       "added_at": "2026-03-12 13:00:26",
@@ -735,6 +815,22 @@
       "duration_ms": 163333,
       "name": "Life Ain't Like The Radio",
       "url": "https://open.spotify.com/track/38BmjbEoiX9dy08w375JfB"
+    },
+    {
+      "added_at": "2026-03-13 04:00:18",
+      "album": {
+        "name": "Who Is It",
+        "url": "https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Who Is It",
+      "url": "https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD"
     },
     {
       "added_at": "2026-03-12 13:00:26",

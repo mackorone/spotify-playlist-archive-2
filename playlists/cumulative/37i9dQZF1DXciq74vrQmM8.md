@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. chalk
 
-1,271 songs - 2 day 14 hr 30 min
+1,271 songs - 2 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [lock](https://open.spotify.com/track/6uyLlMgGbTpZ8cOpdWlzVl) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [lock](https://open.spotify.com/album/265AleMWrh4uPL0IQuPdQ1) | 2:13 | 2024-01-26 | 2024-05-10 |
 | [Lonely](https://open.spotify.com/track/0Yw8ULkkEHOL97vp5minac) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3), [Cokasian](https://open.spotify.com/artist/6cjECcpo0k8pwn7twpd4ge) | [Lonely](https://open.spotify.com/album/6ksVIFkPxJ4IH6WBuKddPI) | 2:52 | 2024-07-04 | 2024-09-06 |
 | [Loner](https://open.spotify.com/track/1VDpzf4lahkZqdkFwdmXiY) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Silly Little Dream, Pt\. 1](https://open.spotify.com/album/7EA7NiPEaF7LXUueRDfRo6) | 3:16 | 2022-04-07 | 2022-06-24 |
+| [Longer](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 4:58 | 2026-03-13 |  |
 | [LOOKING AT US](https://open.spotify.com/track/3Jvl3Qm630HlA7FTGiaNeA) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [LOOKING AT US](https://open.spotify.com/album/3W3HGFUgwbNPvwuVjernmk) | 3:22 | 2025-06-20 | 2025-11-14 |
 | [Loose](https://open.spotify.com/track/6NSUDjjx22ZobxJqRHynpL) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004), [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Loose](https://open.spotify.com/album/1ZzBNSEcqoxFqoedZoYXpG) | 4:07 | 2023-08-24 | 2024-02-09 |
 | [Lose My Cool](https://open.spotify.com/track/1UEbyNXgbFfJHNUTkCxOiS) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy](https://open.spotify.com/album/3Kh7DCpfbG9rotZBLoNWKK) | 2:09 | 2024-05-16 | 2024-08-09 |
@@ -1157,7 +1158,6 @@
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 |  |
 | [Toxic](https://open.spotify.com/track/75nfXT58HlELm2SGI3L0Ea) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Toxic](https://open.spotify.com/album/5RMQfalO8QgRNArs0nIFuk) | 2:10 | 2023-12-15 | 2024-05-29 |
 | [Toxins](https://open.spotify.com/track/5MarKAwrQvOEGlCOKEeIw3) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Toxins](https://open.spotify.com/album/7lKTFbEOfMHcZ0xMzPB9md) | 2:22 | 2024-06-21 | 2024-10-04 |
-| [Track 4](https://open.spotify.com/track/7HWzreiEoo0i4kx8wQK9iC) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 0:00 | 2026-03-13 |  |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-08-09 |
 | [Trust No One](https://open.spotify.com/track/5JWvuCZ6yOJJ4GlbAVjl1v) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Trust No One](https://open.spotify.com/album/7DhBu788ygCSGB9xnoNBVE) | 3:03 | 2023-07-27 | 2023-09-15 |
 | [U Love It](https://open.spotify.com/track/4tvVKTTnvDal5mUhf80RJC) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [U Love It](https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi) | 2:40 | 2022-02-18 | 2023-02-24 |

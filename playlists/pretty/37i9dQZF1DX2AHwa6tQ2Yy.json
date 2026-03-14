@@ -1,12 +1,12 @@
 {
   "description": "Try a little tenderness. Cover: ELIZA",
-  "num_followers": 53745,
+  "num_followers": 53774,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIfftAZsu1nVP5wdnQNqeh8VirV",
+  "snapshot_id": "AAAAAM+E8zhJptd3meV9kKcC9Ck26XFb",
   "tracks": [
     {
       "added_at": "2026-01-23 01:47:43",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Love in the Wind",
         "url": "https://open.spotify.com/album/5wDxHx4iZf2hXHMfANu6DG"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 238280,
       "name": "Those Years Are Over",
       "url": "https://open.spotify.com/track/4DPx5423HjiwbHZ7WEBN2t"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Illadelph Halflife",
-        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 357200,
-      "name": "What They Do",
-      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 184866,
       "name": "Come Around and Love Me",
       "url": "https://open.spotify.com/track/5FFSlcb55C7pIFcOYapN1b"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Illadelph Halflife",
+        "url": "https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        }
+      ],
+      "duration_ms": 357200,
+      "name": "What They Do",
+      "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
         "name": "When I Get Home",
         "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 236120,
       "name": "Almeda",
       "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
       "artists": [
         {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+      "duration_ms": 308301,
+      "name": "One Inch Punch",
+      "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
     }
   ],
   "unique_name": "soulful",

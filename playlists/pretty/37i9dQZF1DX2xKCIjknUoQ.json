@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 56254,
+  "num_followers": 56268,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I'm Picky",
-      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 327733,
       "name": "La vie est belle",
       "url": "https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 207132,
-      "name": "My Name Is Stain",
-      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Tree Of Life",
         "url": "https://open.spotify.com/album/1ZBipWDQranfO54JP023ZT"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 137093,
       "name": "Sunday With A Flu",
       "url": "https://open.spotify.com/track/05pU63DL8dSAApA8amj0ql"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 207132,
+      "name": "My Name Is Stain",
+      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "La Ouache",
-        "url": "https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g"
-      },
-      "artists": [
-        {
-          "name": "Matmatah",
-          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Emma",
-      "url": "https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Can Be Late",
         "url": "https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 188533,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "La Ouache",
+        "url": "https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g"
+      },
+      "artists": [
+        {
+          "name": "Matmatah",
+          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/1XIuwgrZsB0FQpad2ZMVYa"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -283,6 +283,22 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Travel The World",
+      "url": "https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
         "name": "Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro",
         "url": "https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 215760,
       "name": "La cerise",
       "url": "https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt"
-      },
-      "artists": [
-        {
-          "name": "Superbus",
-          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "Travel The World",
-      "url": "https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Notre Epoque",
-        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
-      },
-      "artists": [
-        {
-          "name": "Tarmac",
-          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Notre Epoque",
-      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "La t\u00eate en arri\u00e8re",
         "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 188280,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Notre Epoque",
+        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
+      },
+      "artists": [
+        {
+          "name": "Tarmac",
+          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Notre Epoque",
+      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
     },
     {
       "added_at": "2025-11-13 09:07:41",

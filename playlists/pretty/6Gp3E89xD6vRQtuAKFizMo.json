@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43520,
+  "num_followers": 43517,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAanlU7j3zT3kSNHu/r5kKCc6JgJSj6",
+  "snapshot_id": "AAAaoNQTUgc+R1hvu4jw4c9GIl3ZagM0",
   "tracks": [
+    {
+      "added_at": "2026-03-13 04:00:45",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/55yYRdjzzkCGVaRkLuQyxW"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "AZCK",
+          "url": "https://open.spotify.com/artist/1s4iV4CTEXOsub9gA2aBHy"
+        }
+      ],
+      "duration_ms": 113437,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/1bmPLCKUDXgi3lshIANpnf"
+    },
     {
       "added_at": "2026-03-06 05:00:47",
       "album": {
@@ -2779,6 +2799,22 @@
       "duration_ms": 175295,
       "name": "Call Me On Your Way Home (feat. Alisa)",
       "url": "https://open.spotify.com/track/1qaajTYMmyFJWeP6Ze535N"
+    },
+    {
+      "added_at": "2026-03-13 04:01:40",
+      "album": {
+        "name": "ECHOES",
+        "url": "https://open.spotify.com/album/5NBCU6WU4isrmM3lXzMXT1"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/4DRu7STk30xCw2kABUcNYs"
     }
   ],
   "unique_name": "Dim Mak New Releases",

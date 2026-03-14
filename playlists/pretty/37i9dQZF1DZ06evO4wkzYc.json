@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 190230,
+  "num_followers": 190284,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAAB59/Qci1gwmofFS6YWQ1M",
+  "snapshot_id": "abICAAAAAABezFb9asS03NtAPBR21iUR",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zutano",
-        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 181901,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 182299,
       "name": "Delante De Mi",
       "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 256673,
-      "name": "Mario Portillo",
-      "url": "https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chorumbo",
         "url": "https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 256673,
+      "name": "Mario Portillo",
+      "url": "https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 238779,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 277105,
       "name": "El Robot",
       "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seraf\u00edn",
-        "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompecabezas",
         "url": "https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 232031,
       "name": "Me Vuelve Loco",
       "url": "https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seraf\u00edn",
+        "url": "https://open.spotify.com/album/4QMWgjMVSP4cvmZIhv1u1X"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 240605,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7DKx7f5mwJIcDb62NG0PfV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 75192,
+  "num_followers": 75195,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
         "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
         "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 231724,
       "name": "Inside The Rider - TC & Original Sin 2000's Remix",
       "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
         "name": "Good Times (feat. ellen lynch)",
         "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201603,
       "name": "Good Times (feat. ellen lynch)",
       "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "There In 10",
-        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 246896,
-      "name": "There In 10",
-      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
         "name": "Posra",
         "url": "https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 205714,
       "name": "Posra",
       "url": "https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
     },
     {
       "added_at": "2026-03-12 13:34:51",
@@ -1059,26 +1059,22 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC"
+        "name": "Dopamine Hits",
+        "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
       },
       "artists": [
         {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
         },
         {
-          "name": "Latte",
-          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
-        },
-        {
-          "name": "B Live",
-          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+          "name": "Maksim MC",
+          "url": "https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC"
         }
       ],
-      "duration_ms": 204137,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7"
+      "duration_ms": 189767,
+      "name": "Dopamine Hits",
+      "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
     }
   ],
   "unique_name": "Jump Up!",

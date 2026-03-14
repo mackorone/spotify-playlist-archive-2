@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Musique de notre temps (1976-1977)",
+        "url": "https://open.spotify.com/album/2T7mJ9ihJfmheoBWau3mpr"
+      },
+      "artists": [
+        {
+          "name": "\u00c9liane Radigue",
+          "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119608,
+      "name": "Famille musicale",
+      "url": "https://open.spotify.com/track/7dDVVGqsYL3rgZvD9IRZ75"
+    },
+    {
+      "album": {
         "name": "Jetsun Mila",
         "url": "https://open.spotify.com/album/7I6seBIE7XM4qB47WrgNOL"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 58000,
       "name": "Perception par l'auditeur",
       "url": "https://open.spotify.com/track/5E215k1evgzekQVh0nCiBA"

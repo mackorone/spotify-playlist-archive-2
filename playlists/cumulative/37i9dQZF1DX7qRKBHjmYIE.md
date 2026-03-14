@@ -2,7 +2,7 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Los Aptos.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con María Isabel.
 
 989 songs - 2 day 5 hr 19 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,618 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,748 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 76 | [With or Without Me](https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [With or Without Me](https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D) | 3:42 |
 | 77 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
 | 78 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
-| 79 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
-| 80 | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt, and Mick Mars\)](https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt and Mick Mars\)](https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg) | 3:08 |
+| 79 | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt, and Mick Mars\)](https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2), [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF), [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc), [Sully Erna](https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy) | [\(Make My\) Country Rock \(feat\. Sully Erna of Godsmack, Travis Tritt and Mick Mars\)](https://open.spotify.com/album/4iF02KjL3iDF4lADzaVQqg) | 3:08 |
+| 80 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
 | 81 | [Time Bomb](https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Time Bomb](https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH) | 3:35 |
 | 82 | [Might As Well Be Me](https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 2:49 |
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |

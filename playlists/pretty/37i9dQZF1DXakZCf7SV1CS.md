@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,851 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,869 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 22 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 |
 | 23 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
 | 24 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 |
-| 25 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
-| 26 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 25 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 26 | [ok im cool](https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bleh](https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi) | 2:47 |
 | 27 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 28 | [Friday Night](https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 3:25 |
 | 29 | [fwb](https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:17 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 78 | [Superstar](https://open.spotify.com/track/0kFQVrQnp6FtvBTixDUfSd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Superstar](https://open.spotify.com/album/3b1HpQXYsbf9yY1l3O4yOS) | 4:50 |
 | 79 | [FARAWAY199X/TAPE 2](https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [RUBBER](https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC) | 3:04 |
 | 80 | [Here](https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [BFOTY](https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM) | [Here](https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25) | 3:16 |
-| 81 | [USA](https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 2:23 |
-| 82 | [Black Rum](https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Black Rum](https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg) | 2:26 |
+| 81 | [Black Rum](https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Black Rum](https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg) | 2:26 |
+| 82 | [USA](https://open.spotify.com/track/5hffVao6FPPK7xqk8yJwZQ) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 2:23 |
 | 83 | [hide me here](https://open.spotify.com/track/0kuloMBECT7y3E0a5oMduc) | [ultra caro](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [hide me here](https://open.spotify.com/album/3hwJTjrj7A1JibjYJVc0Gh) | 3:21 |
 | 84 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 |
 | 85 | [Donuts](https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [hot\_babe\_93](https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ) | 3:26 |

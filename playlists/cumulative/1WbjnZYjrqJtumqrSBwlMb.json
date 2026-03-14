@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177183,
+      "name": "All Of My Friends",
+      "url": "https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp"
+    },
+    {
+      "album": {
         "name": "Beneath The Lilypad",
         "url": "https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf"
       },
@@ -12038,6 +12056,24 @@
       "duration_ms": 318378,
       "name": "Locket",
       "url": "https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf"
+    },
+    {
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196150,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37"
     },
     {
       "album": {

@@ -4,10 +4,11 @@
 
 > The newest arrivals\. Cover: Jack Harlow
 
-558 songs - 1 day 3 hr 10 min
+558 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(Intro\) imma pick you up imma](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 2:18 | 2026-03-13 |  |
 | [100gb](https://open.spotify.com/track/7k09cg6c54UY9Csnw3MnBV) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [100gb/Circle](https://open.spotify.com/album/02Ir49wxtIzxOER51ZHG3O) | 2:00 | 2025-11-07 | 2025-11-14 |
 | [12 Car Convoy](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 Car Convoy](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 | 2025-11-28 | 2025-12-19 |
 | [175 Months](https://open.spotify.com/track/7HkOwm4wmvTsKbe405RhE3) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:34 | 2025-10-23 | 2025-11-07 |
@@ -23,6 +24,7 @@
 | [8 Stages](https://open.spotify.com/track/24PCmAa9K0g7Z44xjyaIOk) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [8 Stages](https://open.spotify.com/album/6wCVVevpRRuSWKFQx6qDrk) | 3:17 | 2026-03-13 |  |
 | [8PM](https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [8PM](https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm) | 2:51 | 2025-10-23 | 2025-10-31 |
 | [96 Camry](https://open.spotify.com/track/6a40yy8ldfwr4YbO7DkfbF) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [PRAY FOR ME](https://open.spotify.com/album/3yZEEszzCOqgfBvehBC2Zs) | 3:15 | 2026-02-06 | 2026-02-13 |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-13 |  |
 | [Abu Dhabi](https://open.spotify.com/track/3G5iyDPHbIHUL4AhC6rEs4) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Abu Dhabi](https://open.spotify.com/album/3BCbvJKaW8QAmAwlRtkHBj) | 2:17 | 2026-02-27 | 2026-03-13 |
 | [actin UP!](https://open.spotify.com/track/51co3VqvwYCETYqL6FbWF1) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [LIMITLESS](https://open.spotify.com/album/40XBQ7VCrIriUShwkFgHLM) | 2:17 | 2025-10-31 | 2025-11-07 |
 | [Active](https://open.spotify.com/track/0p5VYm5cWWMpn34C0lSG4T) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Active](https://open.spotify.com/album/4NCKxYcaUesoLVwl5YfuXS) | 2:51 | 2026-01-30 | 2026-02-13 |
@@ -505,8 +507,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 |  |
-| [Track 1](https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE) | [Amy Gadiaga](https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x) | [BabyGoated](https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE) | 0:00 | 2026-03-13 |  |
-| [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 | 2026-03-13 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 |  |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 | 2026-02-20 | 2026-02-27 |

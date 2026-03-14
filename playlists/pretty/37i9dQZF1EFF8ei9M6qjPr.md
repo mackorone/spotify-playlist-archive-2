@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 90 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 | 91 | [Dead Inside](https://open.spotify.com/track/6Sjmx09ykOw95BvbbGH0cY) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Dead Inside](https://open.spotify.com/album/1VevxxrVO5mBQFuw1s89xt) | 1:55 |
 | 92 | [Guidelines](https://open.spotify.com/track/0uJ8jnAFiiMOBsZcDQC9sn) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Guidelines](https://open.spotify.com/album/3uWRX7uAwJcolHlUW2Fr3O) | 2:34 |
-| 93 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 |
-| 94 | [Loverman](https://open.spotify.com/track/1CXwlCdikcZ2cni4GnYJLt) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/19fcLNxfpIzDU9z5nXH2A0) | 2:26 |
+| 93 | [Loverman](https://open.spotify.com/track/1CXwlCdikcZ2cni4GnYJLt) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/19fcLNxfpIzDU9z5nXH2A0) | 2:26 |
+| 94 | [Trading Places](https://open.spotify.com/track/7w32L6hgnvFY53No8A3Vlg) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:43 |
 | 95 | [Invisible](https://open.spotify.com/track/0hMiybHifTOJ1lvtrvGOzI) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Invisible](https://open.spotify.com/album/2tUpSas8r57RnM6BZnVGAn) | 3:17 |
 | 96 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 |
 | 97 | [Trojan](https://open.spotify.com/track/512iljhgcY6CaENb5AZUYi) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Trojan](https://open.spotify.com/album/2A9g8Bla0yKYnwcCrmPBdh) | 2:19 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 170 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 171 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcL96AAAAABCOrV426n2BFZ4S9m+4t8a`
+Snapshot ID: `AcMDTAAAAAC+0JB4itPeC7djqmxb6FlI`

@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260784,
+  "num_followers": 260791,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADAAB/Kv+8ZZAQZ37EQdvj/",
+  "snapshot_id": "abICAAAAAABAzsedzFx2xWAEbo8EiPWA",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 286573,
-      "name": "I'm Bad, I'm Nationwide",
-      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
+      "duration_ms": 179333,
+      "name": "Sharp Dressed Man",
+      "url": "https://open.spotify.com/track/6TSgC6JmLn6cJcUZVkRKow"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Baddest of ZZ Top",
-        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Sharp Dressed Man",
-      "url": "https://open.spotify.com/track/6TSgC6JmLn6cJcUZVkRKow"
+      "duration_ms": 286573,
+      "name": "I'm Bad, I'm Nationwide",
+      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "A Fool for Your Stockings",
-      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Futura (Deluxe Version)",
         "url": "https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 177400,
       "name": "Chartreuse",
       "url": "https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "A Fool for Your Stockings",
+      "url": "https://open.spotify.com/track/6RM6ePlZWBbc4I9y4tJDqk"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "Cheap Sunglasses",
-      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recycler",
         "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 209426,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "Cheap Sunglasses",
+      "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 204133,
-      "name": "I Thank You",
-      "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 250120,
       "name": "Just Got Back from Baby's",
       "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "I Thank You",
+      "url": "https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD"
     },
     {
       "added_at": null,

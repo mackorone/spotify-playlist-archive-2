@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in folk & acoustic today featuring music from Iron & Wine",
+  "description": "The best in folk & acoustic today featuring music from Shakey Graves",
   "name": "Roots Rising",
   "tracks": [
     {
@@ -9231,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2d8At9gtJ4KOuELoqbG3u1"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/2742Rdaai01TuaEbkrxFSU"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -10358,6 +10376,24 @@
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
       "album": {
@@ -13628,6 +13664,24 @@
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/1lvukDOJDX9NznWnin7Az5"
+    },
+    {
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "album": {

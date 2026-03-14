@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118156,
+  "num_followers": 2118150,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3IXYvTP94t3290q7GXhqKE8O5g",
+  "snapshot_id": "AAAAAMewI0DeQgWFAdIAP1Jjisa14IlW",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:27",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 263976,
-      "name": "No One Knows Us",
-      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "Spanish Villager No. 3",
         "url": "https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 259607,
       "name": "An Alien In Minneapolis - Edit",
       "url": "https://open.spotify.com/track/7lt8wWfuAFUnrzkNFJXBU7"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 263976,
+      "name": "No One Knows Us",
+      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Does This Go Faster?",
-        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+        "name": "A Little Bit of Love",
+        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
       "artists": [
         {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Does This Go Faster?",
-      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
+      "duration_ms": 164359,
+      "name": "A Little Bit of Love",
+      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "A Little Bit of Love",
-        "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164359,
-      "name": "A Little Bit of Love",
-      "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "Feet Off The Ground (feat. Jade Bird)",
         "url": "https://open.spotify.com/album/3limK1OjauMlUTz8U28IiK"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 258188,
       "name": "Feet Off The Ground (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Does This Go Faster?",
+        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Does This Go Faster?",
+      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 195763,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
+        "name": "Shaking Hands With Elvis",
+        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 209087,
+      "name": "Hollywood Forever Cemetery",
+      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
         "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
         "url": "https://open.spotify.com/album/0eqovZBbtZFa07tA9OGcWt"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 270366,
       "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
       "url": "https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
-        "name": "Shaking Hands With Elvis",
-        "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 209087,
-      "name": "Hollywood Forever Cemetery",
-      "url": "https://open.spotify.com/track/4JQAMpCvcTXg64unLqoDjf"
     },
     {
       "added_at": "2026-03-06 05:00:27",

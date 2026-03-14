@@ -4,7 +4,7 @@
 
 > It's all about the song  🎧 cover: Kacey Musgraves<br/>📍Somewhere between indie, pop, folk and country
 
-764 songs - 1 day 18 hr 39 min
+764 songs - 1 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [A Bad Thing](https://open.spotify.com/track/1MzXhCWzdfelsiVPGmQ6lN) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [A Bad Thing](https://open.spotify.com/album/0Lgw1pnanrptqEgLRhDtlu) | 3:13 | 2025-05-15 | 2025-08-22 |
 | [A Lifetime or Two](https://open.spotify.com/track/3bd3JPlFd4w85LEcXN4FIZ) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:46 | 2025-11-14 | 2026-01-23 |
 | [A Love Like This](https://open.spotify.com/track/1UxFKQhrTBHkvIfwj1w7mK) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [A Love Like This](https://open.spotify.com/album/1A2Fp5UH4hSe7Lf788gQtW) | 3:23 | 2025-10-02 | 2026-01-15 |
+| [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 | 2026-03-13 |  |
 | [A Place In Your Heart](https://open.spotify.com/track/0ncqg9PZKik2NicM051KPt) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [A Place In Your Heart](https://open.spotify.com/album/7KmSEYpx6bVHH0T8sFvIT1) | 3:28 | 2024-05-31 | 2024-09-14 |
 | [A Thousand Times](https://open.spotify.com/track/3asiTEBXKEgcUXULDhbcNX) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [A Thousand Times](https://open.spotify.com/album/3eWfloj21GAywURReF6Nxv) | 2:53 | 2025-05-09 | 2025-05-23 |
 | [A Wonder Day](https://open.spotify.com/track/4vu2cZ7d1Etx43jmQJWyO2) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [A Wonder Day](https://open.spotify.com/album/75id1mpGPHtg5jSEDGoC8Z) | 3:29 | 2025-04-24 | 2025-06-13 |
@@ -687,7 +688,6 @@
 | [Touch Me](https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Touch Me](https://open.spotify.com/album/0tcdyTBkSx24QyL8yaknrR) | 3:18 | 2026-01-30 |  |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 | 2026-03-13 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2025-11-07 | 2026-02-13 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |

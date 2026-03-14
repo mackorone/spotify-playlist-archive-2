@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Green Montana",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: PLK",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -253,6 +253,28 @@
     },
     {
       "album": {
+        "name": "23 JOURS PLUS TARD",
+        "url": "https://open.spotify.com/album/1x7JRkRLh5YBPq00I1bjKQ"
+      },
+      "artists": [
+        {
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171146,
+      "name": "2319 (feat. La Mano 1.9)",
+      "url": "https://open.spotify.com/track/5PhNDsefWhhmeltxSonq0q"
+    },
+    {
+      "album": {
         "name": "25 G",
         "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
       },
@@ -312,7 +334,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 146880,
       "name": "2PAR",
       "url": "https://open.spotify.com/track/0Tp5OvGHK3tVBFgoJJKB7p"
@@ -412,7 +434,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 307415,
       "name": "4 A.M \u00e0 Anderlecht",
       "url": "https://open.spotify.com/track/3wV0Cavs5QZ8J3AjC7gMNT"
@@ -598,7 +620,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 195722,
       "name": "A Win is a Win",
       "url": "https://open.spotify.com/track/0kW6XH3bll8WdZdtJZtL7b"
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162231,
       "name": "C'EST PAS LA FIN",
       "url": "https://open.spotify.com/track/5Rn7ojdfn70f9zUOdnabe9"
@@ -3551,6 +3573,24 @@
     },
     {
       "album": {
+        "name": "FAAAHH",
+        "url": "https://open.spotify.com/album/5dbEztbByr4O7qaGDrmRmH"
+      },
+      "artists": [
+        {
+          "name": "THEODORT",
+          "url": "https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104640,
+      "name": "FAAAHH",
+      "url": "https://open.spotify.com/track/26Pc2S1MIP03PlsdIP8Lpw"
+    },
+    {
+      "album": {
         "name": "BOYZ",
         "url": "https://open.spotify.com/album/28AfjnVaDTnKwoBpcolWv0"
       },
@@ -4815,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "J'en Parle",
+        "url": "https://open.spotify.com/album/5cIYy9v6OwfEvu4UqR62MF"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131187,
+      "name": "J'en Parle",
+      "url": "https://open.spotify.com/track/1y37eoiaZnzDPkVoJ3773L"
+    },
+    {
+      "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
       },
@@ -5143,6 +5201,28 @@
     },
     {
       "album": {
+        "name": "Katy Perry",
+        "url": "https://open.spotify.com/album/367AAITW2MsBIgS18xlPHS"
+      },
+      "artists": [
+        {
+          "name": "Jeune Morty",
+          "url": "https://open.spotify.com/artist/0j88iwyJrnRpKBhiJtG0je"
+        },
+        {
+          "name": "ok",
+          "url": "https://open.spotify.com/artist/1uiGVqVPmQxy5lD8SHGAy5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187874,
+      "name": "Katy Perry",
+      "url": "https://open.spotify.com/track/5CTEAZ2xIgMdmT07pr1S3o"
+    },
+    {
+      "album": {
         "name": "LA VIE RAPIDE EARLY ACCESS",
         "url": "https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq"
       },
@@ -5172,7 +5252,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 197818,
       "name": "KING VON",
       "url": "https://open.spotify.com/track/6MmIzStC3FpF2u9L7KOMze"
@@ -5714,7 +5794,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212546,
       "name": "LONDON ST TROPEZ",
       "url": "https://open.spotify.com/track/6kyi8X8pjlkMROgFNb3ttA"
@@ -6632,7 +6712,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 130345,
       "name": "M\u00c9DICAMENT",
       "url": "https://open.spotify.com/track/69CNVTtlyNppMwylciIXSh"
@@ -6737,6 +6817,24 @@
     },
     {
       "album": {
+        "name": "Ni Dieu ni ma\u00eetre",
+        "url": "https://open.spotify.com/album/5PLiXLTCFIEuuEr5BHn7ir"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235694,
+      "name": "Ni Dieu ni ma\u00eetre",
+      "url": "https://open.spotify.com/track/2Te3XX0nnlY8JdEQlfrWz0"
+    },
+    {
+      "album": {
         "name": "RAFTEL (Deluxe)",
         "url": "https://open.spotify.com/album/4VBhN8sfINrHrSe6fI7a20"
       },
@@ -6748,10 +6846,32 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213028,
       "name": "NIAGARA",
       "url": "https://open.spotify.com/track/1qEfOdzyLSjznvBniitw47"
+    },
+    {
+      "album": {
+        "name": "G-POP CLASSIKS .02",
+        "url": "https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        },
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141678,
+      "name": "NINTENDO (feat. Cash Crime)",
+      "url": "https://open.spotify.com/track/59mFNcQ4w1ivAexgua99F0"
     },
     {
       "album": {
@@ -7279,6 +7399,24 @@
     },
     {
       "album": {
+        "name": "Parfum",
+        "url": "https://open.spotify.com/album/191G3xYlXZA50ERtMDJqPg"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214913,
+      "name": "Parfum",
+      "url": "https://open.spotify.com/track/1qDenhZaKRjBSMIfu7ZI4a"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/6oA8BfOJmuXqrHNCb2JfeZ"
       },
@@ -7718,6 +7856,24 @@
       "duration_ms": 276010,
       "name": "Plus loin",
       "url": "https://open.spotify.com/track/1SiBQT6TDei3501c7Qt0VG"
+    },
+    {
+      "album": {
+        "name": "Grand Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168546,
+      "name": "Pocahontas",
+      "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
     },
     {
       "album": {
@@ -8719,6 +8875,24 @@
     },
     {
       "album": {
+        "name": "Lobby",
+        "url": "https://open.spotify.com/album/0u7H9LwYXUnWa2vIXFYnJE"
+      },
+      "artists": [
+        {
+          "name": "8ruki",
+          "url": "https://open.spotify.com/artist/0ATaMBIaHwtM6LZpQam5r2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "sang d'encre",
+      "url": "https://open.spotify.com/track/6S8HbPkEt0Q9hmKlk7CqSY"
+    },
+    {
+      "album": {
         "name": "Sang Royal",
         "url": "https://open.spotify.com/album/3EWiQd2eUHoWtIhBG2rtyC"
       },
@@ -9246,7 +9420,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 108243,
       "name": "Stepper (avec Mike Shabb)",
       "url": "https://open.spotify.com/track/78YLR3EwAgUnc8tvFzfhly"
@@ -9725,6 +9899,24 @@
     },
     {
       "album": {
+        "name": "Des pieds et des mains",
+        "url": "https://open.spotify.com/album/5bx1CGjjFfQpIoOBAUjKps"
+      },
+      "artists": [
+        {
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109057,
+      "name": "Tout prendre",
+      "url": "https://open.spotify.com/track/5kU24jy5EGIXdWtLMpCjn2"
+    },
+    {
+      "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
       },
@@ -10194,7 +10386,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177794,
       "name": "Viral",
       "url": "https://open.spotify.com/track/59a3NK8Q0wiyx8woSOhxgx"
@@ -10482,7 +10674,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 206511,
       "name": "\u00c9poque",
       "url": "https://open.spotify.com/track/7xlUaCvYw7hHmGZy0iuAiV"

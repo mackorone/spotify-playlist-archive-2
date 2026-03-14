@@ -4463,6 +4463,54 @@
     },
     {
       "album": {
+        "name": "Mannen Som D\u00f8de St\u00e5ende",
+        "url": "https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        },
+        {
+          "name": "Ousu Leigh",
+          "url": "https://open.spotify.com/artist/6CpjPG0lD6QJlkrCrNpdH4"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244413,
+      "name": "Ingen Meg Uten Deg",
+      "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
+    },
+    {
+      "album": {
+        "name": "Festen er aldri over",
+        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Ingen som skal hjem (feat. Staysman)",
+      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
+    },
+    {
+      "album": {
         "name": "Instamatik",
         "url": "https://open.spotify.com/album/2PaXaOVoTMjTyfXldEL2s3"
       },
@@ -9638,42 +9686,6 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "album": {
-        "name": "Festen er aldri over",
-        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
-      },
-      "artists": [
-        {
-          "name": "Morgan Sulele",
-          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
-    },
-    {
-      "album": {
-        "name": "Mannen Som D\u00f8de St\u00e5ende",
-        "url": "https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
     },
     {
       "album": {

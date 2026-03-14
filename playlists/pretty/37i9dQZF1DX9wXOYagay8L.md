@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Maleh
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,859 likes - 95 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,941 likes - 95 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 4 | [Come Duze](https://open.spotify.com/track/5GgMTUIDwPuhAJrpqaHsZc) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Come Duze](https://open.spotify.com/album/6SdVs1UyZWW3B6mBVvT8wF) | 3:39 |
 | 5 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 6 | [Kuye](https://open.spotify.com/track/0uzer7CkAQwuXX5ySXfIFy) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [iNkanyezi NeZinkanyezi](https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00) | 4:46 |
-| 7 | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/track/08gYg78uDP077plbPqkjbh) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw) | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/album/4oCw8xGOuT0iNPK6hWW20s) | 2:36 |
+| 7 | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/track/08gYg78uDP077plbPqkjbh) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn), [Ciniso](https://open.spotify.com/artist/0XzLSg7rkViHppVBsSk8cw) | [Trauma \(feat\. Ciniso\)](https://open.spotify.com/album/4oCw8xGOuT0iNPK6hWW20s) | 4:12 |
 | 8 | [AMANDLA](https://open.spotify.com/track/3Lw1q6LfVTtNg1GWKeomWz) | [Just G](https://open.spotify.com/artist/1gvbwTngEGhgojhW2imJUV), [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY) | [AMANDLA](https://open.spotify.com/album/6P4Uvso8V2PgTAKXYA5ALS) | 3:48 |
 | 9 | [Umjolo](https://open.spotify.com/track/0U3RITh8dKQSxhGF0yCPAQ) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Duncan](https://open.spotify.com/artist/6ly70lDRQATSZLN2ptpEbL) | [Umjolo](https://open.spotify.com/album/5HhZc3pfxYX4DeXrnxkKq3) | 4:21 |
 | 10 | [UThando Olufudumele](https://open.spotify.com/track/1Yf2Dda3imm3Y34Kgd8uWU) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [UThando Olufudumele](https://open.spotify.com/album/7Iny24TxG3Vv9cjQpswlbe) | 2:36 |

@@ -4,7 +4,7 @@
 
 > ADÉLA is so into you 💝 for <a href="https://newsroom.spotify.com/2026\-02\-24/greatest\-pop\-songs\-streaming\-era/">Spotify's 100 Greatest Pop Songs of the Streaming Era</a>
 
-2,550 songs - 5 day 12 hr 48 min
+2,554 songs - 5 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -842,6 +842,7 @@
 | [girls will b girls](https://open.spotify.com/track/1fnwW4qRPdAPkhRqncgh5o) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [girls will b girls](https://open.spotify.com/album/2dAEsiFQQXwJDiTnJcrC5y) | 2:29 | 2025-07-11 | 2025-08-23 |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 | 2024-10-12 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-20 | 2022-12-07 |
+| [Give A Little](https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Give A Little](https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi) | 2:55 | 2026-03-13 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 | 2022-10-08 |
 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 | 2022-04-01 | 2022-04-07 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-15 | 2023-07-01 |
@@ -1040,6 +1041,7 @@
 | [i feel everything](https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love](https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL) | 2:18 | 2022-06-03 | 2022-06-25 |
 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 | 2022-01-07 | 2022-02-19 |
 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 | 2024-06-07 | 2024-07-19 |
+| [I Got A Thing For Love](https://open.spotify.com/track/5UFjPmGDGlhBP6XHH5dMJn) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [I Got A Thing For Love](https://open.spotify.com/album/6MBGzQntCiAT3UAHt8UMIv) | 2:19 | 2026-03-13 |  |
 | [I GOT YOU \(Feat\. Lauv\)](https://open.spotify.com/track/3X8L4DUPjLUE1cr8omydPT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I GOT YOU \(Voyage ver.\)](https://open.spotify.com/album/5cnrcbdcdt6BJgAig9Tn3P) | 3:04 | 2024-02-09 | 2024-03-02 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-09-03 | 2022-03-18 |
 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 | 2023-02-24 | 2023-03-18 |
@@ -1393,6 +1395,7 @@
 | [mad's world](https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [mad's world](https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5) | 3:14 | 2023-10-13 | 2023-11-18 |
 | [Made it Awkward](https://open.spotify.com/track/0YBvfqU633fiBO5hC04SRX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made it Awkward](https://open.spotify.com/album/5NqFsOOBLx0ZQgOJiOezJX) | 3:04 | 2024-11-22 | 2025-01-25 |
 | [madhouse](https://open.spotify.com/track/4b9oAM56ycOQXQCV1BbN2S) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [madhouse](https://open.spotify.com/album/50F5i5F8kiulfRwwoOtG1U) | 2:05 | 2022-09-09 | 2022-12-10 |
+| [Magic](https://open.spotify.com/track/63MQEI9rOEJJO3S7HoG4L8) | [Dom Innarella](https://open.spotify.com/artist/48rd4biBGjgoUUtzDBsJoV) | [Magic](https://open.spotify.com/album/2dBDtgAec8TUCD8re4Foq8) | 2:58 | 2026-03-13 |  |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-27 | 2024-04-27 |
 | [Make Me Forget](https://open.spotify.com/track/5jbtWfTsTVOeZFI0aEg1tf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Make Me Forget](https://open.spotify.com/album/6UGdC8WPbCnc116gorUmAk) | 3:05 | 2025-03-16 | 2025-05-10 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-02-09 | 2024-08-10 |
@@ -2130,6 +2133,7 @@
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-26 | 2024-12-07 |
 | [Taste Back](https://open.spotify.com/track/3xClevycpBON8bkyxFbAna) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:41 | 2026-03-06 |  |
 | [Tattoos](https://open.spotify.com/track/4p1i3nnCvKtkMWWx7EuKQ7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Tattoos](https://open.spotify.com/album/7bkPBBnOZeGCYZRLYMSUZF) | 2:45 | 2024-02-09 | 2024-03-02 |
+| [teach you to love me](https://open.spotify.com/track/5r6EUC88jiI77NbKi4Y4jL) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [teach you to love me](https://open.spotify.com/album/4rCP6XeN0I7ZLUbMRwkNYE) | 3:09 | 2026-03-13 |  |
 | [Teacher's Pet](https://open.spotify.com/track/5o5akY9xnEk6lpMkD8RwD9) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 4:01 | 2021-11-26 | 2023-04-07 |
 | [Team Sport](https://open.spotify.com/track/0RKugjsByHkSiwmJfukkHc) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Team Sport](https://open.spotify.com/album/3JGHQb2bf6F3HDGYJAF24R) | 2:36 | 2023-06-23 | 2023-07-08 |
 | [Teardrops](https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Teardrops](https://open.spotify.com/album/110skZzsCFyckMdjupeIBX) | 2:54 | 2024-03-01 | 2024-03-30 |

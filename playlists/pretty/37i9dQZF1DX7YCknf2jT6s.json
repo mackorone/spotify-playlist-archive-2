@@ -1,12 +1,12 @@
 {
   "description": "New jazz for open minds. Cover: Walter Smith III",
-  "num_followers": 1047094,
+  "num_followers": 1047105,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5Myzn2TmsWCFTrqUtr1cHA/NXM",
+  "snapshot_id": "AAAAAN+zLUvbPUvCfS8l9ARCPUswtxAW",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:24",
@@ -23,6 +23,54 @@
       "duration_ms": 292186,
       "name": "Circus",
       "url": "https://open.spotify.com/track/4WaueK654l7uuPzuM25jqU"
+    },
+    {
+      "added_at": "2026-02-27 05:00:51",
+      "album": {
+        "name": "One Voice \u2013 One World",
+        "url": "https://open.spotify.com/album/5MJvK7fboOgoC182ohzFs8"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Mbuso Khoza",
+          "url": "https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Thokola Mama",
+      "url": "https://open.spotify.com/track/6sMujJDUsHX85VV9fCJdAx"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Flame Keeper (feat. Hiromi & Chris Potter)",
+        "url": "https://open.spotify.com/album/49FD9U3KdMEUWMqe7gMXiV"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 385453,
+      "name": "Flame Keeper (feat. Hiromi & Chris Potter)",
+      "url": "https://open.spotify.com/track/1i0Qw2NzM4wCLWpGcoKsEj"
     },
     {
       "added_at": "2026-03-06 05:00:24",
@@ -63,6 +111,26 @@
       "duration_ms": 163192,
       "name": "Visual Assault",
       "url": "https://open.spotify.com/track/75uNqSwLB6hLOieM28bzKB"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Take Heart",
+        "url": "https://open.spotify.com/album/0MCbvWGEzURrTcyIagEFgB"
+      },
+      "artists": [
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 351440,
+      "name": "Take Heart",
+      "url": "https://open.spotify.com/track/5I7DurYprJBoWLWsPj0QJG"
     },
     {
       "added_at": "2026-03-06 05:00:24",
@@ -139,22 +207,6 @@
       "duration_ms": 229000,
       "name": "Manifesto",
       "url": "https://open.spotify.com/track/2XhxjNlHAN22jo5xwqr6v2"
-    },
-    {
-      "added_at": "2026-02-27 05:00:51",
-      "album": {
-        "name": "One Voice \u2013 One World",
-        "url": "https://open.spotify.com/album/5MJvK7fboOgoC182ohzFs8"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6sMujJDUsHX85VV9fCJdAx"
     },
     {
       "added_at": "2026-02-27 05:00:51",
@@ -1329,30 +1381,6 @@
       "url": "https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs"
     },
     {
-      "added_at": "2025-07-14 00:04:48",
-      "album": {
-        "name": "Dom Salvador JID024",
-        "url": "https://open.spotify.com/album/6uFBKSXZAJTDcYODdkMqum"
-      },
-      "artists": [
-        {
-          "name": "Dom Salvador",
-          "url": "https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 246379,
-      "name": "As Esta\u00e7\u014des",
-      "url": "https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX"
-    },
-    {
       "added_at": "2025-11-07 16:37:26",
       "album": {
         "name": "Kumi Lach",
@@ -1919,26 +1947,6 @@
       "duration_ms": 457133,
       "name": "Flight",
       "url": "https://open.spotify.com/track/4vzN724NkFTS9OLH3sn3fK"
-    },
-    {
-      "added_at": "2025-07-04 04:00:19",
-      "album": {
-        "name": "Cory Weeds Meets Jerry Weldon",
-        "url": "https://open.spotify.com/album/1aSjY1jLHBPxIfCH1Q6Sxu"
-      },
-      "artists": [
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        },
-        {
-          "name": "Jerry Weldon",
-          "url": "https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U"
-        }
-      ],
-      "duration_ms": 401851,
-      "name": "One Flight Down",
-      "url": "https://open.spotify.com/track/6MSjTb94GT8FHLNLwVjaT2"
     },
     {
       "added_at": "2025-07-18 04:00:10",

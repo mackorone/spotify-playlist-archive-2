@@ -1,12 +1,12 @@
 {
   "description": "Uutta musaa tarjoilevat Hugo, Ares, Ida... ja moni muu  \ud83c\udfb6",
-  "num_followers": 105599,
+  "num_followers": 105714,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADdiTLB1d3gCYp7vqYEVrWuuA7W",
+  "snapshot_id": "AAAAAFygdvG55TxTFvctcMiOiMwGMrRT",
   "tracks": [
     {
       "added_at": "2026-03-12 22:00:18",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/6QaTgGkW68DFGcZDg88ce7"
     },
     {
+      "added_at": "2026-03-13 11:49:30",
+      "album": {
+        "name": "m0ti0n",
+        "url": "https://open.spotify.com/album/2agpEAlJ7uDQjcIGswVPLM"
+      },
+      "artists": [
+        {
+          "name": "louna0nline",
+          "url": "https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy"
+        }
+      ],
+      "duration_ms": 147562,
+      "name": "m0ti0n",
+      "url": "https://open.spotify.com/track/1bfGnvSonrY4NJcG8DAK0l"
+    },
+    {
       "added_at": "2026-03-12 22:00:18",
       "album": {
         "name": "22",
@@ -404,7 +420,7 @@
           "url": "https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o"
         }
       ],
-      "duration_ms": 384000,
+      "duration_ms": 380671,
       "name": "K E L L O T P Y \u00d6 R I I",
       "url": "https://open.spotify.com/track/7gitaLlCofXy0flP0CAsil"
     },
@@ -938,6 +954,10 @@
         {
           "name": "Muuan mies",
           "url": "https://open.spotify.com/artist/1FdyxaqE1PaJxVeyWFSRLy"
+        },
+        {
+          "name": "Stepa",
+          "url": "https://open.spotify.com/artist/6jx8pM3d8dxQJbN63T1Ehu"
         }
       ],
       "duration_ms": 242525,
@@ -975,6 +995,22 @@
       "duration_ms": 230521,
       "name": "When Did You Stop Loving Me?",
       "url": "https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk"
+    },
+    {
+      "added_at": "2026-03-12 22:00:18",
+      "album": {
+        "name": "Something to Hope For",
+        "url": "https://open.spotify.com/album/649xH0ILrI0AxbpCEZlsOS"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 174270,
+      "name": "Something to Hope For",
+      "url": "https://open.spotify.com/track/2mXJUvkWU4buVwVr34FUlf"
     },
     {
       "added_at": "2026-03-12 22:00:18",
@@ -1192,8 +1228,8 @@
           "url": "https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 129634,
+      "name": "WHERE DO I GO?",
       "url": "https://open.spotify.com/track/2dkzYmHV0jW0I66hmdMTey"
     },
     {

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 00's! Cover: Dinand Woesthoff (Kane)",
-  "num_followers": 74294,
+  "num_followers": 74306,
   "original_name": "00's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "Songs For You, Truths For Me (International Exclusive Bundle)",
         "url": "https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 244586,
       "name": "Haven't Met You Yet",
       "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "All The Right Moves",
-      "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "All The Right Moves",
+      "url": "https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
-        "name": "Taller In More Ways",
-        "url": "https://open.spotify.com/album/52w9BX6HJvNzY8qQXtFBq8"
-      },
-      "artists": [
-        {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Push The Button",
-      "url": "https://open.spotify.com/track/3EDS89HeAhHiZKlljciK0a"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
         "name": "Enrique",
         "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 212693,
       "name": "Bailamos - From \"Wild Wild West\"",
       "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
+        "name": "Taller In More Ways",
+        "url": "https://open.spotify.com/album/52w9BX6HJvNzY8qQXtFBq8"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Push The Button",
+      "url": "https://open.spotify.com/track/3EDS89HeAhHiZKlljciK0a"
     },
     {
       "added_at": "2024-07-19 06:48:03",

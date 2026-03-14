@@ -861,6 +861,36 @@
     },
     {
       "album": {
+        "name": "Clair",
+        "url": "https://open.spotify.com/album/2s8e2raA5srrk3aN3jMNP2"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        },
+        {
+          "name": "Raphael Pannier",
+          "url": "https://open.spotify.com/artist/7yrHz9SmURRYmWNkaZecl4"
+        },
+        {
+          "name": "Jean-Yves Jung",
+          "url": "https://open.spotify.com/artist/00kgpmXSQTGbYsgMbzQfqP"
+        },
+        {
+          "name": "William Brunard",
+          "url": "https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269653,
+      "name": "Clair",
+      "url": "https://open.spotify.com/track/4oobAuVDzLaTIicrhQr30d"
+    },
+    {
+      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -1348,7 +1378,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 399446,
       "name": "Eleanor Rigby - Bonus Track",
       "url": "https://open.spotify.com/track/52DqyYf6CjROWY5TFkgsPm"

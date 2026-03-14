@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,734 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,746 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 23 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
 | 24 | [Ik Ga Hard](https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ik Ga Hard](https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir) | 3:08 |
 | 25 | [Zou Zo Graag](https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T) | [Jurk!](https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28) | [Avondjurk](https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO) | 3:32 |
-| 26 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
-| 27 | [Liefde In De Lucht](https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Joshua Nolet](https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV) | [Liefde In De Lucht](https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3) | 3:32 |
+| 26 | [Liefde In De Lucht](https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Joshua Nolet](https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV) | [Liefde In De Lucht](https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3) | 3:32 |
+| 27 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
 | 28 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
 | 29 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
 | 30 | [Schouder Aan Schouder](https://open.spotify.com/track/3Zs8NVXn61nMzHwgUdnOw3) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Dromen Durven Delen](https://open.spotify.com/album/1nmOBRgGGHKFxRtkxurEiE) | 3:56 |
-| 31 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
-| 32 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
+| 31 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
+| 32 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
 | 33 | [Echte Vrienden](https://open.spotify.com/track/0VlvcLI6XKJv3RYhbSiasL) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [20 Jaar Hits](https://open.spotify.com/album/1qH3FX02vJtwDsXPjlXxko) | 3:08 |
 | 34 | [Hij Gelooft In Mij](https://open.spotify.com/track/5lCPvGnxpZ0PMIhySYULY8) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Hij Gelooft In Mij](https://open.spotify.com/album/2cORujbxSnL80ZdQ0wbJBM) | 4:22 |
 | 35 | [Wil Je Niet Nog 1 Nacht](https://open.spotify.com/track/4mFWIVsh5yJsLaaanQ8Hjr) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h), [Edwin Evers](https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO) | [This Is My Voice](https://open.spotify.com/album/3zuzvhtV3MeSb3Rh1MpQQn) | 3:29 |

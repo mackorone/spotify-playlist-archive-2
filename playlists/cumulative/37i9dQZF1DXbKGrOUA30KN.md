@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Montez
 
-378 songs - 17 hr 8 min
+378 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [kippenlänge](https://open.spotify.com/track/7oovjLiPliKQqCpl6nis5l) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [kippenlänge](https://open.spotify.com/album/0hSLfQF8iJnh2NPQOczMYJ) | 2:21 | 2025-10-24 | 2025-11-14 |
 | [Kirche im Dorf](https://open.spotify.com/track/4BDbZRfPnE3tYFD5MGFLbQ) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kirche im Dorf](https://open.spotify.com/album/3LFrLwQoU0wWUILZrOxYLh) | 2:35 | 2025-12-04 | 2026-01-02 |
 | [Kirschblüten](https://open.spotify.com/track/2lfiUGX43eKM28rkbxUI9E) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kirschblüten](https://open.spotify.com/album/2xzh63BMkGAdHCqVBBNzrw) | 2:05 | 2025-11-27 | 2026-01-30 |
+| [kleiner reminder](https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [</3](https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd) | 2:26 | 2026-03-12 |  |
 | [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 | 2025-12-04 | 2026-01-23 |
 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 | 2026-02-05 | 2026-02-27 |
 | [Kontraste](https://open.spotify.com/track/4fBCUabbi7sbb80RYbyx6F) | [LOUA](https://open.spotify.com/artist/2eMgeKSX8NXvMfLyoBv0eK) | [Kontraste](https://open.spotify.com/album/3Gt8DxMev8l8M3Z6Tp4sLc) | 2:44 | 2025-12-04 | 2026-02-06 |
@@ -319,7 +320,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 9](https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [</3](https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd) | 0:00 | 2026-03-12 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

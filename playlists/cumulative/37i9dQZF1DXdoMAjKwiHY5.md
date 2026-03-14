@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop\-rock favorites.
 
-89 songs - 5 hr 43 min
+90 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2023-06-08 |  |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2023-07-06 |  |
 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 | 2023-06-08 |  |
-| [Don't Look Down](https://open.spotify.com/track/77qU2pqTe4spkWxNWx0JqJ) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Don't Look Down](https://open.spotify.com/album/2NtfMmiRBZvp5WP853QqqB) | 3:18 | 2024-08-23 |  |
+| [Don't Look Down](https://open.spotify.com/track/77qU2pqTe4spkWxNWx0JqJ) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Don't Look Down](https://open.spotify.com/album/2NtfMmiRBZvp5WP853QqqB) | 3:18 | 2024-08-23 | 2026-03-14 |
 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 | 2023-06-08 |  |
 | [Emerald](https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Emerald](https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36) | 3:18 | 2025-09-26 |  |
 | [Ever the Same](https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38) | [Rob Thomas](https://open.spotify.com/artist/0adiY7hJfggkVNYaTGZPIU) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 4:16 | 2023-06-08 |  |
@@ -51,6 +51,7 @@
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-07-06 | 2025-09-27 |
 | [I Don't Want to Be](https://open.spotify.com/track/4vl2zwXsTmAxgu9iY0g6UK) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/5YTn3PFD7mrjhucfeafJE7) | 3:37 | 2023-07-06 |  |
 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 | 2023-06-08 |  |
+| [Ice Cold Lakes](https://open.spotify.com/track/4j2eOzBQBX65CuR5thn8da) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 3:01 | 2026-03-13 |  |
 | [If I Am](https://open.spotify.com/track/0yA6uXukVZbi29GcmtK6i5) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 4:18 | 2023-06-08 | 2023-07-07 |
 | [Inside Of Love](https://open.spotify.com/track/3xWHYLJMnhwpXYb3oq1KU3) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/3YDgcFDTqU755BsfAtBVQS) | 4:58 | 2023-06-08 | 2024-04-19 |
 | [Inside Of Love](https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Let Go](https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A) | 4:58 | 2023-06-08 |  |

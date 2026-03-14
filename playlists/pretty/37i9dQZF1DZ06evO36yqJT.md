@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,942 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,943 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 34 | [Peace In the Midst of the Storm \- Live](https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 4:52 |
 | 35 | [Mother Emanuel](https://open.spotify.com/track/17kWKng8MleiWw6gI4dHBV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:56 |
 | 36 | [Heaven](https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...\. He Will Come](https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL) | 4:48 |
-| 37 | [Don't Give Up](https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:21 |
-| 38 | [Sailin' On the Sea of Your Love](https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Sailin'](https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq) | 4:09 |
+| 37 | [Sailin' On the Sea of Your Love](https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Sailin'](https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq) | 4:09 |
+| 38 | [Don't Give Up](https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 6:21 |
 | 39 | [He Won't Fail You](https://open.spotify.com/track/6iYaGbh3Ula7xJY5XVmlMi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:26 |
 | 40 | [Go](https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:52 |
-| 41 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
-| 42 | [Faded Rose](https://open.spotify.com/track/0fhRNF9TdDDOG5hrAadZ50) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [First Lady](https://open.spotify.com/album/33gmAEyhugtmYHY1rIXSzG) | 5:15 |
+| 41 | [Faded Rose](https://open.spotify.com/track/0fhRNF9TdDDOG5hrAadZ50) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [First Lady](https://open.spotify.com/album/33gmAEyhugtmYHY1rIXSzG) | 5:15 |
+| 42 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
 | 43 | [When You Pray God Answers](https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 6:40 |
 | 44 | [The Lord Will Make a Way](https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:40 |
 | 45 | [Teach Me Master](https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:07 |
 | 46 | [I Cannot Stop Praising Him](https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:40 |
-| 47 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 |
-| 48 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
-| 49 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
-| 50 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 |
+| 47 | [Good God](https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [Good God](https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt) | 5:54 |
+| 48 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
+| 49 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 |
+| 50 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 |
 
-Snapshot ID: `abCwgAAAAACwKNDM/6cHfAz8ej4QS+HY`
+Snapshot ID: `abICAAAAAAD03pBUHC053hbkrePnKzv0`

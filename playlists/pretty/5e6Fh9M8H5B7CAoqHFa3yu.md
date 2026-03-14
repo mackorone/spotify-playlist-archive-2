@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 2,004 songs - 4 day 23 hr 47 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 2,007 songs - 4 day 23 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2012,5 +2012,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2002 | [Aunque no Sobre Nada](https://open.spotify.com/track/3gzsPdpwoYOt1k5csRZXRi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Aunque no Sobre Nada](https://open.spotify.com/album/5GdkEMt3dvIiHfGR9tvkCm) | 2:04 |
 | 2003 | [Asi Te Quiero](https://open.spotify.com/track/1ovtRibd9A7snHsGZTyrne) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Asi Te Quiero](https://open.spotify.com/album/54bz5FiwFx168Dy9FYw0Es) | 2:19 |
 | 2004 | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 |
+| 2005 | [Finding the Light](https://open.spotify.com/track/3NRF7WdmISMZDHqnQihJ1f) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Finding the Light](https://open.spotify.com/album/35ywCORGOYMeTxKVETMPMK) | 2:44 |
+| 2006 | [All Things Bright and Beautiful \(Royal Oak\)](https://open.spotify.com/track/40dM0ula2c15gwEdGJtCwm) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [All Things Bright and Beautiful \(Royal Oak\)](https://open.spotify.com/album/59SZkS83sfEHpMuVsGq1I4) | 2:20 |
+| 2007 | [Flor Seca](https://open.spotify.com/track/1AlcFrUihb0cXeXqFKx5X2) | [DiVerso Vocals](https://open.spotify.com/artist/20f38mn8JsKWtuGdbr9kge) | [Flor Seca](https://open.spotify.com/album/5mCbbcAWfjt2JiqVSytLNP) | 3:38 |
 
-Snapshot ID: `AAAIXmEBP9p/Bs+xCMLFrSGx+rYl5hTh`
+Snapshot ID: `AAAIYfQBRHXlrxHCr4wXpztnFpDK5gJ2`

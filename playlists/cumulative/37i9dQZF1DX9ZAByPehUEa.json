@@ -660,7 +660,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 185334,
       "name": "Answer",
       "url": "https://open.spotify.com/track/4RHSOhJYoftx7lLglL74Rm"
@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Disco Dancin'",
+        "url": "https://open.spotify.com/album/6keUqxKhBENaTz57AkYhSh"
+      },
+      "artists": [
+        {
+          "name": "Hatiras",
+          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177903,
+      "name": "Disco Dancin' - Radio Edit",
+      "url": "https://open.spotify.com/track/1bDFv3aHnz0jX6zvx0XbuL"
+    },
+    {
+      "album": {
         "name": "Disco Eccezionale",
         "url": "https://open.spotify.com/album/5M4oCtFndxCgeZkUEdqIUe"
       },
@@ -3270,6 +3288,28 @@
       "duration_ms": 135967,
       "name": "Don't Abuse It",
       "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
+    },
+    {
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2PmaRuJECI5W7g30iKxrEe"
+      },
+      "artists": [
+        {
+          "name": "FRASER",
+          "url": "https://open.spotify.com/artist/5BflqluOfNQb1hofbNsySr"
+        },
+        {
+          "name": "Mike Sandcastle",
+          "url": "https://open.spotify.com/artist/1RLNxSnxDjV9BQum9lMtQ4"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262857,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/3mxrDrCyPEAZG8Ws3m2A3e"
     },
     {
       "album": {
@@ -4120,7 +4160,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172380,
       "name": "Fade Into the Morning Light - Radio Edit",
       "url": "https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr"
@@ -4685,6 +4725,28 @@
     },
     {
       "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1txMhOhhxpc1qUTusPPU7P"
       },
@@ -4904,6 +4966,28 @@
       "duration_ms": 127058,
       "name": "girlgetdown",
       "url": "https://open.spotify.com/track/7w3apThciiYhZoSXnloZXE"
+    },
+    {
+      "album": {
+        "name": "Give Me a Kiss",
+        "url": "https://open.spotify.com/album/1RmQBCpqgOxza2e7dN1lpx"
+      },
+      "artists": [
+        {
+          "name": "Alastair Lane",
+          "url": "https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo"
+        },
+        {
+          "name": "SE\u00cfTOU",
+          "url": "https://open.spotify.com/artist/6u1xKpENLDr6n23EFcerpT"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173098,
+      "name": "Give Me a Kiss",
+      "url": "https://open.spotify.com/track/1X0tcxnsYvJncCVan21TCF"
     },
     {
       "album": {
@@ -5322,7 +5406,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
@@ -8712,6 +8796,24 @@
       "duration_ms": 207125,
       "name": "Lover",
       "url": "https://open.spotify.com/track/0MAwa3gzHXuyttt1MuYp3g"
+    },
+    {
+      "album": {
+        "name": "Love\u2019s Theme",
+        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174081,
+      "name": "Love\u2019s Theme",
+      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
     },
     {
       "album": {
@@ -13558,7 +13660,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 187826,
       "name": "Sweet One Morning - Radio Edit",
       "url": "https://open.spotify.com/track/3uCKxL0laWz0YCb9Gq6LNM"
@@ -13938,7 +14040,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 173120,
       "name": "The Mirror",
       "url": "https://open.spotify.com/track/0xTfRaYHf5dedyIpsxB56N"

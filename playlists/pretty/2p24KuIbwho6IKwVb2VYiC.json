@@ -1,12 +1,12 @@
 {
   "description": "The best Dance, House, Bass and EDM tracks right now, curated by <a href=\"https://www.instagram.com/nightvision/\">NIGHTVISION</a>!  Cover: James Hype",
-  "num_followers": 21149,
+  "num_followers": 21148,
   "original_name": "ALL ACCESS DANCE",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAhY270fZu3EIBfbbbsUj10r9miOE0h",
+  "snapshot_id": "AAAhZWtsU5wI6XsAKjhw1J0o25Q88eZR",
   "tracks": [
     {
       "added_at": "2026-03-06 14:35:08",
@@ -4059,6 +4059,42 @@
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
+    },
+    {
+      "added_at": "2026-03-13 04:58:38",
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
+    },
+    {
+      "added_at": "2026-03-13 05:00:46",
+      "album": {
+        "name": "1, 2 Step",
+        "url": "https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 123785,
+      "name": "1, 2 Step",
+      "url": "https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj"
     }
   ],
   "unique_name": "ALL ACCESS DANCE",

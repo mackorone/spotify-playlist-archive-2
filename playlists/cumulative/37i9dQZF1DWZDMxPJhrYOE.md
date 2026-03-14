@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-985 songs - 2 day 3 hr 17 min
+986 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [aldrig lært at elske.](https://open.spotify.com/track/1XDnyQ39GBHH1rC4OQVsfw) | [JONATHAN](https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ) | [ALDRIG LÆRT AT ELSKE](https://open.spotify.com/album/6X3mh1aqNrfiudZxvuIhH2) | 2:40 | 2026-02-12 | 2026-02-15 |
 | [alene](https://open.spotify.com/track/7C73kg9kyp2yhzUMeF65rS) | [Caroline Dubois](https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ) | [alene](https://open.spotify.com/album/6h2MGHtbbpTPAfGuvU9ZS6) | 2:34 | 2025-07-10 | 2025-08-01 |
 | [All At Once](https://open.spotify.com/track/3Jd3aTezMFWeuDcUkANdQQ) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 2:34 | 2025-07-03 | 2025-08-04 |
+| [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 | 2026-03-13 |  |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-02-22 |
 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-05 | 2025-07-26 |
 | [All My Friends](https://open.spotify.com/track/2xqI4s8TsrOhhGoWZYoDS2) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [All My Friends](https://open.spotify.com/album/60emWBk5kYEXwYqoM20mco) | 3:20 | 2025-06-26 | 2025-07-13 |
@@ -763,7 +764,7 @@
 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 | 2026-03-13 |
 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 | 2024-08-22 | 2024-11-08 |
 | [Skyggebokser](https://open.spotify.com/track/281VeLp2LfugJG336oFYwC) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Skyggebokser](https://open.spotify.com/album/1JnCki83OeAUhA12R9yuGI) | 2:24 | 2026-02-19 |  |
-| [Slip Slip \(feat\. MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 | 2026-02-19 |  |
+| [Slip Slip \(feat\. MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip \(feat\. MAS\)](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 | 2026-02-19 | 2026-03-14 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-07-01 | 2024-08-01 |
 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 | 2024-11-15 | 2025-01-22 |
 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 | 2025-01-24 | 2025-03-10 |

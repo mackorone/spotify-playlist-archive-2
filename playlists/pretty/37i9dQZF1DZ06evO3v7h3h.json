@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46024,
+  "num_followers": 46023,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAAMsAc23vBqLGDgXIHIgwGm",
+  "snapshot_id": "abICAAAAAABwdLByet8Qg2UtJbVvDzNG",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retic\u00eancias",
-        "url": "https://open.spotify.com/album/4W1RbWJIHhZn101nz56IWK"
-      },
-      "artists": [
-        {
-          "name": "Caio Nunez",
-          "url": "https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Retic\u00eancias",
-      "url": "https://open.spotify.com/track/3qwT7fQN8TB1Gx0mFMUygy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 219294,
       "name": "Levante",
       "url": "https://open.spotify.com/track/67rPbbujQNh4XYwtwAowTs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retic\u00eancias",
+        "url": "https://open.spotify.com/album/4W1RbWJIHhZn101nz56IWK"
+      },
+      "artists": [
+        {
+          "name": "Caio Nunez",
+          "url": "https://open.spotify.com/artist/2rfGf5mJ3aR15NKZvMyfE0"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Retic\u00eancias",
+      "url": "https://open.spotify.com/track/3qwT7fQN8TB1Gx0mFMUygy"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1diva & D\u00edvida",
-        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Plantar o Bem",
-      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Movimento R\u00e1pido dos Olhos",
         "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 303727,
       "name": "Linha De Frente",
       "url": "https://open.spotify.com/track/4ASow1CEoS3GQ1zOiQCViB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e1diva & D\u00edvida",
+        "url": "https://open.spotify.com/album/69FEbB83gglKjWddcLHRs1"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Plantar o Bem",
+      "url": "https://open.spotify.com/track/4n1fk1y5Jn0hL8EsrGyIbO"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Marissol Mwaba",
-          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
-        }
-      ],
-      "duration_ms": 243424,
-      "name": "Jogo S\u00e9rio",
-      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Portal",
         "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 192001,
       "name": "Depois do Depois",
       "url": "https://open.spotify.com/track/5BgqCJerABu6vJEgW2fc4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Marissol Mwaba",
+          "url": "https://open.spotify.com/artist/3lQz5wScc7Njw8d2nLD88A"
+        }
+      ],
+      "duration_ms": 243424,
+      "name": "Jogo S\u00e9rio",
+      "url": "https://open.spotify.com/track/1FoH0gEY1wdAyF7I1f0TSE"
     },
     {
       "added_at": null,
@@ -871,6 +871,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Non Ducor Duco",
+        "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Porque Eu Rimo",
+      "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 261478,
+      "name": "Um Tom de Azul",
+      "url": "https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus \u00c9 Brasileiro",
         "url": "https://open.spotify.com/album/0kLE6hMfgjBcb0twaLuJh4"
       },
@@ -915,74 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6N08e31kV1LFzuBJ7UIzZx"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 261478,
-      "name": "Um Tom de Azul",
-      "url": "https://open.spotify.com/track/7iob0Rybbkh8xdrqLxs8wD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Non Ducor Duco",
-        "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
-      },
-      "artists": [
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Porque Eu Rimo",
-      "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 214612,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Assim Seja",
         "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
@@ -1019,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/74bFWd3N2kKb76W7unhGg0"
       },
       "artists": [
         {
@@ -1028,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 206982,
-      "name": "A Fila Anda",
-      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
+      "duration_ms": 214612,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/7KS9hVnDI7CUf9E7KxbXPI"
     },
     {
       "added_at": null,
@@ -1055,6 +1039,22 @@
       "duration_ms": 211301,
       "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
       "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 206982,
+      "name": "A Fila Anda",
+      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azz Veizz",
         "url": "https://open.spotify.com/album/4sGPPuO7iZv7qXr7ace65g"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 331311,
       "name": "Azz Veizz",
       "url": "https://open.spotify.com/track/2ienL2vihr9ykTsP3MRvlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     }
   ],
   "unique_name": "This Is Rashid",

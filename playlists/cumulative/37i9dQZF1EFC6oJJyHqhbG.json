@@ -1552,10 +1552,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 222386,
       "name": "Kiss the Sky",
       "url": "https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL"
+    },
+    {
+      "album": {
+        "name": "Platinum Hits",
+        "url": "https://open.spotify.com/album/7M4lx8ZD0kn09XmPfXZAhF"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222387,
+      "name": "Kiss the Sky",
+      "url": "https://open.spotify.com/track/5TCl7OQerBF2SvAoczcMHe"
     },
     {
       "album": {

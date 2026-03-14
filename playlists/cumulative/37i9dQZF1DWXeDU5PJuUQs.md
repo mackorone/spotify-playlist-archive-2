@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-240 songs - 14 hr 49 min
+241 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Adios Amor Adios \- En Vivo](https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:55 | 2021-12-10 | 2025-03-01 |
 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 | 2021-12-10 |  |
 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 | 2022-01-07 | 2025-03-01 |
-| [Ahí Para Amarte](https://open.spotify.com/track/0qsTOzapTERMzlrnBlxcuA) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ahí Para Amarte](https://open.spotify.com/album/6mc7272E6trGK3AkwHcd9z) | 3:30 | 2025-10-24 |  |
+| [Ahí Para Amarte](https://open.spotify.com/track/0qsTOzapTERMzlrnBlxcuA) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ahí Para Amarte](https://open.spotify.com/album/6mc7272E6trGK3AkwHcd9z) | 3:30 | 2025-10-24 | 2026-03-14 |
 | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa) | 6:04 | 2022-07-15 | 2024-04-19 |
 | [Algún Día Volverás \(Santaferia en la Quinta Vergara\)](https://open.spotify.com/track/3jIpcXHmCRl894HKVlHcjN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia en la Quinta Vergara\)](https://open.spotify.com/album/19ZR23YJSCMdAoj6IJknbK) | 6:04 | 2021-12-10 | 2022-07-29 |
 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 | 2025-10-24 |  |
@@ -23,6 +23,7 @@
 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 | 2021-12-10 |  |
 | [Amiga Traidora \- En Vivo Estadio Luna Park](https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Estadio Luna Park](https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z) | 4:38 | 2024-04-12 |  |
 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 | 2021-12-10 | 2025-09-16 |
+| [Amor De Adolescentes](https://open.spotify.com/track/3RpZ9ag9JCDCwLSiPjWdOa) | [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [GRUPO RED / Zapada EN VIVO en UN POCO DE RUIDO !](https://open.spotify.com/album/3bt7UKpy3uxKAJlNNO2wtx) | 2:07 | 2026-03-13 |  |
 | [Amor de Papel \- En Vivo](https://open.spotify.com/track/1FFFfPx7oO3909DZm51yOS) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/11aXTkgfRtDuNKGDpS608U) | 2:19 | 2021-12-10 | 2022-07-28 |
 | [Amor de Papel \- En Vivo](https://open.spotify.com/track/2Y2BYPVVTKGqlx5FRFZ8HZ) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/7yQk4r7sdAn2lJ11C8Gskc) | 2:19 | 2022-08-26 | 2022-09-19 |
 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 | 2022-07-15 | 2024-04-19 |

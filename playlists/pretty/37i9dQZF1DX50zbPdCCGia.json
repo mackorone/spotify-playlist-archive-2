@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 314853,
+  "num_followers": 314998,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
       "added_at": "2023-03-29 20:20:24",
       "album": {
         "name": "Endless Flight",
@@ -379,6 +363,22 @@
       "duration_ms": 219466,
       "name": "You Make Me Feel Like Dancing - Remastered",
       "url": "https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Partners In Crime",
-        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
-      },
-      "artists": [
-        {
-          "name": "Rupert Holmes",
-          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
-        }
-      ],
-      "duration_ms": 246293,
-      "name": "Him",
-      "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "What Were Once Vices Are Now Habits",
         "url": "https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 267800,
       "name": "Another Park, Another Sunday",
       "url": "https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Partners In Crime",
+        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
+      },
+      "artists": [
+        {
+          "name": "Rupert Holmes",
+          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
+        }
+      ],
+      "duration_ms": 246293,
+      "name": "Him",
+      "url": "https://open.spotify.com/track/5rMthFHPxRDi4Uxg06iK6H"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Careless",
-        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
-      },
-      "artists": [
-        {
-          "name": "Stephen Bishop",
-          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
-        }
-      ],
-      "duration_ms": 192973,
-      "name": "Save It For A Rainy Day",
-      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "One Man Dog (2019 Remaster)",
         "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 155343,
       "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
       "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
+      },
+      "artists": [
+        {
+          "name": "Stephen Bishop",
+          "url": "https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Save It For A Rainy Day",
+      "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Let It Flow",
-        "url": "https://open.spotify.com/album/6Cs3GnzIMVOKXWBbGXQY9f"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/54vjpmKIdLbvxj3EcXx8M5"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Walking Man (2019 Remaster)",
         "url": "https://open.spotify.com/album/1pa0QvYjLsiYWQlkMvqPZL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 214920,
       "name": "Walking Man - 2019 Remaster",
       "url": "https://open.spotify.com/track/5CHX5fuINGV2Y7T4sDKdUJ"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Let It Flow",
+        "url": "https://open.spotify.com/album/6Cs3GnzIMVOKXWBbGXQY9f"
+      },
+      "artists": [
+        {
+          "name": "Dave Mason",
+          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/54vjpmKIdLbvxj3EcXx8M5"
     }
   ],
   "unique_name": "70s Soft Rock",

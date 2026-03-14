@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "ERRA  are on top of today's best Metal playlist.",
+  "description": "Lamb of God  are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 169210,
       "name": "Chewing Through the Leash",
       "url": "https://open.spotify.com/track/1yUafF6GwoPKwGpORjVFrw"
@@ -9594,7 +9594,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 236273,
       "name": "human props",
       "url": "https://open.spotify.com/track/6SHRRutKyl62aHFP8vT0Fg"
@@ -10128,7 +10128,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 206944,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
@@ -12463,6 +12463,24 @@
     },
     {
       "album": {
+        "name": "Make Us Whole Again",
+        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232944,
+      "name": "Make Us Whole Again",
+      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
+    },
+    {
+      "album": {
         "name": "The Screaming Of The Valkyries",
         "url": "https://open.spotify.com/album/3qwLRjvY7IYpv6N248PIAi"
       },
@@ -13938,6 +13956,24 @@
       "duration_ms": 353986,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Womb",
+        "url": "https://open.spotify.com/album/33VMBek3wWJyMc3fXxsPWG"
+      },
+      "artists": [
+        {
+          "name": "Blackbraid",
+          "url": "https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518166,
+      "name": "Nocturnal Womb",
+      "url": "https://open.spotify.com/track/1lAIGRTLuSIl4N2QYQzAiv"
     },
     {
       "album": {
@@ -15840,6 +15876,24 @@
       "duration_ms": 211200,
       "name": "Red Fur",
       "url": "https://open.spotify.com/track/1jj922BgyJexH19yoHd23L"
+    },
+    {
+      "album": {
+        "name": "Red Goliath",
+        "url": "https://open.spotify.com/album/1wla1Wb8b8sJfCl8VD9bij"
+      },
+      "artists": [
+        {
+          "name": "Archspire",
+          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301507,
+      "name": "Red Goliath",
+      "url": "https://open.spotify.com/track/0FoeiOdqYxq9WemWs2jO7Q"
     },
     {
       "album": {
@@ -18219,6 +18273,24 @@
     },
     {
       "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245350,
+      "name": "St. Catherine's Wheel",
+      "url": "https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB"
+    },
+    {
+      "album": {
         "name": "Shrine",
         "url": "https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg"
       },
@@ -19814,7 +19886,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 186306,
       "name": "The Maker",
       "url": "https://open.spotify.com/track/5HuO6uXKZa5EzVPXrdNj4Z"
@@ -20694,7 +20766,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 353500,
       "name": "Throne Of Want",
       "url": "https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX"
@@ -21494,7 +21566,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 191240,
       "name": "Unsafe At Any Speed",
       "url": "https://open.spotify.com/track/7v6V0c8xDri49iizbNtpgF"
@@ -21834,6 +21906,24 @@
       "duration_ms": 130806,
       "name": "Violent Nature",
       "url": "https://open.spotify.com/track/4wG1qk65XGBixayITnktbO"
+    },
+    {
+      "album": {
+        "name": "Violent Obsession",
+        "url": "https://open.spotify.com/album/6HzUhdKOTsP078MiVMNeHx"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "Violent Obsession",
+      "url": "https://open.spotify.com/track/4a6irBo5JD7ktrmE3K1EvD"
     },
     {
       "album": {
@@ -23268,6 +23358,24 @@
       "duration_ms": 173180,
       "name": "XOXO (feat. From Ashes to New)",
       "url": "https://open.spotify.com/track/7pFEi9VsizNjU1xIZEydR2"
+    },
+    {
+      "album": {
+        "name": "Yamato",
+        "url": "https://open.spotify.com/album/70XKff09whZDIn5OaqrPbU"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Yamato",
+      "url": "https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g"
     },
     {
       "album": {

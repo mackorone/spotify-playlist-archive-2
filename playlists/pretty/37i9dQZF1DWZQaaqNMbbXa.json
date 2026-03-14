@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 587775,
+  "num_followers": 587856,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 163216,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3HwBA7xp3XTbFiNzU7gjwp"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 163216,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21RzyxY3EFaxVy6K4RqaU9"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Your Love (9PM)",
         "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
       },
@@ -1451,26 +1471,6 @@
       "duration_ms": 150052,
       "name": "Your Love (9PM)",
       "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Clarity (Deluxe)",
+        "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
+      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Clarity (Deluxe)",
-        "url": "https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Stay The Night - Featuring Hayley Williams Of Paramore",
-      "url": "https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -2811,26 +2811,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Stereo Love",
-        "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
-      },
-      "artists": [
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Vika Jigulina",
-          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Stereo Love - Radio Edit",
-      "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
       },
@@ -2867,6 +2847,26 @@
       "duration_ms": 177689,
       "name": "Where Did You Go?",
       "url": "https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Stereo Love - Radio Edit",
+      "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
     },
     {
       "added_at": "2025-10-05 23:11:45",

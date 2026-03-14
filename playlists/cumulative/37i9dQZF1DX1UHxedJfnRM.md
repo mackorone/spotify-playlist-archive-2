@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Elsa y Elmar
 
-169 songs - 12 hr 15 min
+170 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Amarte Duele Así](https://open.spotify.com/track/1dP9Kg3LtmTLE0jCzXqatn) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/2cjrbjcxoBnp8F1e0wvtus) | 4:28 | 2022-08-12 | 2023-01-17 |
 | [Amarte Duele Así](https://open.spotify.com/track/35SW0fa2wxR7Jc7bqbt80n) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5OqvTYnHOD4COdn8vxn021) | 4:28 | 2022-05-13 | 2022-09-29 |
 | [Amarte Duele Así](https://open.spotify.com/track/5TE1mAaQJZS8VQPBN0eADT) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Amarte Duele Así](https://open.spotify.com/album/5SoaSY0mexom8MbC4sbzSP) | 4:28 | 2023-01-13 | 2023-09-13 |
-| [Amarte Es Mi Pecado](https://open.spotify.com/track/2niwYvW4SPtimr7jWAk9ke) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Amarte Es Mi Pecado](https://open.spotify.com/album/1zCWDAa3D4bZOxHG0WTnGL) | 5:17 | 2022-05-13 |  |
+| [Amarte Es Mi Pecado](https://open.spotify.com/track/2niwYvW4SPtimr7jWAk9ke) | [Jose Carlos Garcia](https://open.spotify.com/artist/0X0GekJ2TVUTakNbRbmeh9), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR) | [Amarte Es Mi Pecado](https://open.spotify.com/album/1zCWDAa3D4bZOxHG0WTnGL) | 5:17 | 2022-05-13 | 2026-03-14 |
 | [Amiga Mía](https://open.spotify.com/track/6Hst0kxjKNtjq9cUqH2kzB) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Amiga Mía](https://open.spotify.com/album/7EaTPnzWgkb8Lz8CRtmrdw) | 4:32 | 2022-05-13 |  |
 | [Amor A Mitad](https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:11 | 2024-11-22 |  |
 | [Amor De Etiqueta](https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB) | [La Caro Band](https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P) | [Vale La Pena \(It's Worth It\)](https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg) | 4:51 | 2022-05-13 |  |
@@ -163,6 +163,7 @@
 | [Traición](https://open.spotify.com/track/7dRD7eBLIglu0VkXBhy1Nm) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Desengaños](https://open.spotify.com/album/4jJOwvSGnBDyU7rQtGhbet) | 3:35 | 2024-05-31 | 2024-11-23 |
 | [Tu Falta de Querer](https://open.spotify.com/track/5AQ5u6zEpcHqwnTuYFesR9) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/4BBYd00knrYeFnPDSwQ23l) | 5:01 | 2022-05-13 |  |
 | [Tu Falta de Querer](https://open.spotify.com/track/5EUDROV3ETbVvnafg0OhRf) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Nuestra Historia](https://open.spotify.com/album/6RhQ9HgfpUi5U0mzeCzosW) | 5:02 | 2022-07-15 | 2024-04-19 |
+| [Tú y Yo \- Original](https://open.spotify.com/track/2WvSzsDOhSpZSqRdHwFAQD) | [La Misma Gente](https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ) | [Suena!!](https://open.spotify.com/album/04JVtalba8TkCMcteCgf17) | 4:46 | 2026-03-13 |  |
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-05-13 | 2022-07-09 |
 | [Usted No Sabe](https://open.spotify.com/track/0NcmQ04wzsyNiXqRLWWO92) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/4b00R4Z5nToeFS9tS9F03w) | 4:55 | 2023-11-24 | 2024-04-19 |
 | [Usted No Sabe](https://open.spotify.com/track/35CmU6oPcyuzqxUk1nD5FJ) | [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [De Cuba a Perú](https://open.spotify.com/album/3Xbra0UAgQW7JPl6BEpvep) | 4:55 | 2022-05-13 |  |

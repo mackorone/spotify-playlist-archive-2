@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 104013,
       "name": "BAIXO",
       "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
@@ -4684,7 +4684,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 88740,
       "name": "DNA",
       "url": "https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM"
@@ -6266,6 +6266,28 @@
       "duration_ms": 77424,
       "name": "Funk of Suffering",
       "url": "https://open.spotify.com/track/3GbFWANaWI8VZf1AxqFeaN"
+    },
+    {
+      "album": {
+        "name": "FUNK SERENO",
+        "url": "https://open.spotify.com/album/5rtythciasHcvQhwf2ubxv"
+      },
+      "artists": [
+        {
+          "name": "ICEDMANE",
+          "url": "https://open.spotify.com/artist/4cM6xcafBAbS9bOa8kAjRj"
+        },
+        {
+          "name": "DYSMANE",
+          "url": "https://open.spotify.com/artist/1pFLuMBwabtFITLNJlEZ9z"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145269,
+      "name": "FUNK SERENO - SLOWED",
+      "url": "https://open.spotify.com/track/5Y5NUAnVqru8HUUx4Yrli0"
     },
     {
       "album": {
@@ -10474,6 +10496,32 @@
       "duration_ms": 80442,
       "name": "MONTAGEM DIRE\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/1KuF0vl4lKo1EQNAJIlnZM"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DOMER",
+        "url": "https://open.spotify.com/album/43EihSOXIPNrqMaPjEQsAH"
+      },
+      "artists": [
+        {
+          "name": "Paizo",
+          "url": "https://open.spotify.com/artist/1R7VmMOHe7I2hoAFUSloPK"
+        },
+        {
+          "name": "DJ LXILL",
+          "url": "https://open.spotify.com/artist/3A3vlTSTD6FJ8zTgSUdBzY"
+        },
+        {
+          "name": "DJ FallThox",
+          "url": "https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87093,
+      "name": "MONTAGEM DOMER - Super Slowed",
+      "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
     },
     {
       "album": {

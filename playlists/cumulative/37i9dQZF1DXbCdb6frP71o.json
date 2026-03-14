@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-12",
-  "description": "Devotional tracks for an immersive Ramadan. Cover: Atif Aslam",
+  "description": "Devotional tracks for an immersive Ramadan. Cover: Ali Zafar",
   "name": "Hamd-o-Naat",
   "tracks": [
     {
@@ -2538,6 +2538,24 @@
       "duration_ms": 607840,
       "name": "Yeh Moamla Koi Aur Hai",
       "url": "https://open.spotify.com/track/0VHN0L82tso3NAetvYME6h"
+    },
+    {
+      "album": {
+        "name": "Zahe Muqaddar",
+        "url": "https://open.spotify.com/album/1b32qb9WSMQgLHESO1n7Q2"
+      },
+      "artists": [
+        {
+          "name": "Abdullah Qureshi",
+          "url": "https://open.spotify.com/artist/6WKmWnj8GuxXXx1bB0QFw8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237818,
+      "name": "Zahe Muqaddar",
+      "url": "https://open.spotify.com/track/47lvKpXTQsE3rfkgHi0i74"
     },
     {
       "album": {

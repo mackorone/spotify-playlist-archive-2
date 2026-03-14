@@ -568,6 +568,24 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "ii",
+      "url": "https://open.spotify.com/track/1bJAfv2WSHPIRur04PKy5a"
+    },
+    {
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 142000,
       "name": "vii",
       "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"

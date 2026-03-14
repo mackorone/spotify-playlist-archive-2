@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30633,
+  "num_followers": 30639,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAADvd/KEesq0ZV3zIH8JEvSQ",
+  "snapshot_id": "abICAAAAAADCpdd7yWTWShabJp/HITAL",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
-        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Seven Impossible Days",
-      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211573,
       "name": "Ain't Seen Love Like That",
       "url": "https://open.spotify.com/track/0Np00vOtVvqZpHqEyYylAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big, Bigger, Biggest! The Best Of Mr. Big",
+        "url": "https://open.spotify.com/album/0yinyY8MeITpBJdvVKfvQc"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Seven Impossible Days",
+      "url": "https://open.spotify.com/track/2jw4ehHRuwjNiD7fF6U05P"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "The Whole World's Gonna Know",
-      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 229160,
       "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
       "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "The Whole World's Gonna Know",
+      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 329333,
       "name": "Alive and Kickin' - 2021 Remastered",
       "url": "https://open.spotify.com/track/3RbxpCBZHs0iPbMX08RQIr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Dancin' Right into the Flame",
-      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actual Size",
         "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 224866,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Dancin' Right into the Flame",
+      "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 230120,
-      "name": "Rock & Roll Over - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 175840,
-      "name": "Damn I'm In Love Again",
-      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+      "duration_ms": 247093,
+      "name": "Voodoo Kiss",
+      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Damn I'm In Love Again",
+      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Big (2023 Remastered)",
         "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 295472,
       "name": "Had Enough - 2023 Remastered",
       "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 247093,
-      "name": "Voodoo Kiss",
-      "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 348 songs - 20 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 583 likes - 348 songs - 20 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 32 | [Closer To You](https://open.spotify.com/track/6biq5BjD7UAXpefEgDVbp5) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:07 |
 | 33 | [Little Toy Guns](https://open.spotify.com/track/51BWN2aIhyUgcXMAYSohdS) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/3Zuipf1PBcdnfKFyj6asOo) | 3:30 |
 | 34 | [Hide The Wine](https://open.spotify.com/track/4iThW5yeI2ExwwG0zte69c) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:29 |
-| 35 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:19 |
-| 36 | [Need A Boat](https://open.spotify.com/track/0Lt04pLGDo0EnmguFgpv5C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:05 |
+| 35 | [Need A Boat](https://open.spotify.com/track/0Lt04pLGDo0EnmguFgpv5C) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T) | 3:05 |
+| 36 | [Smoke Break](https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:19 |
 | 37 | [Grave](https://open.spotify.com/track/0rpwb2kLgS6KAZsostOj1O) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:13 |
 | 38 | [When Someone Stops Loving You](https://open.spotify.com/track/7A55QoGK0vf8lGNtaWZm45) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:48 |
 | 39 | [Wonder Woman](https://open.spotify.com/track/38UCGIpo273uGgdBXbi992) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:00 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 181 | [Throw Your Love Away](https://open.spotify.com/track/6TLBxHeVST12v07Ea9gUrK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:44 |
 | 182 | [Very Last Moment In Time](https://open.spotify.com/track/7gTSY2oOJAXSACadaMX4aq) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:28 |
 | 183 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
-| 184 | [On A Night Like This](https://open.spotify.com/track/2JDn5eXcun0P7Cbl3BpU5v) | [Sanne Salomonsen](https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb) | [The Album](https://open.spotify.com/album/5fgADiYWrrEGTuG2o0k4PV) | 4:06 |
-| 185 | [Don't You Wanna Know](https://open.spotify.com/track/0dLg48yfX8CZnkh7Pr0D2l) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 3:47 |
+| 184 | [Don't You Wanna Know](https://open.spotify.com/track/0dLg48yfX8CZnkh7Pr0D2l) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 3:47 |
+| 185 | [On A Night Like This](https://open.spotify.com/track/2JDn5eXcun0P7Cbl3BpU5v) | [Sanne Salomonsen](https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb) | [The Album](https://open.spotify.com/album/5fgADiYWrrEGTuG2o0k4PV) | 4:06 |
 | 186 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 |
 | 187 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 |
 | 188 | [The Faker](https://open.spotify.com/track/4puoCLTBJlX4007xQLf1Am) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:49 |
@@ -247,8 +247,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 237 | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/6JKSR71t1mLlLYBC8eF1gf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:47 |
 | 238 | [Good as Gone](https://open.spotify.com/track/6t8NnIURMSsmCd7rfxLCS9) | [Liv Charette](https://open.spotify.com/artist/1auuEPeyKavtg7hXiNxe1H) | [Good as Gone](https://open.spotify.com/album/3vwOzIiCR9Z9eJDu0kQFS8) | 3:21 |
 | 239 | [Think Like A Man](https://open.spotify.com/track/7cLCkXaWzisQwDLkGBXSu5) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Think Like A Man](https://open.spotify.com/album/1vYDtqGoe72TIlambhTo7N) | 3:08 |
-| 240 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
-| 241 | [Ask Her to Dance](https://open.spotify.com/track/6drZ0DQ2xr6WHkwrttWLq3) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Been a Minute](https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J) | 3:40 |
+| 240 | [Ask Her to Dance](https://open.spotify.com/track/6drZ0DQ2xr6WHkwrttWLq3) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Been a Minute](https://open.spotify.com/album/57IrCr3qgsxOfFK3THy57J) | 3:40 |
+| 241 | [Never Found You](https://open.spotify.com/track/0ejYonr6iCOveRWn2vBFJ0) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Never Found You](https://open.spotify.com/album/1bgekG3dViYKaPeiTyErnX) | 2:52 |
 | 242 | [That Girl](https://open.spotify.com/track/3BD4KMwRYV4g2TEMxKYM67) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:06 |
 | 243 | [Starlight](https://open.spotify.com/track/2SXIud8vEZJ8vmRha7WDuZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:24 |
 | 244 | [Beat Up Bronco](https://open.spotify.com/track/2zlaIBgJYVIcis4Fkb80X7) | [Leah Turner](https://open.spotify.com/artist/04hpJHF9uqnRNDpjULw0zh) | [Leah Turner \- EP](https://open.spotify.com/album/2o7RvcJctIBoe16Tz4JwcC) | 3:47 |
@@ -357,4 +357,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 347 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
 | 348 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcL9tgAAAAClz6xlA1gKal9DCLpe6tPi`
+Snapshot ID: `AcMDVgAAAADtFAlxQ9ft8rdk7yBx8Kny`

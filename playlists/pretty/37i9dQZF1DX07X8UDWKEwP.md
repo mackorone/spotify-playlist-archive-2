@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,740 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,767 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

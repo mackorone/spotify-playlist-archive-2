@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Y\u00f6r",
-  "num_followers": 47057,
+  "num_followers": 47056,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Skyklapper",
         "url": "https://open.spotify.com/album/4ap5LraN4yGYC0my4WUmkz"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 173259,
       "name": "Skyklapper",
       "url": "https://open.spotify.com/track/5nkDngxLSMwnNbJ7YkomTA"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "v\u00e5gner",
-        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 150938,
-      "name": "drikker med mig selv",
-      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Sytten",
         "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 194899,
       "name": "Hvad Nu Hvis",
       "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "v\u00e5gner",
+        "url": "https://open.spotify.com/album/4qkMWKIhCOWFtkVVsRsf0w"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 150938,
+      "name": "drikker med mig selv",
+      "url": "https://open.spotify.com/track/0i4Tf0W7BdBXBdRO5AfuWI"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -259,6 +259,38 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
+        "name": "Ring, n\u00e5r du har tid",
+        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Kristoffer Jessen",
+          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
+        },
+        {
+          "name": "Pernille Rosendahl",
+          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
+        },
+        {
+          "name": "Pia Raug",
+          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
+        },
+        {
+          "name": "S\u00f8ren Huss",
+          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
+        }
+      ],
+      "duration_ms": 394340,
+      "name": "Ring, n\u00e5r du har tid",
+      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
         "name": "Tag Mig Som Jeg Er",
         "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
@@ -291,38 +323,6 @@
       "duration_ms": 209923,
       "name": "I Made It (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
-        "name": "Ring, n\u00e5r du har tid",
-        "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Kristoffer Jessen",
-          "url": "https://open.spotify.com/artist/5Y5GcPvX5dQ3mSE8LGxQLC"
-        },
-        {
-          "name": "Pernille Rosendahl",
-          "url": "https://open.spotify.com/artist/17ytgaxAbm2QUG4rvzO6CE"
-        },
-        {
-          "name": "Pia Raug",
-          "url": "https://open.spotify.com/artist/3MijIIZW05AY9gC0rpdPbm"
-        },
-        {
-          "name": "S\u00f8ren Huss",
-          "url": "https://open.spotify.com/artist/4c5YsU2iQX3LvAKdPa0A8P"
-        }
-      ],
-      "duration_ms": 394340,
-      "name": "Ring, n\u00e5r du har tid",
-      "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Bobler",
-        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Bobler",
-      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Bobler",
+        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Bobler",
+      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
+        "name": "ung og elske",
+        "url": "https://open.spotify.com/album/0fAuHlYjFcvs2Yd52DlnDH"
+      },
+      "artists": [
+        {
+          "name": "KARLA",
+          "url": "https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC"
+        }
+      ],
+      "duration_ms": 152132,
+      "name": "ung og elske",
+      "url": "https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
         "name": "Et Sted p\u00e5 Vesterbro",
         "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
       },
@@ -899,34 +915,22 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "ung og elske",
-        "url": "https://open.spotify.com/album/0fAuHlYjFcvs2Yd52DlnDH"
+        "name": "KUN FOR HENDE",
+        "url": "https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW"
       },
       "artists": [
         {
-          "name": "KARLA",
-          "url": "https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC"
-        }
-      ],
-      "duration_ms": 152132,
-      "name": "ung og elske",
-      "url": "https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
-        "name": "Watershed",
-        "url": "https://open.spotify.com/album/1056qytYUijsTICJ4VIItC"
-      },
-      "artists": [
+          "name": "Kris",
+          "url": "https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw"
+        },
         {
-          "name": "SANDY",
-          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+          "name": "Zira",
+          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
         }
       ],
-      "duration_ms": 170767,
-      "name": "Play The Part",
-      "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
+      "duration_ms": 152878,
+      "name": "KUN FOR HENDE",
+      "url": "https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -947,22 +951,18 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "KUN FOR HENDE",
-        "url": "https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW"
+        "name": "Watershed",
+        "url": "https://open.spotify.com/album/1056qytYUijsTICJ4VIItC"
       },
       "artists": [
         {
-          "name": "Kris",
-          "url": "https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw"
-        },
-        {
-          "name": "Zira",
-          "url": "https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB"
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
         }
       ],
-      "duration_ms": 152878,
-      "name": "KUN FOR HENDE",
-      "url": "https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4"
+      "duration_ms": 170767,
+      "name": "Play The Part",
+      "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
       },
       "artists": [
         {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
         }
       ],
-      "duration_ms": 168348,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
       },
       "artists": [
         {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
         }
       ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+      "duration_ms": 168348,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
     },
     {
       "added_at": "2026-03-05 23:00:46",

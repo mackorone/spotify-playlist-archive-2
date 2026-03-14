@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,947 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,963 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 22 | [Solo oud \(feat\. Amer Ammouri\)](https://open.spotify.com/track/0it5BioYQs1dC6VKDgbaH1) | [Salatin Al Tarab Orchestra](https://open.spotify.com/artist/4hTMpf0ODUmFlW4uzJTx6l), [Amer Ammouri](https://open.spotify.com/artist/6faOVTE4L8BoaUeYKh3uR9) | [Arabian Classics for Belly Dance](https://open.spotify.com/album/1RYwe9ttWsCXR7o5wYbava) | 1:02 |
 | 23 | [Callipyge](https://open.spotify.com/track/7y3dNztX8wlDmkbRd5QgWg) | [Toufic Farroukh](https://open.spotify.com/artist/1qEcIbzDD8hnKqIuFA0Uag) | [Drab Zeen](https://open.spotify.com/album/4ROXK7Hp0z9BJtX5j4cndo) | 2:22 |
 | 24 | [Lotus Feet](https://open.spotify.com/track/5nrENJiiZa2H3MwhT2Yggs) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 6:18 |
-| 25 | [Tal'aa Min Beit Abouha](https://open.spotify.com/track/3J7o3mkgNbD9iayT580hao) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:19 |
-| 26 | [Alhambra Arabic Moorish Princess Song for Flamenco Guitar](https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Music of Spanish Streets and New Flamenco Gypsy Guitar \(For Best Romantic Ambience, Lounge, Dining, Spa, Party\)](https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv) | 4:11 |
+| 25 | [Alhambra Arabic Moorish Princess Song for Flamenco Guitar](https://open.spotify.com/track/0vgccJeXNDJ5KudfDDzhOu) | [Andrei Krylov](https://open.spotify.com/artist/7Ho9ldCZU5NDAvEvWU56Wv) | [Music of Spanish Streets and New Flamenco Gypsy Guitar \(For Best Romantic Ambience, Lounge, Dining, Spa, Party\)](https://open.spotify.com/album/7xYgUEQ6BM0haJCKvA8qHv) | 4:11 |
+| 26 | [Tal'aa Min Beit Abouha](https://open.spotify.com/track/3J7o3mkgNbD9iayT580hao) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:19 |
 | 27 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 28 | [Souk Okaz](https://open.spotify.com/track/0M9KszKXLp1kjRTB5td9cT) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc) | [Souk Okaz](https://open.spotify.com/album/3af9UPxr1VkRwmp5rPdJcB) | 5:49 |
 | 29 | [Evasion](https://open.spotify.com/track/7Cl0zb7UjCTyfM3Ake3PHF) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 4:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 45 | [Mirage](https://open.spotify.com/track/3LohLAMADeTgPr44EsOkBm) | [Solferino](https://open.spotify.com/artist/0Dge0pjhPWHwrusK6dAy8k), [Ibis Babè](https://open.spotify.com/artist/3nFoFM7CInvWALF4zBn5Yx) | [Arabian Nights \(Best Arabic Lounge Music\)](https://open.spotify.com/album/0lWIMI91TXMP2pKJZ8IRrT) | 4:50 |
 | 46 | [The Second Baghdad](https://open.spotify.com/track/1tB5BADAeX0tHHs68FB3zB) | [Rahim AlHaj](https://open.spotify.com/artist/6G0kPwGN96TTnSjeiqM3Ys) | [Journey](https://open.spotify.com/album/22gdJxzx5QY9hooxO9rWbC) | 4:42 |
 | 47 | [Endless Dance](https://open.spotify.com/track/0VOT6dW1tKLxK4Oj3QqOGY) | [Ahmed Nazmi](https://open.spotify.com/artist/14ziFX5mT9T7jRNwVUM221) | [Shams](https://open.spotify.com/album/2xwOc0Pd99J3xJ26rQysiW) | 4:26 |
-| 48 | [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 |
-| 49 | [Hayati \- Ma vie / My Life](https://open.spotify.com/track/60635lzVqtNc2lgjLbqH2z) | [Kamilya Jubran](https://open.spotify.com/artist/0ZV2R4aq7rkX0pWXLGa42d), [Sarah Murcia](https://open.spotify.com/artist/1ExeCHfthEFbhdaZb401mF) | [Nhaoul'](https://open.spotify.com/album/1ilshQ4SuHvYDETtL8rHB2) | 9:35 |
+| 48 | [Hayati \- Ma vie / My Life](https://open.spotify.com/track/60635lzVqtNc2lgjLbqH2z) | [Kamilya Jubran](https://open.spotify.com/artist/0ZV2R4aq7rkX0pWXLGa42d), [Sarah Murcia](https://open.spotify.com/artist/1ExeCHfthEFbhdaZb401mF) | [Nhaoul'](https://open.spotify.com/album/1ilshQ4SuHvYDETtL8rHB2) | 9:35 |
+| 49 | [Maqam tour reefy mohammdawiy](https://open.spotify.com/track/0tGx2Y2P2r6E6oZdNiorGG) | [Ali Hassan](https://open.spotify.com/artist/2EfA5A99i9zPWrDle4xqpd) | [Aloud Taqaseem Ala](https://open.spotify.com/album/5Dt12AZPRZ0jilgJC1IqN7) | 3:27 |
 | 50 | [FIRAT](https://open.spotify.com/track/3vjOp0AczE2nzHxMxr8Dwj) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 4:47 |
 
 Snapshot ID: `AAAAAOdPkQnOZKLdMZ1G2Vrn92XNH9JW`

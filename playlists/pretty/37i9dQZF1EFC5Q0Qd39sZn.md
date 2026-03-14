@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,014 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,035 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,8 +216,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 206 | [Nothing Can Keep Me From You](https://open.spotify.com/track/2NiSYwryWPbvpzP23GlVtV) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS Box Set](https://open.spotify.com/album/1aQUAWtVCilkjTK9fnoJ3e) | 4:04 |
 | 207 | [My First Night With You](https://open.spotify.com/track/0VXzpNAbCLTkNngCzHaYIx) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Mya](https://open.spotify.com/album/4O1WKiIEXNy7iycHEI681e) | 5:38 |
 | 208 | [I'll Say Good\-Bye For The Two Of Us](https://open.spotify.com/track/41UPzh1tCy4YPexDGov4Gq) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Greatest Hits](https://open.spotify.com/album/7AP7VvN3oX4fEEvW2bdbo9) | 4:37 |
-| 209 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
-| 210 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
+| 209 | [Don't Lose Any Sleep](https://open.spotify.com/track/3LBp8KAovHdlBbseS5bvIF) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Greatest Hits \(Ten Years And Change 1979\-1991\)](https://open.spotify.com/album/0qRvb8w1YuZhBrhELRFPBK) | 4:20 |
+| 210 | [World Without You](https://open.spotify.com/track/7CjkKfZv5ks3SLajSj1m7S) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Heaven On Earth \(Deluxe Edition\)](https://open.spotify.com/album/34SBayfOPJb9ztyCTvS3no) | 4:42 |
 | 211 | [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 |
 | 212 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 |
 | 213 | [Forever Isn't Long Enough](https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:31 |
@@ -329,14 +329,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 319 | [Eyes Of A Fool](https://open.spotify.com/track/3lAAQmO8XbaNHXTUIPOcZT) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:08 |
 | 320 | [Quem é Você \(Love Will Lead You Back\)](https://open.spotify.com/track/6Tct6Qc9dX5aaworN2PagM) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra!](https://open.spotify.com/album/5fdk0rqJUipKX8EVprxIGQ) | 4:29 |
 | 321 | [Moi sì \(Io sì\)](https://open.spotify.com/track/3cvUjacGM8nuxGdVK6dWDg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
-| 322 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 |
-| 323 | [You're Where I Belong](https://open.spotify.com/track/6NVLSkxjMXOOQtIMKD86Sl) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:14 |
+| 322 | [You're Where I Belong](https://open.spotify.com/track/6NVLSkxjMXOOQtIMKD86Sl) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:14 |
+| 323 | [I Cried My Last Tear Last Night](https://open.spotify.com/track/47BLoOazepLdnSO1wDbdwJ) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [Lisa Stansfield \(Deluxe\)](https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0) | 4:13 |
 | 324 | [Desire](https://open.spotify.com/track/1Zhs2crzqQVST3j60dCKhu) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:52 |
 | 325 | [Stop Time Tonight](https://open.spotify.com/track/2XmSd93cDzMcFoZR3JYTrL) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Life](https://open.spotify.com/album/37QTLk15OwBegvWfBWk36J) | 4:00 |
 | 326 | [You Can't Fight Fate](https://open.spotify.com/track/0AHjC8WFFv0jsEqgiW03Ui) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:41 |
 | 327 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
-| 328 | [Real](https://open.spotify.com/track/2QpPdXi2P1faOWJF7sCpbR) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Natalia Jiménez](https://open.spotify.com/album/0dX49zpwRsHhSbS8FydkNn) | 3:38 |
-| 329 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 |
+| 328 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 |
+| 329 | [Real](https://open.spotify.com/track/2QpPdXi2P1faOWJF7sCpbR) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Natalia Jiménez](https://open.spotify.com/album/0dX49zpwRsHhSbS8FydkNn) | 3:38 |
 | 330 | [Lonely Beat Of My Heart](https://open.spotify.com/track/71qwV7NMb0cFnH4Z9oahzb) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [Rock Gems](https://open.spotify.com/album/2eyyZaY5wXNQyzzKMWRIqa) | 4:14 |
 | 331 | [Strong As Steel \- 7" Version](https://open.spotify.com/track/1N3OQR5N7HMCU4UjLoXf9K) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Legends \- Five Star](https://open.spotify.com/album/4QBD4XKB2xeFWrcpEjbYdp) | 4:28 |
 | 332 | [What Kind of World \(Would This World Be\)](https://open.spotify.com/track/5YQraNykQGxRvGlvWGZwTL) | [Dance To Tipperary](https://open.spotify.com/artist/21FrMfKPa7X3C0VXb0tDDh) | [What Kind of World \(Would This World Be\)](https://open.spotify.com/album/5w7R2izbGhql7K6IGzZ5cL) | 3:32 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcL9tgAAAAC649ahVkYzKV9aNARIbMKJ`
+Snapshot ID: `AcMDVgAAAAD4/jpzhF4WLPNlFRGMbCPG`

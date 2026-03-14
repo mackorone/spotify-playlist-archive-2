@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 10 hr 9 min
+171 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Jenny's Got a Boyfriend](https://open.spotify.com/track/7Eo5lYaWdWryD6uhZT7aZb) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Jenny's Got a Boyfriend](https://open.spotify.com/album/0A2n5x2LuzK2wX8YvO0JaA) | 3:13 | 2024-05-31 | 2024-06-03 |
 | [Just a Kiss](https://open.spotify.com/track/2dOVKaabPna6A8ZdUte50D) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:45 | 2024-06-19 |  |
 | [Kick Us Out](https://open.spotify.com/track/3h8cs808NAb6YZHtqZW7IR) | [Hyper Crush](https://open.spotify.com/artist/2OHNfsJ6k7pJI3eRxv2dSF) | [Kick Us Out](https://open.spotify.com/album/18n4EfWfNiwhJeQInmEN38) | 3:29 | 2024-02-27 |  |
-| [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 | 2024-02-27 |  |
+| [Kiss the Sky](https://open.spotify.com/track/0LiEC0RZvGaUISWv7lYsJL) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Kiss the Sky](https://open.spotify.com/album/1PslxdbL4bn2GLzjBpjyrR) | 3:42 | 2024-02-27 | 2026-03-14 |
+| [Kiss the Sky](https://open.spotify.com/track/5TCl7OQerBF2SvAoczcMHe) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Platinum Hits](https://open.spotify.com/album/7M4lx8ZD0kn09XmPfXZAhF) | 3:42 | 2026-03-13 |  |
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:50 | 2024-02-27 |  |
 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 | 2024-02-27 |  |
 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 | 2025-07-02 |  |

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,282 songs - 3 day 6 hr 38 min
+1,284 songs - 3 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [All Caps](https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:10 | 2023-01-17 |  |
 | [All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:43 | 2022-02-21 |  |
 | [All My Life](https://open.spotify.com/track/5dzk06ekyij1F0Rd0BP0HJ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [From Me To You \(Deluxe\)](https://open.spotify.com/album/3ttPsHix6tJ7mqV8BcwOFp) | 2:45 | 2021-11-03 |  |
+| [All Of My Friends](https://open.spotify.com/track/2LTRSoho4n35jXJBYZrpwp) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 2:57 | 2026-03-14 |  |
 | [All of the Girls](https://open.spotify.com/track/6ippX1G4fx5HV4xxN5hdPi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 3:05 | 2025-05-16 |  |
 | [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:59 | 2022-03-22 |  |
 | [All Of The Lights \(Interlude\)](https://open.spotify.com/track/4D6TpthzUVNTjWQqfBW5Kb) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 1:02 | 2022-05-12 |  |
@@ -642,6 +643,7 @@
 | [LIVE LIKE THIS](https://open.spotify.com/track/22dSEtld6YeFTSnltvTbqD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [LIVE LIKE THIS](https://open.spotify.com/album/4TiEYgIpDnzJEnjHbcKtnD) | 2:12 | 2021-10-02 |  |
 | [Loaded](https://open.spotify.com/track/091QeYor0DTf2kdhkKk3xk) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:18 | 2021-01-24 |  |
 | [Locket](https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 5:18 | 2024-06-17 |  |
+| [Lonesome](https://open.spotify.com/track/6XeAixOyTbaI2DMOtBfC37) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:16 | 2026-03-13 |  |
 | [Look at the Sky](https://open.spotify.com/track/7LMajLn4v2ZWmLcfE1a7DY) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 5:09 | 2025-12-29 |  |
 | [Look Me In The Eyes \(feat\. James Blake\)](https://open.spotify.com/track/4K6QZO2D3FNhLr7jKpPoQm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:44 | 2024-10-10 |  |
 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 | 2021-11-12 |  |

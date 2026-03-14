@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,645 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,666 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 36 | [Somos](https://open.spotify.com/track/6NVZEdkIXr6acdEE9vWjkv) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Somos](https://open.spotify.com/album/2IqDvtglDJhlfbAzAhDnW4) | 2:51 |
 | 37 | [Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2KYyO57U4ompw5MJftNaJF) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 2:40 |
 | 38 | [Yo Quisiera Entrar](https://open.spotify.com/track/5sbnGS8meG63nqxeihnAQv) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 4:51 |
-| 39 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 |
-| 40 | [Tres Botellas](https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:19 |
+| 39 | [Tres Botellas](https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:19 |
+| 40 | [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 |
 | 41 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
 | 42 | [50 Mentadas](https://open.spotify.com/track/7CXDjMhOzM2PX3DHHPMxIX) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:39 |
-| 43 | [El Doble R \- En Vivo](https://open.spotify.com/track/4Ppn8Gl4soeJ2VYfIfJZaC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Con Amigos y La Banda, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/4M2jqGzgekItHWGiE6nIPg) | 2:24 |
-| 44 | [En Un Día Como Hoy](https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:21 |
+| 43 | [En Un Día Como Hoy](https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:21 |
+| 44 | [El Doble R \- En Vivo](https://open.spotify.com/track/4Ppn8Gl4soeJ2VYfIfJZaC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Con Amigos y La Banda, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/4M2jqGzgekItHWGiE6nIPg) | 2:24 |
 | 45 | [La Careada](https://open.spotify.com/track/6e4PEGCmSvAiAak4cDLisG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:32 |
 | 46 | [La Careada](https://open.spotify.com/track/4Pd3xEDmWKuUGf0aa6nxeK) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Careada](https://open.spotify.com/album/3NIvjlWLDeJ5L2IXuMgnsZ) | 3:11 |
 | 47 | [Mariposa Traicionera](https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mariposa Traicionera](https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Alguien Como Tú](https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ) | 3:21 |
 | 50 | [Cuéntame Tus Penas](https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Rey del Corrido: Ayer, Hoy y Siempre, Vol\. 1](https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl) | 3:54 |
 
-Snapshot ID: `abCwgAAAAACO0o0LrUkVbW/+cdaVACf7`
+Snapshot ID: `abICAAAAAADV/OjF7Gf74VKgGbAqfA1L`

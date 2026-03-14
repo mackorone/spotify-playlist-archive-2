@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with Casper TNG, CHASE B, J\. Cole, Baby Keem, Don Toliver and Lil Uzi Vert.
+> Today's Hip\-Hop with Baby Keem, Casper TNG, CHASE B, J\. Cole, Don Toliver and Lil Uzi Vert.
 
-1,506 songs - 3 day 2 hr 41 min
+1,508 songs - 3 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1225,6 +1225,7 @@
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-22 | 2025-03-29 |
 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 | 2024-02-16 | 2024-03-02 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-11 | 2022-06-25 |
+| [STATE OF EMERGENCY](https://open.spotify.com/track/1hpFu5ZQQGi7vDipedBcXy) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [STATE OF EMERGENCY](https://open.spotify.com/album/1dAjoyuOzwWfkKX43lTkzy) | 3:03 | 2026-03-13 |  |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-05 | 2022-12-17 |
 | [Step 1 \(with Offset\)](https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Step 1](https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf) | 2:57 | 2022-06-17 | 2022-08-27 |
 | [Steppas](https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Steppas](https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX) | 3:21 | 2024-03-29 | 2024-04-13 |
@@ -1362,6 +1363,7 @@
 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 | 2022-08-12 | 2022-09-10 |
 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-11-21 | 2026-02-21 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-23 | 2023-08-19 |
+| [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 |  |
 | [TRAFFIC](https://open.spotify.com/track/5lVNQLvr89qXZFu2CyyLX4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [TRAFFIC](https://open.spotify.com/album/76FsZpoyeFy6sH4nccj2HL) | 4:00 | 2026-01-30 |  |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2022-12-02 | 2023-07-01 |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/7Ap7Fpqnh2BUQBQxbLEC9I) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:14 | 2022-12-02 | 2022-12-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,185 likes - 91 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,187 likes - 91 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 65 | [This Is Not A Drill \(feat\. Bebe Rexha\)](https://open.spotify.com/track/1n9ihgANQtldosKV142hBz) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:25 |
 | 66 | [Mine](https://open.spotify.com/track/2SuKjwPDuZ7g6PFcBeGX3X) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:51 |
 | 67 | [Pillow](https://open.spotify.com/track/5MrNSHoWvFKjBQ7TRMkp9I) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 3:36 |
-| 68 | [glowing](https://open.spotify.com/track/3vcORtMP3AUhX5wRaVIhqs) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [sundays](https://open.spotify.com/album/55499noDiWYNvCIKT35FVs) | 1:11 |
+| 68 | [glowing](https://open.spotify.com/track/6jtlGUim9bpGxKVRbOqbjc) | [Søma](https://open.spotify.com/artist/4JbuxEoZ4rSuQ8MmeKRl0i) | [Sundays](https://open.spotify.com/album/0ZuIHbkKmfWnbEivGkbsjF) | 1:11 |
 | 69 | [Trust Fall](https://open.spotify.com/track/6jm6543STio3hL0bHV2xZ8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:30 |
-| 70 | [Better Mistakes](https://open.spotify.com/track/2HKWYj37hvdZ9xQNPW3GrD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:15 |
-| 71 | [I'm Not High, I'm In Love](https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:04 |
-| 72 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
+| 70 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
+| 71 | [Better Mistakes](https://open.spotify.com/track/2HKWYj37hvdZ9xQNPW3GrD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:15 |
+| 72 | [I'm Not High, I'm In Love](https://open.spotify.com/track/0fyYhe8tJKheY9XmhZlZSD) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:04 |
 | 73 | [My Dear Love \(feat\. Ty Dolla $ign & Trevor Daniel\)](https://open.spotify.com/track/3FcFDiiCEM1QPBdt3ON8H0) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:52 |
 | 74 | [Tough](https://open.spotify.com/track/3w0pWq2jhYjdUPQdvk2H5c) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:06 |
 | 75 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 90 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
 | 91 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AcL9wAAAAAC3tXHit8mGp84xR0kY0S3a`
+Snapshot ID: `AcMDYAAAAADCCf8xw09GLk8wtzFVeAux`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨James Blake✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,738 likes - 187 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,760 likes - 187 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 122 | [Plush](https://open.spotify.com/track/4jP7Eh55rn0buD5c2Cknmj) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Plush](https://open.spotify.com/album/4oxdzUE0WaiEG4mRkkidXE) | 3:59 |
 | 123 | [Death Do Us Part \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Everybody Got Somebody](https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u) | 3:25 |
 | 124 | [White Rabbit](https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [White Rabbit](https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N) | 3:05 |
-| 125 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
+| 125 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BLANCO](https://open.spotify.com/artist/107oA7JxR0kX37IEt1zYbi) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
 | 126 | [I'm Not Done \- Radical Edit](https://open.spotify.com/track/1ddVHKmlEtklJLTXs5wqvZ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [I'm Not Done \(Radical Edit\)](https://open.spotify.com/album/5KUzgYVtfZQG7XEU3l14pL) | 3:50 |
 | 127 | [you chose this \- moonlit version](https://open.spotify.com/track/7hmMKz2ymMyQp4Wb2lByTb) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [you chose this](https://open.spotify.com/album/5VXgM3OqMLwvb1S0DBdtJs) | 2:36 |
 | 128 | [affirmations](https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [affirmations](https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I) | 3:20 |

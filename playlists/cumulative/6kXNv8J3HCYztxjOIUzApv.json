@@ -6161,6 +6161,24 @@
     },
     {
       "album": {
+        "name": "Yamato",
+        "url": "https://open.spotify.com/album/70XKff09whZDIn5OaqrPbU"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Yamato",
+      "url": "https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g"
+    },
+    {
+      "album": {
         "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS",
         "url": "https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR"
       },

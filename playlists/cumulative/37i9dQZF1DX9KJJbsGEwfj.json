@@ -287,6 +287,28 @@
     },
     {
       "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147533,
+      "name": "Apambichao",
+      "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
+    },
+    {
+      "album": {
         "name": "Ay, DiOs M\u00edo!",
         "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
       },
@@ -1106,7 +1128,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/5ZULALImTm80tzUbYQYM9d"
@@ -1608,7 +1630,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 209160,
       "name": "EL MAKINON",
       "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 168687,
       "name": "Loco Contigo",
       "url": "https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS"
@@ -4302,6 +4324,24 @@
       "duration_ms": 149073,
       "name": "NEL",
       "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
+    },
+    {
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "album": {
@@ -5303,6 +5343,28 @@
     },
     {
       "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "album": {
         "name": "Relaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
       },
@@ -5330,7 +5392,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 247308,
       "name": "Relaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
@@ -5545,6 +5607,28 @@
     },
     {
       "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/59WUvoIGrL6FrhwhUYgNeM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196003,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/4xpgAJsYNK9oWbFHm40yyK"
+    },
+    {
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
       },
@@ -5560,7 +5644,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 226666,
       "name": "scared",
       "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
@@ -6898,6 +6982,28 @@
       "duration_ms": 196274,
       "name": "Zun Zun",
       "url": "https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa"
+    },
+    {
+      "album": {
+        "name": "\u00bfte ACUERDAS de mi?",
+        "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173575,
+      "name": "\u00bfte ACUERDAS de mi?",
+      "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9KJJbsGEwfj"

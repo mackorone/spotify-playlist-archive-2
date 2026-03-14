@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Ebubé
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,484 likes - 271 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,480 likes - 271 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 0:00 |
+| 1 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 2 | [Something Stupid](https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Something Stupid](https://open.spotify.com/album/0S3fTNkqwroxTqhVCryyCP) | 2:45 |
 | 3 | [I BELIEVE](https://open.spotify.com/track/65wnRdFa9Hjl3Qw46zijJy) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [I BELIEVE](https://open.spotify.com/album/52vIwZaFvtkqjKRVL9gFAX) | 3:16 |
 | 4 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |

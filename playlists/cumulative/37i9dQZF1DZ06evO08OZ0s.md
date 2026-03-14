@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-97 songs - 5 hr 1 min
+98 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Can't Get Enough](https://open.spotify.com/track/4djqpTZnGhzeYG4i37gOMl) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Can't Get Enough](https://open.spotify.com/album/3mcWIkdKwTxf9if1CG7Uj6) | 2:19 | 2024-05-28 | 2024-07-29 |
 | [Chase The Sun](https://open.spotify.com/track/3aTKb3ottzhElNxoYiscPw) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chase The Sun](https://open.spotify.com/album/3lmlgZBrwoWe7fTsqTAHnB) | 3:03 | 2024-05-14 |  |
 | [Chemical Love](https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chemical Love](https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx) | 2:06 | 2024-05-14 | 2026-02-04 |
-| [Chemical Love](https://open.spotify.com/track/6xqTVxZkLF7oIdQJT6SemC) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chemical Love](https://open.spotify.com/album/7evRn1kjWP2MUKbvXEzhe4) | 2:06 | 2026-02-04 |  |
+| [Chemical Love](https://open.spotify.com/track/47Bej2ql7So2t7oRJhcMKy) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chemical Love](https://open.spotify.com/album/3d3DI7Pa0sAwOowS30eODY) | 2:06 | 2026-03-14 |  |
+| [Chemical Love](https://open.spotify.com/track/6xqTVxZkLF7oIdQJT6SemC) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chemical Love](https://open.spotify.com/album/7evRn1kjWP2MUKbvXEzhe4) | 2:06 | 2026-02-04 | 2026-03-14 |
 | [Cotton Clouds \- Cutmore Remix](https://open.spotify.com/track/6DjvrztskWWRh9LzgmL053) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Cutmore](https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS) | [Cotton Clouds \(Cutmore Remix\)](https://open.spotify.com/album/4DLyIn25SoE3G70uh8X4PK) | 3:53 | 2024-05-14 | 2025-11-21 |
 | [Days Like This](https://open.spotify.com/track/7wfifk5pjAb4xVVUNVWJvL) | [Grayson Repp](https://open.spotify.com/artist/3lz53qg2Rd3GGOyE2cbwXV), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Days Like This](https://open.spotify.com/album/2pXhlF11yVLjt2Awu20Ub3) | 3:03 | 2025-07-13 | 2025-11-03 |
 | [Days Like This \- Matt Pridgyn Remix](https://open.spotify.com/track/0fF9t7wGVnISUf7giY7Zdo) | [Grayson Repp](https://open.spotify.com/artist/3lz53qg2Rd3GGOyE2cbwXV), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Days Like This \(Matt Pridgyn Remix\)](https://open.spotify.com/album/2CTlUvUTYLtJnfY1uwxkVr) | 3:35 | 2025-11-03 |  |

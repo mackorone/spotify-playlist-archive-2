@@ -2519,6 +2519,32 @@
     },
     {
       "album": {
+        "name": "Hanging Out With a Blueberry Pop",
+        "url": "https://open.spotify.com/album/4zkenwJpvQ2NWNwUKLTlga"
+      },
+      "artists": [
+        {
+          "name": "Croz Boyce",
+          "url": "https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6"
+        },
+        {
+          "name": "Avey Tare",
+          "url": "https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu"
+        },
+        {
+          "name": "Geologist",
+          "url": "https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299503,
+      "name": "Hanging Out With a Blueberry Pop",
+      "url": "https://open.spotify.com/track/1SlFNZ0cbfeBertOQxgzNW"
+    },
+    {
+      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
       },

@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
+    },
+    {
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/6fOQIwSV5BSjjtrliXEmHo"
       },
@@ -11838,6 +11856,24 @@
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+    },
+    {
+      "album": {
+        "name": "Ted Mosby",
+        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
+      },
+      "artists": [
+        {
+          "name": "Sir Silly",
+          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Ted Mosby",
+      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
     },
     {
       "album": {

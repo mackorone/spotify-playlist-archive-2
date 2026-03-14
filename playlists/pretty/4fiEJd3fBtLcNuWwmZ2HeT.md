@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 437 songs - 1 day 1 hr 3 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 443 songs - 1 day 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -445,5 +445,11 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 435 | [赤ずきんの狼](https://open.spotify.com/track/6T2lJKZceH9Eic5Cp3EPDk) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:20 |
 | 436 | [Theseus](https://open.spotify.com/track/0sgN6Kxs3qqbTXkNDguzRm) | [髥莏](https://open.spotify.com/artist/6tOzIqlpQBKAFIqdhmTfiW) | [Theseus](https://open.spotify.com/album/7nISltBDHRMbfzk4jFSV6R) | 3:11 |
 | 437 | [cutlery](https://open.spotify.com/track/4iLrubzZy5aHfnvwjO7LI3) | [uki3](https://open.spotify.com/artist/6G1uy0nAElYhcS94PecPw1) | [cutlery](https://open.spotify.com/album/6q2Uzkl1X4UrFOK5ikIrQi) | 3:58 |
+| 438 | [rabbit](https://open.spotify.com/track/24FpmtvLCN7ExbThu78Ppe) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ANGRY DOG](https://open.spotify.com/album/3XlpgvHos5aLXf6QufH8B4) | 2:27 |
+| 439 | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/track/2ynnDxWzNtn6VsfZnqq6OJ) | [JVM Roses Blood Symphony](https://open.spotify.com/artist/5ch4R7MYTiqAcfb4Ig6cSt) | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/album/4dGtND8i4qXqtV1DkNnZYW) | 6:56 |
+| 440 | [リビングデッド](https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [セレナーデ](https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG) | 2:29 |
+| 441 | [ヴェノマニア公の狂気](https://open.spotify.com/track/4SBbk1mjX4ZyEmPB9RgfRi) | [mothy](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) | [EVILS FOREST](https://open.spotify.com/album/1Ny1AB9rQdgU8ulXGbMyVM) | 4:05 |
+| 442 | [Perverted Martyr](https://open.spotify.com/track/1Xb86IudDAjgxvkejaaQ1O) | [Femme Fatale](https://open.spotify.com/artist/1Xx67XOeAxqfb5CUbaugg5) | [ARCANA](https://open.spotify.com/album/4AevWRFRi6OOeck4wDOL80) | 3:52 |
+| 443 | [ハッピー内蔵ケーキ](https://open.spotify.com/track/3H9CreSymo0QWcst8GF9gj) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [ハッピー内蔵ケーキ](https://open.spotify.com/album/07mcV8nr6ea7Gwx6hA3ReL) | 2:37 |
 
-Snapshot ID: `AAAJ8DjqwuahUi8WKw1djZGIBrTc/24F`
+Snapshot ID: `AAAJ9mhap8+jcH+G27B49qZAxhHX/vxO`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Papon, Madhubanti Bagchi, Hansika Pareek and more.",
+  "description": "Latest music from Josh Brar, Shashwat Singh and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -10804,7 +10804,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 229500,
       "name": "Fitratein",
       "url": "https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk"
@@ -13958,7 +13958,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 257177,
       "name": "Inaam",
       "url": "https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl"
@@ -32513,6 +32513,32 @@
     },
     {
       "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4lgiJr6oTxRAKPJgxRdh3O"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165319,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6dnLdYYNp0rf4eV2ZAO65q"
+    },
+    {
+      "album": {
         "name": "Surme Dani",
         "url": "https://open.spotify.com/album/5Xl0kVv7tlVGcmOk6tmh0L"
       },
@@ -36726,6 +36752,32 @@
       "duration_ms": 245825,
       "name": "Tum Aaoge",
       "url": "https://open.spotify.com/track/2DF1NdQKCxt99jApaIKX3R"
+    },
+    {
+      "album": {
+        "name": "Tum hi ho",
+        "url": "https://open.spotify.com/album/0qZWWj5ptRvErMNIMLaYMj"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        },
+        {
+          "name": "Adi Verma",
+          "url": "https://open.spotify.com/artist/7Jh663kzj6ObABpFn3byy5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208941,
+      "name": "Tum hi ho",
+      "url": "https://open.spotify.com/track/0ECfzZd7qXfgbUWyQ9hQLT"
     },
     {
       "album": {

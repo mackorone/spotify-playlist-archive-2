@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: Padi)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: GEMINI)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "AA (Alone Again)",
+        "url": "https://open.spotify.com/album/4smEwgoPp14In6lZdLLw1p"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170227,
+      "name": "AA (Alone Again)",
+      "url": "https://open.spotify.com/track/2kiycXeUux4Fmv7cV10Pls"
+    },
+    {
+      "album": {
         "name": "ABG",
         "url": "https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI"
       },
@@ -822,7 +840,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 211250,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Hfnps0jaWFpYg55WOPexG"
@@ -1545,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "Am I in Luv",
+        "url": "https://open.spotify.com/album/16zPJaL5ktjqqVeNiHJl01"
+      },
+      "artists": [
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154101,
+      "name": "BAD HOE",
+      "url": "https://open.spotify.com/track/6WDpPtMTPb0l3XfFjTUluE"
+    },
+    {
+      "album": {
         "name": "Bad Rain (Feat. SUMIN)",
         "url": "https://open.spotify.com/album/0DuMzsjufFCk6yHUMnMgxz"
       },
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
@@ -2726,7 +2762,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 227173,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
@@ -2948,7 +2984,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 203953,
       "name": "Chi-Ka",
       "url": "https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr"
@@ -3196,7 +3232,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
@@ -3398,7 +3434,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
@@ -3754,7 +3790,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 206480,
       "name": "CRZY",
       "url": "https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5"
@@ -3898,6 +3934,24 @@
       "duration_ms": 230171,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/3KldgsZmR6nCItrTrP8zbl"
+    },
+    {
+      "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219034,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98"
     },
     {
       "album": {
@@ -4864,7 +4918,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 135000,
       "name": "Ejeh",
       "url": "https://open.spotify.com/track/0SfFCjldRnnbsIL65yqaEd"
@@ -5772,7 +5826,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 171160,
       "name": "For Us",
       "url": "https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD"
@@ -6038,7 +6092,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -7766,7 +7820,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212000,
       "name": "In your circle (Feat. Bumkey, Janet Suhh)",
       "url": "https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB"
@@ -8218,13 +8272,13 @@
       },
       "artists": [
         {
-          "name": "GEMINI",
+          "name": "Gemini",
           "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         }
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
@@ -8314,7 +8368,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 176960,
       "name": "Last night (Guitar by Park Juwon)",
       "url": "https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS"
@@ -9220,7 +9274,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -10026,7 +10080,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 187266,
       "name": "Mars",
       "url": "https://open.spotify.com/track/2FZKBbotZtXLQyedIV965w"
@@ -10548,7 +10602,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
@@ -10836,7 +10890,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-13",
+      "date_removed": null,
       "duration_ms": 161766,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
@@ -12990,7 +13044,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
@@ -13386,7 +13440,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 164733,
       "name": "RIZZ",
       "url": "https://open.spotify.com/track/6JbyOUBLnkMadKcPQoQeTR"
@@ -13572,7 +13626,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 177302,
       "name": "Rush Hour (Feat. j-hope of BTS)",
       "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
@@ -14392,7 +14446,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
@@ -14410,7 +14464,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 169533,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/5TvEmwYx56gqksISSMqgzk"
@@ -17914,7 +17968,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 186000,
       "name": "You make me crzy",
       "url": "https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p"

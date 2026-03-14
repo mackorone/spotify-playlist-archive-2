@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from The Brook & The Bluff",
+  "description": "Explore all things indie rock right now. Featuring music from Spacey Jane",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 238876,
       "name": "100 Summers",
       "url": "https://open.spotify.com/track/3nGdMRCCVS8TZiJOVKQD2P"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 162886,
       "name": "All My Friends Are So Depressed",
       "url": "https://open.spotify.com/track/1B96kEGScLcBqZNlKycVsR"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 212973,
       "name": "Ask Someone Else",
       "url": "https://open.spotify.com/track/1aBYi3eh45AFdGtlnSLvGc"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 261734,
       "name": "August",
       "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 244661,
       "name": "Bag of Bones",
       "url": "https://open.spotify.com/track/1M2AqYT4Y6X0zRboZgIw8K"
@@ -3934,7 +3934,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 217405,
       "name": "BIG",
       "url": "https://open.spotify.com/track/29wTlp6iaQveoTktQhjqyz"
@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 201960,
       "name": "Bitter Everyday",
       "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
@@ -8246,7 +8246,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 194480,
       "name": "Cross My Heart and Hope to Die",
       "url": "https://open.spotify.com/track/6bBv0aGohueaTw6KaLVWUD"
@@ -8592,7 +8592,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 246808,
       "name": "Dagger Song",
       "url": "https://open.spotify.com/track/6lgMxz2iOpeiDTIeuIR7Be"
@@ -8794,7 +8794,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196279,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u"
@@ -9880,6 +9880,24 @@
       "duration_ms": 126879,
       "name": "Do You Feel It?",
       "url": "https://open.spotify.com/track/0c54axqgjePfHBDx1rCNd0"
+    },
+    {
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "album": {
@@ -11064,7 +11082,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 192000,
       "name": "Elton John",
       "url": "https://open.spotify.com/track/5HYN9duH7xFI9m46Rpjpxn"
@@ -12220,7 +12238,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 189459,
       "name": "Favorite Fear",
       "url": "https://open.spotify.com/track/3Vqcx4fajH02dyRuY99szQ"
@@ -12826,7 +12844,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207568,
       "name": "Float",
       "url": "https://open.spotify.com/track/6ynbkLsqAK1SslGNE2ql1l"
@@ -13996,7 +14014,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 165073,
       "name": "Girls Are God\u2019s Machines",
       "url": "https://open.spotify.com/track/3qq1DyClNrvBdaMK4QOXrw"
@@ -15394,7 +15412,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 188133,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/66h3Yhag0c7N40tVcnHI9o"
@@ -15416,6 +15434,24 @@
       "duration_ms": 269160,
       "name": "Hey",
       "url": "https://open.spotify.com/track/1ycdEKUvL03LLyexLASRxU"
+    },
+    {
+      "album": {
+        "name": "Hey Amanda",
+        "url": "https://open.spotify.com/album/1v94s8PQHW2ED8ZKslCfYK"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210720,
+      "name": "Hey Amanda",
+      "url": "https://open.spotify.com/track/1MtJdSbVjh4sjiadKRuyFc"
     },
     {
       "album": {
@@ -15488,7 +15524,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 211313,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
@@ -15600,7 +15636,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 363024,
       "name": "hit of the highlife",
       "url": "https://open.spotify.com/track/0M9kAFtdEmi5WjKXiAtjdL"
@@ -15986,6 +16022,24 @@
       "duration_ms": 123454,
       "name": "Hotel Window",
       "url": "https://open.spotify.com/track/1AiAQF07CLQmJq1oyc6gce"
+    },
+    {
+      "album": {
+        "name": "HOUSE",
+        "url": "https://open.spotify.com/album/0C91lSjGtEnDbtBwyIiVJt"
+      },
+      "artists": [
+        {
+          "name": "The Sophs",
+          "url": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259257,
+      "name": "HOUSE",
+      "url": "https://open.spotify.com/track/50hBwOAvTw01fUF5xsYNvt"
     },
     {
       "album": {
@@ -17114,7 +17168,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 217249,
       "name": "I Want You (Fever)",
       "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
@@ -18210,7 +18264,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 207026,
       "name": "Iron Wine",
       "url": "https://open.spotify.com/track/1ukTxyB0zGtrgsUqkR6yZp"
@@ -19312,7 +19366,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 196222,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/0mo8ihg80BpO2XQ8YsOQzL"
@@ -19882,7 +19936,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 213824,
       "name": "Lesbian Of The Year",
       "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
@@ -21374,7 +21428,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 275754,
       "name": "Madalena",
       "url": "https://open.spotify.com/track/1Ozum56jPgmDr9ZoJpRnY0"
@@ -24642,7 +24696,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 253800,
       "name": "NOW",
       "url": "https://open.spotify.com/track/0FefW9wddyFsMoIdQAoGQH"
@@ -25314,7 +25368,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 172778,
       "name": "Oranges",
       "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
@@ -25996,6 +26050,36 @@
       "duration_ms": 151560,
       "name": "Peppermint Roses",
       "url": "https://open.spotify.com/track/4wY7dEwv9w2BvnVXbICYMT"
+    },
+    {
+      "album": {
+        "name": "Perfect Hand (Power Snatch Version)",
+        "url": "https://open.spotify.com/album/2JZbYMSKIM2MCoOHkPVnOM"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        },
+        {
+          "name": "Daniel James",
+          "url": "https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213144,
+      "name": "Perfect Hand - Power Snatch Version",
+      "url": "https://open.spotify.com/track/041it5i3hjWkeCq0Cm7tzD"
     },
     {
       "album": {
@@ -26774,7 +26858,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 245320,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5IM7K2NbI81E02JR48ggbS"
@@ -28065,6 +28149,28 @@
     },
     {
       "album": {
+        "name": "Burnout Days (Reimagined)",
+        "url": "https://open.spotify.com/album/1kJgnnr6mKOGMRHvwSMM9m"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        },
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184125,
+      "name": "Rodeo Clown (Reimagined)",
+      "url": "https://open.spotify.com/track/5vb1O62sRpUmGKlQnhGx6R"
+    },
+    {
+      "album": {
         "name": "Orange Blood",
         "url": "https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV"
       },
@@ -29136,7 +29242,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 306007,
       "name": "Setting Sun",
       "url": "https://open.spotify.com/track/4bUHiFK6oq9Io4fAZPWSwW"
@@ -30856,7 +30962,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190706,
       "name": "Sometimes I Think About Death",
       "url": "https://open.spotify.com/track/68azWVwlh4j461uhjXDzPM"
@@ -31466,6 +31572,24 @@
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
     },
     {
       "album": {
@@ -35328,7 +35452,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
@@ -35364,7 +35488,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
@@ -37660,7 +37784,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 269826,
       "name": "White Horses",
       "url": "https://open.spotify.com/track/0FyvJvyPa8uBPvz4camMhe"
@@ -37898,7 +38022,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 155480,
       "name": "willow",
       "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
@@ -38258,7 +38382,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"

@@ -1,18 +1,18 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.",
-  "num_followers": 33773,
+  "num_followers": 33770,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAOJm/AsEbO99CAk3bmuRc+KqeuBnCx",
+  "snapshot_id": "AAAOMV1nKVXmzXs6h28/a+CkPz8CTEh2",
   "tracks": [
     {
       "added_at": "2026-02-27 15:05:38",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
       "artists": [
         {
@@ -20,9 +20,41 @@
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 240946,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-03-13 15:40:17",
+      "album": {
+        "name": "I Ain't No Cowboy",
+        "url": "https://open.spotify.com/album/0yx1Y4gQni0WqCbBfietQv"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 193029,
+      "name": "I Ain't No Cowboy",
+      "url": "https://open.spotify.com/track/5OcF4vawklKyNnFs4eWX0o"
+    },
+    {
+      "added_at": "2026-03-13 15:39:44",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 166735,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB"
     },
     {
       "added_at": "2026-02-27 15:05:38",
@@ -39,22 +71,6 @@
       "duration_ms": 191970,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/4v9DYYPIivOlv2G3uMQ7mA"
-    },
-    {
-      "added_at": "2026-02-27 15:05:38",
-      "album": {
-        "name": "Be By You",
-        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 197655,
-      "name": "Be By You",
-      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
     },
     {
       "added_at": "2026-02-27 15:05:38",
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/78n5hMSMF5vL01YEqSCRaS"
     },
     {
+      "added_at": "2026-03-13 15:22:43",
+      "album": {
+        "name": "black sheep",
+        "url": "https://open.spotify.com/album/7C34VZKz2DI6iorZeAmYu1"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "black sheep",
+      "url": "https://open.spotify.com/track/0Af1ax1vQpCk7BOIKxmNMD"
+    },
+    {
       "added_at": "2026-02-27 15:05:38",
       "album": {
         "name": "Sleepless in a Hotel Room",
@@ -135,6 +167,22 @@
       "duration_ms": 150183,
       "name": "B.O.A.T.",
       "url": "https://open.spotify.com/track/44d1x3XP5dp71SneKB2tJE"
+    },
+    {
+      "added_at": "2026-02-27 15:05:38",
+      "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
     },
     {
       "added_at": "2026-03-06 16:54:46",
@@ -203,6 +251,22 @@
       "duration_ms": 177430,
       "name": "Hell If I Know",
       "url": "https://open.spotify.com/track/3bCpA607HnEb6OZcbpiS1i"
+    },
+    {
+      "added_at": "2026-02-27 15:05:38",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
     },
     {
       "added_at": "2026-03-06 17:30:39",
@@ -483,22 +547,6 @@
       "duration_ms": 204405,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2gvi2caSU5dR8JlqWOtJHA"
-    },
-    {
-      "added_at": "2026-02-27 15:05:38",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2026-02-27 15:05:38",
@@ -1763,7 +1811,7 @@
     {
       "added_at": "2026-03-06 16:57:22",
       "album": {
-        "name": "Nothings What It Seems (feat. Jackson Dean)",
+        "name": "Nothing's What It Seems (feat. Jackson Dean)",
         "url": "https://open.spotify.com/album/2qWrDQ6S5kcwfaq4U5eVH1"
       },
       "artists": [
@@ -1777,8 +1825,24 @@
         }
       ],
       "duration_ms": 192157,
-      "name": "Nothings What It Seems (feat. Jackson Dean)",
+      "name": "Nothing's What It Seems (feat. Jackson Dean)",
       "url": "https://open.spotify.com/track/1lEmEETPDnInlmw2mpPwbg"
+    },
+    {
+      "added_at": "2026-03-13 15:41:48",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/1sHsn9yFXJpHAthwkQlS5T"
+      },
+      "artists": [
+        {
+          "name": "McCoy Moore",
+          "url": "https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/7jLJJjTd6Lnz67iOJvhZTE"
     }
   ],
   "unique_name": "Country Smash Hits",

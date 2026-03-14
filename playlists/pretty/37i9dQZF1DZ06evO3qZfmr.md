@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 
 > This is Megan Moroney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,457 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,516 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qZfmr.md) - [plain]
 | 39 | [Something in the Whiskey](https://open.spotify.com/track/6cF9cMJ70NKWN7Db7cAp9p) | [Jeb Gipson](https://open.spotify.com/artist/3MG8H6zu9EvmL5sRtFpDMF), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Something in the Whiskey](https://open.spotify.com/album/23D8bKKH3aDkBWkU6oIR19) | 2:58 |
 | 40 | [Keep the Flowers](https://open.spotify.com/track/6ax22G0NwhiX51oT3MRABN) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Pistol Made of Roses](https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E) | 3:57 |
 
-Snapshot ID: `abCwgAAAAAA3fT/RISUjFNg2L9WIMoDF`
+Snapshot ID: `abICAAAAAAAu5PvlNlB+Z2uhN2dZwwL0`

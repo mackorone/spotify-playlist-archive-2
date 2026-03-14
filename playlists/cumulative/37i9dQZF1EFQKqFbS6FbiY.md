@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-740 songs - 1 day 12 hr 2 min
+741 songs - 1 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,7 +312,8 @@
 | [Ex do Seu Atual](https://open.spotify.com/track/7jtOupSpYVpVZDqODguqUj) | [Banda 007](https://open.spotify.com/artist/4aI6jDLkxjcSR1PpuJ7Vk9) | [Volume 05 \- Flores](https://open.spotify.com/album/00ZtgeXQi2jeF9anL5Gbha) | 3:32 | 2024-07-18 | 2025-06-28 |
 | [Ex Não Manda Mais \- Ao Vivo](https://open.spotify.com/track/0Dwwwes37RqkyWBDHBJOM1) | [Dalmi Junior](https://open.spotify.com/artist/5bltkfe1PGak5U5C1DFhrF) | [Ao Vivo em Goiânia](https://open.spotify.com/album/705IO0nNUcifgqJQYL6XUq) | 2:54 | 2024-07-19 |  |
 | [Ex Não Manda Mais \- Ao Vivo](https://open.spotify.com/track/0EcWTkP8e9U797oSUtgrXo) | [Dalmi Junior](https://open.spotify.com/artist/5bltkfe1PGak5U5C1DFhrF) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0xAaSbrzHzxKyEiWAwbWLX) | 2:54 | 2023-12-30 | 2024-07-20 |
-| [Exatamente Agora](https://open.spotify.com/track/4Aac2JIqhOzDDpB2yfHZWT) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Exatamente Agora](https://open.spotify.com/album/1nlWV4QS0sIUkAWfmuyopB) | 3:16 | 2023-12-30 |  |
+| [Exatamente Agora](https://open.spotify.com/track/3vY9Oii6Dj2xxHiKKFRuzv) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Exatamente Agora](https://open.spotify.com/album/5TE8AmAVld5fkGZ7iknIZf) | 3:16 | 2026-03-13 |  |
+| [Exatamente Agora](https://open.spotify.com/track/4Aac2JIqhOzDDpB2yfHZWT) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Exatamente Agora](https://open.spotify.com/album/1nlWV4QS0sIUkAWfmuyopB) | 3:16 | 2023-12-30 | 2026-03-14 |
 | [Exclusividade Desse Neném](https://open.spotify.com/track/6DcHsnGLpmIapW4VsgcNqC) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:28 | 2023-12-30 |  |
 | [Expectativa de Ficante](https://open.spotify.com/track/25cD6eXrfin7HQNkIiu1RP) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Expectativa de Ficante](https://open.spotify.com/album/6s7eVg7GR9ytNN93NnKbLY) | 3:03 | 2023-12-30 | 2025-07-04 |
 | [Expectativa de Ficante](https://open.spotify.com/track/5hY8aNxjcxu4T2pPhlPlog) | [Luiz Henrique e Leo](https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO) | [Expectativa de Ficante](https://open.spotify.com/album/6p5MzNmIdxs4Gh0Z6keDD7) | 3:03 | 2025-07-03 |  |

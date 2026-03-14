@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "</3",
+        "url": "https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd"
+      },
+      "artists": [
+        {
+          "name": "GWENDO",
+          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "kleiner reminder",
+      "url": "https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt"
+    },
+    {
+      "album": {
         "name": "Gegenteil von Gl\u00fcck",
         "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
       },
@@ -5808,24 +5826,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "</3",
-        "url": "https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd"
-      },
-      "artists": [
-        {
-          "name": "GWENDO",
-          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
-        }
-      ],
-      "date_added": "2026-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt"
     },
     {
       "album": {

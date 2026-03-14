@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-317 songs - 17 hr 33 min
+320 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Déjà Vu](https://open.spotify.com/track/1OkFX11LjOELGogZyTHVVa) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Déjà Vu](https://open.spotify.com/album/5HTYaaS1l5AN84J3MN42Oc) | 2:45 | 2025-07-17 | 2025-10-11 |
 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 | 2026-01-23 | 2026-02-13 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2025-07-17 | 2025-09-23 |
+| [Evergreen](https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Evergreen](https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg) | 3:12 | 2026-03-13 |  |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-09-22 | 2025-10-11 |
 | [Everyone’s A Star!](https://open.spotify.com/track/1A1PKRd7QNAuZTVFVowK5G) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 | 2026-01-23 | 2026-02-13 |
 | [Everywhere](https://open.spotify.com/track/4DCyrNG1ES4OgSTVKqV1ry) | [Max Allais](https://open.spotify.com/artist/1q6Erwlg8yTeH3XgngViVn) | [Everywhere](https://open.spotify.com/album/7uLIghq9RLxslNEKNNlpOh) | 3:19 | 2025-11-03 | 2026-01-15 |
@@ -155,6 +156,7 @@
 | [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2026-01-23 | 2026-02-21 |
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-07-17 | 2025-09-23 |
 | [Little By Little](https://open.spotify.com/track/4YNoaytMcFUCGXXxZfXLO1) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Little By Little](https://open.spotify.com/album/6ikb0NTrw0WF03RJREBc7i) | 3:01 | 2025-07-17 | 2025-09-02 |
+| [Livin' For](https://open.spotify.com/track/61XPuOp0FkBsucySpjoWVG) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Livin' For](https://open.spotify.com/album/7waKmw79F9XR4PzgxCwzqk) | 3:39 | 2026-03-13 |  |
 | [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 | 2025-07-17 | 2025-09-23 |
 | [Loser](https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 3:01 | 2025-10-24 | 2026-01-24 |
 | [Lotje](https://open.spotify.com/track/7zFjsKFkljAWO6ijUEgILv) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [Jopke van Dobbenburgh](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D), [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Lotje](https://open.spotify.com/album/3fO874HKRPQnlnXM6Uufiz) | 2:46 | 2025-07-17 | 2025-10-08 |
@@ -273,6 +275,7 @@
 | [The Scythe](https://open.spotify.com/track/6VlV6vwhHedxxBumKM5J4s) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/7LQYDVBV6XwJTZMuaQNwHn) | 4:45 | 2025-09-22 | 2025-10-21 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-05 |  |
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 | 2026-02-14 |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-13 |  |
 | [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-07-17 | 2025-09-23 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-09-22 | 2025-10-18 |
 | [This Isn’t Really Love](https://open.spotify.com/track/4Sz0Goi1fCmR2EKekNNNWu) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Tainted](https://open.spotify.com/album/40PHB87OjY3asWgjaA3KOo) | 3:24 | 2025-09-22 | 2025-12-13 |

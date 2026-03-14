@@ -2253,6 +2253,24 @@
     },
     {
       "album": {
+        "name": "Bird's Nest",
+        "url": "https://open.spotify.com/album/2ysgbmRiW9qFW1mrKWSHk9"
+      },
+      "artists": [
+        {
+          "name": "Arto Ferrara",
+          "url": "https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197323,
+      "name": "Bird's Nest",
+      "url": "https://open.spotify.com/track/68uJoV7wMhmaVa7CTnGlVC"
+    },
+    {
+      "album": {
         "name": "Birds Down South",
         "url": "https://open.spotify.com/album/0c6rJQwZVkO76WQIatE63W"
       },
@@ -14564,7 +14582,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 211806,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/1byqPlC5Auv9pmaCJpGGqQ"

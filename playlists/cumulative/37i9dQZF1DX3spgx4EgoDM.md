@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-342 songs - 21 hr 10 min
+343 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,13 +69,14 @@
 | [Culpable o No](https://open.spotify.com/track/0PNkST00gopYa35OLKfju2) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Culpable o No](https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19) | 2:17 | 2022-07-05 | 2022-07-29 |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2022-07-05 |  |
 | [Cumbia Con Soda \- En Vivo](https://open.spotify.com/track/2jW6blJZO7ZgBICluafKRl) | [Pasto Seco](https://open.spotify.com/artist/5il1LfQizqVTfjSzhi1bt7) | [Cumbia Con Soda \(En Vivo\)](https://open.spotify.com/album/70luQUrkuFFdxBtmUe7GkK) | 3:32 | 2022-07-05 | 2022-08-13 |
+| [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2025-07-14 |  |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2022-10-28 |  |
 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 | 2022-07-05 | 2023-01-22 |
 | [Cumbia Francesa](https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sólo Éxitos](https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn) | 3:40 | 2022-07-05 | 2024-04-19 |
 | [Cumbia Ideal](https://open.spotify.com/track/3zGOBy6o8TxiPPlXfCN7qP) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Echadito para Atrás](https://open.spotify.com/album/05qTNNezbPlmFEdxY09D5P) | 4:03 | 2022-07-05 | 2022-07-28 |
 | [Cumbia Negra para el Amor](https://open.spotify.com/track/3FjKUSOS87FkDdVcrMz849) | [Jaison Neutra](https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf) | [Cumbia Negra para el Amor](https://open.spotify.com/album/0Q8Uu1FOuKubvPWdidkMqv) | 3:38 | 2022-07-05 | 2022-07-26 |
 | [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 | 2022-07-05 | 2024-04-19 |
-| [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2022-07-05 |  |
+| [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2022-07-05 | 2026-03-14 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 | 2022-07-05 | 2024-07-27 |
 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/4Y9RStla12pXfmFGAqe9Wk) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Íconos 25 Éxitos](https://open.spotify.com/album/6Ab1MkKGaHwhOakjB4acNw) | 4:31 | 2022-07-05 | 2022-07-26 |
 | [De Mi Te Vas A Enamorar](https://open.spotify.com/track/6Ea63VAoVJyvXgi2XQyCk2) | [Garras de Amor](https://open.spotify.com/artist/6kcdJiENvD273QC9rFoP5a) | [Te Mueve](https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda) | 3:24 | 2022-07-05 |  |

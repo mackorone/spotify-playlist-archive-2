@@ -4,7 +4,7 @@
 
 > back roads up loud with Treaty Oak Revival
 
-67 songs - 3 hr 44 min
+69 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bad For Me](https://open.spotify.com/track/6C23LLU3olmyBxGRZ3DHyX) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs), [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Bad For Me](https://open.spotify.com/album/5EahwgycwrduVeCN27Xd2n) | 2:48 | 2026-02-20 |  |
 | [Bad Habits](https://open.spotify.com/track/0zzA7A6btrf9ah4bdpuiqr) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Bad Habits](https://open.spotify.com/album/5jWs2Me9Jf6pQtMKh379hF) | 3:14 | 2025-09-05 |  |
 | [Blame It On My Broken Heart](https://open.spotify.com/track/0bqQJ1XypPlUvY9su0f8u5) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 3:15 | 2025-09-05 |  |
+| [Blood Runs Thicker](https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [forgive, forget.](https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp) | 3:29 | 2026-03-13 |  |
 | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Bowery \(feat\. Kings of Leon\)](https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc) | 3:35 | 2025-09-05 |  |
 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 | 2025-09-05 |  |
 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 | 2025-09-05 |  |
@@ -45,6 +46,7 @@
 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 | 2025-09-05 |  |
 | [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 | 2025-11-28 |  |
 | [Missed Call](https://open.spotify.com/track/6ybZUqlfk938oS6WeBmDab) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:15 | 2025-09-05 |  |
+| [My Fix](https://open.spotify.com/track/4VwxCRrx0uJdNH54YOfMQe) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Possum Rock](https://open.spotify.com/album/0GKq4OBj4u2K5eYnYFm2Cp) | 3:16 | 2026-03-13 |  |
 | [Name In A Song](https://open.spotify.com/track/7pCopTBQmUIvVHCAREicYC) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Name In A Song](https://open.spotify.com/album/5TnxrgBI9muACAEOHEO0Ik) | 3:20 | 2025-09-05 |  |
 | [Next Week](https://open.spotify.com/track/0r54Tm572IfsTmt0qXpJQO) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Simpler Days](https://open.spotify.com/album/1RNkTsTneXFwzZkiAKRnnN) | 2:53 | 2025-09-05 |  |
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2025-09-05 |  |

@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: georgustav
 
-1,665 songs - 3 day 6 hr 44 min
+1,665 songs - 3 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Alma](https://open.spotify.com/track/3BeKhlADRYwyPF4jcsy4zf) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Alma](https://open.spotify.com/album/3WXrbjjks1fCWPq5dJfWtn) | 2:54 | 2025-03-27 | 2025-04-25 |
 | [Almost Hit By A Discokugel](https://open.spotify.com/track/6mqxkxgtNyTLbbd3XsDz40) | [BUBE](https://open.spotify.com/artist/4bNL0SKfELaXHN3zsmUMfN) | [BUBE](https://open.spotify.com/album/5PfHkFlPlselXKuiqPjnfX) | 4:54 | 2024-09-19 | 2024-10-18 |
 | [Altbau](https://open.spotify.com/track/5LmYjkAaboDhhNhDxAfMvM) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb) | [Altbau](https://open.spotify.com/album/6o5C3NyIx43mgF1tC3LfPg) | 2:47 | 2024-11-21 | 2024-12-13 |
+| [Am Ende dieses Lieds](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 2:48 | 2026-03-12 |  |
 | [Am Herz vorbei](https://open.spotify.com/track/0tuUNU7oJti5kRwTKUlohl) | [Tristan Brusch](https://open.spotify.com/artist/2XbRunIT35jrB8HRsISPgT) | [Am Wahn](https://open.spotify.com/album/4cIC8nIsGhfyeerpuYKDGB) | 4:36 | 2025-02-13 | 2025-02-15 |
 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 | 2026-01-30 |  |
 | [AMNESIE AMNESIE](https://open.spotify.com/track/6FDXWV4OkQeu84JAxt8Vyw) | [LAZLO](https://open.spotify.com/artist/435fmLcbvAJdnVy78faNWY), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [AMNESIE AMNESIE](https://open.spotify.com/album/1ZEmiBJqnEGp7LtGnXCNgb) | 2:26 | 2024-10-10 | 2024-11-01 |
@@ -1156,7 +1157,7 @@
 | [rauch](https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [rauch](https://open.spotify.com/album/3f1DyygD4bDZn6nshNhuLU) | 1:59 | 2024-07-18 | 2024-08-23 |
 | [Raue Zärtlichkeit](https://open.spotify.com/track/4QYtmLxnMNsX1dfjIg3fTJ) | [TYM](https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v) | [Raue Zärtlichkeit](https://open.spotify.com/album/3re4AICzx9AEd1XfE9oAZ0) | 2:15 | 2023-08-10 | 2023-09-01 |
 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 | 2023-04-13 | 2023-06-16 |
-| [Rave on](https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Rave on](https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f) | 3:15 | 2026-03-12 |  |
+| [Rave On](https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Rave On](https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f) | 3:15 | 2026-03-12 |  |
 | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/track/32EJEvzpRagqyBALBPJVmK) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [NUR FÜR DICH 2](https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf) | 3:26 | 2025-02-13 | 2025-02-15 |
 | [redest](https://open.spotify.com/track/2Zt9I3FeTu9MSoa7GXwepw) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [redest](https://open.spotify.com/album/1BVFlWGV3UUV74XZZG3oKT) | 2:52 | 2024-11-29 | 2025-01-10 |
 | [Regen](https://open.spotify.com/track/0N04TB81H5OxuhPq2qURSp) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Regen](https://open.spotify.com/album/7wKFIo8jw7UUkN4mJ7FJoT) | 4:02 | 2023-04-27 | 2023-05-12 |
@@ -1413,7 +1414,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 1](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 0:00 | 2026-03-12 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

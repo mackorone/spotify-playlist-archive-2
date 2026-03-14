@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,352 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,364 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 25 | [T9aws](https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 3:42 |
 | 26 | [L](https://open.spotify.com/track/3t5rxFCtPFSUULtNAaARXz) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [L](https://open.spotify.com/album/3L6hcHjXIAQimZpiOMr9Hg) | 3:04 |
 | 27 | [Moral](https://open.spotify.com/track/4dkAVeT8SCueEWoKK3Q2R0) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [Moral](https://open.spotify.com/album/7HLi5EsiOyBzQWaQzZUnYY) | 3:22 |
-| 28 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |
-| 29 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 |
+| 28 | [Yak Adnya](https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB) | [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI) | [Tflow \#3](https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7) | 3:42 |
+| 29 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |
 | 30 | [LILLAH](https://open.spotify.com/track/7wHBBddAaSSkIWpfwMhqdU) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 2:27 |
 | 31 | [Ya Lalali](https://open.spotify.com/track/2cHTt5vuym9qpiCssqy529) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/0VgUfd4SGlx8LUgdUqrq08) | 4:12 |
 | 32 | [DIAMOND](https://open.spotify.com/track/4mQGTKD7TeJpptoLdDbNX9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 44 | [Luna](https://open.spotify.com/track/6GIWJrb6waDyG2VBbqwz2X) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [Luna](https://open.spotify.com/album/3zHPs7oUe2fxD0zWxiHrv2) | 2:02 |
 | 45 | [Sfina](https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Sfina](https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS) | 3:30 |
 | 46 | [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 |
-| 47 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
-| 48 | [End Of Time](https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 3:31 |
+| 47 | [End Of Time](https://open.spotify.com/track/3Dvhpf8dhIJQheE2nEtc50) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Sēnsus](https://open.spotify.com/album/20mtZtrBWCXfMHJbDNywwS) | 3:31 |
+| 48 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
 | 49 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
 | 50 | [Ça dépend](https://open.spotify.com/track/5IQgqdOpizKkUmiwAcyCuu) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L), [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Ça dépend](https://open.spotify.com/album/0nowTxq2NVPtVxJBLeDdwp) | 2:50 |
 

@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-124 songs - 6 hr 22 min
+126 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bad Friends](https://open.spotify.com/track/22h0LkzTFMbj4WzDOpSGI1) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Bad Friends](https://open.spotify.com/album/0RylQ7ZJMfvxSZeNLJQ423) | 3:02 | 2025-07-04 |  |
 | [Bad Memories \- Felix Jaehn Remix](https://open.spotify.com/track/04R4oiYD4NU6ZkdwlaJSep) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(Felix Jaehn Remix\)](https://open.spotify.com/album/1BDhBICG1Iowos7dCtSizl) | 2:29 | 2025-07-04 |  |
 | [BANG BANG](https://open.spotify.com/track/0eJSm2G0t3XX4SUuU1aSaH) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [BANG BANG](https://open.spotify.com/album/7eE2cLGRCyAMeCgzycZ2s2) | 2:18 | 2025-08-22 | 2025-09-13 |
+| [Be Mine](https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Be Mine](https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE) | 1:53 | 2026-03-13 |  |
 | [Be Mine](https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ) | 2:36 | 2025-07-04 | 2025-09-13 |
 | [Bij Mij](https://open.spotify.com/track/53aQnzOfx7tzK3fCTD0lx3) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Bij Mij](https://open.spotify.com/album/4pBYLtozCNQRpHvnumel2i) | 2:55 | 2025-07-18 | 2025-09-02 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2025-07-04 |  |
@@ -113,6 +114,7 @@
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2025-07-04 |  |
 | [Supersonic](https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Supersonic / Hands Up In The Sky](https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT) | 3:08 | 2025-07-04 |  |
 | [Surrender](https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Surrender](https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd) | 2:24 | 2025-07-04 |  |
+| [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-13 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-07-04 |  |
 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 | 2025-10-17 |  |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2025-07-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 389703,
+  "num_followers": 389848,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
         "name": "THE DRAIN",
         "url": "https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz"
       },
@@ -1643,34 +1659,18 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto"
+        "name": "Remnants of the Vessel",
+        "url": "https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Faetooth",
+          "url": "https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt"
         }
       ],
-      "duration_ms": 373000,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
-        "name": "The Silence Hurts The Most II",
-        "url": "https://open.spotify.com/album/0s13LjFa1clm6Ia0QlXBnE"
-      },
-      "artists": [
-        {
-          "name": "LASTELLE",
-          "url": "https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ"
-        }
-      ],
-      "duration_ms": 469440,
-      "name": "The Silence Hurts The Most II",
-      "url": "https://open.spotify.com/track/2SnHuo77EoH29NuJJP8SQS"
+      "duration_ms": 306782,
+      "name": "Echolalia",
+      "url": "https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo"
     }
   ],
   "unique_name": "ALLURE",

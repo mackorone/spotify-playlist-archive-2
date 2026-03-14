@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 49818,
+  "num_followers": 49841,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225980,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "Sacred Hearts Club",
         "url": "https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 225980,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "I'm with You",
         "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 282400,
       "name": "The Adventures of Rain Dance Maggie",
       "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
         "name": "ATTENTION ATTENTION",
         "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Walk The Moon",
-        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
       "artists": [
         {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
         }
       ],
-      "duration_ms": 321280,
-      "name": "Anna Sun",
-      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
+      "duration_ms": 231896,
+      "name": "High",
+      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+        "name": "Walk The Moon",
+        "url": "https://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"
       },
       "artists": [
         {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
         }
       ],
-      "duration_ms": 231896,
-      "name": "High",
-      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+      "duration_ms": 321280,
+      "name": "Anna Sun",
+      "url": "https://open.spotify.com/track/3e0yTP5trHBBVvV32jwXqF"
     },
     {
       "added_at": "2024-07-12 15:00:09",

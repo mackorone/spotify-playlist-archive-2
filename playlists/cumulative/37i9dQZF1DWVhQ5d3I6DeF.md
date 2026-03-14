@@ -2,7 +2,7 @@
 
 ### [Fast Pop Run](https://open.spotify.com/playlist/37i9dQZF1DWVhQ5d3I6DeF)
 
-> Catchy pop music to keep those legs going.
+> Upbeat pop bangers to keep you going
 
 122 songs - 6 hr 47 min
 

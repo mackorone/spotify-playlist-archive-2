@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Bam Adebayo",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Shai Gilgeous-Alexander\n",
   "name": "Locked In",
   "tracks": [
     {
@@ -15458,7 +15458,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 202014,
       "name": "Still On Dat (with G Herbo)",
       "url": "https://open.spotify.com/track/2H3TOpfPnM8dAgSyd7YaQg"
@@ -16212,6 +16212,24 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "album": {
+        "name": "The Crib",
+        "url": "https://open.spotify.com/album/6mrjG8ZNd723nncb0G58r6"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108741,
+      "name": "The Crib",
+      "url": "https://open.spotify.com/track/24Ym3gRXhvOSfkwgij676L"
     },
     {
       "album": {

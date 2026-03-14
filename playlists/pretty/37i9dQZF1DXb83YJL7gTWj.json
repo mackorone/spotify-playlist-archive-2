@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 1311,
+  "num_followers": 1318,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
         "name": "Think I'm Gonna Love You",
         "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 312613,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 312613,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
     },
     {
       "added_at": "2024-07-15 19:31:50",

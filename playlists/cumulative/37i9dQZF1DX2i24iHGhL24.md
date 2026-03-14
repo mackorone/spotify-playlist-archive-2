@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-465 songs - 1 day 2 hr 46 min
+467 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 | 2021-12-17 | 2022-05-02 |
 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 | 2023-10-27 |  |
 | [Afterglow](https://open.spotify.com/track/32MX9K3PwpcUtdhiSx6sef) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Faber Drive](https://open.spotify.com/artist/3SziwNj6JCnqd2ajUdXlIT), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Afterglow](https://open.spotify.com/album/3wErxE6WjMSWYHpJUrNzXX) | 3:18 | 2021-12-17 | 2022-05-02 |
-| [Against All Odds](https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division \(Deluxe\)](https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq) | 3:21 | 2022-05-01 |  |
+| [Against All Odds](https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division \(Deluxe\)](https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq) | 3:21 | 2022-05-01 | 2026-03-14 |
 | [agora hills \- Spotify Singles](https://open.spotify.com/track/19bepKW8jRL8s5PRYSawZh) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [Spotify Singles](https://open.spotify.com/album/1VrnMUyVCGxRRRHgJhUOSa) | 4:54 | 2024-06-14 | 2024-07-19 |
 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 | 2021-12-17 | 2022-12-30 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-07-08 | 2022-07-30 |
@@ -169,7 +169,7 @@
 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 | 2022-02-18 | 2023-10-17 |
 | [Fireflies](https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Fireflies](https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW) | 3:05 | 2023-02-17 | 2026-02-07 |
 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 | 2021-12-17 |  |
-| [Flowers](https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Flowers](https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF) | 2:45 | 2023-04-14 |  |
+| [Flowers](https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Flowers](https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF) | 2:45 | 2023-04-14 | 2026-03-14 |
 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 | 2026-03-06 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
 | [Frozen](https://open.spotify.com/track/5t9ZL1dY817WwVDezOSNzl) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Frozen](https://open.spotify.com/album/78bEsLWRUvjE6rh24Y0hpV) | 3:21 | 2025-06-08 |  |
@@ -195,6 +195,7 @@
 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 | 2021-12-17 | 2022-05-02 |
 | [Havana \- Recorded at RAK Studios, London](https://open.spotify.com/track/6kG9AQkHgCaFUh4ckB0g2j) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 2:48 | 2022-03-25 | 2022-04-16 |
 | [Head & Heart](https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [Head & Heart](https://open.spotify.com/album/5hfPG3jbnlrl5mu8KU7ZuG) | 2:47 | 2021-12-17 | 2022-12-30 |
+| [Heartbreak Anniversary \- H&M&REDSTAGE](https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Heartbreak Anniversary \(H&M&REDSTAGE\)](https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg) | 3:21 | 2026-03-13 |  |
 | [Heartless \- Recorded At RAK Studios, London](https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Spotify Singles](https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub) | 3:44 | 2021-12-17 | 2022-12-30 |
 | [Heat Waves \(Acoustic\)](https://open.spotify.com/track/2wZnPyFXOFw1zXU4G7y9ab) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [Heat Waves \(Acoustic\)](https://open.spotify.com/album/6OV0ZnJFjoYz7cbNWPy8qx) | 2:21 | 2022-01-07 | 2022-12-30 |
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2021-12-17 |  |
@@ -209,6 +210,7 @@
 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 | 2022-07-08 | 2022-12-30 |
 | [Holy / Intentions](https://open.spotify.com/track/2tZ2yDNuqzmv14TnmM0evQ) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Holy / Intentions](https://open.spotify.com/album/3wDta94k75Sd6BBgoWpvKy) | 3:00 | 2021-12-17 | 2022-05-02 |
 | [Hotter Than Hell \- BBC Live Session](https://open.spotify.com/track/6M3xk5Ma3cw7nzIlfD5tJk) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:28 | 2021-12-17 | 2022-04-24 |
+| [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 | 2026-03-13 |  |
 | [How Long Will I Love You](https://open.spotify.com/track/1SkEgcnthm7jz1p4eEyHB7) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | [How Long Will I Love You](https://open.spotify.com/album/3v1oL5411yFq1F295H9WWy) | 2:20 | 2021-12-17 | 2022-10-17 |
 | [How Long Will I Love You](https://open.spotify.com/track/7EhFX5jwXkchEamoQmlC8C) | [Kristina Train](https://open.spotify.com/artist/2v6mbdTJmUzHlPNfPYwkaK) | [How Long Will I Love You](https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU) | 2:20 | 2022-09-23 | 2023-10-17 |
 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 | 2021-12-17 | 2024-07-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > The sound of Afrobeats echoing around the world\. Cover:  Theodora
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,943 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,024 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 52 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1MZtr7IH5qtjIkqrXj8WOJ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 4:23 |
 | 53 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
 | 54 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
-| 55 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 |
-| 56 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |
+| 55 | [Patience](https://open.spotify.com/track/67Cp7D1bHpGn3nsRaefokn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:20 |
+| 56 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 |
 | 57 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 |
 | 58 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 59 | [INDUSTRY MACHINE](https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [INDUSTRY MACHINE](https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL) | 3:04 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 76 | [On The Low](https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [On The Low](https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S) | 2:30 |
 | 77 | [Dare You](https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Dare You](https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp) | 3:02 |
 | 78 | [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 |
-| 79 | [Please Me](https://open.spotify.com/track/5UfnHkXFdwdprr9o9hW3KG) | [Cliff Khawly](https://open.spotify.com/artist/4FA1BpZ1jxIdz0k20L0K0Y), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Please Me](https://open.spotify.com/album/2WC4sj6vYIaEyQ86RDlsZC) | 3:04 |
-| 80 | [barry wonder](https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [10.93](https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc) | [barry wonder](https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt) | 2:42 |
+| 79 | [barry wonder](https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [10.93](https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc) | [barry wonder](https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt) | 2:42 |
+| 80 | [Please Me](https://open.spotify.com/track/5UfnHkXFdwdprr9o9hW3KG) | [Cliff Khawly](https://open.spotify.com/artist/4FA1BpZ1jxIdz0k20L0K0Y), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Please Me](https://open.spotify.com/album/2WC4sj6vYIaEyQ86RDlsZC) | 3:04 |
 
 Snapshot ID: `AAAAAEUSHeltsYEx/oJ8xtN3RAMW/yoP`

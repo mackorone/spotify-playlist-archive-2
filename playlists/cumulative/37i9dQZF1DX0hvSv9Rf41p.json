@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Mary Droppinz",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Chase & Status + Pozer",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 198399,
       "name": "(Never Gonna) Be Alone",
       "url": "https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK"
+    },
+    {
+      "album": {
+        "name": "03 Honda",
+        "url": "https://open.spotify.com/album/2epaC9HwUqm8uumMqoZuYF"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108800,
+      "name": "03 Honda",
+      "url": "https://open.spotify.com/track/41eaZucQZKiNguOtJ5ZuUW"
     },
     {
       "album": {
@@ -4212,7 +4230,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 66206,
       "name": "BOMB (MIX CUT)",
       "url": "https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i"
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 164571,
       "name": "Borehole",
       "url": "https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ"
@@ -6347,6 +6365,36 @@
     },
     {
       "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/4zUpe1Vv3aMgFyfcdBDASZ"
+      },
+      "artists": [
+        {
+          "name": "Kill Safari",
+          "url": "https://open.spotify.com/artist/3c0nrfhZe6afmto5cvYodR"
+        },
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Bro Safari",
+          "url": "https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq"
+        },
+        {
+          "name": "Armanni Reign",
+          "url": "https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Chrome",
+      "url": "https://open.spotify.com/track/1a3QXN4HkhxUUXuaZMBdi5"
+    },
+    {
+      "album": {
         "name": "Circuit",
         "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
       },
@@ -7182,7 +7230,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 215111,
       "name": "crystallized (feat. In\u00e9z) - Subtronics Remix",
       "url": "https://open.spotify.com/track/0nRYjxQQCzMVyjgpTtKjLt"
@@ -9426,7 +9474,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 149793,
       "name": "Drop In",
       "url": "https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP"
@@ -10146,6 +10194,28 @@
       "duration_ms": 145856,
       "name": "Empty",
       "url": "https://open.spotify.com/track/58D2ovS7dHHgLmql6PiAeQ"
+    },
+    {
+      "album": {
+        "name": "EMPURRA",
+        "url": "https://open.spotify.com/album/4oVQrBehJVUmwlWNilM22e"
+      },
+      "artists": [
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        },
+        {
+          "name": "bauti",
+          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "EMPURRA",
+      "url": "https://open.spotify.com/track/4VKMrWdhJvNWcCZ8u8hT6R"
     },
     {
       "album": {
@@ -11288,6 +11358,24 @@
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
+    },
+    {
+      "album": {
+        "name": "Feed The Fire",
+        "url": "https://open.spotify.com/album/06K7RkgunV8m8Lonc9DtU4"
+      },
+      "artists": [
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195862,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/0n4nWZZlJhoYKT3ivA0Tqw"
     },
     {
       "album": {
@@ -14096,7 +14184,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 280816,
       "name": "Grinding",
       "url": "https://open.spotify.com/track/7tOLzteLIKzJsJpmg1RvjT"
@@ -14860,7 +14948,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 154405,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/4PzgYtLEcik1VGjbDDdqbA"
@@ -16520,7 +16608,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 339333,
       "name": "I See A Fire",
       "url": "https://open.spotify.com/track/0vDo2dD4qWyZ3ulNaydHLx"
@@ -24563,6 +24651,32 @@
     },
     {
       "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0GV0Mgwiwx7SdKemncmVbi"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172344,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/5nB4DcXbzcwEAj9tLQ6lBc"
       },
@@ -27304,6 +27418,24 @@
       "duration_ms": 235285,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz"
+    },
+    {
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/39Z59NjzFBqPZMPT4qQgFm"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/1f2JxBpYnQD2LRTnuLaTlk"
     },
     {
       "album": {
@@ -30208,7 +30340,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 150000,
       "name": "SPEED DEMON",
       "url": "https://open.spotify.com/track/3RwMwE1qf4YtewI7wabXT9"
@@ -30568,6 +30700,28 @@
       "duration_ms": 185448,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/3fziFvvQWBSEIp86qxaphU"
+    },
+    {
+      "album": {
+        "name": "STAXX",
+        "url": "https://open.spotify.com/album/5RPm0Nb4r6mrpZAW4DrXtY"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "STAXX",
+      "url": "https://open.spotify.com/track/080h3c3ydKABbGMbXuYF0r"
     },
     {
       "album": {
@@ -31222,7 +31376,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 154094,
       "name": "SUPERCAR",
       "url": "https://open.spotify.com/track/6pJIgc6lMzltj2f4CZZxkq"
@@ -33083,6 +33237,28 @@
     },
     {
       "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
+    },
+    {
+      "album": {
         "name": "Throw It Back",
         "url": "https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x"
       },
@@ -34481,6 +34657,28 @@
     },
     {
       "album": {
+        "name": "UNORTHODOX",
+        "url": "https://open.spotify.com/album/1Ha5fSIKEBsfjXgF4dWiMU"
+      },
+      "artists": [
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "UNORTHODOX",
+      "url": "https://open.spotify.com/track/1X1mMPPNA1Zs4s2oCImVBR"
+    },
+    {
+      "album": {
         "name": "Vaultage 004",
         "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
       },
@@ -35650,7 +35848,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 242727,
       "name": "What's In Your Heart",
       "url": "https://open.spotify.com/track/2xGFTN4MLVZyl2kKdyQQ8z"
@@ -36900,6 +37098,32 @@
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
+    },
+    {
+      "album": {
+        "name": "USB002 REMIXES",
+        "url": "https://open.spotify.com/album/4K3hvH2vCYi6fOd3vaMbij"
+      },
+      "artists": [
+        {
+          "name": "Skream & Benga",
+          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "you\u2019re a star - Skream & Benga remix",
+      "url": "https://open.spotify.com/track/1b76GMDZIxrB0Ig9xZLchd"
     },
     {
       "album": {

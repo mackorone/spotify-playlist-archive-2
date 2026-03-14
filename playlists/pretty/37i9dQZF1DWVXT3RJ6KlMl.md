@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,380 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,386 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 38 | [Morgen Ben Ik De Bruid](https://open.spotify.com/track/78cz0SmR2T67fHKdhGdtfx) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:20 |
 | 39 | [Brandend Zand](https://open.spotify.com/track/31ZmFDuJqMAaH30JBetArW) | [Gert Timmerman](https://open.spotify.com/artist/0TtfbvSVlFBeYI3uEEWPlC), [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [Brandend Zand](https://open.spotify.com/album/7H0qBQQweMzWTOnQ1YRFM7) | 3:23 |
 | 40 | [Kom Van Dat Dak Af](https://open.spotify.com/track/1q8BkBdleysfnUhxISo489) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 2:36 |
-| 41 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
-| 42 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
+| 41 | [Te Veel, Te Vaak](https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg) | [Liesbeth List](https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If) | [100 Mooiste Liedjes van Ramses en Liesbeth](https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR) | 3:42 |
+| 42 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
 | 43 | [Rozen Die Bloeien](https://open.spotify.com/track/7cl1cqs6tegOCA7UFvYWAV) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Rozen Die Bloeien / Ik Hoor Nog Je Stem](https://open.spotify.com/album/293fKm52sXoMD4UP1jMiKW) | 4:05 |
 | 44 | [Vrede](https://open.spotify.com/track/0qBq2UVJI7sK0GUUWxFq5U) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Ben Cramer](https://open.spotify.com/album/3GwA2mE5gogR1bXJP9EVvf) | 2:56 |
 | 45 | [Veronica 538](https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq), [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [De Singles](https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2) | 4:55 |

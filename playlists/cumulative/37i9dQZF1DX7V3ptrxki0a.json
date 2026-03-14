@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. En portada Milla 22 \ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. En portada Emmanuel Cortes \ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
     {
@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Historias de Amor",
+        "url": "https://open.spotify.com/album/6JRyu67LNMlSqQecsDiRuA"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175709,
+      "name": "Historias de Amor",
+      "url": "https://open.spotify.com/track/3dCC1fMIkmCH6Gnnv8pXGT"
+    },
+    {
+      "album": {
         "name": "Ilesa",
         "url": "https://open.spotify.com/album/6CJqZByDZgyJ4tjevMEH79"
       },
@@ -1326,6 +1344,28 @@
       "duration_ms": 217576,
       "name": "Ilesa",
       "url": "https://open.spotify.com/track/3kiUuHVGQznTwWeU3UfBBP"
+    },
+    {
+      "album": {
+        "name": "IMPOSIBLE",
+        "url": "https://open.spotify.com/album/0vUD23Ea1Dub5SnPFy4usW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193788,
+      "name": "IMPOSIBLE",
+      "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
     },
     {
       "album": {
@@ -1578,7 +1618,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 142336,
       "name": "Lamentablemente",
       "url": "https://open.spotify.com/track/7c4HQ7hXnoNdB9v29jFqYf"
@@ -1814,7 +1854,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 173363,
       "name": "Me Gustas 1CH!NG0",
       "url": "https://open.spotify.com/track/02H6BuFrvvOlsMcsmOlDN6"
@@ -2680,7 +2720,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 255488,
       "name": "Sin Voz",
       "url": "https://open.spotify.com/track/1q7on6hRi1dJkgshETQd10"
@@ -2756,6 +2796,24 @@
       "duration_ms": 172706,
       "name": "Tao, Tao",
       "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "album": {
+        "name": "Te Cura El Tiempo",
+        "url": "https://open.spotify.com/album/57zhJh4aFmMiElrlNGj2s2"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Te Cura El Tiempo",
+      "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
     },
     {
       "album": {

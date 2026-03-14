@@ -46813,6 +46813,28 @@
     },
     {
       "album": {
+        "name": "Sky Letter",
+        "url": "https://open.spotify.com/album/78TGhhHbJLjunGK4b4HFQS"
+      },
+      "artists": [
+        {
+          "name": "RiraN",
+          "url": "https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2"
+        },
+        {
+          "name": "\u97f3\u7434\u514e\u611b",
+          "url": "https://open.spotify.com/artist/7lrXm3mI2WhVU8xiZjKgyz"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Sky Letter",
+      "url": "https://open.spotify.com/track/4FbVoe0WtwcAVN449cBD7N"
+    },
+    {
+      "album": {
         "name": "Slave To The Rave",
         "url": "https://open.spotify.com/album/1EFBwkTKs2TLiD1Yah9lNE"
       },
@@ -58952,6 +58974,24 @@
       "duration_ms": 142896,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/0FRGktQx6gjOslN4u3nCxU"
+    },
+    {
+      "album": {
+        "name": "Without Me (Bad Beat)",
+        "url": "https://open.spotify.com/album/2WrhTCTRIOSaBY6oEyTveP"
+      },
+      "artists": [
+        {
+          "name": "High Resistance",
+          "url": "https://open.spotify.com/artist/2oqQBJb0AXOKJHOzOlEuWO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125906,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/5jZgNLsWrksI7TpdpiT9vn"
     },
     {
       "album": {

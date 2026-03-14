@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "A Pound of Feathers",
+        "url": "https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249014,
+      "name": "Cruel Streak",
+      "url": "https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn"
+    },
+    {
+      "album": {
         "name": "Dark Side",
         "url": "https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E"
       },
@@ -1940,6 +1958,24 @@
       "duration_ms": 171645,
       "name": "Fits Me Good",
       "url": "https://open.spotify.com/track/7KwwKbVp34XpxjRnnwBy0h"
+    },
+    {
+      "album": {
+        "name": "Foot Off",
+        "url": "https://open.spotify.com/album/6C2krXrdCgZzVPZdnRXZ8n"
+      },
+      "artists": [
+        {
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267160,
+      "name": "Foot Off",
+      "url": "https://open.spotify.com/track/0KCL2Obn6HBMcsIvENCEsw"
     },
     {
       "album": {
@@ -5278,7 +5314,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 236076,
       "name": "SAINTS & SIN",
       "url": "https://open.spotify.com/track/5sukydajInUaXEScc19Y5u"
@@ -6853,6 +6889,24 @@
     },
     {
       "album": {
+        "name": "Trio",
+        "url": "https://open.spotify.com/album/0Bm8F5fCHuxiSBtSBYHyyG"
+      },
+      "artists": [
+        {
+          "name": "Fortune Child",
+          "url": "https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239594,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/40RTf2Z6gTKw1JSz39oH40"
+    },
+    {
+      "album": {
         "name": "About to Xplode",
         "url": "https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ"
       },
@@ -6936,7 +6990,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"

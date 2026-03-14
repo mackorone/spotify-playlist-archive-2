@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 231660,
       "name": "I Don't - Spanglish Version",
       "url": "https://open.spotify.com/track/5mHXNiKL69t8qxXHejPzP6"
@@ -3692,6 +3692,24 @@
       "duration_ms": 184266,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2T4FEAOUdzffXKzeyjrhPJ"
+    },
+    {
+      "album": {
+        "name": "Two Boots",
+        "url": "https://open.spotify.com/album/6XGbwQMkgqJutbWl8iI3qn"
+      },
+      "artists": [
+        {
+          "name": "Kat Luna",
+          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203967,
+      "name": "Two Boots",
+      "url": "https://open.spotify.com/track/0ey9A7L0UFKXmUTAVdJKY4"
     },
     {
       "album": {

@@ -1,13 +1,133 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from DJ_Dave, Ms* Gloom, Effie, MRD, + more.",
-  "num_followers": 50465,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Thaiboy Digital, DJ_Dave, Ms* Gloom, MRD, + more.",
+  "num_followers": 50458,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAd/0w5XyVRLg0SL8g3me5/X+MzSaUd",
+  "snapshot_id": "AAAeFTLEcl3oKyEx4eMw6T25WuJzMvQx",
   "tracks": [
+    {
+      "added_at": "2026-03-13 18:46:17",
+      "album": {
+        "name": "Silk Road",
+        "url": "https://open.spotify.com/album/0XGkTcHucqCI0S5Kq0RbDu"
+      },
+      "artists": [
+        {
+          "name": "Thaiboy Digital",
+          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
+        },
+        {
+          "name": "swedm\u00ae",
+          "url": "https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK"
+        }
+      ],
+      "duration_ms": 152888,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ"
+    },
+    {
+      "added_at": "2026-03-13 18:46:32",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sometimes I believe in God (Sometimes I believe in Me)",
+      "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
+    },
+    {
+      "added_at": "2026-03-13 18:46:52",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/7IOhuwNV3fUUVgQ5a466lR"
+      },
+      "artists": [
+        {
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
+        }
+      ],
+      "duration_ms": 162375,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4cXhzIgGWSaFqcTHZPWMyj"
+    },
+    {
+      "added_at": "2026-03-13 18:45:41",
+      "album": {
+        "name": "Needle Guy",
+        "url": "https://open.spotify.com/album/2aDQC4StC9XTzDy9psxoXH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Needle Guy",
+      "url": "https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz"
+    },
+    {
+      "added_at": "2026-03-13 18:47:22",
+      "album": {
+        "name": "PUSH IT!",
+        "url": "https://open.spotify.com/album/0hCPigB4vRMewmngi3g6Mc"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        },
+        {
+          "name": "Coupdekat",
+          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        }
+      ],
+      "duration_ms": 229479,
+      "name": "PUSH IT!",
+      "url": "https://open.spotify.com/track/00zfXJaLdb2zPAuw7yRas9"
+    },
+    {
+      "added_at": "2026-03-13 18:47:05",
+      "album": {
+        "name": "glob",
+        "url": "https://open.spotify.com/album/6d2xEgJUVSFF1gIe2crz9k"
+      },
+      "artists": [
+        {
+          "name": "glob deejay",
+          "url": "https://open.spotify.com/artist/6MN1sB4m9AKnrkRWRWqB8e"
+        }
+      ],
+      "duration_ms": 374911,
+      "name": "clowns",
+      "url": "https://open.spotify.com/track/6EVIpQcRTOCjNEySJuRYUa"
+    },
+    {
+      "added_at": "2026-03-13 18:47:35",
+      "album": {
+        "name": "About Yourself",
+        "url": "https://open.spotify.com/album/424UwjUyukTLxeYRfPYBbl"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "About Yourself",
+      "url": "https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp"
+    },
     {
       "added_at": "2026-02-27 17:51:29",
       "album": {
@@ -353,22 +473,6 @@
       "url": "https://open.spotify.com/track/0g9DHUWhX2j3D9pGjBPFa5"
     },
     {
-      "added_at": "2026-02-19 20:47:58",
-      "album": {
-        "name": "Unmusique",
-        "url": "https://open.spotify.com/album/4hP6GKbrQjCCeJ8B0MfBXQ"
-      },
-      "artists": [
-        {
-          "name": "Lucy Bedroque",
-          "url": "https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O"
-        }
-      ],
-      "duration_ms": 195403,
-      "name": "G6 Anthem",
-      "url": "https://open.spotify.com/track/0rq8Vr1Rwjgf97tAcT9EkN"
-    },
-    {
       "added_at": "2026-02-19 20:37:54",
       "album": {
         "name": "Daysa",
@@ -503,22 +607,6 @@
       "duration_ms": 180465,
       "name": "Alise",
       "url": "https://open.spotify.com/track/0MPEX4Y7YK6QfWcL9oU685"
-    },
-    {
-      "added_at": "2025-11-25 21:13:15",
-      "album": {
-        "name": "Got It In Tha Mix",
-        "url": "https://open.spotify.com/album/3sWl9eqr9XF0E18eFLeJz8"
-      },
-      "artists": [
-        {
-          "name": "Ms* Gloom",
-          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
-        }
-      ],
-      "duration_ms": 195224,
-      "name": "Got It In Tha Mix",
-      "url": "https://open.spotify.com/track/1ryz4LWb2VKPECrK1tFzJE"
     },
     {
       "added_at": "2026-01-07 21:28:09",
@@ -817,22 +905,6 @@
       "url": "https://open.spotify.com/track/4PTpy8kIKwNKZ1kVsvw3Tc"
     },
     {
-      "added_at": "2025-11-25 21:13:54",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "27a Pitfield St",
-      "url": "https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov"
-    },
-    {
       "added_at": "2025-11-25 21:14:26",
       "album": {
         "name": "Miss Behaves",
@@ -959,22 +1031,6 @@
       "duration_ms": 201012,
       "name": "So Sweet & Willing",
       "url": "https://open.spotify.com/track/2XIT9pYAiTCawCmspbwhrh"
-    },
-    {
-      "added_at": "2025-10-29 21:21:49",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        }
-      ],
-      "duration_ms": 217391,
-      "name": "Final Song",
-      "url": "https://open.spotify.com/track/4cfDpBCWqVdqPE7edNXSGr"
     },
     {
       "added_at": "2025-10-16 20:39:48",
@@ -1241,26 +1297,6 @@
       "url": "https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq"
     },
     {
-      "added_at": "2025-06-27 16:41:24",
-      "album": {
-        "name": "TDJ",
-        "url": "https://open.spotify.com/album/3Xrb3NL3BwoFI7F09QBlEk"
-      },
-      "artists": [
-        {
-          "name": "TDJ",
-          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
-        },
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 256028,
-      "name": "Shoreline",
-      "url": "https://open.spotify.com/track/6MCwLgzWdyk7J7ctKW9wga"
-    },
-    {
       "added_at": "2025-06-27 16:38:54",
       "album": {
         "name": "choke enough (remixes)",
@@ -1405,22 +1441,6 @@
       "url": "https://open.spotify.com/track/1DTxRSFNCay9wpFfy0YBsa"
     },
     {
-      "added_at": "2025-05-16 21:27:11",
-      "album": {
-        "name": "425",
-        "url": "https://open.spotify.com/album/6LkygckNfHhwg2ubiC7lsN"
-      },
-      "artists": [
-        {
-          "name": "MIKE DEAN",
-          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "BLUEY",
-      "url": "https://open.spotify.com/track/3Imb6FcyZo09uMQ79Zbbfm"
-    },
-    {
       "added_at": "2025-05-16 21:25:54",
       "album": {
         "name": "People v. Maryanne Sue",
@@ -1487,26 +1507,6 @@
       "duration_ms": 129924,
       "name": "Feel It All",
       "url": "https://open.spotify.com/track/0jbXAzTs5J7vflxBeHsQaR"
-    },
-    {
-      "added_at": "2025-04-03 22:55:49",
-      "album": {
-        "name": "Shark Brain / Dolphin",
-        "url": "https://open.spotify.com/album/3xRHlsN1ny2OS4XFXdCrer"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 241397,
-      "name": "Shark Brain (feat. Shygirl)",
-      "url": "https://open.spotify.com/track/4cP4OcoWnDO3AXYCeO83jP"
     },
     {
       "added_at": "2025-04-25 22:02:51",

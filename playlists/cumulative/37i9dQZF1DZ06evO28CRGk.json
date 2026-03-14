@@ -215,6 +215,36 @@
     },
     {
       "album": {
+        "name": "Richmond Hill (Deluxe)",
+        "url": "https://open.spotify.com/album/7JtfLXwpLU5iJjUl9hnGih"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285300,
+      "name": "Below The Clouds",
+      "url": "https://open.spotify.com/track/0XzEpC8AoAVQsJgUnHWgWp"
+    },
+    {
+      "album": {
         "name": "Richmond Hill",
         "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
@@ -268,7 +298,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-14",
       "duration_ms": 228837,
       "name": "Below The Clouds - Remix",
       "url": "https://open.spotify.com/track/33J6hGotWUP5rZv76bE4hi"

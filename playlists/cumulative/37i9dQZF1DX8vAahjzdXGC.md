@@ -4,7 +4,7 @@
 
 > Rilisan baru pekan ini dari SIENNA SPIRO, Charlie Puth, beabadoobee,  Project Pop dan masih banyak lagi dari dalam dan mancanegara.
 
-30,647 songs - 72 day 16 hr 44 min
+30,649 songs - 72 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7682,6 +7682,7 @@
 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 | 2023-07-13 | 2023-07-21 |
 | [Endless Summer](https://open.spotify.com/track/7zYbBJmAgeaBoG9zMOml7j) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Endless Summer](https://open.spotify.com/album/53ZA2Hxc0kbHqlAFI56CVz) | 3:19 | 2020-12-11 | 2020-12-18 |
 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 | 2024-06-20 | 2024-06-28 |
+| [Endless Sun](https://open.spotify.com/track/2mRdxTKPrdr5EISF2Xcnc1) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/03OMdMTKelaOHZmnzpEL76) | 2:38 | 2026-03-13 |  |
 | [Endlessly](https://open.spotify.com/track/1Y3wJ8OUBLM1L25QOfzb8V) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Endlessly](https://open.spotify.com/album/5eyZGiEW89BBubTNaBE7VD) | 5:00 | 2020-04-10 | 2020-04-16 |
 | [Endlessly](https://open.spotify.com/track/2XM0y8rmX13FWSGDhgvqlX) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Endlessly](https://open.spotify.com/album/4SyKnlO19mrQhdvbAEwnQn) | 3:36 | 2023-03-02 | 2023-03-10 |
 | [Endorphins](https://open.spotify.com/track/55uz6CCy6OT60yq5jf8ZfY) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Endorphins](https://open.spotify.com/album/33wlGDEtGjglQGTxAvozPZ) | 3:25 | 2020-09-04 | 2020-09-11 |
@@ -27496,6 +27497,7 @@
 | [TRACK C](https://open.spotify.com/track/6YbOjmoNvovgy4cfjEzOFa) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK C](https://open.spotify.com/album/2qwrtxlfktFbqBTDeWLDvr) | 2:13 | 2023-09-28 | 2023-10-06 |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [Pash](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2025-11-21 |
 | [trade my heart](https://open.spotify.com/track/6mJlNpwE6l3t6ywhH0XaxZ) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [The Great Wave](https://open.spotify.com/artist/412jpyHI88qzMVLyDRe3VB), [KEYANA](https://open.spotify.com/artist/55xVPquXFuGsZjvx4i68GZ) | [trade my heart](https://open.spotify.com/album/2kSl0HqEZds3JgqB56RMa5) | 3:53 | 2022-06-30 | 2022-07-08 |
+| [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-18 | 2024-01-26 |
 | [TRAGIC \(feat\. Youngboy Never Broke Again & Internet Money\)](https://open.spotify.com/track/13EW51DKru044OJDJ9Bm8o) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:33 | 2020-11-06 | 2020-11-13 |
 | [Tragic Love](https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tragic Love](https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS) | 3:23 | 2023-12-14 | 2023-12-22 |

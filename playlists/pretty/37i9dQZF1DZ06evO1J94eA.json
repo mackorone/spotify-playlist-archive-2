@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 41814,
+  "num_followers": 41818,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abCwgAAAAAAsyAPejjCRNBUL0iVsWsFY",
+  "snapshot_id": "abICAAAAAABXpc38AP0PtlFLajE2fPhc",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "The Maze - Remastered 2007",
-      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Point Of View (Expanded Edition)",
         "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 499253,
       "name": "Blind Man, Blind Man",
       "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "The Maze - Remastered 2007",
+      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empyrean Isles (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 510653,
+      "name": "Oliloqui Valley - Remastered",
+      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 356160,
       "name": "The Man I Love",
       "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 549376,
-      "name": "Vein Melter",
-      "url": "https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 549376,
+      "name": "Vein Melter",
+      "url": "https://open.spotify.com/track/6c0ziyel6ZMTQ37vKRooGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 312001,
       "name": "Sun Touch",
       "url": "https://open.spotify.com/track/70aN8RYMtTeG85MQADhMhx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empyrean Isles (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 510653,
-      "name": "Oliloqui Valley - Remastered",
-      "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
     },
     {
       "added_at": null,
@@ -708,29 +708,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 323427,
-      "name": "4 A.M.",
-      "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Funny Valentine (feat. Herbie Hancock)",
-        "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 293493,
-      "name": "My Funny Valentine (feat. Herbie Hancock)",
-      "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
+      "duration_ms": 385048,
+      "name": "Spiraling Prism",
+      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Funny Valentine (feat. Herbie Hancock)",
+        "url": "https://open.spotify.com/album/12PDBrKzyuJal63TCuyd5Y"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 293493,
+      "name": "My Funny Valentine (feat. Herbie Hancock)",
+      "url": "https://open.spotify.com/track/2XlwQp17g1hnMGueyMY6pr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Hands",
         "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 385048,
-      "name": "Spiraling Prism",
-      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
+      "duration_ms": 323427,
+      "name": "4 A.M.",
+      "url": "https://open.spotify.com/track/6HFhLv0wa8129Y7AXgnQC7"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 538743,
+      "name": "I Thought It Was You",
+      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gershwin's World",
         "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 349160,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/1rzV9wr9myXgDWvTcfIiq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 538743,
-      "name": "I Thought It Was You",
-      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
     }
   ],
   "unique_name": "This Is Herbie Hancock",
