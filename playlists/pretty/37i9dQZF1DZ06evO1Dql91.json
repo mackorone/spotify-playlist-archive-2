@@ -1,13 +1,33 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 2436,
+  "num_followers": 2438,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAADpz/1XbSBTF0FOjHts/S/D",
+  "snapshot_id": "abNTgAAAAAAx5YASLh60fE7O3bFERmIn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd"
+      },
+      "artists": [
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 156764,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH"
+    },
     {
       "added_at": null,
       "album": {
@@ -307,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Broken Instrument",
-        "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
+        "name": "Mad Love",
+        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
       "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        },
         {
           "name": "Infinity Song",
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 301106,
-      "name": "Don\u2019t You Ever",
-      "url": "https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp"
+      "duration_ms": 330533,
+      "name": "When The Rain Starts",
+      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
     },
     {
       "added_at": null,
@@ -392,9 +408,29 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 330533,
-      "name": "When The Rain Starts",
-      "url": "https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr"
+      "duration_ms": 228600,
+      "name": "Just Loving Me",
+      "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Broken Instrument",
+        "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        },
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "Don\u2019t You Ever",
+      "url": "https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp"
     },
     {
       "added_at": null,
@@ -415,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mad Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+        "name": "Black History Always / Music For the Movement Vol. 2",
+        "url": "https://open.spotify.com/album/14PYt4FQmKarrCYOLnw7ng"
       },
       "artists": [
         {
@@ -424,57 +460,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 250509,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity Song LIVE",
-        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 89235,
-      "name": "Hater's Reprise - Live",
-      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mad Love",
-        "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Just Loving Me",
-      "url": "https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infinity's Song",
-        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 366625,
-      "name": "Dream Fighter",
-      "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
+      "duration_ms": 104189,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/0AXLbBrNlsz9JVKXxq21Pi"
     },
     {
       "added_at": null,
@@ -495,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black History Always / Music For the Movement Vol. 2",
-        "url": "https://open.spotify.com/album/14PYt4FQmKarrCYOLnw7ng"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 104189,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/0AXLbBrNlsz9JVKXxq21Pi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn"
       },
@@ -523,6 +495,54 @@
       "duration_ms": 207360,
       "name": "We Are The Light",
       "url": "https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity's Song",
+        "url": "https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 366625,
+      "name": "Dream Fighter",
+      "url": "https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinity Song LIVE",
+        "url": "https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 89235,
+      "name": "Hater's Reprise - Live",
+      "url": "https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mad Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 250509,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 849732,
+  "num_followers": 849865,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABH5k/r44UzE1g9N9hten02E6sLM",
+  "snapshot_id": "AAAAALl6ABCWbTHmxops+0665ilet5fq",
   "tracks": [
     {
       "added_at": "2026-02-17 16:32:14",
@@ -722,10 +722,14 @@
         {
           "name": "Lacrim",
           "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Nina Zilli",
+          "url": "https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5"
         }
       ],
       "duration_ms": 193533,
-      "name": "Amori Stupidi",
+      "name": "Amori Stupidi (feat. Nina Zilli)",
       "url": "https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8"
     },
     {

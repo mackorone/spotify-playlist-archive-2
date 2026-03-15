@@ -1,6 +1,6 @@
 {
   "description": "An all-Australian soundtrack to snags, bread and tomato sauce!",
-  "num_followers": 572429,
+  "num_followers": 572427,
   "original_name": "Aussie BBQ",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-02-12 13:00:20",
       "album": {
-        "name": "Primitive Man (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr"
-      },
-      "artists": [
-        {
-          "name": "ICEHOUSE",
-          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
-        }
-      ],
-      "duration_ms": 317240,
-      "name": "Great Southern Land",
-      "url": "https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV"
-    },
-    {
-      "added_at": "2026-02-12 13:00:20",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 232066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2026-02-12 13:00:20",
+      "album": {
+        "name": "Primitive Man (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr"
+      },
+      "artists": [
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "duration_ms": 317240,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV"
     },
     {
       "added_at": "2026-02-12 13:00:20",

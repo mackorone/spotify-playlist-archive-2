@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 110155,
+  "num_followers": 110152,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Love Never Dies",
+        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 200035,
+      "name": "Toxic Veins",
+      "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "In The Function",
         "url": "https://open.spotify.com/album/5RjOhkZh1bZeHSqyDn3kqN"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 154285,
       "name": "In The Function",
       "url": "https://open.spotify.com/track/1qhaTJjO2l1Z6rDDwCpbF4"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Love Never Dies",
-        "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 200035,
-      "name": "Toxic Veins",
-      "url": "https://open.spotify.com/track/0Z0KbIXUAsMW4pm3tTPjnj"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
-      },
-      "artists": [
-        {
-          "name": "AMB",
-          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "One Mic Freestyle (S3-EP1)",
         "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 121624,
       "name": "One Mic Freestyle (S3-EP1)",
       "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe"
+      },
+      "artists": [
+        {
+          "name": "AMB",
+          "url": "https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Love Never Dies",
         "url": "https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 161466,
       "name": "Different Man",
       "url": "https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
+      },
+      "artists": [
+        {
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO"
+        "name": "Sexy Back",
+        "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
       },
       "artists": [
         {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        },
-        {
-          "name": "Serena",
-          "url": "https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX"
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
         }
       ],
-      "duration_ms": 177110,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
+      "duration_ms": 144000,
+      "name": "Sexy Back",
+      "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Sexy Back",
-        "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO"
       },
       "artists": [
         {
-          "name": "Br3nya",
-          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        },
+        {
+          "name": "Serena",
+          "url": "https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Sexy Back",
-      "url": "https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55"
+      "duration_ms": 177110,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabio G",
-          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 138750,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabio G",
+          "url": "https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Next Up - S3-E47",
         "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 141740,
       "name": "Next Up - S3-E47, Pt.1",
       "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-10-10 12:01:08",

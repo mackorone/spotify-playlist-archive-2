@@ -1,29 +1,13 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 198632,
+  "num_followers": 198723,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAABkMs+wOme+EduMLz0GzpAC",
+  "snapshot_id": "abNTgAAAAAAvItOnCRTU6zpC7++2WIqp",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Que Nadie Sepa",
-      "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 183946,
       "name": "Belleza De Cantina",
       "url": "https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Que Nadie Sepa",
+      "url": "https://open.spotify.com/track/3Pj5wV8ftxWXRPK4qQbpiy"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Contin\u00faa",
-        "url": "https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Sorpr\u00e9ndeme",
-      "url": "https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbias Para Bailar",
         "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 191320,
       "name": "Te Olvid\u00e9 - Cumbia",
       "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Historia Contin\u00faa",
+        "url": "https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Sorpr\u00e9ndeme",
+      "url": "https://open.spotify.com/track/4V8B14tV0m8VDRrmJzKoWy"
     },
     {
       "added_at": null,

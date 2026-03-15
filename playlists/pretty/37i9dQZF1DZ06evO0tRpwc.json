@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAACbmvKcxf/LPZZ3L0Q1rd+C",
+  "snapshot_id": "abNTgAAAAABz/N6cbN2RoAs+Fzc/edrm",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
+        "name": "Fam\u00edlia Soul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
       },
       "artists": [
         {
+          "name": "Fam\u00edlia Soul",
+          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
+        },
+        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 141057,
-      "name": "Manifesto (Vers\u00e3o Afrobeat)",
-      "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
+      "duration_ms": 276986,
+      "name": "Um Servo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
     },
     {
       "added_at": null,
@@ -403,22 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fam\u00edlia Soul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
       },
       "artists": [
         {
-          "name": "Fam\u00edlia Soul",
-          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
-        },
-        {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 276986,
-      "name": "Um Servo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
+      "duration_ms": 141057,
+      "name": "Manifesto (Vers\u00e3o Afrobeat)",
+      "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ac\u00fastico, Vol. 2",
-        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
+        "name": "Redentor",
+        "url": "https://open.spotify.com/album/3S1PFd7sRDeUp26MpftkTn"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+          "name": "Coral Resgate",
+          "url": "https://open.spotify.com/artist/2ilKKSEn9ukWxzYPeMdwta"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Voc\u00ea Consegue Sim",
-      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+      "duration_ms": 200359,
+      "name": "Por Qu\u00ea Voc\u00ea N\u00e3o Olha?",
+      "url": "https://open.spotify.com/track/2RAURrpacgzDngLTISsBvF"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redentor",
-        "url": "https://open.spotify.com/album/3S1PFd7sRDeUp26MpftkTn"
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
       },
       "artists": [
         {
-          "name": "Coral Resgate",
-          "url": "https://open.spotify.com/artist/2ilKKSEn9ukWxzYPeMdwta"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 200359,
-      "name": "Por Qu\u00ea Voc\u00ea N\u00e3o Olha?",
-      "url": "https://open.spotify.com/track/2RAURrpacgzDngLTISsBvF"
+      "duration_ms": 199600,
+      "name": "Voc\u00ea Consegue Sim",
+      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
     },
     {
       "added_at": null,
@@ -911,48 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Dia Bom",
-        "url": "https://open.spotify.com/album/0y8HHFwNG6ratzYzgBzXxz"
-      },
-      "artists": [
-        {
-          "name": "Vav\u00e1 Rodrigues",
-          "url": "https://open.spotify.com/artist/3WQW9yPYI80YZy19HaSZMT"
-        },
-        {
-          "name": "Sueli Gondin",
-          "url": "https://open.spotify.com/artist/4q5Z2bVdo8d0brYNw3t5tT"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 238122,
-      "name": "Um Dia Bom",
-      "url": "https://open.spotify.com/track/0k9Md9Gr4zXT5zWvT5mKbb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Janeiro",
-      "url": "https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turma do Barulho, Vol. 6",
-        "url": "https://open.spotify.com/album/3obdpAfxavFsu14GD9m8Zm"
+        "name": "Turma do Barulho, Vol. 4",
+        "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
       },
       "artists": [
         {
@@ -976,9 +936,49 @@
           "url": "https://open.spotify.com/artist/1sE3HiaQ8ZSJqPDm4rHo7a"
         }
       ],
-      "duration_ms": 291493,
-      "name": "Celebrai a Cristo, Tu \u00c9s",
-      "url": "https://open.spotify.com/track/72vZhHTYv5CB9bzwk7F7c8"
+      "duration_ms": 158706,
+      "name": "Salmo 100",
+      "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 257695,
+      "name": "Janeiro",
+      "url": "https://open.spotify.com/track/2HPgVKn1cV8XV4zUhYjqnR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        }
+      ],
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     }
   ],
   "unique_name": "This Is Daniela Ara\u00fajo",

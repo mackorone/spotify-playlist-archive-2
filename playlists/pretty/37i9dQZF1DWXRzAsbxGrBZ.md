@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Garth Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,923 likes - 70 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,963 likes - 70 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 69 | [Phola Nhliziyo](https://open.spotify.com/track/0ziisLze9KEolVdFZTdMfM) | [Ezra](https://open.spotify.com/artist/78QMvaGR1j7RSHe1sEnFcZ), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Phola Nhliziyo](https://open.spotify.com/album/3CbBmHCZy9BJPPWVl7ZkSS) | 6:16 |
 | 70 | [Oh Mdali](https://open.spotify.com/track/21V1dv8iZxpgH65mQpyH2z) | [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH), [Playmaster & Smallistic](https://open.spotify.com/artist/7m3YBqfwRPB1Ys5h3fMbEC), [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4) | [Oh Mdali](https://open.spotify.com/album/3xOLtjnF5qOdv9YbvoRkHs) | 6:01 |
 
-Snapshot ID: `AAAAAL6xLHzaUXzf/kewFBnZoDHTqEup`
+Snapshot ID: `AAAAAGW9/F1vfOH0vc/HEc2TcKdow68D`

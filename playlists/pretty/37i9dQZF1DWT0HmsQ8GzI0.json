@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Fran Palermo",
-  "num_followers": 16329,
+  "num_followers": 16331,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "\u00c9n is f\u00e9lek",
-        "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
+        "name": "buligyilkos",
+        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
       },
       "artists": [
         {
-          "name": "Kolorblind",
-          "url": "https://open.spotify.com/artist/0MJE8yUFWSm0CKTNpyQxC7"
-        },
-        {
-          "name": "Kaso",
-          "url": "https://open.spotify.com/artist/77yddv24Aji53c4ay4TmEg"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 182307,
-      "name": "\u00c9n is f\u00e9lek",
-      "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
+      "duration_ms": 178838,
+      "name": "buligyilkos",
+      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -539,18 +535,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "buligyilkos",
-        "url": "https://open.spotify.com/album/5yDcPJnMl1F01uAYXuT1ah"
+        "name": "\u00c9n is f\u00e9lek",
+        "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Kolorblind",
+          "url": "https://open.spotify.com/artist/0MJE8yUFWSm0CKTNpyQxC7"
+        },
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/77yddv24Aji53c4ay4TmEg"
         }
       ],
-      "duration_ms": 178838,
-      "name": "buligyilkos",
-      "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+      "duration_ms": 182307,
+      "name": "\u00c9n is f\u00e9lek",
+      "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "chill cheez brgr",
-        "url": "https://open.spotify.com/album/3kQREeH1o5lWO3MozTNar3"
-      },
-      "artists": [
-        {
-          "name": "cibi",
-          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "chill cheez brgr",
-      "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Itt vagyok",
         "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
       },
@@ -627,22 +611,34 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Tegnapr\u00f3l",
-        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
+        "name": "chill cheez brgr",
+        "url": "https://open.spotify.com/album/3kQREeH1o5lWO3MozTNar3"
       },
       "artists": [
         {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "cibi",
+          "url": "https://open.spotify.com/artist/3e1iDJzrvTCdGOzTCjuiuf"
         }
       ],
-      "duration_ms": 179580,
-      "name": "\u00dct\u00f6tt kopott",
-      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
+      "duration_ms": 171034,
+      "name": "chill cheez brgr",
+      "url": "https://open.spotify.com/track/2ex6K0PLnmBkhXXfvvi31L"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -663,18 +659,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+        "name": "Tegnapr\u00f3l",
+        "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
       "artists": [
         {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
         }
       ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
+      "duration_ms": 179580,
+      "name": "\u00dct\u00f6tt kopott",
+      "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Nem is te lenn\u00e9l",
-        "url": "https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy"
-      },
-      "artists": [
-        {
-          "name": "Szlimmy",
-          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
-        }
-      ],
-      "duration_ms": 176345,
-      "name": "Nem is te lenn\u00e9l",
-      "url": "https://open.spotify.com/track/7IQOdHtbP4mI9B3oCFHDAg"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Pillang\u00f3hat\u00e1s",
         "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 138351,
       "name": "Pillang\u00f3hat\u00e1s",
       "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Nem is te lenn\u00e9l",
+        "url": "https://open.spotify.com/album/1qpvzozX4lqGZ7eFHqKrCy"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        }
+      ],
+      "duration_ms": 176345,
+      "name": "Nem is te lenn\u00e9l",
+      "url": "https://open.spotify.com/track/7IQOdHtbP4mI9B3oCFHDAg"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "z\u00fagj sz\u00e9l",
-        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "z\u00fagj sz\u00e9l",
-      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "M\u00e9g Egyszer",
         "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198352,
       "name": "M\u00e9g Egyszer",
       "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "K\u00e9t Szeme K\u00f6zt",
-        "url": "https://open.spotify.com/album/2TaLWA4u9iq9oa2SCT8Miz"
-      },
-      "artists": [
-        {
-          "name": "OHNODY",
-          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
-        }
-      ],
-      "duration_ms": 336461,
-      "name": "K\u00e9t Szeme K\u00f6zt",
-      "url": "https://open.spotify.com/track/1gXsS2DQE5FoApHGyTz2I9"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "vesz\u00e9lyes utc\u00e1k",
         "url": "https://open.spotify.com/album/77Dpx7WvBnF10GzPO1LPgL"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 171666,
       "name": "vesz\u00e9lyes utc\u00e1k",
       "url": "https://open.spotify.com/track/1tBuxxLlbZ7YXV4PcxfKQJ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "K\u00e9t Szeme K\u00f6zt",
+        "url": "https://open.spotify.com/album/2TaLWA4u9iq9oa2SCT8Miz"
+      },
+      "artists": [
+        {
+          "name": "OHNODY",
+          "url": "https://open.spotify.com/artist/3NzgQIuDyjcGAFns3Tc3tS"
+        }
+      ],
+      "duration_ms": 336461,
+      "name": "K\u00e9t Szeme K\u00f6zt",
+      "url": "https://open.spotify.com/track/1gXsS2DQE5FoApHGyTz2I9"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "HARD TIMES",
-        "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
-      },
-      "artists": [
-        {
-          "name": "OIEE",
-          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
-        },
-        {
-          "name": "M3NSA",
-          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
-        },
-        {
-          "name": "WaTa",
-          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
-        }
-      ],
-      "duration_ms": 157073,
-      "name": "HARD TIMES",
-      "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Sose halok meg",
         "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 182000,
       "name": "Szeressetek",
       "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "HARD TIMES",
+        "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
+      },
+      "artists": [
+        {
+          "name": "OIEE",
+          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
+        },
+        {
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
+        },
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "duration_ms": 157073,
+      "name": "HARD TIMES",
+      "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
     },
     {
       "added_at": "2026-03-12 23:00:51",

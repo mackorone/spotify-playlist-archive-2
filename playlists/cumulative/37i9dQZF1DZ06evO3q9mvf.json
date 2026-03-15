@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "First sight",
+        "url": "https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "First sight",
+      "url": "https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk"
+    },
+    {
+      "album": {
         "name": "Cut",
         "url": "https://open.spotify.com/album/0TfUvdJAj5ggwaLihQQ5qs"
       },

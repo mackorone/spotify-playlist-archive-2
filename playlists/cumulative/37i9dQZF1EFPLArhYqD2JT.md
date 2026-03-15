@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-497 songs - 1 day 1 hr 2 min
+498 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,8 +486,9 @@
 | [Yiddle On The Fiddle](https://open.spotify.com/track/70cpfJTXAJNLzP3vJ967lV) | [Fanny Brice](https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR) | [Classic Movie Hits 3 Vol\. 7](https://open.spotify.com/album/2DFqepYL4Z7ubgR8NbpGnu) | 2:40 | 2024-12-11 |  |
 | [Yiddle On the Fiddle \(From "The Great Ziegfeld"\)](https://open.spotify.com/track/53rg7PyBjRPQ40UxU5YkJL) | [Fanny Brice](https://open.spotify.com/artist/13dV8RDgoexJINGhkS7sLR) | [Classic Movie Hits 3, Vol\. 7](https://open.spotify.com/album/1dPoj2fcLHVbK4TAbQ3psi) | 2:40 | 2024-09-12 | 2024-12-12 |
 | [You Can Have Him](https://open.spotify.com/track/1FIkhPVchSeLTinKQcC5tV) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:46 | 2024-07-26 |  |
-| [You Can't Get a Man with a Gun](https://open.spotify.com/track/0cNqWJwgj4VEBMq6CcAzDl) | [Adolph Deutsch](https://open.spotify.com/artist/5XfGFIgAuLp6WecQAJoIHJ), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Annie Get Your Gun \(Original Soundtrack\) \[1950\]](https://open.spotify.com/album/6nXixJIO93dEOtUEunAXC7) | 3:38 | 2024-12-11 |  |
+| [You Can't Get a Man with a Gun](https://open.spotify.com/track/0cNqWJwgj4VEBMq6CcAzDl) | [Adolph Deutsch](https://open.spotify.com/artist/5XfGFIgAuLp6WecQAJoIHJ), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Annie Get Your Gun \(Original Soundtrack\) \[1950\]](https://open.spotify.com/album/6nXixJIO93dEOtUEunAXC7) | 3:38 | 2024-12-11 | 2026-03-15 |
 | [You Can't Get A Man With A Gun](https://open.spotify.com/track/3eAcniFNFaCXnJV0ZZtVZE) | [Annie Get Your Gun \- 1999 Broadway Cast](https://open.spotify.com/artist/0w34yGDpcmJF0GK1dp14tw), [Bernadette Peters](https://open.spotify.com/artist/1lIG8lqWxus7LqThGUXMa1), [Tom Wopat](https://open.spotify.com/artist/7vgw2PRsF1Ouh9i7r8bTJu) | [Annie Get Your Gun: The New Broadway Cast Recording](https://open.spotify.com/album/2SxCtvFthZqPOkja0lo6yh) | 4:04 | 2024-07-26 |  |
+| [You Can't Get a Man with a Gun](https://open.spotify.com/track/3KZqSwHfxhB3MEGHcFAWCI) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Broadway Smiles Tonight](https://open.spotify.com/album/4PeZJAfSVeDWRImJrkczcc) | 3:38 | 2026-03-14 |  |
 | [You Can't Get a Man with a Gun](https://open.spotify.com/track/3vzqpYJQ6zlTWHQ33iz3DU) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Somebody](https://open.spotify.com/album/69FutaP5eFoyCTXH1zBmju) | 3:38 | 2026-01-16 | 2026-03-09 |
 | [You Can't Get a Man with a Gun](https://open.spotify.com/track/5AwzancSVur811aySwxQYV) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Presenting Betty Hutton](https://open.spotify.com/album/0dFZvvRMRRdRPHTufA2FEb) | 3:38 | 2024-07-26 | 2024-12-12 |
 | [You Can't Get a Man with a Gun](https://open.spotify.com/track/6H40h72CS63cZ3nhgtPsJ1) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Somebody Loves Me](https://open.spotify.com/album/5GOrFdxr4KQXGIXMwRKNSq) | 3:38 | 2024-12-20 | 2025-12-18 |

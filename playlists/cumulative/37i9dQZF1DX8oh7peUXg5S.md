@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Jorge Drexler.
 
-391 songs - 1 day 0 hr 57 min
+392 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [El corazón por delante](https://open.spotify.com/track/26miS6DXixXA2WbJNz1qi0) | [Salvador Sobral](https://open.spotify.com/artist/0GfYO21pue5u0sVEYk9HZO), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Sílvia & Salvador](https://open.spotify.com/album/2M9MtUS5qtnVWe0GmOt5xS) | 4:59 | 2025-05-15 | 2026-02-06 |
 | [El Desdén](https://open.spotify.com/track/4vkOSMwNg0GQLDFykvcFbQ) | [Santiago Auserón](https://open.spotify.com/artist/1QnWFj4XbwMBRss56Jk63W), [Vaggelis Tzeretas](https://open.spotify.com/artist/6NujmW4jK0unbe2q9sqSke), [Thodoris Karellas](https://open.spotify.com/artist/6Ttiu9jWHoeUf8BjSqvURL) | [El Desdén](https://open.spotify.com/album/1F4xb7hf7pexnzmxeNbIbH) | 3:29 | 2025-04-25 | 2025-07-18 |
 | [El deseo de volar](https://open.spotify.com/track/060cDMm0VvRgrUpEbOk72A) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [El deseo de volar](https://open.spotify.com/album/7d30M6OhvJMXDfMOYUVwCx) | 4:21 | 2025-07-24 | 2025-10-17 |
-| [El fin y el medio](https://open.spotify.com/track/4T3bJgWiT1Gy0rQo0Jpu9n) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El fin y el medio](https://open.spotify.com/album/5DkLPWI8YPIVPyRyFv3BAB) | 3:14 | 2025-09-18 |  |
+| [El fin y el medio](https://open.spotify.com/track/4T3bJgWiT1Gy0rQo0Jpu9n) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El fin y el medio](https://open.spotify.com/album/5DkLPWI8YPIVPyRyFv3BAB) | 3:14 | 2025-09-18 | 2026-03-15 |
 | [El Hilo Rojo](https://open.spotify.com/track/05m3jXQci3RgN2DzWrPeNy) | [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ) | [El Hilo Rojo](https://open.spotify.com/album/4SF1Z5cqPSf14wrsKUWRoi) | 3:22 | 2023-11-08 | 2024-01-20 |
 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 | 2022-06-09 |  |
 | [El Mar](https://open.spotify.com/track/6PHcN9K5GQE5BZEsHz7eze) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [El Mar](https://open.spotify.com/album/1AM8igySA38ynWhzHNy38X) | 3:59 | 2023-04-20 | 2023-06-25 |
@@ -396,6 +396,7 @@
 | [Yolanda](https://open.spotify.com/track/71jzsJnbzhWwZClUFm76FM) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Vengo Naciendo](https://open.spotify.com/album/63CHm5FprtIb6QxpJUdFe3) | 4:46 | 2022-11-10 | 2022-11-13 |
 | [Zamba para Mi Padre](https://open.spotify.com/track/7yeasJCqoIBQ2UMZLbdDIW) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Zamba para Mi Padre](https://open.spotify.com/album/0xdUKqh6DfV3gj5q7mehJK) | 3:19 | 2022-06-09 | 2022-06-15 |
 | [¿Cómo se ama?](https://open.spotify.com/track/0aEIAGgFPbtWe9HX4lSEPk) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Taracá](https://open.spotify.com/album/3x8EqFhf17Rupeyh0k1a0H) | 3:38 | 2026-03-12 |  |
+| [¿Qué será que es?](https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Rueda de Candombe](https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH) | [¿Qué será que es?](https://open.spotify.com/album/2vHXAh1NbsF0ftGYgLBcvJ) | 3:48 | 2026-03-12 |  |
 | [Ámame como soy \- En Vivo](https://open.spotify.com/track/6lfF63n51JukdkhyJcWzHk) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Ámame como soy \(En Vivo\)](https://open.spotify.com/album/2MNT4N0bQWxgHY5pKn27ik) | 3:56 | 2025-09-11 | 2025-11-07 |
 | [Ángel para un Final](https://open.spotify.com/track/3zgZVIuSwVwMxMxvRN8yqO) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Tríptico \(Vol\. 2\)](https://open.spotify.com/album/3I2lIA10v8E2dHhOme3Xs6) | 3:42 | 2022-06-09 | 2022-07-28 |
 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 | 2022-06-09 | 2026-01-23 |

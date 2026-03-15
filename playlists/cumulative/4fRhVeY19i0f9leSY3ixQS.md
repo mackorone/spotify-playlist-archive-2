@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,092 songs - 2 day 13 hr 48 min
+1,099 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Brainworm, Pt\. 1](https://open.spotify.com/track/1TMFN6OpFmC771TXwgbOIW) | [Day Friend](https://open.spotify.com/artist/4wYwdk6HkYoJOdUkkliNEw) | [Parasitic Grifter Scum](https://open.spotify.com/album/0bkrZBpUmgtwE40ZXkFnFG) | 3:14 | 2026-01-10 | 2026-02-11 |
 | [Brand New Start](https://open.spotify.com/track/5kfuPGiwU7fcCtL8KaAc5c) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Behind Closed Doors](https://open.spotify.com/album/3Dw4iq9FbbPSrTz6RR0LHS) | 3:38 | 2025-11-29 | 2025-12-24 |
 | [Brave](https://open.spotify.com/track/0fnFRIU30fd7hyEmTajgoh) | [Nine 9](https://open.spotify.com/artist/1uB2kdO0TQb3q0DRBTCcaV) | [Brave](https://open.spotify.com/album/3QOGFL49DsXFbOLpIvrSFu) | 3:01 | 2025-08-03 |  |
+| [Breach](https://open.spotify.com/track/3Jdnkfka1H70x6XXugyrz3) | [Bosco Ramos](https://open.spotify.com/artist/5uTwcrO3lcuwvGeOwzCk2j) | [Breach](https://open.spotify.com/album/6js8dJ5ZFwh6kk9B2oeK3z) | 4:15 | 2026-03-14 |  |
 | [break!](https://open.spotify.com/track/3SFi3keC0F9x5BmyjzQ2Hy) | [Baccuda](https://open.spotify.com/artist/0A3QVqLLMM8UtJ9odkm5mO) | [break!](https://open.spotify.com/album/0RhyuHSbryPZWZpUJ2bzGN) | 2:33 | 2026-02-06 | 2026-03-10 |
 | [Breakdown](https://open.spotify.com/track/1TcDvEIvZ6lonlK2ZuGX8u) | [ZYkR](https://open.spotify.com/artist/4N3QLa1mYQCzIkl97QFLPN) | [Breakdown](https://open.spotify.com/album/7qVmZP7hJ9vFsQaMd2PIj9) | 4:37 | 2026-03-12 |  |
 | [Breaking Me](https://open.spotify.com/track/5cY9J2rpud610I2qTa3toF) | [December Daybreak](https://open.spotify.com/artist/6EKs2NrFlMNMuI9kNr4ky2) | [Breaking Me](https://open.spotify.com/album/5j1OiGLguSko1Gje70rx9D) | 4:05 | 2025-11-28 | 2025-12-24 |
@@ -266,6 +267,7 @@
 | [Dom kan säga vad dom vill](https://open.spotify.com/track/2swwHydoY37lLNLKtPM5AW) | [The Grammy Winners](https://open.spotify.com/artist/1PWdEjV2JmKKO1eWS6mof5) | [Det är min tur nu](https://open.spotify.com/album/5a45QgrHjhwwAbnCIqsnTV) | 2:33 | 2025-11-27 | 2025-12-24 |
 | [DON DIEGO VEGAN](https://open.spotify.com/track/6xgSkFJd2FUj2mFkkX2A4j) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [SAUSAGE REVOLUTION](https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2) | 3:08 | 2025-11-11 | 2025-12-10 |
 | [Don't Ask Why](https://open.spotify.com/track/5UDr0x745fkPgpILhvNjLC) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Don't Ask Why & Maum Meditation](https://open.spotify.com/album/6mosG3jbAhh0CGnynBON2T) | 4:36 | 2026-01-14 | 2026-02-03 |
+| [Don't Blame the Problem](https://open.spotify.com/track/3eIkXw2EAcxSM64wlHV136) | [Civics Class](https://open.spotify.com/artist/54tNnmfT5zpQE8CujJmA1x) | [Don't Blame the Problem](https://open.spotify.com/album/2cXLSDpyTNMaBmPtG0s2ZX) | 1:42 | 2026-03-14 |  |
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-28 | 2025-12-24 |
 | [Don't Really Like You](https://open.spotify.com/track/28JtRpjx2il7WBHCzKVeA9) | [The Lyrics](https://open.spotify.com/artist/1FfgK1y6boiZv49RIflpaO) | [So...](https://open.spotify.com/album/70FKLqL5RMr6mkGFdkhasl) | 2:52 | 2026-02-04 | 2026-03-08 |
 | [Don't Think I Wanna Know](https://open.spotify.com/track/3gqcihsXGZwsNJfspZPxt7) | [Zac Leibo](https://open.spotify.com/artist/13FeBe3wyORbd1OmXDf7UQ) | [See You Tomorrow?](https://open.spotify.com/album/7kzrpQqaSblTKG6ULvumzq) | 3:10 | 2026-02-26 |  |
@@ -402,6 +404,7 @@
 | [Hate From a Book](https://open.spotify.com/track/70wJi77CDLLcFqvHi4NoXM) | [El Sancho](https://open.spotify.com/artist/3fczuHUy6UfYVHnYzr3GBX) | [Roll Right Over You](https://open.spotify.com/album/29yVnO3soYYjvsredTHQJ4) | 1:38 | 2025-12-04 | 2025-12-24 |
 | [Haunted](https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Haunted](https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd) | 3:37 | 2025-11-29 | 2025-12-24 |
 | [Haunted](https://open.spotify.com/track/7xAHw7RSX3wexcqmV3gq3f) | [Jake Vera](https://open.spotify.com/artist/0fugVpgpowLO9coAvpgRvP) | [Lost](https://open.spotify.com/album/0c4irpy4JnvF1xd3EatVx5) | 2:55 | 2025-10-24 | 2025-12-10 |
+| [Have Your Say](https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Have Your Say](https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh) | 2:57 | 2026-03-14 |  |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-23 | 2025-12-24 |
 | [He Started It](https://open.spotify.com/track/6xRpDGis2DF4avsDRXluGp) | [Mermaid Island](https://open.spotify.com/artist/7iGEsQzSOaEhXNgTSKfqSS) | [He Started It](https://open.spotify.com/album/7spJgXzYDkxBImCNCgtevD) | 3:16 | 2026-01-07 | 2026-02-08 |
 | [Head Study](https://open.spotify.com/track/7H26HFVWBN5lASBNEW6jyY) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Psychic Surfing](https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F) | 3:20 | 2026-01-08 |  |
@@ -454,6 +457,7 @@
 | [I Will Take My Crown](https://open.spotify.com/track/3x7ZFzqU3RLHr51f3JHbcE) | [Arising Rebellion](https://open.spotify.com/artist/0e2GKbmNWdhaLsUIEBxZSl) | [This World Is Dying](https://open.spotify.com/album/35usPNzO0lGVmLbJ1ElOQh) | 3:15 | 2026-02-23 |  |
 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 | 2025-12-10 | 2026-02-03 |
 | [I Worship Myself](https://open.spotify.com/track/6UugtnUgPn4K8poZzzjlFK) | [NTX](https://open.spotify.com/artist/3OgpNmeaSfIDGGYHovo4ZK) | [All The Hope Is Gone](https://open.spotify.com/album/6tyHJp6jbYwl5hjjI81y41) | 4:18 | 2025-12-30 | 2026-01-31 |
+| [I'd Rather Fly](https://open.spotify.com/track/6Opjh4EIfuSHjuI3QU2nxG) | [Soft as Hell](https://open.spotify.com/artist/2Ro037iWqMn7YrfqclV974) | [I'd Rather Fly](https://open.spotify.com/album/3UYUKqfrISfh9iYB2TE9lH) | 5:13 | 2026-03-14 |  |
 | [I'm Alive](https://open.spotify.com/track/0Ew2KMZRVLR6aV7sAdiaR3) | [Loaded Guns](https://open.spotify.com/artist/4jnGl1yl8sDF5Sldug7p3M) | [Unstoppable \- EP](https://open.spotify.com/album/7nAOtI6YJF7Uz2FylIgsoI) | 3:58 | 2026-01-19 | 2026-02-12 |
 | [I'M DONE I'M GONE](https://open.spotify.com/track/3zlKQzzNXOlqlcixqlopSX) | [CHAZØID](https://open.spotify.com/artist/77isy0hIizqFUEaeqK2kOA) | [I'M DONE I'M GONE](https://open.spotify.com/album/2gc3YvOH91AxG34135hh8z) | 1:59 | 2025-12-22 | 2026-01-15 |
 | [I'm so Stressed](https://open.spotify.com/track/0fhfihLeBe1EHIan5vUVxI) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [Somewhere Between Love & Misery](https://open.spotify.com/album/0PZNlTvpn3WT3lL6df0vWy) | 3:26 | 2025-12-12 | 2026-01-06 |
@@ -682,7 +686,7 @@
 | [Paper Trails](https://open.spotify.com/track/1lk7GZY3qP2LCRslE9pXki) | [King Dead](https://open.spotify.com/artist/4V4u70VKUuR6WNRQgfUjc4) | [King Dead](https://open.spotify.com/album/1s7Kbr7RRnXbMaWImSYC1L) | 9:12 | 2025-12-27 | 2026-01-22 |
 | [Paranoid Clown](https://open.spotify.com/track/1kXsBAH2zE7qxkfAmWAenn) | [Sludder](https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n) | [Paranoid Clown](https://open.spotify.com/album/4FjqObTunaclJi07rhRvWO) | 2:09 | 2026-02-02 | 2026-03-06 |
 | [Parasites](https://open.spotify.com/track/19LPTp2d52LycR39OUdaZy) | [Midnight Prophet](https://open.spotify.com/artist/1ULx7QJeFtmdL2zHmM9ziw) | [Parasites](https://open.spotify.com/album/1y9W56ouBL6XWdelVE6XRc) | 2:59 | 2025-11-10 | 2025-12-10 |
-| [PARASITES](https://open.spotify.com/track/5DUzu85zSLEc7cNazg8UHi) | [PALMIRA FURMAN](https://open.spotify.com/artist/2qwtHiW2sUV5Hm0VFUEAyI) | [PARASITES](https://open.spotify.com/album/5f8I9TmhXGS0mRfiLZmOc7) | 4:34 | 2026-02-11 |  |
+| [PARASITES](https://open.spotify.com/track/5DUzu85zSLEc7cNazg8UHi) | [PALMIRA FURMAN](https://open.spotify.com/artist/2qwtHiW2sUV5Hm0VFUEAyI) | [PARASITES](https://open.spotify.com/album/5f8I9TmhXGS0mRfiLZmOc7) | 4:34 | 2026-02-11 | 2026-03-15 |
 | [Patagonia](https://open.spotify.com/track/4XC7GeTvgApnKhWTnp5nu0) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 2:51 | 2025-12-15 | 2026-01-06 |
 | [Pawned Melody](https://open.spotify.com/track/2ds7E6cBtrgMk08bMYYWnb) | [Will Percs](https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J) | [Fund my beach style.](https://open.spotify.com/album/3M3CkdB03Z9R5S1zxmVyCW) | 2:16 | 2025-10-31 | 2025-12-10 |
 | [Pax Humana \(remaster\)](https://open.spotify.com/track/1ghVtuSyq2HfBJccvrQc5h) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:05 | 2025-09-18 |  |
@@ -716,6 +720,7 @@
 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-11-20 | 2025-12-10 |
 | [Pretty, Pretty Wasted](https://open.spotify.com/track/4Y8Br3p37qix7eUNbSlXoS) | [LESSBRAINLESS](https://open.spotify.com/artist/0fC2GUhN4LpsYpGO9D2Izb) | [Pretty, Pretty Wasted](https://open.spotify.com/album/6DjQhBfBZmVTF4qirB1Yhf) | 4:18 | 2025-12-15 | 2026-01-29 |
 | [Preço](https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 2:43 | 2026-01-18 | 2026-02-06 |
+| [Prize](https://open.spotify.com/track/2oUJ5XjUVk8Ickyz8QgG9r) | [Joshua Pearlstein](https://open.spotify.com/artist/1RH04nlMw0TTpC3tRTbwwZ) | [Prize](https://open.spotify.com/album/3jG2ulPfVAVBLUQ0OZzcj1) | 2:43 | 2026-03-14 |  |
 | [Probably Happy](https://open.spotify.com/track/5ov1Zo9UzfzFb0wquoz21L) | [NOTADOG](https://open.spotify.com/artist/0yhmmI36uKysaByptGU6Jn) | [Probably Happy](https://open.spotify.com/album/0GQ2xgI3B21WeC7QKIo4l7) | 2:55 | 2026-02-19 |  |
 | [Progression](https://open.spotify.com/track/7n10SATemReHLWUwmZS5VC) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 2:46 | 2025-08-03 |  |
 | [Promises](https://open.spotify.com/track/1CEL1VeUavd9vghQT8SoHl) | [Hidden Youth](https://open.spotify.com/artist/14HMcD6e7VQ2Te84b9ms5O) | [Promises](https://open.spotify.com/album/1Ark4gJYxiDMQa7N1bIIMv) | 3:52 | 2025-12-22 | 2026-01-23 |
@@ -857,6 +862,7 @@
 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-12-15 | 2026-01-15 |
 | [Split My Head](https://open.spotify.com/track/5mo6uSX9XyT0lPuJbwa1gi) | [Off Wing](https://open.spotify.com/artist/0kjIZRyDptIqkPCvruV4Ew) | [Split My Head](https://open.spotify.com/album/5esLfxa6lMuXNEC5Vp9Sv0) | 2:23 | 2026-03-05 |  |
 | [Spooky bass](https://open.spotify.com/track/35WsAwdMlQD1S9ySFGfd4C) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 1:31 | 2025-08-03 |  |
+| [St Patrick's Day](https://open.spotify.com/track/6irv9xXRLdp7TcBN9dm7tg) | [Self Run Will](https://open.spotify.com/artist/61cCvSNvulFrIZ0vATYK7j) | [St Patrick's Day](https://open.spotify.com/album/2SVYi5z0fE8fs5TNN47qnY) | 2:42 | 2026-03-14 |  |
 | [Stable](https://open.spotify.com/track/0CRTqZix3nBo3vSra6O3os) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Stable](https://open.spotify.com/album/67rLBbv9JEBAdydHQxUJlP) | 3:45 | 2025-11-19 | 2025-12-10 |
 | [Stagnant](https://open.spotify.com/track/4KQy7bQLLzAitasfVzXUsI) | [The Ginger Twins](https://open.spotify.com/artist/2gjKEs7JL8SZxFCyDWWQiV) | [Stagnant](https://open.spotify.com/album/5ySuK3Ml7GLKyIqBhSP6wH) | 2:58 | 2025-12-16 | 2026-01-15 |
 | [Start](https://open.spotify.com/track/4c8S0vXSHCyE0gF0OCwHPI) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Start](https://open.spotify.com/album/1TpUM0I3IkvIRKh5qg2OO7) | 2:21 | 2025-08-03 |  |
@@ -867,6 +873,7 @@
 | [Still Breathing](https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Still Breathing](https://open.spotify.com/album/34pHY28Okn87mA2Z4vGOJX) | 3:00 | 2026-03-05 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-22 | 2026-01-15 |
 | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/track/3u2tXGtnEMgNPSjQkF8i2g) | [FairPlay](https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD) | [Still Not Over It \(Not Even Close\)](https://open.spotify.com/album/4gC7Szh10Em7tXEla72BRV) | 2:55 | 2026-01-16 | 2026-02-05 |
+| [Still You](https://open.spotify.com/track/0Wmg32tiyvk3FEySH4U9qz) | [Halo Ritual](https://open.spotify.com/artist/2G83riqxWPGxIGCfcAkzOT) | [Still You](https://open.spotify.com/album/4XDOaQ6CbeylA81NmK7SW1) | 2:55 | 2026-03-14 |  |
 | [Stitch The Thread](https://open.spotify.com/track/1kM2v25EDIfXdtwgsAQu5k) | [Nicole Ash](https://open.spotify.com/artist/53Zt8SoJ4qBvKLwdE5h0QH) | [Stitch The Thread](https://open.spotify.com/album/1DowpFhOBVKyamkAIcC3n0) | 2:48 | 2025-11-27 | 2026-01-06 |
 | [Stone Vultures](https://open.spotify.com/track/5x4BHeOfxnEVoyO1fQ6d5h) | [Vexations](https://open.spotify.com/artist/0Ox8Tp68CnqucG3p344tpp) | [Stone Vultures](https://open.spotify.com/album/0T6VCgQU7AuhjfQZTgGMcm) | 4:58 | 2025-11-16 | 2025-12-10 |
 | [Stop the war!](https://open.spotify.com/track/7JvB1WUsAPg6hfSxquADtL) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Stop the war!](https://open.spotify.com/album/1SQhgbGs4qGP8RMLL780yn) | 2:46 | 2025-08-03 |  |

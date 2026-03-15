@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 132973,
+  "num_followers": 132985,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a"
+      },
+      "artists": [
+        {
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+        }
+      ],
+      "duration_ms": 255080,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1buAB07FLenQs3nd0CLgMp"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Sou Humano (Ao Vivo)",
         "url": "https://open.spotify.com/album/6vyzpWzy6GIqY7xHPiagqJ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 273013,
       "name": "Sou Humano (Ao Vivo)",
       "url": "https://open.spotify.com/track/5t402XIfTxPDIVQ8kC2iWg"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5okyQAoZJusi8mSZgX9K0a"
-      },
-      "artists": [
-        {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1buAB07FLenQs3nd0CLgMp"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Pra Que Eu Fosse Livre",
-        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
-      },
-      "artists": [
-        {
-          "name": "Klev",
-          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
-        }
-      ],
-      "duration_ms": 288857,
-      "name": "Pra Que Eu Fosse Livre",
-      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "O Amor Que Cura (Ao Vivo)",
         "url": "https://open.spotify.com/album/5PINeCXP5eX2WzUOFgct4o"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 257959,
       "name": "O Amor Que Cura (Ao Vivo)",
       "url": "https://open.spotify.com/track/6as6g28GA0R4BJTDVj0ium"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Pra Que Eu Fosse Livre",
+        "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
+      },
+      "artists": [
+        {
+          "name": "Klev",
+          "url": "https://open.spotify.com/artist/4fHpTbYbpiPxLygNlixLEC"
+        }
+      ],
+      "duration_ms": 288857,
+      "name": "Pra Que Eu Fosse Livre",
+      "url": "https://open.spotify.com/track/0fvBym1UrheJRFqwFPDEzH"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
-      },
-      "artists": [
-        {
-          "name": "Casa Aberta",
-          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Eterno",
-      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Daqui N\u00e3o Saio",
         "url": "https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 558500,
       "name": "Daqui N\u00e3o Saio",
       "url": "https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ"
+      },
+      "artists": [
+        {
+          "name": "Casa Aberta",
+          "url": "https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quando o Eterno For Real",
-        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00f3ria Costa",
-          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
-        }
-      ],
-      "duration_ms": 290222,
-      "name": "Quando o Eterno For Real",
-      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/2Gq7TVxrPPzxKTsc202img"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 294918,
       "name": "Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/6XpFcKg5hpOenkF2WNvXlq"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Quando o Eterno For Real",
+        "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Costa",
+          "url": "https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW"
+        }
+      ],
+      "duration_ms": 290222,
+      "name": "Quando o Eterno For Real",
+      "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Tu Me Fascinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
-      },
-      "artists": [
-        {
-          "name": "Mariana Vieira",
-          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
-        }
-      ],
-      "duration_ms": 283235,
-      "name": "Tu Me Fascinas - Ao Vivo",
-      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -795,18 +779,34 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+        "name": "Tu Me Fascinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7"
       },
       "artists": [
         {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+          "name": "Mariana Vieira",
+          "url": "https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2"
         }
       ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
+      "duration_ms": 283235,
+      "name": "Tu Me Fascinas - Ao Vivo",
+      "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado de Partir",
+        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Cora\u00e7\u00e3o Cansado de Partir",
+      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado de Partir",
-        "url": "https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
       },
       "artists": [
         {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
         }
       ],
-      "duration_ms": 291500,
-      "name": "Cora\u00e7\u00e3o Cansado de Partir",
-      "url": "https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4"
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Vida Boa",
-        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
       },
       "artists": [
         {
-          "name": "Marllon Ribeiro",
-          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
         }
       ],
-      "duration_ms": 283947,
-      "name": "Vida Boa",
-      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Vida Boa",
+        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+      },
+      "artists": [
+        {
+          "name": "Marllon Ribeiro",
+          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+        }
+      ],
+      "duration_ms": 283947,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Passos",
         "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 214687,
       "name": "Passos",
       "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
     },
     {
       "added_at": "2026-03-02 15:12:51",

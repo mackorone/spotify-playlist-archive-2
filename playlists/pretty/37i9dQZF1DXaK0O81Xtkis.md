@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Presley Regier
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,069 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,086 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Cool Girl](https://open.spotify.com/track/2wL3b04nyaSy69UoV9jyhH) | [THEM](https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin) | [Cool Girl](https://open.spotify.com/album/73zS4sBXsDeLo0Bywq0LNP) | 3:11 |
 | 50 | [Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Afterthought](https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X) | 4:20 |
 
-Snapshot ID: `AAAAAMNpzmwpse2CGRUM5gQ39Re/koDO`
+Snapshot ID: `AAAAAEAFtbYNe6Vb6xNAj353jyRq0MzE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: KickFlip\(킥플립\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,072 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,090 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 27 | [arrrt.](https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [arrrt.](https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95) | 2:14 |
 | 28 | [Tug of War](https://open.spotify.com/track/6clIbMbca7szZquD4XeIdK) | [V01D](https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw) | [01](https://open.spotify.com/album/7A1G3vWg6UQ2TO59iaGX9t) | 3:17 |
 | 29 | [A Trace of Us](https://open.spotify.com/track/7IzG2H3oVCeOdgQnLc93mY) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Traces of Love](https://open.spotify.com/album/6yMQf9EAJBzgTjWMi8KdRt) | 4:17 |
-| 30 | [Broken Doll](https://open.spotify.com/track/0rDVMTl8MiukcfawAIcAkB) | [IN A MINUTE](https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq) | [\[Who Do You Love? : I Need You\]](https://open.spotify.com/album/10dB39u9GockcK5o5aNlMY) | 2:58 |
+| 30 | [Broken Doll](https://open.spotify.com/track/0rDVMTl8MiukcfawAIcAkB) | [IN A MINUTE](https://open.spotify.com/artist/1dFT7PlmS2C1aKLWO8ZZDq) | [Who Do You Love? : I Need You](https://open.spotify.com/album/10dB39u9GockcK5o5aNlMY) | 2:58 |
 | 31 | [the lost thread](https://open.spotify.com/track/3XYgtSNkJaP9CVX29ymuGM) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [the lost thread](https://open.spotify.com/album/7oVAjIqTGhOypl7uFFNfEC) | 3:20 |
 | 32 | [Credits \- NONOL Live Version](https://open.spotify.com/track/2tCKq6OJqekOoPJsqQXqmv) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [NONOL VOL 80\. Bily Acoustie ‘ Credits ‘](https://open.spotify.com/album/7vxrcAcD7t1aPKY1GX7w9A) | 4:27 |
 | 33 | [Poem of Spring](https://open.spotify.com/track/6bvm2Ej8Q1P7a6TL5lLd4y) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [Poem of Spring](https://open.spotify.com/album/7IDzVxjASo7fI7uAWpWvlE) | 3:06 |

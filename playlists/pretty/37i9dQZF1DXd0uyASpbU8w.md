@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  James Blake, Kabza De Small, Nasty C, Shandesh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,845 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,904 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 40 | [Moya oNgcwele](https://open.spotify.com/track/3HqzaaVLrO3iNCPkTf1GkG) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Moya oNgcwele](https://open.spotify.com/album/0ZD1aT5rHmU8xkwkORE7CK) | 6:41 |
 | 41 | [Girl In Ibiza](https://open.spotify.com/track/37GdNHzVKH7FAlRp2Tc9PB) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Girl In Ibiza](https://open.spotify.com/album/5eqCWPXmf06tBT7wWBPO6J) | 2:39 |
 | 42 | [Pink Diamond Sky](https://open.spotify.com/track/3ZcNapfXFIQPWN6ykDi3Gw) | [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Pink Diamond Sky](https://open.spotify.com/album/3qHBEydVbnOjTXxMfnVlc4) | 3:44 |
-| 43 | [Thakatha Njalo](https://open.spotify.com/track/6wWeFGIkzjHAHaGIrfVFHH) | [Umzulu Phaqa](https://open.spotify.com/artist/3HRGnul96WGyVjYPoQZiyo), [DNA ka Zulu](https://open.spotify.com/artist/7GQSbK6hcM2J8KRxcSQSzy) | [Thakatha Njalo](https://open.spotify.com/album/5ylzT572Ny9HOsihFJ4qns) | 2:13 |
+| 43 | [Thakatha Njalo](https://open.spotify.com/track/6wWeFGIkzjHAHaGIrfVFHH) | [Umzulu Phaqa](https://open.spotify.com/artist/3HRGnul96WGyVjYPoQZiyo), [DNA ka Zulu](https://open.spotify.com/artist/7GQSbK6hcM2J8KRxcSQSzy) | [Thakatha Njalo](https://open.spotify.com/album/5ylzT572Ny9HOsihFJ4qns) | 2:16 |
 | 44 | [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 |
 | 45 | [Lotus](https://open.spotify.com/track/5HBMAC4czl16G9oqH6TjlD) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Lotus](https://open.spotify.com/album/1NBO8iru74GTrNKdTMlmHE) | 2:26 |
 | 46 | [GTA 6](https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [GTA 6](https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us) | 2:48 |

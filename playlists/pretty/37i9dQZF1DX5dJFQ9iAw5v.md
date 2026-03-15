@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,768 likes - 76 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,772 likes - 76 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 50 | [I Should Care](https://open.spotify.com/track/7DwkKNQ3dAruurDpRyCHiH) | [Ruben Lopez Furst](https://open.spotify.com/artist/2U16v6XmFw7LIeoXwfTIsX), [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV), [Luis Ceravolo](https://open.spotify.com/artist/11NMVUYGwcgCJQ9H0mRb2E) | [All the Things You Are](https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB) | 6:48 |
 | 51 | [Ausencias](https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT) | [Dino Saluzzi](https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz) | [Ausencias](https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM) | 4:58 |
 | 52 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 |
-| 53 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
-| 54 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
+| 53 | [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 |
+| 54 | [Comrade Conrad](https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p) | [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c) | [Solo](https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs) | 5:42 |
 | 55 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 |
 | 56 | [Way You Look Tonight The](https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 5:41 |
-| 57 | [Creer en las Hojas](https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 4:52 |
+| 57 | [De Pie](https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 5:56 |
 | 58 | [Masche](https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU) | [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [Edén](https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR) | 6:37 |
 | 59 | [Reunión](https://open.spotify.com/track/0vUIDEAZfLQWRftPSJZmM7) | [Pepi Taveira](https://open.spotify.com/artist/1KQUkFUXWpIqmoFw3YN1x2) | [Reunión](https://open.spotify.com/album/1pAheMkdST8sR3A4r84opB) | 6:29 |
 | 60 | [Eleanor Rigby](https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Jazz Bazar II \(feat\. Patán Vidal\)](https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv) | 3:18 |
 | 61 | [Promesas Sobre el Bidet](https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl), [Miguel Tarzia](https://open.spotify.com/artist/5l8QeZti5fdN56GFbFHjF0), [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [De Este Lado](https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G) | 7:51 |
-| 62 | [De Pie](https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 5:56 |
+| 62 | [Creer en las Hojas](https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 4:52 |
 | 63 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 |
 | 64 | [Aura](https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Rata](https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K) | 3:57 |
 | 65 | [Ordóñez y Ernestina \(o el Banquito de Ordóñez\)](https://open.spotify.com/track/0yFcvCGFCpZzmQP890rtSJ) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 5:47 |

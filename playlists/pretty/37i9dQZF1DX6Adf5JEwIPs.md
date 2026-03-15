@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,771 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,884 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 72 | [4ME](https://open.spotify.com/track/012XWqY8ubhf0Sh3bM3r7k) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [4ME](https://open.spotify.com/album/3CQLMfchsEjE9JvgnhgSYz) | 2:38 |
 | 73 | [ALTAR](https://open.spotify.com/track/3hcY5rLPNGs1HV4oxlMAFn) | [Martin Beltran](https://open.spotify.com/artist/7oKwuamCT99LkJECNqSUtR) | [ALTAR](https://open.spotify.com/album/52TSCOj0T7HiqVwE3FXrW1) | 2:51 |
 | 74 | [SOLO SOY TU EGO](https://open.spotify.com/track/4vIMSiNbjUB3ZSjRVyXxQ4) | [Jesús Durán](https://open.spotify.com/artist/49W9xA4zq2tQutYfxl9kAN) | [SOLO SOY TU EGO](https://open.spotify.com/album/44TVMdYFpaHyDeeIFjNbwR) | 2:40 |
-| 75 | [Bckpckbyz](https://open.spotify.com/track/1vHgR4pyLZWHL9lw3CWEUH) | [Marca Solicitada](https://open.spotify.com/artist/2IDHfi1ydRS21jAr6E9ivc) | [Bckpckbyz](https://open.spotify.com/album/23zbtAId06BQpClQSwAbwL) | 2:36 |
+| 75 | [Miento](https://open.spotify.com/track/5v7NONiliZBh0ROMMtTJNr) | [Axel Rodriguez](https://open.spotify.com/artist/7cXRTpLEXOagaIbnw0J0cB) | [Miento](https://open.spotify.com/album/56HgaWMXhA7jNAH9MSwqV7) | 2:34 |
+| 76 | [Bckpckbyz](https://open.spotify.com/track/1vHgR4pyLZWHL9lw3CWEUH) | [Marca Solicitada](https://open.spotify.com/artist/2IDHfi1ydRS21jAr6E9ivc) | [Bckpckbyz](https://open.spotify.com/album/23zbtAId06BQpClQSwAbwL) | 2:36 |
 
-Snapshot ID: `AAAAALDDuoM8frE7i46Q6tQB5uk5MtdO`
+Snapshot ID: `AAAAAHkejOFuLfLZf66xJ+vaA/0VIP2J`

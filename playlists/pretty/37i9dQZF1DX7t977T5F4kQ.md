@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: Pappy Kojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,408 likes - 83 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,428 likes - 83 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

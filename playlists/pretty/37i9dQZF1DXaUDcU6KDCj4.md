@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,913 likes - 149 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,976 likes - 149 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

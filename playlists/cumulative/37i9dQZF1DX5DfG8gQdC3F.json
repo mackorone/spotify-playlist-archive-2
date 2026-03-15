@@ -132241,28 +132241,6 @@
     },
     {
       "album": {
-        "name": "Freaky Freqz",
-        "url": "https://open.spotify.com/album/038hLc519IjbLT48HiC1sp"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        },
-        {
-          "name": "MC Flipside",
-          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
-        }
-      ],
-      "date_added": "2026-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194545,
-      "name": "Freaky Freqz",
-      "url": "https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX"
-    },
-    {
-      "album": {
         "name": "Peces Raros - Spotify Sessions",
         "url": "https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL"
       },
@@ -133080,6 +133058,28 @@
       "duration_ms": 180585,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
+    },
+    {
+      "album": {
+        "name": "Freq The Frequency",
+        "url": "https://open.spotify.com/album/038hLc519IjbLT48HiC1sp"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        },
+        {
+          "name": "MC Flipside",
+          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Freq The Frequency",
+      "url": "https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX"
     },
     {
       "album": {

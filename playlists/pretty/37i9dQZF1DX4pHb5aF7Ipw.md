@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by BAD Junkie & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,233 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,241 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 8 | [Top Boy](https://open.spotify.com/track/7n2sPK1uBd7FMcv0nY32xz) | [PSK](https://open.spotify.com/artist/1P3X2R7EzPEiDVZLeNsq9T), [The Sam](https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E) | [Top Boy](https://open.spotify.com/album/2pJntSzeNLzMZIV1zezCwt) | 2:19 |
 | 9 | [Misunderstood](https://open.spotify.com/track/75O7hARWEqYg7BTs6KhqEe) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [Misunderstood](https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT) | 3:19 |
 | 10 | [Volcano Lava](https://open.spotify.com/track/04aAGNvZUMU8RVivF8yBRn) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Volcano Lava](https://open.spotify.com/album/1Aj5Uo9cWxGXhYAAXltefQ) | 2:36 |
-| 11 | [22 Mera 22](https://open.spotify.com/track/5o9cAlgOKTb71xKrIGaGNf) | [Nav K](https://open.spotify.com/artist/1vt6zRlHD0Ismnq5bhNyhW), [Prabh](https://open.spotify.com/artist/5qd0W0mDQhbyV1T8TQe3tt) | [22 Mera 22](https://open.spotify.com/album/4yXd1G8Fap9yB5hJoZnzss) | 2:46 |
+| 11 | [22 Mera 22](https://open.spotify.com/track/5o9cAlgOKTb71xKrIGaGNf) | [Nav K](https://open.spotify.com/artist/1vt6zRlHD0Ismnq5bhNyhW), [Prabh](https://open.spotify.com/artist/3t691SvO3E1xPRTWVYwHQO) | [22 Mera 22](https://open.spotify.com/album/4yXd1G8Fap9yB5hJoZnzss) | 2:46 |
 | 12 | [Boujee](https://open.spotify.com/track/4WbCHnpemekdp7IxfL8qlh) | [D Freek](https://open.spotify.com/artist/5b5nrb6Ts538UgBHpkU2lm) | [Boujee](https://open.spotify.com/album/1CWgYjSlMWs8uGMRYFyRmj) | 2:26 |
 | 13 | [Stacks](https://open.spotify.com/track/5OCfBc18UBa34DTbPmU5px) | [Harrie](https://open.spotify.com/artist/556bB3nlMmHDApBD6t2cuU), [Shaitan](https://open.spotify.com/artist/17vchXZLm7Ci6rNodZA0vz), [Garhi](https://open.spotify.com/artist/6SGe8mSKH4IT2EXG4z6Xk7) | [Stacks](https://open.spotify.com/album/4vk57YnV7tSZJgZrMCDJ88) | 3:01 |
 | 14 | [Mxxfia](https://open.spotify.com/track/59sxqoLz1t5ZlaPxZu8YDv) | [Deepa Babbar](https://open.spotify.com/artist/0fcDOWTv5I3ABmYgud8LBQ) | [Mxxfia](https://open.spotify.com/album/2m8sE2f6fViz962NgpJIpl) | 2:04 |

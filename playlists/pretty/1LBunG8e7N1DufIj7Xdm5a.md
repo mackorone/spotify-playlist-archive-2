@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,173 songs - 9 day 5 hr 52 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,174 songs - 9 day 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,7 +268,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 258 | [Nowhere to Run \#2 \(Happy Mood\)](https://open.spotify.com/track/3ZIwip7SBBf13DUQc3ZLdh) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Nowhere to Run \#2 \(Happy Mood\)](https://open.spotify.com/album/1N1MYDTkUJFFflLymWP9AR) | 3:14 |
 | 259 | [HOW CAN I DO](https://open.spotify.com/track/1tmMp3mLAp0X2DPf3EtVDJ) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [HOW CAN I DO](https://open.spotify.com/album/2rZyVdfZpVkahYPDSatW49) | 4:07 |
 | 260 | [Sun On My Brain](https://open.spotify.com/track/6Pm6sScJg8Z2xGoaMt8hAg) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac), [Cyber Bully](https://open.spotify.com/artist/0COIH4xHDEcFfN0x0p2x7e) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:34 |
-| 261 | [TIME](https://open.spotify.com/track/4mvAY5lgn1i9hP491WRhJm) | [AN.GA](https://open.spotify.com/artist/7vU1C8SlZ5g2h6KwdoSFrq) | [TIME](https://open.spotify.com/album/46eRW2tVGpbE9G3kXW27cO) | 4:18 |
+| 261 | [TIME](https://open.spotify.com/track/4mvAY5lgn1i9hP491WRhJm) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [TIME](https://open.spotify.com/album/46eRW2tVGpbE9G3kXW27cO) | 4:18 |
 | 262 | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/track/4Qzh8PAlFvoOTrbprJUqb9) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/album/7gITwQFrdvzqzAE3yfZ6Xu) | 4:23 |
 | 263 | [Fammi il piacere](https://open.spotify.com/track/3AmxF9vbSlby4ppFyRIZ8Y) | [Oto corpse](https://open.spotify.com/artist/4rQeLvrur32dXAIXU0oWHW), [PPOISON](https://open.spotify.com/artist/7q8XJXCL70Q8JjcPNUQUlE) | [Fammi il piacere](https://open.spotify.com/album/4im2xMfiVtovZFY1cJ2EUz) | 3:22 |
 | 264 | [No Panic](https://open.spotify.com/track/1gvz2VK5Wtv7BtztSU0OFX) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [No Panic](https://open.spotify.com/album/22w7HPCpiTM3SBdOfTuiNW) | 5:01 |
@@ -824,7 +824,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 814 | [Under Lights](https://open.spotify.com/track/5PYrqeqP0xA3zrIkKeRijM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 2:38 |
 | 815 | [Gioia di Vivere](https://open.spotify.com/track/4tcETv9pL98HecYObRfBMd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Happy Italian Music, Vol\. 3](https://open.spotify.com/album/6QJVStolVb5E9lGjZYYfl5) | 2:11 |
 | 816 | [Life for Today](https://open.spotify.com/track/4hdBi4istnjBHQWxLiBdmo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Life for Today \(single\)](https://open.spotify.com/album/5eINJa2PGmNl1msOo4TnwS) | 2:25 |
-| 817 | [Gooo on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 |
+| 817 | [Goood on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 |
 | 818 | ['O Core Mio](https://open.spotify.com/track/4b1HfiEX5XJCnrpizx8xZd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 3:05 |
 | 819 | [Fiesta in the Streets](https://open.spotify.com/track/2ofGXkukXxSDIv7LnGMAgx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Big Fiesta](https://open.spotify.com/album/6w8GPbXtYOIWAzOuOgSGMg) | 3:10 |
 | 820 | [Digi Dreams](https://open.spotify.com/track/2SvC64kuZhfUfx8StO8lCb) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 2:55 |
@@ -4181,5 +4181,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4171 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 |
 | 4172 | [boyfriend...\(ew\)](https://open.spotify.com/track/6jayrcLdGIg47o8Wzkp3Vq) | [SXY](https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK) | [boyfriend...\(ew\)](https://open.spotify.com/album/2BFMWu941leigGSnriv5HB) | 2:21 |
 | 4173 | [Irish Goodbyes](https://open.spotify.com/track/2FdApGBPtwyMdWVPWcWKyY) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll), [Weathered Pages](https://open.spotify.com/artist/2OihtBTL3YYFu0Y4FbyGui) | [Irish Goodbyes](https://open.spotify.com/album/1pSbkEuIRJmoEIOjqf9SZF) | 4:08 |
+| 4174 | [Or Nah \- Summer Vibes](https://open.spotify.com/track/4wDqq8uoFkNTKKzFQjHaHs) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Summer Vibes\)](https://open.spotify.com/album/1SG2mechgVcqZlJoPev1CG) | 2:09 |
 
-Snapshot ID: `AAAHqkXMQscOVpE/Jj06OCI68rMr0ljX`
+Snapshot ID: `AAAHq0o9YH2cgCQrA1B7GBnWTFOkZ8ji`

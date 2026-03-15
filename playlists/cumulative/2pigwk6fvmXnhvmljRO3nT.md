@@ -4,7 +4,7 @@
 
 > 
 
-8,502 songs - 21 day 15 hr 38 min
+8,503 songs - 21 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,6 +814,7 @@
 | [Bitch Where](https://open.spotify.com/track/0t9V60QxyMyVZSUVTBgOnt) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [4NEM](https://open.spotify.com/album/1sujvm6paInfm8fYnNdjIy) | 1:51 | 2024-12-14 |  |
 | [Bitch, Don’t Kill My Vibe](https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:10 | 2025-01-03 |  |
 | [Bitch, Don’t Kill My Vibe \- Remix](https://open.spotify.com/track/7ALEBJ8LOQqXVJ2tqnXtoH) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 4:38 | 2025-01-03 |  |
+| [Bitten Bullet](https://open.spotify.com/track/6CWrAMXTSfq26cYZhX1Jmg) | [Boris Nonte](https://open.spotify.com/artist/3EvnDQ9GqimRR7VXVPRAw4), [Tommy Gunn Müller](https://open.spotify.com/artist/5XsjKU4IBPna8p4cxhI35O) | [Swagger Symphony](https://open.spotify.com/album/2mCVFvLKWdynWECEXmCett) | 2:23 | 2026-03-14 |  |
 | [Bittersweet](https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bittersweet](https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY) | 3:11 | 2025-01-03 |  |
 | [Bittersweet \- Live](https://open.spotify.com/track/7xHJfpe6qc7FI1naQPDNDp) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 4:42 | 2025-01-03 |  |
 | [Bittersweet Baby](https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [ARE WE STILL DREAMING?](https://open.spotify.com/album/4DqJ4gzYejnGEGd8mIvySJ) | 3:19 | 2025-04-20 |  |

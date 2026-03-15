@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 279,268 likes - 32 songs - 1 hr 53 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 279,245 likes - 32 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 4 | [Side To Side](https://open.spotify.com/track/29OC90AImALwo1LTvh5Zhf) | [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Side To Side](https://open.spotify.com/album/5rjewwF7ZdawgIuO2zmJZU) | 3:05 |
 | 5 | [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 |
 | 6 | [Warawara](https://open.spotify.com/track/6iICsz7vM9BkAPGw0Axsyq) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Warawara](https://open.spotify.com/album/4dPznvhGo9Yd7vEwGGPjUK) | 3:39 |
-| 7 | [Freaky Freqz](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freaky Freqz](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
+| 7 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
 | 8 | [ON THE MOVE](https://open.spotify.com/track/6skEpWNkNmaELxSlulBvHa) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [ON THE MOVE](https://open.spotify.com/album/6APBCYRXyElNJtqs5yFLQU) | 2:31 |
 | 9 | [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 |
 | 10 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |

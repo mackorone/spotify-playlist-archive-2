@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 150000,
       "name": "DRECKIGE DOLLARS",
       "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 144359,
       "name": "Sie ist",
       "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
@@ -8775,6 +8775,28 @@
     },
     {
       "album": {
+        "name": "Wellness",
+        "url": "https://open.spotify.com/album/0Ox4iFL2jD12fhmAjhofL7"
+      },
+      "artists": [
+        {
+          "name": "Fergy53",
+          "url": "https://open.spotify.com/artist/3XoTY8az7uO60cs72LN1K6"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85538,
+      "name": "Wellness",
+      "url": "https://open.spotify.com/track/1Ok8O709MCp94WXyUvRjp8"
+    },
+    {
+      "album": {
         "name": "Wenn du mich siehst",
         "url": "https://open.spotify.com/album/6EXySHJrVxmQesnBkNUCe2"
       },
@@ -9054,6 +9076,24 @@
       "duration_ms": 115836,
       "name": "X",
       "url": "https://open.spotify.com/track/44uztQHKr4q9Qnd3hKdjkO"
+    },
+    {
+      "album": {
+        "name": "Xalaz",
+        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92653,
+      "name": "Xalaz",
+      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
     },
     {
       "album": {

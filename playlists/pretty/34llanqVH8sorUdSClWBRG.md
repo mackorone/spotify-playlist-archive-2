@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 69 songs - 3 hr 50 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 67 | [In the Shadow of the Western Hills](https://open.spotify.com/track/3VSLsAh8ldiCl9ANK7yt4i) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Steal Smoked Fish / In the Shadow of the Western Hills](https://open.spotify.com/album/6MufqmhgbIO7CezOM60xyc) | 2:34 |
 | 68 | [Bottom of the Pit \(feat\. Sam Haft\)](https://open.spotify.com/track/3JIkMEel91cKJoqZLpit1K) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [In Sound Mind \- Original Soundtrack](https://open.spotify.com/album/1xkfat7ew4UZejTX9F7LDr) | 4:00 |
 | 69 | [Disco! in the Panic Room](https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx) | [Bug Hunter](https://open.spotify.com/artist/3icuKNh1iYRvYPiEkxiAfR) | [The Rough Draft](https://open.spotify.com/album/3BIJimflJCEKdoMFSenabT) | 3:31 |
+| 70 | [why am i like this](https://open.spotify.com/track/3gE5o0qeyamJePqYcPgYcJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [why am i like this](https://open.spotify.com/album/6hhTRMlslZIDOcuobjHjLh) | 2:56 |
 
-Snapshot ID: `AAAATYARXtEDQvQ+xOkIEJi8dsRAknDk`
+Snapshot ID: `AAAATtoVfIfcM82gxgyKHJHww9GWxxKn`

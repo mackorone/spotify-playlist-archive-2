@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,442 likes - 105 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,445 likes - 105 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 104 | [Balconies](https://open.spotify.com/track/5EgkIdRkE3qQli88Ti4AXN) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Balconies](https://open.spotify.com/album/3HkSEqrXgm2luhz2xLZvRO) | 4:31 |
 | 105 | [Can't See](https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Can’t See](https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI) | 2:26 |
 
-Snapshot ID: `AAAAAAMaKctb8JBdUVU2a3N7n2b7p5ZH`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

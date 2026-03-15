@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 24233,
+  "num_followers": 24299,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -719,30 +719,6 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
-        "name": "Attracted to you",
-        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
-      },
-      "artists": [
-        {
-          "name": "Uilou",
-          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
-        },
-        {
-          "name": "AFAMoo",
-          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
-        },
-        {
-          "name": "Lily June",
-          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
-        }
-      ],
-      "duration_ms": 162711,
-      "name": "Attracted to you",
-      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
-    },
-    {
-      "added_at": "2026-03-09 01:38:41",
-      "album": {
         "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
         "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 238288,
       "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
       "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
+    },
+    {
+      "added_at": "2026-03-09 01:38:41",
+      "album": {
+        "name": "Attracted to you",
+        "url": "https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z"
+      },
+      "artists": [
+        {
+          "name": "Uilou",
+          "url": "https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL"
+        },
+        {
+          "name": "AFAMoo",
+          "url": "https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl"
+        },
+        {
+          "name": "Lily June",
+          "url": "https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6"
+        }
+      ],
+      "duration_ms": 162711,
+      "name": "Attracted to you",
+      "url": "https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea"
     },
     {
       "added_at": "2026-03-09 01:38:41",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
+        "name": "Sine Wave Party EP",
+        "url": "https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 264473,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo"
+    },
+    {
+      "added_at": "2026-03-09 01:38:41",
+      "album": {
         "name": "Big Love (feat. Liset Alea)",
         "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 293170,
       "name": "Big Love (feat. Liset Alea)",
       "url": "https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln"
-    },
-    {
-      "added_at": "2026-03-09 01:38:41",
-      "album": {
-        "name": "Sine Wave Party EP",
-        "url": "https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 264473,
-      "name": "Outro",
-      "url": "https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo"
     }
   ],
   "unique_name": "Tokyo Club Beat",

@@ -14484,7 +14484,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 232795,
       "name": "Cool For The Summer - Slowed",
       "url": "https://open.spotify.com/track/4DMExGI4z6D0ZTHg8i4UqE"
@@ -22428,10 +22428,28 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 132923,
       "name": "Fashion Princess",
       "url": "https://open.spotify.com/track/23nJokuKyPOwDD0pfqA0xX"
+    },
+    {
+      "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/6pJB24a3EKOMZBtNuvtSxi"
+      },
+      "artists": [
+        {
+          "name": "G1nter",
+          "url": "https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Fashion Princess",
+      "url": "https://open.spotify.com/track/7z5NqXX1WSVj0QB3Rkq0ob"
     },
     {
       "album": {
@@ -25370,7 +25388,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 181890,
       "name": "Gangnam Style x Give Me Everything - BP / Dark Triad",
       "url": "https://open.spotify.com/track/7cqiCW7UzX3CPqf8KKJi27"
@@ -28182,7 +28200,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 111341,
       "name": "hannahmontanah",
       "url": "https://open.spotify.com/track/2Bq2ptvWVdFNfvWAfGdHzE"
@@ -38858,6 +38876,24 @@
     {
       "album": {
         "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/4mqcYdXFQJGtduC8XWX8op"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/3Ggrf13afYb41oxbnpafPR"
+    },
+    {
+      "album": {
+        "name": "LET ME BE",
         "url": "https://open.spotify.com/album/1s8YhJRqFAcpcA5DoF1cQg"
       },
       "artists": [
@@ -38868,7 +38904,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 189853,
       "name": "LET ME BE",
       "url": "https://open.spotify.com/track/5HJVMb4sCeGiiHOwQeYO3j"
@@ -39984,7 +40020,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
@@ -53594,7 +53630,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -55704,7 +55740,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 135000,
       "name": "PEXESO",
       "url": "https://open.spotify.com/track/5NaoLlvGtZBKcYeWADUnxY"

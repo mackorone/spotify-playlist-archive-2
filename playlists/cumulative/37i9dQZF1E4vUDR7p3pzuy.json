@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Ecto Peach, JUST LIZZY and more",
+  "description": "With Ecto Peach, Jamie Rust, The Ramey Memo and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 244958,
       "name": "Blood Energy",
       "url": "https://open.spotify.com/track/2m7ggGWCEWwAh0vFjCGC4H"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 229642,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 181503,
       "name": "Cringe",
       "url": "https://open.spotify.com/track/42KNXHh9zILElQGre9fQQM"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 235932,
       "name": "Fragile Things",
       "url": "https://open.spotify.com/track/3buzObI8wNmbDmpChyPYfk"
@@ -3722,7 +3722,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 210865,
       "name": "I Might Be A Sinner",
       "url": "https://open.spotify.com/track/6XFQMdpWA6CrKQCnjUARsl"
@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 265411,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/6K38eoRxfn3EIL6UEAjmN2"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Left On Read",
       "url": "https://open.spotify.com/track/5aug3u75DvXol19W9Syjik"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 182515,
       "name": "Ohmygodyuwgueys",
       "url": "https://open.spotify.com/track/1RPCJpUAEPwltO5RkFGWbK"
@@ -6253,6 +6253,24 @@
     },
     {
       "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/6VcS9j6DtNgcfjGOqgMgOE"
+      },
+      "artists": [
+        {
+          "name": "Corey Faulkner",
+          "url": "https://open.spotify.com/artist/0M2ptB8GxV5mCvmYrxOraY"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273438,
+      "name": "Salt Lake",
+      "url": "https://open.spotify.com/track/2kiEvlQ7hPkXmpoF6quQck"
+    },
+    {
+      "album": {
         "name": "Sapphic Lipstain",
         "url": "https://open.spotify.com/album/6ZGoYMO1jQWbDjWAR4hJqm"
       },
@@ -6264,7 +6282,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 216230,
       "name": "Sapphic Lipstain",
       "url": "https://open.spotify.com/track/64jtoWn9jBfVBFD3iIaIOA"
@@ -6318,7 +6336,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 215250,
       "name": "Say Something - 2025",
       "url": "https://open.spotify.com/track/67OMaD4imBm8uAnZheZ8bD"
@@ -6390,7 +6408,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 273353,
       "name": "Sei\u00f0r",
       "url": "https://open.spotify.com/track/1IRQJ2cJZlxRa79zVIWqoU"
@@ -6528,7 +6546,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 129946,
       "name": "Shake Yer Body",
       "url": "https://open.spotify.com/track/3XwYF9iAOnogC9VdU9teF9"
@@ -6568,6 +6586,24 @@
       "duration_ms": 231683,
       "name": "Shame",
       "url": "https://open.spotify.com/track/5Z3lFkjee759xBGg88bwIJ"
+    },
+    {
+      "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/4PliGQbdNHmvuYzu1W6lZ4"
+      },
+      "artists": [
+        {
+          "name": "deadwater",
+          "url": "https://open.spotify.com/artist/3aYgWt6qmM3XBranAthnfo"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "She",
+      "url": "https://open.spotify.com/track/5Vmg5Y8yL08lBUUQMJaF1Z"
     },
     {
       "album": {
@@ -7092,7 +7128,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 220941,
       "name": "Still Waters Run Deep",
       "url": "https://open.spotify.com/track/3TPcgFwTaaZtBVivWbBSvU"
@@ -7480,7 +7516,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 464842,
       "name": "The Crypt Of Misery",
       "url": "https://open.spotify.com/track/7pKgnTEzbreTiEWGbWwjWZ"
@@ -7552,7 +7588,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 255111,
       "name": "The Foreign Game",
       "url": "https://open.spotify.com/track/7xlkE92w9mj87OXHdopf0m"
@@ -8198,7 +8234,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -8686,7 +8722,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 171413,
       "name": "Wasp Factory",
       "url": "https://open.spotify.com/track/0YIGnoaNjwTif56JGCKZEE"
@@ -9094,7 +9130,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 185142,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6Alq4T4tACdR5eCgTOj6Lv"

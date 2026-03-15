@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Harika Avcı x Müslüm Gürses ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,806 likes - 141 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,818 likes - 141 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 16 | [Dark Sky](https://open.spotify.com/track/3JjBiD8tBhmWYHJWdgC55D) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Emre Arisev](https://open.spotify.com/artist/124sTO5ajKDucfAMyMvpeo), [Emiran](https://open.spotify.com/artist/3eMD7BSX6Fi553cmgWOkAk), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Dark Sky](https://open.spotify.com/album/6D8PJWfkanqurFQrWdzIrW) | 3:16 |
 | 17 | [Anladım](https://open.spotify.com/track/2pzbuLuY8PWqMMkKqpeoKU) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw), [Hande Mehan](https://open.spotify.com/artist/1u3WUGLV2ZGPvwkfdvgZFl) | [Anladım](https://open.spotify.com/album/4QIMFcpVUUNSFmVN7tK03V) | 3:57 |
 | 18 | [Çözemezler](https://open.spotify.com/track/3Lj4lMbv853oGTgdmuRgGi) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Çözemezler](https://open.spotify.com/album/2sSMJMZkfm2pQLjGF02qk4) | 2:51 |
-| 19 | [Ah Canım](https://open.spotify.com/track/48QJKMsARnjSDwmqwNgLr5) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Ah Canım](https://open.spotify.com/album/6evZ54QEC5QPJ6TVx8LNGt) | 3:09 |
+| 19 | [Ah Canım Vah Canım](https://open.spotify.com/track/48QJKMsARnjSDwmqwNgLr5) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Ah Canım Vah Canım](https://open.spotify.com/album/6evZ54QEC5QPJ6TVx8LNGt) | 3:09 |
 | 20 | [Miras](https://open.spotify.com/track/2BKA9BSf63A2xqdupnZyoP) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [Miras](https://open.spotify.com/album/5EHEsJ0ws42a40bCQ4iUGL) | 3:12 |
 | 21 | [Ayrılık](https://open.spotify.com/track/4erbOJSWtBC0pVOlrMYqmL) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Ayrılık](https://open.spotify.com/album/1AgRoehfakAvwITJygCLaa) | 2:12 |
 | 22 | [Una Aventura](https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Una Aventura](https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms) | 3:00 |

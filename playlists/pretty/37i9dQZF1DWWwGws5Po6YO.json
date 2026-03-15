@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Emily A. Sprague",
-  "num_followers": 136766,
+  "num_followers": 136812,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "Hrafnamynd",
-        "url": "https://open.spotify.com/album/0JlfmX8k9AhOG1ZdRvkpbc"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Huginn and Muninn",
-      "url": "https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "Collected Pieces",
         "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
@@ -703,6 +687,42 @@
       "duration_ms": 628736,
       "name": "Wawa by the Ocean",
       "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "Unexpected Music II",
+        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        },
+        {
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        }
+      ],
+      "duration_ms": 419387,
+      "name": "Rippling",
+      "url": "https://open.spotify.com/track/3njziHpQADMCbv7KdphJfg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "Hrafnamynd",
+        "url": "https://open.spotify.com/album/0JlfmX8k9AhOG1ZdRvkpbc"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Huginn and Muninn",
+      "url": "https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -731,26 +751,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "Unexpected Music II",
-        "url": "https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        },
-        {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        }
-      ],
-      "duration_ms": 419387,
-      "name": "Rippling",
-      "url": "https://open.spotify.com/track/3njziHpQADMCbv7KdphJfg"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "Frozen Passages",
         "url": "https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "Spicy City",
-        "url": "https://open.spotify.com/album/3eOFBNasqzBE3cnfojMHIg"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Spicy City",
-      "url": "https://open.spotify.com/track/1kdWlLSL8gxAA1hVsfvgma"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
         "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 287913,
       "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
       "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "Spicy City",
+        "url": "https://open.spotify.com/album/3eOFBNasqzBE3cnfojMHIg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Spicy City",
+      "url": "https://open.spotify.com/track/1kdWlLSL8gxAA1hVsfvgma"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
+        "name": "Gentle Hum",
+        "url": "https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "duration_ms": 160476,
+      "name": "Gentle Hum",
+      "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
         "name": "Perpetual Adoration",
         "url": "https://open.spotify.com/album/1T2ScgrYus6GPAMsSrVSkb"
       },
@@ -839,22 +859,22 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "Gentle Hum",
-        "url": "https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO"
+        "name": "mist field & gentle showers",
+        "url": "https://open.spotify.com/album/3Y5YGqieDmhkqYxLN3az4r"
       },
       "artists": [
         {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+          "name": "Aisha Vaughan",
+          "url": "https://open.spotify.com/artist/6nbVnOcxArznPeQ6nggmyV"
         },
         {
-          "name": "Hainbach",
-          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+          "name": "Dream Crease",
+          "url": "https://open.spotify.com/artist/3YTw3M9GzEH8e4GeNDNroo"
         }
       ],
-      "duration_ms": 160476,
-      "name": "Gentle Hum",
-      "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
+      "duration_ms": 268920,
+      "name": "mist field & gentle showers",
+      "url": "https://open.spotify.com/track/2MwwhjWL1k8Y4Rkufn5H2h"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -907,22 +927,34 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "mist field & gentle showers",
-        "url": "https://open.spotify.com/album/3Y5YGqieDmhkqYxLN3az4r"
+        "name": "Exuvie",
+        "url": "https://open.spotify.com/album/5h9qY2VdgrO5zqZW0KB4OR"
       },
       "artists": [
         {
-          "name": "Aisha Vaughan",
-          "url": "https://open.spotify.com/artist/6nbVnOcxArznPeQ6nggmyV"
-        },
-        {
-          "name": "Dream Crease",
-          "url": "https://open.spotify.com/artist/3YTw3M9GzEH8e4GeNDNroo"
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
         }
       ],
-      "duration_ms": 268920,
-      "name": "mist field & gentle showers",
-      "url": "https://open.spotify.com/track/2MwwhjWL1k8Y4Rkufn5H2h"
+      "duration_ms": 230377,
+      "name": "beneath form",
+      "url": "https://open.spotify.com/track/00Yaz5X0kVZgjLOulCOc79"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "Midnight Zone (Original Soundtrack to the Film by Julian Charri\u00e8re)",
+        "url": "https://open.spotify.com/album/7DhQSiWvbpfQXrX9X4hsMq"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 522839,
+      "name": "Oreison",
+      "url": "https://open.spotify.com/track/3VBFITTlOsnEn8TqYsNxX8"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -943,22 +975,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "Big Room",
         "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
       },
@@ -971,6 +987,22 @@
       "duration_ms": 267000,
       "name": "Billow",
       "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -1007,6 +1039,22 @@
       "duration_ms": 226613,
       "name": "Amare",
       "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "periferi",
+        "url": "https://open.spotify.com/album/0F7Jik5LF6ol2NHsUjGCwh"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "periferi",
+      "url": "https://open.spotify.com/track/3ytorOvPTZGJr0padwLgLv"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -1123,22 +1171,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "My Light, My Massage Parlor",
-        "url": "https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 311521,
-      "name": "Wormhold Music",
-      "url": "https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -1151,6 +1183,22 @@
       "duration_ms": 144500,
       "name": "Absolution",
       "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "My Light, My Massage Parlor",
+        "url": "https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 311521,
+      "name": "Wormhold Music",
+      "url": "https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -1295,6 +1343,22 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
+        "name": "Vil'na",
+        "url": "https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        }
+      ],
+      "duration_ms": 284219,
+      "name": "Anti-Drone Nets",
+      "url": "https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
         "name": "Esperance",
         "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
@@ -1367,6 +1431,22 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
+        "name": "I'll Look For You In Others",
+        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 393479,
+      "name": "I'll Look for You in Others",
+      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
         "name": "Keep Pulling Me In",
         "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
       },
@@ -1399,22 +1479,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "I'll Look For You In Others",
-        "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 393479,
-      "name": "I'll Look for You in Others",
-      "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/3A908hjy2xnvD9DuoF9t3j"
       },
@@ -1427,6 +1491,22 @@
       "duration_ms": 222167,
       "name": "Home",
       "url": "https://open.spotify.com/track/1mOygnZoGodamv4VcqSK3T"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
+        "name": "Lune (Ambient Reworks)",
+        "url": "https://open.spotify.com/album/1W24UQcLIlDGyX2mpgcsow"
+      },
+      "artists": [
+        {
+          "name": "PIANIKA",
+          "url": "https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Seven Sisters - Softer",
+      "url": "https://open.spotify.com/track/2JwROemU7cYui26FE5WMr8"
     },
     {
       "added_at": "2026-03-13 04:00:20",
@@ -1579,6 +1659,26 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
+        "name": "mountain ascent at dusk",
+        "url": "https://open.spotify.com/album/6EYbmOuioST5WE5u1S4wdD"
+      },
+      "artists": [
+        {
+          "name": "Birds Of Passage",
+          "url": "https://open.spotify.com/artist/5psQKSfY5Dm9nVbcYYYcR0"
+        },
+        {
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        }
+      ],
+      "duration_ms": 391020,
+      "name": "mountain ascent at dusk",
+      "url": "https://open.spotify.com/track/1rStT63qB57xnAGY8GmSEF"
+    },
+    {
+      "added_at": "2026-03-13 04:00:20",
+      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1631,26 +1731,6 @@
     {
       "added_at": "2026-03-13 04:00:20",
       "album": {
-        "name": "mountain ascent at dusk",
-        "url": "https://open.spotify.com/album/6EYbmOuioST5WE5u1S4wdD"
-      },
-      "artists": [
-        {
-          "name": "Birds Of Passage",
-          "url": "https://open.spotify.com/artist/5psQKSfY5Dm9nVbcYYYcR0"
-        },
-        {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
-        }
-      ],
-      "duration_ms": 391020,
-      "name": "mountain ascent at dusk",
-      "url": "https://open.spotify.com/track/1rStT63qB57xnAGY8GmSEF"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1663,86 +1743,6 @@
       "duration_ms": 242000,
       "name": "Springtime in Croatia",
       "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 187861,
-      "name": "Cloudbreath",
-      "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
-        "name": "hepsi birden",
-        "url": "https://open.spotify.com/album/3Guyz1dMThg4G62uNINO9H"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "hepsi birden",
-      "url": "https://open.spotify.com/track/3MCP72wuxmI0LRvkFsupjf"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
-        "name": "Selected Works II",
-        "url": "https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 335402,
-      "name": "A Woman Escapes Cue 4",
-      "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
-    },
-    {
-      "added_at": "2026-03-13 04:00:20",
-      "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
-      },
-      "artists": [
-        {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
-        }
-      ],
-      "duration_ms": 460000,
-      "name": "Frost",
-      "url": "https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM"
     }
   ],
   "unique_name": "Women of Ambient",

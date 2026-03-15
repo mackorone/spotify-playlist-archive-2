@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 
 > The best hits from the biggest shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,058 likes - 49 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,066 likes - 49 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 | 48 | [Seize The Day](https://open.spotify.com/track/0BxKZikii9efSIodiQALJ5) | [Ben Fankhauser](https://open.spotify.com/artist/46yt6WJsgzPiAtnCe809UV), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Newsies Original Broadway Cast](https://open.spotify.com/artist/6yTc5YHDriVSWYq8vPA4Xi) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 5:22 |
 | 49 | [Positive](https://open.spotify.com/track/3M4OxUpLqSexH8IioAxXZz) | [Annaleigh Ashford](https://open.spotify.com/artist/4cHdzQMvESi5fSYStocJQT), [Dequina Moore](https://open.spotify.com/artist/1WKZeYNzwar047FcK0Y47n), ['Legally Blonde' Greek Chorus](https://open.spotify.com/artist/145S8Fzs3opc7Nbz2gkoIO), [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj), [Leslie Kritzer](https://open.spotify.com/artist/0VJgvx0e4MTvL1A9o2HKQz) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 3:12 |
 
-Snapshot ID: `AAAAANkgBrpkqtM18g0Xq9q7qA+cX/P8`
+Snapshot ID: `AAAAAP2XmR2JEg3NtDfrmndcQt3YrQAn`

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-680 songs - 2 day 7 hr 46 min
+681 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-04 | 2025-08-30 |
 | [Daisy's Falling](https://open.spotify.com/track/0HjvsCYOpajcXDCRoLzZga) | [Car Kiss](https://open.spotify.com/artist/1DwYTwnyBGXwt1LQma9zFs) | [Daisy's Falling](https://open.spotify.com/album/0dPUYYW6DLLEVJHp2W3TIm) | 4:57 | 2024-04-12 | 2024-07-19 |
 | [Dancing Queen](https://open.spotify.com/track/5r3t2sftGlEi8JZn0OSO7S) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Dancing Queen](https://open.spotify.com/album/792yzHqlo1gG7SDKHsGW8l) | 2:54 | 2021-12-08 | 2022-02-22 |
+| [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 | 2026-03-13 |  |
 | [Daughters \- Oliver Schories Remix](https://open.spotify.com/track/3XJRsEt8YMsLPXZNsLBVtU) | [Frivolous](https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [The Tiny House of Delusion \(REMIXES\)](https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu) | 6:40 | 2023-01-06 | 2023-09-07 |
 | [Day Dream](https://open.spotify.com/track/0OOL8Uj0FcXcsCt11vVVQ3) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Hard To Get EP](https://open.spotify.com/album/31pjUrPh9AclCWJs5j7l7T) | 6:40 | 2023-01-06 | 2023-04-16 |
 | [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 | 2025-01-31 |  |
@@ -184,7 +185,7 @@
 | [FEEL](https://open.spotify.com/track/3xVmdUM5hgmLYzndh8FMz7) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [FEEL](https://open.spotify.com/album/0EaHTIUCFrPWr1AahAo86D) | 3:28 | 2024-04-12 | 2024-10-12 |
 | [Feel My Love](https://open.spotify.com/track/4ba2rqxxNcXQ5rfWZMo1Q1) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [SkyReacher](https://open.spotify.com/album/4fKaOHXcPHsqbL7UZYJKHK) | 6:44 | 2024-04-12 | 2025-03-09 |
 | [Feel This Way](https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv) | [MOTSA](https://open.spotify.com/artist/2fyuHXew1I5FJDAQdbCYXP), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Feel This Way](https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo) | 3:57 | 2025-03-07 |  |
-| [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 |  |
+| [Feelings Of Love](https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Feelings Of Love](https://open.spotify.com/album/0NRDMZLCu5ReSNiolhzmZv) | 6:07 | 2025-09-05 | 2026-03-15 |
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-04-26 |  |
 | [Fibonacci](https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Fibonacci](https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY) | 3:08 | 2021-12-08 | 2024-04-13 |
 | [Fields](https://open.spotify.com/track/5FZw8knmfy0feNKCXFEI1c) | [Sieren](https://open.spotify.com/artist/3Jzy4I2ATG22T6bZB24ToD) | [Emergence](https://open.spotify.com/album/0cw1jXcFM6cmW3oApTbx8g) | 4:28 | 2025-09-05 | 2026-02-28 |

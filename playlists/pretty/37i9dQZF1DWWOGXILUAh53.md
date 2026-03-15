@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,785 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,043 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 9 | [Naked](https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Naked](https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib) | 3:39 |
 | 10 | [Ultra Love](https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Ultra Love](https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol) | 3:23 |
 | 11 | [Emergency](https://open.spotify.com/track/13xQEvfQjGjwdqHZV1lvqX) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Emergency](https://open.spotify.com/album/4MWlKLKbMUwuv2Tf4Fqk82) | 3:24 |
-| 12 | [Who We Are \(with Haley May\)](https://open.spotify.com/track/4HoA4tP66pVzicpNVtVnE3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Who We Are \(with Haley May\)](https://open.spotify.com/album/5GyfGRTv7TkytZCCqQrPef) | 2:10 |
+| 12 | [Who We Are \(with Hayley May\)](https://open.spotify.com/track/4HoA4tP66pVzicpNVtVnE3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Who We Are \(with Hayley May\)](https://open.spotify.com/album/5GyfGRTv7TkytZCCqQrPef) | 2:10 |
 | 13 | [Living Life](https://open.spotify.com/track/2Ohsc9IuacQeX7B8Ha05V3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Living Life](https://open.spotify.com/album/0gqve1LJOSJNfsUZ7kPYpn) | 2:36 |
 | 14 | [That's Her \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/1kkgrnr6OWVBnks8OhZQio) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [That's Her \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/0UMIA4uXznjDkoS6Ru5jAj) | 2:27 |
 | 15 | [Right here...](https://open.spotify.com/track/7JxufZObN8xKDnEUmd1uK5) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Right here...](https://open.spotify.com/album/4uDfZXoeYCAvVQJRPlrf21) | 2:56 |

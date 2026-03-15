@@ -5924,7 +5924,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 124500,
       "name": "Boca",
       "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
@@ -15130,7 +15130,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -15622,7 +15622,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 154736,
       "name": "Filipineza",
       "url": "https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9"
@@ -22086,6 +22086,24 @@
       "duration_ms": 158515,
       "name": "Jennifer\u2019s Body",
       "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
+    },
+    {
+      "album": {
+        "name": "Jester",
+        "url": "https://open.spotify.com/album/5PG6fQppzcCJ7GvW7RRuys"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "Jester",
+      "url": "https://open.spotify.com/track/7kcBiaUm1uPSNgUbSioyEE"
     },
     {
       "album": {
@@ -28990,7 +29008,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -29260,7 +29278,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 193560,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/3HWS3HVkirA39KnT84Io5g"
@@ -29692,7 +29710,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 131368,
       "name": "Nu m\u0103 las\u0103 \u00een pace",
       "url": "https://open.spotify.com/track/4nswoiGHjYF3ufTPpr5SC9"
@@ -32628,7 +32646,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 169714,
       "name": "Pic\u0103tura De Cerneal\u0103",
       "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
@@ -32876,6 +32894,28 @@
       "duration_ms": 227423,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/3sXsbaZlsTv2iJiEntsgM5"
+    },
+    {
+      "album": {
+        "name": "PLAYBOY (Studio Session #10)",
+        "url": "https://open.spotify.com/album/3llu9X0rK1vdYEBZ5m1I6y"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        },
+        {
+          "name": "SEEK TV",
+          "url": "https://open.spotify.com/artist/3pwuTwTIBJjyHzzn2AHCRv"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144634,
+      "name": "PLAYBOY (Studio Session #10)",
+      "url": "https://open.spotify.com/track/6jWFXPkTAxhBrprdp1Iuhe"
     },
     {
       "album": {
@@ -35180,7 +35220,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -37804,7 +37844,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -41726,7 +41766,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 176386,
       "name": "Talentul ala fin",
       "url": "https://open.spotify.com/track/2ftaktO6DSSPwXkoZkf4dI"
@@ -46765,6 +46805,24 @@
     },
     {
       "album": {
+        "name": "Walla Eh",
+        "url": "https://open.spotify.com/album/66dHMbmVSfravfJ0fg3vGD"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160731,
+      "name": "Walla Eh",
+      "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -48282,7 +48340,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 173962,
       "name": "Zambete si Pacate",
       "url": "https://open.spotify.com/track/2ozyskqNWm7TaqBSkZuMzF"

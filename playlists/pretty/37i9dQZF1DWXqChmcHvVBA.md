@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 El Negro Tecla
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,317 likes - 74 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,454 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 73 | [Session en el Barrio \#14](https://open.spotify.com/track/2VNFNR1iQEpDJ3ZWphNioQ) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Session en el Barrio \#14](https://open.spotify.com/album/4VQDBXozvaFuSleyT9G36T) | 2:51 |
 | 74 | [SUPUESTAMENTE](https://open.spotify.com/track/1NSFGv6QemZiHiZfMY7F46) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SUPUESTAMENTE](https://open.spotify.com/album/45Aq4OYxS70A7L6mwQWr2T) | 2:18 |
 
-Snapshot ID: `AAAAAHYXThnAdhQm9gV2EoJ5JUg7KXdM`
+Snapshot ID: `AAAAABd+zWyaIlFcI8kHJmVwQa2BF5P4`

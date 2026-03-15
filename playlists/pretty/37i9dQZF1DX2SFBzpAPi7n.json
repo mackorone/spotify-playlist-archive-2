@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc724\ud558 (YOUNHA)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 249537,
+  "num_followers": 249522,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-03-13 08:33:13",
       "album": {
-        "name": "CINEMA",
-        "url": "https://open.spotify.com/album/36z5yhxUByU5TZwDFNf0Wf"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "CINEMA",
-      "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
-    },
-    {
-      "added_at": "2026-03-13 08:33:13",
-      "album": {
         "name": "Forever Has Always Been",
         "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 226160,
       "name": "Awake",
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
+    },
+    {
+      "added_at": "2026-03-13 08:33:13",
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/36z5yhxUByU5TZwDFNf0Wf"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "CINEMA",
+      "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
     },
     {
       "added_at": "2026-03-13 08:33:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-13 08:33:13",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
-      },
-      "artists": [
-        {
-          "name": "Glen Check",
-          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
-        }
-      ],
-      "duration_ms": 227019,
-      "name": "Dazed & Confused",
-      "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
-    },
-    {
-      "added_at": "2026-03-13 08:33:13",
-      "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "added_at": "2026-03-13 08:33:13",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
+      },
+      "artists": [
+        {
+          "name": "Glen Check",
+          "url": "https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV"
+        }
+      ],
+      "duration_ms": 227019,
+      "name": "Dazed & Confused",
+      "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
     },
     {
       "added_at": "2026-03-13 08:33:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-13 08:33:13",
       "album": {
-        "name": "Prussian Blue",
-        "url": "https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD"
-      },
-      "artists": [
-        {
-          "name": "can\u2019t be blue ",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Should be you",
-      "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
-    },
-    {
-      "added_at": "2026-03-13 08:33:13",
-      "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 220094,
       "name": "Save me",
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
+    },
+    {
+      "added_at": "2026-03-13 08:33:13",
+      "album": {
+        "name": "Prussian Blue",
+        "url": "https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Should be you",
+      "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

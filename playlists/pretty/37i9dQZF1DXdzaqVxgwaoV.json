@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145478,
+  "num_followers": 145471,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "No Hay Porqu\u00e9 Esperar",
+        "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 176562,
+      "name": "Me Tragaba Tus Mentiras",
+      "url": "https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Amor Oculto",
         "url": "https://open.spotify.com/album/1CA0zMs4fMYWxwNWWA6tLx"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 180333,
       "name": "Mujeres y Despecho",
       "url": "https://open.spotify.com/track/6qF6Nq12QRlFMjS2mP4ziN"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "No Hay Porqu\u00e9 Esperar",
-        "url": "https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 176562,
-      "name": "Me Tragaba Tus Mentiras",
-      "url": "https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu"
     },
     {
       "added_at": "2026-02-23 16:04:48",

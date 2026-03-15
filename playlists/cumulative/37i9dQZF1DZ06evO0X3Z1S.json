@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 172728,
       "name": "Billboard",
       "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
@@ -902,6 +902,28 @@
       "duration_ms": 142857,
       "name": "Liquid Spirit - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/0kmiBmbUPXMRwCoh0py1VG"
+    },
+    {
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/2r095z3wi0vIxl5Yn990St"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176167,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/5siFgBbdKb7TwqXi1CzF3C"
     },
     {
       "album": {

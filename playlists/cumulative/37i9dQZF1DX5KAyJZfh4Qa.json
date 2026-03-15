@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/3xbjjOR9kNChFYs6XjdEiw"
+      },
+      "artists": [
+        {
+          "name": "Stars Hollow",
+          "url": "https://open.spotify.com/artist/5gDuvgApWbVzFLVBeLCbMJ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/75v6RuVeBdu2YE35VyWBqY"
+    },
+    {
+      "album": {
         "name": "Chessie",
         "url": "https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO"
       },
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 189613,
       "name": "kissinginacarcrash",
       "url": "https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq"
@@ -3358,6 +3376,24 @@
       "duration_ms": 137076,
       "name": "No Backbone",
       "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
+    },
+    {
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/1o80CRxx5nH0SlzMaTBuUF"
     },
     {
       "album": {
@@ -5148,7 +5184,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 195074,
       "name": "Wednesday, Forever???",
       "url": "https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW"

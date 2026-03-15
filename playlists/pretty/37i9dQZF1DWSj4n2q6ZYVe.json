@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 732108,
+  "num_followers": 732748,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "From Paris to Berlin",
+        "url": "https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx"
+      },
+      "artists": [
+        {
+          "name": "Infernal",
+          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "From Paris to Berlin",
+      "url": "https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "From Paris to Berlin",
-        "url": "https://open.spotify.com/album/6SC5NVbBXCHW78zOSPZgYx"
-      },
-      "artists": [
-        {
-          "name": "Infernal",
-          "url": "https://open.spotify.com/artist/2nnBn2iyqkuOBj85nhGp1k"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "From Paris to Berlin",
-      "url": "https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Belle Epoque",
+        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
+      },
+      "artists": [
+        {
+          "name": "French Affair",
+          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2Dvz88PooQPZDvjDAyN6in"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Belle Epoque",
-        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
-      },
-      "artists": [
-        {
-          "name": "French Affair",
-          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
     },
     {
       "added_at": "2021-04-29 18:40:15",

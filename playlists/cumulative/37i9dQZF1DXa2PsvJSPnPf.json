@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 231000,
       "name": "All Good Cowboys",
       "url": "https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs"
@@ -3288,6 +3288,40 @@
       "duration_ms": 322754,
       "name": "Rhododendron - Alt Version",
       "url": "https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL"
+    },
+    {
+      "album": {
+        "name": "Ain't That Fine (Davis)",
+        "url": "https://open.spotify.com/album/4jepCP20tlZ6oG8AKUuTdM"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Ye Vagabonds",
+          "url": "https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335286,
+      "name": "Rhododendron [Feat. Ye Vagabonds] - Rocky Mount",
+      "url": "https://open.spotify.com/track/1lw30X1dHXZ1Z5cPLFHYzw"
     },
     {
       "album": {

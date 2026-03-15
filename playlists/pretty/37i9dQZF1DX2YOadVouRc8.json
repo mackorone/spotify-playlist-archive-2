@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 45986,
+  "num_followers": 45995,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-03-13 00:01:23",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 164599,
-      "name": "robbery",
-      "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
-    },
-    {
-      "added_at": "2026-03-13 00:01:23",
-      "album": {
         "name": "Piece of My Heart (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 259354,
       "name": "Piece of My Heart (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2026-03-13 00:01:23",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 164599,
+      "name": "robbery",
+      "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
     },
     {
       "added_at": "2026-03-13 00:01:23",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-03-13 00:01:23",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 187590,
+      "name": "Ashimolowo",
+      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
+    },
+    {
+      "added_at": "2026-03-13 00:01:23",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": "2026-03-13 00:01:23",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 187590,
-      "name": "Ashimolowo",
-      "url": "https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv"
     },
     {
       "added_at": "2026-03-13 00:01:23",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-13 00:01:23",
       "album": {
-        "name": "MYTH-ERA",
-        "url": "https://open.spotify.com/album/3zQqn6nxT3nl4KT057EbY3"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Palava",
-      "url": "https://open.spotify.com/track/52hCcthhhqHCwGaLAOqvUo"
-    },
-    {
-      "added_at": "2026-03-13 00:01:23",
-      "album": {
         "name": "WILL I EVER",
         "url": "https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 174050,
       "name": "WILL I EVER",
       "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"
+    },
+    {
+      "added_at": "2026-03-13 00:01:23",
+      "album": {
+        "name": "MYTH-ERA",
+        "url": "https://open.spotify.com/album/3zQqn6nxT3nl4KT057EbY3"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Palava",
+      "url": "https://open.spotify.com/track/52hCcthhhqHCwGaLAOqvUo"
     },
     {
       "added_at": "2026-03-13 00:01:23",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2026-03-13 00:01:23",
       "album": {
-        "name": "Must Have Been",
-        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
       },
       "artists": [
         {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 156320,
-      "name": "Must Have Been",
-      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
     }
   ],
   "unique_name": "Afro Chill",

@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,080 songs - 11 day 13 hr 51 min
+5,082 songs - 11 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1748,6 +1748,7 @@
 | [Gondwana](https://open.spotify.com/track/1U3PN6Za8DMbHhlreRuf6A) | [Dan Cooper](https://open.spotify.com/artist/54SmdKIRQCgROJeyiz9lDY) | [Gondwana](https://open.spotify.com/album/4Zm9rV2r6Wlwl6lq5ij5ks) | 3:49 | 2025-09-05 | 2025-09-13 |
 | [Gone](https://open.spotify.com/track/2IxfyARQd8dbtqMfFNyOsm) | [Daniel Wanrooy](https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd) | [Gone](https://open.spotify.com/album/5GBXiwTbhswxS0szKynD1u) | 3:05 | 2025-11-28 | 2025-12-06 |
 | [Gone](https://open.spotify.com/track/0ChJFVxK9X0DnqSlNB4Gmx) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Gone](https://open.spotify.com/album/2U2pA2I7y8fDC3xj40cJDz) | 4:03 | 2024-11-24 | 2024-11-30 |
+| [Gone by the Morning \- Infinity Pulse Remix](https://open.spotify.com/track/5EeUyVNOX0Q3i5O1zdU3dx) | [Nexus](https://open.spotify.com/artist/6AfdyajvyE2sflcSz19cLZ), [Nova Grey](https://open.spotify.com/artist/58xMIy3jm4fxh8uSjULqRN), [Guido Odendahl](https://open.spotify.com/artist/43Mw6ZKQMHCBlIykh13O2H) | [Gone by the Morning](https://open.spotify.com/album/1chHsMPJ7ma3GKzrgBeu8A) | 4:11 | 2026-03-14 |  |
 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 | 2025-10-10 | 2025-10-18 |
 | [Gone Gone Gone \(feat\. Teddy Swims\) \- Hypaton Remix](https://open.spotify.com/track/3iHu9c8xnzvPf0VVqIutFX) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[Hypaton Remix\]](https://open.spotify.com/album/3Wb0gsg3wbMADSAjdtFv17) | 3:01 | 2025-12-05 | 2025-12-13 |
 | [Gone Gone Gone \(feat\. Teddy Swims\) \- MK Remix](https://open.spotify.com/track/1P0wthSIyPsBdmlp5k4cCd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Gone Gone Gone \(feat\. Teddy Swims\) \[MK Remix\]](https://open.spotify.com/album/0M2qDR7i9i7XhtRYv7RFJi) | 2:48 | 2025-10-31 | 2025-11-08 |
@@ -4040,6 +4041,7 @@
 | [Space](https://open.spotify.com/track/5OJIXXgLkFgG5RuOU7LKeA) | [Tori Tee](https://open.spotify.com/artist/2XqtJkg4pZYAT6U1bONXiw) | [Space](https://open.spotify.com/album/14RVyCOg7Lu3jZ0W9TYUaK) | 2:30 | 2025-06-01 | 2025-06-07 |
 | [Space Exploration](https://open.spotify.com/track/6Yki3ylpkEXxdnE9ba2AyV) | [Gethsemane](https://open.spotify.com/artist/6gDyIUzLAjd2aruRkrLUjQ), [Chill Union CFM](https://open.spotify.com/artist/367thuhEvBpz99ytopYN3a) | [Space Exploration](https://open.spotify.com/album/2CE2yhsmAKjzhHGgfYeXmf) | 3:57 | 2025-03-27 | 2025-04-11 |
 | [Space Time](https://open.spotify.com/track/1Kevtv0yLMb6QQE8SkbgIm) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Digital Culture](https://open.spotify.com/artist/7JMIkI5oJTy7hNgNaIriN1) | [Space Time](https://open.spotify.com/album/3z2nz0CgwwN9A6Kx8FhGBB) | 3:10 | 2024-06-07 | 2024-06-17 |
+| [Spaceman](https://open.spotify.com/track/3hPTN8q8rSAfYz4uho0U3W) | [Katinka Meidell](https://open.spotify.com/artist/4rW2Jzm7bhGRmlQ6Byynvw) | [Spaceman](https://open.spotify.com/album/3VvXMM3OsoGrrG8wZv2uSZ) | 5:16 | 2026-03-14 |  |
 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 | 2025-09-05 | 2025-09-13 |
 | [Spacewalk](https://open.spotify.com/track/0fRuW1c56mthclYCrCTXwB) | [Greg Downey](https://open.spotify.com/artist/5g5gfQk7ayB806jZ9FFCjL) | [Spacewalk](https://open.spotify.com/album/4TnMi6J6um77nda9OnGlzG) | 3:30 | 2025-08-01 | 2025-08-09 |
 | [Sparkle](https://open.spotify.com/track/0lHesJim3nX7IkHddyqNQm) | [Maria Healy](https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3) | [Sparkle](https://open.spotify.com/album/1Ax7NhQGR520AYfHxU2lfZ) | 3:29 | 2025-10-27 | 2025-11-01 |

@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "5 SKARAB\u00c4EN",
+        "url": "https://open.spotify.com/album/2Ft0hZeFXD6j1tQlkDvUno"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131825,
+      "name": "5 SKARAB\u00c4EN",
+      "url": "https://open.spotify.com/track/5f7qjSazUG9cH67xwym2Qn"
+    },
+    {
+      "album": {
         "name": "5 Sonnen",
         "url": "https://open.spotify.com/album/3uQrWaCkwsv4LQ6ZGI5mU0"
       },
@@ -5802,7 +5820,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7"
@@ -21927,6 +21945,24 @@
     },
     {
       "album": {
+        "name": "Eau de Toilette 2",
+        "url": "https://open.spotify.com/album/1QGMHR1zNJlWbQbxbhCYmv"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Eau de Toilette 2",
+      "url": "https://open.spotify.com/track/1TOslPii5j7G5fkgQ7OctL"
+    },
+    {
+      "album": {
         "name": "Zukunft",
         "url": "https://open.spotify.com/album/0qLHtTHjyNgq9WSymtINK6"
       },
@@ -28496,6 +28532,28 @@
     {
       "album": {
         "name": "Gef\u00e4hrlich",
+        "url": "https://open.spotify.com/album/4Zg36sK2aac5qH3zhX6jro"
+      },
+      "artists": [
+        {
+          "name": "badm\u00f3mzjay",
+          "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
+        },
+        {
+          "name": "Boki",
+          "url": "https://open.spotify.com/artist/2FElvv0oZnwaEETdmXgAwW"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152048,
+      "name": "Gef\u00e4hrlich",
+      "url": "https://open.spotify.com/track/5AOMAHYhBm92nyPBDHNsrv"
+    },
+    {
+      "album": {
+        "name": "Gef\u00e4hrlich",
         "url": "https://open.spotify.com/album/0WVlWZVTjWEo0aIAlUc3Zg"
       },
       "artists": [
@@ -28814,7 +28872,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 212363,
       "name": "Generation Z",
       "url": "https://open.spotify.com/track/5ylClqJDNlNXI3yUlcMjR7"
@@ -31877,6 +31935,28 @@
     },
     {
       "album": {
+        "name": "HASENJAGD",
+        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158135,
+      "name": "HASENJAGD",
+      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
+    },
+    {
+      "album": {
         "name": "Hast du kurz Zeit",
         "url": "https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ"
       },
@@ -32484,6 +32564,32 @@
       "duration_ms": 150266,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
       "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
+    },
+    {
+      "album": {
+        "name": "Herz aus Stein",
+        "url": "https://open.spotify.com/album/1eWpEyZkXnhgnZRntD9LXe"
+      },
+      "artists": [
+        {
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Herz aus Stein",
+      "url": "https://open.spotify.com/track/4LgbkwOdnHJmSTtrE7fJyX"
     },
     {
       "album": {
@@ -40150,6 +40256,32 @@
       "duration_ms": 233500,
       "name": "King Sonny Black",
       "url": "https://open.spotify.com/track/4qRJsMWWpezvWOiXpz96fp"
+    },
+    {
+      "album": {
+        "name": "KINK",
+        "url": "https://open.spotify.com/album/3cASKABpbIaxVuuWJmDgY5"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        },
+        {
+          "name": "Florida Juicy",
+          "url": "https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "KINK",
+      "url": "https://open.spotify.com/track/14EdRD9IrKYh1HtkqQfTvR"
     },
     {
       "album": {
@@ -48306,7 +48438,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 139065,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
@@ -49104,7 +49236,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
@@ -53636,7 +53768,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -61011,6 +61143,28 @@
     },
     {
       "album": {
+        "name": "Rennen",
+        "url": "https://open.spotify.com/album/5Nj8bjIwgRLNyjvOGmOs2R"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Summer Cem",
+          "url": "https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Rennen",
+      "url": "https://open.spotify.com/track/6uMA4BZKZ4B6VSVZ7GsqiQ"
+    },
+    {
+      "album": {
         "name": "BORN SPINNER",
         "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
       },
@@ -61334,7 +61488,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -62966,7 +63120,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -66330,7 +66484,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -69346,6 +69500,28 @@
     {
       "album": {
         "name": "Superhelden",
+        "url": "https://open.spotify.com/album/22n50SX5TD2BAHb1D88a0X"
+      },
+      "artists": [
+        {
+          "name": "YBRE",
+          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
+        },
+        {
+          "name": "CAMO23",
+          "url": "https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93235,
+      "name": "Superhelden",
+      "url": "https://open.spotify.com/track/1vY2Hzn6UbgF9HiECwclQI"
+    },
+    {
+      "album": {
+        "name": "Superhelden",
         "url": "https://open.spotify.com/album/6pmcoFuGUefVjIKPSil3rg"
       },
       "artists": [
@@ -69360,7 +69536,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 93235,
       "name": "Superhelden",
       "url": "https://open.spotify.com/track/2atD9qfo7yZKfT70Iv2Jxn"
@@ -69792,7 +69968,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -76829,6 +77005,24 @@
     },
     {
       "album": {
+        "name": "VISION (INTRO)",
+        "url": "https://open.spotify.com/album/0OPzdA2emA2UbB5FJGUmxz"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109441,
+      "name": "VISION (INTRO)",
+      "url": "https://open.spotify.com/track/1A6oUBSDedhEHOQ5500Sd7"
+    },
+    {
+      "album": {
         "name": "CATCH ME IF YOU CAN",
         "url": "https://open.spotify.com/album/0wqQ5avF8r5DKkQKSYb5bm"
       },
@@ -78348,7 +78542,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"
@@ -79528,6 +79722,24 @@
       "duration_ms": 123887,
       "name": "Wenn du l\u00e4chelst",
       "url": "https://open.spotify.com/track/47mweMIEiVG1VTURjooVdU"
+    },
+    {
+      "album": {
+        "name": "Wenn du mich fragst",
+        "url": "https://open.spotify.com/album/6l87GOu0euHJoyX4Klocvf"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173769,
+      "name": "Wenn du mich fragst",
+      "url": "https://open.spotify.com/track/0qMoR2ZhKTy3YhaNHooZkP"
     },
     {
       "album": {
@@ -82130,6 +82342,24 @@
       "duration_ms": 225000,
       "name": "XABAT",
       "url": "https://open.spotify.com/track/1V6qGsDqgKZwrX5dy5PPuA"
+    },
+    {
+      "album": {
+        "name": "Xalaz",
+        "url": "https://open.spotify.com/album/26D652CYIrNejDCUCGyzpF"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92653,
+      "name": "Xalaz",
+      "url": "https://open.spotify.com/track/0sDIf1TRUDEtrlNI2NNk7w"
     },
     {
       "album": {

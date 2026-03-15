@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,820 likes - 30 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,936 likes - 30 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Feel Alive](https://open.spotify.com/track/2FEX5FsL3DeU33zOThyO56) | [Andor Gabriel](https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc) | [Feel Alive](https://open.spotify.com/album/4pyS5ZswPzVdmiIpZqUVoP) | 3:52 |
 | 30 | [222](https://open.spotify.com/track/7cCYXwe0HnQjVIHKX9IBdg) | [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [222](https://open.spotify.com/album/41e91XrUiRNfYvQJaA0X68) | 4:01 |
 
-Snapshot ID: `AAAAAEwurLGDME4uJGCVkJCgIpnbUKzG`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

@@ -4,7 +4,7 @@
 
 > Chasing that runner's high!
 
-409 songs - 22 hr 11 min
+410 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:44 | 2023-11-09 | 2025-05-22 |
 | [Praying \- Frank Walker Remix](https://open.spotify.com/track/00L5zl0hO6lO069lzRWNkW) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Praying \(The Remixes\)](https://open.spotify.com/album/7E56IANYZex5WABvAeYRIB) | 2:59 | 2022-08-12 | 2022-10-29 |
 | [pressure](https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [all my exes live in brooklyn](https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9) | 2:41 | 2025-10-17 |  |
+| [Problemsss](https://open.spotify.com/track/6xkrfrsmz7GWkIbmPd7owG) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [Problemsss](https://open.spotify.com/album/3UguD39PJXiEKE6OIrIvce) | 2:47 | 2026-03-13 |  |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2024-10-25 |  |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 | 2025-02-17 |
 | [Queen Of The Crazy](https://open.spotify.com/track/0ZxYCj3dTnQeeodOBm2fVh) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Queen Of The Crazy](https://open.spotify.com/album/5w0Rvnu7ZpmbSgp05qqJEu) | 2:59 | 2025-10-31 | 2025-12-03 |
@@ -379,7 +380,7 @@
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2025-01-10 |  |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-05-02 | 2026-02-14 |
 | [Too Fast](https://open.spotify.com/track/7noH2kshIzLptuib0hIPkS) | [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Too Fast](https://open.spotify.com/album/0MqfOlBW188yelyfmhzA9T) | 2:46 | 2026-01-23 | 2026-02-28 |
-| [TOXIC](https://open.spotify.com/track/2FxKyhizA2hru1oVIZk27d) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [ATIANA](https://open.spotify.com/artist/2bhiJLNLJSfOS4afMu7N1c) | [TOXIC](https://open.spotify.com/album/2SCB8oCt0T27br3rivlB72) | 3:39 | 2025-11-07 |  |
+| [TOXIC](https://open.spotify.com/track/2FxKyhizA2hru1oVIZk27d) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [ATIANA](https://open.spotify.com/artist/2bhiJLNLJSfOS4afMu7N1c) | [TOXIC](https://open.spotify.com/album/2SCB8oCt0T27br3rivlB72) | 3:39 | 2025-11-07 | 2026-03-15 |
 | [Tsunami](https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8) | 3:56 | 2024-11-22 | 2025-10-18 |
 | [Turn off the Lights \- Cages Remix](https://open.spotify.com/track/5JeBHduTGxXxytZFXBcIlB) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt), [Cages](https://open.spotify.com/artist/1Ck15KzRcbdOiyLRvw13QJ) | [Turn off the Lights](https://open.spotify.com/album/132voEBLKSWmTV959PQuiC) | 3:28 | 2024-01-19 | 2025-03-29 |
 | [Turn The Tide](https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Turn The Tide](https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2) | 2:59 | 2024-07-26 | 2025-08-13 |

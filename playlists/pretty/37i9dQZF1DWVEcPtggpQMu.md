@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,519 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,559 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 16 | [BY ANY MEANS](https://open.spotify.com/track/6KjXAZpsVpVP296z0BEasz) | [J Clu](https://open.spotify.com/artist/4chXn8lojY5U525zyqdx9z), [Jords](https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx) | [BY ANY MEANS](https://open.spotify.com/album/71knJlZxdeqJjfAZ5TRiCB) | 2:19 |
 | 17 | [LALALA](https://open.spotify.com/track/1I0jor58utSOA7keFCh4Kx) | [jaykatana](https://open.spotify.com/artist/0LTpOj4R3IrWZAkwKqHqLj) | [LALALA](https://open.spotify.com/album/0Zx8gVrI5XomN6YfbPf4ab) | 2:20 |
 | 18 | [Call Me \(feat\. Wang!\)](https://open.spotify.com/track/4mtRatzxiXG7auZsaubIDv) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Wang!](https://open.spotify.com/artist/2ixKfrBGKPGHp09eSFAcS7) | [Call Me \(feat\. Wang!\)](https://open.spotify.com/album/5NfUkaBOtCmrKYSCies6Vu) | 4:25 |
-| 19 | [IMALI](https://open.spotify.com/track/4A5avbIXZ2n4mUt2J14gNb) | [BhutLegend](https://open.spotify.com/artist/25BCKfqdyR3hrL0uaQyhAp), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR), [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY) | [IMALI](https://open.spotify.com/album/6TenovlnJaVeJlK0783B3w) | 4:48 |
+| 19 | [IMALI](https://open.spotify.com/track/4A5avbIXZ2n4mUt2J14gNb) | [BhutLegend](https://open.spotify.com/artist/25BCKfqdyR3hrL0uaQyhAp), [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Ifani](https://open.spotify.com/artist/2tZaBvH4Jet46VVqDYYgqR) | [IMALI](https://open.spotify.com/album/6TenovlnJaVeJlK0783B3w) | 4:48 |
 | 20 | [INTO THE PARTY](https://open.spotify.com/track/6r91Szpmq51oHXBkNNhjx4) | [Tame Tiger](https://open.spotify.com/artist/1DsLaNaZ6M8bkZOJt73mSh) | [UP 2 SOMETHING](https://open.spotify.com/album/6DmsVQQXX3qVPpkPMkbCWH) | 3:02 |
 | 21 | [DRiP ON ME](https://open.spotify.com/track/72CDjjcA9q6MaAkPhlCUmr) | [LesediTheDJ](https://open.spotify.com/artist/2FKK2tQCRqmTdltL1T2DK4), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Zingah](https://open.spotify.com/artist/76Xz6GsYrxBnuKkSphL7FH), [Horid The Messiah](https://open.spotify.com/artist/527Bif2FIESnEMUJeRbeIQ) | [DRiP ON ME](https://open.spotify.com/album/6UNGu8bnujsoXxVbIh6s5A) | 2:53 |
 | 22 | [eGoli](https://open.spotify.com/track/3UKUesD3zj9w1WBbfeYpDp) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [eGoli](https://open.spotify.com/album/2GknnL8wujzsYLhRWXrnab) | 3:23 |

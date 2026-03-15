@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,153 songs - 2 day 19 hr 46 min
+1,154 songs - 2 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,7 +837,7 @@
 | [ابيوسف \- كان ف صوره Abyusif](https://open.spotify.com/track/4NczU8gkpsFofsxD5yNIRj) | [torwada](https://open.spotify.com/artist/0jNcgSHVa94YUnrEDleh93) | [ابيوسف \- كان ف صوره Abyusif](https://open.spotify.com/album/2GkSbe5ieRAQfkFqJhQ80o) | 2:40 | 2022-12-23 | 2022-12-28 |
 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 | 2024-10-27 | 2026-02-08 |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-17 | 2024-09-15 |
-| [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/track/4W8CMUKfcGze5XD4ZGdo6p) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/album/1vVDhmTMbRun68fXimcLAa) | 3:36 | 2025-11-11 |  |
+| [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/track/4W8CMUKfcGze5XD4ZGdo6p) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احلي باي باي من غير ازاي \( قدم السبت هتلاقي الاحد \)](https://open.spotify.com/album/1vVDhmTMbRun68fXimcLAa) | 3:36 | 2025-11-11 | 2026-03-15 |
 | [احنا صيع منحرفين](https://open.spotify.com/track/1knAwiRcTrsScBYDFPXLlw) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احنا صيع منحرفين](https://open.spotify.com/album/7AcGD0Nl9ROGIEhMCvik7J) | 3:36 | 2024-06-09 | 2025-04-22 |
 | [اخبار اهرام الجمهوريه](https://open.spotify.com/track/1SxYgcaAOQm1XuEFAWQ0K3) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15) | [اخبار اهرام الجمهوريه](https://open.spotify.com/album/7JJDPQGvTfq2cpzM8mlYMa) | 3:46 | 2025-06-26 | 2025-11-03 |
 | [اختياراتي \- من فيلم مستر إكس](https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [اختياراتي \(من فيلم مستر إكس\)](https://open.spotify.com/album/1RJUtPJMzR9NYADVQwStNT) | 2:50 | 2023-06-22 | 2024-10-07 |
@@ -1031,6 +1031,7 @@
 | [علي راحتي](https://open.spotify.com/track/7ovuIttxBRyuJepLizxnbJ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/4YDXa3PlsqjaUdT9rClcY7) | 3:42 | 2021-03-27\* | 2021-04-14 |
 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 | 2024-06-14 | 2025-02-03 |
 | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/track/05HQf3gXwmAb8WScNvlhEt) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/album/1HiStqQC5wtvSrdyt7nc1o) | 2:38 | 2024-05-18 | 2024-06-01 |
+| [عين سحرية](https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عين سحرية](https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0) | 3:21 | 2026-03-14 |  |
 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 | 2026-03-03 | 2026-03-05 |
 | [غاغة](https://open.spotify.com/track/4dhBcmOsysqol75RKDMooX) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [شياطين](https://open.spotify.com/album/0n2l3w9YeFAHKV2PkzmKv3) | 1:56 | 2022-10-11 | 2023-03-12 |
 | [غيبنا وغاب الابداع والشغلانه لمت](https://open.spotify.com/track/35VEY9yoVhbR5hvFaMJaeU) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [غيبنا وغاب الابداع والشغلانه لمت](https://open.spotify.com/album/3qnXl1ef8DKUcCveAWeNCC) | 3:21 | 2025-02-21 | 2025-06-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269656,
+  "num_followers": 269698,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "You Gonna Want Me (I Know)",
         "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
       },
@@ -1263,30 +1283,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
-        }
-      ],
-      "duration_ms": 169098,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -1307,6 +1303,30 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/46ll2ZERjJ5Jl40uLauUsk"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 169098,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1379,26 +1399,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "This isn\u2019t what you think it is (EP)",
-        "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Circuit",
         "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
       },
@@ -1415,6 +1415,26 @@
       "duration_ms": 205517,
       "name": "Circuit",
       "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "This isn\u2019t what you think it is (EP)",
+        "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1523,26 +1543,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Through The Pain (feat. Pozer)",
-        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Through The Pain (feat. Pozer)",
-      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "WHO (You Know What I'm Waiting For)",
         "url": "https://open.spotify.com/album/5UsK5bC1PptKzN6YGNxsaH"
       },
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Rich DietZ",
-          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
-        },
-        {
-          "name": "Smith & Sorren",
-          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Loose Pt. 3",
         "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Rich DietZ",
+          "url": "https://open.spotify.com/artist/1mMlBc8LXvVOSxtaskKiE8"
+        },
+        {
+          "name": "Smith & Sorren",
+          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 129920,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Bang That",
         "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 170898,
       "name": "Bang That",
       "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/2wUoe5FrQIOGxdta7BY56D"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 129920,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "The Pit",
         "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 183724,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "ADRENOCHROME : ZERO",
+        "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 195310,
+      "name": "Sometimes / DOPAMINE++++",
+      "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "Control Myself",
         "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 249545,
       "name": "Control Myself",
       "url": "https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "ADRENOCHROME : ZERO",
-        "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 195310,
-      "name": "Sometimes / DOPAMINE++++",
-      "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -2151,6 +2151,22 @@
       "duration_ms": 168000,
       "name": "Everybody Knows - feat. IRAH",
       "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/0UvAWjafLb67zAWbT6drHo"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "duration_ms": 192193,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -2399,22 +2415,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Howweroll",
-        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "Howweroll",
-      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Free Ya",
         "url": "https://open.spotify.com/album/0Q8ViWDUJgyEPbYiIbQq7S"
       },
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "Howweroll",
+        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        }
+      ],
+      "duration_ms": 155483,
+      "name": "Howweroll",
+      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "Ur Not Invited",
         "url": "https://open.spotify.com/album/37ZdIROabEs0emRlk5Pn0L"
       },
@@ -2443,26 +2459,6 @@
       "duration_ms": 210909,
       "name": "Ur Not Invited",
       "url": "https://open.spotify.com/track/43KDztssiBwY3pbMeMUNmb"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "harry osborn",
-        "url": "https://open.spotify.com/album/3ZLwhiFAxTMFWq6ExlrpJU"
-      },
-      "artists": [
-        {
-          "name": "jamvvis",
-          "url": "https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF"
-        },
-        {
-          "name": "Shanic",
-          "url": "https://open.spotify.com/artist/4iwYvUGOkgKYbCF0rcmJay"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "bad hackers",
-      "url": "https://open.spotify.com/track/3g7aCFjSLwEIDwPrCd1vMs"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -2487,18 +2483,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "ERRRDAY",
-        "url": "https://open.spotify.com/album/3gqAD81mGL41C8dkmLuB4h"
+        "name": "harry osborn",
+        "url": "https://open.spotify.com/album/3ZLwhiFAxTMFWq6ExlrpJU"
       },
       "artists": [
         {
-          "name": "The Holy",
-          "url": "https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz"
+          "name": "jamvvis",
+          "url": "https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF"
+        },
+        {
+          "name": "Shanic",
+          "url": "https://open.spotify.com/artist/4iwYvUGOkgKYbCF0rcmJay"
         }
       ],
-      "duration_ms": 201617,
-      "name": "ERRRDAY",
-      "url": "https://open.spotify.com/track/1aUOWXtItL7nOSzUbaUGTq"
+      "duration_ms": 191724,
+      "name": "bad hackers",
+      "url": "https://open.spotify.com/track/3g7aCFjSLwEIDwPrCd1vMs"
     }
   ],
   "unique_name": "Bangers",

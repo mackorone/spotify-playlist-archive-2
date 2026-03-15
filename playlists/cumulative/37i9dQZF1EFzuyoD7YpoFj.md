@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-675 songs - 1 day 12 hr 19 min
+676 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [Banana Split For My Baby \- Remastered](https://open.spotify.com/track/3PgViCIEmAnUjE6OkpHfCJ) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW), [Keely Smith](https://open.spotify.com/artist/0vQqxnQk1G32RtjSAFq3z1), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [The Wildest! \(Expanded Edition\)](https://open.spotify.com/album/4icS85G6VGPbFlB9UGPxct) | 2:31 | 2024-07-24 | 2025-06-28 |
 | [Be A Clown](https://open.spotify.com/track/6NbXDlKG67qnAkkFWaqkbC) | [Roy Castle](https://open.spotify.com/artist/324xt1Bk9XVPyKcdPp6Fvw) | [Singin' in the Rain \(Original Cast Recording\)](https://open.spotify.com/album/0gkUILRS323Or4XhOPHMhn) | 2:23 | 2024-07-24 |  |
 | [Be Like the Blue Bird](https://open.spotify.com/track/1VCLebfSBPVcphzJyff02N) | [Joel Grey](https://open.spotify.com/artist/64WqSGPXrSf1YbxoimVNbd) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:33 | 2025-06-27 |  |
+| [Begin the Beguine](https://open.spotify.com/track/6YrS3wzfNyElJIBI95x3Fh) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Sonidos Del Amazonas](https://open.spotify.com/album/2okNTtLspZqABFe7Pn7cxI) | 2:58 | 2026-03-14 |  |
 | [Begin the Beguine \- Versión Alternativa](https://open.spotify.com/track/08Mkx3CzMCnsRCgdmydLEo) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:50 | 2024-07-24 | 2024-12-13 |
 | [Begin The Beguine \- Versión Alternativa](https://open.spotify.com/track/5b0sXfcHJQESX3cqzNlS1C) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Ecos del Llano](https://open.spotify.com/album/1DyxBZDqwHfHScePM56zE7) | 2:58 | 2024-12-14 | 2025-12-18 |
 | [Begin the Beguine \- Versión Alternativa](https://open.spotify.com/track/6sufMyIW6SE5FR53mIZxLI) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Fiesta Y Guitarra](https://open.spotify.com/album/1ExAHh9dXXiYgmaAQBoBHZ) | 2:58 | 2025-12-21 | 2026-03-09 |
-| [Beguin The Beguin](https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Lo Mejor de los Indios Tabajaras](https://open.spotify.com/album/3edF3RAq1O9WRVmMSW52xU) | 2:58 | 2024-12-12 |  |
+| [Beguin The Beguin](https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Lo Mejor de los Indios Tabajaras](https://open.spotify.com/album/3edF3RAq1O9WRVmMSW52xU) | 2:58 | 2024-12-12 | 2026-03-15 |
 | [Between You and Me](https://open.spotify.com/track/5Lxv5Hq08wdPKkJGajwoZB) | [kazemaru](https://open.spotify.com/artist/21dXDRr189OA3FpGA1Evig) | [Running on a Knife\-Edge](https://open.spotify.com/album/4pjVHrqf901239z7oschzQ) | 4:51 | 2025-09-12 |  |
 | [Between You and Me](https://open.spotify.com/track/4BstoiptB4aehSZzSpYvIn) | [Оскар](https://open.spotify.com/artist/5BvGivKcddTxmnABDkMyan) | [Running on a Knife\-Edge](https://open.spotify.com/album/75h6VRL47NaHpPe53q91br) | 4:52 | 2025-09-10 | 2025-09-13 |
 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 | 2024-07-24 |  |

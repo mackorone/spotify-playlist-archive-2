@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 561373,
+  "num_followers": 561481,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAAAqrkh3fCJa1GZQq5jwKYiQ",
+  "snapshot_id": "abNTgAAAAAAH6+bKDx9XkmPBs4WIx/Q0",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 214666,
-      "name": "Everything I've Known",
-      "url": "https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ"
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt"
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP"
+      "duration_ms": 214666,
+      "name": "Everything I've Known",
+      "url": "https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ"
     },
     {
       "added_at": null,

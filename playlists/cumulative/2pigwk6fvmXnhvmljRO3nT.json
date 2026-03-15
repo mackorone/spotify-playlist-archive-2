@@ -16149,6 +16149,28 @@
     },
     {
       "album": {
+        "name": "Swagger Symphony",
+        "url": "https://open.spotify.com/album/2mCVFvLKWdynWECEXmCett"
+      },
+      "artists": [
+        {
+          "name": "Boris Nonte",
+          "url": "https://open.spotify.com/artist/3EvnDQ9GqimRR7VXVPRAw4"
+        },
+        {
+          "name": "Tommy Gunn M\u00fcller",
+          "url": "https://open.spotify.com/artist/5XsjKU4IBPna8p4cxhI35O"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143492,
+      "name": "Bitten Bullet",
+      "url": "https://open.spotify.com/track/6CWrAMXTSfq26cYZhX1Jmg"
+    },
+    {
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY"
       },

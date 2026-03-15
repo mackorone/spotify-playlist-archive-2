@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2lNvvHWi0K3J6KSpmUUPKn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192969,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON"
+    },
+    {
+      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -616,7 +638,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 134001,
       "name": "Devil Go Away (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"

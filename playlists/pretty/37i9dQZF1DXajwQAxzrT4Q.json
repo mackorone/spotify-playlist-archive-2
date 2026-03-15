@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 91161,
+  "num_followers": 91179,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-02-02 22:17:06",
       "album": {
+        "name": "Vibe (If I Back It Up)",
+        "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
+      },
+      "artists": [
+        {
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        }
+      ],
+      "duration_ms": 83940,
+      "name": "Vibe (If I Back It Up)",
+      "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
+    },
+    {
+      "added_at": "2026-02-02 22:17:06",
+      "album": {
         "name": "Bryson Tiller",
         "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 144112,
       "name": "Random Access Memory [RAM] (feat. Clara La San)",
       "url": "https://open.spotify.com/track/6R55Qoa7SRZ744U85UdMVp"
-    },
-    {
-      "added_at": "2026-02-02 22:17:06",
-      "album": {
-        "name": "Vibe (If I Back It Up)",
-        "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 83940,
-      "name": "Vibe (If I Back It Up)",
-      "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
     },
     {
       "added_at": "2026-02-02 22:17:06",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-02-02 22:17:06",
       "album": {
-        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
-        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
-      },
-      "artists": [
-        {
-          "name": "DJ SoulChild AC",
-          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
-        },
-        {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
-        }
-      ],
-      "duration_ms": 92212,
-      "name": "Anytime I Want, Pt. 2",
-      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
-    },
-    {
-      "added_at": "2026-02-02 22:17:06",
-      "album": {
         "name": "Price Going Up",
         "url": "https://open.spotify.com/album/0zgiDICJXDygNbxUAhn9mb"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 135272,
       "name": "Price Going Up",
       "url": "https://open.spotify.com/track/2T3VMqOKUjnK31A3roI3oe"
+    },
+    {
+      "added_at": "2026-02-02 22:17:06",
+      "album": {
+        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
+        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
+      },
+      "artists": [
+        {
+          "name": "DJ SoulChild AC",
+          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
+        },
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "duration_ms": 92212,
+      "name": "Anytime I Want, Pt. 2",
+      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
     },
     {
       "added_at": "2026-02-02 22:17:06",
@@ -1399,22 +1399,22 @@
     {
       "added_at": "2026-02-02 22:17:06",
       "album": {
-        "name": "100% Pure Love (UNIIQU3 Remix)",
-        "url": "https://open.spotify.com/album/0snVlqrONcCE5xKYxs3Dpx"
+        "name": "say im ur luv (Jumbo Sounds Remix)",
+        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         },
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "Jumbo Sounds",
+          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
         }
       ],
-      "duration_ms": 170666,
-      "name": "100% Pure Love - UNIIQU3 Remix",
-      "url": "https://open.spotify.com/track/0aCcAr2o7IPxGRxZ6e3rzF"
+      "duration_ms": 137032,
+      "name": "say im ur luv - Jumbo Sounds Remix",
+      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     }
   ],
   "unique_name": "Jersey Club Heat",

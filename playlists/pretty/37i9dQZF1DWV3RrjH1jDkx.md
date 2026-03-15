@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Tobias Sten, Arif Murakami og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,597 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,627 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 64 | [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 |
 | 65 | [Can't Sit Still](https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Can't Sit Still](https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc) | 3:35 |
 | 66 | [Undefeated Champion](https://open.spotify.com/track/6M0a5aKnnNXMFULdUjJvEP) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Undefeated Champion](https://open.spotify.com/album/5Gc3bYK9C3wSjYfbJW18ol) | 3:34 |
-| 67 | [Who's Gonna Save You Know](https://open.spotify.com/track/2ZpBvJt3TKdHcukNUWoEn0) | [Herkedal](https://open.spotify.com/artist/5P4D2OvmuDt0fobcdksEBF) | [Who's Gonna Save You Now](https://open.spotify.com/album/66U1ecPDI6codLdKS4tHDm) | 4:05 |
+| 67 | [Who's Gonna Save You Now](https://open.spotify.com/track/2ZpBvJt3TKdHcukNUWoEn0) | [Herkedal](https://open.spotify.com/artist/5P4D2OvmuDt0fobcdksEBF) | [Who's Gonna Save You Now](https://open.spotify.com/album/66U1ecPDI6codLdKS4tHDm) | 4:05 |
 | 68 | [After The Fall](https://open.spotify.com/track/5G6w0VZNhSBMtXjzv9x0le) | [Rae](https://open.spotify.com/artist/30IgI1X3LgzrsTBCdEaJMU) | [After The Fall](https://open.spotify.com/album/1lnv8rnz6BcZjdgMjzLB1B) | 2:48 |
 | 69 | [BE WITH U](https://open.spotify.com/track/2SZgyWAVTXWejEAnjr0p6q) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [BE WITH U](https://open.spotify.com/album/0nKbQ35mOu0uFHsRqgdoSX) | 2:56 |
 | 70 | [Give Me Things](https://open.spotify.com/track/6GcHRWtHVTHkzfRembnVJg) | [Great News](https://open.spotify.com/artist/1WHajfp2523yhbNuj7TtXY) | [Give Me Things](https://open.spotify.com/album/53iSAVTuaNSja6aKexgxI5) | 3:55 |

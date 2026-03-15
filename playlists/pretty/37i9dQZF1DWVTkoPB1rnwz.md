@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,163 likes - 152 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,207 likes - 152 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 151 | [Don't Let This Feeling](https://open.spotify.com/track/2W6Xyj96U9ujqDPgzNMKBM) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 2:52 |
 | 152 | [Birdsong](https://open.spotify.com/track/0tPzmdqEv8Fv67xCPbOvvr) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Sachelah](https://open.spotify.com/artist/3LMYMmfN8KWb69IeqXoVin), [theNairobiNomad](https://open.spotify.com/artist/2tWbNgLqq5FAIN29T1v3k6) | [Birdsong](https://open.spotify.com/album/3ebDMwsMbEARgvC29iNQga) | 4:15 |
 
-Snapshot ID: `AAAAAH2p2r8Qw3VssFvdhF0htNMVJQ/k`
+Snapshot ID: `AAAAAOxX+e6qPKJhM6wwHfK6yBQhPaPi`

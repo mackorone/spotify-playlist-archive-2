@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 
 > This is Azzy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,235 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,234 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0P1Sng.md) - [plain]
 | 46 | [VÍBORA](https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK) | [funBABE](https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [VÍBORA](https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU) | 3:25 |
 | 47 | [Caso Perdido](https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Minha Ex é Minha Maior Fã](https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw) | 2:51 |
 | 48 | [Sua Intenção](https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Spinnheli](https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud) | [Sua Intenção](https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS) | 2:11 |
-| 49 | [Azzy On The Radar Freestyle](https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Azzy On The Radar Freestyle](https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV) | 2:21 |
-| 50 | [São Gonçalo](https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 2:52 |
+| 49 | [São Gonçalo](https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [BocaDosBeats](https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw) | [Rímel](https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ) | 2:52 |
+| 50 | [Azzy On The Radar Freestyle](https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Azzy On The Radar Freestyle](https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV) | 2:21 |
 
-Snapshot ID: `abICAAAAAADwJKqVp4Fo6/bllSbqjc9b`
+Snapshot ID: `abNTgAAAAAB9uIERyXN7gNLOA6tvnsBA`

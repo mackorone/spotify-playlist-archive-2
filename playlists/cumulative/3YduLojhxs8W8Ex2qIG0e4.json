@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Whole Lotta Lying",
+        "url": "https://open.spotify.com/album/3V4aCFXjH0JKJ76V0lUMqi"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "Whole Lotta Lying",
+      "url": "https://open.spotify.com/track/22MDQBuRfCxTxBKg6uLm5D"
+    },
+    {
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq"
       },

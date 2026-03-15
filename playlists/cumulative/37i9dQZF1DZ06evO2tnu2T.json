@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Anniversary (H&M&REDSTAGE)",
+        "url": "https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201338,
+      "name": "Heartbreak Anniversary - H&M&REDSTAGE",
+      "url": "https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa"
+    },
+    {
+      "album": {
         "name": "Paracosm",
         "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
       },
@@ -644,6 +662,28 @@
       "duration_ms": 161524,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/5zcAYd9lajmg2DW8MMq5Jy"
+    },
+    {
+      "album": {
+        "name": "Friends From Your Hometown",
+        "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Walls (feat. Absolutely) - Live",
+      "url": "https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw"
     },
     {
       "album": {

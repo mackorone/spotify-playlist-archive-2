@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92869,
+  "num_followers": 92894,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "hi, i'm dante",
-        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 116349,
-      "name": "movinglikeazombie",
-      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Hey QT",
         "url": "https://open.spotify.com/album/2j4oAo8L6xpAmJsCi5cL7W"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235567,
       "name": "Hey QT",
       "url": "https://open.spotify.com/track/7nJoufbWvXXIcOLyDEci8t"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "hi, i'm dante",
+        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 116349,
+      "name": "movinglikeazombie",
+      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "HIGHSCHOOLUNDEAD",
+        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
+      },
+      "artists": [
+        {
+          "name": "Kid Trash",
+          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "MY WORLD",
+      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "Drop FM",
         "url": "https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 170933,
       "name": "Drop FM",
       "url": "https://open.spotify.com/track/1HRvDMrEj64C6yoJeoH7uu"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "HIGHSCHOOLUNDEAD",
-        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
-      },
-      "artists": [
-        {
-          "name": "Kid Trash",
-          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "MY WORLD",
-      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        },
-        {
-          "name": "BFOTY",
-          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Black Rum",
         "url": "https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 146946,
       "name": "Black Rum",
       "url": "https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "BFOTY",
+          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1487,6 +1487,22 @@
       "duration_ms": 145610,
       "name": "#BrooklynBloodPop!",
       "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/4GeJvEBQfLfHSbwBsywjNv"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/2ayE3eeIsWpmuSFdeyFlVe"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "BFF",
         "url": "https://open.spotify.com/album/4pzC10czTKZvSGLISiVOMD"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 215729,
       "name": "BFF",
       "url": "https://open.spotify.com/track/2uvmVeBZ2YLk8jPVQnOFsI"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "i hate it here",
+        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 157144,
+      "name": "i hate it here",
+      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "i hate it here",
-        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 157144,
-      "name": "i hate it here",
-      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "glittr",
         "url": "https://open.spotify.com/album/3wJ9bGtFOOQQ0kzP4Bhh2h"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 159719,
       "name": "glittr",
       "url": "https://open.spotify.com/track/6rsuyY8DWNwngUuchlWTx2"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "scawy monstews and nice spwites :3",
+        "url": "https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp"
+      },
+      "artists": [
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 96705,
+      "name": "scawy monstews and nice spwites :3",
+      "url": "https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1699,22 +1715,6 @@
       "duration_ms": 157752,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "scawy monstews and nice spwites :3",
-        "url": "https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp"
-      },
-      "artists": [
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 96705,
-      "name": "scawy monstews and nice spwites :3",
-      "url": "https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O"
     },
     {
       "added_at": "2024-10-09 21:55:22",

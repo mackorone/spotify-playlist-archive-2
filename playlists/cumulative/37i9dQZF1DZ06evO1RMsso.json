@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "The Fabelmans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133293,
+      "name": "The Fabelmans",
+      "url": "https://open.spotify.com/track/0hQH6GWZcT0KTx8ZMWezBl"
+    },
+    {
+      "album": {
         "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
       },

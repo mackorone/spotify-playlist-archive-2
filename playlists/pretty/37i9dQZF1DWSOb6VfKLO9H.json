@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 106787,
+  "num_followers": 106815,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hard Work Pays Off 2",
+        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 190996,
+      "name": "Mi No Lob",
+      "url": "https://open.spotify.com/track/3j8K6U3xzXjrhNojLanVFz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "R\u00e9mi",
         "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 197727,
       "name": "Come Again",
       "url": "https://open.spotify.com/track/0bWzmIbEKh0xFRb1pTSQAw"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hard Work Pays Off 2",
-        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 190996,
-      "name": "Mi No Lob",
-      "url": "https://open.spotify.com/track/3j8K6U3xzXjrhNojLanVFz"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -383,34 +383,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vestival Presents Meisjes Blijven Meisjes",
-        "url": "https://open.spotify.com/album/5WHSsJ9oy5HyYJG6ImDypg"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Two Crooks",
-          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Meisjes Blijven Meisjes",
-      "url": "https://open.spotify.com/track/2hXMXk9oDfndwPMg3Fqmmj"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "We Moeten Door",
         "url": "https://open.spotify.com/album/5pSpczaiQq2pXJlFOeGHqE"
       },
@@ -443,6 +415,34 @@
       "duration_ms": 165077,
       "name": "Vakantie (with Jonna Fraser)",
       "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Vestival Presents Meisjes Blijven Meisjes",
+        "url": "https://open.spotify.com/album/5WHSsJ9oy5HyYJG6ImDypg"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Two Crooks",
+          "url": "https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Meisjes Blijven Meisjes",
+      "url": "https://open.spotify.com/track/2hXMXk9oDfndwPMg3Fqmmj"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Hella Cash",
-        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 175663,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hard Work Pays Off",
         "url": "https://open.spotify.com/album/30r2xjD5wI2snJXHZZhtnU"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 286073,
       "name": "Alaka",
       "url": "https://open.spotify.com/track/1VUBnozAZ9KRY9mYzaSWM1"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Hella Cash",
+        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 175663,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Hard Work Pays Off 2",
+        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 207398,
+      "name": "Ik Was Al Binnen",
+      "url": "https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 164900,
       "name": "Dansen Op Labanta",
       "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hard Work Pays Off 2",
-        "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 207398,
-      "name": "Ik Was Al Binnen",
-      "url": "https://open.spotify.com/track/7L50xSfZiTi0uxgKLKGL7D"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
-      },
-      "artists": [
-        {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
-        }
-      ],
-      "duration_ms": 146794,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gimma",
         "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 148428,
       "name": "Waarom Zoeken Naar Liefde",
       "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
+      },
+      "artists": [
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "duration_ms": 146794,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1VsClV89BOYGlN7RITBHYc"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Hele Meneer #Dingems - EP",
-        "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
-      },
-      "artists": [
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "Hele Meneer",
-      "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Lekker He",
         "url": "https://open.spotify.com/album/52sxl0uuG2n7k9F8Rfnnrh"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 145681,
       "name": "Lekker He",
       "url": "https://open.spotify.com/track/5x6UGX0Rial4wHGq66yw1M"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Hele Meneer #Dingems - EP",
+        "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
+      },
+      "artists": [
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 163263,
+      "name": "Hele Meneer",
+      "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
     },
     {
       "added_at": "2024-07-19 06:38:33",

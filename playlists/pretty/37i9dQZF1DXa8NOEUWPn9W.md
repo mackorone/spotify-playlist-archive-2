@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,949,551 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,949,603 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 22 | [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 |
 | 23 | [I Never Knew \- Shiba San Remix](https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa), [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [I Never Knew \(Shiba San Remix\)](https://open.spotify.com/album/1eVixJvu9p4VrdjT5lmhdp) | 2:38 |
 | 24 | [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 |
-| 25 | [Freaky Freqz](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freaky Freqz](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
+| 25 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
 | 26 | [WHAT?!](https://open.spotify.com/track/7s3T3e0lbzV4l7i4F7JVmp) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [WHAT?!](https://open.spotify.com/album/3UjpGkt987CyttBrXfKy4U) | 2:55 |
 | 27 | [Push The Vibe](https://open.spotify.com/track/6tpo6T9msGhFT7NJRo1D53) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Dee Diggs](https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 2:54 |
 | 28 | [XTC](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [XTC](https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV) | 3:02 |

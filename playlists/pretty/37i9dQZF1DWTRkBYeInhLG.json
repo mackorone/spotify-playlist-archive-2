@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 500450,
+  "num_followers": 500489,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Bunga Abadi",
-        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
-      },
-      "artists": [
-        {
-          "name": "Rio Clappy",
-          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
-        }
-      ],
-      "duration_ms": 243038,
-      "name": "Bunga Abadi",
-      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Walking Back Home",
         "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Evaluasi (Reprise)",
-        "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
         }
       ],
-      "duration_ms": 193421,
-      "name": "Evaluasi (Reprise)",
-      "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -815,6 +799,22 @@
       "duration_ms": 325973,
       "name": "Satu Yang Tak Bisa Lepas",
       "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Evaluasi (Reprise)",
+        "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Evaluasi (Reprise)",
+      "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Dia",
-        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
-      },
-      "artists": [
-        {
-          "name": "Anji",
-          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
-        }
-      ],
-      "duration_ms": 207490,
-      "name": "Dia",
-      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Alexa",
         "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 241000,
       "name": "Jangan Kau Lepas",
       "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Dia",
+        "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
+      },
+      "artists": [
+        {
+          "name": "Anji",
+          "url": "https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N"
+        }
+      ],
+      "duration_ms": 207490,
+      "name": "Dia",
+      "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Katakan Saja",
-        "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
+        "name": "Dengan Caraku",
+        "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
       },
       "artists": [
         {
-          "name": "Khifnu",
-          "url": "https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7"
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        },
+        {
+          "name": "Brisia Jodie",
+          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
         }
       ],
-      "duration_ms": 263053,
-      "name": "Katakan Saja",
-      "url": "https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF"
+      "duration_ms": 272631,
+      "name": "Dengan Caraku",
+      "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1243,22 +1247,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Dengan Caraku",
-        "url": "https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo"
+        "name": "Katakan Saja",
+        "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
       },
       "artists": [
         {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        },
-        {
-          "name": "Brisia Jodie",
-          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
+          "name": "Khifnu",
+          "url": "https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7"
         }
       ],
-      "duration_ms": 272631,
-      "name": "Dengan Caraku",
-      "url": "https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq"
+      "duration_ms": 263053,
+      "name": "Katakan Saja",
+      "url": "https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF"
     },
     {
       "added_at": "2026-02-27 14:15:43",

@@ -4395,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "Kaadhal Mazhai",
+        "url": "https://open.spotify.com/album/6RrWEPn2MK7weXFml7VoGc"
+      },
+      "artists": [
+        {
+          "name": "Satish GM Benilda",
+          "url": "https://open.spotify.com/artist/5ZTqNLoPXr3MQwxbCeYi9B"
+        },
+        {
+          "name": "Alisha Mathew Thayil",
+          "url": "https://open.spotify.com/artist/4qqgPPYCo4LUdFqrhvb0Oo"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Kaadhal Mazhai",
+      "url": "https://open.spotify.com/track/4Y30WM8dndBVZQohdrM81d"
+    },
+    {
+      "album": {
         "name": "Kaadhal Mugil",
         "url": "https://open.spotify.com/album/55TpCaFAhnwHC3vxn3rCNT"
       },
@@ -14030,6 +14052,28 @@
       "duration_ms": 195971,
       "name": "Unmai Kaadhale",
       "url": "https://open.spotify.com/track/5E9GzGPdM6ce16LEa3rE5C"
+    },
+    {
+      "album": {
+        "name": "Unna Paatha Naa",
+        "url": "https://open.spotify.com/album/1sFYocQAHVa1IAs1tiHGxp"
+      },
+      "artists": [
+        {
+          "name": "Ritin Samuel",
+          "url": "https://open.spotify.com/artist/2nL8a1g4WhOGOVkZtTWMEr"
+        },
+        {
+          "name": "Serene Thabita",
+          "url": "https://open.spotify.com/artist/3aQDxrRtzFMMO8AJWXr8KW"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Unna Paatha Naa",
+      "url": "https://open.spotify.com/track/5Hymn39VBqYksIsd3mwtZX"
     },
     {
       "album": {

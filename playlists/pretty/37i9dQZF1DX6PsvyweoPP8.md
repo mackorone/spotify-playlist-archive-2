@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,005 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,029 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 2 | [VIBE](https://open.spotify.com/track/7hhWcIKJmHyh2OHFNV4B4M) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [ÊXTASE](https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF) | 2:34 |
 | 3 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
 | 4 | [Pente e Rala](https://open.spotify.com/track/0rziLToFoDPVwBWEYt2lIA) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [ayo white](https://open.spotify.com/artist/4QqroK2g4AEB3FEnSjutjU) | [Pente e Rala](https://open.spotify.com/album/0dWVRvAta9n35DTYIvHQh7) | 2:24 |
-| 5 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
+| 5 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
 | 6 | [Gabriela](https://open.spotify.com/track/38P7D5dzZ7l5FSnhd7Ld0b) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Gabriela](https://open.spotify.com/album/3jcJYhr956hPIyMf6xx7BW) | 3:22 |
 | 7 | [Perfil \#129 \- Meiga e Singela](https://open.spotify.com/track/2f9ICEXnqkUyTekTiTkGE9) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Perfil \#129 \- Meiga e Singela](https://open.spotify.com/album/0ueO84dd0UdhF3Rgs3CDjx) | 2:10 |
 | 8 | [ERYKAH](https://open.spotify.com/track/10IVvwVAJqb9QFU0T4AOU1) | [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [HIDE](https://open.spotify.com/artist/7b4O7FQmT1eO3ieJArBYcC) | [ERYKAH](https://open.spotify.com/album/5s38lhSkvmDoTTaWneeGYA) | 3:00 |

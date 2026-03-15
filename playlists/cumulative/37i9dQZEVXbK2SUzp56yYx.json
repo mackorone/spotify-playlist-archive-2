@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -10751,6 +10751,24 @@
     },
     {
       "album": {
+        "name": "How Deep Is Your Love (Studio Version)",
+        "url": "https://open.spotify.com/album/4FXA0mCgS5Ur4XDxIH3PKw"
+      },
+      "artists": [
+        {
+          "name": "Underdog",
+          "url": "https://open.spotify.com/artist/2CpYSnguHahDTkIO4EGAM1"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151239,
+      "name": "How Deep Is Your Love - Studio Version",
+      "url": "https://open.spotify.com/track/5UHG80Meo2tfsi98NiY6Pz"
+    },
+    {
+      "album": {
         "name": "hunter eyes (slowed)",
         "url": "https://open.spotify.com/album/5Q55gtBcXuXiObgSwSNhNs"
       },
@@ -11872,10 +11890,28 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 174512,
       "name": "INDIAN",
       "url": "https://open.spotify.com/track/3ehgeDLSEqIXb5oF0t1XpP"
+    },
+    {
+      "album": {
+        "name": "WOMANIZER",
+        "url": "https://open.spotify.com/album/4plKHPJPUMDYjk2DcFBQqp"
+      },
+      "artists": [
+        {
+          "name": "SQWOZ BAB",
+          "url": "https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174512,
+      "name": "INDIAN",
+      "url": "https://open.spotify.com/track/5K4kGlwFdzI2p0W4L1CPUW"
     },
     {
       "album": {
@@ -12866,7 +12902,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "KOSHKA",
       "url": "https://open.spotify.com/track/1kPu8w1fpqXBFutRpwSgfR"
@@ -13784,7 +13820,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 134141,
       "name": "Looping the Rooms",
       "url": "https://open.spotify.com/track/6IvPX0MmJo8Z1RswPfZUmO"
@@ -17074,7 +17110,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -20364,7 +20400,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 220879,
       "name": "Real Love (ECHOVIBE REMIX)",
       "url": "https://open.spotify.com/track/6piay6Vm2WYeN7MSqtrVD3"
@@ -21038,6 +21074,24 @@
     {
       "album": {
         "name": "RUDE!",
+        "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
       "artists": [
@@ -21048,7 +21102,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -27740,7 +27794,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
@@ -27758,7 +27812,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 268933,
       "name": "Wuthering Heights - 2018 Remaster",
       "url": "https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC"
@@ -32998,7 +33052,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 130428,
       "name": "\u0435\u0431\u0430\u0442\u044c \u0443 \u0442\u0435\u0431\u044f \u043d\u043e\u0433\u0438",
       "url": "https://open.spotify.com/track/1MXb8opSQ2CQkTq177KvUG"
@@ -34030,6 +34084,24 @@
       "duration_ms": 96000,
       "name": "\u041a\u0430\u0436\u0434\u044b\u0439 \u0414\u0435\u043d\u044c \u043a\u0430\u043a \u0414\u0435\u043d\u044c \u0420\u043e\u0436\u0434\u0435\u043d\u0438\u044f",
       "url": "https://open.spotify.com/track/7dpsJr1ZmHEiDbzgHp7UYR"
+    },
+    {
+      "album": {
+        "name": "\u041b\u044e\u0431\u0438\u043c\u044b\u0435 \u041f\u0435\u0441\u043d\u0438 \u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0445 \u041b\u044e\u0434\u0435\u0439",
+        "url": "https://open.spotify.com/album/1y4iSHqq2PxxILz5hgbMcW"
+      },
+      "artists": [
+        {
+          "name": "Slava KPSS",
+          "url": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "\u041a\u0430\u0439\u0444\u043e\u0433\u0440\u0430\u0434",
+      "url": "https://open.spotify.com/track/2zwC5ILW4sf0YX9oeb4xD1"
     },
     {
       "album": {

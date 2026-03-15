@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Drug Church
 
-714 songs - 1 day 18 hr 58 min
+715 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Bitter Seeds](https://open.spotify.com/track/7MOoiJGuFT3EDpWzClCVXJ) | [LASTELLE](https://open.spotify.com/artist/2BB6OyMcGIRSwJQfsmpjKJ) | [Bitter Seeds](https://open.spotify.com/album/32K5uCnkgj4RGRNo5mDOkB) | 4:31 | 2025-06-06 | 2025-09-12 |
 | [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 | 2023-10-13 | 2024-04-19 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-25 | 2025-09-12 |
-| [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-08-11 |  |
+| [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-08-11 | 2026-03-15 |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 | 2025-09-12 |
 | [Bleeders](https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Bleeders](https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc) | 4:34 | 2024-07-24 | 2025-10-24 |
 | [Bleeding](https://open.spotify.com/track/6WPEREfyyWXcOUsRmrTlEM) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Death Melodies](https://open.spotify.com/album/7hMvX9SJmUEORfGoIlrLlB) | 3:18 | 2024-03-08 | 2024-05-24 |
@@ -260,7 +260,7 @@
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2022-11-10 | 2023-07-26 |
 | [GIRL'S TALK](https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [GIRL'S TALK](https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO) | 2:54 | 2024-05-23 | 2025-09-12 |
 | [Girls Gone Wild](https://open.spotify.com/track/2dlI4jB1PPW9SSChz7foYc) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Girls Gone Wild](https://open.spotify.com/album/6wHqfq4DKIkDO4dCp6SC5r) | 2:22 | 2024-06-28 | 2025-09-12 |
-| [Gladrags](https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Gladrags](https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ) | 3:10 | 2026-03-06 | 2026-03-14 |
+| [Gladrags](https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Gladrags](https://open.spotify.com/album/5GjuavL2oQlGOpKFoiLUqZ) | 3:10 | 2026-03-06 |  |
 | [Glenwood](https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [I Feel The Everblack Festering Within Me](https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw) | 6:43 | 2025-09-11 |  |
 | [Glib Tongued](https://open.spotify.com/track/4rSyP1AMJsQAmdZZqTDuj3) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Glib Tongued](https://open.spotify.com/album/1B23ckEpfx5i1Yjvnbrx8y) | 3:43 | 2025-03-26 | 2025-09-12 |
 | [Go Tobann](https://open.spotify.com/track/1N3XD3Fz1Brtzsu7ghjqSV) | [AILSHA](https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH) | [Go Tobann](https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN) | 2:24 | 2024-01-12 | 2025-09-12 |
@@ -569,6 +569,7 @@
 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 | 2025-08-11 |  |
 | [Speech Patterns](https://open.spotify.com/track/61F6fTAzAMgeHq5RcNtAfm) | [Cut Short](https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn) | [Speech Patterns](https://open.spotify.com/album/6TZzdquYz6LlNEiF5SlCAJ) | 4:46 | 2024-10-17 | 2025-09-12 |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-02-03 | 2023-07-26 |
+| [St\. Catherine's Wheel](https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:05 | 2026-03-13 |  |
 | [START AGAIN](https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [START AGAIN](https://open.spotify.com/album/2blJUAX8ujjwOHR657iEXP) | 2:43 | 2023-07-25 | 2023-08-05 |
 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 | 2025-02-07 |  |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-11-10 | 2023-04-18 |
@@ -714,7 +715,7 @@
 | [WITHER BELOW](https://open.spotify.com/track/0aPa8xNPbvi5HXBqJXVW6g) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [COLLAPSE](https://open.spotify.com/album/0nzdD1BY9vYHzoSMrtlG2R) | 4:13 | 2024-09-20 | 2025-09-12 |
 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-02-07 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-11-10 | 2023-07-26 |
-| [Wrath](https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Wrath](https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb) | 4:33 | 2025-09-11 |  |
+| [Wrath](https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Wrath](https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb) | 4:33 | 2025-09-11 | 2026-03-15 |
 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 | 2022-11-10 | 2023-07-26 |
 | [You Don't Exist](https://open.spotify.com/track/5abW9yOsPu6zM5KSRseT9p) | [Less Than Hollow](https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD) | [You Don't Exist](https://open.spotify.com/album/00Je4CHXNglMBntZyzIUgD) | 3:27 | 2023-07-25 | 2024-03-08 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-19 | 2023-11-11 |

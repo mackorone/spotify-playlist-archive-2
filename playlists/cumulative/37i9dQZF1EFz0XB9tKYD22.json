@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -3884,10 +3884,32 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 156461,
       "name": "Lonesome And Cold (From 'Single HIts'1959)",
       "url": "https://open.spotify.com/track/1X4jhrYE7p4lCXdd7FZ1C5"
+    },
+    {
+      "album": {
+        "name": "Singing His Best (Remastered)",
+        "url": "https://open.spotify.com/album/1ddRUK4onDvl3F0zLnmpQ5"
+      },
+      "artists": [
+        {
+          "name": "Al Hibbler",
+          "url": "https://open.spotify.com/artist/6iWkhfvI0raTI7Akxo7ODQ"
+        },
+        {
+          "name": "The Ray Charles Singers",
+          "url": "https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156173,
+      "name": "Lonesome and Cold (The Ray Charles Singers) - Remastered",
+      "url": "https://open.spotify.com/track/0a6SMETMjX62mNOo50hOOV"
     },
     {
       "album": {

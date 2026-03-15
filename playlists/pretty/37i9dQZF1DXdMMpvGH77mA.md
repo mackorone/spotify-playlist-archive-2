@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,285 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,494 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 99 | [Kundalini Activation](https://open.spotify.com/track/0d2nkBhHbt9Q5V4MY9mDMd) | [Healing the soul](https://open.spotify.com/artist/5FFR7L5srSCatrQMnc94O7) | [Kundalini Activation](https://open.spotify.com/album/0zZnCWLHGevKtCYDDpltVi) | 2:17 |
 | 100 | [Sanctum III \(Sanctus\)](https://open.spotify.com/track/3W2EQnOFoQap95ItdUQ0JF) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp), [Marc George](https://open.spotify.com/artist/0MOrE3jGKPSVSOF2sUMXp4) | [Sanctum III \(Sanctus\)](https://open.spotify.com/album/0IxopzZGXtQHVgp0y2ggqD) | 6:01 |
 
-Snapshot ID: `AAAAAGDeorwOb28j7SE1bIe7ytncgYiY`
+Snapshot ID: `AAAAAESvLccUM2/kFEHlr2GeeBg07Wia`

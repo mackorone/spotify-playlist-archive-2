@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60102,
+  "num_followers": 60129,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-03-12 23:00:57",
       "album": {
+        "name": "Viva Cerveza",
+        "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Viva Cerveza",
+      "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
+    },
+    {
+      "added_at": "2026-03-12 23:00:57",
+      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
-    },
-    {
-      "added_at": "2026-03-12 23:00:57",
-      "album": {
-        "name": "Viva Cerveza",
-        "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Viva Cerveza",
-      "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
     },
     {
       "added_at": "2026-03-12 23:00:57",

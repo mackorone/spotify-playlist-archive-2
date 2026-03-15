@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink, Lauren Mia
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,440 likes - 89 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,559 likes - 89 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Ghoulish",
-  "num_followers": 104168,
+  "num_followers": 104186,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
-      },
-      "artists": [
-        {
-          "name": "Skeptic",
-          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
-        }
-      ],
-      "duration_ms": 184326,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "Pied Piper 2025",
         "url": "https://open.spotify.com/album/0suNaacL8fdCVMk5fYr3V6"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 136555,
       "name": "Pied Piper 2025",
       "url": "https://open.spotify.com/track/3bXiZRRB49MxBlDBXrJtiX"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "All I Wanna Do",
+        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
+      },
+      "artists": [
+        {
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+        }
+      ],
+      "duration_ms": 184326,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
     },
     {
       "added_at": "2026-02-27 00:00:43",

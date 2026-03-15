@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-529 songs - 1 day 8 hr 7 min
+530 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Synthstorm](https://open.spotify.com/track/7fo8e9ax1XHoF4yP2wHcQ0) | [Tony Kay](https://open.spotify.com/artist/4lg922umJxzRwpp3son1NJ) | [Synthstorm](https://open.spotify.com/album/6h7CqVK5uUP7lQS0jwGZfw) | 5:12 | 2026-02-20 | 2026-02-23 |
 | [Take A Flight](https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Nadia](https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr) | [Take A Flight](https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37) | 3:50 | 2023-04-16 | 2023-05-01 |
 | [Take It Easy](https://open.spotify.com/track/1yFJGIc4AgYdFRkaLkBO3j) | [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Take It Easy](https://open.spotify.com/album/64q2E4RwaEu3PocVll20Z5) | 2:51 | 2023-02-12 | 2023-03-06 |
+| [Take My Hand](https://open.spotify.com/track/3j8exXspffrB9l4HFc80NY) | [KeepNoise](https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9) | [Alvora](https://open.spotify.com/album/20mYsLS85BCiXoKA2UI75O) | 5:59 | 2026-03-15 |  |
 | [Tell me](https://open.spotify.com/track/4sA6avh0tLf4Ma2p78ghAG) | [MøRì](https://open.spotify.com/artist/69EAI8AeVwU0HZ2FF4AFaL) | [Tell me](https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb) | 4:11 | 2026-02-11 | 2026-02-23 |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-30 | 2023-05-23 |
 | [Terrace Express \- Original Mix](https://open.spotify.com/track/1k0pziWBAbZtH2V2CoVrR6) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Terrace Express](https://open.spotify.com/album/3oqrimZKe9RS07nxEfPVqF) | 5:56 | 2026-02-23 |  |

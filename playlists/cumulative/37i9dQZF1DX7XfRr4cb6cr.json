@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 135130,
       "name": "Good Earth",
       "url": "https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 479953,
       "name": "Hlj\u00f3\u00f0",
       "url": "https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs"
@@ -3189,6 +3189,28 @@
     },
     {
       "album": {
+        "name": "lacuria",
+        "url": "https://open.spotify.com/album/5wGjaXZZp9KaGS2h9eyQAL"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        },
+        {
+          "name": "wairua",
+          "url": "https://open.spotify.com/artist/7x0lIBdNsjGYpP372dTIhq"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79370,
+      "name": "lacuria",
+      "url": "https://open.spotify.com/track/0YxDkWD0AUg0QYaNp3EpSy"
+    },
+    {
+      "album": {
         "name": "Landing in the Dark",
         "url": "https://open.spotify.com/album/5hikXXB7OtS3LS19ge7J6w"
       },
@@ -3762,6 +3784,28 @@
       "duration_ms": 141198,
       "name": "Moneycomb",
       "url": "https://open.spotify.com/track/5F7uxeMTy6JwRiBZt6TiDs"
+    },
+    {
+      "album": {
+        "name": "mourning tide",
+        "url": "https://open.spotify.com/album/6koU8ctukYRXYNCWunfa7c"
+      },
+      "artists": [
+        {
+          "name": "fade gently",
+          "url": "https://open.spotify.com/artist/535wS1IPD0eFBFvNSfldcC"
+        },
+        {
+          "name": "unveil",
+          "url": "https://open.spotify.com/artist/4StNb7iGTXQJeEX9TpRvTY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101059,
+      "name": "mourning tide",
+      "url": "https://open.spotify.com/track/1Rm49TNcNIdTshgFCyOL73"
     },
     {
       "album": {

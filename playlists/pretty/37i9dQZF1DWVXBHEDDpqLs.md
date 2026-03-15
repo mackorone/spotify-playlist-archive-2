@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the global underground 💎 featuring QRTR 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,655 likes - 115 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,672 likes - 115 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 41 | [Superimposed](https://open.spotify.com/track/4IN5KXB45pLDjSwkPLgtwQ) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Superimposed](https://open.spotify.com/album/4n3Mq8t9tK0g12FUgx70Zo) | 3:07 |
 | 42 | [Angel Crisis](https://open.spotify.com/track/09ZBgtOAfjz56ep7JYLWHZ) | [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [Angel Crisis](https://open.spotify.com/album/2fV7dW8bFZ0QH75wYm7H5V) | 3:27 |
 | 43 | [think & dream](https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF) | [think & dream](https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH) | 3:36 |
-| 44 | [Fractal](https://open.spotify.com/track/6BbOVr3jZN7JAQQF5ynPQb) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Fractal](https://open.spotify.com/album/3PdJISbzxn2PjNSg6jaAP5) | 8:02 |
+| 44 | [Fractal](https://open.spotify.com/track/6BbOVr3jZN7JAQQF5ynPQb) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Fractal](https://open.spotify.com/album/3PdJISbzxn2PjNSg6jaAP5) | 8:01 |
 | 45 | [HEY MISTER DEEJAY](https://open.spotify.com/track/0wG2zTaZd8TT8U0gjADuzu) | [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [HEY MISTER DEEJAY](https://open.spotify.com/album/35vauJf2FeghU7u57kZLwm) | 4:08 |
 | 46 | [Baile](https://open.spotify.com/track/1VatCDYWPLIdY3oky11AIw) | [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Baile](https://open.spotify.com/album/6WE8kAPjgXoou8BzO6Xsf2) | 3:54 |
 | 47 | [The Flower \- Basement of Love Mix](https://open.spotify.com/track/0AU6WEie4MHnjF6AiFWsQr) | [Dj Split](https://open.spotify.com/artist/5W3bmQYJXyK0uz3ZC30xpG) | [The Flower \(Basement of Love Mix\)](https://open.spotify.com/album/2fKSY31o0jUTWk1ejiCjmE) | 6:19 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 55 | [Mau Contato \(Clementaum\) \- Remix](https://open.spotify.com/track/0gwJXOLx8Ts5La3OkDRPLE) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Tasha Kaiala](https://open.spotify.com/artist/3gjUCNetityoDjJClApvFI), [Clementaum](https://open.spotify.com/artist/0uQbfh4oRRfWmp6EOGDLzH) | [Cósmica \(Remix\)](https://open.spotify.com/album/0Ex4I7b0jLIo9hWGyK5IVE) | 4:16 |
 | 56 | [Moire](https://open.spotify.com/track/64xwM6gRhzh9XlTCYFX6y3) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Moire](https://open.spotify.com/album/5yxDD9kqU4961uarBjkhNi) | 2:40 |
 | 57 | [Broody](https://open.spotify.com/track/6qR8sW1nzI8qmPgEdlSx1s) | [Samba](https://open.spotify.com/artist/6nZP9Pm5xxpwoYJcpzAsTU), [Rochy Romero](https://open.spotify.com/artist/6Zq7tgGskId37eTREXEAk5), [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi) | [Broody](https://open.spotify.com/album/6zbYMivXExIPJVsTcjo4yx) | 2:48 |
-| 58 | [BIG CHOON](https://open.spotify.com/track/3IdJOBj2sVfQrjSVyOwkdu) | [HALF OFFF](https://open.spotify.com/artist/5D4GKmOnRbn5nOM1qT3OOb), [Half Queen](https://open.spotify.com/artist/1HQZ9UiiEh6w7sDu3G9fP7), [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [BIG CHOON](https://open.spotify.com/album/5BUD7KiN2tjgq8o21e9xYz) | 4:32 |
+| 58 | [BIG CHOON](https://open.spotify.com/track/3IdJOBj2sVfQrjSVyOwkdu) | [HALF OFFF](https://open.spotify.com/artist/5D4GKmOnRbn5nOM1qT3OOb), [Half Queen](https://open.spotify.com/artist/1HQZ9UiiEh6w7sDu3G9fP7), [STATE OFFF](https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB) | [BIG CHOON](https://open.spotify.com/album/5BUD7KiN2tjgq8o21e9xYz) | 4:32 |
 | 59 | [Living Emojis](https://open.spotify.com/track/5N0hAdWydob6uxAB7NDZ7G) | [Simo Cell](https://open.spotify.com/artist/4KxpqghQTX2FlkzsbG3ENk), [Abdullah Miniawy](https://open.spotify.com/artist/4vtk0GdkL06BZlviVp2H7J) | [Living Emojis](https://open.spotify.com/album/1xnJ52qUfSXWOm4zrEM9Jt) | 3:41 |
 | 60 | [Closer](https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv) | [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Heartbreaker](https://open.spotify.com/album/6N8BQWnkKn41TwAKPw6XMW) | 4:35 |
 | 61 | [Me Pega](https://open.spotify.com/track/4maWwwzXuoxd5AQB9bjbMz) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Me Pega + Tem Carnaval](https://open.spotify.com/album/2r7tniPqvwLqeR24z5dCVK) | 3:28 |

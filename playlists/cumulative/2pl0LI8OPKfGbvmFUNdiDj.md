@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-385 songs - 21 hr 32 min
+389 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 | 2025-12-20 | 2026-01-15 |
 | [Dalc'h Mad](https://open.spotify.com/track/38LLINhJkOS0vfh2BcWPBO) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7), [Naëlle White](https://open.spotify.com/artist/6QbDuTbGVVA6mbYr2opYZo) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:58 | 2025-11-30 | 2026-01-05 |
 | [Daleko jestem](https://open.spotify.com/track/2ACJYr7ap1zxHzsIkmVdag) | [D.Bańka](https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv) | [Daleko jestem](https://open.spotify.com/album/7zSEIyptdy5xgHPLWQFhrr) | 3:17 | 2026-03-09 |  |
+| [dance with you](https://open.spotify.com/track/58nJsvQGn9GEVS5GCoAB30) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 3:33 | 2026-03-14 |  |
 | [Dark Gift](https://open.spotify.com/track/4K2mhBOdr1Yx93LLMhZ03s) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Dark Gift](https://open.spotify.com/album/5UITfythp3Lzp3nvPVKOjv) | 4:14 | 2025-12-26 | 2026-01-15 |
 | [De todo a nada](https://open.spotify.com/track/6KumsJUvJKqlbkQBP7WgOM) | [Samm](https://open.spotify.com/artist/3KNTZ7fJISc0Dk26rtDmyE) | [De todo a nada](https://open.spotify.com/album/0b5UPzw07NmrZoqpEvNm6G) | 3:07 | 2025-12-24 | 2026-01-15 |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-26 | 2026-01-15 |
@@ -113,6 +114,7 @@
 | [Domingo](https://open.spotify.com/track/4qO1m5y156W7soVvAWuDeC) | [sr fary](https://open.spotify.com/artist/2m9S3eJX7a6OUpVoGaQH2D), [Fly so High](https://open.spotify.com/artist/1waM7fr0spkJ0HXNT0FsTo), [Shoiba](https://open.spotify.com/artist/2theeMUQ3nyEpRrhy9EAkF) | [No Todos Los Días Son Lunes](https://open.spotify.com/album/3kJIuLI3wqRYLx32AAD3g3) | 3:15 | 2025-11-03 | 2025-12-01 |
 | [Dope Sick](https://open.spotify.com/track/4PRp06peNwtw92ENEAfQpc) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Dope Sick](https://open.spotify.com/album/4FSfK9VoOCnjZ08xn28xNy) | 2:56 | 2025-12-20 | 2026-01-15 |
 | [Doubl3 Dutch](https://open.spotify.com/track/2tJXpYb8gzU0A2NlsSBImd) | [3thereal](https://open.spotify.com/artist/05s71BdjTOfki43R5ctqG7), [FlipzWorld](https://open.spotify.com/artist/5FGdc7Yftc06zpl5AtppPM) | [Doubl3 Dutch](https://open.spotify.com/album/4pXHGRaXxIjRYJHOxB9tu9) | 2:07 | 2025-12-25 | 2026-01-15 |
+| [Drank too much Freestyle](https://open.spotify.com/track/6hUqMp8aO2W9PdOZoKd6UD) | [Q\-Rhyus](https://open.spotify.com/artist/4Eb361siaO3XB8Skokxhcx) | [Drank too much Freestyle](https://open.spotify.com/album/6e07ciGpzCVKNxl2UojNYJ) | 4:01 | 2026-03-14 |  |
 | [Dreaming](https://open.spotify.com/track/2cFVv2XWyq8WFWA6nLm5gz) | [Joshua Pascua](https://open.spotify.com/artist/1TVYzXm40r4fagLpaUuCny) | [Dreaming](https://open.spotify.com/album/46qeTORxWn5S5DdtLA6796) | 3:12 | 2025-11-17 | 2026-01-05 |
 | [Duele Perderte](https://open.spotify.com/track/1FRAtpfHzFqkZ9BIO4psKO) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/1aFUJwOV7nmapGzTHSjYYN) | 3:14 | 2026-02-20 |  |
 | [Eerie Bells](https://open.spotify.com/track/1gaUWzXr4eZe5n3RDVU8Kr) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Eerie Bells](https://open.spotify.com/album/3vTOBKNhl3rv4Yua9BUzMY) | 3:50 | 2025-11-08 | 2025-12-01 |
@@ -173,6 +175,7 @@
 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2025-12-22 | 2026-03-03 |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-03-07 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
+| [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 | 2026-03-14 |  |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-17 | 2026-01-05 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-01-19 | 2026-02-21 |
@@ -187,6 +190,7 @@
 | [Jiggy Jiggy](https://open.spotify.com/track/2aFDHNti4Cu6r7TRF1ewpm) | [JAO](https://open.spotify.com/artist/21f6qfptoiJRqqRbRgepjb), [Smasher GMC](https://open.spotify.com/artist/2J1zUfRo32V3n1Bj9WqnFm) | [Jiggy Jiggy](https://open.spotify.com/album/7IlPPAik9r0YzmfqUNvQHz) | 2:30 | 2025-12-03 | 2026-01-05 |
 | [Johnny Drago](https://open.spotify.com/track/7JymuwXjghHmMRVZTXZvaA) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 3:10 | 2025-11-17 | 2026-01-05 |
 | [Juaco](https://open.spotify.com/track/40vC0fpfRWL9Er2Iavpi7K) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:59 | 2025-12-23 | 2026-01-15 |
+| [Just Kids](https://open.spotify.com/track/3L37KpIq1wOhstRffRSFUf) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Just Kids](https://open.spotify.com/album/7l7Zykod8wQDXnpXridxy8) | 3:46 | 2026-03-14 |  |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-19 | 2026-01-05 |
 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 | 2025-12-30 | 2026-01-25 |
 | [Kisses On The Lips](https://open.spotify.com/track/3jrhLw4fhfPi9g4KN4k9i7) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Kisses On The Lips](https://open.spotify.com/album/6hxvNG9uKUhwjn0QdOrW7G) | 4:45 | 2025-11-17 | 2026-01-05 |

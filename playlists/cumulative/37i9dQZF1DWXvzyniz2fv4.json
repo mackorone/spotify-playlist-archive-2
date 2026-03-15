@@ -771,6 +771,54 @@
     },
     {
       "album": {
+        "name": "Bateu Saudade",
+        "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230581,
+      "name": "Bateu Saudade",
+      "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
+    },
+    {
+      "album": {
+        "name": "Beira do Mar",
+        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Julio D.E.R.",
+          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187988,
+      "name": "Beira do Mar",
+      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
+    },
+    {
+      "album": {
         "name": "MIXTRAPISEIRO",
         "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
       },
@@ -1736,7 +1784,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 181935,
       "name": "Desumanos",
       "url": "https://open.spotify.com/track/0fwrL9qubr4ZQ2obD3V3NL"
@@ -4278,7 +4326,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"

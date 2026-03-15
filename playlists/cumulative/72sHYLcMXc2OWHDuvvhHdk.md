@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,131 songs - 5 day 4 hr 35 min
+2,137 songs - 5 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Andalucia](https://open.spotify.com/track/3VIazWR5f3U5O5JcWWHdmp) | [Coral Fuzz](https://open.spotify.com/artist/402Y6NZg9f3JEocrCUDKut) | [Fata Morgana](https://open.spotify.com/album/66ExhFV7q6jFimj0shoxaK) | 2:04 | 2025-09-09 |  |
 | [Andersonville \- Demo](https://open.spotify.com/track/2eyjCvpvfpOm1Khp9cbuZZ) | [The Irish Lassies](https://open.spotify.com/artist/0lUMz3jYXEKl0b8FHFV8ic) | [Andersonville \(Demo\)](https://open.spotify.com/album/5hkb3iYIqCPrJx2HeCO6j7) | 4:36 | 2024-06-24 |  |
 | [Angels Don't Always Wear Wings](https://open.spotify.com/track/7EbPER84r4RMpDLr69ALao) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Angels Don't Always Wear Wings](https://open.spotify.com/album/78I73gPaN6EnuRB2OvjqEQ) | 4:09 | 2025-07-01 |  |
+| [Angie Stereo \- funk rock](https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 3:19 | 2026-03-14 |  |
 | [Animo](https://open.spotify.com/track/3xC1vBGHBZxOxDveY0MYJP) | [Gust Fernandez](https://open.spotify.com/artist/5xGxpEIpAZTEjbSyrhf17R), [Pablo Pastor](https://open.spotify.com/artist/22LX0GIeZSiIMBpOJB29TG) | [Animo](https://open.spotify.com/album/5H2tz8Y71I7PpGujL2aRY2) | 3:54 | 2025-04-21 |  |
 | [Anniversary](https://open.spotify.com/track/1yhipUehqA9JeGciUa7663) | [Blister Soul](https://open.spotify.com/artist/3S5y0rfL05mwwT0RwoIbLZ) | [Seasons](https://open.spotify.com/album/2mC7ZRxQckh8OUns75zeAF) | 6:21 | 2025-03-06 |  |
 | [Another Day](https://open.spotify.com/track/1SREr3Hg5w7tc2cDj91SgK) | [S.O.S](https://open.spotify.com/artist/4ovLj8UgslXe1lWvaaSZ5w) | [Another Day](https://open.spotify.com/album/6dxtqZ6wTUByUTf0xTkSQn) | 2:50 | 2025-07-18 |  |
@@ -735,6 +736,7 @@
 | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/track/1mRbV4rJY6tZdYF8KAvU6L) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/album/18E8ovQ9opDnN1wqBIDG8N) | 3:48 | 2024-08-20 |  |
 | [Hellbound](https://open.spotify.com/track/2GWalOSix9H9UgsDJRiQNS) | [Couching Distance](https://open.spotify.com/artist/6jGzXAWsNR1ylxmLK2z4G1) | [Hellbound](https://open.spotify.com/album/1Ff628nCaqhnmWgsfyAQzA) | 2:51 | 2025-04-16 |  |
 | [Hello Baby](https://open.spotify.com/track/5yYjH2Yn6jBtZrZEWHkPSm) | [Raging Flowers](https://open.spotify.com/artist/68fjurQa2bBm3lwJLKf4nH) | [Hello Baby](https://open.spotify.com/album/5TtJc2H0Mh7jMibkFIlMUW) | 2:40 | 2024-05-23 |  |
+| [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-14 |  |
 | [Hep Cat Boogie \- Swing Version](https://open.spotify.com/track/7H3CFWwZoKjbiFPdar468T) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv), [Sharon & The Shakin' Beast](https://open.spotify.com/artist/7dzyfD9RWbweK7XYmmUGdj) | [Hep Cat Boogie \(Swing Version\)](https://open.spotify.com/album/4piOu4qp6LtyM68Vj0iPkw) | 3:29 | 2024-08-12 |  |
 | [Here Come the Children](https://open.spotify.com/track/690JPo1lS4zjXCyTKoOWTh) | [Chris Fredrickson](https://open.spotify.com/artist/0xTq0H48UGF4cDDQQConmk), [Olivia Fredrickson](https://open.spotify.com/artist/3Ba2foHyWOrScmXIo0xTzL) | [It's About Time](https://open.spotify.com/album/2bmcgi5XbcJWNQS5dMEADr) | 2:44 | 2025-03-29 |  |
 | [Here Its All over \(Wayward Lens Remix\)](https://open.spotify.com/track/4iHeONE5mcOMJYqeViD3r7) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM), [Wayward Lens](https://open.spotify.com/artist/11i0R5UkHluDyj6UroGAcw) | [Here Its All over \(Wayward Lens Remix\)](https://open.spotify.com/album/655WaRY5nJRfK0Es6glY4x) | 4:01 | 2024-11-18 |  |
@@ -780,6 +782,7 @@
 | [Hometown Young Love](https://open.spotify.com/track/6XaAInjHLSitqFrOhTA3cl) | [Wilder Young](https://open.spotify.com/artist/2zl4Ivz0rb4VuoUkJMo9ph) | [Hometown Young Love](https://open.spotify.com/album/4AbOrqFwsLEjy2gFkP1GZL) | 3:32 | 2025-07-01 |  |
 | [Honest Mistake](https://open.spotify.com/track/1DEQCWDbuYFZHSW9zVMAjt) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Honest Mistake](https://open.spotify.com/album/70TvqiEcsoMkV2UjmKydz3) | 3:25 | 2025-09-01 |  |
 | [Honey](https://open.spotify.com/track/1ijBkzad4hGbC47Si9CAxa) | [Briggs & Stark](https://open.spotify.com/artist/3mayB3SwySCu4gifriaNXB) | [Honey](https://open.spotify.com/album/2AhVIrM5nBBLKUTfHP9c9t) | 3:37 | 2026-01-21 |  |
+| [Honey](https://open.spotify.com/track/7FEYItQ5fbacI991xPcWfC) | [The Freaks Rockabilly Band](https://open.spotify.com/artist/7eNVUeiesbdO6mPUnlpbCm) | [Honey](https://open.spotify.com/album/1EwUTSro4liAm84lkkThav) | 3:08 | 2026-03-14 |  |
 | [Honey Dripping \- Radio Edit](https://open.spotify.com/track/6pqohAZAYOl5QoD6rDzTlS) | [Arktik Lake](https://open.spotify.com/artist/2ajNC8HgouqCuEzlnb8Y9L) | [Honey Dripping \(Radio Edit\)](https://open.spotify.com/album/1PFgPoSM0wDQ2z85aXXNsu) | 4:02 | 2024-05-23 |  |
 | [Honey That's You](https://open.spotify.com/track/6xbDk0S7llHZRQWhkj2FyL) | [Tyler Herwig](https://open.spotify.com/artist/2xdCts7UWRYMS4Uyf6GBM5) | [Honey That's You](https://open.spotify.com/album/2ZBpeRMNIjtft9U8AZcknH) | 2:32 | 2025-07-11 |  |
 | [Honeysuckle](https://open.spotify.com/track/5qJDcnDw7hUG7bcNkrvOsh) | [lucky break](https://open.spotify.com/artist/19s67hCJgYq3lydu4aj5yq) | [Honeysuckle](https://open.spotify.com/album/6WMOWe2OgQQEuSypu0noiW) | 3:01 | 2024-05-14 |  |
@@ -1116,6 +1119,7 @@
 | [Lucky Charm \- Radio Edit](https://open.spotify.com/track/7szuhsdfPsG7rjlKhxXaQ3) | [Russ Lorenson](https://open.spotify.com/artist/3qaojuvv8VPS2rZG9Q68TT) | [Standard Time: Live In New York \(Radio Edit\)](https://open.spotify.com/album/6kUsjHDPjZ3qTlvbcMGIpy) | 2:41 | 2025-02-19 |  |
 | [Lucy](https://open.spotify.com/track/3wfVXdfoLlA1xNPHSOIrfh) | [David Goundry](https://open.spotify.com/artist/5jNxZ9ZnocXwJyhn3twNp8) | [Glazbury Road](https://open.spotify.com/album/1SteKUcvEgc8x4XlDAcLgu) | 3:38 | 2025-06-16 |  |
 | [Luminescence](https://open.spotify.com/track/4aWIyse5KgYi5korMC395C) | [Giuseppe Bonaccorso](https://open.spotify.com/artist/4srFnrEEHd341DHA9f5Gve) | [Plastic Triode](https://open.spotify.com/album/20cGqOMccxmjgVbWwc9Gmk) | 4:42 | 2024-11-18 |  |
+| [Luna](https://open.spotify.com/track/6Z8aTOasE11mrYFa4OsnSw) | [Nacho Contreras](https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS) | [Luna](https://open.spotify.com/album/0DVL1fOfzHH0mhiSX1ukJz) | 1:54 | 2026-03-14 |  |
 | [Lust](https://open.spotify.com/track/1iTdhnyLqtfbrUyf5vVeyw) | [Lord Omy](https://open.spotify.com/artist/3HfJEpS9YD5mcA5wHXDwLh) | [Magick](https://open.spotify.com/album/7iQNLkpbknJGQeNMvCgoFl) | 3:48 | 2025-04-04 |  |
 | [Lying In My Bed](https://open.spotify.com/track/3vrwdE7Wmwq1vEPtE3S87n) | [Vinicio Simonetti](https://open.spotify.com/artist/457CGCR3k3hCBcMPkrYm8D) | [Lying In My Bed](https://open.spotify.com/album/277idKnlmhJU67T9vHSAJo) | 4:00 | 2024-06-20 |  |
 | [Láska je náhoda](https://open.spotify.com/track/3TcnGUQRUuCIMZiYVDGtiC) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Láska je náhoda](https://open.spotify.com/album/01ps4jsXnibTwJJ0R6QZ5Z) | 4:04 | 2025-01-24 |  |
@@ -1473,6 +1477,7 @@
 | [Rendezvous \(New Version\)](https://open.spotify.com/track/13tTohVhxOCzJVePKEVzFL) | [Inochka](https://open.spotify.com/artist/6nNsicgL2w7bUbg84bAoij) | [Rendezvous \(New Version\)](https://open.spotify.com/album/2njfYeXwYKgtu1aObm7NCY) | 2:17 | 2024-08-04 |  |
 | [Rennen door de Tijd](https://open.spotify.com/track/6rWcWX6une6PWOSojYl58n) | [False Perspective](https://open.spotify.com/artist/0DudYfnSfP19MxrmGNimOy) | [Rennen door de Tijd](https://open.spotify.com/album/515PYQTLXP7yAimQpNsBby) | 2:55 | 2025-06-16 |  |
 | [Republica Banana](https://open.spotify.com/track/2q2V529LChAcff3At9DHrv) | [resonadores](https://open.spotify.com/artist/7E4tppjG019vcxZ7O92U4O) | [Republica Banana](https://open.spotify.com/album/30YmRrjHWAsxnD5V19rcCW) | 2:28 | 2024-05-02 |  |
+| [Requiem](https://open.spotify.com/track/7sNXl5umC5JXJue7VEA9A2) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Requiem](https://open.spotify.com/album/0jWwq5t133I0QJoX9NkTOV) | 2:47 | 2026-03-14 |  |
 | [Respirar](https://open.spotify.com/track/56qwPPRevcRCmJkbHtixdw) | [Rafaelis Garden](https://open.spotify.com/artist/1vnoCLQxDiGv0WUwyVKZmQ) | [Respirar](https://open.spotify.com/album/3Y0Ld4roHP5po7pn0rPaVM) | 3:03 | 2025-11-04 |  |
 | [Restless Road](https://open.spotify.com/track/58V8EbPrDhyA9dDIDoYGsT) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Restless Road](https://open.spotify.com/album/2agWTX5zSYzqf9gDxYgvmo) | 3:48 | 2024-10-10 |  |
 | [Resurection by the way](https://open.spotify.com/track/5VpQQNqj3Rakc8NyrBPARw) | [pedromiguelriera](https://open.spotify.com/artist/0w3VcWdD2XOrO39PoLqoaY) | [Resurection by the way](https://open.spotify.com/album/289kJ5Mn75klJUovoSW3ZO) | 2:53 | 2025-10-29 |  |
@@ -1599,6 +1604,7 @@
 | [Sleepwalker](https://open.spotify.com/track/6b0NRaHddphO4X9UIMxUYc) | [Inal Bilsel](https://open.spotify.com/artist/6proJZlRKgCAFVgfvwzdtT) | [Sleepwalker](https://open.spotify.com/album/4MYh0dRCe08AYx8KAiLBCa) | 5:23 | 2024-11-26 |  |
 | [Slow Motion](https://open.spotify.com/track/0HMdlUyqI2DBWypxiNgYdC) | [Mantinø](https://open.spotify.com/artist/3VJKPyX6vzH0xc4qHaJM4a) | [Slow Motion](https://open.spotify.com/album/58NgB3KNwM9fCPw8yBEPu2) | 2:18 | 2025-12-29 |  |
 | [Slow Secrets](https://open.spotify.com/track/74MjRwoVB9uVAzmgcnwaAq) | [Was a Wolf](https://open.spotify.com/artist/1EHTnpulUzfLp6suYQ31FV) | [Slow Secrets](https://open.spotify.com/album/2o1LzVli8YVUiXM903SeEx) | 3:45 | 2025-08-04 |  |
+| [Smile \(Theme from Modern Times\)](https://open.spotify.com/track/4wI9zHGF4nw8p5qeO9jHyJ) | [Bledi Telha](https://open.spotify.com/artist/08tnj6N05HhRpdGhMSbNxx) | [Smile \(Theme from Modern Times\)](https://open.spotify.com/album/7e4vOFcKpa89XcXkjPjjh9) | 3:34 | 2026-03-14 |  |
 | [Smoke Spot](https://open.spotify.com/track/0P2RQZocAubwcVTTDU45WF) | [Aflu Enza](https://open.spotify.com/artist/3DYCDgO6xWXXUPg7fHPyxz), [Devin C Askounis](https://open.spotify.com/artist/2jWWcQXysR4kG07VaImzHp) | [Smoke Spot](https://open.spotify.com/album/31LA6JcQ6O7ZmHh6SvuS75) | 2:18 | 2025-10-13 |  |
 | [Smokin Gun](https://open.spotify.com/track/7iH7iYqyfBs6oHcVKkefkZ) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Smokin Gun](https://open.spotify.com/album/6eKjxfU6Pbyn0uomUD11fC) | 2:32 | 2024-08-28 |  |
 | [Snowdrifts](https://open.spotify.com/track/48JXXf8E3VdS8mynCRl0wn) | [Solar Flare Sunset](https://open.spotify.com/artist/5Rl6sxPtP6857bWDUdPN2r) | [The Eyes of Argus](https://open.spotify.com/album/41RRynM4jWTWPoIcfvBJ8r) | 7:27 | 2025-08-13 |  |

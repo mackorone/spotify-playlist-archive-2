@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "HELLO DENIAL",
+        "url": "https://open.spotify.com/album/6F5VM9VZj7ZEcYSMV3tRNd"
+      },
+      "artists": [
+        {
+          "name": "Quentin",
+          "url": "https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "HELLO DENIAL",
+      "url": "https://open.spotify.com/track/2pUc5A4RRllfzi3vqzH5gl"
+    },
+    {
+      "album": {
         "name": "help",
         "url": "https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-741 songs - 1 day 12 hr 5 min
+742 songs - 1 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,8 @@
 | [Iludido É Pouco](https://open.spotify.com/track/2EubZsz35hrvslC854WKyh) | [Alê do Baile](https://open.spotify.com/artist/34DsxwLdVSuVk4jIetbdqu), [Paulim e Dodo](https://open.spotify.com/artist/7Js1HWACqj4dPgMD2qUKcL) | [Iludido É Pouco](https://open.spotify.com/album/4qEBm56fHIMdGjmADvkN4y) | 2:53 | 2023-12-30 | 2025-06-28 |
 | [Iludir Amante \- Ao Vivo](https://open.spotify.com/track/3s1f263kj9cfgrb2trFRSu) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [EP2 Diego & Arnaldo Live Show](https://open.spotify.com/album/4UOioCJYW8ekjXl92wblcx) | 3:27 | 2023-12-30 | 2025-06-28 |
 | [Ilusão Com Bebida \- Ao Vivo](https://open.spotify.com/track/7oJ01pMor2eDbbJBfIiiZg) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Made In Goiânia, Completo \(Ao Vivo\)](https://open.spotify.com/album/5CUQV7ZN1RmnEJgqZ7g1qK) | 2:56 | 2023-12-30 | 2025-06-28 |
-| [Imperfeita](https://open.spotify.com/track/3wMXpV2Ne8RMojNNbpCGUJ) | [JAM BRASIL](https://open.spotify.com/artist/3E5tZGr3V6DBzljuDZ3anM) | [Imperfeita](https://open.spotify.com/album/2354Izljk65RCgNz0jdSif) | 2:55 | 2026-03-08 |  |
+| [IMPERFEITA](https://open.spotify.com/track/5DI2UrNUQBqpOPiPs9wLWj) | [Bia Frazzo](https://open.spotify.com/artist/4iT6fJ3MKoAJGORL59NAq1) | [NO TEMPO CERTO](https://open.spotify.com/album/2SoCNgCNcBxaEJLj3XUevZ) | 2:36 | 2026-03-14 |  |
+| [Imperfeita](https://open.spotify.com/track/3wMXpV2Ne8RMojNNbpCGUJ) | [JAM BRASIL](https://open.spotify.com/artist/3E5tZGr3V6DBzljuDZ3anM) | [Imperfeita](https://open.spotify.com/album/2354Izljk65RCgNz0jdSif) | 2:55 | 2026-03-08 | 2026-03-15 |
 | [Infancia](https://open.spotify.com/track/4jj8X2lsyr6ZJAfCPv3f7q) | [Fábio Gouvea](https://open.spotify.com/artist/4uzo89eehPFh4uhYzJuW6i), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE), [Charley Rose](https://open.spotify.com/artist/37QUDCOdqGPG8Hr25pQJnW), [Paulo Almeida](https://open.spotify.com/artist/0Fo7uL2nq5skvQNpZQk3vc), [Thiago Alves](https://open.spotify.com/artist/6Ft5UX0lRokoUUVKZkWtV2) | [Desvio](https://open.spotify.com/album/1dgMdIqbnII6ZZdPWcUonQ) | 5:05 | 2025-05-31 |  |
 | [Infância \- Ao Vivo](https://open.spotify.com/track/4eFwn4UlWCLSwpz4f5D8c0) | [Thiago & Samuel](https://open.spotify.com/artist/3o5wTnMJ0atwVr4sGPI36S) | [Mil Corações \(Ao Vivo\)](https://open.spotify.com/album/16UbZ6zBv9cQPdf7OVMmDv) | 2:40 | 2023-12-30 | 2025-06-01 |
 | [Inspiração](https://open.spotify.com/track/5rtkZKSo69o3JwVfyJK6Ki) | [Júnior Carvalho & Campáci](https://open.spotify.com/artist/45mirb8krgqAH8DZFMcYLi) | [De Cara Com a Lua](https://open.spotify.com/album/6rVErTbpWVPdj0yHGBaWfd) | 4:06 | 2023-12-30 | 2025-06-28 |

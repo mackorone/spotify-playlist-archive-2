@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-65 songs - 3 hr 47 min
+66 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Travelling Light](https://open.spotify.com/track/6IgZxL9A57QlxNAiyhpWFs) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Travelling Light](https://open.spotify.com/album/1lUAwtajDk9ycqiNu2zThg) | 3:34 | 2025-01-04 |  |
 | [Venetian Blinds](https://open.spotify.com/track/6cYnYjZ7PfPkPpa5qBC09D) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Venetian Blinds](https://open.spotify.com/album/0gDR27rVArUKZWLcoWomwZ) | 3:59 | 2025-10-06 |  |
 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 | 2023-05-06 |  |
+| [Whole Lotta Lying](https://open.spotify.com/track/22MDQBuRfCxTxBKg6uLm5D) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Whole Lotta Lying](https://open.spotify.com/album/3V4aCFXjH0JKJ76V0lUMqi) | 4:27 | 2026-03-14 |  |
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-10-21 |  |
 | [Your Girl's Upstairs](https://open.spotify.com/track/2e0mRX40r0777VSfnyzhWa) | [Casey Dienel](https://open.spotify.com/artist/6PfI4m0GOiwOZWbtu38cqP) | [Your Girl's Upstairs](https://open.spotify.com/album/0o23wkZisJMyeXItv6XICI) | 2:30 | 2025-08-26 |  |
 | [Zu viel Kohle \(Schnapp\)](https://open.spotify.com/track/6Hotb91zmKRUhjXWIh2GgR) | [ANTTI 5](https://open.spotify.com/artist/2ST2iSLE7lbXxWz97QXcUU) | [Zu viel Kohle \(Schnapp\)](https://open.spotify.com/album/0qWkQ33sR4OgUF2qz6w4wf) | 2:26 | 2025-04-29 |  |

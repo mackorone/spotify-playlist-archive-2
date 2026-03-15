@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-296 songs - 13 hr 49 min
+297 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Lonely River](https://open.spotify.com/track/3uGsLMP22til2JB675A4xc) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Lonely River](https://open.spotify.com/album/6MyDgpQAQqiB7qt5RFhU9o) | 3:11 | 2025-09-24 |  |
 | [Lost](https://open.spotify.com/track/5kDSdlxuEd4tSYgvHc1eRM) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lost](https://open.spotify.com/album/2yxL2OnCpPt5gB6NFeirMa) | 3:07 | 2023-03-03 | 2025-05-03 |
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-03-03 | 2024-03-21 |
-| [Luna's Forest](https://open.spotify.com/track/6As07zYXCbu96oth2IcIXM) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Luna's Forest](https://open.spotify.com/album/5C6d1q0wQAzX8h724CTLl5) | 2:34 | 2025-09-04 |  |
+| [Luna's Forest](https://open.spotify.com/track/6As07zYXCbu96oth2IcIXM) | [Verala Lux](https://open.spotify.com/artist/2zTDYjWYdea2V7ZXILRLKW) | [Luna's Forest](https://open.spotify.com/album/5C6d1q0wQAzX8h724CTLl5) | 2:34 | 2025-09-04 | 2026-03-15 |
 | [Lunar Serenade 432Hz](https://open.spotify.com/track/6LjnYMLTLIlJWt2gsqabia) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Lunar Serenade 432Hz](https://open.spotify.com/album/7hJvjekmC9YgzSwhsw7deN) | 2:41 | 2025-06-11 |  |
 | [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2025-05-16 |  |
 | [Magnolia](https://open.spotify.com/track/3M8TwWYqWotGprtnLg95QS) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Magnolia](https://open.spotify.com/album/1Yp3wrZ3zyX9uqIRrbPd9K) | 2:44 | 2025-06-11 |  |
@@ -243,6 +243,7 @@
 | [Slow Movements](https://open.spotify.com/track/4JLOW2vdfnrbVOxsLEyhBD) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Slow Movements](https://open.spotify.com/album/5t8ByF8UIhPkcwQLnorDGN) | 3:02 | 2025-03-19 |  |
 | [Soft and Secluded](https://open.spotify.com/track/3pm88ndOSvKfDbC28FGb7E) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Soft and Secluded](https://open.spotify.com/album/4EqmSSOmcAXzvtT18N3mUZ) | 3:00 | 2025-07-09 |  |
 | [Softly Now](https://open.spotify.com/track/73E2vtEy2maBy8cDBr0CTh) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Softly Now](https://open.spotify.com/album/5OTMoERWAiQY8bPzs31wxJ) | 2:28 | 2023-09-01 | 2025-10-18 |
+| [softly softly](https://open.spotify.com/track/6QHbTSoQOh8VRwt56OWuNK) | [Lierre](https://open.spotify.com/artist/4bxgvEAhuVpeclgBv7U4ku) | [softly softly](https://open.spotify.com/album/0InMpm8lvLDcfj8Mw5RHSG) | 2:24 | 2026-01-21 |  |
 | [Solitude](https://open.spotify.com/track/3UcE5BE9BZwNhBvIOF3Ty8) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 3:06 | 2023-03-03 | 2025-06-12 |
 | [Something Else](https://open.spotify.com/track/75yGAhdliSTsNKUlvr4bii) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Something Else](https://open.spotify.com/album/002aCkJH30gVZN1sKyYUwl) | 2:52 | 2025-02-21 |  |
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-03-03 | 2024-03-21 |

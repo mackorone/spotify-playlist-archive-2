@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "CALCINACCI",
+        "url": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Nulla di stupefacente",
+      "url": "https://open.spotify.com/track/6StTn7TmydEEw4co0QFei5"
+    },
+    {
+      "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi"
       },

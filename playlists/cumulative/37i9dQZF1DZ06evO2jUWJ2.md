@@ -4,12 +4,13 @@
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-85 songs - 9 hr 3 min
+86 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Of A Sudden \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/4HAsNHe4VE0kQoFutbZxOK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [All Of A Sudden / Another One](https://open.spotify.com/album/1GS3eQSd9wKyW1IoeBpzfI) | 7:55 | 2024-05-24 | 2024-07-24 |
-| [Alleluia](https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Alleluia](https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO) | 4:23 | 2026-02-11 |  |
+| [Alleluia](https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Alleluia](https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO) | 4:23 | 2026-02-11 | 2026-03-15 |
+| [Alleluia](https://open.spotify.com/track/5DcfS4kk1fIYNCvuspcMic) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 4:23 | 2026-03-15 |  |
 | [Always On Time \(feat\. Bella Cordero\)](https://open.spotify.com/track/484SYKQnjhFBGrMVszKCkE) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Bella Fabrizio](https://open.spotify.com/artist/1sSkRcwjX2H0l5QjIuyfH7) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 7:01 | 2024-07-20 |  |
 | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/track/1ks04dUr7tjZJUbT89MoJD) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Another One \(feat\. Chris Brown\)](https://open.spotify.com/album/3NfyzXp4dCBmfkc8PVECRE) | 6:32 | 2024-05-24 | 2026-03-01 |
 | [Available \(Live\)](https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 9:41 | 2024-05-24 | 2024-07-19 |

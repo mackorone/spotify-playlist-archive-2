@@ -1,12 +1,12 @@
 {
   "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 212000,
+  "num_followers": 212002,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAAC4MCisDHBCzeWBKEuMch8j",
+  "snapshot_id": "abNTgAAAAACS+U2EufnMnV9T5s6yKwHf",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
-        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 333173,
-      "name": "Un Destello De Tu Gloria - En Vivo",
-      "url": "https://open.spotify.com/track/1p857QcWbg695PflPkPYIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Origen Y Esencia",
         "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 167693,
       "name": "Una Casa Vac\u00eda",
       "url": "https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Dar\u00e9 Lo Mejor (En Vivo)",
+        "url": "https://open.spotify.com/album/2oOY5CmzdnFhSYR86CQOfc"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 333173,
+      "name": "Un Destello De Tu Gloria - En Vivo",
+      "url": "https://open.spotify.com/track/1p857QcWbg695PflPkPYIE"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Brote De Adoraci\u00f3n 2",
-        "url": "https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 314709,
-      "name": "Mi Vida Sin Ti",
-      "url": "https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colecci\u00f3n Adoraci\u00f3n",
         "url": "https://open.spotify.com/album/3L66FfY07jWg7JKcsDNnJR"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 342613,
       "name": "Sentado En Su Trono",
       "url": "https://open.spotify.com/track/2pr8QSYZjjDvwRMA8qJaVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Brote De Adoraci\u00f3n 2",
+        "url": "https://open.spotify.com/album/1nWtxLTRWll8sj2QPF6QQU"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 314709,
+      "name": "Mi Vida Sin Ti",
+      "url": "https://open.spotify.com/track/5NhRLlH43KnFvNzkQj8Az1"
     },
     {
       "added_at": null,

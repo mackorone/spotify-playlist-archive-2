@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: MICO
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,696 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,704 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [archive 2001](https://open.spotify.com/track/1A3x3nkAF2EJ61fR1tpGT3) | [Nawfal](https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr), [Kheir](https://open.spotify.com/artist/7kaof8rwuCnCp2pWlk9yzh) | [blues beldi](https://open.spotify.com/album/6113yrCSI1S2APZjYS0RJK) | 1:57 |
 | 50 | [That's Real](https://open.spotify.com/track/3RTRXQTbK2i3G8WWwoLw68) | [Handsome Tiger](https://open.spotify.com/artist/5mse6hwiW0xtsv1XCPN4sU), [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5) | [THAT'S REAL](https://open.spotify.com/album/2fWHBXYVvaQU2ggqmEDev7) | 2:13 |
 
-Snapshot ID: `AAAAAN5CEYGhof9mTH1D7jGHeDet2Jph`
+Snapshot ID: `AAAAAFY1GPoRrFpSe6gA04j6t90EyjXx`

@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94036,
+  "num_followers": 94047,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "A Bad Hand",
+        "url": "https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 220852,
+      "name": "A Bad Hand",
+      "url": "https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Without The Pain",
         "url": "https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 207857,
       "name": "Down No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "A Bad Hand",
-        "url": "https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 220852,
-      "name": "A Bad Hand",
-      "url": "https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 254082,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
         "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 220480,
       "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
       "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
-      },
-      "artists": [
-        {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
-        }
-      ],
-      "duration_ms": 254082,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 217786,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "God's Gonna Cut You Down",
         "url": "https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 214293,
       "name": "Alabama",
       "url": "https://open.spotify.com/track/13iwFAkP5vMi6oEwV3uUsP"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 217786,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"
     },
     {
       "added_at": "2026-01-12 23:46:55",

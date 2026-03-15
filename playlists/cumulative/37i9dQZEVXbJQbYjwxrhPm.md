@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-610 songs - 1 day 9 hr 5 min
+611 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,8 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2024-12-27 | 2026-01-03 |
 | [JACKPOT](https://open.spotify.com/track/2RIRv4qp2LhztFpDNbNTsX) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [SAUCE KID 4](https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE) | 2:49 | 2025-10-10 | 2025-11-22 |
 | [JACKPOT](https://open.spotify.com/track/4zDHpQmJTbUfvdiFTXgF0j) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [JACKPOT](https://open.spotify.com/album/7tW2Zd7FSEkUD6qQ5JgaGw) | 2:49 | 2025-06-06 | 2025-06-28 |
-| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2026-03-13 |  |
+| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2026-03-13 | 2026-03-15 |
+| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 | 2026-03-13 |  |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-29 | 2025-09-06 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2024-12-06 | 2026-01-03 |
 | [JIVOTA MA DURPA](https://open.spotify.com/track/2pNR7oKXjSG0DzYqXaS37o) | [Emil TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB), [Secta](https://open.spotify.com/artist/7r2WZwr18ayXKb9pYXHRDg), [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [JIVOTA MA DURPA](https://open.spotify.com/album/3m4R1oemUE5vMo2uC8eqTv) | 2:37 | 2025-12-19 | 2025-12-27 |

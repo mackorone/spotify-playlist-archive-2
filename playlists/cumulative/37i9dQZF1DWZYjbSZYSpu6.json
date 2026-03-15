@@ -518,7 +518,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 221906,
       "name": "Because we loved",
       "url": "https://open.spotify.com/track/2JIaYEoBsURkmNab7EgYwA"
@@ -3668,6 +3668,28 @@
       "duration_ms": 199524,
       "name": "PLAY (feat. Changmo)",
       "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
+    },
+    {
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        },
+        {
+          "name": "HAEUN",
+          "url": "https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW"
+        }
+      ],
+      "date_added": "2026-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Promenade",
+      "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
     },
     {
       "album": {

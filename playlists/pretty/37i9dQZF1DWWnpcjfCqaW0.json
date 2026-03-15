@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 297977,
+  "num_followers": 297991,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
+        "name": "The Very Best Of Slim Whitman",
+        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Indian Love Call",
+      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
         "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
         "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 157000,
       "name": "A Dear John Letter",
       "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
-        "name": "The Very Best Of Slim Whitman",
-        "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Indian Love Call",
-      "url": "https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9"
     },
     {
       "added_at": "2026-02-17 04:48:24",

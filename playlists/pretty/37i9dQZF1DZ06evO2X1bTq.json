@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1262829,
+  "num_followers": 1262883,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAACYDOJfo3ZmBGodZ7LghRyS",
+  "snapshot_id": "abNTgAAAAAC2QqGNhDN7DIk3QlOoXAGb",
   "tracks": [
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 243899,
-      "name": "One Life At A Time",
-      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
+      "duration_ms": 325014,
+      "name": "The Tears Of Things",
+      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 325014,
-      "name": "The Tears Of Things",
-      "url": "https://open.spotify.com/track/6UsQY1MboRNoxGU9GwKp7i"
+      "duration_ms": 243899,
+      "name": "One Life At A Time",
+      "url": "https://open.spotify.com/track/4b2t0g1l0LqDXZfl6rWXqh"
     },
     {
       "added_at": null,

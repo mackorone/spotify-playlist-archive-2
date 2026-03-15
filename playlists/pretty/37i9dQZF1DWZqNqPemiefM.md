@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Shuta Hasunuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,056 likes - 149 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,124 likes - 149 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 119 | [Jicama](https://open.spotify.com/track/47RGxJ1g9UwQNAQ53kRwKy) | [Gregory Uhlmann](https://open.spotify.com/artist/3apnkNwaHdhoNIvKVMiC5S), [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW) | [Uhlmann Johnson Wilkes](https://open.spotify.com/album/4gYxsgdSL1NsEjgw9yZPvf) | 2:32 |
 | 120 | [Ringing Ocean](https://open.spotify.com/track/6t4CRgDL6SM4c0Brem2v2G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [The Last To Know / Ringing Ocean](https://open.spotify.com/album/21bPhiBg3N27x4PpUpIo3I) | 3:30 |
 | 121 | [kanransha \- outtake / From "The Deepest Space In Us" Original Soundtrack](https://open.spotify.com/track/37fK1oA5IPswOcjCWp4YW2) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [kanran sha \(outtake / From "The Deepest Space In Us" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NNyfLC6MdQHp9ZfRqtLiI) | 2:58 |
-| 122 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
+| 122 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [光田康典](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
 | 123 | [Slowly Diving](https://open.spotify.com/track/19RiT2dZ8TkHvL6cPaFP1A) | [Takuro Okada](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [葛西敏彦](https://open.spotify.com/artist/2lDaAvUzZP2ux1i12xuH6Y), [香田 悠真](https://open.spotify.com/artist/6VzrikesByN5Ogb8A67n47) | [To Waters of Lethe](https://open.spotify.com/album/5bbc9oYHs1OcOVrc6pwC1g) | 4:20 |
 | 124 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
 | 125 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |

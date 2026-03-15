@@ -2,9 +2,9 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Cuo Zay, Autumn! and more
+> With Yeat, Duwap Kaine, Cuo Zay and more
 
-167 songs - 6 hr 41 min
+168 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Full Of Them Drugs](https://open.spotify.com/track/1gGuQsf0rPBJEk05Rjhnn7) | [Screwly G](https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC) | [No Pain No Gain](https://open.spotify.com/album/0j4kcCJRc3pZgrApHgMlBt) | 3:10 | 2025-11-29 |  |
 | [GO](https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [fivestarcrete](https://open.spotify.com/album/69R6d0gYngpEFplw3ticpl) | 2:32 | 2025-11-29 |  |
 | [Gotham](https://open.spotify.com/track/6UlMJm6W9ejt7WaSZgwN9N) | [Wavy](https://open.spotify.com/artist/2Cd5g6dhahk4tkc76TkiPm) | [Gotham](https://open.spotify.com/album/73HinW2N7BXiYzNfGy7yIm) | 2:33 | 2025-11-29 | 2025-12-01 |
+| [Gotta Do That](https://open.spotify.com/track/3RYRb0Ci3NGg8l3UaqyF0b) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Tha Godfather](https://open.spotify.com/album/0N9IJOtB5sXtdSz2zCYYKc) | 2:13 | 2026-03-15 |  |
 | [Great White](https://open.spotify.com/track/7Audfj7uXjCpZJbmu2ULut) | [Lil Zah](https://open.spotify.com/artist/2RHRcmzg69Qi8tfiBT6DKG), [Lukey Sunshine](https://open.spotify.com/artist/4gaqT1cSWzHMtf8uextSzZ) | [Great White](https://open.spotify.com/album/0jvmiGfGsEj1PjfOoP2WQF) | 2:23 | 2026-01-05 | 2026-01-15 |
 | [Guillotine](https://open.spotify.com/track/3YirUAtlK9nCzPp3CTaAg5) | [fallnluv](https://open.spotify.com/artist/1CnKbe2BryZ7vn19TKRzXu) | [Guillotine](https://open.spotify.com/album/42BOi5vIhZBxXp1fbDcgVh) | 3:25 | 2026-02-28 | 2026-03-01 |
 | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz) | 1:51 | 2026-02-10 |  |
@@ -112,13 +113,13 @@
 | [NORTHSTAR88](https://open.spotify.com/track/14WHP0aGz1OimYzRJ2yHIJ) | [MEMPHISDAYTONA](https://open.spotify.com/artist/6NTHeTG08biHfIqVIsXMSl) | [NORTHSTAR88](https://open.spotify.com/album/07dckUO6rUCV3uw24WoHC8) | 3:17 | 2026-03-09 | 2026-03-12 |
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |
-| [Off my Radar! \(2024\)](https://open.spotify.com/track/78Jy6aPmkDvJ3M7UnfJmnS) | [NV Man Man!](https://open.spotify.com/artist/24qegvIfxNIoImWf2iofdz) | [Off my Radar! \(2024\)](https://open.spotify.com/album/4YrRGajyPGemucDVQigEFD) | 1:51 | 2026-03-07 |  |
+| [Off my Radar! \(2024\)](https://open.spotify.com/track/78Jy6aPmkDvJ3M7UnfJmnS) | [NV Man Man!](https://open.spotify.com/artist/24qegvIfxNIoImWf2iofdz) | [Off my Radar! \(2024\)](https://open.spotify.com/album/4YrRGajyPGemucDVQigEFD) | 1:51 | 2026-03-07 | 2026-03-15 |
 | [Off tha Lot \- Remix](https://open.spotify.com/track/0YD65NZU1x10Qjzz9JW1PV) | [tr3nt!](https://open.spotify.com/artist/3HSZDx6CVJuM0FvRqA2RZV) | [Off tha Lot \(Remix\)](https://open.spotify.com/album/0WaUSZ42kCZAKKwwkRwKtc) | 1:54 | 2026-02-12 | 2026-02-15 |
 | [One Take](https://open.spotify.com/track/3uh5GDAjOou5BHvKvPEpOD) | [Young Slixe](https://open.spotify.com/artist/2Co2CaKKgnpRBuguJsI3uG) | [One Take](https://open.spotify.com/album/5KSWVXXIFylp2llAv448Sv) | 1:59 | 2026-03-01 |  |
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2025-12-12 |
 | [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-02-22 |
 | [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 | 2026-03-08 |
-| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2026-03-09 |
+| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 |  |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 | 2026-02-15 |
@@ -140,7 +141,7 @@
 | [snakes](https://open.spotify.com/track/6EjpOnPFV3tsGMb4CA1VUv) | [vamp](https://open.spotify.com/artist/7uTccMq0K79JPxvJy5Vpu8) | [snakes](https://open.spotify.com/album/3mOmWWY41mroTCYiDbanPp) | 2:14 | 2026-01-23 | 2026-01-31 |
 | [sorry not sorry](https://open.spotify.com/track/0YZYErTb3ZfNUBrKlWuLIu) | [Pure557](https://open.spotify.com/artist/0nhb1ZnJ9gedmTrLZgASKE) | [sorry not sorry](https://open.spotify.com/album/2COBCCxMt7pj0KYr5cFJyS) | 1:32 | 2026-01-27 | 2026-02-03 |
 | [Spanglish](https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n) | [novanitys](https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP), [wonder](https://open.spotify.com/artist/4egc04cPnCS54Cp5Hz3IuE), [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [Spanglish](https://open.spotify.com/album/0rOykZHoTWuBpRhdh3Bb8h) | 3:42 | 2026-01-15 |  |
-| [Spectacular 2](https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf) | [Skyte](https://open.spotify.com/artist/1Ns95vooI1gESBvt8cEt9U) | [Bring It On](https://open.spotify.com/album/4UgsOL75dhtNtwVPhfN8tW) | 1:50 | 2025-12-22 |  |
+| [Spectacular 2](https://open.spotify.com/track/7cRSJZxsujmH1FENsQySBf) | [Skyte](https://open.spotify.com/artist/1Ns95vooI1gESBvt8cEt9U) | [Bring It On](https://open.spotify.com/album/4UgsOL75dhtNtwVPhfN8tW) | 1:50 | 2025-12-22 | 2026-03-15 |
 | [Spend It All](https://open.spotify.com/track/58BiPG2b1V8XYxWvcond3S) | [tobe kobe](https://open.spotify.com/artist/7zmDKG0cSfFIdQVz8O30wf), [Gigi Da Badger](https://open.spotify.com/artist/6frA3HcM894vN8M6tLx350) | [OVERBOUND](https://open.spotify.com/album/5HU8CFHafkvdblQjj6ZwQy) | 2:04 | 2026-01-28 | 2026-02-11 |
 | [splat!](https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ) | [Marwick](https://open.spotify.com/artist/7pmKCgWtiOC7rzCRS3W2x1) | [splat!](https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk) | 2:17 | 2025-11-29 |  |
 | [Standards](https://open.spotify.com/track/3ocpEYcnzvZ0bjJwRz04JR) | [Team East](https://open.spotify.com/artist/7ckGBRivmMlVOyaAYnRuqV), [Off Radar](https://open.spotify.com/artist/4tGND9ruWooOSDt5j4ZaG1) | [Stop Leaking You Bitch](https://open.spotify.com/album/165B42CoYAanyBBGXxwEaf) | 2:08 | 2026-01-19 | 2026-01-20 |

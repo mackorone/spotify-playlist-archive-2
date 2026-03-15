@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,349 songs - 21 day 6 hr 31 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,350 songs - 21 day 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8357,5 +8357,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8347 | [JUSTadICE](https://open.spotify.com/track/6IVM1YYZq6K6NG6qqC26o4) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [JUSTadICE](https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE) | 3:52 |
 | 8348 | [You Suck at Love](https://open.spotify.com/track/77hwX9Akupyg4TdPIf0s6a) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Get Your Heart On!](https://open.spotify.com/album/7hWHxMRVmCLi1nXXrijalR) | 3:11 |
 | 8349 | [ぼなぺてぃーと▽S](https://open.spotify.com/track/2C7DrdqoU4U7Wc0vZRVi21) | [ブレンド・A](https://open.spotify.com/artist/1djn2nFD39MVfBAYV3S7M2) | [ぼなぺてぃーと▽S／デタラメなマイナスとプラスにおけるブレンド考](https://open.spotify.com/album/4K3CsZTPVv5qnYu73aXeZ8) | 4:15 |
+| 8350 | [Bitten Bullet](https://open.spotify.com/track/6CWrAMXTSfq26cYZhX1Jmg) | [Boris Nonte](https://open.spotify.com/artist/3EvnDQ9GqimRR7VXVPRAw4), [Tommy Gunn Müller](https://open.spotify.com/artist/5XsjKU4IBPna8p4cxhI35O) | [Swagger Symphony](https://open.spotify.com/album/2mCVFvLKWdynWECEXmCett) | 2:23 |
 
-Snapshot ID: `AAALMhcwf7CmovgL7VAatWVfpMg40A4R`
+Snapshot ID: `AAALMyxpV1o+zNLyKgg/IvuQvYe2jvQA`

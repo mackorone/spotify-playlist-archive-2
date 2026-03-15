@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1978822,
+  "num_followers": 1978648,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVUhsHRhyMXSFSKn7Nfrzb341LS",
+  "snapshot_id": "AAAAAB3NktUPpC7z/N2ns3VrplfxRyXJ",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-06 05:00:11",
       "album": {
-        "name": "and then there's me",
-        "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "and then there's me",
-      "url": "https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr"
-    },
-    {
-      "added_at": "2026-03-06 05:00:11",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "and then there's me",
+        "url": "https://open.spotify.com/album/7mUkb56qGJScNQFbUSo6AL"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "and then there's me",
+      "url": "https://open.spotify.com/track/7f1WcvOOUVUoHdrilGw4Sr"
     },
     {
       "added_at": "2026-03-06 05:00:11",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-03-06 05:00:11",
       "album": {
+        "name": "Seed of Joy",
+        "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
+        {
+          "name": "Brian Fallon",
+          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Seed of Joy",
+      "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
-    },
-    {
-      "added_at": "2026-03-06 05:00:11",
-      "album": {
-        "name": "Seed of Joy",
-        "url": "https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
-        {
-          "name": "Brian Fallon",
-          "url": "https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Seed of Joy",
-      "url": "https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx"
     },
     {
       "added_at": "2026-03-06 05:00:11",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-06 05:00:11",
       "album": {
-        "name": "Peanut",
-        "url": "https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty"
-      },
-      "artists": [
-        {
-          "name": "Otto Benson",
-          "url": "https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw"
-        }
-      ],
-      "duration_ms": 190318,
-      "name": "Red and Neon",
-      "url": "https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg"
-    },
-    {
-      "added_at": "2026-03-06 05:00:11",
-      "album": {
         "name": "Same Sun EP",
         "url": "https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 159010,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "Peanut",
+        "url": "https://open.spotify.com/album/66IjsekRQdBbUDmANLR7ty"
+      },
+      "artists": [
+        {
+          "name": "Otto Benson",
+          "url": "https://open.spotify.com/artist/7idebBFVTiHclz7stsvsSw"
+        }
+      ],
+      "duration_ms": 190318,
+      "name": "Red and Neon",
+      "url": "https://open.spotify.com/track/6raMCJkNlEdOjUpCHXlfkg"
     },
     {
       "added_at": "2026-03-06 05:00:11",

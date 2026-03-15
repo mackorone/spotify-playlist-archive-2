@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > Cómo ha volado el tiempo y la feria, atrás he dejado la miseria 🧿📿🪬 Virlan García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,345 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,428 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

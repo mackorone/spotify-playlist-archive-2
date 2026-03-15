@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 595492,
+  "num_followers": 595561,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
-      },
-      "artists": [
-        {
-          "name": "Morten Granau",
-          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
-        }
-      ],
-      "duration_ms": 452173,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 267107,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub"
+      },
+      "artists": [
+        {
+          "name": "Morten Granau",
+          "url": "https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0"
+        }
+      ],
+      "duration_ms": 452173,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/18iRwd0XBweGAMUructZNZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 286956,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4DDqRwhHMtI61P3eGmYlWk"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Carmen",
+        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
+      },
+      "artists": [
+        {
+          "name": "Skazi",
+          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
+        },
+        {
+          "name": "Invisible Reality",
+          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Carmen",
+      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Shingara",
         "url": "https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 317746,
       "name": "Shingara",
       "url": "https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Carmen",
-        "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
-      },
-      "artists": [
-        {
-          "name": "Skazi",
-          "url": "https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3"
-        },
-        {
-          "name": "Invisible Reality",
-          "url": "https://open.spotify.com/artist/5689fXaoEmJsLSPv3y18An"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Carmen",
-      "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Ancient Aum",
         "url": "https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 480000,
       "name": "Ancient Aum",
       "url": "https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Stoned (Zanon Remix)",
+        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Zanon",
+          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
+        }
+      ],
+      "duration_ms": 334647,
+      "name": "Stoned (Zanon Remix)",
+      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Stoned (Zanon Remix)",
-        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
-      },
-      "artists": [
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        },
-        {
-          "name": "Zanon",
-          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
-        }
-      ],
-      "duration_ms": 334647,
-      "name": "Stoned (Zanon Remix)",
-      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Roshini",
-        "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
-      },
-      "artists": [
-        {
-          "name": "Sajanka",
-          "url": "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
-        },
-        {
-          "name": "Krodax",
-          "url": "https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp"
-        }
-      ],
-      "duration_ms": 393590,
-      "name": "Roshini",
-      "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 335834,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Roshini",
+        "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
+      },
+      "artists": [
+        {
+          "name": "Sajanka",
+          "url": "https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf"
+        },
+        {
+          "name": "Krodax",
+          "url": "https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp"
+        }
+      ],
+      "duration_ms": 393590,
+      "name": "Roshini",
+      "url": "https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se"
     }
   ],
   "unique_name": "Psytrance Supernova",

@@ -18519,28 +18519,6 @@
     },
     {
       "album": {
-        "name": "Freaky Freqz",
-        "url": "https://open.spotify.com/album/038hLc519IjbLT48HiC1sp"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        },
-        {
-          "name": "MC Flipside",
-          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
-        }
-      ],
-      "date_added": "2026-03-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194545,
-      "name": "Freaky Freqz",
-      "url": "https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX"
-    },
-    {
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/382M3bRnoX442IFQjLMKl6"
       },
@@ -18714,6 +18692,28 @@
       "duration_ms": 161129,
       "name": "Freedom 2024",
       "url": "https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn"
+    },
+    {
+      "album": {
+        "name": "Freq The Frequency",
+        "url": "https://open.spotify.com/album/038hLc519IjbLT48HiC1sp"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        },
+        {
+          "name": "MC Flipside",
+          "url": "https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "Freq The Frequency",
+      "url": "https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX"
     },
     {
       "album": {

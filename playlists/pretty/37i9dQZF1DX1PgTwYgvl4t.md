@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Eijv\-JdSTCumhjsWkOSU6Q>Folabi Nuel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,343 likes - 100 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,428 likes - 100 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

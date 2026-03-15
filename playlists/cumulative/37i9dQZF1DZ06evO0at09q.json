@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 163200,
       "name": "Find Away",
       "url": "https://open.spotify.com/track/45GUKSyfsmue7hTzNq9Dfp"
@@ -1492,6 +1492,24 @@
       "duration_ms": 198095,
       "name": "Outta Nothing",
       "url": "https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX"
+    },
+    {
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/6bM7UexegRXMLFLIl1yIrN"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/3VvY4SzPwqmRo9R3sLEgw9"
     },
     {
       "album": {

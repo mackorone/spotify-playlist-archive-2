@@ -8530,7 +8530,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 213000,
       "name": "B\u0118D\u0118 PREZYDENTEM :)",
       "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
@@ -14440,7 +14440,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -14620,7 +14620,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 196204,
       "name": "DYLEMAT",
       "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
@@ -16802,7 +16802,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "FIKU MIKU",
       "url": "https://open.spotify.com/track/6MkpcMuHGd0cRBeRNOSWdy"
@@ -19532,7 +19532,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 179555,
       "name": "Halo tu Londyn",
       "url": "https://open.spotify.com/track/7o0s4eVw14M1QjfmbLGtuI"
@@ -25253,6 +25253,24 @@
     },
     {
       "album": {
+        "name": "KIEDY NIE MA CI\u0118",
+        "url": "https://open.spotify.com/album/5fiyLlLNfw5G1Y6Vt7ZRHW"
+      },
+      "artists": [
+        {
+          "name": "Chivas",
+          "url": "https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "KIEDY NIE MA CI\u0118",
+      "url": "https://open.spotify.com/track/41cz0GHQjImo4xDHgqZC8T"
+    },
+    {
+      "album": {
         "name": "Kiedy umr\u0119 kochanie (H. Po\u015bwiatowska)",
         "url": "https://open.spotify.com/album/78ZOGrFEvMUMcDE4fYepxq"
       },
@@ -26016,7 +26034,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 152386,
       "name": "KOCHASZ?",
       "url": "https://open.spotify.com/track/2XjSsK9NKNcojJwzmLdIWG"
@@ -28044,6 +28062,24 @@
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
+    },
+    {
+      "album": {
+        "name": "LET IT B",
+        "url": "https://open.spotify.com/album/1Oy0ZSG5z3haMYb2dQFCk0"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "LET IT B",
+      "url": "https://open.spotify.com/track/701KA2pM8TfqNksKwLCZHl"
     },
     {
       "album": {
@@ -34870,7 +34906,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 204221,
       "name": "NIE CHC\u0118 WRACA\u0106",
       "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
@@ -36064,7 +36100,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 198750,
       "name": "NO I CO",
       "url": "https://open.spotify.com/track/1nBnvMRIJVcrKPsg6XfWKu"
@@ -55688,7 +55724,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 228000,
       "name": "WAWA022",
       "url": "https://open.spotify.com/track/5RFkD5a2T4zDcSMEoEpgWF"
@@ -59740,6 +59776,32 @@
       "duration_ms": 169887,
       "name": "Zo\u00eb Kravitz",
       "url": "https://open.spotify.com/track/7ESbIvVF79d0A9P6DOEzC7"
+    },
+    {
+      "album": {
+        "name": "ZROBI\u0141EM TO DLA SIEBIE",
+        "url": "https://open.spotify.com/album/6mB67v3QeZgGr7g15ivwEr"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "DOPEHOUSE",
+          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+        },
+        {
+          "name": "Johny Jalapeno",
+          "url": "https://open.spotify.com/artist/2KzOwZafQgDbTdIZkMC5rs"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208446,
+      "name": "ZROBI\u0141EM TO DLA SIEBIE",
+      "url": "https://open.spotify.com/track/4ibqU74QTvsqguXatBlyFy"
     },
     {
       "album": {

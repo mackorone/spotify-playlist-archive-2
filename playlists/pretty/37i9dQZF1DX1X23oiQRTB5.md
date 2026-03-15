@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Nono La Grinta au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,611,055 likes - 39 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,611,039 likes - 39 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 11 | [Met Gala](https://open.spotify.com/track/2pYhj6vIyKGLK9YiqQ8z1n) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 2:23 |
 | 12 | [Serrure \#667](https://open.spotify.com/track/4zipUPcZZkWmxn2TEMummt) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Serrure \#667](https://open.spotify.com/album/0HzOMyTAUOlrjnZzrMWkA6) | 2:27 |
 | 13 | [GMK](https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [GMK](https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V) | 2:05 |
-| 14 | [Amori Stupidi](https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:13 |
+| 14 | [Amori Stupidi \(feat\. Nina Zilli\)](https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:13 |
 | 15 | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/track/3ppZbNYEH85vpavJHgsQT9) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LOCKED UP \(feat\. Tiakola\)](https://open.spotify.com/album/0lrjEC7YUZYPP9ZN4HyrwI) | 2:55 |
 | 16 | [Parle moi](https://open.spotify.com/track/0u3X2FAuek7g4K2a7Nw5Om) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Parle moi](https://open.spotify.com/album/0Fkw1FmVzg5hwSD2nfuKUo) | 3:03 |
 | 17 | [SIERRA LEONE](https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [SIERRA LEONE](https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Charlie Puth & 宇多田ヒカル, James Blake, 	<br/>Tom Misch, Holly Humberstone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,094 likes - 81 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,108 likes - 81 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 71 | [Undefeated Champion](https://open.spotify.com/track/6M0a5aKnnNXMFULdUjJvEP) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Undefeated Champion](https://open.spotify.com/album/5Gc3bYK9C3wSjYfbJW18ol) | 3:34 |
 | 72 | [Sleepwalking](https://open.spotify.com/track/0vJKvYSIkSoTigjEgb1nkA) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Sleepwalking](https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM) | 2:14 |
 | 73 | [How Does It Feel](https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [How Does It Feel](https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V) | 3:33 |
-| 74 | [SIL](https://open.spotify.com/track/5vOcNQcWnl8wU7460lIL2h) | [Showy](https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [Showy is Lit 3](https://open.spotify.com/album/6tuGvAFNdorF8LtP9yybwp) | 2:42 |
+| 74 | [SIL](https://open.spotify.com/track/5vOcNQcWnl8wU7460lIL2h) | [Showy](https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo) | [Showy is Lit 3](https://open.spotify.com/album/6tuGvAFNdorF8LtP9yybwp) | 2:42 |
 | 75 | [Humming \(feat\. DADA\)](https://open.spotify.com/track/0mo4MXeG9jXvy3dcDE7HIi) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [as i am](https://open.spotify.com/album/2eNe5umnF7S1Tz1E6QcrKO) | 2:31 |
 | 76 | [Where My Daddy At \(feat\. MIA\)](https://open.spotify.com/track/28rGvzyj1cAeo5ItP6EzMi) | [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5), [MIA](https://open.spotify.com/artist/02fJwZIbNoGhMULLURNY9I) | [City of Heaven](https://open.spotify.com/album/5S9Q26Kp4NCBRUwmZ8aFBt) | 2:36 |
 | 77 | [I Do, I Do](https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I Do, I Do](https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh) | 2:15 |

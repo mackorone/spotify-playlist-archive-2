@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 476534,
+  "num_followers": 476589,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAACb1qybkPmGd7VjkVeKkwq7",
+  "snapshot_id": "abNTgAAAAAAleoJHAzgwtCIja3OJhyGh",
   "tracks": [
     {
       "added_at": null,
@@ -108,7 +108,7 @@
       "added_at": null,
       "album": {
         "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 219720,
       "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 249146,
-      "name": "Per Aspera Ad Inferi",
-      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
+      "duration_ms": 238813,
+      "name": "Jigolo Har Megiddo",
+      "url": "https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 238813,
-      "name": "Jigolo Har Megiddo",
-      "url": "https://open.spotify.com/track/1nLPwEsvylaNyep39luNRw"
+      "duration_ms": 249146,
+      "name": "Per Aspera Ad Inferi",
+      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
     },
     {
       "added_at": null,

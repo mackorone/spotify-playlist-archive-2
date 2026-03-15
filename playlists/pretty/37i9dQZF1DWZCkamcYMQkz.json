@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 503933,
+  "num_followers": 504171,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
+        "name": "Blue Trane",
+        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed Trio",
+          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "You're Sensational",
+      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
         "name": "Rhythm, Melody and Harmony",
         "url": "https://open.spotify.com/album/76iISZ0E026WTuARiTsbKL"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 263444,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
-        "name": "Blue Trane",
-        "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed Trio",
-          "url": "https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "You're Sensational",
-      "url": "https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1363,26 +1363,18 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Happy Song No.2",
-        "url": "https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj"
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
       "artists": [
         {
-          "name": "Jan Geijtenbeek",
-          "url": "https://open.spotify.com/artist/3JbGZKuEjufoBiGqjRNYSP"
-        },
-        {
-          "name": "Niek de Bruijn",
-          "url": "https://open.spotify.com/artist/6MCOy9B3LZpPWlgngExhuc"
-        },
-        {
-          "name": "Thomas Pol",
-          "url": "https://open.spotify.com/artist/6zdJjdjOSerTzdPK3ZPIX4"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 181306,
-      "name": "Happy Song No. 2",
-      "url": "https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was"
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1403,18 +1395,26 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+        "name": "Happy Song No.2",
+        "url": "https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Jan Geijtenbeek",
+          "url": "https://open.spotify.com/artist/3JbGZKuEjufoBiGqjRNYSP"
+        },
+        {
+          "name": "Niek de Bruijn",
+          "url": "https://open.spotify.com/artist/6MCOy9B3LZpPWlgngExhuc"
+        },
+        {
+          "name": "Thomas Pol",
+          "url": "https://open.spotify.com/artist/6zdJjdjOSerTzdPK3ZPIX4"
         }
       ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
+      "duration_ms": 181306,
+      "name": "Happy Song No. 2",
+      "url": "https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "The Architect",
-        "url": "https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ"
-      },
-      "artists": [
-        {
-          "name": "Tyler Henderson",
-          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
-        }
-      ],
-      "duration_ms": 225485,
-      "name": "The Architect",
-      "url": "https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "How Love Begins (Extended Edition)",
         "url": "https://open.spotify.com/album/7sOSStvEboV0UZOvHO4iHb"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 316987,
       "name": "Two Fish - Alt Take",
       "url": "https://open.spotify.com/track/6kD5DLbXoFVTy4owuDqn3T"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "The Architect",
+        "url": "https://open.spotify.com/album/50Jy8t0xYgSgGrCIWt5EXZ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Henderson",
+          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
+        }
+      ],
+      "duration_ms": 225485,
+      "name": "The Architect",
+      "url": "https://open.spotify.com/track/6IsKPToqMCdH50pD5P6AeM"
     },
     {
       "added_at": "2026-03-13 08:31:27",

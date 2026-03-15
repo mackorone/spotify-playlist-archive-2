@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 363412,
+  "num_followers": 363551,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Kaleidoscope Dream (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 183893,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Kaleidoscope Dream (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Balcony",
-        "url": "https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 168251,
-      "name": "Balcony",
-      "url": "https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 204631,
       "name": "Rock wit Me (feat. IAMSU!)",
       "url": "https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Balcony",
+        "url": "https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 168251,
+      "name": "Balcony",
+      "url": "https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo"
     },
     {
       "added_at": "2024-09-02 12:32:28",

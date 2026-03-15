@@ -4386,7 +4386,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 208770,
       "name": "Pippi Pippi Dum Dum Dum (From \"Kuberaa\")(Tamil)",
       "url": "https://open.spotify.com/track/0XhfurVhcTXvDPcEwq6sud"
@@ -6266,6 +6266,40 @@
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
+    },
+    {
+      "album": {
+        "name": "Vaaya Ey Karasaami (From \"Kara\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0XN4KBndwlljBejCA9KcMS"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "Sathyan",
+          "url": "https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248135,
+      "name": "Vaaya Ey Karasaami (From \"Kara\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/6c4o0evIjXe8r1HaOJgbKs"
     },
     {
       "album": {

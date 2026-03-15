@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Kyla\-Belle
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,454 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,452 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [It Won't Be Long Til I See You Again \- Radio Edit](https://open.spotify.com/track/4Q4Xm1ttfowCPypzS2gPiX) | [Sunny Luwe](https://open.spotify.com/artist/5T4AYvkpJMRXzixDfcaQJL) | [Feeling Good](https://open.spotify.com/album/1L3avSLHAcAgSlTxTW5ir6) | 2:56 |
 | 50 | [Koey Dhoerim](https://open.spotify.com/track/1ScNqh5EMVZw9c8bHrdRIP) | [Christine Anu](https://open.spotify.com/artist/0VyhYyWWF5yYomHQR4hCMl) | [Waku \- Minaral A Minalay](https://open.spotify.com/album/1gs1fnpSuzms1SBc4FWWp3) | 2:14 |
 
-Snapshot ID: `AAAAACEhNYVbyRrVlarVy70f+vKiLXl9`
+Snapshot ID: `AAAAAP4Zi6TfGKiwV1KrBdHCRovo5dvi`

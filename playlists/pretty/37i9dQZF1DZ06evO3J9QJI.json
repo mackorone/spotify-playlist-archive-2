@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAACtMZBAAKNp4DH7hEUy8KzC",
+  "snapshot_id": "abNTgAAAAACLJEzTcqqj1teR2I3g+zrW",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Informal Introduction: Classic Edition",
+        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Irv Gotti",
+          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
+        }
+      ],
+      "duration_ms": 280649,
+      "name": "All I Know (feat. Irv Gotti)",
+      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Irv Gotti Presents... The Inc.",
         "url": "https://open.spotify.com/album/3DGkcr076qNEue0odlRrGk"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 233773,
       "name": "Here We Come",
       "url": "https://open.spotify.com/track/0TeEO7pnnKr9OnHyfCE3Hg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Informal Introduction: Classic Edition",
-        "url": "https://open.spotify.com/album/2YPhZpoY03WOgaF0JLjzsO"
-      },
-      "artists": [
-        {
-          "name": "Shade Sheist",
-          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
-        },
-        {
-          "name": "Irv Gotti",
-          "url": "https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF"
-        }
-      ],
-      "duration_ms": 280649,
-      "name": "All I Know (feat. Irv Gotti)",
-      "url": "https://open.spotify.com/track/3pNhy4smaiaHbifxG13N56"
     },
     {
       "added_at": null,
@@ -290,11 +290,15 @@
         {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Poverlous",
-      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     },
     {
       "added_at": null,
@@ -310,15 +314,11 @@
         {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
+      "duration_ms": 229333,
+      "name": "Poverlous",
+      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
     },
     {
       "added_at": null,

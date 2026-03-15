@@ -1,6 +1,6 @@
 {
   "description": "Der Fr\u00fchling ist da \u2013 mit Songs f\u00fcr l\u00e4ngere Tage und fr\u00f6hliche Familienmomente.",
-  "num_followers": 58529,
+  "num_followers": 58534,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "Teilen",
-        "url": "https://open.spotify.com/album/2ACqu3M1ntR2dxghawhouU"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 133579,
-      "name": "Teilen",
-      "url": "https://open.spotify.com/track/3ZOnYrn1P9oH2cAstCRfvn"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 177293,
       "name": "Fr\u00fchling!",
       "url": "https://open.spotify.com/track/0Q7RAfNgc6iLtYHHywpTO1"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "Teilen",
+        "url": "https://open.spotify.com/album/2ACqu3M1ntR2dxghawhouU"
+      },
+      "artists": [
+        {
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+        }
+      ],
+      "duration_ms": 133579,
+      "name": "Teilen",
+      "url": "https://open.spotify.com/track/3ZOnYrn1P9oH2cAstCRfvn"
     },
     {
       "added_at": "2026-03-05 14:49:03",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
-        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
-      },
-      "artists": [
-        {
-          "name": "Sternschnuppe",
-          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
-        }
-      ],
-      "duration_ms": 336386,
-      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
-      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Fr\u00fchling",
         "url": "https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 178186,
       "name": "Fr\u00fchling, ich hab dich entdeckt!",
       "url": "https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "Fr\u00fchlingslieder: Sch\u00f6ne Kinderlieder zum Fr\u00fchling",
+        "url": "https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "duration_ms": 336386,
+      "name": "Dann ist der Fr\u00fchling da! (Fr\u00f6hliches Kinderlied zum Fr\u00fchling)",
+      "url": "https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6"
     },
     {
       "added_at": "2026-03-05 14:49:03",

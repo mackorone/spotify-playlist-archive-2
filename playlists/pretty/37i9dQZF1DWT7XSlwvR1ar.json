@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118150,
+  "num_followers": 2118141,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMewI0DeQgWFAdIAP1Jjisa14IlW",
+  "snapshot_id": "AAAAAO3IXYvTP94t3290q7GXhqKE8O5g",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:27",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 167200,
       "name": "Kids in Love",
       "url": "https://open.spotify.com/track/1gpYR1FzbIS0IRbpF3BBmu"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Not Broken",
-        "url": "https://open.spotify.com/album/7rHHuPonz8CqGmCf9RHB1n"
-      },
-      "artists": [
-        {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
-        }
-      ],
-      "duration_ms": 202632,
-      "name": "Not Broken",
-      "url": "https://open.spotify.com/track/1QJCkwatMNwqxqgWLY9XTV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "A Little Bit of Love",
         "url": "https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge"
       },
@@ -1047,22 +1031,6 @@
       "duration_ms": 164359,
       "name": "A Little Bit of Love",
       "url": "https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
-        "name": "(watch my moves)",
-        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1087,18 +1055,34 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Does This Go Faster?",
-        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+        "name": "(watch my moves)",
+        "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
       "artists": [
         {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Does This Go Faster?",
-      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Not Broken",
+        "url": "https://open.spotify.com/album/7rHHuPonz8CqGmCf9RHB1n"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "duration_ms": 202632,
+      "name": "Not Broken",
+      "url": "https://open.spotify.com/track/1QJCkwatMNwqxqgWLY9XTV"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1115,6 +1099,22 @@
       "duration_ms": 250346,
       "name": "Nick Of Time",
       "url": "https://open.spotify.com/track/1SdkSIyVEBu8o9ZsJnTJqO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Does This Go Faster?",
+        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Does This Go Faster?",
+      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Special Occasion",
-        "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 194575,
-      "name": "This Year",
-      "url": "https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Special Occasion",
+        "url": "https://open.spotify.com/album/0VseNTH5jew2laWAJ0mKuX"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 194575,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0uk2K61goFiYbajsFToXU8"
     },
     {
       "added_at": "2026-03-06 05:00:27",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-03-06 05:00:27",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
-    },
-    {
-      "added_at": "2026-03-06 05:00:27",
-      "album": {
         "name": "Keep On Dreamin'",
         "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 266560,
       "name": "Keep On Dreamin'",
       "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
+    },
+    {
+      "added_at": "2026-03-06 05:00:27",
+      "album": {
+        "name": "Anything Without You",
+        "url": "https://open.spotify.com/album/4ea2marOalv22zoOpc5wnl"
+      },
+      "artists": [
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "duration_ms": 240987,
+      "name": "Sunshine Kisses",
+      "url": "https://open.spotify.com/track/7t0EiqNogoInkPjvI3eLZI"
     }
   ],
   "unique_name": "Totally Stress Free",

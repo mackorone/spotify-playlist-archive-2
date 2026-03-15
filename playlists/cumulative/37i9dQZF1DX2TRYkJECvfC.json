@@ -2421,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234558,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL"
+    },
+    {
+      "album": {
         "name": "The Tiny House of Delusion (REMIXES)",
         "url": "https://open.spotify.com/album/7JNnB7EaDlJC23S6NQN4Fu"
       },
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 367741,
       "name": "Feelings Of Love",
       "url": "https://open.spotify.com/track/3hVesPNlGrCXIO2E45aVnB"

@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 11 | [lealdades invisíveis com a nossa família ](https://open.spotify.com/episode/4A7aNcTCAplm3Y44WRSWuk) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:20 |
 | 12 | [Manda áudio 23](https://open.spotify.com/episode/2tBLK0elMUNjuzefWEDLZe) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 5:50 |
 
-Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`
+Snapshot ID: `AAAAAI7yYthncTgPn58VGgZFPnKNeV9F`

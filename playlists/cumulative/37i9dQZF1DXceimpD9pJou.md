@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Emanuel Deliser
 
-3,752 songs - 11 day 15 hr 22 min
+3,753 songs - 11 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1578,6 +1578,7 @@
 | [Háblame](https://open.spotify.com/track/4z6xenHtxocIdcxfbnp8iF) | [Pete Morales](https://open.spotify.com/artist/3I3FzeNFHHo9NEaAl9Vx3a) | [Háblame](https://open.spotify.com/album/2fPgjodrL62q2K9mlNqYKu) | 3:55 | 2023-05-05 | 2023-06-24 |
 | [Háblanos](https://open.spotify.com/track/3jQlXO4PaRX57HALW4VReC) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4), [Lluvia Richards](https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB) | [Háblanos](https://open.spotify.com/album/6f87tATHVba8OsepisZdOB) | 4:32 | 2024-05-31 | 2024-06-29 |
 | [Hágase](https://open.spotify.com/track/7nQQsZhw7oXIyI4qz0EX3X) | [Cristóbal Fones, Sj](https://open.spotify.com/artist/4Jqs0PJ4Q5gmz1WzS1OUHk), [Camila Garrido](https://open.spotify.com/artist/4qwL8uXYQU0doVFI56PaRJ) | [Hágase](https://open.spotify.com/album/2dcAdZY690EwZg9w1Md9XZ) | 3:32 | 2023-08-11 | 2023-09-23 |
+| [Hágase Tu voluntad en la tierra, así como en el cielo](https://open.spotify.com/track/44brEOXO7Q7DLnQVGHlVPK) | [Música Más Vida](https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c), [Kelly Spyker](https://open.spotify.com/artist/4bpeZo2d9Ey0VS2FbgkmJL) | [Hágase Tu voluntad en la tierra, así como en el cielo](https://open.spotify.com/album/67wswD607aDGzD7ScitoIQ) | 6:22 | 2026-03-14 |  |
 | [Héroe \- En Vivo](https://open.spotify.com/track/0YbRSBEpr0ygL8QMdSbCfo) | [SOS International Worship](https://open.spotify.com/artist/2C7XGbwUFr3Aq2FIGFG3zB), [Hannah Holland](https://open.spotify.com/artist/7xiiphpaybTQ0X0LmmRhZD), [David Hernandez](https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC) | [Héroe \(En Vivo\)](https://open.spotify.com/album/7BdL57THQ3vhIKv4gF4fcx) | 5:21 | 2024-06-21 | 2024-07-13 |
 | [i missed you!](https://open.spotify.com/track/2JtMrFvghega7Q1KlzzM5I) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [i missed you!](https://open.spotify.com/album/0PRY2QMxdewRzdu8bDQGY7) | 2:08 | 2025-08-22 | 2025-09-20 |
 | [I SEE](https://open.spotify.com/track/4LacApp0rfeqpwoGCA3tjR) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [I SEE](https://open.spotify.com/album/73bH3w49yuWQ2gM2qISOFp) | 2:47 | 2024-06-14 | 2024-07-06 |
@@ -2155,7 +2156,7 @@
 | [Mi Vida Es Tuya \- En Vivo](https://open.spotify.com/track/0kIG6M5vgQlIhGRFTarP2G) | [Nuevos Comienzos Music](https://open.spotify.com/artist/2n3RoFPVmw1E5fsHWSPHvG), [Matty Martinez](https://open.spotify.com/artist/5NHgDh5dj1Nkm6FmSZovTs), [Amanda Analiz](https://open.spotify.com/artist/6hgAqCnjeuN5e12MF98xeq) | [Mi Vida Es Tuya \(En Vivo\)](https://open.spotify.com/album/3VWHNNrGDU8Nf4rmYMDrv4) | 5:53 | 2025-03-21 | 2025-04-19 |
 | [Mi Viejita](https://open.spotify.com/track/056PRbMsjcWMwxiWOmdlBy) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Mi Viejita](https://open.spotify.com/album/6UnuUJJAw8EGMeb8ApPYiY) | 3:34 | 2025-05-09 | 2025-06-14 |
 | [Mi Viejo Yo](https://open.spotify.com/track/3rD9De7NNPfZCc3OjBmk1E) | [Lexander](https://open.spotify.com/artist/330lBZpfC25aQtcN90n9Hy), [Jova](https://open.spotify.com/artist/0f1YfPAUIb6ACy0WIkM8Xx) | [Mi Viejo Yo](https://open.spotify.com/album/040IaRVoddlt4lcuJwCXtH) | 2:40 | 2025-10-17 | 2025-11-15 |
-| [Mi Viejo Yo](https://open.spotify.com/track/7wlP9CKbq2t5pTZFKm2vx5) | [Lexander](https://open.spotify.com/artist/330lBZpfC25aQtcN90n9Hy), [Jova](https://open.spotify.com/artist/0f1YfPAUIb6ACy0WIkM8Xx) | [Mi Viejo Yo](https://open.spotify.com/album/6DOloByC4rTQ2NDTrFkipN) | 2:40 | 2026-01-30 |  |
+| [Mi Viejo Yo](https://open.spotify.com/track/7wlP9CKbq2t5pTZFKm2vx5) | [Lexander](https://open.spotify.com/artist/330lBZpfC25aQtcN90n9Hy), [Jova](https://open.spotify.com/artist/0f1YfPAUIb6ACy0WIkM8Xx) | [Mi Viejo Yo](https://open.spotify.com/album/6DOloByC4rTQ2NDTrFkipN) | 2:40 | 2026-01-30 | 2026-03-15 |
 | [Mi Íntimo Deseo](https://open.spotify.com/track/7Ehhr1E5fPE34vIQCNdVG2) | [Omar Cruz](https://open.spotify.com/artist/0uq04cmda7dbPWFjRjfZ7g), [Juan Marcos Maldonado Barajas](https://open.spotify.com/artist/6QKVoyUPbOqxQpre0Atcnr) | [Mi Íntimo Deseo](https://open.spotify.com/album/1sbfGXHCGREmtiMPmEgf48) | 4:16 | 2025-02-21 | 2025-03-22 |
 | [Mientras Tanto](https://open.spotify.com/track/4gD2Q7Q1WVVNoslNcN7Die) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W), [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Mientras Tanto](https://open.spotify.com/album/2DHq7ecguYuVPG5B1Hx2H7) | 9:33 | 2025-01-10 | 2025-02-15 |
 | [Mil Años](https://open.spotify.com/track/5auNgAv6ZQoRql3b33V7ko) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Mil Años](https://open.spotify.com/album/4xiVea64QGfpNxnck2SeNw) | 3:27 | 2023-03-24 | 2023-04-29 |

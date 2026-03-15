@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leven Kali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,534 likes - 250 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,564 likes - 250 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Starlet](https://open.spotify.com/track/3F2biaPqxg6glYqh4z6LDZ) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99](https://open.spotify.com/album/7oXn08skc0Lc0juXrb5kDP) | 2:56 |
 | 2 | [Westside](https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Westside](https://open.spotify.com/album/6hejZTaY1xPzO9bKeSY51o) | 2:58 |
-| 3 | [Prague](https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:15 |
-| 4 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
-| 5 | [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ThunderWave](https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL) | 3:14 |
-| 6 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 |
+| 3 | [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ThunderWave](https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL) | 3:14 |
+| 4 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 |
+| 5 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 |
+| 6 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
 | 7 | [YOU KNOW I'M DOWN](https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [YOU KNOW I'M DOWN](https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6) | 2:24 |
-| 8 | [How It Feels](https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [How It Feels](https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH) | 2:36 |
-| 9 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
-| 10 | [Past Tense](https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Past Tense](https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA) | 3:18 |
+| 8 | [Past Tense](https://open.spotify.com/track/0D2vwxWkb9im42QBScXHZG) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Past Tense](https://open.spotify.com/album/1SF4DIA5or8VegMN03sSaA) | 3:18 |
+| 9 | [Prague](https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:15 |
+| 10 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
 | 11 | [The Fix](https://open.spotify.com/track/7JolP4o69lNv5b8NjbgmRR) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [The Fix](https://open.spotify.com/album/1dKHQpelvSeobwcDxgxdmj) | 2:42 |
 | 12 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
-| 13 | [Who Is It](https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Who Is It](https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37) | 2:54 |
-| 14 | [I Do, I Do](https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I Do, I Do](https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh) | 2:15 |
-| 15 | [i'm dying to feel alive again](https://open.spotify.com/track/42Da0ZgrRiEjL43AllfTsZ) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [i'm dying to feel alive again](https://open.spotify.com/album/5ufnHQcMuJYrjIafstJ9of) | 4:29 |
-| 16 | [580](https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Love Games](https://open.spotify.com/album/3EW9montqzJB3SE77Btgtc) | 2:28 |
-| 17 | [touch me, tease me](https://open.spotify.com/track/3f3fJODVfB5gZKrkyNy5xg) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [Vesta](https://open.spotify.com/artist/29N8na9Z9fpF5ecxCAofvQ) | [touch me, tease me](https://open.spotify.com/album/3e8Urnmqrlgoh4s2YryJfn) | 3:44 |
-| 18 | [Your Loss](https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [Your Loss](https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0) | 3:13 |
+| 13 | [Your Loss](https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [Your Loss](https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0) | 3:13 |
+| 14 | [Who Is It](https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Who Is It](https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37) | 2:54 |
+| 15 | [I Do, I Do](https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I Do, I Do](https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh) | 2:15 |
+| 16 | [i'm dying to feel alive again](https://open.spotify.com/track/42Da0ZgrRiEjL43AllfTsZ) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [i'm dying to feel alive again](https://open.spotify.com/album/5ufnHQcMuJYrjIafstJ9of) | 4:29 |
+| 17 | [580](https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz) | [Love Games](https://open.spotify.com/album/3EW9montqzJB3SE77Btgtc) | 2:28 |
+| 18 | [touch me, tease me](https://open.spotify.com/track/3f3fJODVfB5gZKrkyNy5xg) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5), [Vesta](https://open.spotify.com/artist/29N8na9Z9fpF5ecxCAofvQ) | [touch me, tease me](https://open.spotify.com/album/3e8Urnmqrlgoh4s2YryJfn) | 3:44 |
 | 19 | [Dreaming Wide Awake](https://open.spotify.com/track/6IKwgu1rWC3YAoLV1RA0KA) | [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Dreaming Wide Awake](https://open.spotify.com/album/1XFh8hC8Won0XjiLwrO1J1) | 3:06 |
 | 20 | [Cycles](https://open.spotify.com/track/1sfnEVLhkkJGIE2mTfDKMz) | [Lily Massie](https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Cycles](https://open.spotify.com/album/68fAHYkS0sjKfj5Jd3QVt3) | 2:43 |
 | 21 | [My Bag](https://open.spotify.com/track/4kJzTjy7gaAxGKuecwqZkp) | [Miranda Rae](https://open.spotify.com/artist/04CM97hjzZvlzAOOHzh59o), [Najee Janey](https://open.spotify.com/artist/2whc6gja7yTVsL7EqWEQnF) | [Soul Food](https://open.spotify.com/album/0zdDhhQYfqLscSgarAdGnY) | 3:37 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 249 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 |
 | 250 | [Vows](https://open.spotify.com/track/5nohCawT6TUJ0Nl3kqCaFj) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X), [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT) | [Vows](https://open.spotify.com/album/23wr2De8ynNEpUTWjLXyQZ) | 3:11 |
 
-Snapshot ID: `AAAAADdm4wZsLNTf3v9EtMyulNjrwBYO`
+Snapshot ID: `AAAAAOYSNafCdOROCrn6Z7mAgJowj1jY`

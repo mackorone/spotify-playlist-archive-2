@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charlotte Cardin, Noah Kahan, James Blake, Diljit Dosanjh, Jack Harlow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,302 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,357 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 92 | [Pull Up](https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pull Up](https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR) | 2:35 |
 | 93 | [Struck](https://open.spotify.com/track/7tMK10zFkVYO9jEQIWh8d8) | [Charlotte MacInnes](https://open.spotify.com/artist/6awXERWZUqqR1jyC9CwZWb) | [Struck](https://open.spotify.com/album/3B0sdKkVWHf1g0dnbU3gSs) | 3:00 |
 | 94 | [How Does It Feel](https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [How Does It Feel](https://open.spotify.com/album/0d1eHvWg3lOTIUQJdsj80V) | 3:33 |
-| 95 | [Freaky Freqz](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freaky Freqz](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
+| 95 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
 | 96 | [DELULU](https://open.spotify.com/track/00S9qnMGyyt1UG8JskGNTV) | [Marieme](https://open.spotify.com/artist/2GcthSTguQ2Xbbq03jb1fP), [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [DELULU](https://open.spotify.com/album/2fpM4P6utqPnxNv0rY6jwW) | 3:46 |
 | 97 | [Callin'](https://open.spotify.com/track/50wdFEgYTQGEd3zN9Pw7MX) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Callin'](https://open.spotify.com/album/1Qq2YoKjwEi4T5DXvehEQ0) | 3:09 |
 | 98 | [FASHURE](https://open.spotify.com/track/5bZJ1ELkJM6dLWtk54T1uY) | [Bijaan](https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [FASHURE](https://open.spotify.com/album/5L0DcJZj8K8UtOTN556VXz) | 3:14 |

@@ -8961,6 +8961,24 @@
     },
     {
       "album": {
+        "name": "Alvora",
+        "url": "https://open.spotify.com/album/20mYsLS85BCiXoKA2UI75O"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359040,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/3j8exXspffrB9l4HFc80NY"
+    },
+    {
+      "album": {
         "name": "Tell me",
         "url": "https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb"
       },

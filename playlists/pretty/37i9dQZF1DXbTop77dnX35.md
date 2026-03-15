@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from London, Patoranking, Famous Pluto, Kunmie  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,316 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,364 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 29 | [Sukuma \(feat\. Tumelo.za, Tyrone Dee & Jay Sax\)](https://open.spotify.com/track/0tZst6GsvHwkGMbmnq59DW) | [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC) | [Sukuma \(feat\. Tumelo.za, Tyrone Dee & Jay Sax\)](https://open.spotify.com/album/6T80cv59grZSp3fM5aHaRm) | 5:46 |
 | 30 | [eGoli](https://open.spotify.com/track/3UKUesD3zj9w1WBbfeYpDp) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [eGoli](https://open.spotify.com/album/2GknnL8wujzsYLhRWXrnab) | 3:23 |
 | 31 | [No Wam](https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl) | [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [No Wam](https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR) | 2:29 |
-| 32 | [Touché coulé \(feat\. Louzio & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 |
+| 32 | [Touché coulé \(feat\. Louzio, Tazeboy & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 |
 | 33 | [Lotus](https://open.spotify.com/track/5HBMAC4czl16G9oqH6TjlD) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Lotus](https://open.spotify.com/album/1NBO8iru74GTrNKdTMlmHE) | 2:26 |
 | 34 | [Happier](https://open.spotify.com/track/0u87IwEXPIXL7p3Lcrc2U9) | [Khid Ceejay](https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9) | [Happier](https://open.spotify.com/album/3uO5dsZlTd91Nf8CEl3DEp) | 2:39 |
 | 35 | [Noir](https://open.spotify.com/track/2JgtUiRnw0aVu7qe0jDZC0) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour \(Deluxe\)](https://open.spotify.com/album/4yKFiO4nMfDQ2BzBWlABsk) | 3:47 |

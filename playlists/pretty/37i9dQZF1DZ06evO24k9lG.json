@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 63718,
+  "num_followers": 63721,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAAC6+/Z2Dca9GdIrQE3q/AeP",
+  "snapshot_id": "abNTgAAAAADV1KgKncC8XqXFyk8LBBSp",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "2.000",
+        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 301531,
+      "name": "Un Camino Lejano",
+      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Combinacion Vallenata Vol. 2",
         "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 289746,
       "name": "Como Hago?",
       "url": "https://open.spotify.com/track/7oOM25539RVMMbR8OFMUYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2.000",
-        "url": "https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 301531,
-      "name": "Un Camino Lejano",
-      "url": "https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg"
     },
     {
       "added_at": null,

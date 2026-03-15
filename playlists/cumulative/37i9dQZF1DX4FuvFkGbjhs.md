@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: James Blake
 
-834 songs - 2 day 0 hr 19 min
+835 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-12 | 2025-08-15 |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-27 | 2025-02-14 |
 | [Get Back](https://open.spotify.com/track/6VzhkhV5hv1FSfPtTNRJRw) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Get Back](https://open.spotify.com/album/48RdAlViFWSDGLcFQOphCT) | 4:05 | 2025-10-23 | 2026-01-15 |
+| [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-13 |  |
 | [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 | 2025-09-11 | 2026-01-16 |
 | [Get It Together](https://open.spotify.com/track/7pdnDQIjbTWY7ZACgVD6xB) | [Hex Girlfriend](https://open.spotify.com/artist/5a4wwtDgBVk5RKDQzWxYbE) | [Addictive Indulgence](https://open.spotify.com/album/6Hibm2cC7WSzFYrUCUW2JG) | 3:15 | 2025-11-28 | 2025-12-13 |
 | [Getting It Together](https://open.spotify.com/track/64VoiWNhq0HEoPSTyNHm1G) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Getting It Together](https://open.spotify.com/album/5oeEaZmmvDNMBTOvG7k79F) | 3:56 | 2025-07-31 | 2025-09-05 |
@@ -316,7 +317,7 @@
 | [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-06-27 | 2024-07-12 |
 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 | 2025-02-14 | 2025-05-23 |
 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 | 2024-08-08 | 2024-11-01 |
-| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-12-05 |  |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-12-05 | 2026-03-15 |
 | [Higher](https://open.spotify.com/track/6cNWUbbPkDIx37YeUZae3X) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Higher](https://open.spotify.com/album/0vtaoXqcGsvJ1pulQ3UDoO) | 4:06 | 2025-07-03 | 2025-09-05 |
 | [Higher](https://open.spotify.com/track/2HXPmr2DvNAZbemNvJTPP4) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Higher](https://open.spotify.com/album/0TQIU88mRn3aqZZXcUhFUD) | 2:29 | 2025-07-07 | 2025-09-12 |
 | [Hollow Noon](https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:23 | 2025-10-16 | 2026-02-06 |

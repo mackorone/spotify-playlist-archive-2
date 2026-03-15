@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sarah Black
 
-738 songs - 1 day 17 hr 56 min
+740 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Kaadhal Kanna](https://open.spotify.com/track/4cxbOxnhfbgLd1ZZFTa4i0) | [Kanimozhi Kabilane](https://open.spotify.com/artist/7ARoKETwZfM1MAwuvYxtAR), [Tharun Medley](https://open.spotify.com/artist/5tzzxTj73S4syVrVQo9gFc) | [Kaadhal Kanna](https://open.spotify.com/album/3gc8GWIW8RUAVtzTL8ZUPf) | 4:37 | 2023-07-06 | 2024-01-20 |
 | [Kaadhal Kanna](https://open.spotify.com/track/6CPsDWOjYdRTbdH5BIuVfh) | [Kanimozhi Kabilane](https://open.spotify.com/artist/7ARoKETwZfM1MAwuvYxtAR), [Tharun Medley](https://open.spotify.com/artist/5tzzxTj73S4syVrVQo9gFc) | [Kaadhal Kanna](https://open.spotify.com/album/4Zdez1WTo7CmrQVRd66Jdu) | 4:37 | 2023-07-06 | 2024-01-05 |
 | [Kaadhal Kolluthe](https://open.spotify.com/track/2eB6gQjZdls4ZGckkf20Gw) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Sunny Stephen Nathan](https://open.spotify.com/artist/56CPqj0QxUYMA9udITIUzk) | [Kaadhal Kolluthe](https://open.spotify.com/album/6JwWwZw0GNqd7RQj6ECxUf) | 3:18 | 2023-07-04 | 2023-10-07 |
+| [Kaadhal Mazhai](https://open.spotify.com/track/4Y30WM8dndBVZQohdrM81d) | [Satish GM Benilda](https://open.spotify.com/artist/5ZTqNLoPXr3MQwxbCeYi9B), [Alisha Mathew Thayil](https://open.spotify.com/artist/4qqgPPYCo4LUdFqrhvb0Oo) | [Kaadhal Mazhai](https://open.spotify.com/album/6RrWEPn2MK7weXFml7VoGc) | 4:02 | 2026-03-14 |  |
 | [Kaadhal Mugil](https://open.spotify.com/track/50hu3q96SgLFhhDX4Hm8ed) | [Harish](https://open.spotify.com/artist/30dSn7msR5gFPrPCWumBXA), [Samathmika K](https://open.spotify.com/artist/6mknIwqnuUvjJjQznjJPHy) | [Kaadhal Mugil](https://open.spotify.com/album/55TpCaFAhnwHC3vxn3rCNT) | 5:21 | 2024-07-27 | 2025-01-17 |
 | [Kaadhal Okay](https://open.spotify.com/track/7tDDmKY7q2EDQg8nUmJ5Zi) | [Anushya Murugesh](https://open.spotify.com/artist/0nYWQV1UxFT7NgMv8vMaF8) | [Kaadhal Okay](https://open.spotify.com/album/1p4LQZj3Nnaf9eWeYA6BJW) | 2:50 | 2025-03-17 | 2025-06-04 |
 | [kaadhal overrated.](https://open.spotify.com/track/0c1xlZFZxidQ1JheR9OB7D) | [JBE](https://open.spotify.com/artist/65QGjfyW0qmCA5710AfZIQ), [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4), [Sunil Jacksz](https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5), [Skinny Slayah](https://open.spotify.com/artist/2DicgVVpmkVkYrnu4RR5p1) | [kaadhal overrated.](https://open.spotify.com/album/1XfR7gh5q0hIK6WPrGgi4D) | 3:51 | 2025-02-14 | 2025-03-23 |
@@ -644,6 +645,7 @@
 | [Unakae](https://open.spotify.com/track/7BWRT8MEZc1jlwuDHvpmnN) | [Prasad S.N](https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4), [Reshma Shyam](https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB) | [Unakae](https://open.spotify.com/album/2F9itCoOPrrMvj18OiDr6F) | 3:37 | 2023-09-08 | 2024-03-01 |
 | [Undhan Mugam Kaana](https://open.spotify.com/track/1quyCIz5SauoZn6PV16YxN) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [Kumudhavalli](https://open.spotify.com/artist/1cLCzBWRM5xAK7BGrrZIF4) | [Undhan Mugam Kaana](https://open.spotify.com/album/73wEq0nKzBdM8EIQxYw5IK) | 2:54 | 2025-11-03 | 2026-03-06 |
 | [Unmai Kaadhale](https://open.spotify.com/track/5E9GzGPdM6ce16LEa3rE5C) | [Akash Justin](https://open.spotify.com/artist/5w4yb5ve75X4sQmDYDRp4r) | [Unmai Kaadhale](https://open.spotify.com/album/3UVQ9PpPogmEnJ0L0bI1wj) | 3:15 | 2025-07-22 | 2025-08-26 |
+| [Unna Paatha Naa](https://open.spotify.com/track/5Hymn39VBqYksIsd3mwtZX) | [Ritin Samuel](https://open.spotify.com/artist/2nL8a1g4WhOGOVkZtTWMEr), [Serene Thabita](https://open.spotify.com/artist/3aQDxrRtzFMMO8AJWXr8KW) | [Unna Paatha Naa](https://open.spotify.com/album/1sFYocQAHVa1IAs1tiHGxp) | 3:38 | 2026-03-14 |  |
 | [Unna Pathen](https://open.spotify.com/track/1vzMSXTwhOSU8yTAPAhL53) | [Kutty](https://open.spotify.com/artist/4lGjzD05gTyFyYees76463) | [Unna Pathen](https://open.spotify.com/album/4uyzAqjOakQt6IZhc0l4uH) | 2:45 | 2024-09-13 | 2024-10-19 |
 | [Unnai Arindhen](https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Rashmi Anand](https://open.spotify.com/artist/3fiP4MnI0ghnBS61q1VK7T) | [Unnai Arindhen](https://open.spotify.com/album/3q0Hlndf5sExAByNRrMruK) | 3:01 | 2023-10-17 | 2023-12-12 |
 | [Unnale Nenjam](https://open.spotify.com/track/1wEtNow5yRDSDlAK9SRNrk) | [Surabhi Vimala](https://open.spotify.com/artist/03W0fDGDp3NuAgNUXjm6pT), [Hemanth Kumar MHD](https://open.spotify.com/artist/0FdT37rY4wTmIF4B8kPjpV) | [Unnale Nenjam](https://open.spotify.com/album/1KK8mV64cr5vxDTEl3Sp9t) | 4:16 | 2025-12-01 | 2025-12-04 |

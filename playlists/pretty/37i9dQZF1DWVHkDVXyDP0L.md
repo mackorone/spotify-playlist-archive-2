@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 98 | [Vampire Class](https://open.spotify.com/track/7j06aRB3sWhdMd91ntg81z) | [The Phoenix Foundation](https://open.spotify.com/artist/0Rus0e2zrkY6T4E5IYFNsA) | [Vampire Class](https://open.spotify.com/album/3QythpsQ136w6u2EofA8p7) | 3:22 |
 | 99 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
 
-Snapshot ID: `AAAAAO5pJ7IL4LCS/keWUyD+WRhZreMn`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

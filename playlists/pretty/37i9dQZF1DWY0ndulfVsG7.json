@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 63694,
+  "num_followers": 63707,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Terlalu Cinta",
         "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 259040,
       "name": "Terlalu Cinta",
       "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Sudah Ku Tahu",
-        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
+        "name": "Identiti",
+        "url": "https://open.spotify.com/album/1mtuo1TIeHj64UWWPzjSZI"
       },
       "artists": [
         {
-          "name": "Projector Band",
-          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/2ZQY8HKMtEjGdxgcuW2574"
         }
       ],
-      "duration_ms": 258331,
-      "name": "Sudah Ku Tahu",
-      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
+      "duration_ms": 280480,
+      "name": "Sepi Sekuntum Mawar Merah",
+      "url": "https://open.spotify.com/track/4sRPgFGFMkGGW2zYFgUPZZ"
     },
     {
       "added_at": "2024-11-29 03:37:32",

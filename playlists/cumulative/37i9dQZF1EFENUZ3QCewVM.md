@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 9 hr 28 min
+181 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,8 +77,9 @@
 | [Guts!](https://open.spotify.com/track/2LzEmHpz8aaJukwPtYr1Pb) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 3:31 | 2024-05-31 |  |
 | [Handlebars](https://open.spotify.com/track/6ixErpg4UrmWcpTgOUEuRM) | [Funguypiano](https://open.spotify.com/artist/6cZqUJFOubd93SOH0yDHRj) | [Kpop Piano Collection, \#11](https://open.spotify.com/album/7uHs1hIbUIQRV7tPvcg2wX) | 2:53 | 2025-07-26 | 2025-07-28 |
 | [Handlebars](https://open.spotify.com/track/0QVdnzBvSOaC6DuniTTOBT) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [Handlebars](https://open.spotify.com/album/2FHy1x2PsQj5hQs0UWRJv2) | 2:26 | 2025-07-27 | 2026-03-02 |
-| [Handlebars](https://open.spotify.com/track/6ZXiVlnnmkOPZ90cW6ga8U) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [Handlebars](https://open.spotify.com/album/2Z6ZqBHtZtS9imx4P1IMOV) | 2:26 | 2026-03-01 |  |
+| [Handlebars](https://open.spotify.com/track/6ZXiVlnnmkOPZ90cW6ga8U) | [Welcome2hills](https://open.spotify.com/artist/7xCL2844XqfWaBLZtVDAmz) | [Handlebars](https://open.spotify.com/album/2Z6ZqBHtZtS9imx4P1IMOV) | 2:26 | 2026-03-01 | 2026-03-15 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-29 |  |
+| [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 | 2026-03-14 |  |
 | [HeartLess](https://open.spotify.com/track/3rf9vbMO0vuhtB3CDHTjsO) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 2:38 | 2024-02-27 |  |
 | [Heaven](https://open.spotify.com/track/0wLdOe8U2zdnTGcTQ10BZd) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Heaven](https://open.spotify.com/album/6KAouQ5s01PZpMwf9rbedZ) | 2:36 | 2025-04-19 | 2025-07-21 |
 | [Heaven](https://open.spotify.com/track/3Nei1PcsC5g7t5RU50JGQW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 2:36 | 2026-01-01 |  |

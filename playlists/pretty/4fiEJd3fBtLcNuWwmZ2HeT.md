@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 443 songs - 1 day 1 hr 25 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 446 songs - 1 day 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -451,5 +451,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 441 | [ヴェノマニア公の狂気](https://open.spotify.com/track/4SBbk1mjX4ZyEmPB9RgfRi) | [mothy](https://open.spotify.com/artist/7LOYTIZlvOwx83g2iBL3eM) | [EVILS FOREST](https://open.spotify.com/album/1Ny1AB9rQdgU8ulXGbMyVM) | 4:05 |
 | 442 | [Perverted Martyr](https://open.spotify.com/track/1Xb86IudDAjgxvkejaaQ1O) | [Femme Fatale](https://open.spotify.com/artist/1Xx67XOeAxqfb5CUbaugg5) | [ARCANA](https://open.spotify.com/album/4AevWRFRi6OOeck4wDOL80) | 3:52 |
 | 443 | [ハッピー内蔵ケーキ](https://open.spotify.com/track/3H9CreSymo0QWcst8GF9gj) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [ハッピー内蔵ケーキ](https://open.spotify.com/album/07mcV8nr6ea7Gwx6hA3ReL) | 2:37 |
+| 444 | [Amygdala's Rag Doll](https://open.spotify.com/track/11LOpncQm2hylzwfvG2j7q) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [Thanks to You Song](https://open.spotify.com/album/7jR9LLmvyGevD3hgWa8geY) | 4:35 |
+| 445 | [くたばろうぜ](https://open.spotify.com/track/3r6xYYqdyPLrKjEgxaW2N5) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/2L84XD90kjs9HVG51eb4jK) | 3:26 |
+| 446 | [天国へ行こう](https://open.spotify.com/track/11mV5Ol1OcOimE20hpASVR) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 4:39 |
 
-Snapshot ID: `AAAJ9mhap8+jcH+G27B49qZAxhHX/vxO`
+Snapshot ID: `AAAJ+dItkF+YYtQkDl9KNCyWhliXbtik`

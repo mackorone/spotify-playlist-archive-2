@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Christopher, Zar Paulo, Sira Jovina  og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,868 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,885 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 61 | [B Phonk](https://open.spotify.com/track/15HHFfltYQLrQ54KnOuqi8) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Yes Empress / B Phonk](https://open.spotify.com/album/3UwP6GYYBjZ1M0Uae7phZM) | 5:57 |
 | 62 | [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 |
 | 63 | [MAJOR](https://open.spotify.com/track/1kq4zWISucHTwOatSmzMzO) | [Wesmo](https://open.spotify.com/artist/6igw5k1b1JrNyj4E3rZVm3) | [1 ÅR](https://open.spotify.com/album/2Ir3Wg2N8CnhJCjjpYqeAI) | 1:53 |
-| 64 | [Who We Are \(with Haley May\)](https://open.spotify.com/track/4HoA4tP66pVzicpNVtVnE3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Who We Are \(with Haley May\)](https://open.spotify.com/album/5GyfGRTv7TkytZCCqQrPef) | 2:10 |
+| 64 | [Who We Are \(with Hayley May\)](https://open.spotify.com/track/4HoA4tP66pVzicpNVtVnE3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Who We Are \(with Hayley May\)](https://open.spotify.com/album/5GyfGRTv7TkytZCCqQrPef) | 2:10 |
 | 65 | [Echoed Dafnino](https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Echoed Dafnino](https://open.spotify.com/album/2VklyfVYWd26jxCdsuRHsj) | 5:33 |
 | 66 | [Run It Up](https://open.spotify.com/track/3uSh0SD7P54RShVHzbl5IL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Run It Up](https://open.spotify.com/album/3e9TKAM82tTQDbQyW9Kk2L) | 2:37 |
 | 67 | [Ung igen](https://open.spotify.com/track/6ERgIgrar2hoUf3qytMOAK) | [Giv dig hen](https://open.spotify.com/artist/1ilJZzKC1D1fPXCCqFtcKB), [Shyka Paya](https://open.spotify.com/artist/4F6SYeQeG8WTEoNtIsgpOB) | [Ung igen](https://open.spotify.com/album/7LXx5gpRbieC4GLzexk5ly) | 2:19 |

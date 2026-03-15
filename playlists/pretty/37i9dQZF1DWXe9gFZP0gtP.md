@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844,842 likes - 200 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,845,521 likes - 200 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 199 | [Sensible](https://open.spotify.com/track/1bxduZWRWByD1B2O7TEXNO) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Sensible](https://open.spotify.com/album/0oXTqsMJjuLbhhcaq4jzTo) | 2:36 |
 | 200 | [Exploratory](https://open.spotify.com/track/4FHSM0CZKWlcUwSHSDG88H) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Exploratory](https://open.spotify.com/album/5tOkB96eCPsdgDqkIM54zX) | 3:22 |
 
-Snapshot ID: `AAAAAK/ArwPWy1X99rR8R3VGW0kJFD5I`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

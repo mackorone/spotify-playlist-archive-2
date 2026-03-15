@@ -18589,6 +18589,28 @@
     },
     {
       "album": {
+        "name": "Dale Pa Ve",
+        "url": "https://open.spotify.com/album/6ZRY6ZI2QUrvGQE8vs2iAO"
+      },
+      "artists": [
+        {
+          "name": "Yustin NR",
+          "url": "https://open.spotify.com/artist/57t8ZZCFDcIFtCwBp4Bgsr"
+        },
+        {
+          "name": "Dj Pelon La Maquina",
+          "url": "https://open.spotify.com/artist/02hIuO3eUSUbzPsn0wZI07"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124113,
+      "name": "Dale Pa Ve",
+      "url": "https://open.spotify.com/track/74sWevco6eLMcW6bZfdfjx"
+    },
+    {
+      "album": {
         "name": "Dale Zelda Dale",
         "url": "https://open.spotify.com/album/4nGirTP4VnGeBYh3DQy8DA"
       },
@@ -27572,7 +27594,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 415973,
       "name": "Falsas Promesas (Remix)",
       "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
@@ -30126,10 +30148,28 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 190843,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
+    },
+    {
+      "album": {
+        "name": "EL TRAP DE KOLOMBIA",
+        "url": "https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "GANAS",
+      "url": "https://open.spotify.com/track/5pWjftak57bAYP6yjQPBhq"
     },
     {
       "album": {
@@ -31328,6 +31368,32 @@
       "duration_ms": 219212,
       "name": "Goldigger",
       "url": "https://open.spotify.com/track/10YoUoKIx96ZJM0NDSkTlV"
+    },
+    {
+      "album": {
+        "name": "GOLDSTONE SESSION 002",
+        "url": "https://open.spotify.com/album/0SneAPbYcwL37jiHQJFzUP"
+      },
+      "artists": [
+        {
+          "name": "GOLDSTONE MUSIC",
+          "url": "https://open.spotify.com/artist/4sxKtdH92pSy3auy7OdEc7"
+        },
+        {
+          "name": "Vero Luna",
+          "url": "https://open.spotify.com/artist/0DwQ7lIP474RbjY0QNYlgR"
+        },
+        {
+          "name": "4bes",
+          "url": "https://open.spotify.com/artist/73SuBOu3iOokNerNlByLoY"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "GOLDSTONE SESSION 002",
+      "url": "https://open.spotify.com/track/2rnRw8EjfKMaaiQFpZdC3E"
     },
     {
       "album": {
@@ -53508,7 +53574,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 162168,
       "name": "No Es Mi Culpa",
       "url": "https://open.spotify.com/track/1pqEzbKBj5JVFaiJZQju6V"
@@ -57986,6 +58052,32 @@
       "duration_ms": 196826,
       "name": "PANDORA",
       "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
+    },
+    {
+      "album": {
+        "name": "PANTI Y COLALE",
+        "url": "https://open.spotify.com/album/3gufpvtEIFABgDJZjAvgzw"
+      },
+      "artists": [
+        {
+          "name": "DJ Chulo NYC",
+          "url": "https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "PANTI Y COLALE",
+      "url": "https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM"
     },
     {
       "album": {
@@ -65688,7 +65780,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 245469,
       "name": "ROSITA",
       "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
@@ -65786,7 +65878,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -65804,7 +65896,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -68290,7 +68382,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
@@ -82560,7 +82652,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 181066,
       "name": "Viernes 13",
       "url": "https://open.spotify.com/track/1qXYKmTTd4e0YdugtGmb5R"

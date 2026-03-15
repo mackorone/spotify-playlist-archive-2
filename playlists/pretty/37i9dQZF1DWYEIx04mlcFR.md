@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Valsian en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,974 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,975 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 54 | [0%](https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [0%](https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ) | 2:53 |
 | 55 | [Un buen día](https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Un buen día](https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su) | 3:26 |
 
-Snapshot ID: `AAAAAJ3xWMLbvoZ/JSPOHfR6WwcrafK8`
+Snapshot ID: `AAAAAC27rdHNAYatXVzvHReJE3GhSXcW`

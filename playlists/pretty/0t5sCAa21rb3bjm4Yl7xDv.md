@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Olivia Dean
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,064 likes - 101 songs - 5 hr 32 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,045 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

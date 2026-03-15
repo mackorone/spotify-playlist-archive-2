@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Sonidos Del Amazonas",
+        "url": "https://open.spotify.com/album/2okNTtLspZqABFe7Pn7cxI"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178386,
+      "name": "Begin the Beguine",
+      "url": "https://open.spotify.com/track/6YrS3wzfNyElJIBI95x3Fh"
+    },
+    {
+      "album": {
         "name": "Presentando a Los Indios Tabajaras",
         "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 178386,
       "name": "Beguin The Beguin",
       "url": "https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5"

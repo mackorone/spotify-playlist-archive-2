@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,185 songs - 4 day 17 hr 23 min
+2,186 songs - 4 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,7 +1093,7 @@
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-10 | 2025-09-05 |
 | [Lago Maggiore](https://open.spotify.com/track/2QGQO0H2bkgAvRfgfvnxbD) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Nordic Machine](https://open.spotify.com/album/4XHdvDlocx2Kd8VdXVmDpI) | 2:58 | 2025-05-15 | 2025-06-21 |
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-09-25 |
-| [Landslide](https://open.spotify.com/track/6xmfvJOanTz7lLPTOnPCG2) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Mosquito](https://open.spotify.com/album/2ajSzW4bjY8bGnRt0RBMhm) | 4:06 | 2026-03-05 |  |
+| [Landslide](https://open.spotify.com/track/6xmfvJOanTz7lLPTOnPCG2) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Mosquito](https://open.spotify.com/album/2ajSzW4bjY8bGnRt0RBMhm) | 4:06 | 2026-03-05 | 2026-03-15 |
 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 | 2024-09-12 | 2025-03-03 |
 | [Last Night on Earth](https://open.spotify.com/track/0TCttoUHi6b3o6U9Hy4ZlD) | [Josefine Ridell](https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8) | [Last Night on Earth](https://open.spotify.com/album/7KOfqqznoVvU8Hr2Qaoez1) | 2:53 | 2024-05-09 | 2024-06-07 |
 | [Late Night Talk](https://open.spotify.com/track/2ZOtJOvPN2Xas5KAPP3GSv) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Late Night Talk](https://open.spotify.com/album/2j4ORwSrhlyne4RCRrN8oM) | 2:15 | 2024-09-26 | 2024-10-25 |
@@ -1573,6 +1573,7 @@
 | [Safe](https://open.spotify.com/track/5YWHPx3STBbT1b5Xfn7hGU) | [IONA](https://open.spotify.com/artist/2kkw1G9LvKwNcEOl4CFu8r) | [Safe](https://open.spotify.com/album/47aEkdMv1yTwN6MRJ3LuBl) | 3:07 | 2022-03-10 | 2022-05-30 |
 | [Safe And Sorry](https://open.spotify.com/track/6f7TYlaYYwOxZ0OeZCX3ZD) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Safe And Sorry](https://open.spotify.com/album/0AphAftJDSEGYfDzzHKQue) | 2:58 | 2025-07-31 | 2025-09-21 |
 | [Safety Lines](https://open.spotify.com/track/324ZhICCs6FW3cGag9dcgg) | [Dead People](https://open.spotify.com/artist/6v6B8vOBZOHBwRtfhB4MM9) | [Safety Lines](https://open.spotify.com/album/4beGjjFosk130hWy8tOgVv) | 3:45 | 2021-12-16 | 2022-03-05 |
+| [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 | 2026-03-12 |  |
 | [Sagor](https://open.spotify.com/track/0o0CPrW2DAKQ8C85ErOu1d) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Sagor](https://open.spotify.com/album/36ZqWtQK4ReRCcXXrWWD5F) | 2:02 | 2024-05-30 | 2024-06-28 |
 | [Said and Done](https://open.spotify.com/track/3jnMhpFIw1rtQh43XnNUxs) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN) | [Said and Done](https://open.spotify.com/album/3fcb8NFdFLts2fxvFOzSSm) | 2:54 | 2022-04-07 | 2022-04-20 |
 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 | 2024-09-19 | 2024-10-06 |

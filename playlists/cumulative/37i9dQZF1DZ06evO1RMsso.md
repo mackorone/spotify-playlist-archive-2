@@ -4,7 +4,7 @@
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 29 min
+59 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [The Arrival of Baby Harry](https://open.spotify.com/track/4ir6xoRDxJmUikNTi0t7Cp) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 4:25 | 2025-09-01 | 2025-11-08 |
 | [The Chairman's Waltz](https://open.spotify.com/track/67EOtoy4dasPCapvD0aycg) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Memoirs of a Geisha \(Remastered\)](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C) | 2:39 | 2025-07-21 | 2025-12-23 |
 | [The Dance of the Witches](https://open.spotify.com/track/0x5xRTV6l8tCr8ShASj9Wd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Witches of Eastwick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6biRMMkj61KdyfFzH36y6K) | 4:46 | 2025-11-02 | 2025-11-10 |
+| [The Fabelmans](https://open.spotify.com/track/0hQH6GWZcT0KTx8ZMWezBl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [The Fabelmans \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3dWmhh9KGeDVbOdVSGLgHC) | 2:13 | 2026-03-15 |  |
 | [The Immolation Scene](https://open.spotify.com/track/4liOrw7OIc5zCxkFJiK2tJ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 2:39 | 2025-05-19 | 2025-05-20 |
 | [The Imperial March \(Darth Vader's Theme\)](https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 2:59 | 2025-04-18 |  |
 | [The Norwegian Ridgeback and a Change of Season](https://open.spotify.com/track/6pbAfIcd0IQXTE3a3LHURA) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 2:47 | 2025-12-15 | 2026-02-19 |

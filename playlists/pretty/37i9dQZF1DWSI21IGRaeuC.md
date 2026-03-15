@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring SOSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,144 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,206 likes - 115 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 |
-| 2 | [Freaky Freqz](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freaky Freqz](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
+| 2 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
 | 3 | [Just Like That](https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Just Like That EP](https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3) | 3:23 |
 | 4 | [Illusion](https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Illusion](https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW) | 2:23 |
 | 5 | [Built For This](https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua) | [AAT](https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:15 |

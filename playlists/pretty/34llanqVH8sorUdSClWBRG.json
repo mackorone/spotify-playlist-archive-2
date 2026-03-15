@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAATYARXtEDQvQ+xOkIEJi8dsRAknDk",
+  "snapshot_id": "AAAATtoVfIfcM82gxgyKHJHww9GWxxKn",
   "tracks": [
     {
       "added_at": "2023-03-21 05:28:46",
@@ -1131,6 +1131,22 @@
       "duration_ms": 211396,
       "name": "Disco! in the Panic Room",
       "url": "https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx"
+    },
+    {
+      "added_at": "2026-03-14 21:48:49",
+      "album": {
+        "name": "why am i like this",
+        "url": "https://open.spotify.com/album/6hhTRMlslZIDOcuobjHjLh"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 176635,
+      "name": "why am i like this",
+      "url": "https://open.spotify.com/track/3gE5o0qeyamJePqYcPgYcJ"
     }
   ],
   "unique_name": "Diseased",

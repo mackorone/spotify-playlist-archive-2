@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abICAAAAAADfCIkflQP/egbDTWcp1twZ",
+  "snapshot_id": "abNTgAAAAADE0oqyY8jGPKbOyjTQ0LKW",
   "tracks": [
     {
       "added_at": null,
@@ -991,18 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
+        "name": "Friends From Your Hometown",
+        "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
       },
       "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 167253,
-      "name": "because, of course",
-      "url": "https://open.spotify.com/track/32D40ahBsZPCaGkkQcUWv7"
+      "duration_ms": 202653,
+      "name": "The Middle (feat. Maren Morris) - Live",
+      "url": "https://open.spotify.com/track/03iUGNlXGf02woPw1r8qFy"
     },
     {
       "added_at": null,

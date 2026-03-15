@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Lekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,369,378 likes - 250 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369,419 likes - 250 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

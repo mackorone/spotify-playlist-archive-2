@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,960 likes - 195 songs - 10 hr 53 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,966 likes - 195 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 21 | [Anyway](https://open.spotify.com/track/39NlRAkx2g9WPY5xKTILdv) | [Rockwell](https://open.spotify.com/artist/5Bz409CcH4Rk3sqhmOpcxf) | [Anyway / Silver Linings](https://open.spotify.com/album/4WJolzNdAqjqfc2dbt4edA) | 4:08 |
 | 22 | [Problemsss](https://open.spotify.com/track/6xkrfrsmz7GWkIbmPd7owG) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [Problemsss](https://open.spotify.com/album/3UguD39PJXiEKE6OIrIvce) | 2:47 |
 | 23 | [Nonstop](https://open.spotify.com/track/3ogpvXigUn1DOPJQ03L6M2) | [NIK P](https://open.spotify.com/artist/2o874yOIwfz6MuDQMYYCCS), [Black Carl!](https://open.spotify.com/artist/07oZEFDySnjPl7vqqD8XSq) | [Nonstop](https://open.spotify.com/album/3SSsFOsu5lBV33eqL0x0h8) | 3:18 |
-| 24 | [Who We Are \(with Haley May\)](https://open.spotify.com/track/4HoA4tP66pVzicpNVtVnE3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Who We Are \(with Haley May\)](https://open.spotify.com/album/5GyfGRTv7TkytZCCqQrPef) | 2:10 |
+| 24 | [Who We Are \(with Hayley May\)](https://open.spotify.com/track/4HoA4tP66pVzicpNVtVnE3) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Who We Are \(with Hayley May\)](https://open.spotify.com/album/5GyfGRTv7TkytZCCqQrPef) | 2:10 |
 | 25 | [Feed The Fire](https://open.spotify.com/track/0n4nWZZlJhoYKT3ivA0Tqw) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Feed The Fire](https://open.spotify.com/album/06K7RkgunV8m8Lonc9DtU4) | 3:15 |
 | 26 | [Run It Up](https://open.spotify.com/track/3uSh0SD7P54RShVHzbl5IL) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Run It Up](https://open.spotify.com/album/3e9TKAM82tTQDbQyW9Kk2L) | 2:37 |
 | 27 | [PUSH IT!](https://open.spotify.com/track/00zfXJaLdb2zPAuw7yRas9) | [SHAKING](https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6), [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [PUSH IT!](https://open.spotify.com/album/0hCPigB4vRMewmngi3g6Mc) | 3:49 |

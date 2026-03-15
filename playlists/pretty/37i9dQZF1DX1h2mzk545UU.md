@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,775 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,794 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 15 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
 | 16 | [Puñaladas](https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN) | [Lauta](https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci), [Amigo de Artistas](https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [Puñaladas](https://open.spotify.com/album/5S8mx5C6D6jj6l7ESqqrXD) | 2:19 |
 | 17 | [Sonríele](https://open.spotify.com/track/1ibAbmVpngm3LQGvAWqZXX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sonríele](https://open.spotify.com/album/4RShTSx84DqaQZ45XaYeRn) | 2:58 |
-| 18 | [No Vayas a Llorar I Varieté \#5](https://open.spotify.com/track/4zFRyL1GIKf17Fhp35AOUJ) | [Tincho Di Salvo & Javi Zurro](https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG) | [No Vayas a Llorar I Varieté \#5](https://open.spotify.com/album/7MoyUPjnBfmcZbZCoYUT7w) | 2:25 |
+| 18 | [No Vayas a Llorar I Varieté \#5](https://open.spotify.com/track/4zFRyL1GIKf17Fhp35AOUJ) | [Tincho & Javi](https://open.spotify.com/artist/1IwZVX2Q33V4hXujKStsty), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG) | [No Vayas a Llorar I Varieté \#5](https://open.spotify.com/album/7MoyUPjnBfmcZbZCoYUT7w) | 2:25 |
 | 19 | [La Bandita](https://open.spotify.com/track/7KtVZ3vkhcPEqTsA4Qkstd) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Diamante Ayala](https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d), [Look DC](https://open.spotify.com/artist/5i7omv4qeyFwx7kd4jYK9i) | [La Bandita](https://open.spotify.com/album/4RoQj979nXF7VYUxqIUd5w) | 3:24 |
 | 20 | [7 VIDAS](https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [7 VIDAS](https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB) | 2:24 |
 | 21 | [Así Así](https://open.spotify.com/track/5yV2BEVcRibgXMxZuf9awh) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Así Así](https://open.spotify.com/album/3EOCDX0SyIHjN9vaEgX8EI) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 | 99 | [Amor Material](https://open.spotify.com/track/6E36Zi4KEGsFEpMKbAzMtH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ataca Sergio Presents: Urban Salsa Sessions Volume 1](https://open.spotify.com/album/7tflY9bdORYFpXVnhQtzAn) | 2:49 |
 | 100 | [SaSa](https://open.spotify.com/track/79ETUBpfw12j3MTdYLteyx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [SaSa](https://open.spotify.com/album/1A9XILpF2pE09N6zEDkofF) | 3:30 |
 
-Snapshot ID: `AAAAAEHJ10GGzafL2teM1fuU8I7CZlwL`
+Snapshot ID: `AAAAAAt7OfXB+PQgQzeaXKF+n/xAe60K`

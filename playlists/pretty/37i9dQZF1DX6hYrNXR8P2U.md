@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > MUY PIOLA<br/>📷 Juana Rozas
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,065 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,052 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 79 | [Pensando en Ella](https://open.spotify.com/track/0xKip9rjYsEWRdBYlJ0G3K) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Pensando en Ella](https://open.spotify.com/album/3bnsZ3LTSKoCTVAE0TjxM5) | 3:24 |
 | 80 | [PUTAS \- Spotify Sessions](https://open.spotify.com/track/4jhSKN2r5mIHybTDiJxFi7) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:13 |
 
-Snapshot ID: `AAAAAGK6u5mkfct+UobMKtnvSrX7210g`
+Snapshot ID: `AAAAAEJXXDK+LJN9P3Mz37hX1WQrArwX`

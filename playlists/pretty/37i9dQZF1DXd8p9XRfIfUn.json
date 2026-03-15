@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80929,
+  "num_followers": 80936,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "POPPER!",
-        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 110141,
-      "name": "POPPER!",
-      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
         "name": "Que a Pasao",
         "url": "https://open.spotify.com/album/00LnZnMQqMsYFIhnTjGAEo"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "POPPER!",
+        "url": "https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 110141,
+      "name": "POPPER!",
+      "url": "https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "X Ti Lo Digo",
         "url": "https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM"
       },
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Reggaeton Pesa\u2019o",
-        "url": "https://open.spotify.com/album/3yhEt7BrCO7hi7aRdUFXuZ"
+        "name": "Manzana",
+        "url": "https://open.spotify.com/album/0LozjoHXdTejrX64kaMb70"
       },
       "artists": [
         {
-          "name": "TBX",
-          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
-        },
-        {
-          "name": "Cael Roldan",
-          "url": "https://open.spotify.com/artist/33hFgg3zqijh4EA4IkUzw3"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 169546,
-      "name": "Reggaeton Pesa\u2019o",
-      "url": "https://open.spotify.com/track/2Mc9kPytWq8zSmj9fqp5Cj"
+      "duration_ms": 173936,
+      "name": "Manzana",
+      "url": "https://open.spotify.com/track/1BMoI40IIeE8hUtjSy8jQz"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

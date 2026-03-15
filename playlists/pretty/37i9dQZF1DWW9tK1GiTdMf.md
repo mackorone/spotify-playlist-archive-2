@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > dedichiamo questa cover a naska con tanto cuore e auguri di pronta guarigione ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,330 likes - 110 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,338 likes - 110 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

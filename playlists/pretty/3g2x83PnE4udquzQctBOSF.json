@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2704,
+  "num_followers": 2703,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARiySgU1u9NP3kpSUjo+aBBJm8ZHyo",
+  "snapshot_id": "AAARjA6ST/NGryagqaOt+oIvlsvS46Ka",
   "tracks": [
+    {
+      "added_at": "2026-03-15 03:13:01",
+      "album": {
+        "name": "Alvora",
+        "url": "https://open.spotify.com/album/20mYsLS85BCiXoKA2UI75O"
+      },
+      "artists": [
+        {
+          "name": "KeepNoise",
+          "url": "https://open.spotify.com/artist/6iMok0Y9VLcNLkjuUi3sS9"
+        }
+      ],
+      "duration_ms": 359040,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/3j8exXspffrB9l4HFc80NY"
+    },
     {
       "added_at": "2026-03-13 20:27:45",
       "album": {

@@ -8298,7 +8298,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -24571,6 +24571,24 @@
     },
     {
       "album": {
+        "name": "Na Onda do Brega, Pt. 01",
+        "url": "https://open.spotify.com/album/2sQQnkVZHWUYtzUUBRfM1O"
+      },
+      "artists": [
+        {
+          "name": "Andrielly Souza",
+          "url": "https://open.spotify.com/artist/2uWWjwGR4PAdCDOmcyXO7q"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187048,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/1RfmWFk8CxkOXgD03M5gzu"
+    },
+    {
+      "album": {
         "name": "D\u017eanum",
         "url": "https://open.spotify.com/album/7sac6tKZQBSIkOC9f0zVvA"
       },
@@ -33310,7 +33328,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 291000,
       "name": "Gangstar",
       "url": "https://open.spotify.com/track/4tgLMOHoZlWRmEMclryt6T"
@@ -35252,7 +35270,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 233000,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/0LAvtWIqRjqKRKY2NHzeCn"
@@ -38188,6 +38206,24 @@
       "duration_ms": 184630,
       "name": "ILMB (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt"
+    },
+    {
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "album": {
@@ -74706,7 +74742,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 149960,
       "name": "Ser Solteiro \u00e9 Bom",
       "url": "https://open.spotify.com/track/13tfck7tepcBeThdqW71F6"

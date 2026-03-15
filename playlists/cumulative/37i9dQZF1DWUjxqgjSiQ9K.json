@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Miel San Marcos",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Jose Luis Reyes",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 374101,
       "name": "Algo Grande Viene",
       "url": "https://open.spotify.com/track/0WvEGtwcRMBlWjP3TL1sge"
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 198686,
       "name": "AMOR INIGUALABLE",
       "url": "https://open.spotify.com/track/6JbdBGyzPNvjHPkHSFbuge"
@@ -5796,7 +5796,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 379282,
       "name": "El Que Volver\u00e1",
       "url": "https://open.spotify.com/track/4tr4XXcT6aoAOr0Lhv6yhQ"
@@ -7312,6 +7312,24 @@
       "duration_ms": 216089,
       "name": "Fuente",
       "url": "https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX"
+    },
+    {
+      "album": {
+        "name": "Fuente",
+        "url": "https://open.spotify.com/album/69cLjN7RGmYP1RRjVNL8Ph"
+      },
+      "artists": [
+        {
+          "name": "Ll\u00e9vame de Vuelta",
+          "url": "https://open.spotify.com/artist/7DfPaaPqWzLIQOEJXXnjJY"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533000,
+      "name": "Fuente",
+      "url": "https://open.spotify.com/track/5MWrzekAxyQKMvqcPj75ws"
     },
     {
       "album": {
@@ -10892,6 +10910,24 @@
       "duration_ms": 543230,
       "name": "Mi Mayor Necesidad - Live",
       "url": "https://open.spotify.com/track/0zXd3p2yHvkVg8QOsrdV35"
+    },
+    {
+      "album": {
+        "name": "Mi Mejor Temporada",
+        "url": "https://open.spotify.com/album/4s3FSfb1DCDT8785Dsvmcp"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Mi Mejor Temporada - Live",
+      "url": "https://open.spotify.com/track/5NXDg7pBCbqfEMu2WuLu3u"
     },
     {
       "album": {
@@ -14618,6 +14654,40 @@
       "duration_ms": 229542,
       "name": "Santo Esp\u00edritu",
       "url": "https://open.spotify.com/track/7pTBwEInekrkhZwsbow2Fa"
+    },
+    {
+      "album": {
+        "name": "Santo Por Siempre (Sesi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6jxC6QK203kwI59yM3vjAP"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Factor de Cambio",
+          "url": "https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb"
+        },
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        },
+        {
+          "name": "Joel Rocco",
+          "url": "https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe"
+        },
+        {
+          "name": "Antonio & Allison",
+          "url": "https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9"
+        }
+      ],
+      "date_added": "2026-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320426,
+      "name": "Santo Por Siempre - Sesi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/18zKn6gs8UArJ6fQdqrjac"
     },
     {
       "album": {

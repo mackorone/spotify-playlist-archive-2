@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from PLK, Theodora, Charlotte Cardin and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,284 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,280 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 24 | [Livin' For](https://open.spotify.com/track/61XPuOp0FkBsucySpjoWVG) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Livin' For](https://open.spotify.com/album/7waKmw79F9XR4PzgxCwzqk) | 3:39 |
 | 25 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
 | 26 | [My Body](https://open.spotify.com/track/6HFnh0hW2q0j7XpuXd02cr) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV) | [My Body](https://open.spotify.com/album/3EA4w4EAShgp3HsHYdl1HK) | 2:44 |
-| 27 | [Touché coulé \(feat\. Louzio & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 |
+| 27 | [Touché coulé \(feat\. Louzio, Tazeboy & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 |
 | 28 | [Paradies](https://open.spotify.com/track/5VKPCtMOqa0zP6hwJU80sy) | [CESAR SUN](https://open.spotify.com/artist/6tYLHF9a8F3Uj7M5FQBmlJ) | [Paradies](https://open.spotify.com/album/4V8SavQsri7SEo0zx62ish) | 4:13 |
 | 29 | [Here I Am](https://open.spotify.com/track/2gvM084Yzk1shNhv7bl7sM) | [Sophia Ammann](https://open.spotify.com/artist/2N4R8EDUwfZfdUeaDxdce8) | [Here I Am](https://open.spotify.com/album/61VvhpQDblnuSPpeAZjq3X) | 3:14 |
 | 30 | [OFELE](https://open.spotify.com/track/4DtmqIBYcK7y9u8Z1Dat6m) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:30 |

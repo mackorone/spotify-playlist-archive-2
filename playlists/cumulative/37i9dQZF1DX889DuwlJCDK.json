@@ -3383,6 +3383,24 @@
     },
     {
       "album": {
+        "name": "FREEMAN",
+        "url": "https://open.spotify.com/album/3L1LHLfA3BmnPwZ9Y9lLfd"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168966,
+      "name": "FREEMAN",
+      "url": "https://open.spotify.com/track/5o1RX1hnRFF93KEniMK1sy"
+    },
+    {
+      "album": {
         "name": "NEE",
         "url": "https://open.spotify.com/album/4eSY2Ka1qHuzxEsWxEu45H"
       },
@@ -18022,7 +18040,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 244984,
       "name": "\u30bb\u30df\u30ed\u30f3\u30b0",
       "url": "https://open.spotify.com/track/0BFBygpzI82dFHBGSOyKLq"

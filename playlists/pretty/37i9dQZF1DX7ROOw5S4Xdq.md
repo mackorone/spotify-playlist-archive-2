@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Davi Sacer
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,725 likes - 51 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,740 likes - 51 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 30 | [Go!](https://open.spotify.com/track/4kKSHAVdoFdqRdTNQhHJzn) | [Daniel Galdino](https://open.spotify.com/artist/30VxktM2K5z7ljg1sxyYZu), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Go!](https://open.spotify.com/album/7JhYoEFtu3usZEeEtghuk9) | 2:11 |
 | 31 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0) | 3:40 |
 | 32 | [Juizo de Deus](https://open.spotify.com/track/01nltDE7xSiPrOLOvKEMFC) | [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Juizo de Deus](https://open.spotify.com/album/3b0gpc2c0SOWKh65QR9FZW) | 7:11 |
-| 33 | [Minha Noiva \(Bonus Track\)](https://open.spotify.com/track/0PKkSwdqNhhlFyr6ue9lMq) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah), [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Acalma o Meu Coração](https://open.spotify.com/album/3aV52rP9GGmEsceRcdKWqv) | 5:11 |
+| 33 | [Minha Noiva \(Bonus Track\)](https://open.spotify.com/track/0PKkSwdqNhhlFyr6ue9lMq) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah), [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Acalma o Meu Coração \(Deluxe Edition\)](https://open.spotify.com/album/3aV52rP9GGmEsceRcdKWqv) | 5:11 |
 | 34 | [Ele Tem o Controle \(Ao Vivo\)](https://open.spotify.com/track/6lZmPwiLRLqhVFL0QovKL3) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Ele Tem o Controle \(Ao Vivo\)](https://open.spotify.com/album/1SJTwrdKNe8qdf5ukur5zb) | 4:57 |
 | 35 | [Lost](https://open.spotify.com/track/0eFv5lJ5Xz0OQCz2UYgn6O) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [Lost](https://open.spotify.com/album/1Dnq18X4JFd1Vp7l7X1rQ5) | 3:25 |
 | 36 | [Conheço Um Nome \(I Know a Name\) \- Ao Vivo](https://open.spotify.com/track/0F9eI9kWmc0L1Tr2Upp3Oj) | [John Dias](https://open.spotify.com/artist/3einRPzp7ZMWn7M360r8zc), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Conheço Um Nome \(I Know a Name\) \[Ao Vivo\]](https://open.spotify.com/album/7nShuoxKqhWhvUu4YZio6Y) | 5:41 |

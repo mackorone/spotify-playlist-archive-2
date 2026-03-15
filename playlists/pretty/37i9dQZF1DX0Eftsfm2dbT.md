@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Daichi Yamamoto, NENE, MIKADO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,740 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,754 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 28 | [VERRY SMoL](https://open.spotify.com/track/0BZQkSSnjhnvhwVw9JGT5r) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [VERRY SMoL](https://open.spotify.com/album/0XYOakkssfxOTbrIjxIccs) | 2:07 |
 | 29 | [Yarudake](https://open.spotify.com/track/3ULvBH0JYI1ZI9isQqkuL8) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Yarudake](https://open.spotify.com/album/0Cn29CZeEpMHTczzKk6q0T) | 3:32 |
 | 30 | [Koshy Freestyle \(feat\. DADA & C.O.S.A.\)](https://open.spotify.com/track/2icIPnveZ6MzdoXzjn4WLB) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Soul Quake 3](https://open.spotify.com/album/11gMNssJtONEGPfsRuPLKg) | 3:32 |
-| 31 | [SIL](https://open.spotify.com/track/5vOcNQcWnl8wU7460lIL2h) | [Showy](https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA) | [Showy is Lit 3](https://open.spotify.com/album/6tuGvAFNdorF8LtP9yybwp) | 2:42 |
+| 31 | [SIL](https://open.spotify.com/track/5vOcNQcWnl8wU7460lIL2h) | [Showy](https://open.spotify.com/artist/0KYuVco2oTLHaEUqZ6fL6g), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [krynX](https://open.spotify.com/artist/1py5oZLR8kK3me6CZFcaQo) | [Showy is Lit 3](https://open.spotify.com/album/6tuGvAFNdorF8LtP9yybwp) | 2:42 |
 | 32 | [GYAKUTEN](https://open.spotify.com/track/07koYRe27KxyqpTlqAJvU5) | [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Uka Death Audio](https://open.spotify.com/artist/2WZwiCQE0bEwW97gwygxfN) | [GYAKUTEN](https://open.spotify.com/album/1LZ9Ldo13IN9ufvaGUE5va) | 3:07 |
 | 33 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |
 | 34 | [Tokyo Rain '26 \(feat\. IO\)](https://open.spotify.com/track/0NgOFpXNxtAmBOrVrwWlKA) | [Neetz](https://open.spotify.com/artist/1MI8TsiYmYTE0Fu9CUqTr4), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Story of 991 \[2.0\]](https://open.spotify.com/album/3scbqrRDNJ7pebmVtPb9lS) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Cidade Dormitório, Grisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,758 likes - 66 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,635 likes - 66 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,939 songs - 4 day 19 hr 47 min
+1,940 songs - 4 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [Howling at the Moon](https://open.spotify.com/track/46OCeVzXj7nFAF0rVwnyU7) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Howling at the Moon](https://open.spotify.com/album/1qoGgyg4sLnmzEMj3D87Vs) | 4:12 | 2026-01-02 |  |
 | [Humble Lion](https://open.spotify.com/track/6tNfaOmlIRS883YMh31X9c) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 6:39 | 2024-05-01 |  |
 | [Humo](https://open.spotify.com/track/0i6gOreYdFC33MZyCEi8Td) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Humo](https://open.spotify.com/album/3Xn8L2YufyPCYxxv1L8Xwy) | 3:02 | 2025-12-07 |  |
+| [Humo \- Radio Edit](https://open.spotify.com/track/4MAnq4vUCQu8TM8xorgMeq) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Humo \(Radio Edit\)](https://open.spotify.com/album/3C42j5q03jG0Q9QXucWc20) | 3:25 | 2026-03-14 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2023-03-15 |  |
 | [hungry \(good boy\)](https://open.spotify.com/track/072wHHGstaOqWDzOv5TuB8) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [i'll prosper regardless](https://open.spotify.com/album/7yseRfYBZexZlNNnHmie2Z) | 2:44 | 2025-08-20 |  |
 | [hush little darling](https://open.spotify.com/track/3EX2sdcaVioVWLqKJkepRE) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:26 | 2025-10-28 |  |

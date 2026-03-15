@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,392 songs - 5 day 19 hr 42 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,399 songs - 5 day 20 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2400,5 +2400,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2390 | [On My Own \(Live\)](https://open.spotify.com/track/26g3Bk34MqtXNS0wuO2Ire) | [Herbert Kretzmer](https://open.spotify.com/artist/7mK42D3rSMKrezfx5n4dWY), [Ray Lao](https://open.spotify.com/artist/4ke0Z6uwW8AZKFMX1AdfJf) | [On My Own \(Live\)](https://open.spotify.com/album/5lCNLhmQSKiFHmLLPAVPFb) | 2:16 |
 | 2391 | [Joseph Prayed in Faith](https://open.spotify.com/track/6Ku5qUZycBzXE6CwkhuMnI) | [Hyrum Gray](https://open.spotify.com/artist/23nAsyhNKSQ7CnMi1RugQs) | [Joseph Prayed in Faith](https://open.spotify.com/album/38UcjJyyb7lyKToh7saOQk) | 3:37 |
 | 2392 | [Mi Corazón En Pedazos](https://open.spotify.com/track/6j0TJFdQmdAsJTXg41XeBG) | [JINSEN](https://open.spotify.com/artist/3CvhFGSPAKLmCJUpEiCsUh) | [Mi Corazón En Pedazos](https://open.spotify.com/album/0JgLGUnsb4SXd6Z0IyQum3) | 2:19 |
+| 2393 | [Requiem](https://open.spotify.com/track/7sNXl5umC5JXJue7VEA9A2) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Requiem](https://open.spotify.com/album/0jWwq5t133I0QJoX9NkTOV) | 2:47 |
+| 2394 | [Honey](https://open.spotify.com/track/7FEYItQ5fbacI991xPcWfC) | [The Freaks Rockabilly Band](https://open.spotify.com/artist/7eNVUeiesbdO6mPUnlpbCm) | [Honey](https://open.spotify.com/album/1EwUTSro4liAm84lkkThav) | 3:08 |
+| 2395 | [Smile \(Theme from Modern Times\)](https://open.spotify.com/track/4wI9zHGF4nw8p5qeO9jHyJ) | [Bledi Telha](https://open.spotify.com/artist/08tnj6N05HhRpdGhMSbNxx) | [Smile \(Theme from Modern Times\)](https://open.spotify.com/album/7e4vOFcKpa89XcXkjPjjh9) | 3:34 |
+| 2396 | [Screwed](https://open.spotify.com/track/5skC96Bef44xi38O6TeFaP) | [Savannah Love](https://open.spotify.com/artist/4Y47LEaNMuG8hnVkjgUCPW) | [Savannah Love \(Self\-Titled\)](https://open.spotify.com/album/6OMqQO4RghCklXtXAVFDqT) | 3:14 |
+| 2397 | [Luna](https://open.spotify.com/track/6Z8aTOasE11mrYFa4OsnSw) | [Nacho Contreras](https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS) | [Luna](https://open.spotify.com/album/0DVL1fOfzHH0mhiSX1ukJz) | 1:54 |
+| 2398 | [Angie Stereo \- funk rock](https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 3:19 |
+| 2399 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 |
 
-Snapshot ID: `AAAJ7w4Pr2S7k0qwoEij9WXJCI7srjyC`
+Snapshot ID: `AAAJ9qbrsP+s6BBNGxYGlpjvS1/MJhMO`

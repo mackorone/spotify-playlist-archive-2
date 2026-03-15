@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with ILLENIUM
 
-870 songs - 2 day 4 hr 0 min
+871 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Knock On Wood](https://open.spotify.com/track/1dqt7PgZm65K8Ctm7nOimH) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Lousy](https://open.spotify.com/artist/2KbWUA7pMd5ZpNdj5LPp3s) | [Knock On Wood](https://open.spotify.com/album/7mhsD3T9IWt5pkP90a1In3) | 3:08 | 2022-07-08 | 2022-08-06 |
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
-| [Last Forever](https://open.spotify.com/track/0pKhAdJmnfvNx0WHxm7EP5) | [Col3man](https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv) | [Songs from Scratch](https://open.spotify.com/album/7aH6PIR1zFMUlxIjacTehF) | 3:07 | 2025-12-19 |  |
+| [Last Forever](https://open.spotify.com/track/0pKhAdJmnfvNx0WHxm7EP5) | [Col3man](https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv) | [Songs from Scratch](https://open.spotify.com/album/7aH6PIR1zFMUlxIjacTehF) | 3:07 | 2025-12-19 | 2026-03-15 |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
 | [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 | 2024-04-27 |
 | [Let Me Out](https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Let Me Out](https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a) | 3:36 | 2024-09-06 | 2025-12-13 |
@@ -691,6 +691,7 @@
 | [Solar](https://open.spotify.com/track/61jTmmE6BNfmAFZ8zrBttX) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Solar](https://open.spotify.com/album/0iLc7PUs0lw2pQiDATYlN8) | 3:23 | 2024-08-02 | 2025-03-28 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2025-12-06 |
 | [Someone You Forget](https://open.spotify.com/track/1oLxRluTxUVVsp4k86y21R) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Someone You Forget](https://open.spotify.com/album/2D2ektN5qMfIV98wsZbwNg) | 5:23 | 2025-01-24 | 2025-04-29 |
+| [Something Bout You](https://open.spotify.com/track/3AL2QjShP9KzTvikzJz289) | [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [EYLA](https://open.spotify.com/artist/33psDUfH523L3oZxfpoPW1) | [Something Bout You](https://open.spotify.com/album/4vNs2UzUz5w5gB78mIlkyg) | 3:37 | 2026-03-13 |  |
 | [Something For Your Mind](https://open.spotify.com/track/46EGyxJ2V0rk13jUlIGL6s) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Limitless](https://open.spotify.com/album/3ajS8E0sijasHYpPP25Bxf) | 3:46 | 2025-04-11 |  |
 | [Something To Hold On To](https://open.spotify.com/track/5uxw5qlOS0fD2asqjjMzRs) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Aaron Shirk](https://open.spotify.com/artist/70P7yFhHgxKx4SMe6JCNOW), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Something To Hold On To](https://open.spotify.com/album/3rm0YLNGsLrIvzXODYkgkW) | 4:18 | 2024-03-29 | 2026-03-14 |
 | [SOS](https://open.spotify.com/track/35IYVAx0bMlarpa6mLVuCE) | [FIGMVNT](https://open.spotify.com/artist/1dJkKSS0UaiYm2VQj4J4Gj), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [SOS](https://open.spotify.com/album/4mctviVEjXNnphM6f0uX3Q) | 3:08 | 2025-01-31 | 2025-10-08 |

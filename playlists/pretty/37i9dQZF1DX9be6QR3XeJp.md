@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Ebubé
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,480 likes - 271 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,477 likes - 271 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

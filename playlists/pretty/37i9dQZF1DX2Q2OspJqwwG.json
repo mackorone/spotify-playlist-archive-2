@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 36459,
+  "num_followers": 36469,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-09 21:28:44",
       "album": {
-        "name": "Embrace It",
-        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
-      },
-      "artists": [
-        {
-          "name": "Ndotz",
-          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
-        }
-      ],
-      "duration_ms": 104418,
-      "name": "Embrace It",
-      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
-    },
-    {
-      "added_at": "2026-03-09 21:28:44",
-      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
+    },
+    {
+      "added_at": "2026-03-09 21:28:44",
+      "album": {
+        "name": "Embrace It",
+        "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
+      },
+      "artists": [
+        {
+          "name": "Ndotz",
+          "url": "https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik"
+        }
+      ],
+      "duration_ms": 104418,
+      "name": "Embrace It",
+      "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
       "added_at": "2026-03-09 21:28:44",
@@ -1771,38 +1771,6 @@
     {
       "added_at": "2026-03-09 21:28:44",
       "album": {
-        "name": "PETER PARKER",
-        "url": "https://open.spotify.com/album/5U5cXqaCC6UkBfmIIwulFq"
-      },
-      "artists": [
-        {
-          "name": "Petre Stefan",
-          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "PETER PARKER",
-      "url": "https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR"
-    },
-    {
-      "added_at": "2026-03-09 21:28:44",
-      "album": {
-        "name": "Cupidoane",
-        "url": "https://open.spotify.com/album/26kVsTzpGVeCOYar1wY0ih"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 146872,
-      "name": "Cupidoane",
-      "url": "https://open.spotify.com/track/7EU7LfkpzVy60icTM3y5lb"
-    },
-    {
-      "added_at": "2026-03-09 21:28:44",
-      "album": {
         "name": "Doar La Ea, Ba La Ea",
         "url": "https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG"
       },
@@ -1823,18 +1791,62 @@
     {
       "added_at": "2026-03-09 21:28:44",
       "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+        "name": "Cupidoane",
+        "url": "https://open.spotify.com/album/26kVsTzpGVeCOYar1wY0ih"
       },
       "artists": [
         {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
         }
       ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+      "duration_ms": 146872,
+      "name": "Cupidoane",
+      "url": "https://open.spotify.com/track/7EU7LfkpzVy60icTM3y5lb"
+    },
+    {
+      "added_at": "2026-03-09 21:28:44",
+      "album": {
+        "name": "PETER PARKER",
+        "url": "https://open.spotify.com/album/5U5cXqaCC6UkBfmIIwulFq"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "PETER PARKER",
+      "url": "https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR"
+    },
+    {
+      "added_at": "2026-03-09 21:28:44",
+      "album": {
+        "name": "LNPSTRD",
+        "url": "https://open.spotify.com/album/2EgMkwAkvsGRmcxSb1SDmF"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "lucawts",
+          "url": "https://open.spotify.com/artist/6JPKvFBScSGXNr7D3B6fou"
+        },
+        {
+          "name": "CERCEL",
+          "url": "https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR"
+        },
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "duration_ms": 147105,
+      "name": "LNPSTRD",
+      "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

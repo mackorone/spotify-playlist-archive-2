@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,114 songs - 9 day 2 hr 52 min
+4,115 songs - 9 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1530,7 +1530,7 @@
 | [Good Times Together](https://open.spotify.com/track/3mtOVX3RkG4DVJO2d8IRew) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Good Listening Music](https://open.spotify.com/album/5mpEQ45XDec4XcJyjDf5s8) | 2:48 | 2025-05-27 |  |
 | [Goodbye](https://open.spotify.com/track/4ciqI4T6L5fyi2CmmT2JnS) | [Alice Elzira](https://open.spotify.com/artist/2UMZWBBmQ6wxLSDVXCM6HK) | [Goodbye](https://open.spotify.com/album/1zkbYSANz5os3fqAUnRvth) | 3:16 | 2025-05-16 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-12-10 |  |
-| [Gooo on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 | 2025-05-27 |  |
+| [Goood on](https://open.spotify.com/track/6ix4dhO1Q9v1uWdydbar4v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Lo\-fi ambient perfect for a good soundrack by AIVA](https://open.spotify.com/album/3HzbeYAbDysrAsEaZNbPNl) | 4:49 | 2025-05-27 |  |
 | [Gotta Go Baby](https://open.spotify.com/track/0j7WLlQUzoawGRjs5m8YR7) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Gotta Go Baby](https://open.spotify.com/album/5FXw6cJb5jTvI2zReZMTFB) | 3:32 | 2025-06-04 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2025-05-09 |  |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-12-04 |  |
@@ -2646,6 +2646,7 @@
 | [Open Shore](https://open.spotify.com/track/7nbtr4wFhDYLZY5bnObCUp) | [Kelson Burke](https://open.spotify.com/artist/1IFxvE8HWi3TQaE53S8al5) | [Open Shore](https://open.spotify.com/album/7abkApIfQZGvisyEq4w3tu) | 3:38 | 2026-01-04 |  |
 | [Or Nah \(Spanish Version\) \- REMIX](https://open.spotify.com/track/51Pz9VLswNq2XhhJWymxau) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [Charlie Bermudez](https://open.spotify.com/artist/1OhCrhy6KDdkSkRSR1wVtf) | [Or Nah \(Spanish Version\) \[REMIX\]](https://open.spotify.com/album/0CDWNyEjDajoRbzzbjVX5M) | 1:50 | 2025-12-18 |  |
 | [Or Nah \- Spanish Version](https://open.spotify.com/track/1q9jnVQEIEgTBq4OsZjVfM) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 2:05 | 2025-12-18 |  |
+| [Or Nah \- Summer Vibes](https://open.spotify.com/track/4wDqq8uoFkNTKKzFQjHaHs) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Summer Vibes\)](https://open.spotify.com/album/1SG2mechgVcqZlJoPev1CG) | 2:09 | 2026-03-14 |  |
 | [Or What](https://open.spotify.com/track/0CFhbNsY7CsuSkBQOiLPzz) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 3:19 | 2025-07-28 |  |
 | [Ora che non ho più te \- Unplugged \- Versione Acustica](https://open.spotify.com/track/6IqSmiX1SQewy5MPior9lH) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 3:24 | 2025-04-04 |  |
 | [Oranges & Chrysanthèmes](https://open.spotify.com/track/3y4SVuEyklF6ExU6a4I0Gb) | [Mugen Le Nomade](https://open.spotify.com/artist/3HBiBPZkPgI0k1pIByD4OK) | [Cruisin' Sonata \(2022\)](https://open.spotify.com/album/1vapGIOZVsxPQ3E8hxNWBp) | 2:33 | 2025-06-04 |  |
@@ -3619,7 +3620,7 @@
 | [TIGER JACK](https://open.spotify.com/track/3ApnSYtFjH8w7F84JBNuNZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TIGER JACK](https://open.spotify.com/album/55m9dQFjOKGHwNPccvPwSj) | 3:26 | 2025-12-10 |  |
 | [TIK TAK](https://open.spotify.com/track/6AaJljPfG6OaCaJpbTRqhE) | [ESSETI&ESSEA](https://open.spotify.com/artist/5kMFci7Yj4A4AM5VeJjVpx) | [TIK TAK](https://open.spotify.com/album/2NWFVt9mWDQ4eh2aIFOzGX) | 2:28 | 2025-06-01 |  |
 | [TikTok Fever Dream](https://open.spotify.com/track/0YaPRAs9z03JBvIQiakCy4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 1:50 | 2025-09-19 |  |
-| [TIME](https://open.spotify.com/track/4mvAY5lgn1i9hP491WRhJm) | [AN.GA](https://open.spotify.com/artist/7vU1C8SlZ5g2h6KwdoSFrq) | [TIME](https://open.spotify.com/album/46eRW2tVGpbE9G3kXW27cO) | 4:18 | 2025-06-08 |  |
+| [TIME](https://open.spotify.com/track/4mvAY5lgn1i9hP491WRhJm) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [TIME](https://open.spotify.com/album/46eRW2tVGpbE9G3kXW27cO) | 4:18 | 2025-06-08 |  |
 | [Time](https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq) | [Saint Cassady](https://open.spotify.com/artist/7IKB8iGhtRuhcNFhah1xxU) | [Time](https://open.spotify.com/album/7GqNOb9AzXEeamc7zqsHYV) | 3:34 | 2026-01-01 | 2026-02-06 |
 | [Time Bomb](https://open.spotify.com/track/00KwdidNkOntPgDsBHBYPs) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC) | [Time Bomb](https://open.spotify.com/album/79PyZH8T3m2vezl3B5NeQt) | 3:19 | 2025-06-05 |  |
 | [Time for the Other Song](https://open.spotify.com/track/7mabZvppZ7FTLrsWO9GJYJ) | [Carbox](https://open.spotify.com/artist/3b7TkmnH3ZNro3MJlhTRMl) | [Dark Down](https://open.spotify.com/album/0qAizbg3D61QB2pZe10dQC) | 4:07 | 2025-10-07 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Jada Kingdom",
-  "num_followers": 72869,
+  "num_followers": 73008,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
+        "name": "Heels On - Single",
+        "url": "https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo"
+      },
+      "artists": [
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "duration_ms": 230341,
+      "name": "Heels On",
+      "url": "https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
         "name": "Open The Door",
         "url": "https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 223600,
       "name": "Open The Door",
       "url": "https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
-        "name": "Heels On - Single",
-        "url": "https://open.spotify.com/album/32QwqUCDMihv6W0jcts4oo"
-      },
-      "artists": [
-        {
-          "name": "Lady Saw",
-          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
-        }
-      ],
-      "duration_ms": 230341,
-      "name": "Heels On",
-      "url": "https://open.spotify.com/track/0NWgQIhsa5Jn9OtmMq56zm"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Key Fi Mi Life - Single",
-        "url": "https://open.spotify.com/album/5BNb05N4r4LQYZ4x0m9oxA"
-      },
-      "artists": [
-        {
-          "name": "Vershon",
-          "url": "https://open.spotify.com/artist/42NCKSFJsf7cFevs2BuG2g"
-        }
-      ],
-      "duration_ms": 202004,
-      "name": "Key Fi Mi Life",
-      "url": "https://open.spotify.com/track/1lrrO0ker7afjH7DfmFD5X"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
         "name": "Extra Raw: The First Lady Of Dancehall",
         "url": "https://open.spotify.com/album/0uPHcGwl83Lh1RiFKIQxdd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 230573,
       "name": "Man Is The Least",
       "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
+        "name": "Key Fi Mi Life - Single",
+        "url": "https://open.spotify.com/album/5BNb05N4r4LQYZ4x0m9oxA"
+      },
+      "artists": [
+        {
+          "name": "Vershon",
+          "url": "https://open.spotify.com/artist/42NCKSFJsf7cFevs2BuG2g"
+        }
+      ],
+      "duration_ms": 202004,
+      "name": "Key Fi Mi Life",
+      "url": "https://open.spotify.com/track/1lrrO0ker7afjH7DfmFD5X"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Just a Girl in a Money Man's World",
-        "url": "https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "Ntn but Pumpum",
-      "url": "https://open.spotify.com/track/3vNsa92LjHqbLWVJtneuKm"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
         "name": "Drunk and Incapable (feat. Melissa Steel)",
         "url": "https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK"
       },
@@ -971,6 +955,22 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
+        "name": "Just a Girl in a Money Man's World",
+        "url": "https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "Ntn but Pumpum",
+      "url": "https://open.spotify.com/track/3vNsa92LjHqbLWVJtneuKm"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
         "name": "Gal Yuh Body Hot",
         "url": "https://open.spotify.com/album/5P7oFZBpqVZf2sZPyKYksL"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 226246,
       "name": "Gal Yuh Body Hot",
       "url": "https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
-        "name": "Be So Bad",
-        "url": "https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD"
-      },
-      "artists": [
-        {
-          "name": "Jane Macgizmo",
-          "url": "https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Be So Bad",
-      "url": "https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu"
+        "name": "Be So Bad",
+        "url": "https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD"
       },
       "artists": [
         {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+          "name": "Jane Macgizmo",
+          "url": "https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn"
         }
       ],
-      "duration_ms": 150869,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC"
+      "duration_ms": 115200,
+      "name": "Be So Bad",
+      "url": "https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1055,6 +1039,22 @@
       "duration_ms": 131343,
       "name": "Gangster Love",
       "url": "https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 150869,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1103,34 +1103,22 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Money Fever",
-        "url": "https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN"
+        "name": "Upside Down 2020",
+        "url": "https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l"
       },
       "artists": [
         {
-          "name": "Squash",
-          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
-        }
-      ],
-      "duration_ms": 151144,
-      "name": "Money Fever",
-      "url": "https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
-        "name": "Heavy!",
-        "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
-      },
-      "artists": [
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
         {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
         }
       ],
-      "duration_ms": 165534,
-      "name": "Heavy!",
-      "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
+      "duration_ms": 230157,
+      "name": "Call Me (feat. Stefflon Don)",
+      "url": "https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1151,6 +1139,22 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
+        "name": "Heavy!",
+        "url": "https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 165534,
+      "name": "Heavy!",
+      "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc"
       },
@@ -1163,26 +1167,6 @@
       "duration_ms": 154282,
       "name": "Young",
       "url": "https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
-        "name": "Upside Down 2020",
-        "url": "https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l"
-      },
-      "artists": [
-        {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 230157,
-      "name": "Call Me (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Mad Out",
-        "url": "https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA"
+        "name": "Money Fever",
+        "url": "https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN"
       },
       "artists": [
         {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+          "name": "Squash",
+          "url": "https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00"
         }
       ],
-      "duration_ms": 127346,
-      "name": "Mad Out",
-      "url": "https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo"
+      "duration_ms": 151144,
+      "name": "Money Fever",
+      "url": "https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1247,6 +1231,22 @@
       "duration_ms": 156328,
       "name": "No Rampin (feat. Moelogo & Nadia Rose)",
       "url": "https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
+        "name": "Mad Out",
+        "url": "https://open.spotify.com/album/5aAuB9NOM8eG4JdQbVWthA"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        }
+      ],
+      "duration_ms": 127346,
+      "name": "Mad Out",
+      "url": "https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
+        "name": "Tek It To Dem",
+        "url": "https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm"
+      },
+      "artists": [
+        {
+          "name": "Alicai Harley",
+          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Tek It To Dem",
+      "url": "https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj"
+    },
+    {
+      "added_at": "2026-01-23 14:06:44",
+      "album": {
         "name": "Walk Out",
         "url": "https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2026-01-23 14:06:44",
       "album": {
-        "name": "Tek It To Dem",
-        "url": "https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm"
+        "name": "Reggae Gold 2020",
+        "url": "https://open.spotify.com/album/50WEjU3CE9lRAikhuk7Wau"
       },
       "artists": [
         {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         }
       ],
-      "duration_ms": 199627,
-      "name": "Tek It To Dem",
-      "url": "https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj"
+      "duration_ms": 156765,
+      "name": "Inches",
+      "url": "https://open.spotify.com/track/249LE3CJaJqTL6IKzX0Gn8"
     },
     {
       "added_at": "2026-01-23 14:06:44",
@@ -1367,22 +1383,6 @@
       "duration_ms": 164081,
       "name": "A Nuh My Style",
       "url": "https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk"
-    },
-    {
-      "added_at": "2026-01-23 14:06:44",
-      "album": {
-        "name": "Reggae Gold 2020",
-        "url": "https://open.spotify.com/album/50WEjU3CE9lRAikhuk7Wau"
-      },
-      "artists": [
-        {
-          "name": "Spice",
-          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-        }
-      ],
-      "duration_ms": 156765,
-      "name": "Inches",
-      "url": "https://open.spotify.com/track/249LE3CJaJqTL6IKzX0Gn8"
     },
     {
       "added_at": "2026-01-23 14:06:44",

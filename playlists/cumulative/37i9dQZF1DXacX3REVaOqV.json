@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-15",
       "duration_ms": 185375,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/462XncSZQqphAVXMwDY3Yp"
@@ -2594,6 +2594,24 @@
       "duration_ms": 206769,
       "name": "Come On Back With Your Love - Sunrise Mix",
       "url": "https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4"
+    },
+    {
+      "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/35D0vdADZhq3wiyrejju1d"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newson",
+          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199248,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/2qWEfQHQsIjJKkZk3NYr2O"
     },
     {
       "album": {
