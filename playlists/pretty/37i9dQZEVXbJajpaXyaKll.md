@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,036 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,040 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 37 | [Le pregunte al tiempo](https://open.spotify.com/track/0AYrNVZh3JMeBS5kY5wXhO) | [NACHO CASTILLO](https://open.spotify.com/artist/3gInyXc0GJS9jFvlRXEc3H) | [CORRIDOS NIVEL 13](https://open.spotify.com/album/3yXzfeE70ltHxwtvCRiwA5) | 2:44 |
 | 38 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 39 | [sin mi reina](https://open.spotify.com/track/0j2y5IDN3WwPDNCrxcWTs3) | [One Flyt](https://open.spotify.com/artist/2DB4gqzMQy1kvcHWgrNUgp), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [sin mi reina](https://open.spotify.com/album/3EmKNQCSY2ueniyWaKSKMz) | 2:14 |
-| 40 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
+| 40 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 41 | [kemujer](https://open.spotify.com/track/0M329YMNtJagZn2pnnT0ua) | [One Flyt](https://open.spotify.com/artist/2DB4gqzMQy1kvcHWgrNUgp), [Vasti Yan](https://open.spotify.com/artist/0tE3bhmaIAbZugKSe1FTsX) | [kemujer](https://open.spotify.com/album/5zUUfURgZfeogHRtIuFQRg) | 2:00 |
 | 42 | [WHAT U NEED? \(SexPlaylist 2\)](https://open.spotify.com/track/7jnSlMG2jKJmKvAWxufk2I) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:25 |
 | 43 | [L a k e n o s h i](https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJajpaXyaKll.md) - [plain]
 | 49 | [Vero Buffone \(SALAS\)](https://open.spotify.com/track/5kgzcbURp9qugQBTfh3PSq) | [BUO](https://open.spotify.com/artist/7jQ5RLY6zbtGgEzVV0sdcd), [VUO](https://open.spotify.com/artist/0FEQJV8XCGFQCgdHDGYMjN), [Abichos](https://open.spotify.com/artist/437FtSmpAruNj7ahaYJ3vu) | [Vero Buffone \(SALAS\)](https://open.spotify.com/album/34DALYQpyqEX8AIkQigbh7) | 2:11 |
 | 50 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL) | 4:40 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

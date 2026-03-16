@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbISk8kxnzfCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Nicaragua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,165 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,166 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbISk8kxnzfCq.md) - [plain]
 | 49 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 50 | [Qué Onda Perdida](https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C) | 3:59 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

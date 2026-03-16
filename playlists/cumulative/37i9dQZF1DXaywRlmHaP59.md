@@ -141,6 +141,6 @@
 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 | 2025-10-10 |  |
 | [يا لبنان](https://open.spotify.com/track/6NKr0wFMFsuxjRVcgjrEER) | [Moeen Shreif](https://open.spotify.com/artist/1EKUd22YubzgCoqFpGKLra) | [يا لبنان](https://open.spotify.com/album/1dEtBI2V4ZRUmDtHQVHOkW) | 2:54 | 2025-02-02 | 2025-10-11 |
 | [يا هلا](https://open.spotify.com/track/6km3HEjPYc7m3AFVn11fyc) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [يا هلا](https://open.spotify.com/album/3of5ziYTjdAK60gOQumNOP) | 2:34 | 2025-10-10 |  |
-| [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:54 | 2025-10-10 |  |
+| [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:55 | 2025-10-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

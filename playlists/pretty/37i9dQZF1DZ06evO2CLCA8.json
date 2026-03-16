@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1112,
+  "num_followers": 1113,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAA5XHHfpcdVTS1Ires0Sk2y",
+  "snapshot_id": "abSlAAAAAAB5ABeFz85rgrHfaQC9Q1j2",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Up (I've Had Enough)",
-        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 249093,
-      "name": "Jammin' Me",
-      "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 300933,
       "name": "Room at the Top",
       "url": "https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Me Up (I've Had Enough)",
+        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 249093,
+      "name": "Jammin' Me",
+      "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Up (I've Had Enough)",
-        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 191533,
-      "name": "It'll All Work Out",
-      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Let Me Up (I've Had Enough)",
+        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
       "artists": [
         {
@@ -604,57 +604,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Casa Dega",
-      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "The Dark Of The Sun",
-      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
+      "duration_ms": 191533,
+      "name": "It'll All Work Out",
+      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
       "added_at": null,
@@ -675,6 +627,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Casa Dega",
+      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "The Dark Of The Sun",
+      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 237440,
       "name": "Nightwatchman",
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
-        "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215802,
-      "name": "Thirteen Days",
-      "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
+      "duration_ms": 350733,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

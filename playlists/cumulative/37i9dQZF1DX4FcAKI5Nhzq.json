@@ -22102,7 +22102,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 199000,
       "name": "Running to Future",
       "url": "https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN"
@@ -25914,6 +25914,24 @@
       "duration_ms": 195413,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180180,
+      "name": "THAT\u2019S A NO NO",
+      "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
     },
     {
       "album": {

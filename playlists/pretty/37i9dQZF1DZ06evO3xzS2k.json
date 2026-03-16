@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2846,
+  "num_followers": 2847,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAxCsQtmGuq/f/RqviBBNpR",
+  "snapshot_id": "abSlAAAAAACMeildtdVRtQlAwN2Uo84C",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 250120,
-      "name": "essential tremors",
-      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
+      "duration_ms": 283120,
+      "name": "nerve scales",
+      "url": "https://open.spotify.com/track/7hOdEU0XGWjfMQJkikZSBs"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 283120,
-      "name": "nerve scales",
-      "url": "https://open.spotify.com/track/7hOdEU0XGWjfMQJkikZSBs"
+      "duration_ms": 250120,
+      "name": "essential tremors",
+      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
     },
     {
       "added_at": null,

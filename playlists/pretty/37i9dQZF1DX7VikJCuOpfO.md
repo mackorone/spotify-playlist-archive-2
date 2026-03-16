@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Grupo Triunfadores, Posadas📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,960 likes - 87 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,965 likes - 87 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

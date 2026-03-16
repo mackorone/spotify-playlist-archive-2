@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -694,6 +712,24 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "album": {
@@ -1091,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209388,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/4OBZT9EnhYIV17t4pGw7ig"
+    },
+    {
+      "album": {
         "name": "Good Grief (Expanded Edition)",
         "url": "https://open.spotify.com/album/04AoJc9Z5y2fwSjmMBmGXj"
       },
@@ -1478,6 +1536,24 @@
       "duration_ms": 173760,
       "name": "Bread Wine Body Blood",
       "url": "https://open.spotify.com/track/0YxK50YvRLghziXnEtmuxl"
+    },
+    {
+      "album": {
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
     },
     {
       "album": {
@@ -1937,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "DAYTONA",
+        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Come Back Baby",
+      "url": "https://open.spotify.com/track/2BuBXn15gj4MNYZydyWgrk"
+    },
+    {
+      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -2190,7 +2284,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 126971,
       "name": "Cut Your Bangs",
       "url": "https://open.spotify.com/track/3ziv4Uszw9iRjUpZt1la0L"
@@ -3334,7 +3428,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 251393,
       "name": "Five Easy Pieces",
       "url": "https://open.spotify.com/track/4Q2q3GYRxbpTK5dj0Nrx53"
@@ -3630,7 +3724,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 167911,
       "name": "Godzilla Rises",
       "url": "https://open.spotify.com/track/7bPEDBxCNc6wqD2AhL771h"
@@ -3702,7 +3796,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 149240,
       "name": "Got To Get You Into My Life - Remastered 2009",
       "url": "https://open.spotify.com/track/3tGhRLgcCP6SIZU3tbGl7l"
@@ -3906,6 +4000,24 @@
       "duration_ms": 128840,
       "name": "Hate the Police",
       "url": "https://open.spotify.com/track/17lJiJ6NuBY6VHeEUVL2be"
+    },
+    {
+      "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q"
     },
     {
       "album": {
@@ -4342,7 +4454,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 289160,
       "name": "I Have Nothing",
       "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
@@ -4522,7 +4634,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 282293,
       "name": "I Wish - Bonus \"Street\" Mix",
       "url": "https://open.spotify.com/track/50Wm3hYNlktzvH3woIzCsL"
@@ -4778,6 +4890,28 @@
       "duration_ms": 298013,
       "name": "If I Told",
       "url": "https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h"
+    },
+    {
+      "album": {
+        "name": "Passage Du Desir",
+        "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
+      },
+      "artists": [
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287053,
+      "name": "If The Sun Never Rises Again",
+      "url": "https://open.spotify.com/track/7JP1BDVZLbCdWxfQd82bvm"
     },
     {
       "album": {
@@ -6237,6 +6371,24 @@
     },
     {
       "album": {
+        "name": "Practice What You Preach",
+        "url": "https://open.spotify.com/album/0e3CsfgtzbhR5ofqRDnAlT"
+      },
+      "artists": [
+        {
+          "name": "The Poets Of Rhythm",
+          "url": "https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "More Mess on My Thing",
+      "url": "https://open.spotify.com/track/3a1Ska1dAtx4KE4b86eumQ"
+    },
+    {
+      "album": {
         "name": "Desired Effect",
         "url": "https://open.spotify.com/album/6yI6FFPozffhLeNvzmRhr1"
       },
@@ -6408,6 +6560,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "album": {
@@ -7922,7 +8092,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 66133,
       "name": "Riot!",
       "url": "https://open.spotify.com/track/6cmt9CRoK0KGcNg9Tpje53"
@@ -8340,7 +8510,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/0QRnwEnFkjPZCk6YokFxhw"
@@ -9344,7 +9514,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 240000,
       "name": "The Ballad of Matt & Mica",
       "url": "https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr"
@@ -10184,10 +10354,28 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 204773,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
+    },
+    {
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
     },
     {
       "album": {
@@ -10758,7 +10946,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 193277,
       "name": "Wild",
       "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
@@ -10870,6 +11058,24 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR"
+    },
+    {
+      "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168074,
+      "name": "Write A List of Things To Look Forward To",
+      "url": "https://open.spotify.com/track/5MI8umTu0luQ4wQPm87adK"
     },
     {
       "album": {

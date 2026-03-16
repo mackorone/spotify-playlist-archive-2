@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,646 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,654 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 99 | [in your arms](https://open.spotify.com/track/0CNKS52qyUU9124pyENtbl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/4z9wqJmSFcV7mwDEfm40KT) | 4:37 |
 | 100 | [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 |
 
-Snapshot ID: `AAAAABFaSQwtx7OccqIMkMvpanu1Je8A`
+Snapshot ID: `AAAAAJjMsNWOoE/do1tPveivLCEvdnRP`

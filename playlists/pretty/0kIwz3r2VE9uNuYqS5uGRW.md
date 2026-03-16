@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 176 songs - 9 hr 10 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 179 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 174 | [They Don't Care \(About You\)](https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN) | [Cozmicsoulfire](https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M) | [They Don't Care \(About You\)](https://open.spotify.com/album/3vXUDacurGsc1sYMhMP7Ls) | 3:53 |
 | 175 | [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 |
 | 176 | [Or Nah \- Spanish Version](https://open.spotify.com/track/3szuFgl7zsoSKNtJAWpMPB) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Spanish Version\)](https://open.spotify.com/album/67MJVFPDbsF5MkaqICtx2U) | 2:05 |
+| 177 | [Dying Alone!](https://open.spotify.com/track/0MVZaq5sejk2eTOa8PcmrC) | [Nathan Sragow](https://open.spotify.com/artist/6rNB4rxtHxXq2jBmpKYvla) | [Dying Alone!](https://open.spotify.com/album/6kHIMfzflJssAB9d4NA4FP) | 2:50 |
+| 178 | [Foolish](https://open.spotify.com/track/4Rx9hSHqsf7EnarIK4ogCq) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Foolish](https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw) | 3:22 |
+| 179 | [fall in love again](https://open.spotify.com/track/7pJahn2HDV3o13cTMfey1K) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [fall in love again](https://open.spotify.com/album/7vv4gLpYpoRWlsZ5KLLbyO) | 2:03 |
 
-Snapshot ID: `AAAVtkdigaqL8I+9h7dcg5JrMj5KfoU2`
+Snapshot ID: `AAAVuQQNi+xAy/UTxUUTmbbH9tTjwvFb`

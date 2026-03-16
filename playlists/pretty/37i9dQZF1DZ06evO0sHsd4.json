@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 21084,
+  "num_followers": 21099,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAADYPxivcsonGulaEPLq1jvh",
+  "snapshot_id": "abSlAAAAAABuBJd2sZozuim56e2ozvcU",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 244245,
-      "name": "Cielo Eterno",
-      "url": "https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Es Diferente",
         "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 200254,
       "name": "Todo Es Diferente",
       "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 244245,
+      "name": "Cielo Eterno",
+      "url": "https://open.spotify.com/track/5BHyssNPTVo1Exf7LPVtrO"
     },
     {
       "added_at": null,

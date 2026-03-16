@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 476589,
+  "num_followers": 476619,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAleoJHAzgwtCIja3OJhyGh",
+  "snapshot_id": "abSlAAAAAAC78P0/vQoUjkyxzWD8ZmiC",
   "tracks": [
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 315360,
-      "name": "Spirit",
-      "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
+      "duration_ms": 324373,
+      "name": "Majesty",
+      "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 324373,
-      "name": "Majesty",
-      "url": "https://open.spotify.com/track/30ZhfyAmOmF6GN2i5fpVen"
+      "duration_ms": 315360,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g"
     },
     {
       "added_at": null,

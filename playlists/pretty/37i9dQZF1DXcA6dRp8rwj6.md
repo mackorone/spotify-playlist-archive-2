@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jack Harlow\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,065 likes - 98 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,054 likes - 98 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 5 | [THEME OF TAXMEN](https://open.spotify.com/track/3SWgMu41C5oF6pnw8NtRwF) | [TAXMEN](https://open.spotify.com/artist/3jPLkrcUodhzpbCXABDixk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d) | [THEME OF TAXMEN](https://open.spotify.com/album/0fodGZkEU3fVNsnS4VnaMB) | 3:00 |
 | 6 | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ) | 2:29 |
 | 7 | [Pain In My Eyes](https://open.spotify.com/track/5gcW3vHfdGwTn54ciRKu5d) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Still Standing](https://open.spotify.com/album/0W3LiRxmAhEIbwg4Sd2AU9) | 2:30 |
-| 8 | [UP \[Feat\. Rich The Kid, A$AP Ferg & SadBoi\]](https://open.spotify.com/track/1nTawhKNAyDAtEkhPsNYY7) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Strictly 4 The Scythe](https://open.spotify.com/album/4vhZKLj3AB4e64DF1r6hTG) | 4:06 |
+| 8 | [UP \[Feat\. Rich The Kid, A$AP Ferg & SadBoi\]](https://open.spotify.com/track/1nTawhKNAyDAtEkhPsNYY7) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Strictly 4 The Scythe](https://open.spotify.com/album/4vhZKLj3AB4e64DF1r6hTG) | 4:06 |
 | 9 | [I’m From The Bay](https://open.spotify.com/track/1dYWMsl6qgH0adxLDzOUR8) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Something’s In The Water](https://open.spotify.com/album/2Knrk6Q04i9itgxtTSguQN) | 3:08 |
 | 10 | [Baby I](https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Baby I](https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov) | 2:20 |
 | 11 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |

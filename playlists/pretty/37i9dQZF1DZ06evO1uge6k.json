@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260817,
+  "num_followers": 260822,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAtUEkkUo0C3/kHnQ7TZObM",
+  "snapshot_id": "abSlAAAAAAB/lSe2axtfdy1QC3ueSjtt",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Just Got Back from Baby's",
-      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
+      "duration_ms": 284253,
+      "name": "Viva Las Vegas (2019 Remaster)",
+      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goin' 50",
-        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 284253,
-      "name": "Viva Las Vegas (2019 Remaster)",
-      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
+      "duration_ms": 250120,
+      "name": "Just Got Back from Baby's",
+      "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
     },
     {
       "added_at": null,

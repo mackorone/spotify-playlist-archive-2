@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,338 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,429 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 |
 | 70 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |
 
-Snapshot ID: `AAAAANHx/GYR/UMaJHQkgz/cDrH2Aphi`
+Snapshot ID: `AAAAAMWDLCRxchhIFKgoASs3ey4opViU`

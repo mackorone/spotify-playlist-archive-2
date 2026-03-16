@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > Celebrating all the songs with more than a billion streams on Spotify\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,789 likes - 1,213 songs - 3 day 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,033 likes - 1,213 songs - 3 day 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

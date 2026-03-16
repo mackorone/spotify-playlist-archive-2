@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Nasty C
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,559 likes - 95 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,585 likes - 95 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 7 | [Boss](https://open.spotify.com/track/5bcYvUiG6hsg2C7QHHRNHI) | [KindlyNxsh](https://open.spotify.com/artist/38XEcOhoZlmGysLVhnrJKQ) | [Boss](https://open.spotify.com/album/06VMHl2TPJ6LHw5JsNc726) | 2:21 |
 | 8 | [DANCE4ME](https://open.spotify.com/track/7dD1SoOq0dpFyxE6DwGU3K) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [SSG'98](https://open.spotify.com/album/2alAQlh3hMEIRtBSoP8GZT) | 3:31 |
 | 9 | [BANDZ ON THE WAY](https://open.spotify.com/track/6rECs40RypNzbmuFtowrfj) | [MOËTT](https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4), [Joey Manson](https://open.spotify.com/artist/3VqJlz60VvvWdBBs4DthJT), [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [BANDZ ON THE WAY](https://open.spotify.com/album/1TmqcR54DyBnd8Dkfu8EI8) | 2:57 |
-| 10 | [maatla , thata](https://open.spotify.com/track/3HdLERcMc38Yq5UDnCFGf3) | [Trophy](https://open.spotify.com/artist/65vyqjRCxzXjN1TQ3wxoH2), [Orieblxckmaestro](https://open.spotify.com/artist/1fBoGGZkTvoMMUD90ZV5kj), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [MajorIcey](https://open.spotify.com/artist/3D1v2h1bVnBVHAx1iSocJq), [Carlow Picasso](https://open.spotify.com/artist/4VoY4qXMbV8nRrMYagmJWs) | [maatla , thata](https://open.spotify.com/album/07yKyQjDNoCXg4qLDVphj1) | 2:39 |
+| 10 | [maatla , thata](https://open.spotify.com/track/3HdLERcMc38Yq5UDnCFGf3) | [Trophy](https://open.spotify.com/artist/65vyqjRCxzXjN1TQ3wxoH2), [Orieblxckmaestro](https://open.spotify.com/artist/1fBoGGZkTvoMMUD90ZV5kj), [MajorIcey](https://open.spotify.com/artist/3D1v2h1bVnBVHAx1iSocJq), [Carlow Picasso](https://open.spotify.com/artist/4VoY4qXMbV8nRrMYagmJWs), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT) | [maatla , thata](https://open.spotify.com/album/07yKyQjDNoCXg4qLDVphj1) | 2:39 |
 | 11 | [No stylist in SA \(feat\. jaykatana\)](https://open.spotify.com/track/0BMm621RqPNGnrOdqxmdwm) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r), [jaykatana](https://open.spotify.com/artist/0LTpOj4R3IrWZAkwKqHqLj) | [WorstfeelinEva 3](https://open.spotify.com/album/4crxpqVe1hHk2wzIEnqtOU) | 3:11 |
 | 12 | [No Typo](https://open.spotify.com/track/4XYunhucEchT5gKCKsggaz) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Typo](https://open.spotify.com/album/4hjtnzay9yFORdNGWwdSNW) | 1:43 |
 | 13 | [Imali Entsha \- G\-Mix](https://open.spotify.com/track/0aPnI9fjCtv89op9W3SlRX) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Imali Entsha \(G\-Mix\)](https://open.spotify.com/album/3c3mbGQ5NZ2wgX4wX5MVOW) | 3:54 |

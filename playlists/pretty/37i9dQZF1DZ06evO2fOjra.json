@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 561481,
+  "num_followers": 561537,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAH6+bKDx9XkmPBs4WIx/Q0",
+  "snapshot_id": "abSlAAAAAACl62TgRjMziJTMko76OMAr",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Ball Tongue",
+      "url": "https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Ball Tongue",
-      "url": "https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Serenity of Suffering",
         "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 230053,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 349506,
+      "name": "Faget",
+      "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 349506,
-      "name": "Faget",
-      "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 232596,
       "name": "Children of the Korn (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 170373,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 170373,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Nothing",
         "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 235944,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 214666,
       "name": "Everything I've Known",
       "url": "https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 235944,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 211566,
-      "name": "No Place to Hide",
-      "url": "https://open.spotify.com/track/5PgNUYXmICNOudPFWLIuw3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 314071,
       "name": "Last Legal Drug",
       "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 211566,
+      "name": "No Place to Hide",
+      "url": "https://open.spotify.com/track/5PgNUYXmICNOudPFWLIuw3"
     }
   ],
   "unique_name": "This Is Korn",

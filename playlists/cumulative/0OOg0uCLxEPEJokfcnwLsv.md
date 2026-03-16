@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-361 songs - 22 hr 30 min
+362 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 | 2026-01-06 | 2026-02-02 |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
+| [Anemia](https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Anemia](https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ) | 2:43 | 2026-03-15 |  |
 | [Another Broken Life](https://open.spotify.com/track/2C4uQkC2n41IDhKzr4ZfzI) | [Jasper Lane](https://open.spotify.com/artist/7Jy6PeI8aqpMobGCpaFSEw) | [Becoming The Angel](https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC) | 4:18 | 2025-12-23 | 2026-01-21 |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
 | [April](https://open.spotify.com/track/1A6hxO7ymM4QPip7txEt53) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 3:29 | 2025-12-23 | 2026-01-21 |

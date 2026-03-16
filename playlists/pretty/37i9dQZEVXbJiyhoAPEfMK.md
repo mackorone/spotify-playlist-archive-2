@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiyhoAPEfMK.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,245 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,243 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiyhoAPEfMK.md) - [plain]
 | 49 | [Mon Amour](https://open.spotify.com/track/4IzvCg4BeyBYUkTcSTcVsv) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [LOVERS](https://open.spotify.com/album/7mHPlkXE9qN3MYC3gsuXT3) | 3:06 |
 | 50 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

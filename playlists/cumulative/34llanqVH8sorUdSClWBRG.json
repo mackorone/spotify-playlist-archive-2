@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Hex of Infinite Binding EP",
+        "url": "https://open.spotify.com/album/1MbrGdr3eLlzIZs4xW5CIZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135626,
+      "name": "Tucson Fog",
+      "url": "https://open.spotify.com/track/5qxeZ6YpXUiNYLlaQOeLGu"
+    },
+    {
+      "album": {
         "name": "Transcendental Youth",
         "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
       },

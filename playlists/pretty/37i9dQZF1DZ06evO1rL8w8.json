@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 235545,
+  "num_followers": 235572,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAA85iO26y7zqYuZ0U5VRC9T",
+  "snapshot_id": "abSlAAAAAAD1zn2qJ9r2Iwr0XC/K6k9Y",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "Qu\u00e9 Tiene De Malo",
-      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 199836,
       "name": "Trato De Muerte",
       "url": "https://open.spotify.com/track/1SNUI5uJQhPobHP7A4dnmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 149263,
+      "name": "La Manda Incumplida",
+      "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 197358,
       "name": "La Princesa",
       "url": "https://open.spotify.com/track/1oqqIvtl8Q26q4ACnrjU4b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 154383,
-      "name": "Estilo SL",
-      "url": "https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 154383,
+      "name": "Estilo SL",
+      "url": "https://open.spotify.com/track/1gLjWUivqJ3jtL606mzhqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
         "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 248000,
       "name": "Como Me Haces Falta - En Vivo",
       "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 149263,
-      "name": "La Manda Incumplida",
-      "url": "https://open.spotify.com/track/3rRDolvq54CsOTDkuaOvW5"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 126563,
+      "name": "Siempre Que Me Emborracho",
+      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Reyes Del Movimiento Alterado",
         "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 168146,
       "name": "Orden Exigido",
       "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 126563,
-      "name": "Siempre Que Me Emborracho",
-      "url": "https://open.spotify.com/track/66b3krwHwKrKwVOOHkZXXv"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 134739,
-      "name": "Ranchero Y Gallardo",
-      "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176613,
       "name": "Fiesta En La Playa",
       "url": "https://open.spotify.com/track/52szO2POvp0hk3VnfWioib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 134739,
+      "name": "Ranchero Y Gallardo",
+      "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 232881,
-      "name": "La Mafia Se Sienta En La Mesa",
-      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Zapopan (En Vivo)",
         "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 229982,
       "name": "Me Gustas Mucho - En Vivo",
       "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 232881,
+      "name": "La Mafia Se Sienta En La Mesa",
+      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,109 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,113 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 22 | [Wanet Mn Frkakom](https://open.spotify.com/track/6xG5Akfn6HIBexqV5RF22q) | [Ali Al Feraty](https://open.spotify.com/artist/7o2ZwGvlqfe49WvobcqgzK), [علي الفراتي](https://open.spotify.com/artist/2xGl9eSjRh1sPHqg0NvSOl) | [Wanet Mn Frkakom](https://open.spotify.com/album/1O3ED04PEGgFBQAm2LqSwg) | 4:07 |
 | 23 | [شلون بية](https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u) | [Aws Al Saber](https://open.spotify.com/artist/5cLIxAVjEMmvPOZviDlhO4) | [شلون بية](https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P) | 6:00 |
 | 24 | [Hbnah Antaha](https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7) | [Mohamad Abdel Jabar](https://open.spotify.com/artist/1cWnsJEnx8LcSFJrsCqa0x), [Ali Bader](https://open.spotify.com/artist/74UVX9PGjQ3Hw5ZvDCKcM8) | [Hbnah Antaha](https://open.spotify.com/album/73B6jAxkcAopkWl3GSOXTc) | 6:40 |
-| 25 | [Join Me \- Razorblade Mix](https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance](https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N) | 3:36 |
+| 25 | [Join Me In Death \- Strongroom Mix](https://open.spotify.com/track/3M19tMWNijQ9UCQdXS6Ill) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Uneasy Listening Vol\. 1 & 2](https://open.spotify.com/album/7IADiGrAIAjrzBPxScLGC2) | 3:38 |
 | 26 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
-| 27 | [Lush Life](https://open.spotify.com/track/4Bd7WFT93cRqlfyGi6eK93) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV) | 3:20 |
+| 27 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 28 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 | 29 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 30 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 49 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |
 | 50 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

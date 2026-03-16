@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Italy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085,238 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,085,301 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 | 49 | [Maledetto me](https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [CALCINACCI](https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93) | 2:59 |
 | 50 | [VACCI PIANO \(feat\. Rkomi\)](https://open.spotify.com/track/4vF4VnzL47EVsZZEVsEfbF) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [VACCI PIANO \(feat\. Rkomi\)](https://open.spotify.com/album/1Ntc1XTLjhjPSHStfXhu1U) | 3:20 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

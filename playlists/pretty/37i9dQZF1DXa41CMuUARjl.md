@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from Chase & Status, Chris Stussy, Martin Garrix, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,706 likes - 140 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,709 likes - 140 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

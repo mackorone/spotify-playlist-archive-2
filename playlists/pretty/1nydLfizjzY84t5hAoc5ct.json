@@ -6,8 +6,120 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AAB1fvbh09up1K8xh2UIFugXpUwj8q95",
+  "snapshot_id": "AAB1oysw794GPKU0Uv5fd+mfJCH78msV",
   "tracks": [
+    {
+      "added_at": "2026-03-15 10:14:44",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
+    },
+    {
+      "added_at": "2026-02-26 17:03:22",
+      "album": {
+        "name": "Demon Child",
+        "url": "https://open.spotify.com/album/0yvhxzJ7RAjtKFZAQQERo9"
+      },
+      "artists": [
+        {
+          "name": "Lemon Drink",
+          "url": "https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6"
+        }
+      ],
+      "duration_ms": 231246,
+      "name": "Demon Child",
+      "url": "https://open.spotify.com/track/1APdKAaLRrC8zxGCeC44aw"
+    },
+    {
+      "added_at": "2026-02-26 17:03:26",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf"
+      },
+      "artists": [
+        {
+          "name": "The Shambles",
+          "url": "https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON"
+    },
+    {
+      "added_at": "2026-02-26 17:03:36",
+      "album": {
+        "name": "Versions",
+        "url": "https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2"
+      },
+      "artists": [
+        {
+          "name": "Moody Moody",
+          "url": "https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "Versions",
+      "url": "https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4"
+    },
+    {
+      "added_at": "2026-02-26 17:04:16",
+      "album": {
+        "name": "Darius",
+        "url": "https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ"
+      },
+      "artists": [
+        {
+          "name": "Animal Animal",
+          "url": "https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Darius",
+      "url": "https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8"
+    },
+    {
+      "added_at": "2026-02-26 17:03:10",
+      "album": {
+        "name": "Portals",
+        "url": "https://open.spotify.com/album/02MVKCOqzKb0HoWxAWoSSk"
+      },
+      "artists": [
+        {
+          "name": "BRSR",
+          "url": "https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE"
+        }
+      ],
+      "duration_ms": 319146,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/4AV3czCZP4cT0ybTfn5fVG"
+    },
+    {
+      "added_at": "2026-02-26 16:58:44",
+      "album": {
+        "name": "Beginnings and Endings",
+        "url": "https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci"
+      },
+      "artists": [
+        {
+          "name": "Foreign Mornings",
+          "url": "https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm"
+        }
+      ],
+      "duration_ms": 203564,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
+    },
     {
       "added_at": "2026-03-06 16:30:22",
       "album": {
@@ -23,30 +135,6 @@
       "duration_ms": 232365,
       "name": "The Neighbour's House",
       "url": "https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ"
-    },
-    {
-      "added_at": "2026-03-05 13:46:54",
-      "album": {
-        "name": "Tall As A Mountain",
-        "url": "https://open.spotify.com/album/0pivhuJWUH0a0HQ3mpqS5b"
-      },
-      "artists": [
-        {
-          "name": "An Dannsa Dub",
-          "url": "https://open.spotify.com/artist/5qVrRD2al9wFR0OcJa1VcH"
-        },
-        {
-          "name": "Wends",
-          "url": "https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a"
-        },
-        {
-          "name": "MAL",
-          "url": "https://open.spotify.com/artist/6glslwkcvP7HUjOiDGkMWh"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Tall As A Mountain",
-      "url": "https://open.spotify.com/track/0NYeIYjWO0tiDYvRE6tsAA"
     },
     {
       "added_at": "2026-03-06 22:09:43",
@@ -65,20 +153,20 @@
       "url": "https://open.spotify.com/track/7aA340rxW0YcyEvaKhgkpw"
     },
     {
-      "added_at": "2026-02-26 16:58:44",
+      "added_at": "2026-03-15 10:25:00",
       "album": {
-        "name": "Beginnings and Endings",
-        "url": "https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci"
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
       },
       "artists": [
         {
-          "name": "Foreign Mornings",
-          "url": "https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm"
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
         }
       ],
-      "duration_ms": 203564,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
+      "duration_ms": 166320,
+      "name": "Interlude (Stride)",
+      "url": "https://open.spotify.com/track/2uaAInSxJxweCuJsxP9Af6"
     },
     {
       "added_at": "2026-03-06 22:09:29",
@@ -145,6 +233,22 @@
       "url": "https://open.spotify.com/track/0oKCuwon3bJNgj1yBtuol6"
     },
     {
+      "added_at": "2026-03-15 10:50:11",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
+    },
+    {
       "added_at": "2026-02-26 16:58:09",
       "album": {
         "name": "Versions",
@@ -207,6 +311,22 @@
       "duration_ms": 211678,
       "name": "I Don't Need the Lord",
       "url": "https://open.spotify.com/track/0aIVNG9Z14hrJXlkBMpIPv"
+    },
+    {
+      "added_at": "2026-03-15 10:48:57",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Interlude (Stride)",
+      "url": "https://open.spotify.com/track/2uaAInSxJxweCuJsxP9Af6"
     },
     {
       "added_at": "2026-03-06 22:16:15",
@@ -273,6 +393,22 @@
       "url": "https://open.spotify.com/track/7HNrmyAXCBMsqZ3r11R6Z8"
     },
     {
+      "added_at": "2026-03-15 10:25:07",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
+    },
+    {
       "added_at": "2026-03-06 22:13:47",
       "album": {
         "name": "Five After Dark",
@@ -335,6 +471,22 @@
       "duration_ms": 189293,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5UBl4Bz7cpEA9i1tHxKath"
+    },
+    {
+      "added_at": "2026-03-15 10:49:03",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
     },
     {
       "added_at": "2026-02-26 17:07:50",
@@ -405,6 +557,22 @@
       "url": "https://open.spotify.com/track/2rsylxMg1zRvbpIFu4CZjG"
     },
     {
+      "added_at": "2026-03-15 10:49:21",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Interlude (Stride)",
+      "url": "https://open.spotify.com/track/2uaAInSxJxweCuJsxP9Af6"
+    },
+    {
       "added_at": "2026-03-06 22:13:57",
       "album": {
         "name": "I Don't Need the Lord",
@@ -421,36 +589,20 @@
       "url": "https://open.spotify.com/track/0aIVNG9Z14hrJXlkBMpIPv"
     },
     {
-      "added_at": "2026-02-26 17:03:02",
+      "added_at": "2026-03-15 10:48:30",
       "album": {
-        "name": "HeadTurner",
-        "url": "https://open.spotify.com/album/3LZwnezbK0aINpq4l47dNk"
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
       },
       "artists": [
         {
-          "name": "PeaceGates",
-          "url": "https://open.spotify.com/artist/7I3mof1a3Ho9vqmZLvTrEI"
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
         }
       ],
-      "duration_ms": 238154,
-      "name": "HeadTurner",
-      "url": "https://open.spotify.com/track/4WM7tlg2MB4e2RNHpRNhTT"
-    },
-    {
-      "added_at": "2026-02-26 17:03:10",
-      "album": {
-        "name": "Portals",
-        "url": "https://open.spotify.com/album/02MVKCOqzKb0HoWxAWoSSk"
-      },
-      "artists": [
-        {
-          "name": "BRSR",
-          "url": "https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE"
-        }
-      ],
-      "duration_ms": 319146,
-      "name": "Portals",
-      "url": "https://open.spotify.com/track/4AV3czCZP4cT0ybTfn5fVG"
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
     },
     {
       "added_at": "2026-03-06 22:16:22",
@@ -469,22 +621,6 @@
       "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
     },
     {
-      "added_at": "2026-02-26 17:03:22",
-      "album": {
-        "name": "Demon Child",
-        "url": "https://open.spotify.com/album/0yvhxzJ7RAjtKFZAQQERo9"
-      },
-      "artists": [
-        {
-          "name": "Lemon Drink",
-          "url": "https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6"
-        }
-      ],
-      "duration_ms": 231246,
-      "name": "Demon Child",
-      "url": "https://open.spotify.com/track/1APdKAaLRrC8zxGCeC44aw"
-    },
-    {
       "added_at": "2026-03-06 22:20:40",
       "album": {
         "name": "Clover Honey",
@@ -499,6 +635,22 @@
       "duration_ms": 248173,
       "name": "Clover Honey",
       "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "added_at": "2026-03-15 10:49:16",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
     },
     {
       "added_at": "2026-03-06 22:08:28",
@@ -517,22 +669,6 @@
       "url": "https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ"
     },
     {
-      "added_at": "2026-02-26 17:03:26",
-      "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/2I4Safy1OTDSrT03CljJAf"
-      },
-      "artists": [
-        {
-          "name": "The Shambles",
-          "url": "https://open.spotify.com/artist/0TueUMthNygY3RiEWtRJ4Y"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/5XWVgkQ3V9AS019tkEajON"
-    },
-    {
       "added_at": "2026-03-06 22:14:05",
       "album": {
         "name": "Five After Dark",
@@ -547,38 +683,6 @@
       "duration_ms": 242599,
       "name": "Five After Dark",
       "url": "https://open.spotify.com/track/7aA340rxW0YcyEvaKhgkpw"
-    },
-    {
-      "added_at": "2026-02-26 17:03:36",
-      "album": {
-        "name": "Versions",
-        "url": "https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2"
-      },
-      "artists": [
-        {
-          "name": "Moody Moody",
-          "url": "https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG"
-        }
-      ],
-      "duration_ms": 233500,
-      "name": "Versions",
-      "url": "https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4"
-    },
-    {
-      "added_at": "2026-02-26 17:04:16",
-      "album": {
-        "name": "Darius",
-        "url": "https://open.spotify.com/album/2bey9LCjn7s3oLxeZxs3TZ"
-      },
-      "artists": [
-        {
-          "name": "Animal Animal",
-          "url": "https://open.spotify.com/artist/3kUUbgLQJun5eqZ0BzLDsn"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Darius",
-      "url": "https://open.spotify.com/track/13kdyM4ZHAff8c5SVV2Np8"
     },
     {
       "added_at": "2026-03-06 22:16:18",
@@ -611,6 +715,22 @@
       "duration_ms": 337268,
       "name": "Manmade Fires",
       "url": "https://open.spotify.com/track/7flLFmCkey6fJopjMyz8rb"
+    },
+    {
+      "added_at": "2026-03-15 10:49:26",
+      "album": {
+        "name": "waxing | waning",
+        "url": "https://open.spotify.com/album/6cM5dAiAHnbfr4ONyGPizm"
+      },
+      "artists": [
+        {
+          "name": "Taupe",
+          "url": "https://open.spotify.com/artist/0DjZFitLS7GZ5JRrYEgRQU"
+        }
+      ],
+      "duration_ms": 318759,
+      "name": "Lemonade Tycoon",
+      "url": "https://open.spotify.com/track/7863SOAO6xJPMsVx3RnQrD"
     },
     {
       "added_at": "2026-03-06 22:08:35",
@@ -675,6 +795,22 @@
       "duration_ms": 203564,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
+    },
+    {
+      "added_at": "2026-03-13 18:30:30",
+      "album": {
+        "name": "These Dire Days",
+        "url": "https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs"
+      },
+      "artists": [
+        {
+          "name": "Calum Baird",
+          "url": "https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "These Dire Days",
+      "url": "https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1"
     },
     {
       "added_at": "2026-03-06 22:09:20",
@@ -759,6 +895,22 @@
       "duration_ms": 181586,
       "name": "Ariel Angelo",
       "url": "https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L"
+    },
+    {
+      "added_at": "2026-03-15 10:48:50",
+      "album": {
+        "name": "These Dire Days",
+        "url": "https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs"
+      },
+      "artists": [
+        {
+          "name": "Calum Baird",
+          "url": "https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk"
+        }
+      ],
+      "duration_ms": 209253,
+      "name": "These Dire Days",
+      "url": "https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1"
     },
     {
       "added_at": "2026-03-06 22:08:32",
@@ -3353,71 +3505,7 @@
       "url": "https://open.spotify.com/track/7hoHVAVvZJbku8CTsBVdEC"
     },
     {
-      "added_at": "2026-03-08 11:14:23",
-      "album": {
-        "name": "Found My Reason Why",
-        "url": "https://open.spotify.com/album/01iKKKRuQXXe0Lid1irXHb"
-      },
-      "artists": [
-        {
-          "name": "The Rooks",
-          "url": "https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Found My Reason Why",
-      "url": "https://open.spotify.com/track/6HggbroGS2csvv000ntCLY"
-    },
-    {
-      "added_at": "2026-03-08 11:14:45",
-      "album": {
-        "name": "Noise & Confusion",
-        "url": "https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2"
-      },
-      "artists": [
-        {
-          "name": "The Rooks",
-          "url": "https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Noise & Confusion",
-      "url": "https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl"
-    },
-    {
-      "added_at": "2026-03-08 15:45:53",
-      "album": {
-        "name": "Noise & Confusion",
-        "url": "https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2"
-      },
-      "artists": [
-        {
-          "name": "The Rooks",
-          "url": "https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Noise & Confusion",
-      "url": "https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl"
-    },
-    {
       "added_at": "2026-03-08 15:45:56",
-      "album": {
-        "name": "Noise & Confusion",
-        "url": "https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2"
-      },
-      "artists": [
-        {
-          "name": "The Rooks",
-          "url": "https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Noise & Confusion",
-      "url": "https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl"
-    },
-    {
-      "added_at": "2026-03-08 15:45:59",
       "album": {
         "name": "Noise & Confusion",
         "url": "https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2"
@@ -3463,22 +3551,6 @@
       "duration_ms": 310000,
       "name": "Noise & Confusion",
       "url": "https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl"
-    },
-    {
-      "added_at": "2026-03-13 18:30:30",
-      "album": {
-        "name": "These Dire Days",
-        "url": "https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs"
-      },
-      "artists": [
-        {
-          "name": "Calum Baird",
-          "url": "https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "These Dire Days",
-      "url": "https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1"
     }
   ],
   "unique_name": "Off Axis Gigs . com",

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: AtHeart \(앳하트\)\)
 
-1,613 songs - 3 day 14 hr 32 min
+1,614 songs - 3 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,7 +1179,7 @@
 | [Rum Pum Pum](https://open.spotify.com/track/0orUoBenQ9Cwx26z4I4RAT) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [Rum Pum Pum](https://open.spotify.com/album/1OeKgT4UKXTfZ5cDIs0HsZ) | 3:39 | 2022-10-27 | 2023-01-18 |
 | [Run away \- KR Ver.](https://open.spotify.com/track/1184jV78PgS9MxH7fpsMRi) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE \(KR EDITION\)](https://open.spotify.com/album/0UeHCISBZ4G00cLdFKIRA0) | 2:25 | 2020-10-30 | 2021-03-10 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-22 | 2022-07-14 |
-| [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-13 |  |
+| [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-13 | 2026-03-16 |
 | [RUSH \(ft\. BOBBY\)](https://open.spotify.com/track/7LK5puNRuxmPiZNzOS1iM6) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 3:14 | 2024-06-23 | 2024-08-31 |
 | [Rush Hour](https://open.spotify.com/track/2eEVS8HGd0xpmsUOCuVIzI) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Rush Hour](https://open.spotify.com/album/5D4f8ca3u8RKEqdpgcgext) | 3:48 | 2021-06-09 | 2021-09-18 |
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-24 | 2022-11-19 |
@@ -1378,6 +1378,7 @@
 | [Test Me](https://open.spotify.com/track/3MU7mQWCeNx7m75r1107Ds) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Hello, world!](https://open.spotify.com/album/0Z5qdttvpyXKKNLdqeEs27) | 3:19 | 2022-07-20 | 2022-09-25 |
 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2021-01-18 | 2021-03-18 |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-21 | 2022-05-19 |
+| [THAT’S A NO NO](https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U) | 3:00 | 2026-03-15 |  |
 | [That’s That](https://open.spotify.com/track/2Sf6SXb3LAq4aWq6Pm9akt) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [LOUD & PROUD](https://open.spotify.com/album/4s6H9i2JkMF58sij9Xa26W) | 3:15 | 2025-08-12 | 2025-09-25 |
 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-09-29 | 2023-11-07 |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2020-10-13\* | 2021-01-18 |

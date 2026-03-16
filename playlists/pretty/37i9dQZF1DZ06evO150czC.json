@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22987,
+  "num_followers": 22991,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAqAwHCjuva8Df+0H+MeeZE",
+  "snapshot_id": "abSlAAAAAABOuTcKf2rpLrQn9JtxHnEj",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Sorte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Tua Sorte (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sou Teu Deus",
         "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 290481,
       "name": "Sou Teu Deus",
       "url": "https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tua Sorte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/24pLn2VLpannt8kUm86B8c"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Tua Sorte (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Creio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 321574,
-      "name": "Eu Creio (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sarah Farias (Ao Vivo) - Live MK 10 MI",
         "url": "https://open.spotify.com/album/0xXezrYxjC5yA7X5i7jiNG"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 281983,
       "name": "Sobrevivi - Live MK 10 MI",
       "url": "https://open.spotify.com/track/2AhWt8NoWzWQOlIj1Ko95B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Creio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 321574,
+      "name": "Eu Creio (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+        "name": "Quem Me Tocou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+      "duration_ms": 293030,
+      "name": "Quem Me Tocou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Me Tocou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
       "artists": [
         {
@@ -560,25 +560,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 293030,
-      "name": "Quem Me Tocou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 289598,
-      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 332416,
       "name": "T\u00e1 Chorando Por Qu\u00ea? (Ao Vivo)",
       "url": "https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 289598,
+      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguente, Guerreiro",
-        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 307750,
-      "name": "Aguente, Guerreiro",
-      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -695,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aguente, Guerreiro",
+        "url": "https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 307750,
+      "name": "Aguente, Guerreiro",
+      "url": "https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Midian Lima (Ao Vivo)",
         "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 302927,
       "name": "Vida aos Sepulcros (Ao Vivo)",
       "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
     },
     {
       "added_at": null,
@@ -747,6 +727,26 @@
       "duration_ms": 196200,
       "name": "Enquanto a Igreja Ora (Ao Vivo)",
       "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
     },
     {
       "added_at": null,

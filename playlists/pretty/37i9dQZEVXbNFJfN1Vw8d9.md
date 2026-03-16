@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNFJfN1Vw8d9.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Spain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706,461 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,547 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNFJfN1Vw8d9.md) - [plain]
 | 49 | [PINKY PROMISE 2](https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn) | [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Pana YMB](https://open.spotify.com/artist/2e2yLgFeLOTjYE7sa15SEb) | [PINKY PROMISE 2](https://open.spotify.com/album/5D9814ry3IMoiArNV7dwng) | 3:01 |
 | 50 | [LA SACAPUNTAS](https://open.spotify.com/track/7mjWqfMjappj2v1Iw3rXeR) | [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX), [Zeno El Faraón](https://open.spotify.com/artist/1K15TdvUep1VIcFo0B6C1C), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1) | [LA SACAPUNTAS](https://open.spotify.com/album/6l4aL8DKTlieY2SLuC4WC1) | 3:55 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

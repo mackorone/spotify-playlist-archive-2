@@ -1543,6 +1543,28 @@
     },
     {
       "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/1qbxWcbWtxjohwFQkRQcJA"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "FD",
+      "url": "https://open.spotify.com/track/0CEB9ysT7EzBJypI2jhgSm"
+    },
+    {
+      "album": {
         "name": "Fui Marito Choklos",
         "url": "https://open.spotify.com/album/4CB1C5rC9ufFE1QOETJ839"
       },
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 155076,
       "name": "Torai",
       "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"

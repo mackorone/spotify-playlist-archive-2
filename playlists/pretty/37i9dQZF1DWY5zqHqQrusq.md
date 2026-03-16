@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Flier
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,318 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,319 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
 | 50 | [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 |
 
-Snapshot ID: `AAAAAMPvKM1FqsmH1QEJmYKL1cL7CLuw`
+Snapshot ID: `AAAAAK985F+Xzh6HegFtBP1tVawBA9u1`

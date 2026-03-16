@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3u3wQ0a66hxluvSHLP3QEh"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221199,
+      "name": "Easily",
+      "url": "https://open.spotify.com/track/06Ij53zp29XcB6YFk11pqo"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
       },
@@ -3962,7 +3980,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -4446,7 +4464,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 269365,
       "name": "Infohazard",
       "url": "https://open.spotify.com/track/6CfromGdojo0R0vlgA7iU8"
@@ -9444,7 +9462,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 246293,
       "name": "West End Girl",
       "url": "https://open.spotify.com/track/6gafVG02AvcZou1oz7titv"

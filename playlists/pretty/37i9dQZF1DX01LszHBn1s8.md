@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > summer isn't over yet  ☀️🐬✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,460 likes - 113 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,426 likes - 113 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

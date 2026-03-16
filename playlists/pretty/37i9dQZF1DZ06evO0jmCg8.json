@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 80529,
+  "num_followers": 80535,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAACITQ021sDXJAJzT65WEE0u",
+  "snapshot_id": "abSlAAAAAADWpvcA75Ujec0M2J7PCSy4",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "No Gods, No Masters",
-      "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 298000,
       "name": "The Watcher",
       "url": "https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "No Gods, No Masters",
+      "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 236746,
-      "name": "Paper Tiger",
-      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 231773,
       "name": "Deceiver, Deceiver",
       "url": "https://open.spotify.com/track/54nsNmxvp1ZxWcbKTcJynp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 236746,
+      "name": "Paper Tiger",
+      "url": "https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 231186,
-      "name": "Blood Dynasty",
-      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 243080,
       "name": "Sunset over the Empire",
       "url": "https://open.spotify.com/track/5nPCIvymgNTiXN7hMMTbdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 231186,
+      "name": "Blood Dynasty",
+      "url": "https://open.spotify.com/track/6QO8o6bGA3bR056Rsm3bVk"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deceivers",
         "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254946,
-      "name": "Dead Eyes See No Future",
-      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Reason to Believe",
-      "url": "https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt"
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
       "added_at": null,
@@ -475,6 +443,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Reason to Believe",
+      "url": "https://open.spotify.com/track/02gIPDHCTuKgKEl2VlgPzt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "Dead Eyes See No Future",
+      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood Dynasty (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
       },
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 260680,
-      "name": "Liars & Thieves",
-      "url": "https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze"
+      "duration_ms": 245666,
+      "name": "No More Regrets",
+      "url": "https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 245666,
-      "name": "No More Regrets",
-      "url": "https://open.spotify.com/track/6U4PnLCxvpipBXCffkdHNo"
+      "duration_ms": 260680,
+      "name": "Liars & Thieves",
+      "url": "https://open.spotify.com/track/0ddMkwKUpd2ExFOLJlDoze"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 298626,
-      "name": "I Am Legend/Out for Blood",
-      "url": "https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 195066,
       "name": "The Race",
       "url": "https://open.spotify.com/track/6tzxM7GwiC5Yci3s08n5B4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 298626,
+      "name": "I Am Legend/Out for Blood",
+      "url": "https://open.spotify.com/track/3y9BI61Ssc71BX3Yh6aE5N"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Enter the Machine",
-      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will To Power",
         "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 235426,
       "name": "Blood in the Water",
       "url": "https://open.spotify.com/track/12pova27n3uHRQxrPnih9f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Enter the Machine",
+      "url": "https://open.spotify.com/track/2aCRmGHUonyqFAq6cTv4a3"
     },
     {
       "added_at": null,

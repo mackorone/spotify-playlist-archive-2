@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,003 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,091 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 | 49 | [OTI GOUSTARO](https://open.spotify.com/track/5JQGTdzN1x0ujVUDhnhDPI) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [OTI GOUSTARO](https://open.spotify.com/album/3VSGpzRTNEalvMQrx2q4Gr) | 2:32 |
 | 50 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

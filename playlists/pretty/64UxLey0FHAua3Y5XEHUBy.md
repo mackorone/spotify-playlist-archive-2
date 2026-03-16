@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 
 > Chilled songs to keep the mood nice and relaxed.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 37,962 likes - 106 songs - 6 hr 15 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 37,960 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/64UxLey0FHAua3Y5XEHUBy.md) - [plain]
 | 31 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
 | 32 | [Song To Myself](https://open.spotify.com/track/7lWYTvkePN1hPIjSKgxFk2) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Song To Myself](https://open.spotify.com/album/76dTxwJ5SAxkju5LUMtsUS) | 3:07 |
 | 33 | [You Are Not Alone](https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [You Are Not Alone](https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx) | 2:45 |
-| 34 | [Never Let Me Down Again](https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM) | [Jessica Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:29 |
+| 34 | [Never Let Me Down Again](https://open.spotify.com/track/2Tw463vi8DMqkr2EiLYfZM) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 3:29 |
 | 35 | [Older](https://open.spotify.com/track/0bKDGHBhITjDwEGUZzVmPW) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Older](https://open.spotify.com/album/0ooEkmBfVpdeCTYUTquvdu) | 3:17 |
 | 36 | [Dumb Love](https://open.spotify.com/track/3RdOimLk6CxkaYMYtGTCB9) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:26 |
 | 37 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |

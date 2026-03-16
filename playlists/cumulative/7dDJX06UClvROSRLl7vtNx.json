@@ -228,7 +228,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 142327,
       "name": "About Love",
       "url": "https://open.spotify.com/track/5LPT6GxurxhuZz0jJDgXn4"
@@ -1807,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/4f3G0uOa0oWq7s0g6kBRlH"
+      },
+      "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/5gl1L4ixtb6XpQrmnLlD9n"
+    },
+    {
+      "album": {
         "name": "Beautiful Day (Take Me Back)",
         "url": "https://open.spotify.com/album/6miDC3XTPjHNLRjYqLeGaG"
       },
@@ -2764,6 +2786,24 @@
       "duration_ms": 140000,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4XwEh3yY4FtG4a9CrBFEbf"
+    },
+    {
+      "album": {
+        "name": "Burning Forever",
+        "url": "https://open.spotify.com/album/5zyQVALD9uLiCW1HYzTiYt"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Burning Forever",
+      "url": "https://open.spotify.com/track/5pqx5sSkQAXJJqey8nUmo8"
     },
     {
       "album": {
@@ -4428,7 +4468,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 153142,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/5rqCSB5SLcgvzCWLULhZku"
@@ -7598,7 +7638,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 157118,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/24xylrY9ijPtljf7uC5NXy"
@@ -10864,7 +10904,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 142184,
       "name": "I Wanted That",
       "url": "https://open.spotify.com/track/0XzYhe3jE5d80apayNMqUG"
@@ -18690,7 +18730,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 144545,
       "name": "Palm Tree",
       "url": "https://open.spotify.com/track/6B3koRzRhTCS28wA8R1wrb"
@@ -18772,6 +18812,32 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/00eK45UA2gGmeuqD2kb7Ru"
+      },
+      "artists": [
+        {
+          "name": "Cristian Bloom",
+          "url": "https://open.spotify.com/artist/07PrOjp8RXbGnWZTv1KxxN"
+        },
+        {
+          "name": "Madom",
+          "url": "https://open.spotify.com/artist/0IenaxU3u6R2sQPWHStOrM"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6cWY6Pf6zFEvp0wODVAlfy"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/30fSRYFX3Gbnwb2Y3ySGyD"
       },
       "artists": [
@@ -18826,7 +18892,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 158181,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/1nr7No98YB7Uj7RS7oVzQW"
@@ -20581,6 +20647,24 @@
     },
     {
       "album": {
+        "name": "Say It First",
+        "url": "https://open.spotify.com/album/7vTs3Dnwz1pEzmIu6g49ub"
+      },
+      "artists": [
+        {
+          "name": "Goldaine",
+          "url": "https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141322,
+      "name": "Say It First",
+      "url": "https://open.spotify.com/track/3cLqtFG6ynqQMyz6LMSScH"
+    },
+    {
+      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/3AFZwew6neHkGKRyo5yxxA"
       },
@@ -20890,7 +20974,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 143040,
       "name": "She's Heavenly",
       "url": "https://open.spotify.com/track/5xStP4JYvfZkMwcmCWaH9b"
@@ -24787,6 +24871,24 @@
     },
     {
       "album": {
+        "name": "To The Sun",
+        "url": "https://open.spotify.com/album/4Egv7LczbVHbd9FPX08Oy5"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "To The Sun",
+      "url": "https://open.spotify.com/track/5sqU7K8fWSMvq1HbVZjA9O"
+    },
+    {
+      "album": {
         "name": "To You",
         "url": "https://open.spotify.com/album/6FxY8bgg72NORgDw6suqUF"
       },
@@ -26822,7 +26924,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 129456,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/7LgE8ldYlOZwEmYz6p1OjR"

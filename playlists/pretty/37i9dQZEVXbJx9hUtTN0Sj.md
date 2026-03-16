@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,120 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,121 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 11 | [Loop](https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4) | [Jerri](https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK) | [Loop](https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ) | 2:18 |
 | 12 | [Bazooka](https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L) | 1:48 |
 | 13 | [SOLEIL](https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [SOLEIL](https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D) | 2:48 |
-| 14 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 14 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 15 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 16 | [Jet Stream Heart](https://open.spotify.com/track/0tIi8FsNFChexzMAkkjCcE) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Jet Stream Heart](https://open.spotify.com/album/0OEWMeVWS44OsiFYOvaz4n) | 3:39 |
 | 17 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 37 | [Na Za Désolé](https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU) | [Na Za Désolé](https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte) | 3:27 |
 | 38 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 |
 | 39 | [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 |
-| 40 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
+| 40 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 | 41 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
 | 42 | [Amori Stupidi \(feat\. Nina Zilli\)](https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:13 |
 | 43 | [Hé Kanjer, Dit Is Je Verjaardag](https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi) | [Cadeautje voor jou](https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ) | [Dit Is Je Verjaardag \(Troetelnamen\)](https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN) | 3:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJx9hUtTN0Sj.md) - [plain]
 | 46 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 47 | [BMW](https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU) | [BMW](https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF) | 2:25 |
 | 48 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 3:28 |
-| 49 | [Someone Out of Town](https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:01 |
+| 49 | [Someone Out Of Town](https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/6x6UkYPf9ZV3uEVSoTBqZP) | 3:00 |
 | 50 | [AWGAZI](https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [AWGAZI](https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW) | 2:46 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

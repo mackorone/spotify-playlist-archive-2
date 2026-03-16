@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJWuzDrTxbKS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,001 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,004 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJWuzDrTxbKS.md) - [plain]
 | 49 | [lai tev apnīk skumt](https://open.spotify.com/track/6hWnXrx3Po79UxZ0WN7lNT) | [Sudden Lights](https://open.spotify.com/artist/3hUQbGcka7Ta13TPySOZ0O) | [īsas vasaras garas ziemas](https://open.spotify.com/album/3eF5xjk4wTkOtNQfbZwqBd) | 3:57 |
 | 50 | [Pirmās rindas](https://open.spotify.com/track/22canFEwRRpLPDFsvlyW9Z) | [ansis](https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry), [Marko](https://open.spotify.com/artist/3ZgKjRocEczVCcOiWKDkOZ) | [222](https://open.spotify.com/album/0HDvC5z6VwWB8oX2vr9F9C) | 4:31 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

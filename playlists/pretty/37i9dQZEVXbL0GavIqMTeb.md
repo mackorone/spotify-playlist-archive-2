@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL0GavIqMTeb.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,691 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,752 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL0GavIqMTeb.md) - [plain]
 | 49 | [No Va a Chocar](https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk) | [Norambuena](https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP), [RealViviendo](https://open.spotify.com/artist/4vYA4xih59fWdkvmGBgTcH) | [No Va a Chocar](https://open.spotify.com/album/2DdJM0pjxafqdA9ntYZRdV) | 3:06 |
 | 50 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

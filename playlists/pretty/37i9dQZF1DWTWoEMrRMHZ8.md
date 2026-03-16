@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Joyce Alane
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,746 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,759 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 99 | [PALCO](https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [PALCO](https://open.spotify.com/album/11D3RPdsEaovaCBPks0908) | 4:38 |
 | 100 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
 
-Snapshot ID: `AAAAAG+uKliJrblcURMyAchTQtC0ER4p`
+Snapshot ID: `AAAAAMuNJWlbugghcFHecs3b5mIx9x2H`

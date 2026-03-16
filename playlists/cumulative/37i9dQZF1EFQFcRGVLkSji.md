@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-179 songs - 8 hr 26 min
+180 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [SWITCH IT](https://open.spotify.com/track/5nAvpSsGYQb4qde02EfElK) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Zukenee](https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:01 | 2025-11-13 |  |
 | [Talk](https://open.spotify.com/track/0oO1AbL92F6329z13C2qQH) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:54 | 2025-06-01 |  |
 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 | 2025-06-01 |  |
-| [TERIYAKI](https://open.spotify.com/track/3qt7tAsZJhJPHkbBY0cwhc) | [VIBE WORLD ORDER](https://open.spotify.com/artist/3TRHMPRbs1dbB5pPo5UV1I) | [TERIYAKI](https://open.spotify.com/album/2w9KplixDaXt62gyvSAPCu) | 3:44 | 2025-06-01 |  |
+| [TERIYAKI](https://open.spotify.com/track/3MGz1bSaPq81NeUfw2YZCx) | [VIBE WORLD ORDER](https://open.spotify.com/artist/3TRHMPRbs1dbB5pPo5UV1I) | [TERIYAKI](https://open.spotify.com/album/3aLdPStyu6MciXjhHX9UHI) | 3:44 | 2026-03-15 |  |
+| [TERIYAKI](https://open.spotify.com/track/3qt7tAsZJhJPHkbBY0cwhc) | [VIBE WORLD ORDER](https://open.spotify.com/artist/3TRHMPRbs1dbB5pPo5UV1I) | [TERIYAKI](https://open.spotify.com/album/2w9KplixDaXt62gyvSAPCu) | 3:44 | 2025-06-01 | 2026-03-16 |
 | [Think About It](https://open.spotify.com/track/4FS2aEDtD0mO2qMJ5EN2EF) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Think About It](https://open.spotify.com/album/62yxyWveuVL1dmiWwhglQx) | 3:55 | 2025-06-01 |  |
 | [Till I'm Ghost](https://open.spotify.com/track/0cWY9gF17M57XRsZA1lws1) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [From Harlem with Love](https://open.spotify.com/album/3WwObhkWrk2hoWbUzql4hx) | 3:23 | 2025-06-01 |  |
 | [TMS](https://open.spotify.com/track/7FaSiNGF3jY2cLM1lHJIWi) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:12 | 2025-06-01 |  |

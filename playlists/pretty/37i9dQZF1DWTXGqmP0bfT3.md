@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,493 likes - 150 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,650 likes - 150 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [Arise](https://open.spotify.com/track/06IzdYya8ZhXFRt0WJIwxI) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Everlasting](https://open.spotify.com/album/0CiRfmmgD3Ln0yV5qdi0Mb) | 4:09 |
 | 150 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 |
 
-Snapshot ID: `AAAAALyKqsV5vf+QST/purdCwkTp6vK6`
+Snapshot ID: `AAAAAKmfbahi888l1/IlgTQsQQS7Otvg`

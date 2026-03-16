@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,476 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,482 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 9 | [Canción Sin Miedo](https://open.spotify.com/track/4txaBpmZBOneum5HnxKKnJ) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:33 |
 | 10 | [Chichabeba](https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Viglezz](https://open.spotify.com/artist/1LJ9q30BIBFwaTDrJ5BZu5) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 2:11 |
 | 11 | [Maldivas](https://open.spotify.com/track/2j14r5SKzpeANsYpk6od6e) | [Charly Chivas](https://open.spotify.com/artist/7kocRSW6cN2SYBy4K8JI0X), [Miguel Serrano](https://open.spotify.com/artist/4tIWmm2fYY7fqNkoK8HRbl), [Jorge Duran C](https://open.spotify.com/artist/3g3A0QVWCfSiby8NxjuZ1N) | [Maldivas](https://open.spotify.com/album/7CKX0r3D80GiYfyevoSVuz) | 3:13 |
-| 12 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
+| 12 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 13 | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:24 |
 | 14 | [IMU](https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB), [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [IMU](https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i) | 2:19 |
 | 15 | [No Va a Chocar](https://open.spotify.com/track/6mxnut3OxI5xxUnbYgDnXk) | [Norambuena](https://open.spotify.com/artist/6hd56U70nE8HfWvaRXoRrP), [RealViviendo](https://open.spotify.com/artist/4vYA4xih59fWdkvmGBgTcH) | [No Va a Chocar](https://open.spotify.com/album/2DdJM0pjxafqdA9ntYZRdV) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLuUZrygauiA.md) - [plain]
 | 49 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 |
 | 50 | [Tus Ojitos](https://open.spotify.com/track/2KuWVKFdHHNBsu7pwXBdnL) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [Tus Ojitos](https://open.spotify.com/album/2jO6uSFm0EYByeUViBwbNc) | 4:04 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

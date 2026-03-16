@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Dan Sanchez y Kidd Keo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,928 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,932 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp) | 3:03 |
 | 100 | [Capitan O Chachito](https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Capitan O Chachito](https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw) | 3:44 |
 
-Snapshot ID: `AAAAALDEXxdk60QiecqAeo1HmEVVmiQo`
+Snapshot ID: `AAAAANSzG6kGiC5kRIa5gRRT1vNG0EQP`

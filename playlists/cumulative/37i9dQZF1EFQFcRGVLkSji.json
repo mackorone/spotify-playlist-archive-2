@@ -3220,6 +3220,24 @@
     {
       "album": {
         "name": "TERIYAKI",
+        "url": "https://open.spotify.com/album/3aLdPStyu6MciXjhHX9UHI"
+      },
+      "artists": [
+        {
+          "name": "VIBE WORLD ORDER",
+          "url": "https://open.spotify.com/artist/3TRHMPRbs1dbB5pPo5UV1I"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224410,
+      "name": "TERIYAKI",
+      "url": "https://open.spotify.com/track/3MGz1bSaPq81NeUfw2YZCx"
+    },
+    {
+      "album": {
+        "name": "TERIYAKI",
         "url": "https://open.spotify.com/album/2w9KplixDaXt62gyvSAPCu"
       },
       "artists": [
@@ -3230,7 +3248,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 224410,
       "name": "TERIYAKI",
       "url": "https://open.spotify.com/track/3qt7tAsZJhJPHkbBY0cwhc"

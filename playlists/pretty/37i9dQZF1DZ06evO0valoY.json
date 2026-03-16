@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 214211,
+  "num_followers": 214215,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABRN/Pp3vBAYfn/196KHS1N",
+  "snapshot_id": "abSlAAAAAADl9k3mnUQnwwZesyu1/i8H",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+        "name": "Corta Venas",
+        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 229479,
-      "name": "Mejor Acabar",
-      "url": "https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd"
+      "duration_ms": 208326,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corta Venas",
-        "url": "https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W"
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 208326,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/6tzWQCTlrZr1CnwiFGCmoM"
+      "duration_ms": 229479,
+      "name": "Mejor Acabar",
+      "url": "https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamento Boliviano",
-        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 212213,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vibras de Noche",
         "url": "https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 239874,
       "name": "Ganas Que Te Tengo",
       "url": "https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dame un Chanze",
-        "url": "https://open.spotify.com/album/2wgHxzpgMrisLHnHbfbxrD"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 268820,
-      "name": "SOY UN P*ENDEJO",
-      "url": "https://open.spotify.com/track/2kIIq27nnGnz12ucXWUFYZ"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 228000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/7F7hBGecl8FIkvHE7pCTGG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dame un Chanze",
+        "url": "https://open.spotify.com/album/2wgHxzpgMrisLHnHbfbxrD"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 268820,
+      "name": "SOY UN P*ENDEJO",
+      "url": "https://open.spotify.com/track/2kIIq27nnGnz12ucXWUFYZ"
     }
   ],
   "unique_name": "This Is Eslabon Armado",

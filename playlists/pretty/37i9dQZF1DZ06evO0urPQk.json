@@ -1,12 +1,12 @@
 {
   "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
-  "num_followers": 27792,
+  "num_followers": 27790,
   "original_name": "This Is Nana Mizuki",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAB7e4MRruq4WNcMgEFmlAor",
+  "snapshot_id": "abSlAAAAAABGzd5bFDnYHrg2DBAlhNzq",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5922\u5e7b",
-        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYBRID UNIVERSE",
         "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 324586,
       "name": "BRAVE PHOENIX",
       "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 224040,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/3d3eZn4cR6QBC5SaeLb1td"
+      "duration_ms": 254760,
+      "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/1py3RFQLg5uoI79r6vsvL2"
     },
     {
       "added_at": null,
@@ -492,25 +492,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 254760,
-      "name": "\u30d5\u30ed\u30f3\u30c6\u30a3\u30a2\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/1py3RFQLg5uoI79r6vsvL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROCKBOUND NEIGHBORS",
-        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 321666,
-      "name": "Synchrogazer-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
+      "duration_ms": 224040,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/3d3eZn4cR6QBC5SaeLb1td"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 222560,
       "name": "PHANTOM MINDS",
       "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROCKBOUND NEIGHBORS",
+        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 321666,
+      "name": "Synchrogazer-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRIGHT STREAM",
         "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 187066,
       "name": "Sacred Force",
       "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONTEMPORARY EMOTION",
-        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
+        "name": "POWER GATE",
+        "url": "https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Blueprint",
-      "url": "https://open.spotify.com/track/3P3dmJxsLEEB3Gy8vNCelw"
+      "duration_ms": 271493,
+      "name": "POWER GATE",
+      "url": "https://open.spotify.com/track/53GoHDW1XwWPFp3Wn9VPtJ"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "POWER GATE",
-        "url": "https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ"
+        "name": "CONTEMPORARY EMOTION",
+        "url": "https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 271493,
-      "name": "POWER GATE",
-      "url": "https://open.spotify.com/track/53GoHDW1XwWPFp3Wn9VPtJ"
+      "duration_ms": 224360,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/3P3dmJxsLEEB3Gy8vNCelw"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "innocent starter",
-        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+        "name": "Trickster",
+        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 286666,
-      "name": "\u305d\u308c\u3067\u3082\u541b\u3092\u60f3\u3044\u51fa\u3059\u304b\u3089-again-",
-      "url": "https://open.spotify.com/track/2wrhxBSUcjIFcSMKkVCq3a"
+      "duration_ms": 266080,
+      "name": "Trinity Cross",
+      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
     }
   ],
   "unique_name": "This Is Nana Mizuki",

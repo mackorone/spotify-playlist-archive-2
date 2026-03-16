@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 207463,
       "name": "FEEL THE RAIN (feat. Ralph)",
       "url": "https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS"
@@ -2542,6 +2542,28 @@
       "duration_ms": 182902,
       "name": "MUJI TEE",
       "url": "https://open.spotify.com/track/0ektvubmcjCJVjHZ4kEwLJ"
+    },
+    {
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "My Fan",
+      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
     },
     {
       "album": {

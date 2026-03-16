@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40026,
+  "num_followers": 40033,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAADJEe8pZZDncW42WFIpNieN",
+  "snapshot_id": "abSlAAAAAADgn7212dhAfaM5LK8cP9NA",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
-      },
-      "artists": [
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 277970,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N.W.A",
         "url": "https://open.spotify.com/album/5r769GiqpMgMx4vAzCT7Kz"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 230413,
       "name": "N.W.A",
       "url": "https://open.spotify.com/track/43X9WjjrCMIQ7lM4TjRbZm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 277970,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex, Love & Pain II",
-        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "You Don't Know (feat. Wale)",
-      "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
         "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 247293,
       "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
       "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex, Love & Pain II",
+        "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "You Don't Know (feat. Wale)",
+      "url": "https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s"
     },
     {
       "added_at": null,

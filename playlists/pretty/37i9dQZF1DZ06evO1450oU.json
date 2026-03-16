@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAADJ118TRqzdsMK19ydDhcoD",
+  "snapshot_id": "abSlAAAAAADhorwi9M4sUNPtrR2lk2th",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Taste the Floor",
-      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
+      "duration_ms": 229333,
+      "name": "Rulo",
+      "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 206216,
-      "name": "Trance",
-      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
+      "duration_ms": 211812,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Rulo",
-      "url": "https://open.spotify.com/track/3cyYngjvyJZDIDhCWTzKGp"
+      "duration_ms": 254106,
+      "name": "Taste the Floor",
+      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 211812,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
+      "duration_ms": 206216,
+      "name": "Trance",
+      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
     },
     {
       "added_at": null,
@@ -167,54 +167,6 @@
       "duration_ms": 264133,
       "name": "Phase",
       "url": "https://open.spotify.com/track/5usiEfBDU1yU6qvuXlg81z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Were There",
-        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out of the Sky",
-        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 228670,
-      "name": "Where is the Sun",
-      "url": "https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Strangers Go",
-        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
-      },
-      "artists": [
-        {
-          "name": "Salt Creek",
-          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
     },
     {
       "added_at": null,
@@ -260,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 205826,
-      "name": "Weathervane",
-      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
     },
     {
       "added_at": null,
@@ -279,6 +231,54 @@
       "duration_ms": 266485,
       "name": "Electricity Is Humming",
       "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out of the Sky",
+        "url": "https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 228670,
+      "name": "Where is the Sun",
+      "url": "https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where Strangers Go",
+        "url": "https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Were There",
+        "url": "https://open.spotify.com/album/1ADhT9kQaUjEeT3O8x1ZEH"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 281319,
+      "name": "Swim in Time",
+      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
     },
     {
       "added_at": null,

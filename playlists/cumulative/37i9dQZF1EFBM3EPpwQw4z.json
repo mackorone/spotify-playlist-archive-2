@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/66NAVZJfTIJd4WZJfAsBJn"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228044,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7hCslhjJhNF5jZQANmqx3l"
+    },
+    {
+      "album": {
         "name": "Jaguar",
         "url": "https://open.spotify.com/album/2jKVZKviFNCICo24dK6nJ2"
       },

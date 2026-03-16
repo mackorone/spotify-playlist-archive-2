@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ちゃんみな & HIROTO \(INI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,896 likes - 69 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,892 likes - 69 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

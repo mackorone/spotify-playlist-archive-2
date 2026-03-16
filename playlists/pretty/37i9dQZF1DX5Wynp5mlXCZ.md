@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > "ти мій біль, ти мій яд, дуже нравиця наряд" \- БРИКУЛЕЦЬ на обкладинці 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,122 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,153 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

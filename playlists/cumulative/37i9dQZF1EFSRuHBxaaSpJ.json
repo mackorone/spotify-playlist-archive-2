@@ -457,6 +457,28 @@
     },
     {
       "album": {
+        "name": "Aura x G-Wave",
+        "url": "https://open.spotify.com/album/2dH2JV8iSIcbuxMlvCOgNf"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5s7KlR1yLdv4FnzLytnvAy"
+    },
+    {
+      "album": {
         "name": "L\u00e9gende Vivante",
         "url": "https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY"
       },

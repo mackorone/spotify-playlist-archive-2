@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNpKdqfZ9Upp.md) - [plain]
 | 21 | [VAMOaCOCHI](https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:19 |
 | 22 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 23 | [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 |
-| 24 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 24 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 25 | [Machista](https://open.spotify.com/track/2jJ5gHhgrCiKlZJamIB9mY) | [M3LOON](https://open.spotify.com/artist/0a9Hj8nVifQaVUwkwT41rB), [ElGranAlexis](https://open.spotify.com/artist/77dBqhGBLZodn35OJzEvGS) | [Machista](https://open.spotify.com/album/02IhJPnSXTqE4C253vRiNN) | 2:30 |
 | 26 | [Loop](https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4) | [Jerri](https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK) | [Loop](https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ) | 2:18 |
 | 27 | [PANTI Y COLALE](https://open.spotify.com/track/3eyEIpmHHTANgXZQ6i4csM) | [DJ Chulo NYC](https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX) | [PANTI Y COLALE](https://open.spotify.com/album/3gufpvtEIFABgDJZjAvgzw) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNpKdqfZ9Upp.md) - [plain]
 | 49 | [SKY](https://open.spotify.com/track/52eJOGfsKEEkHrfZt6Kl3p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:33 |
 | 50 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

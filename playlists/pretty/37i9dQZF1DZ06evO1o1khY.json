@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 43772,
+  "num_followers": 43777,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABx3+/wEd7Ym+39i92EPkie",
+  "snapshot_id": "abSlAAAAAAAuZeRXSagNMvk2LftMUY1l",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Part 3",
-        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 153232,
-      "name": "To The Side (with GloRilla)",
-      "url": "https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ILBB2 (feat. GloRilla)",
         "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 133589,
       "name": "ILBB2 (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Part 3",
+        "url": "https://open.spotify.com/album/2wboAwulksF118O1TkNeBc"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 153232,
+      "name": "To The Side (with GloRilla)",
+      "url": "https://open.spotify.com/track/4B0nsYvTtZ0oAyr5MjkXU9"
     },
     {
       "added_at": null,

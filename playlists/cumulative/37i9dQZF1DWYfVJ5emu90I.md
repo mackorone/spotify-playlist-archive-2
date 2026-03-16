@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-214 songs - 10 hr 22 min
+215 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Fast](https://open.spotify.com/track/4IwBeoakiZGK5h8KE7Ns3I) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [Frankkiss](https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2), [Kiyoki](https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux) | [Fast](https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js) | 3:02 | 2024-10-02 | 2025-01-09 |
 | [Fast Pass](https://open.spotify.com/track/39wnOZkUJODG6ZxGqHkXoT) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Fast Pass](https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9) | 2:58 | 2024-07-12 | 2024-08-21 |
 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 | 2022-11-19 | 2023-06-17 |
-| [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 | 2024-02-27 |  |
+| [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 | 2024-02-27 | 2026-03-16 |
 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 | 2022-11-19 |  |
 | [FLY](https://open.spotify.com/track/0cvYy3Ei7KTanZ1572x6Sw) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/3AwrmY3wR3Ob9HbAchBYyu) | 3:00 | 2024-02-27 | 2024-07-13 |
 | [FLY](https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA) | 3:00 | 2024-02-06 | 2024-04-19 |
@@ -120,6 +120,7 @@
 | [Move Up](https://open.spotify.com/track/2bBe5DkMT1inRNPJ4RsClZ) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/0dHzWk3b5wtTpoHJWBxQxO) | 3:07 | 2024-02-06 | 2024-04-19 |
 | [Move Up](https://open.spotify.com/track/3LNZ1bU1WdBkoLzbBVb2Ps) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/2dFozDdhNAGV8pjll0ztay) | 3:07 | 2024-02-27 | 2024-08-21 |
 | [MUJI TEE](https://open.spotify.com/track/0ektvubmcjCJVjHZ4kEwLJ) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU), [DSXTX](https://open.spotify.com/artist/73TwGzLgB0TwVcEBbKd4Hw) | [MUJI TEE](https://open.spotify.com/album/0wcf67hoX2dWUYz1Xbp4ZG) | 3:02 | 2022-12-22 | 2023-05-24 |
+| [My Fan](https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 | 2026-03-16 |  |
 | [Nakamura \- Remix](https://open.spotify.com/track/3js6AKGtNyfmR2eMG5lKdZ) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [ghostpops](https://open.spotify.com/artist/6zFpstOqy3dPfdqsOmaZcI), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Kraftykid](https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord) | [Nakamura \(Remix\)](https://open.spotify.com/album/3HssFlV7CUvmzjPa4yv93k) | 3:27 | 2022-11-19 | 2022-12-07 |
 | [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 | 2025-09-24 | 2025-10-15 |
 | [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 | 2024-02-06 | 2024-07-07 |

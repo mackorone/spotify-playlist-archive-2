@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Euggy
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,655 likes - 109 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,673 likes - 109 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,254 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,255 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 4 | [Be Like a Woman](https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n) | [Chris Rainbow](https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl) | [White Trails \(Expanded\)](https://open.spotify.com/album/4ZCCd0IZB5RizC5sz5IguU) | 4:15 |
 | 5 | [Jane!](https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5) | 3:06 |
 | 6 | [Bazooka](https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L) | 1:48 |
-| 7 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 7 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 8 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 |
 | 9 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
 | 10 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 21 | [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 |
 | 22 | [A Thousand Years](https://open.spotify.com/track/23WxsmliKISYaCfam8iPPG) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [ZVC](https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI) | [A Thousand Years](https://open.spotify.com/album/7z2Nuz41dkU9ruY5Qkva2L) | 3:00 |
 | 23 | [Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Just The Way You Are](https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj) | 3:30 |
-| 24 | [Here \(with Chris Stapleton\)](https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:11 |
+| 24 | [Here \(with Chris Stapleton\)](https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Prizefighter](https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0) | 3:11 |
 | 25 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 26 | [Empty Words](https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Empty Words](https://open.spotify.com/album/4V81NUk3LanyGQuyZ7llow) | 2:32 |
 | 27 | [Kavkaz](https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG) | [starly](https://open.spotify.com/artist/1jnOfHWIo5RxjjUueKs2SL) | [Kavkaz](https://open.spotify.com/album/5HTW8Ojcm14bO6YitNIE1w) | 2:31 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 35 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 36 | [MY JEALOUSY](https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD) | [vivi baby](https://open.spotify.com/artist/2VEjtfZuEMFeHHc1Zp5L6R), [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3) | [MY JEALOUSY](https://open.spotify.com/album/29hN0ogSIO1nh8yXWQu7ub) | 2:30 |
 | 37 | [GET OUT MY HEAD](https://open.spotify.com/track/4Yv3uFcvb6QEQaEzb5GqtK) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [GET OUT MY HEAD](https://open.spotify.com/album/7nWiweIvGw9ZxThZmBmJWA) | 3:18 |
-| 38 | [Someone Out of Town](https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Terukir Di Bintang](https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa) | 3:01 |
+| 38 | [Someone Out Of Town](https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Decorate](https://open.spotify.com/album/6x6UkYPf9ZV3uEVSoTBqZP) | 3:00 |
 | 39 | [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 |
 | 40 | [Yoga](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Yoga](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) | 3:35 |
 | 41 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO5MSE9RdfN2.md) - [plain]
 | 49 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 |
 | 50 | [Dying for You](https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:02 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

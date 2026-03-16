@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 241373,
       "name": "(Gotta Get A) Meal Ticket",
       "url": "https://open.spotify.com/track/5jMHhjn0ijWcz1WapsnoHb"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 241640,
       "name": "(Gotta Get A) Meal Ticket",
       "url": "https://open.spotify.com/track/30tWMxzdRReFk4quQsV0Su"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 300306,
       "name": "Amoreena",
       "url": "https://open.spotify.com/track/2HhQqv3RRx6FwLZZpswNQ7"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 302506,
       "name": "Amoreena",
       "url": "https://open.spotify.com/track/7qilLNLdlGyALqKVecG3Lt"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 243333,
       "name": "Amy",
       "url": "https://open.spotify.com/track/06jttXe119nc0r9Brkpn8a"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 242911,
       "name": "Amy - Remastered 2017",
       "url": "https://open.spotify.com/track/1elh25wD11h1ObbqQmLeQs"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 299293,
       "name": "Ballad Of A Well-Known Gun",
       "url": "https://open.spotify.com/track/1sDQlh70owYYMNJ2faYtSz"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 301226,
       "name": "Ballad Of A Well-Known Gun",
       "url": "https://open.spotify.com/track/0h3ZbeBFe6jEQCQuuM0WWx"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 157384,
       "name": "Better Off Dead",
       "url": "https://open.spotify.com/track/1b0ZaClJiGhdTRVHrzilES"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 157653,
       "name": "Better Off Dead",
       "url": "https://open.spotify.com/track/23JuilAzewNOYc2hfvcSQl"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 273733,
       "name": "Bitter Fingers",
       "url": "https://open.spotify.com/track/4Oy2yKrQ0fG7Dc7YtB0Vyg"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 274253,
       "name": "Bitter Fingers",
       "url": "https://open.spotify.com/track/7k63sjSuQ0I3KCtxwV7UJK"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -1548,6 +1548,24 @@
     {
       "album": {
         "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Border Song",
+      "url": "https://open.spotify.com/track/3gSoNTSGedgEAdaVfTPTnM"
+    },
+    {
+      "album": {
+        "name": "Elton John",
         "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
       },
       "artists": [
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 202066,
       "name": "Border Song",
       "url": "https://open.spotify.com/track/4gpxT82T8ZzRWknBH30Zey"
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 381240,
       "name": "Burn Down The Mission",
       "url": "https://open.spotify.com/track/0mkkiEW5JdjKTQMTcbevTy"
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 382933,
       "name": "Burn Down The Mission",
       "url": "https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 346360,
       "name": "Captain Fantastic And The Brown Dirt Cowboy",
       "url": "https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG"
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 346640,
       "name": "Captain Fantastic And The Brown Dirt Cowboy",
       "url": "https://open.spotify.com/track/58hb5zNHFE6np8gGHm0b9n"
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 205666,
       "name": "Come Down In Time",
       "url": "https://open.spotify.com/track/2Mn2MuyqxbzZwnxRX1p8kY"
@@ -2452,7 +2470,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 205680,
       "name": "Come Down In Time",
       "url": "https://open.spotify.com/track/2nCrujwjKjowXKNes0AoJP"
@@ -2488,7 +2506,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 306840,
       "name": "Country Comfort",
       "url": "https://open.spotify.com/track/7oh1M6NlzTUk8z8Rcl0fal"
@@ -2506,7 +2524,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 306866,
       "name": "Country Comfort",
       "url": "https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI"
@@ -4828,7 +4846,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 246600,
       "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
       "url": "https://open.spotify.com/track/1VXgLmMVNVIxI1iTB4oIli"
@@ -4846,7 +4864,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 246937,
       "name": "Ho! Ho! Ho! (Who'd Be A Turkey At Christmas)",
       "url": "https://open.spotify.com/track/5x0OWY20E0u3yoEVa9lyfK"
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 313026,
       "name": "Honky Cat",
       "url": "https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb"
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 311470,
       "name": "Honky Cat - Remastered 2017",
       "url": "https://open.spotify.com/track/5GBY294KUbTARW4jljNzeq"
@@ -5636,7 +5654,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 215173,
       "name": "I Think I'm Going To Kill Myself",
       "url": "https://open.spotify.com/track/4q7tMaar2kUMweKu6N5bZz"
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 214827,
       "name": "I Think I'm Going To Kill Myself - Remastered 2017",
       "url": "https://open.spotify.com/track/51eDV3qrkBTJGKlIDjwi85"
@@ -7332,7 +7350,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 332733,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/51Y1WwassIhqZYBwwaAjzr"
@@ -7350,7 +7368,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 332352,
       "name": "Mellow - Remastered 2017",
       "url": "https://open.spotify.com/track/5rAnB8Ys3rFTmiXxMvEKbr"
@@ -7590,7 +7608,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 300506,
       "name": "Mona Lisas And Mad Hatters",
       "url": "https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9"
@@ -7608,7 +7626,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 300144,
       "name": "Mona Lisas And Mad Hatters - Remastered 2017",
       "url": "https://open.spotify.com/track/3AJVI8kKij8zD5YOR6HM9v"
@@ -7702,7 +7720,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 380666,
       "name": "My Father's Gun",
       "url": "https://open.spotify.com/track/2AgMTn4RyRrI1uc3iXx4Xq"
@@ -7720,7 +7738,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 380773,
       "name": "My Father's Gun",
       "url": "https://open.spotify.com/track/6a1E5VhaMHiG7B3WT9Sem2"
@@ -7950,7 +7968,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
@@ -8390,7 +8408,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 321933,
       "name": "Philadelphia Freedom",
       "url": "https://open.spotify.com/track/6kLGxJA0QCVDTIbZDbXgL3"
@@ -8408,7 +8426,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 324573,
       "name": "Philadelphia Freedom",
       "url": "https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq"
@@ -8924,7 +8942,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 281151,
       "name": "Rocket Man (I Think It's Going To Be A Long Long Time) - Remastered 2017",
       "url": "https://open.spotify.com/track/3mZqm07Ut1A5hMBupyH5W5"
@@ -8942,7 +8960,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 281613,
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
@@ -9256,7 +9274,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/36N7FB6SiOxmnjwjfjTcSG"
@@ -9274,7 +9292,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 238603,
       "name": "Salvation - Remastered 2017",
       "url": "https://open.spotify.com/track/0p4Kw1rBg5hVnN8QjZUaRK"
@@ -9876,7 +9894,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 262066,
       "name": "Slave",
       "url": "https://open.spotify.com/track/41UXf5Tt4FShNileQJyubw"
@@ -9894,7 +9912,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 261621,
       "name": "Slave - Remastered 2017",
       "url": "https://open.spotify.com/track/4af8nHQK0URZHs6AX7dsd3"
@@ -10184,7 +10202,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 404933,
       "name": "Someone Saved My Life Tonight",
       "url": "https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG"
@@ -10202,7 +10220,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 405800,
       "name": "Someone Saved My Life Tonight",
       "url": "https://open.spotify.com/track/0CcGLZQ2WvKkpPrsy0euFU"
@@ -10278,7 +10296,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 228666,
       "name": "Son Of Your Father",
       "url": "https://open.spotify.com/track/0LiczY4DOe2qDlTw6KgcJg"
@@ -10296,7 +10314,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 228720,
       "name": "Son Of Your Father",
       "url": "https://open.spotify.com/track/2MhJw7FL6dmx4za6f5eLSF"
@@ -10437,24 +10455,6 @@
     },
     {
       "album": {
-        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "date_added": "2022-09-08",
-      "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
-      "duration_ms": 272393,
-      "name": "Step Into Christmas",
-      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
-    },
-    {
-      "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -10466,10 +10466,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272393,
+      "name": "Step Into Christmas - Remastered 1995",
+      "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
     },
     {
       "album": {
@@ -10930,6 +10948,24 @@
     {
       "album": {
         "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Take Me To The Pilot",
+      "url": "https://open.spotify.com/track/5ikzxNue9a4uAQmSmTXZSi"
+    },
+    {
+      "album": {
+        "name": "Elton John",
         "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
       },
       "artists": [
@@ -10940,7 +10976,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 226626,
       "name": "Take Me To The Pilot",
       "url": "https://open.spotify.com/track/1CPmTJHyeVRWsc6Va27fpQ"
@@ -10994,7 +11030,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 244093,
       "name": "Talking Old Soldiers",
       "url": "https://open.spotify.com/track/0o8YPVrqORUW4rclYgDo4M"
@@ -11012,7 +11048,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 246333,
       "name": "Talking Old Soldiers",
       "url": "https://open.spotify.com/track/4t4Mgdy6VxmFmrRzk4OWf5"
@@ -11102,7 +11138,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 260626,
       "name": "Tell Me When The Whistle Blows",
       "url": "https://open.spotify.com/track/0R0uyYbcCmkhDG3mDPq6Jn"
@@ -11120,7 +11156,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 260959,
       "name": "Tell Me When The Whistle Blows",
       "url": "https://open.spotify.com/track/1ZDcb5SSPBZIWQ0Gmm8BXk"
@@ -12436,7 +12472,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 268422,
       "name": "Tower Of Babel",
       "url": "https://open.spotify.com/track/4uvehZNI8BxnmBOlG9wmVn"
@@ -12454,7 +12490,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 268853,
       "name": "Tower Of Babel",
       "url": "https://open.spotify.com/track/3sjk6n71wc9WzWs1RoOsTH"
@@ -12830,7 +12866,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 251960,
       "name": "We All Fall In Love Sometimes",
       "url": "https://open.spotify.com/track/7G66QboAoXiEyj7lGoIzwn"
@@ -12848,7 +12884,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 252640,
       "name": "We All Fall In Love Sometimes",
       "url": "https://open.spotify.com/track/2DDpuUJC2YAFGCDC0UbKct"
@@ -13096,7 +13132,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 251293,
       "name": "Where To Now St. Peter?",
       "url": "https://open.spotify.com/track/2VuPf7Il5qhx7WHArc9WAs"
@@ -13114,7 +13150,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 251506,
       "name": "Where To Now St. Peter?",
       "url": "https://open.spotify.com/track/5iFUEuwNRXBnHjhUF33h9T"
@@ -13458,7 +13494,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 220466,
       "name": "Writing",
       "url": "https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r"
@@ -13476,7 +13512,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 220693,
       "name": "Writing",
       "url": "https://open.spotify.com/track/2AX5FxOBx0h50RdpnsddHh"
@@ -13530,7 +13566,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 293973,
       "name": "You Can Make History (Young Again)",
       "url": "https://open.spotify.com/track/3ca91BX2k7GSzEUsx1mPgI"
@@ -13548,7 +13584,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 294240,
       "name": "You Can Make History (Young Again)",
       "url": "https://open.spotify.com/track/2ChvdpARUc5va0hLi51Nmp"

@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: YENA
 
-1,680 songs - 3 day 16 hr 49 min
+1,681 songs - 3 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [LOVE](https://open.spotify.com/track/6M0njKf2lLXtFwB6XhFUgc) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [SHAPE OF LOVE](https://open.spotify.com/album/6C3GKy7qCRTqqPqq04AKcu) | 3:35 | 2022-04-26 | 2022-07-09 |
 | [Love 119](https://open.spotify.com/track/1qXJn1CqhmtN2qH2UfKSLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/79aFWajQZs0cPz4r4If3SS) | 2:53 | 2024-04-18 | 2024-08-28 |
 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 | 2024-01-09 | 2024-04-19 |
+| [Love All](https://open.spotify.com/track/5TJMwfgYTPAaatu11ncUuM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Love All](https://open.spotify.com/album/72ZzIGJDD3OkniVAd19YJT) | 2:43 | 2026-03-15 |  |
 | [LOVE and FEAR](https://open.spotify.com/track/3v2fpbBTm5m0uPU15qnQ36) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.2](https://open.spotify.com/album/6eMtWQJJnCKuUrGKugJ1CH) | 3:07 | 2024-07-09 | 2024-08-21 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-05 | 2022-08-09 |
 | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/track/5P6ePcSpO8v4AHUgZkS3uz) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE \-Japanese version\-](https://open.spotify.com/album/3f8XSIlawxdk1oGTXUbIuX) | 2:57 | 2023-01-15 | 2023-04-19 |
@@ -870,7 +871,7 @@
 | [Make You Shine](https://open.spotify.com/track/3vakr4UnshUxgxlKxtxme7) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Pokémon \| Make You Shine](https://open.spotify.com/album/6DDyjcjzezPkC912QMkf6j) | 3:19 | 2024-10-17 | 2024-12-07 |
 | [Maldives](https://open.spotify.com/track/4bW8isfLZkQaHBSJxdMOEq) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Youth](https://open.spotify.com/album/1RWcdlraOKvgePjvm42ri4) | 3:12 | 2022-08-11 | 2022-10-12 |
 | [Mama Said](https://open.spotify.com/track/66JIwn15D6suNJDf4KAkKI) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/0BSrqB9raFo2dCR8jw3JPG) | 2:56 | 2025-01-20 | 2025-03-07 |
-| [Mamma Mia](https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/2LfRsLiziLIEBljoMeH5VU) | 2:39 | 2025-09-30 |  |
+| [Mamma Mia](https://open.spotify.com/track/1WNc4sGUuEArGDUIaTTRXe) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Not Just Pretty](https://open.spotify.com/album/2LfRsLiziLIEBljoMeH5VU) | 2:39 | 2025-09-30 | 2026-03-16 |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-12 | 2022-08-31 |
 | [Mango Bingsu](https://open.spotify.com/track/7IYn30qMojGaBuib01fw72) | [CHIMIRO](https://open.spotify.com/artist/5edUSurLivUZXjtOKqAMOY) | [Mango Bingsu](https://open.spotify.com/album/44jBTZM5qE10eKnJZ7n0sg) | 3:39 | 2023-06-27 | 2023-07-12 |
 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 | 2022-07-28 | 2022-08-04 |

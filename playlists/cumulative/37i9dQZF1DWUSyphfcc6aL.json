@@ -239,6 +239,28 @@
     },
     {
       "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189179,
+      "name": "Addicted To Bass - Dom Dolla Relapse",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "album": {
         "name": "Afraid of Love",
         "url": "https://open.spotify.com/album/26rQDtJrRtWzA5L0dg0sJF"
       },
@@ -1894,7 +1916,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 181200,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
@@ -4062,6 +4084,24 @@
       "duration_ms": 190243,
       "name": "Lovefool (feat. Pia Mia)",
       "url": "https://open.spotify.com/track/1Qw4FBX30bGdutJ19HBD7T"
+    },
+    {
+      "album": {
+        "name": "Love\u2019s Theme",
+        "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174081,
+      "name": "Love\u2019s Theme",
+      "url": "https://open.spotify.com/track/6x98PZzecLKDucRBL324qT"
     },
     {
       "album": {
@@ -6346,7 +6386,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 155978,
       "name": "Spell It Out",
       "url": "https://open.spotify.com/track/2uYp8Ghpfouz2NqD0Ky0Tt"

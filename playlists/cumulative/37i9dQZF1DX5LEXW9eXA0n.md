@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 김나영 \(Kim Na Young\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 지아 \(Zia\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,698 songs - 4 day 14 hr 22 min
+1,700 songs - 4 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,7 @@
 | [If I were your summer](https://open.spotify.com/track/74ntiQ1mxRujlUMqSrQxRm) | [구름](https://open.spotify.com/artist/6c0nuPZItL13q5iqC3vfbd) | [If I were your summer](https://open.spotify.com/album/76yKGcKayzesRrZmjkarPZ) | 2:47 | 2024-08-10 | 2024-09-24 |
 | [If it happens, it happens](https://open.spotify.com/track/6pIcRq4yFP210gACpblAO6) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [If it happens, it happens](https://open.spotify.com/album/7whkQOWrcxLIPvzvndXryk) | 4:01 | 2024-11-05 | 2025-04-09 |
 | [If It Were Me](https://open.spotify.com/track/3lLuRmJ4i4WLS11cWRIq8V) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [If It Were Me](https://open.spotify.com/album/6M3eQQpWF5jAdLIkKb0ah1) | 4:25 | 2023-02-27 | 2023-06-23 |
-| [If It Were Me](https://open.spotify.com/track/6dMB4gO3Q3cFMG2ijS0JAf) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [If It Were Me](https://open.spotify.com/album/7anuSu3PjGYENe4jYHzfdM) | 4:38 | 2025-11-10 |  |
+| [If It Were Me](https://open.spotify.com/track/6dMB4gO3Q3cFMG2ijS0JAf) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw), [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [If It Were Me](https://open.spotify.com/album/7anuSu3PjGYENe4jYHzfdM) | 4:38 | 2025-11-10 | 2026-03-16 |
 | [If Only](https://open.spotify.com/track/6qe2K0StcpJfLsSfzQlfuN) | [HAEBI](https://open.spotify.com/artist/6TXaZb7dXSpozoYwu2JG2q) | [If Only](https://open.spotify.com/album/4t5iuP9vxaF54MHOmbqLhB) | 3:16 | 2023-01-20 | 2023-02-25 |
 | [If We](https://open.spotify.com/track/0ENvpfEQxuRPAeppZ602oO) | [Jasin](https://open.spotify.com/artist/1BYFiDNQyKOMXX0EzGXr2B) | [If We](https://open.spotify.com/album/1YX0AJd3Ws9Ws1aGdobvHH) | 3:52 | 2022-07-07 | 2022-09-06 |
 | [If we can't see from tomorrow](https://open.spotify.com/track/2PfE8HKtpBJ1WGTmhuusBE) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [HYENA \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/3oMNELPJtj56mQDk1SHBqy) | 4:09 | 2022-03-24 | 2022-04-17 |
@@ -1082,9 +1082,11 @@
 | [Please don't hate me](https://open.spotify.com/track/7pWfugxsy7Sdm063H5GaR5) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Please don't hate me](https://open.spotify.com/album/36GJ8RigvD51QVlOcit9LC) | 3:25 | 2024-12-02 | 2025-04-25 |
 | [Please Don't Stay Away](https://open.spotify.com/track/4GA7yi7kJ5xl1fjNQsFN6Q) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Don't Stay Away](https://open.spotify.com/album/3G4RhCvPVo2YVC3znvybsw) | 3:38 | 2025-09-26 | 2026-01-03 |
 | [Please don\`t happy without me](https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Please don\`t happy without me](https://open.spotify.com/album/5NQoi3oR00GUJ433opLOvO) | 3:17 | 2023-02-24 | 2023-05-16 |
+| [Please Don’t Stop](https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8) | 3:23 | 2026-03-16 |  |
 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 | 2024-03-04 | 2024-07-12 |
 | [Please Go Away](https://open.spotify.com/track/66qBuwGkXeHEIVTinJQEpN) | [Son Jinwook](https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz) | [Please Go Away](https://open.spotify.com/album/2pBGI6CWSb37liKMELxWCF) | 3:43 | 2024-11-05 | 2025-04-16 |
 | [Please look at me](https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Three Siblings Bravely OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/6YXZmaRxST480CCVVlrPPz) | 3:33 | 2023-03-27 | 2023-07-18 |
+| [Please Love Her\(Please Love Him\)](https://open.spotify.com/track/7ozjdE531dnazYTQaI6DNd) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Love Her\(Please Love Him\)](https://open.spotify.com/album/1aamZu86MmmH49dIsrZPyu) | 4:00 | 2026-03-16 |  |
 | [Please Stay](https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Please Stay](https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c) | 3:21 | 2024-10-31 | 2025-06-03 |
 | [Please take on me](https://open.spotify.com/track/3dzXWDMHvWIt5j1iNyYxm0) | [BongGu \(GB9\)](https://open.spotify.com/artist/2hpfwA7tV7CTgMDZKqJwbv) | [Please take on me](https://open.spotify.com/album/59le5xdqY4RfjCeovcUymh) | 4:24 | 2022-12-16 | 2023-01-21 |
 | [poem in the wind](https://open.spotify.com/track/1lkRLQ8xIDxyj8oU8jXqDz) | [The Cross](https://open.spotify.com/artist/5iWp4nvZ8u0DxQjVIidCuC) | [poem in the wind](https://open.spotify.com/album/3aCRKfh7AWFsjHKg3FqjaQ) | 3:57 | 2024-01-08 | 2024-04-03 |
@@ -1252,7 +1254,7 @@
 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-23 | 2022-07-05 |
 | [Stay](https://open.spotify.com/track/2OZe3pjwHDXQmH2NKPnEa1) | [MIGYO](https://open.spotify.com/artist/6MMlmK7TkMzkyMfWXoIkFS) | [STAY](https://open.spotify.com/album/4Trq0y85JqraCEqDxAcvYs) | 4:00 | 2023-01-20 | 2023-03-28 |
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
-| [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-03 |  |
+| [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-03 | 2026-03-16 |
 | [Stay here with me](https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Stay here with me](https://open.spotify.com/album/4i9kZ248naIF315HIh8mrA) | 3:04 | 2026-02-27 |  |
 | [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 | 2023-06-23 |
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |

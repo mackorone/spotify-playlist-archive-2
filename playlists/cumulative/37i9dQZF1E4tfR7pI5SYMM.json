@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Hits for Fat Kids",
+        "url": "https://open.spotify.com/album/49wPOKgE6RX143CTZkDYuY"
+      },
+      "artists": [
+        {
+          "name": "Tears of the Fatman",
+          "url": "https://open.spotify.com/artist/6ZoJe1Rgnv3JxHq7eYHbWp"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209123,
+      "name": "Boston Red Sox",
+      "url": "https://open.spotify.com/track/5XHKbXdOlS4QGrIF7vvLHt"
+    },
+    {
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -748,7 +766,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 307133,
       "name": "Emisja",
       "url": "https://open.spotify.com/track/36f7aMjnrLNwqSgRezLMmp"
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "Fucka Det Opp",
       "url": "https://open.spotify.com/track/5iEGcUqLqIcAURV1rnqWIe"
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -4272,7 +4290,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -4326,7 +4344,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 174111,
       "name": "Mieli sairastaa",
       "url": "https://open.spotify.com/track/3V2LNmfhqFL6W0G8kWVMus"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -5120,7 +5138,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1ht01WVeH0egiSMOyTGjW8"
@@ -5325,6 +5343,28 @@
     },
     {
       "album": {
+        "name": "TATTOORIST",
+        "url": "https://open.spotify.com/album/0KpudyEq1OcEGOiXIL7djg"
+      },
+      "artists": [
+        {
+          "name": "Tangled Horns",
+          "url": "https://open.spotify.com/artist/1Z87mJHVHVb3XxdFD9Cgk5"
+        },
+        {
+          "name": "Tijs Vanneste",
+          "url": "https://open.spotify.com/artist/1xrjqDGbzxV7867Vx0oUnH"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271048,
+      "name": "Paris Is Burning",
+      "url": "https://open.spotify.com/track/0b2rLPEsMlyZ1wIvts59N6"
+    },
+    {
+      "album": {
         "name": "Rabim \u010dloveka",
         "url": "https://open.spotify.com/album/467Hk3V0BrLCkPSdMlToOr"
       },
@@ -5390,7 +5430,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5506,7 +5546,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -6520,7 +6560,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
@@ -6834,7 +6874,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 250000,
       "name": "Tear The Cloth",
       "url": "https://open.spotify.com/track/2jyiFUGacxnvwlpVRIVGnV"
@@ -7278,7 +7318,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -7618,7 +7658,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 199614,
       "name": "To Kill a Silver Sparrow",
       "url": "https://open.spotify.com/track/08RIklEZ1C1T7xL1A1MqP2"
@@ -8458,7 +8498,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 252906,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/4fzB8eT3BjuYITkNHy0kG6"

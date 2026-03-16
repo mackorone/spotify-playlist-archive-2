@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Anemia",
+        "url": "https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ"
+      },
+      "artists": [
+        {
+          "name": "M30",
+          "url": "https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163650,
+      "name": "Anemia",
+      "url": "https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh"
+    },
+    {
+      "album": {
         "name": "Becoming The Angel",
         "url": "https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC"
       },

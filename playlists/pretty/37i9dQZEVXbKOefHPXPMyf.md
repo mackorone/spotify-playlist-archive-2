@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,068 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,064 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 | 24 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 25 | [GOLDSTONE SESSION 002](https://open.spotify.com/track/2rnRw8EjfKMaaiQFpZdC3E) | [GOLDSTONE MUSIC](https://open.spotify.com/artist/4sxKtdH92pSy3auy7OdEc7), [Vero Luna](https://open.spotify.com/artist/0DwQ7lIP474RbjY0QNYlgR), [4bes](https://open.spotify.com/artist/73SuBOu3iOokNerNlByLoY) | [GOLDSTONE SESSION 002](https://open.spotify.com/album/0SneAPbYcwL37jiHQJFzUP) | 2:26 |
 | 26 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
-| 27 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 27 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 28 | [Lo Que Necesito \- Acústico](https://open.spotify.com/track/4VINif5cOM9x4DPYdGj9TH) | [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Lo Que Necesito \(Acústico\)](https://open.spotify.com/album/6FIxGOG4opDK7PZAeOvdim) | 7:24 |
 | 29 | [Al Final del Día](https://open.spotify.com/track/29OfK2Au1LFtDNSKwsAm7i) | [Xolo Music](https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6) | [Al Final del Día](https://open.spotify.com/album/5ANEFe2tJKtn3O0zr7cJrE) | 3:44 |
 | 30 | [WHAT U NEED? \(SexPlaylist 2\)](https://open.spotify.com/track/7jnSlMG2jKJmKvAWxufk2I) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKOefHPXPMyf.md) - [plain]
 | 49 | [AY MAMA \(mi tiburón\)](https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [AY MAMA \(mi tiburón\)](https://open.spotify.com/album/4RafoSfihhy0heXBjcKjaa) | 2:18 |
 | 50 | [UNA BABY EN SANTIAGO](https://open.spotify.com/track/7CGUgOBXrfaXXvY73GzOXE) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [THE MVP OF THE YEAR](https://open.spotify.com/album/1NDIUPPPe1e55wi9JTnEfY) | 2:45 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

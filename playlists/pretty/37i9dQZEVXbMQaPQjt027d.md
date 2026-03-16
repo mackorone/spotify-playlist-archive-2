@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMQaPQjt027d.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,184 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,182 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMQaPQjt027d.md) - [plain]
 | 49 | [JAAHAA](https://open.spotify.com/track/5BaBYz1YNroBj3V0v0oAb3) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Petrus](https://open.spotify.com/album/5wLwbrjdXDt072PxVQk51y) | 2:43 |
 | 50 | [Yoga](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Yoga](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) | 3:35 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

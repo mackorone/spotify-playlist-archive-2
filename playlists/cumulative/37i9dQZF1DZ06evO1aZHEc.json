@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "everything perfect is already here",
+        "url": "https://open.spotify.com/album/2xqLXbxaqNAssDSmbsTQn4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 905000,
+      "name": "it feels foolish to care",
+      "url": "https://open.spotify.com/track/0BX6FVVLm6JY68XFtJzSCI"
+    },
+    {
+      "album": {
         "name": "The Bloody Lady",
         "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 69697,
       "name": "kitchen duet",
       "url": "https://open.spotify.com/track/6NWjdGPxASVhccpJl8c9w9"
@@ -854,7 +872,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 118286,
       "name": "Sad Gondola",
       "url": "https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ"
@@ -963,6 +981,24 @@
     },
     {
       "album": {
+        "name": "a softer focus",
+        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289737,
+      "name": "stoned gesture",
+      "url": "https://open.spotify.com/track/596Te3MjCbYJ3keibf780e"
+    },
+    {
+      "album": {
         "name": "quilted lament",
         "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
       },
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 338428,
       "name": "sunday morning",
       "url": "https://open.spotify.com/track/1y3ncUHQxY9lldcVALuald"

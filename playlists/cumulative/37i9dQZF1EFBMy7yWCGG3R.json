@@ -4227,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Love A Good",
+        "url": "https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip"
+      },
+      "artists": [
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214822,
+      "name": "Love A Good",
+      "url": "https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg"
+    },
+    {
+      "album": {
         "name": "Across The Sheets",
         "url": "https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu"
       },

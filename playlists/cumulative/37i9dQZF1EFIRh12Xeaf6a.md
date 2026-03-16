@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-371 songs - 18 hr 48 min
+372 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,8 +251,9 @@
 | [Really Rosie](https://open.spotify.com/track/4Af5QDykrTYYZ0uTPA6air) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:50 | 2025-05-31 |  |
 | [Ride the Music](https://open.spotify.com/track/2ksn4hYRvqgpS0GGr6LZJ8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:11 | 2023-12-30 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2025-11-22 | 2026-03-05 |
-| [Runaround Sue](https://open.spotify.com/track/3t2Fi7zxZQI5OEX1dOLWE3) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Extended Play…](https://open.spotify.com/album/1SWGpIeu8GYCmbHMATTQZB) | 2:50 | 2026-03-08 |  |
+| [Runaround Sue](https://open.spotify.com/track/3t2Fi7zxZQI5OEX1dOLWE3) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Extended Play…](https://open.spotify.com/album/1SWGpIeu8GYCmbHMATTQZB) | 2:50 | 2026-03-08 | 2026-03-16 |
 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 | 2023-12-30 | 2026-02-15 |
+| [Runaround Sue](https://open.spotify.com/track/7CuCzFcemPckW014Zsi8Sm) | [The Belmonts](https://open.spotify.com/artist/02oFrWT7l0AKMEnJI6iTIB), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Doo\-Wop Memories](https://open.spotify.com/album/1wojofRHUfGKX3D4SfbHnY) | 2:52 | 2026-03-15 |  |
 | [Runaround Sue](https://open.spotify.com/track/7Jc7mgV9J5DzYPWycCFyqg) | [The Belmonts](https://open.spotify.com/artist/02oFrWT7l0AKMEnJI6iTIB), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dream, Dream!](https://open.spotify.com/album/0q8dM3iEHtaJ0j52vL4IZd) | 2:52 | 2026-02-14 | 2026-03-09 |
 | [Sacred Heart of Stone](https://open.spotify.com/track/2PCAd74jNyJIc2HnOmR1M4) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 3:47 | 2025-01-09 | 2025-04-12 |
 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 | 2023-12-30 |  |

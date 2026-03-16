@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,396 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,399 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK2SUzp56yYx.md) - [plain]
 | 41 | [Fever](https://open.spotify.com/track/09xhawlPUifhftf8zuie7w) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Fever](https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo) | 2:24 |
 | 42 | [Мама, я люблю](https://open.spotify.com/track/26ndggQsCA87zuQwzpgyQE) | [Anacondaz](https://open.spotify.com/artist/2e7yDxnK4osy7nKhnqrOFM) | [Байки инсайдера](https://open.spotify.com/album/7cq8WwSFpdRhc1WydVaDJO) | 3:45 |
 | 43 | [Never Go Away](https://open.spotify.com/track/4a7wboYJARS69GtWJL0Szy) | [C\-BooL](https://open.spotify.com/artist/67VM1TW9hWE9hlVYcmioaH) | [Never Go Away \(Remixes\)](https://open.spotify.com/album/0uQNmXapHMn18NGwwJSheo) | 3:48 |
-| 44 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 44 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 45 | [How Deep Is Your Love \- Studio Version](https://open.spotify.com/track/5UHG80Meo2tfsi98NiY6Pz) | [Underdog](https://open.spotify.com/artist/2CpYSnguHahDTkIO4EGAM1) | [How Deep Is Your Love \(Studio Version\)](https://open.spotify.com/album/4FXA0mCgS5Ur4XDxIH3PKw) | 2:31 |
 | 46 | [Impostor Syndrome](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:54 |
 | 47 | [Soldier Of Cola](https://open.spotify.com/track/2lNBzJdwFNFiLYTL2jQYnK) | [LAZZY2WICE](https://open.spotify.com/artist/40K39pB88kdyIzoO62YNET) | [Absolute Madness](https://open.spotify.com/album/0GN6gmSDFxEdCxdphmbp5Y) | 2:20 |
 | 48 | [Кайфоград](https://open.spotify.com/track/2zwC5ILW4sf0YX9oeb4xD1) | [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [Любимые Песни Настоящих Людей](https://open.spotify.com/album/1y4iSHqq2PxxILz5hgbMcW) | 2:33 |
 | 49 | [KOSHKA](https://open.spotify.com/track/1kPu8w1fpqXBFutRpwSgfR) | [VONAMOUR](https://open.spotify.com/artist/3URVzJTdMDcHoQVEfspgPL) | [KOSHKA](https://open.spotify.com/album/4Q8HvbWEBGesAQH6W5ZBNs) | 3:11 |
-| 50 | [BANG BANG](https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:58 |
+| 50 | [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

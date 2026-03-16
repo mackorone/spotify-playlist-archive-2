@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 윤하 \(YOUNHA\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,148 songs - 2 day 21 hr 45 min
+1,149 songs - 2 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -856,7 +856,7 @@
 | [Shooting Star](https://open.spotify.com/track/0RfNTMF3DHQ3cwtHsnsrkH) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop4](https://open.spotify.com/album/1BOkPFJimZBcb1Cx4p78FD) | 3:07 | 2025-11-06 | 2025-12-03 |
 | [Shooting Star](https://open.spotify.com/track/134KU6G8TmOm0OQnJfmgO9) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Sh\*\*ting Stars \(Original Television Soundtrack\)](https://open.spotify.com/album/6gcG8b4AJKxxHnaB5G5tVj) | 3:27 | 2022-06-18 | 2022-07-02 |
 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 | 2022-12-22 | 2023-03-04 |
-| [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 | 2026-01-21 |  |
+| [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 | 2026-01-21 | 2026-03-16 |
 | [Shoulda Loved You Less \(with LEE HONG GI of FTISLAND\)](https://open.spotify.com/track/1HDEDQDYnWBwyD8ynf4Uux) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [Shoulda Loved You Less](https://open.spotify.com/album/5TFPshhDOxqLtkx5TKDZB7) | 3:30 | 2025-06-23 | 2025-06-26 |
 | [Silent rainfalls](https://open.spotify.com/track/1FG8L8QhCB2QoG9dwpWhec) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [History of Nerds](https://open.spotify.com/album/4ZusrPbu6N5ObAayvhz5Yq) | 3:35 | 2025-03-24 | 2025-04-01 |
 | [Simply](https://open.spotify.com/track/3IvsJEIrYbhS92dmycyDmN) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [her](https://open.spotify.com/album/1tIaKSfXa0tAFU5KYv45qP) | 3:39 | 2022-04-12 | 2022-07-29 |
@@ -1006,6 +1006,7 @@
 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 | 2024-03-21 | 2024-05-10 |
 | [TWICE](https://open.spotify.com/track/47zLJ4mEGvxYmZisFQ5XqO) | [TwoFour](https://open.spotify.com/artist/5tRW37747efEvmj4iS56KF) | [TWICE](https://open.spotify.com/album/5zWqWj8fwJtridV5nxj69B) | 3:00 | 2026-01-30 | 2026-02-03 |
 | [Twilight](https://open.spotify.com/track/6cVJX9UtgpKipNUCjpPJG8) | [hathaw9y](https://open.spotify.com/artist/2G2Jiy00NjBxfbex9wXkeN) | [Twilight](https://open.spotify.com/album/4JMRCWEQ9RGYs1ta3YWU5c) | 4:43 | 2022-05-24 | 2022-06-14 |
+| [Two Faced](https://open.spotify.com/track/0MLwoMXSXA949blDhkpUYW) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Your Throne X LUCY \(Original Soundtrack\)](https://open.spotify.com/album/19Jo2nxXOLScCpKgiODqXe) | 3:09 | 2026-03-16 |  |
 | [Unbelievable](https://open.spotify.com/track/6q4L77QLqOzilFDrLCWc5a) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSERT COIN](https://open.spotify.com/album/1IcPMPH0AAF4WKoXlMAhod) | 3:57 | 2023-02-23 | 2023-04-16 |
 | [Uncertainty Principle \(Feat\. Dawon\)](https://open.spotify.com/track/0qEt2Iw9yurShrf7fEjSut) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 31](https://open.spotify.com/album/6XqtegrzV6dqdPu35TBDtJ) | 2:49 | 2022-04-21 | 2022-07-28 |
 | [Under Me](https://open.spotify.com/track/7mvXhsHK2ybmD5k9GQ1h9q) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Honour, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/40jWm6G8cq7hr9pTpBZM2Z) | 3:48 | 2026-02-10 | 2026-02-13 |

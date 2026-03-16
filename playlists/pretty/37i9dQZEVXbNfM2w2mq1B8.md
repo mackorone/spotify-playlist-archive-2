@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNfM2w2mq1B8.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,017 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,021 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNfM2w2mq1B8.md) - [plain]
 | 49 | [Moeto slabo myasto](https://open.spotify.com/track/6o1w1oqUMiJI1Kp0s0ksRK) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Moeto slabo myasto](https://open.spotify.com/album/0M7A1ridrbY5px8m1ijIlX) | 3:23 |
 | 50 | [Любов за психолог](https://open.spotify.com/track/78fpG4dsdHW6O1WcTGoRuk) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Любов за психолог](https://open.spotify.com/album/4mHf2MxcNPOYOowj7oCRtK) | 3:03 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-505 songs - 1 day 0 hr 22 min
+506 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [74 Cromwell Avenue \(The Way We Were\)](https://open.spotify.com/track/0rh0meIPY6p7DcNdpUZR5h) | [MNIB](https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem), [The Honourable Minister Louis Farrakhan](https://open.spotify.com/artist/4FtUXBA3BecXGznJWoLT16) | [74 Cromwell Avenue \(Before I Was Born\)](https://open.spotify.com/album/6Ox8XncQV66GSKN9efYWzF) | 4:01 | 2024-07-08 |  |
 | [80](https://open.spotify.com/track/7AWO9DNzPZ1wHERhYBsaCN) | [WLF.JMS](https://open.spotify.com/artist/7CYEmpAvVpsRH1DbMfhUPt) | [80](https://open.spotify.com/album/2KBKLeWqab7JJS9GGkIUMO) | 2:32 | 2026-02-16 |  |
 | [A Heartache](https://open.spotify.com/track/4NrxYRCPIsx2VC5dsW2VYx) | [C.Z.B](https://open.spotify.com/artist/3fIOUrM5pHc0BnQlVvy9lj) | [Winter's Cold](https://open.spotify.com/album/3D4Xgq16DCwLn1v3aQRZ10) | 2:47 | 2025-03-24 |  |
+| [Abstinencia](https://open.spotify.com/track/3AA9nphIOpH8IaYeQLxk6i) | [MalinChe](https://open.spotify.com/artist/1DkOIOqrPWo2EOBYtGs0B0), [Rafa de la Santa](https://open.spotify.com/artist/6IHhPiFCfoYl06Fa3dmEHB) | [Abstinencia](https://open.spotify.com/album/2KnhPNwveiaJAISHihQLt0) | 3:47 | 2026-03-15 |  |
 | [Adele Broke Me](https://open.spotify.com/track/7dXFpCEVBLk1PqVsvfeKYM) | [Nico Hunnidz](https://open.spotify.com/artist/0O1hOnoqfSJ5YWYyH0KRcB), [Ryini Beats](https://open.spotify.com/artist/03JplRxWHu0ohQNizcEKXp) | [Adele Broke Me](https://open.spotify.com/album/1Wuc9ALQdo5C6nqr8qbUCn) | 2:41 | 2025-10-23 |  |
 | [Adventure](https://open.spotify.com/track/0BgWfOoyBkpqtrmTMjDJAe) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf) | [Bem Vindo Natal 3 \(Deluxe\)](https://open.spotify.com/album/4uTLmQzbYDqqIG2owoJuxz) | 2:12 | 2024-06-04 |  |
 | [Ahora](https://open.spotify.com/track/1G4jvjEQKnLbtYCOE7QcVa) | [CeErre](https://open.spotify.com/artist/14PUtYsNTXBYYQKPaNQgVv) | [Ahora](https://open.spotify.com/album/2DcW4zUQhDefr9LFe9zXVj) | 1:46 | 2024-08-09 |  |

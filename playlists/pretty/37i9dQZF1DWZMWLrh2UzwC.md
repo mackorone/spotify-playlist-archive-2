@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from SIENNA SPIRO, Charlie Puth, Hikaru Utada, Hazama, Aina Abdul, Maher Zain, The Fabulous Cats, Ruffedge,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,365 likes - 115 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,360 likes - 115 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

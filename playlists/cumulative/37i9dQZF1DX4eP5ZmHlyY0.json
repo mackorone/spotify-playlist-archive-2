@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "BE:FIRST ALL DAY",
+        "url": "https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "BE:FIRST ALL DAY",
+      "url": "https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I"
+    },
+    {
+      "album": {
         "name": "Beat It Up",
         "url": "https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp"
       },
@@ -17032,7 +17050,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 210706,
       "name": "\u8857\u706f",
       "url": "https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I"

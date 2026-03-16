@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNBz9cRCSFkY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,269 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,583 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNBz9cRCSFkY.md) - [plain]
 | 49 | [My Day](https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [My Day](https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl) | 3:49 |
 | 50 | [Pahintulot](https://open.spotify.com/track/0jByCc9MS4p34rE3o9Cdmw) | [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [For Princesses, By Thieves \(O Mga Awit ng Hiraya Para sa Guni\-guning Sinta\)](https://open.spotify.com/album/3vnLVB3AJ8MMiSgGN01Dtd) | 4:57 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

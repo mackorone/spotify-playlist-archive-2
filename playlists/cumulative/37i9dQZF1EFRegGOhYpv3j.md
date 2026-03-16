@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Yyn4ntHauNSEpS4cnQALP">Alysa Vanderheym</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 5 hr 53 min
+113 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Perfect](https://open.spotify.com/track/2zfD9vGcXddwPJfrQ76pFQ) | [Jim Collins](https://open.spotify.com/artist/1VPhvO59mwagab2wEGNXbb) | [Perfect](https://open.spotify.com/album/6D661xLFSMSD3a5r340GRZ) | 4:32 | 2024-07-27 | 2024-08-13 |
 | [Perfect \- Acoustic with Strings](https://open.spotify.com/track/77gUPfmx5vYt3xFJFkuGh7) | [Jim Collins](https://open.spotify.com/artist/1VPhvO59mwagab2wEGNXbb) | [First Dance](https://open.spotify.com/album/0lAWa4xobgTZWNmpmp5WZp) | 4:32 | 2024-04-03 | 2024-07-28 |
 | [Put It To Bed](https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:47 | 2025-03-09 |  |
+| [Reasons Why We Broke Up](https://open.spotify.com/track/3NzR8tsF7ZoaQnEOfxwwaT) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Reasons Why We Broke Up](https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb) | 3:56 | 2026-03-15 |  |
 | [Red Wine + White Couch](https://open.spotify.com/track/53VQYdLcJSMZcv1ZXcDp5b) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:09 | 2025-01-09 | 2025-04-12 |
 | [See Her Around](https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K) | [After Midtown](https://open.spotify.com/artist/59Idogc5QIefeRoxcro5fs) | [Don't Give Away The Ending](https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa) | 3:36 | 2024-04-03 |  |
 | [Small Town Heart](https://open.spotify.com/track/6JkTj4Wuu8fsLdHprXB7fB) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Small Town Heart](https://open.spotify.com/album/2Yp3tzB7e2LYqv4w1b4Hty) | 3:25 | 2025-01-09 | 2025-04-12 |

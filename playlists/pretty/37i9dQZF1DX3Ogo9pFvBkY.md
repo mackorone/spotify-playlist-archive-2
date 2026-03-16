@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,884 likes - 220 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,900 likes - 220 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 219 | [Esoteric](https://open.spotify.com/track/4hM6zZNaebCwcyhon3lemg) | [Silvender](https://open.spotify.com/artist/27X4biNzBbSANHTSO2stdZ) | [Esoteric](https://open.spotify.com/album/6H34MA8D4isFu36CbPt17U) | 2:33 |
 | 220 | [Steam](https://open.spotify.com/track/6KxVP7rd6sKv3wcFLxAjtM) | [Anas discors](https://open.spotify.com/artist/1btt73BhuA2lFZD05peAWD) | [Steam](https://open.spotify.com/album/2CGaRfO1xKwKEXE657fTBV) | 3:16 |
 
-Snapshot ID: `AAAAAE8SmqwvYboavdFHz4lcE/9k5TXb`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

@@ -1,6 +1,6 @@
 {
   "description": "Only the hottest South African rap. \nCover: Nasty C",
-  "num_followers": 113559,
+  "num_followers": 113585,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
@@ -204,16 +204,16 @@
           "url": "https://open.spotify.com/artist/1fBoGGZkTvoMMUD90ZV5kj"
         },
         {
-          "name": "LaCabra",
-          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
-        },
-        {
           "name": "MajorIcey",
           "url": "https://open.spotify.com/artist/3D1v2h1bVnBVHAx1iSocJq"
         },
         {
           "name": "Carlow Picasso",
           "url": "https://open.spotify.com/artist/4VoY4qXMbV8nRrMYagmJWs"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
         }
       ],
       "duration_ms": 159015,

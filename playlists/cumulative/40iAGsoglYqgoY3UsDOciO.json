@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Abstinencia",
+        "url": "https://open.spotify.com/album/2KnhPNwveiaJAISHihQLt0"
+      },
+      "artists": [
+        {
+          "name": "MalinChe",
+          "url": "https://open.spotify.com/artist/1DkOIOqrPWo2EOBYtGs0B0"
+        },
+        {
+          "name": "Rafa de la Santa",
+          "url": "https://open.spotify.com/artist/6IHhPiFCfoYl06Fa3dmEHB"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227027,
+      "name": "Abstinencia",
+      "url": "https://open.spotify.com/track/3AA9nphIOpH8IaYeQLxk6i"
+    },
+    {
+      "album": {
         "name": "Adele Broke Me",
         "url": "https://open.spotify.com/album/1Wuc9ALQdo5C6nqr8qbUCn"
       },

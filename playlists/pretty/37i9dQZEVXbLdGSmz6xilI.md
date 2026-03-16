@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,268 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,344 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 31 | [vạn vật như muốn ta bên nhau](https://open.spotify.com/track/5WkuMbkHX7yR7nnBKCn7tV) | [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [vạn vật như muốn ta bên nhau](https://open.spotify.com/album/6Yrr3F8NXigQyd1rGKaFE1) | 3:05 |
 | 32 | [NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN \- KHÔNG ĐAU NỮA RỒI](https://open.spotify.com/track/6ag0c7tBr3PIqPb00C2rK4) | [VCT](https://open.spotify.com/artist/2FO4DJ1tBx3Y7sYJqOZMsw), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Jey B](https://open.spotify.com/artist/4nxHXVJhEDW8IBb2oUwWxA), [Ngô Kiến Huy](https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s) | [SÓNG 26 \- TƠ TƯỞNG VỚI THỜI GIAN](https://open.spotify.com/album/3zUg1e2rSSGVJRgQXd4hkv) | 5:54 |
 | 33 | [2AM](https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT) | [JustaTee](https://open.spotify.com/artist/2ZN2K5xz3BDmfWYaA5dgce), [BigDaddy](https://open.spotify.com/artist/3Tehj7YghQc7zH0I1faGc6) | [2AM](https://open.spotify.com/album/2Ro0unf9MBJGvcLLfo7liZ) | 4:18 |
-| 34 | [Tình Mình Lạ Kì](https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Tình Mình Lạ Kì](https://open.spotify.com/album/22PwljwCdygdaOy3cBxZWg) | 5:00 |
+| 34 | [Tình Mình Lạ Kì](https://open.spotify.com/track/2DrLqMSO89napGpafkcvM4) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Tình Mình Lạ Kì](https://open.spotify.com/album/3SaLl3FkaEF7KWJElvSL0N) | 5:00 |
 | 35 | [Phép Màu \- Đàn Cá Gỗ Original Soundtrack](https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs) | [MAYDAYs](https://open.spotify.com/artist/2iYUs3FoNodbZXKf4mkjGM), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Phép Màu \(Đàn Cá Gỗ Original Soundtrack\)](https://open.spotify.com/album/2KTHAp1v2iCntbFjNAOCUb) | 4:26 |
 | 36 | [A Little Dream Of Me \- From "Cảm Ơn Người Đã Thức Cùng Tôi" Original Soundtrack](https://open.spotify.com/track/66v7AvDs5gZfmkJgFMMtHL) | [Công Dương](https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex), [Nguyễn Lâm Thảo Tâm](https://open.spotify.com/artist/5YG0ioEAI3lSqkJqAP2bDO), [30 Pictures](https://open.spotify.com/artist/4fuBxSAuP6X7YxDZYVaLsz) | [A Little Dream Of Me \(From "Cảm Ơn Người Đã Thức Cùng Tôi" Original Soundtrack\)](https://open.spotify.com/album/78suGEY9lVaQzQUCgJZC1Y) | 2:19 |
 | 37 | [Hôm Nay Tôi Buồn](https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [Hôm Nay Tôi Buồn](https://open.spotify.com/album/4W63RUOYIFeCQratqsU6HX) | 4:35 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 39 | [vết thương](https://open.spotify.com/track/6mKMGpkgP2cH5gmqILWe7b) | [Fishy](https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r) | [vết thương](https://open.spotify.com/album/3ByfL1brDy0a3oDMLfwBz3) | 4:21 |
 | 40 | [Từng Ngày Yêu Em](https://open.spotify.com/track/3Ids3RXurYBgySph53qWnB) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Từng Ngày Như Mãi Mãi](https://open.spotify.com/album/2DCbDdIBNRxx0SxLtgyd4D) | 3:45 |
 | 41 | [She Neva Knows](https://open.spotify.com/track/0NyrI1tMvqcK3vU5z9DMdI) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [She Neva Knows](https://open.spotify.com/album/07etULhhy0WiBPHdFZMV4s) | 4:53 |
-| 42 | [24H](https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx), [Magazine](https://open.spotify.com/artist/6sMgWEav2BrXWMRmP56oRS) | [24H](https://open.spotify.com/album/21hmaZuO1aUc7PZCfRJ7cN) | 4:16 |
+| 42 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 |
 | 43 | [CHỜ ANH VỀ](https://open.spotify.com/track/7dlgEjrK3lHbP786dshKDV) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [ANH TRAI "SAY HI" 2025, TẬP 13](https://open.spotify.com/album/0VnRcD7ZUJDUOtNlMtS6YY) | 3:34 |
 | 44 | [Dạo Này](https://open.spotify.com/track/4MCP9l0QB9YN2LCkIy8mz4) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Dạo Này](https://open.spotify.com/album/3Qpia0Gp3Lu1IGTrb4anUM) | 4:44 |
 | 45 | [Anh Tên Là](https://open.spotify.com/track/1MQoZHbCAoL24LRCqLMnS9) | [Anh Bằng](https://open.spotify.com/artist/4GBykvsDgQheUyYel2RHZN), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Nhi$m](https://open.spotify.com/artist/7jULSagYE6tHmQM8lxyBIH), [Ann Nguyễn](https://open.spotify.com/artist/3zGXV6fAhn7uW8LtVtrXpM) | [Anh Tên Là](https://open.spotify.com/album/3rJa2qD50nUyqjtgKtiOb0) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 49 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
 | 50 | [NOLOVENOLIFE](https://open.spotify.com/track/6D94p9ASguBcYlDC0o56vx) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/4faMbTZifuYsBllYHZsFKJ) | 2:50 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

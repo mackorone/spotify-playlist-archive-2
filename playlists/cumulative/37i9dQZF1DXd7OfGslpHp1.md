@@ -4,7 +4,7 @@
 
 > All the music and podcasts from "You and I Are Polar Opposites".
 
-77 songs - 4 hr 9 min
+78 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [谷くんともっと一緒にいたいです](https://open.spotify.com/track/1vCThPyQnDqK8e3rCMHXYU) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Tadashi Machida](https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:37 | 2026-01-31 |  |
 | [谷のテーマ](https://open.spotify.com/track/3FuG1pbkZ334r3LbEaZoOR) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:17 | 2026-01-31 |  |
 | [鈴木さん、好きです](https://open.spotify.com/track/6Ysm2BEvv2O4TENRegvQjr) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Tadashi Machida](https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:09 | 2026-01-31 |  |
+| [鈴木と谷のプレイリストのある日常](https://open.spotify.com/track/5wGA1j3zSTl3EDaQwpylMZ) | [正反対な君と僕](https://open.spotify.com/artist/1gqlCpg3KNSNhtVDJjzqtw) | [鈴木と谷のプレイリストのある日常](https://open.spotify.com/album/6R1nrc3NigwpQlozjolwd8) | 0:52 | 2026-03-15 |  |
 | [鈴木のテーマ](https://open.spotify.com/track/3dmLILaDTee4P4QzqnJbeF) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:00 | 2026-01-31 |  |
 | [鈴木の生活](https://open.spotify.com/track/4tfPYXURbhTTDAxxnnac7y) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:12 | 2026-01-31 |  |
 | [鈴木の遅刻](https://open.spotify.com/track/6TIK8KHHNQ6x8O6qJx164A) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 1:18 | 2026-01-31 |  |

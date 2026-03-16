@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,537 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,540 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 44 | [Holiday](https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Terri Wells](https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 7:07 |
 | 45 | [Shadows of The East](https://open.spotify.com/track/5lZKoCghq9BWOU2i0qX7wk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:39 |
 | 46 | [In Time](https://open.spotify.com/track/6MXfEaPHJQEig5Saz4ew8I) | [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra), [Erik Dillard](https://open.spotify.com/artist/1Zepv2yyM4iZMjIKoMmvnH), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In Time](https://open.spotify.com/album/5nnpSTWi4Uo92Tz1S1YJ9E) | 8:43 |
-| 47 | [Feed Me Your Love](https://open.spotify.com/track/6HSLTou3stVB46VMEiNK1N) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Soulsociety](https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc) | [Feed Me Your Love](https://open.spotify.com/album/4p6oGoxRZvCAcbhuwF8Rjs) | 4:14 |
-| 48 | [Slip n' Slide](https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Might Be Surprised \(Expanded Edition\)](https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6) | 4:29 |
+| 47 | [Slip n' Slide](https://open.spotify.com/track/2sHB1OW8jMGQm6dwCa7OvL) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [You Might Be Surprised \(Expanded Edition\)](https://open.spotify.com/album/20uA7TJUzufXZrYiZArpE6) | 4:29 |
+| 48 | [Feed Me Your Love](https://open.spotify.com/track/6HSLTou3stVB46VMEiNK1N) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Soulsociety](https://open.spotify.com/artist/1jQbHWXe0zA2ZcrS6ngzPc) | [Feed Me Your Love](https://open.spotify.com/album/4p6oGoxRZvCAcbhuwF8Rjs) | 4:14 |
 | 49 | [Sunflowers](https://open.spotify.com/track/7ihSVr02gw15lcxPgpWClk) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:01 |
-| 50 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
+| 50 | [Wasting](https://open.spotify.com/track/3gX3MH4xNWXaQOinDORqZh) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Kon](https://open.spotify.com/artist/4JbrK7cFQmSZ7tKBUbV3zi), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Vision](https://open.spotify.com/album/7GWwRPL4keJ9Xd460YHwR5) | 4:41 |
 
-Snapshot ID: `abNTgAAAAAANk1eiq1i4Pn6xPKLbNe0W`
+Snapshot ID: `abSlAAAAAABe/VO3TL6oAhjP1tzdvLXI`

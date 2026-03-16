@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "5am Concrete Floor",
+        "url": "https://open.spotify.com/album/31XosuzrD8Osj85f2COxd9"
+      },
+      "artists": [
+        {
+          "name": "Father's Love Never In Contempt",
+          "url": "https://open.spotify.com/artist/5B3BM4VcsFv1U5qZUaJjDv"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280999,
+      "name": "5am Concrete Floor",
+      "url": "https://open.spotify.com/track/4SUtQ1LsaQfA61CUuBuPMo"
+    },
+    {
+      "album": {
         "name": "Pasta con l'Odio",
         "url": "https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP"
       },
@@ -1000,6 +1018,24 @@
       "duration_ms": 206817,
       "name": "Caught in the Stillness",
       "url": "https://open.spotify.com/track/2tDI6WG6dRN7dzIgUpT3B3"
+    },
+    {
+      "album": {
+        "name": "Metaphysical Machines",
+        "url": "https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq"
+      },
+      "artists": [
+        {
+          "name": "NEBO",
+          "url": "https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273070,
+      "name": "Chain of Tears",
+      "url": "https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb"
     },
     {
       "album": {
@@ -2792,6 +2828,28 @@
       "duration_ms": 191538,
       "name": "In a Way Anyway",
       "url": "https://open.spotify.com/track/5VSywl4e3DG6JPpnpjTlji"
+    },
+    {
+      "album": {
+        "name": "Inkblood",
+        "url": "https://open.spotify.com/album/1OQKAflfZujsGfR6zE2uh5"
+      },
+      "artists": [
+        {
+          "name": "601",
+          "url": "https://open.spotify.com/artist/0VMujT7vOkIUh4awYns1dt"
+        },
+        {
+          "name": "Tribe of Ghosts",
+          "url": "https://open.spotify.com/artist/2TUv4JbyfSrOEjy6OZxbdA"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312512,
+      "name": "Inkblood",
+      "url": "https://open.spotify.com/track/0gLy2hGy6bjg7xxYfWwU9q"
     },
     {
       "album": {
@@ -6002,6 +6060,24 @@
       "duration_ms": 195939,
       "name": "UNB-EVILABLE (Inte Sant)",
       "url": "https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm"
+    },
+    {
+      "album": {
+        "name": "Unbreakable Love",
+        "url": "https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs"
+      },
+      "artists": [
+        {
+          "name": "Donkey Shots",
+          "url": "https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Unbreakable Love",
+      "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"
     },
     {
       "album": {

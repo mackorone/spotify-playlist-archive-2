@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 191693,
       "name": "Anything",
       "url": "https://open.spotify.com/track/5kiD3qnsuhV2YwH4bq93Yc"
@@ -5221,6 +5221,24 @@
     },
     {
       "album": {
+        "name": "Addicted To Nostalgia",
+        "url": "https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i"
+    },
+    {
+      "album": {
         "name": "Tequila Ever After",
         "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
@@ -5372,7 +5390,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"
@@ -8678,7 +8696,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-16",
       "duration_ms": 182760,
       "name": "I Feel Everything - From \"Valerian and the City of a Thousand Planets\"",
       "url": "https://open.spotify.com/track/6lYoCY5aQoOzjYxqOJmNCX"

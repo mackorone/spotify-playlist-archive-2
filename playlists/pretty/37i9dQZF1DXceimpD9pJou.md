@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Emanuel Deliser
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,722 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,732 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 7 | [Fuente](https://open.spotify.com/track/5MWrzekAxyQKMvqcPj75ws) | [Llévame de Vuelta](https://open.spotify.com/artist/7DfPaaPqWzLIQOEJXXnjJY) | [Fuente](https://open.spotify.com/album/69cLjN7RGmYP1RRjVNL8Ph) | 8:53 |
 | 8 | [Santo Por Siempre \- Sesión Acústica](https://open.spotify.com/track/18zKn6gs8UArJ6fQdqrjac) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM), [Joel Rocco](https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Santo Por Siempre \(Sesión Acústica\)](https://open.spotify.com/album/6jxC6QK203kwI59yM3vjAP) | 5:20 |
 | 9 | [Hágase Tu voluntad en la tierra, así como en el cielo](https://open.spotify.com/track/44brEOXO7Q7DLnQVGHlVPK) | [Música Más Vida](https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c), [Kelly Spyker](https://open.spotify.com/artist/4bpeZo2d9Ey0VS2FbgkmJL) | [Hágase Tu voluntad en la tierra, así como en el cielo](https://open.spotify.com/album/67wswD607aDGzD7ScitoIQ) | 6:22 |
-| 10 | [Dios de Goria \(Live\)](https://open.spotify.com/track/42cLRZQbnFgAzjpMQCs3gR) | [Javier Portela](https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph), [Nico Cabrera](https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF) | [Dios de Goria \(Live\)](https://open.spotify.com/album/5idkvPZXLQYtvqPxq1sHHo) | 5:31 |
+| 10 | [Dios de Gloria \(Live\)](https://open.spotify.com/track/42cLRZQbnFgAzjpMQCs3gR) | [Javier Portela](https://open.spotify.com/artist/39HWmzeoxeHJITyCK5orph), [Nico Cabrera](https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF) | [Dios de Gloria \(Live\)](https://open.spotify.com/album/5idkvPZXLQYtvqPxq1sHHo) | 5:31 |
 | 11 | [RUN IT UP](https://open.spotify.com/track/1LY62a9CMHncrSnqGv38WP) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [LA NUEVA OLA](https://open.spotify.com/album/0MCUMzddJTCTHGM4tXFzDg) | 1:40 |
 | 12 | [Sigo Siendo](https://open.spotify.com/track/3xl3a3h1JPdeHQMC33OIbd) | [DiRouse](https://open.spotify.com/artist/4R4sYOEy03dxD9uIMzWNn2), [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W) | [Sigo Siendo](https://open.spotify.com/album/4jBD3aNqCCYioLeMwJBqFh) | 2:50 |
 | 13 | [Amado De Mi Alma \- Remix](https://open.spotify.com/track/5kKiwB0iDgfVQaeHzRfNV8) | [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt), [Artury Pepper](https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57) | [Amado De Mi Alma \(Remix\)](https://open.spotify.com/album/22hHgbmpJwJCxrAn0E01Y8) | 5:11 |

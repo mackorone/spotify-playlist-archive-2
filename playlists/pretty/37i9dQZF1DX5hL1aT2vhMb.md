@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Isata Kanneh\-Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,662 likes - 135 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,676 likes - 135 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

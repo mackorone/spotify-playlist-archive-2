@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,473 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,485 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 | 14 | [緊急聯絡人](https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [緊急聯絡人](https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU) | 3:42 |
 | 15 | [命硬](https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [側田](https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8) | 3:37 |
 | 16 | [我的支持型伴侶](https://open.spotify.com/track/5y3pmjOQvxW5TT5JuLyZRh) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 3:41 |
-| 17 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
+| 17 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 18 | [我看見今晚的月色很美，你呢？](https://open.spotify.com/track/5m5UYRlUNW7ypgh7TsmGIa) | [晚安莉莉](https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj) | [Goodnight, Lillie.](https://open.spotify.com/album/0xwrHhzvHaJkHt95wVPB2Y) | 4:04 |
 | 19 | [Rude Boy](https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 2:58 |
 | 20 | [Take That](https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [Kingdom](https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4) | 3:09 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 | 32 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 |
 | 33 | [傷口上灑辣椒醬](https://open.spotify.com/track/0KMxxchUDpKAR9bq34WdKP) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [傷口上灑辣椒醬](https://open.spotify.com/album/0huR55ZBCU4YGGvGlQ7MAQ) | 3:48 |
 | 34 | [無名氏](https://open.spotify.com/track/3ithr8auaaCWdGR1TCj2fz) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [無名氏](https://open.spotify.com/album/55u0vk1CtgiHvbMVoAKXso) | 3:46 |
-| 35 | [BANG BANG](https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 2:58 |
+| 35 | [BANG BANG](https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 2:58 |
 | 36 | [真的不是故意的](https://open.spotify.com/track/7J2DLKJ4PLyu0JxO3bZPFW) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [真的不是故意的](https://open.spotify.com/album/5xUwXEWSfURuOZ56UzkveD) | 3:33 |
 | 37 | [Kong](https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf) | [Justin Lo](https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC) | [No Protection](https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON) | 4:04 |
 | 38 | [白果](https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [COMPOSITION](https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLwpL8TjsxOG.md) - [plain]
 | 49 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 50 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

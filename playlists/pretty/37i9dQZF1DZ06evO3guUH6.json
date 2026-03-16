@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1080039,
+  "num_followers": 1080129,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAB8GhJJlGsjQjMKLrkaSn73",
+  "snapshot_id": "abSlAAAAAABFDCGKr+CJI45v96tLKaev",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patroncito",
-        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "Autor\u00edzame",
-      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El D\u00eda De Los Muertos",
-        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+        "name": "El Patroncito",
+        "url": "https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 215360,
-      "name": "La Mejor De Las Historias",
-      "url": "https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz"
+      "duration_ms": 184560,
+      "name": "Autor\u00edzame",
+      "url": "https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 201409,
       "name": "Ya Se Fue",
       "url": "https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El D\u00eda De Los Muertos",
+        "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "La Mejor De Las Historias",
+      "url": "https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz"
     },
     {
       "added_at": null,

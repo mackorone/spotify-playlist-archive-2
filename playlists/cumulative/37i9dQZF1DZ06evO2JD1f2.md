@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-169 songs - 7 hr 34 min
+170 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Lick Back](https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:33 | 2022-10-28 |  |
 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 | 2022-10-28 |  |
 | [LIE TO ME SOME MORE](https://open.spotify.com/track/3hdWtlY4bawZp7Zf8bz27b) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:46 | 2023-07-26 | 2023-08-22 |
-| [LOTTA SHOTS](https://open.spotify.com/track/7IMvLAEQJpRNsLZAN53JF1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:29 | 2026-02-24 |  |
+| [LOTTA SHOTS](https://open.spotify.com/track/7IMvLAEQJpRNsLZAN53JF1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:29 | 2026-02-24 | 2026-03-16 |
 | [Love Is Blind](https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Love Is Blind](https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ) | 2:37 | 2022-10-28 | 2022-11-01 |
 | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/track/7hHKWHOXjtdlebhX7o4Gx6) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/album/5dYobmvNRqCCV9Mw90FAFM) | 2:19 | 2022-10-28 | 2023-01-04 |
 | [Make It Even](https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:29 | 2022-10-28 |  |
@@ -169,11 +169,12 @@
 | [TURNT](https://open.spotify.com/track/0uBT90enmD0wDGH7bZWKoK) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:59 | 2026-02-23 |  |
 | [TUSCAN PERFUME](https://open.spotify.com/track/2mTk9JIi6gx5Oj4czCqbEu) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:45 | 2023-08-21 | 2023-09-16 |
 | [UNDEFEATED](https://open.spotify.com/track/0LHbGkO5BhmwzeDT8MDdpe) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [UNDEFEATED](https://open.spotify.com/album/7G3dcoDfkZAsCrK3iffaHx) | 2:45 | 2023-02-26 | 2023-05-01 |
-| [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 | 2023-04-30 | 2026-02-19 |
+| [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 | 2023-04-30 |  |
 | [US](https://open.spotify.com/track/3mvFjK0yCPMupea0v9MzmT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:03 | 2023-03-19 | 2023-05-01 |
 | [Water Zips \(feat\. Kevin Gates\)](https://open.spotify.com/track/3ckPCrtxs4XEiQ4YFvdirx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 3:02 | 2025-07-12 | 2025-12-19 |
 | [What Im On Now v1 oct15](https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 3:43 | 2025-06-16 | 2025-08-13 |
-| [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [WOULDN'T HOLD YOU UP](https://open.spotify.com/album/20G2sl0k5dMI6yDnyqWhOq) | 1:34 | 2026-02-11 |  |
+| [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [WOULDN'T HOLD YOU UP](https://open.spotify.com/album/20G2sl0k5dMI6yDnyqWhOq) | 1:34 | 2026-02-11 | 2026-03-16 |
+| [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/6zUKuZMJflZgPWMS23nh7I) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 1:34 | 2026-03-16 |  |
 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-08-25 | 2024-01-28 |
 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 | 2026-01-19 |  |
 | [Young Shiners](https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:35 | 2025-08-24 |  |

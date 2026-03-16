@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Regina Song
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,589 likes - 92 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,588 likes - 92 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

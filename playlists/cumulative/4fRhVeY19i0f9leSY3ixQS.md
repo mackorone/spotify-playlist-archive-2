@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,099 songs - 2 day 14 hr 11 min
+1,100 songs - 2 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-11-21 | 2026-01-29 |
 | [otakoi\(bito\)](https://open.spotify.com/track/4H2T10FoZKUJSDU8W36VNR) | [Cingo](https://open.spotify.com/artist/7k1xlQR5DTUGJhX4AxLfIP), [ROS3.WAV](https://open.spotify.com/artist/0eM1KaaEgeuyNv3QV93pCw) | [otakoi\(bito\)](https://open.spotify.com/album/0rvD9Q4VZet1xHW5Pt1sDd) | 2:59 | 2025-11-16 | 2025-12-10 |
 | [Otra Historia](https://open.spotify.com/track/4PAOOdoE7TpY0WMhzVvv55) | [Suele Pasar](https://open.spotify.com/artist/3CvvJhlILQOehq34C1Au6A) | [Sin Laterales](https://open.spotify.com/album/3IYqmtE2VpdLtxEFTQmItG) | 3:52 | 2025-12-22 | 2026-01-15 |
+| [Our Sacrament](https://open.spotify.com/track/3xYSm90h1tuyswCuYTmqMJ) | [Abitha](https://open.spotify.com/artist/6pMO4cinc5UyFjIBo8dC2r) | [Songs Of Perdition](https://open.spotify.com/album/5aZZuCPgpsuW2gi6iEzI9q) | 3:27 | 2026-03-15 |  |
 | [Our Story](https://open.spotify.com/track/5lwaVND7U5LOCA4VL4Mix7) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [Our Story](https://open.spotify.com/album/05oI01BevR6spv5xhLPCDh) | 2:36 | 2026-01-14 | 2026-02-03 |
 | [Out of Deep Waters](https://open.spotify.com/track/4ypopxCsejZafILZq7wnDq) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Differentiation](https://open.spotify.com/album/4esD0RdSmXX2NXvVeTYbc7) | 3:32 | 2026-01-07 | 2026-01-29 |
 | [Out Of My Halo](https://open.spotify.com/track/3HsYUctD2qPFDDIV5imE5b) | [Mental Ability](https://open.spotify.com/artist/32tz0KGEOCSTgq1EXwg02p) | [Out Of My Halo](https://open.spotify.com/album/0HwfmIUNnhDsDN7kX9yH6P) | 3:45 | 2026-01-07 | 2026-02-08 |
@@ -890,7 +891,7 @@
 | [Supe](https://open.spotify.com/track/1biBpMjjGX8WYsZAqJY3Ki) | [Magdalena Vitale](https://open.spotify.com/artist/6MMB89eHP55ZIuzg3t2S6f) | [Veintidós Diez](https://open.spotify.com/album/60GlgS1Umyh5TvYDhIx1VK) | 2:41 | 2025-11-10 | 2025-12-10 |
 | [Super Secret Boy Band](https://open.spotify.com/track/4wo4rY8UaYFBqs1Gvmlsw8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:53 | 2025-08-03 |  |
 | [Superglue](https://open.spotify.com/track/2ne8j9xhGW38Jhg8ZX9PFY) | [Ranting](https://open.spotify.com/artist/1pWSptJLJjULPx5XmGid7n) | [Superglue](https://open.spotify.com/album/5v3K2ajEtpXB9NCKzHqmNE) | 2:05 | 2026-03-09 |  |
-| [Superslut \- Skate Park Mix](https://open.spotify.com/track/5ZGVc0Zloei57HKuu2DdjP) | [Elliott Ernst](https://open.spotify.com/artist/4kJrmsUZM6buhYJbxkdiPu) | [Superslut \(Skate Park Mix\)](https://open.spotify.com/album/27WndnPmRHLb4SVc3kTDEG) | 1:58 | 2026-03-02 |  |
+| [Superslut \- Skate Park Mix](https://open.spotify.com/track/5ZGVc0Zloei57HKuu2DdjP) | [Elliott Ernst](https://open.spotify.com/artist/4kJrmsUZM6buhYJbxkdiPu) | [Superslut \(Skate Park Mix\)](https://open.spotify.com/album/27WndnPmRHLb4SVc3kTDEG) | 2:00 | 2026-03-02 |  |
 | [Surface Tension](https://open.spotify.com/track/14lIWSDdW8kO9GZVF6Cov3) | [Bailout](https://open.spotify.com/artist/0zMC0Fju9Z3pdVfssAjpNa) | [Surface Tension](https://open.spotify.com/album/5OwVt7UNBROLRM51st1mzl) | 2:09 | 2026-02-10 | 2026-03-14 |
 | [Surge](https://open.spotify.com/track/4tQsM9IalKTHhkhHVQiltP) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Surge](https://open.spotify.com/album/7N230KyMTKvE3eGFjov7ew) | 3:22 | 2026-01-12 | 2026-02-03 |
 | [Surrender](https://open.spotify.com/track/65kUw5myYaKQwQeBLfQdRF) | [ESCAPIST](https://open.spotify.com/artist/0gHf4UG4SWKibPdJvcT0Jp) | [Surrender](https://open.spotify.com/album/00pirzIp0hUasAcjGrNDy9) | 4:48 | 2025-12-16 | 2026-01-06 |
@@ -931,7 +932,7 @@
 | [The Flow](https://open.spotify.com/track/5tVswVQXj9hYKOxx15f9cV) | [Monococ](https://open.spotify.com/artist/5ewUkGPAlemelWBjKkh9jn), [Dianthe](https://open.spotify.com/artist/7sVIK4JuYY35ckWjwRMHLv) | [Don´T Go](https://open.spotify.com/album/4xqmSs4RnijgeFbHokJ0HF) | 5:47 | 2026-03-09 |  |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-10 | 2026-01-06 |
 | [The Gutter](https://open.spotify.com/track/4XMFBPsFBxSgVuXo9oTvqT) | [Misery Channel](https://open.spotify.com/artist/0km1fYeCjrTJF5VOJShTsc) | [The Gutter](https://open.spotify.com/album/6EmcFf2Gqkpby9vZ71Bb1D) | 3:03 | 2026-02-27 |  |
-| [The Knife](https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu) | [Barren Sea](https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi) | [The War on Cars](https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV) | 4:14 | 2026-02-12 |  |
+| [The Knife](https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu) | [Barren Sea](https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi) | [The War on Cars](https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV) | 4:14 | 2026-02-12 | 2026-03-16 |
 | [The line](https://open.spotify.com/track/5spFXTi0X8oQg8yxqYxCMz) | [CANONVILLE](https://open.spotify.com/artist/3lJB0a4SfTiJTWEPbAZ7TY) | [FOUR LEGS GOOD](https://open.spotify.com/album/0OkHctBsI8EpCGDT3u98yy) | 5:28 | 2025-12-29 | 2026-01-22 |
 | [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 | 2025-12-27 | 2026-01-22 |
 | [The Mechanist](https://open.spotify.com/track/7BL9gJl9rAyV2zTkHYhulz) | [KHANDRIA](https://open.spotify.com/artist/20CGg3ZTjRZ9xzkgMQ5kFq) | [The Mechanist](https://open.spotify.com/album/2F2vCeIevNNyK8IgDimbT7) | 4:00 | 2026-01-10 | 2026-01-29 |
@@ -983,7 +984,7 @@
 | [Top of the Pyramid](https://open.spotify.com/track/5Pr813gmP7nzTR8o2OrD3f) | [Tackle](https://open.spotify.com/artist/6mEjnZ7to0xvEYyuIvUdXl) | [Top of the Pyramid](https://open.spotify.com/album/3CLcS5B3mz9ocqrPaI6PDV) | 3:20 | 2026-02-23 |  |
 | [Torn Apart](https://open.spotify.com/track/51OI5w469NmM9ryTo4NUnQ) | [Elastic Skies](https://open.spotify.com/artist/4jkUxKT4fAB0Dl63hZqiNc) | [II](https://open.spotify.com/album/3jEGsiUz61h7REHkE2cMJt) | 2:18 | 2026-01-21 | 2026-02-12 |
 | [Trading Places](https://open.spotify.com/track/6DMVSvgxZz0QMuCvlivFc7) | [Slackr](https://open.spotify.com/artist/4GrBSLkUFMAVRGdnmiM5K8) | [Trading Places](https://open.spotify.com/album/57tDyu1HgzyP3HWCplzCWe) | 3:05 | 2026-02-24 |  |
-| [Trainjuice](https://open.spotify.com/track/5v36a8JylfC3f7tn6DAWxl) | [Sikmetra](https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI) | [Trainjuice](https://open.spotify.com/album/5KZ1QRg5HnyPay7xrKflbb) | 2:42 | 2026-02-12 |  |
+| [Trainjuice](https://open.spotify.com/track/5v36a8JylfC3f7tn6DAWxl) | [Sikmetra](https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI) | [Trainjuice](https://open.spotify.com/album/5KZ1QRg5HnyPay7xrKflbb) | 2:42 | 2026-02-12 | 2026-03-16 |
 | [Transmutated](https://open.spotify.com/track/69AwPaxlvPuvunzKa6sSMR) | [Deluminate](https://open.spotify.com/artist/4bVGbMlyoxuGWKER0ft3AY) | [Blackened Seas](https://open.spotify.com/album/3QTUToqcTJtue9VF1hzcMX) | 2:34 | 2026-03-05 |  |
 | [Trips up North](https://open.spotify.com/track/6ky1ip2UA7gqeUL6HZJuno) | [Dave Eats Mud](https://open.spotify.com/artist/2pamuQ8EAimLz16lgOucBd) | [Urine for a Treat!](https://open.spotify.com/album/4L8uDG383No8264PsYSJnN) | 2:18 | 2026-01-22 | 2026-02-23 |
 | [Truemetal](https://open.spotify.com/track/7ud1d1jZCnodHBHY4mwLPP) | [Cyrax](https://open.spotify.com/artist/4O3WfGMmFAXWupm9cG2rFI) | [Experiences](https://open.spotify.com/album/3TjQI8Q3ZMJ3mwrKPCd2cK) | 7:04 | 2025-12-10 | 2026-01-06 |

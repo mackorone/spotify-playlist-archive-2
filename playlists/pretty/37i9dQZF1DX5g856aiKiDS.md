@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,105 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,127 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LuckyCharm](https://open.spotify.com/track/6q3U1b0KgkOlcYzq3oW6si) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [LuckyCharm](https://open.spotify.com/album/0u3xMBTkJIB8JaJqPLj21b) | 2:19 |
-| 2 | [In your circle \(Feat\. Bumkey, Janet Suhh\)](https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Press Winter](https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN) | 3:32 |
-| 3 | [Rest](https://open.spotify.com/track/1cayXr914ctuYeJkv3CPUR) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 3:28 |
-| 4 | [Smile](https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Smile](https://open.spotify.com/album/3xeCW0P2FiFwo5uAcQGtAA) | 2:21 |
-| 5 | [Beautiful Days](https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Beautiful Days \(Positively Yours X soye\) \[Original Soundtrack\]](https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl) | 2:40 |
-| 6 | [Too Good To Be True](https://open.spotify.com/track/4EGyXfoOUSwA6rDVvbCuTI) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi), [sam ock](https://open.spotify.com/artist/5961esVPvWEME09TR0ZWVK) | [Too Good To Be True](https://open.spotify.com/album/5nAmjUUat7XTxYBhYJYMON) | 3:25 |
+| 1 | [I Feel Special](https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7) | 3:58 |
+| 2 | [Let’s play tug](https://open.spotify.com/track/52sfLJT1RulFGnUh95QftP) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Let’s play tug](https://open.spotify.com/album/2IPeNJJXqLCb7ugDJO1xXY) | 2:46 |
+| 3 | [We become love](https://open.spotify.com/track/0cSNCKbbOfPGazu5edq4rj) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [We become love](https://open.spotify.com/album/0jfJccsSMl3BhSckZGpXg2) | 4:20 |
+| 4 | [LuckyCharm](https://open.spotify.com/track/6q3U1b0KgkOlcYzq3oW6si) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [LuckyCharm](https://open.spotify.com/album/0u3xMBTkJIB8JaJqPLj21b) | 2:19 |
+| 5 | [In your circle \(Feat\. Bumkey, Janet Suhh\)](https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Press Winter](https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN) | 3:32 |
+| 6 | [Smile](https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Smile](https://open.spotify.com/album/3xeCW0P2FiFwo5uAcQGtAA) | 2:21 |
 | 7 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
 | 8 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 9 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 | 50 | [MIMI](https://open.spotify.com/track/4RfVtka58I93lEnPsLlBEZ) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3fW9gKjP50cSIocjBT7qR0) | 3:27 |
 
-Snapshot ID: `AAAAAPvDLCCMVgiT3zx4dU2fuuQuerhb`
+Snapshot ID: `AAAAAPwesShyPtwKMaCrrwXrpUrFP9sJ`

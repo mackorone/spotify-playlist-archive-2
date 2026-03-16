@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 595742,
+  "num_followers": 595766,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAA0WqiALf/1Zbkiki/Rw3ub",
+  "snapshot_id": "abSlAAAAAACN6ba3HQmd5Yyo9BYfGjV1",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 263506,
-      "name": "Brother Can You Spare a Dime?",
-      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 355733,
       "name": "Round Here",
       "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Wild Is the Wind",
+      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Wild Is the Wind",
-      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 186300,
       "name": "Always",
       "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
       "duration_ms": 269891,
       "name": "Idol - Live",
       "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
       "duration_ms": 255733,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
     }
   ],
   "unique_name": "This Is George Michael",

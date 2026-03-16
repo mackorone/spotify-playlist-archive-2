@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 485837,
+  "num_followers": 485844,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABTsKQMfHTIFZGUxPLVSsym",
+  "snapshot_id": "abSlAAAAAAD7WZz89EtRE86l8Dcumxrk",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 257280,
-      "name": "War Machine - 2022 Remastered",
-      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 259079,
       "name": "Rock 'N' Roll All Nite - Live",
       "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 257280,
+      "name": "War Machine - 2022 Remastered",
+      "url": "https://open.spotify.com/track/7ETQjnmWqDVyDtNR5gYAWL"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dressed To Kill (2025 Remaster)",
-        "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 178669,
-      "name": "C'mon And Love Me - 2025 Remaster",
-      "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
+      "duration_ms": 226773,
+      "name": "Shock Me",
+      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+        "name": "Dressed To Kill (2025 Remaster)",
+        "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 226773,
-      "name": "Shock Me",
-      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+      "duration_ms": 178669,
+      "name": "C'mon And Love Me - 2025 Remaster",
+      "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
     },
     {
       "added_at": null,
@@ -567,6 +567,22 @@
       "duration_ms": 366533,
       "name": "I Still Love You - 2022 Remastered",
       "url": "https://open.spotify.com/track/5InrTlQeClBr55lHREONCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "I Stole Your Love",
+      "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "I Stole Your Love",
-      "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 213000,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Christine Sixteen",
+      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 135918,
       "name": "Rock And Roll All Nite - MOONLGHT Remix",
       "url": "https://open.spotify.com/track/2eTYcP7pFAnFZOMfXlpXO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Christine Sixteen",
-      "url": "https://open.spotify.com/track/3Ms6wIwW1f3DVk563ucHP3"
     },
     {
       "added_at": null,

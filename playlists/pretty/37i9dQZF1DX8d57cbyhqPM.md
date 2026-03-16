@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tantine Theodora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,090 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,132 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 26 | [Galère sur galère](https://open.spotify.com/track/56mPwjp8KFY0fFJyaRbKoQ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Galère sur galère](https://open.spotify.com/album/2ylHFD2ZHWVh3Cn0O7Em4q) | 2:36 |
 | 27 | [Et c'est OK](https://open.spotify.com/track/0bbTMG9s4X03MF1Natlhkl) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Et c'est OK](https://open.spotify.com/album/6KynR7Ct0ckq0ikF0SRiUe) | 2:24 |
 | 28 | [Maweja](https://open.spotify.com/track/1FG6GOqADBVlIbkpOkctj5) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Maweja](https://open.spotify.com/album/1tDuNTKmTQXYjARrKyhMHC) | 3:43 |
-| 29 | [Jr EPPE Daniel](https://open.spotify.com/track/5dyy1SqLHYYMVCYgH8ilyZ) | [Ibrator Mpiana](https://open.spotify.com/artist/3fHAxvzXL5GLOSGoKjzLL1) | [Jr EPPE Daniel](https://open.spotify.com/album/0fjs9KS5bfYSfee9b3Ym8X) | 5:24 |
+| 29 | [JR EPPE Daniel](https://open.spotify.com/track/5dyy1SqLHYYMVCYgH8ilyZ) | [Ibrator Mpiana](https://open.spotify.com/artist/3fHAxvzXL5GLOSGoKjzLL1) | [JR EPPE Daniel](https://open.spotify.com/album/0fjs9KS5bfYSfee9b3Ym8X) | 5:24 |
 | 30 | [ÇA VA](https://open.spotify.com/track/0pyxxEEETp7wQsTniHMHIq) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Hybride \(Réédition\)](https://open.spotify.com/album/2x1WZt5KynnoAlvwRxl7La) | 2:22 |
 | 31 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 |
 | 32 | [Appelle les pompiers](https://open.spotify.com/track/4nf1IzVM8tyQenOW6chc2f) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Appelle les pompiers](https://open.spotify.com/album/0fjv6ogKogzDIDmsHeycKF) | 2:11 |

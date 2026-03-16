@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 1386,
+  "num_followers": 1391,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAADbsslnIauJmdkMbzepPeIV",
+  "snapshot_id": "abSlAAAAAAB56n3Doip8h2x3dQaut8/i",
   "tracks": [
     {
       "added_at": null,
@@ -312,13 +312,17 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+          "name": "Clara Jumi Kang",
+          "url": "https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f"
+        },
+        {
+          "name": "Yeol Eum Son",
+          "url": "https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl"
         }
       ],
-      "duration_ms": 73433,
-      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 3",
-      "url": "https://open.spotify.com/track/7wtj7MLTrsLUkyd2Xgmpuq"
+      "duration_ms": 177733,
+      "name": "3 Romances For Violin And Piano, Op. 22: 1. Andante molto",
+      "url": "https://open.spotify.com/track/6tpTj0gRqA8C9VdQEtD65e"
     },
     {
       "added_at": null,
@@ -396,17 +400,13 @@
           "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
         },
         {
-          "name": "Clara Jumi Kang",
-          "url": "https://open.spotify.com/artist/3XX1R9to17BaujFMbjCG3f"
-        },
-        {
-          "name": "Yeol Eum Son",
-          "url": "https://open.spotify.com/artist/2QBjNinkTc5i8PLOYYlHsl"
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
         }
       ],
-      "duration_ms": 177733,
-      "name": "3 Romances For Violin And Piano, Op. 22: 1. Andante molto",
-      "url": "https://open.spotify.com/track/6tpTj0gRqA8C9VdQEtD65e"
+      "duration_ms": 73433,
+      "name": "Variations on a Theme by Robert Schumann, Op. 20: Var. 3",
+      "url": "https://open.spotify.com/track/7wtj7MLTrsLUkyd2Xgmpuq"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 307733,
-      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
-      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
+      "duration_ms": 335000,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS"
         }
       ],
-      "duration_ms": 335000,
-      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
-      "url": "https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst"
+      "duration_ms": 307733,
+      "name": "Piano Trio in G Minor, Op. 17: II. Scherzo. Tempo di Menuetto",
+      "url": "https://open.spotify.com/track/5h3hOSzD1wn5Kasf9QiLEQ"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smooth Piano",
+        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        }
+      ],
+      "duration_ms": 82384,
+      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
+      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fanny Mendelssohn & Clara Schumann: Piano Trios",
         "url": "https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 465160,
       "name": "Piano Trio in G Minor, Op. 17: IV. Allegretto",
       "url": "https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smooth Piano",
-        "url": "https://open.spotify.com/album/7anL0sSj5nWexbrRQsufSw"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        }
-      ],
-      "duration_ms": 82384,
-      "name": "Drei Romanzen, Opus 21 Nr 2 Allegretto - Piano",
-      "url": "https://open.spotify.com/track/2HuJbNeAaOct2ay2XTZ44m"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
         }
       ],
-      "duration_ms": 107240,
-      "name": "6 Lieder, Op. 13: No. 5, Ich hab in deinem Auge (Arr. Rouger for Choir and Piano)",
-      "url": "https://open.spotify.com/track/6hjYDuDibRYOzz9BJhrV59"
+      "duration_ms": 146426,
+      "name": "6 Lieder, Op. 13: No. 3, Liebeszauber (Arr. Rouger for Choir and Piano)",
+      "url": "https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
       "duration_ms": 181487,
       "name": "Piano Sonata in G Minor: II. Adagio con Espressione e Ben Legato",
       "url": "https://open.spotify.com/track/0kaWzIuVRan4Ihk4PKLfxd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Clara",
-        "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Carl Schwarz",
-          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
-        }
-      ],
-      "duration_ms": 85542,
-      "name": "3 Romances, Op. 21: No. 2 in F Major",
-      "url": "https://open.spotify.com/track/5YBuMtln7jXPjQajVRyKZU"
     },
     {
       "added_at": null,
@@ -888,9 +868,9 @@
           "url": "https://open.spotify.com/artist/3NaHR027J5FIWwvaRWAMXF"
         }
       ],
-      "duration_ms": 146426,
-      "name": "6 Lieder, Op. 13: No. 3, Liebeszauber (Arr. Rouger for Choir and Piano)",
-      "url": "https://open.spotify.com/track/27bFGG6FVrDNPCjLKB9dFl"
+      "duration_ms": 107240,
+      "name": "6 Lieder, Op. 13: No. 5, Ich hab in deinem Auge (Arr. Rouger for Choir and Piano)",
+      "url": "https://open.spotify.com/track/6hjYDuDibRYOzz9BJhrV59"
     },
     {
       "added_at": null,
@@ -911,26 +891,6 @@
       "duration_ms": 358283,
       "name": "3 Romances, Op. 11: II. Andante",
       "url": "https://open.spotify.com/track/2Leset1JLeEAq2WluLz5c2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Clara",
-        "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Carl Schwarz",
-          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
-        }
-      ],
-      "duration_ms": 79969,
-      "name": "\u201cSie Liebten Sich Beide\u201d (Heine)",
-      "url": "https://open.spotify.com/track/4WdD7Wq0BhBC8m1VEsNvvS"
     },
     {
       "added_at": null,

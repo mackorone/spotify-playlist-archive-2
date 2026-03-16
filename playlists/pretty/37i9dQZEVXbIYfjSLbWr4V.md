@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIYfjSLbWr4V.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,204 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,211 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIYfjSLbWr4V.md) - [plain]
 | 49 | [Быть богатым](https://open.spotify.com/track/3fvTuOnHeSB2OGXNqsmVnd) | [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3), [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Быть богатым](https://open.spotify.com/album/0uW5RjINr1nmGWS1Nfa2ZY) | 2:56 |
 | 50 | [Сайт](https://open.spotify.com/track/695k3xSxwunkal37drPMkV) | [Раковая Выхухоль](https://open.spotify.com/artist/7y6TkCfv1kEBd6YmloUGLK) | [Сайт](https://open.spotify.com/album/4zCiZdq8FJelVaVmT4vXio) | 2:25 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

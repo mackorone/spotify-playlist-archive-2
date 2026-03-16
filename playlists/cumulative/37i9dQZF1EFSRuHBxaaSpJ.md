@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-93 songs - 4 hr 55 min
+94 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Comme avant](https://open.spotify.com/track/47nJBT9KJwJjBbFR7un0e1) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:42 | 2025-11-13 |  |
 | [Corbeau](https://open.spotify.com/track/6peUg2QpVEhwdHigO0i0rS) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 2:36 | 2024-06-07 |  |
 | [Costa Rica \(feat\. Heuss L’Enfoiré\)](https://open.spotify.com/track/5AMgAu9rQyfzWZ7l1IwvmA) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Vrai 2 vrai](https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg) | 3:01 | 2025-01-09 | 2025-04-12 |
+| [Crazy](https://open.spotify.com/track/5s7KlR1yLdv4FnzLytnvAy) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Aura x G\-Wave](https://open.spotify.com/album/2dH2JV8iSIcbuxMlvCOgNf) | 2:24 | 2026-03-15 |  |
 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 | 2024-06-07 |  |
 | [Die for me](https://open.spotify.com/track/4Wyqp8tk1NWzEzMsZGArjh) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 3:02 | 2024-12-11 |  |
 | [Dis moi](https://open.spotify.com/track/6YANiwoayYin0u5pfCp34O) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:32 | 2024-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Israel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,418 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,442 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 | 49 | [אל תעשי לו צרות](https://open.spotify.com/track/0P8jIXqWvT6iNCeAzyinxt) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אל תעשי לו צרות](https://open.spotify.com/album/4nk78pxRez5wU253uJcHOS) | 2:51 |
 | 50 | [להינשא הלילה \(רצועת בונוס\)](https://open.spotify.com/track/2SDvVWTnIydrgEmX6UgCd4) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 4:05 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAARwr+tTccD3tbJq7IYUOVPjPPVIYPR",
+  "snapshot_id": "AAARxCl6HdXfQ41C8C0ydjTmzPdgtYez",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -2471,6 +2471,42 @@
       "duration_ms": 220718,
       "name": "Habitar",
       "url": "https://open.spotify.com/track/0YcGS5JFK7Cfr1kxRmjeq4"
+    },
+    {
+      "added_at": "2026-03-15 08:25:04",
+      "album": {
+        "name": "Go To Mars",
+        "url": "https://open.spotify.com/album/4uB6KPZUt2bKSrt5SceOQr"
+      },
+      "artists": [
+        {
+          "name": "LGJ",
+          "url": "https://open.spotify.com/artist/61bVVHlWXm0W0GSU9LiwxO"
+        },
+        {
+          "name": "Roi Aknin",
+          "url": "https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u"
+        }
+      ],
+      "duration_ms": 190345,
+      "name": "Go To Mars",
+      "url": "https://open.spotify.com/track/1hdZyrKOcW5YR9VbQ2cRLO"
+    },
+    {
+      "added_at": "2026-03-15 10:31:36",
+      "album": {
+        "name": "Cut You Off",
+        "url": "https://open.spotify.com/album/58DLFT6hE64zU4hElyDYmi"
+      },
+      "artists": [
+        {
+          "name": "Maren Schlicht",
+          "url": "https://open.spotify.com/artist/6Oxro0jNNoWSiHuIJfeYuh"
+        }
+      ],
+      "duration_ms": 140113,
+      "name": "Cut You Off",
+      "url": "https://open.spotify.com/track/5OQ74RnqKC3l3wpjoRxpAG"
     }
   ],
   "unique_name": "New Indie Music",

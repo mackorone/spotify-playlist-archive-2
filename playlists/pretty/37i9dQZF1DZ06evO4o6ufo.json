@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 94605,
+  "num_followers": 94628,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABnJBs6xi8v80EN4CzJQdZy",
+  "snapshot_id": "abSlAAAAAACgeozytIL2df7wus21cGpP",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cedo la Palabra",
-        "url": "https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG"
-      },
-      "artists": [
-        {
-          "name": "Los Varones de Culiacan",
-          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180046,
-      "name": "Cedo la Palabra",
-      "url": "https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cedo la Palabra",
+        "url": "https://open.spotify.com/album/3hCE0IRBPUcgQ7FI2u3TaG"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180046,
+      "name": "Cedo la Palabra",
+      "url": "https://open.spotify.com/track/4aaQNd15yoMaTIghRfB8gj"
     },
     {
       "added_at": null,

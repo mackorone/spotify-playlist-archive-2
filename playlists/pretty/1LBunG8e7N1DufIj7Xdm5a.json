@@ -6,8 +6,24 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHq0o9YH2cgCQrA1B7GBnWTFOkZ8ji",
+  "snapshot_id": "AAAIBYQWSIox1aZJI2DaeyL5Gqk/2BgX",
   "tracks": [
+    {
+      "added_at": "2026-03-15 21:55:02",
+      "album": {
+        "name": "Null'apposto",
+        "url": "https://open.spotify.com/album/0Op2NZQy6vopdG9PjnUT9e"
+      },
+      "artists": [
+        {
+          "name": "EDY",
+          "url": "https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV"
+        }
+      ],
+      "duration_ms": 212393,
+      "name": "Null'apposto",
+      "url": "https://open.spotify.com/track/6rtef2jevNqMhpnBnPzYxg"
+    },
     {
       "added_at": "2026-03-01 23:30:13",
       "album": {
@@ -287,6 +303,22 @@
       "duration_ms": 236307,
       "name": "La Tasca",
       "url": "https://open.spotify.com/track/1RKrSxUUhzrnUHtF11MHVu"
+    },
+    {
+      "added_at": "2026-03-15 11:28:00",
+      "album": {
+        "name": "Siento flores",
+        "url": "https://open.spotify.com/album/2cAaOud9QK2rDIS0i587GV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 304166,
+      "name": "Siento flores",
+      "url": "https://open.spotify.com/track/3xwEYe5XzUu5isEt9Mibcx"
     },
     {
       "added_at": "2026-02-05 00:45:34",
@@ -67265,6 +67297,22 @@
       "url": "https://open.spotify.com/track/40vHtIJGF327MEzCWQNvEM"
     },
     {
+      "added_at": "2026-03-15 11:28:15",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 251192,
+      "name": "En ti",
+      "url": "https://open.spotify.com/track/5PIF9tnyyUOvzwEq9BNTge"
+    },
+    {
       "added_at": "2026-02-13 21:51:04",
       "album": {
         "name": "THIS COMMUNITY",
@@ -67547,6 +67595,42 @@
     {
       "added_at": "2026-02-13 21:51:04",
       "album": {
+        "name": "Il Bisogno Di Te",
+        "url": "https://open.spotify.com/album/7CQwHYILteraTct35EJSEc"
+      },
+      "artists": [
+        {
+          "name": "AnnoLuce",
+          "url": "https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A"
+        },
+        {
+          "name": "Mat Neumann",
+          "url": "https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn"
+        }
+      ],
+      "duration_ms": 210210,
+      "name": "Il Bisogno Di Te",
+      "url": "https://open.spotify.com/track/2a0tkYPolMSq7LuoBxJjyN"
+    },
+    {
+      "added_at": "2026-02-13 21:51:04",
+      "album": {
+        "name": "HARD TIMES (DELUXE)",
+        "url": "https://open.spotify.com/album/6SI4Kar8NolF2crf2tGnF8"
+      },
+      "artists": [
+        {
+          "name": "Menervah",
+          "url": "https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU"
+        }
+      ],
+      "duration_ms": 244260,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/0VXnlziJCl0eOI3seuH65j"
+    },
+    {
+      "added_at": "2026-02-13 21:51:04",
+      "album": {
         "name": "Nemico",
         "url": "https://open.spotify.com/album/7DeGMiTbTHLReukKHyaJJs"
       },
@@ -67581,40 +67665,20 @@
       "url": "https://open.spotify.com/track/0Ql3Y6gOCSScpWX8ncSCsC"
     },
     {
-      "added_at": "2026-02-13 21:51:04",
+      "added_at": "2026-02-17 10:17:52",
       "album": {
-        "name": "Il Bisogno Di Te",
-        "url": "https://open.spotify.com/album/7CQwHYILteraTct35EJSEc"
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ"
       },
       "artists": [
         {
-          "name": "AnnoLuce",
-          "url": "https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A"
-        },
-        {
-          "name": "Mat Neumann",
-          "url": "https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn"
+          "name": "Straight",
+          "url": "https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2"
         }
       ],
-      "duration_ms": 210210,
-      "name": "Il Bisogno Di Te",
-      "url": "https://open.spotify.com/track/2a0tkYPolMSq7LuoBxJjyN"
-    },
-    {
-      "added_at": "2026-02-13 21:51:04",
-      "album": {
-        "name": "HARD TIMES (DELUXE)",
-        "url": "https://open.spotify.com/album/6SI4Kar8NolF2crf2tGnF8"
-      },
-      "artists": [
-        {
-          "name": "Menervah",
-          "url": "https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU"
-        }
-      ],
-      "duration_ms": 244260,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/0VXnlziJCl0eOI3seuH65j"
+      "duration_ms": 191919,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ"
     },
     {
       "added_at": "2026-02-13 21:51:04",
@@ -67717,20 +67781,20 @@
       "url": "https://open.spotify.com/track/4FAmAvluydf7r15Bsbc4UK"
     },
     {
-      "added_at": "2026-02-17 10:17:52",
+      "added_at": "2026-03-15 11:28:11",
       "album": {
-        "name": "Fangs",
-        "url": "https://open.spotify.com/album/1YllGvPPFf07aSEv2ziMEJ"
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
       },
       "artists": [
         {
-          "name": "Straight",
-          "url": "https://open.spotify.com/artist/7fS7VDiU6F8uH9Ca43R3j2"
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
         }
       ],
-      "duration_ms": 191919,
-      "name": "Fangs",
-      "url": "https://open.spotify.com/track/1fTAnQ294CTsqcY4gOUfhZ"
+      "duration_ms": 137558,
+      "name": "Suspiro",
+      "url": "https://open.spotify.com/track/0XQqupee8Qw7YYnEa7Ahk1"
     },
     {
       "added_at": "2026-02-18 20:01:43",
@@ -67765,6 +67829,22 @@
       "url": "https://open.spotify.com/track/036ai7QE1pMDVLolRDCbPg"
     },
     {
+      "added_at": "2026-03-15 11:28:46",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 160911,
+      "name": "Es ser",
+      "url": "https://open.spotify.com/track/1zHN8roXBJPDgzyqbCf6Mw"
+    },
+    {
       "added_at": "2026-02-19 09:26:03",
       "album": {
         "name": "Red, White & Disrespect",
@@ -67779,6 +67859,22 @@
       "duration_ms": 151599,
       "name": "Red, White & Disrespect",
       "url": "https://open.spotify.com/track/5NGx2E5IeLe6seYdiZOAZV"
+    },
+    {
+      "added_at": "2026-03-15 11:28:15",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 138241,
+      "name": "Aquel lugar",
+      "url": "https://open.spotify.com/track/2CrtA1RnvEj9uj1ry4Kb0n"
     },
     {
       "added_at": "2026-02-20 07:25:39",
@@ -67827,6 +67923,22 @@
       "duration_ms": 232231,
       "name": "Lost in Time",
       "url": "https://open.spotify.com/track/7B5huIcLBqh4T5neqkanXN"
+    },
+    {
+      "added_at": "2026-03-15 11:28:14",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 205989,
+      "name": "Digan lo que digan",
+      "url": "https://open.spotify.com/track/47HWicWuQGJhs2sAVrU9gL"
     },
     {
       "added_at": "2026-02-20 08:34:22",
@@ -67925,22 +68037,6 @@
       "url": "https://open.spotify.com/track/4hYg1rLkqtvziccn5jhnOZ"
     },
     {
-      "added_at": "2026-02-25 22:00:21",
-      "album": {
-        "name": "Odio La Musica Trap",
-        "url": "https://open.spotify.com/album/4wNoQpWFxg1gBc9Plpq2Hd"
-      },
-      "artists": [
-        {
-          "name": "Rockify",
-          "url": "https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33"
-        }
-      ],
-      "duration_ms": 224318,
-      "name": "Odio La Musica Trap",
-      "url": "https://open.spotify.com/track/3SzG9XphyYjVsHOPiTnRpL"
-    },
-    {
       "added_at": "2026-02-25 23:06:27",
       "album": {
         "name": "SONICHAOSASTRA",
@@ -67989,6 +68085,22 @@
       "url": "https://open.spotify.com/track/02Q3WXt6U1wWojhvkgUpzB"
     },
     {
+      "added_at": "2026-03-15 11:28:58",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 207408,
+      "name": "Redescubri\u00e9ndote",
+      "url": "https://open.spotify.com/track/55R6Dz3k0rg3K0PQhkqVPi"
+    },
+    {
       "added_at": "2026-03-01 05:48:59",
       "album": {
         "name": "It Grows",
@@ -68021,20 +68133,20 @@
       "url": "https://open.spotify.com/track/5DwIozHasjA4zwXrXLfZB8"
     },
     {
-      "added_at": "2026-03-05 12:50:13",
+      "added_at": "2026-03-14 15:52:07",
       "album": {
-        "name": "L'ASCENSORE",
-        "url": "https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD"
+        "name": "Or Nah (Summer Vibes)",
+        "url": "https://open.spotify.com/album/1SG2mechgVcqZlJoPev1CG"
       },
       "artists": [
         {
-          "name": "SULABU",
-          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+          "name": "The Samu",
+          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
         }
       ],
-      "duration_ms": 223392,
-      "name": "L'ASCENSORE",
-      "url": "https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj"
+      "duration_ms": 129880,
+      "name": "Or Nah - Summer Vibes",
+      "url": "https://open.spotify.com/track/4wDqq8uoFkNTKKzFQjHaHs"
     },
     {
       "added_at": "2026-03-06 01:00:01",
@@ -68053,20 +68165,440 @@
       "url": "https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy"
     },
     {
-      "added_at": "2026-03-06 13:29:53",
+      "added_at": "2026-03-15 11:28:04",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw"
+        "name": "Doll Revolution",
+        "url": "https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY"
       },
       "artists": [
         {
-          "name": "Scampi Chips Dip & Campari",
-          "url": "https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9"
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
         }
       ],
-      "duration_ms": 182779,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9"
+      "duration_ms": 236866,
+      "name": "I Will Take Care Of You",
+      "url": "https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA"
+    },
+    {
+      "added_at": "2026-03-15 11:28:08",
+      "album": {
+        "name": "L\u00edricamente Amor",
+        "url": "https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 149716,
+      "name": "A mi lado",
+      "url": "https://open.spotify.com/track/0P09k4LJGGtQKuv5LcyQAG"
+    },
+    {
+      "added_at": "2026-03-15 11:28:04",
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary - Super Deluxe)",
+        "url": "https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 430866,
+      "name": "Isn't It a Pity - Version 1 - 2020 Mix",
+      "url": "https://open.spotify.com/track/4eqUOw3lQ366iJwDv9sSJi"
+    },
+    {
+      "added_at": "2026-03-15 11:29:26",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 185347,
+      "name": "Consciente",
+      "url": "https://open.spotify.com/track/3Bx9W1P1J9mfGtxtlBnY5g"
+    },
+    {
+      "added_at": "2026-03-15 11:28:08",
+      "album": {
+        "name": "L\u00edricamente Amor",
+        "url": "https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 211726,
+      "name": "S\u00e9",
+      "url": "https://open.spotify.com/track/3zl3AgMqP6Vw6cu7QWspus"
+    },
+    {
+      "added_at": "2026-03-15 11:28:09",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-03-15 11:28:09",
+      "album": {
+        "name": "L\u00edricamente Amor",
+        "url": "https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 174548,
+      "name": "Relato de tu piel",
+      "url": "https://open.spotify.com/track/0nSVNJKx1PWhK6MxAsjXxE"
+    },
+    {
+      "added_at": "2026-03-15 11:28:56",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 130516,
+      "name": "Los sue\u00f1os",
+      "url": "https://open.spotify.com/track/5jxupTeXqVCshsgtOWh0xr"
+    },
+    {
+      "added_at": "2026-03-15 11:28:08",
+      "album": {
+        "name": "L\u00edricamente Amor",
+        "url": "https://open.spotify.com/album/3ZNUy4vxDoNvswR7IGj78z"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 162572,
+      "name": "Pelo de mar",
+      "url": "https://open.spotify.com/track/3vMmZnb3g5ML0K9w4PKoqM"
+    },
+    {
+      "added_at": "2026-03-15 11:28:14",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 172478,
+      "name": "Esfera estelar",
+      "url": "https://open.spotify.com/track/0M2AJJKUXyviBBPkNlWZeP"
+    },
+    {
+      "added_at": "2026-03-15 11:28:32",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0TdWVbcerMAcvljXrl9gpG"
+    },
+    {
+      "added_at": "2026-03-15 11:28:15",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 165540,
+      "name": "Retales",
+      "url": "https://open.spotify.com/track/01oNKX6bloOAbGONEqsoZd"
+    },
+    {
+      "added_at": "2026-03-15 11:28:19",
+      "album": {
+        "name": "A Black Mile To The Surface",
+        "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 328933,
+      "name": "The Alien",
+      "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
+    },
+    {
+      "added_at": "2026-03-15 11:28:15",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Estrella de luna",
+      "url": "https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6"
+    },
+    {
+      "added_at": "2026-03-05 12:50:13",
+      "album": {
+        "name": "L'ASCENSORE",
+        "url": "https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD"
+      },
+      "artists": [
+        {
+          "name": "SULABU",
+          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+        }
+      ],
+      "duration_ms": 223392,
+      "name": "L'ASCENSORE",
+      "url": "https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj"
+    },
+    {
+      "added_at": "2026-03-15 11:28:35",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 239722,
+      "name": "Dis-ease",
+      "url": "https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2"
+    },
+    {
+      "added_at": "2026-03-15 11:28:24",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2026-03-15 11:28:18",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/7oGKY090fvrI6pgFW64kXS"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        },
+        {
+          "name": "Susanna Hoffs",
+          "url": "https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/793zMrBCSBOYgD7JhYB97f"
+    },
+    {
+      "added_at": "2026-03-15 11:28:15",
+      "album": {
+        "name": "Esfera",
+        "url": "https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 227393,
+      "name": "Nuestro cielo",
+      "url": "https://open.spotify.com/track/7mx5FacYX14sdove4ngb64"
+    },
+    {
+      "added_at": "2026-03-15 11:28:36",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 202313,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/6Fnvi5QnVkTskSzeRvvQds"
+    },
+    {
+      "added_at": "2026-03-15 11:28:36",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 179547,
+      "name": "Skit",
+      "url": "https://open.spotify.com/track/16SFlxZd0oH4YA7KvCQlsG"
+    },
+    {
+      "added_at": "2026-03-15 11:28:18",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - Remastered 2010",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2026-03-15 11:28:36",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 254950,
+      "name": "Blue & Grey",
+      "url": "https://open.spotify.com/track/7Ki0hse0IfXEcXUlpyECbJ"
+    },
+    {
+      "added_at": "2026-03-15 11:28:36",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "Fly To My Room",
+      "url": "https://open.spotify.com/track/1NHl9g36Ebu3g16y0vtUNV"
+    },
+    {
+      "added_at": "2026-03-15 11:28:37",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 207481,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+    },
+    {
+      "added_at": "2026-02-25 22:00:21",
+      "album": {
+        "name": "Odio La Musica Trap",
+        "url": "https://open.spotify.com/album/4wNoQpWFxg1gBc9Plpq2Hd"
+      },
+      "artists": [
+        {
+          "name": "Rockify",
+          "url": "https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33"
+        }
+      ],
+      "duration_ms": 224318,
+      "name": "Odio La Musica Trap",
+      "url": "https://open.spotify.com/track/3SzG9XphyYjVsHOPiTnRpL"
+    },
+    {
+      "added_at": "2026-03-15 11:28:54",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Olas en tus cielos",
+      "url": "https://open.spotify.com/track/05uRcmkTIeJFcFIzJtd9yI"
     },
     {
       "added_at": "2026-03-07 03:24:37",
@@ -68083,6 +68615,54 @@
       "duration_ms": 141674,
       "name": "boyfriend...(ew)",
       "url": "https://open.spotify.com/track/6jayrcLdGIg47o8Wzkp3Vq"
+    },
+    {
+      "added_at": "2026-03-15 11:28:56",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 167494,
+      "name": "De sol a sol",
+      "url": "https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM"
+    },
+    {
+      "added_at": "2026-03-15 11:28:50",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 215233,
+      "name": "Si t\u00fa no est\u00e1s",
+      "url": "https://open.spotify.com/track/4dQOggX7CIcZSTNtvIR3WY"
+    },
+    {
+      "added_at": "2026-03-15 11:28:57",
+      "album": {
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 167033,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/60DXXvorxvgU7L0gzpkyrr"
     },
     {
       "added_at": "2026-03-13 04:06:44",
@@ -68105,20 +68685,340 @@
       "url": "https://open.spotify.com/track/2FdApGBPtwyMdWVPWcWKyY"
     },
     {
-      "added_at": "2026-03-14 15:52:07",
+      "added_at": "2026-03-15 11:28:58",
       "album": {
-        "name": "Or Nah (Summer Vibes)",
-        "url": "https://open.spotify.com/album/1SG2mechgVcqZlJoPev1CG"
+        "name": "Puzzles",
+        "url": "https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY"
       },
       "artists": [
         {
-          "name": "The Samu",
-          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
         }
       ],
-      "duration_ms": 129880,
-      "name": "Or Nah - Summer Vibes",
-      "url": "https://open.spotify.com/track/4wDqq8uoFkNTKKzFQjHaHs"
+      "duration_ms": 145168,
+      "name": "Salga el sol",
+      "url": "https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG"
+    },
+    {
+      "added_at": "2026-03-15 11:28:19",
+      "album": {
+        "name": "A New World Record",
+        "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 279237,
+      "name": "Telephone Line",
+      "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"
+    },
+    {
+      "added_at": "2026-03-15 11:29:04",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 230346,
+      "name": "A tientas",
+      "url": "https://open.spotify.com/track/1g4Lwf7jHausilNJvkhh5U"
+    },
+    {
+      "added_at": "2026-03-15 11:29:10",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 244240,
+      "name": "Brillar\u00e9",
+      "url": "https://open.spotify.com/track/4ourBwiwTUA0RNJBihJSsF"
+    },
+    {
+      "added_at": "2026-03-15 11:29:24",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "Sobre nubes",
+      "url": "https://open.spotify.com/track/5hLGWSQ3KT0dfnip7NbASN"
+    },
+    {
+      "added_at": "2026-03-15 11:29:14",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Nubes negras",
+      "url": "https://open.spotify.com/track/3EkbvFU2CF92uJITSXNLKM"
+    },
+    {
+      "added_at": "2026-03-15 11:29:14",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Abandonar",
+      "url": "https://open.spotify.com/track/0zp5BIm0YqLEnhSi3nlWRe"
+    },
+    {
+      "added_at": "2026-03-15 11:29:15",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Capricornio",
+      "url": "https://open.spotify.com/track/5SIe1Vx8qaMQ7dcurZpicH"
+    },
+    {
+      "added_at": "2026-03-15 11:29:15",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Mundo real",
+      "url": "https://open.spotify.com/track/33fQy1FJR68FwhrDmggI4O"
+    },
+    {
+      "added_at": "2026-03-15 11:29:16",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Donde est\u00e9s",
+      "url": "https://open.spotify.com/track/56CcoIX1UM98MPz7NzhTkY"
+    },
+    {
+      "added_at": "2026-03-15 11:29:16",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Rey de la luna",
+      "url": "https://open.spotify.com/track/4h0flqrN57X13YYgpUfEJL"
+    },
+    {
+      "added_at": "2026-03-15 11:29:16",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Si no eres t\u00fa",
+      "url": "https://open.spotify.com/track/20bSrYTqKB0yqEq7NYPTzy"
+    },
+    {
+      "added_at": "2026-03-15 11:29:24",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 151438,
+      "name": "Puedo",
+      "url": "https://open.spotify.com/track/4GGzJWQeNHPg1sHDNwuNIY"
+    },
+    {
+      "added_at": "2026-03-15 11:29:25",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 157615,
+      "name": "Aire de luz",
+      "url": "https://open.spotify.com/track/7ueYlmtjsi3cDPRnH7nvPc"
+    },
+    {
+      "added_at": "2026-03-06 13:29:53",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw"
+      },
+      "artists": [
+        {
+          "name": "Scampi Chips Dip & Campari",
+          "url": "https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9"
+        }
+      ],
+      "duration_ms": 182779,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9"
+    },
+    {
+      "added_at": "2026-03-15 11:29:25",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 114508,
+      "name": "Del amor",
+      "url": "https://open.spotify.com/track/3sF7J0py0ME0auMHyW4kzi"
+    },
+    {
+      "added_at": "2026-03-15 11:29:26",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 170494,
+      "name": "Junto a mis dedos",
+      "url": "https://open.spotify.com/track/2qWrXyAixAEfyvFDa3b3NG"
+    },
+    {
+      "added_at": "2026-03-15 11:29:16",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/1x7nexEBA4cv0FDN4Jat8L"
+    },
+    {
+      "added_at": "2026-03-15 11:29:26",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 225543,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/5cJifL4P0gsUeBThG2aWPq"
+    },
+    {
+      "added_at": "2026-03-15 11:29:18",
+      "album": {
+        "name": "Piedras",
+        "url": "https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "A tu lado",
+      "url": "https://open.spotify.com/track/6U24wat60mMB1CIq4mMORW"
+    },
+    {
+      "added_at": "2026-03-15 11:29:28",
+      "album": {
+        "name": "Implosi\u00f3n",
+        "url": "https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV"
+      },
+      "artists": [
+        {
+          "name": "Alisone",
+          "url": "https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5"
+        }
+      ],
+      "duration_ms": 157534,
+      "name": "Sin aire",
+      "url": "https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Lewis Dice
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,174 likes - 95 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,194 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Manu, Léo Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,060 likes - 85 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,041 likes - 85 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 84 | [Queria Ser Tu / Interfone \- Ao Vivo](https://open.spotify.com/track/1XX75jl3CKMTnKhq1nyngg) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:15 |
 | 85 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
 
-Snapshot ID: `AAAAAD0SDui0k+PaWJMU09bXYhAE23DL`
+Snapshot ID: `AAAAAPsUvzDRff53alRzJ95G+yOX/dyz`

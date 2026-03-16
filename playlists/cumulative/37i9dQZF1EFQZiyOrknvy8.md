@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 9 hr 11 min
+182 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 | 2024-01-29 |  |
 | [Blaugraue Federn](https://open.spotify.com/track/6cF5IIacOTD2mDQPjF3ROz) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:13 | 2025-01-09 | 2025-04-12 |
 | [Blood](https://open.spotify.com/track/57d8fvXrm9vzlYQaWwLwYl) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:35 | 2024-01-29 |  |
+| [Body Talk](https://open.spotify.com/track/2ejzE6eD1mP1JFk4qrBxbc) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk](https://open.spotify.com/album/2Xy0XjWMA3XQH3Wuh3dJ9y) | 2:46 | 2026-03-15 |  |
 | [Bonfire \(feat\. ALMA\)](https://open.spotify.com/track/4lGaOYqLKr5Z7bA1H92FBv) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:03 | 2024-01-29 |  |
 | [Busy Bye Bye](https://open.spotify.com/track/4XazYOC2opyukOj6u3YjCq) | [El Profesor](https://open.spotify.com/artist/2gTcdmBwgyh3EORKIXCzlw) | [Busy Bye Bye](https://open.spotify.com/album/2D1b20NVjUQjUmbPxj2G1e) | 2:28 | 2024-01-29 |  |
 | [California Night Sky](https://open.spotify.com/track/7aQaV64h5FTa6t01fBegWB) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [California Night Sky](https://open.spotify.com/album/0IykBztRgbJE2G5ogACESk) | 2:27 | 2025-08-14 |  |

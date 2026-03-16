@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Finland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,704 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,742 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 | 49 | [Syvä pääty](https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Syvä pääty](https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM) | 3:08 |
 | 50 | [PETSHOP](https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE), [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [PETSHOP](https://open.spotify.com/album/57iAh3QvNudObASmZccMzD) | 3:09 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

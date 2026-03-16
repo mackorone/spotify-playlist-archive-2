@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,588 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,627 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 49 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
 | 50 | [KURWY CHCĄ SENTO](https://open.spotify.com/track/7CT0Ep932LLsipqAdn21z3) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [Popek](https://open.spotify.com/artist/4NtiLs5NpjgZDHNBEMbjKz), [typo g](https://open.spotify.com/artist/3Cl0LSa06vEUmbuapubmPh), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P) | [Zabójstwo Liryczne 5](https://open.spotify.com/album/2Quvk6HuaOXGS8jOfrF6zq) | 3:35 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

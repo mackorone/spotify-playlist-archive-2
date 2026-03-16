@@ -4,7 +4,7 @@
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 59 min
+55 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2025-12-18 | 2026-01-15 |
 | [Last Breath \- EP Version](https://open.spotify.com/track/4BffvSUwamMxFtFCVdLJj3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:36 | 2025-12-18 |  |
 | [Lauder Too \(feat\. Ravyn Lenae & Eryn Allen Kane\)](https://open.spotify.com/track/14l9gwYmyxQu5m8tD5bv0W) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:53 | 2025-12-18 |  |
+| [Love Is Blind](https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:51 | 2026-03-16 |  |
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-12-18 |  |
 | [Lullabye](https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:59 | 2025-12-18 |  |
 | [M.I.A.](https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:27 | 2025-12-18 | 2026-02-14 |
@@ -43,7 +44,7 @@
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 | 2025-12-18 |  |
 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 | 2025-12-18 |  |
 | [pink + pink](https://open.spotify.com/track/5jysHNTiZcXz83qaIXl3vf) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:02 | 2025-12-18 |  |
-| [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 | 2025-12-18 |  |
+| [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 | 2025-12-18 | 2026-03-16 |
 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ) | 2:45 | 2025-12-18 |  |
 | [Rewind \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/track/0OZieZaaIuwudxctCijFnY) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Rewind \(from Insecure: Music From The HBO Original Series, Season 4\)](https://open.spotify.com/album/1zmUyVNNiF8vTkV4L98n7G) | 2:33 | 2025-12-18 |  |
 | [Right of Spring](https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:43 | 2025-12-18 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-676 songs - 1 day 12 hr 22 min
+677 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/08LWacUp9nuE0TBxNxyGmi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 3:02 | 2024-07-24 | 2026-02-13 |
 | [Miss Otis Regrets \(She's Unable To Lunch Today\)](https://open.spotify.com/track/6Rb0FX3uVrJC4AnPRiqAdM) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 3:03 | 2026-02-12 | 2026-02-14 |
 | [Mister and Missus Fitch \(From the Gay Divorce\) \- Live @ the Carlyle](https://open.spotify.com/track/4mcwiBgpkPlfOcNDU10lth) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Live At The Café Carlyle](https://open.spotify.com/album/3BIBreZObb0c7afMRLq3Qx) | 2:02 | 2024-07-24 |  |
-| [Mister Bing](https://open.spotify.com/track/0WHckZYByGLQOZulisF69n) | [Guy Marchand](https://open.spotify.com/artist/5QBrJzbX0Xj4cEc7YjHjBU) | [Guy Marchand](https://open.spotify.com/album/3tJ9GZxMAKnj1IlUTHUytc) | 2:54 | 2024-07-24 |  |
+| [Mister Bing](https://open.spotify.com/track/7bsriSYOXUglieJVX6joQz) | [Guy Marchand](https://open.spotify.com/artist/5QBrJzbX0Xj4cEc7YjHjBU) | [Delirium](https://open.spotify.com/album/2pw7lC2nVnrXb27bwzPwIV) | 2:54 | 2026-03-15 |  |
+| [Mister Bing](https://open.spotify.com/track/0WHckZYByGLQOZulisF69n) | [Guy Marchand](https://open.spotify.com/artist/5QBrJzbX0Xj4cEc7YjHjBU) | [Guy Marchand](https://open.spotify.com/album/3tJ9GZxMAKnj1IlUTHUytc) | 2:54 | 2024-07-24 | 2026-03-16 |
 | [Mohtmart](https://open.spotify.com/track/0b8knkJdhHKK1WNZcUsK7i) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:33 | 2024-07-24 | 2025-06-28 |
 | [Montmart'](https://open.spotify.com/track/2jSCogyx3D26wlQX2ORJTE) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Can Can](https://open.spotify.com/album/5YlJ5Cmw0eqqgESfmgWkxD) | 2:39 | 2025-06-27 |  |
 | [Montmartre](https://open.spotify.com/track/4xKOPH17zTLnjQWcGdKTbI) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Rex Stewart](https://open.spotify.com/artist/0Tb8S5bNKO7nZV1eunOwZa) | [Djangologie Vol8 / 1937 \- 1938](https://open.spotify.com/album/4NyzXq4mgVy0XJZMBei6Nb) | 2:25 | 2024-07-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: DLKC, Narysal
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,195 likes - 130 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,196 likes - 130 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

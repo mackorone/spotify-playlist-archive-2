@@ -313,6 +313,28 @@
     },
     {
       "album": {
+        "name": "Illegal + Four Tet",
+        "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Illegal + Four Tet",
+      "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
+    },
+    {
+      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },

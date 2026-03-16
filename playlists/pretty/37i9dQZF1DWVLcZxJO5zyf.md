@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,309,006 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,861 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 |
 | 50 | [Fantasma](https://open.spotify.com/track/42cbAqfGrflUTmn7N9jONd) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Era uma vez](https://open.spotify.com/album/2b9mEfDyiEnVoIHrTBSdbL) | 2:25 |
 
-Snapshot ID: `AAAAAFyCLVpwLHEl3xvo3wLyxW2mXGqI`
+Snapshot ID: `AAAAADLUft6CTRFlhHcyBoiGgPiJ9j0s`

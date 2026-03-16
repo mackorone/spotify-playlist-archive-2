@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 49017,
+  "num_followers": 49023,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAsb2SX3wD7V8I3gx359XUF",
+  "snapshot_id": "abSlAAAAAAARIc+9J7gkdrSniPffRKAk",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shallow Believer",
         "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 120640,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "duration_ms": 171741,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -747,22 +767,6 @@
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184105,
-      "name": "Bloody Nose",
-      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
     },
     {
       "added_at": null,
@@ -799,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
       },
@@ -815,38 +835,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+        "name": "NEED",
+        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
       },
       "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
         {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         },
         {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
         }
       ],
-      "duration_ms": 171741,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Slit Your Own Throat",
-      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
+      "duration_ms": 148642,
+      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
     }
   ],
   "unique_name": "This Is The Used",

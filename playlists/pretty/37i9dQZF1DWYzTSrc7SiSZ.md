@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,980 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,988 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [Lalala](https://open.spotify.com/track/6bZo5hD6TLeReBF3kZWcv0) | [Bumont](https://open.spotify.com/artist/2EYra2dvqBI9KNMQsb0RTa), [Fabuloso](https://open.spotify.com/artist/5DAsxR5uOROQzdxAjq6SLX) | [Lalala](https://open.spotify.com/album/63gnQZ2zbvNFstV9UoEkNp) | 2:56 |
 | 100 | [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 |
 
-Snapshot ID: `AAAAALaK0sziMaicY2Fm7N00V9WIU5eU`
+Snapshot ID: `AAAAAD6gc8zOKZ+CffBMJ7oK1KEUHn6t`

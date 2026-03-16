@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220316,
+  "num_followers": 220315,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAACjhVoByejXfVBzZIIq0Q1m",
+  "snapshot_id": "abSlAAAAAABWrTEM0CfFyEwLDlksRm05",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sad in Scandinavia",
         "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
     },
     {
       "added_at": null,
@@ -787,30 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Answer",
-        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "Energies",
-          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
-        },
-        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "Rittipo",
-          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
         }
       ],
-      "duration_ms": 203000,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
     },
     {
       "added_at": null,
@@ -847,18 +835,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
       },
       "artists": [
         {
+          "name": "Energies",
+          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
+        },
+        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "Rittipo",
+          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
         }
       ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
+      "duration_ms": 203000,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
     },
     {
       "added_at": null,

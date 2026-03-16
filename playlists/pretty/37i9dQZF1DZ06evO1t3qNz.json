@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 56550,
+  "num_followers": 56588,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAC/d765J2b4iiDjbUsos4Ji",
+  "snapshot_id": "abSlAAAAAADdylSBlxdpgphrAKNeMlZF",
   "tracks": [
     {
       "added_at": null,
@@ -119,42 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 192416,
-      "name": "Forever (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
       },
@@ -179,6 +143,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 192416,
+      "name": "Forever (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex Hysteria (Deluxe)",
-        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 139429,
-      "name": "I'm Not There For You",
-      "url": "https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp"
+      "duration_ms": 178472,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+        "name": "Sex Hysteria (Deluxe)",
+        "url": "https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 178472,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
+      "duration_ms": 139429,
+      "name": "I'm Not There For You",
+      "url": "https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sip",
-        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
+        "name": "Criminal (From the Original Motion Picture Scream 7)",
+        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 172163,
-      "name": "Sip",
-      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
+      "duration_ms": 199305,
+      "name": "Criminal - From the Original Motion Picture Scream 7",
+      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sip",
+        "url": "https://open.spotify.com/album/3rdm30kSOOJm3SDxcoVAs0"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 172163,
+      "name": "Sip",
+      "url": "https://open.spotify.com/track/1CMQQtOD2tAwCp0vtuOxIX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "drowning",
         "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criminal (From the Original Motion Picture Scream 7)",
-        "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 199305,
-      "name": "Criminal - From the Original Motion Picture Scream 7",
-      "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah (Live from iHeartRadio Jingle Ball 2025)",
-        "url": "https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 147537,
-      "name": "Hallelujah - Live from iHeartRadio Jingle Ball 2025",
-      "url": "https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When I'm Not Around",
         "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 201310,
       "name": "When I'm Not Around",
       "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah (Live from iHeartRadio Jingle Ball 2025)",
+        "url": "https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147537,
+      "name": "Hallelujah - Live from iHeartRadio Jingle Ball 2025",
+      "url": "https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1260,
+  "num_followers": 1261,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAMd6YHLbkxQe+bgiNYz+j+4VfTlnfT",
+  "snapshot_id": "AAAMerXA6dytnlup2sf6c7Ivj+c1EKiO",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -832,7 +832,7 @@
           "url": "https://open.spotify.com/artist/4kJrmsUZM6buhYJbxkdiPu"
         }
       ],
-      "duration_ms": 118318,
+      "duration_ms": 120000,
       "name": "Superslut - Skate Park Mix",
       "url": "https://open.spotify.com/track/5ZGVc0Zloei57HKuu2DdjP"
     },
@@ -1659,38 +1659,6 @@
       "duration_ms": 197850,
       "name": "With You",
       "url": "https://open.spotify.com/track/6GbPupbyDuA3ipJsYATSJA"
-    },
-    {
-      "added_at": "2026-02-12 17:08:28",
-      "album": {
-        "name": "Trainjuice",
-        "url": "https://open.spotify.com/album/5KZ1QRg5HnyPay7xrKflbb"
-      },
-      "artists": [
-        {
-          "name": "Sikmetra",
-          "url": "https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI"
-        }
-      ],
-      "duration_ms": 162676,
-      "name": "Trainjuice",
-      "url": "https://open.spotify.com/track/5v36a8JylfC3f7tn6DAWxl"
-    },
-    {
-      "added_at": "2026-02-12 07:27:31",
-      "album": {
-        "name": "The War on Cars",
-        "url": "https://open.spotify.com/album/1tkfcVGm3ZxwKRq51SWTcV"
-      },
-      "artists": [
-        {
-          "name": "Barren Sea",
-          "url": "https://open.spotify.com/artist/52YaDNTA2VWMofP95FkTSi"
-        }
-      ],
-      "duration_ms": 254137,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -4767,6 +4735,22 @@
       "duration_ms": 177300,
       "name": "Have Your Say",
       "url": "https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn"
+    },
+    {
+      "added_at": "2026-03-15 11:33:04",
+      "album": {
+        "name": "Songs Of Perdition",
+        "url": "https://open.spotify.com/album/5aZZuCPgpsuW2gi6iEzI9q"
+      },
+      "artists": [
+        {
+          "name": "Abitha",
+          "url": "https://open.spotify.com/artist/6pMO4cinc5UyFjIBo8dC2r"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Our Sacrament",
+      "url": "https://open.spotify.com/track/3xYSm90h1tuyswCuYTmqMJ"
     }
   ],
   "unique_name": "Shuffle Roulette",

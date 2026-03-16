@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53900,
+  "num_followers": 53901,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABsJdnStEyFZaYnqqHXdsUp",
+  "snapshot_id": "abSlAAAAAAAeeyZwITxO1G51XYS7tEfd",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+      "duration_ms": 227219,
+      "name": "April Fool",
+      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 227219,
-      "name": "April Fool",
-      "url": "https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN"
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 304840,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -503,22 +503,6 @@
       "duration_ms": 72226,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 253330,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 253330,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 281026,
       "name": "Piss Factory",
       "url": "https://open.spotify.com/track/5KLKSxNQQqg8hOaHVqEwuk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Dream of Life",
-      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Dream of Life",
+      "url": "https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -615,54 +615,6 @@
       "duration_ms": 312440,
       "name": "Citizen Ship",
       "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horses (50th Anniversary)",
-        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 194002,
-      "name": "Snowball",
-      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Looking for You (I Was)",
-      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Distant Fingers",
-      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
     },
     {
       "added_at": null,
@@ -683,6 +635,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Distant Fingers",
+      "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 246640,
+      "name": "Looking for You (I Was)",
+      "url": "https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Horses (50th Anniversary)",
         "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
       },
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 174503,
-      "name": "The Hunter Gets Captured by The Game",
-      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
+      "duration_ms": 194002,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 196346,
       "name": "Gone Again",
       "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 174503,
+      "name": "The Hunter Gets Captured by The Game",
+      "url": "https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O"
     },
     {
       "added_at": null,

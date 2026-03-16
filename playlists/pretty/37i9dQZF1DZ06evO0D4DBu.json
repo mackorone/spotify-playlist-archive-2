@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211283,
+  "num_followers": 211280,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAsjGDJnzNBEMqC20pT/Yzt",
+  "snapshot_id": "abSlAAAAAABicdZToI5MHoTaTfOiAeoJ",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap (10th Anniversary - Complete Edition)",
-        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 215062,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lost Boy",
         "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 234614,
       "name": "Bad Idea (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acid Rap (10th Anniversary - Complete Edition)",
+        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 215062,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 216312,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 179368,
       "name": "Ride (feat. Do or Die)",
       "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 216312,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Drapetomania (feat. BabyChiefDoit)",
-      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 225923,
       "name": "Hot Shower",
       "url": "https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Drapetomania (feat. BabyChiefDoit)",
+      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 199431,
       "name": "Still Get Chanel (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 293050,
-      "name": "No More Old Men (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 284855,
       "name": "Best Life (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
     },
     {
       "added_at": null,
@@ -839,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 267692,
-      "name": "Tree (feat. Lil Wayne & Smino)",
-      "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/1hXe7FuboEW7ZfbCxX9g6M"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/73mjPiWQcaOQdfzXvNt1IT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 267692,
+      "name": "Tree (feat. Lil Wayne & Smino)",
+      "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Star Side Intro",
-      "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iiiDrops",
         "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 212950,
       "name": "Girls @ (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Star Side Intro",
+      "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Man Who Has Everything",
+        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 218624,
+      "name": "The Man Who Has Everything",
+      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Boys 2",
         "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 133670,
       "name": "Bad Boys 2",
       "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

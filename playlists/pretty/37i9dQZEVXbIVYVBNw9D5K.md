@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,300 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,513 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIVYVBNw9D5K.md) - [plain]
 | 49 | [Bana Sor](https://open.spotify.com/track/6Xfr7jIuH9ITBlfCEBCLYp) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [Bana Sor](https://open.spotify.com/album/6JIR1x7plodkrgW87LZPzJ) | 3:12 |
 | 50 | [Bak](https://open.spotify.com/track/4zAy3I7Amhup6JeDLFkKhH) | [Pilli Bebek](https://open.spotify.com/artist/63RFns47gk00mnHIQ8zTR1) | [Olsun](https://open.spotify.com/album/6wrS2IS6GGyJHVbIZaVLjq) | 4:35 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

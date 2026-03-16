@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1153955,
+  "num_followers": 1154117,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABvOXB+KAYv470/2QJ4Q+oG",
+  "snapshot_id": "abSlAAAAAAD14uSf/fyEV07xCfnJZDKN",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 274666,
-      "name": "Over & Over - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say You Will",
         "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 245626,
       "name": "Bleed to Love Her",
       "url": "https://open.spotify.com/track/2hl6XZ8nztFfVDv2qHPnwt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 274666,
+      "name": "Over & Over - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tusk (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 294053,
-      "name": "Angel - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bare Trees",
         "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 190666,
       "name": "Sunny Side of Heaven",
       "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tusk (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 294053,
+      "name": "Angel - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6HKx5ERVgH7NYmYo9iAlMH"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Think About Me - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
+      "duration_ms": 283013,
+      "name": "Sisters of the Moon - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 283013,
-      "name": "Sisters of the Moon - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv"
+      "duration_ms": 164333,
+      "name": "Think About Me - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1Q5kDGREVR7mcTjhvuFLm1"
     },
     {
       "added_at": null,

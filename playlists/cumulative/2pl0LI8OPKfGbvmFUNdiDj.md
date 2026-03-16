@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-389 songs - 21 hr 47 min
+390 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-09 | 2026-01-05 |
 | [Destino](https://open.spotify.com/track/3ZzXAcYmNtY1LaEXvEKzI8) | [Harmada](https://open.spotify.com/artist/7n7lcKO8out5UWWm8aqhNP), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [Os Fugitivos](https://open.spotify.com/album/5dEBKULs3xbFyKxyMA1rEk) | 3:54 | 2025-11-01 | 2025-12-01 |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-30 | 2026-01-05 |
+| [Do It Again?](https://open.spotify.com/track/0Awhj0KTKBSgsXNeNmWs6d) | [Jason Patel](https://open.spotify.com/artist/5UmwsM87WwV6YfTQuIvPUc) | [Do It Again?](https://open.spotify.com/album/3CS8kwJH56scHg7V1Yippu) | 2:31 | 2026-03-15 |  |
 | [do you think about us?](https://open.spotify.com/track/4w8aURQyqUbnlOjNG6dLa3) | [Tapeweather](https://open.spotify.com/artist/7bB7CFWjPlDD8fZKUMwg2w) | [do you think about us?](https://open.spotify.com/album/4X3oFaVDqbBsVQZ2wSmjs2) | 2:37 | 2025-11-08 | 2025-12-01 |
 | [Domingo](https://open.spotify.com/track/4qO1m5y156W7soVvAWuDeC) | [sr fary](https://open.spotify.com/artist/2m9S3eJX7a6OUpVoGaQH2D), [Fly so High](https://open.spotify.com/artist/1waM7fr0spkJ0HXNT0FsTo), [Shoiba](https://open.spotify.com/artist/2theeMUQ3nyEpRrhy9EAkF) | [No Todos Los Días Son Lunes](https://open.spotify.com/album/3kJIuLI3wqRYLx32AAD3g3) | 3:15 | 2025-11-03 | 2025-12-01 |
 | [Dope Sick](https://open.spotify.com/track/4PRp06peNwtw92ENEAfQpc) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Dope Sick](https://open.spotify.com/album/4FSfK9VoOCnjZ08xn28xNy) | 2:56 | 2025-12-20 | 2026-01-15 |

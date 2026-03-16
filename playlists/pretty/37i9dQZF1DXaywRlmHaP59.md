@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > Discover the best hits of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,106 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,174 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 9 | [El Bint El Awiye](https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Bint El Awiye](https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF) | 3:34 |
 | 10 | [Albi Mertah](https://open.spotify.com/track/7AR95BVtIccdWjaWD2iuWX) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Albi Mertah](https://open.spotify.com/album/4LhiXTMY6udx0hlECrTfb2) | 3:14 |
 | 11 | [Chou B Oul](https://open.spotify.com/track/3svYE1Y2bTBiLWYeKukRxF) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Chou B Oul](https://open.spotify.com/album/79AMPUKJDB8qM7YhWJKi38) | 3:05 |
-| 12 | [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:54 |
+| 12 | [١٠٠ احساس جديد](https://open.spotify.com/track/4VnXCSGvrav1Ifwj4bX3lo) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [١٠٠ احساس جديد](https://open.spotify.com/album/4uLvWJSmqnACGZat3wsOeS) | 2:55 |
 | 13 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 |
 | 14 | [Men Nazra](https://open.spotify.com/track/03IOx6TU8DU7p7TwLPdjI2) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Men Nazra](https://open.spotify.com/album/3gQgJqfwjhLlSVwRe4elqK) | 2:52 |
 | 15 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |

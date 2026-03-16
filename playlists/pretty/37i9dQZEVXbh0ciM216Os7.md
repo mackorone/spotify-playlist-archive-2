@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 38 | [High Life](https://open.spotify.com/track/6HMhF98nQ0TegfgHK72cHS) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tripp Locc](https://open.spotify.com/artist/3FPmICRL5JMByNuyBR8rHt), [Wayniac](https://open.spotify.com/artist/4t4zVYWPMPWGHv57NevcjG), [Young Sagg](https://open.spotify.com/artist/7wGyQjvU5B5Qd2ev3wgNaj) | [High Life](https://open.spotify.com/album/0Z0W1BIboCcAI2Tdv0dgG9) | 2:49 |
 | 39 | [No Disrespect](https://open.spotify.com/track/21qvY7NRlOrdr9QOQUdw2S) | [Kobie Dee](https://open.spotify.com/artist/3hjzcsAgsPSXyF6zuAM4tO), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC) | [No Disrespect](https://open.spotify.com/album/4dcK8N9276yHswSlErvofy) | 3:12 |
 
-Snapshot ID: `abOLwAAAAACCv0k+5RG+bYRB9G+5K46c`
+Snapshot ID: `abOZ0AAAAACN/DoeFUplACtYn1Win2e/`

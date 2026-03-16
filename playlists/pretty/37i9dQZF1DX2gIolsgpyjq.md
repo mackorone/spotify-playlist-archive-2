@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Zoumer
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,249 likes - 143 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,252 likes - 143 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

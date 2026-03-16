@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,391 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,414 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [JJC](https://open.spotify.com/track/0NBEhowJUHYLWhe1BNGLDa) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [JJC](https://open.spotify.com/album/65Xb0BUvLHFqXhF3Ev0slx) | 3:42 |
 | 60 | [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 |
 
-Snapshot ID: `AAAAAPQ9asWPoI0JT6dBMm5wXiOpqKZI`
+Snapshot ID: `AAAAAAxi/GRtf1oaljEQ8mSivLMFtjm7`

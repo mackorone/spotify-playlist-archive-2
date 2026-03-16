@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 47 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
 | 48 | [Met Yet](https://open.spotify.com/track/2zAfz15lpOwc1HQSKi6TJR) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [Met Yet](https://open.spotify.com/album/0em5q8EqeBo9ElKOAiUJTu) | 2:35 |
 | 49 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
-| 50 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:45 |
-| 51 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 |
+| 50 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 |
+| 51 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:45 |
 | 52 | [Love Me Fair](https://open.spotify.com/track/6whgc901oHG6KU7zgi7Wrl) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Tetric](https://open.spotify.com/artist/0juduZf6RkEeIkMSJMpDaS), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [Love Me Fair](https://open.spotify.com/album/7lRR58WWGvhoNezEqRDclz) | 2:40 |
 | 53 | [Was zu verlieren](https://open.spotify.com/track/1WTCA1SufiRLvmWo528Yzf) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:28 |
 | 54 | [Coastline](https://open.spotify.com/track/3uwWGnv59syk9cAbN2HXph) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Coastline](https://open.spotify.com/album/6zIMOxR0eTVMysptGAncV1) | 2:38 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 73 | [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Fischer](https://open.spotify.com/artist/7CVRHQND8mur2yRUG8st4m) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 |
 | 74 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AcMJAAAAAAA2PuVy8zYSjfgP/5HEfQ9q`
+Snapshot ID: `AcMOoAAAAAAiCytlYms0+17WslrnVgFP`

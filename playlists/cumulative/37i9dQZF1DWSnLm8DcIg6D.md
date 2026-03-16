@@ -2,7 +2,7 @@
 
 ### [hot girl sh\*t](https://open.spotify.com/playlist/37i9dQZF1DWSnLm8DcIg6D)
 
-> the soundtrack to your girl dinner\. cover: Brazen Barbie
+> the soundtrack to your girl dinner\. cover: Charli XCX
 
 342 songs - 17 hr 19 min
 

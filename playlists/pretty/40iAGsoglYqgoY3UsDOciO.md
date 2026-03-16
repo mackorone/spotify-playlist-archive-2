@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 647 likes - 505 songs - 1 day 0 hr 22 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 650 likes - 506 songs - 1 day 0 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -513,5 +513,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 503 | [Clean My Cuts II](https://open.spotify.com/track/1rLeYqrwDshfgsi6SYmkem) | [Frvrmars](https://open.spotify.com/artist/4rR3lkqLfQpS4UO6fFnWri) | [Clean My Cuts II](https://open.spotify.com/album/0BjotdDyebDkiFoo6AUQOw) | 1:43 |
 | 504 | [Sacrifice](https://open.spotify.com/track/2z0GmPAHek5JOcXH1ANfpH) | [MAXZY](https://open.spotify.com/artist/0Q7IxVepXapwhfsHtHZdPo) | [Sacrifice](https://open.spotify.com/album/2jSszvlN2bOYctf59rUShe) | 2:18 |
 | 505 | [Vodka Gimlet](https://open.spotify.com/track/4SAUPzFcpA73GE1oYsFgyy) | [TheJesterFeste](https://open.spotify.com/artist/6vz1X4moDOarYoxIVdZDvY) | [Vodka Gimlet](https://open.spotify.com/album/1GZehL05fyv9OicjDwCWaW) | 2:46 |
+| 506 | [Abstinencia](https://open.spotify.com/track/3AA9nphIOpH8IaYeQLxk6i) | [MalinChe](https://open.spotify.com/artist/1DkOIOqrPWo2EOBYtGs0B0), [Rafa de la Santa](https://open.spotify.com/artist/6IHhPiFCfoYl06Fa3dmEHB) | [Abstinencia](https://open.spotify.com/album/2KnhPNwveiaJAISHihQLt0) | 3:47 |
 
-Snapshot ID: `AAABmZgpR/XBA1mKoKkUJTw86ocbHLan`
+Snapshot ID: `AAABmiACGNOKFAMoxl4ry4J8rOezz4a6`

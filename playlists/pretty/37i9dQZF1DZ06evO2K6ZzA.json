@@ -1,12 +1,12 @@
 {
   "description": "This is sombr. The essential tracks, all in one playlist.",
-  "num_followers": 96579,
+  "num_followers": 96784,
   "original_name": "This Is sombr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABtDN+867UwLC4L93exZS7t",
+  "snapshot_id": "abSlAAAAAABBr6DkSgboy2USgzq/YaU3",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "makes me want you",
-        "url": "https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 160923,
-      "name": "makes me want you",
-      "url": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "perfume",
         "url": "https://open.spotify.com/album/7FUdBkpRnlJxHYxlkzka5i"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 191240,
       "name": "perfume",
       "url": "https://open.spotify.com/track/4l0CzhzfGxQBPTbknrq427"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "makes me want you",
+        "url": "https://open.spotify.com/album/1D8iT4RFF0y4eF2nc6Nssx"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 160923,
+      "name": "makes me want you",
+      "url": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "through it all",
-        "url": "https://open.spotify.com/album/721nbCDpYtdceidRoJAOki"
+        "name": "nothing left to say",
+        "url": "https://open.spotify.com/album/5Tm8qe8ULxBORiRswEbuNU"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 210943,
-      "name": "through it all",
-      "url": "https://open.spotify.com/track/6JHe836Jxc4Uilqe7fR5zJ"
+      "duration_ms": 220363,
+      "name": "nothing left to say",
+      "url": "https://open.spotify.com/track/5wHxolLhv57y3eGKtndvwE"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "nothing left to say",
-        "url": "https://open.spotify.com/album/5Tm8qe8ULxBORiRswEbuNU"
+        "name": "through it all",
+        "url": "https://open.spotify.com/album/721nbCDpYtdceidRoJAOki"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 220363,
-      "name": "nothing left to say",
-      "url": "https://open.spotify.com/track/5wHxolLhv57y3eGKtndvwE"
+      "duration_ms": 210943,
+      "name": "through it all",
+      "url": "https://open.spotify.com/track/6JHe836Jxc4Uilqe7fR5zJ"
     },
     {
       "added_at": null,

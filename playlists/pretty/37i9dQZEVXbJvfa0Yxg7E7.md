@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Norway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,479 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,496 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 | 49 | [KØDD HJEMMESNEKK](https://open.spotify.com/track/4LvChklH91BXOsCuDqTYYk) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU), [Hauk](https://open.spotify.com/artist/3JWinOLLAZmuEynr5CwBHI) | [KØDD](https://open.spotify.com/album/4BD6aUYVYXGGMzc8sSl6dP) | 3:18 |
 | 50 | [SEES IGJEN](https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [SEES IGJEN](https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD) | 3:27 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

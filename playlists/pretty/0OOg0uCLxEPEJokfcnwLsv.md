@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 793 likes - 81 songs - 5 hr 4 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 801 likes - 82 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 79 | [The Mess & The Martyr](https://open.spotify.com/track/4neyUrx2A4XSyKLeEs0INN) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [The Mess & The Martyr](https://open.spotify.com/album/2Q6W8VUXPrbYI968Z1sdUk) | 3:57 |
 | 80 | [The Runaround](https://open.spotify.com/track/0ORTqNtEa0vnT28dUYgGEq) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [The Runaround](https://open.spotify.com/album/7bRIOQfdUKMVvBcnkfpzZJ) | 3:31 |
 | 81 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 |
+| 82 | [Anemia](https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Anemia](https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ) | 2:43 |
 
-Snapshot ID: `AAAFWa1ygW6FRgxuFftuR+V/dzRh3A3w`
+Snapshot ID: `AAAFWlX57No1Xuy3mtI1T10lgzy8ueFC`

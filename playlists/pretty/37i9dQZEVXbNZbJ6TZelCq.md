@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,855 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,860 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [PLAYBOY \(Studio Session \#10\)](https://open.spotify.com/track/6jWFXPkTAxhBrprdp1Iuhe) | [AdelinMM](https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU), [SEEK TV](https://open.spotify.com/artist/3pwuTwTIBJjyHzzn2AHCRv) | [PLAYBOY \(Studio Session \#10\)](https://open.spotify.com/album/3llu9X0rK1vdYEBZ5m1I6y) | 2:24 |
 | 50 | [Hai tu Maria](https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Hai tu Maria](https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k) | 2:19 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

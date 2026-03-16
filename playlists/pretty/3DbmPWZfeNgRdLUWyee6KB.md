@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 147 songs - 8 hr 35 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 149 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 145 | [Waada Hai Mera](https://open.spotify.com/track/6s0R8tQqKlwMNgcsbNLAZT) | [Melodic Devesh](https://open.spotify.com/artist/2WAxrHRaxuJMtEHNF31qjr), [Akshar Agarwal](https://open.spotify.com/artist/6p7bOaAycZeJNqp29NYPhA) | [Waada Hai Mera](https://open.spotify.com/album/1a01ObNJnZWrFxuDPUas4n) | 2:40 |
 | 146 | [I See You Once More](https://open.spotify.com/track/0KuDa1TMoMh9jEYV0gtEzR) | [Zaem Music](https://open.spotify.com/artist/6CAVaVhGT7vBdU8t03ISdJ) | [Burning in Silence](https://open.spotify.com/album/33xilSeFnzEolLFgF0RFTA) | 3:29 |
 | 147 | [Habitar](https://open.spotify.com/track/0YcGS5JFK7Cfr1kxRmjeq4) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Habitar](https://open.spotify.com/album/2Nz486xwXRIxTzrpgCWSEm) | 3:40 |
+| 148 | [Go To Mars](https://open.spotify.com/track/1hdZyrKOcW5YR9VbQ2cRLO) | [LGJ](https://open.spotify.com/artist/61bVVHlWXm0W0GSU9LiwxO), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Go To Mars](https://open.spotify.com/album/4uB6KPZUt2bKSrt5SceOQr) | 3:10 |
+| 149 | [Cut You Off](https://open.spotify.com/track/5OQ74RnqKC3l3wpjoRxpAG) | [Maren Schlicht](https://open.spotify.com/artist/6Oxro0jNNoWSiHuIJfeYuh) | [Cut You Off](https://open.spotify.com/album/58DLFT6hE64zU4hElyDYmi) | 2:20 |
 
-Snapshot ID: `AAARwr+tTccD3tbJq7IYUOVPjPPVIYPR`
+Snapshot ID: `AAARxCl6HdXfQ41C8C0ydjTmzPdgtYez`

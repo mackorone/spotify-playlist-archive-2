@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1335,
+  "num_followers": 1334,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAAQ38HmHyfpermtxrqeqH7c",
+  "snapshot_id": "abSlAAAAAABVsQlXPre3WiPSVytziFhE",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibes (feat. Sam Wise & Venna)",
         "url": "https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc"
       },
@@ -691,26 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready When You Are",
-        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 175526,
-      "name": "ELEVATOR",
-      "url": "https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg"
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
     },
     {
       "added_at": null,
@@ -735,6 +711,30 @@
       "duration_ms": 164045,
       "name": "july (feat. Tiana Major9 & Venna)",
       "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 175526,
+      "name": "ELEVATOR",
+      "url": "https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg"
     },
     {
       "added_at": null,

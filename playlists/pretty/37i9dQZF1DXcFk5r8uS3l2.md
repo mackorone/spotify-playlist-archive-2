@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,436 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067,484 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 |
 | 100 | [Not Bad](https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC) | [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR), [Shelley Rena](https://open.spotify.com/artist/3uv1vlPPWpXtv6qCpqT9JQ), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Not Bad](https://open.spotify.com/album/2iApN2bz8aHffvQX5Rh4mm) | 3:05 |
 
-Snapshot ID: `AAAAALV+FX+jgic3doZvcis7Hy8LPyAt`
+Snapshot ID: `AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP`

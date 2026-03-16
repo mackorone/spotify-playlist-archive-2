@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,904 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,878 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 | 99 | [nie wieder normal](https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [nie wieder normal](https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav) | 3:17 |
 | 100 | [Eh zu kurz](https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [Eh zu kurz](https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G) | 2:24 |
 
-Snapshot ID: `AAAAANfMn4Yjr2yulssnqjjwtIpNquYg`
+Snapshot ID: `AAAAAFS+jxogpOgPVg/TcrShIl04LiEq`

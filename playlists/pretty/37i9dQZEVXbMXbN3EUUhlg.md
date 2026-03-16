@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,828,670 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,828,986 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 | 49 | [Gangstar](https://open.spotify.com/track/4tgLMOHoZlWRmEMclryt6T) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Real Fuba](https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb), [Elow](https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk), [Kabeh](https://open.spotify.com/artist/4erceoOpkoxOHXYZinmrX8), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j), [NovaChance](https://open.spotify.com/artist/7gQSUv8yp5lKdxra1Dvk9L) | [Gangstar](https://open.spotify.com/album/1QPK1wuEIgZH363cYwa9ia) | 4:51 |
 | 50 | [Arrependidaço](https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Sentimento](https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E) | 3:00 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

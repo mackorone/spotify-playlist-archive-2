@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Nonpalidece & Tippy I\-Grade
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,540 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,471 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 |
 | 100 | [El Baile y El Salón](https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Baile y El Salón](https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi) | 4:51 |
 
-Snapshot ID: `AAAAAP8hr5RB2qCuIV5kBq7SJatEwKrq`
+Snapshot ID: `AAAAACgIi2YNnRktA198IdITiuxFlE0J`

@@ -1,12 +1,12 @@
 {
   "description": "Your daily update of the most played tracks right now - India.",
-  "num_followers": 612791,
+  "num_followers": 612901,
   "original_name": "Top 50 - India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-03-14 14:16:54",
@@ -47,8 +47,8 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Gehra Hua (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW"
       },
       "artists": [
         {
@@ -69,8 +69,8 @@
         }
       ],
       "duration_ms": 362400,
-      "name": "Gehra Hua",
-      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
+      "name": "Gehra Hua (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
     },
     {
       "added_at": "2026-03-14 14:16:54",
@@ -223,8 +223,8 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Shararat (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/4Rvf3K8yBrVvhQrWVEfBG1"
       },
       "artists": [
         {
@@ -241,8 +241,8 @@
         }
       ],
       "duration_ms": 224083,
-      "name": "Shararat",
-      "url": "https://open.spotify.com/track/0R7grQWU1dRxiOQGIqZm0Z"
+      "name": "Shararat (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/0uvnGQnVe313EXePbRnZEH"
     },
     {
       "added_at": "2026-03-14 14:16:54",
@@ -439,8 +439,8 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/5FKHnXMAYzAkjMQviPEA74"
       },
       "artists": [
         {
@@ -477,8 +477,8 @@
         }
       ],
       "duration_ms": 155590,
-      "name": "Dhurandhar - Title Track",
-      "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
+      "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
     },
     {
       "added_at": "2026-03-14 14:16:54",
@@ -599,14 +599,10 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
+        "name": "Aaya Sher (From \"The Paradise\")",
+        "url": "https://open.spotify.com/album/69QBcx2mDOHFe2XOUhUTz9"
       },
       "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
         {
           "name": "Jangi Reddy",
           "url": "https://open.spotify.com/artist/576GMrbKBURxmaLAJXMqCp"
@@ -616,13 +612,17 @@
           "url": "https://open.spotify.com/artist/4UCG3GFuPR4k19M40Mzxip"
         },
         {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
           "name": "Kasarla Shyam",
           "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
       "duration_ms": 286917,
-      "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/4kV0ugCwyF7OAb3huIdThG"
+      "name": "Aaya Sher (From \"The Paradise\")",
+      "url": "https://open.spotify.com/track/4pr6UpTPTsuzU6gzB2hpPv"
     },
     {
       "added_at": "2026-03-14 14:16:54",
@@ -755,30 +755,30 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Naal Nachna (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/70rE3JRdyIo7TmCjSTT15z"
       },
       "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/2dCS8oFU3rCWq0AhkZV1Sr"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        },
         {
           "name": "Shashwat Sachdev",
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Afsana Khan",
-          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
-        },
-        {
           "name": "Irshad Kamil",
           "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Reble",
-          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
         }
       ],
       "duration_ms": 155142,
-      "name": "Naal Nachna",
-      "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
+      "name": "Naal Nachna (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q"
     },
     {
       "added_at": "2026-03-14 14:16:54",
@@ -803,8 +803,8 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Lutt Le Gaya (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/6uJbkCzi3zdtdMsqWrwvFY"
       },
       "artists": [
         {
@@ -817,8 +817,8 @@
         }
       ],
       "duration_ms": 253801,
-      "name": "Lutt Le Gaya",
-      "url": "https://open.spotify.com/track/2dQMisG0lyz6Z8J4zYdAsG"
+      "name": "Lutt Le Gaya (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/6NAtrsDcRI5YkC6vGvPF6U"
     },
     {
       "added_at": "2026-03-14 14:16:54",
@@ -867,8 +867,8 @@
     {
       "added_at": "2026-03-14 14:16:54",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Dhurandhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6"
       },
       "artists": [
         {
@@ -877,7 +877,7 @@
         },
         {
           "name": "Shahzad Ali",
-          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+          "url": "https://open.spotify.com/artist/1xF1WULzvp8zdsp60CJh2u"
         },
         {
           "name": "Subhadeep Das Chowdhury",
@@ -902,7 +902,7 @@
       ],
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
-      "url": "https://open.spotify.com/track/7DonHcAdu5FHzLNESEEOuj"
+      "url": "https://open.spotify.com/track/0qPgK3FPlATwPMZXznLxea"
     },
     {
       "added_at": "2026-03-14 14:16:54",

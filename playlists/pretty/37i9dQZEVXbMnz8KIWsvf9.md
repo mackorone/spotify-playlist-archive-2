@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnz8KIWsvf9.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,452 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,496 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnz8KIWsvf9.md) - [plain]
 | 49 | [อยู่ได้แล้ว](https://open.spotify.com/track/7b6fnnFEurhwq7E38VJBJP) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ตึกโป๊ะ](https://open.spotify.com/album/3a2hhAjhY2L8E32F9fjMFz) | 4:13 |
 | 50 | [รักใครไม่ไหว](https://open.spotify.com/track/3ZxGBncHdyXG7Mxa7d429r) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [III](https://open.spotify.com/album/59hXVrRW78L0BTtrZ1pn9M) | 4:10 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

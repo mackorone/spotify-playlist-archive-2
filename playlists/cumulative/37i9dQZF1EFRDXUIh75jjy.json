@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Worth Your Wild EP",
+        "url": "https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150183,
+      "name": "B.O.A.T.",
+      "url": "https://open.spotify.com/track/44d1x3XP5dp71SneKB2tJE"
+    },
+    {
+      "album": {
         "name": "Back in My Arms",
         "url": "https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG"
       },
@@ -4705,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW"
+    },
+    {
+      "album": {
         "name": "Soft",
         "url": "https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k"
       },
@@ -4984,6 +5020,24 @@
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
+    },
+    {
+      "album": {
+        "name": "Stupid Kids",
+        "url": "https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168702,
+      "name": "Stupid Kids",
+      "url": "https://open.spotify.com/track/2zzP8TyPLzrc3zauVDaCLM"
     },
     {
       "album": {
@@ -5630,6 +5684,24 @@
       "duration_ms": 191428,
       "name": "WYA",
       "url": "https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc"
+    },
+    {
+      "album": {
+        "name": "YDH",
+        "url": "https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2026-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197043,
+      "name": "YDH",
+      "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
     },
     {
       "album": {

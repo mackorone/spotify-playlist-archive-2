@@ -4,7 +4,7 @@
 
 > Mental illness
 
-71 songs - 3 hr 57 min
+72 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/1jiOzPL9XnIuDemSMsuFmP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits In Japan](https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2) | 4:32 | 2023-03-21 |  |
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
 | [there is a rock in my house](https://open.spotify.com/track/7r4beojXQxicLWkBh32idX) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [there is a rock in my house](https://open.spotify.com/album/5UD6aBZuA7ajJjsoD5hJMQ) | 1:50 | 2023-03-28 |  |
+| [Tucson Fog](https://open.spotify.com/track/5qxeZ6YpXUiNYLlaQOeLGu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/1MbrGdr3eLlzIZs4xW5CIZ) | 2:15 | 2026-03-16 |  |
 | [Until I Am Whole](https://open.spotify.com/track/6Rg82S9vW3Q91ZZaRjwmen) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 2:48 | 2025-02-12 |  |
 | [Vampires Will Never Hurt You](https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:26 | 2024-10-27 |  |
 | [Wait Actually Yeah No](https://open.spotify.com/track/2iXItGd5Z7N8UyljFsS3nt) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:20 | 2023-03-26 |  |

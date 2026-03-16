@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-784 songs - 1 day 22 hr 8 min
+786 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE) | 3:52 | 2026-01-20 | 2026-02-20 |
 | [Cuando llegue la noche](https://open.spotify.com/track/0hZuzpkcpgYhHbAV22Wiwn) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Cuando llegue la noche](https://open.spotify.com/album/5jkZfIJPU7XTRtfB82hbqL) | 3:48 | 2026-03-02 |  |
 | [Cucumber](https://open.spotify.com/track/7yxTfhAdHajAjEZD6Vin5V) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Rain](https://open.spotify.com/album/77K2J6UtMZJiWvbFVuPUQB) | 2:23 | 2026-01-15 | 2026-02-20 |
+| [Cut You Off](https://open.spotify.com/track/5OQ74RnqKC3l3wpjoRxpAG) | [Maren Schlicht](https://open.spotify.com/artist/6Oxro0jNNoWSiHuIJfeYuh) | [Cut You Off](https://open.spotify.com/album/58DLFT6hE64zU4hElyDYmi) | 2:20 | 2026-03-15 |  |
 | [Czarny świat](https://open.spotify.com/track/1pgIUKJKQhh4q1U9gBKaj1) | [Biker](https://open.spotify.com/artist/7edqs6CgLIQ0KUNUP1guyo) | [Czarny świat](https://open.spotify.com/album/3NpJbHzvkqGCJXgxjE1qwn) | 4:54 | 2026-03-03 |  |
 | [Danza della luna](https://open.spotify.com/track/4gDIwU7JzlqxOdH3nnxRg9) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Lorenzo Rundo](https://open.spotify.com/artist/79coFumyLISx5dFLfeoSVa) | [Mythos: Metamorphosis](https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP) | 3:49 | 2023-04-20 | 2025-11-29 |
 | [Day One](https://open.spotify.com/track/3MQ7aLt6WdX4JwWTNkEU1E) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Losing CTRL](https://open.spotify.com/album/10uCN18aqpvdTtxvc0syKN) | 3:31 | 2026-03-13 |  |
@@ -235,6 +236,7 @@
 | [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 | 2026-02-19 |  |
 | [Giammatteo](https://open.spotify.com/track/7rqiD3ucbslzxgY7MV8z8Q) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Giammatteo](https://open.spotify.com/album/0atOfzRYVlb5JyOUgu6dgd) | 3:35 | 2026-01-05 | 2026-02-03 |
 | [Gitani di camargue](https://open.spotify.com/track/4ebdvjJR1ILzkbmZwrodlJ) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Molòn Labè \(Come and Get Them!\)](https://open.spotify.com/album/7IaWrlaoTDtILz5I2fzDY7) | 3:53 | 2023-04-20 | 2025-11-29 |
+| [Go To Mars](https://open.spotify.com/track/1hdZyrKOcW5YR9VbQ2cRLO) | [LGJ](https://open.spotify.com/artist/61bVVHlWXm0W0GSU9LiwxO), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Go To Mars](https://open.spotify.com/album/4uB6KPZUt2bKSrt5SceOQr) | 3:10 | 2026-03-15 |  |
 | [Godforsaken](https://open.spotify.com/track/6qxAEAoSzeXERxdbjxIrVn) | [Dame Fawn Denier](https://open.spotify.com/artist/6lAy6E6eYa6Feap35sZy6N) | [Godforsaken](https://open.spotify.com/album/7atHBCBbpuTD83eGd95aqC) | 3:11 | 2026-02-17 | 2026-03-15 |
 | [Gods of Sicily](https://open.spotify.com/track/6X0Tm9vCzFUHRynEDr4Q9G) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:02 | 2023-04-20 | 2025-11-29 |
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |

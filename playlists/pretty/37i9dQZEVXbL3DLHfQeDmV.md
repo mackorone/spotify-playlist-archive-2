@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3DLHfQeDmV.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,023 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,024 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL3DLHfQeDmV.md) - [plain]
 | 49 | [AWGAZI](https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP) | [AWGAZI](https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW) | 2:46 |
 | 50 | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [HEAVENLY FATHER \- Mediolanum, Milan, IT\. Nov 05 2022](https://open.spotify.com/album/3XKBl8eJQzEddmR2tR1Ww0) | 4:00 |
 
-Snapshot ID: `MUjIGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUoZmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

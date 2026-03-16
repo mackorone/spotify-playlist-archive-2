@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3539,
+  "num_followers": 3540,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAAB/5Dya2aixbFLgfxD36Czc",
+  "snapshot_id": "abSlAAAAAAADPBoN9VmUe0yvS0pf1Dt/",
   "tracks": [
     {
       "added_at": null,
@@ -368,7 +368,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Two Guns To The Temple",
-      "url": "https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N"
+      "duration_ms": 328773,
+      "name": "Inferium",
+      "url": "https://open.spotify.com/track/3VEfpFBPKMnsbhrgHXw1Bl"
     }
   ],
   "unique_name": "This Is Finch",

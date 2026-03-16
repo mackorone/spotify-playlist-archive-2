@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAACURHHIu728nZXd2Hr/JlnO",
+  "snapshot_id": "abSlAAAAAACmsbvDFiBqqt373ZgDFpHN",
   "tracks": [
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "USB002 REMIXES",
-        "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
+        "name": "Facilita (Mc Dricka remix)",
+        "url": "https://open.spotify.com/album/4qRNcUKlQDgrvrIae2fEey"
       },
       "artists": [
         {
@@ -254,7 +254,7 @@
       ],
       "duration_ms": 187500,
       "name": "Facilita - Mc Dricka remix",
-      "url": "https://open.spotify.com/track/4qSTJG11XjQKE6DSL0e2SS"
+      "url": "https://open.spotify.com/track/2rspmy4gPl0yWUFajxcQ1f"
     },
     {
       "added_at": null,
@@ -927,6 +927,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eu N\u00e3o Sou Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "LeoZera",
+          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Eu N\u00e3o Sou Dif\u00edcil",
+      "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 435565,
       "name": "Festa Linda 2",
       "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu N\u00e3o Sou Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "LeoZera",
-          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "Eu N\u00e3o Sou Dif\u00edcil",
-      "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
     },
     {
       "added_at": null,
@@ -1111,26 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
         "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 197480,
       "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
       "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1191,6 +1191,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Sigilo no Segredo",
+        "url": "https://open.spotify.com/album/5coCsYnf3UdATTSaAoqzau"
+      },
+      "artists": [
+        {
+          "name": "DJ Jo\u00e3o Paulo",
+          "url": "https://open.spotify.com/artist/7qt4aKJYleaq35trtn89sr"
+        },
+        {
+          "name": "MC C4",
+          "url": "https://open.spotify.com/artist/3pyz96JCKHG8Z68MfuzGoo"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "No Sigilo no Segredo",
+      "url": "https://open.spotify.com/track/3MBfJQVqE5CPyfcRwFKB2L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meca Lacrada (Batom da Virginia)",
         "url": "https://open.spotify.com/album/0TcGGveayck1u6IIPjVF5Z"
       },
@@ -1219,30 +1243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
-      },
-      "artists": [
-        {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi"
       },
@@ -1267,6 +1267,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Na Chapa",
         "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
       },
@@ -1283,30 +1307,6 @@
       "duration_ms": 125538,
       "name": "Na Chapa",
       "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Sigilo no Segredo",
-        "url": "https://open.spotify.com/album/5coCsYnf3UdATTSaAoqzau"
-      },
-      "artists": [
-        {
-          "name": "DJ Jo\u00e3o Paulo",
-          "url": "https://open.spotify.com/artist/7qt4aKJYleaq35trtn89sr"
-        },
-        {
-          "name": "MC C4",
-          "url": "https://open.spotify.com/artist/3pyz96JCKHG8Z68MfuzGoo"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "No Sigilo no Segredo",
-      "url": "https://open.spotify.com/track/3MBfJQVqE5CPyfcRwFKB2L"
     },
     {
       "added_at": null,

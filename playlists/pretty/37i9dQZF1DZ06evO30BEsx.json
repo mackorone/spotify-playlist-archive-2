@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1908,
+  "num_followers": 1911,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abNTgAAAAABEcExhDCECXLY1fOungwXO",
+  "snapshot_id": "abSlAAAAAABdZkxoEZ+y5xuk2ruP0l8K",
   "tracks": [
     {
       "added_at": null,
@@ -791,6 +791,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Orch. B\u00fcsser)",
+      "url": "https://open.spotify.com/track/5ibriUkbLukCioQsy9ryEX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Adagios",
         "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
       },
@@ -843,34 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Orch. B\u00fcsser)",
-      "url": "https://open.spotify.com/track/5ibriUkbLukCioQsy9ryEX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -899,6 +899,34 @@
       "duration_ms": 181197,
       "name": "Cohen / Orch. Ducros: Hallelujah",
       "url": "https://open.spotify.com/track/5LVKR4ytJ1vn9H4dD5GwhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Douglas Boyd",
+          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        }
+      ],
+      "duration_ms": 372066,
+      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -951,34 +979,6 @@
       "duration_ms": 687426,
       "name": "Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97 \"Archduke\": II. Scherzo. Allegro",
       "url": "https://open.spotify.com/track/2tTGcRH0xsIOulHZxBlf3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
-      },
-      "artists": [
-        {
-          "name": "Jules Massenet",
-          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Douglas Boyd",
-          "url": "https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        }
-      ],
-      "duration_ms": 372066,
-      "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
-      "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
     },
     {
       "added_at": null,
@@ -1171,6 +1171,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sensations",
+        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Nessun dorma (From \"Turandot\")",
+      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Capucelli",
         "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
       },
@@ -1215,34 +1243,6 @@
       "duration_ms": 342626,
       "name": "Boreas",
       "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sensations",
-        "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Nessun dorma (From \"Turandot\")",
-      "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
     },
     {
       "added_at": null,
@@ -1319,26 +1319,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+        "name": "Sensations - La vie en rose",
+        "url": "https://open.spotify.com/album/3pe7hdB8lRhFolNvaV0Ubi"
       },
       "artists": [
         {
-          "name": "Quenton Blache",
-          "url": "https://open.spotify.com/artist/00F2v2jg4UKg5t0tT0RV5T"
+          "name": "Louiguy",
+          "url": "https://open.spotify.com/artist/5YBGb1FUahcLMQj9F4C6B3"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
         }
       ],
-      "duration_ms": 230880,
-      "name": "Of Wind and Rain",
-      "url": "https://open.spotify.com/track/1UMVBR4O1BhZSRkgzFZPAM"
+      "duration_ms": 264013,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4uDiP7xdjkD5fYhS6fypp8"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

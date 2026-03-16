@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-304 songs - 15 hr 32 min
+308 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Angry Woman](https://open.spotify.com/track/79DHTTGvJa2qnooWWYMFPn) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/3zr73Sh6KeejozhC4mGR8r) | 2:33 | 2025-11-02 | 2025-11-14 |
 | [Arrows \(Die For That Man\)](https://open.spotify.com/track/1jaC5Z1mhzVQVJkOgzcFIf) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Arrows \(Die For That Man\)](https://open.spotify.com/album/7JNiCSkz7KUF87H43PoUqw) | 3:51 | 2025-09-24 | 2025-10-06 |
 | [Arrows \(Die For That Man\)](https://open.spotify.com/track/2uLn4xSIDBsv0No9plVAFZ) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:51 | 2025-10-05 |  |
+| [B.O.A.T.](https://open.spotify.com/track/44d1x3XP5dp71SneKB2tJE) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 2:30 | 2026-03-15 |  |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2024-06-07 |  |
 | [Bad for Business](https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 | 2024-06-07 |  |
 | [Bad Karma](https://open.spotify.com/track/2wukQYZ4iFRYtlWPLGCdLG) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Bad Karma](https://open.spotify.com/album/5mKk4OvQLooCtzMK8p33Jp) | 3:14 | 2024-06-07 |  |
@@ -260,6 +261,7 @@
 | [She’s So Pretty](https://open.spotify.com/track/4te3Z4fg2MSfdhCX183u5u) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:51 | 2025-11-14 |  |
 | [Shimmering Seas \- From "Disney Cruise Line"/25th Anniversary Theme](https://open.spotify.com/track/5LbetxUPzDO4zL46yFClNq) | [Michelle Zarlenga](https://open.spotify.com/artist/5TbAVEN0oQUPFfJZy0JP3q) | [Shimmering Seas \(From "Disney Cruise Line"/25th Anniversary Theme\)](https://open.spotify.com/album/0uoA6FdN5MJkHJEphNtQdu) | 2:53 | 2024-06-07 |  |
 | [Sick of Myself](https://open.spotify.com/track/52C1BJ2z9bv6vpuZdu53Ov) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 2:27 | 2025-12-17 |  |
+| [So Many Ways](https://open.spotify.com/track/3YvLgFx7MCEYbwkbJwIGOW) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [So Many Ways](https://open.spotify.com/album/2wTLPH7cnRqnhdFNVFcqFC) | 3:32 | 2026-03-15 |  |
 | [Soft](https://open.spotify.com/track/5a59o1acxGZ0txvNzumplU) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 2:58 | 2025-10-18 |  |
 | [SOFT ASS BITCH](https://open.spotify.com/track/1XT2UmApd8ntFrw2j52GCB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Articulate Excuses](https://open.spotify.com/album/6zYppiOb1FMO7I9YRoeLio) | 2:43 | 2025-05-22 |  |
 | [something worth working on](https://open.spotify.com/track/1nSbS97RaTSBF0ouJyoXM5) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [something worth working on](https://open.spotify.com/album/1J2zpeRhVvBCggMKbLIGIT) | 2:59 | 2024-06-07 |  |
@@ -275,6 +277,7 @@
 | [Sting](https://open.spotify.com/track/0qrB07ZhhfBsVtx02TImSN) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Sting](https://open.spotify.com/album/3Gl32Ym4odbIuYwaoAkQQ6) | 3:37 | 2025-09-24 |  |
 | [Stop](https://open.spotify.com/track/3XDp4mm801gq45hqzmEr0b) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [West Coast](https://open.spotify.com/album/5Z5EqPY4Nxfi2CPDNs3EnO) | 3:08 | 2024-06-07 |  |
 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-10-18 |  |
+| [Stupid Kids](https://open.spotify.com/track/2zzP8TyPLzrc3zauVDaCLM) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Stupid Kids](https://open.spotify.com/album/5KSvg69RiDoSqqXQZNq8wd) | 2:48 | 2026-03-15 |  |
 | [Sue Me](https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:59 | 2024-06-07 |  |
 | [Sweeter](https://open.spotify.com/track/15YaPqTspwhXRJEMdMuaDN) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Finer Things](https://open.spotify.com/album/6gB9GpKKpLQdkY8Kqk4uXu) | 3:34 | 2025-10-18 |  |
 | [Take Off All Your Cool](https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:03 | 2024-06-07 |  |
@@ -310,6 +313,7 @@
 | [WORSE](https://open.spotify.com/track/3kdGlc9nZofnYVJbp0fLQn) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/7k67om05Y9ceVrxusX2FG8) | 3:13 | 2025-07-22 |  |
 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 | 2024-06-07 |  |
 | [WYA](https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/7DfD1AIvTaHaj1HKTmGkQg) | 3:11 | 2024-06-07 |  |
+| [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-03-15 |  |
 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 | 2024-06-07 |  |
 | [YoYo](https://open.spotify.com/track/2Buz2pUvqM5xT28KuCGZJ7) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [Bodyology](https://open.spotify.com/album/5qok8IPBfEexiGz31oz3H6) | 3:08 | 2025-06-14 |  |
 
