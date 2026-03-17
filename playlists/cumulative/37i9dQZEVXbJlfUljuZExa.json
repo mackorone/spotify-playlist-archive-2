@@ -2107,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Nada Pesona",
+        "url": "https://open.spotify.com/album/061W3TLcgDRSiuAP4bPi80"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sudirman",
+          "url": "https://open.spotify.com/artist/1HvVjPpCzFFgIo2XrDxM2x"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Balik Kampung",
+      "url": "https://open.spotify.com/track/3uMq3720MiINGhVbBU2MOx"
+    },
+    {
+      "album": {
         "name": "Memori Hit",
         "url": "https://open.spotify.com/album/2QWPwtpk4Jd2q4DCTpWbVl"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -9150,7 +9168,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 200163,
       "name": "Hanya Aku",
       "url": "https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg"
@@ -11464,7 +11482,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -11500,7 +11518,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 257847,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB"
@@ -12622,7 +12640,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 269937,
       "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
       "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
@@ -14482,7 +14500,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 261048,
       "name": "Mangu",
       "url": "https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP"
@@ -16654,7 +16672,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -18316,7 +18334,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 167200,
       "name": "Raya Raya Raya",
       "url": "https://open.spotify.com/track/5bu4tKnKyjBwQhLdDK7VWe"
@@ -19788,7 +19806,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 211440,
       "name": "Selamat Berhari Raya",
       "url": "https://open.spotify.com/track/74SXA9SsaHeOXyg3NxRymf"
@@ -19806,7 +19824,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 211506,
       "name": "Selamat Berhari Raya",
       "url": "https://open.spotify.com/track/5sBz1vOUQFJrkLahGNPoUg"
@@ -19878,7 +19896,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 156253,
       "name": "Selamat Hari Raya",
       "url": "https://open.spotify.com/track/2dX9TQTezNvZXbFsKeoSgr"
@@ -19896,7 +19914,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 157106,
       "name": "Selamat Hari Raya",
       "url": "https://open.spotify.com/track/7rGfXJN92ttB0FX0FWtHGR"
@@ -22052,7 +22070,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "Suasana Di Hari Raya",
       "url": "https://open.spotify.com/track/2rZIyoaIZBaWtr1954sxyO"
@@ -22070,7 +22088,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 195960,
       "name": "Suasana Di Hari Raya",
       "url": "https://open.spotify.com/track/1IMsCuONQDaYYrgt4ehMbI"
@@ -22088,7 +22106,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 142173,
       "name": "Suasana Hari Raya",
       "url": "https://open.spotify.com/track/69xmMtzLEVxACrVckHBrY3"

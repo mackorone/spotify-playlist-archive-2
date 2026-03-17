@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 32 | [C' Mon \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/4wCRQHZSGTfQ1evOYpaxGT) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 4:13 |
 | 33 | [All Right You Guys \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/2nRrFBDAMsB2SMrV55NsU1) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 3:30 |
 
-Snapshot ID: `abSlAAAAAADg9U/pL2T/mEYczh3RQejs`
+Snapshot ID: `abX2gAAAAADDIQ3PdUrrZY0BBz54k5qf`

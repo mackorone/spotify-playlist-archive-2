@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Get revived with some of the best Deep House South Africa has to offer\. Cover: Garth Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,995 likes - 70 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,034 likes - 70 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

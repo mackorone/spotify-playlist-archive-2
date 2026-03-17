@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc724\ud558 (YOUNHA)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc74c\uc728 (UmYull)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 240628,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/7GRWbXqGv4UZhmnL6nSyus"
@@ -15692,7 +15692,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Should be you",
       "url": "https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z"
@@ -18134,7 +18134,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 210000,
       "name": "To. My First Love",
       "url": "https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY"
@@ -19920,6 +19920,24 @@
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa"
     },
     {
       "album": {

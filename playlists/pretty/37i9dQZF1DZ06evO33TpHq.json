@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 62811,
+  "num_followers": 62832,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAADvQmU12RPrWR5yG2izDZhI",
+  "snapshot_id": "abX2gAAAAAAbMoYFPv+Bh7zwxDXVMbcy",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
-        }
-      ],
-      "duration_ms": 227448,
-      "name": "Psalm 8 (from the Angel Film DAVID)",
-      "url": "https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 261360,
       "name": "You Cannot Be Stopped",
       "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
+        }
+      ],
+      "duration_ms": 227448,
+      "name": "Psalm 8 (from the Angel Film DAVID)",
+      "url": "https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 290133,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 208183,
       "name": "Why God - My God",
       "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 290133,
-      "name": "Great Things",
-      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
-        }
-      ],
-      "duration_ms": 133207,
-      "name": "I Will Not Be Afraid (Reprise)",
-      "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Is Good (with CAIN)",
         "url": "https://open.spotify.com/album/4ZGTmDyGQKNLm6hEcvi09m"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 206933,
       "name": "God Is Good (with CAIN)",
       "url": "https://open.spotify.com/track/3jhUsn6iGf5yLljQqrcgYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
+        }
+      ],
+      "duration_ms": 133207,
+      "name": "I Will Not Be Afraid (Reprise)",
+      "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
     },
     {
       "added_at": null,

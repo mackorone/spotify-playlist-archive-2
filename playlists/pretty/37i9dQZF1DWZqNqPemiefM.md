@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Shuta Hasunuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,193 likes - 149 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,258 likes - 149 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:556z91jDKTTuSoTNxbi8OQ">51 June</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,103 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,120 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 25 | [Racks Blue](https://open.spotify.com/track/5Up171bDTYbyUP1dWT9Ln2) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [B4EM](https://open.spotify.com/album/76KktSsWxhgtpasWmW5WZn) | 2:28 |
 | 26 | [On Stream](https://open.spotify.com/track/1TTEzu7mpa9WvrKelj5Wiy) | [reGGie](https://open.spotify.com/artist/5GHeciJEPUSWH33QzJRbch), [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [On Stream](https://open.spotify.com/album/6lfKqx0AfYxIy17ouiUneQ) | 1:24 |
 | 27 | [EA \(feat\. Nine Vicious\)](https://open.spotify.com/track/4NfrR07xd870SPiPaRPCKK) | [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv), [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [SAVIOR: +++](https://open.spotify.com/album/5CaepplCpeOE3nUrMocFzk) | 3:05 |
-| 28 | [5 O'clock](https://open.spotify.com/track/7wfisKDLwXLYdpKjsNMpBi) | [Homixide osama](https://open.spotify.com/artist/6xHMGVSnuJYwWKJY6M7Vp1), [Yung 5th](https://open.spotify.com/artist/5vRhS1Ss9aW9X4gkrenJWI), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5 O'clock](https://open.spotify.com/album/2WcE3tFirTl9vYBWHEGJOA) | 4:04 |
+| 28 | [5 O'clock](https://open.spotify.com/track/7wfisKDLwXLYdpKjsNMpBi) | [Homixide osama](https://open.spotify.com/artist/6xHMGVSnuJYwWKJY6M7Vp1), [Yung 5th](https://open.spotify.com/artist/5vRhS1Ss9aW9X4gkrenJWI), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb) | [5 O'clock](https://open.spotify.com/album/2WcE3tFirTl9vYBWHEGJOA) | 4:04 |
 | 29 | [Ri0T](https://open.spotify.com/track/5Rw4P3f2hGrtlMwd14cQkL) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [SW4GL0RD](https://open.spotify.com/album/3R7smKm710OLsHyNWkNviz) | 3:48 |
 | 30 | [Dead Faces](https://open.spotify.com/track/5Vl2l0khSWWAp3vVogikXj) | [Leekindacut](https://open.spotify.com/artist/7KguP4SSNLqjGBNsZHDAO0) | [Dead Faces](https://open.spotify.com/album/3b7r2NkdDDHYHumRBpHrKt) | 3:29 |
 | 31 | [LONG LIVE BANKROLL](https://open.spotify.com/track/6pyyVcOtUMM4WmFnqBnTd5) | [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [LONG LIVE BANKROLL](https://open.spotify.com/album/5vLZ8rviee0T5qataTJecI) | 3:07 |

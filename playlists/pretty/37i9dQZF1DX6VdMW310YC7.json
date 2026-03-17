@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3920377,
+  "num_followers": 3920254,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "duration_ms": 125917,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
         "name": "BLINK",
         "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 237938,
       "name": "Keep Love Waiting",
       "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
-        "name": "life gets hard",
-        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
-      },
-      "artists": [
-        {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
-        }
-      ],
-      "duration_ms": 125917,
-      "name": "life gets hard",
-      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
         "name": "Caught Up In The Fire",
         "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 249479,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -767,18 +767,22 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+        "name": "KYGO",
+        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+      "duration_ms": 258517,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -803,22 +807,18 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "KYGO",
-        "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 258517,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -955,6 +955,26 @@
       "duration_ms": 204761,
       "name": "Body",
       "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -1123,42 +1143,6 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 200637,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 248000,
       "name": "Hours",
       "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
-        "name": "Dark In This Room",
-        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Dark In This Room",
-      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "Promise Me",
-        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
-      },
-      "artists": [
-        {
-          "name": "Harmonee",
-          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
-        }
-      ],
-      "duration_ms": 266880,
-      "name": "Promise Me",
-      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 173240,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "Promise Me",
+        "url": "https://open.spotify.com/album/1MIt6ANHK9beYtRBQqxup4"
+      },
+      "artists": [
+        {
+          "name": "Harmonee",
+          "url": "https://open.spotify.com/artist/5bcriaD6a4mOYI2Bqr0yh2"
+        }
+      ],
+      "duration_ms": 266880,
+      "name": "Promise Me",
+      "url": "https://open.spotify.com/track/6kNNnAq3m0H8zgz5vd8umB"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -1791,6 +1791,30 @@
       "duration_ms": 271598,
       "name": "still-healing",
       "url": "https://open.spotify.com/track/1lSsO9lB7txXjUIMlpF8I2"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "To The Heart / We Go Again",
+        "url": "https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR"
+      },
+      "artists": [
+        {
+          "name": "Because of Art",
+          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
+        },
+        {
+          "name": "Steven Weston",
+          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
+        },
+        {
+          "name": "Maria Metaxa",
+          "url": "https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "To The Heart",
+      "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -1831,46 +1855,6 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "To The Heart / We Go Again",
-        "url": "https://open.spotify.com/album/1HPZApJZpFhqV4WFtnjRkR"
-      },
-      "artists": [
-        {
-          "name": "Because of Art",
-          "url": "https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq"
-        },
-        {
-          "name": "Steven Weston",
-          "url": "https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U"
-        },
-        {
-          "name": "Maria Metaxa",
-          "url": "https://open.spotify.com/artist/2dqqk5uhWz0vGITqrLSUMi"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "To The Heart",
-      "url": "https://open.spotify.com/track/0RNeb4gmJf1I5InimrUl91"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
-        "name": "Devices / Green",
-        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 310560,
-      "name": "Devices",
-      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
-    },
-    {
-      "added_at": "2026-03-13 04:00:35",
-      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/7kdH6aQMnPMhpLwJCxiS4f"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 204145,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/2aBChGNbGqlYmqbOrVqMBp"
+    },
+    {
+      "added_at": "2026-03-13 04:00:35",
+      "album": {
+        "name": "Devices / Green",
+        "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 310560,
+      "name": "Devices",
+      "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
     },
     {
       "added_at": "2026-03-13 04:00:35",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2026-03-13 04:00:35",
       "album": {
-        "name": "Kamakura",
-        "url": "https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX"
       },
       "artists": [
         {
-          "name": "Youth Novels",
-          "url": "https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D"
+          "name": "Eynka",
+          "url": "https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg"
         }
       ],
-      "duration_ms": 316883,
-      "name": "Kamakura",
-      "url": "https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux"
+      "duration_ms": 238161,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB"
     }
   ],
   "unique_name": "Chill Tracks",

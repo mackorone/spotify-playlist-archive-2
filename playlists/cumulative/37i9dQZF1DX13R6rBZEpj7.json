@@ -1417,6 +1417,28 @@
     },
     {
       "album": {
+        "name": "Combat",
+        "url": "https://open.spotify.com/album/1JhrnCt2mtkLDx6V7RU2tG"
+      },
+      "artists": [
+        {
+          "name": "Declan Knapp",
+          "url": "https://open.spotify.com/artist/1dvBU2hQV77ywL1HTIA0O4"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Combat",
+      "url": "https://open.spotify.com/track/6skKv1NTay0aBQhfLX5dP1"
+    },
+    {
+      "album": {
         "name": "Night Bass Freshmen Vol 4",
         "url": "https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2"
       },
@@ -7932,7 +7954,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 184212,
       "name": "What's Been Missing",
       "url": "https://open.spotify.com/track/2loXsciBfS2v97OKDsmheo"

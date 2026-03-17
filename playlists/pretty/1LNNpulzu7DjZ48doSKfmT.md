@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 382 songs - 19 hr 15 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 389 songs - 19 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -390,5 +390,12 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 380 | [The Brink](https://open.spotify.com/track/2sfMpk6ZMNV7iJpOopK4ue) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [The Brink](https://open.spotify.com/album/6QibssZn3Z4HGIyap0lKHj) | 3:24 |
 | 381 | [RIPIANDO](https://open.spotify.com/track/7sSGNIigUSEwQrW4yt8HzA) | [JDHXXVI](https://open.spotify.com/artist/26GSmfnmtS0DMD8AU3DToM), [dleongoatprdc](https://open.spotify.com/artist/5eJdZWTjF565VYcJtMhQ4Y) | [AFUERADELCIRCULO](https://open.spotify.com/album/5WilJWcKkdxROVXsgXXLiU) | 2:52 |
 | 382 | [Chai Tea](https://open.spotify.com/track/0MNAjeJhlZes6HoJdCN6Vw) | [Fijnproeverz](https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3), [Brother Lynx](https://open.spotify.com/artist/1NZm2rx7SsFgvykiQ3gGMi), [Djenghis Haan](https://open.spotify.com/artist/7G1yCP3w4Q5fpZlP8m7I3q), [Nizzy Beats](https://open.spotify.com/artist/02I7ile2NR43hK5h6yg1M0), [Skinny Bonez Tha Godfatha](https://open.spotify.com/artist/2NYrzwv4HQ9w2uuBUfOq5q) | [Chai Tea](https://open.spotify.com/album/1aWb0bF0NdCE2oU0FeSGui) | 2:22 |
+| 383 | [Transmission](https://open.spotify.com/track/1AQLN7fSBgz6B8Cj7c7Z1V) | [The Yellow House](https://open.spotify.com/artist/3O0sqLSUqdTS7zQ0qUmKUe) | [Transmission](https://open.spotify.com/album/7eJqSSOeuaxjFwiJ0ZFbkw) | 2:51 |
+| 384 | [goodbye, magenta.](https://open.spotify.com/track/7BNNKc24hazUDCbp1KsfJq) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LOVED](https://open.spotify.com/album/5fYZQtJI5bqjVebYOLLosn) | 3:23 |
+| 385 | [Fake Happiness](https://open.spotify.com/track/6vAbICOt2jE3FsfRHmzWgD) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Fake Happiness](https://open.spotify.com/album/5oN9wBUQom6yKPGqHtExqd) | 3:35 |
+| 386 | [The last grain of time](https://open.spotify.com/track/171XS8BkhKBaDeZOFVqJa5) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [The last grain of time](https://open.spotify.com/album/203AcuhX3PIlG1wlOghV9Y) | 3:12 |
+| 387 | [Route of the Fate](https://open.spotify.com/track/0Sh5MvKDvtwIqVZeb36EvJ) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:02 |
+| 388 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 |
+| 389 | [Song for a Widow](https://open.spotify.com/track/0KJulYhAC3ynJqbCK9lHtm) | [Dewey Decimal](https://open.spotify.com/artist/1IHjSAFt9bS9Xw8EZJhBga) | [Song for a Widow](https://open.spotify.com/album/62Yz5trKVSULdhHRCci30T) | 3:33 |
 
-Snapshot ID: `AAAcJvCCrvFsy3bZD7cfXGOssrXPs+Qr`
+Snapshot ID: `AAAcLRCCgTLB1GbjzK0h/KTh7wOLGhV8`

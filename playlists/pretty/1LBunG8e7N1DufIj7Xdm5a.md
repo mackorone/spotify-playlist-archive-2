@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,230 songs - 9 day 9 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,231 songs - 9 day 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4238,5 +4238,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4228 | [Claridad](https://open.spotify.com/track/5cJifL4P0gsUeBThG2aWPq) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 3:45 |
 | 4229 | [A tu lado](https://open.spotify.com/track/6U24wat60mMB1CIq4mMORW) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 2:46 |
 | 4230 | [Sin aire](https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 |
+| 4231 | [Worth the wait](https://open.spotify.com/track/0Q3kUTUPN2tnAAAP5QX0Eh) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Worth the wait](https://open.spotify.com/album/2nRP98u8PQm1v1dz0JqgrE) | 2:46 |
 
-Snapshot ID: `AAAIBYQWSIox1aZJI2DaeyL5Gqk/2BgX`
+Snapshot ID: `AAAIBvV5tdHfvZteBtaegh/WiqpSkl6E`

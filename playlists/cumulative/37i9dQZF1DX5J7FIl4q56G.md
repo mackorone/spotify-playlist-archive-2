@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Sabaton
 
-11,170 songs - 30 day 21 hr 36 min
+11,171 songs - 30 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3179,6 +3179,7 @@
 | [Eternal](https://open.spotify.com/track/4UIQSgJ2lWlLcsU7ig0CM8) | [Infected](https://open.spotify.com/artist/1BRcojC6vu5WDIlnD6SVKu) | [Eternal](https://open.spotify.com/album/7JiVt0r5YU1fA71Ds5BWvt) | 4:24 | 2024-04-12 | 2024-04-19 |
 | [Eternal](https://open.spotify.com/track/3BtaqHbozKGdGU6UU92vic) | [Ominous Ruin](https://open.spotify.com/artist/5VJ5tF2hByGJv9u27NbpVE) | [Eternal](https://open.spotify.com/album/22cydxv2BTnU8miGR6kP8J) | 6:04 | 2025-04-25 | 2025-05-03 |
 | [eternal](https://open.spotify.com/track/5JBhRj19DnT0sLrHp0m4tH) | [TCHERT](https://open.spotify.com/artist/50Hdzlt6WowML3w17jakU7), [DETHRONED](https://open.spotify.com/artist/0gOK5QL62fve3KDQoojq0M) | [eternal](https://open.spotify.com/album/1sEfaVXWzP69mnrSTfiM8y) | 3:04 | 2024-10-11 | 2024-10-19 |
+| [Eternal Celestial Energy](https://open.spotify.com/track/5bXULQTPdp0tiL14AmtyKL) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Eternal Celestial Energy](https://open.spotify.com/album/6Wjljght25wOabdfNVysHT) | 5:44 | 2026-03-16 |  |
 | [Eternal Cycle](https://open.spotify.com/track/1jnzZgfKtvCfHeZxYPuMUR) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD), [Ambre Vourvahis](https://open.spotify.com/artist/4zuSTcTbB9cSVzExx3XqPm) | [Eternal Cycle](https://open.spotify.com/album/7BDosUn8buvQnudOrfKDva) | 5:05 | 2024-11-15 | 2024-11-23 |
 | [Eternal Darkness](https://open.spotify.com/track/5KF33B01qnGgBYIp35LD6f) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Eternal Darkness](https://open.spotify.com/album/13G54l6oV3HKT4HaWsKDQB) | 5:46 | 2022-02-25 | 2022-03-11 |
 | [Eternal Erode](https://open.spotify.com/track/6OwJpee1NW7kg3uZBTe2gM) | [Oddland](https://open.spotify.com/artist/2C4y5kq2y7T69khYjax5YB) | [Eternal Erode](https://open.spotify.com/album/0oHZOTaf40ZeJlw35bJ1Ko) | 3:43 | 2024-10-04 | 2024-10-12 |

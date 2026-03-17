@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Sabaton",
-  "num_followers": 786430,
+  "num_followers": 786432,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACS/oECgGNRAwI8BpqkOBjZu0ykT",
+  "snapshot_id": "AAAAAN5HmYuubOedtWFpAakjWdAspjSG",
   "tracks": [
     {
       "added_at": "2026-03-13 04:00:55",
@@ -509,6 +509,54 @@
       "url": "https://open.spotify.com/track/5Swb4ZKx6e2xV21D8VOGTz"
     },
     {
+      "added_at": "2026-03-16 18:59:26",
+      "album": {
+        "name": "Eternal Celestial Energy",
+        "url": "https://open.spotify.com/album/6Wjljght25wOabdfNVysHT"
+      },
+      "artists": [
+        {
+          "name": "Spirit Adrift",
+          "url": "https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN"
+        }
+      ],
+      "duration_ms": 344853,
+      "name": "Eternal Celestial Energy",
+      "url": "https://open.spotify.com/track/5bXULQTPdp0tiL14AmtyKL"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Traces",
+        "url": "https://open.spotify.com/album/1PwcMX7NyfsSes7IQBq8BL"
+      },
+      "artists": [
+        {
+          "name": "Forever Mortal",
+          "url": "https://open.spotify.com/artist/7c69PRhu3obOZvCZYzIzZf"
+        }
+      ],
+      "duration_ms": 266100,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/3pQdyQzOquMHGBJ4JnznTN"
+    },
+    {
+      "added_at": "2026-03-13 04:00:55",
+      "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/1tFjXL6OHxRpOQzqGbwWWa"
+      },
+      "artists": [
+        {
+          "name": "Defences",
+          "url": "https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/3tuoAMpmCqYT6hkKoa63Ad"
+    },
+    {
       "added_at": "2026-03-13 04:00:55",
       "album": {
         "name": "Landmines (Feat. Letdown.)",
@@ -527,22 +575,6 @@
       "duration_ms": 203797,
       "name": "Landmines (Feat. Letdown.)",
       "url": "https://open.spotify.com/track/3aQ4uC8xK7Od2cbIM9PWQU"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/1tFjXL6OHxRpOQzqGbwWWa"
-      },
-      "artists": [
-        {
-          "name": "Defences",
-          "url": "https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv"
-        }
-      ],
-      "duration_ms": 189882,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/3tuoAMpmCqYT6hkKoa63Ad"
     },
     {
       "added_at": "2026-03-13 04:00:55",
@@ -607,22 +639,6 @@
       "duration_ms": 170595,
       "name": "SIGHT",
       "url": "https://open.spotify.com/track/13fT2HKbHJHfvidTXjFMRh"
-    },
-    {
-      "added_at": "2026-03-13 04:00:55",
-      "album": {
-        "name": "Traces",
-        "url": "https://open.spotify.com/album/1PwcMX7NyfsSes7IQBq8BL"
-      },
-      "artists": [
-        {
-          "name": "Forever Mortal",
-          "url": "https://open.spotify.com/artist/7c69PRhu3obOZvCZYzIzZf"
-        }
-      ],
-      "duration_ms": 266100,
-      "name": "Traces",
-      "url": "https://open.spotify.com/track/3pQdyQzOquMHGBJ4JnznTN"
     },
     {
       "added_at": "2026-03-13 04:00:55",

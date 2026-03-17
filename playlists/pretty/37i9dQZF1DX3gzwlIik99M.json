@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204304,
+  "num_followers": 204284,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Nulo",
-        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
-      },
-      "artists": [
-        {
-          "name": "NVLO",
-          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "\u00a1Qu\u00e9menlos!",
-      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Nulo",
+        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
+      },
+      "artists": [
+        {
+          "name": "NVLO",
+          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "\u00a1Qu\u00e9menlos!",
+      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
     },
     {
       "added_at": "2025-09-18 22:01:59",

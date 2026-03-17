@@ -4,11 +4,11 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-108 songs - 7 hr 6 min
+111 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2024-12-19 |  |
+| [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2024-12-19 | 2026-03-17 |
 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2024-12-19 | 2025-04-30 |
 | [A Love Just For You](https://open.spotify.com/track/7jQp6vs7mSfvIsRvynDh9Q) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A Love Just For You](https://open.spotify.com/album/1SImD1w5edFzQMbxjq147b) | 3:56 | 2026-02-10 |  |
 | [A Walk Together](https://open.spotify.com/track/62DDIzS1a4CZRyEzNbkCgR) | [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [A Walk Together](https://open.spotify.com/album/6dCQ9uF8AIVbPYZDzG9xL0) | 3:40 | 2026-03-03 |  |
@@ -35,6 +35,8 @@
 | [Everyday with You](https://open.spotify.com/track/1KFlYzWk8EMJY94RzM84MC) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 3:44 | 2024-12-19 |  |
 | [Fairytale](https://open.spotify.com/track/3QGVqALPnJCiHgFmXWUoM7) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Fairytale](https://open.spotify.com/album/576lPsLjry1tcvu6XlTYNP) | 3:10 | 2025-12-04 |  |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2024-12-19 |  |
+| [Fateful Love](https://open.spotify.com/track/6sBGzSFa4g3GYZrU6gsK7M) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [The Package \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6R1uLodyCmYvSJ8RlfR88M) | 3:50 | 2026-03-17 |  |
+| [Film Love](https://open.spotify.com/track/1cXTdenfd8MRKw9Elge6ru) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Film Love](https://open.spotify.com/album/7HSP5krjj4CV7xoBfPoIuz) | 4:03 | 2026-03-17 |  |
 | [Flower Road](https://open.spotify.com/track/7A9tpogI4hJOYFY9NLzw7z) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [WITH](https://open.spotify.com/album/78uIPc5c1GZKGJZNpc89sI) | 3:50 | 2024-12-19 |  |
 | [For Love](https://open.spotify.com/track/7FVkGnEexHtiavZSDL4wZT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Our Blues, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2bWjPAcoUxP7t3FWChijzl) | 3:33 | 2024-12-19 | 2025-06-24 |
 | [FOREVER](https://open.spotify.com/track/0IjaSeBp6SHXTELm4C9ifk) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Resident Playbook, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/3QMQGg2xrPJ9FaxLJmfBQL) | 4:03 | 2025-04-29 |  |
@@ -43,6 +45,7 @@
 | [Gravity of You](https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [SINCERELY MELODIES](https://open.spotify.com/album/3TxzTHwIDN6XFVtIVDDA3o) | 3:33 | 2025-09-30 |  |
 | [HONEYMOON](https://open.spotify.com/track/5iGdQsgIGDSlxJKlsCv62L) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [HONEYMOON](https://open.spotify.com/album/3Ms7sWhlT637M6uDqxLbTF) | 3:32 | 2024-12-19 |  |
 | [I can't take my eyes off you](https://open.spotify.com/track/2GsYFOVcol1GPP94nMe5je) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I can't take my eyes off you](https://open.spotify.com/album/6SrmdTc9UCeVLKJkBLIm5H) | 5:07 | 2026-02-24 |  |
+| [I can't take my eyes off you](https://open.spotify.com/track/4aMDsdh082wshipTFzAjr1) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I can't take my eyes off you / Serenade](https://open.spotify.com/album/7ISPZeyUDpAFPlB7F9ZI8j) | 5:07 | 2026-03-17 |  |
 | [I Knew I Love](https://open.spotify.com/track/6heT4iobgbs6RSYnen31L6) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 11](https://open.spotify.com/album/7BZMREZrMu97xEWX45kMPf) | 4:21 | 2024-12-19 |  |
 | [I meet you who are infinitely beautiful](https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I meet you who are infinitely beautiful](https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO) | 4:07 | 2025-09-30 |  |
 | [I will be your flower](https://open.spotify.com/track/0RE0Y7Rv9t3ngylTdKiWLZ) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [I will be your flower](https://open.spotify.com/album/39OFidEKg7M3yOm9rsTmrJ) | 3:47 | 2026-01-29 |  |
@@ -52,7 +55,7 @@
 | [Je T'aime](https://open.spotify.com/track/18m3QugKZFaKjoMbe8CyjL) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 4:21 | 2024-12-19 | 2025-06-24 |
 | [Just the way we love](https://open.spotify.com/track/04dATUKqjH6pmWpgZaB2Ec) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0puPQBUgmK9l1mWQYWKsdz) | 4:18 | 2025-04-22 |  |
 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 | 2024-12-19 |  |
-| [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 | 2024-12-19 |  |
+| [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 | 2024-12-19 | 2026-03-17 |
 | [Little Love](https://open.spotify.com/track/01MEDNMk2B3CfpQBZXJYXI) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Little Love](https://open.spotify.com/album/4YuAcac5jdFht2ixyEaoUE) | 3:33 | 2026-03-10 |  |
 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 | 2025-07-01 |  |
 | [Love is](https://open.spotify.com/track/2hX6cnuS3YNXt8YbOTAxar) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Cho Youngsoo Remake Project Part.4](https://open.spotify.com/album/385kNRF09SSwaGe4AbA0Cg) | 3:49 | 2025-09-30 |  |
@@ -115,6 +118,6 @@
 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 | 2024-12-19 | 2025-04-23 |
 | [청혼](https://open.spotify.com/track/2UjGbR7piN0icx797oWVCk) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [영화에서 처럼](https://open.spotify.com/album/1CRsM2hwwOafWQKXjlCS1E) | 3:49 | 2024-12-19 |  |
 | [청혼](https://open.spotify.com/track/7lw00DJUCg0P7HtOb4Ee1W) | [Noel](https://open.spotify.com/artist/7zpkDJ62XdmBpd5ZYM9l5o) | [These Are The Times](https://open.spotify.com/album/10yDCvVFY9b0ztvDZOwDtF) | 4:27 | 2024-12-19 |  |
-| [한 페이지가 될 수 있게 Time of Our Life](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-12-19 |  |
+| [한 페이지가 될 수 있게 Time of Our Life](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-12-19 | 2026-03-17 |
 
 \*This playlist was first scraped on 2024-12-20. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 10152,
+  "num_followers": 10154,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAADXdrhhnYXIzS5o35d2oPJM",
+  "snapshot_id": "abX2gAAAAAAfmtZsmzMDqjG8Vjtd7F/S",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 293373,
+      "name": "Between the Mountains and the Sea",
+      "url": "https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/4OfHCsxvjTUu4mSVducvtH"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 145454,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/25AM10uMejVS9eCNUeu7X1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 293373,
-      "name": "Between the Mountains and the Sea",
-      "url": "https://open.spotify.com/track/7e4ibBc923bkYzwUCenlXz"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Tradition",
-        "url": "https://open.spotify.com/album/2UZ8tcq93jQXdY3NMYBn3Z"
+        "name": "Pull the Thorns from Your Heart",
+        "url": "https://open.spotify.com/album/2DeBiiHhjV4JovpMXxJAnd"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 199253,
-      "name": "Life Is Not a Waiting Room",
-      "url": "https://open.spotify.com/track/6GaplNmOixSpK6koJdW2NA"
+      "duration_ms": 236306,
+      "name": "Pull the Thorns from Your Heart",
+      "url": "https://open.spotify.com/track/1O75ojEPxBji0pAcrnalnb"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lush Rimbaugh",
-        "url": "https://open.spotify.com/album/6J9Dwh0MwX370PYKhPnagK"
+        "name": "Family Tradition",
+        "url": "https://open.spotify.com/album/2UZ8tcq93jQXdY3NMYBn3Z"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 206480,
-      "name": "Lush Rimbaugh",
-      "url": "https://open.spotify.com/track/4Dws8iZDbv2kef8TYwVt8t"
+      "duration_ms": 199253,
+      "name": "Life Is Not a Waiting Room",
+      "url": "https://open.spotify.com/track/6GaplNmOixSpK6koJdW2NA"
     },
     {
       "added_at": null,

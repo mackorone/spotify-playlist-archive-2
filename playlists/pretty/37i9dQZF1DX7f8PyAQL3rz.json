@@ -1,6 +1,6 @@
 {
   "description": "slc o brime ta vindo!!!",
-  "num_followers": 1453276,
+  "num_followers": 1453139,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -275,38 +275,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
-      },
-      "artists": [
-        {
-          "name": "MC Jvila",
-          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
-        },
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "A Danada Me Ligando",
         "url": "https://open.spotify.com/album/5JSy0y2EhIpd2duve74FqE"
       },
@@ -335,6 +303,38 @@
       "duration_ms": 283636,
       "name": "A Danada Me Ligando",
       "url": "https://open.spotify.com/track/3H7eBmcTJyuEMStfmKuLmG"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/5SSoOUbZZlcKhYNIeaAXtN"
+      },
+      "artists": [
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6xgf2Nigvj0JuyNFFDAG7t"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -391,30 +391,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
-      },
-      "artists": [
-        {
-          "name": "Dnovaees",
-          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 157612,
-      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "OUTRA",
         "url": "https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 128000,
       "name": "OUTRA",
       "url": "https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
+      },
+      "artists": [
+        {
+          "name": "Dnovaees",
+          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "duration_ms": 157612,
+      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -739,46 +739,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "ISSO AQUI \u00c9 BRASIL",
-        "url": "https://open.spotify.com/album/59OA3HDl9xSnvRbjeaACLz"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        }
-      ],
-      "duration_ms": 138022,
-      "name": "ISSO AQUI \u00c9 BRASIL",
-      "url": "https://open.spotify.com/track/02peqoxG8Z0Avbn6l5mzSf"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
-        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "duration_ms": 151381,
-      "name": "PREFERIDA",
-      "url": "https://open.spotify.com/track/02sc7bVObYkp8bW5Ueq5zt"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -807,6 +767,46 @@
       "duration_ms": 342857,
       "name": "Presentinho",
       "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
+        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "duration_ms": 151381,
+      "name": "PREFERIDA",
+      "url": "https://open.spotify.com/track/02sc7bVObYkp8bW5Ueq5zt"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "ISSO AQUI \u00c9 BRASIL",
+        "url": "https://open.spotify.com/album/59OA3HDl9xSnvRbjeaACLz"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        }
+      ],
+      "duration_ms": 138022,
+      "name": "ISSO AQUI \u00c9 BRASIL",
+      "url": "https://open.spotify.com/track/02peqoxG8Z0Avbn6l5mzSf"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -931,6 +931,34 @@
       "duration_ms": 253042,
       "name": "THE BOX MEDLEY 11",
       "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "S\u00f3 Lazer",
+        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "S\u00f3 Lazer",
+      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1079,34 +1107,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "S\u00f3 Lazer",
-        "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "S\u00f3 Lazer",
-      "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "Sinestesia",
         "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
       },
@@ -1127,34 +1127,6 @@
       "duration_ms": 155076,
       "name": "Procedimento",
       "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "MC Rah",
-          "url": "https://open.spotify.com/artist/6ySG9bDJ4Da8NWBQqmlWKa"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Sem Sentir Saudade",
-      "url": "https://open.spotify.com/track/5NTjJOysVSlvIm8S7asj94"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1187,6 +1159,34 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Rah",
+          "url": "https://open.spotify.com/artist/6ySG9bDJ4Da8NWBQqmlWKa"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Sem Sentir Saudade",
+      "url": "https://open.spotify.com/track/5NTjJOysVSlvIm8S7asj94"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "\u00c1rea de Risco",
+        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+      },
+      "artists": [
+        {
+          "name": "Tchelo",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "LPT Zlatan",
+          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 158965,
+      "name": "\u00c1rea de Risco",
+      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -1531,26 +1555,26 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "\u00c1rea de Risco",
-        "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
       },
       "artists": [
         {
-          "name": "Tchelo",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
         },
         {
-          "name": "LPT Zlatan",
-          "url": "https://open.spotify.com/artist/5U55IfWwerZXAqb1WNNfCX"
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
         },
         {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
         }
       ],
-      "duration_ms": 158965,
-      "name": "\u00c1rea de Risco",
-      "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
+      "duration_ms": 155789,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1591,30 +1615,6 @@
       "duration_ms": 104539,
       "name": "T\u00f4 com Saudade",
       "url": "https://open.spotify.com/track/1W2nInxS8amzBPiBqrcyHT"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "ADRENALINA",
-        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
-      },
-      "artists": [
-        {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        }
-      ],
-      "duration_ms": 155789,
-      "name": "ADRENALINA",
-      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
     },
     {
       "added_at": "2026-03-13 03:01:13",

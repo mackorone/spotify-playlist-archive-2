@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Drug Church
 
-715 songs - 1 day 19 hr 2 min
+716 songs - 1 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Curwen](https://open.spotify.com/track/0Okysd8JMaWIrXcR1M08he) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Curwen](https://open.spotify.com/album/3ks2f53mSTSzD0eLeC01mt) | 4:30 | 2025-05-02 | 2025-09-12 |
 | [Cyberhex](https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:35 | 2022-11-10 | 2023-07-26 |
 | [Dance Like That](https://open.spotify.com/track/70on5Sny2nNwrvJ1I3824A) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Dance Like That](https://open.spotify.com/album/1TWalW3g3PTHXcn1A1EFMZ) | 3:14 | 2025-06-06 | 2026-02-14 |
+| [DANGEROUS](https://open.spotify.com/track/70RmpH9F7edjr4Q31FYDGa) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [DANGEROUS](https://open.spotify.com/album/7IyRivYKTh7Ius18JMzbmL) | 4:06 | 2026-03-13 |  |
 | [Dangerous](https://open.spotify.com/track/105Fwh9wijwT41rrfgSnrE) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:11 | 2025-05-08 |  |
 | [Dark](https://open.spotify.com/track/0Api4AdCfRrGYhj8AeSjNp) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dark](https://open.spotify.com/album/19T9dCuDC2IumQmi6OB1xa) | 3:02 | 2025-10-03 |  |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-05-11 | 2023-08-25 |
@@ -507,7 +508,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-03 | 2023-04-17 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-08-10 | 2023-10-06 |
 | [Regret 101](https://open.spotify.com/track/7LTWdBRVymyvHO19q36mzX) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Regret 101](https://open.spotify.com/album/5dde3V2sxMHsaFVyaOLGIq) | 3:02 | 2025-09-01 | 2025-09-12 |
-| [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-05-02 |  |
+| [Requiem](https://open.spotify.com/track/3mBkZYZ7zj7WqB79PobaGn) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [The Darkest Place I've Ever Been](https://open.spotify.com/album/2F9JIN5xlQs9Z6eVANk7mF) | 4:00 | 2025-05-02 | 2026-03-17 |
 | [RHINESTONE COWBOY](https://open.spotify.com/track/4x7QBdkjW2EtEIdXTToetB) | [Knives](https://open.spotify.com/artist/2YoHhPouaTT96k3dUQ8WZK) | [GLITTER](https://open.spotify.com/album/61A1odhmwGxO4babRpvu6q) | 2:23 | 2025-05-02 | 2025-09-12 |
 | [Roads Of The Lowly](https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Return Of Tomorrow](https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX) | 3:42 | 2024-06-15 | 2025-09-12 |
 | [Rope](https://open.spotify.com/track/5Hn3Smw7i13MP7xJsrYlbt) | [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Rope](https://open.spotify.com/album/3Lvw48KZNK6dvuzIEONIkl) | 3:30 | 2025-10-23 | 2026-01-31 |

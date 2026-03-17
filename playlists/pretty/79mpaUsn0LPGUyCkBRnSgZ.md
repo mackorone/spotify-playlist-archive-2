@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 685 songs - 1 day 20 hr 44 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 686 songs - 1 day 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -693,5 +693,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 683 | [Fragile](https://open.spotify.com/track/2YWjyGARRK5KOFBxSBRPup) | [Yasmin Nur](https://open.spotify.com/artist/5QJ3lLasHPr4juIkXB3siz) | [Slaughter](https://open.spotify.com/album/11jhOP95Uh2qmFo7jC1P9n) | 3:56 |
 | 684 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 |
 | 685 | [A Fake in a Faker’s World](https://open.spotify.com/track/1dJx3jat0jXUxBari5KSiw) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 8:18 |
+| 686 | [ALWAYS FUN](https://open.spotify.com/track/0wP2MyjuY6AfutvReaJ8UU) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [LOVER TOFU FRUIT](https://open.spotify.com/album/7H4FaX0yjTsY8KqYKItKzK) | 4:19 |
 
-Snapshot ID: `AAAIuN1I/GIhnjnpiQXNyBeM3z23PH6f`
+Snapshot ID: `AAAIuo/6qR/GCdkx01hH6XCFWZUt0VWq`

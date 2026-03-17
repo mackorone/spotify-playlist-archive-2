@@ -14017,6 +14017,24 @@
     },
     {
       "album": {
+        "name": "No way A way (NWAW)",
+        "url": "https://open.spotify.com/album/6O60ZeEzv8gPBM9rxk2CSJ"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "No way A way (NWAW)",
+      "url": "https://open.spotify.com/track/1gdZlHRdr3OXnUpDb4FYQC"
+    },
+    {
+      "album": {
         "name": "No Worry Salon",
         "url": "https://open.spotify.com/album/6gTnFa78SoCnX1yRFn7leu"
       },
@@ -18802,7 +18820,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 229173,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3B0PFLEa5sAcv1eX6g1IFE"
@@ -20636,7 +20654,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 180000,
       "name": "TWICE",
       "url": "https://open.spotify.com/track/47zLJ4mEGvxYmZisFQ5XqO"
@@ -22302,6 +22320,24 @@
       "duration_ms": 197499,
       "name": "With You",
       "url": "https://open.spotify.com/track/0YhuPLchEMFhIf6W3k0QdR"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa"
     },
     {
       "album": {

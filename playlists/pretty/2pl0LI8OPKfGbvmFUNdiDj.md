@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 622 likes - 58 songs - 3 hr 10 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 637 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,9 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 56 | [Just Kids](https://open.spotify.com/track/3L37KpIq1wOhstRffRSFUf) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Just Kids](https://open.spotify.com/album/7l7Zykod8wQDXnpXridxy8) | 3:46 |
 | 57 | [I'm Sorry It's Over](https://open.spotify.com/track/58kzecWPzOlCzpDzu32eDz) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:06 |
 | 58 | [Do It Again?](https://open.spotify.com/track/0Awhj0KTKBSgsXNeNmWs6d) | [Jason Patel](https://open.spotify.com/artist/5UmwsM87WwV6YfTQuIvPUc) | [Do It Again?](https://open.spotify.com/album/3CS8kwJH56scHg7V1Yippu) | 2:31 |
+| 59 | [The Summit](https://open.spotify.com/track/1j0RFvDArOtl2P19hAD62t) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Summit](https://open.spotify.com/album/17EQOZPmfmbWsIU5bfu9ou) | 2:44 |
+| 60 | [Can't Stop Loving You](https://open.spotify.com/track/3U8jamAGzYu9hQiiaPjzpz) | [Kevon Tyrre](https://open.spotify.com/artist/5vSBtDDQkWN6uh8QtNGbmp) | [Can't Stop Loving You](https://open.spotify.com/album/4qKDPPao7cfkopnwhU7MG5) | 4:07 |
+| 61 | [Run, Cinderella](https://open.spotify.com/track/3byIGxwllmdPbfpwzrIDyG) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [40 Days](https://open.spotify.com/album/5mVB4IdzqLak9ldSKbVD9b) | 3:32 |
+| 62 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
 
-Snapshot ID: `AAADRMVjLUy0+2vxNPBgf91aC40N6jH9`
+Snapshot ID: `AAADSNGBAzeNRvUNRdb+AxlpfgpwZrfr`

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3318,
+  "num_followers": 3320,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -157,26 +157,6 @@
       "url": "https://open.spotify.com/track/4AfQGFZ2zYdIHYwqBhYx37"
     },
     {
-      "added_at": "2025-07-03 22:00:44",
-      "album": {
-        "name": "Hoeveel",
-        "url": "https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD"
-      },
-      "artists": [
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        }
-      ],
-      "duration_ms": 123025,
-      "name": "Hoeveel",
-      "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
-    },
-    {
       "added_at": "2025-06-27 09:27:23",
       "album": {
         "name": "Nooit Genoeg",
@@ -195,6 +175,26 @@
       "duration_ms": 191400,
       "name": "Nooit Genoeg",
       "url": "https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS"
+    },
+    {
+      "added_at": "2025-07-03 22:00:44",
+      "album": {
+        "name": "Hoeveel",
+        "url": "https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD"
+      },
+      "artists": [
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        }
+      ],
+      "duration_ms": 123025,
+      "name": "Hoeveel",
+      "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -591,18 +591,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Raak Taatie",
-        "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
+        "name": "Doen Net Jou Ding",
+        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
       },
       "artists": [
         {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
         }
       ],
-      "duration_ms": 245969,
-      "name": "Raak Taatie",
-      "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
+      "duration_ms": 185395,
+      "name": "Doen Net Jou Ding",
+      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Raak Taatie",
+        "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        }
+      ],
+      "duration_ms": 245969,
+      "name": "Raak Taatie",
+      "url": "https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Grammadoelas",
         "url": "https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 123333,
       "name": "Grammadoelas",
       "url": "https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Doen Net Jou Ding",
-        "url": "https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 185395,
-      "name": "Doen Net Jou Ding",
-      "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
     },
     {
       "added_at": "2025-09-25 22:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,788 likes - 48 songs - 2 hr 40 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,787 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 46 | [Feeling \(Hold On You\)](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ) | [Feeling \(Hold On You\)](https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr) | 3:36 |
 | 47 | [Forge](https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Forge](https://open.spotify.com/album/130C9Fb8aYMPQWNTMoBTO9) | 3:48 |
 | 48 | [Home Ground](https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Home Ground](https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS) | 3:10 |
+| 49 | [Looking Backwards](https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Looking Backwards](https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA) | 4:08 |
 
-Snapshot ID: `AAARMEmy5J9QA8uYgOpwjT6knc/bT73y`
+Snapshot ID: `AAARMaU0F9TUya0S5cBWhFU6xd5OqFPK`

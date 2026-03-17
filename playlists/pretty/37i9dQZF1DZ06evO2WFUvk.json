@@ -1,12 +1,12 @@
 {
   "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
-  "num_followers": 4102,
+  "num_followers": 4103,
   "original_name": "This Is Rodrigo Gonzalez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAAD7u0zjVDU+qRYvfjiWWReU",
+  "snapshot_id": "abX2gAAAAADKCoNeB7hOEkN0VSfUBz1W",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 199653,
-      "name": "Amor De Telefono Esquinero",
-      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
+      "duration_ms": 230026,
+      "name": "Puedes",
+      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 208826,
-      "name": "Dicen Que La Muerte",
-      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
+      "duration_ms": 351173,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Puedes",
-      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
+      "duration_ms": 199653,
+      "name": "Amor De Telefono Esquinero",
+      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
         }
       ],
-      "duration_ms": 351173,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn"
+      "duration_ms": 208826,
+      "name": "Dicen Que La Muerte",
+      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
     },
     {
       "added_at": null,

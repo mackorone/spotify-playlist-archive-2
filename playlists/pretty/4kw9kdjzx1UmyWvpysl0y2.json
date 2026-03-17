@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124207,
+  "num_followers": 124209,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVNzniOg8bVZt2VS0J4bbmXgqFcyQf",
+  "snapshot_id": "AAAVOJkFAxsR08HTvuSAdgS2YIdRzQUi",
   "tracks": [
+    {
+      "added_at": "2026-03-16 14:04:01",
+      "album": {
+        "name": "Shock Limit",
+        "url": "https://open.spotify.com/album/2cXC2ZxK1jjJwPAUcWyemZ"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Shock Limit",
+      "url": "https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq"
+    },
     {
       "added_at": "2026-03-13 15:12:41",
       "album": {

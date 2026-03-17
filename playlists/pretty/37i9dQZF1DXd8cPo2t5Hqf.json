@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 410225,
+  "num_followers": 410264,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
-      },
-      "artists": [
-        {
-          "name": "ryo (supercell)",
-          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u96fb\u5f69\u60f3\u6b4c",
         "url": "https://open.spotify.com/album/3KMNpwCbi5ph5COIYzOGHp"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 197167,
       "name": "\u3048\u308c\u304f\u3068\u308a\u3063\u304f\u30fb\u3048\u3093\u3058\u3047\u3045",
       "url": "https://open.spotify.com/track/2NuZgqzYhbvoP2IHpt1W7D"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+      },
+      "artists": [
+        {
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/1chETycPdQmdJsWX1BoMVj"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -439,26 +439,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4EThV35Hzn0ZyJ1qsYvhG7"
+        "name": "\u30dc\u30fc\u30ca\u30b9\uff3c(^o^)\uff0f",
+        "url": "https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb"
       },
       "artists": [
         {
-          "name": "Mitchie M",
-          "url": "https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+          "name": "Owata-P",
+          "url": "https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP"
         }
       ],
-      "duration_ms": 231560,
-      "name": "\u5927\u6c5f\u6238\u30b8\u30e5\u30ea\u30a2\u30ca\u30a4\u30c8 feat. \u521d\u97f3\u30df\u30af with KAITO",
-      "url": "https://open.spotify.com/track/3XjkTRYjPs8JjRvG4jDPVm"
+      "duration_ms": 167296,
+      "name": "\u30ea\u30f3\u3061\u3083\u3093\u306a\u3046\uff01",
+      "url": "https://open.spotify.com/track/6SbEHBJnDWhzCEBbRUNnVz"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -483,18 +475,26 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30dc\u30fc\u30ca\u30b9\uff3c(^o^)\uff0f",
-        "url": "https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb"
+        "name": "\u30d0\u30fc\u30c1\u30e3\u30eb\u30fb\u30dd\u30c3\u30d7\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4EThV35Hzn0ZyJ1qsYvhG7"
       },
       "artists": [
         {
-          "name": "Owata-P",
-          "url": "https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP"
+          "name": "Mitchie M",
+          "url": "https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
         }
       ],
-      "duration_ms": 167296,
-      "name": "\u30ea\u30f3\u3061\u3083\u3093\u306a\u3046\uff01",
-      "url": "https://open.spotify.com/track/6SbEHBJnDWhzCEBbRUNnVz"
+      "duration_ms": 231560,
+      "name": "\u5927\u6c5f\u6238\u30b8\u30e5\u30ea\u30a2\u30ca\u30a4\u30c8 feat. \u521d\u97f3\u30df\u30af with KAITO",
+      "url": "https://open.spotify.com/track/3XjkTRYjPs8JjRvG4jDPVm"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Just Be Friends",
-        "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
-      },
-      "artists": [
-        {
-          "name": "Dixie Flatline",
-          "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
-        }
-      ],
-      "duration_ms": 301469,
-      "name": "Just Be Friends",
-      "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
         "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194000,
       "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
       "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/7at2OSOEKvg5sUdnRFS2Sv"
+      },
+      "artists": [
+        {
+          "name": "Dixie Flatline",
+          "url": "https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80"
+        }
+      ],
+      "duration_ms": 301469,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/7qdIR2jTfgOvsQSWHPjjIJ"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -695,6 +695,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+      },
+      "artists": [
+        {
+          "name": "wowaka",
+          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "SIGNALOID BOX",
         "url": "https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 158926,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
-      },
-      "artists": [
-        {
-          "name": "wowaka",
-          "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "\u88cf\u8868\u30e9\u30d0\u30fc\u30ba -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/2IB3U5cktSu6ERw7nVIEzO"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u4e8c\u6b21\u5143\u30c9\u30ea\u30fc\u30e0\u30d5\u30a3\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea"
-      },
-      "artists": [
-        {
-          "name": "PolyphonicBranch",
-          "url": "https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "\u4e8c\u6b21\u5143\u30c9\u30ea\u30fc\u30e0\u30d5\u30a3\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
         "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 262000,
       "name": "\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f",
       "url": "https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u4e8c\u6b21\u5143\u30c9\u30ea\u30fc\u30e0\u30d5\u30a3\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea"
+      },
+      "artists": [
+        {
+          "name": "PolyphonicBranch",
+          "url": "https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN"
+        }
+      ],
+      "duration_ms": 188253,
+      "name": "\u4e8c\u6b21\u5143\u30c9\u30ea\u30fc\u30e0\u30d5\u30a3\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4WfgfyCeXhyitWzm1dUzWZ"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -975,22 +975,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30ef\u30f3\u2606\u30aa\u30dd\uff01vol.04",
-        "url": "https://open.spotify.com/album/0PTi0Gqs5rzHlH4rH2TqBq"
-      },
-      "artists": [
-        {
-          "name": "Wonderful\u2605opportunity!",
-          "url": "https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B"
-        }
-      ],
-      "duration_ms": 311500,
-      "name": "\u30ea\u30e2\u30b3\u30f3",
-      "url": "https://open.spotify.com/track/4ZaoxEyujcMzowX3WgPY0w"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
         "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 192150,
       "name": "\u521d\u97f3\u30df\u30af\u306e\u6fc0\u5531 -MIKU EXPO 2014 in INDONESIA Live-",
       "url": "https://open.spotify.com/track/2Tpd2eHx7LT60o7BwZlqr3"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u30ef\u30f3\u2606\u30aa\u30dd\uff01vol.04",
+        "url": "https://open.spotify.com/album/0PTi0Gqs5rzHlH4rH2TqBq"
+      },
+      "artists": [
+        {
+          "name": "Wonderful\u2605opportunity!",
+          "url": "https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B"
+        }
+      ],
+      "duration_ms": 311500,
+      "name": "\u30ea\u30e2\u30b3\u30f3",
+      "url": "https://open.spotify.com/track/4ZaoxEyujcMzowX3WgPY0w"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u7d05\u4e00\u8449",
-        "url": "https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d"
-      },
-      "artists": [
-        {
-          "name": "KuroUsa(WhiteFlame)",
-          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
-        }
-      ],
-      "duration_ms": 252146,
-      "name": "\u7d05\u4e00\u8449",
-      "url": "https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u3057\u307c\u3046",
         "url": "https://open.spotify.com/album/01FmZ0KiPJKElbvQjro8vx"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 313000,
       "name": "\u3059\u308d\u3049\u3082\u3049\u3057\u3087\u3093",
       "url": "https://open.spotify.com/track/1X9bR5ap587qs7r1KSCIKN"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u7d05\u4e00\u8449",
+        "url": "https://open.spotify.com/album/5iUqJLkuT2hV1xcWswJi7d"
+      },
+      "artists": [
+        {
+          "name": "KuroUsa(WhiteFlame)",
+          "url": "https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF"
+        }
+      ],
+      "duration_ms": 252146,
+      "name": "\u7d05\u4e00\u8449",
+      "url": "https://open.spotify.com/track/1rnEmMcOAdQckPj3mRDkmH"
     },
     {
       "added_at": "2021-05-26 02:37:36",

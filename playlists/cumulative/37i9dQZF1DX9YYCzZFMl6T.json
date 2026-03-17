@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
+      },
+      "artists": [
+        {
+          "name": "Palmyra",
+          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194582,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
+    },
+    {
+      "album": {
+        "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
       },
       "artists": [
@@ -1214,7 +1232,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 254866,
       "name": "The Brightest Star",
       "url": "https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ"

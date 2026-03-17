@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: KickFlip(\ud0a5\ud50c\ub9bd)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: AB6IX (\uc5d0\uc774\ube44\uc2dd\uc2a4)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -9946,7 +9946,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 255909,
       "name": "After you've gone",
       "url": "https://open.spotify.com/track/356KuJjaeDOD8MONvyAOmf"
@@ -17013,6 +17013,24 @@
     },
     {
       "album": {
+        "name": "Mongle, Mongle? Mongle! OST",
+        "url": "https://open.spotify.com/album/3q9gUVz68IpVAfcV4283i2"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "As I am",
+      "url": "https://open.spotify.com/track/7akfjkkp7aQWE4wR0xQIFb"
+    },
+    {
+      "album": {
         "name": "As I did",
         "url": "https://open.spotify.com/album/4ZIotzhBP5coTDcJHwv371"
       },
@@ -19556,6 +19574,28 @@
       "duration_ms": 238000,
       "name": "Baby, Please Come Back",
       "url": "https://open.spotify.com/track/0BjYstudr6AoNfiRUfCYM2"
+    },
+    {
+      "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/6udNHmt0PSsQlop2EX90Nm"
+      },
+      "artists": [
+        {
+          "name": "Coa White",
+          "url": "https://open.spotify.com/artist/6cHHFikz4JtK0BmU86vnvo"
+        },
+        {
+          "name": "kioskdoll",
+          "url": "https://open.spotify.com/artist/1hiSWjsvOrIiCKI4gmDn9C"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/66HWds9qgwzMxcfiwQcCue"
     },
     {
       "album": {
@@ -32184,6 +32224,24 @@
       "duration_ms": 185124,
       "name": "bottom parade",
       "url": "https://open.spotify.com/track/4jTyKruIyG8mAI1c8QlxfD"
+    },
+    {
+      "album": {
+        "name": "SEVEN : CRIMSON HORIZON",
+        "url": "https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198237,
+      "name": "BOTTOMS UP",
+      "url": "https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB"
     },
     {
       "album": {
@@ -53643,6 +53701,24 @@
     },
     {
       "album": {
+        "name": "NO DOUBT",
+        "url": "https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151867,
+      "name": "DEAD MAN WALKING",
+      "url": "https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX"
+    },
+    {
+      "album": {
         "name": "Deadfool",
         "url": "https://open.spotify.com/album/2gTTn5QPraSFSoMoN19YJs"
       },
@@ -54846,7 +54922,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 177000,
       "name": "Deep Dawn",
       "url": "https://open.spotify.com/track/067O1ePjUgjvjPd4wWGf5y"
@@ -68326,7 +68402,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 230769,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/2YiEOXzK5E85TcifJHSZgO"
@@ -97601,6 +97677,24 @@
     },
     {
       "album": {
+        "name": "Siren's Kiss (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/5GAq5rGmqpkS5lWHQjgUiK"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5z9xBkTjtyYhgrAx1guUND"
+    },
+    {
+      "album": {
         "name": "18 again, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV"
       },
@@ -98380,7 +98474,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 413194,
       "name": "Heukseok-dong",
       "url": "https://open.spotify.com/track/1YAOfACashdIviwvQbXodh"
@@ -103314,7 +103408,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 389914,
       "name": "How Can Love Be Like That",
       "url": "https://open.spotify.com/track/7yZE8FBSyULiHE5ENrqjTO"
@@ -105114,7 +105208,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 206000,
       "name": "Human Extinction",
       "url": "https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr"
@@ -170363,6 +170457,24 @@
     },
     {
       "album": {
+        "name": "No way A way (NWAW)",
+        "url": "https://open.spotify.com/album/6O60ZeEzv8gPBM9rxk2CSJ"
+      },
+      "artists": [
+        {
+          "name": "Jang Soo Bin",
+          "url": "https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "No way A way (NWAW)",
+      "url": "https://open.spotify.com/track/1gdZlHRdr3OXnUpDb4FYQC"
+    },
+    {
+      "album": {
         "name": "SCRAPS",
         "url": "https://open.spotify.com/album/7xBLG0BG8IalE2fIwpyt85"
       },
@@ -218983,6 +219095,32 @@
     },
     {
       "album": {
+        "name": "Spring Already",
+        "url": "https://open.spotify.com/album/4QfGY8UehiHWgRoiiFNQ7n"
+      },
+      "artists": [
+        {
+          "name": "JEON NOW",
+          "url": "https://open.spotify.com/artist/10el24MGnx27TEXY6kM7Qv"
+        },
+        {
+          "name": "noahjooda",
+          "url": "https://open.spotify.com/artist/5MnVIg8khTLdt3CgVDWcNE"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157941,
+      "name": "Spring Already",
+      "url": "https://open.spotify.com/track/4oP2dwHqYtRGKt8cRGcSlo"
+    },
+    {
+      "album": {
         "name": "Spring And Spring",
         "url": "https://open.spotify.com/album/3NJj4kNgYqrFRRGa8RyNR1"
       },
@@ -224324,6 +224462,24 @@
       "duration_ms": 232373,
       "name": "Still thinking about you",
       "url": "https://open.spotify.com/track/1uOMFdnriBS5fk1Fr2O7lv"
+    },
+    {
+      "album": {
+        "name": "Still Thinking of You",
+        "url": "https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga"
+      },
+      "artists": [
+        {
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Still Thinking of You",
+      "url": "https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy"
     },
     {
       "album": {
@@ -241950,7 +242106,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 264000,
       "name": "There was no one there..",
       "url": "https://open.spotify.com/track/1j947GcRVqxH7Y0kWBW9nY"
@@ -271415,6 +271571,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/2uyzgzcGtcoxju78SFlGCS"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2IWqrZomXVc0YmcfDFyCXa"
+    },
+    {
+      "album": {
         "name": "WINTER of aespa X MY DEMON",
         "url": "https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y"
       },
@@ -290636,7 +290810,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 193000,
       "name": "\uc624\ub514\ub108\ub9ac \ub7ec\ube0c",
       "url": "https://open.spotify.com/track/4ecxAtQScbtu6SVgEYUptr"
@@ -293580,7 +293754,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 167076,
       "name": "\uce78\uc608\ubcf4\ub2e4 \ub108",
       "url": "https://open.spotify.com/track/1yR5Lh7tf9Dklrh8Nid9Uo"

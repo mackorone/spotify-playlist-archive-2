@@ -1,18 +1,18 @@
 {
   "description": "Global crossovers by Arab artists. Cover: YAZ",
-  "num_followers": 166874,
+  "num_followers": 166875,
   "original_name": "Arab X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGvNoCBfzq6lpbfiL6TtaYPuFcUA",
+  "snapshot_id": "AAAAAMW4HmN2zhSAKkAANNguxM6YWEAv",
   "tracks": [
     {
-      "added_at": "2026-01-22 07:12:36",
+      "added_at": "2026-03-16 14:06:51",
       "album": {
-        "name": "Difficult",
-        "url": "https://open.spotify.com/album/4uoQJV8QsrJPQBNWLdreEs"
+        "name": "Big Deal",
+        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
       },
       "artists": [
         {
@@ -20,15 +20,47 @@
           "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
         }
       ],
-      "duration_ms": 176802,
-      "name": "Difficult",
-      "url": "https://open.spotify.com/track/2F7lnGyuqAZWMyoN25qVqC"
+      "duration_ms": 150264,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
     },
     {
-      "added_at": "2026-01-21 08:38:39",
+      "added_at": "2025-10-06 11:50:22",
       "album": {
-        "name": "Dalou3a (Nari)",
-        "url": "https://open.spotify.com/album/5xsqoVCvXyEWDWVghb34Z3"
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/0ONGZLVJwJXgRGwkZzGBAk"
+      },
+      "artists": [
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 153644,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/4ydkHlS4tJYEjoANmUDEol"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Beaucoup",
+        "url": "https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3"
+      },
+      "artists": [
+        {
+          "name": "TILILA",
+          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
+        }
+      ],
+      "duration_ms": 193324,
+      "name": "Beaucoup",
+      "url": "https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Jananto",
+        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
       },
       "artists": [
         {
@@ -36,9 +68,25 @@
           "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Dalou3a (Nari)",
-      "url": "https://open.spotify.com/track/6uyHqVoPvzSySzDe2Famfl"
+      "duration_ms": 181445,
+      "name": "Jananto",
+      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
+    },
+    {
+      "added_at": "2026-03-16 14:06:51",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/0839Kf02US5van5YHRCflf"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 203244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6lX0AWScOl2M3xEPRKkVRy"
     },
     {
       "added_at": "2025-11-19 17:26:39",
@@ -91,162 +139,6 @@
       "duration_ms": 185749,
       "name": "ya sirri",
       "url": "https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "If I Must Die",
-        "url": "https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "If I Must Die",
-      "url": "https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Jananto",
-        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 181445,
-      "name": "Jananto",
-      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
-    },
-    {
-      "added_at": "2025-11-19 17:26:39",
-      "album": {
-        "name": "MA3ASSALAMA Side B: Begin Again",
-        "url": "https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7"
-      },
-      "artists": [
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        }
-      ],
-      "duration_ms": 203570,
-      "name": "Reality Check",
-      "url": "https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Beaucoup",
-        "url": "https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3"
-      },
-      "artists": [
-        {
-          "name": "TILILA",
-          "url": "https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "Beaucoup",
-      "url": "https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/0ONGZLVJwJXgRGwkZzGBAk"
-      },
-      "artists": [
-        {
-          "name": "Jeed",
-          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
-        }
-      ],
-      "duration_ms": 153644,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/4ydkHlS4tJYEjoANmUDEol"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "ITTY BITTY",
-        "url": "https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3"
-      },
-      "artists": [
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 143133,
-      "name": "ITTY BITTY",
-      "url": "https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Who Pulled Up? (feat. Jeed)",
-        "url": "https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC"
-      },
-      "artists": [
-        {
-          "name": "Kali-B",
-          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
-        },
-        {
-          "name": "Jeed",
-          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Who Pulled Up? (feat. Jeed)",
-      "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "Call Her Right Now",
-        "url": "https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14"
-      },
-      "artists": [
-        {
-          "name": "Bayou",
-          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
-        },
-        {
-          "name": "HADY MOAMER",
-          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
-        },
-        {
-          "name": "Motif Alumni",
-          "url": "https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC"
-        }
-      ],
-      "duration_ms": 137110,
-      "name": "Call Her Right Now",
-      "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
-    },
-    {
-      "added_at": "2025-12-18 11:50:07",
-      "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/1AEZQgZKNEPq6mWgFwUzVB"
-      },
-      "artists": [
-        {
-          "name": "Amir Obe",
-          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/2ouy8vmFQw644Wj2Mbi2iS"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -331,6 +223,130 @@
       "duration_ms": 194195,
       "name": "ROLLERCOASTER",
       "url": "https://open.spotify.com/track/3QjwfqkglQOeUuyNKiK5oC"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "If I Must Die",
+        "url": "https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "If I Must Die",
+      "url": "https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy"
+    },
+    {
+      "added_at": "2025-11-19 17:26:39",
+      "album": {
+        "name": "MA3ASSALAMA Side B: Begin Again",
+        "url": "https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 203570,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "ITTY BITTY",
+        "url": "https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "ITTY BITTY",
+      "url": "https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Who Pulled Up? (feat. Jeed)",
+        "url": "https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Jeed",
+          "url": "https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Who Pulled Up? (feat. Jeed)",
+      "url": "https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt"
+    },
+    {
+      "added_at": "2025-10-06 11:50:22",
+      "album": {
+        "name": "Call Her Right Now",
+        "url": "https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14"
+      },
+      "artists": [
+        {
+          "name": "Bayou",
+          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
+        },
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        },
+        {
+          "name": "Motif Alumni",
+          "url": "https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC"
+        }
+      ],
+      "duration_ms": 137110,
+      "name": "Call Her Right Now",
+      "url": "https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq"
+    },
+    {
+      "added_at": "2025-12-18 11:50:07",
+      "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/1AEZQgZKNEPq6mWgFwUzVB"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/2ouy8vmFQw644Wj2Mbi2iS"
+    },
+    {
+      "added_at": "2026-01-21 08:38:39",
+      "album": {
+        "name": "Dalou3a (Nari)",
+        "url": "https://open.spotify.com/album/5xsqoVCvXyEWDWVghb34Z3"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Dalou3a (Nari)",
+      "url": "https://open.spotify.com/track/6uyHqVoPvzSySzDe2Famfl"
     },
     {
       "added_at": "2025-10-06 11:50:22",
@@ -515,22 +531,6 @@
       "duration_ms": 230635,
       "name": "Scarred Hearts Love Better =\u25cb<",
       "url": "https://open.spotify.com/track/5HZK9QjVSAHdoxXw8J8YHM"
-    },
-    {
-      "added_at": "2025-10-06 11:50:22",
-      "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 116492,
-      "name": "Callin' U (Tamally Maak)",
-      "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
     },
     {
       "added_at": "2025-10-06 11:50:22",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAADj1+IB18kBGZYHcetq3TQM",
+  "snapshot_id": "abX2gAAAAAC1W1H8lIa5cU5Gdw7uV6G/",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 224063,
       "name": "Natural",
       "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 210729,
+      "name": "Exit Oblivion",
+      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
     },
     {
       "added_at": null,
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 255198,
-      "name": "Black Rainbow",
-      "url": "https://open.spotify.com/track/1gtmQU62sEGfkPEbRf5XGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 210729,
-      "name": "Exit Oblivion",
-      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
+      "duration_ms": 198306,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
     },
     {
       "added_at": null,
@@ -379,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -407,6 +375,22 @@
       "duration_ms": 226602,
       "name": "Coma Happy",
       "url": "https://open.spotify.com/track/3PRA9QSYQjNJk5EGEiIlLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
     },
     {
       "added_at": null,
@@ -436,25 +420,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 155840,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 120586,
-      "name": "Bullet Head",
-      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
+      "duration_ms": 165613,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
     },
     {
       "added_at": null,
@@ -471,6 +439,22 @@
       "duration_ms": 187945,
       "name": "Inside Joke",
       "url": "https://open.spotify.com/track/1hiwRdBC9i80riLD0qn9Xp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 120586,
+      "name": "Bullet Head",
+      "url": "https://open.spotify.com/track/161dgbbuAbrtAT5RV2trhN"
     },
     {
       "added_at": null,
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Heart Is A Landmine",
-      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
+      "duration_ms": 155840,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 207906,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5epGSSIQKPc81a1y8n7I9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Heart Is A Landmine",
+      "url": "https://open.spotify.com/track/3CzKhlBa4VQOu05ykJAro0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud avec Lost, Souldia, Calamine, et plus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,782 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,783 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 32 | [Vallée](https://open.spotify.com/track/3QclXdf8qAKb4Kux5YpGS9) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [Vallée](https://open.spotify.com/album/54G50PwrOcrmBuBuUmtrYj) | 3:14 |
 | 33 | [PAUSE](https://open.spotify.com/track/2SSBcS8SbalU4TNmLNiNBj) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [PAUSE](https://open.spotify.com/album/2AGVoOsTMh7KydUFsVv9qF) | 3:11 |
 | 34 | [TORO LOCO](https://open.spotify.com/track/0Pknai6O8FqXfuq2ncepLC) | [g8apo](https://open.spotify.com/artist/5RKN0miMmKnVAA76fGlwIO), [Vago](https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe), [oyedevklok!](https://open.spotify.com/artist/6XC3zfgWucV8Ak3Rk2c5II), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [TORO LOCO](https://open.spotify.com/album/5G3DDBVFRCYK8SVcWvRB92) | 2:16 |
-| 35 | [BREAK LE MOULE](https://open.spotify.com/track/36jiVtS44bG2ao8vUGOGvk) | [Thoma$](https://open.spotify.com/artist/0sPJi1TLgvy6cl3OU37VKw), [N.aY](https://open.spotify.com/artist/0vHdsJBmGS1llVIO7BjL5J), [Eleven Pond](https://open.spotify.com/artist/21VHqZzPQS8fpiIq87BATK) | [BREAK LE MOULE](https://open.spotify.com/album/2VYZh7cScrHgSESoG2RXB0) | 1:45 |
+| 35 | [BREAK LE MOULE](https://open.spotify.com/track/36jiVtS44bG2ao8vUGOGvk) | [Thoma$](https://open.spotify.com/artist/0sPJi1TLgvy6cl3OU37VKw), [N.aY](https://open.spotify.com/artist/0vHdsJBmGS1llVIO7BjL5J) | [BREAK LE MOULE](https://open.spotify.com/album/2VYZh7cScrHgSESoG2RXB0) | 1:45 |
 | 36 | [Introverti](https://open.spotify.com/track/6Yi1UDyu0779GhF5bBBGZq) | [LeMind](https://open.spotify.com/artist/3PZuIxHVPdduhzcP78mmlW) | [Introverti](https://open.spotify.com/album/3X1l0uFjTgXmzvF3KR4Nba) | 2:03 |
 | 37 | [J'ai de la dope](https://open.spotify.com/track/2w3CrMussSQnO20dpjq2Mx) | [Dr\. Stein](https://open.spotify.com/artist/2VJPQYs4oCE20tmtcXcVuR), [Kalibre](https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN), [MOP](https://open.spotify.com/artist/4W4gQX46Dn3yTLdDLne8NW) | [Rap Conscient](https://open.spotify.com/album/3VO70UIiYjh2WLqUvsbtBl) | 1:37 |
 | 38 | [ca se fait](https://open.spotify.com/track/7mx2c8ZqLPaz8mPlhaXpuP) | [willjxmes](https://open.spotify.com/artist/0BshirqPxDsi7iF6hpjxoc) | [\#FRANGLAIS](https://open.spotify.com/album/7wZI4Ovfa5uVa5pIIawD60) | 2:06 |

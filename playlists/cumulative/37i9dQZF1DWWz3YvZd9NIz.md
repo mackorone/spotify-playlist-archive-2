@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-263 songs - 12 hr 54 min
+264 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU) | 1:56 | 2023-02-02 | 2023-05-23 |
 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/512iVeSpSMzPWsorQgYopk) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/0f7JldDsTZugn7KtXJ4VEe) | 1:56 | 2023-05-31 | 2024-04-19 |
 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 | 2022-12-22 |  |
+| [Mona Lisa \(All That She Wants\)](https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9) | 3:25 | 2026-03-16 |  |
 | [Moonlight Shadow \(Hardstyle Mix\)](https://open.spotify.com/track/0arW3VfwOdJZSDaEGRMqt9) | [Volture](https://open.spotify.com/artist/7avdm48dWDd3GOCPDNfigv) | [Moonlight Shadow \(Hardstyle Mix\)](https://open.spotify.com/album/6DT2N7MrRjfxFJFJj9A639) | 3:27 | 2023-07-13 | 2023-08-25 |
 | [Mr Brightside](https://open.spotify.com/track/72Tlquzl5q2vsqArGnRQEp) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:50 | 2022-12-05 | 2023-02-07 |
 | [My Heart Will Go On \(Titanic\)](https://open.spotify.com/track/6xW8JLQGyCIDUvQU6KplAQ) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [My Heart Will Go On \(Titanic\)](https://open.spotify.com/album/6N1zvlTXbxnA80TzeuaSfb) | 3:27 | 2023-06-08 | 2023-10-12 |
@@ -248,7 +249,7 @@
 | [Truly Madly Deeply](https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Kelly Matejcic](https://open.spotify.com/artist/0CTUM73g5EM0oTdkW35GLM) | [Truly Madly Deeply](https://open.spotify.com/album/2bhTRpPgIEee2mk1xLDTAX) | 3:28 | 2023-01-19 | 2023-02-25 |
 | [Turn The Tide](https://open.spotify.com/track/13eAJfjMoCMJmwzJPLBy6a) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV) | [Turn The Tide](https://open.spotify.com/album/3cPoYx8ChLEYFm59U6XlM2) | 2:59 | 2024-06-04 |  |
 | [Turn The Tide \- Unlocked Remix](https://open.spotify.com/track/09XY1zEvgHE2kKHIliFGLP) | [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [FeestDJRuud](https://open.spotify.com/artist/0IId5Ktyl22C7W9PtisEXD), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Turn The Tide \(Unlocked Remix\)](https://open.spotify.com/album/7DyLi6W3MnFprk8nonhBU0) | 2:51 | 2023-09-14 | 2023-09-29 |
-| [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 | 2023-04-20 |  |
+| [Turn The Tide Revisited](https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh) | [Lowriderz](https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy) | [Turn The Tide Revisited](https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz) | 3:08 | 2023-04-20 | 2026-03-17 |
 | [Twerk Anthem](https://open.spotify.com/track/0cZ6KOvnLf0C0GKLti31No) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Twerk Anthem](https://open.spotify.com/album/3cWHRG6B0GYAgusM50re31) | 2:50 | 2023-02-02 | 2023-04-30 |
 | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/track/2oh6jvkOXFs2DTn4ZRtA2i) | [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [UNHOLY \(HARDSTYLE\)](https://open.spotify.com/album/0gCd0ywIXYZPmxsNu42vm7) | 3:15 | 2023-02-23 | 2023-03-31 |
 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-02 | 2025-02-08 |

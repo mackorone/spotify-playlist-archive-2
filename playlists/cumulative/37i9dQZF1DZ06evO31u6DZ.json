@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 206480,
       "name": "Lush Rimbaugh",
       "url": "https://open.spotify.com/track/4Dws8iZDbv2kef8TYwVt8t"
@@ -1648,6 +1648,24 @@
       "duration_ms": 250560,
       "name": "One Eight Seven",
       "url": "https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f"
+    },
+    {
+      "album": {
+        "name": "Pull the Thorns from Your Heart",
+        "url": "https://open.spotify.com/album/2DeBiiHhjV4JovpMXxJAnd"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "Pull the Thorns from Your Heart",
+      "url": "https://open.spotify.com/track/1O75ojEPxBji0pAcrnalnb"
     },
     {
       "album": {

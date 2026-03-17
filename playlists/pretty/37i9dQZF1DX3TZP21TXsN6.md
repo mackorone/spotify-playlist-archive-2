@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: BFLQuatro, Flo, Vurr Flashy en meer…
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,226 likes - 69 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,215 likes - 69 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Haten](https://open.spotify.com/track/767CZer0mDoCLZEJRW86LW) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/1izmHwQe6Uxp6KhJ5UFb1x) | 2:28 |
+| 1 | [Haten](https://open.spotify.com/track/6KeLzjmdULnJxScv0gcXtD) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/3DYtCrZMQQ4gsiNK5AUo8I) | 2:26 |
 | 2 | [Kelderklasse](https://open.spotify.com/track/2WdHe9erdGAjXYf3GYpAIw) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Kelderklasse](https://open.spotify.com/album/3wV8fM9sKY9XiWV9mKuNSa) | 2:28 |
 | 3 | [PTSS](https://open.spotify.com/track/5x1u6tT7kZ06SVjeiOfNbo) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [PTSS](https://open.spotify.com/album/6jNLjUuXrS5RN3tyvVFDlQ) | 3:33 |
-| 4 | [Vluchtauto](https://open.spotify.com/track/5NvPWi5ytkmZAyCMW9q1OQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [BRANDIE](https://open.spotify.com/artist/1nJ2gBoNRg5vNcfv2imRL1) | [Achtbaan 2](https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF) | 2:41 |
-| 5 | [Bogolabogo](https://open.spotify.com/track/2t6AhycSwPpA8gJAJeadwr) | [Rano\-S](https://open.spotify.com/artist/6JNSxmYjUVFA5hII3QH3Kl), [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd) | [Bogolabogo](https://open.spotify.com/album/6gt83OitQIToCZV1wmKbmM) | 2:12 |
-| 6 | [Tje](https://open.spotify.com/track/2okz6JuOC0NoevU6aJcUNY) | [Pakteeh](https://open.spotify.com/artist/5b1S7LiV3xLH5TZjHqXT5t), [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [Tje](https://open.spotify.com/album/5tiqexSQuvgEnRx79pyRCB) | 2:21 |
-| 7 | [De Slimste Freestyle](https://open.spotify.com/track/4197qlUA7a24kdbzFhAIRE) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9) | [De Slimste Freestyle](https://open.spotify.com/album/37E6EcZFRp2xsDqe9IWctW) | 2:29 |
-| 8 | [Under Armour](https://open.spotify.com/track/16a0WNOCprLh6sKOuheaYT) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Under Armour](https://open.spotify.com/album/4AZhQWE6aAr2rEm2EVX0sl) | 3:05 |
-| 9 | [Geen Een Van Ze](https://open.spotify.com/track/0AbDf823EJzpZpTx1GXnxN) | [Zaf\_G](https://open.spotify.com/artist/2X2rcof1Fyyr0jOrK2Lnxo), [Cizri](https://open.spotify.com/artist/44VLghXDkoka9fwa2ZjFwR) | [Geen Een Van Ze](https://open.spotify.com/album/180b6qp37fOABEJ8KKThae) | 2:06 |
-| 10 | [Frans](https://open.spotify.com/track/4o3GiCtskBiq5TkUhOOVJX) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go) | [Frans](https://open.spotify.com/album/2aTBuZ1yf3FSfNyys7fLig) | 2:23 |
-| 11 | [Wouter](https://open.spotify.com/track/0wC2c51gdwndymAE5XpC3F) | [Ries](https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG), [Jordan River Banks](https://open.spotify.com/artist/6ko5cVXOFXsdk5yuH3Xfvs) | [Wouter](https://open.spotify.com/album/5ANDtCFJ1Z2zbUsHmmyrmG) | 3:08 |
-| 12 | [Real](https://open.spotify.com/track/0laRGIHiOUmvFP7mLFnr6W) | [SoulTrash](https://open.spotify.com/artist/0ZXn2h027Cg6lC1H2yw8ce), [Dion Mase](https://open.spotify.com/artist/2CEvU018xycPCeQBsPeOr3), [T\. Milan](https://open.spotify.com/artist/7zcoS129j3lsU7kp4RPXMe), [MC Lost](https://open.spotify.com/artist/0wKvKYIS85frEadu4vyV0J) | [Real](https://open.spotify.com/album/6qmSpFFc1yuNUNu3n4DJN5) | 3:19 |
-| 13 | [Life Goes On](https://open.spotify.com/track/7mJu2Nob5wi4hPXrPuCpCT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur) | [Life Goes On](https://open.spotify.com/album/0YEuekNPEKwO3CUcv997Xw) | 2:39 |
+| 4 | [Tje](https://open.spotify.com/track/2okz6JuOC0NoevU6aJcUNY) | [Pakteeh](https://open.spotify.com/artist/5b1S7LiV3xLH5TZjHqXT5t), [NAVI](https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti) | [Tje](https://open.spotify.com/album/5tiqexSQuvgEnRx79pyRCB) | 2:21 |
+| 5 | [Vluchtauto](https://open.spotify.com/track/5NvPWi5ytkmZAyCMW9q1OQ) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [BRANDIE](https://open.spotify.com/artist/1nJ2gBoNRg5vNcfv2imRL1) | [Achtbaan 2](https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF) | 2:41 |
+| 6 | [Under Armour](https://open.spotify.com/track/16a0WNOCprLh6sKOuheaYT) | [Kerron](https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf) | [Under Armour](https://open.spotify.com/album/4AZhQWE6aAr2rEm2EVX0sl) | 3:05 |
+| 7 | [Geen Een Van Ze](https://open.spotify.com/track/0AbDf823EJzpZpTx1GXnxN) | [Zaf\_G](https://open.spotify.com/artist/2X2rcof1Fyyr0jOrK2Lnxo), [Cizri](https://open.spotify.com/artist/44VLghXDkoka9fwa2ZjFwR) | [Geen Een Van Ze](https://open.spotify.com/album/180b6qp37fOABEJ8KKThae) | 2:06 |
+| 8 | [Bogolabogo](https://open.spotify.com/track/2t6AhycSwPpA8gJAJeadwr) | [Rano\-S](https://open.spotify.com/artist/6JNSxmYjUVFA5hII3QH3Kl), [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd) | [Bogolabogo](https://open.spotify.com/album/6gt83OitQIToCZV1wmKbmM) | 2:12 |
+| 9 | [Real](https://open.spotify.com/track/0laRGIHiOUmvFP7mLFnr6W) | [SoulTrash](https://open.spotify.com/artist/0ZXn2h027Cg6lC1H2yw8ce), [Dion Mase](https://open.spotify.com/artist/2CEvU018xycPCeQBsPeOr3), [T\. Milan](https://open.spotify.com/artist/7zcoS129j3lsU7kp4RPXMe), [MC Lost](https://open.spotify.com/artist/0wKvKYIS85frEadu4vyV0J) | [Real](https://open.spotify.com/album/6qmSpFFc1yuNUNu3n4DJN5) | 3:19 |
+| 10 | [De Slimste Freestyle](https://open.spotify.com/track/4197qlUA7a24kdbzFhAIRE) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9) | [De Slimste Freestyle](https://open.spotify.com/album/37E6EcZFRp2xsDqe9IWctW) | 2:29 |
+| 11 | [Life Goes On](https://open.spotify.com/track/7mJu2Nob5wi4hPXrPuCpCT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur) | [Life Goes On](https://open.spotify.com/album/0YEuekNPEKwO3CUcv997Xw) | 2:39 |
+| 12 | [Frans](https://open.spotify.com/track/4o3GiCtskBiq5TkUhOOVJX) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go) | [Frans](https://open.spotify.com/album/2aTBuZ1yf3FSfNyys7fLig) | 2:23 |
+| 13 | [Wouter](https://open.spotify.com/track/0wC2c51gdwndymAE5XpC3F) | [Ries](https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG), [Jordan River Banks](https://open.spotify.com/artist/6ko5cVXOFXsdk5yuH3Xfvs) | [Wouter](https://open.spotify.com/album/5ANDtCFJ1Z2zbUsHmmyrmG) | 3:08 |
 | 14 | [Eindstand Weer Alleen](https://open.spotify.com/track/0Aow4DMgRbT6FG1uvFTgCa) | [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [Eindstand Weer Alleen](https://open.spotify.com/album/3fnl72mvMGX9hWevPAbskh) | 2:32 |
 | 15 | [Geen Rust](https://open.spotify.com/track/2xvKJR2RafSNa6JCmBFDWn) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Geen Rust](https://open.spotify.com/album/3ZlT0H5wGzGYJ1kquz36Gn) | 2:54 |
 | 16 | [Niet Regular](https://open.spotify.com/track/5WboEjeHdnQWs8BM4VctWg) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD) | [Niet Regular](https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6) | 2:58 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 68 | [Wat ik voel](https://open.spotify.com/track/1ketT97Cie18kU6gH4iSHH) | [Alex Euro](https://open.spotify.com/artist/1btts0oj1pH2inP7TKYiLL), [Lienz](https://open.spotify.com/artist/11GMr695MGyabd8etqZQWz) | [Wat ik voel](https://open.spotify.com/album/6fe80xu2nNcIgjLPcI7Az1) | 2:32 |
 | 69 | [Movie](https://open.spotify.com/track/6YRkOlYagaDyXAk3s2jNpH) | [Madzz](https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Movie](https://open.spotify.com/album/4SIY5DbET8kwUPCozgi72B) | 2:10 |
 
-Snapshot ID: `AAAAALuTZOs2CUybvcDsZybxnqemLQG3`
+Snapshot ID: `AAAAAEfpumKThGWB4ofIxZNHtxtNcbqQ`

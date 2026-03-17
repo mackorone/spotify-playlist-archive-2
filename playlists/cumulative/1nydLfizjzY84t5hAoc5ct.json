@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Patsy Kensit",
+        "url": "https://open.spotify.com/album/1v7UVDJSxPwaApJG6GKQju"
+      },
+      "artists": [
+        {
+          "name": "Lemon Drink",
+          "url": "https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Patsy Kensit",
+      "url": "https://open.spotify.com/track/6rWaw5oGNDOcT52Zsysjx9"
+    },
+    {
+      "album": {
         "name": "Beginnings and Endings",
         "url": "https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci"
       },

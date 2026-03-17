@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Presley Regier",
-  "num_followers": 229096,
+  "num_followers": 229106,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAFtbYNe6Vb6xNAj353jyRq0MzE",
+  "snapshot_id": "AAAAANMM/NmdC8jchF9AvUjJi22xJ/XF",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:34",
@@ -25,6 +25,38 @@
       "url": "https://open.spotify.com/track/5M19tUtR2VwhBNS3whND8m"
     },
     {
+      "added_at": "2026-03-16 20:04:39",
+      "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh"
+      },
+      "artists": [
+        {
+          "name": "In Color",
+          "url": "https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk"
+        }
+      ],
+      "duration_ms": 292864,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7"
+    },
+    {
+      "added_at": "2026-03-16 20:52:03",
+      "album": {
+        "name": "auburn",
+        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "auburn",
+      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+    },
+    {
       "added_at": "2026-03-06 05:00:25",
       "album": {
         "name": "How the Fire Started",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/6muc6qsSWXopaIhitb7Elb"
     },
     {
+      "added_at": "2026-03-16 20:04:39",
+      "album": {
+        "name": "Pardon Me",
+        "url": "https://open.spotify.com/album/7A2lM8Nv9uSsopJk5PvaRp"
+      },
+      "artists": [
+        {
+          "name": "The Court",
+          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
+        }
+      ],
+      "duration_ms": 138462,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/4pnbLZ74D1KUCqDHwe2CXn"
+    },
+    {
       "added_at": "2026-02-27 05:00:34",
       "album": {
         "name": "You Always Liked Me Better When I Was Stoned",
@@ -55,6 +103,22 @@
       "duration_ms": 189913,
       "name": "You Always Liked Me Better When I Was Stoned",
       "url": "https://open.spotify.com/track/31Zd47aEZP29ZoGQkp45VN"
+    },
+    {
+      "added_at": "2026-03-17 00:18:43",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
     },
     {
       "added_at": "2026-02-27 05:00:34",
@@ -673,22 +737,6 @@
       "url": "https://open.spotify.com/track/1tBQNVylJHS9gg5EVTT5nQ"
     },
     {
-      "added_at": "2026-01-16 16:23:10",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/5UigyP4Tis77ddifVJcnbl"
-      },
-      "artists": [
-        {
-          "name": "Jordan Frye",
-          "url": "https://open.spotify.com/artist/41IbYYlSlUZBjudQNAGvDu"
-        }
-      ],
-      "duration_ms": 176797,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/5Yp158mKmU51ERMgvSeKgB"
-    },
-    {
       "added_at": "2025-12-19 05:00:41",
       "album": {
         "name": "(how could i be)honest?",
@@ -751,54 +799,6 @@
       "duration_ms": 171453,
       "name": "UNDONE",
       "url": "https://open.spotify.com/track/4LSBkHIZSeV4u4ZMGeEstK"
-    },
-    {
-      "added_at": "2025-11-25 04:54:21",
-      "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/5PpKgHT2abrFWgDC787kkW"
-      },
-      "artists": [
-        {
-          "name": "LURO",
-          "url": "https://open.spotify.com/artist/0a1xU25hcAVk5yvxwAiaLN"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/0jNdXLmiIK7vlgP9Ia1tVQ"
-    },
-    {
-      "added_at": "2025-11-07 05:51:47",
-      "album": {
-        "name": "Fickle Friends",
-        "url": "https://open.spotify.com/album/77NcQbJCAIoymd5Z0VCJre"
-      },
-      "artists": [
-        {
-          "name": "Fickle Friends",
-          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/23zspOaDtWuHh0bZaCo3PZ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:48",
-      "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/73zS4sBXsDeLo0Bywq0LNP"
-      },
-      "artists": [
-        {
-          "name": "THEM",
-          "url": "https://open.spotify.com/artist/7JunupRhwPsBPCiQebBIin"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/2wL3b04nyaSy69UoV9jyhH"
     },
     {
       "added_at": "2025-12-05 05:01:27",

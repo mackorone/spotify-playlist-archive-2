@@ -1,12 +1,12 @@
 {
   "description": "emma harner gently ushering in spring \ud83c\udf43",
-  "num_followers": 144945,
+  "num_followers": 144941,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFsTCjvsn3BoY/Cb+ht2ba2VXA6u",
+  "snapshot_id": "AAAAAEYORo/5OqvYRRRYrAPFy5y7imln",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:19",
@@ -55,6 +55,22 @@
       "duration_ms": 192144,
       "name": "Walls",
       "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
+    },
+    {
+      "added_at": "2026-03-16 15:03:43",
+      "album": {
+        "name": "Crying Laughing Loving Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "Cannock Chase",
+      "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY"
     },
     {
       "added_at": "2026-03-13 04:00:44",

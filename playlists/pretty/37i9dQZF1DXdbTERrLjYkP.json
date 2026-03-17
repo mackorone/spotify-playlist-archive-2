@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Emyrson Flora",
-  "num_followers": 219048,
+  "num_followers": 219049,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjHgKpS6OoFnn1FZunx5l0C0g5d",
+  "snapshot_id": "AAAAAJsiNYP8jrd0RILEWk5/TgcBtmgT",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:17",
@@ -57,6 +57,38 @@
       "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
     },
     {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Old Time's Sake",
+        "url": "https://open.spotify.com/album/4JRlbtTEJu7TQ3DVp5vKO2"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Old Time's Sake",
+      "url": "https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs"
+    },
+    {
+      "added_at": "2026-03-17 01:16:24",
+      "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
+    },
+    {
       "added_at": "2026-03-13 04:00:44",
       "album": {
         "name": "You Don't Really Like Me",
@@ -87,22 +119,6 @@
       "duration_ms": 206874,
       "name": "Aint It Such A Bitch",
       "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "Old Time's Sake",
-        "url": "https://open.spotify.com/album/4JRlbtTEJu7TQ3DVp5vKO2"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Old Time's Sake",
-      "url": "https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs"
     },
     {
       "added_at": "2026-03-13 04:00:44",
@@ -1015,22 +1031,6 @@
       "duration_ms": 231826,
       "name": "Restless Eyes",
       "url": "https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H"
-    },
-    {
-      "added_at": "2025-10-17 07:56:44",
-      "album": {
-        "name": "wasted potential",
-        "url": "https://open.spotify.com/album/3wNynNrLA99yCegtnhnC3u"
-      },
-      "artists": [
-        {
-          "name": "Aubory Bugg",
-          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
-        }
-      ],
-      "duration_ms": 211176,
-      "name": "wasted potential",
-      "url": "https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2"
     },
     {
       "added_at": "2025-10-10 04:00:38",

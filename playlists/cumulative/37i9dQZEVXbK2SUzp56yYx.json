@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 120048,
       "name": "Collector",
       "url": "https://open.spotify.com/track/4ziuWzQf1TNmFOggO2xkBH"
@@ -6066,7 +6066,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -7214,7 +7214,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 94084,
       "name": "ex-freundin",
       "url": "https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh"
@@ -9510,7 +9510,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 186072,
       "name": "GoodDayFlopTray",
       "url": "https://open.spotify.com/track/6u7Qw9ULuJBMtmSfBIT5eS"
@@ -10258,7 +10258,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Hello Juliet",
       "url": "https://open.spotify.com/track/0miNQiJqyO5CIZbyLTHO7J"
@@ -10762,7 +10762,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 151239,
       "name": "How Deep Is Your Love - Studio Version",
       "url": "https://open.spotify.com/track/5UHG80Meo2tfsi98NiY6Pz"
@@ -11825,6 +11825,24 @@
     },
     {
       "album": {
+        "name": "From Rotting Fantasylands",
+        "url": "https://open.spotify.com/album/0hi0zLf5cBSCaK0s3vGLqf"
+      },
+      "artists": [
+        {
+          "name": "Nero's Day At Disneyland",
+          "url": "https://open.spotify.com/artist/2KHIH3mfq3nZ6LccJ0mfei"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "In Aisles",
+      "url": "https://open.spotify.com/track/1CHcC0y3SfJKUxtc33hB7t"
+    },
+    {
+      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
       },
@@ -11908,7 +11926,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 174512,
       "name": "INDIAN",
       "url": "https://open.spotify.com/track/5K4kGlwFdzI2p0W4L1CPUW"
@@ -15788,7 +15806,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 113465,
       "name": "MONTAGEM ALQUIMIA - SLOWED",
       "url": "https://open.spotify.com/track/0vmFuEhyHR8SbOhDFq021Y"
@@ -16072,6 +16090,32 @@
       "duration_ms": 80442,
       "name": "MONTAGEM DIRE\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/1KuF0vl4lKo1EQNAJIlnZM"
+    },
+    {
+      "album": {
+        "name": "MONTAGEM DOMER",
+        "url": "https://open.spotify.com/album/43EihSOXIPNrqMaPjEQsAH"
+      },
+      "artists": [
+        {
+          "name": "Paizo",
+          "url": "https://open.spotify.com/artist/1R7VmMOHe7I2hoAFUSloPK"
+        },
+        {
+          "name": "DJ LXILL",
+          "url": "https://open.spotify.com/artist/3A3vlTSTD6FJ8zTgSUdBzY"
+        },
+        {
+          "name": "DJ FallThox",
+          "url": "https://open.spotify.com/artist/2SE6mfDFx1U34XJsT48MUN"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87093,
+      "name": "MONTAGEM DOMER - Super Slowed",
+      "url": "https://open.spotify.com/track/2h4amIvI8Qi2k7IFK3igKZ"
     },
     {
       "album": {
@@ -21084,7 +21128,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -21102,7 +21146,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -22788,7 +22832,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 140200,
       "name": "Soldier Of Cola",
       "url": "https://open.spotify.com/track/2lNBzJdwFNFiLYTL2jQYnK"
@@ -25638,7 +25682,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 98149,
       "name": "unhappy",
       "url": "https://open.spotify.com/track/2wa1o5Qnt8aqMcoIB471oY"
@@ -31334,7 +31378,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 79797,
       "name": "\u0413\u0430\u0437 \u0417\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/5ki4f54yYUwrI1RHq8U4JE"
@@ -33190,7 +33234,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 185637,
       "name": "\u0416\u0438\u0432\u0430\u044f \u0432\u043e\u0434\u0430",
       "url": "https://open.spotify.com/track/3UESXHR0xmFsHH5TpgXlzO"
@@ -36270,7 +36314,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 123428,
       "name": "\u043c\u043e\u0432\u0430\u043b\u043e\u043b\u0430",
       "url": "https://open.spotify.com/track/2Xy2DWErXJ3Xrs4Q8zRpvN"

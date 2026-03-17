@@ -1,12 +1,12 @@
 {
   "description": "Spring is coming",
-  "num_followers": 917657,
+  "num_followers": 917803,
   "original_name": "A Perfect Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5ainP5OY3CmcdpPUZhk8ElWlqo",
+  "snapshot_id": "AAAAALfeykPxy0EtX1FSMfoNTuW1iGhm",
   "tracks": [
     {
       "added_at": "2026-03-13 00:00:06",
@@ -39,6 +39,22 @@
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+    },
+    {
+      "added_at": "2026-03-13 00:00:06",
+      "album": {
+        "name": "bubble",
+        "url": "https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 181066,
+      "name": "bubble",
+      "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
     },
     {
       "added_at": "2026-03-13 00:00:06",
@@ -139,6 +155,26 @@
     {
       "added_at": "2026-03-13 00:00:06",
       "album": {
+        "name": "Suzanne",
+        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": "2026-03-13 00:00:06",
+      "album": {
         "name": "Marble Arch",
         "url": "https://open.spotify.com/album/68pV0kNS4G4TVFM7lNZTwG"
       },
@@ -155,22 +191,18 @@
     {
       "added_at": "2026-03-13 00:00:06",
       "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+        "name": "Deep Diving",
+        "url": "https://open.spotify.com/album/0RiDsQOoD7R4vYBNgIeItq"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
         }
       ],
-      "duration_ms": 156721,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+      "duration_ms": 202494,
+      "name": "Deep Diving",
+      "url": "https://open.spotify.com/track/4Ji5pXYxvpxIAR87YGGx3Q"
     },
     {
       "added_at": "2026-03-13 00:00:06",
@@ -191,34 +223,22 @@
     {
       "added_at": "2026-03-13 00:00:06",
       "album": {
-        "name": "300 dreams",
-        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
       },
       "artists": [
         {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "300 dreams",
-      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
-    },
-    {
-      "added_at": "2026-03-13 00:00:06",
-      "album": {
-        "name": "bubble",
-        "url": "https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9"
-      },
-      "artists": [
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
         {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 181066,
-      "name": "bubble",
-      "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "added_at": "2026-03-13 00:00:06",
@@ -255,42 +275,6 @@
     {
       "added_at": "2026-03-13 00:00:06",
       "album": {
-        "name": "Deep Diving",
-        "url": "https://open.spotify.com/album/0RiDsQOoD7R4vYBNgIeItq"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 202494,
-      "name": "Deep Diving",
-      "url": "https://open.spotify.com/track/4Ji5pXYxvpxIAR87YGGx3Q"
-    },
-    {
-      "added_at": "2026-03-13 00:00:06",
-      "album": {
-        "name": "Suzanne",
-        "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
-    },
-    {
-      "added_at": "2026-03-13 00:00:06",
-      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/4VapTMsZr8tsnmjpYir7tN"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 250693,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5V6dYUrFOrRBH86n6OVtDF"
+    },
+    {
+      "added_at": "2026-03-13 00:00:06",
+      "album": {
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2026-03-13 00:00:06",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-03-13 00:00:06",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+        "name": "300 dreams",
+        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
         }
       ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
+      "duration_ms": 188575,
+      "name": "300 dreams",
+      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
       "added_at": "2026-03-13 00:00:06",

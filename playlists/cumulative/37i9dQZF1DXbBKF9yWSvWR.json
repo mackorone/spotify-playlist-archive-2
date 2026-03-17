@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Wekelijkse update met de beste Indie releases. Cover: Kids With Buns",
+  "description": "Wekelijkse update met de beste Indie releases. Cover: BLUAI",
   "name": "Indie Update",
   "tracks": [
     {
@@ -510,6 +510,28 @@
       "duration_ms": 189053,
       "name": "All A Mystery",
       "url": "https://open.spotify.com/track/1fYdtAhgGLKmOZE46mCGm0"
+    },
+    {
+      "album": {
+        "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223788,
+      "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
       "album": {
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 235136,
       "name": "Bark",
       "url": "https://open.spotify.com/track/4uuoM3cpAJYuR8qCuf6DfT"
@@ -2178,7 +2200,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 295378,
       "name": "Can You Swim?",
       "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
@@ -2456,7 +2478,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 177000,
       "name": "Chasing Silhouettes",
       "url": "https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31"
@@ -2644,7 +2666,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 198189,
       "name": "Colour On The Wall",
       "url": "https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV"
@@ -3096,6 +3118,24 @@
       "duration_ms": 216561,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/1OVpfBlGkdJfP8gnsjk5Vz"
+    },
+    {
+      "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/7vlkgyaOI5iCZwqKy3MpFa"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232790,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/2hzpbfjj9cVCSB1EeHKGXt"
     },
     {
       "album": {
@@ -3907,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Eyes Wide",
+        "url": "https://open.spotify.com/album/4sdkGycSaYg4n4O7rCi8a8"
+      },
+      "artists": [
+        {
+          "name": "CUT_",
+          "url": "https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146083,
+      "name": "Eyes Wide",
+      "url": "https://open.spotify.com/track/3RYnZF3SYTxQ8Mys5daMzd"
+    },
+    {
+      "album": {
         "name": "eYeSiGht",
         "url": "https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y"
       },
@@ -4048,6 +4106,24 @@
       "duration_ms": 251653,
       "name": "Figurine",
       "url": "https://open.spotify.com/track/5WQNJC3Gzh6oF0rPOWDSgW"
+    },
+    {
+      "album": {
+        "name": "Fish",
+        "url": "https://open.spotify.com/album/2yv46sYQnWOwtno3HUTU5N"
+      },
+      "artists": [
+        {
+          "name": "Pitou",
+          "url": "https://open.spotify.com/artist/27aUOc2h4pz72oZen497Va"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Fish",
+      "url": "https://open.spotify.com/track/4MlwSlKj2XQXHwcOGVc3Ke"
     },
     {
       "album": {
@@ -5387,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "I Am June",
+        "url": "https://open.spotify.com/album/2WGkOXxTTMXnWJuZU3bJuG"
+      },
+      "artists": [
+        {
+          "name": "Romy Liz Rose",
+          "url": "https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283306,
+      "name": "I Am June",
+      "url": "https://open.spotify.com/track/6XVXt2XiXZY0ngdQy7wBTW"
+    },
+    {
+      "album": {
         "name": "Equus Asinus",
         "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
@@ -5510,7 +5604,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
@@ -6037,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Inside Your Soul",
+        "url": "https://open.spotify.com/album/2SbI6PstVcnVatmljUR4ua"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168450,
+      "name": "Inside Your Soul",
+      "url": "https://open.spotify.com/track/5OvujIK1jvQNi6ht6TEIIg"
+    },
+    {
+      "album": {
         "name": "Insular",
         "url": "https://open.spotify.com/album/1JafBWcHAurcWqEKi2UVRN"
       },
@@ -6372,7 +6484,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
@@ -6986,7 +7098,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 173680,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
@@ -7447,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259751,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "album": {
         "name": "the side-effects of living in a fantasy",
         "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
       },
@@ -7696,7 +7826,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 246240,
       "name": "Miffed It",
       "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
@@ -7736,6 +7866,24 @@
       "duration_ms": 208105,
       "name": "Millennial Sadness",
       "url": "https://open.spotify.com/track/3wUaVyxvIaYOH9hz7ctwxD"
+    },
+    {
+      "album": {
+        "name": "Half Moon",
+        "url": "https://open.spotify.com/album/6Y5FuncoXFAnpN988bQE0D"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253567,
+      "name": "Million Things",
+      "url": "https://open.spotify.com/track/7GPoBSDnyWWLhoj9HwoKba"
     },
     {
       "album": {
@@ -8796,6 +8944,32 @@
       "duration_ms": 249813,
       "name": "Only One Laughing",
       "url": "https://open.spotify.com/track/6DGgiVR1F2vX97iT0hhVkp"
+    },
+    {
+      "album": {
+        "name": "Opscheer",
+        "url": "https://open.spotify.com/album/4G7LZsI57TjTz8epjLN2Wz"
+      },
+      "artists": [
+        {
+          "name": "Het Algoritme",
+          "url": "https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i"
+        },
+        {
+          "name": "Klangstof",
+          "url": "https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO"
+        },
+        {
+          "name": "Freez",
+          "url": "https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168078,
+      "name": "Opscheer",
+      "url": "https://open.spotify.com/track/0UHJ1EeeObYXPkO1Dscxtz"
     },
     {
       "album": {
@@ -10445,6 +10619,24 @@
     },
     {
       "album": {
+        "name": "Say Yes, Before I Do",
+        "url": "https://open.spotify.com/album/5aoDMcTy7L5P0OrGUvx1SR"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/6tyCabPUFMlCxB5NxICFtK"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231306,
+      "name": "Say Yes, Before I Do",
+      "url": "https://open.spotify.com/track/7nezdzBBV8ulf6igXq73Dd"
+    },
+    {
+      "album": {
         "name": "Airship",
         "url": "https://open.spotify.com/album/0sXwmyVeldUXU2ilDCZYMp"
       },
@@ -10806,6 +10998,24 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/6W0OJwruftgimcKiuLXHD5"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4pARZ3HOdh6HkLSdWorqpG"
     },
     {
       "album": {
@@ -12098,7 +12308,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 196630,
       "name": "The City",
       "url": "https://open.spotify.com/track/0bb1hMh3nIRwAOfJV5q1zX"
@@ -13009,6 +13219,24 @@
     },
     {
       "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273805,
+      "name": "Trying Times",
+      "url": "https://open.spotify.com/track/52T8TTMESX21406wvTdQDY"
+    },
+    {
+      "album": {
         "name": "Tummy Bug",
         "url": "https://open.spotify.com/album/6PRRdageGGfLTi9o4MRcgl"
       },
@@ -13078,6 +13306,24 @@
       "duration_ms": 158840,
       "name": "Two Empty Eyes",
       "url": "https://open.spotify.com/track/2YbbaKxLhrrJ2vk4XfwZ8O"
+    },
+    {
+      "album": {
+        "name": "Under the Silver Moon",
+        "url": "https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Under the Silver Moon",
+      "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
     },
     {
       "album": {
@@ -13164,7 +13410,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 172040,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/7hctqxN6tOrpgcUjZ0Xdep"
@@ -13560,7 +13806,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 180268,
       "name": "What Men Do",
       "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
@@ -13730,7 +13976,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 185174,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"
@@ -14022,7 +14268,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 157500,
       "name": "You Always Do",
       "url": "https://open.spotify.com/track/2zE60SbOcOfiSsy2bM4Lg3"

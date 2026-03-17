@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269724,
+  "num_followers": 269755,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -887,6 +887,26 @@
       "duration_ms": 237500,
       "name": "909",
       "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -979,26 +999,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "GHOST WORLD",
-        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "NO CAP",
         "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 233734,
       "name": "NO CAP",
       "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Through The Pain (feat. Pozer)",
-        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Pozer",
-          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "Through The Pain (feat. Pozer)",
-      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "You Gonna Want Me (I Know)",
         "url": "https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN"
       },
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "SPIRAL",
-        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "SPIRAL",
-      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "4 Ya Mind",
         "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
       },
@@ -1191,26 +1171,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
+        "name": "SPIRAL",
+        "url": "https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17"
       },
       "artists": [
         {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
         },
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "ZOHARA",
-          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 236291,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+      "duration_ms": 178285,
+      "name": "SPIRAL",
+      "url": "https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1251,18 +1227,26 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
       "artists": [
         {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "ZOHARA",
+          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
         }
       ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
+      "duration_ms": 236291,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1279,6 +1263,22 @@
       "duration_ms": 142163,
       "name": "GOLDEN GOOSE",
       "url": "https://open.spotify.com/track/1Twewmebxt8FyDlmpj0zGt"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "Mind Dimension (Adam Sellouk Remix)",
+        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Mind Dimension - Adam Sellouk Remix",
+      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "KODAK",
         "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
       },
@@ -1439,26 +1459,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Mind Dimension (Adam Sellouk Remix)",
-        "url": "https://open.spotify.com/album/5JcItSeupngDftJZmxCEiz"
-      },
-      "artists": [
-        {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Mind Dimension - Adam Sellouk Remix",
-      "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
       },
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Grove St. Party",
         "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 170307,
       "name": "Grove St. Party",
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1611,30 +1611,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Loose Pt. 3",
-        "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
-      },
-      "artists": [
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        },
-        {
-          "name": "JAY1",
-          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
-        },
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 169308,
-      "name": "Loose Pt. 3",
-      "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1655,6 +1631,30 @@
       "duration_ms": 180010,
       "name": "Work",
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Loose Pt. 3",
+        "url": "https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        },
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 169308,
+      "name": "Loose Pt. 3",
+      "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "l!sten",
+        "url": "https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 185589,
+      "name": "l!sten",
+      "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "Bang That",
         "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
       },
@@ -1723,26 +1743,6 @@
       "duration_ms": 129920,
       "name": "Without You",
       "url": "https://open.spotify.com/track/7n8tTtvLjKYHZUVPclLUIl"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "l!sten",
-        "url": "https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P"
-      },
-      "artists": [
-        {
-          "name": "Saka",
-          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
-        },
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
-        }
-      ],
-      "duration_ms": 185589,
-      "name": "l!sten",
-      "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/0UvAWjafLb67zAWbT6drHo"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        }
+      ],
+      "duration_ms": 192193,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
       },
@@ -2111,26 +2127,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Scars In Stereo",
-        "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 169212,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Everybody Knows (feat. IRAH)",
         "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
       },
@@ -2155,18 +2151,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/0UvAWjafLb67zAWbT6drHo"
+        "name": "Scars In Stereo",
+        "url": "https://open.spotify.com/album/00RW0XQwcNnY4fRuWXMdjw"
       },
       "artists": [
         {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
         }
       ],
-      "duration_ms": 192193,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/00k6XwjLmnT3bF5LmuTmCK"
+      "duration_ms": 169212,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/2oXIBToJ6fMyhadJJXh4KO"
     },
     {
       "added_at": "2026-03-13 04:00:38",

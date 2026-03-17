@@ -19127,6 +19127,24 @@
     },
     {
       "album": {
+        "name": "Shock Limit",
+        "url": "https://open.spotify.com/album/2cXC2ZxK1jjJwPAUcWyemZ"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Shock Limit",
+      "url": "https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq"
+    },
+    {
+      "album": {
         "name": "Should've Known Better",
         "url": "https://open.spotify.com/album/53ECP7lpXO3iCOwPREqy4U"
       },

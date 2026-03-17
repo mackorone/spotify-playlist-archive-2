@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Curated with love by human Spotify editors\. Featuring Swapmeet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,649 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,628 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 61 | [NO PARA](https://open.spotify.com/track/2snV0xKwCvi12Cllb5M1lB) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [NO PARA](https://open.spotify.com/album/6IbfWaqJgeU3EhQZPhtf4w) | 2:55 |
 | 62 | [Look At The Sky](https://open.spotify.com/track/1qOEftqzEzXzfv1IouD7s8) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [Look At The Sky](https://open.spotify.com/album/0PjsfQ214HanVNGaIGXsEF) | 2:08 |
 | 63 | [Chancer](https://open.spotify.com/track/5dqs7uTXxMozIA3tCzEjwX) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Chancer](https://open.spotify.com/album/6DuDANtEfqCWZ6HafjRWdT) | 3:33 |
-| 64 | [5 O'clock](https://open.spotify.com/track/7wfisKDLwXLYdpKjsNMpBi) | [Homixide osama](https://open.spotify.com/artist/6xHMGVSnuJYwWKJY6M7Vp1), [Yung 5th](https://open.spotify.com/artist/5vRhS1Ss9aW9X4gkrenJWI), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [5 O'clock](https://open.spotify.com/album/2WcE3tFirTl9vYBWHEGJOA) | 4:04 |
+| 64 | [5 O'clock](https://open.spotify.com/track/7wfisKDLwXLYdpKjsNMpBi) | [Homixide osama](https://open.spotify.com/artist/6xHMGVSnuJYwWKJY6M7Vp1), [Yung 5th](https://open.spotify.com/artist/5vRhS1Ss9aW9X4gkrenJWI), [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb) | [5 O'clock](https://open.spotify.com/album/2WcE3tFirTl9vYBWHEGJOA) | 4:04 |
 | 65 | [Manmade Manmaid](https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Manmade Manmaid](https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA) | 2:40 |
 | 66 | [hell0\_hi](https://open.spotify.com/track/43KbL6h5XYDoqhFKt30DUF) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [hell0\_hi](https://open.spotify.com/album/7qUlNsGeas6Upr3JlUuI29) | 1:50 |
 | 67 | [pieces](https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [pieces](https://open.spotify.com/album/0HtKs3fzUYPQIjA0kXsCDk) | 3:22 |

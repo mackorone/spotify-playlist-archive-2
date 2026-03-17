@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 254858,
       "name": "Na Jornada - Remasterizado",
       "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
@@ -2702,6 +2702,28 @@
       "duration_ms": 203342,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2GX7zKXtUmbQfDMSUbIiHM"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Jorge",
+        "url": "https://open.spotify.com/album/2dm5jJNv1ntb5MZuldzM51"
+      },
+      "artists": [
+        {
+          "name": "Minale",
+          "url": "https://open.spotify.com/artist/2OeilwWnnPC1p2jHCoT2gR"
+        },
+        {
+          "name": "Ugo Ludovico",
+          "url": "https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ"
+        }
+      ],
+      "date_added": "2026-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178095,
+      "name": "S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/37sQzQBIFinikh33gH5gYp"
     },
     {
       "album": {

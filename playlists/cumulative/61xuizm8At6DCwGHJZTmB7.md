@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 Christian
 
-732 songs - 2 day 22 hr 29 min
+733 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [It's Time To Worship](https://open.spotify.com/track/5sxApl9TQHzRtBQEMdn9Qw) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Speak To The Mountains](https://open.spotify.com/album/3qOxAclcKVsOHKLCiqEutQ) | 4:19 | 2022-02-17 | 2022-03-16 |
 | [I’ll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/track/7xVhx1iz7ZD5EZkeNOgPgw) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:00 | 2026-03-04 |  |
 | [Jesus Christ Over Everything \- Live](https://open.spotify.com/track/6hfULoWn9n0TGFQWDOWzkw) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/0wwu59MPRW5pxhTtLhfIhq) | [Jesus Christ Over Everything](https://open.spotify.com/album/5azL2XOS9gjemX9IT5ij2E) | 5:35 | 2024-03-29 | 2024-09-10 |
+| [Jesus Is His Name](https://open.spotify.com/track/5JoiNcH5F8sg5Kxm0028SK) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Jesus Is His Name](https://open.spotify.com/album/5nb9Mzv2gnyahYwns9tGCe) | 5:57 | 2026-03-16 |  |
 | [Jesus Is My Healer \- Live](https://open.spotify.com/track/4h3gmTsm5moWm9j3NNx0Gp) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Jesus Is My Healer \(Live\)](https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh) | 6:20 | 2023-06-23 | 2023-12-14 |
 | [Jesus Is My Healer \- Live at Gateway Conference](https://open.spotify.com/track/2ehScY2VKSRBuk3CKbaLmU) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [Jesus Is My Healer \(Live\)](https://open.spotify.com/album/5vKuQJsGAOtvNvIfXTrheL) | 6:37 | 2024-02-16 | 2025-03-21 |
 | [Jesus Is Risen](https://open.spotify.com/track/7Myw8gqNvdLPxrAh5IDvS9) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Jesus Is Risen](https://open.spotify.com/album/6FPkFnU8YSzUozYf2DKl22) | 4:14 | 2022-02-25 | 2023-01-05 |

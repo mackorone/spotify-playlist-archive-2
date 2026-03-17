@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 299582,
+  "num_followers": 299596,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAABm7cMemzqnNfMS7rGp+Mwy",
+  "snapshot_id": "abX2gAAAAAAHwEcqqdzWqbbbErnG58vF",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Got to Lose",
-        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 197646,
-      "name": "You Got to Lose",
-      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
+      "duration_ms": 211080,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
       },
       "artists": [
         {
@@ -180,57 +180,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 211080,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 219890,
-      "name": "Tell Me Lies",
-      "url": "https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "I Got Mine",
-      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "10 Lovers",
-      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": null,
@@ -251,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Rain, No Flowers",
-        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
@@ -260,25 +212,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 211721,
-      "name": "Man On A Mission",
-      "url": "https://open.spotify.com/track/7Ef0kJ9gKetW9HUd2AbrH2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 250706,
-      "name": "Psychotic Girl",
-      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+      "duration_ms": 219890,
+      "name": "Tell Me Lies",
+      "url": "https://open.spotify.com/track/2scIG4pnqvCStKHTZiWB0V"
     },
     {
       "added_at": null,
@@ -292,9 +228,41 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 222960,
-      "name": "Turn Blue",
-      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+      "duration_ms": 213226,
+      "name": "10 Lovers",
+      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "I Got Mine",
+      "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Rain, No Flowers",
+        "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 211721,
+      "name": "Man On A Mission",
+      "url": "https://open.spotify.com/track/7Ef0kJ9gKetW9HUd2AbrH2"
     },
     {
       "added_at": null,
@@ -315,6 +283,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Turn Blue",
+      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Psychotic Girl",
+      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Rain, No Flowers",
         "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
       },
@@ -327,6 +327,38 @@
       "duration_ms": 196774,
       "name": "No Rain, No Flowers",
       "url": "https://open.spotify.com/track/4ns4t9csFyWBMjyHAzwLl0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino (2021 Remaster)",
+        "url": "https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 221176,
+      "name": "Dead and Gone - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0z8Z1WC2VT9iYT9gdjT1ua"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
     },
     {
       "added_at": null,
@@ -351,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
       },
       "artists": [
         {
@@ -360,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 268120,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
+      "duration_ms": 162586,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
     },
     {
       "added_at": null,
@@ -376,25 +408,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 221176,
-      "name": "Dead and Gone - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0z8Z1WC2VT9iYT9gdjT1ua"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magic Potion",
-        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
+      "duration_ms": 194146,
+      "name": "Mind Eraser - 2021 Remaster",
+      "url": "https://open.spotify.com/track/1g0QAoI37Wpsye1918bKjl"
     },
     {
       "added_at": null,
@@ -431,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino (2021 Remaster)",
-        "url": "https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Mind Eraser - 2021 Remaster",
-      "url": "https://open.spotify.com/track/1g0QAoI37Wpsye1918bKjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Rain, No Flowers",
         "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 178229,
-      "name": "Fire Walk With Me",
-      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 180173,
       "name": "Gotta Get Away",
       "url": "https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 178229,
+      "name": "Fire Walk With Me",
+      "url": "https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k"
     },
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 197971,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/4yWWuAW3bywNtneUa4L6YJ"
+      "duration_ms": 205037,
+      "name": "Too Afraid to Love You",
+      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 205037,
-      "name": "Too Afraid to Love You",
-      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
+      "duration_ms": 197971,
+      "name": "Next Girl",
+      "url": "https://open.spotify.com/track/4yWWuAW3bywNtneUa4L6YJ"
     },
     {
       "added_at": null,

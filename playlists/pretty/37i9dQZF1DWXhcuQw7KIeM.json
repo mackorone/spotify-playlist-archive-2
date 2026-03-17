@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 579475,
+  "num_followers": 579569,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -167,8 +167,8 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Reida",
-        "url": "https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1"
+        "name": "Runar",
+        "url": "https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
         }
       ],
-      "duration_ms": 270750,
-      "name": "Reida",
-      "url": "https://open.spotify.com/track/72pSSwFywzACLPqVfycny6"
+      "duration_ms": 260556,
+      "name": "Runar",
+      "url": "https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -247,8 +247,8 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Runar",
-        "url": "https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS"
+        "name": "Reida",
+        "url": "https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb"
         }
       ],
-      "duration_ms": 260556,
-      "name": "Runar",
-      "url": "https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9"
+      "duration_ms": 270750,
+      "name": "Reida",
+      "url": "https://open.spotify.com/track/72pSSwFywzACLPqVfycny6"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul"
-      },
-      "artists": [
-        {
-          "name": "Numenorean",
-          "url": "https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Seidfylgjur",
         "url": "https://open.spotify.com/album/6gFf0gVsTsA1gB3d1Whj8e"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 260916,
       "name": "Seidfylgjur",
       "url": "https://open.spotify.com/track/0kyH6SWNBMNnBiK8R15dwl"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul"
+      },
+      "artists": [
+        {
+          "name": "Numenorean",
+          "url": "https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj"
     },
     {
       "added_at": "2025-11-14 04:00:17",

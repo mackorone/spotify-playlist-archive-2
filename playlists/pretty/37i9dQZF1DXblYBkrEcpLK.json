@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Ado",
-  "num_followers": 197076,
+  "num_followers": 197125,
   "original_name": "Women of Anime",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-03 15:00:42",
       "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 230751,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
-    },
-    {
-      "added_at": "2026-03-03 15:00:42",
-      "album": {
         "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
         "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 269343,
       "name": "Reply",
       "url": "https://open.spotify.com/track/6ipTwgVCvUX6SgEuBtPoJ4"
+    },
+    {
+      "added_at": "2026-03-03 15:00:42",
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/2dp6XnYilNlELoSnGzSIdG"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 230751,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7j0fGg4xd1Lo1zPcUDV1T6"
     },
     {
       "added_at": "2026-03-03 15:00:42",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-03 15:00:42",
       "album": {
-        "name": "LET'S JUST CRASH",
-        "url": "https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD"
-      },
-      "artists": [
-        {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        }
-      ],
-      "duration_ms": 195035,
-      "name": "LET'S JUST CRASH",
-      "url": "https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li"
-    },
-    {
-      "added_at": "2026-03-03 15:00:42",
-      "album": {
         "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
         "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2026-03-03 15:00:42",
       "album": {
-        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
-        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
-      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
-    },
-    {
-      "added_at": "2026-03-03 15:00:42",
-      "album": {
         "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
         "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
       },
@@ -867,6 +835,38 @@
       "duration_ms": 251423,
       "name": "\u79c1\u306f\u3001\u308f\u305f\u3057\u306e\u4e8b\u304c\u597d\u304d\u3002",
       "url": "https://open.spotify.com/track/2YGirLAYuoajAbTkuvsEvv"
+    },
+    {
+      "added_at": "2026-03-03 15:00:42",
+      "album": {
+        "name": "LET'S JUST CRASH",
+        "url": "https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "duration_ms": 195035,
+      "name": "LET'S JUST CRASH",
+      "url": "https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li"
+    },
+    {
+      "added_at": "2026-03-03 15:00:42",
+      "album": {
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
     },
     {
       "added_at": "2026-03-03 15:00:42",

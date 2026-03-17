@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10355,
+  "num_followers": 10360,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAABiltx/ZowmIMBCj/tkdpcp",
+  "snapshot_id": "abX2gAAAAADSqrJl0jBkRmqSmhTsyIWl",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "Lullabye",
+      "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luv 4 Rent",
         "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 183337,
       "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
       "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "Lullabye",
-      "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 192373,
+      "name": "Deep In The World",
+      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 192373,
-      "name": "Deep In The World",
-      "url": "https://open.spotify.com/track/4JU3zRpbyFSw2Jqt2RzsIv"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163796,
-      "name": "Glo-Fi (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOIR",
         "url": "https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 246960,
       "name": "MF GROOVE (with Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163796,
+      "name": "Glo-Fi (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Blossom Dearie",
-      "url": "https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maybe in Nirvana",
         "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 285802,
       "name": "Tequan (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Blossom Dearie",
+      "url": "https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "Venezuela Trains",
-      "url": "https://open.spotify.com/track/7K6iiGbqmOhWFqjj0bvTKL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bicycle Race",
         "url": "https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 155116,
       "name": "Bicycle Race",
       "url": "https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "Venezuela Trains",
+      "url": "https://open.spotify.com/track/7K6iiGbqmOhWFqjj0bvTKL"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "Moon Shoes",
-      "url": "https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Moonlight EP",
         "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 184839,
       "name": "Genesis - EP Version",
       "url": "https://open.spotify.com/track/1z8VQNzZ8mETuKjW1szX1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Right of Spring",
+      "url": "https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Shoes EP",
-        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Right of Spring",
-      "url": "https://open.spotify.com/track/3V9VhLOCj3ieDA0ZC9lWNh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Moonlight EP",
         "url": "https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 176810,
       "name": "Thirst - EP Version",
       "url": "https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moon Shoes EP",
+        "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "Moon Shoes",
+      "url": "https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS"
     }
   ],
   "unique_name": "This Is Ravyn Lenae",

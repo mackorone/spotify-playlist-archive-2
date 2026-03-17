@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 11528,
+  "num_followers": 11537,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "The LEGEND",
-        "url": "https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL"
-      },
-      "artists": [
-        {
-          "name": "Yoshiyuki Osawa",
-          "url": "https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "\u30b4\u30fc\u30b4\u30fc\u30d8\u30d6\u30f3",
-      "url": "https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30b5\u30b6\u30a8\u3055\u3093",
         "url": "https://open.spotify.com/album/0OYfnYKIrEjcvHEPkfSK7n"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 208400,
       "name": "\u30b5\u30b6\u30a8\u3055\u3093\u4e00\u5bb6",
       "url": "https://open.spotify.com/track/1TgBRjzoQDtyzeVc08FFyI"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "The LEGEND",
+        "url": "https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL"
+      },
+      "artists": [
+        {
+          "name": "Yoshiyuki Osawa",
+          "url": "https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "\u30b4\u30fc\u30b4\u30fc\u30d8\u30d6\u30f3",
+      "url": "https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "MELTING POINT",
-        "url": "https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv"
-      },
-      "artists": [
-        {
-          "name": "Mami Ayukawa",
-          "url": "https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "\u5922\u8272\u30c1\u30a7\u30a4\u30b5\u30fc(Single Version)",
-      "url": "https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30b9\u30d7\u30fc\u30f3\u304a\u3070\u3055\u3093 \u97f3\u697d\u96c6",
         "url": "https://open.spotify.com/album/2tn11xfn8ykLdxdg1SlyLN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 148233,
       "name": "\u30ea\u30f3\u30b4\u306e\u68ee\u306e\u5b50\u732b\u305f\u3061",
       "url": "https://open.spotify.com/track/3tHYALAtyNsJsR641c6T36"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "MELTING POINT",
+        "url": "https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv"
+      },
+      "artists": [
+        {
+          "name": "Mami Ayukawa",
+          "url": "https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "\u5922\u8272\u30c1\u30a7\u30a4\u30b5\u30fc(Single Version)",
+      "url": "https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a"
     },
     {
       "added_at": "2025-06-13 16:40:18",

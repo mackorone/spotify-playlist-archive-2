@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "1, 2 Step",
+        "url": "https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123785,
+      "name": "1, 2 Step",
+      "url": "https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj"
+    },
+    {
+      "album": {
         "name": "132 TECHNO",
         "url": "https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY"
       },

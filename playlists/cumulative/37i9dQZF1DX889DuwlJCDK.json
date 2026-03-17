@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Fighting Pose",
+        "url": "https://open.spotify.com/album/3ccyKt14sMo6ntxJUtAyGs"
+      },
+      "artists": [
+        {
+          "name": "CROWN HEAD",
+          "url": "https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192133,
+      "name": "Fighting Pose",
+      "url": "https://open.spotify.com/track/1C5kdbGe4QznemofFBKaOX"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
         "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
       },
@@ -14918,7 +14936,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 193187,
       "name": "\u306a\u306b\u3082",
       "url": "https://open.spotify.com/track/3YLrrMVu4bsyYzpvO961rA"

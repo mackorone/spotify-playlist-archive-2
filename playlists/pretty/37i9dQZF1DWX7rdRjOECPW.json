@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1578126,
+  "num_followers": 1578029,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Wake Up (With You Mine)",
-        "url": "https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "NASRI",
-          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "Wake Up (With You Mine)",
-      "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Rude Boi",
         "url": "https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 215409,
       "name": "Rude Boi",
       "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Wake Up (With You Mine)",
+        "url": "https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "NASRI",
+          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "Wake Up (With You Mine)",
+      "url": "https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4"
     },
     {
       "added_at": "2025-08-29 06:03:40",

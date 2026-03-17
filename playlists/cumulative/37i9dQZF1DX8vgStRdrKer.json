@@ -3233,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "E No Dey Finish",
+        "url": "https://open.spotify.com/album/6i2e0TpfHMdjMXyxZmv4PM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Prinz",
+          "url": "https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq"
+        },
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2026-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173473,
+      "name": "E No Dey Finish",
+      "url": "https://open.spotify.com/track/607RU3eLBQCeiqBCWBh4eq"
+    },
+    {
+      "album": {
         "name": "E No Hard (Live)",
         "url": "https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx"
       },
@@ -3746,7 +3768,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 484000,
       "name": "Es\u00e9 O",
       "url": "https://open.spotify.com/track/0DlKSCYyP3nPYgI9HnJ6Al"
@@ -5818,7 +5840,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 198668,
       "name": "How Can I Forget?",
       "url": "https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm"
@@ -6822,7 +6844,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 519003,
       "name": "Imole Aye",
       "url": "https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO"

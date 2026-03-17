@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: \ud654\uc0b0\uadc0\ud658 (Return of the Blossoming Blade)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 119610,
+  "num_followers": 119606,
   "original_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Love Me Back (From \"Operation: True Love\")",
-        "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Love Me Back",
-      "url": "https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "DARK MOON: THE BLOOD ALTAR (Soundtrack Compilation)",
         "url": "https://open.spotify.com/album/1C2zN09iNWFEAkSi91PuYr"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 170197,
       "name": "Fatal Trouble",
       "url": "https://open.spotify.com/track/53sDnvNZNq2vvQmD9SxvWL"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Love Me Back (From \"Operation: True Love\")",
+        "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 196392,
-      "name": "One In A Billion (Japanese Ver.)",
-      "url": "https://open.spotify.com/track/7MvYfssQOnBxMd0T5T8WgG"
+      "duration_ms": 215631,
+      "name": "CRIMINAL LOVE",
+      "url": "https://open.spotify.com/track/6XmPQvSbS4LT84f79wKcyt"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 215631,
-      "name": "CRIMINAL LOVE",
-      "url": "https://open.spotify.com/track/6XmPQvSbS4LT84f79wKcyt"
+      "duration_ms": 196392,
+      "name": "One In A Billion (Japanese Ver.)",
+      "url": "https://open.spotify.com/track/7MvYfssQOnBxMd0T5T8WgG"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Dreaming : WEBTOON 'The Great X ANYUJIN (IVE)",
-        "url": "https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L"
-      },
-      "artists": [
-        {
-          "name": "ANYUJIN",
-          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7DbEJaAcgnbnYEEbX4A9OO"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
+        "name": "Dreaming : WEBTOON 'The Great X ANYUJIN (IVE)",
+        "url": "https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L"
+      },
+      "artists": [
+        {
+          "name": "ANYUJIN",
+          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
         "name": "Your Letter (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 296000,
       "name": "Your Letter",
       "url": "https://open.spotify.com/track/3w1Q9xlMlm4NeG5ydVSfwP"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
+      },
+      "artists": [
+        {
+          "name": "Sin Ye Young",
+          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
+        }
+      ],
+      "duration_ms": 306499,
+      "name": "I Don't Want To Say Goodbye",
+      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -795,22 +811,6 @@
       "duration_ms": 204066,
       "name": "Sickness (feat.PLEDIS GIRLZ)",
       "url": "https://open.spotify.com/track/1xy1i731FugTcS1e9RFX1d"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/4GvkPWqaEcl1WZNrkCophN"
-      },
-      "artists": [
-        {
-          "name": "Sin Ye Young",
-          "url": "https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF"
-        }
-      ],
-      "duration_ms": 306499,
-      "name": "I Don't Want To Say Goodbye",
-      "url": "https://open.spotify.com/track/0IytBjPETkBNj78AuNVCKj"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Terror Man Opening (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy"
-      },
-      "artists": [
-        {
-          "name": "KIM TAE RAE",
-          "url": "https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Bomb Bomb",
-      "url": "https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "L.O.V.E (Romantic)) (Villain With A Crush X SAY MY NAME) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/2EQVBowFogB13LDXv5UdlU"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 164000,
       "name": "L.O.V.E (Romantic)",
       "url": "https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Terror Man Opening (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Utvw2Z8Tk9e2vxa4Z4yMy"
+      },
+      "artists": [
+        {
+          "name": "KIM TAE RAE",
+          "url": "https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Bomb Bomb",
+      "url": "https://open.spotify.com/track/2So5dexAv9rAS7IZLOgeJD"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Webtoon <Myst, Might, Mayhem> OST Part. 1 Red Moon",
-        "url": "https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB"
-      },
-      "artists": [
-        {
-          "name": "MIYEON",
-          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "STAY THE NIGHT (She is My Type\u2661 X GRAY)",
         "url": "https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 175000,
       "name": "STAY THE NIGHT (Feat. DeVita)",
       "url": "https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Webtoon <Myst, Might, Mayhem> OST Part. 1 Red Moon",
+        "url": "https://open.spotify.com/album/1sTTIJ1vHRhyphKkixoaEB"
+      },
+      "artists": [
+        {
+          "name": "MIYEON",
+          "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/4JIqOCjC3U6VXIc8Ckr7wo"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
-        "url": "https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
-      "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "Confession (Romance 101 X Huh Gak)",
         "url": "https://open.spotify.com/album/3S8BS4rLJ63faZgACxiID8"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 235186,
       "name": "Confession (Romance 101 X Huh Gak)",
       "url": "https://open.spotify.com/track/7iW3Ygc2Boioeykec6Jcdh"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
+        "url": "https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Dear. My Fool (WEBTOON 'Discovery of Love' X Lee Seok Hoon)",
+      "url": "https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
-      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
+        "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+        "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
+      "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
         "name": "Draw (No Office Romance! X TAEMIN) (Original Webtoon Soundtrack)",
         "url": "https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 243866,
       "name": "Draw",
       "url": "https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
-        "name": "Love no more (Romance 101 X XIA)",
-        "url": "https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd"
-      },
-      "artists": [
-        {
-          "name": "XIA",
-          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "Love no more (Romance 101 X XIA)",
-      "url": "https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1551,6 +1535,22 @@
       "duration_ms": 201645,
       "name": "The Memory (\ubbfc\uc9c0\uc640 \uc790\ub9bc)",
       "url": "https://open.spotify.com/track/5Y4PlwrK1UlBBrm08SRnyp"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Love no more (Romance 101 X XIA)",
+        "url": "https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "Love no more (Romance 101 X XIA)",
+      "url": "https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147"
     },
     {
       "added_at": "2026-02-26 06:24:55",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-02-26 06:24:55",
       "album": {
-        "name": "[ASTROCHILD IN THE LONELY PLANET] Baek A Yeon - My Universe",
-        "url": "https://open.spotify.com/album/3sujtMZW0VfjWYHxjGbFGg"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 226516,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3uk0W0obUiWSesu1xwptQw"
-    },
-    {
-      "added_at": "2026-02-26 06:24:55",
-      "album": {
         "name": "Only you (Romance 101 X Yang Yo Seop)",
         "url": "https://open.spotify.com/album/0pB5NYeRyaboqz4ZUFdxhZ"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 244986,
       "name": "I'm into you, I mean Love you",
       "url": "https://open.spotify.com/track/4a7VgYvKmj4Q9dc3vRuoDC"
+    },
+    {
+      "added_at": "2026-02-26 06:24:55",
+      "album": {
+        "name": "Introverted Us X Rothy (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3YpsY8C48pbYTplvZgddkw"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Innocent.exe",
+      "url": "https://open.spotify.com/track/159WRqvjKuDcItE2g0pWQp"
     }
   ],
   "unique_name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",

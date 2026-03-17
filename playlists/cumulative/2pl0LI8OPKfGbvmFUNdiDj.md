@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-390 songs - 21 hr 49 min
+394 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 | 2026-01-29 |  |
 | [Can't Find My Phone](https://open.spotify.com/track/0BWh4xchOtRdQAlRfelPFS) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Can't Find My Phone](https://open.spotify.com/album/2HjLHGRtW7yhxBKY0V5Mge) | 2:31 | 2025-12-20 | 2026-01-15 |
 | [Can't Get Away](https://open.spotify.com/track/5aqARSatL1aREW9uOg7Tep) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away](https://open.spotify.com/album/2NYgUG3tE6DeADKHBH3qnz) | 3:04 | 2025-11-30 | 2026-01-05 |
+| [Can't Stop Loving You](https://open.spotify.com/track/3U8jamAGzYu9hQiiaPjzpz) | [Kevon Tyrre](https://open.spotify.com/artist/5vSBtDDQkWN6uh8QtNGbmp) | [Can't Stop Loving You](https://open.spotify.com/album/4qKDPPao7cfkopnwhU7MG5) | 4:07 | 2026-03-16 |  |
 | [Cappuccino Rockster](https://open.spotify.com/track/2PqCCDWB9yNaUOljJs3IOm) | [Nik Nova](https://open.spotify.com/artist/2krwNQYTORoos22SRYb7JZ) | [Cappuccino Rockster](https://open.spotify.com/album/7rUOWc2Lqby0HIs78HxH9L) | 3:36 | 2025-11-17 | 2026-01-05 |
 | [Carpe Diem](https://open.spotify.com/track/2kee0UH1B4CJz8JutAosUL) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Carpe Diem](https://open.spotify.com/album/37M4BwWCZeAanuCt9Zmt8p) | 3:23 | 2025-11-30 | 2026-01-05 |
 | [Caught In A Web](https://open.spotify.com/track/0paNhTnaxuRlF6rgNUxaHi) | [Super Massive](https://open.spotify.com/artist/1yd31f01hxwTF3dzn6Eh5H) | [Caught In A Web](https://open.spotify.com/album/0IuM50XW5ywsWBkR4IqXXj) | 3:45 | 2025-11-17 | 2026-01-05 |
@@ -227,6 +228,7 @@
 | [lovergirl](https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX) | [Taylor Contarino](https://open.spotify.com/artist/4sPdnfBqns9zDxWZPv7AhT) | [lovergirl](https://open.spotify.com/album/5hcolasUwTgiAJ4B7nAXs3) | 2:03 | 2026-02-14 |  |
 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 | 2025-12-23 | 2026-01-15 |
 | [Límite \- Remix](https://open.spotify.com/track/6nJU2atw4dO9QUrWUbTwtA) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX), [Insi](https://open.spotify.com/artist/3EM8X2biSQbmXUiC1WmfsD) | [Límite \(Remix\)](https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3) | 3:03 | 2025-11-11 | 2025-12-01 |
+| [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-03-16 |  |
 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 | 2026-01-25 |
 | [Marijuana Blues](https://open.spotify.com/track/5d5SmkTY9V0cPeuwJtCmPF) | [Gaz Kelly](https://open.spotify.com/artist/54GFxKUpAbaUPNkQKT2A7Q) | [Marijuana Blues](https://open.spotify.com/album/5DsQGDFsghYiHftfKqt1Be) | 3:23 | 2025-11-17 | 2026-01-05 |
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 | 2026-01-15 |
@@ -294,6 +296,7 @@
 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 | 2026-02-21 |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 | 2026-01-05 |
 | [RUIN MY NIGHT](https://open.spotify.com/track/1K26NnEUacXVssx2VyN6Fw) | [KING TUT PROJECT](https://open.spotify.com/artist/49ZU77EBsUGTKXM7dLt9S6), [LIL GHETTI](https://open.spotify.com/artist/69n8TMKQqkLJo6JdppWe5r) | [RUIN MY NIGHT](https://open.spotify.com/album/2MIhhCkCjd7mbne3FHg0AI) | 3:32 | 2026-01-18 | 2026-02-21 |
+| [Run, Cinderella](https://open.spotify.com/track/3byIGxwllmdPbfpwzrIDyG) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [40 Days](https://open.spotify.com/album/5mVB4IdzqLak9ldSKbVD9b) | 3:32 | 2026-03-16 |  |
 | [Running Away](https://open.spotify.com/track/39tycuF0unuJqmzJw0EJqI) | [LUKAS R](https://open.spotify.com/artist/0exPooezHP0XsOH5KsQXx4) | [Running Away](https://open.spotify.com/album/40CBcKFeRq54eWM9HquVE8) | 3:22 | 2025-12-20 | 2026-01-15 |
 | [S.I.T.W](https://open.spotify.com/track/2XfnSLdry08chNzmBE6ZKO) | [JiuLing](https://open.spotify.com/artist/5R4qDx6PY8KuwUVv1cvumY) | [Something in the Water](https://open.spotify.com/album/65fQUzWkrBvAMJBO84gj9r) | 3:27 | 2025-12-22 | 2026-01-15 |
 | [SAFE SPACE](https://open.spotify.com/track/5inf6KBpzOAEjEJLeJf0jH) | [Karla Lee](https://open.spotify.com/artist/7g3RXGDKTSM8HmvjVRHEf1) | [INTIMATE](https://open.spotify.com/album/23h0kTWdfyEbYPlM3iKa7l) | 3:00 | 2026-01-06 | 2026-02-21 |
@@ -338,6 +341,7 @@
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-08 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2026-01-24 | 2026-02-21 |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2025-11-30 | 2026-01-05 |
+| [The Summit](https://open.spotify.com/track/1j0RFvDArOtl2P19hAD62t) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Summit](https://open.spotify.com/album/17EQOZPmfmbWsIU5bfu9ou) | 2:44 | 2026-03-16 |  |
 | [The Thinker And The Prover](https://open.spotify.com/track/3EjFDIbZj4y5VJjW7Jxc9H) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Thinker And The Prover](https://open.spotify.com/album/66gGHDPKfLxjss96Sj4lnM) | 6:01 | 2025-08-24 | 2026-01-25 |
 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-07 |  |
 | [The Voiceless](https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [The Voiceless](https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S) | 1:59 | 2026-01-24 |  |

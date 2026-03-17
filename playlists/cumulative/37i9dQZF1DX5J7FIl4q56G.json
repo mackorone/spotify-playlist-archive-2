@@ -59487,6 +59487,24 @@
     },
     {
       "album": {
+        "name": "Eternal Celestial Energy",
+        "url": "https://open.spotify.com/album/6Wjljght25wOabdfNVysHT"
+      },
+      "artists": [
+        {
+          "name": "Spirit Adrift",
+          "url": "https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344853,
+      "name": "Eternal Celestial Energy",
+      "url": "https://open.spotify.com/track/5bXULQTPdp0tiL14AmtyKL"
+    },
+    {
+      "album": {
         "name": "Eternal Cycle",
         "url": "https://open.spotify.com/album/7BDosUn8buvQnudOrfKDva"
       },

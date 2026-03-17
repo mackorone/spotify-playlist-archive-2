@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Yzomandias
+> 50 nejžhavějších hitů v České republice\. Cover: Lboy Bsc
 
-205 songs - 9 hr 58 min
+206 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-17 |  |
 | [Ostrava](https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Ostrava](https://open.spotify.com/album/1jcUAEW387tUoVe2ZzmME5) | 3:35 | 2024-09-23 | 2025-01-14 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-07-01 | 2024-11-12 |
+| [PERFECT TRIP](https://open.spotify.com/track/6lcDV507PWKokm2WGStAX8) | [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [PERFECT TRIP](https://open.spotify.com/album/3tJDsazasWfmmKL6yamI3z) | 2:07 | 2026-03-16 |  |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2026-01-05 |  |
 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 | 2024-12-16 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-08-13 |
@@ -195,7 +196,7 @@
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-03-31 | 2025-04-19 |
 | [v cizí posteli](https://open.spotify.com/track/3GCwkC0CQ0Fc4cmeLvqI0n) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [v cizí posteli](https://open.spotify.com/album/3HJ5XlF6MYkennbIvo3O3Q) | 2:49 | 2025-06-16 | 2025-06-24 |
 | [V Hlavě](https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:08 | 2024-11-25 | 2025-10-14 |
-| [Valčík](https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw) | [Neny](https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt) | [Valčík](https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx) | 2:55 | 2025-05-19 |  |
+| [Valčík](https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw) | [Neny](https://open.spotify.com/artist/1zh9JkZhBzTtkd2WztHgmt) | [Valčík](https://open.spotify.com/album/3jIcSO4DbgoBq0vM7aazzx) | 2:55 | 2025-05-19 | 2026-03-17 |
 | [Vandr](https://open.spotify.com/track/1xw2t2f0nqbSjHmMSb6ipY) | [Skippy McDippy](https://open.spotify.com/artist/3wJFxtAUW41wCsQi1xlxKH) | [Skippy McDippy](https://open.spotify.com/album/7ts6XxURUtS8MVgqRw57vY) | 2:04 | 2025-05-27 | 2025-06-10 |
 | [Vlajka](https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Vlajka](https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2) | 2:09 | 2026-02-03 |  |
 | [Vodka není voda](https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ) | [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2), [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Freez247](https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA) | [Napoleon](https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo) | 3:26 | 2026-02-23 |  |

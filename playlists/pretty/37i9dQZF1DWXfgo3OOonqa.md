@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,339 likes - 101 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,324 likes - 101 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FNM](https://open.spotify.com/track/5B3jedHeAo1g8r9iUGcE0m) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FNM](https://open.spotify.com/album/409QAf2a77VlR1sjWqG0D7) | 2:09 |
-| 2 | [michelin](https://open.spotify.com/track/5CNCVgLYiGAo7YumGSK80T) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [michelin](https://open.spotify.com/album/0HvfZHCAgBYoipM8EHg9tT) | 2:45 |
-| 3 | [Falska Löften](https://open.spotify.com/track/37Ae4jMIAUH4ABYICvbIgS) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Falska Löften](https://open.spotify.com/album/6rmzW6ma8nbEl9GlfIR71x) | 2:34 |
-| 4 | [Trafficante](https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Trafficante](https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU) | 1:48 |
-| 5 | [Delila](https://open.spotify.com/track/2LZIZx9vXKcAdEXUnxTDRF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Delila](https://open.spotify.com/album/4b9iVCHUMnSouROAbWVseL) | 2:14 |
+| 1 | [Delila](https://open.spotify.com/track/2LZIZx9vXKcAdEXUnxTDRF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Delila](https://open.spotify.com/album/4b9iVCHUMnSouROAbWVseL) | 2:14 |
+| 2 | [FNM](https://open.spotify.com/track/5B3jedHeAo1g8r9iUGcE0m) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [FNM](https://open.spotify.com/album/409QAf2a77VlR1sjWqG0D7) | 2:09 |
+| 3 | [Trafficante](https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Trafficante](https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU) | 1:48 |
+| 4 | [michelin](https://open.spotify.com/track/5CNCVgLYiGAo7YumGSK80T) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [michelin](https://open.spotify.com/album/0HvfZHCAgBYoipM8EHg9tT) | 2:45 |
+| 5 | [Falska Löften](https://open.spotify.com/track/37Ae4jMIAUH4ABYICvbIgS) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Falska Löften](https://open.spotify.com/album/6rmzW6ma8nbEl9GlfIR71x) | 2:34 |
 | 6 | [Psykoser](https://open.spotify.com/track/05WIutjuxxjZsI5wJNBg3p) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Psykoser](https://open.spotify.com/album/1g97WzBaMVqnnMt9vh5LA2) | 2:53 |
-| 7 | [ROBIN](https://open.spotify.com/track/5lpoBzxzRzh35NN8dtOLlw) | [S.T](https://open.spotify.com/artist/5997IALokFdMdLd1cPxzAD) | [ROBIN](https://open.spotify.com/album/5G2HnWjZyQ4MpZf00Tb6xE) | 2:22 |
-| 8 | [Bandit \(Hassela\)](https://open.spotify.com/track/5p33ckKZpKOhcwUv2Tu4VN) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Bandit \(Hassela\)](https://open.spotify.com/album/25Z9WxiUChb5juAzX7SyLu) | 3:06 |
+| 7 | [Bandit \(Hassela\)](https://open.spotify.com/track/5p33ckKZpKOhcwUv2Tu4VN) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Bandit \(Hassela\)](https://open.spotify.com/album/25Z9WxiUChb5juAzX7SyLu) | 3:06 |
+| 8 | [ROBIN](https://open.spotify.com/track/5lpoBzxzRzh35NN8dtOLlw) | [S.T](https://open.spotify.com/artist/5997IALokFdMdLd1cPxzAD) | [ROBIN](https://open.spotify.com/album/5G2HnWjZyQ4MpZf00Tb6xE) | 2:22 |
 | 9 | [LIPSTICK](https://open.spotify.com/track/34f7ivCAdEtOMZeRlL5YcO) | [Valentin](https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [LIPSTICK](https://open.spotify.com/album/5e006P5k1cNp8GSOH672Vw) | 2:31 |
-| 10 | [DE E VAD DE E](https://open.spotify.com/track/16jHwVtMTky5cDhQPSmiLh) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [DE E VAD DE E](https://open.spotify.com/album/5JHxmbsZlOLLyAnfmatChR) | 2:00 |
-| 11 | [Du gamla du fria](https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Du gamla du fria](https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq) | 2:06 |
-| 12 | [DraMa](https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [DraMa](https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs) | 2:53 |
-| 13 | [Stockholmsbrud](https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Stockholmsbrud](https://open.spotify.com/album/4A0ITPScPKfjQJUpcknF8L) | 1:41 |
-| 14 | [En kvinna](https://open.spotify.com/track/1EMIIKoPYKELjVp1gVO4Uf) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [En kvinna](https://open.spotify.com/album/1kczuZfv0VNtT5EwD8wUcj) | 2:45 |
+| 10 | [En kvinna](https://open.spotify.com/track/1EMIIKoPYKELjVp1gVO4Uf) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [En kvinna](https://open.spotify.com/album/1kczuZfv0VNtT5EwD8wUcj) | 2:45 |
+| 11 | [DE E VAD DE E](https://open.spotify.com/track/16jHwVtMTky5cDhQPSmiLh) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [DE E VAD DE E](https://open.spotify.com/album/5JHxmbsZlOLLyAnfmatChR) | 2:00 |
+| 12 | [Du gamla du fria](https://open.spotify.com/track/0KiSZiPmGVBsQU205wrAnx) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Du gamla du fria](https://open.spotify.com/album/3h9a83yPFXMS7IX8TpTsxq) | 2:06 |
+| 13 | [DraMa](https://open.spotify.com/track/5gwoYr9IrcgFrvCvzgfzyH) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [DraMa](https://open.spotify.com/album/5C7uvzzu76KtaDEBxJPwIs) | 2:53 |
+| 14 | [Stockholmsbrud](https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Stockholmsbrud](https://open.spotify.com/album/4A0ITPScPKfjQJUpcknF8L) | 1:41 |
 | 15 | [Dangerous](https://open.spotify.com/track/63v6J4OkLmDiY1aHVNxMsC) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt), [Lekaye](https://open.spotify.com/artist/1ex9QsvTSM6iNuLh1lkJUM) | [Dangerous](https://open.spotify.com/album/3YYfdiJu4aNIi39LZdCm1Z) | 2:15 |
-| 16 | [Aaliyah](https://open.spotify.com/track/2vsBGfhWcoI54wwdKqgUn8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Aaliyah](https://open.spotify.com/album/2QVSNAg6x7Zu4AuruSqQKC) | 2:36 |
-| 17 | [100 gånger](https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [100 gånger](https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j) | 2:37 |
-| 18 | [En Chans](https://open.spotify.com/track/3eiGPGtEEjX3depURHjci4) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [En Chans](https://open.spotify.com/album/0wPvF7pc4bZc3BK6I93h84) | 2:01 |
-| 19 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
-| 20 | [Habit](https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Habit](https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk) | 1:37 |
-| 21 | [Ma Bella](https://open.spotify.com/track/6KSIIl2AjtHbUUtILtwcHG) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Ma Bella](https://open.spotify.com/album/1Mc5HejQXI1aApu4ZvSYF7) | 2:09 |
+| 16 | [100 gånger](https://open.spotify.com/track/3HR32ASURSpRmsnBUnG173) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [100 gånger](https://open.spotify.com/album/1zMmmpaTng4lyIteoCtG2j) | 2:37 |
+| 17 | [En Chans](https://open.spotify.com/track/3eiGPGtEEjX3depURHjci4) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [En Chans](https://open.spotify.com/album/0wPvF7pc4bZc3BK6I93h84) | 2:01 |
+| 18 | [EXTRA](https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [EXTRA](https://open.spotify.com/album/13FMnv9Aie8twSGQjAKcnb) | 2:02 |
+| 19 | [Ma Bella](https://open.spotify.com/track/6KSIIl2AjtHbUUtILtwcHG) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Ma Bella](https://open.spotify.com/album/1Mc5HejQXI1aApu4ZvSYF7) | 2:09 |
+| 20 | [Aaliyah](https://open.spotify.com/track/2vsBGfhWcoI54wwdKqgUn8) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [Aaliyah](https://open.spotify.com/album/2QVSNAg6x7Zu4AuruSqQKC) | 2:36 |
+| 21 | [Habit](https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Habit](https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk) | 1:37 |
 | 22 | [SVAR](https://open.spotify.com/track/74s2tNXnObI1fHh8P9nVFv) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SVAR](https://open.spotify.com/album/2bapCrFLjJbu3U7exHggVT) | 2:02 |
 | 23 | [WINGMAN](https://open.spotify.com/track/1y5I9JZw8xzoAOzPWyrJxY) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [WINGMAN](https://open.spotify.com/album/3XJ5JO0d3VGESPZQwAnQN8) | 2:21 |
 | 24 | [We Get Paid](https://open.spotify.com/track/0ZQ8dJaXA94uPZqFyYH19N) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [We Get Paid](https://open.spotify.com/album/1wZBBZV8iIiW0R14RAUmyA) | 2:00 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 100 | [One More Time](https://open.spotify.com/track/3cLXwLFoHTyxBYWocaBaqt) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Sweyway](https://open.spotify.com/artist/1fdprbukg7bIAoBzdP667C) | [B2B](https://open.spotify.com/album/1EyTSgWDXJtd7XtliFnVf8) | 3:02 |
 | 101 | [THE BAD GUY](https://open.spotify.com/track/7JL2WLLaHZr9EgHyWfsKJk) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [THE BAD GUY](https://open.spotify.com/album/2tYf8Jkc8Aimg7xs2Czl6A) | 2:14 |
 
-Snapshot ID: `AAAAAI6QlDHHHrG6cnaL6XIA4tGZ7XyP`
+Snapshot ID: `AAAAAGMpcODDXf3kg0V8KdT6W/KrsWXb`

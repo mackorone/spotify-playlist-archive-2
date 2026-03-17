@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Rakhooo
 
-760 songs - 1 day 20 hr 34 min
+761 songs - 1 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [222](https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [222](https://open.spotify.com/album/2vd00S6qgxTeynCgtJlCJh) | 4:44 | 2025-01-24 | 2026-01-15 |
 | [24/7 UNNALATHA](https://open.spotify.com/track/1yJ0FeVVsbeObDATF434n0) | [SURENDHEVEN NAIR](https://open.spotify.com/artist/6VSUnais8W2tXdVmyOU6Bf), [Tishmake](https://open.spotify.com/artist/5ZLJcF0fNHUiytXiAQkgNp) | [24/7 UNNALATHA](https://open.spotify.com/album/17ZNMnaNc0eG7kiXeZVAIy) | 3:32 | 2022-10-17 | 2023-02-28 |
 | [60 FRAMES](https://open.spotify.com/track/5L9hCrIExtWkPVytrD9uOi) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [60 FRAMES](https://open.spotify.com/album/7kiQxQIrpqCMczjW9LuYAh) | 2:34 | 2024-12-05 | 2025-02-08 |
+| [Aaadhi Mudhal](https://open.spotify.com/track/3I43ttuPP9vc3Gix0XmiP5) | [Madhu Balakrishnan](https://open.spotify.com/artist/2qJHWT6Ov9ZZvuQx1h7mNn), [Jayakrishnan\. J\. K](https://open.spotify.com/artist/35Y9QVQpZigdIJ1yp4iBVc), [Jayasree Sunil](https://open.spotify.com/artist/4AUBFYaQyhi2Yr4f3FERLP), [Sajini Krishna](https://open.spotify.com/artist/2COv83cvEPoL0a22971Wxn) | [Aaadhi Mudhal](https://open.spotify.com/album/5uyIry3UP4UCKGWgE4KNzg) | 5:18 | 2026-03-16 |  |
 | [Aadi Kaathu](https://open.spotify.com/track/1XKWBTIPvOs8Nmqinv6Fcx) | [K\. Chitrasenan](https://open.spotify.com/artist/3Ywc9m3NNe8GwFoBE5iGjp) | [Aadi Kaathu](https://open.spotify.com/album/7acrjdt5eBNJLeCRs2hpLt) | 3:24 | 2022-11-18 | 2023-02-07 |
 | [Aahaa Penney](https://open.spotify.com/track/7Kf1dOawUard8B9qpue80n) | [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu), [Rafi Yoke](https://open.spotify.com/artist/6v1svztdRgyILSUhLWN6Xy), [Arjun Muralidharan](https://open.spotify.com/artist/634iLUrDyXGlNzvhsAiPNH) | [Aahaa Penney](https://open.spotify.com/album/1cqMkRGI6Wuj0ccPVqr26L) | 2:54 | 2025-01-30 | 2025-08-11 |
 | [Aakaya Therotame](https://open.spotify.com/track/2p5YiaTrUr6yRrj7fC1PSl) | [Arun Gopan](https://open.spotify.com/artist/5OAYaHDcHFCxxg4xkkzNrU) | [Aakaya Therotame](https://open.spotify.com/album/5iG4mrxxTPoDss52m81FAV) | 2:55 | 2025-02-13 | 2025-04-08 |
@@ -297,7 +298,7 @@
 | [Kanne Kanne](https://open.spotify.com/track/668cVZDJSRi9XxjPDz6GMd) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Kanne Kanne](https://open.spotify.com/album/1ZA2yObHJ0eh1LE7pIlkFq) | 2:56 | 2024-08-16 | 2024-10-19 |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-01-20 | 2023-07-11 |
 | [Kannoram](https://open.spotify.com/track/7xTmIc0MszfsbUOpXK5FeJ) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Kannoram](https://open.spotify.com/album/0OX03EF2d7QRRzx8YtANXQ) | 5:21 | 2023-02-06 | 2023-03-18 |
-| [Karaiyum Kanaavile](https://open.spotify.com/track/7v2jjJhncs2Yhm9ucBuYy5) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Karaiyum Kanaavile](https://open.spotify.com/album/1QOc4OEpb93NwOtEsr7dYj) | 3:53 | 2026-01-12 |  |
+| [Karaiyum Kanaavile](https://open.spotify.com/track/7v2jjJhncs2Yhm9ucBuYy5) | [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Karaiyum Kanaavile](https://open.spotify.com/album/1QOc4OEpb93NwOtEsr7dYj) | 3:53 | 2026-01-12 | 2026-03-17 |
 | [Karpanail Meedhakkanuma](https://open.spotify.com/track/4MsoGBBq9uUJckv08Ldibe) | [Vamsikanth Rekhana](https://open.spotify.com/artist/7p1XLCC9lLV6T3KIlZrMkG), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [S\. S\. Veeru](https://open.spotify.com/artist/1WXvXhcFtNE4ho0Ztnj4YW) | [Karpanail Meedhakkanuma](https://open.spotify.com/album/76xq8oUdEdUjuk4lDQfUWX) | 4:45 | 2023-07-19 | 2024-06-14 |
 | [Karumugil](https://open.spotify.com/track/6KyXfWQa4d3urTrXoF3NMX) | [Arjun Raju](https://open.spotify.com/artist/2N41Y1TkvfNW5XZGqe24Ez), [Vaishaly Sankar](https://open.spotify.com/artist/5QaVXuYcACv1UF5Hp52UdN), [SaiKrishnan Sundaram](https://open.spotify.com/artist/0PpZp8MHXrBYs5ERijOZG5) | [Karumugil](https://open.spotify.com/album/4ppkAcWO10uff2lsuLZSiW) | 4:23 | 2022-11-22 | 2023-02-22 |
 | [Karupalagi](https://open.spotify.com/track/3RJmk287ux4AupXvBpqTUy) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [Karupalagi](https://open.spotify.com/album/5y7DrmRCHqXVWFkfq0B9DA) | 3:29 | 2022-06-30 | 2023-02-07 |

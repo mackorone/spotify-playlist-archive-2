@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22457,
+  "num_followers": 22465,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "Like a Flower",
-        "url": "https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4"
+        "name": "\u50d5\u3089\u307e\u305f",
+        "url": "https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE"
       },
       "artists": [
         {
-          "name": "LANA",
-          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+          "name": "SG",
+          "url": "https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5"
         }
       ],
-      "duration_ms": 151793,
-      "name": "Like a Flower",
-      "url": "https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ"
+      "duration_ms": 197307,
+      "name": "\u50d5\u3089\u307e\u305f",
+      "url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u50d5\u3089\u307e\u305f",
-        "url": "https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE"
+        "name": "Like a Flower",
+        "url": "https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4"
       },
       "artists": [
         {
-          "name": "SG",
-          "url": "https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5"
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
         }
       ],
-      "duration_ms": 197307,
-      "name": "\u50d5\u3089\u307e\u305f",
-      "url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb"
+      "duration_ms": 151793,
+      "name": "Like a Flower",
+      "url": "https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -631,26 +631,18 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "ENDROLL",
-        "url": "https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy"
+        "name": "\u8a98\u62d0 / \u30e9\u30f3\u30c7\u30f4\u30fc",
+        "url": "https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n"
       },
       "artists": [
         {
-          "name": "Yoohei Kawakami",
-          "url": "https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5"
-        },
-        {
-          "name": "SennaRin",
-          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
-        },
-        {
-          "name": "Sawano Hiroyuki",
-          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
         }
       ],
-      "duration_ms": 182772,
-      "name": "ENDROLL",
-      "url": "https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg"
+      "duration_ms": 237739,
+      "name": "\u30e9\u30f3\u30c7\u30f4\u30fc",
+      "url": "https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -671,18 +663,26 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u8a98\u62d0 / \u30e9\u30f3\u30c7\u30f4\u30fc",
-        "url": "https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n"
+        "name": "ENDROLL",
+        "url": "https://open.spotify.com/album/0VxAQil0vOXx4Iq5u5KAXy"
       },
       "artists": [
         {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+          "name": "Yoohei Kawakami",
+          "url": "https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5"
+        },
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        },
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
         }
       ],
-      "duration_ms": 237739,
-      "name": "\u30e9\u30f3\u30c7\u30f4\u30fc",
-      "url": "https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod"
+      "duration_ms": 182772,
+      "name": "ENDROLL",
+      "url": "https://open.spotify.com/track/0zqQccMOU98P0gPDhqgnGg"
     },
     {
       "added_at": "2026-02-03 15:00:13",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-03 15:00:13",
       "album": {
-        "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
-        "url": "https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 149590,
-      "name": "\u30ea\u30d3\u30f3\u30b0\u30c7\u30c3\u30c9",
-      "url": "https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w"
-    },
-    {
-      "added_at": "2026-02-03 15:00:13",
-      "album": {
         "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
         "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 201520,
       "name": "\u2661\u4eba\u751f\u2661",
       "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
+    },
+    {
+      "added_at": "2026-02-03 15:00:13",
+      "album": {
+        "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
+        "url": "https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 149590,
+      "name": "\u30ea\u30d3\u30f3\u30b0\u30c7\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w"
     },
     {
       "added_at": "2026-02-03 15:00:13",

@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 129 | [Heiser vor Glück](https://open.spotify.com/track/0hbAHOsuIjCnosCRmxLWP3) | [Christina Stürmer](https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo) | [Überall zu Hause](https://open.spotify.com/album/5BTIoEov1qCJiCtjQmm9id) | 3:34 |
 | 130 | [Kopfsache](https://open.spotify.com/track/6hvyb2fpuk8SOtIEs022wm) | [LiZZA](https://open.spotify.com/artist/7wiUyQkeFf7MvAEGpF7wzR) | [Kopfsache](https://open.spotify.com/album/2tkPSTwRNIA2X8FSZkCAq9) | 3:37 |
 | 131 | [Geister](https://open.spotify.com/track/2tpmUQKddesrmZmHEZdI3F) | [Henning Wehland](https://open.spotify.com/artist/7AgDCXy6Z60LzhvYOrDlf3) | [Der Letzte an der Bar](https://open.spotify.com/album/492ubi4D359Nl0NsqhjDWJ) | 3:28 |
-| 132 | [Immun](https://open.spotify.com/track/1xxFRYZ68bCQTxaJwplW17) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:41 |
-| 133 | [Body Talk](https://open.spotify.com/track/2ejzE6eD1mP1JFk4qrBxbc) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk](https://open.spotify.com/album/2Xy0XjWMA3XQH3Wuh3dJ9y) | 2:46 |
+| 132 | [Body Talk](https://open.spotify.com/track/2ejzE6eD1mP1JFk4qrBxbc) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Body Talk](https://open.spotify.com/album/2Xy0XjWMA3XQH3Wuh3dJ9y) | 2:46 |
+| 133 | [Immun](https://open.spotify.com/track/1xxFRYZ68bCQTxaJwplW17) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:41 |
 | 134 | [Held](https://open.spotify.com/track/0wQBupEHs2KRHQxs3typES) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:33 |
 | 135 | [Wiedersehen](https://open.spotify.com/track/5k7tMgpIMQxhao6NA5ZbLG) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:23 |
 | 136 | [Gut soweit](https://open.spotify.com/track/6gS1Q6jG6BQ5aNvseKZjic) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:21 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 152 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 153 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcMOoAAAAADB53BjABO+gX8gbQZvA+2e`
+Snapshot ID: `AcMUVAAAAABKSSNxpbT53qPwXUOTTe/m`

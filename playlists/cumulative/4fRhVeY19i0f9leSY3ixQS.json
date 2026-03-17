@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 206204,
       "name": "Apathy",
       "url": "https://open.spotify.com/track/1RkAYeOXzdO6wqllltdzL9"
@@ -1018,7 +1018,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 242774,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/7uhTlxl2fbbqXiRZnNbj7F"
@@ -2611,6 +2611,24 @@
     },
     {
       "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/7r6EjGbRlHJkA8Jzw9XJfH"
+      },
+      "artists": [
+        {
+          "name": "ANGER MGMT.",
+          "url": "https://open.spotify.com/artist/2ivOTVGR8YstFMPLpyhxO4"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235442,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/1yc1vD1iLc6lsv7aAkxmYY"
+    },
+    {
+      "album": {
         "name": "Caduceus: The Twin Serpents",
         "url": "https://open.spotify.com/album/6XX0CrOnwuzxOqjkxQoR7U"
       },
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 293990,
       "name": "Children of No Nation",
       "url": "https://open.spotify.com/track/4qvESKscIDmmu5JsT3dapu"
@@ -3022,7 +3040,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 183221,
       "name": "Church Of Lie - Remix I",
       "url": "https://open.spotify.com/track/64VaMBSrYtEC4dd1ZFJq3N"
@@ -3394,6 +3412,24 @@
       "duration_ms": 149560,
       "name": "Crave",
       "url": "https://open.spotify.com/track/10yJtycXC7s7npCCcOVScU"
+    },
+    {
+      "album": {
+        "name": "[REDACTED]",
+        "url": "https://open.spotify.com/album/0IDJI4Wfx1jPBiYOdyV9GG"
+      },
+      "artists": [
+        {
+          "name": "[REDACTED]",
+          "url": "https://open.spotify.com/artist/6X14XfGTmB560PF063wXDk"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/6k07tSrPUEgdDoKZiLze3z"
     },
     {
       "album": {
@@ -4446,7 +4482,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 139354,
       "name": "Disgrace",
       "url": "https://open.spotify.com/track/5x8SJh0vyRhPbwJaghlv7M"
@@ -5182,7 +5218,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 234947,
       "name": "eden",
       "url": "https://open.spotify.com/track/3Pwpo5dOtreAEuGyTe3TSL"
@@ -5868,7 +5904,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 173538,
       "name": "Fault",
       "url": "https://open.spotify.com/track/4ecJ6jce4cxHPv3Hurj8bv"
@@ -6264,7 +6300,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 313732,
       "name": "Freiheit im Fall",
       "url": "https://open.spotify.com/track/5HphH0z58AioyX3TWvgvh1"
@@ -6390,7 +6426,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 203061,
       "name": "Fun and Violence",
       "url": "https://open.spotify.com/track/2NWGEoM9HLO86h3dmzcycT"
@@ -6520,6 +6556,24 @@
       "duration_ms": 130651,
       "name": "Garbage",
       "url": "https://open.spotify.com/track/0eBxGhS2caw7wcCcdqvRyd"
+    },
+    {
+      "album": {
+        "name": "TRIASSIC TERROR",
+        "url": "https://open.spotify.com/album/3QV8gQLzI1pEYvz4AyQska"
+      },
+      "artists": [
+        {
+          "name": "Terrordactyl",
+          "url": "https://open.spotify.com/artist/1HyeCpiQo97DkXpSjHBMW0"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125261,
+      "name": "GENERAL SCALES",
+      "url": "https://open.spotify.com/track/1ax7t9TDxt4SkY846zooFC"
     },
     {
       "album": {
@@ -6696,7 +6750,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 150102,
       "name": "Glimpse",
       "url": "https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR"
@@ -7164,7 +7218,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 267189,
       "name": "Harddown",
       "url": "https://open.spotify.com/track/0RhigpRCbtgarizPy2npvO"
@@ -7813,6 +7867,24 @@
     },
     {
       "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/5b55saEOgc7AoeNMvxQZks"
+      },
+      "artists": [
+        {
+          "name": "Feedback Freud",
+          "url": "https://open.spotify.com/artist/0MVz1QGdVFsdxJhGpRwWJp"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248665,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/1efcDwYnZJ4GI6ez9Rpvf3"
+    },
+    {
+      "album": {
         "name": "I am alone again",
         "url": "https://open.spotify.com/album/41gZMc73PNDxdohhyP2uNn"
       },
@@ -7864,6 +7936,24 @@
       "duration_ms": 217750,
       "name": "I DEVOUR (BECAUSE I DESERVE)",
       "url": "https://open.spotify.com/track/2Vdso3tAvzdItTgpBiQULg"
+    },
+    {
+      "album": {
+        "name": "I Don't Understand It",
+        "url": "https://open.spotify.com/album/2KH9M89MO1sRGhTnuxVZZa"
+      },
+      "artists": [
+        {
+          "name": "Empty Heaven",
+          "url": "https://open.spotify.com/artist/0XvNb4H3fcUzkvrYuNddnO"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191270,
+      "name": "I Don't Understand It",
+      "url": "https://open.spotify.com/track/1FMftJu5CXMzGeJQUMTfIq"
     },
     {
       "album": {
@@ -8156,7 +8246,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 195096,
       "name": "I Will Take My Crown",
       "url": "https://open.spotify.com/track/3x7ZFzqU3RLHr51f3JHbcE"
@@ -8560,7 +8650,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 209439,
       "name": "In The Year 2525 (ghosts in chains)",
       "url": "https://open.spotify.com/track/4aYcjqNEdC6CAwtFz4k7HN"
@@ -8956,7 +9046,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 185133,
       "name": "Jack Webb",
       "url": "https://open.spotify.com/track/0cr3AqobpRiZFDdhn3KO2l"
@@ -11859,6 +11949,24 @@
     },
     {
       "album": {
+        "name": "Nowhere Man",
+        "url": "https://open.spotify.com/album/57DfkIrFp0fcH9wJGTgjUS"
+      },
+      "artists": [
+        {
+          "name": "Gramercy",
+          "url": "https://open.spotify.com/artist/2MWPvXtgq5s0u21YbGhQAx"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165358,
+      "name": "Nowhere Man",
+      "url": "https://open.spotify.com/track/0117Rkgi04BTIF85Bvcwwz"
+    },
+    {
+      "album": {
         "name": "Nurse Depression",
         "url": "https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5"
       },
@@ -11996,7 +12104,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 136836,
       "name": "On My Pillow",
       "url": "https://open.spotify.com/track/10m0O7p7kyyHFnHNkIylxc"
@@ -12282,6 +12390,24 @@
       "duration_ms": 225668,
       "name": "Out Of My Halo",
       "url": "https://open.spotify.com/track/3HsYUctD2qPFDDIV5imE5b"
+    },
+    {
+      "album": {
+        "name": "Out of My Hands / I Can't Look",
+        "url": "https://open.spotify.com/album/6DHqiHUgpp8eAnZw4YZbP2"
+      },
+      "artists": [
+        {
+          "name": "Bubby",
+          "url": "https://open.spotify.com/artist/7yDuo9SBzKYQYYs9bPKXDp"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200718,
+      "name": "Out of My Hands",
+      "url": "https://open.spotify.com/track/5qfOG0Nf4sWEp7w33XuvYR"
     },
     {
       "album": {
@@ -12804,7 +12930,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 180071,
       "name": "Polaroid Damage",
       "url": "https://open.spotify.com/track/3PMEO9GJF45orl04l66Tsz"
@@ -13024,6 +13150,24 @@
       "duration_ms": 163140,
       "name": "Pre\u00e7o",
       "url": "https://open.spotify.com/track/41sGpLKx6jkH9FqvYIWdIf"
+    },
+    {
+      "album": {
+        "name": "Prints",
+        "url": "https://open.spotify.com/album/0AJPEgw6ZPkTlML6dbS8pM"
+      },
+      "artists": [
+        {
+          "name": "DRB",
+          "url": "https://open.spotify.com/artist/0OIIcmaAOVUdL4h3JRZ76a"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Prints",
+      "url": "https://open.spotify.com/track/4G0KJveIU4Avfej1f8L2SR"
     },
     {
       "album": {
@@ -14566,7 +14710,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 198322,
       "name": "Shatter & Bloom",
       "url": "https://open.spotify.com/track/3Y4OsCAxXW7STwfuAZEgEL"
@@ -16391,6 +16535,24 @@
     },
     {
       "album": {
+        "name": "Take The Throne (Deport The Fascists)",
+        "url": "https://open.spotify.com/album/7rGCFlV3pOfNtFKBPcZjg9"
+      },
+      "artists": [
+        {
+          "name": "Ramona Marx",
+          "url": "https://open.spotify.com/artist/2agbpBXAirgpZ4HireNncD"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145990,
+      "name": "Take The Throne (Deport The Fascists)",
+      "url": "https://open.spotify.com/track/3ZLfeZiSfpIPT87bWYYpUE"
+    },
+    {
+      "album": {
         "name": "Tangerine Lilac",
         "url": "https://open.spotify.com/album/3O7dSPQ6gyQqaDnHGOwzWx"
       },
@@ -16835,7 +16997,7 @@
     },
     {
       "album": {
-        "name": "Don\u00b4T Go",
+        "name": "Don't Go",
         "url": "https://open.spotify.com/album/4xqmSs4RnijgeFbHokJ0HF"
       },
       "artists": [
@@ -16998,6 +17160,24 @@
       "duration_ms": 234500,
       "name": "The More I Know You (The Less I Feel Being a Part of It)",
       "url": "https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF"
+    },
+    {
+      "album": {
+        "name": "Arteries",
+        "url": "https://open.spotify.com/album/3bp5LFD6NGbt2vWAzer0zu"
+      },
+      "artists": [
+        {
+          "name": "Sludder",
+          "url": "https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195628,
+      "name": "The New Truth",
+      "url": "https://open.spotify.com/track/7vRZffaACmVfs1q8UzaJEP"
     },
     {
       "album": {
@@ -17315,6 +17495,24 @@
     },
     {
       "album": {
+        "name": "The Weight of Sorrow",
+        "url": "https://open.spotify.com/album/4sO4rf97LDEESa7tGmznNB"
+      },
+      "artists": [
+        {
+          "name": "Radiance Of Life",
+          "url": "https://open.spotify.com/artist/4iGxheoVvaU4KBOK7Wvq2o"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225005,
+      "name": "The Weight of Sorrow",
+      "url": "https://open.spotify.com/track/5pGuXpDDwshEv33APcYPFI"
+    },
+    {
+      "album": {
         "name": "SLEEP MODE OBLIVION",
         "url": "https://open.spotify.com/album/0ugBkoYfVe35zNdUzdLGqK"
       },
@@ -17488,7 +17686,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 105222,
       "name": "This Is The End",
       "url": "https://open.spotify.com/track/5snyVmnEIWhUDQ9h9gCF1F"
@@ -17600,6 +17798,24 @@
       "duration_ms": 172853,
       "name": "Time",
       "url": "https://open.spotify.com/track/1P4YBeUbkd1DdeBWx901uc"
+    },
+    {
+      "album": {
+        "name": "Time Fades Away",
+        "url": "https://open.spotify.com/album/4KqHGzTGzI16RNNsw4009H"
+      },
+      "artists": [
+        {
+          "name": "Ryan O'Connell",
+          "url": "https://open.spotify.com/artist/0AtLDmay9V1cHn801d9Sk3"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119347,
+      "name": "Time Fades Away",
+      "url": "https://open.spotify.com/track/3Z2nvRdryIPpRApe1BSAOY"
     },
     {
       "album": {
@@ -17830,7 +18046,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 185000,
       "name": "Trading Places",
       "url": "https://open.spotify.com/track/6DMVSvgxZz0QMuCvlivFc7"
@@ -18176,7 +18392,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 228626,
       "name": "Useless",
       "url": "https://open.spotify.com/track/10KZ7d58qC7JdRIyfTEbyy"
@@ -19320,7 +19536,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 197850,
       "name": "With You",
       "url": "https://open.spotify.com/track/6GbPupbyDuA3ipJsYATSJA"
@@ -19878,7 +20094,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 179016,
       "name": "Your Love Is My Drug",
       "url": "https://open.spotify.com/track/5VBt1jW7Bn9cI9leKUX9Nb"
@@ -20022,7 +20238,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 209991,
       "name": "\u041d\u0435 \u0431\u043e\u0439\u0441\u044f",
       "url": "https://open.spotify.com/track/6raKYDAQ9z825vMGefXexJ"

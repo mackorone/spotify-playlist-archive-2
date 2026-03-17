@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Yzomandias",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Lboy Bsc",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -2749,6 +2749,28 @@
     },
     {
       "album": {
+        "name": "PERFECT TRIP",
+        "url": "https://open.spotify.com/album/3tJDsazasWfmmKL6yamI3z"
+      },
+      "artists": [
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "PERFECT TRIP",
+      "url": "https://open.spotify.com/track/6lcDV507PWKokm2WGStAX8"
+    },
+    {
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
@@ -3850,7 +3872,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 175172,
       "name": "Val\u010d\u00edk",
       "url": "https://open.spotify.com/track/7eFpCO3ixXADJPdl5EvpRw"

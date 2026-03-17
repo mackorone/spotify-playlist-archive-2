@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "2026",
+        "url": "https://open.spotify.com/album/3YInUqtinCvt335dVMSwfU"
+      },
+      "artists": [
+        {
+          "name": "nghttn",
+          "url": "https://open.spotify.com/artist/6FjzqMCL55yiYasq74YchH"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "2026",
+      "url": "https://open.spotify.com/track/2pfVHJ35vbW669j4vEx4sV"
+    },
+    {
+      "album": {
         "name": "2031",
         "url": "https://open.spotify.com/album/66xLAYYNK64kL96kUcoTUw"
       },
@@ -14386,7 +14404,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -24906,7 +24924,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 167047,
       "name": "Highlife",
       "url": "https://open.spotify.com/track/3oKRQ4a0iiO8tZ4tbt0ra0"
@@ -28930,7 +28948,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 140253,
       "name": "Jamie Bynoe-Gittens",
       "url": "https://open.spotify.com/track/0oT6Wo33U7xaFXVC34kGoP"
@@ -31712,7 +31730,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 152282,
       "name": "LES DIAMANTS DE BOKASSA",
       "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
@@ -32944,7 +32962,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 154434,
       "name": "Lord Speech",
       "url": "https://open.spotify.com/track/4hpB0qTWdyAfP6iQN1t3Yl"
@@ -39347,6 +39365,28 @@
     },
     {
       "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/3g1XCDygLttyxR2Pz1Hyvm"
+      },
+      "artists": [
+        {
+          "name": "Water of Elegance",
+          "url": "https://open.spotify.com/artist/2LQrqHH3XZWedLQzMxYfQr"
+        },
+        {
+          "name": "Rese",
+          "url": "https://open.spotify.com/artist/5bRCZU3iPJLkwpil422leu"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238416,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/3chqZmi7wlPkOgGP40lPw3"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -41224,7 +41264,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 164986,
       "name": "OG",
       "url": "https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI"
@@ -44408,7 +44448,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 168546,
       "name": "Pocahontas",
       "url": "https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09"
@@ -56490,6 +56530,24 @@
       "duration_ms": 223355,
       "name": "The Four Seasons - Winter, Pt. 1 (Violin)",
       "url": "https://open.spotify.com/track/06CvBbf5WPW4fhFV3Spl37"
+    },
+    {
+      "album": {
+        "name": "The Glamorous Fashion",
+        "url": "https://open.spotify.com/album/3cNsSwTgT93OTDOpf5ba2j"
+      },
+      "artists": [
+        {
+          "name": "Money Mayhem",
+          "url": "https://open.spotify.com/artist/5BU9KH48xsN9vGZ9Ic9RV6"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178351,
+      "name": "The Glamorous Fashion",
+      "url": "https://open.spotify.com/track/3lrS0GTiSly7SJVTHfmYtQ"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Fernanda Díaz
+> Meet the future of music around the world\. Cover: wane
 
 2,308 songs - 5 day 4 hr 38 min
 

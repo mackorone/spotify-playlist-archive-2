@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94056,
+  "num_followers": 94069,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
       },
       "artists": [
         {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
         }
       ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
-        "name": "I Will Destroy The Void In You / Hold Steady",
-        "url": "https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H"
-      },
-      "artists": [
-        {
-          "name": "The Glorious Sons",
-          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
-        }
-      ],
-      "duration_ms": 149698,
-      "name": "Hold Steady",
-      "url": "https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
         "name": "We're the Bastards",
         "url": "https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 298702,
       "name": "Born to Roam",
       "url": "https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
+        "name": "I Will Destroy The Void In You / Hold Steady",
+        "url": "https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "duration_ms": 149698,
+      "name": "Hold Steady",
+      "url": "https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV"
     },
     {
       "added_at": "2026-01-12 23:46:55",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "Stare At The Sun",
+        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
+      },
+      "artists": [
+        {
+          "name": "Duane Betts",
+          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "duration_ms": 272493,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "Stare At The Sun",
-        "url": "https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa"
-      },
-      "artists": [
-        {
-          "name": "Duane Betts",
-          "url": "https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        }
-      ],
-      "duration_ms": 272493,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x"
     },
     {
       "added_at": "2026-01-12 23:46:55",

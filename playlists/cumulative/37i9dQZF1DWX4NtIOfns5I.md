@@ -4,7 +4,7 @@
 
 > emma harner gently ushering in spring 🍃
 
-743 songs - 1 day 20 hr 52 min
+744 songs - 1 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Call It Easy \- Edit](https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Call It Easy](https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1) | 4:24 | 2025-04-10 | 2025-09-13 |
 | [call my name](https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [call my name](https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH) | 3:24 | 2024-07-08 | 2025-05-10 |
 | [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 | 2025-10-18 |
+| [Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 4:06 | 2026-03-16 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-03 | 2024-10-19 |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 | 2024-09-07 |
 | [carnival sounds](https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [carnival sounds](https://open.spotify.com/album/6k1w7HAK3B09JHglsLd9J0) | 4:20 | 2024-06-28 | 2025-02-08 |

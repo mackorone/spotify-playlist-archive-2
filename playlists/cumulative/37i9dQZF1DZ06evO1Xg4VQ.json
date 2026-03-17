@@ -1278,7 +1278,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 177773,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y"
@@ -1668,6 +1668,24 @@
       "duration_ms": 166973,
       "name": "Tu Voz (with Lila Downs)",
       "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
+    },
+    {
+      "album": {
+        "name": "Tumba 7",
+        "url": "https://open.spotify.com/album/6fPRIFEbcszWFz0xxoGPzl"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301621,
+      "name": "Tumba 7",
+      "url": "https://open.spotify.com/track/68yaDbdzyd0qgtZLIm4MCq"
     },
     {
       "album": {

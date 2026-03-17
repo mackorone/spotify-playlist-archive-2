@@ -1,6 +1,6 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 366794,
+  "num_followers": 366808,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "The last kiss",
-        "url": "https://open.spotify.com/album/2KqrwvBUGKmKpJe7Z6uixJ"
-      },
-      "artists": [
-        {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "The last kiss",
-      "url": "https://open.spotify.com/track/03jkyMuDhVI0nhpNxxvLgr"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Another Time",
         "url": "https://open.spotify.com/album/29YgohxjdhM07KLY8PGGsI"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 81590,
       "name": "Another Time",
       "url": "https://open.spotify.com/track/7lk8jlre48y3teEbgRvrMT"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "The last kiss",
+        "url": "https://open.spotify.com/album/2KqrwvBUGKmKpJe7Z6uixJ"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "The last kiss",
+      "url": "https://open.spotify.com/track/03jkyMuDhVI0nhpNxxvLgr"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "New Years Ahead",
-        "url": "https://open.spotify.com/album/4dwpRqG7JlbdAYkXIpGdDF"
-      },
-      "artists": [
-        {
-          "name": "Avery Tormichael",
-          "url": "https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL"
-        }
-      ],
-      "duration_ms": 136383,
-      "name": "New Years Ahead",
-      "url": "https://open.spotify.com/track/6fcSVHWjOFkftmW0Ck3mS3"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Soulfully",
         "url": "https://open.spotify.com/album/1aiakRrbaOPZy5mr4dkZAf"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 178699,
       "name": "Soulfully",
       "url": "https://open.spotify.com/track/6ztls9EIQ5BtPOo2bbmQ3D"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "New Years Ahead",
+        "url": "https://open.spotify.com/album/4dwpRqG7JlbdAYkXIpGdDF"
+      },
+      "artists": [
+        {
+          "name": "Avery Tormichael",
+          "url": "https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL"
+        }
+      ],
+      "duration_ms": 136383,
+      "name": "New Years Ahead",
+      "url": "https://open.spotify.com/track/6fcSVHWjOFkftmW0Ck3mS3"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Midnight Promises",
-        "url": "https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI"
-      },
-      "artists": [
-        {
-          "name": "Nova Blanche",
-          "url": "https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf"
-        }
-      ],
-      "duration_ms": 155849,
-      "name": "Midnight Promises",
-      "url": "https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Passing Time",
         "url": "https://open.spotify.com/album/0Had12L7iHS4sg3ZH9INvc"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 124897,
       "name": "Passing Time",
       "url": "https://open.spotify.com/track/7JCZMTeSLF2VgXGFSQxrS8"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Midnight Promises",
+        "url": "https://open.spotify.com/album/6zGj4Fb4JqTrX37cDGLRXI"
+      },
+      "artists": [
+        {
+          "name": "Nova Blanche",
+          "url": "https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf"
+        }
+      ],
+      "duration_ms": 155849,
+      "name": "Midnight Promises",
+      "url": "https://open.spotify.com/track/3LOcyi3pPJ0v5dQJXbTohF"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -619,8 +619,24 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Conversations in the Night",
-        "url": "https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE"
+        "name": "Tender Is The Quiet",
+        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
+      },
+      "artists": [
+        {
+          "name": "Aliz Uveges",
+          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Tender Is The Quiet",
+      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "The sound of waiting",
+        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
         }
       ],
-      "duration_ms": 167621,
-      "name": "Conversations in the Night",
-      "url": "https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq"
+      "duration_ms": 157044,
+      "name": "The sound of waiting",
+      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -647,22 +663,6 @@
       "duration_ms": 130923,
       "name": "Pradayoo",
       "url": "https://open.spotify.com/track/6dpxiaunf6rT5tjr446YSd"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
-        "name": "Tender Is The Quiet",
-        "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
-      },
-      "artists": [
-        {
-          "name": "Aliz Uveges",
-          "url": "https://open.spotify.com/artist/5AtZWSF011oHJ6ebfhCJpp"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Tender Is The Quiet",
-      "url": "https://open.spotify.com/track/23h7USfFHcvcPOeFAOIeZi"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "The sound of waiting",
-        "url": "https://open.spotify.com/album/2RVsSBBdYZmzty5xVTu1hr"
-      },
-      "artists": [
-        {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
-        }
-      ],
-      "duration_ms": 157044,
-      "name": "The sound of waiting",
-      "url": "https://open.spotify.com/track/1ZuNV7S1kGPHu3nDHKIEDo"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Too Close for Comfort",
         "url": "https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 161379,
       "name": "Too Close for Comfort",
       "url": "https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Conversations in the Night",
+        "url": "https://open.spotify.com/album/2FYH8ycX92JZF8Ey2VX8eE"
+      },
+      "artists": [
+        {
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Conversations in the Night",
+      "url": "https://open.spotify.com/track/2ryZ0oodUIPTaNb8x3htAq"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Quite a dilemma",
-        "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
-      },
-      "artists": [
-        {
-          "name": "Camille Blanche",
-          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
-        }
-      ],
-      "duration_ms": 175833,
-      "name": "Quite a dilemma",
-      "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Fading Away",
         "url": "https://open.spotify.com/album/4fBkgYYEsSKa1pICgQThET"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
+        "name": "Quite a dilemma",
+        "url": "https://open.spotify.com/album/0SWqBR8eqW0LqgJXrPUQcI"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "duration_ms": 175833,
+      "name": "Quite a dilemma",
+      "url": "https://open.spotify.com/track/0pqVwU2Qh0DqWtCM2Z34R0"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
         "name": "A Trip Down Memory Lane",
         "url": "https://open.spotify.com/album/5imUoAQsH4jj4sBpG4oG5c"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 202500,
       "name": "A Trip Down Memory Lane",
       "url": "https://open.spotify.com/track/5vu73iGAuH5Lm5TYnEG46U"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
-        "name": "Grindavik",
-        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
-      },
-      "artists": [
-        {
-          "name": "Haukur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
-        }
-      ],
-      "duration_ms": 184272,
-      "name": "Grindavik",
-      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
+        "name": "The Night Forgot Our Names",
+        "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
+      },
+      "artists": [
+        {
+          "name": "Georg Harvester",
+          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "The Night Forgot Our Names",
+      "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
         "name": "Another sunset",
         "url": "https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo"
       },
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
+        "name": "Grindavik",
+        "url": "https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB"
+      },
+      "artists": [
+        {
+          "name": "Haukur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w"
+        }
+      ],
+      "duration_ms": 184272,
+      "name": "Grindavik",
+      "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
         "name": "A Phonecall Away",
         "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 152733,
       "name": "A Phonecall Away",
       "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
-        "name": "The Night Forgot Our Names",
-        "url": "https://open.spotify.com/album/3flAwqL9DL2A1MpWb0UQo5"
-      },
-      "artists": [
-        {
-          "name": "Georg Harvester",
-          "url": "https://open.spotify.com/artist/2w9g3qs7EAeQFeRC91BaBs"
-        }
-      ],
-      "duration_ms": 155466,
-      "name": "The Night Forgot Our Names",
-      "url": "https://open.spotify.com/track/5AVnesv0aPqtiub0UmMjNw"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "For One Night Only",
-        "url": "https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap"
-      },
-      "artists": [
-        {
-          "name": "Goratie",
-          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "For One Night Only",
-      "url": "https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "No More Talk",
         "url": "https://open.spotify.com/album/6NB7QDJfD9DbmkoHKrSwA0"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 162857,
       "name": "No More Talk",
       "url": "https://open.spotify.com/track/2a2BJiTnJrD0qnf6FtbiMW"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "For One Night Only",
+        "url": "https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap"
+      },
+      "artists": [
+        {
+          "name": "Goratie",
+          "url": "https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "For One Night Only",
+      "url": "https://open.spotify.com/track/0HOhMMTzxpW8xygjVSxgpt"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "A Clear Sky",
-        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
-      },
-      "artists": [
-        {
-          "name": "Leah Lambert",
-          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "A clear sky",
-      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Right Up",
         "url": "https://open.spotify.com/album/1bh9rnAoHm9lRBzsZJy74i"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192798,
       "name": "Right Up",
       "url": "https://open.spotify.com/track/4fxc65XRk6q6EfUpdhBTP3"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "A Clear Sky",
+        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
+      },
+      "artists": [
+        {
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
+        }
+      ],
+      "duration_ms": 170686,
+      "name": "A clear sky",
+      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "You Will Be Missed",
-        "url": "https://open.spotify.com/album/3VCu5J7956xMk28p2TVkHf"
-      },
-      "artists": [
-        {
-          "name": "Myles Dale",
-          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
-        }
-      ],
-      "duration_ms": 170536,
-      "name": "You Will Be Missed",
-      "url": "https://open.spotify.com/track/5qaKVpCQbyGTTPxUQmpNXJ"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Midnight on 5th Avenue",
         "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 180259,
       "name": "Midnight on 5th Avenue",
       "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "You Will Be Missed",
+        "url": "https://open.spotify.com/album/3VCu5J7956xMk28p2TVkHf"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "duration_ms": 170536,
+      "name": "You Will Be Missed",
+      "url": "https://open.spotify.com/track/5qaKVpCQbyGTTPxUQmpNXJ"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "You're glowing",
-        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 161950,
-      "name": "You're glowing",
-      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Drift Away",
         "url": "https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Maybe Next Week",
-        "url": "https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l"
+        "name": "You're glowing",
+        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
       },
       "artists": [
         {
-          "name": "Lucas Collins",
-          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
         }
       ],
-      "duration_ms": 150133,
-      "name": "Maybe Next Week",
-      "url": "https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP"
+      "duration_ms": 161950,
+      "name": "You're glowing",
+      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
     },
     {
       "added_at": "2026-02-27 04:00:17",
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
+        "name": "Maybe Next Week",
+        "url": "https://open.spotify.com/album/4S13x0lSNQI1eeVHDUK24l"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "Maybe Next Week",
+      "url": "https://open.spotify.com/track/3hJvvzM5Db68F7nvySa3eP"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
         "name": "I miss your laughter",
         "url": "https://open.spotify.com/album/0pAU1cL8tBWrwH65s1NLe7"
       },
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-02-27 04:00:17",
       "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq"
-      },
-      "artists": [
-        {
-          "name": "Art Beckett",
-          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
-        }
-      ],
-      "duration_ms": 168553,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq"
-    },
-    {
-      "added_at": "2026-02-27 04:00:17",
-      "album": {
         "name": "Last light on 52nd street",
         "url": "https://open.spotify.com/album/1ewztXs9EIdDaY5szpP2cS"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 159600,
       "name": "Last light on 52nd street",
       "url": "https://open.spotify.com/track/2UIMFV8wrYW4QthT9oODXX"
+    },
+    {
+      "added_at": "2026-02-27 04:00:17",
+      "album": {
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq"
+      },
+      "artists": [
+        {
+          "name": "Art Beckett",
+          "url": "https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y"
+        }
+      ],
+      "duration_ms": 168553,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq"
     }
   ],
   "unique_name": "Relaxing Jazz Piano",

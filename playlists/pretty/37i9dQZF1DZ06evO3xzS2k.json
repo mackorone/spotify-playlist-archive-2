@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAACMeildtdVRtQlAwN2Uo84C",
+  "snapshot_id": "abX2gAAAAABSZ+aqxrUHhjbu5VoGdPOd",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirr & Nothing",
-        "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
+        "name": "toothless coal",
+        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 220245,
-      "name": "July the Fourth",
-      "url": "https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn"
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "toothless coal",
-        "url": "https://open.spotify.com/album/4mJBkjyYz5842bI63RPXAv"
+        "name": "Whirr & Nothing",
+        "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 227733,
-      "name": "toothless coal",
-      "url": "https://open.spotify.com/track/4P1mMgITKDwL54lRxebGul"
+      "duration_ms": 220245,
+      "name": "July the Fourth",
+      "url": "https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 250120,
-      "name": "essential tremors",
-      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
+      "duration_ms": 303573,
+      "name": "ballet of the traitor",
+      "url": "https://open.spotify.com/track/6hR5MLc9Qs6VbszX0sloly"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 303573,
-      "name": "ballet of the traitor",
-      "url": "https://open.spotify.com/track/6hR5MLc9Qs6VbszX0sloly"
+      "duration_ms": 250120,
+      "name": "essential tremors",
+      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
     },
     {
       "added_at": null,

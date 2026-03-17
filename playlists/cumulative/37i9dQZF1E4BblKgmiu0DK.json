@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, blazingfairis, The Donnas and more",
+  "description": "With Die Mannequin, blazingfairis, Cherri Bomb and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -420,6 +420,24 @@
       "duration_ms": 188784,
       "name": "Automatic Confidence",
       "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
+    },
+    {
+      "album": {
+        "name": "Bad Fit",
+        "url": "https://open.spotify.com/album/7EFu9KAZKLFvaFaw5hRkj6"
+      },
+      "artists": [
+        {
+          "name": "About Bunny",
+          "url": "https://open.spotify.com/artist/5Ywb0MRsHQdzngYBTZyuf9"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Bad Fit",
+      "url": "https://open.spotify.com/track/4vCgUOSK4Netdnut3HJbWX"
     },
     {
       "album": {
@@ -974,7 +992,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 163533,
       "name": "CANARY",
       "url": "https://open.spotify.com/track/1n27mNE1nt2NdyvatOpyCG"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 173084,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/1qoFd6Z4dat4ccN8nIdCm0"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 146885,
       "name": "Hell in a Halter Top",
       "url": "https://open.spotify.com/track/0B11lioXlVVDbTs3PbVBXY"
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 168000,
       "name": "I am so bored now",
       "url": "https://open.spotify.com/track/0d5xoD4hyuTJF3GlGGzV4s"
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -3651,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Stark",
+        "url": "https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i"
+      },
+      "artists": [
+        {
+          "name": "Cherri Bomb",
+          "url": "https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/1QPJxq97IfB1tk5OUGRhgi"
+    },
+    {
+      "album": {
         "name": "FINO + BLEED",
         "url": "https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA"
       },
@@ -3734,7 +3770,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -3752,7 +3788,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -3770,7 +3806,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -4026,6 +4062,24 @@
       "duration_ms": 220682,
       "name": "Nowhere Stop",
       "url": "https://open.spotify.com/track/0dhvV449Lur9kKnyM4GX6F"
+    },
+    {
+      "album": {
+        "name": "Occupied",
+        "url": "https://open.spotify.com/album/5QQDlakE93BeMXyafd2fFM"
+      },
+      "artists": [
+        {
+          "name": "Made You Look / Made You Stare",
+          "url": "https://open.spotify.com/artist/5BYvloCuyhEqJGkyKoQXIp"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193732,
+      "name": "Occupied",
+      "url": "https://open.spotify.com/track/3igxx0rlxRJcUIe8vu12E8"
     },
     {
       "album": {
@@ -5268,7 +5322,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -5322,7 +5376,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 186050,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/0ZtHJrJ0yUhVRWxKhfwrbm"

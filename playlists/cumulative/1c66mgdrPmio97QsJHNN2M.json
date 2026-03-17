@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "(Don't) Let Me In",
+        "url": "https://open.spotify.com/album/00hkK9m0mNoZNrTpUgNn0a"
+      },
+      "artists": [
+        {
+          "name": "Braddock Lee",
+          "url": "https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "(Don't) Let Me In",
+      "url": "https://open.spotify.com/track/6U9VvLQRn5qnfSdIH5klD0"
+    },
+    {
+      "album": {
         "name": "Ambient Darkness",
         "url": "https://open.spotify.com/album/2qGhUp8s8keuGo985t52Xd"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 168724,
       "name": "A Brighter New Year",
       "url": "https://open.spotify.com/track/2m9FVu4b9DyZSjjINsr2cM"
@@ -776,6 +794,24 @@
       "duration_ms": 182696,
       "name": "All About Us",
       "url": "https://open.spotify.com/track/6ARTh4rpwKKy2v3Vob0GZq"
+    },
+    {
+      "album": {
+        "name": "All Along",
+        "url": "https://open.spotify.com/album/1rOm94aN5C4VInwiHd2UNU"
+      },
+      "artists": [
+        {
+          "name": "Kate Stanford",
+          "url": "https://open.spotify.com/artist/4BVwjeV33enWxFuRSwMNpk"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206041,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/5XsIcJtgG2NOICIPsUGZ0t"
     },
     {
       "album": {
@@ -3398,7 +3434,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 267265,
       "name": "Can't Forget",
       "url": "https://open.spotify.com/track/6OJzbkPD642oP7uP0IIwgC"
@@ -5048,7 +5084,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 273644,
       "name": "Deep Calm",
       "url": "https://open.spotify.com/track/20QoKpAlMZvNGsz1EMeo1k"
@@ -5551,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "Closed Doors",
+        "url": "https://open.spotify.com/album/2YPsJHJpUXtS7kYc8ho2UH"
+      },
+      "artists": [
+        {
+          "name": "Emi Horo",
+          "url": "https://open.spotify.com/artist/62pscLCCTKJFKCUjKhRVJB"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/4WZi1rGSKAkUaXTyZmZkte"
+    },
+    {
+      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/708R1XJgTnH3DCd4kvUm93"
       },
@@ -5634,7 +5688,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 296888,
       "name": "Don't Stop the Music",
       "url": "https://open.spotify.com/track/16r34UfYsMx2uTdxaR59h9"
@@ -5906,7 +5960,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 257879,
       "name": "Downturn",
       "url": "https://open.spotify.com/track/0xg5sZ4gdmelYZVNECr4bU"
@@ -6426,7 +6480,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 174755,
       "name": "Emotion Ocean",
       "url": "https://open.spotify.com/track/7ypAKvaEoiKW6q3ThCjRs5"
@@ -8568,7 +8622,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 204073,
       "name": "Glimpse",
       "url": "https://open.spotify.com/track/1m2qkHSwoQXPucrlZuRGS4"
@@ -10130,7 +10184,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 120330,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/1UtH2XmuQd51cI4bXl0PHw"
@@ -11110,7 +11164,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 242151,
       "name": "Inception",
       "url": "https://open.spotify.com/track/0lvgt70dwpdLL2UgCs9PZc"
@@ -13438,6 +13492,10 @@
         {
           "name": "Ellie Carter",
           "url": "https://open.spotify.com/artist/0QoVgSWMcHk0oIADCe1iL6"
+        },
+        {
+          "name": "Chris Fowler",
+          "url": "https://open.spotify.com/artist/0oh91lF8sRXQTYrWijDOzl"
         }
       ],
       "date_added": "2026-03-10",
@@ -15685,6 +15743,24 @@
     },
     {
       "album": {
+        "name": "Northwest Cold Front",
+        "url": "https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c"
+      },
+      "artists": [
+        {
+          "name": "Bones In The Museum",
+          "url": "https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Northwest Cold Front",
+      "url": "https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V"
+    },
+    {
+      "album": {
         "name": "Detached",
         "url": "https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC"
       },
@@ -16476,7 +16552,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 198399,
       "name": "Ouroboros",
       "url": "https://open.spotify.com/track/42h1EtjmMISL6IbZc2i1Bq"
@@ -18576,7 +18652,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 156595,
       "name": "Running",
       "url": "https://open.spotify.com/track/1LdFU0wJ5Q3fpMSaJ1hCnb"
@@ -18630,7 +18706,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 160083,
       "name": "Sabes a Caf\u00e9",
       "url": "https://open.spotify.com/track/0Qp2oxVZb7FDxQ86iSaViR"
@@ -22668,7 +22744,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 154687,
       "name": "Tic toc",
       "url": "https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF"
@@ -22848,7 +22924,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 192719,
       "name": "To an End",
       "url": "https://open.spotify.com/track/3j7RCrQNnkOfwwYHkhq5Zs"
@@ -23638,7 +23714,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 161639,
       "name": "Vatinicari",
       "url": "https://open.spotify.com/track/1zesWIxUfKjci0Hq2elEeX"
@@ -23668,6 +23744,24 @@
       "duration_ms": 209719,
       "name": "Velvet Slippers Countdown",
       "url": "https://open.spotify.com/track/1l6Y9NhsHAFdBvvAl81YuE"
+    },
+    {
+      "album": {
+        "name": "Anjos Avessos (A\u00b2 \u00a5 1990)",
+        "url": "https://open.spotify.com/album/7rQSDrxLGsMSpoIRAvNMRD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/6PPyqxIITNn2s23lll3dKX"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230883,
+      "name": "Vem de Dentro",
+      "url": "https://open.spotify.com/track/2jPxH3nhPJLjfj9raTAXqu"
     },
     {
       "album": {
@@ -24778,7 +24872,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 128269,
       "name": "Wild Wave",
       "url": "https://open.spotify.com/track/0z2nkrcHZC2yOVeaOUZd6e"

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166208,
+  "num_followers": 166203,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
-      },
-      "artists": [
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        },
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 176614,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 212671,
       "name": "Energy",
       "url": "https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk"
+      },
+      "artists": [
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 176614,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4BRNTcgZo6tys2xcN8r66H"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 179000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/7yzWoFEY4JxXt9lbucfTCt"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/0VLtqQTq8jknSNAHmWPeog"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Substance",
-      "url": "https://open.spotify.com/track/35xMkZ8QgiXQQgSujSzvTP"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Don't Slow Down",
-        "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
-      },
-      "artists": [
-        {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
-        },
-        {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Higher than Heaven",
         "url": "https://open.spotify.com/album/3miVC4lTPE9M1nwZY9NVlT"
       },
@@ -767,6 +747,70 @@
       "duration_ms": 228000,
       "name": "Higher than Heaven",
       "url": "https://open.spotify.com/track/6CJuuNkd3c1Mzat7Xhhmn8"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Don't Slow Down",
+        "url": "https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Maia Maia",
+        "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Maia Maia",
+      "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
+      },
+      "artists": [
+        {
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+        },
+        {
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -799,50 +843,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
-      },
-      "artists": [
-        {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
-        },
-        {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Maia Maia",
-        "url": "https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "CLIPZ",
-          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Maia Maia",
-      "url": "https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "DAY ONE (Edits)",
         "url": "https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Argument Done",
+        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Argument Done",
+      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Different Style",
         "url": "https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 158069,
       "name": "Different Style",
       "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Argument Done",
-        "url": "https://open.spotify.com/album/22P5n4plt7NjsoDxhJGpQ4"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Argument Done",
-      "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 182069,
       "name": "Flow",
       "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Rowdy (BLAOW!)",
         "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
       },
@@ -1127,22 +1111,18 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
       },
       "artists": [
         {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Break",
-          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Step Back (Break Remix)",
-      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1167,6 +1147,26 @@
       "duration_ms": 163448,
       "name": "Hibernate",
       "url": "https://open.spotify.com/track/7bUoddlCfcg0BCKVLQB3Pp"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Break",
+          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Step Back (Break Remix)",
+      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Stab Parade",
-        "url": "https://open.spotify.com/album/5AQtEk7sZiBIkK79IaX9a3"
-      },
-      "artists": [
-        {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
-        },
-        {
-          "name": "CLSM",
-          "url": "https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk"
-        },
-        {
-          "name": "Tengu",
-          "url": "https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Stab Parade",
-      "url": "https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Vigilante Kru",
         "url": "https://open.spotify.com/album/1P7FPeseMqPGKZqK8Co3Jf"
       },
@@ -1343,26 +1319,6 @@
       "duration_ms": 214588,
       "name": "Vigilante Kru",
       "url": "https://open.spotify.com/track/1j4acW0PPOmjeiSEXzM2Cy"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 171508,
-      "name": "Man Down VIP",
-      "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1387,6 +1343,50 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Stab Parade",
+        "url": "https://open.spotify.com/album/5AQtEk7sZiBIkK79IaX9a3"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "CLSM",
+          "url": "https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk"
+        },
+        {
+          "name": "Tengu",
+          "url": "https://open.spotify.com/artist/2W15C6WH5xh4r8aPGiiw4o"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Stab Parade",
+      "url": "https://open.spotify.com/track/0SKLS7D4P1MaLP8m7f8K6A"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 171508,
+      "name": "Man Down VIP",
+      "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Count That",
         "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
       },
@@ -1399,26 +1399,6 @@
       "duration_ms": 216214,
       "name": "Count That",
       "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Back 2 Back",
-        "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Back 2 Back",
-      "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1467,6 +1447,26 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/6xpvo4YTTH53G0UQ2NDein"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 188586,
       "name": "Mariana",
       "url": "https://open.spotify.com/track/3XztDLSsUifW8WxTc3mzi2"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1655,26 +1671,6 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Yard Shop",
-        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Lady Ice",
-          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Yard Shop",
-      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1699,22 +1695,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Badman Step",
-        "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
+        "name": "Yard Shop",
+        "url": "https://open.spotify.com/album/36O3fPVMKVkIYiKHqIKUws"
       },
       "artists": [
         {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
         },
         {
-          "name": "Sweetie Irie",
-          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+          "name": "Lady Ice",
+          "url": "https://open.spotify.com/artist/6dCwnelmiFbtXKfVmrWx44"
         }
       ],
-      "duration_ms": 200914,
-      "name": "Badman Step",
-      "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
+      "duration_ms": 157714,
+      "name": "Yard Shop",
+      "url": "https://open.spotify.com/track/0ai7uDNBi9xPEtu64T8EmF"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1739,22 +1735,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
+        "name": "Badman Step",
+        "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
         },
         {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
         }
       ],
-      "duration_ms": 182500,
-      "name": "247",
-      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
+      "duration_ms": 200914,
+      "name": "Badman Step",
+      "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1775,38 +1771,22 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Let Me Down",
-        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+        "name": "247",
+        "url": "https://open.spotify.com/album/6X0tNQSao8Ll2D3q2ocpll"
       },
       "artists": [
         {
-          "name": "Grafix",
-          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
         },
         {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Let Me Down",
-      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+      "duration_ms": 182500,
+      "name": "247",
+      "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1831,18 +1811,38 @@
     {
       "added_at": "2026-03-13 00:00:07",
       "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
       },
       "artists": [
         {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
         }
       ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
+      },
+      "artists": [
+        {
+          "name": "Grafix",
+          "url": "https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1883,6 +1883,22 @@
       "duration_ms": 288000,
       "name": "Northern Step",
       "url": "https://open.spotify.com/track/5uN8qtXFOl8j91njYZmW5w"
+    },
+    {
+      "added_at": "2026-03-13 00:00:07",
+      "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-03-13 00:00:07",
@@ -1971,22 +1987,6 @@
       "duration_ms": 243921,
       "name": "Barbera 2026",
       "url": "https://open.spotify.com/track/0LXHCv8laItpmx7O4jXofp"
-    },
-    {
-      "added_at": "2026-03-13 00:00:07",
-      "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     }
   ],
   "unique_name": "Proper Naughty ",

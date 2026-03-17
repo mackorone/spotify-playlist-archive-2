@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 972588,
+  "num_followers": 972694,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-02-13 05:00:20",
       "album": {
+        "name": "Crystals",
+        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
+      },
+      "artists": [
+        {
+          "name": "Isolate.exe",
+          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
+    },
+    {
+      "added_at": "2026-02-13 05:00:20",
+      "album": {
         "name": "Shake That Bunda",
         "url": "https://open.spotify.com/album/08GthPNa2ax2Kv7O5Kv5lL"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 160421,
       "name": "Shake That Bunda",
       "url": "https://open.spotify.com/track/7uWIyd4hf5UYIOxBMFRT1S"
-    },
-    {
-      "added_at": "2026-02-13 05:00:20",
-      "album": {
-        "name": "Crystals",
-        "url": "https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS"
-      },
-      "artists": [
-        {
-          "name": "Isolate.exe",
-          "url": "https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d"
     },
     {
       "added_at": "2026-02-13 05:00:20",

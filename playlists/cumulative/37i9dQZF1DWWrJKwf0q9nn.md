@@ -4,11 +4,12 @@
 
 > Wekelijkse update! Cover: Novah
 
-903 songs - 1 day 22 hr 7 min
+904 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Hope I Don't\) Fall](https://open.spotify.com/track/71RsQO30Bm81gAOhMbFrtB) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [Teddy Bee](https://open.spotify.com/artist/4hb5k49l3rJuWo8YRBn5HD) | [\(Hope I Don't\) Fall](https://open.spotify.com/album/3YknyMhoxAkaTfcTsGCRTF) | 2:09 | 2025-07-17 | 2025-08-29 |
+| [1, 2 Step](https://open.spotify.com/track/0y8O9buff6WeKDmBtaKAPj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [1, 2 Step](https://open.spotify.com/album/1YefCRYZtVi9FnlZ1zVJGb) | 2:03 | 2026-03-16 |  |
 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 | 2025-11-07 | 2025-12-05 |
 | [1973](https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [1973](https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV) | 4:45 | 2025-07-17 | 2025-08-15 |
 | [227kg](https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [227kg](https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l) | 3:48 | 2025-12-18 | 2026-01-30 |

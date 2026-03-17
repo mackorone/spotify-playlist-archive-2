@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Arroba Nat en portada.",
-  "num_followers": 37859,
+  "num_followers": 37870,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
-        "name": "Me has invitado a bailar",
-        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 192906,
-      "name": "Me has invitado a bailar",
-      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
+        "name": "Bruma",
+        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Bruma",
+      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "Bruma",
-        "url": "https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Bruma",
-      "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
         "name": "Desastres Fabulosos",
         "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
+        "name": "Los Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 189429,
+      "name": "Los Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -491,22 +507,6 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "Los Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 189429,
-      "name": "Los Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
         "name": "Por Si No Te Vuelvo A Ver",
         "url": "https://open.spotify.com/album/7HullqBwYSwjV2qZjb7DqP"
       },
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "duration_ms": 210127,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
         "name": "Ca\u00edda Libre (feat. Robe)",
         "url": "https://open.spotify.com/album/2ChN0TP75AcjsIBP5x5tQs"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 211590,
       "name": "Ca\u00edda Libre (feat. Robe)",
       "url": "https://open.spotify.com/track/72srxlWIL6dDou3Po23Fw2"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
-      },
-      "artists": [
-        {
-          "name": "Dani Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
-        }
-      ],
-      "duration_ms": 210127,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/0uOxKY91hTmnJOxGPGpJtd"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
         "name": "Godzilla",
         "url": "https://open.spotify.com/album/0M2bvqcwOcvc0ZhmoIDBFS"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 188097,
       "name": "Godzilla",
       "url": "https://open.spotify.com/track/4dDCoRNN2wz0PeEFLb7xfb"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 153815,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
         "name": "Tormentas Inesperadas",
         "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -771,6 +755,22 @@
       "duration_ms": 198051,
       "name": "Memoria Muscular - Desde Abbey Road",
       "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -883,18 +883,18 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "Cuando Estamos T\u00fa Y Yo",
-        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
+        "name": "qu\u00e9 raro es ser normal",
+        "url": "https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
         }
       ],
-      "duration_ms": 159342,
-      "name": "Cuando Estamos T\u00fa Y Yo",
-      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
+      "duration_ms": 145714,
+      "name": "qu\u00e9 raro es ser normal",
+      "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -951,34 +951,18 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "odio a primera vista",
-        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
+        "name": "Cuando Estamos T\u00fa Y Yo",
+        "url": "https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF"
       },
       "artists": [
         {
-          "name": "Ana Sofi W.",
-          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 186996,
-      "name": "odio a primera vista",
-      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
-        "name": "qu\u00e9 raro es ser normal",
-        "url": "https://open.spotify.com/album/0XqsyT0z2gEtn6kXJvI2Kk"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 145714,
-      "name": "qu\u00e9 raro es ser normal",
-      "url": "https://open.spotify.com/track/0SJastxx9FyW6Kbp1RLQaK"
+      "duration_ms": 159342,
+      "name": "Cuando Estamos T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -999,42 +983,18 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+        "name": "odio a primera vista",
+        "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Ana Sofi W.",
+          "url": "https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
-        "name": "La Salvaci\u00f3n",
-        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        },
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 285480,
-      "name": "La Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+      "duration_ms": 186996,
+      "name": "odio a primera vista",
+      "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -1059,22 +1019,42 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "No Volver\u00e9 </3",
-        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
       "artists": [
         {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
         },
         {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 171636,
-      "name": "No Volver\u00e9 </3",
-      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -1091,6 +1071,26 @@
       "duration_ms": 271781,
       "name": "18",
       "url": "https://open.spotify.com/track/6hEyKkr5aTQAGV8U9SRuA9"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
+        "name": "No Volver\u00e9 </3",
+        "url": "https://open.spotify.com/album/5AVhXiB1Bzn2317WedCMvL"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "No Volver\u00e9 </3",
+      "url": "https://open.spotify.com/track/6wVU5qPXg1YoaEa5p1QHCU"
     },
     {
       "added_at": "2026-03-13 06:00:05",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-13 06:00:05",
       "album": {
-        "name": "BRAINCHEM",
-        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 148636,
-      "name": "BRAINCHEM",
-      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
-    },
-    {
-      "added_at": "2026-03-13 06:00:05",
-      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
+    },
+    {
+      "added_at": "2026-03-13 06:00:05",
+      "album": {
+        "name": "BRAINCHEM",
+        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 148636,
+      "name": "BRAINCHEM",
+      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
     },
     {
       "added_at": "2026-03-13 06:00:05",

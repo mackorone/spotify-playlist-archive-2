@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Pretty Pink, Lauren Mia
 
-[Spotify](https://open.spotify.com/user/spotify) - 741,675 likes - 89 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 741,745 likes - 89 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 19 | [Easy To Love](https://open.spotify.com/track/0LeJe4yOEYKmKwNsSmm3yW) | [Beneau](https://open.spotify.com/artist/2ztkAFf74F4SvOiqG1FyPO) | [Easy To Love](https://open.spotify.com/album/7FyUhIxPN8Zjcy1Eo8JsW1) | 4:05 |
 | 20 | [A Piece Of The Sun](https://open.spotify.com/track/0ZQ1OW46MFTyg8gsfw712o) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA) | [A Piece Of The Sun](https://open.spotify.com/album/1y8BCSfSWZT5RDv2KmPIDY) | 3:27 |
 | 21 | [All U Got](https://open.spotify.com/track/1PW1CJXL2ZhzqZfaHcVykc) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [All U Got](https://open.spotify.com/album/0FHd3LeS2h7oPVP8fivJWG) | 2:41 |
-| 22 | [Turn off Your Mind](https://open.spotify.com/track/5L63LnOwxPM3J2HbXFTxyN) | [Kai State](https://open.spotify.com/artist/0ykMyB50zfX43MPXvyDXyI), [Windeskind](https://open.spotify.com/artist/499uDucHKKYWG3ZiUta2Z6) | [Turn off Your Mind](https://open.spotify.com/album/1Qlgn9xSN6te5aJBTlwAYp) | 3:09 |
+| 22 | [Turn Off Your Mind](https://open.spotify.com/track/5L63LnOwxPM3J2HbXFTxyN) | [Kai State](https://open.spotify.com/artist/0ykMyB50zfX43MPXvyDXyI), [Windeskind](https://open.spotify.com/artist/499uDucHKKYWG3ZiUta2Z6) | [Turn Off Your Mind](https://open.spotify.com/album/1Qlgn9xSN6te5aJBTlwAYp) | 3:09 |
 | 23 | [Prometheus](https://open.spotify.com/track/1dznoQSE5C6FWSuQR3ULw6) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Prometheus](https://open.spotify.com/album/5exMhB5Came3qQnVQNTly0) | 4:09 |
 | 24 | [Dharma](https://open.spotify.com/track/1qGVUsQXVTh0YIBISmXYoK) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Dharma](https://open.spotify.com/album/6fn03BixBQ6hpSZ4Yw3uDY) | 3:29 |
 | 25 | [Chanji](https://open.spotify.com/track/0JWNZUUdtsve3VvAVNgqcx) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Chanji](https://open.spotify.com/album/1hIhXKDt6u9KHEI6oIfLr4) | 3:36 |

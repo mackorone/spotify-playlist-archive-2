@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath",
-  "num_followers": 43627,
+  "num_followers": 43635,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvx1UxnMbCR0+VQs8kv4H0y+ymR",
+  "snapshot_id": "AAAAAN6+4VD4goemPUQUMd2079VpuPnf",
   "tracks": [
     {
       "added_at": "2026-03-12 14:20:28",
@@ -71,6 +71,26 @@
       "duration_ms": 257068,
       "name": "Daari Maarina",
       "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
+    },
+    {
+      "added_at": "2026-03-16 08:21:38",
+      "album": {
+        "name": "Manasu Palike",
+        "url": "https://open.spotify.com/album/2tkDBNmXMkQfDxYhD3MNmy"
+      },
+      "artists": [
+        {
+          "name": "Vijay Ileni",
+          "url": "https://open.spotify.com/artist/7kO1jLBfgLID5nXCjapvzo"
+        },
+        {
+          "name": "Santosh Ileni",
+          "url": "https://open.spotify.com/artist/2Ymo9tKes20gWrIGdWdLPa"
+        }
+      ],
+      "duration_ms": 324140,
+      "name": "Manasu Palike",
+      "url": "https://open.spotify.com/track/2DQAW2DSBizw5OartBN6wR"
     },
     {
       "added_at": "2026-02-28 00:01:13",
@@ -1279,34 +1299,6 @@
       "duration_ms": 220941,
       "name": "Angana",
       "url": "https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc"
-    },
-    {
-      "added_at": "2025-10-14 06:34:31",
-      "album": {
-        "name": "Chinna Maata",
-        "url": "https://open.spotify.com/album/3OXg9Pd7IlURtJtBxvxa3C"
-      },
-      "artists": [
-        {
-          "name": "Damini Bhatla",
-          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
-        },
-        {
-          "name": "Yanchan Produced",
-          "url": "https://open.spotify.com/artist/4GKSZvPRVHCR8TrVVWu9HH"
-        },
-        {
-          "name": "Swaroop Goli",
-          "url": "https://open.spotify.com/artist/5t4EqHFDQYIHNGjkXrCSAH"
-        },
-        {
-          "name": "Matt Gudgeon",
-          "url": "https://open.spotify.com/artist/4SBhiVtTmDRW74iOOSKwlQ"
-        }
-      ],
-      "duration_ms": 152917,
-      "name": "Chinna Maata",
-      "url": "https://open.spotify.com/track/2bH81YXUfeAYpQjCUbsesU"
     },
     {
       "added_at": "2025-11-18 07:41:24",

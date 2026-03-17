@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: FUUDGE
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,846 likes - 99 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,855 likes - 99 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 63 | [Better Watch Your Step](https://open.spotify.com/track/5qzGcqTYmpxksVhs4dppzP) | [Gus Englehorn](https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z) | [Better Watch Your Step](https://open.spotify.com/album/5miuuKwuk9HiNfzLd2od5E) | 4:04 |
 | 64 | [Super Impose](https://open.spotify.com/track/28hxJxxV9MexXi4XV3kS4N) | [Last Waltzon](https://open.spotify.com/artist/79T273iKWd4Tfji4eQlst2) | [Super Impose / Live Leak](https://open.spotify.com/album/25TN1b8Dfcs4ZirgsiF3wT) | 2:57 |
 | 65 | [2 secondes](https://open.spotify.com/track/6tnMkJH1AjBbzUCIewkmG1) | [VINCENT KHOUNI](https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8) | [2 secondes](https://open.spotify.com/album/6TPT4AwjtNLFwrPJMUobfM) | 3:59 |
-| 66 | [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:18 |
+| 66 | [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:19 |
 | 67 | [Just like Him](https://open.spotify.com/track/2QUBCzN1FdP07E8rszVO9l) | [Sally Phantom](https://open.spotify.com/artist/3oF7EXqKu7w2J5yMtbX2sY) | [Just like Him](https://open.spotify.com/album/6EFPLJbTHfjopfAM0ZbuDI) | 3:54 |
 | 68 | [Daystar](https://open.spotify.com/track/7rPtb0wNOQo3nX0OAikFRV) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Daystar](https://open.spotify.com/album/3nCmFMwMTqFRRs3komCcpv) | 4:41 |
 | 69 | [Comme un refrain](https://open.spotify.com/track/2MkA4ZOZC3xrUVj3jiVQkX) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Orlanda](https://open.spotify.com/artist/23nY5K8uRicVSFQDOovHTe) | [Soleil mâché](https://open.spotify.com/album/05E8nV4jttlse9c9COMaCR) | 4:00 |

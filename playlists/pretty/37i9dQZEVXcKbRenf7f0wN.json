@@ -6,162 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa43sAAAAABF5A5DHL0BePN9MrpvRA3/",
+  "snapshot_id": "abdyMAAAAADECsfj9cLHIf/krIeDvkvt",
   "tracks": [
     {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/4FmtkXKv581qdKHT4ksFTR"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "El Guat\u00f3n Loyola",
-      "url": "https://open.spotify.com/track/5hbprTqXilqPGuytq83451"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
-      },
-      "artists": [
-        {
-          "name": "Rapanui Hinariru",
-          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
-        }
-      ],
-      "duration_ms": 177764,
-      "name": "Iorana",
-      "url": "https://open.spotify.com/track/7Ky3mZO0628C8J1RimUWyP"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "No Lo Aceptaremox",
-        "url": "https://open.spotify.com/album/4iMHcEPPVz1nwxoYKjwta5"
-      },
-      "artists": [
-        {
-          "name": "Los Mox!",
-          "url": "https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q"
-        },
-        {
-          "name": "To\u00f1o Corval\u00e1n",
-          "url": "https://open.spotify.com/artist/1ZbEx8D4lDrlKPB5LV0tYP"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "No Lo Aceptaremox",
-      "url": "https://open.spotify.com/track/6TM52Zty4d2OqEGf1C7hig"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Radetzky y Otras Marchas",
-        "url": "https://open.spotify.com/album/2TtjsxAjeyJSAfnhLlRU6W"
-      },
-      "artists": [
-        {
-          "name": "Coro de la Escuela Militar",
-          "url": "https://open.spotify.com/artist/4BUuVlmleLskR2XaY9yG6G"
-        },
-        {
-          "name": "Banda de Conciertos",
-          "url": "https://open.spotify.com/artist/4JZs7RwRmCOx3HiLvGw1f2"
-        }
-      ],
-      "duration_ms": 105266,
-      "name": "Los Viejos Estandartes",
-      "url": "https://open.spotify.com/track/04oOiHoIqUkNbCnURxK3un"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Angustiado Desahuciado",
-        "url": "https://open.spotify.com/album/3mMs13tPtxppZZAsnUw1MJ"
-      },
-      "artists": [
-        {
-          "name": "LOS BANDOLEROS",
-          "url": "https://open.spotify.com/artist/1APgQIJqCsfUhmQXa3q6KS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Angustiado Desahuciado",
-      "url": "https://open.spotify.com/track/2cD7SKiAmLFAEgCeUABpYi"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Ser H\u00fcmano!!",
-        "url": "https://open.spotify.com/album/3ncIAbJGUE2sQIu0J1TuE0"
-      },
-      "artists": [
-        {
-          "name": "Tiro De Gracia",
-          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "El Juego Verdadero",
-      "url": "https://open.spotify.com/track/74UB6CQRH9ykJEh9ma3XwD"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Fome",
-        "url": "https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "La Torre de Babel",
-      "url": "https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Los Peores De Chile",
-        "url": "https://open.spotify.com/album/7LYqkGavCwPTa6NgkRwWCz"
-      },
-      "artists": [
-        {
-          "name": "Los Peores De Chile",
-          "url": "https://open.spotify.com/artist/0yrF0XtNWe4oZ7JXSCCmA7"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Sindrome Camboya",
-      "url": "https://open.spotify.com/track/0dFZjxL6drxK9oupqmF773"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Chile Tipico Vol.3 Camino De Luna",
-        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
-      },
-      "artists": [
-        {
-          "name": "Silvia Infantas Y Los Condores",
-          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
-        }
-      ],
-      "duration_ms": 127613,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
         "name": "La Ventana (Remasterizado 2020)",
         "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
@@ -177,7 +25,55 @@
       "url": "https://open.spotify.com/track/2K0z6L77gmn3Wl0MHMtE0G"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Vuelvo Amor, Vuelvo Vida",
+        "url": "https://open.spotify.com/album/1i45I33ddIAaxemYUmfFZO"
+      },
+      "artists": [
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Baila Caporal",
+      "url": "https://open.spotify.com/track/2tl8w8UHPj5b5MjBYlIer4"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Ant\u00eddoto",
+        "url": "https://open.spotify.com/album/4sxO0cOSmzcJo7f3tkx8AG"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "La Rabia",
+      "url": "https://open.spotify.com/track/6ASifNY2I52rr80COG2Rj9"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/6nS9zMH1CZlBxvpevtmyDQ"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Las Flores de Tu Florero",
+      "url": "https://open.spotify.com/track/0CNSRaTX8mECRuSV1hsjoQ"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
       "album": {
         "name": "22 Exitos Pajarones",
         "url": "https://open.spotify.com/album/4MM2nWpIYSFITknmm6GH4H"
@@ -193,195 +89,59 @@
       "url": "https://open.spotify.com/track/5927nKbonEX4UV9ehEZG7S"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Early",
-        "url": "https://open.spotify.com/album/4Qls30ssawNsC7Dj8rf9ZQ"
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/5KenPRs5jj6uWPyPA4Wp4r"
       },
       "artists": [
         {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+          "name": "Los De Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/4tT3EdCLm9i2NilamxKVcm"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "El Curanto",
+      "url": "https://open.spotify.com/track/6yz9JwqdUoR2zx9FAK3bya"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Radetzky y Otras Marchas",
+        "url": "https://open.spotify.com/album/2TtjsxAjeyJSAfnhLlRU6W"
+      },
+      "artists": [
+        {
+          "name": "Coro de la Escuela Militar",
+          "url": "https://open.spotify.com/artist/4BUuVlmleLskR2XaY9yG6G"
         },
         {
-          "name": "DJ TEE",
-          "url": "https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd"
+          "name": "Banda de Conciertos",
+          "url": "https://open.spotify.com/artist/4JZs7RwRmCOx3HiLvGw1f2"
         }
       ],
-      "duration_ms": 212650,
-      "name": "Early",
-      "url": "https://open.spotify.com/track/5WzFFWmHp3Bh9bp6MRmzdr"
+      "duration_ms": 263960,
+      "name": "Adi\u00f3s al S\u00e9ptimo de la L\u00ednea",
+      "url": "https://open.spotify.com/track/6pmhdyuPqOCF9JsVmwNBpU"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Ca\u00edda Libre",
-        "url": "https://open.spotify.com/album/51gseHSeXqIQpoY0hXBPST"
+        "name": "Mal\u00e9 Concierto Teatro para Personas de Todo Tama\u00f1o (Soundtrack)",
+        "url": "https://open.spotify.com/album/3CBF5nAxBun8YYZj8dyNGm"
       },
       "artists": [
         {
-          "name": "Los Ex",
-          "url": "https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP"
+          "name": "Inti Illimani Hist\u00f3rico",
+          "url": "https://open.spotify.com/artist/3ofeDjH3XD66EbnLIHWk8i"
         }
       ],
-      "duration_ms": 187266,
-      "name": "La Corbata de Mi T\u00edo",
-      "url": "https://open.spotify.com/track/6C9EyEJDlOXRRHM8PluVfH"
+      "duration_ms": 234480,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/2KBiQ5sviRQN0UkKSbTnqc"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Pateando Craneos",
-        "url": "https://open.spotify.com/album/6J04LiLpVWGT7nNElcg77v"
-      },
-      "artists": [
-        {
-          "name": "2X",
-          "url": "https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "La Fuerza Policial",
-      "url": "https://open.spotify.com/track/4N0cHh67zrWFyEI9VTNB9R"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Sonora Palacios, Vol. 1",
-        "url": "https://open.spotify.com/album/2jWQ1VPPDjSTXQL07cohkJ"
-      },
-      "artists": [
-        {
-          "name": "Sonora Palacios",
-          "url": "https://open.spotify.com/artist/4Gu5S2cvAxuZvPgqs5zW7e"
-        }
-      ],
-      "duration_ms": 181603,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/6Wy8wFgw42w2vpUmC8zKWF"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Top Ten Babylon Artistas",
-        "url": "https://open.spotify.com/album/0vGO3SCCHhLEDqaJAYvQeq"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff & Solo Di Medina",
-          "url": "https://open.spotify.com/artist/3b6Xu46myEwqKjHhCb5PFt"
-        },
-        {
-          "name": "Zaturno",
-          "url": "https://open.spotify.com/artist/6P8YjImNhI3N6nrCEEhISo"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "2001",
-      "url": "https://open.spotify.com/track/65z7xtsWdhLQzzfZuH18vB"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Pasi\u00f3n de Multitudes (Remaster 2023)",
-        "url": "https://open.spotify.com/album/4IdstdtPDrYzfbcdeu1FeS"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 224127,
-      "name": "El Crack - Remaster 2023",
-      "url": "https://open.spotify.com/track/6UKLIwQ2drH5DymFUGdwse"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
-        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
-      },
-      "artists": [
-        {
-          "name": "Los Koyas",
-          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Charagua",
-      "url": "https://open.spotify.com/track/6Vc3zKHnJDeIoGarKIx0Jo"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "South American Rock Vol. 1",
-        "url": "https://open.spotify.com/album/7miWZ4PMqlhS5uq4SSZEu0"
-      },
-      "artists": [
-        {
-          "name": "Ramblers",
-          "url": "https://open.spotify.com/artist/1RAIBn8M73LK5WhOJqtsxL"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "El Rock del Mundial",
-      "url": "https://open.spotify.com/track/4GxsXEhvOhmp2M2aAtKMRl"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Cruces",
-        "url": "https://open.spotify.com/album/18JTsPjNyjrZbGUrrRYU1u"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 156181,
-      "name": "Sin Salida",
-      "url": "https://open.spotify.com/track/717KPIAK8z7ksY3Aeob1Nf"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Somos Parte de Tu Vida",
-        "url": "https://open.spotify.com/album/1jRyUHBROFea3FLWnjJTRI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Mujeres y Cerveza",
-      "url": "https://open.spotify.com/track/4OQFEhBjUxb8BgS22p0VAU"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
-      "album": {
-        "name": "Fusi\u00f3n De Estilos",
-        "url": "https://open.spotify.com/album/6rg5jNxphh9cFwr1GNHroA"
-      },
-      "artists": [
-        {
-          "name": "Zaturno",
-          "url": "https://open.spotify.com/artist/6P8YjImNhI3N6nrCEEhISo"
-        },
-        {
-          "name": "Tapia Rabia",
-          "url": "https://open.spotify.com/artist/2WHnlGoCwNPs4Kh0Tfww4H"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Lautaro",
-      "url": "https://open.spotify.com/track/3Xe35y3Y9b0QPlCec8xR6g"
-    },
-    {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/4R3zut3dSogf4Csr34kFS1"
@@ -397,116 +157,344 @@
       "url": "https://open.spotify.com/track/68fQEYthnIBfASh33O0jXA"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Ke Patine la Risa",
-        "url": "https://open.spotify.com/album/4aKjHpVIEb0jmE59SlAukO"
+        "name": "El Derecho de Vivir en Paz",
+        "url": "https://open.spotify.com/album/4VYfBI0sR7XFV3ej6dQJbV"
       },
       "artists": [
         {
-          "name": "Tronic",
-          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Combo Final",
-      "url": "https://open.spotify.com/track/0zDKhwh35eqYyiIt9z03Wj"
+      "duration_ms": 277093,
+      "name": "El Derecho de Vivir en Paz",
+      "url": "https://open.spotify.com/track/33nztJSpoZityjQp6rMT22"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Y Ahora Qu\u00e9 Pasa EH?",
-        "url": "https://open.spotify.com/album/2I4u4O8AuYDlbYvSO1oTJM"
+        "name": "Cumbia Chilombiana",
+        "url": "https://open.spotify.com/album/2L6i9Q71M18abOGe4tdYVo"
       },
       "artists": [
         {
-          "name": "Los Violadores",
-          "url": "https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 252453,
-      "name": "1, 2, Ultraviolento",
-      "url": "https://open.spotify.com/track/7wB9dNk0rq08s4z3BEFTnl"
+      "duration_ms": 169664,
+      "name": "Conductor",
+      "url": "https://open.spotify.com/track/6KFtD3Ik5ESG35G7p0ArSL"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Los A\u00f1os 60's (Vol. 1)",
-        "url": "https://open.spotify.com/album/12gxqYRZR9FhtVcPR9ygms"
+        "name": "Ausencia (Remastered)",
+        "url": "https://open.spotify.com/album/6FL6wO3NZoMaemUhREcPAf"
       },
       "artists": [
         {
-          "name": "Lalo Valenzuela",
-          "url": "https://open.spotify.com/artist/6FXnVYjbYhom7MfI4qjftp"
+          "name": "Nadie",
+          "url": "https://open.spotify.com/artist/5HLe3OeSpXQsXhC5RDuKF1"
         }
       ],
-      "duration_ms": 150240,
-      "name": "Caramelo de Menta",
-      "url": "https://open.spotify.com/track/5dsVLR7BawlneuBGl0dWZs"
+      "duration_ms": 318000,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/4iLjYx9Zcijv6QmRJYhegx"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Hogar Dulce Hogar",
-        "url": "https://open.spotify.com/album/3OtrrtUNEFYxIzwDmwT51V"
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
       },
       "artists": [
         {
-          "name": "Machuca",
-          "url": "https://open.spotify.com/artist/7kwZDveB5qL9uZJcJF1Yds"
+          "name": "Rapanui Hinariru",
+          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
         }
       ],
-      "duration_ms": 140400,
-      "name": "Coraz\u00f3n Desilucionado",
-      "url": "https://open.spotify.com/track/7tuACuijPSvfCR78bRY5Lh"
+      "duration_ms": 177764,
+      "name": "Iorana",
+      "url": "https://open.spotify.com/track/7Ky3mZO0628C8J1RimUWyP"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Grandes de la Canci\u00f3n Chilena Antolog\u00eda",
-        "url": "https://open.spotify.com/album/4wqRmJoPB6XxezHIvT8Y6H"
+        "name": "Blanco Azul y Rojo",
+        "url": "https://open.spotify.com/album/1mlVzUFN9ZCRZMDFnjnocP"
       },
       "artists": [
         {
-          "name": "Los Huasos Quincheros",
-          "url": "https://open.spotify.com/artist/4y2njzlk64o4wUdX8Ph8aM"
+          "name": "Clan Rojo",
+          "url": "https://open.spotify.com/artist/0KgAW22XVKU6MvQ1G7P3hm"
         }
       ],
-      "duration_ms": 155826,
-      "name": "Chile Lindo",
-      "url": "https://open.spotify.com/track/2zzU8GcVCxSjBrAelDUgRB"
+      "duration_ms": 156426,
+      "name": "Reina del Tamarugal",
+      "url": "https://open.spotify.com/track/1Kj78kt0yKKNeDOyVgubXF"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Marchas Selectas",
-        "url": "https://open.spotify.com/album/0BVfqyK7mdzu0jae2kowTe"
+        "name": "Las \u00daltimas Composiciones",
+        "url": "https://open.spotify.com/album/66c0DCAn6T4o0PT1DEakoK"
       },
       "artists": [
         {
-          "name": "Marchas F\u00fanebres",
-          "url": "https://open.spotify.com/artist/0uTYtQckA7zN8w4qpUvXvK"
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
         }
       ],
-      "duration_ms": 404331,
-      "name": "La Fosa",
-      "url": "https://open.spotify.com/track/5NZnXBmi2809onKZTrGFNV"
+      "duration_ms": 235666,
+      "name": "Run run se fue pal'norte",
+      "url": "https://open.spotify.com/track/69WHwsQMHcJ4nxOi2Jvins"
     },
     {
-      "added_at": "2026-03-09 03:00:00",
+      "added_at": "2026-03-16 03:00:00",
       "album": {
-        "name": "Mis Mas Grandes Exitos",
-        "url": "https://open.spotify.com/album/4n0kDGWCBRCndnqyNRLiH2"
+        "name": "Somos Parte de Tu Vida",
+        "url": "https://open.spotify.com/album/1jRyUHBROFea3FLWnjJTRI"
       },
       "artists": [
         {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
         }
       ],
-      "duration_ms": 179933,
-      "name": "Cacharpaya Del Pasiri",
-      "url": "https://open.spotify.com/track/1DNOOcZPUgzwH73TtQwNxJ"
+      "duration_ms": 264000,
+      "name": "Mujeres y Cerveza",
+      "url": "https://open.spotify.com/track/4OQFEhBjUxb8BgS22p0VAU"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Angustiado Desahuciado",
+        "url": "https://open.spotify.com/album/3mMs13tPtxppZZAsnUw1MJ"
+      },
+      "artists": [
+        {
+          "name": "LOS BANDOLEROS",
+          "url": "https://open.spotify.com/artist/1APgQIJqCsfUhmQXa3q6KS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Angustiado Desahuciado",
+      "url": "https://open.spotify.com/track/2cD7SKiAmLFAEgCeUABpYi"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/77xDjdwYz3oY1Vv2hSv3Gy"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/0oYhhckOA2JrLprhgPV3Ot"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
+        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
+      },
+      "artists": [
+        {
+          "name": "Los Koyas",
+          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Charagua",
+      "url": "https://open.spotify.com/track/6Vc3zKHnJDeIoGarKIx0Jo"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "De Amor Y Vacil\u00f3n",
+        "url": "https://open.spotify.com/album/6qeewemXAmfWdU8DiJr2yD"
+      },
+      "artists": [
+        {
+          "name": "La Combo Tortuga",
+          "url": "https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Soy Feo Pero Rico",
+      "url": "https://open.spotify.com/track/5AxCeaFkhDFtFT384IRRJ8"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Calibraciones (sin censura)",
+        "url": "https://open.spotify.com/album/1Lb0znlTym8oNMjkeT5uFB"
+      },
+      "artists": [
+        {
+          "name": "Aparato Raro",
+          "url": "https://open.spotify.com/artist/4aOE1rge6wMSa04xlFxc3Q"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Calibraciones (sin censura)",
+      "url": "https://open.spotify.com/track/7sse0t8zBa5oUQOA9Jlgfn"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Macondus",
+        "url": "https://open.spotify.com/album/7pMFSqhbICoMbMdAXdsfAl"
+      },
+      "artists": [
+        {
+          "name": "Sexual Democracia duo Luisin Land\u00e1ez",
+          "url": "https://open.spotify.com/artist/1aGeAQTnZGBNZnaRjsuRPD"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Macondo - Duo Con Luisin Land\u00e1ez",
+      "url": "https://open.spotify.com/track/5bf77ytze59m8jhYWe8xgy"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "La Vida en Versos",
+        "url": "https://open.spotify.com/album/5DQh3ygGWESHLVG1Ooco9T"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "duration_ms": 116934,
+      "name": "Te Amo en Silencio",
+      "url": "https://open.spotify.com/track/3hNkXDhrnQ9EEDylGEPrw8"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Macha y el Bloque Depresivo",
+        "url": "https://open.spotify.com/album/7j1iNxlcdkJj864Bu0ETPj"
+      },
+      "artists": [
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "duration_ms": 235542,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/71fwMMqK8Kea3FguUUrl2t"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Cumbia E' Plaza",
+        "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
+      },
+      "artists": [
+        {
+          "name": "Sonora 5 Estrellas",
+          "url": "https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1"
+        }
+      ],
+      "duration_ms": 272085,
+      "name": "Supermandoneao",
+      "url": "https://open.spotify.com/track/3gS8gNb2W5h89cYsGTpyev"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "South American Rock Vol. 5",
+        "url": "https://open.spotify.com/album/21ScDSdg1ucG1lkxwErZFz"
+      },
+      "artists": [
+        {
+          "name": "Luis Dimas Y Sus Twisters",
+          "url": "https://open.spotify.com/artist/4GtEjocSP1PITigbvdyAvC"
+        }
+      ],
+      "duration_ms": 150517,
+      "name": "Caprichito",
+      "url": "https://open.spotify.com/track/3UzfmU2el00DiAfekXiZB9"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "La Voz de la Tierra, Antolog\u00eda Vol. 1",
+        "url": "https://open.spotify.com/album/3s2GQnUQsCJA9QhN0P89du"
+      },
+      "artists": [
+        {
+          "name": "Arak Pacha",
+          "url": "https://open.spotify.com/artist/1qQuDaLRfEZmlZ6TgeNxEy"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Socoroma",
+      "url": "https://open.spotify.com/track/2Fr2gC8nGVoPCFpi7jbHeA"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "La Vida No Es Recta",
+        "url": "https://open.spotify.com/album/13rJMwtetq3ehQZsosTBPa"
+      },
+      "artists": [
+        {
+          "name": "Rezonancia",
+          "url": "https://open.spotify.com/artist/2RA6tbYsWItfklZnXYYO0C"
+        }
+      ],
+      "duration_ms": 280980,
+      "name": "La Vida No Es Recta",
+      "url": "https://open.spotify.com/track/5YCAJdABeJxMSnH10AUXzL"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Fome",
+        "url": "https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "La Torre de Babel",
+      "url": "https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj"
+    },
+    {
+      "added_at": "2026-03-16 03:00:00",
+      "album": {
+        "name": "Grandes de la Fiesta",
+        "url": "https://open.spotify.com/album/3hcumq8Vh7mOMOtdiwTiod"
+      },
+      "artists": [
+        {
+          "name": "Sonora Palacios",
+          "url": "https://open.spotify.com/artist/4Gu5S2cvAxuZvPgqs5zW7e"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Los Domingos",
+      "url": "https://open.spotify.com/track/6cBsKELWMwuJeqp8virr2c"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d4\u05d9\u05dc\u05d4 \u05e8\u05d5\u05d7",
-  "num_followers": 33423,
+  "num_followers": 33427,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG"
-      },
-      "artists": [
-        {
-          "name": "Assaf Amdursky",
-          "url": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "89 \u05e9\u05e0\u05d9\u05d5\u05ea",
         "url": "https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 205496,
       "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG"
+      },
+      "artists": [
+        {
+          "name": "Assaf Amdursky",
+          "url": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb"
-      },
-      "artists": [
-        {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
-          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
-        }
-      ],
-      "duration_ms": 271815,
-      "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 239411,
       "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
       "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb"
+      },
+      "artists": [
+        {
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
+          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
+        }
+      ],
+      "duration_ms": 271815,
+      "name": "\u05d4\u05de\u05d5\u05d6\u05d9\u05e7\u05d4 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

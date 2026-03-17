@@ -12687,6 +12687,24 @@
     },
     {
       "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
+    },
+    {
+      "album": {
         "name": "poison",
         "url": "https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F"
       },
@@ -17338,7 +17356,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 211176,
       "name": "wasted potential",
       "url": "https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2"

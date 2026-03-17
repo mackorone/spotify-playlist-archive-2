@@ -1917,6 +1917,24 @@
     },
     {
       "album": {
+        "name": "Chcia\u0142abym Ci powiedzie\u0107",
+        "url": "https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg"
+      },
+      "artists": [
+        {
+          "name": "Julia Wasielewska",
+          "url": "https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156392,
+      "name": "Chcia\u0142abym Ci powiedzie\u0107",
+      "url": "https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt"
+    },
+    {
+      "album": {
         "name": "Zo\u0142za",
         "url": "https://open.spotify.com/album/2HYqAYWxtSpgFQ4QPvU500"
       },
@@ -3220,6 +3238,24 @@
       "duration_ms": 213552,
       "name": "Dodge",
       "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
+    },
+    {
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
+      },
+      "artists": [
+        {
+          "name": "Krystian Embradora",
+          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154368,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
     },
     {
       "album": {
@@ -7364,7 +7400,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 156106,
       "name": "na co dzie\u0144",
       "url": "https://open.spotify.com/track/5qor65BgeuIR6sSM7iLJjd"
@@ -7962,7 +7998,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 185685,
       "name": "Nie ma czasu",
       "url": "https://open.spotify.com/track/5jg0d2Vi5B9wMqRD6ELLIm"
@@ -11572,7 +11608,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 179532,
       "name": "Synchronija",
       "url": "https://open.spotify.com/track/6i8vfbeUP5jDpWpdEbTSEu"
@@ -12394,6 +12430,24 @@
       "duration_ms": 176058,
       "name": "to jara Ci\u0119 te\u017c!",
       "url": "https://open.spotify.com/track/50y9rvzaMoCiDKxUCSpekj"
+    },
+    {
+      "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172383,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv"
     },
     {
       "album": {

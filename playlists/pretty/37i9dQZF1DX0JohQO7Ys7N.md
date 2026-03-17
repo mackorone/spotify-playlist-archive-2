@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Karun
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,756 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,770 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tamu](https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Tamu](https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg) | 3:01 |
 | 2 | [Hold Me](https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Eternal](https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7) | 4:21 |
 | 3 | [Reasons](https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Off My Chest](https://open.spotify.com/album/3UkjFytj440El2a712oDX9) | 4:24 |
-| 4 | [Far](https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Far](https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13) | 3:22 |
-| 5 | [Mtu Wangu](https://open.spotify.com/track/5S39kEDblIwK3jA7kRmOQf) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Mtu Wangu](https://open.spotify.com/album/009ubkOJUBR4dL5rXExUgc) | 4:00 |
-| 6 | [Feel The Love](https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Boy Lover](https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb) | 2:49 |
-| 7 | [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 |
-| 8 | [Ni Wewe](https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ni Wewe](https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM) | 2:34 |
+| 4 | [Waza](https://open.spotify.com/track/6o0v1jNUgMpBwT3RQe2Wae) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Waza](https://open.spotify.com/album/5ClSrFIsxh8jwLiNxS0jQY) | 3:11 |
+| 5 | [Far](https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Far](https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13) | 3:22 |
+| 6 | [Mtu Wangu](https://open.spotify.com/track/5S39kEDblIwK3jA7kRmOQf) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Mtu Wangu](https://open.spotify.com/album/009ubkOJUBR4dL5rXExUgc) | 4:00 |
+| 7 | [Feel The Love](https://open.spotify.com/track/05S7VaTrGBdizlcLGcnEQb) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Boy Lover](https://open.spotify.com/album/4SikxrLC1rU0Nqr0PAv6tb) | 2:49 |
+| 8 | [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 |
 | 9 | [Dilly Darling](https://open.spotify.com/track/5KXvjxNDjDMqw3yzs3Hdm4) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Dilly Darling](https://open.spotify.com/album/5ev4H9jy1ftkDODd5HXiKN) | 3:47 |
 | 10 | [Feel You](https://open.spotify.com/track/4iCzpvKmAqnQEoH1lxZBnQ) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy) | [Feel You](https://open.spotify.com/album/64PIMvFZqwZyo20UPLniYN) | 3:43 |
 | 11 | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0) | 3:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Aki Sioni](https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:03 |
 | 60 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 |
 
-Snapshot ID: `AAAAAG+XkO6GkzSrBDzGae03CB3bEDRj`
+Snapshot ID: `AAAAANziy52C0Foh79Rn5iBfJUkYYxwP`

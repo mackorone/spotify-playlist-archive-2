@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-617 songs - 1 day 11 hr 26 min
+618 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-05-19 | 2024-07-27 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-12-27 | 2024-01-12 |
 | [Beamin’](https://open.spotify.com/track/7LUftIuD039hNS4CevDHdn) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’](https://open.spotify.com/album/11sXnogjgJ8nlpwwpHrsEa) | 2:20 | 2024-10-03 | 2025-08-23 |
-| [Bear Trap](https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Bear Trap](https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI) | 2:45 | 2025-11-28 |  |
+| [Bear Trap](https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Bear Trap](https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI) | 2:45 | 2025-11-28 | 2026-03-17 |
 | [Beware](https://open.spotify.com/track/49L3qRiWSnbaMq6g6a4v2m) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Duppy](https://open.spotify.com/artist/7tdO0ae8EY35sBWCioyuIs) | [Beware](https://open.spotify.com/album/49cBe9DPWO32CLtYc771kC) | 1:56 | 2026-03-06 |  |
 | [Big City Life](https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Mattafix](https://open.spotify.com/artist/5KORW1YGiERJqfuYjXMCyz) | [Big City Life](https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC) | 2:26 | 2022-09-30 | 2024-06-28 |
 | [Big Fi Dem](https://open.spotify.com/track/3hAODoyUQ34xzoiKMgVbgH) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Sparkz](https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf) | [Big Fi Dem](https://open.spotify.com/album/5eQ1dxfitzQG3SX4p0tXCe) | 3:52 | 2024-11-08 | 2025-08-23 |
@@ -133,6 +133,7 @@
 | [Deep Blue](https://open.spotify.com/track/1GbOfnbGSjk8d1K5dlXCzX) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/0U1KpiK53T1hSfAKhZC6dS) | 3:35 | 2023-07-27 | 2024-02-25 |
 | [Deep Blue](https://open.spotify.com/track/2PHxnN5piS1PheqZ5KENrz) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Gracie Van Brunt](https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt) | [Deep Blue](https://open.spotify.com/album/5E1knAJbg7UI5FmSJXjUlF) | 3:35 | 2022-10-28 | 2023-05-03 |
 | [Defcon 1](https://open.spotify.com/track/5agzYyhLRr4lYXcKahdEcF) | [Loboski](https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS), [Krasia](https://open.spotify.com/artist/6HWv9QK0gDs0yaNcGWHffV) | [Defcon 1](https://open.spotify.com/album/780qikdd8z4LSwdUkVZxwL) | 3:02 | 2025-11-28 | 2026-02-06 |
+| [Dem Not Ready](https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Dem Not Ready](https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9) | 4:37 | 2026-03-13 |  |
 | [Deserted](https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Hazmat / Deserted](https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6) | 3:21 | 2024-07-02 | 2025-02-21 |
 | [Desire \(with Sam Smith\) \- Hannah Laing Remix](https://open.spotify.com/track/5fMCZVkIvrx6sF0oZhfFYG) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Desire \(with Sam Smith\) \[Hannah Laing Remix\]](https://open.spotify.com/album/2Vg83qJEzQy2iaRF5kF4fb) | 3:08 | 2023-12-27 | 2024-01-12 |
 | [Destiny Part II](https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Destiny Part II](https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU) | 3:46 | 2024-08-02 | 2024-11-22 |

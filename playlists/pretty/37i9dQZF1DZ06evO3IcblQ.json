@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36048,
+  "num_followers": 36051,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAACzAkG44dn2Qh4xssr4doDU",
+  "snapshot_id": "abX2gAAAAAAVoEG4Bz/dKvBcNwCnCc8a",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 126973,
       "name": "Wouldn't It Be Nice - 2005 Remaster",
       "url": "https://open.spotify.com/track/1Id8boomLmiBoq7hurug9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Land of the Free?",
-      "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 187786,
       "name": "Living for Today - 2005 Remaster",
       "url": "https://open.spotify.com/track/4FlT6zFCK2hIdfQld4lPU6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Land of the Free?",
+      "url": "https://open.spotify.com/track/2tfuiYUAllKUVusfEu9Lpi"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Land Of The Free?",
-        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Something Wrong With Me",
-      "url": "https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle (2005 Remaster)",
         "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 166040,
       "name": "Broken - 2005 Remaster",
       "url": "https://open.spotify.com/track/1aCHRP1jfEyooKGnHdwkdD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Land Of The Free?",
+        "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Something Wrong With Me",
+      "url": "https://open.spotify.com/track/0WGKwo98neAoQ5RmQm49Ee"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 97840,
-      "name": "Pennywise - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle (2005 Remaster)",
         "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 175853,
       "name": "Date With Destiny - 2005 Remaster",
       "url": "https://open.spotify.com/track/4yVw3NIv9RTBRM6TQnv6fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 97840,
+      "name": "Pennywise - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1WaEl2RKIUq7gxakfucrch"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "Get A Life - 2005 Remaster",
+      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ollie Ollie Oxen Free",
         "url": "https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 132466,
       "name": "Don't Tear Me Down",
       "url": "https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "Get A Life - 2005 Remaster",
-      "url": "https://open.spotify.com/track/120GSrWDt7efZA4SU3ZM2u"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Something to Change",
-      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Full Circle (2005 Remaster)",
         "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 155506,
       "name": "You'll Never Make It - 2005 Remaster",
       "url": "https://open.spotify.com/track/28yjAloJc2iqkyjfFOFn2v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Something to Change",
+      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195333,
       "name": "Greed",
       "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Never Gonna Die",
+      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
     },
     {
       "added_at": null,

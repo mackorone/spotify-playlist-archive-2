@@ -7561,6 +7561,24 @@
     },
     {
       "album": {
+        "name": "Jesus Is His Name",
+        "url": "https://open.spotify.com/album/5nb9Mzv2gnyahYwns9tGCe"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357075,
+      "name": "Jesus Is His Name",
+      "url": "https://open.spotify.com/track/5JoiNcH5F8sg5Kxm0028SK"
+    },
+    {
+      "album": {
         "name": "Jesus Is My Healer (Live)",
         "url": "https://open.spotify.com/album/5gYrM3yx6RMB7Wk16bwdLh"
       },

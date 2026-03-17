@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Above It All",
+        "url": "https://open.spotify.com/album/2Az7K5WL8kd8aeXjbkXDUH"
+      },
+      "artists": [
+        {
+          "name": "Galactixx",
+          "url": "https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186496,
+      "name": "Above It All",
+      "url": "https://open.spotify.com/track/0Rc76jWVVhd7P444rjIngT"
+    },
+    {
+      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp"
       },
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 173074,
       "name": "ANNOYING MUSIC",
       "url": "https://open.spotify.com/track/0iAa3y2av2i39gj70jIPB6"
@@ -7482,7 +7500,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 211539,
       "name": "Dancing On The Bar",
       "url": "https://open.spotify.com/track/2hx1ZGH1ZHkMWazyhDeaUP"
@@ -9002,7 +9020,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 121439,
       "name": "Don't Touch That Stereo",
       "url": "https://open.spotify.com/track/2Q51a3eED6Lagx0QOoOi4L"
@@ -10321,6 +10339,32 @@
     },
     {
       "album": {
+        "name": "Equipment (Demi Kanon & Jesse Jax Remix)",
+        "url": "https://open.spotify.com/album/660F89PP5RW40KtTEub3zc"
+      },
+      "artists": [
+        {
+          "name": "S-Dee",
+          "url": "https://open.spotify.com/artist/6bbW9ST4sOH4RR8lSew2wv"
+        },
+        {
+          "name": "Demi Kanon",
+          "url": "https://open.spotify.com/artist/0MwTAzU4fDGGfrUAHzYwRJ"
+        },
+        {
+          "name": "Jesse Jax",
+          "url": "https://open.spotify.com/artist/1PYQj2h0huAOD01p2Bhn1O"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204389,
+      "name": "Equipment - Demi Kanon & Jesse Jax Remix",
+      "url": "https://open.spotify.com/track/6YsuST4KZHJiVwopCGQZ4C"
+    },
+    {
+      "album": {
         "name": "Escape Reality",
         "url": "https://open.spotify.com/album/0obeLaxo9Biz07hUgwCcxx"
       },
@@ -11634,7 +11678,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 199734,
       "name": "FEELS LIKE",
       "url": "https://open.spotify.com/track/1RGeMcZIs1IfL4FOKbQRIF"
@@ -22197,6 +22241,32 @@
     },
     {
       "album": {
+        "name": "Mona Lisa (All That She Wants)",
+        "url": "https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9"
+      },
+      "artists": [
+        {
+          "name": "Jordiz",
+          "url": "https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV"
+        },
+        {
+          "name": "Stephen Oaks",
+          "url": "https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205028,
+      "name": "Mona Lisa (All That She Wants)",
+      "url": "https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu"
+    },
+    {
+      "album": {
         "name": "Money Run",
         "url": "https://open.spotify.com/album/5Hj1TfgMOPQZhGXAb9Ao02"
       },
@@ -22590,6 +22660,24 @@
       "duration_ms": 161240,
       "name": "Music Made Addict (Prophet's Defqon 2K22 Edit) - Mixed Cut",
       "url": "https://open.spotify.com/track/1YYz28doSEaxmHxIOfgEgE"
+    },
+    {
+      "album": {
+        "name": "MUSICAL BOX",
+        "url": "https://open.spotify.com/album/3lLyWyTycOY7oMnaROETW5"
+      },
+      "artists": [
+        {
+          "name": "KATALYZE",
+          "url": "https://open.spotify.com/artist/0tqm177gEuN2Sc19zSEBL7"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124264,
+      "name": "MUSICAL BOX",
+      "url": "https://open.spotify.com/track/3ZLVGZ8I8JGrZyOt7zfUyJ"
     },
     {
       "album": {
@@ -26808,7 +26896,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 246605,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1bwKRe0kkFQBdXd01T7oPl"
@@ -27196,7 +27284,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 211500,
       "name": "Race To Glory (Official Gearbox Grand Prix 2026 Anthem)",
       "url": "https://open.spotify.com/track/3eBSiWKbC4cw0lLXL85yke"
@@ -27240,6 +27328,28 @@
       "duration_ms": 160258,
       "name": "Radiate (2025 Edit)",
       "url": "https://open.spotify.com/track/1mk0gCnEPaRmUUFlgogfGn"
+    },
+    {
+      "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/6FzFUrmZe5CfRU0APY23Xy"
+      },
+      "artists": [
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        },
+        {
+          "name": "Spectre",
+          "url": "https://open.spotify.com/artist/4Xrfj658V9oL5xwi7oM70C"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207232,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/4mEHpU9HmmElypTrDlPV0t"
     },
     {
       "album": {
@@ -28927,6 +29037,28 @@
     },
     {
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP"
+    },
+    {
+      "album": {
         "name": "Rihanna",
         "url": "https://open.spotify.com/album/4cckQJBpqkeXyreMViZP8o"
       },
@@ -29066,7 +29198,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 189000,
       "name": "Rise From The Void",
       "url": "https://open.spotify.com/track/3Ncvr6If3kdO3MicMrV2Hh"
@@ -31125,6 +31257,28 @@
     },
     {
       "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/7GfxFIyNMB02ki8AUwQjF9"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198125,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/6a9qTBBUdzmMbL89QX0Zix"
+    },
+    {
+      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
       },
@@ -31918,7 +32072,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 204000,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/1BtgKm4KUiroBYPZossFT0"
@@ -39788,6 +39942,28 @@
       "duration_ms": 233806,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/5zHbMNKbIZgEoczViZZOaZ"
+    },
+    {
+      "album": {
+        "name": "When Sound Meets Sound (Official REBiRTH Festival 2026 Anthem)",
+        "url": "https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        },
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "When Sound Meets Sound - Official REBiRTH Festival 2026 Anthem",
+      "url": "https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae"
     },
     {
       "album": {

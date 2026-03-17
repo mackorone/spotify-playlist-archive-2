@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from PLK, Theodora, Charlotte Cardin and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,282 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,281 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

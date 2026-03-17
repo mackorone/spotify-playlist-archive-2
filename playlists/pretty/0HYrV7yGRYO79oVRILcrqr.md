@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,739 likes - 186 songs - 12 hr 3 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,748 likes - 198 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,5 +194,17 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 184 | [La Princesa del viento grita](https://open.spotify.com/track/7bqP1GnCf6fCvauuY9JVa9) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 7:39 |
 | 185 | [Walk Between Worlds \- Alternate Version](https://open.spotify.com/track/411jnbOzg92EcSY9cN85ln) | [Rose Dunn Music](https://open.spotify.com/artist/0VWOHUs4vZqLNyLe8I4Oa9) | [Walk Between Worlds \(Alternate Version\)](https://open.spotify.com/album/4ZPjQXpMhqmb36DewkF08D) | 3:43 |
 | 186 | [Easy Rollin](https://open.spotify.com/track/32v73Yi63EoEukVxoaSv93) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Way We Roll](https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw) | 2:48 |
+| 187 | [Sweet Journey \(Rock Version\)](https://open.spotify.com/track/6n6zlANFdFqP3u3DK4fJiJ) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Sweet Journey \(Rock Version\)](https://open.spotify.com/album/3AAjiTyB5rFtvouQnXNKdn) | 4:34 |
+| 188 | [Blacktop and Burnt Rubber](https://open.spotify.com/track/4YJorBOy38zLV1KaoBSDYA) | [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Six Days and A Single Dime](https://open.spotify.com/album/4310R5du1lBvnARr5VcIGX) | 3:16 |
+| 189 | [Rota Psicodélica](https://open.spotify.com/track/2yxf0RiYiEDvUODDEDzQID) | [Folk Soundtrack Band](https://open.spotify.com/artist/7msqMHsbi7Yvpy3gRfp31l), [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Rota Psicodélica](https://open.spotify.com/album/0o84VkYn8mGiIxBUKnsUE2) | 2:52 |
+| 190 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 |
+| 191 | [The Journey](https://open.spotify.com/track/6DuE0g8y4OVukEVoYI3frf) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Dive In](https://open.spotify.com/album/4KaFd9rQ7YC0PWpNS14w99) | 4:09 |
+| 192 | [COUNTRY ON ME](https://open.spotify.com/track/0j0JXColubcMwPRQhdm5c2) | [The 508](https://open.spotify.com/artist/7aQxyxGdTVk0NvKqtyjMxB), [akaMahaj](https://open.spotify.com/artist/7rVsc3VNUC6LSpFC9fBdLa) | [COUNTRY ON ME](https://open.spotify.com/album/5DhQ7sKwjxqaWFffYJOT8h) | 4:44 |
+| 193 | [I'm On Fire](https://open.spotify.com/track/2YkStnBSMoFi5lNyub4xRd) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 2:38 |
+| 194 | [Limitless](https://open.spotify.com/track/3d6SDGekSWy5FpiQx70d1C) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 3:42 |
+| 195 | [In the Evening](https://open.spotify.com/track/4EiKqVV6Ll2JIcB5PDwh4f) | [Jumping Warpigs](https://open.spotify.com/artist/2bVJ0nmmBgKlHSKrtDK11t) | [Blues](https://open.spotify.com/album/4m0VKD21IwFXkpOi8F9seF) | 3:22 |
+| 196 | [River](https://open.spotify.com/track/1lrSxSQ1xJhtOjQJyhpKOb) | [The Blue Marmalades](https://open.spotify.com/artist/0Cch3HVBzCsI5YUGMcAva9) | [River](https://open.spotify.com/album/3t8Xr8iT7VMJ5iD4M1uk6m) | 7:15 |
+| 197 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 |
+| 198 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 |
 
-Snapshot ID: `AAAKz9kt0+f2saHsmG/e6gO/4/dN/t44`
+Snapshot ID: `AAAK2zhb6UHtvN5S9s27CbiipYt+6tEX`

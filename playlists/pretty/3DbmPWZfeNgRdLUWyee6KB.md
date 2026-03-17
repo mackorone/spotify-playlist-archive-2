@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 149 songs - 8 hr 40 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 164 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,20 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 147 | [Habitar](https://open.spotify.com/track/0YcGS5JFK7Cfr1kxRmjeq4) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Habitar](https://open.spotify.com/album/2Nz486xwXRIxTzrpgCWSEm) | 3:40 |
 | 148 | [Go To Mars](https://open.spotify.com/track/1hdZyrKOcW5YR9VbQ2cRLO) | [LGJ](https://open.spotify.com/artist/61bVVHlWXm0W0GSU9LiwxO), [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [Go To Mars](https://open.spotify.com/album/4uB6KPZUt2bKSrt5SceOQr) | 3:10 |
 | 149 | [Cut You Off](https://open.spotify.com/track/5OQ74RnqKC3l3wpjoRxpAG) | [Maren Schlicht](https://open.spotify.com/artist/6Oxro0jNNoWSiHuIJfeYuh) | [Cut You Off](https://open.spotify.com/album/58DLFT6hE64zU4hElyDYmi) | 2:20 |
+| 150 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 |
+| 151 | [Antidote](https://open.spotify.com/track/6HidUQd2zsPED0wenu4HTK) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [A Too Lyrical](https://open.spotify.com/artist/1uvEtoW9SltUZ8bTZBIt64) | [Antidote](https://open.spotify.com/album/0Uz2hkErLP4W0eA8j2Q6y4) | 4:04 |
+| 152 | [Artificial](https://open.spotify.com/track/7BVRXrSgMOoLDEkan3atza) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Artificial](https://open.spotify.com/album/2Pdekk6nPnMEf0d2hcOEgP) | 4:13 |
+| 153 | [Extra Juicy](https://open.spotify.com/track/5pjXk1yt9rxwt2G6phJX2U) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Extra Juicy](https://open.spotify.com/album/7foyhwKtR2A6JrPM7ppeYT) | 3:14 |
+| 154 | [Tut mir leid](https://open.spotify.com/track/6Y8OfVGlXQ0EBgatNnHj1q) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Tut mir leid](https://open.spotify.com/album/0n9XCoVEilAtTja23wEBhw) | 5:54 |
+| 155 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 |
+| 156 | [Tant Pis Pour Toi](https://open.spotify.com/track/2oxvhILb15VnXzfDWdoNq9) | [Loussiné](https://open.spotify.com/artist/3zLxLK1oV8PCGYcwAF09Un) | [Tant Pis Pour Toi](https://open.spotify.com/album/4oRkPURAwCVEOcVINon90p) | 2:35 |
+| 157 | [The Hope That Kills You](https://open.spotify.com/track/4oi6vgA4XrcUKRO0N3Y3eq) | [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD) | [The Hope That Kills You](https://open.spotify.com/album/4jYxKqGVU9hhTp8nwyDHhl) | 4:00 |
+| 158 | [Everything to me \- 2026 Remastered](https://open.spotify.com/track/6srrd8bYqdRznLnOcJrE32) | [Martin Music](https://open.spotify.com/artist/5Y1uMD9d4HYryBiBvhssUW) | [Everything to me \(2026 Remastered\)](https://open.spotify.com/album/2PIDJ9NUlXxYvw0pD5N7hy) | 2:39 |
+| 159 | [Party's Over \- Memorial Mix](https://open.spotify.com/track/75bHj8yW2FhPVVxwOQcyqb) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Alt Worlds 2005 \- 2025](https://open.spotify.com/album/2GJMD8MwCDgquGfUs3EJHo) | 4:15 |
+| 160 | [Sombra en el Cristal](https://open.spotify.com/track/0So2kHfNOt8X0y0ups87B6) | [NayroMusic](https://open.spotify.com/artist/4bJJBolygs8H5vlKMNtxKc) | [Sombra en el Cristal](https://open.spotify.com/album/3BCyOML4kmJDK7H9Ic1ETx) | 3:21 |
+| 161 | [Who Knows](https://open.spotify.com/track/7gBAeTkW4h4bInsEpxl6ei) | [Blurry Girl](https://open.spotify.com/artist/3p2ZVRrTcNT0UB5BwItngj) | [Who Knows](https://open.spotify.com/album/25tMxOvOdorwd9OgWhSrkS) | 3:07 |
+| 162 | [Midnight Summer](https://open.spotify.com/track/2Stharhd4jDWnR1eBunm7y) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs), [Ian Cisneros](https://open.spotify.com/artist/1yLhfqzypopEBDH8qxGHZq) | [Midnight Summer](https://open.spotify.com/album/2XJcHDrPq1pT9A0DUna6AS) | 4:51 |
+| 163 | [Prelúdio \(Iroko\)](https://open.spotify.com/track/1RlYlTlANYi4CILbHwcyuY) | [Gabi Vian](https://open.spotify.com/artist/2zT4sqgMzP1AyOYeOx4VgT), [Wander Sá](https://open.spotify.com/artist/20tPjzIgoul83RNFakHJIJ) | [Prelúdio](https://open.spotify.com/album/4GeTrvB9TzO7cPHEi1O1Nl) | 3:09 |
+| 164 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
 
-Snapshot ID: `AAARxCl6HdXfQ41C8C0ydjTmzPdgtYez`
+Snapshot ID: `AAAR0ympYNfu4Xqd7eGh57YA1GgXb2c1`

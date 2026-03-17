@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 128 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 568 likes - 128 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 73 | [Man On The Moon](https://open.spotify.com/track/4nmhLIhYamo2c79buPgJE1) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:18 |
 | 74 | [Hey Beautiful \(with Louane & Tiny Habits\)](https://open.spotify.com/track/4apbWcMX0yV7eE4orbPH2K) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:25 |
 | 75 | [Blondes](https://open.spotify.com/track/7icij1c026lNAaX4NiVByO) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Second Wind](https://open.spotify.com/album/78ukESSuIkLhGjuQhvw0Nc) | 2:27 |
-| 76 | [Actress](https://open.spotify.com/track/0kwqLejJ6WRwV59LMlhYHK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:56 |
-| 77 | [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 |
+| 76 | [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 |
+| 77 | [Actress](https://open.spotify.com/track/0kwqLejJ6WRwV59LMlhYHK) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:56 |
 | 78 | [FEEL LOVE \(feat\. Delacey\)](https://open.spotify.com/track/60n2CwqknqYSbA14vvpTv3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [TESTIFY](https://open.spotify.com/album/72QrPCGdsW94gJZvQY8ZFV) | 4:01 |
 | 79 | [My Man \- Louis Bell Remix](https://open.spotify.com/track/6Lfyde0lFubconXN7c8WI6) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Louis Bell](https://open.spotify.com/artist/0KhTK3BxneP2FPtlwyp1MK) | [My Man \(Louis Bell Remix\)](https://open.spotify.com/album/2w0c6pJt31vsn5kcce7JdN) | 2:48 |
 | 80 | [Naked](https://open.spotify.com/track/4Aol7GtOaV8EVkanxp1F6r) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Identity Crisis](https://open.spotify.com/album/3lbaOO0V8HmnSDcmd85QAw) | 3:24 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcMOoAAAAACx88u20mOINeIYy81GpISX`
+Snapshot ID: `AcMUNgAAAACL4AsEd37jwtnWJWWsMGju`

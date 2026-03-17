@@ -1,12 +1,12 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi, Konstantinos Argiros",
-  "num_followers": 38051,
+  "num_followers": 38120,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMp9W+C8LqUYhDpw1+ZQcgRXCzom",
+  "snapshot_id": "AAAAANQOohx6t2V5DMBa5oOlnL8Z+Xvk",
   "tracks": [
     {
       "added_at": "2026-03-12 22:00:20",
@@ -603,22 +603,18 @@
     {
       "added_at": "2026-03-12 22:00:20",
       "album": {
-        "name": "Mavra Matia",
-        "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
+        "name": "Kapnogona",
+        "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
       },
       "artists": [
         {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "Aspa",
-          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
         }
       ],
-      "duration_ms": 181894,
-      "name": "Mavra Matia",
-      "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
+      "duration_ms": 184661,
+      "name": "Kapnogona",
+      "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
     },
     {
       "added_at": "2026-03-12 22:00:20",
@@ -643,34 +639,22 @@
     {
       "added_at": "2026-03-12 22:00:20",
       "album": {
-        "name": "Kapnogona",
-        "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
+        "name": "Mavra Matia",
+        "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Kapnogona",
-      "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
-    },
-    {
-      "added_at": "2026-03-12 22:00:20",
-      "album": {
-        "name": "Leei",
-        "url": "https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y"
-      },
-      "artists": [
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
         {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+          "name": "Aspa",
+          "url": "https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N"
         }
       ],
-      "duration_ms": 212863,
-      "name": "Leei",
-      "url": "https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH"
+      "duration_ms": 181894,
+      "name": "Mavra Matia",
+      "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
     },
     {
       "added_at": "2026-03-12 22:00:20",
@@ -687,6 +671,22 @@
       "duration_ms": 223590,
       "name": "Isitirio Ena",
       "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
+    },
+    {
+      "added_at": "2026-03-12 22:00:20",
+      "album": {
+        "name": "Leei",
+        "url": "https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 212863,
+      "name": "Leei",
+      "url": "https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH"
     },
     {
       "added_at": "2026-03-12 22:00:20",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-03-12 22:00:20",
       "album": {
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+    },
+    {
+      "added_at": "2026-03-12 22:00:20",
+      "album": {
         "name": "Pou Ti Vrike?",
         "url": "https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI"
       },
@@ -755,38 +771,6 @@
       "duration_ms": 188470,
       "name": "Pou Ti Vrike?",
       "url": "https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c"
-    },
-    {
-      "added_at": "2026-03-12 22:00:20",
-      "album": {
-        "name": "M' Akous",
-        "url": "https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 200564,
-      "name": "Kerasmena",
-      "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
-    },
-    {
-      "added_at": "2026-03-12 22:00:20",
-      "album": {
-        "name": "Ayto Einai Sosto",
-        "url": "https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt"
-      },
-      "artists": [
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
-        }
-      ],
-      "duration_ms": 134201,
-      "name": "Ayto Einai Sosto",
-      "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
     },
     {
       "added_at": "2026-03-12 22:00:20",
@@ -827,6 +811,38 @@
     {
       "added_at": "2026-03-12 22:00:20",
       "album": {
+        "name": "Ayto Einai Sosto",
+        "url": "https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "duration_ms": 134201,
+      "name": "Ayto Einai Sosto",
+      "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
+    },
+    {
+      "added_at": "2026-03-12 22:00:20",
+      "album": {
+        "name": "M' Akous",
+        "url": "https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 200564,
+      "name": "Kerasmena",
+      "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
+    },
+    {
+      "added_at": "2026-03-12 22:00:20",
+      "album": {
         "name": "Tha Me Kitas Sta Matia",
         "url": "https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 227565,
       "name": "Tha Me Kitas Sta Matia",
       "url": "https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ"
-    },
-    {
-      "added_at": "2026-03-12 22:00:20",
-      "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     }
   ],
   "unique_name": "Laika tou Simera",

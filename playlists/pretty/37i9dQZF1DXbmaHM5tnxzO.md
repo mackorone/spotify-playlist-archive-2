@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > All the best tracks from Pixar films, including new music from "Hoppers," in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,081 likes - 92 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,097 likes - 92 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

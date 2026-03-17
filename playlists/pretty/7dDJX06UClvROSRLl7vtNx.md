@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 104,098 likes - 228 songs - 9 hr 49 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 104,122 likes - 228 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 14 | [Dancing On The Edge](https://open.spotify.com/track/0PBPhW4ABlgEQLvDkj5Ioc) | [Daniel Santoro](https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz) | [Dancing On The Edge](https://open.spotify.com/album/2R3GWmzz33CjB9nv1qofPM) | 2:46 |
 | 15 | [do u still feel me](https://open.spotify.com/track/0h6rciZzFHcmy56lSTtYGE) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [do u still feel me](https://open.spotify.com/album/5M6Q70N4piGkX1AbYwb4ty) | 2:25 |
 | 16 | [Without You](https://open.spotify.com/track/6sTRRES1pZTUPbQtAYR5SW) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Without You](https://open.spotify.com/album/1EAdonVaTPxAuT6pk1XdJw) | 2:52 |
-| 17 | [So Cold](https://open.spotify.com/track/6YtSIhdng69oDhU1s9o5f8) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [NOAM](https://open.spotify.com/artist/3SCz4vk2MoqDn9KvOYMU0r), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Tide Lane](https://open.spotify.com/artist/03PrckumwVFNJxiBc2xe7Y) | [So Cold](https://open.spotify.com/album/2HNWdNSESoeYxaQrC0twBB) | 2:50 |
+| 17 | [So Cold](https://open.spotify.com/track/6YtSIhdng69oDhU1s9o5f8) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [NOAM](https://open.spotify.com/artist/3SCz4vk2MoqDn9KvOYMU0r), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Tide Lane](https://open.spotify.com/artist/6JyyVA8tmbFYQs0MlHPg9B) | [So Cold](https://open.spotify.com/album/2HNWdNSESoeYxaQrC0twBB) | 2:50 |
 | 18 | [Somewhere Far Away](https://open.spotify.com/track/73BmpCqc2AU8zfsRONndlW) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Somewhere Far Away](https://open.spotify.com/album/1OHoYsaR4HxMKuTaC4xw2O) | 2:25 |
 | 19 | [On You Tonight](https://open.spotify.com/track/74W5fZ6oXGfOkEsBnJGoF6) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [On You Tonight](https://open.spotify.com/album/5rVcIzH1pDaK6tGkoGH8MI) | 2:17 |
 | 20 | [To The Sun](https://open.spotify.com/track/5sqU7K8fWSMvq1HbVZjA9O) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [To The Sun](https://open.spotify.com/album/4Egv7LczbVHbd9FPX08Oy5) | 2:14 |

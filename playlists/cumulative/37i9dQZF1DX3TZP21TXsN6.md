@@ -4,7 +4,7 @@
 
 > Nieuw: BFLQuatro, Flo, Vurr Flashy en meer…
 
-463 songs - 20 hr 0 min
+464 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,8 @@
 | [hangen met jou](https://open.spotify.com/track/0OzXbMmlUvTW7OW1hT4j8q) | [Nilson 74](https://open.spotify.com/artist/6dTd1IxGJyVWCKbGrj1hpw) | [hangen met jou](https://open.spotify.com/album/3btwZUat7bOImpEhgKeB2T) | 2:44 | 2025-09-15 | 2025-11-01 |
 | [Hard Times Never Humbled Us](https://open.spotify.com/track/5OjzE7bkdSItwIIuzsZ0LN) | [Memphis Depay](https://open.spotify.com/artist/6vHeztszLzqchlxlfUnwAo) | [Hard Times Never Humbled Us](https://open.spotify.com/album/50bL1iRb3QEJk8QUv4GMWX) | 2:47 | 2025-12-11 | 2026-01-23 |
 | [Hart Ligt](https://open.spotify.com/track/4Sax88ogIOBA9ytqxqLIaH) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Praat van de Straat II](https://open.spotify.com/album/7Dw4rtrem5CE1a9zUpi1oB) | 3:55 | 2026-02-19 | 2026-02-27 |
-| [Haten](https://open.spotify.com/track/767CZer0mDoCLZEJRW86LW) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/1izmHwQe6Uxp6KhJ5UFb1x) | 2:28 | 2026-03-12 |  |
+| [Haten](https://open.spotify.com/track/6KeLzjmdULnJxScv0gcXtD) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/3DYtCrZMQQ4gsiNK5AUo8I) | 2:26 | 2026-03-16 |  |
+| [Haten](https://open.spotify.com/track/767CZer0mDoCLZEJRW86LW) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Haten](https://open.spotify.com/album/1izmHwQe6Uxp6KhJ5UFb1x) | 2:28 | 2026-03-12 | 2026-03-17 |
 | [Headshot \- Remix](https://open.spotify.com/track/5OYNNDgoKbrzAS1JbrY655) | [Dayvoo](https://open.spotify.com/artist/3Y7dSW6r0DdlIMpj8EnjAl), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T), [Ky Janea](https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im) | [Headshot \(Remix\)](https://open.spotify.com/album/3rozI6XJA0YwpjMM3vzjDI) | 3:39 | 2026-01-08 | 2026-02-13 |
 | [HEADSHOT REVERSE](https://open.spotify.com/track/4pTbVkpsgoLG9YTnMI0Vxr) | [Sowtu](https://open.spotify.com/artist/2zCIjTItI9lPWdNQMIgEpi), [Madzz](https://open.spotify.com/artist/51HhLwdbSKDNQx7IPy44oV), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA), [Optie](https://open.spotify.com/artist/37Ibw98hVYR0a2fowIvd8Y) | [HEADSHOT REVERSE](https://open.spotify.com/album/3em08WEE4Kj6DWNxKheIaM) | 4:10 | 2026-01-29 | 2026-03-13 |
 | [Heel FF](https://open.spotify.com/track/0ClOAV7p0YRWeDVt9ZzKbA) | [Gilly](https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN) | [Heel FF](https://open.spotify.com/album/08QHitCYHdSoByZOrLyeMq) | 2:12 | 2025-09-04 | 2025-10-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life..\. Ratboys on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,645 likes - 153 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,675 likes - 153 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

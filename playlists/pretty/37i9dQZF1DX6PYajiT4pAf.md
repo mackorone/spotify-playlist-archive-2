@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ozuna, Raul Clyde & SAIKO, Ptazeta, Camin & La Pantera y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,572 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,576 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

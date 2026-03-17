@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: DEVAURA
 
-577 songs - 1 day 8 hr 7 min
+578 songs - 1 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-06 | 2024-09-07 |
 | [24/7](https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [24/7](https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3) | 2:30 | 2024-05-31 | 2025-09-05 |
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-07-24 | 2025-08-01 |
-| [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 | 2025-12-11 |  |
+| [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 | 2025-12-11 | 2026-03-17 |
 | [92 Purebred](https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [92 Purebred](https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3) | 3:22 | 2025-01-23 | 2025-03-05 |
 | [95s](https://open.spotify.com/track/2wnYDbY2UeySCpWG2EQ4ah) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [95s](https://open.spotify.com/album/4eNPrBfL6nQH61uEZLD6Mj) | 3:18 | 2025-05-15 | 2025-05-23 |
 | [\[REDACTED\]](https://open.spotify.com/track/6BNaYgSwdHidtDzOuVH5qS) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\[REDACTED\]](https://open.spotify.com/album/1G9pxhwLN4hLvoTh470a2E) | 2:24 | 2025-06-19 | 2025-06-27 |
@@ -292,6 +292,7 @@
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-05-31 |  |
 | [Little One](https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Little One](https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t) | 3:37 | 2024-05-31 | 2024-08-05 |
 | [London Massive](https://open.spotify.com/track/3rr6YbIEazaOv6H9snVRMT) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [London Massive](https://open.spotify.com/album/4GdzA8ll8XWMiJsT84YUZz) | 2:05 | 2026-01-29 |  |
+| [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 | 2026-03-12 |  |
 | [Loose Pt\. 3](https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Loose Pt\. 3](https://open.spotify.com/album/21BkFek37rkAQcrALu8uk2) | 2:49 | 2026-01-22 | 2026-01-30 |
 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 | 2025-01-09 |  |
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-04 |  |

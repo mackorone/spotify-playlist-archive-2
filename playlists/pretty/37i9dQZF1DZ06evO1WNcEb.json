@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66733,
+  "num_followers": 66738,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAABRDdi1WMK9zz2PB+nQE8Vn",
+  "snapshot_id": "abX2gAAAAAD8B4Hxb809FgpudAvv0YCT",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SJoH2gTRR3fcsBpcYHVCv"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 257013,
-      "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
-      "url": "https://open.spotify.com/track/73Yk0T3x5k21ESnVi6lmSd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 299840,
       "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
       "url": "https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SJoH2gTRR3fcsBpcYHVCv"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 257013,
+      "name": "Me Derramar + Alfa e \u00d4mega (Ao Vivo)",
+      "url": "https://open.spotify.com/track/73Yk0T3x5k21ESnVi6lmSd"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 380760,
-      "name": "Eu Quero Ser Santo",
-      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Forte (Ao Vivo)",
         "url": "https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 270373,
       "name": "Deus Forte (Ao Vivo)",
       "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 380760,
+      "name": "Eu Quero Ser Santo",
+      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 381280,
+      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Entre",
         "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 262664,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 381280,
-      "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande \u00e9 o Nosso Deus",
-        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+        "name": "Deus dos Vales, Deus dos Montes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aYeIpqwkXbGEMBPauuf5b"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 319166,
-      "name": "Grande \u00e9 o Nosso Deus",
-      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+      "duration_ms": 256640,
+      "name": "Deus dos Vales, Deus dos Montes + Tira-me do Vale (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grande \u00e9 o Nosso Deus",
+        "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 319166,
+      "name": "Grande \u00e9 o Nosso Deus",
+      "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
         "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 393533,
       "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
       "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus dos Vales, Deus dos Montes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aYeIpqwkXbGEMBPauuf5b"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Deus dos Vales, Deus dos Montes + Tira-me do Vale (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3"
     },
     {
       "added_at": null,

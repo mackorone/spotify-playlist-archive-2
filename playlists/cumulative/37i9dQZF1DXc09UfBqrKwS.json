@@ -6928,7 +6928,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 163500,
       "name": "Heroic",
       "url": "https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc"
@@ -12249,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "Rest Curve 528Hz",
+        "url": "https://open.spotify.com/album/7car49ueCp6v7g1C8hsr5a"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Drift",
+          "url": "https://open.spotify.com/artist/1yIF1xY9YyuJmbmIBtGuAT"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164181,
+      "name": "Rest Curve 528Hz",
+      "url": "https://open.spotify.com/track/3KVV7IKqu7xJ3lClwdF5tx"
+    },
+    {
+      "album": {
         "name": "Restful Whispers",
         "url": "https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG"
       },
@@ -13502,7 +13520,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 169000,
       "name": "Soft Breeze",
       "url": "https://open.spotify.com/track/5HKT3UNQww3WEBJi5kVgzG"
@@ -14546,7 +14564,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 190119,
       "name": "Stress Reliever",
       "url": "https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7"

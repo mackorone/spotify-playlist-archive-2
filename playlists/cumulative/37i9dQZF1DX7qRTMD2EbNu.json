@@ -958,7 +958,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 166974,
       "name": "Against",
       "url": "https://open.spotify.com/track/51MPyrAjNDN3vINXkbZgTz"
@@ -2648,6 +2648,32 @@
       "duration_ms": 220441,
       "name": "Berma",
       "url": "https://open.spotify.com/track/0KhkTKB2QzYguZll0tvvOz"
+    },
+    {
+      "album": {
+        "name": "Big Bricks II",
+        "url": "https://open.spotify.com/album/0Tn7DNclYEKxEduQipZBsz"
+      },
+      "artists": [
+        {
+          "name": "Essumann",
+          "url": "https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "Big Bricks II",
+      "url": "https://open.spotify.com/track/6HFMRiaZhoAnOolrwYp9Yu"
     },
     {
       "album": {
@@ -4434,7 +4460,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 192692,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6zhjZbn6dM4Xta3pwRg1vE"
@@ -10500,6 +10526,24 @@
       "duration_ms": 348995,
       "name": "Meyere Ne Mempena",
       "url": "https://open.spotify.com/track/62EFmTw579LJUrXHSVsKeR"
+    },
+    {
+      "album": {
+        "name": "The Hardest - EP",
+        "url": "https://open.spotify.com/album/61kLuB0KVUCE6Rl2ZbFvzB"
+      },
+      "artists": [
+        {
+          "name": "Okese1",
+          "url": "https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144243,
+      "name": "Mhmm",
+      "url": "https://open.spotify.com/track/6ohlaQjkpb0cMzaMF0VWfd"
     },
     {
       "album": {

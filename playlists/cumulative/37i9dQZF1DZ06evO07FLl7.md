@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-132 songs - 8 hr 7 min
+133 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,8 +108,9 @@
 | [Roupa de Tirar](https://open.spotify.com/track/5ZyMe1SkLd4fHyXJUMYKSD) | [Sandália de Prata](https://open.spotify.com/artist/6YuiLSumjpSfCZJX3oo42Q), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Roupa de Tirar](https://open.spotify.com/album/75MZ5iHp8zsdBgJKcj48Yn) | 3:22 | 2024-12-08 | 2025-08-25 |
 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 | 2023-09-18 | 2024-09-11 |
 | [Rude](https://open.spotify.com/track/5WOpBNzAxTs9uCwMS6EHDY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 2:55 | 2024-09-11 | 2025-01-28 |
+| [Se Avexe Não](https://open.spotify.com/track/6a1cMOyZ499bdWLXFgHsBA) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k) | 3:42 | 2026-03-17 |  |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2023-09-18 | 2025-11-22 |
-| [Se Avexe Não](https://open.spotify.com/track/4QU8nQIrdZT7D9djZLynY6) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:44 | 2025-11-22 |  |
+| [Se Avexe Não](https://open.spotify.com/track/4QU8nQIrdZT7D9djZLynY6) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:44 | 2025-11-22 | 2026-03-17 |
 | [Semana Vem](https://open.spotify.com/track/0AH5iaTfTZHhsp17XQJEml) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 4:22 | 2023-09-18 | 2025-11-22 |
 | [Semana Vem](https://open.spotify.com/track/1OEeZA0M66MlGcuWEstSA3) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 4:22 | 2025-11-22 |  |
 | [Shonda \- RMX](https://open.spotify.com/track/62EZkcLKboeOZ6OHC0yR2s) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Preta Ary](https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:23 | 2023-09-18 | 2025-11-23 |

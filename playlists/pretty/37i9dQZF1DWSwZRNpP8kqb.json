@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 32631,
+  "num_followers": 32639,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,46 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
+        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Do\u00f1a Ubenza",
+      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Ysyry",
+        "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Bote",
+          "url": "https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL"
+        },
+        {
+          "name": "Abel Tesoriere",
+          "url": "https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS"
+        },
+        {
+          "name": "Flor Bobadilla Oliva",
+          "url": "https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j"
+        }
+      ],
+      "duration_ms": 154644,
+      "name": "Camb\u00e1 Galleta",
+      "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Entre Algarroba y Durazno",
         "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
@@ -459,22 +499,6 @@
       "duration_ms": 250329,
       "name": "Entre Algarroba y Durazno",
       "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "CARNAVALITO DEL DUENDE",
-        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "CARNAVALITO DEL DUENDE",
-      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -531,58 +555,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Como Un P\u00e1jaro Libre (Slidepack)",
-        "url": "https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH"
+        "name": "CARNAVALITO DEL DUENDE",
+        "url": "https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 196253,
-      "name": "Do\u00f1a Ubenza",
-      "url": "https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Conviccion",
-        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
-      },
-      "artists": [
-        {
-          "name": "Rocio Araujo",
-          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "Cuando Me Abandone el Alma",
-      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Ysyry",
-        "url": "https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Bote",
-          "url": "https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL"
-        },
-        {
-          "name": "Abel Tesoriere",
-          "url": "https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS"
-        },
-        {
-          "name": "Flor Bobadilla Oliva",
-          "url": "https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j"
-        }
-      ],
-      "duration_ms": 154644,
-      "name": "Camb\u00e1 Galleta",
-      "url": "https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP"
+      "duration_ms": 172421,
+      "name": "CARNAVALITO DEL DUENDE",
+      "url": "https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -599,6 +583,22 @@
       "duration_ms": 218893,
       "name": "De Los Dias, Los Mas Lindos",
       "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Conviccion",
+        "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
+      },
+      "artists": [
+        {
+          "name": "Rocio Araujo",
+          "url": "https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Cuando Me Abandone el Alma",
+      "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Pasionarias",
-        "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
-      },
-      "artists": [
-        {
-          "name": "Silvia Iriondo",
-          "url": "https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7"
-        },
-        {
-          "name": "Carlos Aguirre & Quinteto de Guitarras",
-          "url": "https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5"
-        }
-      ],
-      "duration_ms": 235245,
-      "name": "La Jardinera",
-      "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Bendiciones",
         "url": "https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl"
       },
@@ -867,22 +847,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Ambas - Maria Paula Godoy",
-        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
+        "name": "Pasionarias",
+        "url": "https://open.spotify.com/album/0H7GZSBLHQkseN2awfxZ2m"
       },
       "artists": [
         {
-          "name": "Maria Paula Godoy",
-          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
+          "name": "Silvia Iriondo",
+          "url": "https://open.spotify.com/artist/6RlNuHRDeVSq9y9VBzgkw7"
         },
         {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+          "name": "Carlos Aguirre & Quinteto de Guitarras",
+          "url": "https://open.spotify.com/artist/5M7XdBf3l3PRDNzwPsGvJ5"
         }
       ],
-      "duration_ms": 110291,
-      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
-      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
+      "duration_ms": 235245,
+      "name": "La Jardinera",
+      "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -899,6 +879,26 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Ambas - Maria Paula Godoy",
+        "url": "https://open.spotify.com/album/4kBNZfW1cHQlak5sJgoUUH"
+      },
+      "artists": [
+        {
+          "name": "Maria Paula Godoy",
+          "url": "https://open.spotify.com/artist/5RriG2maXzBfuXJkuHlcpi"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 110291,
+      "name": "El T\u00edmido (feat. Nahuel Pennisi)",
+      "url": "https://open.spotify.com/track/7LyLV7IpFkXcbRFMjgve4h"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -971,22 +971,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Luz del Aire",
-        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
+        "name": "Sigo So\u00f1ando",
+        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
       },
       "artists": [
         {
-          "name": "Melania Perez",
-          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
-        },
-        {
-          "name": "Osvaldo Burucu\u00e1",
-          "url": "https://open.spotify.com/artist/4o3CBMINLIX737fRUA6rvn"
+          "name": "Marit\u00e9 Berbel",
+          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
         }
       ],
-      "duration_ms": 198504,
-      "name": "La Canastita",
-      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
+      "duration_ms": 170293,
+      "name": "Mate Con Cedr\u00f3n",
+      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Sigo So\u00f1ando",
-        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
+        "name": "Luz del Aire",
+        "url": "https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj"
       },
       "artists": [
         {
-          "name": "Marit\u00e9 Berbel",
-          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
+          "name": "Melania Perez",
+          "url": "https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6"
+        },
+        {
+          "name": "Osvaldo Burucu\u00e1",
+          "url": "https://open.spotify.com/artist/4o3CBMINLIX737fRUA6rvn"
         }
       ],
-      "duration_ms": 170293,
-      "name": "Mate Con Cedr\u00f3n",
-      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
+      "duration_ms": 198504,
+      "name": "La Canastita",
+      "url": "https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 249217,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 249217,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "No Hacen Falta Alas",
         "url": "https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "La Negra Ulogia",
-        "url": "https://open.spotify.com/album/33VEeoUslSo8SUziYAW8GZ"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "La Negra Ulogia",
-      "url": "https://open.spotify.com/track/6hqPLgA3474q9IlIQ2ni7U"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 170562,
       "name": "Dime",
       "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "La Negra Ulogia",
+        "url": "https://open.spotify.com/album/33VEeoUslSo8SUziYAW8GZ"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "La Negra Ulogia",
+      "url": "https://open.spotify.com/track/6hqPLgA3474q9IlIQ2ni7U"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Desnudando el coraz\u00f3n",
-        "url": "https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY"
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Asc\u00e1rate",
-          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
         }
       ],
-      "duration_ms": 251225,
-      "name": "Romance de la luna tucumana",
-      "url": "https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3"
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+        "name": "Desnudando el coraz\u00f3n",
+        "url": "https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY"
       },
       "artists": [
         {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+          "name": "Sof\u00eda Asc\u00e1rate",
+          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
         }
       ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+      "duration_ms": 251225,
+      "name": "Romance de la luna tucumana",
+      "url": "https://open.spotify.com/track/4OKwLQZOP6IRuCvdKVwUK3"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Los Clasicos Del Folklore",
-        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Palacios",
-          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
-        }
-      ],
-      "duration_ms": 157226,
-      "name": "Recopilacion De Carnavalitos",
-      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Jazm\u00edn",
         "url": "https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3"
       },
@@ -1511,6 +1495,38 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Los Clasicos Del Folklore",
+        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Palacios",
+          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Recopilacion De Carnavalitos",
+      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Memoria de la Semilla",
+        "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
+      },
+      "artists": [
+        {
+          "name": "Florencia D\u00e1valos",
+          "url": "https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Zamba Enamorada (feat. Liliana Herrero)",
+      "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
-      },
-      "artists": [
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        }
-      ],
-      "duration_ms": 176615,
-      "name": "Carnavaleando de Sol a Sol",
-      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "El Amor Es As\u00ed",
         "url": "https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ"
       },
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Memoria de la Semilla",
-        "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/06cmuF0VwBJlWLqWGBE7LD"
       },
       "artists": [
         {
-          "name": "Florencia D\u00e1valos",
-          "url": "https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq"
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
         }
       ],
-      "duration_ms": 261760,
-      "name": "Zamba Enamorada (feat. Liliana Herrero)",
-      "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
+      "duration_ms": 176615,
+      "name": "Carnavaleando de Sol a Sol",
+      "url": "https://open.spotify.com/track/5kUFLZUia9HJtmA4EOllic"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "La Olvidada",
-        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
+        "name": "Noche, d\u00eda y madrugada",
+        "url": "https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc"
       },
       "artists": [
         {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+          "name": "Ariadna Prime",
+          "url": "https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY"
         }
       ],
-      "duration_ms": 154977,
-      "name": "La Olvidada",
-      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
+      "duration_ms": 193451,
+      "name": "Ojal\u00e1 te enamores",
+      "url": "https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1647,34 +1647,18 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Noche, d\u00eda y madrugada",
-        "url": "https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc"
+        "name": "La Olvidada",
+        "url": "https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ"
       },
       "artists": [
         {
-          "name": "Ariadna Prime",
-          "url": "https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY"
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
         }
       ],
-      "duration_ms": 193451,
-      "name": "Ojal\u00e1 te enamores",
-      "url": "https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Malamba",
-        "url": "https://open.spotify.com/album/5pcgasBTVmcfKnbdIXgRaP"
-      },
-      "artists": [
-        {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
-        }
-      ],
-      "duration_ms": 157637,
-      "name": "Malamba",
-      "url": "https://open.spotify.com/track/0ennKDzGT6vSWpXDKP4LGY"
+      "duration_ms": 154977,
+      "name": "La Olvidada",
+      "url": "https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1699,18 +1683,34 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Podr\u00e1s",
-        "url": "https://open.spotify.com/album/4oLTyOU9M8aUWnqibV7eff"
+        "name": "Malamba",
+        "url": "https://open.spotify.com/album/5pcgasBTVmcfKnbdIXgRaP"
       },
       "artists": [
         {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
         }
       ],
-      "duration_ms": 241835,
-      "name": "Podr\u00e1s",
-      "url": "https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP"
+      "duration_ms": 157637,
+      "name": "Malamba",
+      "url": "https://open.spotify.com/track/0ennKDzGT6vSWpXDKP4LGY"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "De Piedra y Agua",
+        "url": "https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Zabzuk",
+          "url": "https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M"
+        }
+      ],
+      "duration_ms": 319139,
+      "name": "Luna De Cabotaje",
+      "url": "https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON"
     },
     {
       "added_at": "2025-08-21 21:06:28",

@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pinhani
 
-694 songs - 1 day 15 hr 56 min
+695 songs - 1 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Gidenler Var \- Kalanlardan](https://open.spotify.com/track/4xU78DeivpIeQrvdiIdHOH) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Yahya Babuz](https://open.spotify.com/artist/3wCsTznzEonkjTGANeKW98) | [Gidenler Var \(Kalanlardan\)](https://open.spotify.com/album/1K2TklmCO47H9vt46amBDw) | 3:49 | 2025-01-02 | 2026-02-06 |
 | [Gideriz Sessizce](https://open.spotify.com/track/5BxNFAbqXImlZTp84RcdNr) | [Kalabalık Bando](https://open.spotify.com/artist/0GNTnTMxz71h7uuEjWq8Nc) | [Gideriz Sessizce](https://open.spotify.com/album/1Go1QmJSisUtZskowTKJn1) | 4:15 | 2026-02-19 |  |
 | [Gidin](https://open.spotify.com/track/4RNuCCsvfGF03sfmboHwlT) | [Peyk](https://open.spotify.com/artist/6gPaETmwMTVwGdrd5eIiog) | [Suluşaka](https://open.spotify.com/album/1w0yVuxBLrepX4dhR3ArpP) | 3:15 | 2024-11-07 | 2025-10-10 |
+| [Gitme Benden](https://open.spotify.com/track/6ErKPTFlaHpfQfkuf0LMo4) | [Çağrı Ergün](https://open.spotify.com/artist/32pOdFhCvCO3gRtfiF9mea) | [Gitme Benden](https://open.spotify.com/album/4rx7wvEAq6xZJdEAb8bSph) | 3:20 | 2026-03-16 |  |
 | [Gitme Kal](https://open.spotify.com/track/0PGz2twIfKQY9ToIqVQrz2) | [Mentra](https://open.spotify.com/artist/1HWXCqZWPw3od0gpFoLXpe) | [Gitme Kal](https://open.spotify.com/album/3jtFpkl7h2IhaRFzylzU3A) | 2:36 | 2025-10-02 | 2025-12-12 |
 | [Gittikçe Çürüdü](https://open.spotify.com/track/6ziuuz6zdojEbONDwDCLYs) | [Baba Figürü](https://open.spotify.com/artist/5c0Fq206H7BtspMIdpmofh) | [Gittikçe Çürüdü](https://open.spotify.com/album/6x0oQomSzDABlKSOkTySJ8) | 3:08 | 2025-06-19 | 2025-07-11 |
 | [Gittin Başkasına](https://open.spotify.com/track/7cTER02DmrJHMqzhnGH2xI) | [Enes Bozyiğit](https://open.spotify.com/artist/4DZcvcGzGw0PQNStkNXT0a) | [Gittin Başkasına](https://open.spotify.com/album/10ARpTUFld2ynqx9kmsyPy) | 3:43 | 2025-10-09 | 2025-10-24 |
@@ -584,7 +585,7 @@
 | [Ver Bana Ellerini](https://open.spotify.com/track/3F80e3UxtiLuiViIdMoZ0E) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [Ver Bana Ellerini](https://open.spotify.com/album/0IcyoVzE35lD1NHEqrZFox) | 2:37 | 2025-10-23 | 2025-11-07 |
 | [Vitrin](https://open.spotify.com/track/0o1WEFBpxwWhRP1QZzrwsr) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Vitrin](https://open.spotify.com/album/4ysG69aDZhrf0qtBUWdNpQ) | 3:32 | 2026-01-15 | 2026-01-30 |
 | [Vur Kadehi](https://open.spotify.com/track/5ZmKxBjcsmQtYGvWAbonbg) | [Can Mutlu](https://open.spotify.com/artist/3AiXeOVKYB2UIBGsmfoFmk) | [Vur Kadehi](https://open.spotify.com/album/2ciz6zxu4mFO45eTk9qhA0) | 3:00 | 2025-08-21 | 2025-09-05 |
-| [YAK](https://open.spotify.com/track/3efegkhzHrUfXjWLniaQSl) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [YAK](https://open.spotify.com/album/04nbrA3g8Owo0eTrplt9SS) | 2:35 | 2026-02-05 |  |
+| [YAK](https://open.spotify.com/track/3efegkhzHrUfXjWLniaQSl) | [Defa](https://open.spotify.com/artist/3kRcmNakORbez29Ms2x40w), [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [YAK](https://open.spotify.com/album/04nbrA3g8Owo0eTrplt9SS) | 2:35 | 2026-02-05 | 2026-03-17 |
 | [Yak Bizi \- Canlı](https://open.spotify.com/track/6L2AJV1XvJHqX13rDhURcR) | [Whisky](https://open.spotify.com/artist/0MsIW3TOudzdnzlxQSp5kW) | [Ankara Konser 2006 \(Canlı\)](https://open.spotify.com/album/3CcMNGme5vK7r47jjVP9OH) | 4:49 | 2026-01-29 | 2026-02-13 |
 | [Yakarım Geceleri](https://open.spotify.com/track/07hIlXtXDZHYeyVpTQ6hfd) | [Güncel Gürsel Artıktay](https://open.spotify.com/artist/0zG7sxSKeAruWiPCDGiKS1) | [Yakarım Geceleri](https://open.spotify.com/album/2vKHIYfe0lW7zZkEWNt31h) | 3:28 | 2024-11-21 | 2025-03-28 |
 | [Yaktığım Son Sigaram](https://open.spotify.com/track/6dJtWbqBG2OqW5LA5CLBef) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Yaktığım Son Sigaram](https://open.spotify.com/album/4EwSoJf8bhRd0eXmVccI7e) | 3:15 | 2025-06-19 | 2025-10-10 |

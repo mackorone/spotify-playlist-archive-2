@@ -4,7 +4,7 @@
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-612 songs - 1 day 10 hr 43 min
+613 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [La Casa de A](https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 3:16 | 2022-01-14 | 2023-08-19 |
 | [La Cobardía](https://open.spotify.com/track/12zwBme5JdlPYqVIS7TIET) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz) | [La Cobardía](https://open.spotify.com/album/2vjR0JW30aMB35HZIqleFD) | 1:31 | 2022-05-20 | 2022-07-26 |
 | [La Cruz](https://open.spotify.com/track/0Uy4z6kYI0hKXAgUy9snt9) | [Valdivia](https://open.spotify.com/artist/622Gl6V4TWg2yWdsSsnx3q) | [La Cruz](https://open.spotify.com/album/7wWmEomsjIL7DfokORAZyH) | 2:56 | 2022-01-21 | 2022-07-21 |
-| [la culpa \- Versión Acústica](https://open.spotify.com/track/7dHNBNVAHsQ5ZIZnKInUDF) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [la culpa \- Versión Acústica](https://open.spotify.com/album/458mfbzm2XR3auRdNIFWCD) | 2:08 | 2024-08-23 |  |
+| [la culpa \- Versión Acústica](https://open.spotify.com/track/7dHNBNVAHsQ5ZIZnKInUDF) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [la culpa \- Versión Acústica](https://open.spotify.com/album/458mfbzm2XR3auRdNIFWCD) | 2:08 | 2024-08-23 | 2026-03-17 |
 | [La Duda](https://open.spotify.com/track/47c4iHug4NlbvmkYjvApUW) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Finitud](https://open.spotify.com/album/66wpiTSE6X39bVD768B3IL) | 3:52 | 2022-04-01 | 2022-04-21 |
 | [La Experiencia](https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Bestia](https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9) | 4:20 | 2022-01-21 | 2025-12-19 |
 | [La Fuerza](https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [La Fuerza](https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W) | 4:10 | 2022-01-14 | 2023-05-28 |
@@ -393,6 +393,7 @@
 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 | 2022-01-14 | 2022-07-29 |
 | [No Tengo Salida](https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760) | [Lisa](https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw) | [No Tengo Salida](https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf) | 3:24 | 2022-01-21 | 2022-07-15 |
 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 | 2023-09-22 |  |
+| [Novio Intelectual](https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Novio Intelectual](https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg) | 3:14 | 2025-07-17 |  |
 | [Nubes](https://open.spotify.com/track/1KK0Z7PeIhqkfDDup0EQST) | [Laura Guevara](https://open.spotify.com/artist/45hNgINTIzIiz2axx5EiBL) | [Nubes](https://open.spotify.com/album/6Xh8MyFAHtY5PDn7R4kkFO) | 3:39 | 2022-04-01 | 2022-07-10 |
 | [Nudo](https://open.spotify.com/track/11zFavnwfx74zzgabPcYAt) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [La Pérdida](https://open.spotify.com/album/3kDgQdqEps145Ic2fvK5Dd) | 4:25 | 2022-01-21 | 2022-07-09 |
 | [Nudo](https://open.spotify.com/track/5b5tle4kRgZuhHj0p0WLB7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:25 | 2022-01-21 | 2022-07-17 |
@@ -406,9 +407,9 @@
 | [Onda en el Aire](https://open.spotify.com/track/3Kha9JcEmw6Mv8xonp3qeL) | [Milagros](https://open.spotify.com/artist/7fuhvsoeDJJwdQYBwZkRRU), [YOGAROCK](https://open.spotify.com/artist/65oqi7gbDimKUBR0MzhMNc) | [Onda en el Aire](https://open.spotify.com/album/3eDODTj34wfIoppGzDdTHk) | 3:15 | 2023-07-14 | 2024-04-30 |
 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 | 2023-03-31 | 2023-08-13 |
 | [Ordenar](https://open.spotify.com/track/6cMAjbEM3SDBBWFwvx4qSl) | [VETRA](https://open.spotify.com/artist/7obSoqTA0ah9tLNktBUNU7) | [Liberarnos Es Placer](https://open.spotify.com/album/2f920Ow1P5wRwMgSYjr7eC) | 3:03 | 2022-01-21 | 2022-07-25 |
-| [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 | 2023-08-04 | 2026-03-10 |
+| [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 | 2023-08-04 |  |
 | [Otra Noche en los '70](https://open.spotify.com/track/4ymeGJhf1r8HJefwWDjv7o) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:37 | 2023-04-21 | 2023-08-12 |
-| [Otro Café](https://open.spotify.com/track/11nOwkwi4fCSbSowdrMhBi) | [Jimena Gonik](https://open.spotify.com/artist/0zzqP0G1PR5B9Em78h6ibv) | [Otro Café](https://open.spotify.com/album/6OuR0BZ2t5csQsCotYUQaD) | 3:03 | 2022-04-01 |  |
+| [Otro Café](https://open.spotify.com/track/11nOwkwi4fCSbSowdrMhBi) | [Jimena Gonik](https://open.spotify.com/artist/0zzqP0G1PR5B9Em78h6ibv) | [Otro Café](https://open.spotify.com/album/6OuR0BZ2t5csQsCotYUQaD) | 3:03 | 2022-04-01 | 2026-03-17 |
 | [Otro Lado](https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Otro Lado](https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K) | 3:57 | 2022-01-14 | 2023-06-10 |
 | [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 | 2023-05-12 |  |
 | [Otro Universo](https://open.spotify.com/track/20n1iiiZDUEyrqTlwtJZjT) | [Luli Interllige](https://open.spotify.com/artist/6JRnOrJxnwXfS8kldJL2OO), [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9) | [Otro Universo](https://open.spotify.com/album/2l4IOiFLNwGrtVtXkL27AV) | 3:37 | 2022-02-11 | 2022-04-17 |

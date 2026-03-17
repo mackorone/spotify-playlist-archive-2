@@ -1,12 +1,12 @@
 {
   "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Karun",
-  "num_followers": 47756,
+  "num_followers": 47770,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+XkO6GkzSrBDzGae03CB3bEDRj",
+  "snapshot_id": "AAAAANziy52C0Foh79Rn5iBfJUkYYxwP",
   "tracks": [
     {
       "added_at": "2026-03-05 23:59:16",
@@ -63,6 +63,22 @@
       "duration_ms": 264000,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF"
+    },
+    {
+      "added_at": "2026-03-16 10:03:39",
+      "album": {
+        "name": "Waza",
+        "url": "https://open.spotify.com/album/5ClSrFIsxh8jwLiNxS0jQY"
+      },
+      "artists": [
+        {
+          "name": "Kethan",
+          "url": "https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Waza",
+      "url": "https://open.spotify.com/track/6o0v1jNUgMpBwT3RQe2Wae"
     },
     {
       "added_at": "2026-03-05 23:59:16",
@@ -143,22 +159,6 @@
       "duration_ms": 223392,
       "name": "Dear Irene",
       "url": "https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y"
-    },
-    {
-      "added_at": "2026-03-05 23:59:16",
-      "album": {
-        "name": "Ni Wewe",
-        "url": "https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM"
-      },
-      "artists": [
-        {
-          "name": "Bridget Blue",
-          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Ni Wewe",
-      "url": "https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J"
     },
     {
       "added_at": "2026-03-05 23:59:16",

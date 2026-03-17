@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-197 songs - 15 hr 44 min
+198 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,9 +94,10 @@
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2022-02-11 | 2022-11-10 |
 | [Hunter](https://open.spotify.com/track/052QjISGAv9TPgtypVETn1) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 9:43 | 2022-02-11 | 2025-06-21 |
 | [I filled my Lungs with the Necessary Air, and yelled! \- Ben Lukas Boysen Rework](https://open.spotify.com/track/7wtgsXOuyJb51FbE1bmCwr) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Sam Slater](https://open.spotify.com/artist/7CBbqdnpSKylujNPI0h1io), [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Vale Reworked](https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz) | 7:17 | 2022-04-01 | 2025-06-21 |
+| [i still remember the first place we met.](https://open.spotify.com/track/1M481wZAR3n4a4QEUQU2Mo) | [calven](https://open.spotify.com/artist/0BPlDdeN0haeHlQvIvITO2), [alper6nen](https://open.spotify.com/artist/2utuBsTVf7KFufCvJBofcj), [érror](https://open.spotify.com/artist/0NqwfCVg5pbnGssFNXATTQ) | [you were never really mine.](https://open.spotify.com/album/5E6OdnHaCFon4AqeapKc1I) | 2:22 | 2026-02-27 |  |
 | [i was always there for you](https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH) | [rareeast](https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd), [idontno](https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49) | [i was always there for you](https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ) | 1:59 | 2026-02-27 |  |
 | [I'm Going to Do It](https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:16 | 2022-02-11 |  |
-| [iel te guide \(lumineuse arp v\)](https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [iel te guide \(lumineuse arp v\)](https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst) | 2:56 | 2026-02-27 |  |
+| [iel te guide \(lumineuse arp v\)](https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT) | [Passa Tempo](https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu) | [iel te guide \(lumineuse arp v\)](https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst) | 2:56 | 2026-02-27 | 2026-03-17 |
 | [If I Let Him In](https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe) | [Black Wing](https://open.spotify.com/artist/4MVCvqO8AdbUX0S6DuPxqo) | [...Is Doomed](https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP) | 8:25 | 2022-02-11 | 2025-05-27 |
 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-06-05 |  |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-11-09 | 2023-01-10 |

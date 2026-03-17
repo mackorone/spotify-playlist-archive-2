@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,244 likes - 136 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,247 likes - 136 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BE WITH U](https://open.spotify.com/track/2SZgyWAVTXWejEAnjr0p6q) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [BE WITH U](https://open.spotify.com/album/0nKbQ35mOu0uFHsRqgdoSX) | 2:56 |
-| 2 | [Lilla Lapper](https://open.spotify.com/track/3ZbsZBcOqpWY8dZHy3Mvyn) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Lilla Lapper](https://open.spotify.com/album/4nDzPTJn0VJWS4ysZUCJtz) | 2:16 |
-| 3 | [Sommarkatt](https://open.spotify.com/track/06SBaFS25FItwI86Euk05d) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sommarkatt](https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn) | 1:58 |
+| 2 | [Sommarkatt](https://open.spotify.com/track/06SBaFS25FItwI86Euk05d) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sommarkatt](https://open.spotify.com/album/0CT043iJqTjICBNuQKcMsn) | 1:58 |
+| 3 | [Lilla Lapper](https://open.spotify.com/track/3ZbsZBcOqpWY8dZHy3Mvyn) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Lilla Lapper](https://open.spotify.com/album/4nDzPTJn0VJWS4ysZUCJtz) | 2:16 |
 | 4 | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/track/76tyr2QnGa8rZMkcjMTjSR) | [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY) | [HKF \(Håll käften & försvinn\)](https://open.spotify.com/album/53S5r8qxuUDf2LI7Hj36Td) | 2:29 |
-| 5 | [Ski Resort](https://open.spotify.com/track/0OMt0APLoHjWHKdb4ARD0t) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Ah shit\. here we go again.](https://open.spotify.com/album/46TRmT4mn1TDLFOww1tNAM) | 2:43 |
-| 6 | [HAKUNA MATATA](https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [HAKUNA MATATA](https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk) | 2:16 |
-| 7 | [MAD MAX](https://open.spotify.com/track/1KsvmBIHznWBc9fLx4UAmW) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [MAD MAX](https://open.spotify.com/album/2PZqxgwkIs5z3VbyKREvx9) | 2:38 |
-| 8 | [DUM AV DIG](https://open.spotify.com/track/2ghglxd0bbYTGzRYpvGy49) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [DUM AV DIG](https://open.spotify.com/album/6rzMpJG6kKsvAFbn7XDI5k) | 2:03 |
-| 9 | [ASTRONAUT](https://open.spotify.com/track/5VL30JXRmzjOaDxk5rQqBZ) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r) | [ASTRONAUT](https://open.spotify.com/album/2aazrz2gsf0Y66LFS9gRQv) | 2:08 |
+| 5 | [HAKUNA MATATA](https://open.spotify.com/track/53Gv48kSCLE6ADiAaw3uep) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [HAKUNA MATATA](https://open.spotify.com/album/5fdrUVc2icNw9bOD3BRnmk) | 2:16 |
+| 6 | [ASTRONAUT](https://open.spotify.com/track/5VL30JXRmzjOaDxk5rQqBZ) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r) | [ASTRONAUT](https://open.spotify.com/album/2aazrz2gsf0Y66LFS9gRQv) | 2:08 |
+| 7 | [Ski Resort](https://open.spotify.com/track/0OMt0APLoHjWHKdb4ARD0t) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Ah shit\. here we go again.](https://open.spotify.com/album/46TRmT4mn1TDLFOww1tNAM) | 2:43 |
+| 8 | [MAD MAX](https://open.spotify.com/track/1KsvmBIHznWBc9fLx4UAmW) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [MAD MAX](https://open.spotify.com/album/2PZqxgwkIs5z3VbyKREvx9) | 2:38 |
+| 9 | [DUM AV DIG](https://open.spotify.com/track/2ghglxd0bbYTGzRYpvGy49) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [DUM AV DIG](https://open.spotify.com/album/6rzMpJG6kKsvAFbn7XDI5k) | 2:03 |
 | 10 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 |
 | 11 | [Living Next Door to Alice \(Who the Fuck is Alice?\)](https://open.spotify.com/track/2VhTsEe1BD4TsTzSTs4Cbd) | [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro), [Wizex](https://open.spotify.com/artist/4SaTBFtB3RPsxEGBdRB6EG) | [Living Next Door to Alice \(Who the Fuck is Alice?\)](https://open.spotify.com/album/2ahcRKOb5EkSSfg403zPak) | 3:25 |
 | 12 | [JAG VET, DU ÄR INTE MIN \- HARDTEKK](https://open.spotify.com/track/7sb7o3489xN37oVuZzaU6M) | [SWEDISH HARDTEKK SOCIETY](https://open.spotify.com/artist/3dfFZImgjbpBB7YICPFWwp), [Ringnes\-Ronja](https://open.spotify.com/artist/4UreQm83zKgphhXRToZs9r), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [GRABBARNA GRUS](https://open.spotify.com/artist/3vqZpcHSUlnIEczeBUdBvx) | [JAG VET, DU ÄR INTE MIN \- HARDTEKK](https://open.spotify.com/album/7MtzqAmU4CkxC9CJD1CZF5) | 2:22 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 135 | [Deja Vu](https://open.spotify.com/track/2NmPqJklrBV6Qp9SvTG3gN) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Deja Vu](https://open.spotify.com/album/3oJqllaEV5A8DgsDjVgL50) | 3:21 |
 | 136 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 |
 
-Snapshot ID: `AAAAAK67bJPJnEuVz9W2R1GUY50SvQcd`
+Snapshot ID: `AAAAAKnzTdNKIybGevjTxBVBevc0HaiM`

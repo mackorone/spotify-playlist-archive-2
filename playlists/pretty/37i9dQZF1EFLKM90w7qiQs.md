@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 36 | [Sad Song](https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 3:34 |
 | 37 | [Alone In My Room \(Gone\)](https://open.spotify.com/track/1Hoa0Hp9tTnSGaqo0r3rXh) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:35 |
 | 38 | [LUV? \(feat\. Anne\-Marie\)](https://open.spotify.com/track/7ajBoRIDCavZAG8RojAVpb) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [4](https://open.spotify.com/album/7IYdKvQYX8lzDPKKwldfkW) | 2:37 |
-| 39 | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/track/5tVRWM3CiMhy7CY0Aohyuh) | [Mullally](https://open.spotify.com/artist/4oc6eCUAzc3EcutZmmAg5y), [Bassette](https://open.spotify.com/artist/3Ky2r5H6y4cP5o00HcCE5R) | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/album/6y0l9GV5EM5afqnCX5fWgq) | 3:22 |
-| 40 | [Elastic](https://open.spotify.com/track/5wYjxSORL66y2Ect1UpFrL) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Elastic](https://open.spotify.com/album/2ZaSkE7jnQ9dtbVDYzZKn6) | 2:56 |
+| 39 | [Elastic](https://open.spotify.com/track/5wYjxSORL66y2Ect1UpFrL) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Elastic](https://open.spotify.com/album/2ZaSkE7jnQ9dtbVDYzZKn6) | 2:56 |
+| 40 | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/track/5tVRWM3CiMhy7CY0Aohyuh) | [Mullally](https://open.spotify.com/artist/4oc6eCUAzc3EcutZmmAg5y), [Bassette](https://open.spotify.com/artist/3Ky2r5H6y4cP5o00HcCE5R) | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/album/6y0l9GV5EM5afqnCX5fWgq) | 3:22 |
 | 41 | [Don't](https://open.spotify.com/track/4xIEnb2MOEgIfveGoyIy71) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:08 |
 | 42 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 |
 | 43 | [LESS DEPRESSED](https://open.spotify.com/track/41LEQ35PkSIgeXF78oFyx3) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [LESS DEPRESSED](https://open.spotify.com/album/4QWhQfzQxuIz4sAea2MAMX) | 2:57 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 68 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 | 69 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcMOlgAAAAASPUkCbzE5EnPoLJ8TBT5U`
+Snapshot ID: `AcMUNgAAAAC2ejZTfIdjNY88Sxd2SUIi`

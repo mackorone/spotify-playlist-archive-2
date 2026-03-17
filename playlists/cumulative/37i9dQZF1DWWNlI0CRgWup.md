@@ -4,7 +4,7 @@
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Wamen
 
-279 songs - 14 hr 9 min
+280 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Tarzan](https://open.spotify.com/track/7bTEYM4keeHBnm8h0nBj5G) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Tarzan](https://open.spotify.com/album/0vvWbMFuL708tNtMx4Z2QL) | 3:10 | 2022-09-29 | 2024-01-19 |
 | [Tell Me Who](https://open.spotify.com/track/3uCh2PMx17GZKf9kWaFMkY) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Niko](https://open.spotify.com/artist/7DidhnHZXjvLywJgaNbl9Q) | [Tell Me Who](https://open.spotify.com/album/3xSW1meBZp2Fiq4xZwQB5T) | 2:43 | 2023-07-11 | 2024-03-12 |
 | [Terrien](https://open.spotify.com/track/3zxgaONWwTwSWuisr4SV0Q) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 3:14 | 2023-01-24 | 2023-09-09 |
+| [Tes yeux](https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Tes yeux](https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l) | 2:59 | 2026-03-16 |  |
 | [That Boom](https://open.spotify.com/track/2x5jjXueCFiPtL4POBTxUL) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [That Boom](https://open.spotify.com/album/5X421PzjGCYXBGAizNaXNK) | 3:20 | 2024-01-18 | 2025-06-20 |
 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 | 2021-12-02 |  |
 | [The Hill](https://open.spotify.com/track/2deS1gZIjmyBkHNqVjgDfE) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Hill](https://open.spotify.com/album/2q2yy8DwiAsLC2G02puine) | 4:00 | 2021-12-02 | 2022-02-04 |

@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Light On The Horizon",
+        "url": "https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw"
+      },
+      "artists": [
+        {
+          "name": "Slackrr",
+          "url": "https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221460,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm"
+    },
+    {
+      "album": {
         "name": "Surrounded by Spiders",
         "url": "https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT"
       },
@@ -2817,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Objects in the Mirrors",
+        "url": "https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF"
+      },
+      "artists": [
+        {
+          "name": "The Paperbags",
+          "url": "https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263495,
+      "name": "Objects in the Mirrors",
+      "url": "https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3"
+    },
+    {
+      "album": {
         "name": "Oh Lord (DEMO)",
         "url": "https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g"
       },
@@ -4270,6 +4306,24 @@
       "duration_ms": 257321,
       "name": "Unmovable Fires",
       "url": "https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/4OzI2lFutyo5Tqb1rRCXqF"
+      },
+      "artists": [
+        {
+          "name": "The Attic",
+          "url": "https://open.spotify.com/artist/2IDA4k7NRZOZUznK0Goimh"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244241,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/55IaNinX523ef5gVySoiLS"
     },
     {
       "album": {

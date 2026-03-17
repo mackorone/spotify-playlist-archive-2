@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,191 songs - 2 day 18 hr 23 min
+1,192 songs - 2 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [She's Got a Gun \- Clockvice Remix](https://open.spotify.com/track/5VtHg945KXjNe7dmxA7kYL) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT), [Clockvice](https://open.spotify.com/artist/0KgVymhgHYfOMP13j78XsS) | [She's Got a Gun \(Clockvice Remix\)](https://open.spotify.com/album/4dYaUPfO6EOIdXXOxEZeJT) | 3:09 | 2022-12-10 | 2023-03-09 |
 | [Shine](https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Shine](https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5) | 2:49 | 2025-08-07 | 2025-10-29 |
 | [Shine](https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Shine](https://open.spotify.com/album/42WL9WgN516xT16NhXVUyb) | 3:24 | 2022-01-10 | 2022-03-18 |
+| [Shock Limit](https://open.spotify.com/track/2owaCr59xQqepG1ihELFlq) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Shock Limit](https://open.spotify.com/album/2cXC2ZxK1jjJwPAUcWyemZ) | 3:26 | 2026-03-16 |  |
 | [Should've Known Better](https://open.spotify.com/track/0lZmRfdj1CpstyZzFIGGxQ) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Should've Known Better](https://open.spotify.com/album/53ECP7lpXO3iCOwPREqy4U) | 3:24 | 2025-07-08 | 2025-09-30 |
 | [Show Me!](https://open.spotify.com/track/2dXeTLbQO9pzYMXnRAzMMJ) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Show Me!](https://open.spotify.com/album/5JuSjDOYp2huFAToRSDTYi) | 2:47 | 2025-02-10 | 2025-05-03 |
 | [SICKO](https://open.spotify.com/track/5e9Pd60eHsH6ERbuzh6krO) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [SLEEPER / SICKO](https://open.spotify.com/album/5ucMWsUY72QfFAHonYLrUY) | 1:45 | 2022-10-20 | 2023-01-07 |

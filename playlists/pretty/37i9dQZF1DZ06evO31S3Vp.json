@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 205372,
+  "num_followers": 205382,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAAA5aWbS0Ffsn/2v3JfNqjA9",
+  "snapshot_id": "abX2gAAAAADirqNAg0gEv+Oz2tJz4AyL",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 236921,
+      "name": "VSF",
+      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisas da Gera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 236921,
-      "name": "VSF",
-      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
     },
     {
       "added_at": null,

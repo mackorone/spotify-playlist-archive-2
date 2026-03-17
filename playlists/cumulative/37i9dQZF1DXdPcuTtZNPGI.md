@@ -4,11 +4,12 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-166 songs - 10 hr 59 min
+167 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0](https://open.spotify.com/track/6oEiGXcxLVn1PUjiEoyCe9) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:00 | 2024-07-09 |  |
+| [AiAiA](https://open.spotify.com/track/10HeYTTDc5jxAnjRwWfwIe) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AiAiA](https://open.spotify.com/album/5yo7MTWhUP9XpApJvcHAKn) | 4:14 | 2026-03-16 |  |
 | [Aishite Aishite Aishite](https://open.spotify.com/track/4gpvY7b9wHA9G1ZsMDu15b) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:18 | 2023-12-12 | 2024-04-19 |
 | [Aitakute](https://open.spotify.com/track/0fXWmy6Yfoj2tsKecBToC7) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:55 | 2022-10-09 | 2024-04-19 |
 | [All Night Radio](https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [All Night Radio](https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq) | 3:33 | 2023-10-22 | 2024-02-09 |

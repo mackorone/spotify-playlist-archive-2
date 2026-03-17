@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Marieme
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,409 likes - 139 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,414 likes - 139 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -5517,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "Looking Backwards",
+        "url": "https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Looking Backwards",
+      "url": "https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx"
+    },
+    {
+      "album": {
         "name": "Loso Na Madesu",
         "url": "https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx"
       },

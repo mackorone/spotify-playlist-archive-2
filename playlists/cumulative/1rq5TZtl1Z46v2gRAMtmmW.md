@@ -4,7 +4,7 @@
 
 > 
 
-499 songs - 1 day 8 hr 37 min
+500 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Like The Old Days](https://open.spotify.com/track/3o0yIwcf91q6p6n8xs5NVQ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Like The Old Days](https://open.spotify.com/album/40yz3IgIDiz0LoiVZJF4ri) | 4:00 | 2022-11-17 | 2023-02-23 |
 | [Line Gone Cold \- Deconstructed](https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Line Gone Cold \(Deconstructed\)](https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq) | 2:36 | 2025-02-11 | 2025-09-18 |
 | [Lonely Night](https://open.spotify.com/track/3AXnJq4P3X03O4NVSHQv9c) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Blame It All On Love](https://open.spotify.com/album/2NAh86oxJEBiOREIiCK9KW) | 3:29 | 2023-12-11 | 2024-01-12 |
+| [Looking Backwards](https://open.spotify.com/track/4xoQLzcgFkUY2wWSgVNhQx) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Looking Backwards](https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA) | 4:08 | 2026-03-16 |  |
 | [Loso Na Madesu](https://open.spotify.com/track/7efNNsh9LW6puimq4vaWqw) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Loso Na Madesu](https://open.spotify.com/album/2HhTmfLDCNkGwR9UtPXGrx) | 3:07 | 2023-04-04 | 2023-10-04 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-05-25 | 2023-03-09 |
 | [Love](https://open.spotify.com/track/2YZlfzBZZ0QK63n4NpQ70Y) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Ryan Porter](https://open.spotify.com/artist/1kiNqP5rOEbTchaFXyTY5c) | [Love](https://open.spotify.com/album/5mqsYvkkdJByPEAnVNWZSG) | 6:55 | 2025-07-09 | 2025-09-18 |

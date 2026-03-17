@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Killa Fonic",
-  "num_followers": 22855,
+  "num_followers": 22873,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "ultima (noapte)",
-        "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        },
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "ultima (noapte)",
-      "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
-    },
-    {
-      "added_at": "2026-03-12 22:00:22",
-      "album": {
         "name": "ANGELINA JOLIE",
         "url": "https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 187659,
       "name": "ANGELINA JOLIE",
       "url": "https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp"
+    },
+    {
+      "added_at": "2026-03-12 22:00:22",
+      "album": {
+        "name": "ultima (noapte)",
+        "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "ultima (noapte)",
+      "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
     },
     {
       "added_at": "2026-03-12 22:00:22",
@@ -787,22 +787,26 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "Copiii Care Am Fost",
-        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
       },
       "artists": [
         {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         },
         {
-          "name": "Bastien",
-          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
+        },
+        {
+          "name": "Stres",
+          "url": "https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Copiii Care Am Fost",
-      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
+      "duration_ms": 129005,
+      "name": "Certificat",
+      "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
     },
     {
       "added_at": "2026-03-12 22:00:22",
@@ -827,26 +831,22 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "Selfmade",
-        "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
+        "name": "Copiii Care Am Fost",
+        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
       },
       "artists": [
         {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
         },
         {
-          "name": "Bitza",
-          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
-        },
-        {
-          "name": "Stres",
-          "url": "https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5"
+          "name": "Bastien",
+          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
         }
       ],
-      "duration_ms": 129005,
-      "name": "Certificat",
-      "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
+      "duration_ms": 178064,
+      "name": "Copiii Care Am Fost",
+      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
       "added_at": "2026-03-12 22:00:22",
@@ -967,38 +967,18 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "CO$ANO$TRA",
-        "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
       },
       "artists": [
         {
-          "name": "4 226",
-          "url": "https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD"
-        },
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "LENO",
-          "url": "https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq"
-        },
-        {
-          "name": "Ravisval",
-          "url": "https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ"
-        },
-        {
-          "name": "Giovanni",
-          "url": "https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o"
-        },
-        {
-          "name": "BITTNER",
-          "url": "https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3"
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
         }
       ],
-      "duration_ms": 181714,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
     }
   ],
   "unique_name": "Suflet + Sunet",

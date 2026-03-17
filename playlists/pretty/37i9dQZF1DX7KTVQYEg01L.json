@@ -1,6 +1,6 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1377140,
+  "num_followers": 1377030,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-01-29 13:45:29",
       "album": {
+        "name": "2U (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "2U (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M"
+    },
+    {
+      "added_at": "2026-01-29 13:45:29",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
-    },
-    {
-      "added_at": "2026-01-29 13:45:29",
-      "album": {
-        "name": "2U (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "2U (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M"
     }
   ],
   "unique_name": "Tenha um \u00d3timo Dia!",

@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: SIENNA SPIRO
 
-1,966 songs - 4 day 3 hr 55 min
+1,967 songs - 4 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,6 +1122,7 @@
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-26 | 2025-07-18 |
 | [Mad Man](https://open.spotify.com/track/1wbFy2l4Ic2pdlQfpjTFZI) | [Muryel](https://open.spotify.com/artist/4Ha661RJU3Gd2Rsd6mVmYn) | [House on Fire](https://open.spotify.com/album/1iiBPK13boywdDPl5kN8EI) | 2:36 | 2025-08-28 | 2025-09-19 |
 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 | 2025-02-20 | 2025-03-21 |
+| [MAGAZINE](https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [MAGAZINE](https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ) | 3:12 | 2026-03-16 |  |
 | [MAGIC](https://open.spotify.com/track/5jDbIt9JdzAs0CRCf5dYeT) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [MAGIC](https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs) | 3:07 | 2024-09-12 | 2024-10-11 |
 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 | 2024-08-15 | 2024-09-13 |
 | [Make It Right](https://open.spotify.com/track/1ZOJTWzIo70uY4WOpcTrds) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Make It Right](https://open.spotify.com/album/2NXGp4A6BI26ECtQpwE4Jx) | 2:21 | 2025-07-10 | 2025-08-09 |

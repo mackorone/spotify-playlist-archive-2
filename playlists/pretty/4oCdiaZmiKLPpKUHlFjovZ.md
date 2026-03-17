@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,962 likes - 112 songs - 5 hr 13 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,954 likes - 112 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
-| 2 | [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 |
+| 1 | [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 |
+| 2 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
 | 3 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 |
 | 4 | [1 Umbrella \(feat\. Lil Yee & ZayBang\)](https://open.spotify.com/track/5lU1b02ar5sLIwFt8Eocmx) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [1 Umbrella](https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety) | 3:04 |
 | 5 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 111 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 |
 | 112 | [6'6 \(feat\. Zoe Osama, Spank Nitti James, OG Chris & Supparay\)](https://open.spotify.com/track/7dl0giMdaOEQTNE2DC0B8T) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Spank Nitti James](https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD), [OG Chris](https://open.spotify.com/artist/7te2hQTQHthko2gYXz58bw), [Supparay](https://open.spotify.com/artist/4Apee9PWVo03S7FSfAz82G) | [6'6 \(feat\. Zoe Osama, Spank Nitti James, OG Chris & Supparay\)](https://open.spotify.com/album/6KTsmPaDhz2JGJGHSY30Ib) | 3:28 |
 
-Snapshot ID: `AAAcFcAQhM37IJGvlNBxwYtFlX8gzQC8`
+Snapshot ID: `AAAcFry1vdCTzBIDJtN5Ru5WLaPkuHvb`

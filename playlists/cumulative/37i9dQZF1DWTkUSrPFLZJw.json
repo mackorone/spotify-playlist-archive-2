@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Another 365 (Happy Birthday)",
+        "url": "https://open.spotify.com/album/23EbraFueVN1bxuOSFNg5l"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Another 365 (Happy Birthday)",
+      "url": "https://open.spotify.com/track/4KZfXltSnmDVUmehV2PWrh"
+    },
+    {
+      "album": {
         "name": "Aso II",
         "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
       },
@@ -332,7 +350,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 140109,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1Qt93wdcRF1sgRNnJeeldt"
@@ -390,6 +408,32 @@
       "duration_ms": 184800,
       "name": "Eh God (Barnabas)",
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
+    },
+    {
+      "album": {
+        "name": "ORIGIN8A",
+        "url": "https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Mix Master Garzy",
+          "url": "https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "Electric Energy",
+      "url": "https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp"
     },
     {
       "album": {
@@ -1680,7 +1724,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"

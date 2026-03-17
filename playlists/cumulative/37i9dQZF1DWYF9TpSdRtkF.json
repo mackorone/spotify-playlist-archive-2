@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 235186,
       "name": "Big\u30d0\u30eb\u30fc\u30f3",
       "url": "https://open.spotify.com/track/2GrYcdCa5sX5eR8i8jmMBD"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 225906,
       "name": "Black Party",
       "url": "https://open.spotify.com/track/72PreEj2tiPTLqaqWmnmZX"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 295973,
       "name": "Harmony 4 You",
       "url": "https://open.spotify.com/track/0G5Cr2BypXfAuwM4mdGoOK"
@@ -5142,7 +5142,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 292893,
       "name": "Sweet Sweet Soul",
       "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
@@ -5682,7 +5682,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-18",
+      "date_removed": null,
       "duration_ms": 208120,
       "name": "World Changer",
       "url": "https://open.spotify.com/track/5lQEK8GGQQ36RdcXDNbPDG"
@@ -6094,6 +6094,40 @@
       "duration_ms": 248066,
       "name": "\u30aa\u30ec\u30f3\u30b8\u30fb\u30a8\u30d4\u30bd\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5Mi9dVl9OgmtleVYFle0gk"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER BOOST 02",
+        "url": "https://open.spotify.com/album/7GPvWv5XlxK1g2bbc8jpop"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        },
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272973,
+      "name": "\u30aa\u30fc\u30c7\u30a3\u30ca\u30ea\u30a3\u30fb\u30af\u30ed\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/7fXoB0wKppZQSRSEKhPpJA"
     },
     {
       "album": {
@@ -7068,7 +7102,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 242893,
       "name": "\u30d3\u30ae\u30ca\u30fc\u30ba \u30b9\u30c8\u30e9\u30a4\u30af",
       "url": "https://open.spotify.com/track/18qmhVcZk7eraEOEUYsSLn"
@@ -8896,7 +8930,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 222000,
       "name": "\u7d76\u5bfe\u7684Performer",
       "url": "https://open.spotify.com/track/3afExO5pxBPGVir1p0gUiE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Gera MX y Calle 24 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,420 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,419 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 4 | [SANGRE AZTECA](https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H) | [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [La Catrina De México](https://open.spotify.com/artist/7eoWBgCT692evDNaG8hMc4) | [Sangre Azteca](https://open.spotify.com/album/6DUgAPrpMqSn4ETY6vI5pb) | 3:47 |
 | 5 | [Wacha Trucha](https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Wacha Trucha](https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl) | 2:29 |
 | 6 | [Weekend](https://open.spotify.com/track/0NOclM8opBS28oVICEe8FL) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [School MC](https://open.spotify.com/artist/5mu2rGENOsGqLnb9hGum2X) | [Weekend](https://open.spotify.com/album/7MnDPAEToWerVFQCKW5CVk) | 3:14 |
-| 7 | [Huellas](https://open.spotify.com/track/7EmfxDMjfpDSnlPXDxrZqB) | [Endo](https://open.spotify.com/artist/47G4aZmzN6mRtKCSoLoNDM) | [Huellas](https://open.spotify.com/album/2yg3DEkEQCipTUdITXuvqv) | 3:40 |
+| 7 | [Huellas](https://open.spotify.com/track/7EmfxDMjfpDSnlPXDxrZqB) | [Endo](https://open.spotify.com/artist/5wP26cE52qoGYTi0kyIlJ8) | [Huellas](https://open.spotify.com/album/2yg3DEkEQCipTUdITXuvqv) | 3:40 |
 | 8 | [WiLEA](https://open.spotify.com/track/5uITlf4PcsuyBnqhLEi1of) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [WiLEA](https://open.spotify.com/album/5Xx3Z4EOYyScs9mruMYYnz) | 2:10 |
 | 9 | [Dejela Ser](https://open.spotify.com/track/4OIShuVMAVRbTP511sx8hG) | [Cejaz Negraz](https://open.spotify.com/artist/4otKDQdMIMEKTdZhh4ihql) | [Dejela Ser](https://open.spotify.com/album/1imoObzBFs54bqMUReczTj) | 2:51 |
 | 10 | [El Declive de la Cima](https://open.spotify.com/track/3Fdrr8RT2XxN7lVUyCUGgG) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU) | [El Declive de la Cima](https://open.spotify.com/album/1hluLiZw65WtgsYScXWAmw) | 5:31 |

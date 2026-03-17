@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fred again.., Jamie T
 
-412 songs - 1 day 1 hr 46 min
+413 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Each Night \- Boys’ Shorts Remix](https://open.spotify.com/track/5N8HrWOayG5SXsmdG11xcy) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU), [Boys' Shorts](https://open.spotify.com/artist/3nRPgO6HGmq7u7sj3KyEgx) | [Each Night \(Boys’ Shorts Remix\)](https://open.spotify.com/album/02kabmkVaejBXqVISYt6SK) | 2:59 | 2024-03-22 | 2025-01-17 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-14 |  |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-06-21 | 2025-08-24 |
+| [Echoed Dafnino](https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Echoed Dafnino](https://open.spotify.com/album/2VklyfVYWd26jxCdsuRHsj) | 5:33 | 2026-03-16 |  |
 | [Electric Cutz](https://open.spotify.com/track/398h6HYx7uGMbRXLycgBF9) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk) | 4:49 | 2024-02-23 | 2024-07-19 |
 | [Electric Cutz](https://open.spotify.com/track/3z8EQNPQwj5VZ7hTimCqZQ) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/61skTfvokQQ3sSQHKVl0K5) | 4:49 | 2024-02-23 | 2024-04-08 |
 | [Electric Cutz](https://open.spotify.com/track/4P07CYinzfgW5xAITGydS1) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Teach Me](https://open.spotify.com/album/2Q8i6Dq90LD7yKXI0lkHme) | 4:49 | 2024-03-22 | 2024-04-19 |
@@ -319,7 +320,7 @@
 | [SET IT ON FIRE](https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [SET IT ON FIRE](https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh) | 3:49 | 2024-11-08 | 2025-01-17 |
 | [Set Me Free](https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv), [sebo](https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW) | [Set Me Free](https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7) | 2:11 | 2024-02-23 | 2024-07-27 |
 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 | 2024-07-26 | 2025-02-14 |
-| [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-03 |  |
+| [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 | 2024-07-03 | 2026-03-17 |
 | [Shapeshift](https://open.spotify.com/track/0sYHnDAAx6sM5PBvNL1bKB) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Shapeshift](https://open.spotify.com/album/2RUbKHZHSV3ehikTjFBYD5) | 4:50 | 2025-04-17 | 2026-02-13 |
 | [She Waits](https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [She Waits](https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d) | 2:57 | 2025-10-03 |  |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2024-02-23 | 2024-07-27 |

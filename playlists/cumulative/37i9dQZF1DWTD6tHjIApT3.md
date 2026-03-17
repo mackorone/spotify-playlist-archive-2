@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 緑黄色社会 Ryokuoshoku Shakai
 
-3,721 songs - 9 day 21 hr 12 min
+3,722 songs - 9 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1837,6 +1837,7 @@
 | [TAMAPOP](https://open.spotify.com/track/0dkJRyRHYbhutsr6th52VI) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [TAMAPOP](https://open.spotify.com/album/4O9A91iZSDqZC8A4jaexuv) | 1:57 | 2023-08-08 | 2023-08-10 |
 | [Tapping](https://open.spotify.com/track/3H1jEofJzWddMGuLMGkq6u) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Tapping](https://open.spotify.com/album/4FtOl47ivgE1f6KrcFdRsE) | 1:47 | 2024-10-08 | 2024-11-13 |
 | [Tasogarekoso](https://open.spotify.com/track/4zW9IeXffrrBSDOAJDMoAv) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [Tasogarekoso](https://open.spotify.com/album/1d0Wzx6YmXG0RzHvx89RF8) | 3:41 | 2025-07-22 | 2025-07-30 |
+| [Taste of Life](https://open.spotify.com/track/0ngEVf6qZdxAwc9bffSZBK) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS), [Midique](https://open.spotify.com/artist/7Bu0sfHw7dHPntcvbrvv3i) | [Taste of Life](https://open.spotify.com/album/0wWzLBFEQ2Bj6T1ZqeZtqz) | 4:09 | 2026-03-10 |  |
 | [tasty tasks](https://open.spotify.com/track/3HQ7aHzoLMlbjtYW8rUPGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [pool mood / tasty tasks / 息を吸う ここで吸う 生きてく](https://open.spotify.com/album/6IL2lsyn0niP1eZyoLV5lz) | 4:07 | 2022-06-02 | 2022-06-24 |
 | [tears](https://open.spotify.com/track/6DCowyqx9z4926yxFAaQZ3) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [tears](https://open.spotify.com/album/4shzDdJe5GyQvm2EVsE9Qt) | 3:30 | 2024-02-27 | 2024-04-10 |
 | [Tears In Heaven](https://open.spotify.com/track/3wL3nouwMufFBLgzmUReoh) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [Tears In Heaven](https://open.spotify.com/album/0qtsCta69dCpMvC1QCYJFk) | 4:43 | 2024-02-01 | 2024-02-07 |
@@ -3358,7 +3359,7 @@
 | [楽園](https://open.spotify.com/track/1AsXFQCdocAc7a5362gGy2) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [楽園](https://open.spotify.com/album/4JN2DxtTGQG6W1hPLTaB6S) | 3:51 | 2024-07-25 | 2024-07-31 |
 | [楽園](https://open.spotify.com/track/2MCYwlrzVgOF3mmhk9tZW8) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [楽園](https://open.spotify.com/album/31GF5nxOwXvXdeoHcGiUyP) | 3:54 | 2022-10-04 | 2022-10-12 |
 | [横に縦に](https://open.spotify.com/track/4xPJOhYaC3AJGJwccaGRiy) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [横に縦に](https://open.spotify.com/album/17r34hNz2CXnfkSu8RuRjb) | 3:44 | 2023-09-26 | 2023-10-18 |
-| [横顔](https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [横顔](https://open.spotify.com/album/5cJDxgC2ODwS1RS7vtNLuF) | 4:14 | 2026-02-11 |  |
+| [横顔](https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [横顔](https://open.spotify.com/album/5cJDxgC2ODwS1RS7vtNLuF) | 4:14 | 2026-02-11 | 2026-03-17 |
 | [樹海の夢](https://open.spotify.com/track/2ClpQq788Uzkdt5fXKnVWe) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [樹海の夢](https://open.spotify.com/album/6i1tHgfwrXIvDxkub59ryD) | 5:51 | 2023-10-19 | 2023-10-25 |
 | [櫂](https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 5:01 | 2023-04-18 | 2023-05-10 |
 | [歩道橋](https://open.spotify.com/track/2j0DHd8nwPOkxx9UsccKka) | [Nogizaka46](https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq) | [歩道橋](https://open.spotify.com/album/6QoUQr1AwzQwKla2iyRjHf) | 5:05 | 2024-11-13 | 2025-04-16 |

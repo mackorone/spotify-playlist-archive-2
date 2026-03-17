@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,080 songs - 2 day 22 hr 26 min
+1,081 songs - 2 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Allison](https://open.spotify.com/track/3B0vMz20sN9UUwAwcP2QGQ) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Collection](https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74) | 2:39 | 2022-06-28 |  |
 | [Alone Again](https://open.spotify.com/track/6b5P51m8xx2XA6U7sdNZ5E) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 4:10 | 2023-11-05 | 2024-03-15 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2023-10-30 |  |
+| [ALWAYS FUN](https://open.spotify.com/track/0wP2MyjuY6AfutvReaJ8UU) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [LOVER TOFU FRUIT](https://open.spotify.com/album/7H4FaX0yjTsY8KqYKItKzK) | 4:19 | 2026-03-16 |  |
 | [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |
 | [An Endless Cycle \(Wayne’s Theme\)](https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH) | [Moonage Lobotomy \- A Hylics 2 Musical Expansion](https://open.spotify.com/album/2Cl3Bk4c2oUCapf8yQuFXb) | 6:00 | 2024-02-23 | 2024-06-06 |
 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 | 2024-01-26 |  |

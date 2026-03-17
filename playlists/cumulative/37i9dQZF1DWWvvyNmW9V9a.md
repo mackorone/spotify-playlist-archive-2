@@ -4,7 +4,7 @@
 
 > ADÉLA is so into you 💝 for <a href="https://newsroom.spotify.com/2026\-02\-24/greatest\-pop\-songs\-streaming\-era/">Spotify's 100 Greatest Pop Songs of the Streaming Era</a>
 
-2,554 songs - 5 day 12 hr 59 min
+2,555 songs - 5 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 | 2022-06-24 | 2022-10-29 |
 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2023-12-28 | 2024-05-04 |
 | [Breathe](https://open.spotify.com/track/3tWaXW8R7i3fc9tXkw4YjK) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Breathe](https://open.spotify.com/album/3GdAnfcTYX7TMy9VVJAvg0) | 3:28 | 2023-06-23 | 2023-07-08 |
+| [Breathe](https://open.spotify.com/track/3rKjT23XeGg3pbqE1T1fpd) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Breathe](https://open.spotify.com/album/0hYuQ5w39NwmJkC5JN6e9C) | 2:56 | 2026-03-16 |  |
 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 | 2025-06-06 | 2025-08-23 |
 | [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-21 | 2024-08-10 |
 | [Broken Melodies \- JVKE Remix](https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Broken Melodies \(JVKE Remix\)](https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn) | 3:46 | 2023-11-17 | 2023-12-02 |

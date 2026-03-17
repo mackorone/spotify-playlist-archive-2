@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 193956,
+  "num_followers": 193975,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 228253,
       "name": "Automechanic",
       "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
-      },
-      "artists": [
-        {
-          "name": "Duff Thompson",
-          "url": "https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ"
-        }
-      ],
-      "duration_ms": 184270,
-      "name": "Just Like Me",
-      "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Existential Beast",
         "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 212725,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
+      },
+      "artists": [
+        {
+          "name": "Duff Thompson",
+          "url": "https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ"
+        }
+      ],
+      "duration_ms": 184270,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Window Flowers",
         "url": "https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 236973,
       "name": "Hey Man",
       "url": "https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Phase Zero",
+        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
+      },
+      "artists": [
+        {
+          "name": "Morgan Delt",
+          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "Some Sunsick Day",
+      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Bottle It In",
         "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 261986,
       "name": "It Came to Me",
       "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Phase Zero",
-        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Delt",
-          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Some Sunsick Day",
-      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
     },
     {
       "added_at": "2024-07-05 19:49:15",

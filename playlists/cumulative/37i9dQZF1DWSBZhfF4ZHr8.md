@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française avec Joseph Kamel
 
-449 songs - 22 hr 8 min
+450 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Pourquoi c'est ma faute](https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0) | [Camille LV](https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is) | [Pourquoi c'est ma faute](https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a) | 2:26 | 2025-11-13 | 2026-02-06 |
 | [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 | 2025-06-05 | 2025-09-19 |
 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 | 2025-12-04 | 2026-03-13 |
+| [Princesse de la nuit](https://open.spotify.com/track/75qwPX1KWjKBA6oMN4msvO) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Princesse de la nuit](https://open.spotify.com/album/1wWpr7rUvnhihjJTaxu8sR) | 3:30 | 2026-03-16 |  |
 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 | 2025-11-06 | 2026-02-13 |
 | [Prêt à t'aimer](https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:17 | 2026-01-22 |  |
 | [Puzzle](https://open.spotify.com/track/64CmepzkypgxrWLhbkB27E) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [PAULISE + PUZZLE](https://open.spotify.com/album/0NVSvL5BYQwQsoAZ3vOB8h) | 2:35 | 2025-06-05 | 2025-09-19 |

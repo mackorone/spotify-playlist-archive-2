@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Fran Palermo",
-  "num_followers": 16333,
+  "num_followers": 16331,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "Most",
+        "url": "https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Minden mozog",
+      "url": "https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "Harmadnap",
         "url": "https://open.spotify.com/album/2LzIw0PoK0K7UtcqUGkyXy"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 156633,
       "name": "Cricket",
       "url": "https://open.spotify.com/track/3jnSu7TBVVyF1Ptbpn0kLr"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "Most",
-        "url": "https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Minden mozog",
-      "url": "https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Elsz\u00e1lln\u00e9k",
         "url": "https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM"
       },
@@ -407,22 +391,34 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Vadnyugati",
-        "url": "https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O"
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
       },
       "artists": [
         {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        },
-        {
-          "name": "Sisi",
-          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
         }
       ],
-      "duration_ms": 202065,
-      "name": "Vadnyugati",
-      "url": "https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn"
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Nem Ismerlek",
+        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Nem Ismerlek",
+      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -447,18 +443,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Nem Ismerlek",
-        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
+        "name": "Vadnyugati",
+        "url": "https://open.spotify.com/album/2HOkcyEGG8wrf8bGrLdj1O"
       },
       "artists": [
         {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
+        },
+        {
+          "name": "Sisi",
+          "url": "https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Nem Ismerlek",
-      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
+      "duration_ms": 202065,
+      "name": "Vadnyugati",
+      "url": "https://open.spotify.com/track/5oPCKEKVVbcu7WwvLr5Lrn"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -535,46 +535,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "\u00c9n is f\u00e9lek",
-        "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
-      },
-      "artists": [
-        {
-          "name": "Kolorblind",
-          "url": "https://open.spotify.com/artist/0MJE8yUFWSm0CKTNpyQxC7"
-        },
-        {
-          "name": "Kaso",
-          "url": "https://open.spotify.com/artist/77yddv24Aji53c4ay4TmEg"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "\u00c9n is f\u00e9lek",
-      "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "mindig szomor\u00fa",
-        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        },
-        {
-          "name": "Bark\u00f3czi No\u00e9mi",
-          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "mindig szomor\u00fa",
-      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Sehovaval\u00f3",
         "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
       },
@@ -591,6 +551,42 @@
       "duration_ms": 174529,
       "name": "Sehovaval\u00f3",
       "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Hirtelen m\u00e9ly\u00fcl",
+        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
+      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "\u00c9n is f\u00e9lek",
+        "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
+      },
+      "artists": [
+        {
+          "name": "Kolorblind",
+          "url": "https://open.spotify.com/artist/0MJE8yUFWSm0CKTNpyQxC7"
+        },
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/77yddv24Aji53c4ay4TmEg"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "\u00c9n is f\u00e9lek",
+      "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -643,18 +639,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Hirtelen m\u00e9ly\u00fcl",
-        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
+        "name": "mindig szomor\u00fa",
+        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
       },
       "artists": [
         {
           "name": "cserihanna",
           "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        },
+        {
+          "name": "Bark\u00f3czi No\u00e9mi",
+          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
         }
       ],
-      "duration_ms": 206000,
-      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
-      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
+      "duration_ms": 156000,
+      "name": "mindig szomor\u00fa",
+      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "Portug\u00edzer",
+        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 242899,
+      "name": "Portug\u00edzer",
+      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Portug\u00edzer",
-        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 242899,
-      "name": "Portug\u00edzer",
-      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "Vakrep\u00fcl\u00e9s",
         "url": "https://open.spotify.com/album/3tOAQIYf5zHRuxvg6qaIZ1"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 155000,
       "name": "Vakrep\u00fcl\u00e9s",
       "url": "https://open.spotify.com/track/1AzLHDq6saPBrR9CHyySDs"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "Don't You Hate Yourself?",
-        "url": "https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA"
-      },
-      "artists": [
-        {
-          "name": "Waiting Room",
-          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
-        }
-      ],
-      "duration_ms": 298160,
-      "name": "Don't You Hate Yourself?",
-      "url": "https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -779,6 +763,38 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "Blicc",
+        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 228519,
+      "name": "Blicc",
+      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Don't You Hate Yourself?",
+        "url": "https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA"
+      },
+      "artists": [
+        {
+          "name": "Waiting Room",
+          "url": "https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Don't You Hate Yourself?",
+      "url": "https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "IM\u00c1G\u00d3",
         "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Blicc",
-        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
       },
       "artists": [
         {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 228519,
-      "name": "Blicc",
-      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -827,22 +843,6 @@
       "duration_ms": 163124,
       "name": "LIQUORICE",
       "url": "https://open.spotify.com/track/6idjDMMV9TbJ1GdNLlvbn0"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
+        "name": "M\u00e9g Egyszer",
+        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
       },
       "artists": [
         {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
         }
       ],
-      "duration_ms": 259624,
-      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
+      "duration_ms": 198352,
+      "name": "M\u00e9g Egyszer",
+      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -943,38 +943,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "M\u00e9g Egyszer",
-        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
-      },
-      "artists": [
-        {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "M\u00e9g Egyszer",
-      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "z\u00fagj sz\u00e9l",
-        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "z\u00fagj sz\u00e9l",
-      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "A sz\u00edv vezet",
         "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 166000,
       "name": "A sz\u00edv vezet",
       "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 259624,
+      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "HARD TIMES",
-        "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
-      },
-      "artists": [
-        {
-          "name": "OIEE",
-          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
-        },
-        {
-          "name": "M3NSA",
-          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
-        },
-        {
-          "name": "WaTa",
-          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
-        }
-      ],
-      "duration_ms": 157073,
-      "name": "HARD TIMES",
-      "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "N\u00e1rcisz",
         "url": "https://open.spotify.com/album/2Ds2rjH6PrfQ5c6VTqUqLK"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 179045,
       "name": "Groteszk",
       "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "HARD TIMES",
+        "url": "https://open.spotify.com/album/3OjnXHEZWMHZGha2zdEefx"
+      },
+      "artists": [
+        {
+          "name": "OIEE",
+          "url": "https://open.spotify.com/artist/2ns47ulOmmJQtO0HMIIMUY"
+        },
+        {
+          "name": "M3NSA",
+          "url": "https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s"
+        },
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "duration_ms": 157073,
+      "name": "HARD TIMES",
+      "url": "https://open.spotify.com/track/3XjT8J5nk80BqDWJ4BDhPY"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Hangtalan",
-        "url": "https://open.spotify.com/album/0TOHW1XZNCv2ZVh8ti3Jp2"
+        "name": "\u00c1tv\u00e1ltoz\u00e1s",
+        "url": "https://open.spotify.com/album/6hsZfiC88IGsjbFDVvJLM4"
       },
       "artists": [
         {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+          "name": "Libid\u00f8",
+          "url": "https://open.spotify.com/artist/4otk3zOzEAhKNGKj37wr3i"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Hangtalan",
-      "url": "https://open.spotify.com/track/2ApG7qcERbz1FwHXRBlG7d"
+      "duration_ms": 249660,
+      "name": "\u00c1tv\u00e1ltoz\u00e1s",
+      "url": "https://open.spotify.com/track/4TXdciIVbdeFwUxLC51bPs"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "\u00c1tv\u00e1ltoz\u00e1s",
-        "url": "https://open.spotify.com/album/6hsZfiC88IGsjbFDVvJLM4"
-      },
-      "artists": [
-        {
-          "name": "Libid\u00f8",
-          "url": "https://open.spotify.com/artist/4otk3zOzEAhKNGKj37wr3i"
-        }
-      ],
-      "duration_ms": 249660,
-      "name": "\u00c1tv\u00e1ltoz\u00e1s",
-      "url": "https://open.spotify.com/track/4TXdciIVbdeFwUxLC51bPs"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
         "name": "El\u00e9g a tenger",
         "url": "https://open.spotify.com/album/3jH9vcGnvB41puKiMGSPYT"
       },
@@ -1339,22 +1323,6 @@
       "duration_ms": 207130,
       "name": "El\u00e9g a tenger",
       "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
-    },
-    {
-      "added_at": "2026-03-12 23:00:51",
-      "album": {
-        "name": "Boldog dalok, morbid viccek",
-        "url": "https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 262325,
-      "name": "Boldog dalok, morbid viccek",
-      "url": "https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm"
     },
     {
       "added_at": "2026-03-12 23:00:51",
@@ -1383,6 +1351,38 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
+        "name": "Hangtalan",
+        "url": "https://open.spotify.com/album/0TOHW1XZNCv2ZVh8ti3Jp2"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Hangtalan",
+      "url": "https://open.spotify.com/track/2ApG7qcERbz1FwHXRBlG7d"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
+        "name": "Boldog dalok, morbid viccek",
+        "url": "https://open.spotify.com/album/3FAwO96EjgVHpOmSy7VSIB"
+      },
+      "artists": [
+        {
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
+        }
+      ],
+      "duration_ms": 262325,
+      "name": "Boldog dalok, morbid viccek",
+      "url": "https://open.spotify.com/track/4bIQoFVMAF8tuDYsgw7Skm"
+    },
+    {
+      "added_at": "2026-03-12 23:00:51",
+      "album": {
         "name": "Vigy\u00e9l El",
         "url": "https://open.spotify.com/album/3S3EN7NKtH4Rdr3iujU3ZT"
       },
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2026-03-12 23:00:51",
       "album": {
-        "name": "Aludn\u00e9k (de nem lehet)",
-        "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
       },
       "artists": [
         {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Aludn\u00e9k (de nem lehet)",
-      "url": "https://open.spotify.com/track/0lZZSC7y64zbFqY8WnPLB3"
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
     }
   ],
   "unique_name": "Nemazapop",

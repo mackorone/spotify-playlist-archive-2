@@ -10889,6 +10889,32 @@
     },
     {
       "album": {
+        "name": "YORU",
+        "url": "https://open.spotify.com/album/46NnC6qj5SlVbqMPFoeQQs"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Vestre",
+          "url": "https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb"
+        },
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "MENTIRNOS HOY",
+      "url": "https://open.spotify.com/track/0zkSyPNlEyKQetyLi4Plxb"
+    },
+    {
+      "album": {
         "name": "888",
         "url": "https://open.spotify.com/album/0hCvcso6vh9KuWSRivWxyf"
       },
@@ -19014,7 +19040,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 192942,
       "name": "Y Yo Que Pensaba",
       "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"

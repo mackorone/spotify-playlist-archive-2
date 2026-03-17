@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88922,
+  "num_followers": 88919,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "fangirl",
+        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
+      },
+      "artists": [
+        {
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "the cutest pair",
+      "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "worst behaviour (feat. Kehlani)",
         "url": "https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "fangirl",
-        "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "the cutest pair",
-      "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 205265,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219434,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 205265,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u97f3\u30bf\u30a4\u30e0",
-        "url": "https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
-      "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u3084\u3055\u3057\u3044\u307e\u307e\u3067",
         "url": "https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM"
       },
@@ -907,34 +891,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+        "name": "\u97f3\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/2AJ11za80PqR38iFiWU2VW"
       },
       "artists": [
         {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Too Good to be True",
-        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+      "duration_ms": 277293,
+      "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
+      "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -955,6 +923,38 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "muscle memory",
         "url": "https://open.spotify.com/album/15tRnZHIJ2Cv2fdZ5FgzSJ"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 201375,
       "name": "muscle memory",
       "url": "https://open.spotify.com/track/33Otu6ABPu5qc0vApuX6wJ"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "the gates",
-        "url": "https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu"
-      },
-      "artists": [
-        {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
-        }
-      ],
-      "duration_ms": 262285,
-      "name": "Midsummer Mansion",
-      "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Late summer waves",
-        "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
+        "name": "the gates",
+        "url": "https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 155242,
-      "name": "Late summer waves",
-      "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
+      "duration_ms": 262285,
+      "name": "Midsummer Mansion",
+      "url": "https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1031,6 +1015,22 @@
       "duration_ms": 202184,
       "name": "\u3070\u3089\u3070\u3089",
       "url": "https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Late summer waves",
+        "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 155242,
+      "name": "Late summer waves",
+      "url": "https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1115,18 +1115,26 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Call It A Day",
-        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j"
       },
       "artists": [
         {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+          "name": "idom",
+          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
+        },
+        {
+          "name": "peko",
+          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
         }
       ],
-      "duration_ms": 176986,
-      "name": "Call It A Day",
-      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
+      "duration_ms": 204119,
+      "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1163,26 +1171,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j"
+        "name": "Call It A Day",
+        "url": "https://open.spotify.com/album/11HIro0GtIxoeysAULtuU2"
       },
       "artists": [
         {
-          "name": "idom",
-          "url": "https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx"
-        },
-        {
-          "name": "peko",
-          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
-        },
-        {
-          "name": "Mamiko Suzuki",
-          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
         }
       ],
-      "duration_ms": 204119,
-      "name": "\u3042\u306a\u305f\u3092\u611b\u3059\u308b\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N"
+      "duration_ms": 176986,
+      "name": "Call It A Day",
+      "url": "https://open.spotify.com/track/3zhnjPBOuz6cVC4te4PY7G"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW"
-      },
-      "artists": [
-        {
-          "name": "TY:DEL",
-          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
-        }
-      ],
-      "duration_ms": 164050,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        }
+      ],
+      "duration_ms": 164050,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx"
     },
     {
       "added_at": "2026-02-19 15:16:11",

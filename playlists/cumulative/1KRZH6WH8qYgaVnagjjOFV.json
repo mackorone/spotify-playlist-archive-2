@@ -238,7 +238,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 266822,
       "name": "All This In A Name",
       "url": "https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 197689,
       "name": "Calvary's Enough",
       "url": "https://open.spotify.com/track/2nvTbUn32EyCE4gVS2NXQd"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 211600,
       "name": "Christ In Me",
       "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 171067,
       "name": "EMPTY THREATS",
       "url": "https://open.spotify.com/track/4EJYP92P930plei6Y6oJ7g"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 219426,
       "name": "Fake Fix",
       "url": "https://open.spotify.com/track/1ISjPzPrfa4GTrf6tznM0k"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 324876,
       "name": "glued to you",
       "url": "https://open.spotify.com/track/30rmsB7KZDQ05ZhIfvWszx"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 216346,
       "name": "God Of My Restoration",
       "url": "https://open.spotify.com/track/3iCdTATf6K7ZN16DQlxKQD"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 236653,
       "name": "Heaven Closes Doors",
       "url": "https://open.spotify.com/track/7yTYVKL2PQyihocreC32hJ"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 190506,
       "name": "Hold Your Horses",
       "url": "https://open.spotify.com/track/4kalM0AOxmSfuAKYs64O7V"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 138946,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/278oT0aaxxijjC6N37EOYH"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 380865,
       "name": "Jesus Is My Healer - Live",
       "url": "https://open.spotify.com/track/64lpvAKODicWTWXFFVCkuC"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 372736,
       "name": "Overflow - Live",
       "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
@@ -2678,7 +2678,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 200986,
       "name": "Sound Of Heaven",
       "url": "https://open.spotify.com/track/6drDEHrFUutQCSXpW6ApcF"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 236799,
       "name": "The Joy - Studio Version",
       "url": "https://open.spotify.com/track/6VDHBVXR8CBH1Ef2sJMTp2"
@@ -3231,6 +3231,24 @@
     },
     {
       "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/4CdYApuFfFvZoVoIfY3IWH"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/0q73rWQ84M1CszFeWxCGIv"
+    },
+    {
+      "album": {
         "name": "Undefeated Champion",
         "url": "https://open.spotify.com/album/2ie7TxOMcgBVu6v0OhzhD3"
       },
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 460209,
       "name": "Up To Something - Live",
       "url": "https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6"
@@ -3298,7 +3316,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 199480,
       "name": "wannabe",
       "url": "https://open.spotify.com/track/4D7RnTd7BfhdI81RodpDC6"
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 121225,
       "name": "WITH ME",
       "url": "https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0"

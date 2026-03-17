@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,254 songs - 3 day 3 hr 4 min
+1,255 songs - 3 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,7 @@
 | [Lisbon](https://open.spotify.com/track/0teGeggE4isvrjIsTJ17vY) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Lisbon](https://open.spotify.com/album/6WLfFIWuYJNJy6LoxLRnGL) | 3:11 | 2021-12-17 | 2022-03-12 |
 | [Little Pieces](https://open.spotify.com/track/21C2aEhXEdso5iOsLGFKL7) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Little Pieces](https://open.spotify.com/album/17obxDQCInibRahprDVLHi) | 4:27 | 2021-12-17 | 2023-02-25 |
 | [Live For Tonight \- Scorz Remix](https://open.spotify.com/track/4RHFjle9srlZWXn7mjEpcj) | [Super8 & Tab](https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Live For Tonight \(Scorz Remix\)](https://open.spotify.com/album/0fEYcXAlwni1fUkT6v7LAr) | 2:40 | 2021-12-17 | 2023-01-14 |
-| [Live Forever](https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y) | [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Live Forever](https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6) | 2:56 | 2026-02-13 |  |
+| [Live Forever](https://open.spotify.com/track/3IO2i18iLklayyLyRY1T3y) | [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Live Forever](https://open.spotify.com/album/3gVgIjc3A4v1O75QDH2Cr6) | 2:56 | 2026-02-13 | 2026-03-17 |
 | [Lockdown Heart](https://open.spotify.com/track/1h4veLWNE7ICl6cgSiBFOn) | [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [Lockdown Heart](https://open.spotify.com/album/7GBUwO9gG4F1PV1j7dC7Cv) | 3:30 | 2022-04-01 | 2022-05-22 |
 | [Lone Wolf](https://open.spotify.com/track/2jbKdQmXdOg8CATVQfZYOR) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3) | [Brave Game / Lone Wolf](https://open.spotify.com/album/5xguNCAC1chhbCkf9r69HK) | 2:56 | 2022-12-02 | 2024-02-17 |
 | [Lonely Soul \- Radio Edit](https://open.spotify.com/track/33dzDNwMRgVUNmGRPCy4Hx) | [Eugenio Tokarev](https://open.spotify.com/artist/0ExSQUT5mJ2vFIBe7GqLM4), [Beatsole](https://open.spotify.com/artist/6Gs2jNsD9XkEYUJZOSx4qk), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [Lonely Soul](https://open.spotify.com/album/6o1ysH7IGH6xu1EOIsV0bp) | 3:18 | 2022-06-24 | 2022-07-20 |
@@ -1226,6 +1226,7 @@
 | [Whispers In The Wind](https://open.spotify.com/track/3asVxIgShLAyWHTlH2qWb6) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Whispers In The Wind](https://open.spotify.com/album/30gO6VzRNRC8rnEWCbi7rh) | 3:53 | 2026-02-27 |  |
 | [Who We Are](https://open.spotify.com/track/5vcuyY3EZgQEhLEx6fmYHM) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Who We Are](https://open.spotify.com/album/1AiMqouP0qfLTho7pADxB8) | 3:37 | 2025-03-07 | 2026-03-13 |
 | [Who We'd Become](https://open.spotify.com/track/3k6JT9da01bKXGpnOaq1c4) | [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m), [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF), [HEL:BRG](https://open.spotify.com/artist/2vk6a5l8B9XenS7lT11MBn) | [Who We’d Become](https://open.spotify.com/album/4trihYW8MiEdqVS4e4dRtx) | 2:34 | 2025-11-14 | 2026-02-07 |
+| [Who You Are](https://open.spotify.com/track/6eb8m9i9YfjdyqiOOrgXCR) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF), [MIDI Kittyy](https://open.spotify.com/artist/0MskAXm9cAVHMKcrBziwV4) | [Who You Are](https://open.spotify.com/album/5VWET59iP5mSb7FXmI7f7j) | 3:52 | 2026-03-13 |  |
 | [Wild](https://open.spotify.com/track/3HqLxp1nKXY4fvEtygeMs8) | [Corti Organ](https://open.spotify.com/artist/0v0dCyLQpm5BcEL90AcnBK), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Wild](https://open.spotify.com/album/5g2JIRVzcup6v0bBerFAsE) | 3:29 | 2021-12-17 | 2022-02-26 |
 | [Wild Horse \- Siskin Remix](https://open.spotify.com/track/60wkt69A8u9171nbyTg4gV) | [John Askew](https://open.spotify.com/artist/5FU0TptmBpDFgDU14zm28J), [Shelby Merry](https://open.spotify.com/artist/4DJi6jgWrFlxw7HnRqznmd), [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Wild Horse \(Siskin Remix\)](https://open.spotify.com/album/4DiN78ngbYr9DH0yPu4omM) | 3:24 | 2024-08-30 | 2025-08-30 |
 | [Wisdom](https://open.spotify.com/track/2DvWAEYEcBaWrSfSuS7wrO) | [Fisherman](https://open.spotify.com/artist/0vykncECxuxH5RqOMt6IIg) | [Wisdom](https://open.spotify.com/album/0Drl2JQxpMQGR2gRmIF9Kj) | 2:59 | 2023-05-19 | 2024-02-17 |

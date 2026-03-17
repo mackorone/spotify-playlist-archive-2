@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-571 songs - 1 day 10 hr 5 min
+572 songs - 1 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Face au vent](https://open.spotify.com/track/6gEEboylX8e3SUJ8mdzaUC) | [Auguste](https://open.spotify.com/artist/6KjWnF2bNLjmboG1B1Ntp8) | [La rouille se pose sur nos corps](https://open.spotify.com/album/5ic0X41GEw5u3M1yUbfc2p) | 3:35 | 2021-01-15 | 2021-11-13 |
 | [Faire semblant](https://open.spotify.com/track/5kdf58kpcfNTZL6m6cSTEo) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Faire semblant](https://open.spotify.com/album/5Cu3tXyCTDUa13HMajeggp) | 3:36 | 2021-07-10 | 2021-11-13 |
 | [Falaise de malaise](https://open.spotify.com/track/0Vgi5K94psHDQEfYWfkTje) | [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Falaise de malaise](https://open.spotify.com/album/3HI9GAaoFVfIm08lICX6Rm) | 3:24 | 2021-08-11 | 2021-10-01 |
+| [Famli](https://open.spotify.com/track/6Y1NRc6kTcFEQgBrEFuI0p) | [Rémi Cormier](https://open.spotify.com/artist/1ij0jiHOjNtH6lNBNaPgst) | [Rich State of Mind](https://open.spotify.com/album/43LSMTpns1t568D80YOTFQ) | 2:58 | 2026-03-13 |  |
 | [Fatal Line](https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Fatal Line](https://open.spotify.com/album/02389joKGpQeSgbeMocOI2) | 3:01 | 2022-03-11 | 2022-04-16 |
 | [Father Time](https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Father Time](https://open.spotify.com/album/1YC0JBMSbLwt2d62Vw1C3D) | 3:03 | 2025-08-21 | 2025-10-26 |
 | [Feeling Like A Plant](https://open.spotify.com/track/3oabWSuwImdNajR9s46Sdu) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Feeling Like A Plant](https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5) | 2:59 | 2023-07-14 | 2024-07-06 |
@@ -480,7 +481,7 @@
 | [Stains](https://open.spotify.com/track/3oSF0S8651gOA0EF8gKhjk) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Stains](https://open.spotify.com/album/5g7kYBupmobmzu8J7ExUjR) | 3:56 | 2022-03-25 | 2023-01-17 |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 | 2025-02-17 |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-01-21 | 2026-03-09 |
-| [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 | 2026-03-12 |
+| [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 |  |
 | [Sycomore](https://open.spotify.com/track/6fu86kCRpRGMPSgaDrWh8J) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Bras solaires](https://open.spotify.com/album/1TXUlko1ECf7npkQfsgZCo) | 2:37 | 2025-11-14 | 2025-12-20 |
 | [T'aimer est si beau](https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [T'aimer est si beau](https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet) | 7:33 | 2021-06-20 | 2022-01-29 |
 | [Ta robe](https://open.spotify.com/track/0dHKe4bAv3HsL4hVLSzUOH) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Ta robe](https://open.spotify.com/album/3xYtKjDMC9AbC3A2BtE6mt) | 3:29 | 2021-01-03\* | 2021-09-29 |
@@ -502,7 +503,7 @@
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 | 2024-08-27 |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2021-10-09 | 2025-04-05 |
 | [The Wandering](https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Wandering](https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW) | 3:20 | 2025-06-20 |  |
-| [They will draw halos around our heads](https://open.spotify.com/track/7F8SoTEmJwIo02xe6BCDfJ) | [Common Holly](https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk) | [They will draw halos around our heads](https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST) | 3:25 | 2026-02-27 |  |
+| [They will draw halos around our heads](https://open.spotify.com/track/7F8SoTEmJwIo02xe6BCDfJ) | [Common Holly](https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk) | [They will draw halos around our heads](https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST) | 3:25 | 2026-02-27 | 2026-03-17 |
 | [Those Years When Everything Changed](https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI) | [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [Those Years When Everything Changed](https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM) | 3:10 | 2026-01-30 |  |
 | [Toi pis moi pis c'est tout](https://open.spotify.com/track/5tOAwNMGpEPxFhgdcA40jb) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Toi pis moi pis c'est tout](https://open.spotify.com/album/2vDpAshyPeS95oGebMAI8g) | 3:28 | 2021-01-03\* | 2021-01-25 |
 | [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-09-24 |
@@ -568,7 +569,7 @@
 | [You Turned the Tables on Me](https://open.spotify.com/track/5I8hJGC9av0vwixbnP9G9P) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [You Turned the Tables on Me](https://open.spotify.com/album/10vEhaXhvSrI1o6xxCyjM2) | 4:40 | 2025-12-05 | 2026-02-20 |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-30 | 2022-12-02 |
 | [À l'aube de nous](https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD) | [Amelie Mandeville](https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0) | [À l'aube de nous](https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq) | 3:13 | 2021-01-15 | 2022-07-28 |
-| [À l'ombre dans le désert](https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Après, on va où?](https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F) | 3:13 | 2025-10-31 |  |
+| [À l'ombre dans le désert](https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Après, on va où?](https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F) | 3:13 | 2025-10-31 | 2026-03-17 |
 | [À l’ammoniaque / Mon dieu](https://open.spotify.com/track/6sfTa15xpNajQL1Mb1asik) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [À l’ammoniaque / Mon dieu](https://open.spotify.com/album/7MdUj0L6QOrQbD9hzfp6st) | 3:17 | 2021-01-03\* | 2021-02-25 |
 | [À toi](https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [À toi](https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1) | 4:24 | 2025-10-24 |  |
 | [À travers mes yeux](https://open.spotify.com/track/6IaStSELLqTeLEdl7RPqQZ) | [Geneviève et Alain](https://open.spotify.com/artist/6coTzew0su1zZilZlwA7vX) | [À travers mes yeux](https://open.spotify.com/album/1qx0TPUcHXP5da8FQK5OFh) | 3:24 | 2021-05-04 | 2022-07-29 |

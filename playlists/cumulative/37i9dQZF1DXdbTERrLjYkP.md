@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Emyrson Flora
 
-1,028 songs - 2 day 7 hr 22 min
+1,029 songs - 2 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [placeholder](https://open.spotify.com/track/0P81XsLbHOGPMzTwMtmxfP) | [Julia Minichiello](https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS) | [placeholder](https://open.spotify.com/album/5wIu0AYkYEuZ1tKg9PFsUd) | 3:35 | 2025-04-11 | 2025-07-19 |
 | [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-01-27 | 2023-04-15 |
 | [Please Don't Hate Me](https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Please Don't Hate Me](https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn) | 3:21 | 2026-01-16 |  |
+| [Please, Don't Wake Me](https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Please, Don't Wake Me](https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA) | 3:39 | 2026-03-17 |  |
 | [poison](https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [poison](https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F) | 2:48 | 2023-07-14 | 2023-11-11 |
 | [Pools and Palm Trees](https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Pools and Palm Trees](https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi) | 3:06 | 2023-08-11 | 2023-12-23 |
 | [Porn Star](https://open.spotify.com/track/3gb6mXrHtMgHV6XDgFXb60) | [Sydney Ross Mitchell](https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr) | [Porn Star](https://open.spotify.com/album/50sODBepKvtl2xsK5ni7wU) | 2:34 | 2024-01-05 | 2024-08-10 |
@@ -965,7 +966,7 @@
 | [Walking Away](https://open.spotify.com/track/6GF5a1ZWg9fsw6jRrpC4f7) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [Walking Away](https://open.spotify.com/album/0JTw9uMWhOFPMR84gM2LJ2) | 3:07 | 2023-01-20 | 2023-03-11 |
 | [walls](https://open.spotify.com/track/4akNSMJJApwqhQvxJ3sKDn) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [character development](https://open.spotify.com/album/1iDSHw06ezCVkshMS9IHTj) | 0:55 | 2023-06-16 | 2023-11-11 |
 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 | 2025-03-14 | 2025-05-10 |
-| [wasted potential](https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [wasted potential](https://open.spotify.com/album/3wNynNrLA99yCegtnhnC3u) | 3:31 | 2025-10-17 |  |
+| [wasted potential](https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [wasted potential](https://open.spotify.com/album/3wNynNrLA99yCegtnhnC3u) | 3:31 | 2025-10-17 | 2026-03-17 |
 | [Watching the Moon](https://open.spotify.com/track/2wdxWnALQ3ub0mnPNGBBVr) | [Holden Miller](https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG) | [Watching the Moon](https://open.spotify.com/album/1DGfDkUJyyyo90vRAHnySI) | 3:53 | 2022-11-04 | 2022-12-24 |
 | [Watching TV](https://open.spotify.com/track/7fAn052aR5ah3RvrANPEQd) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Watching TV](https://open.spotify.com/album/2AMv7OLRdtbifINJFTpRuD) | 2:40 | 2022-08-19 | 2022-12-24 |
 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 | 2023-09-22 | 2023-12-14 |

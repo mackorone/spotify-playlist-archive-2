@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "595",
+        "url": "https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "595",
+      "url": "https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe"
+    },
+    {
+      "album": {
         "name": "A Cowboy Song",
         "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 259712,
       "name": "An Echo Skips A Name - alternate take",
       "url": "https://open.spotify.com/track/5gdPquNbDKrE6FNpBRYnzL"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 237506,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/4B7Hl5uLoQK4fWfQsk2IIu"
@@ -1960,7 +1978,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 146127,
       "name": "Can't See",
       "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
@@ -2018,6 +2036,24 @@
       "duration_ms": 201906,
       "name": "Can\u2019t Fix Repeaters",
       "url": "https://open.spotify.com/track/79tQAvTMbRJagvWymtCMoR"
+    },
+    {
+      "album": {
+        "name": "Cold Sun",
+        "url": "https://open.spotify.com/album/51bLnxYx9dqHrKUzQak1Ws"
+      },
+      "artists": [
+        {
+          "name": "The Hickey Underworld",
+          "url": "https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185161,
+      "name": "Capt Fragile",
+      "url": "https://open.spotify.com/track/2FH9cN7fZGThneEClXjU5V"
     },
     {
       "album": {
@@ -2667,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/6ICFA94jPuKY8Ad6SDtT8h"
+      },
+      "artists": [
+        {
+          "name": "Wendy Moore",
+          "url": "https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163775,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/2lygHwRyo8pKkvjHg1alsC"
+    },
+    {
+      "album": {
         "name": "Crumbs",
         "url": "https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq"
       },
@@ -2682,6 +2736,24 @@
       "duration_ms": 253346,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz"
+    },
+    {
+      "album": {
+        "name": "Cry About It",
+        "url": "https://open.spotify.com/album/14RUy1Ok244Y3NMj3gcTmQ"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efr Faria",
+          "url": "https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196057,
+      "name": "Cry About It",
+      "url": "https://open.spotify.com/track/6jefLCZQhql1E1toGgfnRT"
     },
     {
       "album": {
@@ -2822,7 +2894,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 278386,
       "name": "Dark Thoughts in Daylight",
       "url": "https://open.spotify.com/track/1MfX1zXwgaVP6JfIIAJ2DM"
@@ -4910,7 +4982,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 170066,
       "name": "Heaven Has No Wings",
       "url": "https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8"
@@ -5832,7 +5904,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 243546,
       "name": "I'm Always On Stage",
       "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
@@ -6048,7 +6120,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 173866,
       "name": "Imaginary world",
       "url": "https://open.spotify.com/track/5Pvs9apPxuhYXXCVzuyQgj"
@@ -6196,6 +6268,24 @@
       "duration_ms": 284314,
       "name": "Into You",
       "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
+    },
+    {
+      "album": {
+        "name": "It's a Beautiful Life",
+        "url": "https://open.spotify.com/album/3QRcvdt81ONo2XUXGhsiU1"
+      },
+      "artists": [
+        {
+          "name": "Francis of Delirium",
+          "url": "https://open.spotify.com/artist/0qrCon6GmV92JY5vNALLif"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191469,
+      "name": "It's a Beautiful Life",
+      "url": "https://open.spotify.com/track/21tZUSahw3fvI7Yfi8RFXK"
     },
     {
       "album": {
@@ -6809,6 +6899,24 @@
     },
     {
       "album": {
+        "name": "Jets",
+        "url": "https://open.spotify.com/album/3dwHqdrcr3h9BXsgGWpZWh"
+      },
+      "artists": [
+        {
+          "name": "Former Resident",
+          "url": "https://open.spotify.com/artist/72ylk6aqGWT3FUhatwZNFS"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158186,
+      "name": "Leila / As I Do",
+      "url": "https://open.spotify.com/track/0fq5Av7QlqXKejYzpZhU5I"
+    },
+    {
+      "album": {
         "name": "Let It Bleed",
         "url": "https://open.spotify.com/album/55EjfL1vVhiZR6upaqE5xd"
       },
@@ -7048,6 +7156,24 @@
       "duration_ms": 159226,
       "name": "Little Something",
       "url": "https://open.spotify.com/track/3PMn2pKbdsAsVpyiNG140r"
+    },
+    {
+      "album": {
+        "name": "Livin' For",
+        "url": "https://open.spotify.com/album/7waKmw79F9XR4PzgxCwzqk"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219103,
+      "name": "Livin' For",
+      "url": "https://open.spotify.com/track/61XPuOp0FkBsucySpjoWVG"
     },
     {
       "album": {
@@ -7728,7 +7854,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 212553,
       "name": "Middle Of The Night",
       "url": "https://open.spotify.com/track/25VAdaht8FERz3lA86V2fv"
@@ -9079,6 +9205,24 @@
     },
     {
       "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290086,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
+    },
+    {
+      "album": {
         "name": "Plant Healing",
         "url": "https://open.spotify.com/album/5oD9VkmU5ZUzEw9Plvovmz"
       },
@@ -9108,7 +9252,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 159117,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/0NtM6uVfhbyn8J23ec8ibs"
@@ -11129,6 +11273,24 @@
     },
     {
       "album": {
+        "name": "Surfin'",
+        "url": "https://open.spotify.com/album/4ZkfSz3NyxUul3sthxrUFv"
+      },
+      "artists": [
+        {
+          "name": "SONS",
+          "url": "https://open.spotify.com/artist/4smQzo74d24VIhwRf5K59S"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119926,
+      "name": "Surfin'",
+      "url": "https://open.spotify.com/track/2c5K25BaMvcGEVovHGMScS"
+    },
+    {
+      "album": {
         "name": "Sweet Fame",
         "url": "https://open.spotify.com/album/3XAtF4x4O83uJGnDOaBjBN"
       },
@@ -12781,6 +12943,24 @@
     },
     {
       "album": {
+        "name": "Unentertained",
+        "url": "https://open.spotify.com/album/5NT77V5OxkhpxTrccrgCM7"
+      },
+      "artists": [
+        {
+          "name": "RubinCarter",
+          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188718,
+      "name": "Unentertained",
+      "url": "https://open.spotify.com/track/0n7bcNXTqDAZ4jIIyZuyY2"
+    },
+    {
+      "album": {
         "name": "HELP(2)",
         "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
       },
@@ -13210,7 +13390,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 319375,
       "name": "Whale Cake",
       "url": "https://open.spotify.com/track/5pXKjNy6mIN4TiGUReicNa"

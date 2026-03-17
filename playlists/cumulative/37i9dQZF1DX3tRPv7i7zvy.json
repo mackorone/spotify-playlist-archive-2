@@ -441,6 +441,32 @@
     },
     {
       "album": {
+        "name": "ORIGIN8A",
+        "url": "https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Mix Master Garzy",
+          "url": "https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "Electric Energy",
+      "url": "https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp"
+    },
+    {
+      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -698,7 +724,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 182265,
       "name": "Goldigga",
       "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
@@ -1007,6 +1033,24 @@
     },
     {
       "album": {
+        "name": "The Hardest - EP",
+        "url": "https://open.spotify.com/album/61kLuB0KVUCE6Rl2ZbFvzB"
+      },
+      "artists": [
+        {
+          "name": "Okese1",
+          "url": "https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144243,
+      "name": "Mhmm",
+      "url": "https://open.spotify.com/track/6ohlaQjkpb0cMzaMF0VWfd"
+    },
+    {
+      "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
       },
@@ -1264,7 +1308,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 148928,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/2FkPTIoTRM5oF0IzqdOp9e"

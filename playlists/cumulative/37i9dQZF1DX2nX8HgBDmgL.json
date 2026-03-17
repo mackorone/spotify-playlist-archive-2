@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Hasan Raheem",
+  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Asim Azhar",
   "name": "Desi Pop",
   "tracks": [
     {
@@ -1631,6 +1631,32 @@
     },
     {
       "album": {
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Da Future",
+          "url": "https://open.spotify.com/artist/0JoJujh7AH388xjwLHe0IR"
+        },
+        {
+          "name": "Virk Andaaz",
+          "url": "https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110125,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
+    },
+    {
+      "album": {
         "name": "My Terrible Mind",
         "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
       },
@@ -2192,7 +2218,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 282739,
       "name": "Faqeeran - Live",
       "url": "https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL"
@@ -2462,7 +2488,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 248888,
       "name": "Get at Me",
       "url": "https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag"
@@ -3962,7 +3988,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 270080,
       "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
       "url": "https://open.spotify.com/track/3lgVAqlhro4HQ6sSPc0n0t"
@@ -4216,6 +4242,24 @@
       "duration_ms": 190000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
+    },
+    {
+      "album": {
+        "name": "Lover Boy <3",
+        "url": "https://open.spotify.com/album/16F4hWxx9Ud5KkiofS4CD8"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146301,
+      "name": "Lover Boy <3",
+      "url": "https://open.spotify.com/track/74cMfUZdryBWBEv9bH4cmP"
     },
     {
       "album": {
@@ -7346,6 +7390,24 @@
       "duration_ms": 192786,
       "name": "THE DON",
       "url": "https://open.spotify.com/track/3KDaxC6gpTu4Ey6DL5YMBQ"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
     },
     {
       "album": {

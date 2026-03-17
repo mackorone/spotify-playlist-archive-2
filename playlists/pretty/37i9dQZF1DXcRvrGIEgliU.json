@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 15067,
+  "num_followers": 15092,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Inbred",
-        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 204317,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "deep in it",
-        "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
+        "name": "Inbred",
+        "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
       },
       "artists": [
         {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        },
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 154862,
-      "name": "deep in it",
-      "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
+      "duration_ms": 204317,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -847,6 +827,26 @@
       "duration_ms": 129599,
       "name": "Go Fuck Yourself",
       "url": "https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "deep in it",
+        "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 154862,
+      "name": "deep in it",
+      "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 157779,
-      "name": "G\u00ebt Busy",
-      "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "nadaaniyan",
         "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 171063,
       "name": "nadaaniyan",
       "url": "https://open.spotify.com/track/3bmsaFp11I9pbicxzlStf3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 157779,
+      "name": "G\u00ebt Busy",
+      "url": "https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Backwards Directions",
-        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 187072,
-      "name": "Backwards Directions",
-      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Backwards Directions",
+        "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 187072,
+      "name": "Backwards Directions",
+      "url": "https://open.spotify.com/track/5vbnQr1tWSSREmcIONIUm9"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Box for Buddy, Box for Star",
         "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 273460,
       "name": "I'm All Fucked Up",
       "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Cat Girls Are Ruining My Life!",
         "url": "https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 97317,
       "name": "Cat Girls Are Ruining My Life!",
       "url": "https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Songs4u",
-        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 206060,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 231000,
       "name": "H O M E",
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Songs4u",
+        "url": "https://open.spotify.com/album/2bLdzrKZaJTEZvoeJPzMxx"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/4ePFBlfwXfrRmUzeCQzWKy"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "I Don't Wanna Lose",
+        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "I Don't Wanna Lose",
-        "url": "https://open.spotify.com/album/44lnoKWe4pQib9vwQPgvHb"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 196352,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tuning In",
         "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
       },
@@ -2219,18 +2203,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
         }
       ],
-      "duration_ms": 172773,
-      "name": "gimme all ur luv",
-      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
+      "duration_ms": 196352,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2247,6 +2231,22 @@
       "duration_ms": 270344,
       "name": "Tired Boy",
       "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 172773,
+      "name": "gimme all ur luv",
+      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "It's fine",
-        "url": "https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y"
-      },
-      "artists": [
-        {
-          "name": "rhyu",
-          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
-        }
-      ],
-      "duration_ms": 305714,
-      "name": "It's fine",
-      "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "THE RUSH",
         "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 130515,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "It's fine",
+        "url": "https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "duration_ms": 305714,
+      "name": "It's fine",
+      "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

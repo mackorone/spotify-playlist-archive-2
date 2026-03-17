@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-480 songs - 1 day 4 hr 9 min
+481 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 | 2025-08-28 |  |
 | [Someone Like You \- Edit](https://open.spotify.com/track/3DVJT0b868dYslKZIxg9Hr) | [Drumtap](https://open.spotify.com/artist/1V1aAksj6fIgAJb38CkVuO), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Someone Like You](https://open.spotify.com/album/4GmAszL8jAWcaXvujBTcpF) | 3:52 | 2022-04-11 | 2022-04-18 |
 | [Something](https://open.spotify.com/track/09JK4BIORhSc1xkN73dMUR) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Something](https://open.spotify.com/album/3Zz24I6s4PbLT4nchYbryg) | 3:59 | 2022-04-11 | 2022-04-14 |
-| [Soon We Will Reminisce](https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Soon We Will Reminisce](https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2) | 2:07 | 2025-07-03 |  |
+| [Soon We Will Reminisce](https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Soon We Will Reminisce](https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2) | 2:07 | 2025-07-03 | 2026-03-17 |
 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 | 2021-12-07 | 2024-06-15 |
 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 | 2024-06-14 |  |
 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 | 2023-12-01 |  |
@@ -482,6 +482,7 @@
 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 | 2022-05-06 | 2024-07-14 |
 | [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 | 2021-12-07 | 2022-11-13 |
 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 | 2021-12-07 | 2024-07-19 |
+| [YOU KNOW I'M DOWN](https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [YOU KNOW I'M DOWN](https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6) | 2:24 | 2026-03-13 |  |
 | [You Lose](https://open.spotify.com/track/3wmjDdktkLMElzYPSwJioq) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [You Lose](https://open.spotify.com/album/7bycJdJwYLKIHzov3reXLn) | 3:01 | 2022-04-11 | 2022-04-21 |
 | [You Want Me](https://open.spotify.com/track/4LXCHFzaMJEgEQT877CyeF) | [Leventis](https://open.spotify.com/artist/3F6z7RXCcFGOoeRoPMPAYQ), [Hari](https://open.spotify.com/artist/3CXoOW72D46eDQgIQIPxfU) | [You Want Me](https://open.spotify.com/album/5rs6ip4qCmXyZVvJ9cQCpr) | 3:25 | 2025-12-12 | 2026-03-08 |
 | [You Will Find It](https://open.spotify.com/track/2AoygDLupCmri0iCtEJsGc) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [FaltyDL](https://open.spotify.com/artist/1qykxtFM9KoTti5y3xV1uk), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [You Will Find It](https://open.spotify.com/album/0A8oruLld7zmdVJnh7SATi) | 4:34 | 2022-04-11 | 2022-04-14 |

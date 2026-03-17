@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: georgustav
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,617 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,650 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [gehtsdirwiedergut](https://open.spotify.com/track/76WlAND07jD4Xz3AmDmZUz) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [gehtsdirwiedergut](https://open.spotify.com/album/4p38JVewyr6bpd4VpO6YWq) | 2:51 |
-| 2 | [Am Ende dieses Lieds](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 2:48 |
-| 3 | [Fang](https://open.spotify.com/track/1dqAWyNnLAgXclOUtZMo7e) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [c4rl](https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c) | [Fang](https://open.spotify.com/album/7LmR9LgvcOClvieG7kwkQD) | 2:21 |
-| 4 | [Rave On](https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Rave On](https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f) | 3:15 |
+| 1 | [Am Ende dieses Lieds](https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Am Ende dieses Lieds](https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq) | 2:48 |
+| 2 | [Rave On](https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [Rave On](https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f) | 3:15 |
+| 3 | [gehtsdirwiedergut](https://open.spotify.com/track/76WlAND07jD4Xz3AmDmZUz) | [georgustav](https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo) | [gehtsdirwiedergut](https://open.spotify.com/album/4p38JVewyr6bpd4VpO6YWq) | 2:51 |
+| 4 | [Fang](https://open.spotify.com/track/1dqAWyNnLAgXclOUtZMo7e) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [c4rl](https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c) | [Fang](https://open.spotify.com/album/7LmR9LgvcOClvieG7kwkQD) | 2:21 |
 | 5 | [Männersache](https://open.spotify.com/track/1HBITtBwmz9ZUDekimTnwS) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [Männersache](https://open.spotify.com/album/6em78l04f1OVhKKNZAbAgL) | 2:11 |
-| 6 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
-| 7 | [Die Jugend hat Angst](https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Die Jugend hat Angst](https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h) | 2:33 |
+| 6 | [Die Jugend hat Angst](https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Die Jugend hat Angst](https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h) | 2:33 |
+| 7 | [wieviele Tage](https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wieviele Tage](https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw) | 2:24 |
 | 8 | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/album/1cuITNhAFG8ycP1y2QnXh9) | 2:08 |
 | 9 | [Sieben](https://open.spotify.com/track/119d15hLCKcPHGoWodfokj) | [Taubenraucher](https://open.spotify.com/artist/5S9ZXP1ahpEL15EhanRbKn) | [Sieben](https://open.spotify.com/album/2yZFakWu6zSTO13cFlKOhi) | 4:07 |
-| 10 | [Selfcaretag](https://open.spotify.com/track/3VWCgicSNalOmTOYVGbswf) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Selfcaretag](https://open.spotify.com/album/4M8yLlE6DR7HB1wtnpsICL) | 2:45 |
-| 11 | [frühling](https://open.spotify.com/track/5LdDeKl8JzQ1PfrmmQ1Ui1) | [Florin](https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO) | [frühling](https://open.spotify.com/album/59tOU0MzaRpeoed9IDiDtA) | 2:24 |
+| 10 | [frühling](https://open.spotify.com/track/5LdDeKl8JzQ1PfrmmQ1Ui1) | [Florin](https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO) | [frühling](https://open.spotify.com/album/59tOU0MzaRpeoed9IDiDtA) | 2:24 |
+| 11 | [Selfcaretag](https://open.spotify.com/track/3VWCgicSNalOmTOYVGbswf) | [herr ulrich](https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA) | [Selfcaretag](https://open.spotify.com/album/4M8yLlE6DR7HB1wtnpsICL) | 2:45 |
 | 12 | [alles was ich anfass geht kaputt](https://open.spotify.com/track/23Ib8ciHSKO4Fg6vah51KB) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [alles was ich anfass geht kaputt](https://open.spotify.com/album/2Ec57j1QAf6vYPHZWv50Xb) | 3:51 |
 | 13 | [Fast vergessen](https://open.spotify.com/track/0rnU64SEFpchNbDFlghgqu) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Fast vergessen](https://open.spotify.com/album/17gOHh7o2n0breRqHXvcAT) | 2:37 |
 | 14 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [wen INTERESSIERTS.](https://open.spotify.com/track/7LWjUgzHKlria6VuM3WkFt) | [Laika Allein](https://open.spotify.com/artist/6ZI1Y5HJTs6aomTpuo1eqn), [hansi.media](https://open.spotify.com/artist/6yf1FDnl0JrQCUAHfx2IvP), [Rio Soul](https://open.spotify.com/artist/7iB4kePW3SASn69znn4RQM) | [wen INTERESSIERTS.](https://open.spotify.com/album/4djYXMzlOahgRd72pWoSDY) | 3:04 |
 | 75 | [Taxi](https://open.spotify.com/track/3sD0tTrffeN3xWgzeGD7jy) | [Apollo Online](https://open.spotify.com/artist/6ALnwpfUg70rDgeFH5lvCe) | [Der Weg Sich Teilend](https://open.spotify.com/album/0OmROofHaCJwQtQrVWXsif) | 3:34 |
 
-Snapshot ID: `AAAAAKkNDEOuTpEucdIeTXoJOOUSb+Yu`
+Snapshot ID: `AAAAAAI/PGdSWk8Qv+jgNxMMHvzaUBDZ`

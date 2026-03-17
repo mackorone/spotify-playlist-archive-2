@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Eileen Alister
 
-497 songs - 1 day 1 hr 42 min
+499 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Close To You](https://open.spotify.com/track/7l5Zm7d4veyUk6iHX6QkOW) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Close To You](https://open.spotify.com/album/2AtTsN3JdjAyA6ZTIWROCG) | 2:53 | 2025-05-22 | 2025-06-08 |
 | [closer somehow](https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [closer somehow](https://open.spotify.com/album/3uwgBaJKrPGJTKh7bj0fr0) | 2:46 | 2025-03-21 |  |
 | [Coastline](https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV) | [Shem Thomas](https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw) | [Coastline](https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn) | 2:44 | 2024-10-03 | 2025-10-10 |
+| [Collide](https://open.spotify.com/track/5hNE72rnkzluE0wKrVtt68) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Collide](https://open.spotify.com/album/0moBpPLrXkZ6tgAj26sAR1) | 4:27 | 2026-03-16 |  |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 | 2025-08-01 |
 | [Constellations](https://open.spotify.com/track/1GakQzqEOnzvi5dbPxvrBt) | [Noah Parks](https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p) | [SPOT](https://open.spotify.com/album/0yNivuBBzDNgyRzkq5mEQU) | 2:54 | 2025-09-12 | 2025-10-25 |
 | [Coo Ca Choo](https://open.spotify.com/track/3zoU5ulfZ9SKSnqPwS1LCZ) | [Lovebugs](https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89) | [Coo Ca Choo](https://open.spotify.com/album/2xL4LTdktNIGrYRnYq5cHU) | 3:36 | 2024-12-20 | 2025-02-15 |
@@ -182,7 +183,7 @@
 | [Ha ke Ahnig](https://open.spotify.com/track/0wLBYqQieV6Xr5oqA99LDb) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/1SI16c719Ua8voBc1u5xWc) | 3:22 | 2025-05-08 | 2025-05-16 |
 | [haeb sorg](https://open.spotify.com/track/2T0C6Wb3A1hLYUMBWzsgnh) | [Hotel Samar](https://open.spotify.com/artist/5hTdjvFe6LAe3J1bni2EmD) | [24 LOST](https://open.spotify.com/album/5Ztkfu449nYasWG1z4esui) | 2:05 | 2025-04-24 | 2025-05-02 |
 | [half alive](https://open.spotify.com/track/4D97vUbwdhzXDMQi5fu62d) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bandaids](https://open.spotify.com/album/2rs0D9ZGI8H7Z3PqkqSjWU) | 2:09 | 2024-08-05 | 2024-08-24 |
-| [Hamsterrad Tristesse](https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 3:06 | 2025-11-20 |  |
+| [Hamsterrad Tristesse](https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 3:06 | 2025-11-20 | 2026-03-17 |
 | [Happy Here](https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp) | [Happy Here](https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9) | 2:54 | 2025-03-21 |  |
 | [Haunted House](https://open.spotify.com/track/7v40SKK5kBOHC8mGUh8FuF) | [Miyu Hansen](https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L) | [Haunted House](https://open.spotify.com/album/1HGHMVLD5dLLXJ3OICfvOr) | 3:02 | 2026-02-26 |  |
 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 | 2024-10-18 |  |
@@ -283,6 +284,7 @@
 | [Luftloch](https://open.spotify.com/track/6PvHlKMKbmogZs3KOm9jtR) | [Mau3](https://open.spotify.com/artist/5g8jW8Xvn6etfPsZ820n2F) | [Luftloch](https://open.spotify.com/album/2UTUaDLEiddyHgVMTppNel) | 3:32 | 2025-04-24 | 2025-05-02 |
 | [Luisa](https://open.spotify.com/track/3HO8nhj3GUWcASnhQFO4iO) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Luisa](https://open.spotify.com/album/1JWNb9DGs4uPn4aj2yf8iA) | 3:04 | 2024-12-07 | 2024-12-21 |
 | [Madame Butterfly](https://open.spotify.com/track/09rdE3k9xetZ305UxCwWHG) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Madame Butterfly](https://open.spotify.com/album/6AokA1eA9Y4KiwfxlZdLpM) | 3:26 | 2025-12-18 | 2026-02-06 |
+| [MAGAZINE](https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [MAGAZINE](https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ) | 3:12 | 2026-03-16 |  |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
 | [Magma im Arm](https://open.spotify.com/track/0zceJ1WQOWLmdq2GwJlJ5X) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Zucker fürs Volk](https://open.spotify.com/album/0PGYKp7TN1R957UD1BSpnh) | 5:11 | 2025-05-15 | 2025-05-23 |
 | [MAMA LIEBT MI](https://open.spotify.com/track/0UwsF7FJ7FDX3iD5Vd5yHR) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [DEHEIM DEHEIM](https://open.spotify.com/album/2aOcAezQkKwNon8EbPsDCA) | 3:01 | 2025-04-24 | 2025-05-02 |
@@ -453,7 +455,7 @@
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |
 | [trop tard](https://open.spotify.com/track/7FcgfdaESPyI7MVgItXpob) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [trop tard](https://open.spotify.com/album/4Rhio8XlmhIDdq9CT1fehd) | 2:57 | 2025-07-10 | 2025-07-30 |
 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 | 2025-05-08 | 2025-05-16 |
-| [Type Of Way](https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Type Of Way](https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj) | 3:14 | 2026-02-19 |  |
+| [Type Of Way](https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Type Of Way](https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj) | 3:14 | 2026-02-19 | 2026-03-17 |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2025-09-13 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-15 | 2026-01-31 |

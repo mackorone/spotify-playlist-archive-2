@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 87737,
+  "num_followers": 87748,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Don't Let Me Go",
-        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "Don't Let Me Go",
-      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Death in the Business of Whaling",
-        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 221240,
-      "name": "Geese",
-      "url": "https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN"
+      "duration_ms": 292093,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -895,6 +879,22 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Death in the Business of Whaling",
+        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "Geese",
+      "url": "https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Dearly Missed",
-        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Dearly Missed",
-      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Never Notice",
         "url": "https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 238466,
       "name": "Never Notice",
       "url": "https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Dearly Missed",
+        "url": "https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Dearly Missed",
+      "url": "https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "hands to myself",
-        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 160491,
-      "name": "hands to myself",
-      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "What Are You Thinking Of?",
         "url": "https://open.spotify.com/album/10jbswbbYaJJ3rvvBhNOAH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 198646,
       "name": "What Are You Thinking Of?",
       "url": "https://open.spotify.com/track/1m2fUf7eX7Crq8BHOrUy1L"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "hands to myself",
+        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 160491,
+      "name": "hands to myself",
+      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "I Love Being Wrong",
-        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
-      },
-      "artists": [
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 288812,
-      "name": "I Love Being Wrong",
-      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 257760,
       "name": "Returning To Myself",
       "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "I Love Being Wrong",
+        "url": "https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        }
+      ],
+      "duration_ms": 288812,
+      "name": "I Love Being Wrong",
+      "url": "https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 249069,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2026-03-13 14:26:58",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-13 14:26:58",
       "album": {
-        "name": "Half Immune",
-        "url": "https://open.spotify.com/album/06DJ0AXtRznILSBuqr55Ym"
-      },
-      "artists": [
-        {
-          "name": "Ellie O'Neill",
-          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
-        }
-      ],
-      "duration_ms": 209889,
-      "name": "Half Immune",
-      "url": "https://open.spotify.com/track/201aHKnxkSNe2mYC2Z4KYU"
-    },
-    {
-      "added_at": "2026-03-13 14:26:58",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/5l746yNWWESUlLuveqla2p"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 160013,
       "name": "KISSING",
       "url": "https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P"
+    },
+    {
+      "added_at": "2026-03-13 14:26:58",
+      "album": {
+        "name": "Half Immune",
+        "url": "https://open.spotify.com/album/06DJ0AXtRznILSBuqr55Ym"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "duration_ms": 209889,
+      "name": "Half Immune",
+      "url": "https://open.spotify.com/track/201aHKnxkSNe2mYC2Z4KYU"
     },
     {
       "added_at": "2026-03-13 14:26:58",

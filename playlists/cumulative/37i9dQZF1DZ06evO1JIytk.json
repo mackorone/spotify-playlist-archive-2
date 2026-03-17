@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 259973,
       "name": "Go West",
       "url": "https://open.spotify.com/track/3vAvqk6WWYpMZh7LncjQ5X"
@@ -1532,6 +1532,24 @@
       "duration_ms": 31111,
       "name": "Song for Jesus Christ - Demo 1992",
       "url": "https://open.spotify.com/track/5KnC2asOnAoTsJd1K8zikT"
+    },
+    {
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213800,
+      "name": "Stars And Stripes",
+      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
     },
     {
       "album": {

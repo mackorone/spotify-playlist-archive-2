@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:18 | 2026-01-23 |  |
+| [\(Tragédie\)](https://open.spotify.com/track/4kM7eWoOLqUvz0F8SGyx1V) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [\(Tragédie\)](https://open.spotify.com/album/7H1a4yMzfp9AMKF7cNGRjz) | 3:19 | 2026-01-23 |  |
 | [2 secondes](https://open.spotify.com/track/6tnMkJH1AjBbzUCIewkmG1) | [VINCENT KHOUNI](https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8) | [2 secondes](https://open.spotify.com/album/6TPT4AwjtNLFwrPJMUobfM) | 3:59 | 2026-01-23 |  |
 | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/track/7ncCWM8ZC8XkG7mU9ClBpf) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [2034 \(le soleil tombe sur toi\)](https://open.spotify.com/album/0cBU0AZY9we5Pe93uhgwbz) | 2:52 | 2024-07-19 | 2024-09-14 |
 | [2h15](https://open.spotify.com/track/0JYHRy1wawAjPTox171Rt6) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Symphonie publicitaire sous influence](https://open.spotify.com/album/2TpxfjXkxMIsmpIUeFd6cw) | 2:40 | 2025-10-17 |  |

@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Peter, Paul and Mary",
+        "url": "https://open.spotify.com/album/1cRbbPxFMpHFeYIkLqqzBo"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "500 Miles",
+      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
@@ -1706,6 +1724,32 @@
       "duration_ms": 183000,
       "name": "5STAR",
       "url": "https://open.spotify.com/track/6LCdGUm84yYjpSwOu324FS"
+    },
+    {
+      "album": {
+        "name": "6 Little Eggs",
+        "url": "https://open.spotify.com/album/2AgeiobEyuWA4Q1ZIToOOB"
+      },
+      "artists": [
+        {
+          "name": "New Beat Order",
+          "url": "https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        },
+        {
+          "name": "KROMA",
+          "url": "https://open.spotify.com/artist/2XsKhGOiMsoOmHgckUMpZa"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102666,
+      "name": "6 Little Eggs",
+      "url": "https://open.spotify.com/track/5TKlp6Wjqdi0XjK78jTRAU"
     },
     {
       "album": {
@@ -7434,7 +7478,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 255946,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n"
@@ -15622,6 +15666,24 @@
     {
       "album": {
         "name": "Daj Mi Noc",
+        "url": "https://open.spotify.com/album/4WfSNr4BixYfNqDIzFnolm"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1mDF3XPBpyv3pBiqLbhhVX"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Daj Mi Noc",
+      "url": "https://open.spotify.com/track/7BepFUa2gUXm0IvD7o0cgw"
+    },
+    {
+      "album": {
+        "name": "Daj Mi Noc",
         "url": "https://open.spotify.com/album/3QjPopuPy6oOcK9ijGPqLf"
       },
       "artists": [
@@ -18353,6 +18415,32 @@
     },
     {
       "album": {
+        "name": "DON'T KILL MY VIBE",
+        "url": "https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Fyrla",
+          "url": "https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij"
+        },
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145978,
+      "name": "DON'T KILL MY VIBE",
+      "url": "https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86"
+    },
+    {
+      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
       },
@@ -20030,7 +20118,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -26600,7 +26688,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -31043,6 +31131,24 @@
     },
     {
       "album": {
+        "name": "Housebroken",
+        "url": "https://open.spotify.com/album/04zyrG7cOPLseIoLfiuTIN"
+      },
+      "artists": [
+        {
+          "name": "Aiyana-Lee",
+          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Housebroken",
+      "url": "https://open.spotify.com/track/1SIqYLTRjjZ3dSJCkqR1fK"
+    },
+    {
+      "album": {
         "name": "Dr. Seuss' The Lorax - Original Songs From The Motion Picture",
         "url": "https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5"
       },
@@ -32762,7 +32868,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 276613,
       "name": "I'll Believe in Anything",
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
@@ -34866,6 +34972,24 @@
       "duration_ms": 442305,
       "name": "Jamaican - Original Mix",
       "url": "https://open.spotify.com/track/4AXQk4OdQAONDQyjKYxrxz"
+    },
+    {
+      "album": {
+        "name": "Jane!",
+        "url": "https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5"
+      },
+      "artists": [
+        {
+          "name": "The Long Faces",
+          "url": "https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Jane!",
+      "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
     },
     {
       "album": {
@@ -38088,7 +38212,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 182120,
       "name": "La recette",
       "url": "https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB"
@@ -53630,7 +53754,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -72450,10 +72574,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 94218,
       "name": "Titanium - Edit",
       "url": "https://open.spotify.com/track/1prNVQtYEwhFKGIRF9kLkC"
+    },
+    {
+      "album": {
+        "name": "Titanium (Edit)",
+        "url": "https://open.spotify.com/album/5pghvOPRGZDVmA5Wcwzdbh"
+      },
+      "artists": [
+        {
+          "name": "Lieselotte",
+          "url": "https://open.spotify.com/artist/7CJSBuPqUo0swJoLiabWN2"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94248,
+      "name": "Titanium - Edit",
+      "url": "https://open.spotify.com/track/2y6G29ZrGTsdImvj534sz9"
     },
     {
       "album": {
@@ -73442,7 +73584,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 92365,
       "name": "TRILLIUM HARDTEKK",
       "url": "https://open.spotify.com/track/7hPwUxGo7YgQFFYDynDQwp"
@@ -84012,7 +84154,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 148048,
       "name": "\u041e\u043b\u0430\u0434\u0443\u0448\u043a\u0438",
       "url": "https://open.spotify.com/track/3FMs03deyN1Xk6iP4d5Bsv"

@@ -20769,6 +20769,24 @@
     },
     {
       "album": {
+        "name": "MAGAZINE",
+        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192157,
+      "name": "MAGAZINE",
+      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/5t2ZdRVGR4wlesejFr47qs"
       },

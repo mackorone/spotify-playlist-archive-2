@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
@@ -978,6 +978,24 @@
       "duration_ms": 223853,
       "name": "La Rama Del Mezquite",
       "url": "https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp"
+    },
+    {
+      "album": {
+        "name": "Entre Besos Y Heridas",
+        "url": "https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "La Rama Del Mezquite",
+      "url": "https://open.spotify.com/track/4ZC9RYvr5Qb5C76VJXId63"
     },
     {
       "album": {

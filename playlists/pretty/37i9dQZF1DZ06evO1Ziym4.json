@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1568968,
+  "num_followers": 1569042,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAADZjbOumuNb/n/ttFQh5ayM",
+  "snapshot_id": "abX2gAAAAACmoHbNX2c7FDhRCMM2HNfM",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
+      "duration_ms": 158360,
+      "name": "New Rose",
+      "url": "https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 158360,
-      "name": "New Rose",
-      "url": "https://open.spotify.com/track/3kSsbFBOdaflBNNJkiG1ja"
+      "duration_ms": 208506,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/1AU7nLoyAO170E6V5iZkEM"
     },
     {
       "added_at": null,

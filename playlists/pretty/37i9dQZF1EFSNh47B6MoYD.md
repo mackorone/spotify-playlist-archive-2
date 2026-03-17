@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 63 | [Hazme Tuya](https://open.spotify.com/track/4G7wRyhsbCSgrALMbVEwNP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 4:15 |
 | 64 | [La Ex](https://open.spotify.com/track/5Phi7N5n5Mgt8Uk4DbGKQX) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 2:52 |
 | 65 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 |
-| 66 | [Cheque Al Portador](https://open.spotify.com/track/2N8ZfYVa9wDqoc031CgIV4) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Sólo Faltas Tú](https://open.spotify.com/album/6KOsNhSOI1wYdUVXzzmOHX) | 3:28 |
-| 67 | [Como Hubiera Sido?](https://open.spotify.com/track/362tHCKRvCWmcYEdSsHG1E) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:40 |
+| 66 | [Como Hubiera Sido?](https://open.spotify.com/track/362tHCKRvCWmcYEdSsHG1E) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:40 |
+| 67 | [Cheque Al Portador](https://open.spotify.com/track/2N8ZfYVa9wDqoc031CgIV4) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Sólo Faltas Tú](https://open.spotify.com/album/6KOsNhSOI1wYdUVXzzmOHX) | 3:28 |
 | 68 | [Masoquista \- En Vivo](https://open.spotify.com/track/7FPk7aYGKSTY3J1peYHvQm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 4:01 |
 | 69 | [Hechicera](https://open.spotify.com/track/1KT9yq05mrkWpQYIvC9BAH) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/5kZm448aOkmJal9xbHiwh6) | 3:38 |
 | 70 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 148 | [Don't Give Up](https://open.spotify.com/track/6ARXRdPercoOClawyz2hOi) | [Ana Cristina Cash](https://open.spotify.com/artist/2R6hhNDQT8vBWQgCCmDnK0) | [The Sunshine State](https://open.spotify.com/album/5vkfBiDEnpWdpNqIW7AY37) | 4:14 |
 | 149 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcMOoAAAAACcM12w7rUSnQBxHEmnkMpO`
+Snapshot ID: `AcMUVAAAAADAE0sOmLl+dtOKLdOUEvX4`

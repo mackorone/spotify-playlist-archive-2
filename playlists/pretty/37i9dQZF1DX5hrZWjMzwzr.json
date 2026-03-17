@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj wszystkich nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11550,
+  "num_followers": 11556,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
+        "name": "HOLLYWOOD SMILE",
+        "url": "https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        }
+      ],
+      "duration_ms": 183018,
+      "name": "COWABONGA",
+      "url": "https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
         "name": "szary blok",
         "url": "https://open.spotify.com/album/5KJUjKdVJwKPDpVfXIOm3u"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 170847,
       "name": "szary blok",
       "url": "https://open.spotify.com/track/2EQgBSqIkQ3UvL6GAa2cII"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
-        "name": "HOLLYWOOD SMILE",
-        "url": "https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx"
-      },
-      "artists": [
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        }
-      ],
-      "duration_ms": 183018,
-      "name": "COWABONGA",
-      "url": "https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -811,30 +811,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "Wo\u0142anie",
-        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
-      },
-      "artists": [
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Ajron",
-          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
-        },
-        {
-          "name": "Eldo",
-          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
-        }
-      ],
-      "duration_ms": 192814,
-      "name": "Wo\u0142anie",
-      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "NIE B\u0118D\u0118 ZA NIC PRZEPRASZA\u0106",
         "url": "https://open.spotify.com/album/1BFxG7PJ0ysDn4HAzYwP3f"
       },
@@ -867,18 +843,26 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "Wszystkim Czym Chcesz",
-        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
+        "name": "Wo\u0142anie",
+        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
       },
       "artists": [
         {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Ajron",
+          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
+        },
+        {
+          "name": "Eldo",
+          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
         }
       ],
-      "duration_ms": 74629,
-      "name": "Wszystkim Czym Chcesz",
-      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
+      "duration_ms": 192814,
+      "name": "Wo\u0142anie",
+      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -895,6 +879,22 @@
       "duration_ms": 160990,
       "name": "Lovestory",
       "url": "https://open.spotify.com/track/138nZjrDtHcnJmGjpKgxUV"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "Wszystkim Czym Chcesz",
+        "url": "https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a"
+      },
+      "artists": [
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        }
+      ],
+      "duration_ms": 74629,
+      "name": "Wszystkim Czym Chcesz",
+      "url": "https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh"
     },
     {
       "added_at": "2026-02-25 11:19:16",

@@ -4,7 +4,7 @@
 
 > Music for enjoying your space
 
-597 songs - 1 day 10 hr 32 min
+598 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-12-28 | 2023-01-11 |
 | [Angels & Queens](https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I \(Track by Track\)](https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h) | 3:19 | 2023-01-10 | 2024-02-24 |
 | [Any Better](https://open.spotify.com/track/3caXHCeMrBN1FQOkNjiFGs) | [Dring](https://open.spotify.com/artist/1CXXrFuiErqDFLhQPPPYKt) | [Any Better](https://open.spotify.com/album/29AxANEhm9rcdb8fM6semp) | 2:45 | 2025-08-06 | 2026-01-01 |
-| [Anyone Else](https://open.spotify.com/track/6S3HW9FrOgPBGHoxhjlM5d) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Anyone Else](https://open.spotify.com/album/7bKL77s7GN3ji7S5O1w7Ue) | 4:13 | 2025-12-31 |  |
+| [Anyone Else](https://open.spotify.com/track/6S3HW9FrOgPBGHoxhjlM5d) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Anyone Else](https://open.spotify.com/album/7bKL77s7GN3ji7S5O1w7Ue) | 4:13 | 2025-12-31 | 2026-03-17 |
 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-11-08 |  |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-21 | 2025-06-09 |
 | [Apples And Pears](https://open.spotify.com/track/6jbgySyREi0vZIldoca1n5) | [Canyons](https://open.spotify.com/artist/6At6Ik1YbdxLqFYAJTfEVa) | [The Lovemore Ep](https://open.spotify.com/album/3HzyHHbL1RLPnzusMXFUFl) | 4:55 | 2022-12-28 | 2023-01-11 |
@@ -585,6 +585,7 @@
 | [What Love Is](https://open.spotify.com/track/7x2fnP5eaWfb3izrpm0U6u) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Heaven in a World so Cold](https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj) | 3:14 | 2022-02-14 | 2022-12-28 |
 | [What Matters \(feat\. Simon Neil\)](https://open.spotify.com/track/5IiYO9z0Qa3XVzCXMeA7FR) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Simon Neil](https://open.spotify.com/artist/1bacSIxMGJgKSpuzxRXpiz) | [What Matters \(feat\. Simon Neil\)](https://open.spotify.com/album/1bKuhdfFTWOAk1yYJlW1sw) | 4:08 | 2022-02-14 | 2022-07-29 |
 | [What Sundays Are For](https://open.spotify.com/track/3dAPf3Cs9jaoDmcCrVr6PO) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [What Sundays Are For](https://open.spotify.com/album/7qJPzAhLFJMMKCx34msYf5) | 2:52 | 2024-03-08 | 2024-04-27 |
+| [What You Waiting For](https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What You Waiting For](https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K) | 3:53 | 2026-01-30 |  |
 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 | 2023-01-10 | 2024-07-27 |
 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 | 2022-02-14 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-12-05 |  |

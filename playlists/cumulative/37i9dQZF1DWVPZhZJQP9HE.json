@@ -107,6 +107,36 @@
     },
     {
       "album": {
+        "name": "Aaadhi Mudhal",
+        "url": "https://open.spotify.com/album/5uyIry3UP4UCKGWgE4KNzg"
+      },
+      "artists": [
+        {
+          "name": "Madhu Balakrishnan",
+          "url": "https://open.spotify.com/artist/2qJHWT6Ov9ZZvuQx1h7mNn"
+        },
+        {
+          "name": "Jayakrishnan. J. K",
+          "url": "https://open.spotify.com/artist/35Y9QVQpZigdIJ1yp4iBVc"
+        },
+        {
+          "name": "Jayasree Sunil",
+          "url": "https://open.spotify.com/artist/4AUBFYaQyhi2Yr4f3FERLP"
+        },
+        {
+          "name": "Sajini Krishna",
+          "url": "https://open.spotify.com/artist/2COv83cvEPoL0a22971Wxn"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318386,
+      "name": "Aaadhi Mudhal",
+      "url": "https://open.spotify.com/track/3I43ttuPP9vc3Gix0XmiP5"
+    },
+    {
+      "album": {
         "name": "Aadi Kaathu",
         "url": "https://open.spotify.com/album/7acrjdt5eBNJLeCRs2hpLt"
       },
@@ -6386,7 +6416,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 233600,
       "name": "Karaiyum Kanaavile",
       "url": "https://open.spotify.com/track/7v2jjJhncs2Yhm9ucBuYy5"

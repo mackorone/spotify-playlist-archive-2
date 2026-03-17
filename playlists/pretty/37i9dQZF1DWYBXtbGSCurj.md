@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: MC Cabelinho, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,378 likes - 74 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,397 likes - 74 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
 | 2 | [qcl](https://open.spotify.com/track/0t7lHmhhxJDGuhX8dyeoCq) | [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [XXL](https://open.spotify.com/album/7l7raLom44PryiVdnviwcA) | 2:10 |
-| 3 | [17 Maçã](https://open.spotify.com/track/4eHUHKmSzzrc9tvUlWlVoc) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ) | [17 Maçã](https://open.spotify.com/album/4vMKx2mXh7idU2IGaMBvZI) | 2:44 |
+| 3 | [17 Maçã](https://open.spotify.com/track/4eHUHKmSzzrc9tvUlWlVoc) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ), [MIB](https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q) | [17 Maçã](https://open.spotify.com/album/4vMKx2mXh7idU2IGaMBvZI) | 2:44 |
 | 4 | [drive by](https://open.spotify.com/track/289f3fB3mR8R2ExKicf4TR) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Um Menino Bom](https://open.spotify.com/album/5z2lnD5GH411EpZjeiF1JE) | 2:45 |
 | 5 | [Droga Na Mochila](https://open.spotify.com/track/1lXZq9jTXHLYEcEmMuenso) | [SV](https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh), [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Tega4ever](https://open.spotify.com/artist/2WM1Jexd9NnqbcFTyfzsYK), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj) | [Droga Na Mochila](https://open.spotify.com/album/63srpFzxsE0tcvFo3oRmfl) | 2:33 |
 | 6 | [Gatona](https://open.spotify.com/track/76fCYl86Q3UoMToouTX9zh) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Gatona](https://open.spotify.com/album/5aDgWeJ59qo34iyxUugv1J) | 2:08 |

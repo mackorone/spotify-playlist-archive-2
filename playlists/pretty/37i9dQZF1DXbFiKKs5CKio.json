@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 71755,
+  "num_followers": 71769,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-03-13 19:26:43",
       "album": {
+        "name": "rara e Brasileira",
+        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "duration_ms": 223676,
+      "name": "sinais",
+      "url": "https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd"
+    },
+    {
+      "added_at": "2026-03-13 19:26:43",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -411,26 +431,6 @@
     {
       "added_at": "2026-03-13 19:26:43",
       "album": {
-        "name": "rara e Brasileira",
-        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 223676,
-      "name": "sinais",
-      "url": "https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd"
-    },
-    {
-      "added_at": "2026-03-13 19:26:43",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-03-13 19:26:43",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Sexto Sentido",
+      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
+    },
+    {
+      "added_at": "2026-03-13 19:26:43",
+      "album": {
         "name": "Desalinho",
         "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-03-13 19:26:43",
-      "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/0IRC5eVqNmvnJR5V6JdGRK"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Sexto Sentido",
-      "url": "https://open.spotify.com/track/0y2DFBipQ7BSI8c4IESodm"
     },
     {
       "added_at": "2026-03-13 19:26:43",

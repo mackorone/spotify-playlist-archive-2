@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,512 likes - 65 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,566 likes - 65 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bayé](https://open.spotify.com/track/0sTvjAjroTUWSuFynmkuxV) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Bayé](https://open.spotify.com/album/0hDDfMPbzIApTHUlt5iGVO) | 4:52 |
+| 1 | [Bayé](https://open.spotify.com/track/0sTvjAjroTUWSuFynmkuxV) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Bayé](https://open.spotify.com/album/0hDDfMPbzIApTHUlt5iGVO) | 4:51 |
 | 2 | [Gisenyi](https://open.spotify.com/track/7HRjMcy76vtQWw3knEcv0j) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M) | [Gisenyi](https://open.spotify.com/album/5VqNyuPZcnEtduBGMNey05) | 4:19 |
 | 3 | [Flair](https://open.spotify.com/track/4JehnCDNmDN5sPjdstrdKI) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Flair](https://open.spotify.com/album/3XblzHRdDhDp2JBYLaDeXU) | 3:52 |
 | 4 | [Chanji](https://open.spotify.com/track/0JWNZUUdtsve3VvAVNgqcx) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Chanji](https://open.spotify.com/album/1hIhXKDt6u9KHEI6oIfLr4) | 3:36 |

@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Bartofso
 
-1,673 songs - 3 day 2 hr 20 min
+1,674 songs - 3 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@
 | [DINGDONG](https://open.spotify.com/track/3YrJC0tty5lQ8CRlojaOQJ) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [DINGDONG](https://open.spotify.com/album/4hMKGx2GmVJv5XIGoH1OUM) | 1:47 | 2025-04-17 | 2025-06-20 |
 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 | 2023-09-14 | 2023-12-08 |
 | [Dingen Lopen](https://open.spotify.com/track/7JZlqpjLtu1xSNQ25W8XuL) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Dingen Lopen](https://open.spotify.com/album/6vr70WxnNqxoAdpKplE52V) | 2:24 | 2024-07-26 | 2024-10-04 |
-| [Dis\-moi \(feat\. Shenseea\)](https://open.spotify.com/track/2Xv8PNeeu80fyj4kBVGPvp) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:26 | 2025-11-20 |  |
+| [Dis\-moi \(feat\. Shenseea\)](https://open.spotify.com/track/2Xv8PNeeu80fyj4kBVGPvp) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:26 | 2025-11-20 | 2026-03-17 |
 | [Distance](https://open.spotify.com/track/7A2xfq8yrRCsE6fmnpR4aZ) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Distance](https://open.spotify.com/album/6W7SJyTPVIKDxgdzePbgqX) | 3:22 | 2025-01-29 | 2025-04-25 |
 | [DITA](https://open.spotify.com/track/74zIftyUMD0GRoZhlxrJiv) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1) | [DITA](https://open.spotify.com/album/1KeIWgdiWC9CMbGGvp9Ugy) | 2:17 | 2022-09-01 | 2022-09-16 |
 | [Djo](https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 2:47 | 2023-06-01 | 2023-08-16 |
@@ -1418,6 +1418,7 @@
 | [Take Ova](https://open.spotify.com/track/5H6v49Wz8GubdDSW4wmWII) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Jula Fatstash](https://open.spotify.com/artist/3zxfY6NQG388WIeAtLQPH7), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [Take Ova](https://open.spotify.com/album/4QkE0uHQZ3bL58q7NYFkbE) | 2:18 | 2025-11-27 | 2026-02-06 |
 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-06-14 | 2023-07-21 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-20 | 2023-08-25 |
+| [Talk To Me Nuh](https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Talk To Me Nuh](https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S) | 2:06 | 2026-03-16 |  |
 | [Tan2 Bbl](https://open.spotify.com/track/5vVyeYzU5u4ASnkt4wuW4x) | [Vurra](https://open.spotify.com/artist/2Qm7GttqaAhxHCgj1vTUOk), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H) | [Tan2 Bbl](https://open.spotify.com/album/0eOXSEDdb9BcoxTilJmC1V) | 2:06 | 2023-10-26 | 2023-11-17 |
 | [Tanken](https://open.spotify.com/track/783zusul4kG5C4DNIdPhna) | [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP) | [TEMPU](https://open.spotify.com/album/2jkAz6LV1sYkMGiVpBNleO) | 2:26 | 2024-07-26 | 2024-09-13 |
 | [TAPE MEASURE](https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 2:50 | 2022-08-25 | 2022-09-09 |

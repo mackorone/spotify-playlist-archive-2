@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22015,
+  "num_followers": 22012,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tesoros De Coleccion - Libertad Lamarque",
-        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+        "name": "Vos y yo",
+        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        },
+        {
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Tango Negro",
-      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+      "duration_ms": 238852,
+      "name": "Malena",
+      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -367,22 +371,34 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Vos y yo",
-        "url": "https://open.spotify.com/album/7I5aFjFeNdfqWyISjPI2sw"
+        "name": "Tesoros De Coleccion - Libertad Lamarque",
+        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        },
-        {
-          "name": "Leopoldo Federico",
-          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
         }
       ],
-      "duration_ms": 238852,
-      "name": "Malena",
-      "url": "https://open.spotify.com/track/24Reh2d2WR4lwweVsA1xxf"
+      "duration_ms": 178706,
+      "name": "Tango Negro",
+      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Toda Mi Vida",
+        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
+      },
+      "artists": [
+        {
+          "name": "Adriana Varela",
+          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
+        }
+      ],
+      "duration_ms": 248613,
+      "name": "Garganta Con Arena",
+      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -407,34 +423,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
         }
       ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Toda Mi Vida",
-        "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
-      },
-      "artists": [
-        {
-          "name": "Adriana Varela",
-          "url": "https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc"
-        }
-      ],
-      "duration_ms": 248613,
-      "name": "Garganta Con Arena",
-      "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
       },
       "artists": [
         {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -511,26 +511,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
-        "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
+        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
       },
       "artists": [
         {
-          "name": "Azucena Maizani",
-          "url": "https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n"
-        },
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Orestes Cufaro",
-          "url": "https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm"
+          "name": "Ada Falc\u00f3n",
+          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
         }
       ],
-      "duration_ms": 165982,
-      "name": "La canci\u00f3n de Buenos Aires",
-      "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+      "duration_ms": 208426,
+      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -555,18 +547,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-        "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
+        "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
+        "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
       "artists": [
         {
-          "name": "Ada Falc\u00f3n",
-          "url": "https://open.spotify.com/artist/1bshphZh29CbPD7uyWxxk3"
+          "name": "Azucena Maizani",
+          "url": "https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n"
+        },
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Orestes Cufaro",
+          "url": "https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm"
         }
       ],
-      "duration_ms": 208426,
-      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
-      "url": "https://open.spotify.com/track/2yGGl2B3JT1NXdRpxFAZ0Z"
+      "duration_ms": 165982,
+      "name": "La canci\u00f3n de Buenos Aires",
+      "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Temas Pendientes",
+        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
+      },
+      "artists": [
+        {
+          "name": "Malena Muyala",
+          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Mu\u00f1eca Brava",
+      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Ofrenda Gaucha: Valsecito Amigo",
         "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 165637,
       "name": "Rosas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Temas Pendientes",
-        "url": "https://open.spotify.com/album/7dAmJJhKx2p5QCmknLNYlB"
-      },
-      "artists": [
-        {
-          "name": "Malena Muyala",
-          "url": "https://open.spotify.com/artist/2FzZqeOhCeu4Wd1wbPWVP1"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Mu\u00f1eca Brava",
-      "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Susy Leiva - Grandes Exitos -",
-        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
-      },
-      "artists": [
-        {
-          "name": "Susy Leiva",
-          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
-        }
-      ],
-      "duration_ms": 178386,
-      "name": "Che bandoneon",
-      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Esa Mujer: Buenos Aires",
         "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 155293,
       "name": "Madrugada y Soledad",
       "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "Susy Leiva - Grandes Exitos -",
+        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
+      },
+      "artists": [
+        {
+          "name": "Susy Leiva",
+          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
+        }
+      ],
+      "duration_ms": 178386,
+      "name": "Che bandoneon",
+      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
     },
     {
       "added_at": "2024-08-02 17:18:29",

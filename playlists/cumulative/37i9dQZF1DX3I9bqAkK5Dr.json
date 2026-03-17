@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 152917,
       "name": "Chinna Maata",
       "url": "https://open.spotify.com/track/2bH81YXUfeAYpQjCUbsesU"
@@ -4404,6 +4404,28 @@
       "duration_ms": 262736,
       "name": "Manasu",
       "url": "https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe"
+    },
+    {
+      "album": {
+        "name": "Manasu Palike",
+        "url": "https://open.spotify.com/album/2tkDBNmXMkQfDxYhD3MNmy"
+      },
+      "artists": [
+        {
+          "name": "Vijay Ileni",
+          "url": "https://open.spotify.com/artist/7kO1jLBfgLID5nXCjapvzo"
+        },
+        {
+          "name": "Santosh Ileni",
+          "url": "https://open.spotify.com/artist/2Ymo9tKes20gWrIGdWdLPa"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324140,
+      "name": "Manasu Palike",
+      "url": "https://open.spotify.com/track/2DQAW2DSBizw5OartBN6wR"
     },
     {
       "album": {

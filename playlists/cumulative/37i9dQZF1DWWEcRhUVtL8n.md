@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Malcolm Todd
 
-2,330 songs - 5 day 4 hr 3 min
+2,332 songs - 5 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Butterflies](https://open.spotify.com/track/1nUzZ1rxEQBHdxiUL9mj9i) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [The Greatest Hits](https://open.spotify.com/album/0TVzUmZ0PC3iE9Ctpr0XM5) | 3:06 | 2020-10-13\* | 2021-10-12 |
 | [butterflies,](https://open.spotify.com/track/2V9aOl8SmtGh657MjnxSX9) | [Morgan Reese](https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR) | [butterflies,](https://open.spotify.com/album/0wr1UdlxD4zZR7StZUBV3H) | 2:41 | 2022-01-21 | 2022-04-21 |
 | [Buzz](https://open.spotify.com/track/4fLspOxX39tXzHHqrEqTgf) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:55 | 2024-08-09 | 2025-06-18 |
-| [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 |  |
+| [buzzkill](https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL](https://open.spotify.com/album/41oBhRyeuyMHkVdp2LYVJE) | 2:35 | 2025-04-25 | 2026-03-17 |
 | [buzzkill](https://open.spotify.com/track/1xFkcJjWuLlq8CIymwSTw9) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [forever fifteen](https://open.spotify.com/album/3GWDTDhstbhNxfyZJKwqVU) | 2:20 | 2021-03-19 | 2021-10-11 |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-17 | 2022-08-06 |
 | [California](https://open.spotify.com/track/3bwmdeu8SFFPyvyZ7ekshz) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [California](https://open.spotify.com/album/2S7UGA5rk8XmxqKMBQgup2) | 3:18 | 2020-10-20 | 2020-10-21 |
@@ -1615,7 +1615,7 @@
 | [Place Like This](https://open.spotify.com/track/2tTY9mdhOnqW46iRV0Rq8J) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Place Like This](https://open.spotify.com/album/6Tf6xhGbdj49bCGptdMzu0) | 3:39 | 2021-02-25 | 2021-05-27 |
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-24 | 2021-05-27 |
 | [Play](https://open.spotify.com/track/2oxz3JITNBwqNafgHgNZq0) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Play](https://open.spotify.com/album/4hzOeklRpOZNjmwrds8rBP) | 3:28 | 2023-06-30 | 2023-08-16 |
-| [play](https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [play](https://open.spotify.com/album/4qeSsS64ItU3Jk7NZukO1M) | 2:52 | 2025-09-19 |  |
+| [play](https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [play](https://open.spotify.com/album/4qeSsS64ItU3Jk7NZukO1M) | 2:52 | 2025-09-19 | 2026-03-17 |
 | [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 | 2023-09-22 | 2024-01-13 |
 | [Playin' Me Back](https://open.spotify.com/track/0xlsgO2emLkMCn43RmAL4w) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Playin' Me Back](https://open.spotify.com/album/7FGYJNAwHm33pUIl7vOwPo) | 1:49 | 2022-03-18 | 2022-04-12 |
 | [Playlist](https://open.spotify.com/track/0TLtjH5IDsmrZvvPSwB0A6) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc), [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Playlist](https://open.spotify.com/album/19p2ZM4dceuzqmCQUSyecU) | 2:33 | 2021-05-05 | 2022-04-14 |
@@ -1948,6 +1948,7 @@
 | [Strawberry Lemonade](https://open.spotify.com/track/1cUSOt18Y43uL5RMJDrxA2) | [Neptune](https://open.spotify.com/artist/5hmJ3DqZwkYDk0qGHsO14N) | [Strawberry Lemonade](https://open.spotify.com/album/5H525vy6qp579VdthbASUp) | 2:51 | 2021-09-27 | 2022-01-21 |
 | [Strawberry Sunscreen](https://open.spotify.com/track/6uIt9AyMilUMqhjcsDJbyM) | [Lostboycrow](https://open.spotify.com/artist/5PxCTrv3Y1xVACfngpt7D2) | [Strawberry Sunscreen](https://open.spotify.com/album/3lhMJMHvBw0tez72e0jnrs) | 2:09 | 2020-10-13\* | 2022-04-14 |
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-14 | 2022-07-29 |
+| [Strong](https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Strong](https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd) | 2:36 | 2026-03-13 |  |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/0CrPeAu34XUs6Kkc7ND6mH) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/3SIdK8k610Oigb8nRWoe9P) | 2:34 | 2021-08-13 | 2022-04-13 |
 | [Stuck Here Without You](https://open.spotify.com/track/2KmjwOAUJUs7UG1Z1zzoOy) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Stuck Here Without You](https://open.spotify.com/album/1oXM6adtUwiPaKbvHmgqZ2) | 2:07 | 2021-02-22 | 2022-04-12 |
 | [Stuck In A Bubble](https://open.spotify.com/track/1bSJ2FDSYUQHbg4hpnF4Li) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [Stuck In A Bubble](https://open.spotify.com/album/23suzHFs2RSiknQtTOGIJi) | 2:38 | 2020-10-20 | 2020-10-21 |
@@ -2053,6 +2054,7 @@
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-07-23 |
 | [The 90’s](https://open.spotify.com/track/1qBVeDUvXpcGGmJkmjJvPp) | [Ashes To Amber](https://open.spotify.com/artist/1VjLe0p8LUFKPbyKaQZAgu) | [The 90’s](https://open.spotify.com/album/7p3vb3NfnWQka6FtemX3S1) | 2:32 | 2026-03-06 | 2026-03-14 |
 | [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 | 2025-06-13 | 2025-10-25 |
+| [The Biggest Dick](https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [The Biggest Dick](https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy) | 2:43 | 2026-03-13 |  |
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-16 | 2025-06-20 |
 | [The Bug](https://open.spotify.com/track/381x0Ox55JwTU6QTENUWkI) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [The Bug](https://open.spotify.com/album/2A1c0zO7rYkPtlSrEiZTGP) | 3:56 | 2024-04-26 | 2024-06-01 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-09 |

@@ -1,15 +1,63 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20005,
+  "num_followers": 20009,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHT7NMz7+XkFrjMXD7bygnCosEFT",
+  "snapshot_id": "AAAAAOvyULwmYx7y8jMjkeZrsw235oCK",
   "tracks": [
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.10",
+        "url": "https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf"
+      },
+      "artists": [
+        {
+          "name": "dori",
+          "url": "https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Heart Flutter",
+      "url": "https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "We become love",
+        "url": "https://open.spotify.com/album/0jfJccsSMl3BhSckZGpXg2"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "We become love",
+      "url": "https://open.spotify.com/track/0cSNCKbbOfPGazu5edq4rj"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "Lv1",
+        "url": "https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko"
+      },
+      "artists": [
+        {
+          "name": "Yeo Jin",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "My Valentine",
+      "url": "https://open.spotify.com/track/1Z9BgXNJR0TwO1AviUPr58"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Moments That Stayed",
         "url": "https://open.spotify.com/album/2AUS9zCDCkYdlHvHV94AVa"
@@ -41,59 +89,7 @@
       "url": "https://open.spotify.com/track/1bnxyxbTnr8B88Nto0jf34"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "Our Universe (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/20qxk3NaT0mWDfi8wDdPsG"
-      },
-      "artists": [
-        {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Wanna Be With You",
-      "url": "https://open.spotify.com/track/4b8XM14Oac76OIQLQ252iU"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "Too Good To Be True",
-        "url": "https://open.spotify.com/album/5nAmjUUat7XTxYBhYJYMON"
-      },
-      "artists": [
-        {
-          "name": "Kayla",
-          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
-        },
-        {
-          "name": "sam ock",
-          "url": "https://open.spotify.com/artist/5961esVPvWEME09TR0ZWVK"
-        }
-      ],
-      "duration_ms": 205999,
-      "name": "Too Good To Be True",
-      "url": "https://open.spotify.com/track/4EGyXfoOUSwA6rDVvbCuTI"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "Our Universe (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/0mSvhciNZZou7S0a1xkWd5"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Luv U",
-      "url": "https://open.spotify.com/track/5T1pvo7hV4jo6iZ9gf7u0H"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "PLBBUU",
         "url": "https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ"
@@ -109,7 +105,7 @@
       "url": "https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "BLOSSOM - THE 3RD MINI ALBUM",
         "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
@@ -125,7 +121,7 @@
       "url": "https://open.spotify.com/track/6kxkMrPqppgT3TQjOyhAYk"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
@@ -141,7 +137,7 @@
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Would You Marry Me?, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC"
@@ -157,7 +153,7 @@
       "url": "https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -173,7 +169,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS"
@@ -189,7 +185,7 @@
       "url": "https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "3rd MINI ALBUM [LOVE PULSE]",
         "url": "https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3"
@@ -205,7 +201,7 @@
       "url": "https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
@@ -221,7 +217,7 @@
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
@@ -237,23 +233,7 @@
       "url": "https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "ELSE",
-        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
-      },
-      "artists": [
-        {
-          "name": "Cha Eun-Woo",
-          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
-        }
-      ],
-      "duration_ms": 172899,
-      "name": "Thinkin\u2019 Bout U",
-      "url": "https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd"
@@ -269,7 +249,23 @@
       "url": "https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "ELSE",
+        "url": "https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL"
+      },
+      "artists": [
+        {
+          "name": "Cha Eun-Woo",
+          "url": "https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU"
+        }
+      ],
+      "duration_ms": 172899,
+      "name": "Thinkin\u2019 Bout U",
+      "url": "https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "The Emperor: Owner of the Mask (MBC Drama) OST Part.2",
         "url": "https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY"
@@ -285,7 +281,7 @@
       "url": "https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
         "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
@@ -301,7 +297,7 @@
       "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "gimbap",
         "url": "https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp"
@@ -321,23 +317,7 @@
       "url": "https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "What are we",
-      "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "\uc5f0\uc560 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 OST Part.2",
         "url": "https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt"
@@ -353,7 +333,23 @@
       "url": "https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "Love Next Door, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "What are we",
+      "url": "https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
@@ -373,7 +369,7 @@
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Thought Of You",
         "url": "https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13"
@@ -389,7 +385,7 @@
       "url": "https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "FRR",
         "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
@@ -405,7 +401,7 @@
       "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "TRUST ME",
         "url": "https://open.spotify.com/album/70gdmYJboeL0tXQmYOpWVL"
@@ -421,7 +417,7 @@
       "url": "https://open.spotify.com/track/5dAsiF46QiGmW9BEc2kIYl"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Once a Day",
         "url": "https://open.spotify.com/album/7B17owLQwSzw5jd1Gw4Mdi"
@@ -437,7 +433,7 @@
       "url": "https://open.spotify.com/track/6W4iF5kAqqwKiVwAk3TcN1"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
@@ -453,23 +449,7 @@
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
-        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Plain",
         "url": "https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS"
@@ -485,7 +465,23 @@
       "url": "https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "bimil:ier vol.1 \"so this is love\"",
         "url": "https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM"
@@ -501,7 +497,7 @@
       "url": "https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Second Shot at Love, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Qogl8QWCZhN3E4BYtvosl"
@@ -517,7 +513,7 @@
       "url": "https://open.spotify.com/track/0reriCJCzwM8GBFN6HM3gv"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "GOOD BOY (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv"
@@ -533,7 +529,7 @@
       "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
@@ -549,7 +545,7 @@
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "The 3rd Digital Single `Amazing You'",
         "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
@@ -565,7 +561,7 @@
       "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Tell me you love me",
         "url": "https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2"
@@ -581,7 +577,7 @@
       "url": "https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "YUMI's Cells 2, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN"
@@ -597,7 +593,7 @@
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "We'll shine brighter than any other stars (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv"
@@ -613,7 +609,7 @@
       "url": "https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -637,23 +633,7 @@
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "The Reason - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
-      },
-      "artists": [
-        {
-          "name": "Yim Siwan",
-          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Our Blues, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s"
@@ -669,7 +649,23 @@
       "url": "https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "The Reason - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
+      },
+      "artists": [
+        {
+          "name": "Yim Siwan",
+          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6yL5rrRJmWvfiIboskQ6IG"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
         "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
@@ -685,7 +681,7 @@
       "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Spring Fever, Pt. 8 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5jqqQhTujHEUIHATQ4LDg9"
@@ -701,7 +697,7 @@
       "url": "https://open.spotify.com/track/2RNAIcJixTEHe2k33auTg6"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Ours",
         "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
@@ -717,7 +713,7 @@
       "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
@@ -733,7 +729,7 @@
       "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Our Universe (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I"
@@ -749,7 +745,7 @@
       "url": "https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
         "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
@@ -765,7 +761,27 @@
       "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/5nAmjUUat7XTxYBhYJYMON"
+      },
+      "artists": [
+        {
+          "name": "Kayla",
+          "url": "https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi"
+        },
+        {
+          "name": "sam ock",
+          "url": "https://open.spotify.com/artist/5961esVPvWEME09TR0ZWVK"
+        }
+      ],
+      "duration_ms": 205999,
+      "name": "Too Good To Be True",
+      "url": "https://open.spotify.com/track/4EGyXfoOUSwA6rDVvbCuTI"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "YUMI's Cells 2, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Link: Eat, Love, Kill (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "Our Universe (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "A Korean Odyssey (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP"
@@ -833,55 +849,7 @@
       "url": "https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "LOVE MAZE II",
-        "url": "https://open.spotify.com/album/4lN709Gy6d6f8Mkp2EZSm4"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "PERSONAL COLOR",
-      "url": "https://open.spotify.com/track/5bOabVZOZKfdzquXN6VSQF"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "Law and The City, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
-      },
-      "artists": [
-        {
-          "name": "DOKO",
-          "url": "https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Can i love u?",
-      "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "U",
-      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
@@ -897,7 +865,39 @@
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "U",
+      "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "LOVE MAZE II",
+        "url": "https://open.spotify.com/album/4lN709Gy6d6f8Mkp2EZSm4"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "PERSONAL COLOR",
+      "url": "https://open.spotify.com/track/5bOabVZOZKfdzquXN6VSQF"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
@@ -913,7 +913,39 @@
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "Law and The City, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3kCelYZb943ElkmLIctqol"
+      },
+      "artists": [
+        {
+          "name": "DOKO",
+          "url": "https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Can i love u?",
+      "url": "https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/0mSvhciNZZou7S0a1xkWd5"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Luv U",
+      "url": "https://open.spotify.com/track/5T1pvo7hV4jo6iZ9gf7u0H"
+    },
+    {
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "LOVE PLAYLIST 4 Part.1",
         "url": "https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5"
@@ -929,23 +961,7 @@
       "url": "https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "What Love Is (Positively Yours X Huh Gak) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F"
-      },
-      "artists": [
-        {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
         "name": "My Youth (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H"
@@ -961,36 +977,20 @@
       "url": "https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G"
     },
     {
-      "added_at": "2026-03-10 05:34:29",
+      "added_at": "2026-03-17 02:19:34",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
+        "name": "What Love Is (Positively Yours X Huh Gak) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F"
       },
       "artists": [
         {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
         }
       ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2026-03-10 05:34:29",
-      "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+      "duration_ms": 184000,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE"
     }
   ],
   "unique_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c. (K-Pop Love Songs)",

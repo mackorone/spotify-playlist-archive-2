@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: The Jack Wharff Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,199 likes - 200 songs - 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,259 likes - 200 songs - 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

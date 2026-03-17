@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 55101,
+  "num_followers": 55110,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+        "name": "Loving-Kindness",
+        "url": "https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD"
       },
       "artists": [
         {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+          "name": "Vimassana",
+          "url": "https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv"
         }
       ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
+      "duration_ms": 170085,
+      "name": "Loving-Kindness",
+      "url": "https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Loving-Kindness",
-        "url": "https://open.spotify.com/album/0cHpCmG4oLbGPStNrpdgMD"
-      },
-      "artists": [
-        {
-          "name": "Vimassana",
-          "url": "https://open.spotify.com/artist/1JwJysIUFMsM5HjV5fJvGv"
-        }
-      ],
-      "duration_ms": 170085,
-      "name": "Loving-Kindness",
-      "url": "https://open.spotify.com/track/4YQn86jDGtlXovQJT9nwiB"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Modern Classics",
         "url": "https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 224543,
       "name": "Beneath your Beutiful",
       "url": "https://open.spotify.com/track/4vWbR3IiMfIbZ3xWh2zpYH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Night Walk",
         "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Envision",
-        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
       },
       "artists": [
         {
-          "name": "Amaranth Cove",
-          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Vague",
-      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -615,6 +599,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Envision",
+        "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
+      },
+      "artists": [
+        {
+          "name": "Amaranth Cove",
+          "url": "https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Vague",
+      "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Mental Stillness 50",
-        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
+        "name": "My Sleeping Rose",
+        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
       },
       "artists": [
         {
-          "name": "Jardim Zen",
-          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
+          "name": "Havanna Chandri",
+          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
         }
       ],
-      "duration_ms": 249300,
-      "name": "REM Phase",
-      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
+      "duration_ms": 127865,
+      "name": "My Sleeping Rose",
+      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -891,50 +891,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "My Sleeping Rose",
-        "url": "https://open.spotify.com/album/7ApqGcvgxT7rQ5ukCqgh6w"
+        "name": "Deep Mental Stillness 50",
+        "url": "https://open.spotify.com/album/1TJJbIu53P16HREaOnr1m2"
       },
       "artists": [
         {
-          "name": "Havanna Chandri",
-          "url": "https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6"
+          "name": "Jardim Zen",
+          "url": "https://open.spotify.com/artist/7chlUvSubjJ7objJy2ccCu"
         }
       ],
-      "duration_ms": 127865,
-      "name": "My Sleeping Rose",
-      "url": "https://open.spotify.com/track/7vfYsS34eZojVLXsknEj1J"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Eternal Thoughts",
-        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
-      },
-      "artists": [
-        {
-          "name": "Orbit Release",
-          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
-        }
-      ],
-      "duration_ms": 241438,
-      "name": "Eternal Thoughts",
-      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+      "duration_ms": 249300,
+      "name": "REM Phase",
+      "url": "https://open.spotify.com/track/5FCWldM6RuGxv20AbPZ0c8"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -955,18 +923,34 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
       "artists": [
         {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Your Peace",
-      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Eternal Thoughts",
+        "url": "https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP"
+      },
+      "artists": [
+        {
+          "name": "Orbit Release",
+          "url": "https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG"
+        }
+      ],
+      "duration_ms": 241438,
+      "name": "Eternal Thoughts",
+      "url": "https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -987,18 +971,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "After The Silence",
-        "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
       },
       "artists": [
         {
-          "name": "L\u00e9on Branche",
-          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
         }
       ],
-      "duration_ms": 143277,
-      "name": "After The Silence",
-      "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
+      "duration_ms": 224000,
+      "name": "Your Peace",
+      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1015,6 +999,22 @@
       "duration_ms": 146624,
       "name": "Violin Lullaby",
       "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "After The Silence",
+        "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Branche",
+          "url": "https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm"
+        }
+      ],
+      "duration_ms": 143277,
+      "name": "After The Silence",
+      "url": "https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Dream Dependence",
-        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
+        "name": "schemering",
+        "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
       },
       "artists": [
         {
-          "name": "Viclo",
-          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
+          "name": "Jaidy Thissen",
+          "url": "https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT"
         }
       ],
-      "duration_ms": 155459,
-      "name": "Dream dependence",
-      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
+      "duration_ms": 124374,
+      "name": "schemering",
+      "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "schemering",
-        "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
+        "name": "Dream Dependence",
+        "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
       "artists": [
         {
-          "name": "Jaidy Thissen",
-          "url": "https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT"
+          "name": "Viclo",
+          "url": "https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97"
         }
       ],
-      "duration_ms": 124374,
-      "name": "schemering",
-      "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
+      "duration_ms": 155459,
+      "name": "Dream dependence",
+      "url": "https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Broadchurch (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 263347,
-      "name": "Danny",
-      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Storybook",
-        "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
-      },
-      "artists": [
-        {
-          "name": "Mi Soon",
-          "url": "https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i"
-        }
-      ],
-      "duration_ms": 141521,
-      "name": "Storybook",
-      "url": "https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Seasons Changing",
         "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
       },
@@ -1215,6 +1183,22 @@
       "duration_ms": 119080,
       "name": "The Great Plains Hymn",
       "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Broadchurch (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 263347,
+      "name": "Danny",
+      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Heavenly Walk",
-        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
+        "name": "Storybook",
+        "url": "https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI"
       },
       "artists": [
         {
-          "name": "Minisol",
-          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+          "name": "Mi Soon",
+          "url": "https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i"
         }
       ],
-      "duration_ms": 284513,
-      "name": "Heavenly Walk",
-      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
+      "duration_ms": 141521,
+      "name": "Storybook",
+      "url": "https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1263,6 +1247,22 @@
       "duration_ms": 219716,
       "name": "Bloom Bliss",
       "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Heavenly Walk",
+        "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
+      },
+      "artists": [
+        {
+          "name": "Minisol",
+          "url": "https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf"
+        }
+      ],
+      "duration_ms": 284513,
+      "name": "Heavenly Walk",
+      "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
     },
     {
       "added_at": "2021-06-24 10:58:44",

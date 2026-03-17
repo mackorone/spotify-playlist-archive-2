@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112531,
+  "num_followers": 112528,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
-      },
-      "artists": [
-        {
-          "name": "Igo",
-          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
-        }
-      ],
-      "duration_ms": 170947,
-      "name": "Bruce",
-      "url": "https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
         "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 208413,
       "name": "MAM TALENT",
       "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/2Ja2TJxq2gWvuIAacJ9wxz"
+      },
+      "artists": [
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        }
+      ],
+      "duration_ms": 170947,
+      "name": "Bruce",
+      "url": "https://open.spotify.com/track/1huxW5YUwPYVlVNj3bUKns"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 157272,
-      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "Mi\u0142o\u015b\u0107 itd.",
         "url": "https://open.spotify.com/album/4LNqtIipHftDkT0ZnFUK58"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "jet lag",
-        "url": "https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p"
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
       },
       "artists": [
         {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
         }
       ],
-      "duration_ms": 201840,
-      "name": "jet lag",
-      "url": "https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH"
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -915,6 +899,22 @@
       "duration_ms": 161656,
       "name": "A Nu\u017c",
       "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "jet lag",
+        "url": "https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "jet lag",
+      "url": "https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Po blady \u015bwit",
-        "url": "https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Kida",
-          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
-        },
-        {
-          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
-          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "Po blady \u015bwit",
-      "url": "https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "poci\u0105g bez ostatniej stacji",
         "url": "https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 144505,
       "name": "poci\u0105g bez ostatniej stacji",
       "url": "https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "Po blady \u015bwit",
+        "url": "https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Kida",
+          "url": "https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H"
+        },
+        {
+          "name": "Ksi\u0119ga \u017bywio\u0142\u00f3w",
+          "url": "https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "Po blady \u015bwit",
+      "url": "https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG"
-      },
-      "artists": [
-        {
-          "name": "Carla Fernandes",
-          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "To nie m\u00f3j dzie\u0144",
         "url": "https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Sp\u00f3jrz",
-        "url": "https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo"
+        "name": "Mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG"
       },
       "artists": [
         {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+          "name": "Carla Fernandes",
+          "url": "https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF"
         }
       ],
-      "duration_ms": 189834,
-      "name": "Sp\u00f3jrz",
-      "url": "https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e"
+      "duration_ms": 176842,
+      "name": "Mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -1091,6 +1075,22 @@
       "duration_ms": 216398,
       "name": "TOKSYNA",
       "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     }
   ],
   "unique_name": "... ale najpierw kawa",

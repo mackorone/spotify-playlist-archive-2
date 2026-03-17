@@ -3690,6 +3690,24 @@
     {
       "album": {
         "name": "Haten",
+        "url": "https://open.spotify.com/album/3DYtCrZMQQ4gsiNK5AUo8I"
+      },
+      "artists": [
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146068,
+      "name": "Haten",
+      "url": "https://open.spotify.com/track/6KeLzjmdULnJxScv0gcXtD"
+    },
+    {
+      "album": {
+        "name": "Haten",
         "url": "https://open.spotify.com/album/1izmHwQe6Uxp6KhJ5UFb1x"
       },
       "artists": [
@@ -3700,7 +3718,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 148965,
       "name": "Haten",
       "url": "https://open.spotify.com/track/767CZer0mDoCLZEJRW86LW"

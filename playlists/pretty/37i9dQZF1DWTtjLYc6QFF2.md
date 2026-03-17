@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Найвизначніші жіночі колаби крізь роки та жанри\. Обкладинка: Христина Соловій та Ірина Білик
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,584 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,604 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

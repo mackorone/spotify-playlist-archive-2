@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois dernier s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402514,
+  "num_followers": 402519,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : F\u00e9vrier 2026",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
+        "name": "Doom",
+        "url": "https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6"
+      },
+      "artists": [
+        {
+          "name": "Asinine",
+          "url": "https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "La b\u00eate",
+      "url": "https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
         "name": "Illegal + Four Tet",
         "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 336000,
       "name": "Illegal + Four Tet",
       "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
-        "name": "Doom",
-        "url": "https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6"
-      },
-      "artists": [
-        {
-          "name": "Asinine",
-          "url": "https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "La b\u00eate",
-      "url": "https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ"
     },
     {
       "added_at": "2026-03-01 23:00:03",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
+        "name": "Tout est de ma faute",
+        "url": "https://open.spotify.com/album/7e88tG4PHQsypyBsk6yt4o"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Tout est de ma faute",
+      "url": "https://open.spotify.com/track/5HlIqC9Sc4SkBGGzouYPX4"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
         "name": "Winter Days \u51ac\u306e\u65e5\u3005 (feat. Salasa)",
         "url": "https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 222000,
       "name": "Winter Days \u51ac\u306e\u65e5\u3005(feat. Salasa)",
       "url": "https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
-        "name": "Tout est de ma faute",
-        "url": "https://open.spotify.com/album/7e88tG4PHQsypyBsk6yt4o"
-      },
-      "artists": [
-        {
-          "name": "Ariane Bonzini",
-          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Tout est de ma faute",
-      "url": "https://open.spotify.com/track/5HlIqC9Sc4SkBGGzouYPX4"
     },
     {
       "added_at": "2026-03-01 23:00:03",

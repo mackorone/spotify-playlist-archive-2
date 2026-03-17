@@ -1114,10 +1114,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 165480,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
+    },
+    {
+      "album": {
+        "name": "Puros Exitos",
+        "url": "https://open.spotify.com/album/1YCdH8G9ELHRzfmpJ7c0pl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "Flor de Capomo",
+      "url": "https://open.spotify.com/track/20bbI0hHSrKeJ6wXp0Nvcb"
     },
     {
       "album": {

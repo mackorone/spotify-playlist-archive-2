@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108187,
+  "num_followers": 108193,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abSlAAAAAAAuARDsTx1Qdmo8x/uaL95V",
+  "snapshot_id": "abX2gAAAAAATX02Q1coQXLEuwu7dqdG0",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Zeg Maar Niets Meer",
-      "url": "https://open.spotify.com/track/2x7VFpoHN8eutpliLKFfuh"
+      "duration_ms": 229973,
+      "name": "Zij Gelooft In Mij",
+      "url": "https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 229973,
-      "name": "Zij Gelooft In Mij",
-      "url": "https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8"
+      "duration_ms": 168760,
+      "name": "Zeg Maar Niets Meer",
+      "url": "https://open.spotify.com/track/2x7VFpoHN8eutpliLKFfuh"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+        "name": "Voor Jou",
+        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 244106,
-      "name": "Al Jouw Woorden Zijn Teveel",
-      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
+      "duration_ms": 203933,
+      "name": "Ik Weet 'T Zeker",
+      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voor Jou",
-        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Ik Weet 'T Zeker",
-      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
+      "duration_ms": 244106,
+      "name": "Al Jouw Woorden Zijn Teveel",
+      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jij Bent Alles",
         "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 210173,
       "name": "'T Is Voorbij",
       "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
     }
   ],
   "unique_name": "This Is Andre Hazes",

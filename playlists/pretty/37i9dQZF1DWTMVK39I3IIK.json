@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Y\u00f6r",
-  "num_followers": 47055,
+  "num_followers": 47058,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -227,38 +227,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Ring, n\u00e5r du har tid",
         "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
@@ -291,18 +259,34 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Tag Mig Som Jeg Er",
-        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
       "artists": [
         {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 195748,
-      "name": "Tag Mig Som Jeg Er",
-      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -319,6 +303,22 @@
       "duration_ms": 188752,
       "name": "Udsving",
       "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Tag Mig Som Jeg Er",
+        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
+      },
+      "artists": [
+        {
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
+        }
+      ],
+      "duration_ms": 195748,
+      "name": "Tag Mig Som Jeg Er",
+      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "En Stor Lykkelig Familie",
         "url": "https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 195777,
       "name": "En Stor Lykkelig Familie",
       "url": "https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "4CANTOS",
-        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 140676,
-      "name": "Ender Altid Hos Dig",
-      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Frederiksberg All\u00e9",
         "url": "https://open.spotify.com/album/4OCRcpNTnraKNLNRBzaBIb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 172909,
       "name": "Frederiksberg All\u00e9",
       "url": "https://open.spotify.com/track/3f1DlWjYiewzRCqMcHY8TA"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "4CANTOS",
+        "url": "https://open.spotify.com/album/1QSx9yNnaglCCs2hMb3qBw"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 140676,
+      "name": "Ender Altid Hos Dig",
+      "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
+        "name": "Barn Af Venedig",
+        "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Barn Af Venedig",
+      "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
         "name": "Marianne og Henrik",
         "url": "https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "hun m\u00e6rker aldrig smerten.",
-        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
-      },
-      "artists": [
-        {
-          "name": "JONATHAN",
-          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
-        }
-      ],
-      "duration_ms": 160105,
-      "name": "hun m\u00e6rker aldrig smerten.",
-      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "hun m\u00e6rker aldrig smerten.",
+        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "duration_ms": 160105,
+      "name": "hun m\u00e6rker aldrig smerten.",
+      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -779,22 +795,6 @@
       "duration_ms": 161195,
       "name": "Ekkoer",
       "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
-        "name": "Barn Af Venedig",
-        "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
-      },
-      "artists": [
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Barn Af Venedig",
-      "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Watershed",
-        "url": "https://open.spotify.com/album/1056qytYUijsTICJ4VIItC"
+        "name": "Ind I Solen",
+        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
       },
       "artists": [
         {
-          "name": "SANDY",
-          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+          "name": "Kayak",
+          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
         }
       ],
-      "duration_ms": 170767,
-      "name": "Play The Part",
-      "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
+      "duration_ms": 227037,
+      "name": "Ind I Solen",
+      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -983,34 +983,34 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Ind I Solen",
-        "url": "https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b"
+        "name": "Watershed",
+        "url": "https://open.spotify.com/album/1056qytYUijsTICJ4VIItC"
       },
       "artists": [
         {
-          "name": "Kayak",
-          "url": "https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz"
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ind I Solen",
-      "url": "https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz"
+      "duration_ms": 170767,
+      "name": "Play The Part",
+      "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
     },
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Kommet Videre",
-        "url": "https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
       },
       "artists": [
         {
-          "name": "Laura Vejlby",
-          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
         }
       ],
-      "duration_ms": 141397,
-      "name": "Kommet Videre",
-      "url": "https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa"
+      "duration_ms": 168348,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf"
+        "name": "Kommet Videre",
+        "url": "https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP"
       },
       "artists": [
         {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+          "name": "Laura Vejlby",
+          "url": "https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ"
         }
       ],
-      "duration_ms": 168348,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF"
+      "duration_ms": 141397,
+      "name": "Kommet Videre",
+      "url": "https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
+        "name": "Ham Med Paraplyen",
+        "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 173023,
+      "name": "Ham Med Paraplyen",
+      "url": "https://open.spotify.com/track/50v2FN0hJsN41yx6gW9GQd"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
         "name": "Holder mig v\u00e5gen",
         "url": "https://open.spotify.com/album/3ZlHpSNsQTqcWBhNsUEzTS"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 201067,
       "name": "Holder mig v\u00e5gen",
       "url": "https://open.spotify.com/track/1EIba7fWI4mec9i8J7YMId"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
-        "name": "Elsk Mig",
-        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
-      },
-      "artists": [
-        {
-          "name": "Joyce",
-          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
-        }
-      ],
-      "duration_ms": 236624,
-      "name": "Se Mig",
-      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
     }
   ],
   "unique_name": "ung kniv ",

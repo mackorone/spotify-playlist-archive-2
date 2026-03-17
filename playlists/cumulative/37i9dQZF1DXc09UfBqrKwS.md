@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-943 songs - 1 day 20 hr 47 min
+944 songs - 1 day 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@
 | [Haven](https://open.spotify.com/track/5DhPUg2oGoQkEbIJcQiSmG) | [Alexander Sterling](https://open.spotify.com/artist/7jCHPpIZYNW9xezoE6m6Ez) | [Haven](https://open.spotify.com/album/0FY3phJDQ9r1uPmy2OMjXL) | 2:22 | 2025-03-19 | 2025-07-02 |
 | [Haven of Peace](https://open.spotify.com/track/2GLriaoX9PE2thf0iDoh12) | [Linden Vale](https://open.spotify.com/artist/5Jh7KeIgfvJbqVDeosT2C3) | [Haven of Peace](https://open.spotify.com/album/03I8rTqclIdnIvS2WmMQk9) | 2:41 | 2025-10-08 |  |
 | [Hearts in Eden](https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO) | [Moonlace](https://open.spotify.com/artist/5rWVqF1S6rQFrpha9UU4ip) | [Hearts in Eden](https://open.spotify.com/album/2pk80AF4W803dFQ71IOeDF) | 3:00 | 2025-05-07 |  |
-| [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 |  |
+| [Heroic](https://open.spotify.com/track/2EMxENn8g5DBQmTy3t4Zvc) | [Thoas Galla](https://open.spotify.com/artist/3nLy5nvClRzsJbCuRQfvZF) | [Heroic](https://open.spotify.com/album/5tXmpY8WTol7lCcf5VvaNx) | 2:43 | 2025-01-08 | 2026-03-17 |
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2023-03-31 | 2023-12-09 |
 | [Highest Peak](https://open.spotify.com/track/1UhzqUHZoVczQXSz81GoP9) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Highest Peak](https://open.spotify.com/album/42ycmK2f0q42eao4Q7g5Jz) | 2:39 | 2026-01-27 | 2026-03-12 |
 | [Hikari](https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Hikari](https://open.spotify.com/album/722j5U3DLZstV3QX4pqozB) | 2:52 | 2025-09-23 | 2026-03-12 |
@@ -688,6 +688,7 @@
 | [Respective](https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Respective](https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku) | 2:57 | 2024-11-05 | 2025-08-09 |
 | [Response](https://open.spotify.com/track/1yNQpzSyigQQ91TLZHutvB) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Response](https://open.spotify.com/album/0evxd5kXADFYIhiYRQ1p7e) | 3:24 | 2024-07-09 | 2025-05-11 |
 | [Rest And Sleep](https://open.spotify.com/track/1dP2Rd9ViYTNv3yVO2KEY1) | [Youssouf Yaro](https://open.spotify.com/artist/7pFjwqCdPUodEXf6mfoM7g) | [Rest And Sleep](https://open.spotify.com/album/0DTIAeAIV5iLToCDdrdsyG) | 3:23 | 2023-08-04 | 2024-05-21 |
+| [Rest Curve 528Hz](https://open.spotify.com/track/3KVV7IKqu7xJ3lClwdF5tx) | [Aurelia Drift](https://open.spotify.com/artist/1yIF1xY9YyuJmbmIBtGuAT) | [Rest Curve 528Hz](https://open.spotify.com/album/7car49ueCp6v7g1C8hsr5a) | 2:44 | 2026-03-11 |  |
 | [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-05-04 | 2025-04-12 |
 | [Retriever](https://open.spotify.com/track/1IA54D0vDanvQu9vU1sH09) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Retriever](https://open.spotify.com/album/15qOfc2nRAZG9AVfw4SPVX) | 2:51 | 2024-02-08 | 2025-06-04 |
 | [Return Home](https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Return Home](https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML) | 3:03 | 2024-07-15 | 2025-09-24 |
@@ -757,7 +758,7 @@
 | [Slumber](https://open.spotify.com/track/79VaizbXk2cpZy3nzUxjN7) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Slumber](https://open.spotify.com/album/4O2LD8nIKfma74ymQ9qDtF) | 2:41 | 2024-06-18 | 2025-11-23 |
 | [Snowflake](https://open.spotify.com/track/3IftdsEdhYBjFenO3VWDht) | [Amanda Wildt](https://open.spotify.com/artist/4acmjvEdOPeKKwiRv3hZ4h) | [Snowflake](https://open.spotify.com/album/1huCY9aSFYlnJ3FyI4eaI8) | 3:02 | 2023-10-20 | 2025-02-15 |
 | [Soft Ardour](https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa) | [Quinn Joshua](https://open.spotify.com/artist/4LtA8H0WUekxMEMJV3Fdvd) | [Soft Ardour](https://open.spotify.com/album/0BTuhivz5n6te5nMjtMENN) | 2:31 | 2023-03-31 | 2024-02-09 |
-| [Soft Breeze](https://open.spotify.com/track/5HKT3UNQww3WEBJi5kVgzG) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Soft Breeze](https://open.spotify.com/album/1stBzPVDdTlFhIftpYe1Mj) | 2:49 | 2025-03-19 |  |
+| [Soft Breeze](https://open.spotify.com/track/5HKT3UNQww3WEBJi5kVgzG) | [William Edessa](https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg) | [Soft Breeze](https://open.spotify.com/album/1stBzPVDdTlFhIftpYe1Mj) | 2:49 | 2025-03-19 | 2026-03-17 |
 | [Soft Corals](https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Soft Corals](https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF) | 3:12 | 2024-05-20 | 2025-12-06 |
 | [Soft Promise](https://open.spotify.com/track/1TADU6caSDbS08PrFcAoZD) | [Somniare](https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn) | [Soft Promise](https://open.spotify.com/album/3a5Ikq3DOewurQMg8cEkUT) | 2:23 | 2025-09-23 | 2026-03-12 |
 | [Soft Sleep Whisper](https://open.spotify.com/track/7saAKqnRvZY9HE1HRpFvIz) | [Meloleon](https://open.spotify.com/artist/0KB7j94GTdhFMPEEmBMGAI) | [Soft Sleep Whisper](https://open.spotify.com/album/2aMULzc5IScjdwvRXGBuex) | 2:58 | 2025-09-23 | 2026-03-12 |
@@ -815,7 +816,7 @@
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2023-03-31 | 2024-02-09 |
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2023-03-31 | 2024-02-09 |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 | 2025-01-09 |
-| [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 | 2025-09-24 |
+| [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 |  |
 | [Suavidade](https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Suavidade](https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz) | 3:25 | 2025-02-04 |  |
 | [Suavizar El Dolor](https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar El Dolor](https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n) | 2:07 | 2024-03-06 | 2024-04-19 |
 | [Suavizar el Dolor](https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar el Dolor](https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP) | 2:07 | 2024-04-05 | 2024-07-10 |

@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkCMj/dTsNjpZZjJHY3/u2IA7vcXbp",
+  "snapshot_id": "AAAkD16suydQOeYtRkP0Zw1BiumTZoiR",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ"
     },
     {
+      "added_at": "2026-03-16 16:48:26",
+      "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj"
+      },
+      "artists": [
+        {
+          "name": "Constant Vertex",
+          "url": "https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM"
+        }
+      ],
+      "duration_ms": 155106,
+      "name": "It's Inside",
+      "url": "https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5"
+    },
+    {
       "added_at": "2021-03-29 15:55:01",
       "album": {
         "name": "Mellow Gold",
@@ -583,74 +599,6 @@
       "duration_ms": 258133,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
-    },
-    {
-      "added_at": "2026-02-24 16:34:23",
-      "album": {
-        "name": "Like a River in a Storm",
-        "url": "https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg"
-      },
-      "artists": [
-        {
-          "name": "LeLore",
-          "url": "https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U"
-        },
-        {
-          "name": "A.C.C.",
-          "url": "https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH"
-        }
-      ],
-      "duration_ms": 193123,
-      "name": "Like a River in a Storm",
-      "url": "https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt"
-    },
-    {
-      "added_at": "2026-03-02 07:48:59",
-      "album": {
-        "name": "TimeCrime",
-        "url": "https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY"
-      },
-      "artists": [
-        {
-          "name": "ANGELO",
-          "url": "https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG"
-        }
-      ],
-      "duration_ms": 214177,
-      "name": "TimeCrime",
-      "url": "https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t"
-    },
-    {
-      "added_at": "2026-03-02 14:04:48",
-      "album": {
-        "name": "Faded photographs",
-        "url": "https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur"
-      },
-      "artists": [
-        {
-          "name": "Body Talk",
-          "url": "https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ"
-        }
-      ],
-      "duration_ms": 215371,
-      "name": "Faded photographs",
-      "url": "https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt"
-    },
-    {
-      "added_at": "2026-03-02 19:03:09",
-      "album": {
-        "name": "L\u00edmite",
-        "url": "https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d"
-      },
-      "artists": [
-        {
-          "name": "Javzye",
-          "url": "https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "L\u00edmite",
-      "url": "https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv"
     },
     {
       "added_at": "2026-03-03 12:53:33",
@@ -747,6 +695,22 @@
       "duration_ms": 228219,
       "name": "gas station girlfriend",
       "url": "https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT"
+    },
+    {
+      "added_at": "2026-03-16 16:43:05",
+      "album": {
+        "name": "Getting Closer",
+        "url": "https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI"
+      },
+      "artists": [
+        {
+          "name": "GINSHER",
+          "url": "https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS"
+        }
+      ],
+      "duration_ms": 173213,
+      "name": "Getting Closer",
+      "url": "https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A"
     }
   ],
   "unique_name": "Alternative Pop Archive",

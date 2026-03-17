@@ -4,7 +4,7 @@
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-3,005 songs - 7 day 0 hr 4 min
+3,006 songs - 7 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1437,6 +1437,7 @@
 | [it's been a rough year, dad \- demo](https://open.spotify.com/track/4eX1FxbJoTYrXLrkt1LChq) | [toriyama](https://open.spotify.com/artist/19K2K2JUmVzZaogThM940x) | [lola \(demos 2021\-2025\)](https://open.spotify.com/album/6INwyNbRhmuOcQhsKpNj9j) | 2:45 | 2025-12-23 | 2026-01-15 |
 | [It's Important](https://open.spotify.com/track/68GxJCQnnHPP6gI3XmBTBD) | [Dominyka Mauliute](https://open.spotify.com/artist/15JD0l6mCDdfZhA4KA6cHw) | [It's Important](https://open.spotify.com/album/4BCa6LAg7uuVE03xIAR8yh) | 3:41 | 2026-02-28 | 2026-03-07 |
 | [It's Lovely, Come On In](https://open.spotify.com/track/6vYoqwpLLtvfeRTo3gweoN) | [thredd](https://open.spotify.com/artist/0Ev2bboZsrsNWTTwaOtXQC) | [It’s Lovely, Come On In](https://open.spotify.com/album/0uung5O3PIXVTcnwzaxV9v) | 3:19 | 2025-11-30 | 2026-03-14 |
+| [It's Not Working Out](https://open.spotify.com/track/5Tn4XsTWrmRxpCtzcNSoHl) | [Hotel Leo](https://open.spotify.com/artist/6JwMU5uuIIOqvnmoS1HyRV) | [It's Not Working Out](https://open.spotify.com/album/3QemauMXnC1zusHWSJVYby) | 3:50 | 2026-03-16 |  |
 | [It's Okay](https://open.spotify.com/track/549pALoY8HiYnE3QFpRw43) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [It's Okay](https://open.spotify.com/album/2npv4R4GS5kXjyeSWsnzO2) | 3:55 | 2026-03-13 |  |
 | [It's on the Floor](https://open.spotify.com/track/45aapte8E3Fsk9hEn4Rqe7) | [A Softer Blue](https://open.spotify.com/artist/2QmWIYtojNZoHrGeDLdOCK) | [It's on the Floor](https://open.spotify.com/album/6Q7FGPlWKSv9QSqrPVRcec) | 3:00 | 2026-01-31 | 2026-02-08 |
 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 | 2025-11-23 | 2025-12-01 |

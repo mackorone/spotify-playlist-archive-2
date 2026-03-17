@@ -11037,6 +11037,28 @@
     },
     {
       "album": {
+        "name": "MALETA (feat. La Pantera)",
+        "url": "https://open.spotify.com/album/1WBdhceozY8Jb2zGhjWGI8"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193860,
+      "name": "MALETA (feat. La Pantera)",
+      "url": "https://open.spotify.com/track/1EOF0vLsu1GmmnOGP1wa0o"
+    },
+    {
+      "album": {
         "name": "MALIANTEO",
         "url": "https://open.spotify.com/album/5u0hfSKS3TjW2NqIZCDHsx"
       },
@@ -12362,7 +12384,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 155867,
       "name": "M\u00e1s Cara",
       "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
@@ -17962,7 +17984,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 127575,
       "name": "Te Dar\u00e9",
       "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
@@ -18417,6 +18439,24 @@
     },
     {
       "album": {
+        "name": "TOORA",
+        "url": "https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187555,
+      "name": "TOORA",
+      "url": "https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp"
+    },
+    {
+      "album": {
         "name": "Temporada de Reggaet\u00f3n",
         "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
       },
@@ -18432,24 +18472,6 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
-    },
-    {
-      "album": {
-        "name": "TORA",
-        "url": "https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "date_added": "2025-11-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187555,
-      "name": "TORA",
-      "url": "https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp"
     },
     {
       "album": {
@@ -18698,6 +18720,28 @@
       "duration_ms": 163173,
       "name": "TROYA",
       "url": "https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs"
+    },
+    {
+      "album": {
+        "name": "EL VENDEDOR DE ROSAS",
+        "url": "https://open.spotify.com/album/0BfyrvKdq69jR1HuHEn6cR"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "TU D\u00daO FAVORITO",
+      "url": "https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK"
     },
     {
       "album": {

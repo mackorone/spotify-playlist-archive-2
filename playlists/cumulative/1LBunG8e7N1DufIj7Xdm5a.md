@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,171 songs - 9 day 6 hr 8 min
+4,172 songs - 9 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4093,6 +4093,7 @@
 | [World Shut Your Mouth](https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa) | [Julian Cope](https://open.spotify.com/artist/5sMku8iI6FH3ypZTErz4kv) | [Saint Julian \(Expanded Edition\)](https://open.spotify.com/album/0cWXdCck9lEusGVYb5wpfa) | 3:35 | 2025-11-05 |  |
 | [Wormhole](https://open.spotify.com/track/4NBBjHgjzzlRQsYRHd6Lrd) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Againstide](https://open.spotify.com/album/1VUgfF5WaAd6MbKYC0Yerp) | 4:48 | 2025-07-03 |  |
 | [Worth the Silence](https://open.spotify.com/track/0voIA6g9vfC7URJnjSXOpi) | [Sadja](https://open.spotify.com/artist/3raZKrJIHOZXG0U0iYlDXq) | [Worth the Silence](https://open.spotify.com/album/5G79tZEzc5h10DTubDOhpv) | 2:56 | 2026-02-07 |  |
+| [Worth the wait](https://open.spotify.com/track/0Q3kUTUPN2tnAAAP5QX0Eh) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Worth the wait](https://open.spotify.com/album/2nRP98u8PQm1v1dz0JqgrE) | 2:46 | 2026-03-16 |  |
 | [Wounded](https://open.spotify.com/track/7eGXImTeH1h1mgDVV833yK) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Wounded](https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv) | 2:16 | 2026-02-20 |  |
 | [Wrath of the Steel](https://open.spotify.com/track/6tHz63onbanTeazLYBzk2Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:34 | 2025-09-17 |  |
 | [Wrath of the Void](https://open.spotify.com/track/5WO8sLwPuYJ5Qx0pOzZiZ4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:28 | 2025-09-17 |  |

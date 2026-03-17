@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,177 likes - 48 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,176 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,26 +35,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 25 | [boum boum barbie](https://open.spotify.com/track/51qU69BObybLoJS2grfKBG) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [boum boum barbie](https://open.spotify.com/album/1n4g3xXJbgPb9eR0CP9wLP) | 2:24 |
 | 26 | [COURTE PAILLE](https://open.spotify.com/track/7dvRcvy17soNaOVy8jWbbt) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [COURTE PAILLE](https://open.spotify.com/album/1AE6Cu2gcZDNoe6TTBqeGW) | 3:15 |
 | 27 | [Je pars et reviens](https://open.spotify.com/track/6IgUtQIxY1OsAgFJS7zBr0) | [C\-ROM](https://open.spotify.com/artist/2JGq7nPI5eQjKRpKZEedf0) | [Je pars et reviens](https://open.spotify.com/album/3z0LjDi4zZeTH1kmBh33TM) | 2:35 |
-| 28 | [T'es où ?](https://open.spotify.com/track/5SoDlb86jAzb4rQ5kSmlQj) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [T'es où ?](https://open.spotify.com/album/0exWORbwX2Zgt761HDThAC) | 2:51 |
-| 29 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 |
-| 30 | [J'veux qu'on s'aime](https://open.spotify.com/track/3TcQ7REFvKc8LOy0QdmA2s) | [Nola](https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA) | [J'veux qu'on s'aime](https://open.spotify.com/album/02XVsG9Wr53zb3b2mFla8t) | 2:02 |
-| 31 | [OK KO \(feat\. Kyo\)](https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [OK KO \(Nouvelle Édition\)](https://open.spotify.com/album/04WoFGsAqbdlJvAWljYCdQ) | 2:46 |
-| 32 | [Au\-dessus des vagues](https://open.spotify.com/track/5X2AiGjrRx5Sv4NglUWJN8) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Au\-dessus des vagues](https://open.spotify.com/album/4CNYmZLtzyd73T3qPv8BE2) | 2:34 |
-| 33 | [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux \(Edition Deluxe\)](https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A) | 2:42 |
-| 34 | [Le chemin](https://open.spotify.com/track/685rfL8VFhymNoVs94AcMY) | [Naumaur](https://open.spotify.com/artist/37p0K11WckJ4GBwSX0lDis) | [Le chemin](https://open.spotify.com/album/0CGsSouLKOJJLxYben8qqY) | 2:45 |
-| 35 | [Les rues de Paris](https://open.spotify.com/track/5a5XnQJtLLWdvuNRh2ESBS) | [La Légende de Monte Cristo](https://open.spotify.com/artist/35D6E6OKfnIlcZxln0E7ZJ), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Les rues de Paris](https://open.spotify.com/album/5bImxJN65kT26IMFzFuN1f) | 2:44 |
-| 36 | [Dopamine](https://open.spotify.com/track/6gdygzZgltsF4FDEidLEM4) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Dopamine](https://open.spotify.com/album/1RL7YvvMwqUDqw0UNTZ37H) | 2:40 |
-| 37 | [Encore une fois](https://open.spotify.com/track/0bqOf2AaPI7Sqpc39q8Y2b) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:01 |
-| 38 | [tous les matins du monde](https://open.spotify.com/track/68CPgeqnQMeKqHFMZieQdP) | [Arthur Ely](https://open.spotify.com/artist/65WEveY2gA6BSkkkpT8jrl) | [SAIGNANT](https://open.spotify.com/album/4dWcVJbEqQq2pOPUTBhAIb) | 3:38 |
-| 39 | [Y'a moi](https://open.spotify.com/track/7vx0yky7eHmrvWe6d4Za77) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Y'a moi](https://open.spotify.com/album/1t3H9BE6QU56aBuRvqVfWQ) | 2:30 |
-| 40 | [Prêt à t'aimer](https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:17 |
-| 41 | [Pasçalavie](https://open.spotify.com/track/0YHlP9nMm9DPrqZ0iwra3U) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [Pasçalavie](https://open.spotify.com/album/1YRVAX6zy7GBbQRQiRY6et) | 3:24 |
-| 42 | [Femmes](https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Femmes](https://open.spotify.com/album/75joziTdAqT68ZtBK7rds1) | 3:00 |
-| 43 | [Crash 404](https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Crash 404](https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm) | 2:31 |
-| 44 | [Au revoir au départ](https://open.spotify.com/track/0XUvdwliJwl40PGatwdeHV) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Au revoir au départ](https://open.spotify.com/album/3vComKlyCoucrCMXFh6DYF) | 2:32 |
-| 45 | [Pourquoi ?](https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm) | [Patxi](https://open.spotify.com/artist/0gSwb8hjVjngaLSPYOcpy9), [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Pourquoi ?](https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP) | 2:58 |
-| 46 | [MON PARADIS](https://open.spotify.com/track/758expDDK3WThsnyCMtrYl) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [MON PARADIS](https://open.spotify.com/album/2i5x2wHf6PsiVfvM5aiex1) | 3:05 |
-| 47 | [Avant toi](https://open.spotify.com/track/1gCloDmEV2A6r0acZ3UogQ) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Avant toi](https://open.spotify.com/album/3Xr69JpGDO78MDKLbXdthH) | 2:27 |
-| 48 | [Je dors](https://open.spotify.com/track/2gtBiMhgr0reYXn2CAoXGP) | [Tumulte](https://open.spotify.com/artist/3ot5afmxg2m0UcMaw6SaOg) | [Je dors](https://open.spotify.com/album/0EeVZMmm0FkrsiDkHCMI9D) | 2:43 |
+| 28 | [Princesse de la nuit](https://open.spotify.com/track/75qwPX1KWjKBA6oMN4msvO) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Princesse de la nuit](https://open.spotify.com/album/1wWpr7rUvnhihjJTaxu8sR) | 3:30 |
+| 29 | [T'es où ?](https://open.spotify.com/track/5SoDlb86jAzb4rQ5kSmlQj) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [T'es où ?](https://open.spotify.com/album/0exWORbwX2Zgt761HDThAC) | 2:51 |
+| 30 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 |
+| 31 | [J'veux qu'on s'aime](https://open.spotify.com/track/3TcQ7REFvKc8LOy0QdmA2s) | [Nola](https://open.spotify.com/artist/0HclVtwqKpzMjkE67dTJzA) | [J'veux qu'on s'aime](https://open.spotify.com/album/02XVsG9Wr53zb3b2mFla8t) | 2:02 |
+| 32 | [OK KO \(feat\. Kyo\)](https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [OK KO \(Nouvelle Édition\)](https://open.spotify.com/album/04WoFGsAqbdlJvAWljYCdQ) | 2:46 |
+| 33 | [Au\-dessus des vagues](https://open.spotify.com/track/5X2AiGjrRx5Sv4NglUWJN8) | [Alien](https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS) | [Au\-dessus des vagues](https://open.spotify.com/album/4CNYmZLtzyd73T3qPv8BE2) | 2:34 |
+| 34 | [Amoureuse](https://open.spotify.com/track/3PQmX1mupYapRFR57k7lea) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux \(Edition Deluxe\)](https://open.spotify.com/album/3L21t9BVqcJ8O49DlsCh3A) | 2:42 |
+| 35 | [Le chemin](https://open.spotify.com/track/685rfL8VFhymNoVs94AcMY) | [Naumaur](https://open.spotify.com/artist/37p0K11WckJ4GBwSX0lDis) | [Le chemin](https://open.spotify.com/album/0CGsSouLKOJJLxYben8qqY) | 2:45 |
+| 36 | [Les rues de Paris](https://open.spotify.com/track/5a5XnQJtLLWdvuNRh2ESBS) | [La Légende de Monte Cristo](https://open.spotify.com/artist/35D6E6OKfnIlcZxln0E7ZJ), [Philippine Lavrey](https://open.spotify.com/artist/2o7TjwrbU1Q3BpUbUnQ9CY) | [Les rues de Paris](https://open.spotify.com/album/5bImxJN65kT26IMFzFuN1f) | 2:44 |
+| 37 | [Dopamine](https://open.spotify.com/track/6gdygzZgltsF4FDEidLEM4) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Dopamine](https://open.spotify.com/album/1RL7YvvMwqUDqw0UNTZ37H) | 2:40 |
+| 38 | [Encore une fois](https://open.spotify.com/track/0bqOf2AaPI7Sqpc39q8Y2b) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:01 |
+| 39 | [tous les matins du monde](https://open.spotify.com/track/68CPgeqnQMeKqHFMZieQdP) | [Arthur Ely](https://open.spotify.com/artist/65WEveY2gA6BSkkkpT8jrl) | [SAIGNANT](https://open.spotify.com/album/4dWcVJbEqQq2pOPUTBhAIb) | 3:38 |
+| 40 | [Y'a moi](https://open.spotify.com/track/7vx0yky7eHmrvWe6d4Za77) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Y'a moi](https://open.spotify.com/album/1t3H9BE6QU56aBuRvqVfWQ) | 2:30 |
+| 41 | [Prêt à t'aimer](https://open.spotify.com/track/71pTdNcN3lieAQj3BPDn13) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:17 |
+| 42 | [Pasçalavie](https://open.spotify.com/track/0YHlP9nMm9DPrqZ0iwra3U) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [Pasçalavie](https://open.spotify.com/album/1YRVAX6zy7GBbQRQiRY6et) | 3:24 |
+| 43 | [Femmes](https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Femmes](https://open.spotify.com/album/75joziTdAqT68ZtBK7rds1) | 3:00 |
+| 44 | [Crash 404](https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Crash 404](https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm) | 2:31 |
+| 45 | [Au revoir au départ](https://open.spotify.com/track/0XUvdwliJwl40PGatwdeHV) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Au revoir au départ](https://open.spotify.com/album/3vComKlyCoucrCMXFh6DYF) | 2:32 |
+| 46 | [Pourquoi ?](https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm) | [Patxi](https://open.spotify.com/artist/0gSwb8hjVjngaLSPYOcpy9), [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Pourquoi ?](https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP) | 2:58 |
+| 47 | [MON PARADIS](https://open.spotify.com/track/758expDDK3WThsnyCMtrYl) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [MON PARADIS](https://open.spotify.com/album/2i5x2wHf6PsiVfvM5aiex1) | 3:05 |
+| 48 | [Avant toi](https://open.spotify.com/track/1gCloDmEV2A6r0acZ3UogQ) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Avant toi](https://open.spotify.com/album/3Xr69JpGDO78MDKLbXdthH) | 2:27 |
+| 49 | [Je dors](https://open.spotify.com/track/2gtBiMhgr0reYXn2CAoXGP) | [Tumulte](https://open.spotify.com/artist/3ot5afmxg2m0UcMaw6SaOg) | [Je dors](https://open.spotify.com/album/0EeVZMmm0FkrsiDkHCMI9D) | 2:43 |
 
-Snapshot ID: `AAAAAB9H50dPcDTftlaWos+6b94+dTlq`
+Snapshot ID: `AAAAANZ6lSYP91cPyd9OlZwF0iGqebK0`

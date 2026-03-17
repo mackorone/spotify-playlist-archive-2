@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159609,
+  "num_followers": 159623,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 184405,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -423,22 +423,34 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Lykke til pappa",
-        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
+        "name": "Tilgi meg",
+        "url": "https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0"
       },
       "artists": [
         {
-          "name": "Musti",
-          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 159472,
-      "name": "Lykke til pappa",
-      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
+      "duration_ms": 264375,
+      "name": "Tilgi meg",
+      "url": "https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -459,18 +471,22 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+        "name": "Lykke til pappa",
+        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Musti",
+          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
+      "duration_ms": 159472,
+      "name": "Lykke til pappa",
+      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -599,6 +615,22 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
+        "name": "Jeg sp\u00f8r for en venn",
+        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 193148,
+      "name": "Jeg sp\u00f8r for en venn",
+      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
         "name": "Never have I ever",
         "url": "https://open.spotify.com/album/4PjHE0kHGMXGfzqHUnevHg"
       },
@@ -615,22 +647,6 @@
       "duration_ms": 207214,
       "name": "Never have I ever",
       "url": "https://open.spotify.com/track/0IcgxTESfN2LKZZC7l6Mw4"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Jeg sp\u00f8r for en venn",
-        "url": "https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 193148,
-      "name": "Jeg sp\u00f8r for en venn",
-      "url": "https://open.spotify.com/track/2icHHKPqztIkn5neapSswk"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -667,18 +683,18 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Tilgi meg",
-        "url": "https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0"
+        "name": "Hjemme",
+        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
         }
       ],
-      "duration_ms": 264375,
-      "name": "Tilgi meg",
-      "url": "https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3"
+      "duration_ms": 236619,
+      "name": "Hjemme",
+      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -703,18 +719,18 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Hjemme",
-        "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
+        "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
       },
       "artists": [
         {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 236619,
-      "name": "Hjemme",
-      "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
+      "duration_ms": 145893,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -731,22 +747,6 @@
       "duration_ms": 185338,
       "name": "jeg holder pusten til du drar",
       "url": "https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Her vil e v\u00e6r",
-        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Her vil e v\u00e6r",
-      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Sterkere enn du vet",
-        "url": "https://open.spotify.com/album/1gTASC1XJ4eZEEJoXZAAjn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bredesen Holm",
-          "url": "https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt"
-        }
-      ],
-      "duration_ms": 213124,
-      "name": "Sterkere enn du vet",
-      "url": "https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "G\u00e5 bli lykkelig, du",
         "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 146813,
       "name": "Gjesten p\u00e5 festen",
       "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Sterkere enn du vet",
+        "url": "https://open.spotify.com/album/1gTASC1XJ4eZEEJoXZAAjn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bredesen Holm",
+          "url": "https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt"
+        }
+      ],
+      "duration_ms": 213124,
+      "name": "Sterkere enn du vet",
+      "url": "https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Lykkelig uten meg",
-        "url": "https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bredesen Holm",
-          "url": "https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Lykkelig uten meg",
-      "url": "https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "Hold d\u00e6 fast",
         "url": "https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+        "name": "Lykkelig uten meg",
+        "url": "https://open.spotify.com/album/61dEd6Ry9s0Bx5cDz673T6"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Andrea Bredesen Holm",
+          "url": "https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt"
         }
       ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
+      "duration_ms": 185560,
+      "name": "Lykkelig uten meg",
+      "url": "https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1063,22 +1047,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "What Happened To The Heart? (Deluxe)",
-        "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Hearts Intuition",
-      "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -1091,6 +1059,38 @@
       "duration_ms": 211810,
       "name": "Ta med deg d\u00f8ra",
       "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "SOLA LAGER SKYGGER",
+        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "UT\u00c5LMODIG",
+      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1111,6 +1111,22 @@
       "duration_ms": 222546,
       "name": "So cool",
       "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "What Happened To The Heart? (Deluxe)",
+        "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Hearts Intuition",
+      "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "25",
-      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
         "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
       },
@@ -1287,6 +1271,38 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
         "name": "fear of looking stupid",
         "url": "https://open.spotify.com/album/2Ytf3TGP7VtlcKV8afZkwv"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 164812,
       "name": "fear of looking stupid",
       "url": "https://open.spotify.com/track/10q0rCqrt4souYm86tgt3Q"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1335,8 +1335,24 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0VUXnqYhSEbRpQiJ6pvcYt"
       },
       "artists": [
         {
@@ -1344,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+      "duration_ms": 198200,
+      "name": "25",
+      "url": "https://open.spotify.com/track/5AZbkQmVnvkCMX7kOIT6jg"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "SOLA LAGER SKYGGER",
-        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
       },
       "artists": [
         {
-          "name": "Rakkere",
-          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 144000,
-      "name": "UT\u00c5LMODIG",
-      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
+      "duration_ms": 236210,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1415,22 +1431,6 @@
       "duration_ms": 241500,
       "name": "For alltid",
       "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Movie Star",
-        "url": "https://open.spotify.com/album/2EVK7ogrwinAiH5ylrCVTR"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 236210,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "YOUNG: Part 1 & 2",
-        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/5NDlSfC0GVT5DRBSJkNX6b"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+          "name": "Briskeby",
+          "url": "https://open.spotify.com/artist/0vwcghB4GeosdKQs0SOizP"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 137160,
-      "name": "If I'm So Bad",
-      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
+      "duration_ms": 193134,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

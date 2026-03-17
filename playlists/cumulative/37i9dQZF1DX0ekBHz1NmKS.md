@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,186 songs - 4 day 17 hr 27 min
+2,187 songs - 4 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,6 +742,7 @@
 | [Grön hatt](https://open.spotify.com/track/4gXJGYvNwzgJIGxMc1iQnK) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Grön hatt](https://open.spotify.com/album/1PzD5BBmOQVFFJWhVI1XGm) | 3:02 | 2025-09-18 | 2025-10-10 |
 | [Gudarna](https://open.spotify.com/track/2vvPotS4SkvC51ArWhTso9) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Gudarna](https://open.spotify.com/album/4ihQSOM5BigfwUe2bFtcx5) | 3:33 | 2025-09-18 | 2025-11-14 |
 | [Gula löv i juli](https://open.spotify.com/track/1hJO3bkGwDV8JXELn6Qq1H) | [Olle Grafström](https://open.spotify.com/artist/4HUAGSGdrbp5JKBEClSIiG) | [Fegis](https://open.spotify.com/album/7MHJTM5ivTcBbE5eTfkvyU) | 2:12 | 2024-05-23 | 2024-06-28 |
+| [Gullmar Gospel](https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Gullmar Gospel](https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9) | 4:32 | 2026-03-12 |  |
 | [Gåshud](https://open.spotify.com/track/645fENOPS8d6qMzvHvp1ZL) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Gåshud](https://open.spotify.com/album/0wwgyVOVXQtEvA30BgmX4Q) | 3:35 | 2021-12-16 | 2022-01-12 |
 | [h4msterb0y <3 Canada](https://open.spotify.com/track/3tj6aTMyJBKaELb1Jj280s) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [h4msterb0y <3 Canada](https://open.spotify.com/album/68a1344ExnvtFpRfrM1aUu) | 3:22 | 2023-10-05 | 2023-12-02 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-04-18 |
@@ -1007,7 +1008,7 @@
 | [Jag borde gå](https://open.spotify.com/track/2v9FTezxTq2caERaOKGgdr) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Jag borde gå](https://open.spotify.com/album/4qFOfgIEz5MkWQCi5renDw) | 3:37 | 2024-10-10 | 2025-02-22 |
 | [Jag drömmer mig fri](https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3) | [Gustaf Rasch](https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh) | [Jag drömmer mig fri](https://open.spotify.com/album/3BDnwsKU1qJWNTSuCrzjqe) | 3:11 | 2024-05-23 | 2024-06-21 |
 | [Jag har en sång](https://open.spotify.com/track/5EEBaNtTSxGAFDDvF4u0to) | [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Jag har en sång](https://open.spotify.com/album/54APrhPiWgvMab1fFU8wiJ) | 1:12 | 2021-12-16 | 2022-05-10 |
-| [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 | 2025-11-20 |  |
+| [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 | 2025-11-20 | 2026-03-17 |
 | [Jag har hört \(hahaha\)](https://open.spotify.com/track/5o1xTXO39jqeXhieh98rPa) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Jag har hört \(hahaha\)](https://open.spotify.com/album/7c0z1WRR2XXs2C6DWZLbD6) | 3:05 | 2025-05-08 | 2025-10-17 |
 | [Jag hör också rösterna](https://open.spotify.com/track/5R2BEPAaK1X8XShxbH42H6) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Jag hör också rösterna](https://open.spotify.com/album/72jvBIYYhGQxAi5fAvHENi) | 4:05 | 2025-01-23 | 2025-05-23 |
 | [Jag kan släcka eld](https://open.spotify.com/track/4XjImCV3IkeMl25W11xaZu) | [Ambivalensen](https://open.spotify.com/artist/0ZF9JhwucCz0sMbxOGVa4Z) | [Jag kan släcka eld](https://open.spotify.com/album/6ERyREGoUSLHY1e2w8KQPb) | 3:04 | 2022-05-30 | 2022-07-07 |

@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1615946,
+  "num_followers": 1616203,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "duration_ms": 271299,
+      "name": "Nevada - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
         "name": "Close Eyes (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 214371,
       "name": "It's Ok - Slowed",
       "url": "https://open.spotify.com/track/5RKUztud1fb5UhO4gljjl7"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
-        "name": "Nevada",
-        "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
-      },
-      "artists": [
-        {
-          "name": "Vicetone",
-          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
-        },
-        {
-          "name": "Cozi Zuehlsdorff",
-          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
-        }
-      ],
-      "duration_ms": 271299,
-      "name": "Nevada - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
     },
     {
       "added_at": "2026-03-04 00:58:24",

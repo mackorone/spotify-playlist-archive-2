@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: J Trix
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,286 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,297 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 40 | [KAANCH](https://open.spotify.com/track/6l74gXSZa8d0kjogYcoN4b) | [Rijux](https://open.spotify.com/artist/43xfBsWMqTBrX7D23B4dXI), [AlphaInnit](https://open.spotify.com/artist/5QqAsiORiYEKMFBFSFTieZ) | [KAANCH](https://open.spotify.com/album/1UPq3FP9KBnz2NuxVFiakw) | 1:58 |
 | 41 | [just another 3 am voicenote.](https://open.spotify.com/track/2K1qajOQtL9kxBGBnPk9PU) | [DHAWAL?](https://open.spotify.com/artist/4uiVo2Xb8h3rLaGyB1i21K), [Shrain](https://open.spotify.com/artist/56Nt6tte4BcBwiUgb7QNIs) | [just another 3 am voicenote.](https://open.spotify.com/album/04fUK1LMbj3rnhX7woerrU) | 3:05 |
 | 42 | [Waqt Hai](https://open.spotify.com/track/3vj5Z9GtezpRIPCM4OzhMg) | [Tarun Music](https://open.spotify.com/artist/0QxsEeUCnpK9Qtc8PHPv39) | [Waqt Hai](https://open.spotify.com/album/5qezfzzca0VEM8o6j2PbVN) | 2:17 |
-| 43 | [Falling Stars](https://open.spotify.com/track/6g4tCZBEDdFQXXZt3cHkpS) | [DC](https://open.spotify.com/artist/0zWD4VF5pqFCbUL5EKPki6), [Aric](https://open.spotify.com/artist/2OrpZkU0ta565ZiULAfRWa) | [Falling Stars](https://open.spotify.com/album/5x6Th23fDzJV2ZsflxCdPR) | 4:00 |
+| 43 | [Falling Stars](https://open.spotify.com/track/6g4tCZBEDdFQXXZt3cHkpS) | [DC](https://open.spotify.com/artist/0zWD4VF5pqFCbUL5EKPki6), [Aric](https://open.spotify.com/artist/2OrpZkU0ta565ZiULAfRWa), [S4LT](https://open.spotify.com/artist/6CmtxPcuVbrEhMJQei5kvb) | [Falling Stars](https://open.spotify.com/album/5x6Th23fDzJV2ZsflxCdPR) | 4:00 |
 | 44 | [Akhiyaan](https://open.spotify.com/track/72FLYj0Q9jYGWIAmNuX0Ug) | [MC Headshot](https://open.spotify.com/artist/6GB1ip1cMehKYjKYnQLpSS), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [Akhiyaan](https://open.spotify.com/album/234NIaQush8xcec51Duk9t) | 3:21 |
 | 45 | [BARKAT](https://open.spotify.com/track/5qyYBaT6k8il20RrJjizQ1) | [Lil G](https://open.spotify.com/artist/2TumKyXmbqc1mDJGgfdF7e), [ICONIC](https://open.spotify.com/artist/5QGXRYSMscX0pghNkG1xt6) | [BARKAT](https://open.spotify.com/album/4csW3eJ9KNVpdRDdN8RkOi) | 3:37 |
 | 46 | [FLY](https://open.spotify.com/track/4YDvM7qeKwivPI0lBiH9WE) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [VVVV VOL\. 2](https://open.spotify.com/album/1m2FkAT18SmqCJEzKnYzIW) | 2:36 |

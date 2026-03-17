@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 71822,
+  "num_followers": 71823,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "A Man and His Music",
+        "url": "https://open.spotify.com/album/4APSTYkAov6ukQr1ENEluP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 623053,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 195906,
       "name": "Nuestro Juramento",
       "url": "https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "A Man and His Music",
-        "url": "https://open.spotify.com/album/4APSTYkAov6ukQr1ENEluP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 623053,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5"
     },
     {
       "added_at": "2024-07-05 02:05:16",

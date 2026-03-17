@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Yas Mayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,608 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,621 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 71 | [Wash Away](https://open.spotify.com/track/1jD16HoA2HqZvi4UR9COqA) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Wash Away](https://open.spotify.com/album/08dm0IDwGbe12jOialzXaD) | 2:32 |
 | 72 | [In The End](https://open.spotify.com/track/6E8vEr5MN0GH7xMW2jN8SD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99: The Prelude](https://open.spotify.com/album/5DOLO9rRo3YyKQcbYsrkqR) | 4:05 |
 
-Snapshot ID: `AAAAAIvbEBmqlY86inQML7d69UlzNNeW`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

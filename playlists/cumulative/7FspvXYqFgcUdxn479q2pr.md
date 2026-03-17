@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-1,016 songs - 2 day 3 hr 23 min
+1,017 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Delirious \(French Version\)](https://open.spotify.com/track/5nGPbqEmQ3ZutQGX4EHw9J) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Delirious \(French Version\)](https://open.spotify.com/album/3E2n6BmFnuxZP6kduifWT2) | 2:56 | 2025-01-31 | 2025-05-31 |
 | [Desire](https://open.spotify.com/track/3NKXegocytbsrQx6oDE29p) | [Sonny Bass](https://open.spotify.com/artist/3M6DDMNuxoccVfUSPgbupI), [Ken Bauer](https://open.spotify.com/artist/19bSyzqhV2NIVhHtqdFX7t) | [Desire](https://open.spotify.com/album/5lGLUpFRjaelgeFfM9O8Ri) | 3:03 | 2025-11-07 | 2026-02-07 |
 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 | 2024-12-19 | 2025-01-31 |
+| [Destiny](https://open.spotify.com/track/6erhyCSVFBPOsQ0P2gX6I8) | [Lahox](https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR) | [Destiny](https://open.spotify.com/album/2NWjnHBIAbmunqd41SnQrs) | 2:43 | 2026-03-16 |  |
 | [Devil In My Ear](https://open.spotify.com/track/0kmjQITLri3Y9p3AQf1QGN) | [STUBBVRN](https://open.spotify.com/artist/0MB1dBsdSg2vCCe4de3mKK) | [Devil In My Ear](https://open.spotify.com/album/1Xv5jwJP9X51RqDoPceJM9) | 3:57 | 2025-02-13 | 2025-05-31 |
 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 | 2025-02-20 | 2025-05-31 |
 | [Diamond In The Rough](https://open.spotify.com/track/7jGMJ4elJCN4Jqvep5d0Yi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Diamond In The Rough](https://open.spotify.com/album/5OkTkv5HihCPXVTzPOGu1q) | 3:10 | 2025-03-27 | 2025-05-31 |

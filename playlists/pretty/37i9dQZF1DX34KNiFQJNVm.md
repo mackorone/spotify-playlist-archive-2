@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem NATTAN,  Melody, Xamã com L7NNON, Alok com Khalid, Zara Larsson, Fernando & Sorocaba com Hugo & Guilherme e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,265,606 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,265,399 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 39 | [Fé Em Mim](https://open.spotify.com/track/2NoFJve03AaXJbQIbj5mnT) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Rod Rizz](https://open.spotify.com/artist/44C21oZdrybmbaepup96M2) | [Fé Em Mim](https://open.spotify.com/album/5VBCfgJkZ8Cx4uRw2x6946) | 3:54 |
 | 40 | [MINA QUENTE](https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [MINA QUENTE](https://open.spotify.com/album/5pBQJ5z4tz9sjBAjOOTVvE) | 2:31 |
 | 41 | [Só Lazer](https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Só Lazer](https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha) | 2:36 |
-| 42 | [17 Maçã](https://open.spotify.com/track/4eHUHKmSzzrc9tvUlWlVoc) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ) | [17 Maçã](https://open.spotify.com/album/4vMKx2mXh7idU2IGaMBvZI) | 2:44 |
+| 42 | [17 Maçã](https://open.spotify.com/track/4eHUHKmSzzrc9tvUlWlVoc) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Bradockdan](https://open.spotify.com/artist/79oTF8wB34af3vzzBLCqPJ), [MIB](https://open.spotify.com/artist/4xosFqu0sMEWvyR5Ye567q) | [17 Maçã](https://open.spotify.com/album/4vMKx2mXh7idU2IGaMBvZI) | 2:44 |
 | 43 | [Insônia](https://open.spotify.com/track/0BqbDoGHpshYIUSwkenpDx) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Insônia](https://open.spotify.com/album/2CDNSLrlYNGssiZtvyZM1O) | 2:16 |
 | 44 | [negro exigente](https://open.spotify.com/track/1P2TXeFBEkrrTsA57Io7z2) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10) | [Um Menino Bom](https://open.spotify.com/album/5z2lnD5GH411EpZjeiF1JE) | 2:26 |
 | 45 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 79 | [vou dar](https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [vou dar](https://open.spotify.com/album/6nzC1iVoGmATyDJu9BRH4n) | 2:23 |
 | 80 | [Medo](https://open.spotify.com/track/757ngUc1wC8VWyEMzivOv9) | [Inimigos Do Rei](https://open.spotify.com/artist/6vTljcFMuDleItFOuSKoyj) | [Medo](https://open.spotify.com/album/27By7SFafQ60MkQjPIwIxb) | 2:52 |
 
-Snapshot ID: `AAAAALmJhMlfnipDRcMAQOGChPTvRJ6T`
+Snapshot ID: `AAAAAO54nu1c0pmCCKvdH7CI7n8Fxqqf`

@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/0moBpPLrXkZ6tgAj26sAR1"
+      },
+      "artists": [
+        {
+          "name": "To Athena",
+          "url": "https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267146,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/5hNE72rnkzluE0wKrVtt68"
+    },
+    {
+      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
@@ -3280,7 +3298,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 186064,
       "name": "Hamsterrad Tristesse",
       "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
@@ -5120,6 +5138,24 @@
       "duration_ms": 206615,
       "name": "Madame Butterfly",
       "url": "https://open.spotify.com/track/09rdE3k9xetZ305UxCwWHG"
+    },
+    {
+      "album": {
+        "name": "MAGAZINE",
+        "url": "https://open.spotify.com/album/0cYqVU16YGVkCxA7MDkwLZ"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192157,
+      "name": "MAGAZINE",
+      "url": "https://open.spotify.com/track/2dPRivcJCUxhlV1PfS4cxV"
     },
     {
       "album": {
@@ -8326,7 +8362,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-17",
       "duration_ms": 194750,
       "name": "Type Of Way",
       "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"

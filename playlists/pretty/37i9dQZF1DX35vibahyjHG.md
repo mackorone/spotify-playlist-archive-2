@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Celebrating 5 Years of EQUAL in Africa\. <br/>Cover: <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=7zteM\_F1TqivzyT7mh4AaA">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,211 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,235 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 49 | [Lukaku](https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt) | [Nella](https://open.spotify.com/artist/1srgbcQlCI56byuqb1FphT) | [Lukaku](https://open.spotify.com/album/17ppUP83ffoLReW5NMdhaX) | 2:41 |
 | 50 | [Omi](https://open.spotify.com/track/05IaRCMLCvwCwNlgnRFwm0) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK) | [Omi / Isimi](https://open.spotify.com/album/3DRCIHtVdKAF15uuxB4frA) | 2:32 |
 
-Snapshot ID: `AAAAAFn3dpIH1XcaOoVBAT+qsBq/6Tcy`
+Snapshot ID: `AAAAADCb3JZdaRQJAButwL/i0M9xhDKn`

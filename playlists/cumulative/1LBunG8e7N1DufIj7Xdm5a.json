@@ -74803,6 +74803,24 @@
     },
     {
       "album": {
+        "name": "Worth the wait",
+        "url": "https://open.spotify.com/album/2nRP98u8PQm1v1dz0JqgrE"
+      },
+      "artists": [
+        {
+          "name": "Jivarp",
+          "url": "https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8"
+        }
+      ],
+      "date_added": "2026-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Worth the wait",
+      "url": "https://open.spotify.com/track/0Q3kUTUPN2tnAAAP5QX0Eh"
+    },
+    {
+      "album": {
         "name": "Wounded",
         "url": "https://open.spotify.com/album/0tKcSl23jpR4cj4udUsrBv"
       },
