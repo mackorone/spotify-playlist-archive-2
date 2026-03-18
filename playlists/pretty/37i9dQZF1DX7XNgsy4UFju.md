@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment\. Cover: Good Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,379 likes - 101 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,375 likes - 101 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 23 | [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 |
 | 24 | [All the Things You Love](https://open.spotify.com/track/4XKBXkJUB1lTmR4SDDy64i) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Space Cadet Soundtrack Sampler \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Ztwy3WjgwizHLz6E5RffA) | 3:28 |
 | 25 | [My Friend](https://open.spotify.com/track/0ESRB5ig0fO9YfRTHlooWC) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [My Friend](https://open.spotify.com/album/2dmWFCfxp4ZPXWO6548Mmv) | 2:33 |
-| 26 | [Let's Kill Ourselves](https://open.spotify.com/track/0kxUpznSeIWT5F9aIResEX) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4), [TECH G1RLS](https://open.spotify.com/artist/7ovbiLZYhdhg5iwUCQwhHH) | [Let's Kill Ourselves](https://open.spotify.com/album/688kfxNUR2dH3MWVpDNDif) | 3:32 |
+| 26 | [Let's Kill Ourselves](https://open.spotify.com/track/0kxUpznSeIWT5F9aIResEX) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4), [TECHG1RLS](https://open.spotify.com/artist/678POdhSIvZpxx6cOkdRsn) | [Let's Kill Ourselves](https://open.spotify.com/album/688kfxNUR2dH3MWVpDNDif) | 3:32 |
 | 27 | [Navigation](https://open.spotify.com/track/3l6j12OekR484QBIbttlrx) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [Navigation](https://open.spotify.com/album/0KRaV9siJDBA1caBwQKnFa) | 1:39 |
 | 28 | [1999](https://open.spotify.com/track/5diLSr4cPJIgopAGt2MWlw) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [1999](https://open.spotify.com/album/7qJRJWYdkHzZmgh8F4e3k0) | 4:28 |
 | 29 | [It's A Shame You Swim So Well](https://open.spotify.com/track/68R5SgLmvLpX5F6SMmgRIn) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [It's A Shame You Swim So Well](https://open.spotify.com/album/60BujIdoaJj1QfhLGbDu58) | 4:20 |

@@ -12472,7 +12472,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 251600,
       "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
       "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
@@ -14468,7 +14468,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 242000,
       "name": "\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK"
@@ -18430,6 +18430,50 @@
       "duration_ms": 240000,
       "name": "\u9c57\u7c89(Butterfly Scales)",
       "url": "https://open.spotify.com/track/6vnt0yk7gOXJ8Y6mM6msMf"
+    },
+    {
+      "album": {
+        "name": "\u9ec4\u660f\u30bd\u30a6\u30eb",
+        "url": "https://open.spotify.com/album/18z2SBAhbb34oqQfEIIbhp"
+      },
+      "artists": [
+        {
+          "name": "\u8352\u8c37\u7fd4\u5927",
+          "url": "https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "\u9ec4\u660f\u30bd\u30a6\u30eb",
+      "url": "https://open.spotify.com/track/0DI40ZhWKyKeCRt1velkE5"
+    },
+    {
+      "album": {
+        "name": "\u9ec4\u660f\u30d7\u30ea\u30ba\u30e0 -Waves of First Love- (feat. \u8ca1\u6d25\u30de\u30a4)",
+        "url": "https://open.spotify.com/album/1LlbbfyB5piSAdJPzHFh6R"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u8ca1\u6d25\u30de\u30a4",
+          "url": "https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3"
+        },
+        {
+          "name": "KiBi",
+          "url": "https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "\u9ec4\u660f\u30d7\u30ea\u30ba\u30e0 -Waves of First Love- (feat. \u8ca1\u6d25\u30de\u30a4)",
+      "url": "https://open.spotify.com/track/2nJPGKmKqdvoIXk32AEmKN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdY5tVYFPWb2"

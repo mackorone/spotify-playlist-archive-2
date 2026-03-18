@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Iceage
 
-1,891 songs - 4 day 13 hr 34 min
+1,892 songs - 4 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-03-23 | 2023-03-31 |
 | [Black Tuesday](https://open.spotify.com/track/5VBp2Lwui2pQ09NoEpQQf2) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Black Tuesday](https://open.spotify.com/album/1ldgcoD5YK1PIfZ3lUaHHe) | 1:32 | 2023-11-30 | 2023-12-08 |
 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 | 2025-04-12 |
+| [Blackout](https://open.spotify.com/track/37aKSDoS7Sk2E7t158x9Ru) | [loveshy](https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv) | [Blackout](https://open.spotify.com/album/0deZxYvag6SVVVHYTIcRyN) | 2:41 | 2026-03-12 |  |
 | [Blame](https://open.spotify.com/track/7fEEIa4xFz9bhv55ZcxG6m) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Blame](https://open.spotify.com/album/0JV96dnVLdhJB91ciuoeVg) | 3:37 | 2023-10-12 | 2023-10-20 |
 | [blame \(feat\. Valley\)](https://open.spotify.com/track/3oaUVz98IlIICzuxLyUvyG) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The Maine \(deluxe\)](https://open.spotify.com/album/2U5AQJj6WHdMYMuLWDun6q) | 3:10 | 2024-01-11 | 2024-01-26 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-09-21 | 2023-12-22 |
@@ -1320,7 +1321,7 @@
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-16 | 2025-05-23 |
 | [RAINBOWS](https://open.spotify.com/track/0kXgnZe4a43OUzt5y6lHUt) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [RAINBOWS](https://open.spotify.com/album/3eCS3qFlYjSPYhJCV8UTdj) | 3:44 | 2024-02-29 | 2024-05-03 |
 | [Raise Your Hands](https://open.spotify.com/track/1WAgMzQu2hQcJlmRu3P6Cp) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 4:20 | 2024-02-29 | 2024-05-10 |
-| [Rapture \- Gloom Version](https://open.spotify.com/track/5XbRfCQFWSNEbLGqHsWmcL) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Rapture \(Gloom Version\)](https://open.spotify.com/album/6hpaXH0l9NHA2eFwamE2pN) | 3:35 | 2026-03-05 |  |
+| [Rapture \- Gloom Version](https://open.spotify.com/track/5XbRfCQFWSNEbLGqHsWmcL) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Rapture \(Gloom Version\)](https://open.spotify.com/album/6hpaXH0l9NHA2eFwamE2pN) | 3:35 | 2026-03-05 | 2026-03-18 |
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-05-23 | 2026-03-13 |
 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 | 2023-04-27 | 2023-05-12 |
 | [Ray Gun \- Edit](https://open.spotify.com/track/1cxKrmIvPwhyOeISnLqUBs) | [SHYGUY](https://open.spotify.com/artist/15BqzuxaSsJfB4y8X3S2bC) | [Ray Gun / Here She Comes](https://open.spotify.com/album/5NTg78B0XYXWm1hGM7nUkq) | 3:21 | 2024-01-18 | 2024-01-26 |

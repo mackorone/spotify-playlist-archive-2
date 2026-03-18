@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 325272,
+  "num_followers": 325377,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
-        "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        }
-      ],
-      "duration_ms": 162386,
-      "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
-      "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Las No. 1 Instrumentales",
         "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 283573,
       "name": "Piano",
       "url": "https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered Edition]",
+        "url": "https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq"
+      },
+      "artists": [
+        {
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
+        }
+      ],
+      "duration_ms": 162386,
+      "name": "The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)",
+      "url": "https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 142986,
+      "name": "Les Parapluies de Cherbourg",
+      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "The New Limelight",
         "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 166293,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7kH1ncrh5yN5vGSWSAW8wT"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 142986,
-      "name": "Les Parapluies de Cherbourg",
-      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
     },
     {
       "added_at": "2025-02-14 17:45:29",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "Latin-Esque",
-        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
-      },
-      "artists": [
-        {
-          "name": "Esquivel!",
-          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
-        }
-      ],
-      "duration_ms": 186536,
-      "name": "Latin-Esque",
-      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tony Mottola y Su Orquesta",
         "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 113880,
       "name": "Woodpecker Song",
       "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "Latin-Esque",
+        "url": "https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq"
+      },
+      "artists": [
+        {
+          "name": "Esquivel!",
+          "url": "https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi"
+        }
+      ],
+      "duration_ms": 186536,
+      "name": "Latin-Esque",
+      "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
     },
     {
       "added_at": "2025-02-14 17:45:29",

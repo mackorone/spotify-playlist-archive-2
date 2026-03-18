@@ -1833,6 +1833,40 @@
     },
     {
       "album": {
+        "name": "Adada (From \"Carmeni Selvam\")",
+        "url": "https://open.spotify.com/album/5mwnvavsKavu9lPpaGALiu"
+      },
+      "artists": [
+        {
+          "name": "Ramanujan Mk",
+          "url": "https://open.spotify.com/artist/6VV8fur30XzviTAo3bYYwX"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Hriday Goswami",
+          "url": "https://open.spotify.com/artist/4IpSIc9T223yFJHve2gVF7"
+        },
+        {
+          "name": "Jeevan Joy",
+          "url": "https://open.spotify.com/artist/44g1IBJELLrMD6frEhgYjY"
+        },
+        {
+          "name": "Ruhee Ahamed",
+          "url": "https://open.spotify.com/artist/5dnAsZKi9x6fXJlNP44csG"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174540,
+      "name": "Adada (From \"Carmeni Selvam\")Tamil",
+      "url": "https://open.spotify.com/track/1tKECk0SaC2cOtN4L688YG"
+    },
+    {
+      "album": {
         "name": "Adada Adada Anandhame (From \"Company\")",
         "url": "https://open.spotify.com/album/50XjTGebTHML0kdpJ0Xbrs"
       },
@@ -8070,7 +8104,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 232077,
       "name": "Chella Magale (From \"Jana Nayagan\")",
       "url": "https://open.spotify.com/track/5DDLAB4LebIL5capAAHBFa"
@@ -13614,7 +13648,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 218191,
       "name": "Fly High (Tamil)",
       "url": "https://open.spotify.com/track/19lMyuy2UDyR4Y2ffTzaN1"
@@ -14662,7 +14696,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 159000,
       "name": "Haiyo Maattikkinaan",
       "url": "https://open.spotify.com/track/4fBHjfMJSEHyTdzclwUKKF"
@@ -22568,7 +22602,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 145164,
       "name": "Kasukkum Theriyadhu",
       "url": "https://open.spotify.com/track/72ClhyoRHFI8gMmSpEOlRg"
@@ -25848,7 +25882,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 234929,
       "name": "Maatikitaan Minorkunju (From \"Thaai Kizhavi\")",
       "url": "https://open.spotify.com/track/3dvTZklcHbAgxA4fpi7cyb"
@@ -27044,6 +27078,24 @@
       "duration_ms": 190500,
       "name": "Mana Magane",
       "url": "https://open.spotify.com/track/7G6YSEIDZ7MjXJ4oIuRLeA"
+    },
+    {
+      "album": {
+        "name": "Maname",
+        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Black",
+          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Maname",
+      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
     },
     {
       "album": {
@@ -28642,7 +28694,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 272458,
       "name": "Mellamai",
       "url": "https://open.spotify.com/track/2YP2e2MZKgXELIDzIh1MEP"
@@ -30206,7 +30258,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 257142,
       "name": "Muthaarame",
       "url": "https://open.spotify.com/track/19PjjsiIzeUzPXCgdzaiPa"
@@ -32702,7 +32754,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 274433,
       "name": "Neelothi (From \"Sirai\")",
       "url": "https://open.spotify.com/track/6wqwVre9LoGnsUUzukxUy3"
@@ -32854,7 +32906,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 183833,
       "name": "Neeyedhan",
       "url": "https://open.spotify.com/track/7aRSrkljTz3xMzkrsBacYL"
@@ -34038,7 +34090,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 172453,
       "name": "Oar Thoorale",
       "url": "https://open.spotify.com/track/2QARTBUKy2Sm0B5DqsoqVs"
@@ -36750,7 +36802,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 220156,
       "name": "Pandi Muni Varaan (From \"Vadam\")",
       "url": "https://open.spotify.com/track/2lrUcw7nHm01o1vbnlZ8CW"
@@ -43678,7 +43730,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 243214,
       "name": "Singee Singee",
       "url": "https://open.spotify.com/track/4UeQxRpdmU4BUpUHovMjiO"
@@ -47194,7 +47246,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 259363,
       "name": "Thannila Kandam - Vengeance",
       "url": "https://open.spotify.com/track/0rBS6dyYZ0WVG54rw5qPO6"
@@ -48898,7 +48950,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 218955,
       "name": "Thira Nee Endhan Tharani Thira Nee (From \"KD\")",
       "url": "https://open.spotify.com/track/0QiK2p1F7LwOPmCB1P2KUZ"
@@ -53040,7 +53092,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 206217,
       "name": "Vaalile Samurai x Rajavin Paarvai (From \"Vaa Vaathiyaar\")",
       "url": "https://open.spotify.com/track/6aDxnH2dZ4JuiDBKRHH9qi"

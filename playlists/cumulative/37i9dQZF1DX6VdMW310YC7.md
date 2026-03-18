@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,872 songs - 5 day 7 hr 8 min
+1,873 songs - 5 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Begin \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0q59zQZgCwEhwzzipPvWoZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 4:02 | 2020-05-18 | 2022-04-21 |
 | [Begin By Letting Go](https://open.spotify.com/track/2CRx925YeUuCmXnb76IGZb) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Etherwood](https://open.spotify.com/album/2QjEkNJlzz3sxP10unu8F5) | 4:21 | 2020-05-18 | 2020-07-03 |
 | [Behind The Line](https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D), [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [Behind The Line](https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9) | 5:33 | 2025-01-24 | 2026-01-24 |
-| [Believe](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Believe](https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX) | 3:58 | 2026-02-20 |  |
+| [Believe](https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [Believe](https://open.spotify.com/album/2XV2dgQQYYet2pU8RtjufX) | 3:58 | 2026-02-20 | 2026-03-18 |
 | [Believe](https://open.spotify.com/track/3ISqJrqSULAszi0B0tB1OX) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Who You Are EP](https://open.spotify.com/album/4ebgeJzWzstciDwvXNgS4G) | 4:00 | 2021-04-30 | 2022-07-29 |
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
@@ -284,6 +284,7 @@
 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 | 2022-02-11 | 2023-09-09 |
 | [Cindy Goes to a Party](https://open.spotify.com/track/4MYK3rV2c8Pg6dh9eLa1rR) | [Closed Paradise](https://open.spotify.com/artist/0YZ8P1HorExdSXoONm7tFB) | [Something Else](https://open.spotify.com/album/39tHyB5rgbkZNBMqfcYqk0) | 5:42 | 2020-03-20 | 2021-12-21 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2020-05-22 | 2020-07-18 |
+| [Civilian World](https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Civilian World](https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH) | 7:36 | 2026-03-13 |  |
 | [Clair de Tulum](https://open.spotify.com/track/3ATqHnrwMf3kAyjEfchWME) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 2:35 | 2020-03-20 | 2022-08-20 |
 | [Clear Mind](https://open.spotify.com/track/5GjPEyBoZHLA4xytXahbAx) | [Ryyta](https://open.spotify.com/artist/6oePW0Lmf0O9f5xUU24O8c) | [Clear Mind](https://open.spotify.com/album/0F0iFf9Y7Xjh1gerGdcECz) | 7:32 | 2020-05-19 | 2020-10-19 |
 | [Clearest Blue \- Gryffin Remix](https://open.spotify.com/track/5JNOYtRd2E9QiwosqMCBmZ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Every Open Eye \(Extended Edition\)](https://open.spotify.com/album/0ytgAfCjv6U5BMEDrQgCwX) | 4:19 | 2020-05-18 | 2020-07-03 |

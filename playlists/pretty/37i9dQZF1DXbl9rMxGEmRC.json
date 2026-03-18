@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics. Cover: Behemoth",
-  "num_followers": 464038,
+  "num_followers": 464046,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Helldorado",
-        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
-      },
-      "artists": [
-        {
-          "name": "Spiritworld",
-          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Waiting on the Reaper",
-      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Battles in the North",
         "url": "https://open.spotify.com/album/1XcSeRzPDXZfgatgAWB1zw"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 274586,
       "name": "Blashyrkh - Mighty Ravendark",
       "url": "https://open.spotify.com/track/6vb8Hy0CgjdDeLcD9UR4tW"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Helldorado",
+        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Waiting on the Reaper",
+      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The Agony & Ecstasy of Watain",
-        "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Ecstasies in night infinite",
-      "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Vultures of North",
         "url": "https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 278181,
       "name": "Vultures of North",
       "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "The Agony & Ecstasy of Watain",
+        "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Ecstasies in night infinite",
+      "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "The Age Of Nero",
-        "url": "https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Black Crow on a Tombstone",
-      "url": "https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Muuntautuja",
         "url": "https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 270240,
       "name": "Muuntautuja",
       "url": "https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "The Age Of Nero",
+        "url": "https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Black Crow on a Tombstone",
+      "url": "https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "From The Inside",
-        "url": "https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2"
+        "name": "How's The Heart?",
+        "url": "https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ"
       },
       "artists": [
         {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
         }
       ],
-      "duration_ms": 368000,
-      "name": "From The Inside",
-      "url": "https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI"
+      "duration_ms": 238760,
+      "name": "Of Course I Still Love You",
+      "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "How's The Heart?",
-        "url": "https://open.spotify.com/album/2jpIYGOmQAMdH3jmT4x7bJ"
+        "name": "From The Inside",
+        "url": "https://open.spotify.com/album/5rLz0FCrDlU8zsSjFpKQo2"
       },
       "artists": [
         {
-          "name": "Bloodred Hourglass",
-          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
         }
       ],
-      "duration_ms": 238760,
-      "name": "Of Course I Still Love You",
-      "url": "https://open.spotify.com/track/6R0CR57ZXuavpJ0DsOT8Nu"
+      "duration_ms": 368000,
+      "name": "From The Inside",
+      "url": "https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
-      },
-      "artists": [
-        {
-          "name": "Absu",
-          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Pillars Of Mercy",
-      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
       },
       "artists": [
         {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+          "name": "Absu",
+          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
         }
       ],
-      "duration_ms": 366333,
-      "name": "Maha-Kali",
-      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
+      "duration_ms": 261693,
+      "name": "Pillars Of Mercy",
+      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -975,6 +959,22 @@
       "duration_ms": 637338,
       "name": "Irjala",
       "url": "https://open.spotify.com/track/4BPwtlhUzUnUhBnt5rMbcC"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Maha-Kali",
+      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Slasher",
-        "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
-      },
-      "artists": [
-        {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "Slasher",
-      "url": "https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Songs Of The Dusk - EP",
         "url": "https://open.spotify.com/album/56gvAlr6FY7iXFmF3Lx2pN"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 410746,
       "name": "Stained in Red",
       "url": "https://open.spotify.com/track/5Ypnghtx7Ezzf5x16PDpDC"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Slasher",
+        "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
+      },
+      "artists": [
+        {
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "Slasher",
+      "url": "https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Saoirse",
-        "url": "https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz"
-      },
-      "artists": [
-        {
-          "name": "Rotting Christ",
-          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
-        }
-      ],
-      "duration_ms": 377453,
-      "name": "Saoirse",
-      "url": "https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Hellbirds",
         "url": "https://open.spotify.com/album/3EXJcYYzCFx3m4ankVY5OY"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 274560,
       "name": "Hellbirds",
       "url": "https://open.spotify.com/track/2U72WcsoIurnXk2dPBMqKX"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Saoirse",
+        "url": "https://open.spotify.com/album/6zhT0ZNSRJWVCyWiyyeCLz"
+      },
+      "artists": [
+        {
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        }
+      ],
+      "duration_ms": 377453,
+      "name": "Saoirse",
+      "url": "https://open.spotify.com/track/1YtnZi7QgKE3rcgg91mDKn"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Like Father, Like Son",
-        "url": "https://open.spotify.com/album/1um5CPg2zB0RxCBXFYZmLY"
-      },
-      "artists": [
-        {
-          "name": "Rotting Christ",
-          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
-        }
-      ],
-      "duration_ms": 275453,
-      "name": "Like Father, Like Son",
-      "url": "https://open.spotify.com/track/121EREaiCm9ZNz70IvD7RC"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Veil of Death, Ruptured",
         "url": "https://open.spotify.com/album/2mrjtCZq2BqaJL2sojoaln"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 292547,
       "name": "Ignem Purificat Lilitu",
       "url": "https://open.spotify.com/track/22vkvo2Ey5e3Yzx2oDFmWN"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Like Father, Like Son",
+        "url": "https://open.spotify.com/album/1um5CPg2zB0RxCBXFYZmLY"
+      },
+      "artists": [
+        {
+          "name": "Rotting Christ",
+          "url": "https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ"
+        }
+      ],
+      "duration_ms": 275453,
+      "name": "Like Father, Like Son",
+      "url": "https://open.spotify.com/track/121EREaiCm9ZNz70IvD7RC"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "Insides Out",
-        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 212183,
-      "name": "Insides Out",
-      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Hail the Abyss",
         "url": "https://open.spotify.com/album/3dGCSviVjsc466RJYlR0DI"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 258590,
       "name": "On the Wings of Cosmic Fire",
       "url": "https://open.spotify.com/track/4MjToDaPoADzwE6QzjcAno"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "Insides Out",
+        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Insides Out",
+      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
     },
     {
       "added_at": "2025-07-04 07:24:43",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2025-07-04 07:24:43",
       "album": {
-        "name": "PILGRIMAGE TO OBLIVION",
-        "url": "https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf"
-      },
-      "artists": [
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
-        }
-      ],
-      "duration_ms": 260545,
-      "name": "PILGRIMAGE TO OBLIVION",
-      "url": "https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx"
-    },
-    {
-      "added_at": "2025-07-04 07:24:43",
-      "album": {
         "name": "Origin of Fire",
         "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 200253,
       "name": "Fire, Walk With Me",
       "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
+    },
+    {
+      "added_at": "2025-07-04 07:24:43",
+      "album": {
+        "name": "PILGRIMAGE TO OBLIVION",
+        "url": "https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf"
+      },
+      "artists": [
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+        }
+      ],
+      "duration_ms": 260545,
+      "name": "PILGRIMAGE TO OBLIVION",
+      "url": "https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx"
     },
     {
       "added_at": "2025-07-04 07:24:43",

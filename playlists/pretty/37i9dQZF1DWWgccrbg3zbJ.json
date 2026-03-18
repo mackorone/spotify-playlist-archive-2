@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 572877,
+  "num_followers": 573255,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -133,7 +133,7 @@
         }
       ],
       "duration_ms": 180040,
-      "name": "Samba De Uma Nota S\u00f3",
+      "name": "Samba de Uma Nota S\u00f3",
       "url": "https://open.spotify.com/track/1CKhZVUyHhXKtN6Bo68xqq"
     },
     {
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-02-24 07:51:12",
       "album": {
+        "name": "Pure Bossa Nova",
+        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
+    },
+    {
+      "added_at": "2026-02-24 07:51:12",
+      "album": {
         "name": "20 Grandes Sucessos De Vinicius De Moreas",
         "url": "https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 54520,
       "name": "A Tonga Da Mironga Do Kabulet\u00ea",
       "url": "https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM"
-    },
-    {
-      "added_at": "2026-02-24 07:51:12",
-      "album": {
-        "name": "Pure Bossa Nova",
-        "url": "https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm"
     },
     {
       "added_at": "2026-02-24 07:51:12",

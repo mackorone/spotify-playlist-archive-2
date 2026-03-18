@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 177986,
+  "num_followers": 178019,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABPBSMOGkglO192dTF+Lqbs",
+  "snapshot_id": "abdIAAAAAABYy1+BzjeQFjjuVVEK7ZQk",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 88798,
-      "name": "El Trote",
-      "url": "https://open.spotify.com/track/4r0Z65yr2es49w85G2tB16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alta Jerarquia (El Patr\u00f3n)",
         "url": "https://open.spotify.com/album/0hTSs8AKjoZH8oGJdfJPmJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 208386,
       "name": "No Digas Na",
       "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 88798,
+      "name": "El Trote",
+      "url": "https://open.spotify.com/track/4r0Z65yr2es49w85G2tB16"
     },
     {
       "added_at": null,

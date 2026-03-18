@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Electronic Dance Money",
+        "url": "https://open.spotify.com/album/1s50EJGDl2gX42KhFqldII"
+      },
+      "artists": [
+        {
+          "name": "Avalanche The Architect",
+          "url": "https://open.spotify.com/artist/0rAfURui6u3sPXCYn4f98D"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204815,
+      "name": "Electronic Dance Money",
+      "url": "https://open.spotify.com/track/1LoukH4NkFEDdJOUVXQhQo"
+    },
+    {
+      "album": {
         "name": "Chita Drita",
         "url": "https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv"
       },
@@ -10324,7 +10342,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 176862,
       "name": "\u0411\u044b\u0442\u044c \u0431\u043e\u0433\u0430\u0442\u044b\u043c",
       "url": "https://open.spotify.com/track/3fvTuOnHeSB2OGXNqsmVnd"
@@ -15640,7 +15658,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
@@ -16720,7 +16738,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "\u0422\u043e\u043d\u0443",
       "url": "https://open.spotify.com/track/3dxOjnX03UHPUYW7bBikVu"
@@ -16910,7 +16928,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 145942,
       "name": "\u0442\u044b \u043b\u044e\u0431\u0438\u0448\u044c \u0442\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT"
@@ -17642,7 +17660,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 133673,
       "name": "\u0427\u0435\u043c \u043f\u0440\u0435\u0436\u0434\u0435",
       "url": "https://open.spotify.com/track/478CzISMbm999Iq4HtKUut"

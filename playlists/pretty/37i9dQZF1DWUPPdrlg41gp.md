@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,201 likes - 43 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,197 likes - 43 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 | 16 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 |
 | 17 | [Stronger Than A Storm \(From Twisters: The Album\)](https://open.spotify.com/track/4ECXedCLzhRLZf37ldypkW) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Stronger Than A Storm \(From Twisters: The Album\)](https://open.spotify.com/album/29IIvMP2N6HPMEkYhFOJG4) | 4:06 |
 | 18 | [Chasing The Wind \(From Twisters: The Album\)](https://open.spotify.com/track/4mHdAULC00S2UpPk3GCJoC) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Chasing The Wind \(From Twisters: The Album\)](https://open.spotify.com/album/26fLVcK9euUBhNCofZRIfZ) | 2:53 |
-| 19 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
+| 19 | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT) | [Jelly Roll](https://open.spotify.com/artist/1aJya6ffz7a0CLVG2nfYYm), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Leave The Light On \(feat\. Alexandra Kay\) \[From Twisters: The Album\]](https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi) | 3:20 |
 | 20 | [Before I Do \(From Twisters: The Album\)](https://open.spotify.com/track/2MYX1N3mcAKWm1wJb8TrEe) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y), [Jake Kohn](https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw) | [Before I Do \(From Twisters: The Album\)](https://open.spotify.com/album/52ITG4eO3CJIaa8Q6XtUFU) | 3:49 |
 | 21 | [Caddo County \(From Twisters: The Album\)](https://open.spotify.com/track/3cGCYBkax44h7fgFozKPWx) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Caddo County \(From Twisters: The Album\)](https://open.spotify.com/album/6MXLO3MaSXst2lw5yEGMoy) | 3:21 |
 | 22 | [Blackberry Wine \(From Twisters: The Album\)](https://open.spotify.com/track/2NnrhqvVreSXdV6AjfzDcd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Blackberry Wine \(From Twisters: The Album\)](https://open.spotify.com/album/1XEmZVqw8J7ufvXOSgiv2W) | 3:33 |

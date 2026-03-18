@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,172 songs - 9 day 6 hr 11 min
+4,173 songs - 9 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Clout Chase \(another\)](https://open.spotify.com/track/2G4WOE6qWsiaLFUGRP1fid) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:22 | 2025-09-17 |  |
 | [Club's alive neon gleam Stars above in our dream](https://open.spotify.com/track/2tO2XxnmLCZiqWgz0CQA27) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 2:07 | 2025-09-18 |  |
 | [CLUB27](https://open.spotify.com/track/1MFn0KPMspqpa0ILqbOzln) | [Pit](https://open.spotify.com/artist/14ZHs6m8Ux6wJ2N3H3iG7y) | [I peggiori insuccessi](https://open.spotify.com/album/2I88zlfqeMrQ2Ambn4NRDh) | 2:56 | 2025-06-01 |  |
+| [Cntrl](https://open.spotify.com/track/51HmjVo8lAH1twucy7t2BP) | [Jeremiah Denis](https://open.spotify.com/artist/6AEHyEcZyO5lqd13SS5nYl) | [Cntrl](https://open.spotify.com/album/1Hq1GfwDxxO6xRNypJtLQu) | 1:39 | 2026-03-17 |  |
 | [COCA E MIGNOTTE NEL LOCALE A MILANO](https://open.spotify.com/track/14GYz3XIXbm8fE9RMjYIUt) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [COCA E MIGNOTTE NEL LOCALE A MILANO](https://open.spotify.com/album/1OBzAPfAD3ub25FX34INYq) | 3:05 | 2025-04-04 |  |
 | [Cocoon](https://open.spotify.com/track/2zuuDEvomuzLVJUNOsQp8C) | [Kat MacKenzie](https://open.spotify.com/artist/17U9gqJry6GtFBLzX9vOpa) | [Cocoon](https://open.spotify.com/album/5XIYncE7rtVQEpSxgryCTX) | 4:17 | 2025-07-03 |  |
 | [Coffee Cups](https://open.spotify.com/track/7vXDk9OdkQo0c7peC7HOUq) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 3:47 | 2025-07-02 |  |

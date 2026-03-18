@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Averie",
+  "description": "The best new music by independent artists and labels. Cover: Cheeky Leash",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 139322,
       "name": "1Mhz*",
       "url": "https://open.spotify.com/track/0FDGvjQns8s2x3S3RCPq7g"
@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 303316,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/2H6Bt6sEYJ5BKamS0Y43f8"
@@ -5082,6 +5082,24 @@
       "duration_ms": 169737,
       "name": "BABYMAN",
       "url": "https://open.spotify.com/track/0ijCqg7FRUx5RPcEAESmGY"
+    },
+    {
+      "album": {
+        "name": "Babytooth",
+        "url": "https://open.spotify.com/album/5FjIwivxMrc2basbR7DfzY"
+      },
+      "artists": [
+        {
+          "name": "Molly Jane",
+          "url": "https://open.spotify.com/artist/68eZomxxQjWkOUwBqJ9iIs"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235143,
+      "name": "Babytooth",
+      "url": "https://open.spotify.com/track/3CfMwRTHmtzUToOcqgzXhF"
     },
     {
       "album": {
@@ -5802,6 +5820,24 @@
       "duration_ms": 187949,
       "name": "Badness Issa Habit",
       "url": "https://open.spotify.com/track/4sBkozNiL0UXVinXOE030C"
+    },
+    {
+      "album": {
+        "name": "Bag Of Sand",
+        "url": "https://open.spotify.com/album/24G3gqxBJkrcv4fRbC1HXQ"
+      },
+      "artists": [
+        {
+          "name": "Day Dreamers",
+          "url": "https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Bag Of Sand",
+      "url": "https://open.spotify.com/track/6xPIof8affSfAo4ADpcEFC"
     },
     {
       "album": {
@@ -23881,6 +23917,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1yGXaDRHNo3G0qZSfGCSPg"
+      },
+      "artists": [
+        {
+          "name": "CHEEKY LEASH",
+          "url": "https://open.spotify.com/artist/0GYFiPuwjW4xyTfodxKEOL"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204950,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0GqAS4RZn7LrmCE1KEoUqE"
+    },
+    {
+      "album": {
         "name": "Falling Away",
         "url": "https://open.spotify.com/album/3yjeisWRJnusRrjswpZCqi"
       },
@@ -27592,7 +27646,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 66360,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ"
@@ -31019,6 +31073,24 @@
     },
     {
       "album": {
+        "name": "OFF WITH THE FAIRIES",
+        "url": "https://open.spotify.com/album/0XgpdMrSgHSDdTBDvf87bo"
+      },
+      "artists": [
+        {
+          "name": "Destrends",
+          "url": "https://open.spotify.com/artist/0WmjTtt7gMr7qCp2DiZJUh"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186635,
+      "name": "Hard To Love",
+      "url": "https://open.spotify.com/track/4t8I0XRryTQ5Db3bBvbtDj"
+    },
+    {
+      "album": {
         "name": "Hard To Tell",
         "url": "https://open.spotify.com/album/3aM1hjyXrIHsgfzj36GN6d"
       },
@@ -31254,7 +31326,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 146941,
       "name": "Have You Had Enough",
       "url": "https://open.spotify.com/track/0TULlBaMExTxVw9Gkc62IB"
@@ -33868,7 +33940,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 168818,
       "name": "Houston",
       "url": "https://open.spotify.com/track/0caKZQcpTAalVAlJguSIn5"
@@ -52211,6 +52283,28 @@
     },
     {
       "album": {
+        "name": "David Jones / O-Week",
+        "url": "https://open.spotify.com/album/3NznKUtb10u9aSwRirrFcg"
+      },
+      "artists": [
+        {
+          "name": "Villyszn",
+          "url": "https://open.spotify.com/artist/7xeCKeCdFe2fnFprY0yZul"
+        },
+        {
+          "name": "Jorda",
+          "url": "https://open.spotify.com/artist/2c69Dm8j44qEfglHXq3oKU"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "O Week",
+      "url": "https://open.spotify.com/track/7Ku76TOXG52EV5K5AiH7qk"
+    },
+    {
+      "album": {
         "name": "O.T.N",
         "url": "https://open.spotify.com/album/1vXOVLCxW1b4gAnQfQN39Y"
       },
@@ -67545,6 +67639,24 @@
     },
     {
       "album": {
+        "name": "Spiderweb",
+        "url": "https://open.spotify.com/album/3kFrJuoQvX4f0mTmqnWAUI"
+      },
+      "artists": [
+        {
+          "name": "Jannah Beth",
+          "url": "https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203299,
+      "name": "Spiderweb",
+      "url": "https://open.spotify.com/track/7kWd9l6xNc9A6lIgQfkIu8"
+    },
+    {
+      "album": {
         "name": "SPIT!",
         "url": "https://open.spotify.com/album/0yEo2sSFG39I0dYb1aCMPs"
       },
@@ -69204,7 +69316,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 203395,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/6lT1D6MI2NUpDUlrRVFL7g"
@@ -75008,7 +75120,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 226500,
       "name": "too gone",
       "url": "https://open.spotify.com/track/4ClqfQf1eANWY4bWHa6SZ4"
@@ -76260,6 +76372,24 @@
       "duration_ms": 204427,
       "name": "Two Minds",
       "url": "https://open.spotify.com/track/7zOwfWPaKw0gsfeOy0EcmJ"
+    },
+    {
+      "album": {
+        "name": "Two Sides",
+        "url": "https://open.spotify.com/album/7x1bthXsgnSaKYYcr5JYDa"
+      },
+      "artists": [
+        {
+          "name": "Alli Kate",
+          "url": "https://open.spotify.com/artist/4fLRDDrccUS9PGA154uwmA"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163173,
+      "name": "Two Sides",
+      "url": "https://open.spotify.com/track/6vZxjw80hqvVQEX7FEttrW"
     },
     {
       "album": {

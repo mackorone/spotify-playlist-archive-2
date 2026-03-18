@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 8678,
+  "num_followers": 8681,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAAseY5yBfHty6VwsBoSbF/6",
+  "snapshot_id": "abdIAAAAAACiiDu1it763gqS31RXetxe",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 137466,
-      "name": "Strawberry Julius",
-      "url": "https://open.spotify.com/track/4uHk44o05dcewS9AqQZxrt"
+      "duration_ms": 58773,
+      "name": "Rah! Rah! Replica",
+      "url": "https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 58773,
-      "name": "Rah! Rah! Replica",
-      "url": "https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j"
+      "duration_ms": 137466,
+      "name": "Strawberry Julius",
+      "url": "https://open.spotify.com/track/4uHk44o05dcewS9AqQZxrt"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 93533,
-      "name": "Star Bellied Boy",
-      "url": "https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv"
+      "duration_ms": 142533,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution Girl Style Now",
-        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 108373,
-      "name": "This Is Not a Test",
-      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
+      "duration_ms": 87544,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 142533,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA"
+      "duration_ms": 93533,
+      "name": "Star Bellied Boy",
+      "url": "https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 87544,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution Girl Style Now",
         "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
       },
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 148760,
-      "name": "Daddy's L'il Girl",
-      "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
+      "duration_ms": 108373,
+      "name": "This Is Not a Test",
+      "url": "https://open.spotify.com/track/2wtTxiBekNiST4pF0ODF1J"
     },
     {
       "added_at": null,
@@ -484,6 +468,22 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
+      "duration_ms": 148760,
+      "name": "Daddy's L'il Girl",
+      "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution Girl Style Now",
+        "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
       "duration_ms": 213026,
       "name": "Playground",
       "url": "https://open.spotify.com/track/5MXEac2zwxs47zq0ftFgpy"
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Ocean Song",
-      "url": "https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N"
+      "duration_ms": 215546,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak"
+      "duration_ms": 209960,
+      "name": "Ocean Song",
+      "url": "https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N"
     }
   ],
   "unique_name": "This Is Bikini Kill",

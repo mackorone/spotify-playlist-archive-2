@@ -10872,7 +10872,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 147253,
       "name": "Depois Do Pecado",
       "url": "https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo"
@@ -14582,6 +14582,24 @@
       "duration_ms": 179831,
       "name": "Feet Up",
       "url": "https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH"
+    },
+    {
+      "album": {
+        "name": "TRANSFORMANIA",
+        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
+      "url": "https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ"
     },
     {
       "album": {
@@ -26024,7 +26042,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 180000,
       "name": "Looks Like",
       "url": "https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb"
@@ -41346,7 +41364,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 186106,
       "name": "SuperDrug",
       "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"

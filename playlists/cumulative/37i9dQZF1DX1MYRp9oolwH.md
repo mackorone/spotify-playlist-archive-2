@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Couple Friendly
+> Bringing out the best of latest love tracks<br/>Cover : Rakasa
 
-376 songs - 1 day 0 hr 11 min
+377 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Oopiri Ooyalaga \(From "WAR 2"\) \- Telugu Version](https://open.spotify.com/track/49IUhpMndmwSttY88fdHKM) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Oopiri Ooyalaga \(From "WAR 2"\) \- Telugu Version](https://open.spotify.com/album/2WHIZAnZlLV93ssxMjQ9y2) | 3:46 | 2025-07-31 | 2026-03-06 |
 | [Oosulade \(From "Son Of"\)](https://open.spotify.com/track/5jK6GRosmpH5fj1A1xFFds) | [Rishi M](https://open.spotify.com/artist/1OmE5hZurgiZm1pvRSpLKZ), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Oosulade \(From "Son Of"\)](https://open.spotify.com/album/4Tvx94BHEaH2QuoIP9wJI7) | 4:34 | 2026-03-05 |  |
 | [Orange Baby](https://open.spotify.com/track/0aL8Fibph3nxtJHo8TtMBX) | [Ritesh G Rao](https://open.spotify.com/artist/2n2CcYTvgrHcpKGDHtelgz), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo), [Vanamali](https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV) | [Miss You](https://open.spotify.com/album/1RRxa5g2bCg31zGU40pHKH) | 3:46 | 2025-01-31 | 2025-04-15 |
-| [Padipoya](https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8) | [Padipoya](https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz) | 2:56 | 2025-12-09 |  |
+| [Padhe Padhe \(From "Rakasa"\)](https://open.spotify.com/track/3dMlLHL3l014ENiQid13zE) | [Anudeep Dev](https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql), [Sindhuja Srinivasan](https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Padhe Padhe \(From "Rakasa"\)](https://open.spotify.com/album/1GcY14XelFN5BKA0MGvMtN) | 4:05 | 2026-03-17 |  |
+| [Padipoya](https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8) | [Padipoya](https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz) | 2:56 | 2025-12-09 | 2026-03-18 |
 | [Paravasame \(From "Maruva Tarama"\)](https://open.spotify.com/track/7BoWSahwaBcTHvzlW1pH6a) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Paravasame \(From "Maruva Tarama"\)](https://open.spotify.com/album/6pPAT2KFG1TYqTse9EUjAH) | 3:55 | 2024-02-23 | 2024-04-10 |
 | [Paravasame Paravasame \(From "Narayana & Co"\)](https://open.spotify.com/track/2pRvXeJbRMgNAOVPAYTEVW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP), [Dr\. Josyabhatla](https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j) | [Paravasame Paravasame \(From "Narayana & Co"\)](https://open.spotify.com/album/3UFK8TuPlUxp7km8PMPDOZ) | 4:18 | 2023-06-16 | 2024-04-19 |
 | [Paravasame Paravasame \(From "Narayana And Co"\)](https://open.spotify.com/track/10UULk3rJivW6YHsP60Una) | [Dr\. Josyabhatla](https://open.spotify.com/artist/3Td73fmcg2F9mAWwDMhwHL), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [K\. Pranati](https://open.spotify.com/artist/61FZ2SvbuC5wJcoEWxYwOP) | [Paravasame Paravasame \(From "Narayana And Co"\)](https://open.spotify.com/album/30i3MJ3Be1LT24JHRcbzFQ) | 4:18 | 2023-06-16 | 2024-08-03 |

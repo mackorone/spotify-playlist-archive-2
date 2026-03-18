@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Manu, L\u00e9o Santana",
-  "num_followers": 761022,
+  "num_followers": 761015,
   "original_name": "Puro Suco do Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Tubar\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Tubar\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
         "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 136333,
       "name": "Raparigas",
       "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -719,22 +719,30 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Morena Jambo / Miau (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
+        "name": "Encosta na Parede",
+        "url": "https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
         },
         {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Teko Bolado",
+          "url": "https://open.spotify.com/artist/0hl7gXAUNmCr3cyhoE5Yga"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
         }
       ],
-      "duration_ms": 158410,
-      "name": "Morena Jambo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
+      "duration_ms": 131822,
+      "name": "Encosta na Parede",
+      "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -783,30 +791,22 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Encosta na Parede",
-        "url": "https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0"
+        "name": "Morena Jambo / Miau (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
       },
       "artists": [
         {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
         },
         {
-          "name": "Teko Bolado",
-          "url": "https://open.spotify.com/artist/0hl7gXAUNmCr3cyhoE5Yga"
-        },
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
         }
       ],
-      "duration_ms": 131822,
-      "name": "Encosta na Parede",
-      "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
+      "duration_ms": 158410,
+      "name": "Morena Jambo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Me Ama Ou Me Larga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1UkbgOVEnnomwxvclUDYmS"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 148719,
-      "name": "Me Ama Ou Me Larga - Ao Vivo",
-      "url": "https://open.spotify.com/track/2TSYxcrcrtLpdbsLY9NmzL"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "Rebolando",
         "url": "https://open.spotify.com/album/289saTjwe7KWkj0InLRX9t"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 106685,
       "name": "Rebolando",
       "url": "https://open.spotify.com/track/17xyLNjsAkAbMRzZl8eOJX"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Me Ama Ou Me Larga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1UkbgOVEnnomwxvclUDYmS"
+      },
+      "artists": [
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 148719,
+      "name": "Me Ama Ou Me Larga - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TSYxcrcrtLpdbsLY9NmzL"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "\u00c9 Tarde Demais / Estou Mal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Ra\u00e7a Negra",
-          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
-        }
-      ],
-      "duration_ms": 238271,
-      "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "5 Da Manh\u00e3 (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/1jElzLi27vaY1p5JPyeVQU"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 147116,
       "name": "5 Da Manh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZVWliWjMmYFxQe9U63Y5W"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "\u00c9 Tarde Demais / Estou Mal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o9vEPGFqi62DlF0bMIU4t"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Ra\u00e7a Negra",
+          "url": "https://open.spotify.com/artist/1RnHJ07H3jcpay9PrUPjnt"
+        }
+      ],
+      "duration_ms": 238271,
+      "name": "\u00c9 Tarde Demais / Estou Mal - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AJhn8JHsUq64vzQgPGm4T"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Pra Tocar Aonde? 2.0",
-        "url": "https://open.spotify.com/album/2yqGbXBubg6jXauphwYLXT"
-      },
-      "artists": [
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        },
-        {
-          "name": "Franco, The Sir!",
-          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
-        }
-      ],
-      "duration_ms": 145488,
-      "name": "Virando o Olhinho 2.0",
-      "url": "https://open.spotify.com/track/126KAfNQn1CurOYVZYbdk8"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "Boombox",
         "url": "https://open.spotify.com/album/3LzedQktlOZNEeWQK6KFY1"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 155852,
       "name": "Boombox",
       "url": "https://open.spotify.com/track/6dj6PBjdQcwSndefuXfenL"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Pra Tocar Aonde? 2.0",
+        "url": "https://open.spotify.com/album/2yqGbXBubg6jXauphwYLXT"
+      },
+      "artists": [
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "duration_ms": 145488,
+      "name": "Virando o Olhinho 2.0",
+      "url": "https://open.spotify.com/track/126KAfNQn1CurOYVZYbdk8"
     },
     {
       "added_at": "2026-03-06 14:05:04",

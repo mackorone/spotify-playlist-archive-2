@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: DEVAURA
 
-578 songs - 1 day 8 hr 11 min
+579 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,10 +257,11 @@
 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 | 2025-11-20 |  |
 | [Innadream](https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Innadream](https://open.spotify.com/album/75U6gZIUN0HbSWJ1fNLhuP) | 3:13 | 2025-05-15 | 2025-05-23 |
 | [Into The Wild](https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Into The Wild](https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy) | 3:41 | 2026-02-26 | 2026-03-06 |
-| [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 |  |
+| [iPod Touch](https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [iPod Touch](https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq) | 3:16 | 2025-06-19 | 2026-03-18 |
 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 | 2025-05-01 | 2025-08-28 |
 | [Isso](https://open.spotify.com/track/0IKjSt4MiTBvC0ogVKgBJC) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [MC Pânico](https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr) | [Isso](https://open.spotify.com/album/0hyAgPcABjcgMCV7WNw1E3) | 3:12 | 2025-05-15 | 2025-05-23 |
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2024-12-06 |
+| [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-03-12 |  |
 | [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 |  |
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |
 | [Jaded](https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Jaded](https://open.spotify.com/album/2VlOUIDEK7G2hhggMVpUr6) | 2:47 | 2025-04-17 | 2025-04-25 |

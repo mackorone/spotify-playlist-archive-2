@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 832628,
+  "num_followers": 832630,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-13 19:14:40",
       "album": {
-        "name": "Toda Forma De Amor",
-        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Toda Forma de Amor",
-      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
-    },
-    {
-      "added_at": "2026-03-13 19:14:40",
-      "album": {
         "name": "Menino Bonito (Ao Vivo)",
         "url": "https://open.spotify.com/album/6SGCr2LABC1SeJYYtnesah"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 169654,
       "name": "Menino Bonito - Ao Vivo",
       "url": "https://open.spotify.com/track/7qM2ScAqB3NwAk0ngJsGfl"
+    },
+    {
+      "added_at": "2026-03-13 19:14:40",
+      "album": {
+        "name": "Toda Forma De Amor",
+        "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Toda Forma de Amor",
+      "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
     },
     {
       "added_at": "2026-03-13 19:14:40",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-13 19:14:40",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
-    },
-    {
-      "added_at": "2026-03-13 19:14:40",
-      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
+    },
+    {
+      "added_at": "2026-03-13 19:14:40",
+      "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2026-03-13 19:14:40",
@@ -1083,6 +1083,30 @@
     {
       "added_at": "2026-03-13 19:14:40",
       "album": {
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "Do Que \u00e9 Feito o Amor?",
+      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
+    },
+    {
+      "added_at": "2026-03-13 19:14:40",
+      "album": {
         "name": "Ac\u00fastico Em Trancoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4"
       },
@@ -1111,30 +1135,6 @@
       "duration_ms": 199308,
       "name": "O amor me fala de voc\u00ea",
       "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
-    },
-    {
-      "added_at": "2026-03-13 19:14:40",
-      "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "Do Que \u00e9 Feito o Amor?",
-      "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
     },
     {
       "added_at": "2026-03-13 19:14:40",

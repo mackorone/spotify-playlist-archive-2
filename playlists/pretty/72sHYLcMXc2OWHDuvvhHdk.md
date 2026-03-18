@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,399 songs - 5 day 20 hr 3 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,417 songs - 5 day 21 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2407,5 +2407,23 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2397 | [Luna](https://open.spotify.com/track/6Z8aTOasE11mrYFa4OsnSw) | [Nacho Contreras](https://open.spotify.com/artist/0z1N6ML1shsGZVfGCSdCyS) | [Luna](https://open.spotify.com/album/0DVL1fOfzHH0mhiSX1ukJz) | 1:54 |
 | 2398 | [Angie Stereo \- funk rock](https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 3:19 |
 | 2399 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 |
+| 2400 | [A Couple of Days Away](https://open.spotify.com/track/2eBPbpGzO0ZOO9owlPqSsE) | [Morning Haze](https://open.spotify.com/artist/49vfSJBSQWYwVfJxLBCrRq) | [Nature Prevails](https://open.spotify.com/album/0fjfcGtcXJmpEV3OGfseG9) | 2:43 |
+| 2401 | [Night Passage](https://open.spotify.com/track/6iO4uqYrFUAnm2j1GHF7i8) | [Lonely Mountain](https://open.spotify.com/artist/2XjWUpDLOIJCQC8MMc1M8h) | [No Passage Landward](https://open.spotify.com/album/6OCyXdgKeMM4h5bhpVk7ca) | 6:18 |
+| 2402 | [Sunshine](https://open.spotify.com/track/70pFUwMhXFq3GT97Za1u4N) | [rdgbeat](https://open.spotify.com/artist/6ci4qB6s8r709bmmyc2thH) | [Sunshine](https://open.spotify.com/album/6juq5q7DA8WdkJrXX2XShv) | 1:33 |
+| 2403 | [Ride](https://open.spotify.com/track/6uhm5vBL0VD72iHyW6o0vb) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Ride](https://open.spotify.com/album/5FSAhcHOcE4KKbNWO48ime) | 3:22 |
+| 2404 | [Era in Italia](https://open.spotify.com/track/29G7teGtcWrd0bIZyTJx5s) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Era in Italia](https://open.spotify.com/album/2aMiI2gLHWmoBwLeJQxs35) | 4:07 |
+| 2405 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 |
+| 2406 | [Don't Ever Let Me Come Down](https://open.spotify.com/track/0yKGavqnLwf0MKxXg9nSwl) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Don't Ever Let Me Come Down](https://open.spotify.com/album/1DbhEVsW0uVtkKUjG6RsrF) | 3:29 |
+| 2407 | [Santa Marta](https://open.spotify.com/track/6rswJrXfa6CEllRwPWYrA8) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Santa Marta](https://open.spotify.com/album/2q6Pd1fapfQEmvuZXvQafo) | 3:26 |
+| 2408 | [Nothing but a Memory](https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Nothing but a Memory](https://open.spotify.com/album/3SWH29p4dFHzyY9fAbboOy) | 3:06 |
+| 2409 | [Beyond Limits](https://open.spotify.com/track/0x9l17lZF0o0fIWy5JVDyj) | [Adam George Brown](https://open.spotify.com/artist/6eutPmzGgscNYLfdLqJ99n) | [The Data Horizon](https://open.spotify.com/album/2ATolHDagNNVsyz5EZbuPR) | 4:26 |
+| 2410 | [What Can I](https://open.spotify.com/track/2XyCG2OX5ZpDqOcPNfto4e) | [O.T.T Band](https://open.spotify.com/artist/6Av3Ie3ZjRbnUWtrFmbDFI) | [Love Me](https://open.spotify.com/album/473HJK3USbUDvmKvYcBFOk) | 3:36 |
+| 2411 | [Él es](https://open.spotify.com/track/2LTNJwsYeOW5kMGiiGY3SS) | [Mathias Jones](https://open.spotify.com/artist/01262W3jumy4mQ6X3KBOXF) | [Él es](https://open.spotify.com/album/15J47B3NGqpFh92KtfvY9m) | 2:55 |
+| 2412 | [Gunehgar](https://open.spotify.com/track/4nCpYeZu1xGRwVSHgTg8LQ) | [Pishaach](https://open.spotify.com/artist/19ht5ksEGnVBnzAFIICP8M) | [Gunehgar](https://open.spotify.com/album/63clVx0rn3XMmlKPtuiG2d) | 3:35 |
+| 2413 | [Must Be Lonely](https://open.spotify.com/track/26H0lWxlIvfmyBLx73kMbv) | [Glen Haze](https://open.spotify.com/artist/412hdqOshBEKPliqKYU4K9) | [Must Be Lonely](https://open.spotify.com/album/7fmkTGpteURdCAV710opf7) | 4:02 |
+| 2414 | [Lilac Oil](https://open.spotify.com/track/2SckxctBDFyfpZbgpsKwJN) | [Cameron Esther](https://open.spotify.com/artist/1xTdRNp6vqtCup5YoVSfWE) | [Lilac Oil](https://open.spotify.com/album/3zZDJbH4uW4KA0kbdPTDxF) | 4:25 |
+| 2415 | [Punto y Aparte](https://open.spotify.com/track/3DaKMgCe0q4yClOGE3B6Sa) | [Lu\-k Mc](https://open.spotify.com/artist/7eBvM4CyBRXoJK0l7dUTkq) | [Punto y Aparte](https://open.spotify.com/album/0mrSmNzbz4CMdUEh7rjcSb) | 2:53 |
+| 2416 | [Amor Psycho](https://open.spotify.com/track/5eZZB783UNpLqZV5jgnqe6) | [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Reviresco](https://open.spotify.com/album/1iKsmD04jZ6xliKKYOMBqU) | 4:38 |
+| 2417 | [Immortal](https://open.spotify.com/track/4qhSU5tHFZY8etTBeZtXsI) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Immortal](https://open.spotify.com/album/5Luadz5xgVjq5GcGkjwmeR) | 3:24 |
 
-Snapshot ID: `AAAJ9qbrsP+s6BBNGxYGlpjvS1/MJhMO`
+Snapshot ID: `AAAKCA9r/87GqJ875xmOrDHKx2T7iBGA`

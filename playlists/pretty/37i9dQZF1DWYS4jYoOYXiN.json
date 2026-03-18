@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 101449,
+  "num_followers": 101488,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Take A Trip Pussycat (feat. Luis Aviles)",
+        "url": "https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ"
+      },
+      "artists": [
+        {
+          "name": "The Latin Blues Band Featuring Luis Aviles",
+          "url": "https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM"
+        },
+        {
+          "name": "The Latin Blues Band",
+          "url": "https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "I'll Be A Happy Man",
+      "url": "https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "I Like it Like That",
         "url": "https://open.spotify.com/album/5ajgzwc62KbNQl9Xrv6ReQ"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 246173,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/2cTqYG1rtwmpiXvhIuTQFY"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Take A Trip Pussycat (feat. Luis Aviles)",
-        "url": "https://open.spotify.com/album/6MlF1GxkWZWvqxiz5QrdDJ"
-      },
-      "artists": [
-        {
-          "name": "The Latin Blues Band Featuring Luis Aviles",
-          "url": "https://open.spotify.com/artist/5QnFEYXvvMgy6Skex2yNdM"
-        },
-        {
-          "name": "The Latin Blues Band",
-          "url": "https://open.spotify.com/artist/6tSbjpTvszMPhHGOFvrW2W"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "I'll Be A Happy Man",
-      "url": "https://open.spotify.com/track/2P5nMi24nyYcd7roZt5HDK"
     },
     {
       "added_at": "2024-07-18 20:57:58",

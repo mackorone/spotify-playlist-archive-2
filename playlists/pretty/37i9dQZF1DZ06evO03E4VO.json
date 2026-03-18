@@ -1,12 +1,12 @@
 {
   "description": "This is Alaina Castillo. The essential tracks, all in one playlist.",
-  "num_followers": 4762,
+  "num_followers": 4763,
   "original_name": "This Is Alaina Castillo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAAWuYvaK+BfP5F3T8cs7KnF",
+  "snapshot_id": "abdIAAAAAAB4UkCPiU6FTdOWKKT3KNAJ",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/6S99rpqeEMctqNEs43xmOW"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 200212,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/4WGFnr5oQ7JzIORYDWwA4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "crush",
         "url": "https://open.spotify.com/album/0Tqz0PyiUMHr2HIwvXmyKP"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 199877,
       "name": "crush",
       "url": "https://open.spotify.com/track/3njA65KM3YEF08hEBGpaTW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/6S99rpqeEMctqNEs43xmOW"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 200212,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/4WGFnr5oQ7JzIORYDWwA4S"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "luna de miel",
-        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 155017,
-      "name": "luna de miel",
-      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "one & only",
         "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 213115,
       "name": "one & only",
       "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "luna de miel",
+        "url": "https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 155017,
+      "name": "luna de miel",
+      "url": "https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "hookah envenena",
-        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 170682,
-      "name": "hookah envenena",
-      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
+      "duration_ms": 203627,
+      "name": "voicenote",
+      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+        "name": "\u00e9xtasis",
+        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 203627,
-      "name": "voicenote",
-      "url": "https://open.spotify.com/track/7lOlTpLweCJXsrx9YiMbN3"
+      "duration_ms": 185054,
+      "name": "\u00e9xtasis",
+      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00e9xtasis",
-        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
+        "name": "hookah envenena",
+        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 185054,
-      "name": "\u00e9xtasis",
-      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+      "duration_ms": 170682,
+      "name": "hookah envenena",
+      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-132 songs - 8 hr 12 min
+133 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [I Won't Let You Go](https://open.spotify.com/track/0EDADfWHwCXlZDETMCBW3m) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 2:58 | 2022-05-25 | 2024-07-23 |
 | [I Won't Let You Go](https://open.spotify.com/track/2Xd0rVEP8W0Qid8mq10L8b) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:58 | 2025-11-25 | 2025-12-06 |
 | [I Won't Let You Go](https://open.spotify.com/track/5R9bmodfbYD5dJ7Xx4ieNl) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Soul Women](https://open.spotify.com/album/2RDRYxhQQFnLqURaI9QKDu) | 2:58 | 2025-02-16 | 2025-05-25 |
+| [I'll Be Around](https://open.spotify.com/track/3rs69Bg9MqEj1w0FXUYVSu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Doing Fine](https://open.spotify.com/album/3TtzcnFBXLAbgqzQkU4u3Y) | 3:34 | 2026-03-18 |  |
 | [I'm Doing Fine Now \- Remastered](https://open.spotify.com/track/714Qo8liCsI4E8z6T5vQ5i) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Feel Good 70s](https://open.spotify.com/album/5OlvCPGbAd7AmkdbHTkg7P) | 3:36 | 2024-03-18 | 2024-08-17 |
-| [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 | 2022-05-25 |  |
+| [I'm Gonna Need You](https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [I'm Gonna Need You / Just Right for Love](https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR) | 2:52 | 2022-05-25 | 2026-03-18 |
 | [If And When](https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees](https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX) | 7:09 | 2022-05-30 |  |
 | [If That Guy Walks Out of My Life](https://open.spotify.com/track/1x9XP4R0mYgGCEM7kF5yC4) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:40 | 2026-01-22 | 2026-01-23 |
 | [If You Must Leave My Life](https://open.spotify.com/track/3shCTJnZKOJ7YdHVBRHg4c) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:13 | 2022-06-08 | 2022-06-24 |
@@ -97,7 +98,7 @@
 | [Somos Novios \(It's Impossible\)](https://open.spotify.com/track/0Q2mrQB3vbLN1cr22NOOf6) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:54 | 2022-05-25 | 2022-11-05 |
 | [Standing Up For Love](https://open.spotify.com/track/6v4WVyvDlAvpTBuQe9RL8B) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:39 | 2023-05-02 | 2023-05-04 |
 | [Stardust](https://open.spotify.com/track/0k3vepSPhJwO27fWndRT3r) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:55 | 2022-05-25 |  |
-| [Starlight](https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:43 | 2025-03-09 | 2026-03-14 |
+| [Starlight](https://open.spotify.com/track/5wgjgccfkPfOZQyrm39aUb) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [3D](https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP) | 4:43 | 2025-03-09 |  |
 | [Strategy](https://open.spotify.com/track/7JxDelauco6wQBtPHh4nWM) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Strategy: Our Tribute to Philadelphia](https://open.spotify.com/album/6UGp2YJFRY7iqtzbkPKNGs) | 4:24 | 2023-12-31 | 2024-01-02 |
 | [Streets](https://open.spotify.com/track/26OtHPTkmfORwu9yAZczJS) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Delta](https://open.spotify.com/album/14BaP4HtDt9fZPg9BSawkL) | 3:23 | 2023-09-02 | 2024-12-23 |
 | [Sugar On Sunday](https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Sunday Music](https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl) | 3:22 | 2022-08-05 |  |
@@ -109,7 +110,7 @@
 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 | 2022-05-25 |  |
 | [Take Me Away](https://open.spotify.com/track/1xtB5sLhD3Mx1jwyMWofkI) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Legends \(Rerecorded\)](https://open.spotify.com/album/37ravYOYK1h0h1cGM8LWWp) | 4:29 | 2024-12-21 | 2025-02-28 |
 | [Take Me Away \- Rerecorded](https://open.spotify.com/track/7dRUR9kxjCw22bvBZhJD04) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Hits](https://open.spotify.com/album/3sIfLrOHvgaQwK8WIBaeRY) | 4:29 | 2025-09-27 | 2025-10-16 |
-| [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 | 2022-11-15 |  |
+| [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 | 2022-11-15 | 2026-03-18 |
 | [The Heaven I Need \(Backing Track\)](https://open.spotify.com/track/1pkt7OCwQqgH6Khjdm2GWl) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/2JBHZ8quxuYnqSaCMc5JMm) | 3:17 | 2023-12-13 |  |
 | [The Heaven I Need \- Single Version](https://open.spotify.com/track/3XjxAp2oPICHJTXUDTga2f) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Heaven I Need](https://open.spotify.com/album/5BrtfX0BIYysyPYyfDEA7J) | 3:17 | 2022-05-25 | 2023-12-14 |
 | [The Magic Door](https://open.spotify.com/track/5B94YFQfQ42lnEoOn3tA7M) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 | 2022-09-01 | 2025-12-22 |

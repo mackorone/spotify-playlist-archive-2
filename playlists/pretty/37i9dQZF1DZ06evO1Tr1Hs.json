@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45449,
+  "num_followers": 45468,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAARFrDgedSZzd0NdC08E+DG",
+  "snapshot_id": "abdIAAAAAAD7qLAdiItpQ/2eX/ElylS8",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "Murda Musik (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SONY",
         "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
       },
@@ -527,6 +507,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 176578,
+      "name": "Murda Musik (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Chaos",
+        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 105191,
+      "name": "Money Spread",
+      "url": "https://open.spotify.com/track/0EMaW6H0JkB84B8ebkkDrI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 272364,
       "name": "money & sex",
       "url": "https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 167027,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/2epSrh6IjiIb2F0O4QLu4b"
     },
     {
       "added_at": null,

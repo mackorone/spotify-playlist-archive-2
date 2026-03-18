@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,125 songs - 2 day 8 hr 7 min
+1,126 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/track/6kbZCTF1nRX5hby64Z1Wmq) | [EME](https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5), [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/album/1CARdA6I2UNChyv6Njcsua) | 3:13 | 2024-07-11 | 2024-08-02 |
 | [Ota varovasti \- Vain elämää kausi 16](https://open.spotify.com/track/15noY1bk3ACNXkvWE3zX25) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Ota varovasti \(Vain elämää kausi 16\)](https://open.spotify.com/album/7EbTNyURsRrJqaiyv2CRHq) | 3:48 | 2025-10-23 | 2025-10-31 |
 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 | 2024-08-22 | 2025-02-14 |
+| [Oulu](https://open.spotify.com/track/643eEKPaQKeIidBzPKvpOK) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Oulu](https://open.spotify.com/album/2uJxtEJyur2udfc7Vn1k13) | 2:35 | 2026-03-13 |  |
 | [Oulunkyläst ikuisuuteen \(feat\. VilleGalle\) \- Gnistan Remix](https://open.spotify.com/track/5CaQCCTayPEW74Ap3ChQYz) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Oulunkyläst ikuisuuteen \(feat\. VilleGalle\) \- Gnistan Remix](https://open.spotify.com/album/3pGnQSUKn0QIOfkEqkBfLn) | 2:04 | 2024-09-12 | 2024-09-27 |
 | [Out Of Time](https://open.spotify.com/track/16eeISX34cLudm3hEp8ooz) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Out Of Time](https://open.spotify.com/album/6GQyYJdo4nC1jfFMcosxJD) | 2:36 | 2025-04-24 | 2025-06-13 |
 | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/track/7Jj5JuuZAog8yd4F33h9Wq) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN), [Kumma José](https://open.spotify.com/artist/3xdVNHKbThYuZSQ2sXV3iR) | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/album/0QjEnxzRAaKmHJT0y9aQ7a) | 2:38 | 2025-09-11 | 2025-09-26 |
@@ -1111,7 +1112,7 @@
 | [Yks mun ex](https://open.spotify.com/track/23UYsKMLm1MIOxw8iqaHbQ) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Yks mun ex](https://open.spotify.com/album/21ko9R9X8r2e7vPPtReJsH) | 2:30 | 2024-08-09 | 2024-10-04 |
 | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/7FsF80Hta5P4bSZ3HL6KRr) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Yks mun ongelmist \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5PvUchPy7xwCHJGCgSzGKG) | 3:27 | 2025-04-24 | 2025-05-09 |
 | [Yks yö](https://open.spotify.com/track/1HovJONUfhVAOpVk5lBzAy) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Yks yö](https://open.spotify.com/album/5S8G0cvb0pnLTOj6ZWWYqk) | 2:46 | 2025-10-16 | 2025-12-20 |
-| [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 | 2025-11-07 |  |
+| [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 | 2025-11-07 | 2026-03-18 |
 | [Yli susta](https://open.spotify.com/track/0C8Z8ubIsyVIVNFGETg0MA) | [Joonatan](https://open.spotify.com/artist/27ddiSC5Zm4SifSaMvYEE2) | [Yli susta](https://open.spotify.com/album/4U6R08i36xNrksAd3sQBCi) | 2:22 | 2024-07-02 | 2024-07-27 |
 | [Yliajattelen sua](https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Yliajattelen sua](https://open.spotify.com/album/5tfV5vwt0S0PMbMZAbkLVp) | 2:51 | 2024-07-04 | 2024-08-23 |
 | [Ylibuukattu](https://open.spotify.com/track/0tHGD8lfEjbIYgG28aVyDz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Ylibuukattu](https://open.spotify.com/album/738LkmjU8QxUmHtOq6Waoh) | 2:49 | 2025-05-08 | 2025-05-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5851,
+  "num_followers": 5852,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABwpJq4YUg7H1/AwKOhTUjK",
+  "snapshot_id": "abdIAAAAAACpCMIyQinpqyMQsNjjPvyS",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+        "name": "In The Mist",
+        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
       },
       "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 359680,
-      "name": "Subtext",
-      "url": "https://open.spotify.com/track/73J3NTv0WiYzta78twULgh"
+      "duration_ms": 163000,
+      "name": "The Whispers",
+      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
     },
     {
       "added_at": null,
@@ -320,25 +316,29 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Eyes Are Mosaics",
-      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
+      "duration_ms": 133200,
+      "name": "Bloody And Blunt",
+      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "In The Mist",
-        "url": "https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS"
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
       "artists": [
+        {
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
+        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 163000,
-      "name": "The Whispers",
-      "url": "https://open.spotify.com/track/4VH3rKj1tmhUZtX3U43jBq"
+      "duration_ms": 359680,
+      "name": "Subtext",
+      "url": "https://open.spotify.com/track/73J3NTv0WiYzta78twULgh"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Bloody And Blunt",
-      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
+      "duration_ms": 249933,
+      "name": "Eyes Are Mosaics",
+      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pavilion Of Dreams",
+        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 500026,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bordeaux",
         "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 222280,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pavilion Of Dreams",
-        "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 500026,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/2H96z4OFcMTTopEgIX49ci"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Budd Box (Spotify Only)",
-        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 284426,
-      "name": "The White Arcades",
-      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
+      "duration_ms": 236466,
+      "name": "How Vacantly You Stare at Me - 2013 Remaster",
+      "url": "https://open.spotify.com/track/11tUGfZUkrt31swIFuG7uN"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+        "name": "Budd Box (Spotify Only)",
+        "url": "https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP"
       },
       "artists": [
         {
@@ -792,29 +792,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 236466,
-      "name": "How Vacantly You Stare at Me - 2013 Remaster",
-      "url": "https://open.spotify.com/track/11tUGfZUkrt31swIFuG7uN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "Deva C",
-      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
+      "duration_ms": 284426,
+      "name": "The White Arcades",
+      "url": "https://open.spotify.com/track/6SaAlS4GrkIlYl5YeRilEA"
     },
     {
       "added_at": null,
@@ -855,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
       },
       "artists": [
         {
@@ -868,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 210706,
-      "name": "And Then I Turned Away",
-      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
+      "duration_ms": 231480,
+      "name": "Deva C",
+      "url": "https://open.spotify.com/track/7EOEdgx7Gv98yNCIGlpVKq"
     },
     {
       "added_at": null,
@@ -911,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Flower",
-        "url": "https://open.spotify.com/album/0GCgYHArclb50oaAKxnVzv"
+        "name": "After The Night Falls",
+        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
       "artists": [
         {
@@ -924,9 +904,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 362747,
-      "name": "Perfect Fire",
-      "url": "https://open.spotify.com/track/0XgDwjB1yj36HiEtQ5tJJ5"
+      "duration_ms": 210706,
+      "name": "And Then I Turned Away",
+      "url": "https://open.spotify.com/track/3wd0R0FUCqZTCShW5lFsMI"
     },
     {
       "added_at": null,
@@ -947,6 +927,22 @@
       "duration_ms": 234053,
       "name": "Long Light",
       "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 118746,
+      "name": "Chrysalis Nu (To Barney's Memory) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5p0efF4TnD6DKtiTsxcaUv"
     }
   ],
   "unique_name": "This Is Harold Budd",

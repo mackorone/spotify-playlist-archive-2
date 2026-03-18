@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: ao",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: S.A.R.",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -10422,7 +10422,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 186733,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh"
@@ -14116,7 +14116,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 195000,
       "name": "My Samba (feat. Skaai)",
       "url": "https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs"
@@ -14398,6 +14398,24 @@
       "duration_ms": 272021,
       "name": "Neighbor",
       "url": "https://open.spotify.com/track/5Gfd9OVeGAntRYosUS0ZCy"
+    },
+    {
+      "album": {
+        "name": "Neko Ni Natte",
+        "url": "https://open.spotify.com/album/4wHYUTox001TddjfWJEuRe"
+      },
+      "artists": [
+        {
+          "name": "Kanae",
+          "url": "https://open.spotify.com/artist/3QE2AefsoyvHTdUxGMv5pq"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132999,
+      "name": "Neko Ni Natte",
+      "url": "https://open.spotify.com/track/4mVRhZS5ww3WlbZUcuR3Ny"
     },
     {
       "album": {
@@ -20498,7 +20516,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 271580,
       "name": "sunday driver - live",
       "url": "https://open.spotify.com/track/3BrRbfhDc58yfOtgbiM6U9"
@@ -21116,6 +21134,28 @@
       "duration_ms": 204705,
       "name": "Tejina feat. YUICHIRO (DEEP)",
       "url": "https://open.spotify.com/track/7oT1zOBzKp8CHGTOG27yLp"
+    },
+    {
+      "album": {
+        "name": "Tell me",
+        "url": "https://open.spotify.com/album/0rIcateMjkrV6XnCbaXt2T"
+      },
+      "artists": [
+        {
+          "name": "S.A.R.",
+          "url": "https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260745,
+      "name": "Tell me",
+      "url": "https://open.spotify.com/track/6hk1BBFv4FehBkrkgwCExJ"
     },
     {
       "album": {
@@ -29200,7 +29240,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 152143,
       "name": "\u30c8\u30e9\u30b9\u30c8\u30d5\u30a9\u30fc\u30eb",
       "url": "https://open.spotify.com/track/2gye4ERAfgttO9sCm56AaJ"
@@ -34643,6 +34683,24 @@
     },
     {
       "album": {
+        "name": "\u5bc4\u308a\u9053",
+        "url": "https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a"
+      },
+      "artists": [
+        {
+          "name": "\u6620\u79c0\u3002",
+          "url": "https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218103,
+      "name": "\u5bc4\u308a\u9053",
+      "url": "https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8"
+    },
+    {
+      "album": {
         "name": "\u5bf5\u611b\u65cf",
         "url": "https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa"
       },
@@ -36437,6 +36495,24 @@
     },
     {
       "album": {
+        "name": "\u6625\u306e\u4ea1\u970a",
+        "url": "https://open.spotify.com/album/4hK49ivKkXfyYKAzX7pbOz"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215779,
+      "name": "\u6625\u306e\u4ea1\u970a",
+      "url": "https://open.spotify.com/track/4ZHWwDSgGaFjEcVvdGy3o9"
+    },
+    {
+      "album": {
         "name": "\u6625\u3092\u5f85\u3064\u98a8",
         "url": "https://open.spotify.com/album/6a6Ou6qguZGXm4Q7xXZ5wD"
       },
@@ -36452,6 +36528,24 @@
       "duration_ms": 204000,
       "name": "\u6625\u3092\u5f85\u3064\u98a8",
       "url": "https://open.spotify.com/track/2iLY9P1xzusaGNCqZqOfS2"
+    },
+    {
+      "album": {
+        "name": "\u6625\u3092\u76d7\u3093\u3067",
+        "url": "https://open.spotify.com/album/5wWZMUcI3uKEDQVmZNPDAS"
+      },
+      "artists": [
+        {
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225568,
+      "name": "\u6625\u3092\u76d7\u3093\u3067",
+      "url": "https://open.spotify.com/track/1WnIf5qR4vXsgIomapdYcw"
     },
     {
       "album": {
@@ -37984,7 +38078,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 221133,
       "name": "\u7070\u304b\u3076\u308a",
       "url": "https://open.spotify.com/track/0gPPcSZ5dlAncGsxa56Ck2"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Litty\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Worldwide Skippa\n",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 174000,
       "name": "2026",
       "url": "https://open.spotify.com/track/7ggN0bAPYL32feiNNTXpm2"
@@ -1772,6 +1772,24 @@
       "duration_ms": 164842,
       "name": "Ame_No_SeiDe",
       "url": "https://open.spotify.com/track/1duz43rjQWLoUh4LVMF8vZ"
+    },
+    {
+      "album": {
+        "name": "AMEAGARI",
+        "url": "https://open.spotify.com/album/7HPXgrGuN478SeQx4AsNaz"
+      },
+      "artists": [
+        {
+          "name": "VERRY SMoL",
+          "url": "https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112663,
+      "name": "AMEAGARI",
+      "url": "https://open.spotify.com/track/44rDAfK66LzEn2YbARKwnc"
     },
     {
       "album": {
@@ -3895,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/3WQbIajk0X27Ds70Zxd5yv"
+      },
+      "artists": [
+        {
+          "name": "T-Bobo",
+          "url": "https://open.spotify.com/artist/40NK4mGLUjuQ4Gx5EASzXK"
+        },
+        {
+          "name": "VEINTI4",
+          "url": "https://open.spotify.com/artist/4o7vyB4AfcMinZMlhs5zDw"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104100,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/0mRfBNouhiUbDO4qEwikro"
+    },
+    {
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/063jvBgSHqKrLzKzoqDj6g"
       },
@@ -4168,7 +4208,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 192409,
       "name": "BUTTOBASHIT",
       "url": "https://open.spotify.com/track/0HDCUu9Kz0RuqGYHzYDBhr"
@@ -14579,6 +14619,24 @@
     },
     {
       "album": {
+        "name": "Me vs Me",
+        "url": "https://open.spotify.com/album/1mSjwR0xwnNum37jIf0mJn"
+      },
+      "artists": [
+        {
+          "name": "evisv",
+          "url": "https://open.spotify.com/artist/2eR3ptk4o6AOhhT8Eu2WGx"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Me vs Me",
+      "url": "https://open.spotify.com/track/3FDqCJTF6dP65uIPExOn5j"
+    },
+    {
+      "album": {
         "name": "Me>Enemy",
         "url": "https://open.spotify.com/album/3cE9APZdB8oIgnXNpdMvXr"
       },
@@ -15490,7 +15548,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 156832,
       "name": "Nagoya Rich Boy",
       "url": "https://open.spotify.com/track/6Az9c6jDsW0UiGLhaJsgSF"
@@ -15712,7 +15770,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 125490,
       "name": "NATSUKASHII",
       "url": "https://open.spotify.com/track/2uZLWV18xyJeBYoAWNQ6t6"
@@ -17814,7 +17872,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 100000,
       "name": "Passion fruit",
       "url": "https://open.spotify.com/track/33KLGJQfKu56swtp8VXVD6"
@@ -18160,6 +18218,24 @@
       "duration_ms": 204003,
       "name": "Pop it",
       "url": "https://open.spotify.com/track/5ut4vYok16PKYqnlE0wFpH"
+    },
+    {
+      "album": {
+        "name": "N side",
+        "url": "https://open.spotify.com/album/1EEHfjFjdGOyo2SZQaASEw"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u8c37\u62f3\u56db\u90ce",
+          "url": "https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114240,
+      "name": "Portrait of a Lady on Fire",
+      "url": "https://open.spotify.com/track/68T5d5RX3CSdz8aAWUvRg7"
     },
     {
       "album": {
@@ -18720,7 +18796,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 181200,
       "name": "Rainy (feat. Bene Baby)",
       "url": "https://open.spotify.com/track/2y7KKhdAXZcSTyPru5ChN9"
@@ -19147,6 +19223,24 @@
     },
     {
       "album": {
+        "name": "not everything yet",
+        "url": "https://open.spotify.com/album/2PxU9fNOhYrF8YfTc1AOUD"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "RENTAI",
+      "url": "https://open.spotify.com/track/3EH71WKEIbPtSuKbFTkv0F"
+    },
+    {
+      "album": {
         "name": "nuzip",
         "url": "https://open.spotify.com/album/4UkotOsQGw7GFN16dm4NTD"
       },
@@ -19454,7 +19548,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 123000,
       "name": "Ringing",
       "url": "https://open.spotify.com/track/4PTZNbHavVscUxNJc3ZSha"
@@ -20932,6 +21026,24 @@
       "duration_ms": 202666,
       "name": "SHOUT OUT TO MYSELF",
       "url": "https://open.spotify.com/track/4P45hBDMsG3pN6vl22Lmfm"
+    },
+    {
+      "album": {
+        "name": "Show is over",
+        "url": "https://open.spotify.com/album/2YR83NRFzPF0BydROu9rKG"
+      },
+      "artists": [
+        {
+          "name": "Fisong",
+          "url": "https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170150,
+      "name": "Show is over",
+      "url": "https://open.spotify.com/track/1ITLQC1USyfUoKEyeg4jtk"
     },
     {
       "album": {
@@ -23487,6 +23599,28 @@
     },
     {
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/0CuCM6WEOI5By5huiUDJfu"
+      },
+      "artists": [
+        {
+          "name": "D-RAM",
+          "url": "https://open.spotify.com/artist/6fPFcDd394Ozh1s8WdMCtk"
+        },
+        {
+          "name": "Ja\u00a5Da",
+          "url": "https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2VR2IQMv53tRM1d5HPXWn6"
+    },
+    {
+      "album": {
         "name": "PLM",
         "url": "https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5"
       },
@@ -23638,6 +23772,24 @@
       "duration_ms": 165816,
       "name": "Trust Me (feat. AIRIE)",
       "url": "https://open.spotify.com/track/1d9lq94JbJehF1Ws1vMCLJ"
+    },
+    {
+      "album": {
+        "name": "TRUTH",
+        "url": "https://open.spotify.com/album/46tfI6gQg8diKcBpAJENS8"
+      },
+      "artists": [
+        {
+          "name": "SWEE",
+          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158221,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/2EE3XVyhWU3nSPKfluMr9z"
     },
     {
       "album": {
@@ -23929,6 +24081,32 @@
     },
     {
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4AY9sqFwprFnuw5hkZA1EF"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "keg\u00f8n",
+          "url": "https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb"
+        },
+        {
+          "name": "Shiroko Raccz",
+          "url": "https://open.spotify.com/artist/6z5IE4B9oI5IWrErX6iO7U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/0WMSUUbfxuPUBnucLvHg6O"
+    },
+    {
+      "album": {
         "name": "Undeveloped freestyle",
         "url": "https://open.spotify.com/album/4hIXapCAy93ypoUItkIpIE"
       },
@@ -24184,7 +24362,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 211500,
       "name": "VERETTA FLOW",
       "url": "https://open.spotify.com/track/7oHyMlb4FCzFlVWNeyDQ65"
@@ -26106,7 +26284,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 123243,
       "name": "\u3042\u304f\u307e\u3067\u5929\u4f7f \uff5eidang sweet devil\uff5e",
       "url": "https://open.spotify.com/track/781zMhv5X12P3rzsC1bwNq"
@@ -26266,7 +26444,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 160500,
       "name": "\u304a\u91d1\u306a\u3093\u3066",
       "url": "https://open.spotify.com/track/6RNEgi90IFr0NNOk4Kvj3K"
@@ -26642,6 +26820,24 @@
       "duration_ms": 182793,
       "name": "\u30c1\u30df\u30c1\u30e3\u30f3\u30ac",
       "url": "https://open.spotify.com/track/6KRrdyRsqF2Qlro2AAKsSZ"
+    },
+    {
+      "album": {
+        "name": "Semicolon",
+        "url": "https://open.spotify.com/album/1DTvQ9VRQwLYeM2miDe4Lt"
+      },
+      "artists": [
+        {
+          "name": "Kaito Ichikawa",
+          "url": "https://open.spotify.com/artist/1pU7aScRUyptoAg6teencc"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123959,
+      "name": "\u30c6\u30fc\u30d6\u30eb\u30c1\u30e3\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/5Lirxdekt9vWxH3QiRmirG"
     },
     {
       "album": {

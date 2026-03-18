@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-315 songs - 15 hr 58 min
+317 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,9 +64,9 @@
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-06-04 |  |
 | [Closer](https://open.spotify.com/track/35AWeeZGaT8nCKkVf7rQmd) | [Roe Byrne](https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg) | [Closer](https://open.spotify.com/album/03XAOkwEI7rnKTeZH2YVbJ) | 2:52 | 2025-05-22 |  |
 | [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 | 2025-11-12 |  |
-| [Cold](https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Cold](https://open.spotify.com/album/5SNJQ7BeKc43k8Cdb3KlSM) | 2:24 | 2025-10-16 |  |
+| [Cold](https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Cold](https://open.spotify.com/album/5SNJQ7BeKc43k8Cdb3KlSM) | 2:24 | 2025-10-16 | 2026-03-18 |
 | [Coming Home \(California\)](https://open.spotify.com/track/5wh6M6rmdoIeVGlOLqGnFG) | [Anica Russo](https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX) | [Coming Home \(California\)](https://open.spotify.com/album/2WBb1JxNC599eu8ruG6mgk) | 2:31 | 2024-06-20 | 2024-07-23 |
-| [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 | 2026-02-26 |  |
+| [cosmic wink](https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [Cosmic Wink](https://open.spotify.com/album/4FBsBCEPnDE9kRfyj3GteE) | 2:52 | 2026-02-26 | 2026-03-18 |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-07-10 | 2025-07-11 |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 | 2025-04-15 |
 | [Crème Brulée](https://open.spotify.com/track/7uO4TMLRGBPbTaMFwckSoC) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Crème Brulée](https://open.spotify.com/album/7Lf4jeuo8xle3BaJUueHyt) | 2:59 | 2025-04-02 | 2025-08-02 |
@@ -121,6 +121,7 @@
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-22 | 2024-10-04 |
 | [Hast du kurz Zeit](https://open.spotify.com/track/46BjFXnWrumhdl0uvk7IwE) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Hast du kurz Zeit](https://open.spotify.com/album/3zzgES6xGTbJag6mGUxbpJ) | 2:13 | 2025-09-24 | 2026-01-31 |
 | [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 | 2025-05-22 | 2025-08-02 |
+| [Hear Me](https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [Hear Me](https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL) | 3:26 | 2026-03-17 |  |
 | [Heard It All](https://open.spotify.com/track/22SQOB6T86j1liL6YdZixN) | [Iggi Kelly](https://open.spotify.com/artist/4SrQdK7LahnrRiz1g10kNN) | [Heard It All](https://open.spotify.com/album/0RJifnPu2hjZSknmlOcHA7) | 2:42 | 2024-06-20 | 2024-08-31 |
 | [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 | 2024-11-27 | 2025-08-30 |
 | [Heartbreakdown \- Mahogany Sessions](https://open.spotify.com/track/10GTQ2lUYCDy4k9PwOmuB2) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown / Better](https://open.spotify.com/album/2WlHtsSzh4kLPotvYGkkja) | 3:58 | 2026-01-30 | 2026-02-20 |
@@ -300,6 +301,7 @@
 | [Was war das](https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF) | [Olson](https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI) | [Was war das](https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn) | 2:40 | 2025-08-08 |  |
 | [was wäre wenn](https://open.spotify.com/track/3VTSOMZBBbxKcSQHzQ8hys) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [was wäre wenn](https://open.spotify.com/album/1b0xhyr8Ft2V2cnoDOxcz0) | 2:53 | 2024-06-20 | 2024-08-03 |
 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 | 2024-09-13 | 2024-11-28 |
+| [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 | 2026-03-17 |  |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-30 | 2025-06-21 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-31 | 2025-04-03 |
 | [WEGEN DIR](https://open.spotify.com/track/6RmE4KcszM9FNtVXaDiGUp) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [AZRA](https://open.spotify.com/album/5ZMMzhKyImXgTtCMsJiFbp) | 3:42 | 2025-12-03 | 2026-02-20 |

@@ -4,12 +4,13 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-260 songs - 15 hr 59 min
+263 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Do Not\) Whiz on the Electric Fence](https://open.spotify.com/track/5gzpY9y8AC7uJwVpSpxKZB) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [\(Do Not\) Whiz on the Electric Fence](https://open.spotify.com/album/61NiQOfnHvvh7XO0QevG6O) | 4:25 | 2026-01-17 | 2026-02-19 |
 | [..\. to Rule the Ashes](https://open.spotify.com/track/2LnVI1xVzHJnpIfwHBDGJy) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [No Independent Thought](https://open.spotify.com/album/6PsLu1yTyG9WulgZf6a3Ui) | 2:36 | 2026-02-09 | 2026-03-05 |
+| [50/50](https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [Day Dreamer Night Thinker](https://open.spotify.com/album/3v1i2iiTOt0yptE5meyxAB) | 4:14 | 2026-03-18 |  |
 | [A Dream Goes Walking By](https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 5:13 | 2025-11-26 | 2025-12-28 |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-11 | 2025-12-06 |
 | [Adrift](https://open.spotify.com/track/649n923Nb1uamTFlRmpKrT) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [AudioVisual](https://open.spotify.com/album/0JdcjgsOJ1ybVEmHuFhfBD) | 3:22 | 2026-01-28 | 2026-02-19 |
@@ -105,6 +106,7 @@
 | [High & Dry](https://open.spotify.com/track/5wsbd85L95r7yiuC7XiDip) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [High & Dry](https://open.spotify.com/album/7LBGWWGXIfdXQvUyPTXyUh) | 3:56 | 2026-03-14 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2025-11-04 | 2025-12-06 |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-06 | 2025-12-06 |
+| [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2026-03-18 |  |
 | [Honest Mistake](https://open.spotify.com/track/1DEQCWDbuYFZHSW9zVMAjt) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Honest Mistake](https://open.spotify.com/album/70TvqiEcsoMkV2UjmKydz3) | 3:25 | 2025-11-04 | 2025-12-06 |
 | [Hopeless](https://open.spotify.com/track/38kwkqMeKqAnJh8ObitN3r) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Hopeless](https://open.spotify.com/album/2Ftm7kCGOpuiovVEx2Fgxx) | 3:16 | 2025-11-04 | 2025-12-06 |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 | 2026-02-25 |
@@ -211,6 +213,7 @@
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2025-12-24 | 2026-01-21 |
 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 | 2025-09-07 | 2026-03-05 |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2026-01-03 | 2026-01-21 |
+| [Stop the Bleed](https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1) | [Dreamer](https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU) | [Stop the Bleed](https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT) | 5:24 | 2026-03-18 |  |
 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-30 | 2026-01-21 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-21 | 2025-12-12 |
 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 | 2026-03-11 |  |

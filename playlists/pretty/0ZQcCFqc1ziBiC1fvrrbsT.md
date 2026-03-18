@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,100 likes - 28 songs - 1 hr 41 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,101 likes - 28 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 12 | [It Hurts](https://open.spotify.com/track/4SNZ0GS2rV3wI2o9KcXdi9) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [It Hurts](https://open.spotify.com/album/1zeivb3R5Ge8NGweyxuFxf) | 2:24 |
 | 13 | [Still On the Couch](https://open.spotify.com/track/1nGSwTDZ2EEofWFdwJ0zHA) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [Still On the Couch](https://open.spotify.com/album/463SLqYgUqNewAPUAZvbAZ) | 1:47 |
 | 14 | [The Smoke](https://open.spotify.com/track/4QZQGKM7inEuITPr3Uz1tO) | [Ora Cogan](https://open.spotify.com/artist/0zZHy0tQvwi4L5HNvNq0QY) | [The Smoke](https://open.spotify.com/album/0axw9QvXE8vWw1e9v7XxUs) | 3:38 |
-| 15 | [Let's Kill Ourselves](https://open.spotify.com/track/0kxUpznSeIWT5F9aIResEX) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4), [TECH G1RLS](https://open.spotify.com/artist/7ovbiLZYhdhg5iwUCQwhHH) | [Let's Kill Ourselves](https://open.spotify.com/album/688kfxNUR2dH3MWVpDNDif) | 3:32 |
+| 15 | [Let's Kill Ourselves](https://open.spotify.com/track/0kxUpznSeIWT5F9aIResEX) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS), [Touching Ice](https://open.spotify.com/artist/0tlUMIekHSOfWiGg3PeeD4), [TECHG1RLS](https://open.spotify.com/artist/678POdhSIvZpxx6cOkdRsn) | [Let's Kill Ourselves](https://open.spotify.com/album/688kfxNUR2dH3MWVpDNDif) | 3:32 |
 | 16 | [Beaten To Write](https://open.spotify.com/track/1bQDkogHaJV6yz2VIbvyc6) | [Total Fucking Darkness](https://open.spotify.com/artist/7f56RdQ1WZ77am0RAN5E7C) | [Beaten To Write](https://open.spotify.com/album/7LJSx8FecgT1Frzl7jt10Q) | 4:30 |
 | 17 | [I Do, I Do](https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I Do, I Do](https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh) | 2:15 |
 | 18 | [no outline](https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [no outline](https://open.spotify.com/album/3amxeWM0ZBaydyUpFCd9Kc) | 3:51 |

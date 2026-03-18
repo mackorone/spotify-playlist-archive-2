@@ -1,12 +1,12 @@
 {
   "description": "Get ready to party met deze ultieme DANCE Party Mix Playlist!",
-  "num_followers": 50716,
+  "num_followers": 50708,
   "original_name": "DANCE Party Mix | House Party",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+ZYmkMFKa6KS+rQd+5KSd8VuimM6h",
+  "snapshot_id": "AAA+Z4hIkv5d0a0nhvW1cdfyLc8SRnh7",
   "tracks": [
     {
       "added_at": "2026-02-20 10:58:20",
@@ -39,6 +39,26 @@
       "duration_ms": 113702,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
+    },
+    {
+      "added_at": "2026-03-17 15:28:23",
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5PH0N5fnQYx4T503EdhdNS"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 231023,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4hTT2n6g4oq7isk4w1adY2"
     },
     {
       "added_at": "2026-02-20 10:58:20",
@@ -175,6 +195,26 @@
       "duration_ms": 154319,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/6kw5fiFSxFTUUmn6ynSwrD"
+    },
+    {
+      "added_at": "2026-03-17 09:57:33",
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
     },
     {
       "added_at": "2026-02-20 10:58:20",

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,378 songs - 3 day 2 hr 55 min
+1,379 songs - 3 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1071,7 +1071,7 @@
 | [Somebody](https://open.spotify.com/track/6retCKqQNJfyTzUbd30MqK) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Eric Lumiere](https://open.spotify.com/artist/4TSqSBlGY1wV5qhnX6vVwB) | [Somebody](https://open.spotify.com/album/1OJzBRbUlCm8pDkljaASLH) | 3:38 | 2020-11-03 | 2021-07-24 |
 | [Somebody Like U](https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse, Pt\. I](https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb) | 3:11 | 2022-07-01 | 2022-11-26 |
 | [Somebody Like U](https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 3:11 | 2022-12-02 | 2023-04-01 |
-| [Somebody Like You](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Somebody Like You](https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI) | 3:26 | 2025-10-24 |  |
+| [Somebody Like You](https://open.spotify.com/track/0mEezkUuKYcxKNdhcnXNIT) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Somebody Like You](https://open.spotify.com/album/7vA6ciINABuYjDPMkF2dxI) | 3:26 | 2025-10-24 | 2026-03-18 |
 | [Somebody New](https://open.spotify.com/track/1qquvzcqc8Mv9EIXXCbfOk) | [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ), [BYNON](https://open.spotify.com/artist/033DxVOVQqNlUy6yEI03ar) | [Somebody New](https://open.spotify.com/album/2TB6gYbR9TvmIdvuANCMeY) | 4:19 | 2020-09-21\* | 2021-01-23 |
 | [Somebody New](https://open.spotify.com/track/6lP1UrOucq5sIXl6scYAHS) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Somebody New](https://open.spotify.com/album/7aiOAETi57e8Uq9puRj8lQ) | 2:25 | 2020-11-27 | 2021-07-07 |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2021-12-03 | 2022-03-12 |
@@ -1262,6 +1262,7 @@
 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 | 2026-02-13 |  |
 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 | 2025-05-23 | 2026-02-21 |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2022-01-04 | 2022-07-09 |
+| [Ultra Love](https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Ultra Love](https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol) | 3:23 | 2026-03-13 |  |
 | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/track/1ymsN94JMOSZncP5WETfSh) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Unbreakable \(with Sam Gray\)](https://open.spotify.com/album/6yD8EL3S9KrIysOAHv08LE) | 3:03 | 2021-09-11 | 2022-04-23 |
 | [Unconditional](https://open.spotify.com/track/3rI7logAQK4NlhdWWRNwf6) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Unconditional](https://open.spotify.com/album/4FNKXpTgL0M2Tnkw5p5Q8M) | 2:15 | 2021-06-05 | 2021-09-18 |
 | [Under The Water](https://open.spotify.com/track/0aYkYtV9oDepLueh0hgVmV) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Under The Water](https://open.spotify.com/album/5iOQNycOAXI5ujKv8gwA3R) | 2:45 | 2021-03-27 | 2021-08-07 |

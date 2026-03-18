@@ -1,6 +1,6 @@
 {
   "description": "El Malo del Bronx y su legado siempre estar\u00e1n presentes. DEP, Willie Col\u00f3n. ",
-  "num_followers": 428538,
+  "num_followers": 428566,
   "original_name": "Willie Col\u00f3n Por Siempre",
   "owner": {
     "name": "Spotify",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
+        "name": "M\u00e1s Rom\u00e1ntico- Salsa en la Calle",
+        "url": "https://open.spotify.com/album/6vgEHOeYvlDJNEM8GzsMt5"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "duration_ms": 268573,
+      "name": "Cuando Acaba el Placer",
+      "url": "https://open.spotify.com/track/7rUmf9QMILaMOd0jKqS2vK"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
         "name": "Hechizando",
         "url": "https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 267311,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
-        "name": "M\u00e1s Rom\u00e1ntico- Salsa en la Calle",
-        "url": "https://open.spotify.com/album/6vgEHOeYvlDJNEM8GzsMt5"
-      },
-      "artists": [
-        {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
-        }
-      ],
-      "duration_ms": 268573,
-      "name": "Cuando Acaba el Placer",
-      "url": "https://open.spotify.com/track/7rUmf9QMILaMOd0jKqS2vK"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "Colecci\u00f3n De Oro",
         "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
         }
       ],
-      "duration_ms": 312426,
-      "name": "Vivir Sin Ella",
-      "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1511,6 +1495,22 @@
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Vivir Sin Ella",
+      "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Solo T\u00fa",
-        "url": "https://open.spotify.com/album/0mn66fG8H2OvgEEMid3J8G"
-      },
-      "artists": [
-        {
-          "name": "Los Exitos",
-          "url": "https://open.spotify.com/artist/6tTSvc4MExzu7yxgwiNlnL"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/0NeMvcRJoYqvFbDcinjFXd"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "Problemas de Ciudad",
         "url": "https://open.spotify.com/album/3qPlXvi1hQfoJc9WZx6JXQ"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 271674,
       "name": "Amigo Cu\u00eddala",
       "url": "https://open.spotify.com/track/4fDgJFwupM4Z1PYBFzfasP"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/0mn66fG8H2OvgEEMid3J8G"
+      },
+      "artists": [
+        {
+          "name": "Los Exitos",
+          "url": "https://open.spotify.com/artist/6tTSvc4MExzu7yxgwiNlnL"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/0NeMvcRJoYqvFbDcinjFXd"
     },
     {
       "added_at": "2026-02-23 19:56:34",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Guajiro Natural",
-        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 230026,
       "name": "Desesperado",
       "url": "https://open.spotify.com/track/3dH8qYlVlwR9xFdeIEfNWp"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "Guajiro Natural",
+        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
     },
     {
       "added_at": "2026-02-23 19:56:34",

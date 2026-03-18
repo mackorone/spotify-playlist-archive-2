@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAG+GDK+cofjo+FvmJhy9mWHzUkieaT",
+  "snapshot_id": "AAAHB0TGyfZi1R+gH2SFn23UkW8oQtDw",
   "tracks": [
+    {
+      "added_at": "2026-03-17 08:02:32",
+      "album": {
+        "name": "\u30af\u30ed\u30b9\u30ed\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/0f5vcOQqU8arlrRYZxqv5Y"
+      },
+      "artists": [
+        {
+          "name": "kz",
+          "url": "https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4"
+        },
+        {
+          "name": "TAKU INOUE",
+          "url": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 263918,
+      "name": "\u30af\u30ed\u30b9\u30ed\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2cFwQJ4AAjWyGx1n14nZNp"
+    },
+    {
+      "added_at": "2026-03-17 08:02:45",
+      "album": {
+        "name": "\u6b63\u5e38\u306b\u52d5\u3044\u3066\u3044\u307e\u3059\u304b",
+        "url": "https://open.spotify.com/album/20CF5XIC3qAfsSkolH9z2G"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u98a8\u592a\u967d",
+          "url": "https://open.spotify.com/artist/3C6YK9PmwFy9SGXTW3uC2i"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 160555,
+      "name": "\u6b63\u5e38\u306b\u52d5\u3044\u3066\u3044\u307e\u3059\u304b (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5NqlrCEs1eP2eBK4Fx16mM"
+    },
+    {
+      "added_at": "2026-03-17 08:03:00",
+      "album": {
+        "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30fb\u30ed\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7y8IQCmPj2WhjMn3qEzxYU"
+      },
+      "artists": [
+        {
+          "name": "Kris",
+          "url": "https://open.spotify.com/artist/4ZM1m5VDP1mVbjRGAPvSD9"
+        }
+      ],
+      "duration_ms": 196842,
+      "name": "\u30de\u30b9\u30ab\u30ec\u30fc\u30c9\u30fb\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/4XgeHp6YsS2TzMbb8Fh0SV"
+    },
+    {
+      "added_at": "2026-03-17 08:03:11",
+      "album": {
+        "name": "\u30ad\u30df\u30c8\u30df\u30e9\u30a4\u30d8",
+        "url": "https://open.spotify.com/album/5bbJMxWs9zQlDOc1wHhBgx"
+      },
+      "artists": [
+        {
+          "name": "Maya",
+          "url": "https://open.spotify.com/artist/5wexzX1W2zWN2fZ1iXhxSl"
+        }
+      ],
+      "duration_ms": 235227,
+      "name": "\u30ad\u30df\u30c8\u30df\u30e9\u30a4\u30d8 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/21NI5AKUdQHQgedKBLW1Bz"
+    },
+    {
+      "added_at": "2026-03-17 08:03:24",
+      "album": {
+        "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
+        "url": "https://open.spotify.com/album/3x8GCTGhjM1RYH5Ij1woET"
+      },
+      "artists": [
+        {
+          "name": "Sohbana",
+          "url": "https://open.spotify.com/artist/1wdjWyhvXFyP3gBWVGZiS5"
+        }
+      ],
+      "duration_ms": 180271,
+      "name": "\u500b\u3005\u3005\u3005\u3005\u3005\u4eba",
+      "url": "https://open.spotify.com/track/1QPzvGlrRXbv3KVH2lgyJv"
+    },
     {
       "added_at": "2026-03-10 07:32:36",
       "album": {
@@ -707,102 +799,6 @@
       "duration_ms": 203550,
       "name": "\u30ad\u30fc\u30d7\u30a2\u30a6\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/01CGF3QSbWv1vq49RKoREV"
-    },
-    {
-      "added_at": "2026-01-20 08:00:15",
-      "album": {
-        "name": "\u30d2\u30ac\u30a4\u30e2\u30fc\u30bd\u30fc\u30d8\u30ad",
-        "url": "https://open.spotify.com/album/0kWZZZZrGnp2SDiuaxc9YR"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u304f\u305f\u308a",
-          "url": "https://open.spotify.com/artist/4AWTC8Kqn1DRU4aQIUcrOg"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "\u30d2\u30ac\u30a4\u30e2\u30fc\u30bd\u30fc\u30d8\u30ad (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/400VHAYGE054DM0Sgumpla"
-    },
-    {
-      "added_at": "2026-01-20 08:00:30",
-      "album": {
-        "name": "Freedom of contract",
-        "url": "https://open.spotify.com/album/2OBD73gJMK2fN6imNNAjhP"
-      },
-      "artists": [
-        {
-          "name": "hazys broken samplers",
-          "url": "https://open.spotify.com/artist/5nPOxV3V3fB43ZSWbxFcf0"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Like_a_burning_tinnitus_ (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/18HVlknJRx4eaVOvTQMCGt"
-    },
-    {
-      "added_at": "2026-01-20 08:00:43",
-      "album": {
-        "name": "\u30a8\u30ca\u30c9\u30ea",
-        "url": "https://open.spotify.com/album/5dH9m6oxkYZa9FzZ54hZSB"
-      },
-      "artists": [
-        {
-          "name": "708/\u6b8b\u97ffP",
-          "url": "https://open.spotify.com/artist/6LbWd3hdBGI3ixFHBHZJew"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "\u30a8\u30ca\u30c9\u30ea (feat. \u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/0XSKdQorwzcDVhw80O0YWj"
-    },
-    {
-      "added_at": "2026-01-20 08:00:54",
-      "album": {
-        "name": "\u30c0\u30f3\u30ed\u30a6\u30b0\u30e2",
-        "url": "https://open.spotify.com/album/4cMD8uuM4zr1fdGrYUnCsG"
-      },
-      "artists": [
-        {
-          "name": "halyosy",
-          "url": "https://open.spotify.com/artist/1n7bHz03w0ew7UNCw1dAiA"
-        }
-      ],
-      "duration_ms": 192136,
-      "name": "\u30c0\u30f3\u30ed\u30a6\u30b0\u30e2",
-      "url": "https://open.spotify.com/track/3RAxotJT8d8uBrENmii856"
-    },
-    {
-      "added_at": "2026-01-20 08:01:09",
-      "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/0LvOGalSL9u0mBoxUoYi6W"
-      },
-      "artists": [
-        {
-          "name": "Mizu",
-          "url": "https://open.spotify.com/artist/2uG7JQabfDCuvHwboW4wit"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 202181,
-      "name": "Sugar Sweet (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/55TAAOXjKUyA2SXoOZexIW"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 \u30d1\u30ef\u30d5\u30eb\u30dd\u30c3\u30d7\u30b9",

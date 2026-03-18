@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Shuta Hasunuma
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,258 likes - 149 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,323 likes - 149 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 18 | [Smoke Rings](https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Smoke Rings](https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum) | 8:06 |
 | 19 | [Suntory](https://open.spotify.com/track/4ScJ0r4xvc7kty6Xsqj53a) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Suntory](https://open.spotify.com/album/5RJR5qGMAmhj54UN70eNGV) | 7:42 |
 | 20 | [Jamie](https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory \(Extended\)](https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz) | 5:02 |
-| 21 | [We Move Slighly Forward](https://open.spotify.com/track/13jl7QOGhx4YAXDjXP3Abb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Blu Miles](https://open.spotify.com/artist/6Im1pI4Fs0wC6Vb4nj6E9A) | [We Move Slightly Forward](https://open.spotify.com/album/4iClAq2zbA2OzAYBmEYjvM) | 1:17 |
+| 21 | [We Move Slightly Forward](https://open.spotify.com/track/13jl7QOGhx4YAXDjXP3Abb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Blu Miles](https://open.spotify.com/artist/6Im1pI4Fs0wC6Vb4nj6E9A) | [We Move Slightly Forward](https://open.spotify.com/album/4iClAq2zbA2OzAYBmEYjvM) | 1:17 |
 | 22 | [Drizzle \(Echo\)](https://open.spotify.com/track/4wVpQwlI7ZBY6W4CCgy5zD) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Rainscape](https://open.spotify.com/album/3azeFYKH4YVrSNM8m5FxU3) | 2:17 |
 | 23 | [silent aurora](https://open.spotify.com/track/0bCzY6WZD7SEpnw7E9iYSq) | [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB), [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [silent aurora](https://open.spotify.com/album/6Se7ujmRwCxkys849vHBgz) | 3:00 |
 | 24 | [REALM](https://open.spotify.com/track/6MlWSNGsSVLn2VAEwSM7BY) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [REALM](https://open.spotify.com/album/7bXpq0vkGVmGPsvcRGyBnR) | 1:49 |

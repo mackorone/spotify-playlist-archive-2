@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3376595,
+  "num_followers": 3376387,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "No Judgement",
-        "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "No Judgement",
-      "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 187080,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "No Judgement",
+        "url": "https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "No Judgement",
+      "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Inner Monologue Part 2",
-        "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "17",
-      "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 228146,
       "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
       "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Inner Monologue Part 2",
+        "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
     },
     {
       "added_at": "2022-12-08 16:33:34",

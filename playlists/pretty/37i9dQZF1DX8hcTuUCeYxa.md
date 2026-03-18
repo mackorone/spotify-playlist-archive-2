@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Modest Mouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,819 likes - 90 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,804 likes - 90 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 18 | [Take you away](https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Take you away](https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR) | 3:54 |
 | 19 | [HOUSE](https://open.spotify.com/track/50hBwOAvTw01fUF5xsYNvt) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [HOUSE](https://open.spotify.com/album/0C91lSjGtEnDbtBwyIiVJt) | 4:19 |
 | 20 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 |
-| 21 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 21 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 22 | [Tooth Fairy](https://open.spotify.com/track/1N5s3QNRSHtS8ofBU5fkPl) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s), [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Tooth Fairy](https://open.spotify.com/album/2VLtnIQXwfJEDtmsY1T4fq) | 4:00 |
 | 23 | [PLAY ME](https://open.spotify.com/track/3r8jMGukBwtwapk6C8QrA3) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [PLAY ME](https://open.spotify.com/album/6YKDklqTiPc8bjMsjzIlst) | 2:28 |
 | 24 | [Miles](https://open.spotify.com/track/1gxVl5U2eD4ZRCTiDjyi1L) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Miles](https://open.spotify.com/album/67meSfnsEUQRMvolemxRMv) | 1:55 |

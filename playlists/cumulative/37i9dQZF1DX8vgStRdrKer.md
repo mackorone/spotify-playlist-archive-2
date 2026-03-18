@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-743 songs - 2 day 15 hr 27 min
+744 songs - 2 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Hunger](https://open.spotify.com/track/76QxXnjKzq7E1B4PoLpPFf) | [K\-Medley](https://open.spotify.com/artist/4l14tKWGq5TEm5NEXvcRI6) | [Hunger](https://open.spotify.com/album/5vx3A23DhGzGmF3DH5JIkJ) | 11:19 | 2024-11-08 | 2024-12-28 |
 | [I Am](https://open.spotify.com/track/2zrsyufGC2p1LPBp8RzKcP) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [I Am](https://open.spotify.com/album/4jQGnOdxBUGyZKcQIkKvOV) | 7:39 | 2025-07-25 | 2025-10-06 |
 | [I am Excited](https://open.spotify.com/track/5PY8SCjjE6UgZoRZvnpQbY) | [Emon brill](https://open.spotify.com/artist/7h0bNvKAuQUJa1LhEMzjuO), [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7) | [I am Excited](https://open.spotify.com/album/1SK2Yee76TQBWVGGzjTLG6) | 4:13 | 2025-10-17 | 2025-12-28 |
-| [I Am Who You Say I Am](https://open.spotify.com/track/3aUW5yTFP8RWN15wxlYW0I) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [I Am Who You Say I Am](https://open.spotify.com/album/0c5GmMEQuce9qHm0G2ebVD) | 4:02 | 2026-01-16 |  |
+| [I Am Who You Say I Am](https://open.spotify.com/track/3aUW5yTFP8RWN15wxlYW0I) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [I Am Who You Say I Am](https://open.spotify.com/album/0c5GmMEQuce9qHm0G2ebVD) | 4:02 | 2026-01-16 | 2026-03-18 |
 | [I Am Yours](https://open.spotify.com/track/7ehcu5sVG3L1lHQf7yhO08) | [Tobass Adolphus](https://open.spotify.com/artist/4qkRtDX0A69ZUOxHVL6VUf) | [I Am Yours](https://open.spotify.com/album/0NM7QI7SnozgYJ8Pl5JrRD) | 3:57 | 2023-11-24 | 2024-01-14 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-10-03 |
 | [I Carry God](https://open.spotify.com/track/0xXddFk3eUcd8SGdkxKOzp) | [Abimbola Funke Fagun](https://open.spotify.com/artist/1EHVpqPo4ZxRBrKqhL49po), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [I Carry God](https://open.spotify.com/album/2nx9CnLKR95SAONx2Clzqn) | 3:31 | 2024-05-24 | 2024-07-14 |
@@ -442,6 +442,7 @@
 | [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 | 2025-07-04 | 2025-10-04 |
 | [Miyeruwe](https://open.spotify.com/track/49W1rWTLscuPm49Uztjha5) | [Bada Godwin](https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Miyeruwe](https://open.spotify.com/album/5sz29dKcDx5uIBRGpMLwrn) | 5:25 | 2025-08-22 | 2025-11-04 |
 | [MOG](https://open.spotify.com/track/1Sdcat45qN20OLrKZR0FJM) | [Mic Dada](https://open.spotify.com/artist/2SWGKvYcm3wowvgdQTwQ4c) | [MOG](https://open.spotify.com/album/6lmXCMLzFR9xvTx2V9xdjL) | 3:46 | 2025-06-27 | 2025-07-16 |
+| [Moja](https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Moja](https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC) | 3:20 | 2026-03-06 |  |
 | [Moment](https://open.spotify.com/track/4BZ7pMzJiBInFR5NPMbqGN) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Moment](https://open.spotify.com/album/22PQQnMMjotxsJ42Qgjrl8) | 3:14 | 2025-08-22 | 2025-10-03 |
 | [More](https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Than Before](https://open.spotify.com/album/2DSIpZI7oKkGCqRdweDE6V) | 5:20 | 2024-03-30 | 2024-04-26 |
 | [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-06-13 | 2025-10-16 |

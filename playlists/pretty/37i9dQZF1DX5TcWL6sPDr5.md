@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 
 > Listen to women at full volume\. Cover: Ingrid Vårvik 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,541 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,537 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TcWL6sPDr5.md) - [plain]
 | 18 | [September](https://open.spotify.com/track/5au5nSqW233ceaO3sEpNzY) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [September](https://open.spotify.com/album/11ovCZWhgR2VcPkkh4u0LO) | 3:31 |
 | 19 | [Hush](https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Hush](https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS) | 3:32 |
 | 20 | [Det regner i Oslo](https://open.spotify.com/track/6fIHnvVUdiiJ3DOo3SG4XQ) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver Gang Vi Møtes 2025](https://open.spotify.com/album/19a58lazsTPsTaUEzah6P1) | 2:36 |
-| 21 | [Tømmermænd](https://open.spotify.com/track/6rIOedNez2EcpEX0Dxd2B5) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Tømmermænd](https://open.spotify.com/album/3gqNQfQmJJ3Vjlvy7gbusk) | 2:53 |
+| 21 | [Tømmermænd \- Radio Edit](https://open.spotify.com/track/6rIOedNez2EcpEX0Dxd2B5) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Tømmermænd \(Radio Edit\)](https://open.spotify.com/album/3gqNQfQmJJ3Vjlvy7gbusk) | 2:53 |
 | 22 | [Torn](https://open.spotify.com/track/4650B4HgWwPOKpJTP8Frsa) | [Trine Rein](https://open.spotify.com/artist/7Bwd40OTvJfGOijFJj23j1) | [Beneath My Skin](https://open.spotify.com/album/6CQeL37bo5SyWNfEkNWrcj) | 4:09 |
 | 23 | [Crush](https://open.spotify.com/track/5qE28swK9ufll68IzqG1aY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:57 |
 | 24 | [Since Last Wednesday](https://open.spotify.com/track/4ZL63qhbgFcIWAC0ypUVil) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Silent Treatment](https://open.spotify.com/album/6yFHWLDgf8EbDrbsiJnjZ5) | 3:56 |

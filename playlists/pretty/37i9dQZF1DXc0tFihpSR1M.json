@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87433,
+  "num_followers": 87438,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "It\u2019s Not That Deep",
-        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 183247,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
+      "duration_ms": 215156,
+      "name": "Fy faen du e deili",
+      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
+        "name": "It\u2019s Not That Deep",
+        "url": "https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 215156,
-      "name": "Fy faen du e deili",
-      "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+      "duration_ms": 183247,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "SEES IGJEN",
-        "url": "https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD"
-      },
-      "artists": [
-        {
-          "name": "Bargee",
-          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "SEES IGJEN",
-      "url": "https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
         "name": "Tobias Sten (Utvida)",
         "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
       },
@@ -971,22 +955,6 @@
       "duration_ms": 240344,
       "name": "Ingen her e deg",
       "url": "https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -1011,6 +979,38 @@
       "duration_ms": 155440,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/0nnI5UO2EtFvSFHwVlV2xu"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "SEES IGJEN",
+        "url": "https://open.spotify.com/album/0ouuDuGD9Jn8D8i4dHbxcD"
+      },
+      "artists": [
+        {
+          "name": "Bargee",
+          "url": "https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "SEES IGJEN",
+      "url": "https://open.spotify.com/track/6vW1RECrVCKf1WrlOjdmku"
     },
     {
       "added_at": "2026-03-12 23:00:45",

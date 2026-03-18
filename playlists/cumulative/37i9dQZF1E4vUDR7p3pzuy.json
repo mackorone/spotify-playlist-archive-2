@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 217778,
       "name": "A Dark Dream",
       "url": "https://open.spotify.com/track/0UG6GMOOMsnS9hW1vO7u5N"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 177230,
       "name": "a short term effect",
       "url": "https://open.spotify.com/track/1BFfuqkmcRqkouAYuXTnNf"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 314188,
       "name": "Comfort in Disease",
       "url": "https://open.spotify.com/track/6VmKwotqJLsCSzMCcwG1Ml"
@@ -1492,6 +1492,24 @@
       "duration_ms": 191500,
       "name": "Coming Back To Life",
       "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
+    },
+    {
+      "album": {
+        "name": "Concrete Jungle",
+        "url": "https://open.spotify.com/album/6hsYqcS4ysvMBwVEaUSPdl"
+      },
+      "artists": [
+        {
+          "name": "KEETH",
+          "url": "https://open.spotify.com/artist/3CIUJpKwIv05u3ivWfqXdu"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Concrete Jungle",
+      "url": "https://open.spotify.com/track/5IkCdYyux38YxClI6LsWMB"
     },
     {
       "album": {
@@ -1600,6 +1618,24 @@
       "duration_ms": 231226,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/4TDhqAaT6t6RFgFykF4u6h"
+    },
+    {
+      "album": {
+        "name": "Pull Like a Dog",
+        "url": "https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy"
+      },
+      "artists": [
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355519,
+      "name": "Cracks",
+      "url": "https://open.spotify.com/track/3HSAeGmuCZYP8ZFGZ7RNtw"
     },
     {
       "album": {
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -2554,7 +2590,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2662,7 +2698,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -2738,6 +2774,28 @@
       "duration_ms": 298514,
       "name": "For Dead",
       "url": "https://open.spotify.com/track/4Fq84rkGebbqwZoTJxn2OC"
+    },
+    {
+      "album": {
+        "name": "For Now (feat. Emily Gray)",
+        "url": "https://open.spotify.com/album/7xbxspxZZYBBdRvrum6rVx"
+      },
+      "artists": [
+        {
+          "name": "Mercury Teardrop",
+          "url": "https://open.spotify.com/artist/3TFtEAflkXJNfG0i30inxr"
+        },
+        {
+          "name": "Emily Gray",
+          "url": "https://open.spotify.com/artist/02s2pHJ0TIns6EsWRw2YM3"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282551,
+      "name": "For Now (feat. Emily Gray)",
+      "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
     },
     {
       "album": {
@@ -3014,7 +3072,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -3166,7 +3224,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Grape Crush",
       "url": "https://open.spotify.com/track/4OqKb3MOfnufyrFnhDQnZO"
@@ -3394,7 +3452,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6yxiMSrPbysUBvl3EKeww3"
@@ -4277,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "TS//1_Dark",
+        "url": "https://open.spotify.com/album/7iQgET6Cta3EoMI2FnQtLm"
+      },
+      "artists": [
+        {
+          "name": "Teshima Sound",
+          "url": "https://open.spotify.com/artist/0Ke4Bjs0tTIVMXBL8lD28S"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246637,
+      "name": "Kerosene Fire",
+      "url": "https://open.spotify.com/track/4zs9m7Pvh66QCPpSC6l9iA"
+    },
+    {
+      "album": {
         "name": "Purple Pain",
         "url": "https://open.spotify.com/album/5p8ArHFTxDnWWoiaI7DyB8"
       },
@@ -4382,7 +4458,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 201468,
       "name": "Laissez-faire",
       "url": "https://open.spotify.com/track/7iAGjF1eTqPxTuzN7Gjo39"
@@ -4556,7 +4632,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -5028,7 +5104,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5212,7 +5288,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 296199,
       "name": "Motivation - Single Edit",
       "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
@@ -5248,7 +5324,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
@@ -5400,6 +5476,24 @@
       "duration_ms": 292800,
       "name": "No Music No Hope",
       "url": "https://open.spotify.com/track/3hDiwWQ2dAzYPq9rPRzvxF"
+    },
+    {
+      "album": {
+        "name": "Control Room Lullaby",
+        "url": "https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197799,
+      "name": "No Signal",
+      "url": "https://open.spotify.com/track/1FoEGMt60BH4kfVQp4rnio"
     },
     {
       "album": {
@@ -7808,7 +7902,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 219648,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/52Ewu34tEpgvra33JFbsRR"
@@ -8252,7 +8346,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 190006,
       "name": "To Die And I",
       "url": "https://open.spotify.com/track/1jxbjZSaH6HBD6ld0ycfaI"

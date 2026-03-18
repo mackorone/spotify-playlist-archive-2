@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-943 songs - 1 day 21 hr 32 min
+944 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-13 | 2023-11-14 |
 | [Feeling](https://open.spotify.com/track/5EMD7ozaMBD2GJCUHD5nVn) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Feeling](https://open.spotify.com/album/4HgqgBQ1GijdEct4MU407R) | 2:41 | 2025-03-31 |  |
 | [Feeling Good](https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Feeling Good](https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp) | 2:17 | 2023-11-13 | 2024-03-13 |
-| [Feelings](https://open.spotify.com/track/5n9qMXcyuYEMyBB9yUu4NG) | [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi), [Welmz](https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu) | [Feelings](https://open.spotify.com/album/15MPPsOE0MnSIpWBGpbiLy) | 2:28 | 2026-02-06 |  |
+| [Feelings](https://open.spotify.com/track/5n9qMXcyuYEMyBB9yUu4NG) | [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi), [Welmz](https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu) | [Feelings](https://open.spotify.com/album/15MPPsOE0MnSIpWBGpbiLy) | 2:28 | 2026-02-06 | 2026-03-18 |
 | [FEELINGS](https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Nobody Badder](https://open.spotify.com/album/1noSivqDiu16wO4i99I9u0) | 2:40 | 2024-10-18 | 2024-10-26 |
 | [FEELS](https://open.spotify.com/track/4Q0nTj4TyprPk5bTpeSrGk) | [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ), [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [FEELS](https://open.spotify.com/album/6RufVlTi8oghtOMhX3MXwL) | 2:50 | 2025-08-29 | 2025-12-05 |
 | [Feels](https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd) | [OCHÉ](https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X) | [Feels](https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD) | 2:17 | 2023-04-20 | 2023-05-05 |
@@ -360,6 +360,7 @@
 | [Guy Like Me](https://open.spotify.com/track/1lxVtfGPUZlgInYySB1GcS) | [Yugoszn](https://open.spotify.com/artist/7yWR3RApVuDFsZ6MqOHyFn) | [Yugoszn](https://open.spotify.com/album/5A6wiJErITKfHgQB5rR7ll) | 2:49 | 2024-02-02 | 2024-03-22 |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 | 2022-09-29 |
 | [Have That Love](https://open.spotify.com/track/6p9N449djwtND5vS5hCRy7) | [Efue](https://open.spotify.com/artist/1ADatv0IywY3a3HW6Wy43x) | [Have That Love](https://open.spotify.com/album/6oA3Qy6OrZNAovJ7ZyULQQ) | 2:54 | 2026-01-30 | 2026-02-06 |
+| [HGF](https://open.spotify.com/track/1CKrhdDdnHFk1EGsLVwUnR) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [HGF](https://open.spotify.com/album/6M9MsS9A5fFSGd6yMjVQdq) | 2:44 | 2026-03-13 |  |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2024-02-09 |
 | [Hide & Seek \- Rema Remix](https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Hide & Seek \(Rema Remix\)](https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY) | 3:48 | 2023-02-23 | 2023-09-29 |
 | [high and sober \(go on soun\)](https://open.spotify.com/track/2NndR3RtJRruBdk57CPHfp) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [YUSFUL MUSIC \(RELOADED\)](https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ) | 2:21 | 2024-02-16 | 2024-03-30 |

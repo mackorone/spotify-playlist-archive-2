@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,137 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,166 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 37 | [It Wasn't Me](https://open.spotify.com/track/0e0HSHdFdrzGV4wkTiPUv3) | [Mike Jasom](https://open.spotify.com/artist/4NkFX8DIlWt8ZFL8CsdPGB) | [It Wasn't Me](https://open.spotify.com/album/1qQhcoBUWE0fxcpV3H0sck) | 2:14 |
 | 38 | [The Things That We Should Say](https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [The Things That We Should Say](https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv) | 2:08 |
 | 39 | [Hit The Ground](https://open.spotify.com/track/658noe7AopzUVafqSR6x61) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Hit The Ground](https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ) | 3:16 |
-| 40 | [No Lie \- BL3SS Remix](https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [No Lie \(BL3SS Remix\)](https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q) | 2:14 |
-| 41 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |
+| 40 | [SEND IT](https://open.spotify.com/track/5H8QJ075Kpaf4B3GKKLDw1) | [SEMPA](https://open.spotify.com/artist/3zB3FoF3rsKoqa1ZlXJMbQ), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [SEND IT](https://open.spotify.com/album/7LES3d1vjIX4vOgT569O3v) | 2:06 |
+| 41 | [No Lie \- BL3SS Remix](https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [No Lie \(BL3SS Remix\)](https://open.spotify.com/album/4gXdY9TJSuPpB6iz6EHV0Q) | 2:14 |
 | 42 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 |
 | 43 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
 | 44 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 46 | [Excuses](https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X) | [DJ Pantha](https://open.spotify.com/artist/4E0sJWY67kmUAJHtu4ZcEL), [AMEENAH](https://open.spotify.com/artist/7ocz03yDMOh5NOWuoSgg6r) | [Excuses / Dem Ones](https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K) | 4:37 |
 | 47 | [ON JOB](https://open.spotify.com/track/0QgRQ5uxzGcRFcjXU0bt9L) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [ON JOB](https://open.spotify.com/album/0P8FoWrMOpB4JZWdvJzzvy) | 3:18 |
 | 48 | [No Chase](https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Club Orthodontics](https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3) | 2:32 |
-| 49 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
-| 50 | [See Thru](https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5) | [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [See Thru](https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO) | 2:40 |
+| 49 | [See Thru](https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5) | [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [See Thru](https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO) | 2:40 |
+| 50 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
 | 51 | [Bad Boi Selecta](https://open.spotify.com/track/0MapFtUi8jx8UcUsG3vqAt) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [Bad Boi Selecta](https://open.spotify.com/album/0gJNkkw45DJLT5FzXxeesS) | 2:48 |
 | 52 | [Fallin](https://open.spotify.com/track/4eABAb9LRPORxqPAHcbvMw) | [H "two" O](https://open.spotify.com/artist/2ev9Efr1n87BI5ZqZJ8SlW), [TRC](https://open.spotify.com/artist/4Oc6YddDw6YWdx4wYfyd3S), [Miss Fire](https://open.spotify.com/artist/1POjThbbB3DoTwSglss08D) | [Fallin](https://open.spotify.com/album/1TX16n2fknSoxjg4vLNElA) | 3:55 |
 | 53 | [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 |

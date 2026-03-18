@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,794 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,824 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 56 | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/track/3bNIlJBpwgwFNnFuSjH6Uh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Hey Baby \(feat\. Gia Koka\)](https://open.spotify.com/album/0wMS7Uv7zvR9e7xCTqo39u) | 2:57 |
 | 57 | [Move](https://open.spotify.com/track/5uwCM3ggK3z2hV71R2gODy) | [TiMO ODV](https://open.spotify.com/artist/5ekzQ0Zq1wSg7dDZHYKFLt) | [Move](https://open.spotify.com/album/1RhSZpacB3qtqujj4hgMeI) | 3:23 |
 | 58 | [Until We Die](https://open.spotify.com/track/6FqGxJBWE3KOcpY7HodwiA) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [Next to Neon](https://open.spotify.com/artist/4pooXkYjBxl4t18gUeTQxa) | [Until We Die](https://open.spotify.com/album/0ccCW17zrqSGef3aFHkH7I) | 2:57 |
-| 59 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
-| 60 | [I Got You](https://open.spotify.com/track/3iMYKoUsn5X0ctIAXvgmSf) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [I Got You](https://open.spotify.com/album/2TtIyrBFSBPHMWcjD4fUMp) | 2:43 |
+| 59 | [I Got You](https://open.spotify.com/track/3iMYKoUsn5X0ctIAXvgmSf) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [I Got You](https://open.spotify.com/album/2TtIyrBFSBPHMWcjD4fUMp) | 2:43 |
+| 60 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 
 Snapshot ID: `AAAAALO6r79jXb+42j9uVJilwoNQjMqH`

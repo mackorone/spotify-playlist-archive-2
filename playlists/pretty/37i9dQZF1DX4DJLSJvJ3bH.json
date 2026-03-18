@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 143785,
+  "num_followers": 143775,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+        "name": "Warm In December (Edit)",
+        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
       "artists": [
         {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+      "duration_ms": 161210,
+      "name": "Warm In December - Edit",
+      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -823,22 +839,6 @@
       "duration_ms": 195106,
       "name": "Silver Bells (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/3IFdgovo2BeNChD2DWBh7H"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "Warm In December (Edit)",
-        "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 161210,
-      "name": "Warm In December - Edit",
-      "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "The Secret Of Christmas",
-      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "a cozy christmas",
         "url": "https://open.spotify.com/album/7rA2UGd6OBHpGkyNdMezhF"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 200222,
       "name": "mistletoe and holly",
       "url": "https://open.spotify.com/track/6SlBPzOtfq7MttLxLOM1EO"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 165813,
+      "name": "The Secret Of Christmas",
+      "url": "https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 163240,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1559,38 +1559,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
-      },
-      "artists": [
-        {
-          "name": "Baxter Williams",
-          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "Season's Greetings",
-        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
-      },
-      "artists": [
-        {
-          "name": "Eddie Harper",
-          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
-        }
-      ],
-      "duration_ms": 195624,
-      "name": "Season's Greetings",
-      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Almost Like Being In Love",
         "url": "https://open.spotify.com/album/2XlNf2alkFJq3LD4Fumyqo"
       },
@@ -1611,6 +1579,38 @@
       "duration_ms": 192355,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3210TdRMtF0hKNnUgiMTlS"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Season's Greetings",
+        "url": "https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om"
+      },
+      "artists": [
+        {
+          "name": "Eddie Harper",
+          "url": "https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68"
+        }
+      ],
+      "duration_ms": 195624,
+      "name": "Season's Greetings",
+      "url": "https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Once A Year Miracle",
-      "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 210560,
       "name": "Beautiful, Altogether",
       "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Once A Year Miracle",
+      "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Merry Christmas from Jos\u00e9 James",
-        "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 177160,
-      "name": "Christmas in New York",
-      "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Let's Share Christmas",
         "url": "https://open.spotify.com/album/1NfiYHxoziSkGlC121fURe"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 235866,
       "name": "Let's Share Christmas",
       "url": "https://open.spotify.com/track/2aQiM3ffmt5QzSzU5FxtPm"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Merry Christmas from Jos\u00e9 James",
+        "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 177160,
+      "name": "Christmas in New York",
+      "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
     },
     {
       "added_at": "2025-12-19 14:00:54",

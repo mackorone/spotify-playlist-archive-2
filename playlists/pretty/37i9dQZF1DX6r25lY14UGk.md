@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Peppa Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,478 likes - 102 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,629 likes - 102 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 13 | [Clean Up Song](https://open.spotify.com/track/3uJprElJjcZxbx0uQlGPl7) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [The Rhythm of Routines](https://open.spotify.com/album/0W865n05JMBUF3HfiabeEZ) | 1:40 |
 | 14 | [It Helps to Say What You're Feeling](https://open.spotify.com/track/6obyLzVsCgWW9fLpXkVzzg) | [Daniel Tiger’s Neighborhood](https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG) | [It Helps to Say What You're Feeling](https://open.spotify.com/album/0SyDXfIJXkwyrtOxRhoeiL) | 1:15 |
 | 15 | [Where Is the Cat?](https://open.spotify.com/track/2DozWB0YYgMfP18IygVioV) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Where Is the Cat?](https://open.spotify.com/album/1YqHKGlQoHnsHfrixNxuBh) | 2:07 |
-| 16 | [Born to Be Me](https://open.spotify.com/track/1F2aGwCgkBL8iVTBXLiAwO) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Chelsea](https://open.spotify.com/artist/25O9uYqu9G9i3tVOcH03k6), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie and Chelsea in the Birthday Do\-Over](https://open.spotify.com/album/1J4axkBbbdILRjbKu5nUhZ) | 2:02 |
+| 16 | [Born to Be Me](https://open.spotify.com/track/1F2aGwCgkBL8iVTBXLiAwO) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Chelsea](https://open.spotify.com/artist/2cRZrfd2YZgyP9Rxi7Ndnl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie and Chelsea in the Birthday Do\-Over](https://open.spotify.com/album/1J4axkBbbdILRjbKu5nUhZ) | 2:02 |
 | 17 | [Underwater Nursery](https://open.spotify.com/track/2JBdYcHZn8W8q7tlgm1zyL) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Underwater Nursery](https://open.spotify.com/album/7ynHz7w6x11IcpV9uxRwKf) | 2:07 |
 | 18 | [Coach Peppa's Exercise](https://open.spotify.com/track/5JeQkVmAUvcuXc7sma5MLl) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Coach Peppa](https://open.spotify.com/album/2lP0YERSzIouL8hXAn25Dw) | 2:43 |
 | 19 | [Brush Your Teeth](https://open.spotify.com/track/6AS6WpntcvexcqTbuNd5Cs) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Brush Your Teeth](https://open.spotify.com/album/5aiYd61EmlNkz607k7WUQi) | 2:46 |

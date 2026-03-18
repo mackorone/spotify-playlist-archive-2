@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,424 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,425 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 2 | [Inside Out](https://open.spotify.com/track/2Y0EVQZvvA16eoejvPfW12) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Inside Out](https://open.spotify.com/album/2VqTbLEoditxboQwT8h1ix) | 2:38 |
 | 3 | [Mary](https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [For Mary](https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh) | 4:19 |
 | 4 | [Under the Silver Moon](https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Under the Silver Moon](https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT) | 3:27 |
-| 5 | [THE ONE](https://open.spotify.com/track/3pKtl50sb3zrhCJunH36Td) | [Sir Rome](https://open.spotify.com/artist/5esJblYAUGHCWcQv7iQ2Nq), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [THE ONE \(feat\. Phoenix\)](https://open.spotify.com/album/7IgHvBqadpjpDeLL15wj7D) | 3:28 |
+| 5 | [THE ONE](https://open.spotify.com/track/3pKtl50sb3zrhCJunH36Td) | [Sir Rome](https://open.spotify.com/artist/5esJblYAUGHCWcQv7iQ2Nq), [Phoenix](https://open.spotify.com/artist/6LJogdQ2ZKcWw5DiNBIXln) | [THE ONE \(feat\. Phoenix\)](https://open.spotify.com/album/7IgHvBqadpjpDeLL15wj7D) | 3:28 |
 | 6 | [All For You](https://open.spotify.com/track/42t08hQe1Miy00LCfiUf4C) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [All For You](https://open.spotify.com/album/0w4GXeVDIVaX82lBhDJ316) | 3:02 |
 | 7 | [Heavensake \- A COLORS SHOW](https://open.spotify.com/track/4xh7zcnaWckiIYfv7qFpm6) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Heavensake \- A COLORS SHOW](https://open.spotify.com/album/0GOmnTJHGQO10UgsvP5K26) | 3:14 |
 | 8 | [Night Slide](https://open.spotify.com/track/47MQG0yBqgOXlZCyA2RqLx) | [To Your Depths](https://open.spotify.com/artist/2wxST5vy4HS6CePRq1W0iw), [NFR](https://open.spotify.com/artist/2AFvOz19stdIRuml6MvkiL) | [Night Slide](https://open.spotify.com/album/6awSiMyllrdEZVpRi2uoS4) | 3:03 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 17 | [Take you away](https://open.spotify.com/track/1cVNT9wSkKx246wFWQmqGu) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Take you away](https://open.spotify.com/album/6iWLnaNHcDlU0mueKXvXiS) | 3:54 |
 | 18 | [Nothing to Prove](https://open.spotify.com/track/3XhKIHwdcYHWhp5L2wKqz8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Brittney Carter](https://open.spotify.com/artist/32YAZ7xdjxw5RWBevTCUUM) | [Waves](https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT) | 3:42 |
 | 19 | [CGI](https://open.spotify.com/track/77gmlWMtpITWH9Yk3cDNpN) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [CGI](https://open.spotify.com/album/5PTwYGU9DJWa72cphcmmZ1) | 2:49 |
-| 20 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 20 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 21 | [hyperversion](https://open.spotify.com/track/39slF5i2ONSjUk5P3MBnSw) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [trans](https://open.spotify.com/album/2My7DpxvPT6RsDfNBZ4hpZ) | 3:52 |
 | 22 | [Mona Lisa Who?](https://open.spotify.com/track/1TmoPIuxoNJ4iEYXp2zh5J) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Mona Lisa Who?](https://open.spotify.com/album/43ygofdDUcI8kZO0kBe8cN) | 3:00 |
 | 23 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |

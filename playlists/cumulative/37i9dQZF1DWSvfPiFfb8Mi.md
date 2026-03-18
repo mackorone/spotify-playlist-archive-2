@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-425 songs - 1 day 3 hr 40 min
+426 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Little Miss Dynamite](https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Little Miss Dynamite](https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO) | 3:14 | 2023-05-19 | 2023-10-26 |
 | [Lola’s Theme \- VIP](https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola’s Theme \(VIP\)](https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0) | 7:18 | 2023-05-19 | 2023-07-22 |
 | [LoMhlaba \- Original Mix](https://open.spotify.com/track/2dbHZpfVKLsd0YqNEWtUbG) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [LoMhlaba EP](https://open.spotify.com/album/2Pkf27kgfSNPs71Jy4iWRp) | 7:52 | 2021-07-24 | 2023-05-20 |
-| [Look How Far We've Come](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Look How Far We've Come](https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y) | 5:41 | 2024-05-17 |  |
+| [Look How Far We've Come](https://open.spotify.com/track/6PocfxbZxJm2OM3zOwO4pE) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Look How Far We've Come](https://open.spotify.com/album/45icijppwUqUsUvLsAwc5Y) | 5:41 | 2024-05-17 | 2026-03-18 |
 | [Lose Control](https://open.spotify.com/track/5pIiOV7ZDmHWT1us1gTxJ4) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ) | [Lose Control](https://open.spotify.com/album/02jwqpA0J4oGG71M2gmikL) | 2:57 | 2025-03-14 | 2025-06-01 |
 | [Lose My Mind](https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Lose My Mind](https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6) | 3:01 | 2023-05-19 |  |
 | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lost In Space \(feat\. SG Lewis\)](https://open.spotify.com/album/22zT7XF3pnP4T2MxDZOcDC) | 2:23 | 2021-07-24 | 2023-09-17 |
@@ -313,6 +313,7 @@
 | [retro electrique fever](https://open.spotify.com/track/0DRZRfXOWgj2VNJNRRqNnR) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [retro electrique fever](https://open.spotify.com/album/2y6UGYRHMrQQ1IJZ4vWYbb) | 2:34 | 2023-10-13 | 2024-03-18 |
 | [Ritmo 6](https://open.spotify.com/track/1vJsWeFVitz10PLxpvCTOo) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/3zUhds2roiqMd53y36uc62) | 4:59 | 2021-07-24 | 2022-11-20 |
 | [Ritmo 6](https://open.spotify.com/track/6KGQ8HUfPdrGVmQAMLlNtI) | [Christian S](https://open.spotify.com/artist/0GQQT1VBcDpqgy4qJsRUqo), [Sano](https://open.spotify.com/artist/0kCcPUZQeVQrqBLJfgoGb1) | [Tannin](https://open.spotify.com/album/0IEN4CV0eoh0CnsFXIIC9P) | 4:59 | 2022-06-20 | 2023-05-20 |
+| [Ritmo Sabroso](https://open.spotify.com/track/1Xd97xsTJQE2qd2zonWPPX) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Ritmo Sabroso](https://open.spotify.com/album/5d8zfJKzslUkDKVDd7g8Pm) | 2:34 | 2026-03-13 |  |
 | [Rock With Me](https://open.spotify.com/track/18fazLrZ3SjUVNaaAOjlSU) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [Rock With Me](https://open.spotify.com/album/18fw42lq4tGTUVaZtC48NM) | 2:44 | 2023-05-19 | 2024-06-23 |
 | [Rushing Back](https://open.spotify.com/track/5YSu7cIVCuvbOkDeckjVhL) | [Infinity Ink](https://open.spotify.com/artist/4aulLg9UvpHY9dIRqr30Qh), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp) | [Rushing Back](https://open.spotify.com/album/1BU49cvjSWAqnab2VwZPqq) | 3:44 | 2021-07-24 | 2023-05-20 |
 | [Sanctuary](https://open.spotify.com/track/5AEYzNoMrEgoEf7pDXiyD3) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5), [Slim Jeff](https://open.spotify.com/artist/16S5i3Q31EGZAB1v593hhk), [Annabelle Freedman](https://open.spotify.com/artist/0NoKAkvLzKucjNCZ0y62SW) | [CAPYAC FOREVER](https://open.spotify.com/album/63jCHRp1OODxxUM5vm6sw3) | 3:26 | 2023-05-19 | 2025-04-26 |

@@ -4,7 +4,7 @@
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-350 songs - 18 hr 7 min
+351 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Laurita Garza](https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Laurita Garza](https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg) | 3:11 | 2022-03-17 |  |
 | [Laurita Garza](https://open.spotify.com/track/1kfKyCWFxNp4WHJDcPyYWS) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:12 | 2022-03-17 | 2024-04-19 |
 | [Le Dije Al Corazón](https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [En El Area De Sueños](https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand) | 2:33 | 2026-03-10 |  |
+| [Lo Lindo De Ti](https://open.spotify.com/track/7kyYvqyKoWiXunIjscWoVB) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:31 | 2026-03-10 |  |
 | [Loco](https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Todo tuyo](https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei) | 3:55 | 2022-03-17 |  |
 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 | 2022-03-17 |  |
 | [Los Barandales Del Puente](https://open.spotify.com/track/40zHq35NA61BUHZnrVCALe) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Pueblo Querido](https://open.spotify.com/album/51JfaZjmmYVyqSz4bI89oT) | 2:44 | 2026-03-10 |  |
@@ -331,7 +332,7 @@
 | [Un Minuto Más](https://open.spotify.com/track/29QyPwjZKlSbDeMk3RGfWL) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Desde Hoy](https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ) | 3:27 | 2026-03-10 |  |
 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 | 2022-03-17 | 2024-12-04 |
 | [Un Viejo Amor](https://open.spotify.com/track/7qhDB8S7ChisYhV2nqLdvV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2026-03-10 |  |
-| [Un Viejo Amor](https://open.spotify.com/track/2ZulEcB2LuEgOMOvgUc1D0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 2:39 | 2026-03-10 |  |
+| [Un Viejo Amor](https://open.spotify.com/track/2ZulEcB2LuEgOMOvgUc1D0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 2:39 | 2026-03-10 | 2026-03-18 |
 | [Un Viejo Amor](https://open.spotify.com/track/20NJvnEVfiinje8E8Y1di3) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs) | 2:40 | 2022-03-17 | 2022-07-29 |
 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 | 2022-03-17 |  |
 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/04fiThYimEJvfWey1rOpEz) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:47 | 2024-08-28 | 2026-03-10 |

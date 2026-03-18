@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Shakey Graves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710,456 likes - 103 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,710,286 likes - 103 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

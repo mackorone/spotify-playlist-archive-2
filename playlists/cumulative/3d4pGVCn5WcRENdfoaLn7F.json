@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Day Dreamer Night Thinker",
+        "url": "https://open.spotify.com/album/3v1i2iiTOt0yptE5meyxAB"
+      },
+      "artists": [
+        {
+          "name": "The Lovves",
+          "url": "https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254232,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc"
+    },
+    {
+      "album": {
         "name": "Songs For The Eternity.",
         "url": "https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY"
       },
@@ -1768,6 +1786,24 @@
       "duration_ms": 188360,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl"
+    },
+    {
+      "album": {
+        "name": "Homework Forever",
+        "url": "https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176973,
+      "name": "Homework Forever",
+      "url": "https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7"
     },
     {
       "album": {
@@ -3700,6 +3736,24 @@
       "duration_ms": 197706,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR"
+    },
+    {
+      "album": {
+        "name": "Stop the Bleed",
+        "url": "https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT"
+      },
+      "artists": [
+        {
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324578,
+      "name": "Stop the Bleed",
+      "url": "https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1"
     },
     {
       "album": {

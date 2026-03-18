@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "new year, old me",
+        "url": "https://open.spotify.com/album/6aftSUowERWw4zIw8NpMBr"
+      },
+      "artists": [
+        {
+          "name": "guapanova",
+          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113002,
+      "name": "#nonsalant",
+      "url": "https://open.spotify.com/track/1AedEas16W7eqOkqr488MT"
+    },
+    {
+      "album": {
         "name": "JMSN",
         "url": "https://open.spotify.com/album/3vxlICTyRDnBXPgEAyUSWT"
       },
@@ -1347,6 +1369,48 @@
     },
     {
       "album": {
+        "name": "Bridgerton & Beyond",
+        "url": "https://open.spotify.com/album/3ZMwvkjCvq8wUOTfMwCCmy"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Aitchison",
+          "url": "https://open.spotify.com/artist/08ljvFyx4xVAtcQyXMtzFH"
+        },
+        {
+          "name": "Henry Walter",
+          "url": "https://open.spotify.com/artist/0KUgVYAFV9nVtmeUbUiQlj"
+        },
+        {
+          "name": "Alexander Cook",
+          "url": "https://open.spotify.com/artist/0P9x0Y4zKIcDHLUnXzV9rQ"
+        },
+        {
+          "name": "Finn Keane",
+          "url": "https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW"
+        },
+        {
+          "name": "Blake Slatkin",
+          "url": "https://open.spotify.com/artist/0bZ6okOw38nKBX6me9oD6l"
+        },
+        {
+          "name": "Omer Fedi",
+          "url": "https://open.spotify.com/artist/7bSjyGxtaKaPxfyDB2Dc7v"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131317,
+      "name": "360 (Arr. For Cello Obligato and String Quartet)",
+      "url": "https://open.spotify.com/track/6cm2PgbPHG437c64AIt9cR"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -1660,7 +1724,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 162933,
       "name": "500 Miles",
       "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb"
@@ -1746,7 +1810,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 102666,
       "name": "6 Little Eggs",
       "url": "https://open.spotify.com/track/5TKlp6Wjqdi0XjK78jTRAU"
@@ -4540,7 +4604,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 187193,
       "name": "antisocial",
       "url": "https://open.spotify.com/track/25vhKd6AR4t2LQizx9HAUe"
@@ -14528,7 +14592,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 232795,
       "name": "Cool For The Summer - Slowed",
       "url": "https://open.spotify.com/track/4DMExGI4z6D0ZTHg8i4UqE"
@@ -15676,7 +15740,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 196920,
       "name": "Daj Mi Noc",
       "url": "https://open.spotify.com/track/7BepFUa2gUXm0IvD7o0cgw"
@@ -22534,7 +22598,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 132923,
       "name": "Fashion Princess",
       "url": "https://open.spotify.com/track/7z5NqXX1WSVj0QB3Rkq0ob"
@@ -23130,6 +23194,24 @@
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
+    },
+    {
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
       "album": {
@@ -28683,6 +28765,28 @@
     },
     {
       "album": {
+        "name": "Kopfkino",
+        "url": "https://open.spotify.com/album/2LOf8gAgHo1Tp3vcXtBgSv"
+      },
+      "artists": [
+        {
+          "name": "KADI",
+          "url": "https://open.spotify.com/artist/0Eqe1qiP3mCfOlzWYbzKiU"
+        },
+        {
+          "name": "Dalliance",
+          "url": "https://open.spotify.com/artist/7HuCCHRiHrRO98IuAxnY6T"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212103,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/4zvnclhzHNBBxvAPOITQDa"
+    },
+    {
+      "album": {
         "name": "HAVHAVHAV",
         "url": "https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu"
       },
@@ -30040,6 +30144,24 @@
       "duration_ms": 420466,
       "name": "Hip Hop \u017dije",
       "url": "https://open.spotify.com/track/1yEvfrCuUJ6lrx1rZbj6Pv"
+    },
+    {
+      "album": {
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100377,
+      "name": "HIP THRUST",
+      "url": "https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk"
     },
     {
       "album": {
@@ -35872,7 +35994,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
@@ -38818,10 +38940,28 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
+    },
+    {
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/480cO3M1pWRyGwxnYb0hxF"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/3e82RF8rwQYOpCwjLSu6gA"
     },
     {
       "album": {
@@ -42127,6 +42267,24 @@
     },
     {
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -42880,6 +43038,24 @@
       "duration_ms": 134759,
       "name": "Marie Curie-Sk\u0142odowsk\u00e1",
       "url": "https://open.spotify.com/track/66qroX1fAq1MDGBpYGM6hL"
+    },
+    {
+      "album": {
+        "name": "YOLO AFTERPARTY",
+        "url": "https://open.spotify.com/album/1FP1GejYfFqpTPmCyqLm8T"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "MARINNA",
+      "url": "https://open.spotify.com/track/5o0eULZB9F02R2RWRNQ1tg"
     },
     {
       "album": {
@@ -47774,7 +47950,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 150770,
       "name": "MY JEALOUSY",
       "url": "https://open.spotify.com/track/2eZlv5pUAVdJ130QzfyUSD"
@@ -51280,7 +51456,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 180794,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/6l9rm6oaHmFO46bTtIr1ip"
@@ -52882,6 +53058,24 @@
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
+      "album": {
+        "name": "YOLO AFTERPARTY",
+        "url": "https://open.spotify.com/album/1FP1GejYfFqpTPmCyqLm8T"
+      },
+      "artists": [
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "OLIVIA",
+      "url": "https://open.spotify.com/track/0f7EDgR7s0hzFtUvIlkuHu"
     },
     {
       "album": {
@@ -60480,6 +60674,24 @@
       "duration_ms": 250403,
       "name": "RiSK",
       "url": "https://open.spotify.com/track/6Z65m1pD2qK4OdZ75Dx179"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "album": {
@@ -73584,7 +73796,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 92365,
       "name": "TRILLIUM HARDTEKK",
       "url": "https://open.spotify.com/track/7hPwUxGo7YgQFFYDynDQwp"
@@ -74386,6 +74598,24 @@
       "duration_ms": 188354,
       "name": "Ty a j\u00e1 (feat. Lil Buca Near)",
       "url": "https://open.spotify.com/track/2zK9eC7a1nwbINemfyKFKB"
+    },
+    {
+      "album": {
+        "name": "TYPE BEAT / HIP THRUST",
+        "url": "https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "TYPE BEAT",
+      "url": "https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0"
     },
     {
       "album": {

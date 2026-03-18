@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 207999,
       "name": "Anywhere is Fine (feat. Akita)",
       "url": "https://open.spotify.com/track/2I2mjKYPjw3iDavvh07cw2"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Days (Positively Yours X soye) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck"
+    },
+    {
+      "album": {
         "name": "Seoul Check-in OST Part 5",
         "url": "https://open.spotify.com/album/2deDzuHfGo5kH9tKBvm8jD"
       },
@@ -276,7 +294,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 200460,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/6w5I5eJCuNSNa3FdEq4sfs"
@@ -621,6 +639,28 @@
     },
     {
       "album": {
+        "name": "Do nothing",
+        "url": "https://open.spotify.com/album/1AaFPPUZ0k4loUffsnoZd1"
+      },
+      "artists": [
+        {
+          "name": "Lemon City",
+          "url": "https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z"
+        },
+        {
+          "name": "Arden",
+          "url": "https://open.spotify.com/artist/6OZhi7jmAw4p6BTHzRsJ0w"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Do nothing",
+      "url": "https://open.spotify.com/track/116dTLEcJmQBxvgtChkJZT"
+    },
+    {
+      "album": {
         "name": "Do Re Mi Fa Sol",
         "url": "https://open.spotify.com/album/5a5B1drwuHl728MeIWClZ0"
       },
@@ -954,6 +994,24 @@
       "duration_ms": 205693,
       "name": "How Do You Think",
       "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
+    },
+    {
+      "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "I Feel Special",
+      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
     },
     {
       "album": {
@@ -1444,7 +1502,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 257000,
       "name": "My Chapter : You",
       "url": "https://open.spotify.com/track/0fYdsLQE7ZWF8jebf3LmkO"
@@ -1556,7 +1614,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 185000,
       "name": "No. 1 - Acoustic",
       "url": "https://open.spotify.com/track/7MDlhh0Ibum9zJ21PY63z5"
@@ -2128,7 +2186,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 185687,
       "name": "Sunshine Coast",
       "url": "https://open.spotify.com/track/3F7aCMePBPszLTbvojA2U1"
@@ -2262,7 +2320,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 191253,
       "name": "tulip",
       "url": "https://open.spotify.com/track/261NZOeWdrSC40Toa7dJaO"
@@ -2298,7 +2356,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 167733,
       "name": "Wednesday",
       "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
@@ -2316,7 +2374,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 250346,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/1WjpBTjxgluq3k0rGSjEA3"
@@ -2426,6 +2484,24 @@
       "duration_ms": 182833,
       "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
+    },
+    {
+      "album": {
+        "name": "\ub9c8\ub9ac\uc640 \ubcc4\ub09c \uc544\ube60\ub4e4 (Original Television Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/7HVWqQf8GlG0BdtvJt6FEa"
+      },
+      "artists": [
+        {
+          "name": "Ahn Yeseul",
+          "url": "https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172474,
+      "name": "\ub208\uc774 \ubd80\uc2e0\ub0a0\ub4e4",
+      "url": "https://open.spotify.com/track/5ERHkavz05B4qxRn5Uoall"
     },
     {
       "album": {

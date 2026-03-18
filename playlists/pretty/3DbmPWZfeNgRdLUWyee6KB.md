@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 164 songs - 9 hr 36 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,288 likes - 168 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,5 +172,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 162 | [Midnight Summer](https://open.spotify.com/track/2Stharhd4jDWnR1eBunm7y) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs), [Ian Cisneros](https://open.spotify.com/artist/1yLhfqzypopEBDH8qxGHZq) | [Midnight Summer](https://open.spotify.com/album/2XJcHDrPq1pT9A0DUna6AS) | 4:51 |
 | 163 | [Prelúdio \(Iroko\)](https://open.spotify.com/track/1RlYlTlANYi4CILbHwcyuY) | [Gabi Vian](https://open.spotify.com/artist/2zT4sqgMzP1AyOYeOx4VgT), [Wander Sá](https://open.spotify.com/artist/20tPjzIgoul83RNFakHJIJ) | [Prelúdio](https://open.spotify.com/album/4GeTrvB9TzO7cPHEi1O1Nl) | 3:09 |
 | 164 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
+| 165 | [Sunflower \(by NorLights\)](https://open.spotify.com/track/1ontRaVty2151D0FWCPZQw) | [NorLights](https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh) | [Sunflower \(by NorLights\)](https://open.spotify.com/album/5chXRB68aAI3my88H7ZXle) | 2:57 |
+| 166 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 |
+| 167 | [Hope](https://open.spotify.com/track/2Wy1stSrMcYwPvmKAb8Pay) | [Skye Darling](https://open.spotify.com/artist/4QiKBkvRxNWJoCdpclehUu) | [Only Noise](https://open.spotify.com/album/7wUOMeBuyuh8tGYQPWUNV4) | 3:48 |
+| 168 | [Clear My Mind](https://open.spotify.com/track/0Kc4uMBJroVPXkl2XTOXiq) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Clear My Mind](https://open.spotify.com/album/1pTbolOhXVsdBIdp14GPtA) | 2:57 |
 
-Snapshot ID: `AAAR0ympYNfu4Xqd7eGh57YA1GgXb2c1`
+Snapshot ID: `AAAR1yxkQ45poYUYA06eE7IW2NEUAazv`

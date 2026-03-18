@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11447,
+  "num_followers": 11449,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAA5aNfv7lWbhwQ9QF7o/odQ",
+  "snapshot_id": "abdIAAAAAACcMFdFuK5ybXybVMVW0u7G",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
-        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 308948,
-      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
-      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harriet (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5uIArfxMSlySubVayCGvaX"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 72200,
       "name": "Goodbye Song",
       "url": "https://open.spotify.com/track/01CAnizAABR9udpxzOYKdG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
+        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 308948,
+      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
+      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
     },
     {
       "added_at": null,
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "The Freedom - EP",
+        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 229053,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
     },
     {
       "added_at": null,
@@ -655,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freedom - EP",
-        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
       "artists": [
         {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 317650,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
+      "duration_ms": 236226,
+      "name": "Holy Refrain",
+      "url": "https://open.spotify.com/track/29Sl4DsJQazlOv5YQfmFpD"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cynthia Erivo and Oliver Tompsett Sing Scott Alan",
-        "url": "https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt"
+        "name": "For Good (from Wicked: For Good - The Soundtrack)",
+        "url": "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb"
       },
       "artists": [
         {
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Scott Alan",
-          "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+      "duration_ms": 377098,
+      "name": "For Good - Sing-Along",
+      "url": "https://open.spotify.com/track/2rUVVZvEVlViD6KDxgZGLz"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

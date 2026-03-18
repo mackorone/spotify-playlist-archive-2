@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Jose Luis Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,296 likes - 80 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,436 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 15 | [Bendice Alma Mía](https://open.spotify.com/track/11NxjpwM9llBmbo3XAYDwW) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Bendice Alma Mía](https://open.spotify.com/album/0sMclJaxwKDWAozmU1ENAe) | 4:44 |
 | 16 | [Herencia](https://open.spotify.com/track/1VGlBYgQP4BTDuqtJTFdqC) | [Yadah](https://open.spotify.com/artist/0Mlie91CFtq7dZceNEyZAP), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Herencia](https://open.spotify.com/album/51ZlroscMJpLfa0MRojECm) | 4:23 |
 | 17 | [Inquebrantable](https://open.spotify.com/track/5bQhc8SI484MRfa7X7PlOv) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk) | [Inquebrantable](https://open.spotify.com/album/3M0Jh6mEcpMSJXbM5vqNQ0) | 3:33 |
-| 18 | [Dios de Poder](https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Dios de Poder](https://open.spotify.com/album/54wyWna9wJyB0teKDc08Xk) | 8:03 |
+| 18 | [Dios de Poder](https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Dios de Poder](https://open.spotify.com/album/54wyWna9wJyB0teKDc08Xk) | 8:03 |
 | 19 | [Te Exaltaré](https://open.spotify.com/track/55aat3EMyWAfEco7Tk2j0N) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [ALIENTO](https://open.spotify.com/album/5MjxSfcQek6UfwcSVAZUyF) | 7:10 |
 | 20 | [Príncipe de paz](https://open.spotify.com/track/2bQJg9yqWio0X79c6jpCQn) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Gustavo Astellano](https://open.spotify.com/artist/7iBZRN4l1DCqcLJnaPdHMR), [Rodrigo Rocha](https://open.spotify.com/artist/5wCuGKTEYBCW7V29FHz0gz) | [Príncipe de paz](https://open.spotify.com/album/7l71nUBgPIrfg9YPrizJDU) | 8:12 |
 | 21 | [Milagroso Eres Señor](https://open.spotify.com/track/2RIqnh5XVZFA1AmkM7ksRl) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Milagroso Eres Señor](https://open.spotify.com/album/4tVuUdVwX2htYBw3OuvkdF) | 8:03 |

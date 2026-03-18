@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 232607,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/20te5t8rtU5ZxscZL75voy"
@@ -4728,6 +4728,28 @@
       "duration_ms": 286252,
       "name": "Via Infinita - Marsh Remix",
       "url": "https://open.spotify.com/track/3UkQIp7rWtfxk10DJ3s5Mo"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/7pfwOHCIY1nB8Oaa4AzyQB"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/5bojLjdOOw3J6R595koBrd"
     },
     {
       "album": {

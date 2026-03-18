@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with UnityTX
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,615 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,681 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 78 | [Masquerade](https://open.spotify.com/track/6zvgA9LZxMm96RCygoRtDu) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Masquerade](https://open.spotify.com/album/0HulPvGCYtE9rvANyqQgOR) | 4:04 |
 | 79 | [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [ENTRY WOUNDS](https://open.spotify.com/album/3j0s7SQBbf9sZNqxkaGb4j) | 3:09 |
 | 80 | [Addiction](https://open.spotify.com/track/4ydqkxilzX0HmyMpVWDYxb) | [District105](https://open.spotify.com/artist/5ifAMBDQn2LbgddLbQWx9n) | [Chapter 2: The Hated Protector](https://open.spotify.com/album/3wbV32dxqFtBAChlk9H9uR) | 4:14 |
-| 81 | [HCNO](https://open.spotify.com/track/1CyEWlc9opUYsO50GZUQy1) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [HCNO](https://open.spotify.com/album/0BbTiQ1IwUcNTdSVtBouUC) | 3:32 |
+| 81 | [HCNO](https://open.spotify.com/track/1CyEWlc9opUYsO50GZUQy1) | [DUST IN MIND](https://open.spotify.com/artist/6i49PLA6jBtxQhb1nxGhM7) | [HCNO](https://open.spotify.com/album/0BbTiQ1IwUcNTdSVtBouUC) | 3:30 |
 | 82 | [Caged](https://open.spotify.com/track/2ZpqEDBKQ0QfolgfvgWumY) | [bbdalena](https://open.spotify.com/artist/1Bz7JYqdlG394tjNShtqAV) | [Caged](https://open.spotify.com/album/5fHryC7OYjmx6guAgkmEJt) | 2:52 |
 | 83 | [depleted](https://open.spotify.com/track/5oXR1x5o4k7cJznqNCitSZ) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Primeval: Obsession // Detachment](https://open.spotify.com/album/7nrRaUQM4WWS9MoZytJoZH) | 3:28 |
 | 84 | [Mistake To Wonder](https://open.spotify.com/track/69OtaMMyiQ0XtAJnLD9F43) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Mistake To Wonder](https://open.spotify.com/album/244783FBmHrJ3pk35UEbbX) | 3:12 |

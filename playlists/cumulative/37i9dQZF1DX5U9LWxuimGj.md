@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Codiciado
 
-208 songs - 11 hr 25 min
+209 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 | 2021-12-10 |  |
 | [Poder Vivir](https://open.spotify.com/track/0iHidkaP0x9Dd8IwFmNkG4) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [En Español](https://open.spotify.com/album/30DQiI9l9HMsebReRC9BC8) | 3:17 | 2021-12-10 | 2024-04-10 |
 | [Polvo De Gigantes](https://open.spotify.com/track/7K3h4TeHfK3cLWB1H6nzfO) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 2:32 | 2024-06-28 |  |
+| [Por Mujeres Como Tú](https://open.spotify.com/track/0yOo5GDZJsQXcz6oDYivvu) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Whiskey Lies & Alibis](https://open.spotify.com/album/3tCP2Wh5OQo6iUHqaWdPhY) | 3:30 | 2026-03-17 |  |
 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 | 2024-04-12 | 2024-04-19 |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-21 |  |
 | [Quiébrame El Corazón](https://open.spotify.com/track/0WDI0OGjZVOk9g9JD2qPWm) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Raíces \(Así Se Hace\)](https://open.spotify.com/album/4NMuYhBd6kXCUEJVEeKEHt) | 3:53 | 2023-09-22 | 2023-11-04 |

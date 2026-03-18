@@ -4,7 +4,7 @@
 
 > 
 
-310 songs - 12 hr 10 min
+311 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Страгл](https://open.spotify.com/track/0dNFnJTdR6JrO9n1dQOiMk) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:06 | 2025-08-12 |  |
 | [Тревога](https://open.spotify.com/track/7Kxl7lGeiXmdZryYTMLwXv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:30 | 2025-08-11 |  |
 | [Три года назад](https://open.spotify.com/track/4x9Wclsv6BkBlBrmPC7V7S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:22 | 2025-08-17 |  |
+| [Ураган](https://open.spotify.com/track/1x8T3RNZkMeghMO3SeYY0X) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Ураган](https://open.spotify.com/album/1SyfoS5SylX63gV5ZRxGJq) | 2:44 | 2026-03-17 |  |
 | [Часик](https://open.spotify.com/track/5SOcbgdNmV0sFmmKOIbVuV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:54 | 2025-08-11 |  |
 | [Четыре](https://open.spotify.com/track/3p0lFaUdi5PwrsjIcQmWFJ) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:18 | 2025-08-13 |  |
 | [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 | 2025-08-09 |  |

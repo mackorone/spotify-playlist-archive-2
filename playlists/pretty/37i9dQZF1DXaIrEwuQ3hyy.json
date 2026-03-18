@@ -1,6 +1,6 @@
 {
   "description": "wenn du mal kurz durchatmen musst \ud83c\udf3b",
-  "num_followers": 1096183,
+  "num_followers": 1096174,
   "original_name": "Fr\u00fchlings Chillout",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,26 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
+        "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+        "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 223788,
+      "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
+      "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
         "name": "Depression Cherry",
         "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
-        "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
-        "url": "https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 223788,
-      "name": "All I Did Was Dream of You (feat. The Mar\u00edas)",
-      "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 191250,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "Same Vibes",
-        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 181787,
-      "name": "Same Vibes",
-      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
         "name": "For Mary",
         "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 259751,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "Same Vibes",
+        "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 181787,
+      "name": "Same Vibes",
+      "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "Damn the Wild Air, Pt. 01",
-        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
-      },
-      "artists": [
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
         "name": "Make me think of you",
         "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 199006,
       "name": "Make me think of you",
       "url": "https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "Barefoot",
-        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
-      },
-      "artists": [
-        {
-          "name": "Jacob Leo",
-          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Barefoot",
-      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 218786,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "Barefoot",
+        "url": "https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7"
+      },
+      "artists": [
+        {
+          "name": "Jacob Leo",
+          "url": "https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Barefoot",
+      "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
     },
     {
       "added_at": "2026-03-12 23:00:45",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-12 23:00:45",
       "album": {
-        "name": "Like a Song",
-        "url": "https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 207036,
-      "name": "Like a Song",
-      "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
-    },
-    {
-      "added_at": "2026-03-12 23:00:45",
-      "album": {
         "name": "Someone Special",
         "url": "https://open.spotify.com/album/6lOpF4HDDS2n4KnIMrVAbj"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 256670,
       "name": "Someone Special",
       "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
+    },
+    {
+      "added_at": "2026-03-12 23:00:45",
+      "album": {
+        "name": "Like a Song",
+        "url": "https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 207036,
+      "name": "Like a Song",
+      "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
     },
     {
       "added_at": "2026-03-12 23:00:45",

@@ -1,6 +1,6 @@
 {
   "description": "Calm piano music for enhanced concentration.",
-  "num_followers": 1447784,
+  "num_followers": 1447760,
   "original_name": "Perfect Concentration",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Truth Within",
-        "url": "https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n \u00dalfur",
-          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
-        }
-      ],
-      "duration_ms": 141993,
-      "name": "Truth Within",
-      "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Regarde les flammes danser",
         "url": "https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 131960,
       "name": "Regarde les flammes danser",
       "url": "https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Truth Within",
+        "url": "https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "duration_ms": 141993,
+      "name": "Truth Within",
+      "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Calolziocorte",
-        "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
-      },
-      "artists": [
-        {
-          "name": "Grazia Bellini",
-          "url": "https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS"
-        }
-      ],
-      "duration_ms": 140247,
-      "name": "Calolziocorte",
-      "url": "https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Inside A Dream",
         "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
+        "name": "Calolziocorte",
+        "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
+      },
+      "artists": [
+        {
+          "name": "Grazia Bellini",
+          "url": "https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS"
+        }
+      ],
+      "duration_ms": 140247,
+      "name": "Calolziocorte",
+      "url": "https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
         "name": "Secret Meadow",
         "url": "https://open.spotify.com/album/3vqbinG3yAqZhYdCuq9eKM"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 147524,
       "name": "Secret Meadow",
       "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -839,6 +823,22 @@
       "duration_ms": 145566,
       "name": "Prati",
       "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Villa Cortese",
-        "url": "https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn"
-      },
-      "artists": [
-        {
-          "name": "Livia Marcella",
-          "url": "https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Villa Cortese",
-      "url": "https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Desde el alma",
         "url": "https://open.spotify.com/album/5ET1TQqwwpsQhU17Y0QlBU"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 129375,
       "name": "Desde el alma",
       "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Villa Cortese",
+        "url": "https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn"
+      },
+      "artists": [
+        {
+          "name": "Livia Marcella",
+          "url": "https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Villa Cortese",
+      "url": "https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Making peace",
-        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
-      },
-      "artists": [
-        {
-          "name": "Christian Janssen",
-          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
-        }
-      ],
-      "duration_ms": 143034,
-      "name": "Making peace",
-      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 143750,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Making peace",
+        "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Christian Janssen",
+          "url": "https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1"
+        }
+      ],
+      "duration_ms": 143034,
+      "name": "Making peace",
+      "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "My Solace My Home",
-        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
-      },
-      "artists": [
-        {
-          "name": "Ryley Moss",
-          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
-        }
-      ],
-      "duration_ms": 146125,
-      "name": "My Solace My Home",
-      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Little Boy",
         "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 122000,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "My Solace My Home",
+        "url": "https://open.spotify.com/album/5eV8QRBAGsHmGiJuaHjlEh"
+      },
+      "artists": [
+        {
+          "name": "Ryley Moss",
+          "url": "https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG"
+        }
+      ],
+      "duration_ms": 146125,
+      "name": "My Solace My Home",
+      "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Each glorious entity",
-        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
-      },
-      "artists": [
-        {
-          "name": "Eberina",
-          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
-        }
-      ],
-      "duration_ms": 133430,
-      "name": "Each glorious entity",
-      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "D\u00e9lise",
         "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 125968,
       "name": "D\u00e9lise",
       "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Each glorious entity",
+        "url": "https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r"
+      },
+      "artists": [
+        {
+          "name": "Eberina",
+          "url": "https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4"
+        }
+      ],
+      "duration_ms": 133430,
+      "name": "Each glorious entity",
+      "url": "https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1947,18 +1947,18 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Memoirs",
-        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
+        "name": "Armonia",
+        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
       "artists": [
         {
-          "name": "Gunnel Boek",
-          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
+          "name": "Elion Veero",
+          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Memoirs",
-      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
+      "duration_ms": 180830,
+      "name": "Armonia",
+      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Armonia",
-        "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
-      },
-      "artists": [
-        {
-          "name": "Elion Veero",
-          "url": "https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO"
-        }
-      ],
-      "duration_ms": 180830,
-      "name": "Armonia",
-      "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Quiet Steps",
         "url": "https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+        "name": "Memoirs",
+        "url": "https://open.spotify.com/album/0yvsOmzn4odyU2em1bj652"
       },
       "artists": [
         {
-          "name": "Algot Brooke",
-          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+          "name": "Gunnel Boek",
+          "url": "https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI"
         }
       ],
-      "duration_ms": 174426,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+      "duration_ms": 173500,
+      "name": "Memoirs",
+      "url": "https://open.spotify.com/track/1SyAYIrYK269TynosiAY1L"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -2039,6 +2023,22 @@
       "duration_ms": 147250,
       "name": "Apr\u00e8s tout",
       "url": "https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
+      },
+      "artists": [
+        {
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
+        }
+      ],
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "duration_ms": 140592,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
         "name": "Emanate",
         "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 167000,
       "name": "Highland",
       "url": "https://open.spotify.com/track/3LfTQeunHVYq4yatmvkuuC"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
-      },
-      "artists": [
-        {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
-        }
-      ],
-      "duration_ms": 140592,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
-        "name": "Lik Eit Tre (Ps.1)",
-        "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
-      },
-      "artists": [
-        {
-          "name": "John Vegard Schow",
-          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
-        }
-      ],
-      "duration_ms": 154844,
-      "name": "Lik Eit Tre - Ps.1",
-      "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
         "name": "Go With The Flow",
         "url": "https://open.spotify.com/album/0wAZLmdQmfxz574lffOLgh"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 170000,
       "name": "Go With The Flow",
       "url": "https://open.spotify.com/track/0LzHt0QSoskuBCgMvq1lms"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
+        "name": "Lik Eit Tre (Ps.1)",
+        "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
+      },
+      "artists": [
+        {
+          "name": "John Vegard Schow",
+          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
+        }
+      ],
+      "duration_ms": 154844,
+      "name": "Lik Eit Tre - Ps.1",
+      "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
     },
     {
       "added_at": "2026-01-06 13:51:12",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-01-06 13:51:12",
       "album": {
+        "name": "Across the Currents",
+        "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
+      },
+      "artists": [
+        {
+          "name": "Cai Harrington",
+          "url": "https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu"
+        }
+      ],
+      "duration_ms": 123818,
+      "name": "Across the Currents",
+      "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
+    },
+    {
+      "added_at": "2026-01-06 13:51:12",
+      "album": {
         "name": "Hudson",
         "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
       },
@@ -2407,22 +2423,6 @@
       "duration_ms": 145333,
       "name": "Une rivi\u00e8re silencieuse",
       "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
-    },
-    {
-      "added_at": "2026-01-06 13:51:12",
-      "album": {
-        "name": "Across the Currents",
-        "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
-      },
-      "artists": [
-        {
-          "name": "Cai Harrington",
-          "url": "https://open.spotify.com/artist/1Uf7osa9yPgNWu1JrAU3Iu"
-        }
-      ],
-      "duration_ms": 123818,
-      "name": "Across the Currents",
-      "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
     },
     {
       "added_at": "2026-01-06 13:51:12",

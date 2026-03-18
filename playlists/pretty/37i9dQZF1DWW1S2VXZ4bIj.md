@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: GAVIN:D
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,811 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,900 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 4 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 |
 | 5 | [เหตุผล \(feat\. whateve\)](https://open.spotify.com/track/71GcMzDsHM7HxbAnLxBKNH) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [whateve](https://open.spotify.com/artist/7zjWcziyuEgaHLtUjb0ikG) | [เหตุผล \(feat\. whateve\)](https://open.spotify.com/album/6mdtFQaLaLklgBbQI4A8ia) | 4:09 |
 | 6 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 7 | [กับระเบิด \(LANDMINE\)](https://open.spotify.com/track/4CtU1yqaZnWnbD1HfEeOkV) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [กับระเบิด \(LANDMINE\)](https://open.spotify.com/album/6BkcpvYonnQKaGiDE8rEK2) | 2:57 |
+| 7 | [กับระเบิด \(LANDMINE\)](https://open.spotify.com/track/4CtU1yqaZnWnbD1HfEeOkV) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [กับระเบิด \(LANDMINE\)](https://open.spotify.com/album/6BkcpvYonnQKaGiDE8rEK2) | 3:01 |
 | 8 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 |
 | 9 | [Number 1](https://open.spotify.com/track/4lTXUyi9nNClTAMziDRIgF) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [Number 1](https://open.spotify.com/album/4Y4TDkMo1geSVoA6rYPuid) | 3:23 |
 | 10 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 |

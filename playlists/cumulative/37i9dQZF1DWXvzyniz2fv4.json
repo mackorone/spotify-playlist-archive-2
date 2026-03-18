@@ -734,7 +734,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 166956,
       "name": "BARRIL DOBRADO",
       "url": "https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY"
@@ -4964,6 +4964,24 @@
       "duration_ms": 169043,
       "name": "quem dera fosse...",
       "url": "https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS"
+    },
+    {
+      "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "album": {

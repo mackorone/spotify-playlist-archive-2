@@ -11643,6 +11643,24 @@
     },
     {
       "album": {
+        "name": "Cntrl",
+        "url": "https://open.spotify.com/album/1Hq1GfwDxxO6xRNypJtLQu"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Denis",
+          "url": "https://open.spotify.com/artist/6AEHyEcZyO5lqd13SS5nYl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99685,
+      "name": "Cntrl",
+      "url": "https://open.spotify.com/track/51HmjVo8lAH1twucy7t2BP"
+    },
+    {
+      "album": {
         "name": "COCA E MIGNOTTE NEL LOCALE A MILANO",
         "url": "https://open.spotify.com/album/1OBzAPfAD3ub25FX34INYq"
       },

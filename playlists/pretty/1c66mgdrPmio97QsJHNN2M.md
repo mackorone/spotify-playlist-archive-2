@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,212 likes - 268 songs - 13 hr 47 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,214 likes - 274 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,5 +276,11 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 266 | [Don't Go](https://open.spotify.com/track/4WZi1rGSKAkUaXTyZmZkte) | [Emi Horo](https://open.spotify.com/artist/62pscLCCTKJFKCUjKhRVJB) | [Closed Doors](https://open.spotify.com/album/2YPsJHJpUXtS7kYc8ho2UH) | 2:32 |
 | 267 | [Vem de Dentro](https://open.spotify.com/track/2jPxH3nhPJLjfj9raTAXqu) | [André Magalhães](https://open.spotify.com/artist/6PPyqxIITNn2s23lll3dKX) | [Anjos Avessos \(A² ¥ 1990\)](https://open.spotify.com/album/7rQSDrxLGsMSpoIRAvNMRD) | 3:50 |
 | 268 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 |
+| 269 | [GO GET IT](https://open.spotify.com/track/7AoGeY8efthBRt3R29vKsT) | [THOM GREEN](https://open.spotify.com/artist/4mfl9AJJuVKOKMqW2gYHc4) | [GO GET IT](https://open.spotify.com/album/0wVoya1GzId4aYOWfOqahA) | 3:03 |
+| 270 | [GO!](https://open.spotify.com/track/48iiYIO1MW1wzPwIRSmxjm) | [Nova Laen](https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG) | [GO!](https://open.spotify.com/album/61sq6p33caG7FojhYxl06V) | 2:04 |
+| 271 | [Enough](https://open.spotify.com/track/5vm4R22GJJVbZU1rsq2UXE) | [Kaela Gillman](https://open.spotify.com/artist/7EoOrLX9Fb6o2cN25fpHdu), [Pop•&Friends](https://open.spotify.com/artist/39Vpw5RSeipPPq871XeMSV) | [Enough](https://open.spotify.com/album/0CkdJpaFtHDJN9mAmvGSuq) | 3:16 |
+| 272 | [A year after the end](https://open.spotify.com/track/7uoLBTpSXghlIq8zXgdxo4) | [Oblivyus](https://open.spotify.com/artist/4SJZ4N7pzgJlTEqITA8XVz) | [A year after the end](https://open.spotify.com/album/0bgS3udZSPllSqgQxuEcXU) | 2:57 |
+| 273 | [WHO GOT YOUR TIME](https://open.spotify.com/track/36bX8OVsyxY8RyqcH55VFA) | [Narii](https://open.spotify.com/artist/6LMXNAi9Snl9VgEgNIRTlr) | [VAL4NTINES FEELS](https://open.spotify.com/album/1uiijG3cIvq5x5kW05byDA) | 2:44 |
+| 274 | [Odyssey](https://open.spotify.com/track/1nwjUYSbzhN050UZGEzHzE) | [ARBN](https://open.spotify.com/artist/1nVYJWThC8pLbjdniuPSfE) | [Odyssey](https://open.spotify.com/album/3zeVxRjNVV2l4cUMgTMNfy) | 3:02 |
 
-Snapshot ID: `AAA11skoZhh/GzjNNlAyPAosfQW5wny9`
+Snapshot ID: `AAA13BhxpWPBygSBlid7PwB90Ddih7kv`

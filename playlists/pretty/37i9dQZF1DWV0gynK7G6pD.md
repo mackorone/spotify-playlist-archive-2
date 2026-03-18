@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Roger Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,552 likes - 78 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,582 likes - 78 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tributary](https://open.spotify.com/track/6ajgZYfw31KfoVSasBiJzl) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Tributary](https://open.spotify.com/album/19JkOUEz4ssHO4XulqTqTz) | 2:50 |
+| 1 | [Tributary \(Satie Rework\)](https://open.spotify.com/track/6ajgZYfw31KfoVSasBiJzl) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Tributary \(Satie Rework\)](https://open.spotify.com/album/19JkOUEz4ssHO4XulqTqTz) | 2:50 |
 | 2 | [An den See Variation \(After 6 Deutsche Lieder, No\. 4, An den See\)](https://open.spotify.com/track/520ODCKsy1RZqueMCFlRcP) | [Josephine Lang](https://open.spotify.com/artist/5njDMXjq3quQzRy46db3sA), [Jan\-Peter Klöpfel](https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Sophie Pacini](https://open.spotify.com/artist/3ta2MB7zIScVq8qN8K4441) | [Josephine Lang: An den See Variation \(After 6 Deutsche Lieder, No\. 4, An den See\) \[Arr\. for Cello, Violin & Piano by Jan\-Peter Klöpfel\]](https://open.spotify.com/album/0rMizcXTWrecDyp9I7Ut7Y) | 3:17 |
 | 3 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/2DK4oQJ5Z7abgld1O6AgP3) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Pascal Rogé](https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs), [Elena Font](https://open.spotify.com/artist/3KkuHhTk1vs9VmFgeHu3sF) | [Fauré: Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/album/6HHMngy2v49jB0cEwFdYX9) | 2:36 |
 | 4 | [Paulus, Op\. 36, Pt\. 1: No\. 1, Overture](https://open.spotify.com/track/7EEjJyxgCNeObCdo4Kpf2l) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Gewandhausorchester](https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa), [Andris Nelsons](https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI) | [Mendelssohn: Paulus, Op\. 36, Pt\. 1: No\. 1, Overture](https://open.spotify.com/album/5j5RidWzyT9KdFF16ixATO) | 6:42 |

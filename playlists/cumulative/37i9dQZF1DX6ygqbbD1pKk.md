@@ -4,13 +4,14 @@
 
 > Todos tus éxitos favoritos de Disney\. Lilo & Stitch, Moana 2, Encanto y mucho más!
 
-160 songs - 8 hr 7 min
+161 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/3s6nfqfT6kyLBT10vs0M4l) | [Lily James](https://open.spotify.com/artist/7gWjOPetXNCBqlVe6axl8K) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:00 | 2023-09-15 | 2025-11-08 |
 | [Al final \(Versión de créditos\)](https://open.spotify.com/track/0M2ir8S1hd5DA757xTIrmv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Te Vaka](https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M) | [Moana 2 \(Banda Sonora Original\)](https://open.spotify.com/album/05GBXz3mIFU5MRgqYxn6hM) | 3:16 | 2024-11-26 |  |
 | [Alas](https://open.spotify.com/track/4wWo2EHTXBQJG2PvTHyrRd) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l) | [Soy Luna](https://open.spotify.com/album/1LG389RayU0XbgirX9GV8u) | 3:18 | 2025-11-07 |  |
+| [Alas \- Versión 2026 \- De "Soy Luna" \| Disney+](https://open.spotify.com/track/0nsEiI2txKENWkjEeullsV) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Alas \- Versión 2026 \(De "Soy Luna" \| Disney+\)](https://open.spotify.com/album/08rVdBmY0ccAv3vmdKN9N9) | 3:32 | 2026-03-17 |  |
 | [Algo quiero](https://open.spotify.com/track/3Z4X358heVKuZttTdKfWFs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:43 | 2023-09-15 |  |
 | [All I Want](https://open.spotify.com/track/1v6svH1Fyx9C1nIt1mA2DT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:57 | 2023-09-15 | 2025-11-08 |
 | [Allá Voy](https://open.spotify.com/track/6pUxqfTQ0rtJDzMNaGyscS) | [Elenco de Soy Luna](https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l) | [La vida es un sueño \(Música de la serie de Disney Channel\)](https://open.spotify.com/album/2w8grvlbdrMyufqShQa51v) | 3:07 | 2025-11-07 |  |

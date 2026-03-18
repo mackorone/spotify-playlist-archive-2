@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,497 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,505 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Me Prefieres A Mi](https://open.spotify.com/track/3GhmL9fuM8jwGcHCFbeo3v) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Me Prefieres A Mi](https://open.spotify.com/album/1czm6WW5vuT5Cy1PrytBV9) | 3:15 |
 | 50 | [Esclava \- Remix](https://open.spotify.com/track/2Mgur7BKnpr7OG3izSNFTA) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Esclava \(Remix\)](https://open.spotify.com/album/4oVcgvDZanwM2eKngsSJK5) | 4:41 |
 
-Snapshot ID: `MUtowAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUy8mAAAAAAAAAAAAAAAAAAAAAAAAGVu`

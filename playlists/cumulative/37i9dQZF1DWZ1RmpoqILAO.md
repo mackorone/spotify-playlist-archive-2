@@ -4,7 +4,7 @@
 
 > you met me at a very indie twang time in my life..\. Ratboys on the cover
 
-337 songs - 21 hr 40 min
+338 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(dream\)](https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 1:24 | 2023-08-02 |  |
 | [16 CARRIAGES](https://open.spotify.com/track/3Fwebmu4BzPUpDtPZo0qHb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [16 CARRIAGES](https://open.spotify.com/album/6PeoltoiWQWCyWA0JBHVGN) | 3:47 | 2024-02-12 | 2024-05-04 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 |  |
+| [Abbreviated](https://open.spotify.com/track/4MtactaNZC6uWdwUf9Rlz2) | [Ovven](https://open.spotify.com/artist/5ngTSqP6WSRmxbKLSAzra8) | [Gnawing At The Cord](https://open.spotify.com/album/7vQaiZBs1mIpN4g5Kx8v1F) | 3:19 | 2026-03-17 |  |
 | [About](https://open.spotify.com/track/4sOPZqn8nkweocgJQZJwmH) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Land](https://open.spotify.com/album/36W3NXzrIHvMSnIY8h5em3) | 2:47 | 2023-12-08 | 2024-01-13 |
 | [Acolyte](https://open.spotify.com/track/2h0O3uXZW6ClktlgHWGpjy) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 5:16 | 2023-07-21 |  |
 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-07-26 | 2024-11-16 |

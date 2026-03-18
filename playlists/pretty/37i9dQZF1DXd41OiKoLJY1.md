@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Sexy Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,191 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,197 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 33 | [Sana'y Makinig](https://open.spotify.com/track/4OH1FSW0R5on4NkBdqgZAL) | [NPM Collective](https://open.spotify.com/artist/09NzEXUTs4KHltDYqTgthI), [RaElle](https://open.spotify.com/artist/6Ze7V2AhBHXkmALtsULj6y), [Nico Frayn](https://open.spotify.com/artist/0TI5gtQuKb7EYJw8X7GAGs), [Deeyu](https://open.spotify.com/artist/422xitEfXPqwUy23336cB7) | [Sana'y Makinig](https://open.spotify.com/album/6J4nfoEStd9krhGcUcAXY7) | 3:21 |
 | 34 | [Tulala](https://open.spotify.com/track/6lFfqayocNrY6a2awdNR0q) | [Anjannette](https://open.spotify.com/artist/0hHBm2Ouj9uRRfXtmf7Upr) | [Tulala](https://open.spotify.com/album/6x3k0fMGy8oUpskf83bWAC) | 3:25 |
 | 35 | [Ikaw Lang Ang Gusto](https://open.spotify.com/track/48qIwt8huuDLwOF3ANlmlo) | [KIDLAT](https://open.spotify.com/artist/3mhAXcHF1oLXDtoJDHYWmQ) | [Ikaw Lang Ang Gusto](https://open.spotify.com/album/7d5qsldxkIkHaGORn0LEYC) | 4:21 |
-| 36 | [BEFORE](https://open.spotify.com/track/5663tCK5zvF5630ocSxvOR) | [BenPlayssuuu](https://open.spotify.com/artist/6kqZml2lxDa39R1SvQZvXt), [Ikia](https://open.spotify.com/artist/20LA2dbkmH1dkEhd3AClRV) | [BEFORE](https://open.spotify.com/album/307ZX9LjP5GhTmgT9kcBXF) | 1:47 |
+| 36 | [BEFORE](https://open.spotify.com/track/5663tCK5zvF5630ocSxvOR) | [BenPlayssuuu](https://open.spotify.com/artist/2rKAMFopIecOV8vIjxvtjR), [Ikia](https://open.spotify.com/artist/20LA2dbkmH1dkEhd3AClRV) | [BEFORE](https://open.spotify.com/album/307ZX9LjP5GhTmgT9kcBXF) | 1:47 |
 | 37 | [Wag Kang Bibitaw](https://open.spotify.com/track/1P5z2abTQK0JvT7szwmQSs) | [sunburn!](https://open.spotify.com/artist/7fDCpSlcnPhFWGgKV9vDK2) | [Wag Kang Bibitaw](https://open.spotify.com/album/0ce3c1qI8dyOkcS85ELSvg) | 5:02 |
 | 38 | [Misay](https://open.spotify.com/track/4MKX6j3m2v6mWuXoU35b7s) | [Seiya](https://open.spotify.com/artist/2CIxoskpMczxrNB4hQTZSF) | [Misay](https://open.spotify.com/album/654DBQ2NdveN5NuyQq8203) | 3:59 |
 | 39 | [King of Sadtown](https://open.spotify.com/track/2pa5wUmBIMCaavRQo240NT) | [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [King of Sadtown](https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR) | 3:16 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: P1Harmony
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,694 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,809 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UNIQUE](https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE](https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk) | 2:52 |
 | 2 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
-| 3 | [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 |
-| 4 | [BE:FIRST ALL DAY](https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:FIRST ALL DAY](https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6) | 2:35 |
+| 3 | [BE:FIRST ALL DAY](https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:FIRST ALL DAY](https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6) | 2:35 |
+| 4 | [Endless Sun](https://open.spotify.com/track/1j9gBTY7ohNbglQby50YQs) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Endless Sun](https://open.spotify.com/album/0P0wgM3w3XIfl2fK7EBlMM) | 2:38 |
 | 5 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 | 6 | [Breezy Love](https://open.spotify.com/track/0sty8aSXM7llsVgtEx6B9E) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Breezy Love](https://open.spotify.com/album/3ZtlNvCGTQgyg76AgYQ7Kh) | 3:42 |
 | 7 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
@@ -28,22 +28,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 18 | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8) | 2:41 |
 | 19 | [FREAK ALARM](https://open.spotify.com/track/4LYM1IwuTq6b5vqTdQTbag) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5KjSbhl2qMeU6Ux7h4Wk0W) | 3:08 |
 | 20 | [一秒](https://open.spotify.com/track/1jzBL9oiCg4qaZbazOxBQ8) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [一秒](https://open.spotify.com/album/5iWFBoiNfiDjTpj8C4Mg6E) | 3:55 |
-| 21 | [秒で落ちた](https://open.spotify.com/track/2pM4eploFnFDfOMrnWY4Yv) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [秒で落ちた](https://open.spotify.com/album/2ShYGLGfaqoJ89UfPb9bh0) | 3:12 |
-| 22 | [Same Sky](https://open.spotify.com/track/0FAUYnNFMlHteLJ11r5Ix8) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/6aQ2GvMtXtrVACouE8pba7) | 3:04 |
-| 23 | [LOVEPOCALYPSE](https://open.spotify.com/track/1iXokjFPQ3IheuITzMXmop) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/1ttNsKgJ73ggScWDcEBHNy) | 2:49 |
-| 24 | [TOUGH LOVE](https://open.spotify.com/track/0JWu3QkeitDCsiSTohLcc0) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/5eyN4dfPRJEAVU7paiAYsA) | 2:37 |
-| 25 | [Green Light](https://open.spotify.com/track/5u1dWaZX9WX5wSyq1Qyp0l) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Green Light](https://open.spotify.com/album/6SaE49glNAg1uxVoS5WLVJ) | 2:53 |
-| 26 | [新世界 \(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界 \(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 |
+| 21 | [LOVEPOCALYPSE](https://open.spotify.com/track/1iXokjFPQ3IheuITzMXmop) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [RE\-FLOW](https://open.spotify.com/album/1ttNsKgJ73ggScWDcEBHNy) | 2:49 |
+| 22 | [秒で落ちた](https://open.spotify.com/track/2pM4eploFnFDfOMrnWY4Yv) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [秒で落ちた](https://open.spotify.com/album/2ShYGLGfaqoJ89UfPb9bh0) | 3:12 |
+| 23 | [TOUGH LOVE](https://open.spotify.com/track/0JWu3QkeitDCsiSTohLcc0) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [TOUGH LOVE](https://open.spotify.com/album/5eyN4dfPRJEAVU7paiAYsA) | 2:37 |
+| 24 | [Green Light](https://open.spotify.com/track/5u1dWaZX9WX5wSyq1Qyp0l) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Green Light](https://open.spotify.com/album/6SaE49glNAg1uxVoS5WLVJ) | 2:53 |
+| 25 | [新世界 \(SHINSEKAI\)](https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G) | [PRODUCE 101 JAPAN 新世界](https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz) | [新世界 \(SHINSEKAI\)](https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA) | 4:08 |
+| 26 | [Hello Mellow](https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHLIST](https://open.spotify.com/album/0AbenVXd5ypXotWe1z0ytw) | 3:02 |
 | 27 | [オドロウゼ！](https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [オドロウゼ！](https://open.spotify.com/album/2mBBbMDUPBWUpwLoJcEp3u) | 3:51 |
 | 28 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
 | 29 | [Theater](https://open.spotify.com/track/5obcTVBYLhSTTBuuttwq24) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Theater](https://open.spotify.com/album/5IF6EOV0aewiwlFUFaTuRe) | 3:20 |
 | 30 | [SOL1ST](https://open.spotify.com/track/0xHG1wMqBBrOzamRfJXqFv) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOL1ST \(Special Edition\)](https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq) | 3:00 |
 | 31 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 |
-| 32 | [Perfect](https://open.spotify.com/track/3MaP2Zp3fHXncEFWGiLPTr) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Perfect](https://open.spotify.com/album/4VPvwWSOKMqbaib2tjFnjC) | 2:13 |
-| 33 | [Hello Mellow](https://open.spotify.com/track/0Bta0rqkUh1ErjpwHIofP6) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHLIST](https://open.spotify.com/album/0AbenVXd5ypXotWe1z0ytw) | 3:02 |
-| 34 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
-| 35 | [3XL](https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/56V9F6bbdFCm9GI2UocOcN) | 2:45 |
-| 36 | [Sunkissed](https://open.spotify.com/track/3j0g0ii7DyBSNRA4B1stjc) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Sunkissed](https://open.spotify.com/album/5Uy3tbYFggTXtTi2XOgHuB) | 3:33 |
+| 32 | [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 |
+| 33 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
+| 34 | [3XL](https://open.spotify.com/track/2wPyVJ04PfumGZQ5bJEVVj) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/56V9F6bbdFCm9GI2UocOcN) | 2:45 |
+| 35 | [Sunkissed](https://open.spotify.com/track/3j0g0ii7DyBSNRA4B1stjc) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Sunkissed](https://open.spotify.com/album/5Uy3tbYFggTXtTi2XOgHuB) | 3:33 |
+| 36 | [Perfect](https://open.spotify.com/track/3MaP2Zp3fHXncEFWGiLPTr) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Perfect](https://open.spotify.com/album/4VPvwWSOKMqbaib2tjFnjC) | 2:13 |
 | 37 | [AMMO \(feat\. YRD Leo\)](https://open.spotify.com/track/6qQTiRUVoy7vDGO1gWzOAe) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg), [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [AMMO \(feat\. YRD Leo\)](https://open.spotify.com/album/22YNyOJpQyPGV8GhAtIKKn) | 3:24 |
 | 38 | [Through The RAIN](https://open.spotify.com/track/2RNTFkOSBa5ejqg2dqbbw8) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Through The RAIN](https://open.spotify.com/album/4ImE76haoB9wTnnM2EwwU4) | 3:26 |
 | 39 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Express Mode](https://open.spotify.com/track/1fDGN1BOe1eMgofgO6qxm0) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Super Junior25 \- The 12th Album](https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a) | 3:08 |
 | 80 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
 
-Snapshot ID: `AAAAAEJ1V4VRARFGO9eMTC7HGW1GhxTN`
+Snapshot ID: `AAAAADwWIA9O4X1vBND9mqGcrPiIvv1F`

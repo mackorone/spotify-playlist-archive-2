@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Mc Davi",
-  "num_followers": 189964,
+  "num_followers": 189999,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Buscando a Paz",
-        "url": "https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        },
-        {
-          "name": "W2B Music",
-          "url": "https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr"
-        }
-      ],
-      "duration_ms": 159095,
-      "name": "Buscando a Paz",
-      "url": "https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Escolhas",
         "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
@@ -727,6 +707,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Buscando a Paz",
+        "url": "https://open.spotify.com/album/5cmvvKoDgk5l41Qv2CPUcs"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        },
+        {
+          "name": "W2B Music",
+          "url": "https://open.spotify.com/artist/7Gwhv4SmgeuLVtfPgyTNYr"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "Buscando a Paz",
+      "url": "https://open.spotify.com/track/4ZFkDOeKXm8RbfPkjhcelc"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Renuncio o Meu Eu",
         "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 190408,
       "name": "Renuncio o Meu Eu",
       "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
+      },
+      "artists": [
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -767,22 +783,6 @@
       "duration_ms": 137142,
       "name": "Reden\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/0zpv7dTOv2VyNKxYux0Jb4"
-      },
-      "artists": [
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/6imDdNlPmwawmTMkprLoGT"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Metanoia",
         "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 171428,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -951,30 +951,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Me Deixou Forte",
-        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 164102,
-      "name": "Me Deixou Forte",
-      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Me Deixou Forte",
+        "url": "https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 164102,
+      "name": "Me Deixou Forte",
+      "url": "https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Melhores Dias",
-        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 159069,
-      "name": "Melhores Dias",
-      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 158677,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Melhores Dias",
+        "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
+      },
+      "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 159069,
+      "name": "Melhores Dias",
+      "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1223,30 +1223,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Ora\u00e7\u00e3o II",
-        "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o VR6",
-          "url": "https://open.spotify.com/artist/19VU06z6Qr5NIONW6K9CrT"
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Lp067",
-          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
-        },
-        {
-          "name": "iagguprod",
-          "url": "https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL"
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Ora\u00e7\u00e3o II",
-      "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1271,26 +1267,30 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+        "name": "Ora\u00e7\u00e3o II",
+        "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
       "artists": [
         {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+          "name": "Jo\u00e3o VR6",
+          "url": "https://open.spotify.com/artist/19VU06z6Qr5NIONW6K9CrT"
         },
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
         },
         {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        },
+        {
+          "name": "iagguprod",
+          "url": "https://open.spotify.com/artist/5cfItb47C9bpeRAiPB62qL"
         }
       ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
+      "duration_ms": 133333,
+      "name": "Ora\u00e7\u00e3o II",
+      "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1331,6 +1331,42 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "Profeta",
+        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "At\u00e9 o Fim",
         "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
       },
@@ -1355,42 +1391,6 @@
       "duration_ms": 237108,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Profeta",
-        "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
     },
     {
       "added_at": "2026-02-06 03:01:19",

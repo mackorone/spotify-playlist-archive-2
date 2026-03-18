@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31787,
+  "num_followers": 31788,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAARMaU0F9TUya0S5cBWhFU6xd5OqFPK",
+  "snapshot_id": "AAARM9plisecZy6q/xzSiPzVQ/dfN6z4",
   "tracks": [
     {
       "added_at": "2026-02-17 22:35:07",
@@ -427,6 +427,26 @@
       "duration_ms": 209866,
       "name": "Upside Down (Candy Crush)",
       "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
+    },
+    {
+      "added_at": "2026-03-17 15:01:27",
+      "album": {
+        "name": "U Can\u2019t Come Home",
+        "url": "https://open.spotify.com/album/6L71fSWcS2PbjB6B9slBqO"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "TS Graye",
+          "url": "https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9"
+        }
+      ],
+      "duration_ms": 196415,
+      "name": "U Can't Come Home",
+      "url": "https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"
     },
     {
       "added_at": "2025-11-17 16:06:17",

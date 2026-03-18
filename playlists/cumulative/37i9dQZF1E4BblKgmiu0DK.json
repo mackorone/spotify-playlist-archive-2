@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/1sbuhkzti10F8rvhIJo4aC"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 194500,
       "name": "Bad Fit",
       "url": "https://open.spotify.com/track/4vCgUOSK4Netdnut3HJbWX"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 181613,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/1JhmW4NdVThYhB6W5Af9OU"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 163533,
       "name": "CANARY",
       "url": "https://open.spotify.com/track/1n27mNE1nt2NdyvatOpyCG"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 111433,
       "name": "Flexrage Circuit",
       "url": "https://open.spotify.com/track/5EsC9FA5hQTxBsDk6uDI9f"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "I am so bored now",
       "url": "https://open.spotify.com/track/0d5xoD4hyuTJF3GlGGzV4s"
@@ -2610,6 +2610,24 @@
       "duration_ms": 173856,
       "name": "I Bet You Like That",
       "url": "https://open.spotify.com/track/1aFPttcEHd04oZpEXv6cvu"
+    },
+    {
+      "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/7wdO3YJssFx8TWoOvr683K"
+      },
+      "artists": [
+        {
+          "name": "The Anti Groupies",
+          "url": "https://open.spotify.com/artist/36L3bzppf1kkNuCgg5SAta"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162124,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/3LE634W6PeNFqwztYMpnpQ"
     },
     {
       "album": {
@@ -2884,10 +2902,28 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 172719,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/5kl6GxCwZSIXpIjaDCKZjT"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/5KFSqxPZRgKp0BS8pHWKIM"
+      },
+      "artists": [
+        {
+          "name": "Funky Uncle Charlies Kittens",
+          "url": "https://open.spotify.com/artist/0WvvSRkfVDtAnZ0TRCjs2c"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263875,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7gp4yIc2FS3UDBOXHNBver"
     },
     {
       "album": {
@@ -2902,7 +2938,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -3136,7 +3172,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -3770,7 +3806,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -3806,7 +3842,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3828,6 +3864,28 @@
       "duration_ms": 193500,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/5HyR65g6KFChlWIIMpNX90"
+    },
+    {
+      "album": {
+        "name": "My Farts Are Rotten (1967)",
+        "url": "https://open.spotify.com/album/2kmEuiPgwgH07oGEahAIvm"
+      },
+      "artists": [
+        {
+          "name": "Lost Vinyl Revival",
+          "url": "https://open.spotify.com/artist/6yj44lQ92D2kyEZtaHcwhJ"
+        },
+        {
+          "name": "Patty Simkins",
+          "url": "https://open.spotify.com/artist/01nNsDEmaQ3HN4CuSAX9za"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153188,
+      "name": "My Farts Are Rotten (1967)",
+      "url": "https://open.spotify.com/track/5fwybqjufW6IpdMqZ2NVrM"
     },
     {
       "album": {
@@ -3968,7 +4026,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 256580,
       "name": "No One Else to Blame",
       "url": "https://open.spotify.com/track/08DhdjDCKjRpCVfbXh4RbA"
@@ -5012,7 +5070,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -5181,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/2QBFkigoHsBG4de8GvPpxb"
+      },
+      "artists": [
+        {
+          "name": "Marie Sarah",
+          "url": "https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Sweety Margot",
+      "url": "https://open.spotify.com/track/77uATG2w9LVT9mPLqcZ9lY"
+    },
+    {
+      "album": {
         "name": "Take it as It Comes",
         "url": "https://open.spotify.com/album/3jQLBvsWxx5GOAI76nYLRG"
       },
@@ -5322,7 +5398,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -5578,7 +5654,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 159433,
       "name": "Turborage Flow",
       "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
@@ -5902,7 +5978,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 214290,
       "name": "When I Wake Up",
       "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
@@ -5992,7 +6068,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 265264,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/0bRvJhHWsQX8YCh1nqkWYG"

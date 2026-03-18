@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,130 songs - 2 day 5 hr 39 min
+1,131 songs - 2 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 | 2025-01-02 | 2025-05-23 |
 | [AIT \(feat\. Celly\)](https://open.spotify.com/track/7mKsblBSQW24gKV9ou1dnR) | [Töölön Ketterä](https://open.spotify.com/artist/33ncZPx0ToD6WQaiZaTggr), [Celly](https://open.spotify.com/artist/0b6OBYtFkwuvJmmtUv6Ysj) | [AIT \(feat\. Celly\)](https://open.spotify.com/album/7fARB8m7C3ZpP22Ond83Zd) | 3:13 | 2025-11-06 | 2025-11-28 |
 | [Aito Flavia](https://open.spotify.com/track/1VSA2yWLsD1MBYWk1SezbK) | [Paha Matami](https://open.spotify.com/artist/0FOBDcNYCyLOUNjss9C8rn) | [Aito Flavia](https://open.spotify.com/album/2GqHKmhvFQILmAIphNTPkl) | 2:14 | 2024-02-01 | 2024-02-16 |
+| [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 | 2026-03-12 |  |
 | [Aitous ei oo myynnissä](https://open.spotify.com/track/7aunzDlJop67v4YAYRWxbr) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Aitous ei oo myynnissä](https://open.spotify.com/album/0Xhjp2tWP9tAbhYTxXI8In) | 3:06 | 2026-01-08 |  |
 | [Aivastaa](https://open.spotify.com/track/4j8c4FzylrJtT4hrKtTtE5) | [RB23](https://open.spotify.com/artist/0AMt5hEkhOFwP4UfWXHQ1N), [AxSZN](https://open.spotify.com/artist/5BaTIZ3K241Pk3vxfbtZI5) | [Aivastaa](https://open.spotify.com/album/603c4gIAc9M4QT20PUJ31c) | 2:58 | 2024-06-06 | 2024-07-02 |
 | [Aja tai kuole](https://open.spotify.com/track/7m7Mmlw9m1NJxcYbvdW2z7) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Aja tai kuole](https://open.spotify.com/album/5H5orhEdULcEb6yiV1yCxZ) | 3:15 | 2025-05-22 | 2025-11-28 |
@@ -1098,7 +1099,7 @@
 | [Vittu mikä äijä](https://open.spotify.com/track/2imPefhCdCUrM55vYibOmf) | [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Vittu mikä äijä](https://open.spotify.com/album/7puK1S7dwidRXDzBvKD2ZG) | 3:00 | 2025-02-27 | 2025-03-21 |
 | [Vittuilen](https://open.spotify.com/track/3rgNLKlizRUL3zZqj4Qk60) | [Mäk Gälis](https://open.spotify.com/artist/3TjISn9d9gIsTasWGYtlWR), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Vittuilen](https://open.spotify.com/album/5xbeZvgZjeGYuJBh31cwAR) | 2:37 | 2024-02-29 | 2024-03-15 |
 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 | 2024-08-15 | 2024-11-15 |
-| [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 | 2025-11-27 |  |
+| [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 | 2025-11-27 | 2026-03-18 |
 | [Voimaantunu](https://open.spotify.com/track/1P5dnsR8u5iyEsyIuB8t4O) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Aina](https://open.spotify.com/artist/3M36KGUt2RuwXQuxTDQIEY), [Sointu Borg](https://open.spotify.com/artist/34qCYPy8p0qTLUjkskB7Dz) | [Voimaantunu](https://open.spotify.com/album/3nmdPvniUdbuQPL8ZN9u2A) | 3:15 | 2023-10-19 | 2024-01-12 |
 | [Voita Munkaa](https://open.spotify.com/track/2xqXza0icbBk5AWOLF8r5M) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [UHKA](https://open.spotify.com/album/5j5RgFRUeytc8eO8jYNZLo) | 2:35 | 2023-09-21 | 2023-10-20 |
 | [Voittajan tunti](https://open.spotify.com/track/3Z7XjgmbV2MTd56sZ0Cprk) | [Yavis](https://open.spotify.com/artist/1CFOJLuG4JhEaKOZOkPGwg), [Mängi](https://open.spotify.com/artist/6xBSuqLlGqCWaKDEeQkqVr), [Äänet Käskee](https://open.spotify.com/artist/6tYoCkla26VpGOZcUVCuT3) | [Voittajan tunti](https://open.spotify.com/album/5lyc8ZVOM895eyA7uxbazX) | 2:43 | 2024-04-25 | 2024-05-17 |

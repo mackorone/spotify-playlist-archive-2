@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,551 likes - 100 songs - 5 hr 39 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,550 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 6 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
 | 7 | [Heartbreak Anniversary \- H&M&REDSTAGE](https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Heartbreak Anniversary \(H&M&REDSTAGE\)](https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg) | 3:21 |
 | 8 | [God Spoke](https://open.spotify.com/track/7LonAeydU2VQZwtiq3Z1ED) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [God Spoke](https://open.spotify.com/album/4CVuionlpJerZ5CQmdWyke) | 1:14 |
-| 9 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 9 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 10 | [Fool's Gold](https://open.spotify.com/track/313fKmaZ1VcLpPkQFQXdzY) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Take Me Home](https://open.spotify.com/album/6v5mDjDZtHTz84VtV4iPnA) | 3:17 |
 | 11 | [christ sake](https://open.spotify.com/track/0BPmtkG9WDSPOdIBrvvqD4) | [Tom Siletto](https://open.spotify.com/artist/425hLCmDHF11OEX57lU2YX) | [christ sake](https://open.spotify.com/album/1keSXyLC6AvS75aIBT9sBU) | 3:12 |
 | 12 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |

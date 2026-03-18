@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,056 songs - 1 day 17 hr 24 min
+2,057 songs - 1 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Beautiful Fall](https://open.spotify.com/track/3hKWhz80lOM3PSNVSP9uU3) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Love And Light](https://open.spotify.com/album/7JN0UxwNpKDr5von6mV6hm) | 1:03 | 2022-01-12 |  |
 | [Beautiful Fragments](https://open.spotify.com/track/1GSkqJsEJOmUvudWa66zGs) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:02 | 2022-08-25 |  |
 | [Beautiful Harmony](https://open.spotify.com/track/64pOzUuE17nwlEbTAZ0GMY) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming in the Rain](https://open.spotify.com/album/3rGGRbwcJXPeVxaNEiBHyW) | 1:33 | 2022-01-20 |  |
+| [Beautiful Haze \- Alternate Version](https://open.spotify.com/track/7AXNkFOCmAZOuq2qHhB8Y5) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Fragments, Vol\. 3](https://open.spotify.com/album/4gA0BsoD4MKo6I4347mjxs) | 1:00 | 2026-03-17 |  |
 | [Beautiful Mist](https://open.spotify.com/track/3Nn6GskLTTf4V7bHI5OtH8) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Inspiring Wonder](https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF) | 1:06 | 2022-02-19 |  |
 | [Beautiful Places \- Felt Piano Version](https://open.spotify.com/track/3eUFBiETeXrAfTJdRYbk5e) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Beautiful Places](https://open.spotify.com/album/0D4iBQY8fPdFcBEGmyRBzH) | 1:05 | 2022-10-16 | 2024-01-30 |
 | [Beautiful Places Arr\. For Cello](https://open.spotify.com/track/0SrKKF0rLAFSncOjyXANbQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Beautiful Places Arr\. For Cello](https://open.spotify.com/album/7pA9jiMHl941Jkm8L6Vuf8) | 1:01 | 2024-02-09 | 2024-02-13 |

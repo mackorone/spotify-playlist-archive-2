@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 124347,
+  "num_followers": 124359,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABSCIib66k5n9HOvg4QP6LI",
+  "snapshot_id": "abdIAAAAAAAXMjYO6XNLkgm1VD0uOUkz",
   "tracks": [
     {
       "added_at": null,
@@ -175,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Funny Valentine: The Best Of Chet Baker",
-        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+        "name": "The Trumpet Artistry Of Chet Baker",
+        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
       },
       "artists": [
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 423573,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
+      "duration_ms": 195960,
+      "name": "Moon Love",
+      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
     },
     {
       "added_at": null,
@@ -223,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Trumpet Artistry Of Chet Baker",
-        "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
       },
       "artists": [
         {
           "name": "Chet Baker",
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
         }
       ],
-      "duration_ms": 195960,
-      "name": "Moon Love",
-      "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
+      "duration_ms": 423573,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
     },
     {
       "added_at": null,

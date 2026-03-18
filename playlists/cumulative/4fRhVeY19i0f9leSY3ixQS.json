@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "Are We Not Men?",
+        "url": "https://open.spotify.com/album/1s9mkvAm9niE20qM0lH1mf"
+      },
+      "artists": [
+        {
+          "name": "Ben Gel",
+          "url": "https://open.spotify.com/artist/061zXo3f18S4rvBolMK6Pk"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187228,
+      "name": "Are We Not Men?",
+      "url": "https://open.spotify.com/track/2dsddOLeJMxJIKDuBysVz1"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2br82fYprVhypZEPo241TB"
       },
@@ -6145,6 +6163,24 @@
     },
     {
       "album": {
+        "name": "Foam",
+        "url": "https://open.spotify.com/album/0RelhQ9p601GBkaUU0teXS"
+      },
+      "artists": [
+        {
+          "name": "Unsafe",
+          "url": "https://open.spotify.com/artist/5pPl6lJUOCYj2ZJYxxl70P"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Foam",
+      "url": "https://open.spotify.com/track/1gpAZwusu4vDpY0QR1g2t0"
+    },
+    {
+      "album": {
         "name": "RE:CONSTRUCT",
         "url": "https://open.spotify.com/album/02Uzrx425mNGU4QctdK4N8"
       },
@@ -8855,6 +8891,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/3xd0zTXVjCZO3HF2MyMSW9"
+      },
+      "artists": [
+        {
+          "name": "Loui Daniels",
+          "url": "https://open.spotify.com/artist/6Uwm4rmMWByLZUTEMDi9Vf"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261459,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/4lVunDYuBoGAfqhaa1IwXg"
+    },
+    {
+      "album": {
         "name": "It Fell From The Sky...",
         "url": "https://open.spotify.com/album/2YNFv0k4dzF4Bo4FWblCLk"
       },
@@ -11074,6 +11128,24 @@
       "duration_ms": 182999,
       "name": "Mud, Sweat, and Tears",
       "url": "https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ"
+    },
+    {
+      "album": {
+        "name": "Repotism",
+        "url": "https://open.spotify.com/album/7AnGihBbuClk4EK3QRmTLE"
+      },
+      "artists": [
+        {
+          "name": "Bent Heavens",
+          "url": "https://open.spotify.com/artist/3eDoaB18Q99OcjtD0X5ejG"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152431,
+      "name": "Murmurs",
+      "url": "https://open.spotify.com/track/5EctKJGyhsGOxQiqAr8Id4"
     },
     {
       "album": {
@@ -14025,6 +14097,24 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/6X2kZUL7O8jM5xWNheuzdP"
+      },
+      "artists": [
+        {
+          "name": "Harri Georgio",
+          "url": "https://open.spotify.com/artist/2Td89Xyv9wnPRfO0KodMHe"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135857,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/25ooJFZ75AlSgJkTMYX13T"
+    },
+    {
+      "album": {
         "name": "I AM WHAT I AM AND NOTHING MORE",
         "url": "https://open.spotify.com/album/3KJIS9RXhILWed8L6GR2Ey"
       },
@@ -14804,6 +14894,24 @@
       "duration_ms": 259670,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4Z4XWCv7Kamr8YWMjwWY1g"
+    },
+    {
+      "album": {
+        "name": "The Shit Split",
+        "url": "https://open.spotify.com/album/71DZycL3EgRqrdUFu6Eetf"
+      },
+      "artists": [
+        {
+          "name": "Mermaid Island",
+          "url": "https://open.spotify.com/artist/7iGEsQzSOaEhXNgTSKfqSS"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242377,
+      "name": "Shit Out Of Luck",
+      "url": "https://open.spotify.com/track/5QqPn9qJ2xBUGqsoWYwy37"
     },
     {
       "album": {
@@ -15931,7 +16039,7 @@
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 180000,
+      "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
     },
@@ -19756,6 +19864,24 @@
       "duration_ms": 222000,
       "name": "Wow",
       "url": "https://open.spotify.com/track/3OwT1JjolDJbqSWHQngxCX"
+    },
+    {
+      "album": {
+        "name": "wrecked",
+        "url": "https://open.spotify.com/album/4b5bcSF7KSUMOLVOszH7T4"
+      },
+      "artists": [
+        {
+          "name": "Bliss Abyss",
+          "url": "https://open.spotify.com/artist/1DLwFy1kFyeQYO6rnjMaaZ"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208480,
+      "name": "wrecked",
+      "url": "https://open.spotify.com/track/3N63XR695EZgdQYiQJVtAY"
     },
     {
       "album": {

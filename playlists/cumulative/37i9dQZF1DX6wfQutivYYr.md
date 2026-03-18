@@ -4,7 +4,7 @@
 
 > Samurai Jay sulla cover della playlist più grande in Italia 🔥
 
-307 songs - 16 hr 1 min
+308 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Quando sarai piccola](https://open.spotify.com/track/4FUtbX8sWsAg0tpoD29MC6) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Quando sarai piccola](https://open.spotify.com/album/1CwS557KbXpWYCRShAmey0) | 3:06 | 2025-02-13 | 2025-02-19 |
 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2025-01-02 | 2025-05-10 |
 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 | 2025-08-29 |  |
-| [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 | 2026-02-25 |  |
+| [QUI CON ME](https://open.spotify.com/track/6zngwmDraHGVczoCzj7rHb) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [QUI CON ME](https://open.spotify.com/album/4Uj5BnPpLHuF7VOaN71fr5) | 3:16 | 2026-02-25 | 2026-03-18 |
 | [RA TA TA](https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [RA TA TA](https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw) | 2:32 | 2024-06-28 | 2024-12-14 |
 | [RAGNI](https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAGNI](https://open.spotify.com/album/2Pwn1hhncY4xdd7auQ5J4C) | 3:30 | 2024-09-05 | 2025-01-31 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-12 |  |
@@ -269,6 +269,7 @@
 | [Soldi Arrotolati \(feat\. ANNA\)](https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:31 | 2024-06-28 | 2024-07-19 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-25 | 2024-12-13 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-18 | 2025-02-04 |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-03-17 |  |
 | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/track/7bozAK8PtroF5owUL01coy) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Sto bene al mare \(feat\. Sayf & Rkomi\)](https://open.spotify.com/album/4NQBEzQomU36U3oaXTgKj4) | 2:47 | 2025-06-26 | 2025-11-07 |
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-06-28 | 2024-11-26 |
 | [Stupida sfortuna](https://open.spotify.com/track/2yzOkthIypp8Lwkww7LZjY) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Stupida sfortuna](https://open.spotify.com/album/2op7wmZ9fVyLGLhjGmrLMG) | 2:55 | 2026-02-25 |  |

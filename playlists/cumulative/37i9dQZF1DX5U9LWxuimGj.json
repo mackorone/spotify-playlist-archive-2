@@ -2807,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Whiskey Lies & Alibis",
+        "url": "https://open.spotify.com/album/3tCP2Wh5OQo6iUHqaWdPhY"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/0yOo5GDZJsQXcz6oDYivvu"
+    },
+    {
+      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },

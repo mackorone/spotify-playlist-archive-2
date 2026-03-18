@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Harika Avcı x Müslüm Gürses ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,789 likes - 141 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,772 likes - 141 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

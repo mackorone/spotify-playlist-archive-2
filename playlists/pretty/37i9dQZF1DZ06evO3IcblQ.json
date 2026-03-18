@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36051,
+  "num_followers": 36057,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAAVoEG4Bz/dKvBcNwCnCc8a",
+  "snapshot_id": "abdIAAAAAAAvwjogo+iYfqea5fQxWG1K",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
+      "duration_ms": 117160,
+      "name": "Can't Believe It",
+      "url": "https://open.spotify.com/track/1BPFNUHoHNBGI09Ii5qj61"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unknown Road (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Dying to Know - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ace of Spades",
         "url": "https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 151866,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/1K7OdZNMaEqButgV6D28UX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unknown Road (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Dying to Know - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
     },
     {
       "added_at": null,

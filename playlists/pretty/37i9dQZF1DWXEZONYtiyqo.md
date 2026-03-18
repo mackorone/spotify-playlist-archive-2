@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Feli
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,415 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,424 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 33 | [Mâinile](https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Mâinile](https://open.spotify.com/album/2DF4lqHTnPUQl2C0bEQXnl) | 3:18 |
 | 34 | [Două Vorbe\-n Plus](https://open.spotify.com/track/0ZuLb1svYPvwbDDcJLEfYn) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Două Vorbe\-n Plus](https://open.spotify.com/album/19goz9GeX9oAW8IvsMDJZs) | 3:30 |
 | 35 | [Ține\-mă minte](https://open.spotify.com/track/7H0Wnvl098xdUJVoSTTS20) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Ține\-mă minte](https://open.spotify.com/album/4bXrui7ml80zEK2LJ9oZrT) | 3:30 |
-| 36 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 2:58 |
+| 36 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 |
 | 37 | [La Fel](https://open.spotify.com/track/52nlTHXA3CF9cuY6pUlp3E) | [SHIFT](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [La Fel](https://open.spotify.com/album/5k3YFxmnHmxXxkxO3THhuA) | 2:59 |
 | 38 | [Suflet digital](https://open.spotify.com/track/7aLUBCcJmY8cP2xCTNheiY) | [VUNK](https://open.spotify.com/artist/1PMRWTda28Ufeyk8rIBEnf), [Sore](https://open.spotify.com/artist/3dmuXOSgI3EMfcKhufthu3) | [Suflet digital](https://open.spotify.com/album/1xmvuCDEQHTQdnZZUIeA8F) | 2:30 |
 | 39 | [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 |

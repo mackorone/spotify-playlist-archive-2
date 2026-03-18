@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "baka bukas",
+        "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207558,
+      "name": "baka bukas",
+      "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
+    },
+    {
+      "album": {
         "name": "Michael Pangilinan",
         "url": "https://open.spotify.com/album/5smhvbie90IDjoJoQTI7lk"
       },
@@ -758,10 +776,28 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 275312,
       "name": "Di Ko Sinabi",
       "url": "https://open.spotify.com/track/5LsHJdZUGkLVzW8Uz1LgLV"
+    },
+    {
+      "album": {
+        "name": "Di Na",
+        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Di Na",
+      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
     },
     {
       "album": {
@@ -896,7 +932,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 279259,
       "name": "Ex",
       "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
@@ -957,6 +993,42 @@
     },
     {
       "album": {
+        "name": "Grabe Ka Naman Saktan",
+        "url": "https://open.spotify.com/album/292rYJLw0TqS2uC2LJJAAK"
+      },
+      "artists": [
+        {
+          "name": "Abby Asistio",
+          "url": "https://open.spotify.com/artist/1SzRbptyg5juRlfWOAFHLM"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257812,
+      "name": "Grabe Ka Naman Saktan",
+      "url": "https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t"
+    },
+    {
+      "album": {
+        "name": "Guhit",
+        "url": "https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225014,
+      "name": "Guhit",
+      "url": "https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5"
+    },
+    {
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -972,7 +1044,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
@@ -1370,7 +1442,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 205013,
       "name": "Isang Sandali Pa",
       "url": "https://open.spotify.com/track/48SAJX6sI7Xaeb3XH3jp84"
@@ -1446,6 +1518,24 @@
       "duration_ms": 282094,
       "name": "Kahit Di Mo Alam",
       "url": "https://open.spotify.com/track/7Ej7MKkFmuDApmawGwSA3S"
+    },
+    {
+      "album": {
+        "name": "Kailan Ka Aamin",
+        "url": "https://open.spotify.com/album/4ODOctDusqgxRCNDHzs3qf"
+      },
+      "artists": [
+        {
+          "name": "VVINK",
+          "url": "https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218461,
+      "name": "Kailan Ka Aamin",
+      "url": "https://open.spotify.com/track/6RZMDe1W0oEqPCnzDn3qJD"
     },
     {
       "album": {
@@ -2063,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Nag-aano",
+        "url": "https://open.spotify.com/album/67gX6woNDBl3AnEfQn5W9E"
+      },
+      "artists": [
+        {
+          "name": "UNXPCTD",
+          "url": "https://open.spotify.com/artist/1ruOLaqdQdMzwH5y8rfD0Y"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222042,
+      "name": "Nag-aano",
+      "url": "https://open.spotify.com/track/2tsRbhJ9iUGbynE2fvynES"
+    },
+    {
+      "album": {
         "name": "Nagbabakasakali",
         "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
       },
@@ -2168,7 +2276,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 194745,
       "name": "Natataranta",
       "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
@@ -2270,6 +2378,24 @@
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
+    },
+    {
+      "album": {
+        "name": "1621: BEGIN",
+        "url": "https://open.spotify.com/album/3oFCmZl4MAR3ob7XRGCa9C"
+      },
+      "artists": [
+        {
+          "name": "1621",
+          "url": "https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161554,
+      "name": "Oh, Ano?",
+      "url": "https://open.spotify.com/track/3pvDXA9FjDTHWKt9riw0NE"
     },
     {
       "album": {
@@ -2670,7 +2796,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 257026,
       "name": "Paumanhin",
       "url": "https://open.spotify.com/track/6HDoqnXexzBfY2GTYtvRWC"
@@ -2814,7 +2940,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 347120,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
@@ -3607,6 +3733,24 @@
     },
     {
       "album": {
+        "name": "There, There",
+        "url": "https://open.spotify.com/album/3bX2X3clVDDpyNmL9Qv1Jc"
+      },
+      "artists": [
+        {
+          "name": "OZO",
+          "url": "https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "There, There",
+      "url": "https://open.spotify.com/track/5fnRmmu0VYact0wMvpaV8h"
+    },
+    {
+      "album": {
         "name": "tila tala",
         "url": "https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP"
       },
@@ -3694,7 +3838,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 256153,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/6bseBp8dlZo5GuO2cd52XC"

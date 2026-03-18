@@ -4,7 +4,7 @@
 
 > 
 
-243 songs - 22 hr 56 min
+244 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Neuromance](https://open.spotify.com/track/0LtSc0QEFNsCttEVUhxi3q) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Fantasia](https://open.spotify.com/album/29uIxgnBAojrM6NFUBasxq) | 8:41 | 2022-02-08 |  |
 | [Never Come Back](https://open.spotify.com/track/0QEG3NGmWatNOIAVxudQfd) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/3q5CZdmVxP6hE0mlBcYEU1) | 5:05 | 2023-05-02 |  |
 | [New Wave](https://open.spotify.com/track/4qBI8874KdAUZexjNgpKmE) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [ANDATA](https://open.spotify.com/artist/4EWtOuG1AiHXvrd9LtEnzQ) | [New Wave](https://open.spotify.com/album/6uiVDWUjmlaztjdDV0pi9V) | 3:24 | 2025-08-04 |  |
+| [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 | 2026-03-17 |  |
 | [No Captain \- Dirty South Remix](https://open.spotify.com/track/1jX8HqFA7M5hzOxvuFoJ3p) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ), [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little by Little Remixed](https://open.spotify.com/album/0RQnI5gPFlKLidXhWrWTJK) | 5:47 | 2020-10-04 |  |
 | [No Fate \- Adam Beyer Remix](https://open.spotify.com/track/4JDTPXcQphHjel3b9ggDrH) | [Zyon](https://open.spotify.com/artist/6lkRnXKjPXeRQjYr8WJaSj), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [No Fate \(Adam Beyer Remix\)](https://open.spotify.com/album/1lKPyys6QL2UZPifssfkms) | 3:55 | 2023-08-12 | 2025-09-25 |
 | [No Judgement \- Kölsch Remix Edit](https://open.spotify.com/track/0Dwb20y4Y174GDvLw0Dr51) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [No Judgement \(Kölsch Remix Edit\)](https://open.spotify.com/album/6cUbkloy5dDTZ9muvMLiOo) | 4:17 | 2021-04-28 |  |

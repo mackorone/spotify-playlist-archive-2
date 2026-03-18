@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 238161,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1Awgm6eNs5BojzttZePxeB"
@@ -5534,6 +5534,24 @@
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
+    },
+    {
+      "album": {
+        "name": "Civilian World",
+        "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456373,
+      "name": "Civilian World",
+      "url": "https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i"
     },
     {
       "album": {

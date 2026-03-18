@@ -1,31 +1,15 @@
 {
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF?si=vzaRdMYHQP6Hqzr1zbo6RA\">Indi</a>. Artwork: Isu Kim. ",
-  "num_followers": 23241,
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH?si=8Tf9hIrBSW-FrG6f9oxfYA\">Zaylevelten</a>. Artwork: Isu Kim. ",
+  "num_followers": 23326,
   "original_name": "Fresh Finds Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou",
+  "snapshot_id": "AAAAAEf+Y0ZOOvnouSjviozYw5UWrYYl",
   "tracks": [
     {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Princessa",
-        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
-      },
-      "artists": [
-        {
-          "name": "Indi",
-          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
-        }
-      ],
-      "duration_ms": 118974,
-      "name": "Princessa",
-      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Muzz",
         "url": "https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x"
@@ -41,55 +25,83 @@
       "url": "https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
-        "name": "Ikeja (No Go Thief)",
-        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+        "name": "PRESS AM",
+        "url": "https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj"
       },
       "artists": [
         {
-          "name": "Danpapa GTA",
-          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        },
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
         }
       ],
-      "duration_ms": 116585,
-      "name": "Ikeja (No Go Thief)",
-      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+      "duration_ms": 123750,
+      "name": "PRESS AM",
+      "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
-        "name": "2 Love letters",
-        "url": "https://open.spotify.com/album/29Sr09HuEKEwAe1XkDu1WI"
+        "name": "fujiBouyon*",
+        "url": "https://open.spotify.com/album/1zaNYDraNZA32BrkMhedlT"
       },
       "artists": [
         {
-          "name": "Jack Apk",
-          "url": "https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs"
+          "name": "onoola-sama",
+          "url": "https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC"
+        },
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
         }
       ],
-      "duration_ms": 169142,
-      "name": "Taking chances",
-      "url": "https://open.spotify.com/track/0gRsD3pcXt8Hef4z2f0aQQ"
+      "duration_ms": 187197,
+      "name": "f\u00eateRock*",
+      "url": "https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/7ckvmI7wind60KQOgVC7XR"
+        "name": "BUR$T",
+        "url": "https://open.spotify.com/album/74D98EflJdZJqcBybpwNBn"
       },
       "artists": [
         {
-          "name": "M\u016bmbi",
-          "url": "https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF"
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
         }
       ],
-      "duration_ms": 196071,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/3eyr49ZOXyE3KIUrKfEHhW"
+      "duration_ms": 132307,
+      "name": "T\u1eb8 WO",
+      "url": "https://open.spotify.com/track/5X2Sckl5eAkT4LKcaQkLZe"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "BEEF",
+        "url": "https://open.spotify.com/album/5w9X42hd0XjqRhBbuyP7Sr"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "BEEF",
+      "url": "https://open.spotify.com/track/4dS9eIRXHrsCrBm38KtQiI"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Akonuche",
         "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
@@ -105,7 +117,147 @@
       "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "PRADA BBY",
+        "url": "https://open.spotify.com/album/4rxbk46Re7QPNibqiBKBEx"
+      },
+      "artists": [
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
+        }
+      ],
+      "duration_ms": 132599,
+      "name": "PRADA BBY",
+      "url": "https://open.spotify.com/track/6W6BpsZf0JiSI77kSz1E0K"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "H M",
+        "url": "https://open.spotify.com/album/29BxrDlWjqMcrFxNIHQiwb"
+      },
+      "artists": [
+        {
+          "name": "vvsmygwen",
+          "url": "https://open.spotify.com/artist/3GvLzHTwSpsLgPcYB9ywgJ"
+        },
+        {
+          "name": "Luwa.Mp4",
+          "url": "https://open.spotify.com/artist/6CS6NjMmo93ligNiiZ97LZ"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "H M",
+      "url": "https://open.spotify.com/track/6ztCJcQFWrIunxqIFlLtBR"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "Body Work",
+        "url": "https://open.spotify.com/album/2yXnwrz87Z4cSyssvrCuy6"
+      },
+      "artists": [
+        {
+          "name": "Txmmyily",
+          "url": "https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 149839,
+      "name": "Body Work",
+      "url": "https://open.spotify.com/track/6TJdy22GcopT8UtmUvBWv8"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "Ikeja (No Go Thief)",
+        "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
+      },
+      "artists": [
+        {
+          "name": "Danpapa GTA",
+          "url": "https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O"
+        }
+      ],
+      "duration_ms": 116585,
+      "name": "Ikeja (No Go Thief)",
+      "url": "https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "KAPOW",
+        "url": "https://open.spotify.com/album/4Gpa0qM430uBc1GKRHKLta"
+      },
+      "artists": [
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        },
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "KAPOW",
+      "url": "https://open.spotify.com/track/7qcSpWogLZldYswNe6s1wO"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "Princessa",
+        "url": "https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU"
+      },
+      "artists": [
+        {
+          "name": "Indi",
+          "url": "https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF"
+        }
+      ],
+      "duration_ms": 118974,
+      "name": "Princessa",
+      "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "2 Love letters",
+        "url": "https://open.spotify.com/album/29Sr09HuEKEwAe1XkDu1WI"
+      },
+      "artists": [
+        {
+          "name": "Jack Apk",
+          "url": "https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "Taking chances",
+      "url": "https://open.spotify.com/track/0gRsD3pcXt8Hef4z2f0aQQ"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/7ckvmI7wind60KQOgVC7XR"
+      },
+      "artists": [
+        {
+          "name": "M\u016bmbi",
+          "url": "https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF"
+        }
+      ],
+      "duration_ms": 196071,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/3eyr49ZOXyE3KIUrKfEHhW"
+    },
+    {
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "for my dawgs",
         "url": "https://open.spotify.com/album/7KoWVuHqvnQQ0wLU44B68u"
@@ -121,7 +273,7 @@
       "url": "https://open.spotify.com/track/3sMKZMUWOc8F5U4vAcTWfr"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Fatherless Daughters",
         "url": "https://open.spotify.com/album/3gku67Qp40ue91CBOpV5Za"
@@ -137,7 +289,7 @@
       "url": "https://open.spotify.com/track/7wITUPZXcfo90ws7WP27Ls"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
@@ -153,7 +305,7 @@
       "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "LOVE MADE ME DO IT",
         "url": "https://open.spotify.com/album/7qLaOrsbFogh5A5yzQtmvS"
@@ -169,7 +321,7 @@
       "url": "https://open.spotify.com/track/3Dt1dGG3OLQ2j9FynaYPYZ"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Tena",
         "url": "https://open.spotify.com/album/2qTXyBqxHPzGM8RRFKfBt3"
@@ -185,7 +337,7 @@
       "url": "https://open.spotify.com/track/3H5n3Wn5mwQrUbnTArjsMH"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Still I Shine",
         "url": "https://open.spotify.com/album/3UoMhwvsM0iN095JOdKLhM"
@@ -201,7 +353,7 @@
       "url": "https://open.spotify.com/track/5q4fvEhTbYw4a2lolAD3Hm"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "HOW E DEY BE (HEDB)",
         "url": "https://open.spotify.com/album/2IwdbhftQKp8xLyQT3jYBA"
@@ -217,7 +369,7 @@
       "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Gimbiyar Hausa",
         "url": "https://open.spotify.com/album/6o41ZRA8PN1VvXmOA3dVoy"
@@ -233,7 +385,7 @@
       "url": "https://open.spotify.com/track/6UJiEG1Dnv7qXzSJXsq97j"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "IDI AMIN",
         "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
@@ -249,7 +401,7 @@
       "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "T Fare (seXyy!!)",
         "url": "https://open.spotify.com/album/55CrHDpDqSMcaPWSc0zFYk"
@@ -265,7 +417,7 @@
       "url": "https://open.spotify.com/track/0uFsObl0zTfLCE9WYJypL6"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/5xNUdev3SKlyKdEtocpXaB"
@@ -281,7 +433,7 @@
       "url": "https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "123...Arcade!",
         "url": "https://open.spotify.com/album/3YARAu2R6ekkXdD9jMwUJF"
@@ -305,7 +457,7 @@
       "url": "https://open.spotify.com/track/5Gw9VKpDN3kxgEFKp7JN0y"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "I Wish I Had More Time",
         "url": "https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb"
@@ -321,7 +473,7 @@
       "url": "https://open.spotify.com/track/7odIv0UuSvwHOAYJS0EK6S"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Hei God",
         "url": "https://open.spotify.com/album/1Es8V6DJBT1rhGmHKRYScv"
@@ -345,7 +497,7 @@
       "url": "https://open.spotify.com/track/7D7R9sQY9AGEa3ThELE2BG"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "One More Blunt",
         "url": "https://open.spotify.com/album/5KGTjf9dWppUjRhrOvkOxl"
@@ -373,7 +525,7 @@
       "url": "https://open.spotify.com/track/4DxDt36W6NtJgQJzw973KG"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC"
@@ -389,7 +541,7 @@
       "url": "https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "i.r.l",
         "url": "https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH"
@@ -409,7 +561,7 @@
       "url": "https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Nyambura",
         "url": "https://open.spotify.com/album/0YPGhp4F8ShifkQKVqAtVs"
@@ -425,7 +577,7 @@
       "url": "https://open.spotify.com/track/1xjHdu6gNnRg2uYUYpTPur"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/41y0S7UNgrEpuMeCOavaR0"
@@ -441,7 +593,7 @@
       "url": "https://open.spotify.com/track/6tPzBJptprIjA8hk4ir3rz"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6mcCn2Dy4hTUX5jiFV7Cpm"
@@ -457,7 +609,7 @@
       "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "MORWA WA MPHERI",
         "url": "https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt"
@@ -473,7 +625,7 @@
       "url": "https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "tears water my garden",
         "url": "https://open.spotify.com/album/4XV75WSejdJE5vyeeUugl6"
@@ -493,7 +645,7 @@
       "url": "https://open.spotify.com/track/37cnPtuVrmQiWzJWhXQ1t7"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "BMB (Be My Baby)",
         "url": "https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f"
@@ -513,7 +665,7 @@
       "url": "https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/3IBpv3DOoGhbfLK8xFE5td"
@@ -533,7 +685,7 @@
       "url": "https://open.spotify.com/track/31YsaUKopejb1gATzVxH5R"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Judgement",
         "url": "https://open.spotify.com/album/2rLxnPmXVEcyxViY4xeEiP"
@@ -553,7 +705,7 @@
       "url": "https://open.spotify.com/track/6YeOk8fCfZH9aompQ8AF6f"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "These Mathata's",
         "url": "https://open.spotify.com/album/0gMFC2tCeAiKhfzaIM4d1v"
@@ -569,7 +721,7 @@
       "url": "https://open.spotify.com/track/11GgMwYDrBgXtoDz5comwJ"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Wish I Said Everything",
         "url": "https://open.spotify.com/album/01kS6Aop6jydC6Xbfa5c9w"
@@ -585,7 +737,7 @@
       "url": "https://open.spotify.com/track/6x7spq4Ae99sTawEEYyUvv"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Butterlies",
         "url": "https://open.spotify.com/album/30YFodEGo5H6OhC8NbVglB"
@@ -601,7 +753,7 @@
       "url": "https://open.spotify.com/track/6ljgPciXK2fjP75JCfC9is"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/279AyCku6KCklv9lBiol1w"
@@ -621,7 +773,7 @@
       "url": "https://open.spotify.com/track/6Ap3JyyZxrTOTeTncbWeNs"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5Xeacg5kVriMnBk9QuNfb4"
@@ -645,7 +797,7 @@
       "url": "https://open.spotify.com/track/47LtCGLay8TMO0WnZygKNJ"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0v3H537LWodCKDdkFqBpek"
@@ -661,7 +813,7 @@
       "url": "https://open.spotify.com/track/377eS1e6iGiDVqOXQbYVXN"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Six",
         "url": "https://open.spotify.com/album/1QRnVC8V3WrDLqHedi3SMZ"
@@ -677,7 +829,7 @@
       "url": "https://open.spotify.com/track/6MUvbDbL3d0L2ucLJdGnZI"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Maye",
         "url": "https://open.spotify.com/album/3kFUtkt9hqN6U1ZNDXyh2r"
@@ -693,7 +845,7 @@
       "url": "https://open.spotify.com/track/1PjyINgPWTC8lrhufounlb"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Sneaky Link",
         "url": "https://open.spotify.com/album/5cXKp2GlZYjrB1uzeU1JYA"
@@ -709,7 +861,7 @@
       "url": "https://open.spotify.com/track/3YDt11AUb5rwwbrLcygGag"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Feel Low",
         "url": "https://open.spotify.com/album/5R0py9OArsqpcf8LGRsEYm"
@@ -725,7 +877,7 @@
       "url": "https://open.spotify.com/track/5S4TFFPRghc9pI6kKRE6Ma"
     },
     {
-      "added_at": "2026-03-04 12:12:11",
+      "added_at": "2026-03-17 04:59:30",
       "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/4xC2K3DOkwTQaI0mVlHpX6"
@@ -739,142 +891,6 @@
       "duration_ms": 220800,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4u6EGvb0TOh9h3eS4eYd6l"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Dear Ex",
-        "url": "https://open.spotify.com/album/0SenRgI2VCRXW4jHBa7dpO"
-      },
-      "artists": [
-        {
-          "name": "Wiz Designer",
-          "url": "https://open.spotify.com/artist/1yTEWhW1UidhRHDtRBsr2L"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "Dear Ex",
-      "url": "https://open.spotify.com/track/7hAIX39HeD4wZZpThDOLUQ"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "House Of Mirrors",
-        "url": "https://open.spotify.com/album/5LDVm6ENmcKqoQfWc4YzgK"
-      },
-      "artists": [
-        {
-          "name": "TAYKATRIP",
-          "url": "https://open.spotify.com/artist/31I01TL25gP5IiHHh0Xjez"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "House Of Mirrors",
-      "url": "https://open.spotify.com/track/0m52oHvaK7uThwe3HkumYY"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Pewa",
-        "url": "https://open.spotify.com/album/5NHFgvVvnOkrTlGNGPsHSW"
-      },
-      "artists": [
-        {
-          "name": "Cheruu",
-          "url": "https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB"
-        },
-        {
-          "name": "Modest Chabari",
-          "url": "https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Pewa",
-      "url": "https://open.spotify.com/track/5sggvlcQAAQotkFDmHcMmt"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/2klXOWji06RKVtABCAUAdO"
-      },
-      "artists": [
-        {
-          "name": "Mnazareth The Sultan",
-          "url": "https://open.spotify.com/artist/68zQ89MYkV9jYBwJTLgxvt"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/51iEde68I3lujbTEs5FmAk"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk"
-      },
-      "artists": [
-        {
-          "name": "Nello MXL",
-          "url": "https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD"
-        }
-      ],
-      "duration_ms": 96521,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Leta Hivyo",
-        "url": "https://open.spotify.com/album/4WpVNFsr5ApNewCHbTwgxe"
-      },
-      "artists": [
-        {
-          "name": "Andy Norling",
-          "url": "https://open.spotify.com/artist/7BsanCqJ4WFOhfWVKvYR0P"
-        },
-        {
-          "name": "Muema Blessed",
-          "url": "https://open.spotify.com/artist/67kgMC7Q45xv6JsRliQBWQ"
-        }
-      ],
-      "duration_ms": 144484,
-      "name": "Leta Hivyo",
-      "url": "https://open.spotify.com/track/2wd4z6I4vVClMnz8OKAQPx"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Biko",
-        "url": "https://open.spotify.com/album/1omjc1eKWElNR5U7Vad8gZ"
-      },
-      "artists": [
-        {
-          "name": "Remii",
-          "url": "https://open.spotify.com/artist/68esPVBE3V7wjSPVmZ6jBM"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Biko",
-      "url": "https://open.spotify.com/track/6OYOI8Ra1mvKGaL0tbiz6X"
-    },
-    {
-      "added_at": "2026-03-04 12:12:11",
-      "album": {
-        "name": "Light Up",
-        "url": "https://open.spotify.com/album/6hdMCMQXidycWKY0QfN7n8"
-      },
-      "artists": [
-        {
-          "name": "GRRRL",
-          "url": "https://open.spotify.com/artist/0LFaqcs0KjYIkJTeO8i8lv"
-        }
-      ],
-      "duration_ms": 189931,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/7cPQvg01xbNol5bxhkU5QS"
     }
   ],
   "unique_name": "Fresh Finds Africa",

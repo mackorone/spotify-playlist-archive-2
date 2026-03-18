@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 559 likes - 69 songs - 4 hr 8 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 566 likes - 72 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 67 | [VHS](https://open.spotify.com/track/55IaNinX523ef5gVySoiLS) | [The Attic](https://open.spotify.com/artist/2IDA4k7NRZOZUznK0Goimh) | [VHS](https://open.spotify.com/album/4OzI2lFutyo5Tqb1rRCXqF) | 4:04 |
 | 68 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 |
 | 69 | [All I Know](https://open.spotify.com/track/0ZjhuatJiL7b3x9bVRAVRm) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:41 |
+| 70 | [Stop the Bleed](https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1) | [Dreamer](https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU) | [Stop the Bleed](https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT) | 5:24 |
+| 71 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
+| 72 | [50/50](https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [Day Dreamer Night Thinker](https://open.spotify.com/album/3v1i2iiTOt0yptE5meyxAB) | 4:14 |
 
-Snapshot ID: `AAAC+lDK8OXLZCl/5w720nniQX6768c2`
+Snapshot ID: `AAAC/WZpRze/DX+yBNPbCT/iIG8JKZrK`

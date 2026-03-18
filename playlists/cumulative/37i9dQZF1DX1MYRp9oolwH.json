@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
+  "description": "Bringing out the best of latest love tracks\nCover : Rakasa",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -7027,6 +7027,32 @@
     },
     {
       "album": {
+        "name": "Padhe Padhe (From \"Rakasa\")",
+        "url": "https://open.spotify.com/album/1GcY14XelFN5BKA0MGvMtN"
+      },
+      "artists": [
+        {
+          "name": "Anudeep Dev",
+          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
+        },
+        {
+          "name": "Sindhuja Srinivasan",
+          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "Padhe Padhe (From \"Rakasa\")",
+      "url": "https://open.spotify.com/track/3dMlLHL3l014ENiQid13zE"
+    },
+    {
+      "album": {
         "name": "Padipoya",
         "url": "https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz"
       },
@@ -7042,7 +7068,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 176000,
       "name": "Padipoya",
       "url": "https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh"

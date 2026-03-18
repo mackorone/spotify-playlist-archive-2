@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,291 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,298 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 15 | [Patsy](https://open.spotify.com/track/0GJX7vXqS15TlMaNR2myR6) | [Rein De Vries](https://open.spotify.com/artist/6LO5LYNzTWhGB8xImFocbQ) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:54 |
 | 16 | [Verdronken Vlinder](https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:24 |
 | 17 | [Dans Je De Hele Nacht Met Mij?](https://open.spotify.com/track/5GG4cyTRpjBtl5V84c5WvG) | [Karin Kent](https://open.spotify.com/artist/5SqY8MVxydMiXggYPvPECU) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:39 |
-| 18 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
-| 19 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
+| 18 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
+| 19 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 20 | [Je Bent Niet Hip](https://open.spotify.com/track/0658jhE6xvdROR3mYKvn7P) | [Patricia Paay](https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 2:41 |
 | 21 | [Een Meisje Van Zestien](https://open.spotify.com/track/30EmdbhfuBgKd9jtQQag9r) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:59 |
 | 22 | [We Zijn Toch Op De Wereld Om Mekaar Te Helpen, Nietwaar](https://open.spotify.com/track/2GhrEcT6XFmV63N0COZB0s) | [Adele Bloemendaal](https://open.spotify.com/artist/0pNIifC8tolZOMkQi08w7L), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10), [Piet Romer](https://open.spotify.com/artist/4P4zMmwrUImvXjHD6WcdkR), [Choir](https://open.spotify.com/artist/6T1zPwkNslEt3YD1SckRd9) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:43 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 79 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 |
 | 80 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
 | 81 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 |
-| 82 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
-| 83 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
+| 82 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
+| 83 | [Wat Een Geluk](https://open.spotify.com/track/2rLSLk5ke1KlZJUAyvl5fb) | [Rudi Carrell](https://open.spotify.com/artist/52OEAGQwJplUGohcbmtAG5) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:30 |
 | 84 | [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 |
 | 85 | [Dans Nog Eenmaal Met Mij](https://open.spotify.com/track/71vNfPlAu8m3Hmg0ue91DM) | [The Fouryo's](https://open.spotify.com/artist/02QZUVfKe6DpXBTOPdAoLB) | [The Story of Volume 1](https://open.spotify.com/album/5PE0jrnXa9TA9HR96YoWGJ) | 2:39 |
 | 86 | [Giddy Up Go](https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 3:59 |

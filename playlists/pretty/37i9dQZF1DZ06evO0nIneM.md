@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,449 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,452 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 31 | [Open Je Ogen](https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6) | 4:38 |
 | 32 | [Beter](https://open.spotify.com/track/2r4z1ssYMrH8dlEyLXmpNU) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 3:36 |
 | 33 | [Bitterzoet](https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Bitterzoet](https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB) | 3:47 |
-| 34 | [Misschien Niet De Eeuwigheid](https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:04 |
-| 35 | [Hemingway](https://open.spotify.com/track/783dXZcVk8s888KgelZpWi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 3:41 |
+| 34 | [Hemingway](https://open.spotify.com/track/783dXZcVk8s888KgelZpWi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 3:41 |
+| 35 | [Misschien Niet De Eeuwigheid](https://open.spotify.com/track/2yKrrSrt9PTVqDcBCedsoD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:04 |
 | 36 | [Was Je Maar Hier](https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 6:05 |
 | 37 | [Omarm Me](https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm Me](https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h) | 3:52 |
 | 38 | [Vandaag](https://open.spotify.com/track/5wHiVi4aj4J0fO8c4xB99G) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [April](https://open.spotify.com/album/0UqJJtE2gbrSpmEJEn6ete) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Spijt Heb Je Morgen Maar \(Live op Concert at SEA 2023\)](https://open.spotify.com/track/3NuhiR3IqVg55Jw6inh2jx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Live Op Concert At Sea 2023](https://open.spotify.com/album/2o19Ls84H4haIAYaO65a1S) | 4:07 |
 | 50 | [Vallende Engel](https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Oktober](https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0) | 4:40 |
 
-Snapshot ID: `abX2gAAAAAA+VIeC1qSU83FbZlZCqbl0`
+Snapshot ID: `abdIAAAAAAALFnDa+uTKqODhHUCJ5rCl`

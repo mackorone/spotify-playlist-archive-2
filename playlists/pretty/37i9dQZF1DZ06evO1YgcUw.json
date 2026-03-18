@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 340846,
+  "num_followers": 340857,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABywOXJgJbQAPJYgXYeJfhK",
+  "snapshot_id": "abdIAAAAAABlyZt+cf2PxSQQ6RE/5ZtW",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Dance, Dance, Dance",
-      "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In California",
         "url": "https://open.spotify.com/album/2bNE80uDjuw9kqCjC6cZMR"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183866,
       "name": "The Warmth Of The Sun",
       "url": "https://open.spotify.com/track/6Xu7AtAGDsK7DSsj8Q3WyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Dance, Dance, Dance",
+      "url": "https://open.spotify.com/track/107Rm04DaGWg6GqFILZ5W5"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Gotta Groove - The Brother Studio Years (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3tag1yvfPv1X8aoa5lql1z"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 50946,
-      "name": "Clangin' - 2025 Mix",
-      "url": "https://open.spotify.com/track/4KsKWovlogjUalSzoz5mRO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Gotta Groove - The Brother Studio Years (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tag1yvfPv1X8aoa5lql1z"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 50946,
+      "name": "Clangin' - 2025 Mix",
+      "url": "https://open.spotify.com/track/4KsKWovlogjUalSzoz5mRO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2ninxvLuYGCb6H92qTaSFZ"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "Shut Down - Remastered 2001",
-      "url": "https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 128973,
       "name": "All Summer Long (Stereo)",
       "url": "https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "Shut Down - Remastered 2001",
+      "url": "https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sail On Sailor \u2013 1972 (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k"
+        "name": "The Smile Sessions",
+        "url": "https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 31296,
-      "name": "I'm The Pied Piper - A Cappella Section",
-      "url": "https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT"
+      "duration_ms": 47786,
+      "name": "Barnyard",
+      "url": "https://open.spotify.com/track/0qV9G76eiyQOUtbzem02Bp"
     }
   ],
   "unique_name": "This Is The Beach Boys",

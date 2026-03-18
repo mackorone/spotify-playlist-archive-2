@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,712 likes - 106 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,784 likes - 106 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

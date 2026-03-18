@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAD/j7SKqwzst3GiqhfBxsgo",
+  "snapshot_id": "abdIAAAAAAD96pEwN8N/aWOcdS4DOzhT",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 258480,
       "name": "Si Quieres - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": null,
@@ -908,7 +908,7 @@
       "added_at": null,
       "album": {
         "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/3XWYL4mP1CtFAiX5EwXxJL"
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 155352,
-      "name": "Coleccionando Corazones",
-      "url": "https://open.spotify.com/track/1VscAOiu0sBu2pr1Sw5i5Y"
+      "duration_ms": 148250,
+      "name": "Maldigo",
+      "url": "https://open.spotify.com/track/159jAeL5nbuA92CxxRpjYZ"
     }
   ],
   "unique_name": "This Is Carolina Ross",

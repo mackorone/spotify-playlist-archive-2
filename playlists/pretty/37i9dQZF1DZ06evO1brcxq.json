@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 219969,
+  "num_followers": 220020,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAACaGBvEratHeE0lPfZVW6xU",
+  "snapshot_id": "abdIAAAAAADQGTrRqO+T31oUGi9o5n1x",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRASH (Deluxe)",
+        "url": "https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "Sorry if I Hurt You",
+      "url": "https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 232933,
       "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
       "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH (Deluxe)",
-        "url": "https://open.spotify.com/album/3lb7EyEcWhZOK0SpZ2dNpn"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "Sorry if I Hurt You",
-      "url": "https://open.spotify.com/track/2qbgcxEMIZgyHAySxxHywc"
     },
     {
       "added_at": null,

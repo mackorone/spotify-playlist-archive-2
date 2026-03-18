@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Amabbi, YO\u00d9N",
-  "num_followers": 186162,
+  "num_followers": 186165,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,30 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "Cris\u00e1lida",
+        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "duration_ms": 134571,
+      "name": "Al\u00f4? \u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -567,6 +591,22 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
+      },
+      "artists": [
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -587,22 +627,6 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -659,50 +683,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "Sai do Meu Radar",
-        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
-      },
-      "artists": [
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Sai do Meu Radar",
-      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Modestto",
-          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
-        }
-      ],
-      "duration_ms": 134571,
-      "name": "Al\u00f4? \u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -723,18 +703,22 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+        "name": "Sai do Meu Radar",
+        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
       },
       "artists": [
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
         }
       ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
+      "duration_ms": 145078,
+      "name": "Sai do Meu Radar",
+      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -755,6 +739,22 @@
       "duration_ms": 190993,
       "name": "Jeito Certo",
       "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -819,6 +819,26 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "Cansei De Chorar Seu Nome",
         "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 224938,
       "name": "Cansei De Chorar Seu Nome",
       "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "Rel\u00edquia",
-        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        },
-        {
-          "name": "Lucas Morato",
-          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
-        }
-      ],
-      "duration_ms": 212429,
-      "name": "Volta Meu Amor",
-      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "Sem Barulho, Pt. II",
         "url": "https://open.spotify.com/album/1NQkBNd8oP0o36bd2ZoLcm"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 171408,
       "name": "Sem Barulho, Pt. II",
       "url": "https://open.spotify.com/track/3hS3E6zdujHmyskjOLClX7"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "Rel\u00edquia",
+        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        },
+        {
+          "name": "Lucas Morato",
+          "url": "https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ"
+        }
+      ],
+      "duration_ms": 212429,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1lowEujHdtYlkKJ5NWIM0t"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "Tudo Que Eu Sempre Quis",
         "url": "https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2026-03-13 03:01:13",

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-914 songs - 1 day 21 hr 37 min
+915 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [Ollaanko tämä kesä näin?](https://open.spotify.com/track/45W3OW8VgBNjb8lOpPXWeT) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Ikuiset lapset](https://open.spotify.com/album/06d2wF12THMtOee4tagK7K) | 4:17 | 2025-06-12 | 2025-08-29 |
 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 | 2025-06-26 | 2025-08-19 |
 | [Omenankukkia](https://open.spotify.com/track/1563AErGLrLPBodmEKq7WI) | [Laura Närhi](https://open.spotify.com/artist/7KHWXv1XVqqXuIZ8Ui5TDJ) | [Omenankukkia](https://open.spotify.com/album/2JiJGZZzm8gj1ub4ij1sFA) | 3:56 | 2025-04-24 | 2025-05-16 |
-| [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 | 2026-02-05 |  |
+| [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 | 2026-02-05 | 2026-03-18 |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 | 2025-12-11 |  |
 | [Onks tää vakavaa?](https://open.spotify.com/track/0X0jxZAzdCRDtPgVtMz3Ow) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Onks tää vakavaa?](https://open.spotify.com/album/7bP5f8d0pMEB3VH0RfTZqU) | 2:40 | 2025-05-15 | 2025-06-06 |
@@ -857,6 +857,7 @@
 | [Veli nojaa siskoon](https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Veli nojaa siskoon](https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP) | 2:47 | 2026-02-05 | 2026-03-07 |
 | [Velkaa](https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Velkaa](https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH) | 3:25 | 2024-07-02 | 2024-09-13 |
 | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/1JcLdVOMosBedEtjG2C4xx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/1sxFu3D0Ftmr5NPiKfVIzd) | 3:26 | 2025-04-24 | 2025-06-13 |
+| [Vesipisaroiden valssi \(feat\. KAUKUA\)](https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [22](https://open.spotify.com/album/0WlCOa1ThY86YsJWRcCfxg) | 2:54 | 2026-03-13 |  |
 | [Vie mut \(Vain elämää kausi 15\)](https://open.spotify.com/track/5wFghFP2eHApglXgFw8h6Q) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Vie mut \(Vain elämää kausi 15\)](https://open.spotify.com/album/4a4e1WIQHRaTNzM4XymUw8) | 2:28 | 2024-10-04 | 2024-10-11 |
 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 | 2024-08-01 | 2025-01-14 |
 | [Viel yhen kerran \(Vain elämää kausi 16\)](https://open.spotify.com/track/0cVHd6LshAaEtj5SsbV4OX) | [Pelle Miljoona](https://open.spotify.com/artist/7Gi708Ix6cns0SGJiZ4tvo) | [Viel yhen kerran \(Vain elämää kausi 16\)](https://open.spotify.com/album/2PkUF4tD6tYYYeC0bqr5wF) | 3:25 | 2025-10-02 | 2025-10-10 |

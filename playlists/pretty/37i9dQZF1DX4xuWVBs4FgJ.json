@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2031302,
+  "num_followers": 2031319,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 216346,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
         "name": "Fields Of Gold - The Best Of Sting 1984 - 1994",
         "url": "https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 216346,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1"
     },
     {
       "added_at": "2026-02-23 16:34:18",

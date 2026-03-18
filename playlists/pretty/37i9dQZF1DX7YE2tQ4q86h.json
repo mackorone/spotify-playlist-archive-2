@@ -1,12 +1,12 @@
 {
   "description": "The dolls return!",
-  "num_followers": 223772,
+  "num_followers": 223821,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGN/1KMMP3GrLzxoqtqMQbX24r0t",
+  "snapshot_id": "AAAAAHKoKxZkzQFWvWLEL9d9jbiss2YR",
   "tracks": [
     {
       "added_at": "2026-03-13 04:00:45",
@@ -23,6 +23,26 @@
       "duration_ms": 147706,
       "name": "Club Song",
       "url": "https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
       "added_at": "2026-03-13 04:00:45",
@@ -57,24 +77,20 @@
       "url": "https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1"
     },
     {
-      "added_at": "2026-03-06 05:00:09",
+      "added_at": "2026-03-17 18:36:23",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+        "name": "star scum city",
+        "url": "https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
         }
       ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+      "duration_ms": 201796,
+      "name": "boyfriend",
+      "url": "https://open.spotify.com/track/6QLhGHbxjHBGV5eG2ewyhO"
     },
     {
       "added_at": "2026-03-13 04:00:45",
@@ -1387,22 +1403,6 @@
       "duration_ms": 172497,
       "name": "Thrill of the Night",
       "url": "https://open.spotify.com/track/2PpHVDPumqhwDtnz1cx6bL"
-    },
-    {
-      "added_at": "2025-11-28 05:21:59",
-      "album": {
-        "name": "Spazzatura (Italo Disco)",
-        "url": "https://open.spotify.com/album/03xAD8s8jnVX4GBPzbxHhn"
-      },
-      "artists": [
-        {
-          "name": "Celia Babini",
-          "url": "https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl"
-        }
-      ],
-      "duration_ms": 169945,
-      "name": "Spazzatura (Italo Disco)",
-      "url": "https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V"
     },
     {
       "added_at": "2025-11-28 05:21:59",

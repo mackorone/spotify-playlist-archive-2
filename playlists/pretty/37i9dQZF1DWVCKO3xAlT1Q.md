@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,216,671 likes - 33 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,216,907 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 15 | [Mother Nature](https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1) | [Eva Marija](https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4) | [Mother Nature](https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq) | 2:58 |
 | 16 | [Alice \- ESC Version](https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Alice \(ESC Version\)](https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS) | 3:00 |
 | 17 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |
-| 18 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 2:58 |
+| 18 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 3:00 |
 | 19 | [Sólo Quiero Más](https://open.spotify.com/track/1av4wp2KoCwn9P151n45WV) | [Lion Ceccah](https://open.spotify.com/artist/7ivlxzVHNKJrGyuIdLWYD4) | [Sólo Quiero Más](https://open.spotify.com/album/2aW3Fg913oEVifMta2Jvpg) | 3:02 |
 | 20 | [Fire](https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Fire](https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v) | 2:57 |
 | 21 | [Just Go](https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD) | [JIVA](https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc) | [Just Go](https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc) | 3:00 |

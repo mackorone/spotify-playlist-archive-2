@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: Lapili",
+  "description": "Songs from LGBTQIA+ artists. Cover: MELOVIN",
   "name": "GLOW",
   "tracks": [
     {
@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 282453,
       "name": "birds & the bees",
       "url": "https://open.spotify.com/track/2aJtzhr5WgCoeUEHTNkA8C"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 183252,
       "name": "bullfight",
       "url": "https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU"
@@ -7910,7 +7910,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 256015,
       "name": "Eau Sal\u00e9e",
       "url": "https://open.spotify.com/track/44JotNzVMsJaqCF1hUfeAi"
@@ -9966,7 +9966,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 181766,
       "name": "Funny People",
       "url": "https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx"
@@ -17459,6 +17459,28 @@
     },
     {
       "album": {
+        "name": "Love Who You Love (SHERELLE's Intelligent Dyke Music Remix)",
+        "url": "https://open.spotify.com/album/2t51E4xDSPjQxcLz5zUgoz"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "SHERELLE",
+          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258670,
+      "name": "Love Who You Love - SHERELLE's Intelligent Dyke Music Remix",
+      "url": "https://open.spotify.com/track/6bI9h4oog6Raro2D5qEKoF"
+    },
+    {
+      "album": {
         "name": "Descendant",
         "url": "https://open.spotify.com/album/7HOSBjQWciwUIq4qrtpCC5"
       },
@@ -19409,6 +19431,28 @@
     },
     {
       "album": {
+        "name": "M\u00ecnh \u01a1i",
+        "url": "https://open.spotify.com/album/5YmXE5hdvmElyUE4VQlKzE"
+      },
+      "artists": [
+        {
+          "name": "Kai \u0110inh",
+          "url": "https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr"
+        },
+        {
+          "name": "Ninh D\u01b0\u01a1ng Story",
+          "url": "https://open.spotify.com/artist/3IAbcSXBPoZQmvzKRRf5xo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273442,
+      "name": "M\u00ecnh \u01a1i",
+      "url": "https://open.spotify.com/track/59ZkO7XkjQD8paWntzK7Kw"
+    },
+    {
+      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -20082,6 +20126,24 @@
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "album": {
+        "name": "no outline",
+        "url": "https://open.spotify.com/album/3amxeWM0ZBaydyUpFCd9Kc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231565,
+      "name": "no outline",
+      "url": "https://open.spotify.com/track/42VZ5I6wh4yuQ9YKI9ObWx"
     },
     {
       "album": {
@@ -24350,7 +24412,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 264138,
       "name": "rosie",
       "url": "https://open.spotify.com/track/7ywAHrYeNA4afPreBAGzl2"
@@ -24988,6 +25050,24 @@
       "duration_ms": 133226,
       "name": "Serial Heartbreaker",
       "url": "https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw"
+    },
+    {
+      "album": {
+        "name": "Bite My Tongue",
+        "url": "https://open.spotify.com/album/4MCmAoA5quFVoJitYFFbKX"
+      },
+      "artists": [
+        {
+          "name": "Charley",
+          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Serial Idealist",
+      "url": "https://open.spotify.com/track/5o74LxvNw1NSUcV6gUjeZY"
     },
     {
       "album": {
@@ -26074,6 +26154,24 @@
       "duration_ms": 185361,
       "name": "SO HARD TO TELL",
       "url": "https://open.spotify.com/track/6t9Z0pVZOeGnjsp5JDYGQY"
+    },
+    {
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271213,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
     },
     {
       "album": {
@@ -27720,7 +27818,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 210746,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/1SQe4tfMX6j49s8WhnyPRX"
@@ -29046,6 +29144,24 @@
       "duration_ms": 152182,
       "name": "Trainwreck",
       "url": "https://open.spotify.com/track/7JB6QakLsBYIFJygBj3Gw9"
+    },
+    {
+      "album": {
+        "name": "trans",
+        "url": "https://open.spotify.com/album/2My7DpxvPT6RsDfNBZ4hpZ"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139086,
+      "name": "trans",
+      "url": "https://open.spotify.com/track/5jaTv4vXs6Bkx6i842hkOg"
     },
     {
       "album": {
@@ -30848,7 +30964,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 168393,
       "name": "Whats Next",
       "url": "https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN"
@@ -31040,6 +31156,24 @@
       "duration_ms": 190666,
       "name": "Why Not",
       "url": "https://open.spotify.com/track/2XWnVSt3gC2WmmwqBdshEk"
+    },
+    {
+      "album": {
+        "name": "Vol. 2 If You Don't Laugh, You'll Cry",
+        "url": "https://open.spotify.com/album/7N14Rkinb2eJlvV2URn46A"
+      },
+      "artists": [
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159095,
+      "name": "WHY SO SENSITIVE?",
+      "url": "https://open.spotify.com/track/03wFiQ9QKoTtmAgQ2tNsQx"
     },
     {
       "album": {
@@ -31784,6 +31918,24 @@
       "duration_ms": 229341,
       "name": "You're The One - Spotify Singles",
       "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+    },
+    {
+      "album": {
+        "name": "You're The Piece of Shit",
+        "url": "https://open.spotify.com/album/6euOYJ5SM0mIrcOSnm6XbF"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "You're The Piece of Shit",
+      "url": "https://open.spotify.com/track/6gZYjnQfcWqESFFmbTFNnd"
     },
     {
       "album": {

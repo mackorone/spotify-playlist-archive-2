@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 29 | [maybe it's time](https://open.spotify.com/track/0soVtqtaQyCSmCqJWtUE9G) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [sp](https://open.spotify.com/artist/2DruUsLkZaB7ZT5lMKeSr8) | [maybe it's time](https://open.spotify.com/album/7KqJuNVj7FEGiJcEHGml06) | 3:08 |
 | 30 | [Farafina Mousso \- Acoustic Version](https://open.spotify.com/track/6LAbTHx8i3I8F31VLX7LR1) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Farafina Mousso \(Acoustic Version\)](https://open.spotify.com/album/5phjIgyecPvk66vUx40tx8) | 2:21 |
 | 31 | [Come Back](https://open.spotify.com/track/3hEyMBtAB8RQ3PKhKR0ECW) | [Josh Klynsmith](https://open.spotify.com/artist/6PcQovCjGnPEKrAwcbUf0b) | [Come Back](https://open.spotify.com/album/2oGGX3I53HIRIQ9gxKeLIS) | 4:03 |
-| 32 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
+| 32 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
 | 33 | [Love on the Margins](https://open.spotify.com/track/5ZC8920EZvysRCUrht1hiY) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Love on the Margins](https://open.spotify.com/album/0J05NVYzVsN0F0Dr1KEn1d) | 3:07 |
-| 34 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 |
+| 34 | [Broken Heart](https://open.spotify.com/track/48MSexB0mV4AG0mG3Em3xX) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Broken Heart](https://open.spotify.com/album/48aSryXOCcT0AOqTJyoa8Y) | 2:48 |
 | 35 | [Rum & Coke](https://open.spotify.com/track/1ci2fVXk5pSr7B9bgsRLrr) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Rum & Coke](https://open.spotify.com/album/2jZzlxdSBzKwgtjUn3l3Qu) | 3:02 |
 | 36 | [something new](https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [something new](https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0) | 2:05 |
 | 37 | [STILL FEEL LIKE A CHILD](https://open.spotify.com/track/5mTsYMUOijXjPLazzXyVBD) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [STILL FEEL LIKE A CHILD](https://open.spotify.com/album/1G09jPWbVdXohc46M0UZkd) | 3:15 |
-| 38 | [Sorry Like You Mean It](https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 3:29 |
+| 38 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
 | 39 | [Lonely, Lonely](https://open.spotify.com/track/7mKAUad3IQ6x6Fkf6RMh1L) | [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP) | [Lonely, Lonely](https://open.spotify.com/album/1WtjMgT2cWtidpGuLYuKnw) | 2:12 |
-| 40 | [Afro G Western](https://open.spotify.com/track/5R4DPXz4KnCyJXYuMJNd23) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Afro G Western](https://open.spotify.com/album/1Wq4oDNU0UB0C3HhknCAOZ) | 3:43 |
+| 40 | [Sorry Like You Mean It](https://open.spotify.com/track/6f9QDh2uAINwIXTfmoCO1v) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sorry Like You Mean It](https://open.spotify.com/album/34eHflHLhK2wTKYZUlgSA0) | 3:29 |
 | 41 | [Ordinary](https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU), [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Ordinary](https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV) | 2:46 |
-| 42 | [Weight Off My Shoulders](https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Weight Off My Shoulders](https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v) | 2:47 |
+| 42 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
 | 43 | [Charmeur à Gage Mission Ines](https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8) | [Hen's](https://open.spotify.com/artist/1fDdKygXaQ6LMEYTZPb1P4) | [Charmeur à Gage Mission Ines](https://open.spotify.com/album/4QHzgZ1X7pIdzCXayYU8UK) | 3:04 |
-| 44 | [Mighty](https://open.spotify.com/track/4JWHESzS2UmPYaOIDSFQ6K) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Mighty](https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3) | 3:53 |
+| 44 | [Weight Off My Shoulders](https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Weight Off My Shoulders](https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v) | 2:47 |
 | 45 | [Storming](https://open.spotify.com/track/2kHWZ55u63UTATYtU2vtJq) | [Robbie Perrott](https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K) | [Ramble Moon](https://open.spotify.com/album/1DS0D7z73MmwqKJxiXsYd0) | 3:33 |
 | 46 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
 | 47 | [Glimmer](https://open.spotify.com/track/4kHcI3XNsXJFGufUTTILvQ) | [Jade Olivia](https://open.spotify.com/artist/3MT3DL78VvKp2bg8eRRIej) | [Glimmer](https://open.spotify.com/album/5ECkpEj7EWC4x24qUBBPFZ) | 3:28 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 74 | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/track/0ZXbCEygGWkT2UGDqGgiV2) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Gatekeepers \(feat\. Pa Salieu\)](https://open.spotify.com/album/4y3fj7IPS9d5lWuKxDcI2f) | 2:50 |
 | 75 | [Djanfa Di](https://open.spotify.com/track/4FcHp8FUkrAwUehLBKM6si) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [So Kono \(Extended Version\)](https://open.spotify.com/album/7H0azVDfGx3TOoXptx5jEH) | 3:41 |
 | 76 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
-| 77 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
-| 78 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
-| 79 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
-| 80 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
+| 77 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
+| 78 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
+| 79 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
+| 80 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 
 Snapshot ID: `AAAAAKQxIXcN+Kxj459zt3VwxRjOiJ0t`

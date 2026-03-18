@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs \(updated "bi"weekly\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> What a two weeks this has been and why is there a triple song in the top 100!? Just adding Were Are and Is as it&\#x27;s the least popular\. Thanks Unwound 💖
+> transdermal is 69th place\. that is so nice.
 
 107 songs - 13 hr 41 min
 

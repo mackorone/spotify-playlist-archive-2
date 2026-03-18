@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-1,010 songs - 2 day 0 hr 20 min
+1,012 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Continual](https://open.spotify.com/track/2kTefS4HKaVn1URttI7UyG) | [Garcíia](https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM) | [Continual](https://open.spotify.com/album/7temH4aZVIMHdoQ6H3HhJd) | 2:57 | 2024-07-09 | 2025-03-17 |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2023-03-23 | 2024-01-18 |
 | [Copenhagen Nights](https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi) | [Orion's Passage](https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf) | [Copenhagen Nights](https://open.spotify.com/album/1gSyYUOnIrNySrd8JkDrQB) | 3:00 | 2024-12-17 | 2025-11-16 |
-| [Core Equanimity](https://open.spotify.com/track/3qZBuHYRR9V9PYY1cBjrcX) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Core Equanimity](https://open.spotify.com/album/6b6r1XU6Z0oQGTckm7Stbt) | 2:50 | 2025-02-26 |  |
+| [Core Equanimity](https://open.spotify.com/track/3qZBuHYRR9V9PYY1cBjrcX) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Core Equanimity](https://open.spotify.com/album/6b6r1XU6Z0oQGTckm7Stbt) | 2:50 | 2025-02-26 | 2026-03-18 |
 | [Corinth](https://open.spotify.com/track/2Wp3KjW9cgpy6Ij1miIfvt) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Corinth](https://open.spotify.com/album/5i6honu4FAEKIvbGYnVjW1) | 2:46 | 2024-05-20 | 2024-11-07 |
 | [Cosmic Balance](https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Cosmic Balance](https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx) | 3:01 | 2024-08-30 | 2025-01-09 |
 | [Cosmic Cascade](https://open.spotify.com/track/2jdMMPWv4rsspn5XKcN6tC) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Cosmic Cascade](https://open.spotify.com/album/7KuuTbkhUXUNSgU0JY9OXg) | 2:53 | 2025-03-05 | 2025-05-31 |
@@ -339,6 +339,7 @@
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2023-03-23 | 2024-01-18 |
 | [Evergreen](https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Evergreen](https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT) | 2:57 | 2025-01-22 | 2025-11-15 |
 | [Everything is Different](https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO) | [Nadia Pugh](https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6) | [Everything is Different](https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX) | 3:06 | 2023-03-23 | 2024-02-09 |
+| [Everywhen](https://open.spotify.com/track/3IhFwBDWsq2TEekuhzDTKS) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Everywhen](https://open.spotify.com/album/3LO9SlJAUHWQ2EuaA7sdRQ) | 2:34 | 2026-03-11 |  |
 | [Existing](https://open.spotify.com/track/74uFbc3D8QpxBn5CObGShi) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Existing](https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq) | 2:48 | 2024-06-18 | 2025-01-27 |
 | [Expand](https://open.spotify.com/track/1jNIpsh1YfqUWNYmn6ajio) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Expand](https://open.spotify.com/album/24ILC50IPCP0rTdG8p5PLH) | 3:02 | 2024-03-06 | 2024-03-21 |
 | [Expectancy](https://open.spotify.com/track/13c21xph1VSr6Nxc5JSMeP) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Expectancy](https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn) | 2:51 | 2024-07-09 | 2025-05-02 |
@@ -457,6 +458,7 @@
 | [Infinitya](https://open.spotify.com/track/3u5XjYs1nfWW53voU5mxpx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Infinitya](https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn) | 2:31 | 2024-05-04 | 2025-03-02 |
 | [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 | 2025-05-29 |
 | [Ink](https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q) | [Divijata Ash](https://open.spotify.com/artist/5CRHdG2bIiKcAsRwAmJqwg) | [Ink](https://open.spotify.com/album/4HV2Fmobr0NiMNuQfLtJFk) | 3:01 | 2024-05-04 | 2025-03-03 |
+| [Inner Balance](https://open.spotify.com/track/40dtNRCrfk6j5a75E4hrbU) | [Hazel Day](https://open.spotify.com/artist/4UwrBrYrSp2qXLwXWGc57Q) | [Inner Balance](https://open.spotify.com/album/1G66kAFZkJBHgmPMsNuGWg) | 2:26 | 2026-03-11 |  |
 | [Inner Guidance](https://open.spotify.com/track/7fhxsFzVhoznTnK7UlbnLv) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Inner Guidance](https://open.spotify.com/album/5dYYm6NNZ5aM8Nxf5Djy29) | 4:01 | 2024-01-17 | 2024-03-21 |
 | [Inner Peace](https://open.spotify.com/track/1a1WigZxBQWaKdqBfGHJLX) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Inner Peace](https://open.spotify.com/album/369TKysbFo2IGmw2ntwIGI) | 2:52 | 2025-11-12 |  |
 | [Inner Realm](https://open.spotify.com/track/28k1LumefEFmrUKTRaakIO) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Inner Realm](https://open.spotify.com/album/6D0Gk54OLdjSPcJucPYJ0s) | 3:23 | 2025-02-04 | 2025-07-24 |
@@ -932,7 +934,7 @@
 | [Timeless Glow](https://open.spotify.com/track/1PtbVTP8BooABy9eQ0wymQ) | [Gjenklang](https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23) | [Timeless Glow](https://open.spotify.com/album/5XA7ddkuhLXLq0mxjh8cx4) | 3:32 | 2025-02-14 | 2025-05-26 |
 | [Tiniebla](https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo) | [Pearl Melendez](https://open.spotify.com/artist/6UGfKivLtHEJnrNdPcZHZh) | [Tiniebla](https://open.spotify.com/album/658s4v4gvYkydLyeuaMhsd) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [tint](https://open.spotify.com/track/7suP8ED5szP300Am4HRERx) | [austice](https://open.spotify.com/artist/1iZ4k3yVszfq6m6vw1AQ5L) | [tint](https://open.spotify.com/album/0oNtp7nSYVgQUttDu2jCpk) | 2:56 | 2025-09-23 | 2026-03-12 |
-| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 |  |
+| [Tomorrow](https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Tomorrow](https://open.spotify.com/album/5XpHFAttu9ZYiC0SUvdWG2) | 3:07 | 2025-09-23 | 2026-03-18 |
 | [Torus](https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7) | [Vestigency](https://open.spotify.com/artist/7u5l7mW9E5nAgwRI2MnPZq) | [Torus](https://open.spotify.com/album/2Od6vhfJEKxqpvVP74frqH) | 2:32 | 2026-01-27 |  |
 | [Touches](https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Touches](https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP) | 2:24 | 2024-02-08 | 2024-07-16 |
 | [Tout Autour De Nous](https://open.spotify.com/track/0qAFa5xFjEyky6mCW2WTXT) | [Iris Guilbert](https://open.spotify.com/artist/6YR85wKc8XLYVhRaFA2ql8) | [Tout Autour De Nous](https://open.spotify.com/album/0dJGlhXqFX9sftgM17o2Xh) | 3:08 | 2023-03-23 | 2024-03-21 |

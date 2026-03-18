@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Dominas",
+        "url": "https://open.spotify.com/album/3JSRyZFEnCGie7eZDWey9K"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202185,
+      "name": "Dominas",
+      "url": "https://open.spotify.com/track/6Ip8plkLt3sR5zaA1LLzgA"
+    },
+    {
+      "album": {
         "name": "Duramos M\u00e1s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -2052,7 +2070,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 177771,
       "name": "S.O.S.",
       "url": "https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K"

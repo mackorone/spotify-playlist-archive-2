@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Aldo Trujillo en cover.",
-  "num_followers": 821880,
+  "num_followers": 821926,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 215945,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Hombre Afortunado",
-        "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "Qui\u00e9n Te Entiende",
-      "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Las Pacas",
         "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 281518,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Hombre Afortunado",
+        "url": "https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Qui\u00e9n Te Entiende",
+      "url": "https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "CUANDO SE ACABE EL TIEMPO",
-        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 212678,
-      "name": "CUANDO SE ACABE EL TIEMPO",
-      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "CLEOPATRA",
         "url": "https://open.spotify.com/album/7IVyty5qUN7VNaKAfujYag"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 205141,
       "name": "CLEOPATRA",
       "url": "https://open.spotify.com/track/4qwBnsVfknRk1wyvPVu5py"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "CUANDO SE ACABE EL TIEMPO",
+        "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "CUANDO SE ACABE EL TIEMPO",
+      "url": "https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Cielo Eterno - Spotify Singles",
         "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 173000,
       "name": "Cuando La Vida Sea Trago",
       "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "SOY GRACIAS A DIOS",
-        "url": "https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "SOY GRACIAS A DIOS",
-      "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Brindo",
         "url": "https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 187440,
       "name": "Si Tu Te Fueras De Mi",
       "url": "https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "SOY GRACIAS A DIOS",
+        "url": "https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "SOY GRACIAS A DIOS",
+      "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
+        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 223125,
+      "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
+      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
-        "url": "https://open.spotify.com/album/1voHWj6Rv8pXCwjmcQ0aTn"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 223125,
-      "name": "CADA D\u00cdA TE QUIERO M\u00c1S",
-      "url": "https://open.spotify.com/track/3x7uJYGhVAV5KkNqwbMA9L"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "GXLE 3",
-        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "GPI",
         "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 154632,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "GXLE 3",
+        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1911,6 +1911,26 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Tan Solo Morro",
+        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Tan Solo Morro",
+      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Tan Solo Morro",
-        "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Tan Solo Morro",
-      "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "Volver\u00e9",
-        "url": "https://open.spotify.com/album/2pA8lJXmalKRH4oEwUdqTr"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/4vY0SZVKNBwgoTq1T26JhC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Casi Algo",
         "url": "https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 213875,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Volver\u00e9",
+        "url": "https://open.spotify.com/album/2pA8lJXmalKRH4oEwUdqTr"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/4vY0SZVKNBwgoTq1T26JhC"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -2075,6 +2075,22 @@
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/5hMXEiyUTFXqlK5VdSb21l"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 125490,
+      "name": "Ebrio de Amor",
+      "url": "https://open.spotify.com/track/63hJExblfUaDnJMZpRGhto"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -2107,22 +2123,6 @@
       "duration_ms": 181818,
       "name": "Bien Vividos",
       "url": "https://open.spotify.com/track/4U6nW9cAxjgYRdV2szOeLA"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/5hMXEiyUTFXqlK5VdSb21l"
-      },
-      "artists": [
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
-        }
-      ],
-      "duration_ms": 125490,
-      "name": "Ebrio de Amor",
-      "url": "https://open.spotify.com/track/63hJExblfUaDnJMZpRGhto"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "vete de una vez",
+        "url": "https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 220201,
+      "name": "vete de una vez",
+      "url": "https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Te Vi Con \u00c9l",
         "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 218709,
       "name": "Vete",
       "url": "https://open.spotify.com/track/0PphCpk9pbs0KDiEGJ2UwQ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "vete de una vez",
-        "url": "https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2"
-      },
-      "artists": [
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "vete de una vez",
-      "url": "https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl"
     },
     {
       "added_at": "2026-02-13 05:00:40",

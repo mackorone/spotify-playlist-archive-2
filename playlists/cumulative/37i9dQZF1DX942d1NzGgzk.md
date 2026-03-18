@@ -4,7 +4,7 @@
 
 > The latest of R&B rising in the UK\. Cover: Nia Smith, Destin Conrad
 
-571 songs - 1 day 5 hr 39 min
+572 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Better On My Own](https://open.spotify.com/track/1dRiTUbseehXIvzipgdKLp) | [Abbie Piper](https://open.spotify.com/artist/3N9FuCdd029V1YTentbJTO) | [Better On My Own](https://open.spotify.com/album/0g79ybmFXUTYWwbApJ33TL) | 2:39 | 2025-12-10 |  |
 | [BETTER THAN THAT](https://open.spotify.com/track/5g0eR1a8APtcRfU8CkHBfj) | [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [BETTER THAN THAT](https://open.spotify.com/album/4sJxxp8qmv4J0w8tqrJfn1) | 2:12 | 2025-07-24 | 2025-09-19 |
 | [Big Collide](https://open.spotify.com/track/0OApGA4gD4HZP5blgkLha4) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 1](https://open.spotify.com/album/0sIY0aZtq6kG6QJW6rL4Sg) | 3:14 | 2024-01-26 | 2024-02-17 |
-| [Bittersweet](https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Bittersweet](https://open.spotify.com/album/2CpO7mfSFWxw1CxoQRoDSF) | 4:01 | 2025-07-24 |  |
+| [Bittersweet](https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Bittersweet](https://open.spotify.com/album/2CpO7mfSFWxw1CxoQRoDSF) | 4:01 | 2025-07-24 | 2026-03-18 |
 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 | 2024-12-13 | 2025-07-25 |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2022-07-17 | 2024-04-19 |
 | [Bonjour](https://open.spotify.com/track/0KAGwhaTafxQHXYHrw7dIl) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Bonjour](https://open.spotify.com/album/6F8CRhHrrExSCk9ZZLxo4B) | 2:38 | 2025-07-10 | 2026-02-13 |
@@ -96,6 +96,7 @@
 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 | 2024-08-23 | 2024-10-10 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-05-15 | 2024-08-06 |
 | [CHOOSE YOUR PLAYA](https://open.spotify.com/track/4FcuUAbRwQPnwp2bCnrehM) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [LONDON, WHEN ARE U GONNA FEEL LIKE HOME?](https://open.spotify.com/album/22jYWWOuUDaJEoz1BH3Shy) | 3:14 | 2025-09-18 | 2026-03-06 |
+| [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 | 2026-03-17 |  |
 | [Class A](https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Symptoms of Me](https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs) | 2:29 | 2025-09-18 |  |
 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 | 2024-11-22 | 2025-06-27 |
 | [Closer](https://open.spotify.com/track/0gZkwRjMYBtyWzo6Kx7Efn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:34 | 2022-07-17 | 2023-04-29 |

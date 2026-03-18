@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXn5EPZUBfjn.md) - [plain]
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,406 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,439 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,944 likes - 76 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,977 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [Con La Misma Piedra](https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Con La Misma Piedra](https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA) | 2:55 |
 | 13 | [Ya No](https://open.spotify.com/track/2Bh6Yhxs10L9LAa0zoGckk) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Ya No](https://open.spotify.com/album/3HQrm9m7IcUrp62FX6fLhs) | 3:40 |
 | 14 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
-| 15 | [Angel o Demonio \(feat\. LUISITO MUÑOZ\) \- Remix](https://open.spotify.com/track/67RTogtZjXsIzV6MmZKURw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Angel o Demonio \(feat\. LUISITO MUÑOZ\) \[Remix\]](https://open.spotify.com/album/5dvCKHPZjSkxTyvImCW1Bd) | 3:22 |
+| 15 | [Angel o Demonio \- Remix](https://open.spotify.com/track/67RTogtZjXsIzV6MmZKURw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Angel o Demonio \(Remix\)](https://open.spotify.com/album/5dvCKHPZjSkxTyvImCW1Bd) | 3:22 |
 | 16 | [Boomerang](https://open.spotify.com/track/6oxQmC3ERP7opliIZAS5fF) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Boomerang](https://open.spotify.com/album/6H8rcTgZWzToKfbmfvs8O5) | 3:04 |
 | 17 | [Bajo El Agua](https://open.spotify.com/track/45yLFtWtPQitwIQj7OYhpb) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Bajo El Agua](https://open.spotify.com/album/04n7T8SpSQ39iTL684QDFI) | 3:03 |
 | 18 | [Seriecito Me Ven](https://open.spotify.com/track/3Gcg3lYbwSGgrY0Ue1Gx5H) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [Seriecito Me Ven](https://open.spotify.com/album/1lZV3Xr8soijs3xrSeeuQR) | 4:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 232 songs - 21 hr 55 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 233 songs - 22 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,5 +240,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 230 | [Lately \- Enamour Remix](https://open.spotify.com/track/1epW8YONDcgYdExSr1Ha6k) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 4:22 |
 | 231 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 |
 | 232 | [Momentum](https://open.spotify.com/track/0d5MXy7xzpDcefjJjG2ru7) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH), [Lilly BG](https://open.spotify.com/artist/7bCmyVBrPJmOHKQeSO32Wa) | [Lebendig](https://open.spotify.com/album/7EkFA36dJZBWcTtyqAuj2D) | 4:03 |
+| 233 | [Next to Me \- Vintage Culture Remix](https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Next to Me \(Remixes\)](https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9) | 6:22 |
 
-Snapshot ID: `AAABNdX31+IFL3TxCLMsaT1BBRX5oRFd`
+Snapshot ID: `AAABNkZTZ0pPjtkecnCtymNWJAGuZ3jR`

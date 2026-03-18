@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,810 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,838 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 48 | [En Silencio Siempre Te Amaré](https://open.spotify.com/track/6j9HVsZ8TgWFPUTbszqWGt) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [El Combo De Las Estrellas](https://open.spotify.com/artist/3a1bkJS7AQnJ8KGvf9hFiN) | [En Silencio Siempre Te Amaré](https://open.spotify.com/album/6hpVibC7UeDrpvIvCdyEiR) | 3:05 |
 | 49 | [Llegué Yo](https://open.spotify.com/track/2V2STQEl7NtuRCSvxQeNgE) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Llegué Yo](https://open.spotify.com/album/3bBNSmKEbhYd2NuWo5WvZc) | 3:46 |
 
-Snapshot ID: `AAAAAD2JQWCvRFXGVOhP646XftGFDI5F`
+Snapshot ID: `AAAAAFP7QOraOFpH5YH6LN7iTVxv+4oz`

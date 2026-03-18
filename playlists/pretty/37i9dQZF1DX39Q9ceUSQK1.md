@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative & rock releases\. Cover: Twenty One Pilots
+> Nieuwe alternative & rock releases\. Cover: SONS
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,442 likes - 105 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,445 likes - 105 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 104 | [How Does It Feel?](https://open.spotify.com/track/31xZUmO07AsiEtoZpy51vL) | [Lézard](https://open.spotify.com/artist/71OpeN8Riy5gGtmqlSYfVH) | [How Does It Feel?](https://open.spotify.com/album/5XJXZGwqePhhgejjtjat4x) | 3:29 |
 | 105 | [Balconies](https://open.spotify.com/track/5EgkIdRkE3qQli88Ti4AXN) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Balconies](https://open.spotify.com/album/3HkSEqrXgm2luhz2xLZvRO) | 4:31 |
 
-Snapshot ID: `AAAAAN2+V++1Ii9wDLFh4Qv0ZGkqv0Fo`
+Snapshot ID: `AAAAAG0hhpBrjdZb1mJSrcoYB1Yd9eFu`

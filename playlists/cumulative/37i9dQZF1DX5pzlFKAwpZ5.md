@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-375 songs - 1 day 3 hr 19 min
+376 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 | 2023-08-24 |  |
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 | 2025-01-25 |
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 | 2024-04-19 |
+| [drizzle](https://open.spotify.com/track/7uMejNc2Z9zbLQtDjBiaJc) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [drizzle](https://open.spotify.com/album/1HhtP45ahsxWLgOVO56VaJ) | 1:13 | 2026-03-09 |  |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-12-30 | 2025-03-07 |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 | 2025-06-13 |
 | [ease](https://open.spotify.com/track/06pU69J6u4taE4LK9ku2vb) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [ease](https://open.spotify.com/album/2SIYEfjIPKkJ2NnfJg8ARL) | 2:50 | 2024-03-07 |  |
@@ -142,7 +143,7 @@
 | [I Follow a Barren Path Across the Old Mountain](https://open.spotify.com/track/5HjWFzDitkQMH7MLg1YAut) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV), [The Humble Bee](https://open.spotify.com/artist/5GicejpdrZmfWfpDJE4XRT) | [I Follow a Barren Path Across the Old Mountain](https://open.spotify.com/album/5hS7idTRSq4lzWvAzL2OWf) | 5:48 | 2026-01-31 |  |
 | [Ice Copy](https://open.spotify.com/track/4YleYbTBE8XmKs5fhuu06c) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 2:55 | 2022-12-30 | 2025-03-20 |
 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 | 2022-01-07 |  |
-| [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 |  |
+| [In The Forest of Syrinx](https://open.spotify.com/track/7MsE9rH9EZH8AlocDpHQ0N) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Onnen Bock](https://open.spotify.com/artist/5asDcrPfBpJDJNe1ocbjdf), [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [MOON GARDEN](https://open.spotify.com/album/0j6HWiO4nQi5vR866jGjk5) | 9:30 | 2025-02-09 | 2026-03-18 |
 | [In the Wind \- Moshimoss Rework](https://open.spotify.com/track/1UVQ4KZFm95FEjzgwZaQ6K) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Moshimoss](https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme) | [In the Wind \(Moshimoss Rework\)](https://open.spotify.com/album/1bf1hHXUcWG0jYe6Xzli1u) | 6:58 | 2022-12-20 |  |
 | [Inertia](https://open.spotify.com/track/1cFOb7A2b3o5TnGsx3lG23) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Inertia](https://open.spotify.com/album/2PWZDzv9Z2Sp58ISvcvbXm) | 2:48 | 2025-03-21 |  |
 | [Infinitesimal](https://open.spotify.com/track/7eky2y76qSmzSBvCmguJ7h) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Infinitesimal](https://open.spotify.com/album/5HRjh0Oh2GDYaPaDbk5yFJ) | 3:12 | 2022-12-30 | 2023-08-19 |

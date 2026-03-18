@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: YC",
-  "num_followers": 119592,
+  "num_followers": 119619,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-03-13 01:10:36",
       "album": {
+        "name": "Ex's Hate Me",
+        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        },
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "duration_ms": 258023,
+      "name": "Ex's Hate Me",
+      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
+    },
+    {
+      "added_at": "2026-03-13 01:10:36",
+      "album": {
         "name": "NG\u1ef0A \u00d4",
         "url": "https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
-    },
-    {
-      "added_at": "2026-03-13 01:10:36",
-      "album": {
-        "name": "Ex's Hate Me",
-        "url": "https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm"
-      },
-      "artists": [
-        {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-        },
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        }
-      ],
-      "duration_ms": 258023,
-      "name": "Ex's Hate Me",
-      "url": "https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC"
     },
     {
       "added_at": "2026-03-13 01:10:36",
@@ -415,30 +415,6 @@
     {
       "added_at": "2026-03-13 01:10:36",
       "album": {
-        "name": "\u0110O\u00c1 HOA",
-        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
-      },
-      "artists": [
-        {
-          "name": "TeuYungBoy",
-          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
-        },
-        {
-          "name": "BIG WIND",
-          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 158987,
-      "name": "\u0110O\u00c1 HOA",
-      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
-    },
-    {
-      "added_at": "2026-03-13 01:10:36",
-      "album": {
         "name": "B\u01b0\u1edbc Za \u0110i Xa",
         "url": "https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 168774,
       "name": "B\u01b0\u1edbc Za \u0110i Xa",
       "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
+    },
+    {
+      "added_at": "2026-03-13 01:10:36",
+      "album": {
+        "name": "\u0110O\u00c1 HOA",
+        "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
+      },
+      "artists": [
+        {
+          "name": "TeuYungBoy",
+          "url": "https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU"
+        },
+        {
+          "name": "BIG WIND",
+          "url": "https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 158987,
+      "name": "\u0110O\u00c1 HOA",
+      "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
     },
     {
       "added_at": "2026-03-13 01:10:36",
@@ -519,6 +519,26 @@
     {
       "added_at": "2026-03-13 01:10:36",
       "album": {
+        "name": "THE WXRDIES",
+        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
+      },
+      "artists": [
+        {
+          "name": "Wxrdie",
+          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
+        },
+        {
+          "name": "Mcee Blue",
+          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "M\u1eddi Em",
+      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
+    },
+    {
+      "added_at": "2026-03-13 01:10:36",
+      "album": {
         "name": "Em iu",
         "url": "https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 176000,
       "name": "Em iu",
       "url": "https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg"
-    },
-    {
-      "added_at": "2026-03-13 01:10:36",
-      "album": {
-        "name": "THE WXRDIES",
-        "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
-      },
-      "artists": [
-        {
-          "name": "Wxrdie",
-          "url": "https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw"
-        },
-        {
-          "name": "Mcee Blue",
-          "url": "https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk"
-        }
-      ],
-      "duration_ms": 203687,
-      "name": "M\u1eddi Em",
-      "url": "https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6"
     },
     {
       "added_at": "2026-03-13 01:10:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-03-13 01:10:36",
       "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
-    },
-    {
-      "added_at": "2026-03-13 01:10:36",
-      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 279605,
       "name": "Tim Anh Ghen",
       "url": "https://open.spotify.com/track/3rtOU0GwlsbCNiCqEDLZUN"
+    },
+    {
+      "added_at": "2026-03-13 01:10:36",
+      "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2026-03-13 01:10:36",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-03-13 01:10:36",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
-      },
-      "artists": [
-        {
-          "name": "Richie D. ICY",
-          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
-        },
-        {
-          "name": "Obito",
-          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-        }
-      ],
-      "duration_ms": 205232,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
-    },
-    {
-      "added_at": "2026-03-13 01:10:36",
-      "album": {
         "name": "TETVOVEN",
         "url": "https://open.spotify.com/album/3jwSlUKUdfxcIuy3b2SCxc"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 197230,
       "name": "TETVOVEN",
       "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+    },
+    {
+      "added_at": "2026-03-13 01:10:36",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3Qsp8mywrgRP9hZ9cHe0xH"
+      },
+      "artists": [
+        {
+          "name": "Richie D. ICY",
+          "url": "https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
+        }
+      ],
+      "duration_ms": 205232,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
     },
     {
       "added_at": "2026-03-13 01:10:36",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-03-13 01:10:36",
       "album": {
-        "name": "TO LOVE AND BE LOVED",
-        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
-      },
-      "artists": [
-        {
-          "name": "Winno",
-          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
-        },
-        {
-          "name": "SpideyBoy",
-          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
-        }
-      ],
-      "duration_ms": 224918,
-      "name": "H\u1ed3ng kh\u00f4ng gai",
-      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
-    },
-    {
-      "added_at": "2026-03-13 01:10:36",
-      "album": {
         "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
         "url": "https://open.spotify.com/album/3INCvyLfaoojlTWtSLMHDa"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 210944,
       "name": "D\u00e2n Ch\u01a1i Sao Ph\u1ea3i Kh\u00f3c",
       "url": "https://open.spotify.com/track/0dBKcPEAsdxWJsqNDNHcPz"
+    },
+    {
+      "added_at": "2026-03-13 01:10:36",
+      "album": {
+        "name": "TO LOVE AND BE LOVED",
+        "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
+      },
+      "artists": [
+        {
+          "name": "Winno",
+          "url": "https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB"
+        },
+        {
+          "name": "SpideyBoy",
+          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
+        }
+      ],
+      "duration_ms": 224918,
+      "name": "H\u1ed3ng kh\u00f4ng gai",
+      "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
     },
     {
       "added_at": "2026-03-13 01:10:36",

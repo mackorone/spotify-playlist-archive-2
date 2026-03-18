@@ -3190,12 +3190,12 @@
       },
       "artists": [
         {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        },
-        {
           "name": "Francis Mercier",
           "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
         }
       ],
       "date_added": "2026-03-09",

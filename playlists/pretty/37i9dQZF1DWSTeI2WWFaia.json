@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Curren$y, The Alchemist & Larry June",
-  "num_followers": 1569591,
+  "num_followers": 1569543,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-03-13 04:00:47",
       "album": {
-        "name": "what will they say",
-        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 157591,
-      "name": "what will they say",
-      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
-    },
-    {
-      "added_at": "2026-03-13 04:00:47",
-      "album": {
         "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 224639,
       "name": "Die Together",
       "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "added_at": "2026-03-13 04:00:47",
+      "album": {
+        "name": "what will they say",
+        "url": "https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 157591,
+      "name": "what will they say",
+      "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
     },
     {
       "added_at": "2026-03-13 04:00:47",

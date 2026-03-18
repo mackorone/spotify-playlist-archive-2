@@ -4,7 +4,7 @@
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-352 songs - 16 hr 0 min
+353 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 | 2022-04-21 | 2025-08-01 |
 | [Dimmi Tu \(feat\. Deddè\)](https://open.spotify.com/track/4uLrV20h01XXRbfCy2W3J9) | [GIANIUC](https://open.spotify.com/artist/2hWvuCfrl1ejW35I5AJAFp), [Deddè](https://open.spotify.com/artist/2OmKywuhryo2wruvLjcocI) | [Dimmi Tu \(feat\. Deddè\)](https://open.spotify.com/album/1V05B5zVDiMW7O7Zsh2uCu) | 2:43 | 2022-06-09 | 2023-03-25 |
 | [DIQQUA \(feat\. Zyrtck\)](https://open.spotify.com/track/2FUql0ZFEn0BGnlfr9nJcw) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [DIQQUA \(feat\. Zyrtck\)](https://open.spotify.com/album/6hmbU0Ohx9kjzBE2soOViQ) | 2:36 | 2022-04-21 | 2023-03-25 |
-| [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 | 2025-10-09 |  |
+| [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 | 2025-10-09 | 2026-03-18 |
 | [DOVE SEI](https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB) | [Faster](https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd), [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga) | [ONIRO](https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x) | 2:54 | 2022-04-21 | 2025-04-15 |
 | [Dove sei ?](https://open.spotify.com/track/11aVApC8Eczp21UwsXDcUk) | [Due G](https://open.spotify.com/artist/7ICNoOv4dBRG72UaFP5Aba) | [Dove sei ?](https://open.spotify.com/album/5BChip79LQVg2Obu1jNefc) | 1:57 | 2022-05-24 | 2022-12-15 |
 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 | 2022-04-21 |  |
@@ -233,6 +233,7 @@
 | [Palude 4](https://open.spotify.com/track/0QKWZgWId3t9aZpcgA3Qr1) | [Blue Virus](https://open.spotify.com/artist/7H9TcusDoz60eSTxB0Avxn) | [Palude 4](https://open.spotify.com/album/54in2b7QYjcF5hCOMcZANu) | 3:33 | 2022-04-21 | 2025-08-01 |
 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 | 2022-04-21 |  |
 | [Parole al vento](https://open.spotify.com/track/64xBkN33zcDvijtU7X0pkN) | [Maru](https://open.spotify.com/artist/3L5BWOU9ujyIpycmCweRan) | [Parole al vento](https://open.spotify.com/album/22vc0d22zRLd3rjicn67kJ) | 2:02 | 2022-04-21 | 2024-01-19 |
+| [Passaporto \(feat\. Dimawhite\)](https://open.spotify.com/track/2G2kU72RuO80kLecvjp0MZ) | [Ocean!](https://open.spotify.com/artist/0NFtX1rcSRgYGl4kdeb1xX), [Mormo](https://open.spotify.com/artist/5JOn8TYmWQRb6WsJSsGDR7), [Dimawhite](https://open.spotify.com/artist/76MQAjTbBVpmHSjxx3tJQQ) | [PARADISO PERDUTO](https://open.spotify.com/album/5jCQvGz0p5yv2vjcmPmA1S) | 2:24 | 2026-03-05 |  |
 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 | 2022-04-21 |  |
 | [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 | 2023-04-18 |  |
 | [Per il mio bene](https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Per il mio bene](https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto) | 2:35 | 2022-06-02 | 2023-03-25 |

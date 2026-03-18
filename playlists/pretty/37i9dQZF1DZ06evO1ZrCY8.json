@@ -1,12 +1,12 @@
 {
   "description": "This is Heroes Del Silencio. The essential tracks, all in one playlist.",
-  "num_followers": 212957,
+  "num_followers": 212995,
   "original_name": "This Is Heroes Del Silencio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAA/MGHqhC3O5aGFf0Cu/3qM",
+  "snapshot_id": "abdIAAAAAABDg5m+49E8uZZVFC2zdLB6",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Senderos De Traici\u00f3n",
-        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 256253,
-      "name": "Decadencia",
-      "url": "https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
         "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 36480,
       "name": "Bendecida 2 - 2012 Remastered Version",
       "url": "https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Senderos De Traici\u00f3n",
+        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 256253,
+      "name": "Decadencia",
+      "url": "https://open.spotify.com/track/5Uqw9M6tKMWka2pmMcWGoE"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 379813,
-      "name": "Flor de loto",
-      "url": "https://open.spotify.com/track/7A0ssOm7kMkPlLPHWpaPUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Esp\u00edritu del Vino-20th Anniversary Edition",
         "url": "https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 39826,
       "name": "Juan Valdivia y Entre dos tierras - Interludio",
       "url": "https://open.spotify.com/track/4wkROZAHQ0E8L71rnbtlPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 379813,
+      "name": "Flor de loto",
+      "url": "https://open.spotify.com/track/7A0ssOm7kMkPlLPHWpaPUQ"
     },
     {
       "added_at": null,

@@ -844,6 +844,24 @@
     {
       "album": {
         "name": "O Tipo de Garota",
+        "url": "https://open.spotify.com/album/5YM0c46VPa62NDFQExMwt9"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "O Tipo de Garota",
+      "url": "https://open.spotify.com/track/77atbKemCniSVSfMXuz6sn"
+    },
+    {
+      "album": {
+        "name": "O Tipo de Garota",
         "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
       },
       "artists": [
@@ -854,7 +872,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 203352,
       "name": "O Tipo de Garota",
       "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"

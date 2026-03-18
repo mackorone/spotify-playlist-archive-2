@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: WILLOW
 
-549 songs - 1 day 4 hr 19 min
+550 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 | 2022-06-24 | 2024-10-04 |
 | [Cherry Ice Cream Sundae](https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Cherry Ice Cream Sundae](https://open.spotify.com/album/17BNqYJaKGeF9xwU2xCuy0) | 3:12 | 2022-06-24 | 2022-07-28 |
 | [chicken bagel](https://open.spotify.com/track/0nom9dC1E9W0N0zFPbk37O) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [chicken bagel](https://open.spotify.com/album/3tWfAbJmRTF0w78zeQ9M3y) | 2:50 | 2026-02-19 | 2026-02-27 |
+| [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 | 2026-03-17 |  |
 | [Closed Doors](https://open.spotify.com/track/7HLmj4xIlHt3lIQ6EB87nT) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:48 | 2023-08-18 | 2024-04-19 |
 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 | 2023-08-18 | 2023-10-22 |
 | [code red](https://open.spotify.com/track/5Vd46pXPA18ky9n1t4OOiP) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [code red](https://open.spotify.com/album/6JbZyVHufuyBDRYmG0td7G) | 2:35 | 2022-06-24 | 2022-07-28 |
@@ -356,7 +357,7 @@
 | [Nothing](https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Nothing](https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu) | 2:56 | 2022-07-17 | 2022-10-24 |
 | [Nothing Aint Free](https://open.spotify.com/track/5OZ3EeCeWeMK6QenTPMUxV) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Blay Vision](https://open.spotify.com/artist/6oVrqKwfW550JN9zLKfPgQ) | [Nothing Aint Free](https://open.spotify.com/album/2vuJDL1lEBn3jGXVmyrSxu) | 2:32 | 2023-05-15 | 2023-06-17 |
 | [Nuisance](https://open.spotify.com/track/3zzWP6dp2Ib2LY9W2syakI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [IGLU NOISE](https://open.spotify.com/artist/4mzfxQIp2bIdE048E2xM26) | [Nuisance](https://open.spotify.com/album/1aGqmxguu0GkKxcHhBVeKo) | 2:32 | 2023-05-15 | 2023-05-19 |
-| [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 | 2026-02-27 |  |
+| [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 | 2026-02-27 | 2026-03-18 |
 | [Off Guard](https://open.spotify.com/track/5pVJ0zf2yqFYr0UbvhQDen) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Off Guard](https://open.spotify.com/album/406uhmvBUbpHHEcq1omyNu) | 2:51 | 2024-10-03 | 2024-11-07 |
 | [Often](https://open.spotify.com/track/2utO4r7BTh4TnquhcGsBrU) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Often](https://open.spotify.com/album/29SFjH5fzSE7tE0PIqmIQx) | 2:15 | 2022-07-17 | 2023-08-04 |
 | [OG lullaby](https://open.spotify.com/track/0IuObXV5COFvZJjELSYLoi) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [OG lullaby](https://open.spotify.com/album/6L2td8w9gFdnjSqVyi2fXT) | 2:16 | 2022-07-17 | 2022-07-25 |

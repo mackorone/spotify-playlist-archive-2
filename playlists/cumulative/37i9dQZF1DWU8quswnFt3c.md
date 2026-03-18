@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Ariel Imani 💚
 
-2,800 songs - 6 day 11 hr 13 min
+2,801 songs - 6 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,7 @@
 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 | 2022-09-07 | 2022-10-05 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-08 | 2025-07-03 |
 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 | 2025-12-03 | 2026-02-06 |
-| [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 | 2025-07-02 | 2026-03-10 |
+| [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 | 2025-07-02 |  |
 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 | 2024-06-05 | 2024-06-20 |
 | [Dernière fois](https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Dernière fois](https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv) | 3:18 | 2023-07-05 | 2023-08-03 |
 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 | 2025-06-04 | 2025-07-03 |
@@ -776,6 +776,7 @@
 | [Feels Like Heaven](https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Feels Like Heaven](https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz) | 3:13 | 2026-02-04 |  |
 | [Feet Up](https://open.spotify.com/track/0Zyt2jTbyRv1QNb3Yahk1m) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR) | 2:59 | 2023-11-29 | 2024-01-11 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-07 | 2023-07-06 |
+| [Felsütött a napsugára](https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [TRANSFORMANIA](https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO) | 3:07 | 2026-02-18 |  |
 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 | 2024-08-07 | 2024-09-05 |
 | [FEMINA](https://open.spotify.com/track/0m6VCpJTxoKjI8zh8G54HM) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [FEMINA](https://open.spotify.com/album/6yiJ9gh45SUgbkkoacZc93) | 4:06 | 2025-02-05 | 2025-03-06 |
 | [Festival](https://open.spotify.com/track/7qLN5dbPPHdeEPOZIeYq5P) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Festival](https://open.spotify.com/album/7I44xfyGWMEGdfcqRgcVUE) | 3:21 | 2023-06-07 | 2023-07-06 |
@@ -1386,7 +1387,7 @@
 | [Look at Her](https://open.spotify.com/track/1aFDhoY7njfcASKfeD6KGf) | [Nqobilé](https://open.spotify.com/artist/2tosc2NIcCcBk7xHWKaM4V) | [Look at Her](https://open.spotify.com/album/39kVGduCr5oSqwFJ5rFkSi) | 2:46 | 2023-09-06 | 2023-10-05 |
 | [Look At What I'm Doing To You](https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Look At What I'm Doing To You](https://open.spotify.com/album/5tiIUsyEASKQuVHSjkWz2H) | 3:19 | 2022-07-06 | 2022-08-04 |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-02-02 | 2022-03-09 |
-| [Looks Like](https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Looks Like](https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL) | 3:00 | 2026-02-18 |  |
+| [Looks Like](https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Looks Like](https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL) | 3:00 | 2026-02-18 | 2026-03-18 |
 | [Looonely](https://open.spotify.com/track/1lBxGvrnW7wUVfPNurc9Wj) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T), [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ), [OOG](https://open.spotify.com/artist/5UG5vVkxLw3HdVJrrxgFqD) | [越洋電話, Vol\. 1](https://open.spotify.com/album/4PsbzDRyyoTbZ9TfN68l97) | 3:55 | 2024-04-17 | 2024-05-03 |
 | [LOS ANGELES](https://open.spotify.com/track/0jm0z6FL8HS3t0o5YpMAGT) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [TRAEME FLORES](https://open.spotify.com/album/6OWwxcdAilYCDaUdaRtKfN) | 2:29 | 2022-02-02 | 2022-03-09 |
 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 | 2023-09-06 | 2023-11-09 |
@@ -2193,7 +2194,7 @@
 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 | 2024-05-02 | 2024-06-06 |
 | [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 | 2023-11-08 | 2023-11-30 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-02-07 | 2024-03-07 |
-| [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 | 2026-02-05 |  |
+| [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 | 2026-02-05 | 2026-03-18 |
 | [Supposed To Be](https://open.spotify.com/track/4rq5D7NwWLUy1pLYgyfeDL) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Supposed To Be](https://open.spotify.com/album/3zgUnYk6shy8QAZmgIbK9x) | 3:09 | 2024-06-05 | 2025-01-09 |
 | [Sur](https://open.spotify.com/track/5BwlT1edT7xfggKjqPtGSx) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Sur](https://open.spotify.com/album/4ArRtHvrgk61qRlE3YdSX5) | 3:40 | 2023-08-02 | 2023-08-10 |
 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 | 2023-09-06 | 2023-11-09 |

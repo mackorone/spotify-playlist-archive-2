@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 507229,
+  "num_followers": 507244,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABM1oxgi5yjzAJgcWgSu7Km",
+  "snapshot_id": "abdIAAAAAADOAGS61cs3APT1yDhP17u8",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pastel Blues",
-        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Tell Me More And More And Then Some",
-      "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 416693,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Tell Me More And More And Then Some",
+      "url": "https://open.spotify.com/track/1BvVRBs78RsBbZE59i6zjH"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "That's All I Ask",
+      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pastel Blues",
         "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/5TX08awwAs7EHiUAZot3UM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here Comes The Sun (Expanded Edition)",
         "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 147906,
-      "name": "That's All I Ask",
-      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
+      "duration_ms": 144800,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/5TX08awwAs7EHiUAZot3UM"
     },
     {
       "added_at": null,

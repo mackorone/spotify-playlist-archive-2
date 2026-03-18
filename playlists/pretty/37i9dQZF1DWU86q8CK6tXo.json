@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: ivri",
-  "num_followers": 65025,
+  "num_followers": 65021,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMLWpy7YFIPxcz47RBrClArKuB2",
+  "snapshot_id": "AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx",
   "tracks": [
     {
       "added_at": "2026-03-09 16:28:35",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "DANCE...",
-        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 236041,
-      "name": "DANCE... - Edit",
-      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "Flo Jackson",
         "url": "https://open.spotify.com/album/7a50cJvGdEO7AfkEvOoCFS"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 143444,
       "name": "Flo Jackson",
       "url": "https://open.spotify.com/track/4fwJzG3arwvfC1ZbRdracJ"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 236041,
+      "name": "DANCE... - Edit",
+      "url": "https://open.spotify.com/track/1qN5HBXkNn8sq54AgM1ZJJ"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "Like Me Better",
         "url": "https://open.spotify.com/album/70PqdcEjKsEb4ARQzOXC1L"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 152597,
       "name": "Like Me Better",
       "url": "https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "The Devil's Not In Hell",
         "url": "https://open.spotify.com/album/2WZtNmAoengyn0T0fIILek"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 178309,
       "name": "The Devil's Not In Hell",
       "url": "https://open.spotify.com/track/3dKVfdf7d7iB90YfCPBLGw"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Blame it on You",
-        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 185318,
-      "name": "Blame it on You",
-      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "Blame it on You",
+        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 185318,
+      "name": "Blame it on You",
+      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
     },
     {
       "added_at": "2026-03-09 16:28:35",

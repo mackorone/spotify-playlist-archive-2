@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159623,
+  "num_followers": 159640,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
+        "name": "Tilgi meg",
+        "url": "https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 264375,
+      "name": "Tilgi meg",
+      "url": "https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
         "name": "Gro Harlem Brundtland",
         "url": "https://open.spotify.com/album/7hNyb9KXnAjTUQbnLpfOIN"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 220662,
       "name": "Siste f\u00f8rste dans",
       "url": "https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Tilgi meg",
-        "url": "https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 264375,
-      "name": "Tilgi meg",
-      "url": "https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "Venter du",
         "url": "https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Again, for the first time",
+        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Alchemy (Living Is Not For The Heart)",
+      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Hold d\u00e6 fast",
-        "url": "https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr"
+        "name": "SOLA LAGER SKYGGER",
+        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
       },
       "artists": [
         {
-          "name": "Paul Fjell",
-          "url": "https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7"
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
         }
       ],
-      "duration_ms": 198814,
-      "name": "Hold d\u00e6 fast",
-      "url": "https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN"
+      "duration_ms": 144000,
+      "name": "UT\u00c5LMODIG",
+      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1027,6 +1027,22 @@
       "duration_ms": 185560,
       "name": "Lykkelig uten meg",
       "url": "https://open.spotify.com/track/59gqidwHw7znpxWyH4buT1"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Hold d\u00e6 fast",
+        "url": "https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr"
+      },
+      "artists": [
+        {
+          "name": "Paul Fjell",
+          "url": "https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7"
+        }
+      ],
+      "duration_ms": 198814,
+      "name": "Hold d\u00e6 fast",
+      "url": "https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1063,38 +1079,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "SOLA LAGER SKYGGER",
-        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
-      },
-      "artists": [
-        {
-          "name": "Rakkere",
-          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "UT\u00c5LMODIG",
-      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "So cool",
         "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 222546,
       "name": "So cool",
       "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1239,6 +1239,38 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
+      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
         "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
         "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
       },
@@ -1267,38 +1299,6 @@
       "duration_ms": 226251,
       "name": "Coming Home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
       "url": "https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-        "url": "https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
-      "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-03-12 23:00:44",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-03-12 23:00:44",
       "album": {
-        "name": "Half Decade Addiction",
-        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
-      },
-      "artists": [
-        {
-          "name": "RABO",
-          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
-        }
-      ],
-      "duration_ms": 273760,
-      "name": "Stuck in November",
-      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
-    },
-    {
-      "added_at": "2026-03-12 23:00:44",
-      "album": {
         "name": "Propaganda",
         "url": "https://open.spotify.com/album/5NDlSfC0GVT5DRBSJkNX6b"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 193134,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:44",
+      "album": {
+        "name": "Half Decade Addiction",
+        "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
+      },
+      "artists": [
+        {
+          "name": "RABO",
+          "url": "https://open.spotify.com/artist/6bf8OgxXTVqU1OZIJmnBpf"
+        }
+      ],
+      "duration_ms": 273760,
+      "name": "Stuck in November",
+      "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

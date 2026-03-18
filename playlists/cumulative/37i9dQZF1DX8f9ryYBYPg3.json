@@ -3157,6 +3157,32 @@
     },
     {
       "album": {
+        "name": "Rainbow Signs",
+        "url": "https://open.spotify.com/album/3F3VTiduM1osGoCpsYRqNw"
+      },
+      "artists": [
+        {
+          "name": "ST\u2606RISH",
+          "url": "https://open.spotify.com/artist/4qozdjjHNXwEDYMMuK6dUb"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Matenro)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252232,
+      "name": "Rainbow Signs",
+      "url": "https://open.spotify.com/track/0bxfwkzSoM46Ba80tjUlMv"
+    },
+    {
+      "album": {
         "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300e\u3069\u3064\u3044\u305f\u308c\u672c\u8217 VS Buster Bros!!!\u300f",
         "url": "https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d"
       },

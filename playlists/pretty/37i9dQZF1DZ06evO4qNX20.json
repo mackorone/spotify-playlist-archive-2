@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 344558,
+  "num_followers": 344585,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABj1hkP6cmsCatqAYegnUaN",
+  "snapshot_id": "abdIAAAAAADuEpLNBS4T4/bJGyz59SjR",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 147549,
+      "name": "Ya Despu\u00e9s de Muerto - Remastered 2025",
+      "url": "https://open.spotify.com/track/2w5ZxdPx0tRIyp5knHPVje"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 202675,
       "name": "Corrido Del Gallito",
       "url": "https://open.spotify.com/track/3iOVKQR6StoaMH7kOvVYWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 147549,
-      "name": "Ya Despu\u00e9s de Muerto - Remastered 2025",
-      "url": "https://open.spotify.com/track/2w5ZxdPx0tRIyp5knHPVje"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 191541,
+      "name": "La Muerte Del Pela Vacas",
+      "url": "https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 \u00c9xitos Con El Inolvidable",
         "url": "https://open.spotify.com/album/6AJUpJae80XvlVI2Mrrlsb"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 213507,
       "name": "Nieves De Enero (A Dueto Con Chalino S\u00e1nchez)",
       "url": "https://open.spotify.com/track/2YmLX3Wr4zmKqysehykzu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/1HjUAVVEwOBdj2UOgxiVIz"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 191541,
-      "name": "La Muerte Del Pela Vacas",
-      "url": "https://open.spotify.com/track/4tJ5aqztNU0FczpVWOQNu6"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colecci\u00f3n De Oro: Mis Mejores Corridos, Vol. 1",
-        "url": "https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 161343,
-      "name": "Corrido De Rosalino",
-      "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s \u00c9xitos con Chalino S\u00e1nchez (Remastered 2025)",
         "url": "https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 250224,
       "name": "El Sapo - Remastered 2025",
       "url": "https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 207907,
+      "name": "El Dos Dedos - Remastered 2025",
+      "url": "https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa"
     }
   ],
   "unique_name": "This Is Chalino Sanchez",

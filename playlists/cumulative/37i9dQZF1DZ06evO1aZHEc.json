@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 142262,
       "name": "Frozen Torches",
       "url": "https://open.spotify.com/track/3tKJHTmNOupeV9bLy7Rngj"
@@ -556,6 +556,24 @@
       "duration_ms": 56000,
       "name": "i",
       "url": "https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1"
+    },
+    {
+      "album": {
+        "name": "a little death",
+        "url": "https://open.spotify.com/album/6pnb0vQLp8a9c6u1XAW3Up"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54963,
+      "name": "i couldn't find the light",
+      "url": "https://open.spotify.com/track/5syBPbqWzsKM26e9YeurA5"
     },
     {
       "album": {
@@ -934,7 +952,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 344819,
       "name": "somehow",
       "url": "https://open.spotify.com/track/4jlnTiyJ1C70se3odtDHBU"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 142000,
       "name": "vii",
       "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
@@ -1152,6 +1170,24 @@
       "duration_ms": 210000,
       "name": "viii",
       "url": "https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6"
+    },
+    {
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "xi",
+      "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"
     },
     {
       "album": {

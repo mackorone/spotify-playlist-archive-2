@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 372 likes - 68 songs - 4 hr 25 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 372 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 66 | [Yo soy un privilegio](https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV) | [NaDesh](https://open.spotify.com/artist/4Wg1j1wuePfTj1kN2GMXiJ) | [Yo soy un privilegio](https://open.spotify.com/album/6mA13Q0gqKBeCUi5k6G9Yu) | 2:45 |
 | 67 | [On A Roll](https://open.spotify.com/track/7E9HCL0ZI61UI6ndHLPTx7) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [On A Roll](https://open.spotify.com/album/2zIQdy96c3oWTLsf7d6J6B) | 3:52 |
 | 68 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
+| 69 | [Addiction](https://open.spotify.com/track/6npXIH9DbzIs472PWdTd7n) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:06 |
+| 70 | [Fever Dream](https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:15 |
 
-Snapshot ID: `AAABUN5ik8ORdGdJKh3h8hgNB439rz63`
+Snapshot ID: `AAABUgydWHKpS5FGijZvQrlEPKctiFhj`

@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-442 songs - 20 hr 47 min
+443 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/5VDpXmKgYlhwcDRm7Mzgm8) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/23kRnl0gIuVBMmeOn1DWae) | 1:17 | 2023-05-30 | 2023-12-19 |
 | [Part 2, Trailside Rivulet and Birdsong](https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Forest Park Rain Soundwalk](https://open.spotify.com/album/3qb2JQvWSf3WQMHtcL0PW9) | 1:17 | 2023-01-24 | 2023-04-30 |
 | [Peace Of Mind](https://open.spotify.com/track/4VRVPzvG6bleF8tvfYhBxX) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Peace Of Mind](https://open.spotify.com/album/2wZIPAxLs8TMTt9ieu6hiY) | 2:48 | 2024-11-28 |  |
+| [Peaceful Moment](https://open.spotify.com/track/6chXXOZRhCIpdSeDSR3uev) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Peaceful Moment](https://open.spotify.com/album/0hu15zfDRbSdwPaBAmzfvE) | 2:29 | 2026-03-16 |  |
 | [Peaceful Morning](https://open.spotify.com/track/7DyF6UY3xiVmoLncNaCAtg) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Peaceful Morning](https://open.spotify.com/album/1VifjtiGpfZHpgVyeJM4y1) | 2:41 | 2025-10-01 | 2026-03-07 |
 | [Peaceful Nature](https://open.spotify.com/track/54HXDtdwtt2w3TJd7dRwQq) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Peaceful Nature](https://open.spotify.com/album/6tqQllgjrlZwwkm9ZA0Iwg) | 2:45 | 2023-07-28 | 2026-01-22 |
 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 | 2025-04-01 |  |
@@ -375,7 +376,7 @@
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 | 2025-10-02 |
 | [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 | 2025-04-29 |  |
 | [Solitude](https://open.spotify.com/track/0PQpUqvsTITOfhkjD86swb) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/68GqXg8GI84Bc4lUmg0V7L) | 2:38 | 2023-05-19 | 2023-05-31 |
-| [Solitude River \(Spa\)](https://open.spotify.com/track/7z771WOzQDlGO2OeH0F3Uy) | [Ambiosis](https://open.spotify.com/artist/3Rg4fOMUW3gvG8qdIazNX1) | [Solitude River \(Spa\)](https://open.spotify.com/album/2tYaxBjtcmlAmtdcEMaRiU) | 2:27 | 2026-03-16 |  |
+| [Solitude River \(Spa\)](https://open.spotify.com/track/7z771WOzQDlGO2OeH0F3Uy) | [Ambiosis](https://open.spotify.com/artist/3Rg4fOMUW3gvG8qdIazNX1) | [Solitude River \(Spa\)](https://open.spotify.com/album/2tYaxBjtcmlAmtdcEMaRiU) | 2:27 | 2026-03-16 | 2026-03-18 |
 | [Song from the meadow](https://open.spotify.com/track/74QU8h22gboUmVHpjZAPYg) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [From the meadow](https://open.spotify.com/album/1NSdWYkoXOTgtCRs8OkFRG) | 2:15 | 2023-01-24 | 2023-07-29 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-28 | 2026-03-17 |
 | [Soothing Journey](https://open.spotify.com/track/1fIfPOUHkSzqoBPmnxC0DN) | [Shaman’s Sounds](https://open.spotify.com/artist/7AdZtYUjhn0MYo1jO1JbTK) | [Soothing Journey](https://open.spotify.com/album/6jIQpZH08z2csxVXWMMPWC) | 3:57 | 2023-03-13 | 2023-12-19 |

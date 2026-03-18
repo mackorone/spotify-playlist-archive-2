@@ -4,7 +4,7 @@
 
 > Bops and LGBTQIA+ artists only\. Cover: Slayyyter
 
-455 songs - 1 day 0 hr 25 min
+457 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/track/0uv5OUqpheLNNEsbNvYukI) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [SHE LOVES ME, SHE LOVES ME NOT](https://open.spotify.com/album/4rVmdWS3CMv5n6WJysVEZr) | 3:02 | 2023-12-15 | 2025-05-31 |
 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 | 2024-04-05 | 2025-05-31 |
 | [Shock Treatment](https://open.spotify.com/track/3tCt19Jmzdx1ryB7KMtBTq) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Shock Treatment](https://open.spotify.com/album/4gqpe6NobjB7UtIPt5FsTv) | 3:45 | 2025-05-30 | 2025-08-02 |
+| [Showgirl At Heart](https://open.spotify.com/track/6HXZJMT1gtnLFjIlPrZO2Y) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:16 | 2026-03-17 |  |
 | [Sides Of Me I've Never Met](https://open.spotify.com/track/36OMqGe1gqqPxXcAEeB3LA) | [Grace of Arc](https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t) | [Sides Of Me I've Never Met](https://open.spotify.com/album/7Es51YBrLmuu1cWrY9g6bP) | 3:58 | 2025-10-31 | 2026-02-14 |
 | [Sideways](https://open.spotify.com/track/4mUgLu7PjDvTsKbUF8iTB4) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Sideways](https://open.spotify.com/album/1X6cnNJYkAJoOVEuQ557TF) | 2:59 | 2025-09-26 | 2026-01-15 |
 | [Signed, Sealed, Delivered](https://open.spotify.com/track/1PEeKPfHjQgsTx646vXVy8) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [MONARCH](https://open.spotify.com/album/4zISc7rQ93tgBp3Htxc2vO) | 2:40 | 2025-10-31 | 2026-02-14 |
@@ -374,6 +375,7 @@
 | [SLAP ME IN THE FACE](https://open.spotify.com/track/0HQPkNb17LKJdclvwGR3sc) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [SLAP ME IN THE FACE](https://open.spotify.com/album/6zv7tsfgptS8LPQySUgyyl) | 2:18 | 2023-12-15 | 2024-07-13 |
 | [SLIME!](https://open.spotify.com/track/4DrUyJa0hYPyQDRmBILNud) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [SLIME!](https://open.spotify.com/album/4acPedNdAJSINJN7X6aCP9) | 2:36 | 2023-12-15 | 2024-08-10 |
 | [So Into You](https://open.spotify.com/track/3wnittJZDFl1CvwiIh8XZH) | [The Virgo Queen](https://open.spotify.com/artist/7xUlGu35ihHhZtrzfBkEsv) | [So Into You](https://open.spotify.com/album/3N8ruQPTPw5mjDUbmr8jns) | 3:24 | 2025-11-28 | 2026-01-15 |
+| [So What](https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [So What](https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC) | 4:31 | 2026-03-17 |  |
 | [Sola](https://open.spotify.com/track/32x1tMcicnF3Tvu8ApsVfA) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:06 | 2025-05-30 | 2025-11-01 |
 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl](https://open.spotify.com/album/6WOa0ML0MubR3Vz2QwTI6R) | 3:29 | 2025-10-31 | 2026-01-15 |
 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 | 2025-09-05 | 2025-11-29 |

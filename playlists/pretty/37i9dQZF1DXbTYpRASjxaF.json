@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Oklin, NandaTsunami",
-  "num_followers": 135004,
+  "num_followers": 135012,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
-        "name": "No Campo",
-        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "No Campo",
-      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
         "name": "PR\u00d3LOGO DE AGOSTO",
         "url": "https://open.spotify.com/album/1BKEwv3QWxYWUUeIV1tXLp"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 136884,
       "name": "A VIDA \u00c9 ASSIM",
       "url": "https://open.spotify.com/track/5PVfTlAsz7eaIKEz1OcWS0"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
+        "name": "No Campo",
+        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "No Campo",
+      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
     },
     {
       "added_at": "2026-03-13 03:01:11",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-03-13 03:01:11",
       "album": {
+        "name": "CHAPA QUENTE",
+        "url": "https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk"
+      },
+      "artists": [
+        {
+          "name": "ABRONCA",
+          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
+        }
+      ],
+      "duration_ms": 128932,
+      "name": "CHAPA QUENTE",
+      "url": "https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP"
+    },
+    {
+      "added_at": "2026-03-13 03:01:11",
+      "album": {
         "name": "Grana Ameniza",
         "url": "https://open.spotify.com/album/7i9dW0TcvabZrvHclUqg1U"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 96000,
       "name": "Grana Ameniza",
       "url": "https://open.spotify.com/track/0Z4cCOQdn9RI49pZkLE5ip"
-    },
-    {
-      "added_at": "2026-03-13 03:01:11",
-      "album": {
-        "name": "CHAPA QUENTE",
-        "url": "https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk"
-      },
-      "artists": [
-        {
-          "name": "ABRONCA",
-          "url": "https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd"
-        }
-      ],
-      "duration_ms": 128932,
-      "name": "CHAPA QUENTE",
-      "url": "https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP"
     },
     {
       "added_at": "2026-03-13 03:01:11",

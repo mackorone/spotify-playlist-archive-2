@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari SIENNA SPIRO, Charlie Puth, beabadoobee,  Project Pop dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,245 likes - 71 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,268 likes - 71 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 20 | [cool in the summer](https://open.spotify.com/track/6qeMHA0pP6PC4b6y7CD3mH) | [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07) | [cool in the summer](https://open.spotify.com/album/7kRuRKeYDb3adNEFmjcePH) | 2:34 |
 | 21 | [Knife In The Heart](https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Knife In The Heart](https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A) | 2:57 |
 | 22 | [Monster](https://open.spotify.com/track/2cxjLvJ5U7rTAyG14aebDX) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Monster](https://open.spotify.com/album/0sA97FnZUu5OtYRtN8fZIy) | 2:38 |
-| 23 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 23 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 24 | [ThunderWave](https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ThunderWave](https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL) | 3:14 |
 | 25 | [TAKE ME HOME](https://open.spotify.com/track/47uG0VE2b2IsHkFaM0Gz6a) | [Beeswax](https://open.spotify.com/artist/6wAkDVa0aG5ao4G944Gtne) | [TAKE ME HOME](https://open.spotify.com/album/3uSAZpO6bF2OsyE9IXtxN6) | 2:28 |
 | 26 | [Sejenak](https://open.spotify.com/track/7JTQvkSBbIheoEpFOWS5zM) | [LJF](https://open.spotify.com/artist/1LZVZXAA2qM1ZWmfmEd7zh) | [Sejenak](https://open.spotify.com/album/2wN7a7OkskFf82ntujqQq1) | 3:53 |

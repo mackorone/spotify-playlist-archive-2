@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-28",
+      "date_removed": null,
       "duration_ms": 239372,
       "name": "Andamaina Lokam",
       "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 308601,
       "name": "Chal Chalo Chalo",
       "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 267571,
       "name": "Chali Gaali Chuudduu",
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 291500,
       "name": "Chinuku Taake..",
       "url": "https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 250971,
       "name": "Choolenge Aasma",
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 200772,
       "name": "Choosa Choosa",
       "url": "https://open.spotify.com/track/0iIvZ25h16B9DhjptYp8hK"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 202111,
       "name": "Choosi Chudangane",
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 209961,
       "name": "Crazy Feeling",
       "url": "https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ"
@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 242412,
       "name": "Emo Emo",
       "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 281723,
       "name": "Enno Ratrulosthayi Remix Song",
       "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
@@ -2056,7 +2056,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 237474,
       "name": "Gusa Gusa Lade",
       "url": "https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 248133,
       "name": "Hey Pillagaada",
       "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
@@ -2382,6 +2382,28 @@
       "duration_ms": 252262,
       "name": "Ismart Title Song",
       "url": "https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW"
+    },
+    {
+      "album": {
+        "name": "Kanche",
+        "url": "https://open.spotify.com/album/4A5xb6FwmEoqn30wfAlUYm"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310976,
+      "name": "Itu Itu Ani Chitikelu Evvarivo",
+      "url": "https://open.spotify.com/track/46QURz1FA2bt7kmz7mdGLE"
     },
     {
       "album": {
@@ -2928,7 +2950,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 364375,
       "name": "Life Of Ram",
       "url": "https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW"
@@ -3082,7 +3104,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 296220,
       "name": "Maate Vinadhuga",
       "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
@@ -3140,7 +3162,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 185989,
       "name": "MalliRaava",
       "url": "https://open.spotify.com/track/6OFKZk7gr5KH4SpECB6Uee"
@@ -3549,6 +3571,58 @@
     },
     {
       "album": {
+        "name": "Couple Friendly",
+        "url": "https://open.spotify.com/album/2jqfRX0prl2ATLogVwZzac"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250888,
+      "name": "Naa Praanam",
+      "url": "https://open.spotify.com/track/4sknYzrt24iZQlR3sKZui1"
+    },
+    {
+      "album": {
+        "name": "Couple Friendly",
+        "url": "https://open.spotify.com/album/2jqfRX0prl2ATLogVwZzac"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185062,
+      "name": "Naalo Nenu",
+      "url": "https://open.spotify.com/track/33zE3PueaFRUBymwooP4yC"
+    },
+    {
+      "album": {
         "name": "Game Changer (Telugu)",
         "url": "https://open.spotify.com/album/3wuQ79aExSzvo3n5tmM9Yx"
       },
@@ -3880,7 +3954,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 234883,
       "name": "Ninnila",
       "url": "https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz"
@@ -4810,7 +4884,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 241301,
       "name": "Rang de",
       "url": "https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7"
@@ -5086,13 +5160,13 @@
       },
       "artists": [
         {
-          "name": "Yazin Nizar",
+          "name": "YAZIN",
           "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
         }
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 262488,
       "name": "Seethakaalam",
       "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
@@ -5620,7 +5694,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 173932,
       "name": "Undiporaadhey",
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
@@ -5738,7 +5812,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 324546,
       "name": "Vachinde",
       "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
@@ -5940,7 +6014,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 215074,
       "name": "Yellipoke Shyamala",
       "url": "https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa"
@@ -5980,7 +6054,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 271428,
       "name": "Yenno Yenno",
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"

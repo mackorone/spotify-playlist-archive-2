@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22734,
+  "num_followers": 22757,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Girls' Generation",
+        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Kissing You",
+      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Girls' Generation",
-        "url": "https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Kissing You",
-      "url": "https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cheerful Sensibility",
-        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Love Sick",
-      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Exhibition",
         "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 313106,
       "name": "Etude of Memory",
       "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cheerful Sensibility",
+        "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Love Sick",
+      "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Mc The Max - Solitude Love\u2026",
-        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
-      },
-      "artists": [
-        {
-          "name": "M.C the Max",
-          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
-        }
-      ],
-      "duration_ms": 358870,
-      "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
-      "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 218279,
       "name": "\ubbf8\uc778",
       "url": "https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Mc The Max - Solitude Love\u2026",
+        "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
+      },
+      "artists": [
+        {
+          "name": "M.C the Max",
+          "url": "https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo"
+        }
+      ],
+      "duration_ms": 358870,
+      "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
+      "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Lovers in Paris (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 249352,
       "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
       "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "My love has faded away",
-        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
-      },
-      "artists": [
-        {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "My love has faded away",
-      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 246613,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "My love has faded away",
+        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "My love has faded away",
+      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1583,6 +1583,42 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "The 3rd GENERATION (Special Album)",
+        "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
+      },
+      "artists": [
+        {
+          "name": "4MEN",
+          "url": "https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J"
+        },
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 321933,
+      "name": "Can I Love Again (Feat. Davichi)",
+      "url": "https://open.spotify.com/track/75ahxDbFWybBd4NrVt31qP"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+        }
+      ],
+      "duration_ms": 251194,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "HEY, COME ON! - The 4th Album",
         "url": "https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul"
       },
@@ -1611,38 +1647,6 @@
       "duration_ms": 232960,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
-      },
-      "artists": [
-        {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
-        }
-      ],
-      "duration_ms": 251194,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Transition",
-        "url": "https://open.spotify.com/album/3ZQ7Je1yfm02zoIKjmFTFp"
-      },
-      "artists": [
-        {
-          "name": "Fly to the Sky",
-          "url": "https://open.spotify.com/artist/4Va11kshAHkYONJgZqhi0C"
-        }
-      ],
-      "duration_ms": 230948,
-      "name": "\ub0a8\uc790\ub2f5\uac8c",
-      "url": "https://open.spotify.com/track/2mI3mRPrpeO1481HhIVuWh"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

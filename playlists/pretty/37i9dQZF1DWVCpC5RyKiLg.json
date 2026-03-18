@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 745807,
+  "num_followers": 745821,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Escreve A\u00ed - Single",
+        "url": "https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 238275,
+      "name": "Escreve A\u00ed",
+      "url": "https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 240333,
       "name": "Madri - Ao Vivo",
       "url": "https://open.spotify.com/track/4IPopPf6xn1mx57yuNgjkN"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Escreve A\u00ed - Single",
-        "url": "https://open.spotify.com/album/5zMgp9wuJrFIFqSM3bgFQ5"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 238275,
-      "name": "Escreve A\u00ed",
-      "url": "https://open.spotify.com/track/3ZKmx9uutwt9eJyn3OeV8l"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "1 Dois 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi"
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 162306,
-      "name": "Chave C\u00f3pia - Ao Vivo",
-      "url": "https://open.spotify.com/track/3yqHkEXrbIaF7AoeN4diRH"
+      "duration_ms": 179722,
+      "name": "quando a bad bater - ao vivo",
+      "url": "https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

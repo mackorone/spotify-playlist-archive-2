@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 89003,
+  "num_followers": 89118,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABFppA1EYsIPpBxZfJav6TZ",
+  "snapshot_id": "abdIAAAAAABfX1hV2HtbsHutRstFSJAG",
   "tracks": [
     {
       "added_at": null,
@@ -812,13 +812,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 127830,
-      "name": "Noises + JT",
-      "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
+      "duration_ms": 166514,
+      "name": "Romeo + Rachel Chinouriri",
+      "url": "https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H"
     },
     {
       "added_at": null,
@@ -832,13 +832,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
         }
       ],
-      "duration_ms": 166514,
-      "name": "Romeo + Rachel Chinouriri",
-      "url": "https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H"
+      "duration_ms": 127830,
+      "name": "Noises + JT",
+      "url": "https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv"
     }
   ],
   "unique_name": "This Is PinkPantheress",

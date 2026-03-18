@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Fly Eagle Fly",
+        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186369,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6npXIH9DbzIs472PWdTd7n"
+    },
+    {
+      "album": {
         "name": "Age of Aquarius",
         "url": "https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k"
       },
@@ -1086,6 +1104,24 @@
       "duration_ms": 259008,
       "name": "Falling Ashes",
       "url": "https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl"
+    },
+    {
+      "album": {
+        "name": "In Our Nature",
+        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
+      },
+      "artists": [
+        {
+          "name": "Touch of Red",
+          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/3h1J3rsW0PMGuaPYqThR7D"
     },
     {
       "album": {

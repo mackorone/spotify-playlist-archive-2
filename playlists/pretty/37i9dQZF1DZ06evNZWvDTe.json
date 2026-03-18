@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14201,
+  "num_followers": 14211,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAC7X7MxNZwgzPgMvOLBTn5K",
+  "snapshot_id": "abdIAAAAAADICyuKfmWzl91p5TVPBsUK",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have Mercy 2",
-        "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Have Mercy 2",
-      "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 172577,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Have Mercy 2",
+        "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Have Mercy 2",
+      "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 248000,
       "name": "Saa Okodie No",
       "url": "https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You & I (feat. Olivetheboy) [Remix]",
-        "url": "https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "You & I (feat. Olivetheboy) - Remix",
-      "url": "https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Of A Dying Breed",
         "url": "https://open.spotify.com/album/7ruMWGWsEzrDGl2EM9wshD"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 247980,
       "name": "Sarkastic",
       "url": "https://open.spotify.com/track/1hu8nXmfGce1ppr4yGGyXX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You & I (feat. Olivetheboy) [Remix]",
+        "url": "https://open.spotify.com/album/7N1Z4pD0qIGEr1kPhuTDHW"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "You & I (feat. Olivetheboy) - Remix",
+      "url": "https://open.spotify.com/track/1flano0UcvIuEHv9YxzCc1"
     },
     {
       "added_at": null,

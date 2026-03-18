@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
-  "num_followers": 91350,
+  "num_followers": 91396,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
-        "name": "El Campesino y el Sol",
-        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
-      },
-      "artists": [
-        {
-          "name": "La Dinastia de Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "El Campesino Y El Sol",
-      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
-    },
-    {
-      "added_at": "2025-12-05 06:00:31",
-      "album": {
         "name": "De Parranda Con Jorge Garcia",
         "url": "https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 155318,
       "name": "Pu\u00f1o de Tierra",
       "url": "https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR"
+    },
+    {
+      "added_at": "2025-12-05 06:00:31",
+      "album": {
+        "name": "El Campesino y el Sol",
+        "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia de Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "El Campesino Y El Sol",
+      "url": "https://open.spotify.com/track/3UAQI1mzzIxOW7aM2NPiUv"
     },
     {
       "added_at": "2025-12-05 06:00:31",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
-        "name": "Made in Michoacan",
-        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
+        "name": "Como Diablos Te Olvido",
+        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
       "artists": [
         {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+          "name": "Principez De Tuzantla",
+          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
+      "duration_ms": 141870,
+      "name": "Mujer, Mujer",
+      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
     },
     {
       "added_at": "2025-12-05 06:00:31",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
-        "name": "Como Diablos Te Olvido",
-        "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
+        "name": "Made in Michoacan",
+        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
       "artists": [
         {
-          "name": "Principez De Tuzantla",
-          "url": "https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r"
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
         }
       ],
-      "duration_ms": 141870,
-      "name": "Mujer, Mujer",
-      "url": "https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU"
+      "duration_ms": 224840,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
     },
     {
       "added_at": "2025-12-05 06:00:31",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
+      },
+      "artists": [
+        {
+          "name": "Severo Benito y Su Banda Cachas de Oro",
+          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
+        }
+      ],
+      "duration_ms": 170733,
+      "name": "La Grapa",
+      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
+    },
+    {
+      "added_at": "2025-12-05 06:00:31",
+      "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 203125,
       "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
       "url": "https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj"
-    },
-    {
-      "added_at": "2025-12-05 06:00:31",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
-      },
-      "artists": [
-        {
-          "name": "Severo Benito y Su Banda Cachas de Oro",
-          "url": "https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS"
-        }
-      ],
-      "duration_ms": 170733,
-      "name": "La Grapa",
-      "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
     },
     {
       "added_at": "2025-12-05 06:00:31",

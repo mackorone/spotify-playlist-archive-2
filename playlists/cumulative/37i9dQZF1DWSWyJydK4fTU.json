@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 144500,
       "name": "Cold",
       "url": "https://open.spotify.com/track/18WbzHfUTnPK1lcDNgMnO0"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 172753,
       "name": "cosmic wink",
       "url": "https://open.spotify.com/track/0DwSDivYx1TTl5m3GsyKzK"
@@ -2120,6 +2120,24 @@
       "duration_ms": 215300,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "album": {
+        "name": "Hear Me",
+        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206102,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
     },
     {
       "album": {
@@ -5506,6 +5524,24 @@
       "duration_ms": 163591,
       "name": "Wave",
       "url": "https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"
     },
     {
       "album": {

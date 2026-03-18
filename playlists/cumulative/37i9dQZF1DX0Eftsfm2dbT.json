@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u306e\u6700\u65b0\u6ce8\u76ee\u66f2\u3092\u307e\u3068\u3081\u3066\u30c1\u30a7\u30c3\u30af cover: Daichi Yamamoto, NENE, MIKADO *\u6c34\u66dc\u66f4\u65b0\u3002\u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
+  "description": "J-Hip Hop\u306e\u6700\u65b0\u6ce8\u76ee\u66f2\u3092\u307e\u3068\u3081\u3066\u30c1\u30a7\u30c3\u30af cover: Kohjiya *\u6c34\u66dc\u66f4\u65b0\u3002\u30de\u30a4\u30e9\u30a4\u30d6\u30e9\u30ea\u306b\u4fdd\u5b58\u3057\u3066\u6bce\u9031\u30c1\u30a7\u30c3\u30af\u3057\u3088\u3046",
   "name": "+81 Connect: J-HipHop \u6700\u65b0\u6ce8\u76ee\u66f2",
   "tracks": [
     {
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 259000,
       "name": "21\u221e",
       "url": "https://open.spotify.com/track/1IqPBPqzCeJIHiH5mCxHdI"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 170257,
       "name": "ADHD (feat. Benjazzy)",
       "url": "https://open.spotify.com/track/2XkY9qd0pw40fGhjlHx1CJ"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 179971,
       "name": "AKERO",
       "url": "https://open.spotify.com/track/7vh8FMzywU9B9e757FpORF"
@@ -3153,6 +3153,24 @@
     },
     {
       "album": {
+        "name": "AMEAGARI",
+        "url": "https://open.spotify.com/album/7HPXgrGuN478SeQx4AsNaz"
+      },
+      "artists": [
+        {
+          "name": "VERRY SMoL",
+          "url": "https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112663,
+      "name": "AMEAGARI",
+      "url": "https://open.spotify.com/track/44rDAfK66LzEn2YbARKwnc"
+    },
+    {
+      "album": {
         "name": "Anata Watashi (Remix)",
         "url": "https://open.spotify.com/album/0wcSHfTMd5481IBncYW1hk"
       },
@@ -3494,6 +3512,24 @@
       "duration_ms": 119720,
       "name": "AREA06",
       "url": "https://open.spotify.com/track/06njbm0asAVl8tq5LxyqIv"
+    },
+    {
+      "album": {
+        "name": "ARIMA",
+        "url": "https://open.spotify.com/album/0KFmxPflNqh7kPWj2GjIok"
+      },
+      "artists": [
+        {
+          "name": "18scott",
+          "url": "https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113513,
+      "name": "ARIMA",
+      "url": "https://open.spotify.com/track/41WvkB0Y3ll5CYw5d80eZa"
     },
     {
       "album": {
@@ -4259,6 +4295,24 @@
     },
     {
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/5zLpSY8aZ75mqw57f0UcQK"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181060,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/28cpUNiRybQ9h1we5NXyxv"
+    },
+    {
+      "album": {
         "name": "Back In The Dayz",
         "url": "https://open.spotify.com/album/60Ju1E3jvMTWsjhVsEOdyD"
       },
@@ -4957,6 +5011,28 @@
     },
     {
       "album": {
+        "name": "Batlogue",
+        "url": "https://open.spotify.com/album/5GtsZ9VKSEGdHg72nYMHND"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143317,
+      "name": "Batlogue",
+      "url": "https://open.spotify.com/track/5r0sgaZHYWIPXGs9OeZRrW"
+    },
+    {
+      "album": {
         "name": "From hot north side",
         "url": "https://open.spotify.com/album/0K2Dd8br598Op5rMuJU56C"
       },
@@ -5270,7 +5346,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 175000,
       "name": "BEACH BOY$",
       "url": "https://open.spotify.com/track/6fvnzvyjQN2FzU7KF8Fxk0"
@@ -5836,7 +5912,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 154400,
       "name": "BIG MONEY ONLY",
       "url": "https://open.spotify.com/track/6XLAGoQ4L2TLR35gkhyyua"
@@ -6672,6 +6748,24 @@
       "duration_ms": 279650,
       "name": "Blues In My Heart (feat. D-SETO, DJ cer0 & 9JACK)",
       "url": "https://open.spotify.com/track/1EltniBo9eGZGvT3pmhfNV"
+    },
+    {
+      "album": {
+        "name": "Blue\u00d73",
+        "url": "https://open.spotify.com/album/08IgGmo8GHUe3hRCUM244n"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139503,
+      "name": "Blue\u00d73",
+      "url": "https://open.spotify.com/track/1ye8NOwVhGjt4BnsF8Ke4R"
     },
     {
       "album": {
@@ -19622,7 +19716,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 152893,
       "name": "Indiana Jones",
       "url": "https://open.spotify.com/track/06ezTJeuEXfywFLf7vgZlI"
@@ -21008,7 +21102,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 211051,
       "name": "Kawasaki Blue (feat. JJJ & BES) - Remix",
       "url": "https://open.spotify.com/track/44zVvd8JXtuupbZ0HiGzQu"
@@ -21164,7 +21258,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 137142,
       "name": "Key to go",
       "url": "https://open.spotify.com/track/6EJmAslcALkK6orAr1Q9iV"
@@ -22102,7 +22196,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 164307,
       "name": "Late Night step (feat. BIM)",
       "url": "https://open.spotify.com/track/2yabxW9OpHSgXmgo434gpU"
@@ -26526,7 +26620,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 327380,
       "name": "MUSEIGEN (feat. C6ix, Bonbero & ANI)",
       "url": "https://open.spotify.com/track/0hK7m6uqTo0UVyTR1aztoa"
@@ -26566,7 +26660,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 165000,
       "name": "My Fan",
       "url": "https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1"
@@ -29952,7 +30046,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 183727,
       "name": "OMATASE",
       "url": "https://open.spotify.com/track/1jHkDwImwIYnlGe5kD4nz4"
@@ -30070,6 +30164,54 @@
       "duration_ms": 115213,
       "name": "On Ma HOOD",
       "url": "https://open.spotify.com/track/7pbqDuMhhs4vJ8e3CHlLEv"
+    },
+    {
+      "album": {
+        "name": "SHARNGA : Before the Arrow Flies",
+        "url": "https://open.spotify.com/album/739SL7e6PPytkYfN5ex964"
+      },
+      "artists": [
+        {
+          "name": "Rama Pantera",
+          "url": "https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224738,
+      "name": "On My Way (feat. Daichi Yamamoto)",
+      "url": "https://open.spotify.com/track/52G8zyLtghbL80FU5LscPK"
+    },
+    {
+      "album": {
+        "name": "On the Beat",
+        "url": "https://open.spotify.com/album/2K0uU1hfOY6eFphzoDlZfZ"
+      },
+      "artists": [
+        {
+          "name": "PONEY",
+          "url": "https://open.spotify.com/artist/0b9sdjVUzTniTdqwiTWYzK"
+        },
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/4gOOFRcUNhK84JD905iXlV"
+        },
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201408,
+      "name": "On the Beat",
+      "url": "https://open.spotify.com/track/0Jv2vWxZWeYUDf1QXP1uBs"
     },
     {
       "album": {
@@ -31312,7 +31454,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 100000,
       "name": "Passion fruit",
       "url": "https://open.spotify.com/track/33KLGJQfKu56swtp8VXVD6"
@@ -32088,6 +32230,24 @@
       "duration_ms": 157500,
       "name": "Popcorn and Coke",
       "url": "https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c"
+    },
+    {
+      "album": {
+        "name": "N side",
+        "url": "https://open.spotify.com/album/1EEHfjFjdGOyo2SZQaASEw"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u8c37\u62f3\u56db\u90ce",
+          "url": "https://open.spotify.com/artist/4vw8u8lnueJjSQlySU3XmL"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114240,
+      "name": "Portrait of a Lady on Fire",
+      "url": "https://open.spotify.com/track/68T5d5RX3CSdz8aAWUvRg7"
     },
     {
       "album": {
@@ -33458,7 +33618,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 185200,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/6ZxvZirTZEj3LUXgqByXn3"
@@ -33694,6 +33854,24 @@
       "duration_ms": 187389,
       "name": "REMINDS",
       "url": "https://open.spotify.com/track/46zFYEh9FYtzyFneJv3WxA"
+    },
+    {
+      "album": {
+        "name": "not everything yet",
+        "url": "https://open.spotify.com/album/2PxU9fNOhYrF8YfTc1AOUD"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "RENTAI",
+      "url": "https://open.spotify.com/track/3EH71WKEIbPtSuKbFTkv0F"
     },
     {
       "album": {
@@ -35980,7 +36158,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 211875,
       "name": "Sesse (feat. eyden)",
       "url": "https://open.spotify.com/track/77qwOhmQxLD04QAVV1LKAr"
@@ -36528,6 +36706,24 @@
       "duration_ms": 195000,
       "name": "Shoutotsu",
       "url": "https://open.spotify.com/track/2Tp7eNHiWdtrOz4wbp1vOs"
+    },
+    {
+      "album": {
+        "name": "Show is over",
+        "url": "https://open.spotify.com/album/2YR83NRFzPF0BydROu9rKG"
+      },
+      "artists": [
+        {
+          "name": "Fisong",
+          "url": "https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170150,
+      "name": "Show is over",
+      "url": "https://open.spotify.com/track/1ITLQC1USyfUoKEyeg4jtk"
     },
     {
       "album": {
@@ -39224,7 +39420,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 115269,
       "name": "SUPA SAIYAN",
       "url": "https://open.spotify.com/track/0eePd9Y3Zuu3Lff7NdvJQ7"
@@ -40136,7 +40332,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 205837,
       "name": "Tell Me How It Goes",
       "url": "https://open.spotify.com/track/1pIsFTEz8mGw8VBzh7vtlI"
@@ -41290,7 +41486,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 170062,
       "name": "Tokyo Metro",
       "url": "https://open.spotify.com/track/0daD9InzN5yS1lP0jcTGO4"
@@ -41857,6 +42053,24 @@
     },
     {
       "album": {
+        "name": "Some Dad Rap Songs",
+        "url": "https://open.spotify.com/album/6SMYLJySVglQ7qzcGZ7A2w"
+      },
+      "artists": [
+        {
+          "name": "VOLOJZA",
+          "url": "https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5rShGpJJ6bL4WGn7GSgejt"
+    },
+    {
+      "album": {
         "name": "Debugging",
         "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
       },
@@ -42086,6 +42300,24 @@
       "duration_ms": 210364,
       "name": "TRUST",
       "url": "https://open.spotify.com/track/1aPge51xoRxVhOF1ysFSP3"
+    },
+    {
+      "album": {
+        "name": "TRUTH",
+        "url": "https://open.spotify.com/album/46tfI6gQg8diKcBpAJENS8"
+      },
+      "artists": [
+        {
+          "name": "SWEE",
+          "url": "https://open.spotify.com/artist/01rnISQaxa1W2jWpzzS8yx"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158221,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/2EE3XVyhWU3nSPKfluMr9z"
     },
     {
       "album": {
@@ -42601,6 +42833,32 @@
     },
     {
       "album": {
+        "name": "Underrated",
+        "url": "https://open.spotify.com/album/4AY9sqFwprFnuw5hkZA1EF"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        },
+        {
+          "name": "keg\u00f8n",
+          "url": "https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb"
+        },
+        {
+          "name": "Shiroko Raccz",
+          "url": "https://open.spotify.com/artist/6z5IE4B9oI5IWrErX6iO7U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/0WMSUUbfxuPUBnucLvHg6O"
+    },
+    {
+      "album": {
         "name": "Undeveloped freestyle",
         "url": "https://open.spotify.com/album/4hIXapCAy93ypoUItkIpIE"
       },
@@ -42944,7 +43202,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 222020,
       "name": "USD",
       "url": "https://open.spotify.com/track/2zV8MKRonSmOYVAYVgZJAW"
@@ -43433,6 +43691,24 @@
     },
     {
       "album": {
+        "name": "SUP",
+        "url": "https://open.spotify.com/album/1lfb8BWuCGVOC8YqS9UvM1"
+      },
+      "artists": [
+        {
+          "name": "JUMANJI",
+          "url": "https://open.spotify.com/artist/6CoJ0sr10VZCu97NDPcdfQ"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208250,
+      "name": "views",
+      "url": "https://open.spotify.com/track/6NTNPcZkjR5prRflas4nEk"
+    },
+    {
+      "album": {
         "name": "Vintage",
         "url": "https://open.spotify.com/album/6T8EAQpN0BUwF9x7MijKQA"
       },
@@ -43678,7 +43954,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 178866,
       "name": "WAKEUP feat. MFS",
       "url": "https://open.spotify.com/track/10hECoqlYMzAZ9CYCo4Ngg"
@@ -44186,7 +44462,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 254426,
       "name": "Wax On Wax Off (feat. R-\u6307\u5b9a, NENE, \u93ae\u5ea7DOPENESS & C.O.S.A.) [-Japan Remix-]",
       "url": "https://open.spotify.com/track/34JggEOSRwhBnBU0CXCQn3"
@@ -46405,6 +46681,24 @@
     },
     {
       "album": {
+        "name": "Young Romance",
+        "url": "https://open.spotify.com/album/3xteENkFjhXOCcVwE0UBSw"
+      },
+      "artists": [
+        {
+          "name": "Shurkn Pap",
+          "url": "https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126896,
+      "name": "Young Romance",
+      "url": "https://open.spotify.com/track/0UMkIFHuXHPOdqvBNu3tko"
+    },
+    {
+      "album": {
         "name": "YOUNG STAR",
         "url": "https://open.spotify.com/album/78Xf36i1GMgGGw3sBgGNA4"
       },
@@ -47086,6 +47380,28 @@
       "duration_ms": 172034,
       "name": "\u3053\u3093\u306a\u3082\u3093",
       "url": "https://open.spotify.com/track/0ReudWNq34DkPfI7zrn7Sw"
+    },
+    {
+      "album": {
+        "name": "\u3053\u3093\u306a\u65e5\u306f",
+        "url": "https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187847,
+      "name": "\u3053\u3093\u306a\u65e5\u306f",
+      "url": "https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5"
     },
     {
       "album": {
@@ -47852,7 +48168,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 184262,
       "name": "\u30aa\u30fc\u30d3\u30b9 (feat. ANARCHY)",
       "url": "https://open.spotify.com/track/30renGL0hyUfHWywmzkQ8i"
@@ -48792,7 +49108,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 238569,
       "name": "\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7 - feat. Hezron",
       "url": "https://open.spotify.com/track/5RS3Yxr5QtLvb7YlHuRpPR"

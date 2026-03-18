@@ -1,6 +1,6 @@
 {
   "description": "Die Musik f\u00fcr die H\u00fctten Gaudi!",
-  "num_followers": 492178,
+  "num_followers": 492184,
   "original_name": "Apr\u00e8s Ski Party 2026",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
         "name": "Handwerker",
         "url": "https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -467,26 +467,6 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "Oben unten (Party Edit)",
-        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
-      },
-      "artists": [
-        {
-          "name": "R\u00e4uber",
-          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Oben unten - Party Edit",
-      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
         "name": "ANNE KAFFEEKANNE",
         "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 205880,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+      },
+      "artists": [
+        {
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
         "name": "Dicht im Flieger",
         "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 225882,
       "name": "Dicht im Flieger",
       "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -675,6 +675,30 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
         "name": "Die Nacht von Freitag auf Montag",
         "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
       },
@@ -711,30 +735,6 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "Fliesentisch Romantik 2",
-        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Easy Peasy",
-      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
         "name": "So Bist Du",
         "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "Lampen an",
-        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
       },
       "artists": [
         {
@@ -764,25 +764,9 @@
           "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
         }
       ],
-      "duration_ms": 145341,
-      "name": "Lampen an",
-      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -807,6 +791,22 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -855,8 +855,8 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+        "name": "Lampen an",
+        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
         }
       ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+      "duration_ms": 145341,
+      "name": "Lampen an",
+      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "Wir eskalieren",
-        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Wir eskalieren",
-      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1175,6 +1155,42 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
+        "name": "Wir eskalieren",
+        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Wir eskalieren",
+      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1195,42 +1211,6 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -1271,6 +1251,26 @@
       "duration_ms": 168750,
       "name": "Chaos im Kopf",
       "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2026-03-12 23:00:55",
@@ -1347,42 +1347,6 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
-        "name": "Oberteil",
-        "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        }
-      ],
-      "duration_ms": 149976,
-      "name": "Oberteil",
-      "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2026-03-12 23:00:55",
-      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -1403,6 +1367,26 @@
     {
       "added_at": "2026-03-12 23:00:55",
       "album": {
+        "name": "Oberteil",
+        "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        }
+      ],
+      "duration_ms": 149976,
+      "name": "Oberteil",
+      "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
         "name": "Gartenh\u00fctte",
         "url": "https://open.spotify.com/album/3WA4M3aLKt1MOeW7f3b6dr"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 163260,
       "name": "Gartenh\u00fctte",
       "url": "https://open.spotify.com/track/4c5CmXIlx8ur2SVBEyghOs"
+    },
+    {
+      "added_at": "2026-03-12 23:00:55",
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2026-03-12 23:00:55",

@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-530 songs - 1 day 8 hr 13 min
+531 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Lost](https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Lost](https://open.spotify.com/album/1X994T3NOkN6NEfbZTwYXX) | 2:50 | 2023-04-16 | 2023-05-01 |
 | [Loud Tonight](https://open.spotify.com/track/68Hb7cEAoENqIes52urp8Y) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Loud Tonight](https://open.spotify.com/album/4EI9MeXtQkVCIkYDmdFNsy) | 2:55 | 2023-08-06 | 2023-09-26 |
 | [Love Finds A Way \- Radio Edit](https://open.spotify.com/track/6FLpYaVGuq1CFgU6sd3iuj) | [David Herrlich](https://open.spotify.com/artist/62k0c1WajfOGpgzjmVHpKj) | [Love Finds A Way \(Radio Edit\)](https://open.spotify.com/album/1B7YW1Y5VSXDdIIagVOSy7) | 2:22 | 2023-01-29 | 2023-03-06 |
+| [Loveless](https://open.spotify.com/track/3SN0Qt3fOLKbDGLW0q5AD2) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Nite & Day](https://open.spotify.com/album/7nzBg24gwBiLWWTR6E5LeN) | 2:22 | 2026-03-17 |  |
 | [Madonna](https://open.spotify.com/track/2eNyIYoHZRUeEl5p5PKdOC) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [DIKTAT](https://open.spotify.com/artist/4OUqbwZjd0nfoQuCl7FfbI) | [Madonna](https://open.spotify.com/album/6Cw0ea9TmmMKnsT9aHjnIH) | 2:51 | 2023-03-05 | 2023-03-27 |
 | [Make You Dance](https://open.spotify.com/track/1nBKoqVdJng70x0o1eZzVG) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Reflection EP](https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst) | 2:57 | 2023-03-31 | 2023-04-24 |
 | [Mandarino](https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Puff \(ITA\)](https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf) | [Mandarino](https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW) | 5:08 | 2023-05-28 | 2023-06-12 |

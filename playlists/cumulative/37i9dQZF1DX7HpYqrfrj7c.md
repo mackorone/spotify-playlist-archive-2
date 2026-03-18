@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-98 songs - 4 hr 58 min
+100 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2024-06-24 |  |
 | [pipe dream](https://open.spotify.com/track/3GRAPXTa7fOQXjIPji3kQL) | [Pathos](https://open.spotify.com/artist/000A3Oa2wuuR3oJ5vjXkns) | [pipe dream](https://open.spotify.com/album/4kLl1PI6dgLFGW8HXO2fCq) | 2:34 | 2026-03-05 |  |
 | [Play My Guitar](https://open.spotify.com/track/0NWb5HTrknj2QFMnZb6rYK) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [Play My Guitar](https://open.spotify.com/album/4wwHYtqvJjDaipxuuGMpGA) | 2:08 | 2025-06-06 |  |
+| [Players \(Instrumental Mix\)](https://open.spotify.com/track/7tgSKR4pzP2BmJWRQiG0ms) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol\. 2.10](https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez) | 3:08 | 2026-03-17 |  |
 | [Prodigy Vision](https://open.spotify.com/track/7GG2FRZUlqZ4Ll4bNU0G6U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Prodigy Vision](https://open.spotify.com/album/2cj4KrLQBpngclJF5KErZH) | 3:03 | 2025-05-09 |  |
 | [Proof](https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH), [DJ Shon](https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy) | [The All Boom](https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0) | 2:00 | 2024-06-24 |  |
 | [Pyramid Hands](https://open.spotify.com/track/3akR3qgQ7PIRcNAxEmf37L) | [Blue Cousins](https://open.spotify.com/artist/5xTmsiaHwO4F5BolRtmvCY) | [Pyramid Hands](https://open.spotify.com/album/7vpMvEpPKdo6iG5D3Mp7GT) | 2:12 | 2024-06-24 |  |
@@ -103,6 +104,7 @@
 | [Traffic Lights](https://open.spotify.com/track/4OZIK5553fVfj68nP7fiMQ) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Cassette Sound](https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg) | 1:45 | 2024-06-24 |  |
 | [Ultimo](https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Ultimo](https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V) | 2:35 | 2025-04-25 |  |
 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 | 2024-06-24 |  |
+| [What You Want \- Instrumental](https://open.spotify.com/track/5RXxzWwZh6ywqPjWV8qXhq) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [What You Want](https://open.spotify.com/album/0XJn9bM9zWldjvjgWSqhxd) | 4:36 | 2026-03-17 |  |
 | [Where I'm Coming From \- Instrumental](https://open.spotify.com/track/3XXZgmqPvywvV64ZolnAsS) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Cool Classic Jazzstrumentals \(Volume One\)](https://open.spotify.com/album/5QjyX5NN59cQAdkGTJkd4m) | 4:55 | 2024-06-24 |  |
 | [Without A Doubt \- Salaam's Instrumental](https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [Without A Doubt](https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L) | 4:26 | 2024-08-21 |  |
 | [Zeckenbiss](https://open.spotify.com/track/7gnES6NOL0gFwPhJzkKCEg) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#8](https://open.spotify.com/album/6UL8DzD1lwGsePfoZpt6Ky) | 3:34 | 2024-12-16 |  |

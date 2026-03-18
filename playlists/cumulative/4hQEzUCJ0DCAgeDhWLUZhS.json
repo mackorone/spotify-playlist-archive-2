@@ -7035,6 +7035,24 @@
     },
     {
       "album": {
+        "name": "Receive",
+        "url": "https://open.spotify.com/album/0YFi4LYMktyKtNYtPL4gkz"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166866,
+      "name": "Receive",
+      "url": "https://open.spotify.com/track/4egnOyXh0OVgWmDiWOTHGM"
+    },
+    {
+      "album": {
         "name": "Reckless Paradise",
         "url": "https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD"
       },

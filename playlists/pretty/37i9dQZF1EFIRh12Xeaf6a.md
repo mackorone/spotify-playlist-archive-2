@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,254 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,255 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 35 | [Let Me Get Close To You](https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Let Me Get Close To You](https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC) | 3:31 |
 | 36 | [Some of Your Lovin'](https://open.spotify.com/track/6pIoczFbC1QaQACeUfwTdb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Going Back \(2010\)](https://open.spotify.com/album/51YI8SD0GBp3c7cavCD6Zr) | 3:20 |
 | 37 | [Hard Rock Café](https://open.spotify.com/track/5oLObQcGpeEjrOHpPY80F5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 3:43 |
-| 38 | [He Hit Me \(It Felt Like a Kiss\)](https://open.spotify.com/track/5TdCUrQdTWZoTSAZH7Pfup) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [He's A Rebel](https://open.spotify.com/album/3yYINO0VYoVcFeiUkEZzUg) | 2:33 |
-| 39 | [Chicken Shake](https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 3:49 |
+| 38 | [Chicken Shake](https://open.spotify.com/track/6N0o3pElcfEqTgIdQzLU19) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/3NRQnGdFznbXtP8u2O4VKB) | 3:49 |
+| 39 | [He Hit Me \(It Felt Like a Kiss\)](https://open.spotify.com/track/5TdCUrQdTWZoTSAZH7Pfup) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [He's A Rebel](https://open.spotify.com/album/3yYINO0VYoVcFeiUkEZzUg) | 2:33 |
 | 40 | [Just Once In My Life](https://open.spotify.com/track/3Qg7WE98qRezh4Jq9fCKr8) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [Just Once In My Life](https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm) | 3:47 |
 | 41 | [Only Love Is Real](https://open.spotify.com/track/1nxgnG63hvc87iBLEvCuHS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:32 |
 | 42 | [Quiero Quedarme Aqui](https://open.spotify.com/track/6imwmUReqU5Sl7gZm3fLrO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 2:42 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcMUQAAAAACHB6tWh35bryHN9j2I5IWv`
+Snapshot ID: `AcMZ1gAAAACRbJqw6UOKB4gErl23HV1y`

@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 152158,
+  "num_followers": 152215,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "The Jimmy Giuffre 3",
         "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 203826,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Just In Time",
-      "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "New Faces - New Sounds",
-        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
-      },
-      "artists": [
-        {
-          "name": "Gil Melle",
-          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Under Capricorn",
-      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Jazz Guitar",
         "url": "https://open.spotify.com/album/5RfC4bI1lfV7PFOyVxawiM"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 319240,
       "name": "Thanks For The Memory",
       "url": "https://open.spotify.com/track/6eBEARA33jF1lPXoPGhSqG"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "New Faces - New Sounds",
+        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
+      },
+      "artists": [
+        {
+          "name": "Gil Melle",
+          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Under Capricorn",
+      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
     },
     {
       "added_at": "2024-07-08 07:01:17",

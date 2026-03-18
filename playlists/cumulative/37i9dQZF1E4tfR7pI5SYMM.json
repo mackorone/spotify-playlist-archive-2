@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, AlligatorX, Locus Noir and more",
+  "description": "With Die Oberherren, Locus Noir, AlligatorX and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 348933,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/4EtUmhhCKDq0MDpYEc8Ie5"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 167076,
       "name": "Dirty Stripper",
       "url": "https://open.spotify.com/track/4wTVlDT3sqvZmrwvaqQ7Rz"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 235527,
       "name": "DOWN IN THE DIRT",
       "url": "https://open.spotify.com/track/4bHGpYqczuwC4inSE61LEc"
@@ -1898,7 +1898,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 244013,
       "name": "El Teide",
       "url": "https://open.spotify.com/track/4u4SD3OKFu2u7W6mYAuB8r"
@@ -1988,7 +1988,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 307133,
       "name": "Emisja",
       "url": "https://open.spotify.com/track/36f7aMjnrLNwqSgRezLMmp"
@@ -2266,6 +2266,24 @@
       "duration_ms": 200000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6LI1br3anXTOBmqj0FKvgl"
+    },
+    {
+      "album": {
+        "name": "Fade to Grey",
+        "url": "https://open.spotify.com/album/0uoKe5xxh3qkdzl65j194s"
+      },
+      "artists": [
+        {
+          "name": "Parhelyon",
+          "url": "https://open.spotify.com/artist/464xWT7IzCJKYbqObaVlCM"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Fade to Grey",
+      "url": "https://open.spotify.com/track/7CFVcKhTQ7d7UowkThKQah"
     },
     {
       "album": {
@@ -3640,7 +3658,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 290094,
       "name": "Killerdemons",
       "url": "https://open.spotify.com/track/6rIl5Tlg91TRVcAOUdXiGJ"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 124000,
       "name": "Mind Riots",
       "url": "https://open.spotify.com/track/47LkoKpccLo3UDq4CpM81H"
@@ -5250,7 +5268,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 246088,
       "name": "Old Heart Falls",
       "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 278000,
       "name": "Pardo",
       "url": "https://open.spotify.com/track/7GvaXNQGAZcXedgapB4Pro"
@@ -5452,7 +5470,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 271048,
       "name": "Paris Is Burning",
       "url": "https://open.spotify.com/track/0b2rLPEsMlyZ1wIvts59N6"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 309146,
       "name": "People You Long To Forget",
       "url": "https://open.spotify.com/track/02nHmlfXcOcPLl4cqM2tSh"
@@ -5524,7 +5542,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5589,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/55gwWc4jGyK5qJtI7W4fqy"
+      },
+      "artists": [
+        {
+          "name": "Herra Ylpp\u00f6",
+          "url": "https://open.spotify.com/artist/6NwYl6JuXxC9H8T0hkNg6Q"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211461,
+      "name": "Pimeyden sulhanen",
+      "url": "https://open.spotify.com/track/0SBfnN69Mx4jes3um9HVl1"
+    },
+    {
+      "album": {
         "name": "Polar Night",
         "url": "https://open.spotify.com/album/5QpK7G1YTLNIZkR6P82gWf"
       },
@@ -5640,7 +5676,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Prettyache",
       "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
@@ -5846,7 +5882,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 297271,
       "name": "Road Raisin - Lower & Slower",
       "url": "https://open.spotify.com/track/3LJRNRYjEEE6yA4pswv3CY"
@@ -6034,7 +6070,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 314414,
       "name": "Scared Dancer",
       "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
@@ -6110,6 +6146,24 @@
       "duration_ms": 243519,
       "name": "Seconds Gone",
       "url": "https://open.spotify.com/track/5tR83jWMGrqcidqqDgoapQ"
+    },
+    {
+      "album": {
+        "name": "Security",
+        "url": "https://open.spotify.com/album/4zAenahRSWXg1Gqu3CWfFB"
+      },
+      "artists": [
+        {
+          "name": "Fotocrime",
+          "url": "https://open.spotify.com/artist/4FISVeBOWY3NwQsTUc7aVE"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/5LwTuvI3LKOXhik614TlqS"
     },
     {
       "album": {
@@ -6254,7 +6308,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -6326,7 +6380,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -7256,7 +7310,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -7430,7 +7484,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -7806,7 +7860,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -7864,6 +7918,32 @@
       "duration_ms": 192026,
       "name": "Toy ! - Single mix",
       "url": "https://open.spotify.com/track/4lna786L8JUAqg31pV89Y8"
+    },
+    {
+      "album": {
+        "name": "ARMAGEDDON",
+        "url": "https://open.spotify.com/album/5atkeguMyys9wsFGbCK7HJ"
+      },
+      "artists": [
+        {
+          "name": "GVVARA",
+          "url": "https://open.spotify.com/artist/0u3aHsjicLkwyZv53HPNEC"
+        },
+        {
+          "name": "Imitation Zone",
+          "url": "https://open.spotify.com/artist/4nbmVqLTMQ5urUAbCwY7zT"
+        },
+        {
+          "name": "Gabriel Hermes",
+          "url": "https://open.spotify.com/artist/4LrzOvNgQJvlCepuZuQyBu"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "TO\u0143",
+      "url": "https://open.spotify.com/track/0Q0eVjlRJIFzMkL1NbJawP"
     },
     {
       "album": {
@@ -7932,7 +8012,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 201617,
       "name": "Trick of Escaping Death",
       "url": "https://open.spotify.com/track/7xi2jjyS16aMJRL9GpVMI5"
@@ -8166,7 +8246,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -8654,7 +8734,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 305000,
       "name": "Withered",
       "url": "https://open.spotify.com/track/4rXXkuEOyspu8wqlhd47z7"
@@ -8994,7 +9074,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

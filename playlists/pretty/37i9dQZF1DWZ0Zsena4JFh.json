@@ -1,6 +1,6 @@
 {
   "description": "lo alt, raro y cool. beabadoobee y The Mar\u00edas en portada.",
-  "num_followers": 686885,
+  "num_followers": 686864,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-03-13 06:00:06",
       "album": {
+        "name": "Billie Toppy",
+        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Billie Toppy",
+      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
+    },
+    {
+      "added_at": "2026-03-13 06:00:06",
+      "album": {
         "name": "Where's My Love (with Carla)",
         "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 243053,
       "name": "Where's My Love - with Carla",
       "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
-    },
-    {
-      "added_at": "2026-03-13 06:00:06",
-      "album": {
-        "name": "Billie Toppy",
-        "url": "https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 195289,
-      "name": "Billie Toppy",
-      "url": "https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT"
     },
     {
       "added_at": "2026-03-13 06:00:06",

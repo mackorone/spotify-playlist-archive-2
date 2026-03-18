@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 190444,
+  "num_followers": 190486,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAABTT/Aa4KlNw1Hvof8kFK2z",
+  "snapshot_id": "abdIAAAAAABxtiAboRf6CY2dtCCMKlBw",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zutano",
-        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 181901,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
       "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 181901,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Todo Cambio",
-      "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Cuadros (Live)",
         "url": "https://open.spotify.com/album/6l8x9Tk6AcApr0IzT3iGWK"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 246997,
       "name": "El Cuadros - Live",
       "url": "https://open.spotify.com/track/5qiQEFkHH84ezsj7aGCnwV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Todo Cambio",
+      "url": "https://open.spotify.com/track/42wH3dWb4gBBFfJ4YBSIqC"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 238779,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pocho (En Vivo)",
         "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 168288,
       "name": "El Pocho - En Vivo",
       "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a"
     },
     {
       "added_at": null,

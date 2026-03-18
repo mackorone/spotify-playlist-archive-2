@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 191983,
+  "num_followers": 191989,
   "original_name": "Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
-        "name": "Tu Mano",
-        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Ser\u00e9",
-      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
         "name": "A Un Mil\u00edmetro De Ti",
         "url": "https://open.spotify.com/album/7aAYfzJAOZaETczNmMcoMY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 208210,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
     },
     {
       "added_at": "2025-11-25 20:24:44",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
+        "name": "Me Enamore De Ti",
+        "url": "https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 281002,
+      "name": "Me Enamor\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
         "name": "Amarte As\u00ed (En vivo)",
         "url": "https://open.spotify.com/album/06POrhViIkhGFmQeX5b2nD"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 202000,
       "name": "Amarte As\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1n7gk83L4L4P58Zynk08a8"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
-        "name": "Me Enamore De Ti",
-        "url": "https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 281002,
-      "name": "Me Enamor\u00e9 De Ti",
-      "url": "https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp"
     },
     {
       "added_at": "2025-11-25 20:24:44",

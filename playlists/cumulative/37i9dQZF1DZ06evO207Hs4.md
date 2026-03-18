@@ -4,11 +4,11 @@
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 59 min
+61 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7 X 7 Seven Times To Rise Seven Times To Fall](https://open.spotify.com/track/1lLv1anFJ7V239kKVnk2Lj) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [HOT WAX: Best of Roots, Reggae & Dub, Vol\. 3](https://open.spotify.com/album/7wi57xQ1ulAx4RUqIM6sRQ) | 4:06 | 2026-03-15 |  |
+| [7 X 7 Seven Times To Rise Seven Times To Fall](https://open.spotify.com/track/1lLv1anFJ7V239kKVnk2Lj) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [HOT WAX: Best of Roots, Reggae & Dub, Vol\. 3](https://open.spotify.com/album/7wi57xQ1ulAx4RUqIM6sRQ) | 5:30 | 2026-03-15 |  |
 | [Baby Let Me Feel It](https://open.spotify.com/track/36iR1iNaoaqV5z640aoBJ5) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Have Fun On Christmas With Reggae](https://open.spotify.com/album/4g0WFtV86mRFJk7oZgeUBV) | 4:12 | 2025-12-11 | 2026-02-11 |
 | [Better Days Are Coming](https://open.spotify.com/track/7KrFKOGBY7J7ewu7ckCcHC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 | 2025-11-25 | 2025-12-11 |
 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 | 2025-11-25 |  |

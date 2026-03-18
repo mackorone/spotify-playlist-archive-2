@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104764,
+  "num_followers": 104762,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-03-12 22:00:19",
       "album": {
-        "name": "Turisti (feat. Turisti)",
-        "url": "https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8"
-      },
-      "artists": [
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Turisti (feat. Turisti)",
-      "url": "https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO"
-    },
-    {
-      "added_at": "2026-03-12 22:00:19",
-      "album": {
         "name": "Horo",
         "url": "https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 208000,
       "name": "Horo",
       "url": "https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318"
+    },
+    {
+      "added_at": "2026-03-12 22:00:19",
+      "album": {
+        "name": "Turisti (feat. Turisti)",
+        "url": "https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Turisti (feat. Turisti)",
+      "url": "https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO"
     },
     {
       "added_at": "2026-03-12 22:00:19",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-03-12 22:00:19",
       "album": {
+        "name": "Aito freak",
+        "url": "https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "duration_ms": 138159,
+      "name": "Aito freak",
+      "url": "https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp"
+    },
+    {
+      "added_at": "2026-03-12 22:00:19",
+      "album": {
         "name": "NEED SUM MO",
         "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 180534,
       "name": "Jos t\u00e4\u00e4 ei oo se",
       "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
-    },
-    {
-      "added_at": "2026-03-12 22:00:19",
-      "album": {
-        "name": "Vituttaa",
-        "url": "https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d"
-      },
-      "artists": [
-        {
-          "name": "Sliki",
-          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
-        }
-      ],
-      "duration_ms": 197724,
-      "name": "Vituttaa",
-      "url": "https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W"
     }
   ],
   "unique_name": "100 Suomi",

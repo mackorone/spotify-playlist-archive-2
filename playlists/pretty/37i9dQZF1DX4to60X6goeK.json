@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Voltage",
-  "num_followers": 75199,
+  "num_followers": 75212,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-03-12 13:34:51",
       "album": {
-        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
-        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
-      },
-      "artists": [
-        {
-          "name": "TC",
-          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
-        },
-        {
-          "name": "Original Sin",
-          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
-      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
-    },
-    {
-      "added_at": "2026-03-12 13:34:51",
-      "album": {
         "name": "Raving In The Studio (SOTA Remix)",
         "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 135428,
       "name": "Raving In The Studio (SOTA Remix)",
       "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
+    },
+    {
+      "added_at": "2026-03-12 13:34:51",
+      "album": {
+        "name": "Inside The Rider (TC & Original Sin 2000's Remix)",
+        "url": "https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y"
+      },
+      "artists": [
+        {
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
+        },
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Inside The Rider - TC & Original Sin 2000's Remix",
+      "url": "https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR"
     },
     {
       "added_at": "2026-03-12 13:34:51",

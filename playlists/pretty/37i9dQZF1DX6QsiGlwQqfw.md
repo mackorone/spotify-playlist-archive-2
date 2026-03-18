@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,596 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,601 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 4 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
 | 5 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 |
 | 6 | [Raga Bhupali \- Teentaal](https://open.spotify.com/track/1rnN4Sw2lrDrohbbX7KNPP) | [Ulhas Bapat](https://open.spotify.com/artist/1z32zRkxwsdSPdH94j7eF9), [Aneesh Pradhan](https://open.spotify.com/artist/6W68ewYGmJgtVekZFZeBvt) | [Colours of Romance \- Raga Bhupali](https://open.spotify.com/album/5PH0PXYBR6fQI41JFXqFVB) | 4:50 |
-| 7 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 |
-| 8 | [Raga Prachin Khamaj](https://open.spotify.com/track/4ja1Jx5SzX65R6jHb14qOz) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:16 |
+| 7 | [Raga Prachin Khamaj](https://open.spotify.com/track/4ja1Jx5SzX65R6jHb14qOz) | [Amjad Ali Khan](https://open.spotify.com/artist/1IsvL603uF5ieIXYApKcnr) | [Inimitable \- Sarod Grand Master Amjad Ali Khan](https://open.spotify.com/album/3ubZAS4OlUMDO0VgtQiDdb) | 7:16 |
+| 8 | [Raga Tilak Kamodi](https://open.spotify.com/track/1Mc58bywNOJT8vrMYunODv) | [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Guitar A La Hindustan](https://open.spotify.com/album/0p2uVASndftECemYMJM80y) | 17:07 |
 | 9 | [Megh](https://open.spotify.com/track/3lRuxLVLB1nk60BzxhWegW) | [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl), [Anubrata Chatterjee](https://open.spotify.com/artist/1MLZspgw3JzCsQg8R8zEf4), [Indrajit Indro Dey](https://open.spotify.com/artist/2tVkkTDeui1w14sm3q6C3O) | [The Megh Project](https://open.spotify.com/album/1I6WVjNt53hFy2k1y8s8Qx) | 3:40 |
 | 10 | [The Beauty of Sangat \(feat\. Pt\. Shivkumar Sharma\)](https://open.spotify.com/track/4hX5EPwNbF2a3hdasPewqc) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 16:40 |
 | 11 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 |

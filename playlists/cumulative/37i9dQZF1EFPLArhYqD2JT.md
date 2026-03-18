@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-498 songs - 1 day 1 hr 6 min
+499 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,8 +138,9 @@
 | [Hollywood Medley: That International Rag \(From Alexander's Ragtime Band\)](https://open.spotify.com/track/4WhjXQPcCWYsS1GFxxPEwR) | [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC), [Mandy Patinkin](https://open.spotify.com/artist/5sEmwxBNJizU2RUfVNo6BC), [Paul Gemignani](https://open.spotify.com/artist/5oi5DXLFdDZKjwlVxRY3GS) | [Mandy Patinkin: Dress Casual](https://open.spotify.com/album/5yy38edKcuedVgLHwB50BI) | 0:43 | 2024-07-26 |  |
 | [Home Again Blues \(Introducing "Lindy"\)](https://open.spotify.com/track/6APp76TyLWKQXehxz5EuM2) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [1917\-36](https://open.spotify.com/album/3jgqADR5t7Fr7OLlnxAsbE) | 2:43 | 2025-12-17 |  |
 | [Home Again Blues \(Introducing "Lindy"\)](https://open.spotify.com/track/0P6JBQG2e4EuRuWlCbm5eb) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [1917\-36](https://open.spotify.com/album/0g0gji3OCW8pwChWytqc9s) | 2:45 | 2024-07-26 | 2025-12-18 |
-| [Homesick](https://open.spotify.com/track/0Dtp2pKVggztAbpHCHzjx2) | [Erich Schuett](https://open.spotify.com/artist/66ZJnPNfhpcKBvRHeZwqnY) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 3:53 | 2025-09-10 |  |
+| [Homesick](https://open.spotify.com/track/0Dtp2pKVggztAbpHCHzjx2) | [Erich Schuett](https://open.spotify.com/artist/66ZJnPNfhpcKBvRHeZwqnY) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 3:53 | 2025-09-10 | 2026-03-18 |
 | [Homesick](https://open.spotify.com/track/3dYC7zICWweDQa0hc3c2zV) | [Irving Berlin](https://open.spotify.com/artist/37BkjxjHL0ObrVXIXvBEnL) | [The Broadway Musicals \- Classic Show Tunes](https://open.spotify.com/album/1Cg3Qg3pMbKQqOPGBwi4cV) | 2:57 | 2024-07-26 | 2024-10-17 |
+| [Homesick](https://open.spotify.com/track/08jQcuppmByeQDLJONFYE7) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 14](https://open.spotify.com/album/2jz5tfKSU8jQ26QigpXznV) | 2:44 | 2026-03-17 |  |
 | [Homeward Bound](https://open.spotify.com/track/1WiWWLHYGmBITuKJE953zs) | [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5) | [100 Years: Celebrating a Century of Recording Excellence](https://open.spotify.com/album/6RtntjH8642XPZ7lXcOnSn) | 5:53 | 2024-07-26 |  |
 | [Homework](https://open.spotify.com/track/3XFpTD3YUFKahYM2jUD9ir) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Some Sunny Day \- The Songbook, The Energy And The Blend](https://open.spotify.com/album/5BeoWMtKwyiL1t2pDUG6nA) | 3:00 | 2024-07-26 |  |
 | [Hou Je Van 'M](https://open.spotify.com/track/2lRBOfPcCazCgYBPVou7W1) | [Mylene D'Anjou](https://open.spotify.com/artist/6whJ3RrJWerVtr5GJCFZcY) | [Platina: Mooiste Liedjes Uit De Voorstelling](https://open.spotify.com/album/06tazZdLeZCuyCyGQpVcoM) | 4:37 | 2024-07-26 |  |

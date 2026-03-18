@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 274614,
+  "num_followers": 274587,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -763,18 +763,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "The Kacey Musgraves Christmas Show",
+        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+      "duration_ms": 132108,
+      "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
+      "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -831,22 +835,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "The Kacey Musgraves Christmas Show",
-        "url": "https://open.spotify.com/album/0KY2QQMpqsy1tOyNhr4zxI"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 132108,
-      "name": "I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show",
-      "url": "https://open.spotify.com/track/0dEAzedAp3dKqhvGa1BRIC"
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "santa baby",
+        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "duration_ms": 159209,
+      "name": "santa baby",
+      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "santa baby",
-        "url": "https://open.spotify.com/album/7wCLSfmIX1QqLnGwM35R4h"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 159209,
-      "name": "santa baby",
-      "url": "https://open.spotify.com/track/1gpXsWIb9HhdiK3KYDsCZr"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
     }
   ],
   "unique_name": "Indie Christmas",

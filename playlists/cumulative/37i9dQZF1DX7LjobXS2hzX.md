@@ -4,7 +4,7 @@
 
 > Voici les hits du moment\. Photo: Olivia Dean
 
-651 songs - 1 day 10 hr 13 min
+652 songs - 1 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,7 @@
 | [J'veux pas qu'tu t'en ailles](https://open.spotify.com/track/7rfUI0rMAupZpnUXkJbbG6) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:16 | 2025-10-10 | 2025-12-20 |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-03-24 | 2023-04-15 |
 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 | 2025-06-13 | 2025-10-18 |
-| [Je confirme ma présence](https://open.spotify.com/track/5Hycs03T6DODsC0i97ndGm) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Je confirme ma présence](https://open.spotify.com/album/7FZsjZ9PcNnM8srIQ9V8ql) | 1:48 | 2025-12-05 |  |
+| [Je confirme ma présence](https://open.spotify.com/track/5Hycs03T6DODsC0i97ndGm) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Je confirme ma présence](https://open.spotify.com/album/7FZsjZ9PcNnM8srIQ9V8ql) | 1:48 | 2025-12-05 | 2026-03-18 |
 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 | 2024-04-26 | 2025-06-14 |
 | [Je pars à l'autre bout du monde](https://open.spotify.com/track/2MqK72oIRwvAehxFSgZvCl) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Je pars à l'autre bout du monde](https://open.spotify.com/album/3EBgnndGDwRJEbmIX5Hqvi) | 4:22 | 2026-02-06 |  |
 | [JE STACK](https://open.spotify.com/track/26XN41kFU4nVBaub3QQkOT) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [JE STACK](https://open.spotify.com/album/3pI8XEnHj7svtXpaWyr3fC) | 1:51 | 2026-02-16 |  |
@@ -524,6 +524,7 @@
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-05-30 | 2025-12-20 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-27 | 2023-02-18 |
 | [She Stole My Truck](https://open.spotify.com/track/5VoOUxtMkxqNC0XuolPHcL) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [She Stole My Truck](https://open.spotify.com/album/0hjiKG6daMiML6mvD0fZEC) | 2:52 | 2026-02-13 |  |
+| [Sherpa](https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 5:43 | 2026-03-17 |  |
 | [Shot Kalla](https://open.spotify.com/track/6al8PLaE7ebqmBWGVO5Bph) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Shot Kalla](https://open.spotify.com/album/5uBqAVwoLV0gjbHFzsMbe3) | 2:32 | 2026-03-16 |  |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-12 | 2025-10-18 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-25 | 2024-07-19 |

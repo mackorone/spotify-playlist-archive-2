@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Aterciopelados en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,345 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,357 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 44 | [Turromantik](https://open.spotify.com/track/2GTjkdvq8IdPehULadTahj) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Turromantik](https://open.spotify.com/album/2djujDQjWfzlTsACLJJaWc) | 3:39 |
 | 45 | [Cardio](https://open.spotify.com/track/35FPNzYRm2WpIt6rr1WZv6) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Un Verano en Caliyork](https://open.spotify.com/album/4F44LKbwcD0MlXkvYnYl0r) | 3:16 |
 | 46 | [Quédate](https://open.spotify.com/track/0XVVpxQz9asVWytsDdQCy8) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Quédate](https://open.spotify.com/album/6ImjLS7pbQSBEJlGfCNNXu) | 2:32 |
-| 47 | [GIMME MORE](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [GIMME MORE](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
+| 47 | [No Me Sirve Más](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [No Me Sirve Más](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
 | 48 | [kombate](https://open.spotify.com/track/5pzUVpoeLEiTtLcVJ3KR4r) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [piel / kombate](https://open.spotify.com/album/0u8wiHNdWYH3K2HMB5faeO) | 3:50 |
 | 49 | [Aviones de Papel](https://open.spotify.com/track/27KURlRxgWQwU6of0oXdY0) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB), [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Pie de Página](https://open.spotify.com/album/3MJVCKOU5rMFkKg4eVG16g) | 2:30 |
 | 50 | [El Juego](https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [El Juego](https://open.spotify.com/album/2azntgtYhJNnQqjMNglofk) | 3:37 |

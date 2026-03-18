@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 637 likes - 62 songs - 3 hr 27 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 648 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 60 | [Can't Stop Loving You](https://open.spotify.com/track/3U8jamAGzYu9hQiiaPjzpz) | [Kevon Tyrre](https://open.spotify.com/artist/5vSBtDDQkWN6uh8QtNGbmp) | [Can't Stop Loving You](https://open.spotify.com/album/4qKDPPao7cfkopnwhU7MG5) | 4:07 |
 | 61 | [Run, Cinderella](https://open.spotify.com/track/3byIGxwllmdPbfpwzrIDyG) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [40 Days](https://open.spotify.com/album/5mVB4IdzqLak9ldSKbVD9b) | 3:32 |
 | 62 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
+| 63 | [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 |
+| 64 | [Lust](https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Love/Lust](https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt) | 1:53 |
 
-Snapshot ID: `AAADSNGBAzeNRvUNRdb+AxlpfgpwZrfr`
+Snapshot ID: `AAADSovn/07ltpPfoea0osaWq2qlWDbr`

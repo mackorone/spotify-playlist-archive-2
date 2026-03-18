@@ -204,6 +204,24 @@
     {
       "album": {
         "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/7DyEJCCPhOvQvZek3wZetV"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/1Ays6D1jvecxODQCSRe0ik"
+    },
+    {
+      "album": {
+        "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
       },
       "artists": [
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 241760,
       "name": "Blood",
       "url": "https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x"

@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-104 songs - 6 hr 6 min
+106 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Sandcastle](https://open.spotify.com/track/0N2d2I8iFfz6ExzJeVQ5gU) | [Draig](https://open.spotify.com/artist/3bPNs4WxtWGGaWGY9HSFLR) | [Barefoot](https://open.spotify.com/album/2z2LWb5kJqtUASMgmnAbAv) | 3:02 | 2025-10-13 |  |
 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 | 2025-12-02 | 2025-12-28 |
 | [Sei qualcosa di più](https://open.spotify.com/track/0AMRBYq1MSMhHfPrbfzizr) | [DREANN](https://open.spotify.com/artist/0F1JM34Bsg9sH9sPyh7hFX) | [Rumori di Felicità](https://open.spotify.com/album/6IylMld0SUGYQpBtCwna1f) | 3:23 | 2026-01-28 | 2026-02-22 |
+| [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 | 2026-03-17 |  |
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 | 2021-03-29 |  |
 | [Strangelove](https://open.spotify.com/track/6cKwFiMyBwqCMvHjC5mIXe) | [Positronic](https://open.spotify.com/artist/6rDrqNMSUbW114j0HBKK6t) | [Strangelove](https://open.spotify.com/album/2Q10PgEpeyBRDY642hYsuO) | 3:56 | 2025-11-07 | 2025-11-22 |
 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2021-03-29 |  |
@@ -107,6 +108,7 @@
 | [Where Blossoms Remain \(꽃이 남아 있는 곳\)](https://open.spotify.com/track/0gJNeIbblQYLH2iVFTVUk2) | [ECLIPSE OF AERA](https://open.spotify.com/artist/3Stckikbh1beMMDjayt2W9) | [Where Blossoms Remain \(꽃이 남아 있는 곳\)](https://open.spotify.com/album/0Iect8Re2rVpvO7qimEemI) | 4:17 | 2025-11-04 | 2025-11-22 |
 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 | 2026-01-03 | 2026-01-29 |
 | [White Flag](https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA) | 4:00 | 2021-03-29 |  |
+| [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 | 2026-03-17 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2021-03-29 |  |
 | [you accommodate my apprehensions](https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY) | [pato](https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg) | [you accommodate my apprehensions](https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT) | 3:30 | 2026-01-29 |  |
 | [yung n dumb](https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK) | [Marc Vinyls](https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8) | [yung n dumb](https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj) | 1:52 | 2026-03-06 |  |

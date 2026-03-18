@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2706,
+  "num_followers": 2705,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARjA6ST/NGryagqaOt+oIvlsvS46Ka",
+  "snapshot_id": "AAARjSDaof2AE4DZXnFsl7bp7QFZiTpE",
   "tracks": [
+    {
+      "added_at": "2026-03-17 20:48:39",
+      "album": {
+        "name": "Nite & Day",
+        "url": "https://open.spotify.com/album/7nzBg24gwBiLWWTR6E5LeN"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3SN0Qt3fOLKbDGLW0q5AD2"
+    },
     {
       "added_at": "2026-03-15 03:13:01",
       "album": {

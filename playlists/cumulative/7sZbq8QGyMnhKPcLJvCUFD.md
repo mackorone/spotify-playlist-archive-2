@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-837 songs - 1 day 17 hr 33 min
+838 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Funeral](https://open.spotify.com/track/6Ql6cQGKPrU5CP8u6LHzkT) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Funeral](https://open.spotify.com/album/2gTZvYBtprARgndX724KEX) | 2:56 | 2025-09-16 |  |
 | [Funk It](https://open.spotify.com/track/5UxqThkJZYyOHZZ8ovBKzU) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Funk It](https://open.spotify.com/album/2M8c3XJgVUNuu1sc0d0oXj) | 3:02 | 2025-01-13 |  |
 | [Galactic](https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [Galactic](https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx) | 3:23 | 2024-03-05 | 2024-09-29 |
+| [Gamble](https://open.spotify.com/track/2QgfKQW5j8SFnRuqNwMfuE) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Gamble](https://open.spotify.com/album/0awmZjIkNdatJWQICueKsB) | 2:24 | 2026-03-17 |  |
 | [Gang](https://open.spotify.com/track/3rY9c54y99HLvtwgdWa9Da) | [DJ Nansuya](https://open.spotify.com/artist/12bX3Fr0vy9dvgIoxzPQ36) | [Gang](https://open.spotify.com/album/0KGak11lvZ0sRN5m9oNrA4) | 2:33 | 2025-02-11 |  |
 | [Geometry](https://open.spotify.com/track/0AmYNX6Ho7z4o4auoaupYN) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Geometry](https://open.spotify.com/album/2x1RrN4EMDOhzKoR6zf3S4) | 2:35 | 2024-11-19 |  |
 | [GET MUCKY](https://open.spotify.com/track/1r9fNFOCr8eW7JHIJKoqsh) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [GET MUCKY](https://open.spotify.com/album/6aR6aiYCoorj34c9sr6P76) | 2:25 | 2024-06-21 | 2025-01-08 |

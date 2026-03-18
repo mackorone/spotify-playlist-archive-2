@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,590 likes - 71 songs - 3 hr 49 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,589 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 69 | [Any Other Night](https://open.spotify.com/track/4jF0QfWSjUMrH7Y5fL0leS) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [Any Other Night](https://open.spotify.com/album/76wg0moAfOziJ3E7u25UES) | 3:05 |
 | 70 | [POSSESSION](https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [POSSESSION](https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip) | 3:07 |
 | 71 | [Rage](https://open.spotify.com/track/4WAWPLY7EBPmtjg4X4X1HD) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Rage](https://open.spotify.com/album/2tmHGkMjCXggqKE2XvoC6I) | 3:13 |
+| 72 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |
 
-Snapshot ID: `AAAH1Lg4kM7OCcIu3cgWICrP8MzEHAQX`
+Snapshot ID: `AAAH1UZzov+aqJ8whLi6ms+Um9mTu6sl`

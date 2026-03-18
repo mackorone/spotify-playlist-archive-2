@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,090 songs - 3 day 17 hr 52 min
+1,091 songs - 3 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Better Days](https://open.spotify.com/track/0NUnub47unjOgFG3Q11ZTE) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Better Days](https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR) | 4:08 | 2024-05-24 | 2025-03-01 |
 | [Better Left Unsaid](https://open.spotify.com/track/084Bexeea6EEoUVBWz9AGB) | [Kuren](https://open.spotify.com/artist/6MCHLEjYo9byp8QYGpgnGp) | [Better Left Unsaid](https://open.spotify.com/album/5IWlPDue4yjlDOWLJ9tNeJ) | 3:15 | 2023-09-29 | 2023-10-05 |
 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 | 2024-01-05 | 2024-10-26 |
-| [Beyond The Maps](https://open.spotify.com/track/0KFNu8NLtJYsMuhwXce8CH) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Beyond The Maps](https://open.spotify.com/album/513KOBWnhqx1MIQsnqjs55) | 4:00 | 2026-03-13 |  |
+| [Beyond The Maps](https://open.spotify.com/track/0KFNu8NLtJYsMuhwXce8CH) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Beyond The Maps](https://open.spotify.com/album/513KOBWnhqx1MIQsnqjs55) | 4:00 | 2026-03-13 | 2026-03-18 |
 | [Beyond Us \- Hatshepsut Version, Alex Wann Remix](https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Beyond Us \(Hatshepsut Version, Alex Wann Remix\)](https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp) | 3:39 | 2024-04-26 | 2025-03-01 |
 | [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-03-29 | 2025-05-07 |
 | [Big Mouth](https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4) | [MADI](https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T) | [Big Mouth](https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn) | 4:19 | 2025-09-12 |  |
@@ -234,6 +234,7 @@
 | [Dance of the Crab](https://open.spotify.com/track/7tu1Bd1SfSiBdRgUvYpq7t) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 3:29 | 2023-07-14 | 2023-07-22 |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 | 2024-08-10 |
 | [Dancing](https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Jaguar Jaguar](https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4) | [Dancing](https://open.spotify.com/album/6duHhpB251h1h9vSOiMz9n) | 3:45 | 2025-06-19 |  |
+| [Dark Sky](https://open.spotify.com/track/3JjBiD8tBhmWYHJWdgC55D) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Emre Arisev](https://open.spotify.com/artist/124sTO5ajKDucfAMyMvpeo), [Emiran](https://open.spotify.com/artist/3eMD7BSX6Fi553cmgWOkAk), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Dark Sky](https://open.spotify.com/album/6D8PJWfkanqurFQrWdzIrW) | 3:16 | 2026-03-13 |  |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 | 2023-06-22 |
 | [Dark Waters](https://open.spotify.com/track/2RlJP44TiTsORVfROLAoKT) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy) | [Dark Waters](https://open.spotify.com/album/1CKA58O7GAV2LgQ8hrtaWl) | 3:33 | 2025-03-28 | 2025-04-02 |
 | [Darling \(with Aloe Blacc\)](https://open.spotify.com/track/6sR3MHv7kJ0k3C8JDTASSv) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Darling \(with Aloe Blacc\)](https://open.spotify.com/album/1LvU8LC6QS10D853iffKsg) | 4:32 | 2024-03-01 | 2025-10-11 |

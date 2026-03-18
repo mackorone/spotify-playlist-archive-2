@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,277 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,300 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 47 | [Youngr](https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Youngr](https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz) | 2:55 |
 | 48 | [Blitz \(Você Não Soube Me Amar\)](https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Blitz \(Você Não Soube Me Amar\)](https://open.spotify.com/album/4u1iSVei2vJgYCjhBqT5b0) | 3:28 |
 | 49 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 |
-| 50 | [Please Don't Go \- Bruno Martini Remix](https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI) | [Double You](https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Please Don't Go \(Bruno Martini Remix\)](https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt) | 2:38 |
-| 51 | [Low \(feat\. Victor Perry\)](https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Low \(feat\. Victor Perry\)](https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5) | 2:25 |
+| 50 | [Low \(feat\. Victor Perry\)](https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Victor Perry](https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE) | [Low \(feat\. Victor Perry\)](https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5) | 2:25 |
+| 51 | [Please Don't Go \- Bruno Martini Remix](https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI) | [Double You](https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Please Don't Go \(Bruno Martini Remix\)](https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt) | 2:38 |
 | 52 | [Tudo Que Ela Gosta De Escutar \- Lion Remix](https://open.spotify.com/track/0YOxIn3KAjEGmNsrlgGSVp) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5), [LION dj](https://open.spotify.com/artist/3u07NDek29YpaTuNSDdOxJ) | [Tudo Que Ela Gosta De Escutar \(Lion Remix\)](https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD) | 5:00 |
 | 53 | [Blind](https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Blind](https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9) | 2:59 |
 | 54 | [Dentro de um Abraço \- Pic Schmitz e Breno Rocha Remix](https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl), [Breno Rocha](https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut) | [Dentro de um Abraço \(Pic Schmitz e Breno Rocha Remix\)](https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M) | 2:38 |

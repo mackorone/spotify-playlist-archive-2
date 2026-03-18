@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
-  "num_followers": 56373,
+  "num_followers": 56383,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "Constelaci\u00f3n",
+        "url": "https://open.spotify.com/album/0icWXRGdopPIamBatGerqU"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 249990,
+      "name": "Constelaci\u00f3n",
+      "url": "https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "Me Sobran las Ganas (Cuando Te Vas)",
         "url": "https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 182293,
       "name": "Me Sobran las Ganas (Cuando Te Vas)",
       "url": "https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "Constelaci\u00f3n",
-        "url": "https://open.spotify.com/album/0icWXRGdopPIamBatGerqU"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 249990,
-      "name": "Constelaci\u00f3n",
-      "url": "https://open.spotify.com/track/012Hj5jY0izHIxW5PUshkO"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
+        "name": "Nada me cansa",
+        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 122553,
+      "name": "Nada me cansa",
+      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
         "name": "En Otro Jard\u00edn X(",
         "url": "https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao"
       },
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2025-12-05 14:55:26",
       "album": {
-        "name": "Nada me cansa",
-        "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
-      },
-      "artists": [
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 122553,
-      "name": "Nada me cansa",
-      "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
         "name": "Toda La Luz",
         "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
       },
@@ -1071,26 +1071,6 @@
       "duration_ms": 132000,
       "name": "Toda La Luz",
       "url": "https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb"
-    },
-    {
-      "added_at": "2025-12-05 14:55:26",
-      "album": {
-        "name": "FASES",
-        "url": "https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        },
-        {
-          "name": "Ronnie",
-          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
-        }
-      ],
-      "duration_ms": 179552,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc"
     },
     {
       "added_at": "2025-12-05 14:55:26",
@@ -1111,6 +1091,26 @@
       "duration_ms": 103695,
       "name": "Claro",
       "url": "https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg"
+    },
+    {
+      "added_at": "2025-12-05 14:55:26",
+      "album": {
+        "name": "FASES",
+        "url": "https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        },
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
+        }
+      ],
+      "duration_ms": 179552,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc"
     },
     {
       "added_at": "2025-12-05 14:55:26",

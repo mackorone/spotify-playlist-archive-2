@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 8148,
+  "num_followers": 8156,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "My Sweetheart",
+        "url": "https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ"
+      },
+      "artists": [
+        {
+          "name": "K. K. Kabobo",
+          "url": "https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq"
+        }
+      ],
+      "duration_ms": 322063,
+      "name": "Onyame Ehu Wo",
+      "url": "https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Rhythm On The Radio - Oval Records Singles 1974-1987",
         "url": "https://open.spotify.com/album/1vivpy5tk8QQoXgI4EdUU6"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 334906,
       "name": "Duke",
       "url": "https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "My Sweetheart",
-        "url": "https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ"
-      },
-      "artists": [
-        {
-          "name": "K. K. Kabobo",
-          "url": "https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq"
-        }
-      ],
-      "duration_ms": 322063,
-      "name": "Onyame Ehu Wo",
-      "url": "https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1251,18 +1251,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Demara",
-        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
+        "name": "Fakye",
+        "url": "https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5"
       },
       "artists": [
         {
-          "name": "Amanzeba",
-          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
+          "name": "Nana Quame",
+          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
+        },
+        {
+          "name": "Sass Squad",
+          "url": "https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Wogbe",
-      "url": "https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg"
+      "duration_ms": 389666,
+      "name": "Me Nko Meda",
+      "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1283,22 +1287,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Fakye",
-        "url": "https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5"
+        "name": "Demara",
+        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
       },
       "artists": [
         {
-          "name": "Nana Quame",
-          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
-        },
-        {
-          "name": "Sass Squad",
-          "url": "https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx"
+          "name": "Amanzeba",
+          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
         }
       ],
-      "duration_ms": 389666,
-      "name": "Me Nko Meda",
-      "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
+      "duration_ms": 283640,
+      "name": "Wogbe",
+      "url": "https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg"
     },
     {
       "added_at": "2026-02-20 08:28:52",

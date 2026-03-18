@@ -1,12 +1,12 @@
 {
   "description": "Today's top country music!",
-  "num_followers": 34990,
+  "num_followers": 34991,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAfSqv4fBs6uPTnvdZHUw3bwsNQKa4K",
+  "snapshot_id": "AAAfUyje0dgCyvsFFT2hfuQLXCfQHLDG",
   "tracks": [
     {
       "added_at": "2026-03-14 02:01:38",
@@ -39,6 +39,58 @@
       "duration_ms": 255466,
       "name": "Travelin' Soldier",
       "url": "https://open.spotify.com/track/4ThbwJaIWVxXZ1qJaHQBCz"
+    },
+    {
+      "added_at": "2026-03-17 14:54:16",
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 166173,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"
+    },
+    {
+      "added_at": "2026-03-17 14:28:56",
+      "album": {
+        "name": "Just Believe",
+        "url": "https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 161214,
+      "name": "Just Believe",
+      "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
+    },
+    {
+      "added_at": "2026-03-17 14:53:50",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2026-03-14 02:01:38",
@@ -91,38 +143,6 @@
     {
       "added_at": "2026-03-14 02:01:38",
       "album": {
-        "name": "The Hard Way (Deluxe)",
-        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 154623,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
-    },
-    {
-      "added_at": "2026-03-14 02:01:38",
-      "album": {
-        "name": "weren't for the wind",
-        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
-    },
-    {
-      "added_at": "2026-03-14 02:01:38",
-      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -139,6 +159,22 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
+    },
+    {
+      "added_at": "2026-03-14 02:01:38",
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
       "added_at": "2026-03-14 02:01:38",

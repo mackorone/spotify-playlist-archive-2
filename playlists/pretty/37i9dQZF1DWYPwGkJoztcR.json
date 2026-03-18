@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396572,
+  "num_followers": 396589,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Sit Back Baby",
-        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 234723,
-      "name": "Sit Back Baby",
-      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Small Changes",
         "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 271930,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Happy, Pt. 2",
-        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
-      },
-      "artists": [
-        {
-          "name": "Douglas Firs",
-          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
-        }
-      ],
-      "duration_ms": 230715,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 227408,
       "name": "Lies",
       "url": "https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Happy, Pt. 2",
+        "url": "https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi"
+      },
+      "artists": [
+        {
+          "name": "Douglas Firs",
+          "url": "https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4"
+        }
+      ],
+      "duration_ms": 230715,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Same Heart",
         "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 219923,
       "name": "Same Heart",
       "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Grow Up",
-        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
-      },
-      "artists": [
-        {
-          "name": "Sisy Fos",
-          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
-        }
-      ],
-      "duration_ms": 229347,
-      "name": "Grow Up",
-      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 226853,
       "name": "Easy To Love (feat. Iris Jean)",
       "url": "https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Grow Up",
+        "url": "https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg"
+      },
+      "artists": [
+        {
+          "name": "Sisy Fos",
+          "url": "https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3"
+        }
+      ],
+      "duration_ms": 229347,
+      "name": "Grow Up",
+      "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 245562,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Kind Of Love",
-        "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
-      },
-      "artists": [
-        {
-          "name": "Kris Berry",
-          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
-        }
-      ],
-      "duration_ms": 234183,
-      "name": "Kind Of Love",
-      "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
+        "name": "Kind Of Love",
+        "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
+      },
+      "artists": [
+        {
+          "name": "Kris Berry",
+          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
+        }
+      ],
+      "duration_ms": 234183,
+      "name": "Kind Of Love",
+      "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
         "name": "Po\u00e8te Maudit",
         "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Back to the River",
-        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 249863,
-      "name": "Back to the River",
-      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 168433,
       "name": "What Makes A King",
       "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Back to the River",
+        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 249863,
+      "name": "Back to the River",
+      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
     },
     {
       "added_at": "2026-03-05 23:00:27",

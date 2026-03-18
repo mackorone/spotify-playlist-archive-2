@@ -6057,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "Pyaar Ka Jua",
+        "url": "https://open.spotify.com/album/4CZDD94XvINvDDDipRji4p"
+      },
+      "artists": [
+        {
+          "name": "THE 9TEEN",
+          "url": "https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138624,
+      "name": "Pyaar Ka Jua",
+      "url": "https://open.spotify.com/track/2ifXihxjjouUg9bUAL0sxR"
+    },
+    {
+      "album": {
         "name": "Qareeb",
         "url": "https://open.spotify.com/album/6mcoV5gev8Ol1wHu6mDO1o"
       },
@@ -7036,7 +7054,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 170204,
       "name": "Shaam Se",
       "url": "https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv"

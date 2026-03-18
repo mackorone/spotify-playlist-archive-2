@@ -191,6 +191,32 @@
     },
     {
       "album": {
+        "name": "2 Ghore",
+        "url": "https://open.spotify.com/album/5blMpb9MjxVEDJC0ZCEfXm"
+      },
+      "artists": [
+        {
+          "name": "InderH Nagra",
+          "url": "https://open.spotify.com/artist/3nFyZetF0LlSgmEzsqZucl"
+        },
+        {
+          "name": "PARDHAAN",
+          "url": "https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq"
+        },
+        {
+          "name": "Shree Brar",
+          "url": "https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222811,
+      "name": "2 Ghore",
+      "url": "https://open.spotify.com/track/7enK0d9SwLDpBc8lfTHB9K"
+    },
+    {
+      "album": {
         "name": "2022 FLOW",
         "url": "https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im"
       },
@@ -15432,7 +15458,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 149677,
       "name": "One of One",
       "url": "https://open.spotify.com/track/7cMINvwWgOo6UA9Lj52Sam"

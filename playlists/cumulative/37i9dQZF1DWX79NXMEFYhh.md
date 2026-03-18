@@ -4,13 +4,13 @@
 
 > gusto ko lang naman ng kayakap
 
-161 songs - 9 hr 51 min
+163 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Cause You Have To](https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:10 | 2023-10-18 | 2024-04-19 |
 | ['Cause You Have To](https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 4:10 | 2024-04-17 |  |
-| [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2024-01-23 |  |
+| [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2024-01-23 | 2026-03-18 |
 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 | 2025-11-12 |  |
 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 | 2023-11-10 |  |
 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-12-03 | 2025-07-22 |
@@ -40,6 +40,7 @@
 | [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 | 2023-10-18 | 2023-11-11 |
 | [Do What She Wanna](https://open.spotify.com/track/5F5eberTTCphTF0PxkvBRL) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Do What She Wanna](https://open.spotify.com/album/4XiMf2WIQXKfVXE7De60Gl) | 2:44 | 2026-01-19 | 2026-02-17 |
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-19 | 2025-07-22 |
+| [EABAB](https://open.spotify.com/track/1T2rM909IZ2hTUVfjg1xWz) | [Marina Summers](https://open.spotify.com/artist/1Fyd3jfR3gIZSLJTFVKtEm) | [EABAB](https://open.spotify.com/album/77Lj5uJJ6LKOU3loAgWmpi) | 3:28 | 2026-03-17 |  |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-09 |  |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-07-21 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 | 2023-11-11 |
@@ -131,7 +132,7 @@
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-04-17 | 2025-07-22 |
 | [Sweater](https://open.spotify.com/track/00zym4gip0T3BaJTRYdimU) | [OZO](https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI) | [Sweater](https://open.spotify.com/album/6ucXmTxvLp3pJrEiOJcRfW) | 3:54 | 2026-02-16 | 2026-03-10 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2025-07-21 |  |
-| [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-24 |  |
+| [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-24 | 2026-03-18 |
 | [SWERTE KA NA NGA](https://open.spotify.com/track/4T3CBzGcWCBXstkek0eLJ4) | [jiofu](https://open.spotify.com/artist/5lJnyJ8eWVrgjPcTLZmmGU) | [SWERTE KA NA NGA](https://open.spotify.com/album/7yUc8DpwXMwTZxsJeiPVa2) | 2:55 | 2026-02-16 | 2026-03-10 |
 | [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-18 | 2024-03-22 |
 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-10-18 | 2024-09-19 |
@@ -143,6 +144,7 @@
 | [That's What Love Is](https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [That's What Love Is](https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN) | 4:04 | 2024-01-23 | 2025-07-22 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2023-10-18 | 2024-04-19 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/2Vq4bs08YppE2hqA2vpEcr) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/7Lv2e6qweacdWjqrQy7UNo) | 4:01 | 2024-04-17 | 2024-09-19 |
+| [There, There](https://open.spotify.com/track/5fnRmmu0VYact0wMvpaV8h) | [OZO](https://open.spotify.com/artist/2BlMyti7MTSjjlD51fHHVI) | [There, There](https://open.spotify.com/album/3bX2X3clVDDpyNmL9Qv1Jc) | 3:58 | 2026-03-17 |  |
 | [Things You Said \(feat\. Abby Cates\)](https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 3:54 | 2024-03-21 | 2025-07-22 |
 | [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 | 2024-09-18 | 2025-07-22 |
 | [this time](https://open.spotify.com/track/3RflzntjekyDoIlm11kNIN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [this time](https://open.spotify.com/album/7JXBW10JRr5UtC7CjPZR5t) | 2:56 | 2023-10-18 | 2025-07-22 |

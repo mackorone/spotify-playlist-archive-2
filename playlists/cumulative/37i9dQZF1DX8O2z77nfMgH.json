@@ -17015,7 +17015,7 @@
     },
     {
       "album": {
-        "name": "Angel o Demonio (feat. LUISITO MU\u00d1OZ) [Remix]",
+        "name": "Angel o Demonio (Remix)",
         "url": "https://open.spotify.com/album/5dvCKHPZjSkxTyvImCW1Bd"
       },
       "artists": [
@@ -17040,7 +17040,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202581,
-      "name": "Angel o Demonio (feat. LUISITO MU\u00d1OZ) - Remix",
+      "name": "Angel o Demonio - Remix",
       "url": "https://open.spotify.com/track/67RTogtZjXsIzV6MmZKURw"
     },
     {
@@ -22816,6 +22816,10 @@
         {
           "name": "El Clooy",
           "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        },
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
         }
       ],
       "date_added": "2026-03-13",
@@ -136788,12 +136792,12 @@
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         },
         {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
           "name": "Alex Fer",
           "url": "https://open.spotify.com/artist/6NnQvCLkrl07c3GOimOKHV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
           "name": "Sly",

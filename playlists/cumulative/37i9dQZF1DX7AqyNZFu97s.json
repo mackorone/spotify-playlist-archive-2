@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: thistle.",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Ghoulish",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 192662,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2"
@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "A Mile In My Mind",
+        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167195,
+      "name": "A Mile In My Mind",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "album": {
         "name": "A-Team",
         "url": "https://open.spotify.com/album/2ohI3pTYXPCJ81E9pLFNy0"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 156030,
       "name": "Ain't Me",
       "url": "https://open.spotify.com/track/1Ro98WIjGRIXhpP1RQk4O0"
@@ -3052,7 +3070,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 224234,
       "name": "Anna with the Silver Arrow",
       "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
@@ -6732,7 +6750,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 154105,
       "name": "BLEND IN",
       "url": "https://open.spotify.com/track/1xRYvt8LFr9gGv2Ktg7Xic"
@@ -6924,7 +6942,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 178699,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5RE5OVVSjSWfxfWwtXzXmG"
@@ -8760,7 +8778,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 198315,
       "name": "Burnt Out",
       "url": "https://open.spotify.com/track/2Dwhcpyvda7KaPFHbfJIT2"
@@ -8782,7 +8800,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 141573,
       "name": "BURY ME",
       "url": "https://open.spotify.com/track/2jIrevsJGvzjx0u9kjD5kh"
@@ -8822,7 +8840,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 144306,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0YqyZn45MkVkhN8PNotWDc"
@@ -10961,6 +10979,24 @@
     },
     {
       "album": {
+        "name": "Codamol",
+        "url": "https://open.spotify.com/album/36IVavxhmu6lSEbwCp1HKa"
+      },
+      "artists": [
+        {
+          "name": "Head Sound",
+          "url": "https://open.spotify.com/artist/2HyFV8WUfUWGm0adycbCjj"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182261,
+      "name": "Codamol",
+      "url": "https://open.spotify.com/track/4RbyglPSBn7EiQDgWoIezL"
+    },
+    {
+      "album": {
         "name": "Stop Before It Starts",
         "url": "https://open.spotify.com/album/2zw8QT3RUf8zfHnw6sVTCp"
       },
@@ -11773,6 +11809,28 @@
     },
     {
       "album": {
+        "name": "CONCRETE JUNGLE",
+        "url": "https://open.spotify.com/album/1BYPqPKXObTMHn8WYazDNn"
+      },
+      "artists": [
+        {
+          "name": "JAY10!",
+          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+        },
+        {
+          "name": "styllunknown",
+          "url": "https://open.spotify.com/artist/48zwXw0RurzGWlzTZygHzO"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "CONCRETE JUNGLE",
+      "url": "https://open.spotify.com/track/02ABmi14zDAyWrgmZzTJg2"
+    },
+    {
+      "album": {
         "name": "confessions",
         "url": "https://open.spotify.com/album/58i5yD9lydmJvWk34WtUm5"
       },
@@ -12188,7 +12246,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 191356,
       "name": "Countdown '74",
       "url": "https://open.spotify.com/track/44Ay2h4LEnY2NgUxUZtipJ"
@@ -12632,7 +12690,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 152582,
       "name": "CRIP",
       "url": "https://open.spotify.com/track/3woT2onx5jrFT5QYm9PAbD"
@@ -13472,7 +13530,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 257216,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S"
@@ -14028,7 +14086,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 185453,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/7ekw9FblMWIhWEUF0nDTFI"
@@ -15230,6 +15288,28 @@
       "duration_ms": 185088,
       "name": "doing it different",
       "url": "https://open.spotify.com/track/6x0sFmVsCL8MZ9vV6DzTBQ"
+    },
+    {
+      "album": {
+        "name": "Doing Sumthin'",
+        "url": "https://open.spotify.com/album/6jNIJmul7T1VpvysGnJTl9"
+      },
+      "artists": [
+        {
+          "name": "Storm Mollison",
+          "url": "https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC"
+        },
+        {
+          "name": "Aaron Pfeiffer",
+          "url": "https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290371,
+      "name": "Doing Sumthin'",
+      "url": "https://open.spotify.com/track/08TT875V2CzwpDlJ1sD5mt"
     },
     {
       "album": {
@@ -18738,7 +18818,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 175214,
       "name": "Father",
       "url": "https://open.spotify.com/track/7qLCJRQGJPfTpwVu6TUyV2"
@@ -19322,7 +19402,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 142608,
       "name": "FIND OUT",
       "url": "https://open.spotify.com/track/7Hun7EUngoDMx591TdCDs7"
@@ -27162,7 +27242,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 192950,
       "name": "I Can Tell",
       "url": "https://open.spotify.com/track/252tNXhI3Zhelg0Tpnn5K0"
@@ -29044,7 +29124,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 117428,
       "name": "i_aint_fly (G6)",
       "url": "https://open.spotify.com/track/0gzF6cVbWR9pxvsLgC4wTi"
@@ -30072,7 +30152,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 222967,
       "name": "in your arms",
       "url": "https://open.spotify.com/track/2yJLgUO8eXAdNaHCooF0TS"
@@ -30610,7 +30690,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 321450,
       "name": "Into You",
       "url": "https://open.spotify.com/track/32jlL8mVwPu53xYYDxpLS6"
@@ -30646,7 +30726,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 151239,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/1Cqx6wls7mVzwOTDtkEcyG"
@@ -31036,7 +31116,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 142791,
       "name": "IT'S A LOT",
       "url": "https://open.spotify.com/track/1Qa970rR0MyJtOVAt594fG"
@@ -33289,6 +33369,24 @@
     },
     {
       "album": {
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/4A3GHpt5dJMEb0MQoHzUVJ"
+      },
+      "artists": [
+        {
+          "name": "Millie Ady",
+          "url": "https://open.spotify.com/artist/2sqnzaXLe8DmiEuqBsfH3Z"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Lean In",
+      "url": "https://open.spotify.com/track/76Zp5J2tvWilouDcMEn8OP"
+    },
+    {
+      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/7HURV6NwFn1j0Zc0VfsTdN"
       },
@@ -33600,7 +33698,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 156000,
       "name": "Let it breathe",
       "url": "https://open.spotify.com/track/4zgkG52A1xy6xITCKXA1Vq"
@@ -34298,7 +34396,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 206000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2SA1K22eCNWtjfNSG9cF1O"
@@ -35920,7 +36018,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 177107,
       "name": "Love You All The Same",
       "url": "https://open.spotify.com/track/2shllo5ACQMEUc8n0MtC7x"
@@ -36694,7 +36792,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 129288,
       "name": "Make Up",
       "url": "https://open.spotify.com/track/4ErVC5fJuGPZeVaomNxUeP"
@@ -37014,7 +37112,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 180832,
       "name": "MARIGOLD",
       "url": "https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n"
@@ -37562,7 +37660,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 127647,
       "name": "meet me in the bathroom",
       "url": "https://open.spotify.com/track/18boMClJ65NB9SOVggZlTY"
@@ -39528,7 +39626,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 369357,
       "name": "MY LOVE YOUR LOVE",
       "url": "https://open.spotify.com/track/1KPqm1lab1tBfx0m87M9xR"
@@ -40116,6 +40214,24 @@
       "duration_ms": 176768,
       "name": "Neptune Girl",
       "url": "https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra"
+    },
+    {
+      "album": {
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi"
+      },
+      "artists": [
+        {
+          "name": "congratulations",
+          "url": "https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Nevagonna",
+      "url": "https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO"
     },
     {
       "album": {
@@ -40876,7 +40992,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 206811,
       "name": "NO LIES.",
       "url": "https://open.spotify.com/track/6B535fHF5M5BG9NZZevMl7"
@@ -42134,7 +42250,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 178437,
       "name": "NVSTY",
       "url": "https://open.spotify.com/track/4JaLORR6H0fn5z8WWhUPvc"
@@ -42778,7 +42894,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 206338,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2Eg3KPnn9jsOAVvrFNdqxA"
@@ -45460,7 +45576,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 106046,
       "name": "Pixie",
       "url": "https://open.spotify.com/track/23qdID3ad5aSJ3Lv4vcQEI"
@@ -45752,7 +45868,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 146000,
       "name": "POCKET WATCH",
       "url": "https://open.spotify.com/track/3dlu7DsA4dKwZ7F2cQ9wSH"
@@ -52648,7 +52764,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 128573,
       "name": "So Good Inside",
       "url": "https://open.spotify.com/track/6rC4Gp2sutFTr41SbTLkg0"
@@ -56006,7 +56122,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 192040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/5cS3cwMhzZqVSJvwllAemv"
@@ -65250,7 +65366,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 232466,
       "name": "You're In Love With It All",
       "url": "https://open.spotify.com/track/5lfKvIpUXCGweXBdudoauL"
@@ -65394,7 +65510,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 223641,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/0cchMP4Dr7S64OLkvJXf7T"

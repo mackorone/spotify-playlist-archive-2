@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50574,
+  "num_followers": 50582,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAAtRm/3b4wZ/FJeHiwfR0GB",
+  "snapshot_id": "abdIAAAAAAATSfWw0FI4QULx0Cjtg7Lu",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andamos En El Ruedo",
-        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 206905,
-      "name": "Te Romper\u00e9 El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Vida Del Dorian",
         "url": "https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224413,
       "name": "La Vida Del Dorian",
       "url": "https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Andamos En El Ruedo",
+        "url": "https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 206905,
+      "name": "Te Romper\u00e9 El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1NWeEHAlOpndG5ms0NIdno"
     },
     {
       "added_at": null,

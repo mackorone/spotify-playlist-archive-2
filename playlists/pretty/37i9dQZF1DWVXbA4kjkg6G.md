@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 
 > Atmospheric textures & downtempo beats\. Cover: Beth Gibbons of Portishead
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,212 likes - 75 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,370 likes - 75 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXbA4kjkg6G.md) - [plain]
 | 58 | [Radio Babylon](https://open.spotify.com/track/3TheBeg92QzEpR5kdVqpDa) | [Meat Beat Manifesto](https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx) | [Version Galore](https://open.spotify.com/album/5533aOxWjQFalXG82VW6ni) | 6:23 |
 | 59 | [Casanova 70](https://open.spotify.com/track/71iaCJRmNFqIAvhmEb1XW9) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Casanova 70](https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L) | 5:53 |
 | 60 | [Electric Lazyland](https://open.spotify.com/track/5hicOmRFB0EOeLNsV3ugSp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Ninja Cuts \- Funkjazztical Tricknology](https://open.spotify.com/album/53H309agelso6rosSg8eKr) | 5:52 |
-| 61 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
-| 62 | [Livin' Free \(Soundtrack Mix\)](https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL) | [Small World](https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59) | [The Livin' Free EP](https://open.spotify.com/album/2UNjYtZots0OThWimId057) | 7:31 |
+| 61 | [Livin' Free \(Soundtrack Mix\)](https://open.spotify.com/track/7Bz6aEEf7l0z1aNPyUMxNL) | [Small World](https://open.spotify.com/artist/1d6bpJp3mEcOPPuYJ79p59) | [The Livin' Free EP](https://open.spotify.com/album/2UNjYtZots0OThWimId057) | 7:31 |
+| 62 | [Terrapin](https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 4:39 |
 | 63 | [Under Violent Objects](https://open.spotify.com/track/3PscZ65ebR61zAN9H5KNEL) | [Neotropic](https://open.spotify.com/artist/0J7MEv1kdBkTE4HzW7FtoH) | [Mr\. Brubaker's Strawberry Alarm Clock](https://open.spotify.com/album/1YrlvrywWuhaeQXQYOPxDo) | 5:07 |
 | 64 | [Fictions](https://open.spotify.com/track/3zyuM9NvUgRNptc9uV14SW) | [Rollercone](https://open.spotify.com/artist/5R48TxAOY7PptmdILHmjN6) | [Earth, Vol\. 2](https://open.spotify.com/album/0X4qFMaii26coSv2Mpdipk) | 4:41 |
 | 65 | [Take Nine](https://open.spotify.com/track/1LY5nlaBgdMtz9FS3thZjp) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 5:46 |

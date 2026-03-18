@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 170666,
       "name": "Core Equanimity",
       "url": "https://open.spotify.com/track/3qZBuHYRR9V9PYY1cBjrcX"
@@ -5967,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "Everywhen",
+        "url": "https://open.spotify.com/album/3LO9SlJAUHWQ2EuaA7sdRQ"
+      },
+      "artists": [
+        {
+          "name": "Eomir",
+          "url": "https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Everywhen",
+      "url": "https://open.spotify.com/track/3IhFwBDWsq2TEekuhzDTKS"
+    },
+    {
+      "album": {
         "name": "Existing",
         "url": "https://open.spotify.com/album/0iJ2y4SIrZTiptA4eHxoKq"
       },
@@ -8088,6 +8106,24 @@
       "duration_ms": 181500,
       "name": "Ink",
       "url": "https://open.spotify.com/track/1n7faxE0AzrxoLz0OmQl6Q"
+    },
+    {
+      "album": {
+        "name": "Inner Balance",
+        "url": "https://open.spotify.com/album/1G66kAFZkJBHgmPMsNuGWg"
+      },
+      "artists": [
+        {
+          "name": "Hazel Day",
+          "url": "https://open.spotify.com/artist/4UwrBrYrSp2qXLwXWGc57Q"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Inner Balance",
+      "url": "https://open.spotify.com/track/40dtNRCrfk6j5a75E4hrbU"
     },
     {
       "album": {
@@ -16656,7 +16692,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 187540,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/4gf8ak0NXmpNdywwNHTdOO"

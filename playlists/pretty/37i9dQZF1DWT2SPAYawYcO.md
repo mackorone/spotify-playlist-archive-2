@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Spacey Jane, Noah Kahn, Kacey Musgraves, beabadoobee, The Marías + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,473 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,450 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 31 | [NO LOVE](https://open.spotify.com/track/6TFk7Htqf0AauDfeFhCLIo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [SOUTH LDN LOVER GIRL](https://open.spotify.com/album/6NgizYchTMIgAtm5UU5zqm) | 3:22 |
 | 32 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
 | 33 | [Club Song](https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Club Song](https://open.spotify.com/album/4w2Nx0U9Ujf83ZrcjIoaLg) | 2:27 |
-| 34 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 34 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 35 | [How Deep Is Your Love \(Live\) \- Spotify Live Room](https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Zara Larsson \- Spotify Live Room](https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae) | 2:12 |
 | 36 | [Sunburn](https://open.spotify.com/track/14xGdSrAmwpSz0TPTyx3yM) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Sunburn](https://open.spotify.com/album/1n1qfuzOvQlnH6HKdSsXmY) | 3:05 |
 | 37 | [Let It Go](https://open.spotify.com/track/26oVrYctnKoPITMoe73XjF) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Let It Go / Welcome Back](https://open.spotify.com/album/5IyWN8Ky8kK3pqqWShAkbk) | 4:45 |

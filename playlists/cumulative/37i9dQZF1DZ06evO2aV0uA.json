@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 229135,
       "name": "Devise / Destroy",
       "url": "https://open.spotify.com/track/7IDT6DYMpKQEnESCLKXP9l"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 235111,
       "name": "Gears",
       "url": "https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc"
@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200963,
+      "name": "Parasocial Christ",
+      "url": "https://open.spotify.com/track/3LMoseQyAIFc0C6CTlbDDZ"
+    },
+    {
+      "album": {
         "name": "Parasocial Christ",
         "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
       },
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 200963,
       "name": "Parasocial Christ",
       "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
@@ -1935,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Into Oblivion",
+        "url": "https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "Sepsis",
+      "url": "https://open.spotify.com/track/386p62g9kgvjExIVOKcHpP"
+    },
+    {
+      "album": {
         "name": "Sepsis",
         "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
       },
@@ -1946,7 +1982,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 218813,
       "name": "Sepsis",
       "url": "https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00"

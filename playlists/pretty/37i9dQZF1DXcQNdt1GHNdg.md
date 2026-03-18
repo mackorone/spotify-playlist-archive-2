@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,107 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,150 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 4 | [5\-7](https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [5\-7](https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK) | 2:34 |
 | 5 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
 | 6 | [Masle](https://open.spotify.com/track/07uzhqz2HYgso40g6o80R6) | [Jai Sidhu](https://open.spotify.com/artist/3gLCQjgXhuQsRrnsFAzXlR), [Yamdoot](https://open.spotify.com/artist/5PTAr7X2GnIupP3NXudjRg) | [Masle](https://open.spotify.com/album/7xfNnDReFR8wrlo4WqCfLl) | 2:13 |
-| 7 | [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:18 |
+| 7 | [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:26 |
 | 8 | [Daaka Daaku Da](https://open.spotify.com/track/72zovf8xydqfbLhWwJWhn9) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Ritu Bhaggi](https://open.spotify.com/artist/0HhjkugAR8RSgHoBqzPd0R), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix) | [Daaka Daaku Da](https://open.spotify.com/album/1KWbeJYu9LwpBEQbxsOf8Z) | 2:40 |
 | 9 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 10 | [Asla](https://open.spotify.com/track/2evIekFZQjJZJSetzjUBgA) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Asla](https://open.spotify.com/album/48ksAgJxBlNxQhjAb5Im8Z) | 2:06 |

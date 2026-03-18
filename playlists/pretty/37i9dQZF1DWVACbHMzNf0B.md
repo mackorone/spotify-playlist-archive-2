@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Grupo Frontera, Silvestre Dangond en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,801 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,846 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 23 | [Mi Talisman \(En Vivo\)](https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Arriba La Moyombiza 2 \(En Vivo\)](https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2) | 3:14 |
 | 24 | [Después del Show](https://open.spotify.com/track/0Ry3P1f5h0B6SqFdIhta2J) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Después del Show](https://open.spotify.com/album/52tCGnjcDVvOQjWZQWCWhx) | 3:08 |
 | 25 | [Te Supero](https://open.spotify.com/track/7yKPXRcVR31OMVjTWJOywD) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Supero](https://open.spotify.com/album/7xhjy2cYttFE5b9M6sAdZL) | 2:57 |
-| 26 | [Angel o Demonio \(feat\. LUISITO MUÑOZ\) \- Remix](https://open.spotify.com/track/67RTogtZjXsIzV6MmZKURw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Angel o Demonio \(feat\. LUISITO MUÑOZ\) \[Remix\]](https://open.spotify.com/album/5dvCKHPZjSkxTyvImCW1Bd) | 3:22 |
+| 26 | [Angel o Demonio \- Remix](https://open.spotify.com/track/67RTogtZjXsIzV6MmZKURw) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Fredy Montoya](https://open.spotify.com/artist/226KQHhYMB4ss3DyK17zk9), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Angel o Demonio \(Remix\)](https://open.spotify.com/album/5dvCKHPZjSkxTyvImCW1Bd) | 3:22 |
 | 27 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |
 | 28 | [Llenadera](https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE) | [Joaquín Coronel](https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT) | [Llenadera](https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF) | 2:44 |
 | 29 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 |

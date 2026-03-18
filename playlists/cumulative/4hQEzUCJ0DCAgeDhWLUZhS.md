@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-561 songs - 1 day 8 hr 42 min
+562 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Ready For the High](https://open.spotify.com/track/4Md0lS45w5oNNmWL8OS3AV) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Ready For The High](https://open.spotify.com/album/7BAyGMOoV9VObrZfb3tfWJ) | 4:05 | 2021-10-14 | 2025-05-28 |
 | [REAL LIFE LOVE](https://open.spotify.com/track/49yU18gEsAQOdG0DOniBAJ) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [REAL LIFE LOVE](https://open.spotify.com/album/4K0wN1Zxq586UNyMt4z5C5) | 3:02 | 2024-05-03 | 2025-06-04 |
 | [Rebellion](https://open.spotify.com/track/2vAHaeRao9MnplV6iMgDoP) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Rebellion](https://open.spotify.com/album/6fnVdLPeorhz9lT5Za4gzb) | 3:47 | 2020-11-20 | 2022-03-18 |
+| [Receive](https://open.spotify.com/track/4egnOyXh0OVgWmDiWOTHGM) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [Receive](https://open.spotify.com/album/0YFi4LYMktyKtNYtPL4gkz) | 2:46 | 2026-03-18 |  |
 | [Reckless Paradise](https://open.spotify.com/track/3hjCqnOScnTmhv2Xvvv8Mq) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Reckless Paradise](https://open.spotify.com/album/1zYdvy9dnTxx75KLhqZ9xD) | 3:24 | 2020-10-10\* | 2021-05-13 |
 | [Regret Me](https://open.spotify.com/track/3l5qEpePfGDv6ZFYWRNNtq) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 3:16 | 2023-03-08 | 2025-06-04 |
 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 | 2025-06-26 |  |

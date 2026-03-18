@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944,249 likes - 100 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,944,115 likes - 100 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 29 | [WASTE \- Sped Up Version](https://open.spotify.com/track/72XhVH8vlREICt6NmT623Q) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 1:40 |
 | 30 | [Belong Together \(Sped Up\)](https://open.spotify.com/track/0XguQR7pMvTG1C6UlMPYN4) | [Lucky Socks](https://open.spotify.com/artist/6xzw5aUZjoW4siq4PDB1QC) | [Belong Together \(Sped Up\)](https://open.spotify.com/album/63lyyB4lBh74i32hvTSwWr) | 2:08 |
 | 31 | [eyes don't lie sped up](https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:09 |
-| 32 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 |
-| 33 | [die \(sped up\)](https://open.spotify.com/track/56YnSY2VyWLJPijfrzK6Gc) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:30 |
+| 32 | [die \(sped up\)](https://open.spotify.com/track/56YnSY2VyWLJPijfrzK6Gc) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:30 |
+| 33 | [MONEY ON THE DASH \- SPED UP](https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [MONEY ON THE DASH](https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd) | 1:56 |
 | 34 | [Shameless \- Sped Up](https://open.spotify.com/track/5x3AF6IPLYPLbymfZV82Kh) | [Lewis Hanton](https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ) | [Shameless \(Sped Up\)](https://open.spotify.com/album/4ED5qxUpAgtOk8CIkoRFi6) | 3:13 |
 | 35 | [Shootout \(Sped Up\)](https://open.spotify.com/track/3r44Otr6SVUja3SYsCuhVY) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Sped Up\)](https://open.spotify.com/album/7Ez9fBTpqn7pTEK09TqMJr) | 4:02 |
 | 36 | [Summertime Sadness \- Sped Up](https://open.spotify.com/track/78dtqFPt7cvYgS2zTXtZKV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Summertime Sadness \(Sped Up\)](https://open.spotify.com/album/29PibmV31F3q6DRVq7gzZc) | 3:17 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 82 | [Saturn \- Sped Up](https://open.spotify.com/track/6HCRvVvTrW0gXGOW8cbkqw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 2:39 |
 | 83 | [Adrenaline \(Speed Up Ver.\)](https://open.spotify.com/track/3nGoOCoxgADXa6Fxl9eQsd) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Adrenaline \(Remix\)](https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i) | 3:09 |
 | 84 | [Hall of Fame \(feat\. will.i.am\) \- sped up](https://open.spotify.com/track/09q25kUOESuDfTbgjcq8CD) | [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [The Script](https://open.spotify.com/album/3aJM2HWob5jAD6zjfEY2nX) | 3:04 |
-| 85 | [kompa pasión \- sped up](https://open.spotify.com/track/4HtX5Hfk0jjiEmJTo6gkZz) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/5tORQTrDCEGbzXF7D6oQR3) | 2:07 |
-| 86 | [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 |
+| 85 | [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 |
+| 86 | [kompa pasión \- sped up](https://open.spotify.com/track/4HtX5Hfk0jjiEmJTo6gkZz) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/5tORQTrDCEGbzXF7D6oQR3) | 2:07 |
 | 87 | [Wasted Summers \- Sped Up](https://open.spotify.com/track/3D68y3ta9qkxpSdjLjPOoS) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers \(Sped Up\)](https://open.spotify.com/album/4P0oxvMiZmCAnbkb6iWxLx) | 1:58 |
 | 88 | [3D \(feat\. Jack Harlow\) \(Sped Up\)](https://open.spotify.com/track/1ewYtP6BZlak8qokzZe4Bx) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 2:48 |
 | 89 | [UNDERSTAND \- Sped Up](https://open.spotify.com/track/6DMI24muDgH74R3sT2ie4F) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [UNDERSTAND \(Sped Up Version\)](https://open.spotify.com/album/7y33ncIO49DOPfqM6xtAkC) | 2:05 |

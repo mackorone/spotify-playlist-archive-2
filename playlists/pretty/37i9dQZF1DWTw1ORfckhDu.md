@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,764 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,762 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 23 | [Nene](https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Nene](https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu) | 2:24 |
 | 24 | [Toivottavasti](https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:43 |
 | 25 | [et millään saa](https://open.spotify.com/track/3rW5FiOaJQjAXGycPkmboL) | [Ella Herold](https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [et millään saa](https://open.spotify.com/album/0vqeoxfVqYQtOjXxag51Cs) | 2:54 |
-| 26 | [Turisti \(feat\. Turisti\)](https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Turisti \(feat\. Turisti\)](https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8) | 2:24 |
-| 27 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
+| 26 | [Horo](https://open.spotify.com/track/6rKzCpq4UpTQZ7Yj3AT318) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Horo](https://open.spotify.com/album/6U4x289MNDQQqM4W3XwsBE) | 3:28 |
+| 27 | [Turisti \(feat\. Turisti\)](https://open.spotify.com/track/5m28SZu4fl8ncN4EYMphdO) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Turisti \(feat\. Turisti\)](https://open.spotify.com/album/1rTOZHPV73e1ZZgW3oKyB8) | 2:24 |
 | 28 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
 | 29 | [Veitsi](https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 3:53 |
 | 30 | [No Haav No Love](https://open.spotify.com/track/0O9puXumDoUbzwM6yrySbF) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [No Haav No Love](https://open.spotify.com/album/2e84FRnZEnTTOJU31p76YF) | 3:17 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 45 | [Toimitusjohtaja](https://open.spotify.com/track/5mUaH8EQjvlM9ibEX0uqfF) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Toimitusjohtaja](https://open.spotify.com/album/1zuIxudtXoSrHZYQPg6skR) | 2:45 |
 | 46 | [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 |
 | 47 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
-| 48 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
-| 49 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 50 | [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 |
+| 48 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
+| 49 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
+| 50 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 
 Snapshot ID: `AAAAAMsYsaGHMLtx4h+1oQpJBvzRGIJM`

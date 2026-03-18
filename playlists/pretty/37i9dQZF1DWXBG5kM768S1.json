@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Hildringstimer - 14 velvalgte viser",
-        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Varherres Klinkekuler",
-      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "K\u00e6m va du?",
         "url": "https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 179533,
       "name": "Togsang",
       "url": "https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Hildringstimer - 14 velvalgte viser",
+        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Varherres Klinkekuler",
+      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Eg vil ikkje d\u00f8",
-        "url": "https://open.spotify.com/album/3loCnhfuuWSN39QmcQ7C40"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 209427,
-      "name": "Eg vil ikkje d\u00f8",
-      "url": "https://open.spotify.com/track/0k8NqYHm1GkQcyI8SHKPeP"
-    },
-    {
-      "added_at": "2026-03-12 23:00:43",
-      "album": {
         "name": "Club 7",
         "url": "https://open.spotify.com/album/5HsxpRklriIeoEDbEH7KEw"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 260779,
       "name": "Club 7",
       "url": "https://open.spotify.com/track/6BfEYWOivGxDbxf4vM5SUu"
+    },
+    {
+      "added_at": "2026-03-12 23:00:43",
+      "album": {
+        "name": "Eg vil ikkje d\u00f8",
+        "url": "https://open.spotify.com/album/3loCnhfuuWSN39QmcQ7C40"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 209427,
+      "name": "Eg vil ikkje d\u00f8",
+      "url": "https://open.spotify.com/track/0k8NqYHm1GkQcyI8SHKPeP"
     },
     {
       "added_at": "2026-03-12 23:00:43",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-03-12 23:00:43",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
         }
       ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
     }
   ],
   "unique_name": "Norske viser",

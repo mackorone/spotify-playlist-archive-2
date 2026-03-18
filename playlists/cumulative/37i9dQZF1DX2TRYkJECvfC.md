@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-681 songs - 2 day 7 hr 50 min
+682 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-12-08 | 2022-02-22 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 | 2025-01-11 |
 | [My Lullaby for You](https://open.spotify.com/track/4WpbJlrScdfbCilNSJKLRt) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [Bara Nova](https://open.spotify.com/artist/2jzbYdD55IHAm5Rk7RHoYf) | [Cyberpunk 2077: Radio, Vol\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3j8Mg3DogmEVXNYrHbDWeX) | 5:34 | 2021-12-08 | 2022-02-22 |
-| [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 | 2025-04-25 |  |
+| [Mystic Love](https://open.spotify.com/track/5aF6bFy7Q5CQftJzkHRPyJ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Mystic Love](https://open.spotify.com/album/1psvgaLdxg6HRA6o5SMhW0) | 4:47 | 2025-04-25 | 2026-03-18 |
 | [Nagori](https://open.spotify.com/track/4TD8DV0KI2eqWCLMQFDzlB) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Dance Until Dawn](https://open.spotify.com/album/0MkrCNpDGflUnf8vVgI2GG) | 2:32 | 2026-02-13 | 2026-02-21 |
 | [Nations](https://open.spotify.com/track/2kXI85SNOUCRgF1jhivhWg) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Kasiope Pt\. 2](https://open.spotify.com/album/3bXLzJmYkiXcNDtTgA7j87) | 8:43 | 2024-04-12 | 2025-10-18 |
 | [Natural Consequence](https://open.spotify.com/track/6aAIl1SKNgDGcZXlh841N6) | [9th House](https://open.spotify.com/artist/5QpDjrjx18j888lnGtJpeV) | [Catching A Whisper](https://open.spotify.com/album/0MCLZBM9I2Fx81ddskf4Zz) | 4:27 | 2021-12-08 | 2022-07-28 |
@@ -558,6 +558,7 @@
 | [Spectrum \- Original](https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV) | [Collective Machine](https://open.spotify.com/artist/0NV3zEAzzAFy1vf5BWGlGL) | [Spectrum EP](https://open.spotify.com/album/5I5VAP5dHV0ZRZdDRv6VXH) | 6:55 | 2021-12-08 | 2022-07-28 |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-03 | 2024-05-01 |
 | [Spring Embers](https://open.spotify.com/track/2slr1WHisMcjKMEz0RJ8u2) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Spring Embers](https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU) | 3:32 | 2023-04-21 |  |
+| [Static In The Deep End](https://open.spotify.com/track/3g3O89Kjc2LJsL5RRYKelI) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Static In The Deep End](https://open.spotify.com/album/0OXmGz4QDkEpbbRBHjkQmd) | 3:11 | 2026-03-13 |  |
 | [Stay](https://open.spotify.com/track/5ippmCJ4ZQBow7qef2PK8I) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [For You, Forever](https://open.spotify.com/album/6VD0r8s4NhjszZzoZxcf6S) | 3:53 | 2023-09-08 |  |
 | [Stop That Man](https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ) | [FootRocket](https://open.spotify.com/artist/7BPFKaQl9MDa4rmv9QZh5L) | [Stop That Man](https://open.spotify.com/album/2XFXFozuoCAtegfasbZezP) | 2:50 | 2021-12-08 | 2022-02-22 |
 | [Storyteller](https://open.spotify.com/track/2hWkEkHNeR1xCTbNKYWX6D) | [Solatic](https://open.spotify.com/artist/61Lu3t06G6EPp61PovXqfm) | [Storyteller](https://open.spotify.com/album/3A2GoNrK3bQVtZTtFFq3OY) | 7:05 | 2023-01-06 | 2025-01-12 |

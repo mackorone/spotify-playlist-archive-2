@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "HATE XX",
+        "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131013,
+      "name": "BAD HOBBY",
+      "url": "https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M"
+    },
+    {
+      "album": {
         "name": "BIRTHDAY",
         "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 204420,
       "name": "Erasing",
       "url": "https://open.spotify.com/track/5AwOBcjHB9fVX3xMpeS1gX"
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 214778,
       "name": "Get It? (feat.HA:TFELT, Cheetah)",
       "url": "https://open.spotify.com/track/4OLpu3EcgdcBExx0z0gq75"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 216806,
       "name": "HeartBROKEN PlaYBoY",
       "url": "https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j"
@@ -2192,6 +2210,24 @@
       "duration_ms": 220853,
       "name": "My Move",
       "url": "https://open.spotify.com/track/5PyfW50o3iKQ1rfvBNIYPC"
+    },
+    {
+      "album": {
+        "name": "YUQ1",
+        "url": "https://open.spotify.com/album/7Icstp3Nle9xUb3nETRUtq"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3p4f4grxx7hLgzChdbtoGK"
     },
     {
       "album": {
@@ -3180,7 +3216,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 192928,
       "name": "\ub728\uac81\uc9c0\uac00 \uc54a\uc544",
       "url": "https://open.spotify.com/track/0qvvVjOfRfiAlUrt0TDPdU"

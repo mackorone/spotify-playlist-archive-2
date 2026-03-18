@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303349,
+  "num_followers": 303360,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Coastline (Vancouver Sleep Clinic Remix)",
-        "url": "https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR"
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 186990,
-      "name": "Coastline - Vancouver Sleep Clinic Remix",
-      "url": "https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW"
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -387,18 +383,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+        "name": "Coastline (Vancouver Sleep Clinic Remix)",
+        "url": "https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR"
       },
       "artists": [
         {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
+      "duration_ms": 186990,
+      "name": "Coastline - Vancouver Sleep Clinic Remix",
+      "url": "https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Our Generation - Spotify Singles",
-        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "The Perfect Pair - Spotify Singles",
-      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 141160,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Our Generation - Spotify Singles",
+        "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "The Perfect Pair - Spotify Singles",
+      "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Steal My Sunshine / Novocaine For The Soul",
         "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 240002,
       "name": "Steal My Sunshine (feat. Cherry Glazerr)",
       "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Teardrop",
-        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/2jwDWmnT9D6zQy8kOA7ijM"
-      },
-      "artists": [
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/5JBoWa49nMe1bxaEDbMAxS"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Broken Glass, Vol. 6",
         "url": "https://open.spotify.com/album/7nAbZDCDFoNMa0H1cUICk2"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/2jwDWmnT9D6zQy8kOA7ijM"
+      },
+      "artists": [
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/5JBoWa49nMe1bxaEDbMAxS"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "del mar county fair 2008",
         "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
+      },
+      "artists": [
+        {
+          "name": "Victoria Bigelow",
+          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 133003,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Fade Into You",
-        "url": "https://open.spotify.com/album/1wUVaDQUTJymiGVuOoZryx"
-      },
-      "artists": [
-        {
-          "name": "Victoria Bigelow",
-          "url": "https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU"
-        }
-      ],
-      "duration_ms": 258665,
-      "name": "Fade Into You",
-      "url": "https://open.spotify.com/track/6hj0WdMuPzjKKS5VQ6BBc8"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "2000 Miles (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
-        }
-      ],
-      "duration_ms": 189372,
-      "name": "2000 Miles (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Reptilia",
         "url": "https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU"
       },
@@ -1407,50 +1387,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
+        "name": "2000 Miles (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 193927,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
         }
       ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
-        "name": "Music From The Pen Gala 1983",
-        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
+      "duration_ms": 189372,
+      "name": "2000 Miles (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1475,6 +1427,38 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 193927,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 215200,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Music From The Pen Gala 1983",
+        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Three Hours",
-        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
       "artists": [
         {
-          "name": "John Parish",
-          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
-        },
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
         }
       ],
-      "duration_ms": 272567,
-      "name": "Three Hours",
-      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+        "name": "Three Hours",
+        "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
       },
       "artists": [
         {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+          "name": "John Parish",
+          "url": "https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk"
+        },
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+      "duration_ms": 272567,
+      "name": "Three Hours",
+      "url": "https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Cooking",
-        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW"
       },
       "artists": [
         {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 171315,
-      "name": "Cooking",
-      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
+      "duration_ms": 234624,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF"
     }
   ],
   "unique_name": "Indie Covers",

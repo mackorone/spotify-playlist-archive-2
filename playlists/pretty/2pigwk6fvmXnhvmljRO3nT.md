@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,349 songs - 21 day 6 hr 31 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,351 songs - 21 day 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8357,5 +8357,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8347 | [You Suck at Love](https://open.spotify.com/track/77hwX9Akupyg4TdPIf0s6a) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Get Your Heart On!](https://open.spotify.com/album/7hWHxMRVmCLi1nXXrijalR) | 3:11 |
 | 8348 | [ぼなぺてぃーと▽S](https://open.spotify.com/track/2C7DrdqoU4U7Wc0vZRVi21) | [ブレンド・A](https://open.spotify.com/artist/1djn2nFD39MVfBAYV3S7M2) | [ぼなぺてぃーと▽S／デタラメなマイナスとプラスにおけるブレンド考](https://open.spotify.com/album/4K3CsZTPVv5qnYu73aXeZ8) | 4:15 |
 | 8349 | [Bitten Bullet](https://open.spotify.com/track/6CWrAMXTSfq26cYZhX1Jmg) | [Boris Nonte](https://open.spotify.com/artist/3EvnDQ9GqimRR7VXVPRAw4), [Tommy Gunn Müller](https://open.spotify.com/artist/5XsjKU4IBPna8p4cxhI35O) | [Swagger Symphony](https://open.spotify.com/album/2mCVFvLKWdynWECEXmCett) | 2:23 |
+| 8350 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
+| 8351 | [2 days into college](https://open.spotify.com/track/3J7xAcSC9UGaJDANSUBJpy) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/6QoP0rsL2zv5Of3yQTfenK) | 2:48 |
 
-Snapshot ID: `AAALNDgm9TKfzqzPnkVxiTmtv7/wPSLx`
+Snapshot ID: `AAALNjy7y9ueRdT2a0rzy0Mv66PrJ7al`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists<br/>Cover: Temsu Clover
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,650 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,655 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 15 | [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 |
 | 16 | [La La Land](https://open.spotify.com/track/4ntSlRcL76zb4dhiBycTUo) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 2:40 |
 | 17 | [Jaloux](https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Jaloux](https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8) | 2:48 |
-| 18 | [Paws](https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS), [Elijah Peter](https://open.spotify.com/artist/65HvFCMJKvfBtnIPGh3VrN), [Akhil Garg](https://open.spotify.com/artist/1Et8RgxA5djFgJ9s6awThI) | [Paws](https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z) | 4:12 |
+| 18 | [Paws](https://open.spotify.com/track/1V5SNs95aHmZmuucDHvLpN) | [Shourya Malhotra](https://open.spotify.com/artist/7D5PI5MuJaKxuAtVOxwzxS) | [Paws](https://open.spotify.com/album/6hJGqgJ27wrN2FUyKIVw5Z) | 4:12 |
 | 19 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
 | 20 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |
 | 21 | [Favourite Song](https://open.spotify.com/track/7sUSBJbe7JI9buZ5jTpLd8) | [Manan Mehta](https://open.spotify.com/artist/39O1pR0xJXA14WDhdQHBNg), [Vaishnav Vyas](https://open.spotify.com/artist/1yKTinZw6FgL14x8o9XoBJ) | [Favourite Song](https://open.spotify.com/album/1zcQec9qUGUDSTqDn6jz5u) | 3:35 |

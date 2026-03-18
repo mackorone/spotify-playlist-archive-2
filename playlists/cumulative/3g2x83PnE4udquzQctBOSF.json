@@ -5973,6 +5973,24 @@
     },
     {
       "album": {
+        "name": "Nite & Day",
+        "url": "https://open.spotify.com/album/7nzBg24gwBiLWWTR6E5LeN"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/3SN0Qt3fOLKbDGLW0q5AD2"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/6Cw0ea9TmmMKnsT9aHjnIH"
       },

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546711,
+  "num_followers": 546702,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Starting Line",
+        "url": "https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 231769,
+      "name": "Starting Line",
+      "url": "https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 364924,
-      "name": "God Is In The Radio",
-      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Starting Line",
-        "url": "https://open.spotify.com/album/1uq1Sxd58SjEnDaUne2QnS"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 231769,
-      "name": "Starting Line",
-      "url": "https://open.spotify.com/track/6NqNIMTOgP9NIQxgEwO1wm"
+      "duration_ms": 364924,
+      "name": "God Is In The Radio",
+      "url": "https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 3809026,
-      "name": "Dopesmoker - 2022 Remastered Version",
-      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "King of Cowards",
         "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 349330,
       "name": "GNT",
       "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 3809026,
+      "name": "Dopesmoker - 2022 Remastered Version",
+      "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Tested By Death",
         "url": "https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 512011,
       "name": "Tested By Death",
       "url": "https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2026-03-13 04:00:13",

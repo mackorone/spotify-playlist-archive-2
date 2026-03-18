@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-952 songs - 2 day 14 hr 50 min
+954 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,7 +652,7 @@
 | [あいつのLIFE](https://open.spotify.com/track/6BA4MNy5ADPO4A65Cgi3RM) | [Shin Rizumu](https://open.spotify.com/artist/0KZ7Lk1c6rpp0nwvY9EuD4) | [Musica Popular Japonesa](https://open.spotify.com/album/01NUYwN3OhNLqkKaDrTy2M) | 4:28 | 2022-11-22 | 2022-12-14 |
 | [あなたとContigo](https://open.spotify.com/track/5VTCQoa0aLoSxZcked94A5) | [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l), [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Telepa Telepa](https://open.spotify.com/album/4ZepYRvl5D4aMx3WSVdorF) | 3:20 | 2025-03-25 | 2025-10-01 |
 | [あなたはトリコ](https://open.spotify.com/track/2gkYR4SyJu4TDHz8r39B7y) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [あなたはトリコ](https://open.spotify.com/album/6FceyUYmiyCgs67TWi3OhA) | 4:45 | 2024-04-23 | 2024-08-03 |
-| [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 |  |
+| [あなたゆずり](https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Living Room](https://open.spotify.com/album/17wsj6ok978OcBQhmNexce) | 4:11 | 2022-05-24 | 2026-03-18 |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-05-14 | 2024-07-31 |
 | [あれはたしかSEPTEMBER](https://open.spotify.com/track/791HxlnHPH2qEATdus4Uyq) | [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [DREAMIN'](https://open.spotify.com/album/6ycN0LEaNvitT5fHFWopvI) | 3:49 | 2023-08-01 | 2023-08-03 |
@@ -756,7 +756,7 @@
 | [デッドライン](https://open.spotify.com/track/0btSNF4g9CtAgcRtc2hqoG) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 2:53 | 2024-04-16 | 2024-06-12 |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-11-14 | 2024-04-19 |
 | [トドメの一撃 \(feat\. Cory Wong\)](https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [トドメの一撃 \(feat\. Cory Wong\)](https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24) | 5:10 | 2024-04-16 |  |
-| [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 | 2025-11-04 |  |
+| [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 | 2025-11-04 | 2026-03-18 |
 | [ナイトグルーヴ](https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Groove it](https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ) | 3:34 | 2023-11-10 |  |
 | [ナイトダイバー](https://open.spotify.com/track/1YsAzyAXLHSAywueN4jVT0) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [ナイトダイバー](https://open.spotify.com/album/2LC3a3j1xtw6bqFkRLBqWt) | 3:48 | 2022-05-24 | 2022-07-26 |
 | [ニュアンスで伝えて feat\. ヒグチアイ](https://open.spotify.com/track/5rObPaxkppROxPy9Xfqps6) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38), [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [ニュアンスで伝えて feat\. ヒグチアイ](https://open.spotify.com/album/4K1j8f2cfggPo3vfrK4Nus) | 3:43 | 2024-05-01 | 2024-06-05 |
@@ -960,5 +960,7 @@
 | [風はパーマネント](https://open.spotify.com/track/3aMJ5rSErhY4xcrkofdUG2) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [風はパーマネント](https://open.spotify.com/album/32tomxdqMRKajeCDIi5CEv) | 4:41 | 2023-11-21 | 2023-12-14 |
 | [餞](https://open.spotify.com/track/4151sPJDAMGChnHnxY1BJ1) | [Odd Donuts](https://open.spotify.com/artist/7rflUhNjhxlITzPI54XTzg) | [餞](https://open.spotify.com/album/3Uzgj9qUBnGJnLhOLAHdYU) | 3:35 | 2023-08-01 | 2023-08-09 |
 | [鱗粉\(Butterfly Scales\)](https://open.spotify.com/track/6vnt0yk7gOXJ8Y6mM6msMf) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y), [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [鱗粉\(Butterfly Scales\)](https://open.spotify.com/album/2mzZVJhkf9j8wz2LP6vCQz) | 4:00 | 2025-05-27 | 2025-06-24 |
+| [黄昏ソウル](https://open.spotify.com/track/0DI40ZhWKyKeCRt1velkE5) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [黄昏ソウル](https://open.spotify.com/album/18z2SBAhbb34oqQfEIIbhp) | 4:33 | 2026-03-17 |  |
+| [黄昏プリズム \-Waves of First Love\- \(feat\. 財津マイ\)](https://open.spotify.com/track/2nJPGKmKqdvoIXk32AEmKN) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [黄昏プリズム \-Waves of First Love\- \(feat\. 財津マイ\)](https://open.spotify.com/album/1LlbbfyB5piSAdJPzHFh6R) | 3:19 | 2026-03-17 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

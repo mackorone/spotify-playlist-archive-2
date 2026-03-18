@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,131 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,130 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 121 | [Selim](https://open.spotify.com/track/6xnPY0pNh5I7l4VOH62v6j) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Raimundos](https://open.spotify.com/album/38aIZxDi10QSpizgMO6cKE) | 4:14 |
 | 122 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
 | 123 | [A Música Mais Triste do Ano](https://open.spotify.com/track/10IhhMK2kwyTHIlAZD8rMw) | [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Mazili](https://open.spotify.com/artist/44xLFZNn7TzOWooulLGAl4), [Moral](https://open.spotify.com/artist/6jodHtDK8FJXH7PXyV551a) | [A Música Mais Triste do Ano](https://open.spotify.com/album/4BqvXYL5UCaD47uQ7XjUUA) | 2:55 |
-| 124 | [Garota De Ipanema](https://open.spotify.com/track/2vTDA7mOYWtuduCylWfiFd) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Inédito](https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW) | 4:02 |
+| 124 | [Garota de Ipanema](https://open.spotify.com/track/2vTDA7mOYWtuduCylWfiFd) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Inédito](https://open.spotify.com/album/2A8A15YTJJEXGUNAJRKMPW) | 4:02 |
 | 125 | [Stayin Alive](https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 4:45 |
 | 126 | [Essa Tal Liberdade](https://open.spotify.com/track/3EjxAbEOH28icEK1ZFOUSh) | [Só Pra Contrariar](https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1) | [Só Pra Contrariar](https://open.spotify.com/album/4tV1Azuq28wckbq005s9aa) | 4:03 |
 | 127 | [Anna Júlia](https://open.spotify.com/track/0aASUtDb1N96NJDwmWj5Gf) | [Los Hermanos](https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6) | [Los Hermanos](https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh) | 3:32 |

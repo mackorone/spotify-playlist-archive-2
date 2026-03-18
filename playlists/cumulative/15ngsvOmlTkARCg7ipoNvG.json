@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Fragments, Vol. 3",
+        "url": "https://open.spotify.com/album/4gA0BsoD4MKo6I4347mjxs"
+      },
+      "artists": [
+        {
+          "name": "Ivory Light",
+          "url": "https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60351,
+      "name": "Beautiful Haze - Alternate Version",
+      "url": "https://open.spotify.com/track/7AXNkFOCmAZOuq2qHhB8Y5"
+    },
+    {
+      "album": {
         "name": "Inspiring Wonder",
         "url": "https://open.spotify.com/album/5GaqAoc0gAzImOql9eWKVF"
       },

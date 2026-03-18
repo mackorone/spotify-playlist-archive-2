@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,554 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,583 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 47 | [All Night](https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne) | [Sensuré](https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA), [Rastreep](https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw) | [Pathways](https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia) | 2:46 |
 | 48 | [Strike a Pose \(feat\. Camille Munn\)](https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1), [Camille Munn](https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC) | [Strike a Pose \(feat\. Camille Munn\)](https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE) | 3:06 |
 | 49 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 |
-| 50 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
-| 51 | [YOU KNOW I'M DOWN](https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [YOU KNOW I'M DOWN](https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6) | 2:24 |
+| 50 | [YOU KNOW I'M DOWN](https://open.spotify.com/track/6hiwAsDc2fyuWK4iCCZJvL) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr) | [YOU KNOW I'M DOWN](https://open.spotify.com/album/29qoVH75Kc800yEeHjMRi6) | 2:24 |
+| 51 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 52 | [DUN DI DUN](https://open.spotify.com/track/3Z9nSzxrucQVMXS8cfOYzr) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw) | [DUN DI DUN](https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd) | 2:42 |
 | 53 | [Found a Love](https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Found a Love](https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG) | 3:55 |
 | 54 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |

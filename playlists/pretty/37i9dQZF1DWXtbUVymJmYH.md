@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Editors’ Picks: Die besten Deutschrap Tracks des Jahres\. Cover: Ceren & Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,252 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,264 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 25 | [Jiggos](https://open.spotify.com/track/4qmJQ2zamifs9xpesbLxeY) | [Ramzey](https://open.spotify.com/artist/4LiSTXiV4QgUW5ZmJMaAm5), [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [Jiggos](https://open.spotify.com/album/4SO88GoZIZHqkknri4BNiV) | 3:00 |
 | 26 | [10 Sommer](https://open.spotify.com/track/0Bdjz0fRDqPEU51bFbfrCq) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [<3 MY PEOPLE](https://open.spotify.com/album/4qgCdsO3IplVDjgVYjAhHx) | 2:30 |
 | 27 | [it girl \(feat\. sampagne\)](https://open.spotify.com/track/7n8ySJro2yiIs1uvmDVTPu) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [Schlau aber blond](https://open.spotify.com/album/6gSNgh5SP5Pr7C7HHA5RSD) | 2:23 |
-| 28 | [linea rossa](https://open.spotify.com/track/3OxReclcv1ytfqXWvpuG2G) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg) | [threesixty](https://open.spotify.com/album/3k1ssfVYXHeNwKGpkd4OVU) | 1:20 |
+| 28 | [LINEA ROSSA](https://open.spotify.com/track/3OxReclcv1ytfqXWvpuG2G) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2), [Nizi19](https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg) | [THREESIXTY](https://open.spotify.com/album/3k1ssfVYXHeNwKGpkd4OVU) | 1:20 |
 | 29 | [CHO](https://open.spotify.com/track/3PUcweqNkWUgR9fRMXCSwC) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [CHO](https://open.spotify.com/album/6P283pUy9rR5LKW4HaLdH7) | 2:45 |
 | 30 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 |
 | 31 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [JUGGLERZ](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 |

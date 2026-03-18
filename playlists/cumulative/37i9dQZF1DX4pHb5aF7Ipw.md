@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by BAD Junkie & More
 
-1,026 songs - 1 day 23 hr 21 min
+1,027 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [1911](https://open.spotify.com/track/0SBI2P0sOKIBnr6cPcojbH) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [1911](https://open.spotify.com/album/78mvG4GhJ0fjAtTM5ySbJJ) | 2:30 | 2026-01-02 | 2026-02-25 |
 | [2 AM in Sauga](https://open.spotify.com/track/6n601TpgzHhAyQRnKcqsDT) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [WORDPLAY](https://open.spotify.com/album/1ZT00C99V2fm1qOMWTe9kg) | 3:12 | 2025-09-12 | 2025-10-25 |
 | [2 GHODIAN](https://open.spotify.com/track/6b6LTPZTE0vj4zzWZUqMGJ) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk) | [LIMITLESS](https://open.spotify.com/album/3QgOTlqB1nEnDGEqFLm7jx) | 2:43 | 2025-05-17 | 2025-07-16 |
+| [2 Ghore](https://open.spotify.com/track/7enK0d9SwLDpBc8lfTHB9K) | [InderH Nagra](https://open.spotify.com/artist/3nFyZetF0LlSgmEzsqZucl), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [2 Ghore](https://open.spotify.com/album/5blMpb9MjxVEDJC0ZCEfXm) | 3:42 | 2026-03-17 |  |
 | [2022 FLOW](https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2022 FLOW](https://open.spotify.com/album/2Jm9MaeVuCjrn4IQfeS4im) | 3:51 | 2023-03-18 | 2023-08-01 |
 | [2024 FLOW](https://open.spotify.com/track/3LXSXyvucHKJehG54nq0hx) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [2024 FLOW](https://open.spotify.com/album/0iLCdv2DbH7yCWDCpd9YHZ) | 5:32 | 2024-01-03 | 2024-03-01 |
 | [2025 FLOW](https://open.spotify.com/track/0o6j2OLr5tUvpGldAYjLUw) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [2025 FLOW](https://open.spotify.com/album/7rhYIxUBvfOSO5QuCoMVKx) | 6:08 | 2025-01-07 | 2025-02-07 |
@@ -704,7 +705,7 @@
 | [ON SIGHT](https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [ON SIGHT](https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC) | 2:23 | 2025-09-30 | 2025-11-22 |
 | [One In A Million](https://open.spotify.com/track/1mJ54UVDax6JVIRBtcDwUi) | [Harman Hundal](https://open.spotify.com/artist/2daDqAvmOL9Uxwv0cGvLXv) | [Never Too Late](https://open.spotify.com/album/1QIfOmEfvFxvOah9PlrJ0I) | 2:56 | 2026-02-06 | 2026-03-14 |
 | [One Of One](https://open.spotify.com/track/2cmUydA6WxjO6ioIMD1DuS) | [NIMAAN](https://open.spotify.com/artist/2XHUsFId8Zx5T6wa48Rdzr), [ARSH](https://open.spotify.com/artist/0vzZDYE6Z4rvZXMReRwlHi) | [One Of One](https://open.spotify.com/album/3UgENCbND7IJauIiBWkPlX) | 2:07 | 2025-08-26 | 2025-10-11 |
-| [One of One](https://open.spotify.com/track/7cMINvwWgOo6UA9Lj52Sam) | [Sukh Husnar](https://open.spotify.com/artist/14EtzLs3uZ8lzMDTXFb6T1) | [One of One](https://open.spotify.com/album/3xRlcUh95tNN4XxSAlHRh4) | 2:29 | 2026-02-17 |  |
+| [One of One](https://open.spotify.com/track/7cMINvwWgOo6UA9Lj52Sam) | [Sukh Husnar](https://open.spotify.com/artist/14EtzLs3uZ8lzMDTXFb6T1) | [One of One](https://open.spotify.com/album/3xRlcUh95tNN4XxSAlHRh4) | 2:29 | 2026-02-17 | 2026-03-18 |
 | [One Rhyme](https://open.spotify.com/track/1AbK09Gs9LSUM5qKBKVvao) | [Zikar](https://open.spotify.com/artist/0VBk63BGvEkmbeYHNpsDHC), [Ellde Fazilka](https://open.spotify.com/artist/6j6Wb14YgJXj3sh8JIGFI0) | [Show Time](https://open.spotify.com/album/75BRHh6C3J3xU7Ew94M9t0) | 1:29 | 2025-05-01 | 2025-06-14 |
 | [One Way](https://open.spotify.com/track/3AscPMNW1cJOP6WDRGIdnp) | [Naina Layal](https://open.spotify.com/artist/5L9qkyX6hhCC8IFlwIwiEa), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4), [Aameen](https://open.spotify.com/artist/3ailw1GLJZKdjIKzPey3IF) | [My Turn](https://open.spotify.com/album/4eT5LonmQGAIEJs2BXuUpn) | 2:41 | 2024-09-09 | 2024-10-04 |
 | [One Way Flight](https://open.spotify.com/track/4dTzfv2q0mJfCF9nyfIdlN) | [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Sunayna sharma](https://open.spotify.com/artist/4YJ9CvufODorWJ0eu4U3WN) | [One Way Flight](https://open.spotify.com/album/3x9aSEPapLhJ0Hc2k0CLk8) | 2:13 | 2025-02-28 | 2025-04-12 |

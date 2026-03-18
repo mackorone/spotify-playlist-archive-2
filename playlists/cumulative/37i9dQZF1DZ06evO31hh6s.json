@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 290722,
       "name": "Foo Fambino",
       "url": "https://open.spotify.com/track/5nv2npB23rED5Vihxj3wPg"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 213564,
       "name": "GANG",
       "url": "https://open.spotify.com/track/1OisrdyrsLdmz7IrmUBQCp"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 247746,
       "name": "Give It up (feat. Big Syke, Young Noble & E.D.I. Mean)",
       "url": "https://open.spotify.com/track/2Sq6EtMVEH9xJtyg4X5Hby"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 176840,
       "name": "Thug Music",
       "url": "https://open.spotify.com/track/5Wb7HuBooPy138N39SUomA"

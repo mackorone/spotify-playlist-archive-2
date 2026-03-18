@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Monique Smit
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,313 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,322 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 6 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
 | 7 | [In Het Hart Van](https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [In Het Hart Van](https://open.spotify.com/album/1wMb3TbE8B5cfbrxUnZ5aZ) | 2:50 |
 | 8 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
-| 9 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
+| 9 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
 | 10 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 11 | [Dat Doe Jij](https://open.spotify.com/track/22u2ehqXZvpRgmsNB5zerD) | [Mike Peterson](https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E) | [Dat Doe Jij](https://open.spotify.com/album/2JBYIlp40gTwBwqCPjRe8f) | 2:28 |
 | 12 | [Blijf Nog Even](https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Blijf Nog Even](https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE) | 2:59 |

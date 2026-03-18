@@ -1,12 +1,12 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 1641,
+  "num_followers": 1878,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/cm4OZrdODqC2c8al3uYj5oqqm",
+  "snapshot_id": "AAAAAJx47ld8BUJ87ougNs4cgF8I8LlB",
   "tracks": [
     {
       "added_at": "2026-03-05 23:16:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Last Breath",
-        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
-      },
-      "artists": [
-        {
-          "name": "Upchuck",
-          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
-        }
-      ],
-      "duration_ms": 110758,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Bless My Psyche",
         "url": "https://open.spotify.com/album/6l15xlxmDJGC2C8xJNx673"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 180212,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/2MJ99N6jENvKonfgegDtZx"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Last Breath",
+        "url": "https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap"
+      },
+      "artists": [
+        {
+          "name": "Upchuck",
+          "url": "https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW"
+        }
+      ],
+      "duration_ms": 110758,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -963,6 +963,26 @@
       "duration_ms": 199693,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB"
+    },
+    {
+      "added_at": "2026-03-17 18:41:04",
+      "album": {
+        "name": "Nina Hagen Band",
+        "url": "https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx"
+      },
+      "artists": [
+        {
+          "name": "Nina Hagen",
+          "url": "https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj"
+        },
+        {
+          "name": "Spliff",
+          "url": "https://open.spotify.com/artist/47U0ujLT2qD3wSOGl5WDth"
+        }
+      ],
+      "duration_ms": 210051,
+      "name": "Unbeschreiblich Weiblich",
+      "url": "https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1159,22 +1179,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "ITEKOMA HITS",
-        "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
-      },
-      "artists": [
-        {
-          "name": "Otoboke Beaver",
-          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Love is Short",
-      "url": "https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Silence Yourself",
         "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
       },
@@ -1187,6 +1191,22 @@
       "duration_ms": 170133,
       "name": "Husbands",
       "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "ITEKOMA HITS",
+        "url": "https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4"
+      },
+      "artists": [
+        {
+          "name": "Otoboke Beaver",
+          "url": "https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq"
+        }
+      ],
+      "duration_ms": 131213,
+      "name": "Love is Short",
+      "url": "https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1271,22 +1291,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Personal Best",
-        "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
-      },
-      "artists": [
-        {
-          "name": "Team Dresch",
-          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
-        }
-      ],
-      "duration_ms": 102933,
-      "name": "She's Crushing My Mind",
-      "url": "https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -1299,6 +1303,22 @@
       "duration_ms": 95960,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Personal Best",
+        "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
+      },
+      "artists": [
+        {
+          "name": "Team Dresch",
+          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
+        }
+      ],
+      "duration_ms": 102933,
+      "name": "She's Crushing My Mind",
+      "url": "https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1515,22 +1535,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Good Living Is Coming For You",
-        "url": "https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI"
-      },
-      "artists": [
-        {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Eraser",
-      "url": "https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Larceny & Old Lace",
         "url": "https://open.spotify.com/album/5Bu8QKUFumC4uywqYqmN5P"
       },
@@ -1543,6 +1547,22 @@
       "duration_ms": 152440,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3rMCQpwLtAMKwDlgjPrysO"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Good Living Is Coming For You",
+        "url": "https://open.spotify.com/album/6w1BFk9NRpyFLQ2SXPYEwI"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Eraser",
+      "url": "https://open.spotify.com/track/4PvQ9zc1eeO1xzURqgR5hH"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1593,36 +1613,20 @@
       "url": "https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf"
     },
     {
-      "added_at": "2026-03-05 23:16:41",
+      "added_at": "2026-03-17 18:41:04",
       "album": {
-        "name": "Gato Negro",
-        "url": "https://open.spotify.com/album/5wCqvwYFZrp5OZEANiX5t3"
+        "name": "Burning Farm",
+        "url": "https://open.spotify.com/album/30e1Zd04RWU9KVMwCrYiO6"
       },
       "artists": [
         {
-          "name": "7 Year Bitch",
-          "url": "https://open.spotify.com/artist/535KSdsDbNGj6w6eCBkRP5"
+          "name": "Shonen Knife",
+          "url": "https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Miss Understood",
-      "url": "https://open.spotify.com/track/5dy7GRBv4dxguEk8UG433S"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
-        "name": "Cost of Living",
-        "url": "https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb"
-      },
-      "artists": [
-        {
-          "name": "Downtown Boys",
-          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Somos Chulas (No Somos Pendejas)",
-      "url": "https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of"
+      "duration_ms": 152240,
+      "name": "Twist Barbie",
+      "url": "https://open.spotify.com/track/0cLMJ6Ajl5G2Av6PSu8xhM"
     }
   ],
   "unique_name": "Women of Punk",

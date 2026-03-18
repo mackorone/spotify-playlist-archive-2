@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Seinabo Sey, Greekazo och Miss Li med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,426 likes - 106 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,424 likes - 106 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 102 | [Deep End](https://open.spotify.com/track/3TZJgZZfZ7p5k7gPHgyq9T) | [Natalie Reigo](https://open.spotify.com/artist/7dX07rICvUWZ2wFQPK7jdi) | [Deep End](https://open.spotify.com/album/0ArZXku4WwZkduJIAhULaw) | 3:03 |
 | 103 | [Cruel Streak](https://open.spotify.com/track/5DwcxI3AviY5EQjqqCq8nn) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [A Pound of Feathers](https://open.spotify.com/album/417zi1WN5yAK4u3VOjZh13) | 4:09 |
 | 104 | [Sandy's Song](https://open.spotify.com/track/06Fi2AmQHhE0A8etEw2fEP) | [Jordan Lee](https://open.spotify.com/artist/43Ew9lncWtcNtaXkvh4YOE) | [Sandy's Song](https://open.spotify.com/album/1bXVXG9BN7PLVVPmilxg7O) | 2:25 |
-| 105 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 105 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 106 | [I just wanna be happy](https://open.spotify.com/track/2aFPZQGmRmp3vUhiclA3r0) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [I just wanna be happy](https://open.spotify.com/album/32UHmeBh71WnfehWxbCS0g) | 2:34 |
 
 Snapshot ID: `AAAAALoBlgA5OunuAFt5dQEMdhLAELA9`

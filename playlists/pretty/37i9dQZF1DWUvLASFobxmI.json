@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Tito Torbellino Jr en portada.",
-  "num_followers": 528283,
+  "num_followers": 528319,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Mis Zapatos",
-        "url": "https://open.spotify.com/album/0KHNhi6FluRfYZ1zmk1yiI"
-      },
-      "artists": [
-        {
-          "name": "Clase Personal",
-          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Mis Zapatos",
-      "url": "https://open.spotify.com/track/5KJB6zKsBwk0xg49hPVWJW"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Apenas Prend\u00ed El Motor",
         "url": "https://open.spotify.com/album/5lapjTcT8PFFiyW1hWQgQ0"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 117866,
       "name": "Apenas Prend\u00ed El Motor",
       "url": "https://open.spotify.com/track/4rJVkerzQdghvOgBW0lHKj"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Mis Zapatos",
+        "url": "https://open.spotify.com/album/0KHNhi6FluRfYZ1zmk1yiI"
+      },
+      "artists": [
+        {
+          "name": "Clase Personal",
+          "url": "https://open.spotify.com/artist/3kDOmAncFcuVzkQBY6zevg"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Mis Zapatos",
+      "url": "https://open.spotify.com/track/5KJB6zKsBwk0xg49hPVWJW"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -767,6 +767,38 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "Que Tonto He Sido",
+        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
+      },
+      "artists": [
+        {
+          "name": "Solido",
+          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Que Tonto He Sido",
+      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "En Vivo FP Vol. 2",
+        "url": "https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aficion",
+          "url": "https://open.spotify.com/artist/49weauk9NAWsBV2o3icbdM"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Tus Palabras - En Vivo",
+      "url": "https://open.spotify.com/track/73UxSb6sM0SdvdhGQPM6wZ"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "El Lunar",
         "url": "https://open.spotify.com/album/5D6JdOEKLfQNWSu4xBI1hK"
       },
@@ -787,22 +819,6 @@
       "duration_ms": 257655,
       "name": "El Lunar",
       "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "En Vivo FP Vol. 2",
-        "url": "https://open.spotify.com/album/3xvFTJbJlanrnNTNfjctZj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aficion",
-          "url": "https://open.spotify.com/artist/49weauk9NAWsBV2o3icbdM"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Tus Palabras - En Vivo",
-      "url": "https://open.spotify.com/track/73UxSb6sM0SdvdhGQPM6wZ"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -835,22 +851,6 @@
       "duration_ms": 215792,
       "name": "Vicio y Soledad",
       "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "Que Tonto He Sido",
-        "url": "https://open.spotify.com/album/4r1Q41YDVdGU3xlp1rZsz4"
-      },
-      "artists": [
-        {
-          "name": "Solido",
-          "url": "https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Que Tonto He Sido",
-      "url": "https://open.spotify.com/track/4aHqEkiwz5Ai7HC2vKendf"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
+      },
+      "artists": [
+        {
+          "name": "El Cartel De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/0l4NEsMS7JI8tZYCSIsab5"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Tengo Que Olvidar",
-        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
-      },
-      "artists": [
-        {
-          "name": "El Cartel De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/2xinWstoJ8afZc5WUlL0sz"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 163968,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3VroXeC69MnIXdA9gXvMEc"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "El Gran Elemento",
-        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "El Gran Elemento",
-      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -991,6 +975,22 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
+        "name": "El Gran Elemento",
+        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "El Gran Elemento",
+      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
         "name": "Desde Que Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/5Y1yifNTjH1X5UY9oCfgXx"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 217596,
       "name": "Desde Que Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/7FlHA00BUKaxCeTa7kKhOv"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "Canelovers",
-        "url": "https://open.spotify.com/album/7DzsM0NbPCCgR9k4PSj0oi"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 215117,
-      "name": "Siempre Ibas A Estar",
-      "url": "https://open.spotify.com/track/5lcaUxGoGJm4yNW3RAN0M6"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1051,6 +1035,22 @@
       "duration_ms": 182399,
       "name": "Tu Clavo",
       "url": "https://open.spotify.com/track/117epVqgLmBxScEqVRBoCh"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Canelovers",
+        "url": "https://open.spotify.com/album/7DzsM0NbPCCgR9k4PSj0oi"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        }
+      ],
+      "duration_ms": 215117,
+      "name": "Siempre Ibas A Estar",
+      "url": "https://open.spotify.com/track/5lcaUxGoGJm4yNW3RAN0M6"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "HOMBRE DE LEY",
-        "url": "https://open.spotify.com/album/6ag7xDpT27iRPwobu0StdN"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "HOMBRE DE LEY",
-      "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Mi Potra",
         "url": "https://open.spotify.com/album/6CtAa222LPUIPcR06yPK3Z"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 193015,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/2fwihVz6TlJkSn6CKfx1SF"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "HOMBRE DE LEY",
+        "url": "https://open.spotify.com/album/6ag7xDpT27iRPwobu0StdN"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "HOMBRE DE LEY",
+      "url": "https://open.spotify.com/track/1ZamBlkaZCx9subrNWl6WO"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "El Consejo",
-        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
-      },
-      "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Mi Familia Y Mis Hijos",
         "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
       },
@@ -1239,6 +1223,38 @@
       "duration_ms": 144637,
       "name": "Mi Familia Y Mis Hijos",
       "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Vivir con ella",
+        "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Vivir con ella",
+      "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Vivir con ella",
-        "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
       },
       "artists": [
         {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+          "name": "D\u00c1MASO",
+          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
         }
       ],
-      "duration_ms": 184960,
-      "name": "Vivir con ella",
-      "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
+      "duration_ms": 228519,
+      "name": "As\u00ed Soy Yo",
+      "url": "https://open.spotify.com/track/5vJUsAS3TsyTH2yyNMcaUU"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1323,22 +1339,6 @@
       "duration_ms": 153137,
       "name": "Valiendo VRG",
       "url": "https://open.spotify.com/track/1v2ZTWxQdzWK9c6CmndvYk"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
-        "name": "As\u00ed Soy Yo",
-        "url": "https://open.spotify.com/album/67tvgLNIQRb6WsiBJaDplA"
-      },
-      "artists": [
-        {
-          "name": "D\u00c1MASO",
-          "url": "https://open.spotify.com/artist/6yAjQlCyi7OvkbtDV44Pug"
-        }
-      ],
-      "duration_ms": 228519,
-      "name": "As\u00ed Soy Yo",
-      "url": "https://open.spotify.com/track/5vJUsAS3TsyTH2yyNMcaUU"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Tu Carita",
-        "url": "https://open.spotify.com/album/0CiF0wSA867u1Tm8a13tJS"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Tu Carita",
-      "url": "https://open.spotify.com/track/0WVjbZKrJvX1pszaQ3Y0pT"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Nos Acostumbramos",
         "url": "https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 179647,
       "name": "Nos Acostumbramos",
       "url": "https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Tu Carita",
+        "url": "https://open.spotify.com/album/0CiF0wSA867u1Tm8a13tJS"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Tu Carita",
+      "url": "https://open.spotify.com/track/0WVjbZKrJvX1pszaQ3Y0pT"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Chubi Dubi Du (En Vivo)",
-        "url": "https://open.spotify.com/album/7JnioXqbhycMoMv0K7ALbe"
-      },
-      "artists": [
-        {
-          "name": "5to Vuelo",
-          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Chubi Dubi Du - En Vivo",
-      "url": "https://open.spotify.com/track/0o8SPbqzXGEtBnIFVQVu9k"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "Desde Los Angeles (En Vivo)",
         "url": "https://open.spotify.com/album/4Qo9B9QZhwqV579sX7lriE"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 222000,
       "name": "La vida recia - En Vivo",
       "url": "https://open.spotify.com/track/5PDK2DNVnr11CNZ1X0hXsR"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Chubi Dubi Du (En Vivo)",
+        "url": "https://open.spotify.com/album/7JnioXqbhycMoMv0K7ALbe"
+      },
+      "artists": [
+        {
+          "name": "5to Vuelo",
+          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Chubi Dubi Du - En Vivo",
+      "url": "https://open.spotify.com/track/0o8SPbqzXGEtBnIFVQVu9k"
     },
     {
       "added_at": "2026-03-13 06:00:11",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-03-13 06:00:11",
       "album": {
-        "name": "Mi Forma De Sentir",
-        "url": "https://open.spotify.com/album/6KStBQbopuPfuqyOE6VWQE"
-      },
-      "artists": [
-        {
-          "name": "Los Leones Del Norte",
-          "url": "https://open.spotify.com/artist/3S14o1EzKtO0qOJiUQjbTS"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "Mi Forma De Sentir",
-      "url": "https://open.spotify.com/track/5mttD8KWLIfBbxsQoCoYsK"
-    },
-    {
-      "added_at": "2026-03-13 06:00:11",
-      "album": {
         "name": "De Ti Exclusivo",
         "url": "https://open.spotify.com/album/5KKYbDpK1HIthyPGNf1Rck"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 173822,
       "name": "De Ti Exclusivo",
       "url": "https://open.spotify.com/track/2lHUEr4xgaU3Cj1WdeiDxm"
+    },
+    {
+      "added_at": "2026-03-13 06:00:11",
+      "album": {
+        "name": "Mi Forma De Sentir",
+        "url": "https://open.spotify.com/album/6KStBQbopuPfuqyOE6VWQE"
+      },
+      "artists": [
+        {
+          "name": "Los Leones Del Norte",
+          "url": "https://open.spotify.com/artist/3S14o1EzKtO0qOJiUQjbTS"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "Mi Forma De Sentir",
+      "url": "https://open.spotify.com/track/5mttD8KWLIfBbxsQoCoYsK"
     },
     {
       "added_at": "2026-03-13 06:00:11",

@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 403149,
+  "num_followers": 403139,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
-      },
-      "artists": [
-        {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Hearts Don't",
         "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 218000,
       "name": "Hearts Don't",
       "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
     },
     {
       "added_at": "2026-03-06 05:00:13",

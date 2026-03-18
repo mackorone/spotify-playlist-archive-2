@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,072 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,108 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 9 | [Call My Name \- ARYMÉ Remix](https://open.spotify.com/track/5d5RLIRMotQlUBjP3En6hN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6) | [Call My Name \(ARYMÉ Remix\)](https://open.spotify.com/album/4CPsCmCy2OssJ9nHBjjNWO) | 3:32 |
 | 10 | [Dreaming](https://open.spotify.com/track/1cLAigiTFnvVsbY99tk2zZ) | [Nasso](https://open.spotify.com/artist/7rXd6dMaNtR1rYdkQnalfh) | [Dreaming](https://open.spotify.com/album/7IJR2yGp24lLi20dJtU6fT) | 3:46 |
 | 11 | [Zaya](https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Zaya](https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j) | 7:39 |
-| 12 | [Teke \- Francis Mercier Remix](https://open.spotify.com/track/187lxGNXIujJN1AF26MaCj) | [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Teke \(Francis Mercier Remix\)](https://open.spotify.com/album/5Sftz6HP8abxBxo9NiYMJA) | 3:24 |
+| 12 | [Teke \- Francis Mercier Remix](https://open.spotify.com/track/187lxGNXIujJN1AF26MaCj) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Valeron](https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip) | [Teke \(Francis Mercier Remix\)](https://open.spotify.com/album/5Sftz6HP8abxBxo9NiYMJA) | 3:24 |
 | 13 | [Kumeleli](https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [ZSS](https://open.spotify.com/artist/0EdHRrvfxXevJFUB3wBVbe), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT) | [Kumeleli](https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z) | 5:24 |
 | 14 | [Hamileh](https://open.spotify.com/track/3ual4nA6P2RthevpcCuIdb) | [QT\-HIGH](https://open.spotify.com/artist/4NO2QKQ3zchF7KVU0a5cXo), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Hamileh](https://open.spotify.com/album/5emk5n6J1ValmrczJZn82C) | 3:32 |
 | 15 | [Gatluak \- Miishu & MASSALA Remix](https://open.spotify.com/track/7CTxQltN03O7HkpxB3y5Cv) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MASSALA](https://open.spotify.com/artist/7xI763bNyhkwOTWpZq2xdG), [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf) | [Gatluak \(Miishu & MASSALA Remix\)](https://open.spotify.com/album/3QCmEYzvUVUOxlMDstvPaB) | 3:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 50 | [Kanga Mutu \- El Clàsico Remix](https://open.spotify.com/track/50BZnlirZvVb6hY3TsxNbS) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Spilulu](https://open.spotify.com/artist/0JXiPfPtSuON62oSTp4w7j), [H\-Baraka](https://open.spotify.com/artist/5OOwEOkcOiknAGuGl7AE4g), [El Clàsico](https://open.spotify.com/artist/1n1M1BJqnzbEICpJ5Lapir) | [Kanga Mutu \(El Clàsico Remix\)](https://open.spotify.com/album/5rzjeBgTR4fBebI2SclaXC) | 6:28 |
 | 51 | [Amalanga \- Club Mix](https://open.spotify.com/track/01SzHbmFxPZd57tmA8G90J) | [BVLLISH](https://open.spotify.com/artist/6YCQsbx5oArnRI5FeySKDA), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV), [Dan Bay](https://open.spotify.com/artist/1E9ev9hZVmtmeFkS3ZAyyw) | [Amalanga \(Club Mix\)](https://open.spotify.com/album/06aVMW0HConOKrdZVP72ij) | 3:46 |
 
-Snapshot ID: `AAAAAPEmE5s11OJrqnAzrouqEZq7KcNj`
+Snapshot ID: `AAAAAAInyRQq1OuUvPC0Z4qp8n9mfO1U`

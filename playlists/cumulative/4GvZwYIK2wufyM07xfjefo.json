@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 220959,
       "name": "WONDERLAND.COM (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5SP0xFTN87eVOeRmJXI8DC"
@@ -2396,6 +2396,28 @@
       "duration_ms": 67272,
       "name": "\u3044\u3044\u306d\u304f\u308c\u308b\u541b\u304c\u597d\u304d (feat. \u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/4cGIeiYyeyjfCx2YbZEkPl"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3061\u3054",
+        "url": "https://open.spotify.com/album/64tORy0r8SQWapIBYQxdw3"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u3064\u3081\u5343\u79cb",
+          "url": "https://open.spotify.com/artist/2QlNrxgRa6HInDUgjYuGPI"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "\u3044\u3061\u3054 (feat. \u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/14JRnMsx2Ykd5BQWZ3DTLV"
     },
     {
       "album": {
@@ -2935,6 +2957,28 @@
     },
     {
       "album": {
+        "name": "\u305d\u308c\u306f\u7a7a\u306e\u5f7c\u65b9\u304b\u3089",
+        "url": "https://open.spotify.com/album/5cNhjlfdzWenPf2I9qA4H1"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30a2\u30f3\u30fb\u30ad\u30ce",
+          "url": "https://open.spotify.com/artist/6rLC4Qo8xgDTC759EkUqMv"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236621,
+      "name": "\u305d\u308c\u306f\u7a7a\u306e\u5f7c\u65b9\u304b\u3089 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6oTFoPIMB55Lt1G4tRNw2B"
+    },
+    {
+      "album": {
         "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088",
         "url": "https://open.spotify.com/album/3FP3el0ln0CtFRklyZRz3Y"
       },
@@ -2994,7 +3038,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 154669,
       "name": "\u3066\u3093\u307a\u3093\u3061\u3044 (feat. \u5bae\u821e\u30e2\u30ab)",
       "url": "https://open.spotify.com/track/4bXLFNOV5iceNpWZqEglnX"
@@ -3396,7 +3440,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 350000,
       "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30c4\u30a1\u30a4\u30b9 (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/7urN2V1SxQkNSTGBtS4BTL"
@@ -4379,6 +4423,40 @@
     },
     {
       "album": {
+        "name": "\u30ce\u30de\u30c9\u30ef\u30fc\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/0OYfNntixEEK8D20g4sgrO"
+      },
+      "artists": [
+        {
+          "name": "Adeliae",
+          "url": "https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        },
+        {
+          "name": "\u96e8\u8863",
+          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184891,
+      "name": "\u30ce\u30de\u30c9\u30ef\u30fc\u30ab\u30fc (feat. \u521d\u97f3\u30df\u30af\u30fb\u53ef\u4e0d\u30fb\u96e8\u8863\u30fb\u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/7d9HP8iGBNruJ0ANi8UuHZ"
+    },
+    {
+      "album": {
         "name": "\u30ce\u30ef\u30fc\u30eb\u30a2\u30d3\u30b9",
         "url": "https://open.spotify.com/album/0w1TRE6WAxkhuaToaERx0Q"
       },
@@ -4774,7 +4852,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 255692,
       "name": "\u30d6\u30eb\u30fc\u30d9\u30ea\u30fc\u30ac\u30fc\u30eb (ver. MIKU) (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/273lSz50uErYy0RzH0Qo0W"
@@ -5090,6 +5168,28 @@
       "duration_ms": 186923,
       "name": "\u30e0\u30fc\u30f3\u30b9\u30c8\u30a2",
       "url": "https://open.spotify.com/track/0p6W2tPOqoyzNOFm8JWkUv"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30eb\u30c6\u30a3\u30f3\u30e1\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/41T5csvgPBw6n9ByCwbpgQ"
+      },
+      "artists": [
+        {
+          "name": "Toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242552,
+      "name": "\u30e1\u30eb\u30c6\u30a3\u30f3\u30e1\u30ed\u30a6 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4YyIY3TolbPXWQ3r40a43c"
     },
     {
       "album": {
@@ -6492,7 +6592,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 210666,
       "name": "\u5f8c\u306e\u796d",
       "url": "https://open.spotify.com/track/70TxendOx9La3B1Xs0gfHh"
@@ -7410,7 +7510,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 196557,
       "name": "\u731b\u6bd2\u96d1\u8ca8 \u51a5\u5b50\u5c4b\u3055\u3093 (feat. MEIKO)",
       "url": "https://open.spotify.com/track/4dkoHapdJnDTQYyOTryo2X"

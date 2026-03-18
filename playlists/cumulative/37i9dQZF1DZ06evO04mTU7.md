@@ -4,7 +4,7 @@
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 24 min
+64 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [O que a Julia vai ser?](https://open.spotify.com/track/7LzAlJ41rNAtvLJZC7xnks) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:36 | 2025-09-18 |  |
 | [O Suficiente](https://open.spotify.com/track/7qZClco5dd6Hzxg2ISaEdk) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [N.I.N.A](https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:24 | 2023-12-30 | 2026-03-14 |
 | [O Suficiente \(feat\. N.I.N.A\)](https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [N.I.N.A](https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 3:24 | 2026-03-14 |  |
-| [O Tipo de Garota](https://open.spotify.com/track/2HdViad1em77egtiCxsNiW) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [O Tipo de Garota](https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y) | 3:23 | 2023-12-30 |  |
+| [O Tipo de Garota](https://open.spotify.com/track/77atbKemCniSVSfMXuz6sn) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [O Tipo de Garota](https://open.spotify.com/album/5YM0c46VPa62NDFQExMwt9) | 3:23 | 2026-03-18 |  |
+| [O Tipo de Garota](https://open.spotify.com/track/2HdViad1em77egtiCxsNiW) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [O Tipo de Garota](https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y) | 3:23 | 2023-12-30 | 2026-03-18 |
 | [OK](https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [OK](https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq) | 2:09 | 2026-03-13 |  |
 | [OK](https://open.spotify.com/track/0MYKlvcHf5a6NHJDHfmyJO) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [OK](https://open.spotify.com/album/5QdLVDK0alzPG0aTYecf1P) | 2:09 | 2023-12-30 | 2026-03-13 |
 | [Outra Mulher](https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Outra Mulher](https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6) | 2:54 | 2026-03-14 |  |

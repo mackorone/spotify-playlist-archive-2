@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,231 songs - 9 day 9 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,232 songs - 9 day 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4239,5 +4239,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4229 | [A tu lado](https://open.spotify.com/track/6U24wat60mMB1CIq4mMORW) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 2:46 |
 | 4230 | [Sin aire](https://open.spotify.com/track/6asjutq5xtG1vcYqSr3ug1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:37 |
 | 4231 | [Worth the wait](https://open.spotify.com/track/0Q3kUTUPN2tnAAAP5QX0Eh) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Worth the wait](https://open.spotify.com/album/2nRP98u8PQm1v1dz0JqgrE) | 2:46 |
+| 4232 | [Cntrl](https://open.spotify.com/track/51HmjVo8lAH1twucy7t2BP) | [Jeremiah Denis](https://open.spotify.com/artist/6AEHyEcZyO5lqd13SS5nYl) | [Cntrl](https://open.spotify.com/album/1Hq1GfwDxxO6xRNypJtLQu) | 1:39 |
 
-Snapshot ID: `AAAIBvV5tdHfvZteBtaegh/WiqpSkl6E`
+Snapshot ID: `AAAIB+c6CK8BL+j5CCz0gLaWql8rsXVf`

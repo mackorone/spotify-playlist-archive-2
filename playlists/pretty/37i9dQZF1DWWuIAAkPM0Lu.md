@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Christopher, Zar Paulo, Sira Jovina  og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,889 likes - 97 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,885 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 32 | [Lately, Love Is Dead](https://open.spotify.com/track/49b2ZZj6rxIwQCuMgrj8zI) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [Lately, Love Is Dead](https://open.spotify.com/album/2uQkM9irfWIhfJKRhFMcxr) | 4:05 |
 | 33 | [Galt I Byen](https://open.spotify.com/track/5GDa4lShwPVkYuOziyxtUC) | [Nordstrøm](https://open.spotify.com/artist/1hpnhZWhNuFCVJrk5MVrM4) | [Galt I Byen](https://open.spotify.com/album/4dClugtPVZRaNmBrqkRlCv) | 3:27 |
 | 34 | [There's a Time](https://open.spotify.com/track/1qmYhOv8QL7FOwXSs8HjUl) | [Vinnie Who](https://open.spotify.com/artist/5Lt78N8RGSNxqbrHI8JeFM) | [Slow and Kind](https://open.spotify.com/album/1q1znRxWsxNXLEhiBtEUNR) | 2:57 |
-| 35 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 35 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 36 | [CGI](https://open.spotify.com/track/77gmlWMtpITWH9Yk3cDNpN) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [CGI](https://open.spotify.com/album/5PTwYGU9DJWa72cphcmmZ1) | 2:49 |
 | 37 | [Something to Hope For](https://open.spotify.com/track/2mXJUvkWU4buVwVr34FUlf) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Something to Hope For](https://open.spotify.com/album/649xH0ILrI0AxbpCEZlsOS) | 2:54 |
 | 38 | [Take you away](https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Take you away](https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR) | 3:54 |

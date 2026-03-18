@@ -1,6 +1,6 @@
 {
   "description": "Puros lanzamientos. Lo nuevo de toda Iberoam\u00e9rica. Portada: Mon Laferte",
-  "num_followers": 850500,
+  "num_followers": 850366,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
@@ -467,7 +467,7 @@
     {
       "added_at": "2026-03-13 04:59:24",
       "album": {
-        "name": "Angel o Demonio (feat. LUISITO MU\u00d1OZ) [Remix]",
+        "name": "Angel o Demonio (Remix)",
         "url": "https://open.spotify.com/album/5dvCKHPZjSkxTyvImCW1Bd"
       },
       "artists": [
@@ -489,7 +489,7 @@
         }
       ],
       "duration_ms": 202581,
-      "name": "Angel o Demonio (feat. LUISITO MU\u00d1OZ) - Remix",
+      "name": "Angel o Demonio - Remix",
       "url": "https://open.spotify.com/track/67RTogtZjXsIzV6MmZKURw"
     },
     {
@@ -638,6 +638,10 @@
         {
           "name": "El Clooy",
           "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        },
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
         }
       ],
       "duration_ms": 132500,
@@ -820,12 +824,12 @@
           "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
         },
         {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        },
-        {
           "name": "Alex Fer",
           "url": "https://open.spotify.com/artist/6NnQvCLkrl07c3GOimOKHV"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
           "name": "Sly",

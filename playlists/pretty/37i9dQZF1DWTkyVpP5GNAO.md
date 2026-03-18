@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Karen Espinosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,338 likes - 80 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,396 likes - 80 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 24 | [Mi Adoración](https://open.spotify.com/track/1lSYSHSu1HZ5ibdqKYD6rZ) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Digno de Adorar](https://open.spotify.com/album/6mEIqWRRl6vB9Exsi47NMg) | 4:35 |
 | 25 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 |
 | 26 | [contigo todo lo encontré \- En Vivo](https://open.spotify.com/track/6vkFVzjjVdNMQdSa35iUbx) | [Living](https://open.spotify.com/artist/2miffAnnUvKSyB9ykA2su9) | [AL100X](https://open.spotify.com/album/1PNSV5D0NlVgPyEqMNawzv) | 3:36 |
-| 27 | [Dios de Poder](https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Dios de Poder](https://open.spotify.com/album/54wyWna9wJyB0teKDc08Xk) | 8:03 |
+| 27 | [Dios de Poder](https://open.spotify.com/track/46rMCGGUSI0kt1LOY3wHQO) | [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Dios de Poder](https://open.spotify.com/album/54wyWna9wJyB0teKDc08Xk) | 8:03 |
 | 28 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 |
 | 29 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
 | 30 | [Obra de Tu Amor](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |

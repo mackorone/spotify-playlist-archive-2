@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,746 likes - 67 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,751 likes - 67 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 66 | [1\-Q \- 2021 Remaster](https://open.spotify.com/track/33QXrJArKc2IgX7xIuUpOf) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Voodooamt](https://open.spotify.com/artist/0u4QLNTceYzzUQrv1dd5fu) | [Panorama \(Remastered 2021\)](https://open.spotify.com/album/3k8WGklRb0tBsWSXw4K4sg) | 7:14 |
 | 67 | [La Lune](https://open.spotify.com/track/0nPk9rvp09b479plsVgF82) | [Julian Jeweil](https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf) | [Rituel](https://open.spotify.com/album/2ZZ30t66ftZMpF0HxsJbnX) | 5:19 |
 
-Snapshot ID: `AAAAAHPlYxAWUZ6tGyhiHREUdGvQpwfB`
+Snapshot ID: `AAAAAAPudtNrwJvoyygoAjnrnmtetWnO`

@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16194,
+  "num_followers": 16197,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAACywad02rAdE5aAn/aNCE+U",
+  "snapshot_id": "abdIAAAAAAAyietzLkwvfaDmLNDq3V9a",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 195439,
       "name": "Easier",
       "url": "https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 199516,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marching Orders",
         "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 230563,
       "name": "Mama Roots",
       "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 199516,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB"
     },
     {
       "added_at": null,

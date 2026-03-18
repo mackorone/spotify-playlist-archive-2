@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 169656,
+  "num_followers": 169676,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Se Alinearon Los Planetas",
+        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 188400,
+      "name": "A M\u00ed Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -511,26 +519,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Se Alinearon Los Planetas",
-        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 188400,
-      "name": "A M\u00ed Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "La Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/57FEOShxnLZEo29OFNnZWa"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Chusi",
+          "url": "https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "La Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/4FPcrNWSVIdGcqDXUKbOQk"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "La Intuici\u00f3n",
-        "url": "https://open.spotify.com/album/57FEOShxnLZEo29OFNnZWa"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Chusi",
-          "url": "https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "La Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/4FPcrNWSVIdGcqDXUKbOQk"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Deseo",
-        "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
-      },
-      "artists": [
-        {
-          "name": "Alanis Yuki",
-          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
-        }
-      ],
-      "duration_ms": 108137,
-      "name": "Deseo",
-      "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Megalodon",
         "url": "https://open.spotify.com/album/1mqpNirCBGzTo53xKIb9fu"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
+      },
+      "artists": [
+        {
+          "name": "Alanis Yuki",
+          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
+        }
+      ],
+      "duration_ms": 108137,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 171971,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Talento de Vida",
-        "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1455,6 +1439,22 @@
       "duration_ms": 190453,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Talento de Vida",
+        "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2035,18 +2035,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+        "name": "La Voz del Barrio",
+        "url": "https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y"
       },
       "artists": [
         {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+          "name": "Richard Ahumada",
+          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+      "duration_ms": 248000,
+      "name": "A Usted Que Le Importa Ft Millonario",
+      "url": "https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2071,22 +2075,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "La Voz del Barrio",
-        "url": "https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y"
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
       },
       "artists": [
         {
-          "name": "Richard Ahumada",
-          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
         }
       ],
-      "duration_ms": 248000,
-      "name": "A Usted Que Le Importa Ft Millonario",
-      "url": "https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS"
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Cuando",
         "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 170189,
       "name": "Cuando",
       "url": "https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
     },
     {
       "added_at": "2025-11-09 06:50:57",

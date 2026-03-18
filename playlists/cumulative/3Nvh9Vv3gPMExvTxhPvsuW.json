@@ -373,6 +373,28 @@
     },
     {
       "album": {
+        "name": "Next to Me (Remixes)",
+        "url": "https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382439,
+      "name": "Next to Me - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz"
+    },
+    {
+      "album": {
         "name": "Nothing On Me",
         "url": "https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS"
       },

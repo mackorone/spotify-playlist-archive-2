@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,619 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,623 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NO LOVE](https://open.spotify.com/track/6TFk7Htqf0AauDfeFhCLIo) | [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [SOUTH LDN LOVER GIRL](https://open.spotify.com/album/6NgizYchTMIgAtm5UU5zqm) | 3:22 |
 | 2 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 |
 | 3 | [Talk To Me Nuh](https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Talk To Me Nuh](https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S) | 2:06 |
-| 4 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 4 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 5 | [Pattern](https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [\#FEDERAL++](https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU) | 2:33 |
 | 6 | [Who Is It](https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Who Is It](https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37) | 2:54 |
 | 7 | [Sink or Swim](https://open.spotify.com/track/0kBWEgutopAoEU8YtpOgts) | [Raheem Bakare](https://open.spotify.com/artist/40IuUXbYWhw6UcfU7hHmpM), [Elviene](https://open.spotify.com/artist/28rNbzLNeE3uuchR98v9EM) | [Sink or Swim](https://open.spotify.com/album/73Tb67NrvSqyMsGlmUJEFw) | 1:53 |

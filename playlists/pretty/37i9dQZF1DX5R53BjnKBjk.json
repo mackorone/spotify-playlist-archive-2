@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Iuna Falc\u00e3o",
-  "num_followers": 21288,
+  "num_followers": 21290,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOTadIeyH8QctLEjzJsFSaF1kILw",
+  "snapshot_id": "AAAAAL8QJBCD0gdOsV0845DM8kBeSYtQ",
   "tracks": [
     {
       "added_at": "2026-03-09 19:20:59",
@@ -47,26 +47,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "Meraki Nina",
-        "url": "https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 216716,
-      "name": "Marfim",
-      "url": "https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
         "url": "https://open.spotify.com/album/7Hxypa00U94CCgFJLQKjfd"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 130639,
       "name": "Encanto (Nossa Gente, Avisa l\u00e1)",
       "url": "https://open.spotify.com/track/790OWdmOK2eLr9qBWEbuj4"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "Meraki Nina",
+        "url": "https://open.spotify.com/album/1DQMlqpLfEN5cZ8R2HnF6V"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 216716,
+      "name": "Marfim",
+      "url": "https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -287,30 +287,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "N\u00e3o Perde",
-        "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        },
-        {
-          "name": "AMANDONA!",
-          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 140869,
-      "name": "N\u00e3o Perde",
-      "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "Voz de Longe",
         "url": "https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr"
       },
@@ -343,6 +319,30 @@
       "duration_ms": 168374,
       "name": "Doce Confus\u00e3o",
       "url": "https://open.spotify.com/track/4ZjIJ1J5Umb5gp4CPsfDYU"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "N\u00e3o Perde",
+        "url": "https://open.spotify.com/album/7oCRRHbCZa37T7QqkzPW8y"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        },
+        {
+          "name": "AMANDONA!",
+          "url": "https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 140869,
+      "name": "N\u00e3o Perde",
+      "url": "https://open.spotify.com/track/27G9CRFadvdn98dOepffKc"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "\u00c1GUA DE COCO",
-        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
-      },
-      "artists": [
-        {
-          "name": "MARTTE",
-          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
-        },
-        {
-          "name": "Heddy Beats",
-          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
-        }
-      ],
-      "duration_ms": 134705,
-      "name": "\u00c1GUA DE COCO",
-      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "\u00e9 nosso tudo o que eu olho",
         "url": "https://open.spotify.com/album/0zHiKioOJjkb3sOyNi3oIL"
       },
@@ -431,22 +411,22 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "Fumando Kunk",
-        "url": "https://open.spotify.com/album/21XuubrEf8CB0ARxdmqMZ4"
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
       },
       "artists": [
         {
-          "name": "Jun Alcan",
-          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
         },
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK"
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Fumando Kunk",
-      "url": "https://open.spotify.com/track/6edQHkCYmSEhCYSnzpK1rL"
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -471,6 +451,26 @@
       "duration_ms": 179509,
       "name": "Escudo",
       "url": "https://open.spotify.com/track/2Yn2NlS3CZilpqaZqC7SHC"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "Fumando Kunk",
+        "url": "https://open.spotify.com/album/21XuubrEf8CB0ARxdmqMZ4"
+      },
+      "artists": [
+        {
+          "name": "Jun Alcan",
+          "url": "https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V"
+        },
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/0ifpZXmFP8xcOmukbS5udK"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Fumando Kunk",
+      "url": "https://open.spotify.com/track/6edQHkCYmSEhCYSnzpK1rL"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "Magic Love",
-        "url": "https://open.spotify.com/album/10JFqz59xFwkxDJ1KXyAuP"
-      },
-      "artists": [
-        {
-          "name": "Akami",
-          "url": "https://open.spotify.com/artist/3f4V5IrTksx2sz7j3EHP2R"
-        }
-      ],
-      "duration_ms": 140590,
-      "name": "Magic Love",
-      "url": "https://open.spotify.com/track/0TcfpcenEpKDqRP6jDQpF0"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "Bloco na Rua",
         "url": "https://open.spotify.com/album/6fZ0tPpa5oU0X6qotDArHu"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 214928,
       "name": "Dend\u00ea",
       "url": "https://open.spotify.com/track/5ENaxM7C9909sE1eyIAueQ"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "Magic Love",
+        "url": "https://open.spotify.com/album/10JFqz59xFwkxDJ1KXyAuP"
+      },
+      "artists": [
+        {
+          "name": "Akami",
+          "url": "https://open.spotify.com/artist/3f4V5IrTksx2sz7j3EHP2R"
+        }
+      ],
+      "duration_ms": 140590,
+      "name": "Magic Love",
+      "url": "https://open.spotify.com/track/0TcfpcenEpKDqRP6jDQpF0"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
-        "name": "Telejornal Animal",
-        "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
-      },
-      "artists": [
-        {
-          "name": "clara bicho",
-          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Telejornal Animal",
-      "url": "https://open.spotify.com/track/74FqY7lGAMYPdz2Wogl5GY"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
         "name": "Sem foto, sem v\u00eddeo",
         "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 194407,
       "name": "Sem foto, sem v\u00eddeo",
       "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "Telejornal Animal",
+        "url": "https://open.spotify.com/album/0g9meJjVpasnyuWqdoeWCH"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Telejornal Animal",
+      "url": "https://open.spotify.com/track/74FqY7lGAMYPdz2Wogl5GY"
     },
     {
       "added_at": "2026-03-09 19:20:59",
@@ -831,6 +831,38 @@
     {
       "added_at": "2026-03-09 19:20:59",
       "album": {
+        "name": "Endofloema",
+        "url": "https://open.spotify.com/album/2QnsXlUIP3XhbSxrEyizu3"
+      },
+      "artists": [
+        {
+          "name": "Tubo de Ensaio",
+          "url": "https://open.spotify.com/artist/5jXqZO3texOH7eM8xF0ggw"
+        }
+      ],
+      "duration_ms": 303692,
+      "name": "Domingueira",
+      "url": "https://open.spotify.com/track/2m154KLWY48iLUrKsiu3YP"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
+        "name": "AFROBRASILEIRO, vol.1",
+        "url": "https://open.spotify.com/album/00xMHezFz4gvguiY05p5ux"
+      },
+      "artists": [
+        {
+          "name": "FARID.",
+          "url": "https://open.spotify.com/artist/4vO6Qsu0gOxz68NQpAtmAW"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "Autorretrato",
+      "url": "https://open.spotify.com/track/6BwrD025xDA4gHdMmL3OIR"
+    },
+    {
+      "added_at": "2026-03-09 19:20:59",
+      "album": {
         "name": "Org\u00e2nica",
         "url": "https://open.spotify.com/album/1REY8480gnFg0pxEDocOL2"
       },
@@ -863,38 +895,6 @@
       "duration_ms": 167876,
       "name": "S\u00f3 pra voc\u00ea",
       "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
-        "name": "Endofloema",
-        "url": "https://open.spotify.com/album/2QnsXlUIP3XhbSxrEyizu3"
-      },
-      "artists": [
-        {
-          "name": "Tubo de Ensaio",
-          "url": "https://open.spotify.com/artist/5jXqZO3texOH7eM8xF0ggw"
-        }
-      ],
-      "duration_ms": 303692,
-      "name": "Domingueira",
-      "url": "https://open.spotify.com/track/2m154KLWY48iLUrKsiu3YP"
-    },
-    {
-      "added_at": "2026-03-09 19:20:59",
-      "album": {
-        "name": "AFROBRASILEIRO, vol.1",
-        "url": "https://open.spotify.com/album/00xMHezFz4gvguiY05p5ux"
-      },
-      "artists": [
-        {
-          "name": "FARID.",
-          "url": "https://open.spotify.com/artist/4vO6Qsu0gOxz68NQpAtmAW"
-        }
-      ],
-      "duration_ms": 217055,
-      "name": "Autorretrato",
-      "url": "https://open.spotify.com/track/6BwrD025xDA4gHdMmL3OIR"
     },
     {
       "added_at": "2026-03-09 19:20:59",

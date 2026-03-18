@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,067 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,179 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 37 | [MATHÉMATIQUE](https://open.spotify.com/track/1k2MSLuxyPxJbM47VrVVIq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [THUG CEREMONY](https://open.spotify.com/album/1jfB93ugt4JRQlGPtsa6E0) | 2:33 |
 | 38 | [Bad \(feat\. Rihanna\) \- Remix](https://open.spotify.com/track/2Gghr8ZxzXpU4WFBZrYWzs) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [The Gifted](https://open.spotify.com/album/1f2ggF7K0aDz88Xg4b3Vr2) | 3:58 |
 | 39 | [SIERRA LEONE](https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [SIERRA LEONE](https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK) | 2:52 |
-| 40 | [Amori Stupidi \(feat\. Nina Zilli\)](https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:13 |
+| 40 | [Amori Stupidi](https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:13 |
 | 41 | [Je survivrai](https://open.spotify.com/track/5y74lcKWh9u3F7NP1bcUXV) | [Regine](https://open.spotify.com/artist/2RhiWS0GZaDS22fguBZ1f2) | [Les 50 plus belles chansons](https://open.spotify.com/album/1ZTF0dEVmL0sXSUecpvBu0) | 3:10 |
 | 42 | [Bye Bye](https://open.spotify.com/track/7iRhRje7iUo99rkUo3hmGB) | [T2R](https://open.spotify.com/artist/6aH4CaxRV988XUNLVSi1dZ), [Bushibabe](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [Love Story](https://open.spotify.com/album/6pgbvxCK4lKtgTVNSkKlln) | 2:48 |
 | 43 | [Biff pas d'love](https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ??](https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR) | 2:34 |

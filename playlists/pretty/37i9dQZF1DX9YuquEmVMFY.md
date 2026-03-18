@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > \[CAN’T RUSH GREATNESS WORLD TOUR\] 03.14 @ 킨텍스 제2전시장 9홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,249 likes - 20 songs - 54 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 40,317 likes - 20 songs - 54 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

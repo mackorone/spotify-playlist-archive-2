@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 50259,
+  "num_followers": 50264,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAADNVJEEFZZavOVTE/8h8PPr",
+  "snapshot_id": "abdIAAAAAACfGYVvPOnduWyoBUDnEfrG",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 113426,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
+      "duration_ms": 228040,
+      "name": "Life Won't Wait",
+      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
     },
     {
       "added_at": null,
@@ -616,25 +616,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Life Won't Wait",
-      "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 81741,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
+      "duration_ms": 113426,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/5rS94wXNKkQbe2yqXNUoWP"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 35572,
       "name": "Don Giovanni",
       "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Dominoes Fall",
-      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 163506,
+      "name": "Dominoes Fall",
+      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 157643,
-      "name": "New American",
-      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 120480,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Honor Is All We Know (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 120480,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 58371,
-      "name": "Don't Make Me Do It",
-      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
+      "duration_ms": 157643,
+      "name": "New American",
+      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
     },
     {
       "added_at": null,

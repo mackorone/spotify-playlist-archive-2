@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316058,
+      "name": "Alineando Cabrones",
+      "url": "https://open.spotify.com/track/0gvqy3AM44WphUZFfoLiCi"
+    },
+    {
+      "album": {
         "name": "Entre Dios Y El Diablo",
         "url": "https://open.spotify.com/album/5yhcHgchenU7HC1E8fhzbM"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 187240,
       "name": "Casquillos De Mi Cuerno",
       "url": "https://open.spotify.com/track/7bciiqMnJmrfL7jayg9DJa"
@@ -399,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Impactos De Arranque",
+        "url": "https://open.spotify.com/album/0WONCvBVdAASQKdTo3T38O"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "Comandante Antrax (Chino Antra)",
+      "url": "https://open.spotify.com/track/6RhvlbrHy9VzEAVWIyg0hh"
+    },
+    {
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf"
       },
@@ -436,7 +472,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 251746,
       "name": "Comando X - En Vivo",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
@@ -681,6 +717,60 @@
     },
     {
       "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "Don Arturo",
+      "url": "https://open.spotify.com/track/5I1an44XQgrCyazY1osXiY"
+    },
+    {
+      "album": {
+        "name": "Dos Jovenes Muchachos",
+        "url": "https://open.spotify.com/album/6Dh8BffcEacr0t2HMfEZSP"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179121,
+      "name": "Dos Jovenes Muchachos",
+      "url": "https://open.spotify.com/track/6AJlOIhFjHmwophFMnJ5Qt"
+    },
+    {
+      "album": {
+        "name": "El Primer Ministro (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5wnETFg1tLNipXe6a3Li80"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "D\u00e1maso",
+      "url": "https://open.spotify.com/track/02yDkjZcms3h9oPDPKhtYZ"
+    },
+    {
+      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -772,6 +862,24 @@
       "duration_ms": 228093,
       "name": "El Americano",
       "url": "https://open.spotify.com/track/6mJogAj8P9NWNI145xHOEt"
+    },
+    {
+      "album": {
+        "name": "Peligrosos Y Efectivos",
+        "url": "https://open.spotify.com/album/5jrfwCLlM8ryVXVMcfe11x"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "El Artista Antrax",
+      "url": "https://open.spotify.com/track/5S3zU2p7RxJHffvxRvkoFj"
     },
     {
       "album": {
@@ -949,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "El Perfil del Muchacho",
+        "url": "https://open.spotify.com/album/5OX1uiyu8aYIuQs9oN8A8n"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "El Compa Icta",
+      "url": "https://open.spotify.com/track/1xJsIW0VJ8b6K1tYdQZ0XF"
+    },
+    {
+      "album": {
         "name": "Corridos Con Banda",
         "url": "https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ"
       },
@@ -1093,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Especialista",
+        "url": "https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145893,
+      "name": "El Escudo del Chavo",
+      "url": "https://open.spotify.com/track/1BVORWi4naPq1I5JXZ4m4J"
+    },
+    {
+      "album": {
         "name": "El Escudo Del Chavo (feat. Grupo 360) - Single",
         "url": "https://open.spotify.com/album/5XPWJD0KD92cOIbu1pnO2b"
       },
@@ -1144,7 +1288,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 210546,
       "name": "El G\u00fcero Rey Del Pop",
       "url": "https://open.spotify.com/track/7dglAhtmAgzTUutDwM2zne"
@@ -1220,6 +1364,24 @@
       "duration_ms": 133466,
       "name": "El Katch",
       "url": "https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r"
+    },
+    {
+      "album": {
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "El Malo De Culiac\u00e1n",
+      "url": "https://open.spotify.com/track/32MQwnY0WUaNVT7i4W9d9F"
     },
     {
       "album": {
@@ -1385,6 +1547,42 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Corridos de Altura, Vol. 2",
+        "url": "https://open.spotify.com/album/1oj7QclqthlGDXV9utwda1"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142960,
+      "name": "El Ondeado Aka M1",
+      "url": "https://open.spotify.com/track/6J66VePhbbQfTbT5xxuyEJ"
+    },
+    {
+      "album": {
+        "name": "El Perfil del Muchacho",
+        "url": "https://open.spotify.com/album/5OX1uiyu8aYIuQs9oN8A8n"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "El Perfil del Muchacho",
+      "url": "https://open.spotify.com/track/3yMck4yM2270VMx6NPynbT"
+    },
+    {
+      "album": {
         "name": "La Nueva Cara de Tijuana",
         "url": "https://open.spotify.com/album/7pxyaiajcjF6sFUDpNE68i"
       },
@@ -1400,6 +1598,24 @@
       "duration_ms": 162280,
       "name": "El Popeye",
       "url": "https://open.spotify.com/track/6wamcZCfpr0tALIr1e5jXu"
+    },
+    {
+      "album": {
+        "name": "Seguimos De Frente",
+        "url": "https://open.spotify.com/album/25v5d1CT6G8L1HqEn6fEt0"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "El Presumido",
+      "url": "https://open.spotify.com/track/3UidKDZZkuKa8XQtS2IAZ9"
     },
     {
       "album": {
@@ -1468,7 +1684,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 142933,
       "name": "El Tamarindo",
       "url": "https://open.spotify.com/track/0svJOFPsTekhRSUvMdiGPt"
@@ -1512,6 +1728,24 @@
       "duration_ms": 180871,
       "name": "El Taquicardio",
       "url": "https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW"
+    },
+    {
+      "album": {
+        "name": "La Cascarita",
+        "url": "https://open.spotify.com/album/6LdU82IVJz3E22iWC4QDcz"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "El Teo",
+      "url": "https://open.spotify.com/track/654KEbHRW83AdqJOxGFBI5"
     },
     {
       "album": {
@@ -1807,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Historias de la Calle",
+        "url": "https://open.spotify.com/album/3hCFPKRBu3eQbbptilmIIx"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179013,
+      "name": "Gan\u00f3 Holanda, Perdi\u00f3 China",
+      "url": "https://open.spotify.com/track/44IjRzhEt9bmmYfyExMEUc"
+    },
+    {
+      "album": {
         "name": "Con La Nueva Federaci\u00f3n",
         "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
       },
@@ -1836,7 +2088,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 174573,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/3m0jPrfDlp38tu7JYdWLch"
@@ -1876,6 +2128,42 @@
       "duration_ms": 174866,
       "name": "Gente VIP",
       "url": "https://open.spotify.com/track/7wfZOo4FX9wpXt4DXA7JbV"
+    },
+    {
+      "album": {
+        "name": "Corridos De ABCdario",
+        "url": "https://open.spotify.com/album/4lTuhCuIbrH4DUFUv2IViV"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1rtel De Sinaloa",
+          "url": "https://open.spotify.com/artist/3x7cOJUAO7E2ECctC3P5WN"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "Gonz\u00e1lo Y El R",
+      "url": "https://open.spotify.com/track/66HLjAILBkHqDY81LIil83"
+    },
+    {
+      "album": {
+        "name": "Corridos Al Sinaloense",
+        "url": "https://open.spotify.com/album/72pRvAPYTXrg1ZaCrjHsT4"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153306,
+      "name": "Hasta La Madre",
+      "url": "https://open.spotify.com/track/4s9HuQCy96clRIUJcA5Ql5"
     },
     {
       "album": {
@@ -1951,6 +2239,24 @@
     },
     {
       "album": {
+        "name": "La Cascarita",
+        "url": "https://open.spotify.com/album/6LdU82IVJz3E22iWC4QDcz"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "Ivan y Vienen",
+      "url": "https://open.spotify.com/track/5YP9xEmHj7vnqqnJSXkco5"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -2002,6 +2308,28 @@
       "duration_ms": 186120,
       "name": "Kikil Caro",
       "url": "https://open.spotify.com/track/3Awf41B1t5v7STTM2uCXc7"
+    },
+    {
+      "album": {
+        "name": "Juego Prohibido",
+        "url": "https://open.spotify.com/album/3oZR4fLxdIaOOyW4OKrKu1"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218840,
+      "name": "La Charla",
+      "url": "https://open.spotify.com/track/7Jn0ZuX34IRuCncXafi7wS"
     },
     {
       "album": {
@@ -2152,6 +2480,24 @@
       "duration_ms": 211706,
       "name": "La Hummer Y El Camaro",
       "url": "https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5"
+    },
+    {
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "La Ley Del MP",
+      "url": "https://open.spotify.com/track/6JtWzkWR5hu4yYYR1Ocpwr"
     },
     {
       "album": {
@@ -2371,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Los Amigos Del M",
+        "url": "https://open.spotify.com/album/3XhpxlWiisEfUCRT5vtmFu"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "Los Amigos Del M",
+      "url": "https://open.spotify.com/track/4ML35r6LystvE3mTaOk5tc"
+    },
+    {
+      "album": {
         "name": "El Movimiento Alterado - Top 20 Corridos Delincuentes",
         "url": "https://open.spotify.com/album/43Xzn4opxrPb3qOcE2wuZs"
       },
@@ -2386,6 +2750,24 @@
       "duration_ms": 174001,
       "name": "Los Caballeros Templarios",
       "url": "https://open.spotify.com/track/66FYx0CKtDSn4Ao7Rr8Ozf"
+    },
+    {
+      "album": {
+        "name": "Corridos Al Sinaloense",
+        "url": "https://open.spotify.com/album/72pRvAPYTXrg1ZaCrjHsT4"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188520,
+      "name": "Los Cuernos Del Diablo",
+      "url": "https://open.spotify.com/track/6VgH9ks7E9kkPspO3BvYsl"
     },
     {
       "album": {
@@ -2407,6 +2789,42 @@
     },
     {
       "album": {
+        "name": "Peligrosos Y Efectivos",
+        "url": "https://open.spotify.com/album/5jrfwCLlM8ryVXVMcfe11x"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Los Ejecutores",
+      "url": "https://open.spotify.com/track/6uhyXESW6BirHxL4B6zcow"
+    },
+    {
+      "album": {
+        "name": "Los Lujos",
+        "url": "https://open.spotify.com/album/2w06yzC8askvq3mEFj01em"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "Los Lujos",
+      "url": "https://open.spotify.com/track/5BBmLm3MDuSUUj3gUD1bn1"
+    },
+    {
+      "album": {
         "name": "Que Se Vaya",
         "url": "https://open.spotify.com/album/30twX1HkFlIQe5uRdCgDhD"
       },
@@ -2422,6 +2840,24 @@
       "duration_ms": 187803,
       "name": "Los Minions",
       "url": "https://open.spotify.com/track/46djErCjkUOYtC9uvZyV6A"
+    },
+    {
+      "album": {
+        "name": "Seguimos De Pie",
+        "url": "https://open.spotify.com/album/2g3i8ltjFSjCngCRUtNv33"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1rtel De Sinaloa",
+          "url": "https://open.spotify.com/artist/3x7cOJUAO7E2ECctC3P5WN"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288746,
+      "name": "Los Pasajes Del Mayo",
+      "url": "https://open.spotify.com/track/20uiDTIzG5QHCnEtXQfgdW"
     },
     {
       "album": {
@@ -2541,6 +2977,24 @@
     },
     {
       "album": {
+        "name": "Empecherado Y Adiamantado",
+        "url": "https://open.spotify.com/album/7rwJ2uQXuAu1OEfT8tmvPr"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237040,
+      "name": "Missiones MP",
+      "url": "https://open.spotify.com/track/5Weyt1B8x5BgsxC6Kphfyr"
+    },
+    {
+      "album": {
         "name": "Morir y Existir En Vivo",
         "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
@@ -2649,6 +3103,24 @@
     },
     {
       "album": {
+        "name": "Paseando Y Tomando",
+        "url": "https://open.spotify.com/album/5yQjr1ikl5uT75mk7SJmCQ"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "Paseando Y Tomando",
+      "url": "https://open.spotify.com/track/006tr7q37mYDg6fkJDy4AQ"
+    },
+    {
+      "album": {
         "name": "Y Sigo Vivo",
         "url": "https://open.spotify.com/album/1QTeZN0jgnLmLp5X8V0qNX"
       },
@@ -2739,6 +3211,28 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Qu\u00e9 Tiene De Malo",
+      "url": "https://open.spotify.com/track/4VZ0UOLwnTnQSLZJme5lyQ"
+    },
+    {
+      "album": {
         "name": "Movimiento Alterado Vol. 4",
         "url": "https://open.spotify.com/album/1ZzrY7hbIiDQlV5i5uqJJt"
       },
@@ -2768,7 +3262,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 196266,
       "name": "Recuerdos de Uno",
       "url": "https://open.spotify.com/track/1ptL9S3BF4074kqm6U51YA"
@@ -2905,6 +3399,32 @@
     },
     {
       "album": {
+        "name": "Los Lujos",
+        "url": "https://open.spotify.com/album/2w06yzC8askvq3mEFj01em"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Los Hijos De Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0xcs1RSih2SElPUcqOrYBo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222813,
+      "name": "Sicarios de Joaqu\u00edn",
+      "url": "https://open.spotify.com/track/56fgHZ3odIyePIt8dTWxOF"
+    },
+    {
+      "album": {
         "name": "Cazador",
         "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
@@ -2992,6 +3512,42 @@
       "duration_ms": 192402,
       "name": "Un Corrido Pa' Joaquin",
       "url": "https://open.spotify.com/track/6ZMbFg2l9Nu6xfDwfiXUtb"
+    },
+    {
+      "album": {
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/5jRSJAJoSx5vwETX27Svti"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101853,
+      "name": "Vida Mafiosa",
+      "url": "https://open.spotify.com/track/1N9OQfyxUinDyZLOGO53JU"
+    },
+    {
+      "album": {
+        "name": "Impactos De Arranque",
+        "url": "https://open.spotify.com/album/0WONCvBVdAASQKdTo3T38O"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Vida Recia",
+      "url": "https://open.spotify.com/track/3misGJZzl8wUwuULEonG4h"
     },
     {
       "album": {

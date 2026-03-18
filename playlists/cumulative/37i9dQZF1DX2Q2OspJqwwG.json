@@ -1719,7 +1719,7 @@
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178948,
+      "duration_ms": 180725,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 146872,
       "name": "Cupidoane",
       "url": "https://open.spotify.com/track/7EU7LfkpzVy60icTM3y5lb"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 175813,
       "name": "Dorul T\u0103u",
       "url": "https://open.spotify.com/track/1Bd1WLbZlCFA5z7hKMyE0v"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 139008,
       "name": "Hai tu Maria",
       "url": "https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7"
@@ -4352,6 +4352,24 @@
       "duration_ms": 203295,
       "name": "Ieri Erai",
       "url": "https://open.spotify.com/track/41lsQBb4EaK9SF3rTeOhtH"
+    },
+    {
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "album": {
@@ -4964,7 +4982,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 147105,
       "name": "LNPSTRD",
       "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
@@ -5682,6 +5700,24 @@
       "duration_ms": 198073,
       "name": "M\u00e2inile",
       "url": "https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f"
+    },
+    {
+      "album": {
+        "name": "M\u0103 sun\u0103 nebunele",
+        "url": "https://open.spotify.com/album/4N4PLJa3NezmNCZugWYRqN"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "M\u0103 sun\u0103 nebunele",
+      "url": "https://open.spotify.com/track/14WRFJcCJpyQnPAj4hv7O7"
     },
     {
       "album": {
@@ -6496,7 +6532,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 127200,
       "name": "PETER PARKER",
       "url": "https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR"
@@ -7813,6 +7849,32 @@
     },
     {
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/3CFqZPqAQvYgUWGAYy8vMT"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Taj Mahal",
+      "url": "https://open.spotify.com/track/5JVGD7bFXKxWbSt1KItPz0"
+    },
+    {
+      "album": {
         "name": "Take A Sexy Picture Of Me",
         "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
       },
@@ -8675,6 +8737,24 @@
     },
     {
       "album": {
+        "name": "Walla Eh",
+        "url": "https://open.spotify.com/album/66dHMbmVSfravfJ0fg3vGD"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160731,
+      "name": "Walla Eh",
+      "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"
+    },
+    {
+      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
       },
@@ -8822,6 +8902,24 @@
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

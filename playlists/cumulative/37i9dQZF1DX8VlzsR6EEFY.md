@@ -2,9 +2,9 @@
 
 ### [La Miscelánea](https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY)
 
-> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Mala Maña y Valen en portada 🌹
+> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Guardianes Del Amor De Arturo Rodriguez y Los Askis en portada 🌹
 
-410 songs - 21 hr 17 min
+411 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [El Karma \- Live](https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Recordando Ariel Camacho \(Live\)](https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq) | 2:58 | 2025-03-31 | 2025-07-05 |
 | [El Malo Soy Yo](https://open.spotify.com/track/1MbSAdfdafVfnYPNP8cUUK) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [En Vivo Desde Japón](https://open.spotify.com/album/3qEJVLGwdN4Xel22AzLl1I) | 2:48 | 2025-05-09 | 2025-05-17 |
 | [El Muchacho Alegre](https://open.spotify.com/track/06uBDOgQwcKcrKWXHoF2zv) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 3:15 | 2024-09-06 | 2025-03-15 |
+| [El Perro, El Gato Y Yo](https://open.spotify.com/track/3k2IbAG9pdJufshCwuZXah) | [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G), [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [El Perro, El Gato Y Yo](https://open.spotify.com/album/3A6saWBLxl7g7VAI2XAZwC) | 3:35 | 2026-03-17 |  |
 | [El Primero](https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Primero](https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG) | 2:55 | 2025-05-23 | 2026-02-28 |
 | [El Ranchero Chido](https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [90´S](https://open.spotify.com/album/614gemn5jcBnmffHannrPT) | 2:36 | 2025-05-23 |  |
 | [El Rollie](https://open.spotify.com/track/70IXZTwu84yRt1UB5GLvUX) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [El Rollie](https://open.spotify.com/album/7ChHR6uYXSkl0IaFmBsClp) | 2:29 | 2025-09-05 |  |

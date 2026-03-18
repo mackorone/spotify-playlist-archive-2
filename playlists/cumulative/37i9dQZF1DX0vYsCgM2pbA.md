@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-320 songs - 19 hr 34 min
+321 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Cigarette](https://open.spotify.com/track/0RQmlqEtYB7fqDvLHgAIjI) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Cigarette](https://open.spotify.com/album/5Oxe4hv91gpBQOSDROFhK7) | 3:34 | 2025-06-03 | 2025-08-02 |
 | [Closure](https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Closure](https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1) | 4:19 | 2025-04-08 | 2025-07-01 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-12-01 | 2025-02-06 |
+| [Collide](https://open.spotify.com/track/6Uo2SNpj5lzFXfNsSaoE85) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Kaleida](https://open.spotify.com/artist/6zyPKJ4ePhYLsBEy4A6BVX) | [10 Years From Now / Collide](https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5) | 4:35 | 2026-01-01 |  |
 | [Come Over](https://open.spotify.com/track/2QyYJpfGdEtHFunrVZmuHx) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Come Over](https://open.spotify.com/album/5VySnMhyOPiUMGf2lfrn4E) | 2:33 | 2025-02-05 | 2026-01-25 |
 | [Come To Me](https://open.spotify.com/track/0ZLIXXvBXfEMV4VFSqNSVu) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Come To Me](https://open.spotify.com/album/5MOpSlXFGJwXQ9ytEFE7wT) | 2:30 | 2025-04-01 | 2025-06-12 |
 | [Counting Sheep \(V2\) \[2018 Export Wav\] feat\. Injury Reserve](https://open.spotify.com/track/28C8KsOvTwTSrsAN9rcm96) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 2:26 | 2023-02-09 | 2023-04-11 |
@@ -310,7 +311,7 @@
 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 | 2022-12-01 | 2023-04-14 |
 | [Waiting For Nothing](https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 4:08 | 2023-12-21 | 2024-04-19 |
 | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK) | 4:08 | 2022-12-15 | 2023-02-10 |
-| [Wash Over](https://open.spotify.com/track/4WabHy46Xmp6O3kLaCP1dp) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Wash Over](https://open.spotify.com/album/5HFf9LEGoJ5UxjywfHhLcI) | 3:07 | 2025-08-01 |  |
+| [Wash Over](https://open.spotify.com/track/4WabHy46Xmp6O3kLaCP1dp) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k) | [Wash Over](https://open.spotify.com/album/5HFf9LEGoJ5UxjywfHhLcI) | 3:07 | 2025-08-01 | 2026-03-18 |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2022-12-01 |  |
 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 | 2023-01-13 | 2023-06-02 |
 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 | 2023-02-09 | 2025-05-07 |

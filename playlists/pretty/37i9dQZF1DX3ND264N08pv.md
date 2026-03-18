@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,708 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,758 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 30 | [Trip to Old England](https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Captain Core](https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu) | [Trip to Old England](https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD) | 3:51 |
 | 31 | [WaKe uP](https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [WaKe uP](https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ) | 2:25 |
 | 32 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
-| 33 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
+| 33 | [Ain't No Thing](https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Ain't No Thing](https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R) | 2:21 |
 | 34 | [Dynamite \- 2025 OST](https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK) | [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Dynamite \(2025 OST\)](https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ) | 2:53 |
 | 35 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
-| 36 | [Ain't No Thing](https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Ain't No Thing](https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R) | 2:21 |
+| 36 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
 | 37 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 |
 | 38 | [Kick Train](https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Kick Train](https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1) | 2:58 |
 | 39 | [Uptempo Airlines](https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Uptempo Airlines](https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP) | 2:44 |

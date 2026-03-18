@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
 
-498 songs - 1 day 5 hr 56 min
+499 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Nidarove Cheliya](https://open.spotify.com/track/6JhDvJfUCR9G5wnUQZcmjx) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aditya Yashasvi](https://open.spotify.com/artist/00F8wb2vP6TZl4cUDL3tBg), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Nidarove Cheliya](https://open.spotify.com/album/0DmOGXWANZIx7ly9oMogwt) | 3:10 | 2025-02-27 | 2025-08-22 |
 | [Ningiloni Chandamama](https://open.spotify.com/track/5duaeNlFheTw4bGkuywnRe) | [Yadagiri Ajay Yesudass](https://open.spotify.com/artist/0dA5o66qNf5LDGxkTcuWXL) | [Ningiloni Chandamama](https://open.spotify.com/album/7u2HRvuKdLZ5f6ek1xg0rv) | 4:33 | 2026-02-06 |  |
 | [Ninna Monnalo](https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo) | [Nikesh Kumar Dasagrandhi](https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd) | [Ninna Monnalo](https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX) | 3:14 | 2024-04-19 | 2024-10-04 |
+| [Ninne Na](https://open.spotify.com/track/5F0LmbkFcudCgnpbJznxG0) | [Aishwarya Daruri](https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf) | [Ninne Na](https://open.spotify.com/album/5n1sAWdBpuCav07fwNm05M) | 2:52 | 2026-03-17 |  |
 | [Ninne Ne Choosina Nimishana](https://open.spotify.com/track/6AxR54ZY7DawzNWrFhoptL) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L) | [Ninne Ne Choosina Nimishana](https://open.spotify.com/album/7vrGbY7lSIcTEN3lQsjTkP) | 4:19 | 2023-05-18 | 2023-05-26 |
 | [Ninne Ninne](https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu) | [Ninne Ninne](https://open.spotify.com/album/5Sm18efBdqqLZEfdEtQGmF) | 4:16 | 2024-02-14 | 2026-01-15 |
 | [Ninnu Cheraga](https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Ninnu Cheraga](https://open.spotify.com/album/2pBaIGMAS4SsoKHxBPAbok) | 3:07 | 2024-04-25 | 2025-08-22 |
@@ -359,7 +360,7 @@
 | [Poovanti Andham](https://open.spotify.com/track/012VlQmlFXaSFhiAtzVZCW) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Vijaya Chandra](https://open.spotify.com/artist/4lQmxDaI0u0L1qlor7O2oC), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Poovanti Andham](https://open.spotify.com/album/5V1m9SYh8IiBJIO2qdAzI1) | 3:32 | 2023-03-13 | 2024-02-20 |
 | [Poraga Poraga](https://open.spotify.com/track/2N6V75n89gCZX1b4vvlI3N) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot) | [Poraga Poraga](https://open.spotify.com/album/2ZqE68XcuVBkq3fW3aCLgk) | 3:21 | 2025-12-19 |  |
 | [Prashna](https://open.spotify.com/track/7CdPSXY8zWZODjKvzuA8Ad) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Ananth Ashrith](https://open.spotify.com/artist/4kP9fCPWMLOTJ9bcGAEiW2), [Sumanth Borra](https://open.spotify.com/artist/3hu79lSCu6pxnTG3Vfpuyz), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Prashna](https://open.spotify.com/album/7AN1mmLPdb1e1xWd05VhQA) | 4:20 | 2024-01-30 | 2024-03-02 |
-| [Prasnalu](https://open.spotify.com/track/1jkpUejYSAt1pQj7tBxwfi) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Prasnalu](https://open.spotify.com/album/7c4ZX5f7ZVdKL0HJD0OoYY) | 3:01 | 2025-10-23 |  |
+| [Prasnalu](https://open.spotify.com/track/1jkpUejYSAt1pQj7tBxwfi) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Prasnalu](https://open.spotify.com/album/7c4ZX5f7ZVdKL0HJD0OoYY) | 3:01 | 2025-10-23 | 2026-03-18 |
 | [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 | 2023-08-21 | 2023-10-10 |
 | [Prathi Kshanam](https://open.spotify.com/track/2jDtKQpU4xKaweJD15kthV) | [Akhil Chandra](https://open.spotify.com/artist/1KCetua5AbUq0QJqhga3qe), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Prathi Kshanam](https://open.spotify.com/album/6QcDiDHi8b4EV3J13ZIeCa) | 2:53 | 2025-03-05 | 2026-02-07 |
 | [Prayaanam](https://open.spotify.com/track/3wTBcciwBkKur5hfSNDlHJ) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u), [Srirag Vadlakonda](https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb) | [Prayaanam](https://open.spotify.com/album/617ru1pWVwmrL3CFYJAsW3) | 3:20 | 2025-01-07 | 2025-04-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > PLK, Theodora et Charlotte Cardin au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,901 likes - 89 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,877 likes - 89 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 59 | [Strong](https://open.spotify.com/track/336Ear6GlKMVrwgshhf6CH) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Strong](https://open.spotify.com/album/3M9w4YSLJbRKaBITj8OqNd) | 2:36 |
 | 60 | [Let Go](https://open.spotify.com/track/4HHi9DNr6Cbkw8gVYVsS9P) | [Zé](https://open.spotify.com/artist/4HqcsYNS7yVElPHKULpbqu) | [L'Assemblée](https://open.spotify.com/album/74WihV1pqmEaYqD1sPg5Ut) | 3:06 |
 | 61 | [Living Life](https://open.spotify.com/track/2Ohsc9IuacQeX7B8Ha05V3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Living Life](https://open.spotify.com/album/0gqve1LJOSJNfsUZ7kPYpn) | 2:36 |
-| 62 | [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
+| 62 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 63 | [5 Minutes](https://open.spotify.com/track/0vMrqcmN7VkuG3SmSzNpRL) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8), [okis](https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB) | [nouveau\_RECORD](https://open.spotify.com/album/4FI3zN7wGIRmy3by7cNKsv) | 3:31 |
 | 64 | [Naked](https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Naked](https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib) | 3:39 |
 | 65 | [MA CLAQUE](https://open.spotify.com/track/3xqk6PwiujpbLeblkD02hb) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [MA CLAQUE](https://open.spotify.com/album/0CI5Sv3BtwmyDrUeL07qgf) | 1:52 |

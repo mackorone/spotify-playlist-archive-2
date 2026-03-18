@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 44 songs - 2 hr 46 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 |
 | 43 | [gas station girlfriend](https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT) | [Gabrielle Gutierrez](https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga) | [gas station girlfriend](https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg) | 3:48 |
 | 44 | [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 |
+| 45 | [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 |
+| 46 | [slowdance](https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc) | [momomal](https://open.spotify.com/artist/2ENQKzsamWjgYR5wpHhsw2) | [slowdance](https://open.spotify.com/album/2L88eTbTfaszlqOwMnWwB3) | 2:41 |
 
-Snapshot ID: `AAAkD16suydQOeYtRkP0Zw1BiumTZoiR`
+Snapshot ID: `AAAkEZpOb+lPsoynk0qe5j1SEyj5Qe1I`

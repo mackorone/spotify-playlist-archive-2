@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Love/Lust",
+        "url": "https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt"
+      },
+      "artists": [
+        {
+          "name": "N\u00a3GRA",
+          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113824,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X"
+    },
+    {
+      "album": {
         "name": "L\u00edmite (Remix)",
         "url": "https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3"
       },
@@ -7186,6 +7204,24 @@
       "duration_ms": 270648,
       "name": "Yeti",
       "url": "https://open.spotify.com/track/5Im51GtWo7shSTcT1lLyu5"
+    },
+    {
+      "album": {
+        "name": "YOU CANNOT BE SERIOUS",
+        "url": "https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "You cannot be serious",
+      "url": "https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv"
     },
     {
       "album": {

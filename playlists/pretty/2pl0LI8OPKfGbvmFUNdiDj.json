@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 637,
+  "num_followers": 648,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAADSNGBAzeNRvUNRdb+AxlpfgpwZrfr",
+  "snapshot_id": "AAADSovn/07ltpPfoea0osaWq2qlWDbr",
   "tracks": [
     {
       "added_at": "2026-02-15 20:35:35",
@@ -1031,6 +1031,38 @@
       "duration_ms": 381085,
       "name": "Maelstrom",
       "url": "https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8"
+    },
+    {
+      "added_at": "2026-03-17 14:18:37",
+      "album": {
+        "name": "YOU CANNOT BE SERIOUS",
+        "url": "https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "You cannot be serious",
+      "url": "https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv"
+    },
+    {
+      "added_at": "2026-03-17 14:22:31",
+      "album": {
+        "name": "Love/Lust",
+        "url": "https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt"
+      },
+      "artists": [
+        {
+          "name": "N\u00a3GRA",
+          "url": "https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW"
+        }
+      ],
+      "duration_ms": 113824,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

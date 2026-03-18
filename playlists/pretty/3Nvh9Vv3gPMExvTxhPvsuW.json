@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAAAJzqHXY3yNWbC0dKLwuHbdCzTiymR",
+  "snapshot_id": "AAAAKHP1Uji0cLrQZqqtPUUpGmJEwTEv",
   "tracks": [
     {
       "added_at": "2023-05-05 07:52:43",
@@ -667,6 +667,26 @@
       "duration_ms": 275409,
       "name": "Corpo e Can\u00e7\u00e3o - Club Mix",
       "url": "https://open.spotify.com/track/0fdnuaaMLkAJb3czxnwKxh"
+    },
+    {
+      "added_at": "2026-03-17 08:56:15",
+      "album": {
+        "name": "Next to Me (Remixes)",
+        "url": "https://open.spotify.com/album/1ZzxjxcYWxEStGTGPNHsG9"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 382439,
+      "name": "Next to Me - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/2bidvM5hM1LGiEDkgp0EUz"
     }
   ],
   "unique_name": "Sunset",

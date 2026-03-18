@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 415763,
+  "num_followers": 415774,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADifgl9W7X3cV8QAVZZA4qwH+CDA",
+  "snapshot_id": "AAAAAE5jOq6SOWzIMx5vOvNoK2yyQq/v",
   "tracks": [
     {
       "added_at": "2026-03-10 13:00:33",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-03-10 13:00:33",
       "album": {
-        "name": "Old Friend (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 174398,
-      "name": "Old Friend (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
-    },
-    {
-      "added_at": "2026-03-10 13:00:33",
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
+    },
+    {
+      "added_at": "2026-03-10 13:00:33",
+      "album": {
+        "name": "Old Friend (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Old Friend (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
     },
     {
       "added_at": "2026-03-10 13:00:33",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-03-10 13:00:33",
       "album": {
+        "name": "Afterimage",
+        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
+      },
+      "artists": [
+        {
+          "name": "Kaikobad",
+          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Afterimage",
+      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
+    },
+    {
+      "added_at": "2026-03-10 13:00:33",
+      "album": {
         "name": "Kimpton",
         "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 184320,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
-    },
-    {
-      "added_at": "2026-03-10 13:00:33",
-      "album": {
-        "name": "Afterimage",
-        "url": "https://open.spotify.com/album/1WJXyItDdHj9jC3yOlX8sZ"
-      },
-      "artists": [
-        {
-          "name": "Kaikobad",
-          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "Afterimage",
-      "url": "https://open.spotify.com/track/3fT7WUp5U1JPCm7biQJ9Dd"
     },
     {
       "added_at": "2026-03-10 13:00:33",
@@ -1359,22 +1359,26 @@
     {
       "added_at": "2026-03-10 13:00:33",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+        "name": "What a Wonderful World (Krister Remix)",
+        "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "No.oN",
+          "url": "https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK"
         },
         {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+        },
+        {
+          "name": "Krister",
+          "url": "https://open.spotify.com/artist/3zrnHI8M8fvS6VmPF8behc"
         }
       ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
+      "duration_ms": 95023,
+      "name": "What a Wonderful World - Krister Remix",
+      "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
     }
   ],
   "unique_name": "Just Chill",

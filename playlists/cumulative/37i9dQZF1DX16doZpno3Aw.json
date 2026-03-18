@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Aesthetic",
+        "url": "https://open.spotify.com/album/6Ht2SW8Qjd2weRZqJc06YD"
+      },
+      "artists": [
+        {
+          "name": "Tollan Kim",
+          "url": "https://open.spotify.com/artist/78OVjYbRWhttVbxublN6GC"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134002,
+      "name": "Aesthetic",
+      "url": "https://open.spotify.com/track/5ncErj7HWEU2LfGrtw7Jb0"
+    },
+    {
+      "album": {
         "name": "If Beale Street Could Talk (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 301673,
       "name": "Agony - Instrumental",
       "url": "https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 208000,
       "name": "All For Nothing",
       "url": "https://open.spotify.com/track/5kJxKUYzq6I0WvOo9qfDu2"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 123535,
       "name": "aquatic ambience",
       "url": "https://open.spotify.com/track/1AeAJE0BNsq9jyssQDsUZ9"
@@ -452,7 +470,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 137406,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/26kPTDeIh5pTcyMuD6IonN"
@@ -539,6 +557,24 @@
     },
     {
       "album": {
+        "name": "Chandelier (Instrumental Version)",
+        "url": "https://open.spotify.com/album/2YbtxC0EEfKtYNURsYhzaA"
+      },
+      "artists": [
+        {
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Chandelier (Instrumental Version)",
+      "url": "https://open.spotify.com/track/7wzKnw2xHUe5FLrW5d8Dt8"
+    },
+    {
+      "album": {
         "name": "childhood",
         "url": "https://open.spotify.com/album/3n3DgKUDa2UqJlLzMOQMXj"
       },
@@ -554,7 +590,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 129495,
       "name": "childhood",
       "url": "https://open.spotify.com/track/06dDLXf4gPbE02gvH8E6G9"
@@ -608,7 +644,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/0Db8f7uikjXxH3qHe0UKoW"
@@ -652,6 +688,24 @@
       "duration_ms": 126959,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+    },
+    {
+      "album": {
+        "name": "Cycle Syncing Frequency",
+        "url": "https://open.spotify.com/album/2cimmHrOCgelwL2KcYdmKl"
+      },
+      "artists": [
+        {
+          "name": "Still Haven",
+          "url": "https://open.spotify.com/artist/1QRxkAxxpNV9vqadac72Zy"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "Cycle Syncing Frequency",
+      "url": "https://open.spotify.com/track/1Le8wnEzmy0AWci8LrGYOH"
     },
     {
       "album": {
@@ -702,7 +756,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 180040,
       "name": "Darling - Instrumental",
       "url": "https://open.spotify.com/track/2tINAp2zAT3ZCM0xWEWDfz"
@@ -782,7 +836,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 202000,
       "name": "DJ Got US Fallin\u2019 In Love",
       "url": "https://open.spotify.com/track/6PWXdpXGYpmPDXMxCBu72G"
@@ -818,7 +872,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 186080,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/30WYlOTUkGayw4Qo4Y9sYX"
@@ -890,7 +944,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 205766,
       "name": "Eternal Youth",
       "url": "https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy"
@@ -912,6 +966,24 @@
       "duration_ms": 168000,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO"
+    },
+    {
+      "album": {
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
     },
     {
       "album": {
@@ -988,7 +1060,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 52602,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/5PdjhGBPIjs122EQGxYqWm"
@@ -1067,6 +1139,24 @@
     },
     {
       "album": {
+        "name": "Floating in Reverie",
+        "url": "https://open.spotify.com/album/0FOgUfITLFpQxfUuVNLTUe"
+      },
+      "artists": [
+        {
+          "name": "Moayad Aljabal",
+          "url": "https://open.spotify.com/artist/2yIj6bZPIqv5WIYjD5vWZm"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "Floating in Reverie",
+      "url": "https://open.spotify.com/track/1JEhrWj7TIUsD5ZKA2kEXf"
+    },
+    {
+      "album": {
         "name": "Inner Voyage",
         "url": "https://open.spotify.com/album/1ZwVxBB3TuDdwLGeJvE4M5"
       },
@@ -1078,7 +1168,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 262287,
       "name": "Flume",
       "url": "https://open.spotify.com/track/74XzFXtqIY2nryC79GpHRJ"
@@ -1096,10 +1186,28 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 144489,
       "name": "Fragments of Memory",
       "url": "https://open.spotify.com/track/2qlGY8mJVCE4lmWFbcJHd7"
+    },
+    {
+      "album": {
+        "name": "Ghost Woods",
+        "url": "https://open.spotify.com/album/3hrQZTPngV1oBhXWV72hRp"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1287155,
+      "name": "Freeze III",
+      "url": "https://open.spotify.com/track/1pSUv8DIGUxeKL0IALx844"
     },
     {
       "album": {
@@ -1262,6 +1370,24 @@
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
+        "name": "Hide (Slow)",
+        "url": "https://open.spotify.com/album/2BRd8zbSOLnR86m7N5hiQw"
+      },
+      "artists": [
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Hide - Slow",
+      "url": "https://open.spotify.com/track/7jYydzcZOWVkUFA2q0nQEz"
     },
     {
       "album": {
@@ -1615,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Minari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98560,
+      "name": "Jacob and the Stone",
+      "url": "https://open.spotify.com/track/2nltARCkZyrzjQANViDpuX"
+    },
+    {
+      "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT"
       },
@@ -1742,10 +1886,28 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 105560,
       "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
       "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
+    },
+    {
+      "album": {
+        "name": "Soundtrack From Twin Peaks",
+        "url": "https://open.spotify.com/album/6iGX2bbzKEocRY0HzdQ9zX"
+      },
+      "artists": [
+        {
+          "name": "Angelo Badalamenti",
+          "url": "https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Laura Palmer's Theme - Instrumental",
+      "url": "https://open.spotify.com/track/7Bk3p8UqcP4sItaWNWbvXL"
     },
     {
       "album": {
@@ -1996,6 +2158,28 @@
       "duration_ms": 356990,
       "name": "magic",
       "url": "https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu"
+    },
+    {
+      "album": {
+        "name": "meaningful love (instrumental)",
+        "url": "https://open.spotify.com/album/1KWNifrg0d2yxPXZpIa27c"
+      },
+      "artists": [
+        {
+          "name": "Silo",
+          "url": "https://open.spotify.com/artist/1fcxLeCKcWWSgJ4QYiyxbn"
+        },
+        {
+          "name": "Steven Cranberry",
+          "url": "https://open.spotify.com/artist/4oKIcMrTqJndxVUTPikgk8"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291144,
+      "name": "meaningful love - instrumental",
+      "url": "https://open.spotify.com/track/1PirBnF2xXUyf9yduhzrIt"
     },
     {
       "album": {
@@ -2466,7 +2650,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 146000,
       "name": "Present",
       "url": "https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF"
@@ -2506,6 +2690,24 @@
       "duration_ms": 104827,
       "name": "Quiet Moments",
       "url": "https://open.spotify.com/track/2F3fpR9dtBaP1y0P3APjgA"
+    },
+    {
+      "album": {
+        "name": "The Midwest American Piano Project",
+        "url": "https://open.spotify.com/album/6kc8J6uxqIwFvofrUEawIB"
+      },
+      "artists": [
+        {
+          "name": "Stacey Barelos",
+          "url": "https://open.spotify.com/artist/3q3bM4KKrlPwhwDzDdzi7x"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547560,
+      "name": "Quiet Music",
+      "url": "https://open.spotify.com/track/6nBrbazTg9We1bnYAWrKtW"
     },
     {
       "album": {
@@ -2615,6 +2817,28 @@
     },
     {
       "album": {
+        "name": "Hamnet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lorenz Dangel",
+          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396672,
+      "name": "Richter: On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/4qRsmiPUydTKAhD6qkkacl"
+    },
+    {
+      "album": {
         "name": "Sad Music",
         "url": "https://open.spotify.com/album/5buRdiczz58eZ8c78cE2S9"
       },
@@ -2718,7 +2942,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 193732,
       "name": "School Rooftop - Slowed Down Version",
       "url": "https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot"
@@ -2906,7 +3130,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 181250,
       "name": "Someplace",
       "url": "https://open.spotify.com/track/53oPqhuArTdYQt4RE1GdFM"
@@ -2942,7 +3166,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 81000,
       "name": "Song Of Storms",
       "url": "https://open.spotify.com/track/5AQCmK7q9HenTCF0STkb2w"
@@ -3034,6 +3258,24 @@
       "duration_ms": 99672,
       "name": "stellar",
       "url": "https://open.spotify.com/track/2PpYJcgJN6PzozUv7rU669"
+    },
+    {
+      "album": {
+        "name": "Stray.wav",
+        "url": "https://open.spotify.com/album/4CCatw49KbiduCZOKcLrwD"
+      },
+      "artists": [
+        {
+          "name": "$undown",
+          "url": "https://open.spotify.com/artist/63sUDHUqfA3nnI6cObrFsd"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102460,
+      "name": "Stray.wav",
+      "url": "https://open.spotify.com/track/1KoWiQGR2ry2N1NvAN5r0M"
     },
     {
       "album": {
@@ -3200,7 +3442,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 121881,
       "name": "The Beach (Instrumental)",
       "url": "https://open.spotify.com/track/7uoHNvn0Owzb1JByUbgYmZ"
@@ -3406,7 +3648,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 219788,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/26cjmliC855cIjFo5flMcp"
@@ -3507,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Turn Echo (Slowed Version)",
+        "url": "https://open.spotify.com/album/2lkGFewEm4iwlwLy4375r1"
+      },
+      "artists": [
+        {
+          "name": "Kaikobad",
+          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Turn Echo (Slowed Version)",
+      "url": "https://open.spotify.com/track/0SfRur4asjqaySk55PftAA"
+    },
+    {
+      "album": {
         "name": "Twinkling Lights (Reimagined)",
         "url": "https://open.spotify.com/album/60vGOaB0k62udCbAXtpkiv"
       },
@@ -3597,6 +3857,24 @@
     },
     {
       "album": {
+        "name": "Via",
+        "url": "https://open.spotify.com/album/5E21IfWvn2ccUeRQW5oe3L"
+      },
+      "artists": [
+        {
+          "name": "Jay Ragsdale",
+          "url": "https://open.spotify.com/artist/5N0E7ZOzUQNphR026JtLfv"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Via",
+      "url": "https://open.spotify.com/track/7AuGtMJzVwTfVXI2c0GxRA"
+    },
+    {
+      "album": {
         "name": "we slidin",
         "url": "https://open.spotify.com/album/0AjgZAkn7qTXfHYfdcOqoM"
       },
@@ -3612,7 +3890,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-18",
       "duration_ms": 62500,
       "name": "we slidin",
       "url": "https://open.spotify.com/track/5AX61OcN7ahDT1OYE11yaA"

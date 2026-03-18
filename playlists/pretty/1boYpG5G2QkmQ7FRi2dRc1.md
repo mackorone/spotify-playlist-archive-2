@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 279,190 likes - 32 songs - 1 hr 53 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 279,171 likes - 32 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 4 | [Side To Side](https://open.spotify.com/track/29OC90AImALwo1LTvh5Zhf) | [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Side To Side](https://open.spotify.com/album/5rjewwF7ZdawgIuO2zmJZU) | 3:05 |
 | 5 | [In This Bih'](https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [In This Bih'](https://open.spotify.com/album/2lV1sjDJzsDktstoTBUCrK) | 3:30 |
 | 6 | [Warawara](https://open.spotify.com/track/6iICsz7vM9BkAPGw0Axsyq) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Asulin](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Warawara](https://open.spotify.com/album/4dPznvhGo9Yd7vEwGGPjUK) | 3:39 |
-| 7 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
-| 8 | [ON THE MOVE](https://open.spotify.com/track/6skEpWNkNmaELxSlulBvHa) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [ON THE MOVE](https://open.spotify.com/album/6APBCYRXyElNJtqs5yFLQU) | 2:31 |
-| 9 | [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 |
-| 10 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
-| 11 | [Arrival](https://open.spotify.com/track/4yJjWnT3962mIgaxA3ktg1) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [When The Rain Falls](https://open.spotify.com/album/13RhgQd0eUlDbt89Zz9Apj) | 4:21 |
-| 12 | [Make Some Noise](https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Make Some Noise](https://open.spotify.com/album/1tLvx3RU7RpR2DzAx288dx) | 3:11 |
-| 13 | [STAXX](https://open.spotify.com/track/080h3c3ydKABbGMbXuYF0r) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [STAXX](https://open.spotify.com/album/5RPm0Nb4r6mrpZAW4DrXtY) | 3:20 |
-| 14 | [Pull Up](https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pull Up](https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR) | 2:35 |
+| 7 | [Pull Up](https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pull Up](https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR) | 2:35 |
+| 8 | [Freq The Frequency](https://open.spotify.com/track/6LkKnDZuPO4nbjdoWOZOIX) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Freq The Frequency](https://open.spotify.com/album/038hLc519IjbLT48HiC1sp) | 3:14 |
+| 9 | [ON THE MOVE](https://open.spotify.com/track/6skEpWNkNmaELxSlulBvHa) | [Vluarr](https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB) | [ON THE MOVE](https://open.spotify.com/album/6APBCYRXyElNJtqs5yFLQU) | 2:31 |
+| 10 | [Darkness](https://open.spotify.com/track/3ERZzeq6sUaKuXy99pfPqL) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Darkness](https://open.spotify.com/album/2jkGCQeWIR915WFunR8nDc) | 3:54 |
+| 11 | [Love’s Theme](https://open.spotify.com/track/6x98PZzecLKDucRBL324qT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Love’s Theme](https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch) | 2:54 |
+| 12 | [Arrival](https://open.spotify.com/track/4yJjWnT3962mIgaxA3ktg1) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [When The Rain Falls](https://open.spotify.com/album/13RhgQd0eUlDbt89Zz9Apj) | 4:21 |
+| 13 | [Make Some Noise](https://open.spotify.com/track/4maoPRr7kjuafK4oZBoF6o) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Make Some Noise](https://open.spotify.com/album/1tLvx3RU7RpR2DzAx288dx) | 3:11 |
+| 14 | [STAXX](https://open.spotify.com/track/080h3c3ydKABbGMbXuYF0r) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [STAXX](https://open.spotify.com/album/5RPm0Nb4r6mrpZAW4DrXtY) | 3:20 |
 | 15 | [Static In The Deep End](https://open.spotify.com/track/3g3O89Kjc2LJsL5RRYKelI) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd) | [Static In The Deep End](https://open.spotify.com/album/0OXmGz4QDkEpbbRBHjkQmd) | 3:11 |
 | 16 | [Late at Night](https://open.spotify.com/track/0I5kavrL6aUxqMVYdtrReQ) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [HUMAN404](https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883), [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Late at Night](https://open.spotify.com/album/1h2GZPLWCaqfvwSYQz6QoE) | 3:25 |
 | 17 | [Echoed Dafnino](https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Echoed Dafnino](https://open.spotify.com/album/2VklyfVYWd26jxCdsuRHsj) | 5:33 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 31 | [Infinite Horizon \- Stereo Underground Remix](https://open.spotify.com/track/493Vr5YpJwUcePCD8OZ3fM) | [Radical Fantasy](https://open.spotify.com/artist/112NIGtRPVYfqAzqQ6mKLw), [Stereo Underground](https://open.spotify.com/artist/4lYZCtiWHEcyMQJMU3B2KG) | [Infinite Horizon](https://open.spotify.com/album/5npBqcnZu4A2Lj5R0DyW5g) | 4:15 |
 | 32 | [A Little Bit Older](https://open.spotify.com/track/5N7t3svaCd0CWrorK5KFhY) | [Nato Medrado](https://open.spotify.com/artist/0ujc9wyoBRUyt6joFkx4Rs) | [A Little Bit Older](https://open.spotify.com/album/61YbaXuJX20W9IwHHGine1) | 2:40 |
 
-Snapshot ID: `AAAIko5TckXN8pYnkRt23voOZszCrRwM`
+Snapshot ID: `AAAIk6GCEgLxhdqzryI7UBW505wDBTD3`

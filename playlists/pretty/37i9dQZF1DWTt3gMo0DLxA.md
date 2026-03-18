@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: The Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,346 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,363 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 45 | [Firestorm \(From "They Call Him OG"\)](https://open.spotify.com/track/3lLX2Vm99sMD5kuZqnr2T0) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf) | [Firestorm \(From "They Call Him OG"\)](https://open.spotify.com/album/0wGtOzvfuupquwH9tfNSif) | 4:00 |
 | 46 | [Peddi Reddy](https://open.spotify.com/track/3MAiS0Uu8FU2w9nEB3PxgG) | [Mamatha Ramesh](https://open.spotify.com/artist/6mAwVufM5NvlkXnGEg8kJv) | [Peddi Reddy](https://open.spotify.com/album/6d7wLtVCJKIPH8D8tkXchK) | 5:27 |
 | 47 | [Dekhlenge Saala \(From "Ustaad Bhagat Singh"\)](https://open.spotify.com/track/7co5st66hDblsGOPVNMTv5) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h), [Bhaskarabhatla](https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu) | [Dekhlenge Saala \(From "Ustaad Bhagat Singh"\)](https://open.spotify.com/album/2Vr7HqQYpUNqzJX4fwMwtC) | 4:01 |
-| 48 | [Dacoit Kannepettaro Mix \(From "Dacoit"\)](https://open.spotify.com/track/3AaowXAOVVhw5o5sXSZUHg) | [Raj\-Koti](https://open.spotify.com/artist/78eKGjMa7yG0HpHyo8W3kA), [Gyaani](https://open.spotify.com/artist/4hzspkxtOoJEPk8g4cIJwr), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Bhuvana Chandra](https://open.spotify.com/artist/6qJdT7Ol8lHV3I2ONq9hBi) | [Dacoit Kannepettaro Mix \(From "Dacoit"\)](https://open.spotify.com/album/5PfkvnE7W5VwcTBilTrJEE) | 1:18 |
+| 48 | [Dacoit Kannepettaro Mix \(From "Dacoit"\)](https://open.spotify.com/track/3AaowXAOVVhw5o5sXSZUHg) | [Raj\-Koti](https://open.spotify.com/artist/78eKGjMa7yG0HpHyo8W3kA), [Gyaani](https://open.spotify.com/artist/4hzspkxtOoJEPk8g4cIJwr), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [Bhuvana Chandra](https://open.spotify.com/artist/6qJdT7Ol8lHV3I2ONq9hBi) | [Dacoit Kannepettaro Mix \(From "Dacoit"\)](https://open.spotify.com/album/5PfkvnE7W5VwcTBilTrJEE) | 1:18 |
 | 49 | [Chuttamalle \(From "Devara Part 1"\)](https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Chuttamalle \(From "Devara Part 1"\)](https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj) | 3:42 |
 | 50 | [23 Theme \(From "AA23"\)](https://open.spotify.com/track/3Zfq0a19kF3wGMmqxolt3d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Hector Salamanca](https://open.spotify.com/artist/5vDIDpttklXxigXvqdiXwU), [Heisenberg](https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr) | [23 Theme \(From "AA23"\)](https://open.spotify.com/album/0Y6hWL8xxatoqyvsVy4Ge2) | 0:47 |
 
-Snapshot ID: `AAAAALBURx8BzffgKBV/uhNZi4xlDVZi`
+Snapshot ID: `AAAAAOiCRSdwO+3cxbpqNMCOqBu0Lv4Q`

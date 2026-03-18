@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269755,
+  "num_followers": 269775,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
         "name": "I Don't Trust A Soul",
         "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "909",
-        "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "909",
-      "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Through The Pain (feat. Pozer)",
         "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 180520,
       "name": "Through The Pain (feat. Pozer)",
       "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "909",
+        "url": "https://open.spotify.com/album/2zfkzIFCFlf9aycZyiFUxT"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "909",
+      "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "Till I Die (feat. Claudia Valentina)",
-        "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        },
-        {
-          "name": "Claudia Valentina",
-          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Till I Die (feat. Claudia Valentina)",
-      "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "TYPE SH*T",
         "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 212870,
       "name": "TYPE SH*T",
       "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "Till I Die (feat. Claudia Valentina)",
+        "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        },
+        {
+          "name": "Claudia Valentina",
+          "url": "https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Till I Die (feat. Claudia Valentina)",
+      "url": "https://open.spotify.com/track/4pawR52ONFQTCYUzI6C2xZ"
     },
     {
       "added_at": "2026-03-13 04:00:38",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2026-03-13 04:00:38",
       "album": {
-        "name": "KODAK",
-        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "KODAK",
-      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
-    },
-    {
-      "added_at": "2026-03-13 04:00:38",
-      "album": {
         "name": "Circuit",
         "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 199395,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
+    },
+    {
+      "added_at": "2026-03-13 04:00:38",
+      "album": {
+        "name": "KODAK",
+        "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 173913,
+      "name": "KODAK",
+      "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
     },
     {
       "added_at": "2026-03-13 04:00:38",

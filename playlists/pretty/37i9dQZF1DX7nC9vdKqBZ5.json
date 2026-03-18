@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1508738,
+  "num_followers": 1508672,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        }
+      ],
+      "duration_ms": 219728,
+      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 193116,
       "name": "Sem Jeito Ao Vivo - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
-      },
-      "artists": [
-        {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        }
-      ],
-      "duration_ms": 219728,
-      "name": "Lugar Ao Sol - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Espera a Primavera (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 254878,
-      "name": "Espera a Primavera - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Faz Assim",
         "url": "https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
+        "name": "Espera a Primavera (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
       },
       "artists": [
         {
-          "name": "duogram",
-          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 136716,
-      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
+      "duration_ms": 254878,
+      "name": "Espera a Primavera - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -875,6 +859,22 @@
       "duration_ms": 151458,
       "name": "ciumeira",
       "url": "https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Menina do Cabelo Bagun\u00e7ado (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx"
+      },
+      "artists": [
+        {
+          "name": "duogram",
+          "url": "https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y"
+        }
+      ],
+      "duration_ms": 136716,
+      "name": "Menina do Cabelo Bagun\u00e7ado - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "J\u00fapiter (Ao Vivo)",
         "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 136208,
       "name": "J\u00fapiter - Ao Vivo",
       "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2024-08-02 18:37:00",

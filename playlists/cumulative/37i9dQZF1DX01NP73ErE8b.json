@@ -4381,6 +4381,32 @@
     },
     {
       "album": {
+        "name": "Maledetti innamorati",
+        "url": "https://open.spotify.com/album/3MTpb0TKibwVHunlztnLhn"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        },
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198033,
+      "name": "L'amore \u00e8 / L'amore va",
+      "url": "https://open.spotify.com/track/34SFDPte4y11mPVZ9HPcG5"
+    },
+    {
+      "album": {
         "name": "L'amore \u00e8 tutto",
         "url": "https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B"
       },

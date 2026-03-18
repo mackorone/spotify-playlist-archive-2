@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80102,
+  "num_followers": 80116,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Me Opongo",
-        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
-      },
-      "artists": [
-        {
-          "name": "J Matt",
-          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "Me Opongo",
-      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Tornado Ranchero",
         "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Me Opongo",
+        "url": "https://open.spotify.com/album/68sJRe35z5Zc6tTJpabi4d"
+      },
+      "artists": [
+        {
+          "name": "J Matt",
+          "url": "https://open.spotify.com/artist/7yx74uBZexx52wjBFKoe96"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "Me Opongo",
+      "url": "https://open.spotify.com/track/2zpxH79G1hf1XcbT5v4Jd7"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Puro Sur Puro Chile",
-        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
       },
       "artists": [
         {
-          "name": "Los Pincheira del sur Oficial",
-          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Tatuaje",
-      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
+      "duration_ms": 254733,
+      "name": "De Paisano a Paisano",
+      "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1707,34 +1707,34 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
+        "name": "Puro Sur Puro Chile",
+        "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
       "artists": [
         {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+          "name": "Los Pincheira del sur Oficial",
+          "url": "https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR"
         }
       ],
-      "duration_ms": 254733,
-      "name": "De Paisano a Paisano",
-      "url": "https://open.spotify.com/track/7Efl38yKPpMdl5mxFTrvpE"
+      "duration_ms": 215266,
+      "name": "Tatuaje",
+      "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
     },
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "El Solovino",
-        "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
+        "name": "La Sustancia",
+        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+          "name": "Los S\u00faper Sicarios",
+          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
         }
       ],
-      "duration_ms": 183525,
-      "name": "El Solovino",
-      "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
+      "duration_ms": 206949,
+      "name": "La Sustancia",
+      "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
     }
   ],
   "unique_name": "Ranchera Chilena",

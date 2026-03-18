@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158907,
+  "num_followers": 158900,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
+        "name": "Solidificando a Caminhada",
+        "url": "https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb"
+      },
+      "artists": [
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        }
+      ],
+      "duration_ms": 129962,
+      "name": "Solidificando a Caminhada",
+      "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
         "name": "replay",
         "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 151360,
       "name": "replay",
       "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
-        "name": "Solidificando a Caminhada",
-        "url": "https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb"
-      },
-      "artists": [
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        }
-      ],
-      "duration_ms": 129962,
-      "name": "Solidificando a Caminhada",
-      "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -755,6 +755,30 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
+        "name": "Beira do Mar",
+        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "MC Julio D.E.R.",
+          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Beira do Mar",
+      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
-        "name": "Beira do Mar",
-        "url": "https://open.spotify.com/album/5ZrXrgWZl4lcoIDrHsezda"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "MC Julio D.E.R.",
-          "url": "https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Beira do Mar",
-      "url": "https://open.spotify.com/track/3cy3gXlEPK5QyUHfHYim6n"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -891,26 +891,6 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
         "name": "Bateu Saudade",
         "url": "https://open.spotify.com/album/2NKKvnmha3O6zdVbqRz621"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 230581,
       "name": "Bateu Saudade",
       "url": "https://open.spotify.com/track/7ADV6H8YX1nIjj10EwBIsT"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
         "name": "Peito Aberto",
         "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
       },
@@ -1159,6 +1135,30 @@
       "duration_ms": 193560,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "lowz",
-          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -1259,6 +1239,26 @@
     {
       "added_at": "2026-03-13 19:34:39",
       "album": {
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        },
+        {
+          "name": "lowz",
+          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 206142,
       "name": "Pegando Carona",
       "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -1299,46 +1315,6 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2026-03-13 19:34:39",
-      "album": {
-        "name": "BARRIL DOBRADO",
-        "url": "https://open.spotify.com/album/0D6NdLJd952BvwlMksyka3"
-      },
-      "artists": [
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "BARRIL DOBRADO",
-      "url": "https://open.spotify.com/track/7xaddKWtArM969FhiGYAdY"
     },
     {
       "added_at": "2026-03-13 19:34:39",
@@ -1371,6 +1347,30 @@
       "duration_ms": 168000,
       "name": "Toda Linda (feat. Caslu)",
       "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
+    },
+    {
+      "added_at": "2026-03-13 19:34:39",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     }
   ],
   "unique_name": "Resenha na Praia",

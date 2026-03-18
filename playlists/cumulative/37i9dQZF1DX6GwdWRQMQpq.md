@@ -2,7 +2,7 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Sexyy Red
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: BunnaB
 
 794 songs - 1 day 11 hr 17 min
 

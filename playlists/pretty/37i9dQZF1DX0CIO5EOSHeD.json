@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 2131,
+  "num_followers": 2180,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Crisis Kid",
-        "url": "https://open.spotify.com/album/0C62cG4T1q9Vgqh5QlsQj2"
-      },
-      "artists": [
-        {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Curse Of Creation",
-      "url": "https://open.spotify.com/track/5uhjSHUwCANn8iRtsjCn9z"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "It's In My Head",
         "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 219010,
       "name": "Seaface",
       "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Crisis Kid",
+        "url": "https://open.spotify.com/album/0C62cG4T1q9Vgqh5QlsQj2"
+      },
+      "artists": [
+        {
+          "name": "Corbin",
+          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Curse Of Creation",
+      "url": "https://open.spotify.com/track/5uhjSHUwCANn8iRtsjCn9z"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "The Way He Looks",
-        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Beautiful Mind",
-      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Body Jumper",
         "url": "https://open.spotify.com/album/34wILh42l9lFTepPd128Jg"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 118521,
       "name": "Blue Sheen",
       "url": "https://open.spotify.com/track/4a1mFp7Kd5y20I08Cy7Nei"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "The Way He Looks",
+        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Bet You Know",
-        "url": "https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        }
-      ],
-      "duration_ms": 198902,
-      "name": "Bet You Know",
-      "url": "https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 220377,
       "name": "Reason",
       "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Bet You Know",
+        "url": "https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd"
+      },
+      "artists": [
+        {
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        }
+      ],
+      "duration_ms": 198902,
+      "name": "Bet You Know",
+      "url": "https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh"
     },
     {
       "added_at": "2025-05-01 22:27:23",

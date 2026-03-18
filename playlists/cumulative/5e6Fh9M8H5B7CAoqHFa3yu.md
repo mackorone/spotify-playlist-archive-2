@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,992 songs - 4 day 22 hr 43 min
+1,999 songs - 4 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Amor & Luta](https://open.spotify.com/track/1NJm8DPG409FSVJSJgoxW4) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [Amor & Luta](https://open.spotify.com/album/1ZVv0Aa94fqvg83TiCQkys) | 7:03 | 2025-06-17 |  |
 | [AmoR Conversely](https://open.spotify.com/track/6vg64cW3pYw3og3vEYPw21) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [AmoR Conversely](https://open.spotify.com/album/0DgMBeP9Y4gbpd6c9Ry7R2) | 3:27 | 2023-07-21 |  |
 | [And a Panda](https://open.spotify.com/track/2SKDjklzOfsqdfc3LibelK) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [And a Panda](https://open.spotify.com/album/5QUYWm9bKLxQD4lJj2L3Ns) | 2:25 | 2025-09-28 |  |
+| [And They Complement Eachother Like Pink and Green](https://open.spotify.com/track/4YYo6vVe4Shfkm2W5DuDD6) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS) | [There Are These Two Little People Like a Software](https://open.spotify.com/album/0leVi1JyIFz1LaJQDFzfsF) | 1:15 | 2026-03-17 |  |
 | [And What You Give Is What You Get](https://open.spotify.com/track/0BUWStfDvS1IxiXOKJjGGn) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [An Exciting Evening At Home With Shadrach, Meshach And Abednego](https://open.spotify.com/album/6li1lrX4zR1XiywfM6wjqO) | 3:46 | 2026-02-07 |  |
 | [Andes Dub](https://open.spotify.com/track/73vEwfJDEaMMawEKlFiUJS) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Rebel\-I](https://open.spotify.com/artist/5sk0yYZNTRXG1Ph14bpSVu) | [Andes Dub](https://open.spotify.com/album/4h7Uf9MiGw0EvZAbpnRUac) | 3:46 | 2024-03-10 |  |
 | [Angel](https://open.spotify.com/track/3xArylDcACBtA8cgBZrijo) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Angel](https://open.spotify.com/album/2MOj4rJYRgcWbWS7yFShb6) | 3:12 | 2023-05-19 |  |
@@ -421,6 +422,7 @@
 | [Disfraz](https://open.spotify.com/track/6px55UKbJjmJkd5tvN3If6) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:10 | 2025-12-28 |  |
 | [Dissonance](https://open.spotify.com/track/7ojTGZAKHV9QVswnIWaHnt) | [Ambith](https://open.spotify.com/artist/4fAMSGI9YBnkkkNx8dsyF2) | [Dissonance](https://open.spotify.com/album/1qgZndhIljvvCFIupC6Fct) | 3:58 | 2026-01-30 |  |
 | [Distant Memories](https://open.spotify.com/track/3jEzTEIQlLUvAI8MCa6ZTX) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 1](https://open.spotify.com/album/669reT1wAagQzhBIIzo4nK) | 3:49 | 2025-07-27 |  |
+| [Distante](https://open.spotify.com/track/3Ss2udUvmiLurWoHEhTOJ2) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS) | [Una Montañita/Distante](https://open.spotify.com/album/34Etl8WfcdeNHjWzPk3uNc) | 3:20 | 2026-03-17 |  |
 | [Dizzy](https://open.spotify.com/track/2nPetbPikI1j6fr9WqoPL8) | [Emmalia Anne Monroe](https://open.spotify.com/artist/2HxLpyKe5DRrAYDMalyemP) | [Going Back](https://open.spotify.com/album/1jT6kvtyFUAPk60h5hgypk) | 3:29 | 2025-08-31 |  |
 | [Dlaczego Dub](https://open.spotify.com/track/3he67nbQWNynGIo9Q0baqv) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 6:16 | 2024-05-04 |  |
 | [DNA](https://open.spotify.com/track/1d1Pp5ozvN1RtsojpgmY6P) | [Ashtech](https://open.spotify.com/artist/34gRkptPjYd3uVN9igS75S) | [Walkin' Target](https://open.spotify.com/album/3P1Vu9Dl3jXRXYjvPVBesp) | 3:01 | 2025-06-22 |  |
@@ -914,6 +916,7 @@
 | [Jumping Jack \(HIIT 30\-10\)](https://open.spotify.com/track/5IduPfsFyeiWbgcjOk6udP) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:24 | 2024-03-08 |  |
 | [Junto a mis dedos](https://open.spotify.com/track/2qWrXyAixAEfyvFDa3b3NG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 2:50 | 2026-03-15 |  |
 | [Juntos en la Playa](https://open.spotify.com/track/5mOs4uCtRlI06ZUHIkoo9t) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Juntos en la Playa](https://open.spotify.com/album/0tA0nw0PIJU817dg9obfWE) | 2:07 | 2026-03-12 |  |
+| [Just a Little Faith](https://open.spotify.com/track/50hOUDqjfJod25YMKVZnUo) | [Brittany Mackie](https://open.spotify.com/artist/0LgTBAM4hYH6tlqaDXPTc2) | [Just a Little Faith](https://open.spotify.com/album/2AiNWvjubOQZKk5S8PdgCO) | 3:24 | 2026-03-17 |  |
 | [Just Another Day](https://open.spotify.com/track/6cqJPYDQ0nB8t0sTtZtbU0) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 4:31 | 2024-05-01 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-21 |  |
 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [IlostmyTime](https://open.spotify.com/artist/2bGSCoX6Q2o1TPU7PiQVIW) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 | 2025-12-05 |  |
@@ -1009,6 +1012,7 @@
 | [Lights Off](https://open.spotify.com/track/4ZTj4DkrGKYTXU1RsO3NHH) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 4:13 | 2025-08-02 |  |
 | [Lights On](https://open.spotify.com/track/06MPxTd7A7dLJtxeh2CN08) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 4:11 | 2025-08-02 |  |
 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 | 2023-03-15 |  |
+| [Like a Software](https://open.spotify.com/track/0H4d4AAv3DqIAAyJDxGM33) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS) | [There Are These Two Little People Like a Software](https://open.spotify.com/album/0leVi1JyIFz1LaJQDFzfsF) | 1:06 | 2026-03-17 |  |
 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 | 2023-03-15 |  |
 | [Like I Am](https://open.spotify.com/track/4c4KieMqXEXag8Vxfg2Wdx) | [MARTA MONEY](https://open.spotify.com/artist/4lQ14fxhXj6vb98eo24In5) | [Nice to Meet Me](https://open.spotify.com/album/7cvM0BmZtdn6clZ8oSD0uf) | 3:42 | 2024-06-11 |  |
 | [Limbs](https://open.spotify.com/track/69tkcr56AzEWTRmteGeED8) | [iGL & Alecho](https://open.spotify.com/artist/0P7Ws2hOKvUgOadBq0nTXn) | [From A Droplet](https://open.spotify.com/album/2KkhkN4s5St2MqJNVeojam) | 4:59 | 2024-03-25 |  |
@@ -1309,6 +1313,7 @@
 | [Pensare in Grande](https://open.spotify.com/track/0hOPVUy0HQ4ju0s724bEZZ) | [PitMike](https://open.spotify.com/artist/0MkxrIxJy1hfKSX7CwDkjz) | [Pensare in Grande](https://open.spotify.com/album/6t68A2V4e2c9Ht12LRHDVD) | 3:39 | 2025-07-01 |  |
 | [PEOPLE](https://open.spotify.com/track/1YecODNRUtowzkqIhCfK70) | [A11\. Alone](https://open.spotify.com/artist/3c2RLPUrLda7TntRbqfqz5), [Magadlaza](https://open.spotify.com/artist/7BeLgf11ASI8COr3ODD7Kf) | [MOLAETSA](https://open.spotify.com/album/6bOPV3kJ5OSilWbb08ucxn) | 4:12 | 2025-08-11 |  |
 | [People Dub](https://open.spotify.com/track/1gKdTpyYXy48vptOfB2xAu) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [People Will Pray](https://open.spotify.com/album/0PUyZTIv71NdMlRgPygPc8) | 5:19 | 2025-09-26 |  |
+| [People inside a cardboard house](https://open.spotify.com/track/4zc0snHvKSnPiMLXg8nnHK) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS) | [Instante/People inside a cardboard house](https://open.spotify.com/album/4XulQyioOuLl1haD3Tf3sa) | 2:03 | 2026-03-17 |  |
 | [People Will Pray](https://open.spotify.com/track/5xA32M4AH0iegtvjsYN172) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [People Will Pray](https://open.spotify.com/album/0PUyZTIv71NdMlRgPygPc8) | 5:04 | 2025-09-26 |  |
 | [Per Sempre](https://open.spotify.com/track/2dVGXC6oJx68QDoCtBkTZe) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Per Sempre](https://open.spotify.com/album/6fDAW6RBRHGDYsfPFjDWsM) | 3:58 | 2024-10-05 |  |
 | [PER SEMPRE DENTRO ME](https://open.spotify.com/track/6zfKkbBZ1YJEvXnSA53f3p) | [Alex Loffredi](https://open.spotify.com/artist/7nKYP4LvatBevQFhAwysHa) | [PER SEMPRE DENTRO ME](https://open.spotify.com/album/0v4QFtsY1j2w1fxctUCEpl) | 3:27 | 2024-06-13 |  |
@@ -1322,6 +1327,8 @@
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2025-05-28 |  |
 | [Pink Rain \(Re:make\)](https://open.spotify.com/track/7ruc9npO8S8bsl1VJA3Gjj) | [Turbo.Shihtzu](https://open.spotify.com/artist/64FbqwHzilmYc7JTt1MauK) | [Pink Rain \(Re:make\)](https://open.spotify.com/album/7vn0X5D6BCutk8KC4CSoLK) | 2:26 | 2025-11-17 |  |
 | [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 | 2025-12-30 |  |
+| [Pizza Margherita](https://open.spotify.com/track/4kgnunK2B5xNufsIe8LOMX) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Margherita](https://open.spotify.com/album/4Hh5YJKxTxrKu2Nab4mhJz) | 2:10 | 2026-03-17 |  |
+| [Place of Gods](https://open.spotify.com/track/7vNAnwOPK4NjIZRShR9iv9) | [SHA\-N](https://open.spotify.com/artist/06WMwT5suuRVkNuADN1nJ7) | [5TH DIMENSION](https://open.spotify.com/album/2raSu29sR5ZtJDTeOZEZJ0) | 4:12 | 2026-03-17 |  |
 | [Planta Crecer](https://open.spotify.com/track/3bwexrnqApEcDKEEOMy7J6) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Planta Crecer](https://open.spotify.com/album/4Hug1prc0w4BrGHmQHbHPQ) | 5:04 | 2025-11-18 |  |
 | [Plexiglass](https://open.spotify.com/track/5cIsqbJwWrsIJXMv6Y1uWb) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Plexiglass](https://open.spotify.com/album/27P1bW7XWa91u80HQQCMhQ) | 3:37 | 2023-03-15 |  |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-09-29 |  |

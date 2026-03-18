@@ -4,7 +4,7 @@
 
 > Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters\. © King Record Co., Ltd\. All rights reserved.
 
-278 songs - 1 day 23 hr 24 min
+279 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Out of Harmony](https://open.spotify.com/track/5sXCamoiSDkxcxqoWVD62H) | [ヒプノシスマイク \-D.R.B\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g), [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY) | [MIC AS ONE](https://open.spotify.com/album/0DLj1x3o2ly2SywQ9AYYc4) | 4:11 | 2025-06-13 |  |
 | [Own Stage](https://open.spotify.com/track/4myTd594xGtzwMYO0MzBx5) | [ヒプノシスマイク \-D.R.B\- \(どついたれ本舗\)](https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY), [ヒプノシスマイク \-D.R.B\- \(躑躅森盧笙\)](https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99) | [あゝオオサカdreamin'night](https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX) | 3:47 | 2022-06-09 |  |
 | [PUMP IT UP](https://open.spotify.com/track/49FM85WUJ7nuXEqm3PbtQI) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/5YjmdCzAsmV12k3sGL7gKw), [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(どついたれ本舗\)](https://open.spotify.com/artist/0ldgyesibUxcsz6iTbVNfJ) | [Welcome 2 Rhyme Anima +](https://open.spotify.com/album/3tPtU624XkezQPnn83vGun) | 3:30 | 2024-01-10 |  |
+| [Rainbow Signs](https://open.spotify.com/track/0bxfwkzSoM46Ba80tjUlMv) | [ST☆RISH](https://open.spotify.com/artist/4qozdjjHNXwEDYMMuK6dUb), [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [HYPNOSISMIC \-D.R.B\- \(Matenro\)](https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ) | [Rainbow Signs](https://open.spotify.com/album/3F3VTiduM1osGoCpsYRqNw) | 4:12 | 2026-03-17 |  |
 | [Re:start!!!](https://open.spotify.com/track/6MLvvv4gNnfJJ5R6z6Qwrr) | [Hypnosis Mic \-D.R.B.\- \(Buster Bros!!!\)](https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『どついたれ本舗 VS Buster Bros!!!』](https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d) | 3:31 | 2022-06-09 |  |
 | [Reason to FIGHT](https://open.spotify.com/track/2XVfFzmqXrLsv1xoRmFu7z) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99), [ヒプノシスマイク \-D.R.B\- \(MAD TRIGGER CREW\)](https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g) | [ヒプノシスマイク \-Division Rap Battle\- 2nd D.R.B『Fling Posse VS MAD TRIGGER CREW』](https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO) | 5:11 | 2022-06-09 |  |
 | [RED ZONE\(Don't test da Master\)](https://open.spotify.com/track/2Bt3hPDdFgJawOAMZltQaN) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima\(MAD TRIGGER CREW\)](https://open.spotify.com/artist/0GkFdb6m7ggrvy8ym980tv) | [Straight Outta Rhyme Anima](https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV) | 2:53 | 2022-06-09 |  |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-394 songs - 22 hr 6 min
+396 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-08 | 2025-12-01 |
 | [lovergirl](https://open.spotify.com/track/51Ehu3Z75E3R4Y72jm9kiX) | [Taylor Contarino](https://open.spotify.com/artist/4sPdnfBqns9zDxWZPv7AhT) | [lovergirl](https://open.spotify.com/album/5hcolasUwTgiAJ4B7nAXs3) | 2:03 | 2026-02-14 |  |
 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 | 2025-12-23 | 2026-01-15 |
+| [Lust](https://open.spotify.com/track/5YWOtvkGabMPecBFiZ9F3X) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Love/Lust](https://open.spotify.com/album/5cewYfinOaHGTGeWCUJPrt) | 1:53 | 2026-03-17 |  |
 | [Límite \- Remix](https://open.spotify.com/track/6nJU2atw4dO9QUrWUbTwtA) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX), [Insi](https://open.spotify.com/artist/3EM8X2biSQbmXUiC1WmfsD) | [Límite \(Remix\)](https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3) | 3:03 | 2025-11-11 | 2025-12-01 |
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-03-16 |  |
 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 | 2026-01-25 |
@@ -394,6 +395,7 @@
 | [xxx$.Eden.$xxx](https://open.spotify.com/track/09OWD6ngk05M1vaXzVobGT) | [A Gxd Named Gawd](https://open.spotify.com/artist/4zoT5ZrAVFrTeRe1vNlQ2q) | [xxx$.Eden.$xxx](https://open.spotify.com/album/6swDrSNbu4RHkopK5qULq5) | 2:50 | 2025-12-25 | 2026-01-15 |
 | [Y2KBABY](https://open.spotify.com/track/7bS1ITQT3u1KZtPLfBZFls) | [Young Scorcher](https://open.spotify.com/artist/68GhZVQrGi3cjHwDfas3IX) | [Y2KBABY](https://open.spotify.com/album/7dLJQj3yZQGHL5ujjpSalx) | 2:14 | 2025-11-17 | 2026-01-05 |
 | [Yeti](https://open.spotify.com/track/5Im51GtWo7shSTcT1lLyu5) | [The Lunar Conspiracy](https://open.spotify.com/artist/5s8FHpyZT9uMPbPpnZGhPA) | [Yeti](https://open.spotify.com/album/1y52VUBQmPBqDw4lOKK5Dk) | 4:30 | 2025-12-26 | 2026-01-15 |
+| [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-17 |  |
 | [You Got the Feeling](https://open.spotify.com/track/4k6zhS7VG4AadaoJHpcb3k) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 4:13 | 2025-11-24 | 2026-01-05 |
 | [You Never Died](https://open.spotify.com/track/3JBFbPQRqufCifcueo0BeG) | [Boneyard Lily](https://open.spotify.com/artist/4X258WlI0oC78zl7HC2jMn) | [You Never Died](https://open.spotify.com/album/57brjzlWROvtNLEMsNNnem) | 3:38 | 2025-11-11 | 2025-12-01 |
 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 | 2025-12-04 | 2026-01-05 |

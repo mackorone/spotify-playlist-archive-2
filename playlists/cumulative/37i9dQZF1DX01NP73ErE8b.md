@@ -4,7 +4,7 @@
 
 > I brani italiani di cui siamo ossessionati 😌 Angelica Bove in cover
 
-538 songs - 1 day 3 hr 47 min
+539 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [L'albero delle noci](https://open.spotify.com/track/4aHMoqPDJA6Rpa0MjyV1hT) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [L'albero delle noci](https://open.spotify.com/album/6CV9FxiVhhDnkazHLRXQMv) | 3:56 | 2025-02-12 | 2025-04-25 |
 | [L'amore eternit](https://open.spotify.com/track/2vAzyP21f777MdZNcyt6yt) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Pop\-hoolista](https://open.spotify.com/album/3MJfMtxaK8aHRFQk1Aqzcl) | 4:18 | 2025-02-03 | 2025-03-21 |
 | [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 | 2025-12-03 |  |
+| [L'amore è / L'amore va](https://open.spotify.com/track/34SFDPte4y11mPVZ9HPcG5) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c), [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Maledetti innamorati](https://open.spotify.com/album/3MTpb0TKibwVHunlztnLhn) | 3:18 | 2026-03-17 |  |
 | [L'ultima canzone](https://open.spotify.com/track/51wk2kBRxfiYIskpqYxk0N) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:34 | 2025-03-20 | 2025-04-01 |
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-07-01 | 2024-11-08 |
 | [L'UNICA](https://open.spotify.com/track/1ailkFmIM9eWlfqFd6OpuJ) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [L'UNICA](https://open.spotify.com/album/5w5CJYu0u2tWWsZXzPe3s8) | 3:10 | 2025-06-19 | 2025-11-11 |

@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112327,
+  "num_followers": 112343,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,26 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Flutuar",
         "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 214191,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -163,22 +163,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "A Minha Raz\u00e3o (Reason I Sing)",
-        "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 273552,
-      "name": "A Minha Raz\u00e3o (Reason I Sing)",
-      "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Desej\u00e1vel",
         "url": "https://open.spotify.com/album/4B3VnrNJcH1vmsvYlntKFc"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 333706,
       "name": "Desej\u00e1vel",
       "url": "https://open.spotify.com/track/2u2NL48dpclQeLPh3rbA9I"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "A Minha Raz\u00e3o (Reason I Sing)",
+        "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 273552,
+      "name": "A Minha Raz\u00e3o (Reason I Sing)",
+      "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Nossa Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
+      },
+      "artists": [
+        {
+          "name": "Cord\u00e3o de Tr\u00eas",
+          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
+        }
+      ],
+      "duration_ms": 189154,
+      "name": "Nossa Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Faltava Voc\u00ea",
         "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 194643,
       "name": "Faltava Voc\u00ea",
       "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Nossa Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B7HOGs2P2xSPQA92dYox6"
-      },
-      "artists": [
-        {
-          "name": "Cord\u00e3o de Tr\u00eas",
-          "url": "https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88"
-        }
-      ],
-      "duration_ms": 189154,
-      "name": "Nossa Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5Xy8zMqDbpkWd9vmPen5mt"
     },
     {
       "added_at": "2025-12-15 18:47:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 213705,
+  "num_followers": 213737,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAAA04V/vIg0h0TNoVEFlQfKv",
+  "snapshot_id": "abdIAAAAAADTljIT4S5QBMTXiZfgh4YW",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qui\u00e9n No Llora",
+        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Qui\u00e9n No Llora",
+      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 227000,
       "name": "Est\u00e1 Caliente",
       "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qui\u00e9n No Llora",
-        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Qui\u00e9n No Llora",
-      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
     },
     {
       "added_at": null,

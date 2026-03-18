@@ -4,7 +4,7 @@
 
 > The dolls return!
 
-1,618 songs - 3 day 9 hr 0 min
+1,619 songs - 3 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Boy Bye](https://open.spotify.com/track/4O6tEQJRrV4TA1YDR0OjuD) | [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n) | [Boy Bye](https://open.spotify.com/album/65pn8CVcUc0jY2Zh4THSVX) | 2:14 | 2025-12-05 | 2026-02-14 |
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-05-16 | 2025-07-12 |
 | [BOY CRAZY\. \(feat\. JADE\)](https://open.spotify.com/track/39QvuWaRVyyLT9yQKn8Qy0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [\. \(...\)](https://open.spotify.com/album/6xp0NBjMoWgRHKqYPG5Dl3) | 2:49 | 2025-07-11 | 2025-10-26 |
+| [boyfriend](https://open.spotify.com/track/6QLhGHbxjHBGV5eG2ewyhO) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:21 | 2026-03-17 |  |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-15 | 2022-07-23 |
 | [Boys](https://open.spotify.com/track/0BBLwKdU4vn0HDSi1C8xDZ) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Boys](https://open.spotify.com/album/3PfWqfZABf2OjlxpBig0Ae) | 2:34 | 2025-05-16 | 2025-06-07 |
 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 | 2022-12-24 | 2023-01-28 |
@@ -1301,7 +1302,7 @@
 | [SOS XOX \(ft\. vi0let\)](https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl), [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [SOS XOX \(ft\. vi0let\)](https://open.spotify.com/album/6tyUrFJViUo8l93eqpn2Wh) | 2:19 | 2026-03-06 |  |
 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 | 2024-07-19 | 2025-02-08 |
 | [Space](https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Space](https://open.spotify.com/album/6BpecWwKN8nyJ3ke2YHZti) | 2:48 | 2023-07-28 | 2023-09-16 |
-| [Spazzatura \(Italo Disco\)](https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Spazzatura \(Italo Disco\)](https://open.spotify.com/album/03xAD8s8jnVX4GBPzbxHhn) | 2:49 | 2025-11-28 |  |
+| [Spazzatura \(Italo Disco\)](https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Spazzatura \(Italo Disco\)](https://open.spotify.com/album/03xAD8s8jnVX4GBPzbxHhn) | 2:49 | 2025-11-28 | 2026-03-18 |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-30 | 2023-10-21 |
 | [Spinning](https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Spinning](https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB) | 2:28 | 2023-01-20 | 2023-03-18 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-11-29 |

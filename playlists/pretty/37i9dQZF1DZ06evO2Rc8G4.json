@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 170597,
+  "num_followers": 170608,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAACB20JQEqtXxo2bMXpGDKTR",
+  "snapshot_id": "abdIAAAAAAAw5VRVj+Q3l9fb6pe+fcX3",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 213160,
       "name": "On a Night Like This",
       "url": "https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Turn It into Love",
+      "url": "https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 213026,
       "name": "Vegas High",
       "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/5Y0DcJXYNRT0GOtchKvZdL"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0yKznHFSb0CYfMb5kSLw8h"
     },
     {
       "added_at": null,
@@ -795,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Out Of 10 (feat. Kylie Minogue)",
-        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "10 Out Of 10 (feat. Kylie Minogue)",
-      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -827,22 +823,6 @@
       "duration_ms": 189586,
       "name": "Things We Do For Love",
       "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 154706,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
     },
     {
       "added_at": null,
@@ -863,6 +843,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Out Of 10 (feat. Kylie Minogue)",
+        "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "10 Out Of 10 (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 200061,
       "name": "Got to Be Certain",
       "url": "https://open.spotify.com/track/7hsOcTJHQS6BxxPIyaNlvw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "What Do I Have to Do? - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 101137,
+  "num_followers": 101145,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAADX45dWBz98ignGCody78gt",
+  "snapshot_id": "abdIAAAAAACa5GfzTxs5PpD9QKDG6X9Z",
   "tracks": [
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 131691,
-      "name": "GRAMMY (Freestyle)",
-      "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
+      "duration_ms": 166875,
+      "name": "SHOW ME UP",
+      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 166875,
-      "name": "SHOW ME UP",
-      "url": "https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY"
+      "duration_ms": 131691,
+      "name": "GRAMMY (Freestyle)",
+      "url": "https://open.spotify.com/track/5hzuO0DOsv3sJD2oCxk7Uy"
     }
   ],
   "unique_name": "This Is Lil Tecca",

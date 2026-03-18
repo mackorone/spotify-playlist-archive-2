@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-695 songs - 1 day 10 hr 20 min
+696 songs - 1 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Blackberries](https://open.spotify.com/track/1AS1oLvEr6PNsCLnuEUmCi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Blackberries](https://open.spotify.com/album/0F0JTnpQ50g9dVcX2CiNOn) | 2:01 | 2025-07-18 |  |
 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 | 2023-06-03 | 2023-10-01 |
 | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/track/6sooxXwLEwh812Ve4L5ovr) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Blow The Roof \(with Kasbo & EVAN GIIA\)](https://open.spotify.com/album/3wsZl7oZ9obf53nPRj6FaA) | 3:04 | 2022-02-18 | 2022-04-09 |
+| [BOBA](https://open.spotify.com/track/2GohKE1tNrKUsZPF4ZzrRT) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BOBA](https://open.spotify.com/album/22aPi3QZtDAXY5EbHdLLmY) | 3:00 | 2026-03-13 |  |
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-02-24 | 2023-12-14 |
 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 | 2025-01-29 | 2025-03-08 |
 | [Boom](https://open.spotify.com/track/0YwlHzRYRU2LV2gtWklmD5) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Boom](https://open.spotify.com/album/7h9ximIgOSTQFoIlAD2UpI) | 2:19 | 2022-01-07 | 2022-07-11 |
@@ -251,7 +252,7 @@
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-01-07 | 2022-04-09 |
 | [Goodbye](https://open.spotify.com/track/7fWOBXSWN29kaE0spQjUW9) | [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8), [Siera](https://open.spotify.com/artist/2t2DBBFg6vpPplx5nrKJYn) | [Goodbye](https://open.spotify.com/album/2hP5VFNgorSXS2IPgioJnZ) | 2:10 | 2022-01-07 | 2022-03-12 |
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-12 | 2023-12-14 |
-| [Guardian Angel](https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Guardian Angel](https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81) | 3:43 | 2025-11-21 |  |
+| [Guardian Angel](https://open.spotify.com/track/7JFkL98dEjAzkGnBW8SJid) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Guardian Angel](https://open.spotify.com/album/5NO5T8NwwbpFCBpL8rFU81) | 3:43 | 2025-11-21 | 2026-03-18 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 | 2023-07-19 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-09 |  |
 | [hate u cuz i don't \(feat\. Bea Miller\)](https://open.spotify.com/track/0ebzDbmaqvnBTfoZbd90BW) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [hate u cuz i don't \(feat\. Bea Miller\)](https://open.spotify.com/album/01EtwxoHPTutToBZWQSSpG) | 2:45 | 2022-01-07 | 2022-01-29 |

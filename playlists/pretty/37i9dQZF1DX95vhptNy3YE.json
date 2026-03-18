@@ -1,6 +1,6 @@
 {
   "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444518,
+  "num_followers": 444502,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
-    },
-    {
-      "added_at": "2026-03-13 03:01:14",
-      "album": {
         "name": "Olha pra Cara de Quem Te...",
         "url": "https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 120916,
       "name": "Olha pra Cara de Quem Te...",
       "url": "https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U"
+    },
+    {
+      "added_at": "2026-03-13 03:01:14",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -303,30 +303,6 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
-      },
-      "artists": [
-        {
-          "name": "Dnovaees",
-          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 157612,
-      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
-    },
-    {
-      "added_at": "2026-03-13 03:01:14",
-      "album": {
         "name": "Novo Testamento",
         "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
+    },
+    {
+      "added_at": "2026-03-13 03:01:14",
+      "album": {
+        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
+      },
+      "artists": [
+        {
+          "name": "Dnovaees",
+          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "duration_ms": 157612,
+      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "Cora\u00e7\u00e3o e Cadeado",
-        "url": "https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c"
-      },
-      "artists": [
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        }
-      ],
-      "duration_ms": 189436,
-      "name": "Cora\u00e7\u00e3o e Cadeado",
-      "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
-    },
-    {
-      "added_at": "2026-03-13 03:01:14",
-      "album": {
         "name": "Fa\u00e7o Acontecer",
         "url": "https://open.spotify.com/album/1JoDY5x7dmUiQZQhFEMl7M"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 156899,
       "name": "Fa\u00e7o Acontecer",
       "url": "https://open.spotify.com/track/37ApccN7IgSrnuDYMbRNHU"
+    },
+    {
+      "added_at": "2026-03-13 03:01:14",
+      "album": {
+        "name": "Cora\u00e7\u00e3o e Cadeado",
+        "url": "https://open.spotify.com/album/2LSHuwKeQtODeI2NKqbf7c"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 189436,
+      "name": "Cora\u00e7\u00e3o e Cadeado",
+      "url": "https://open.spotify.com/track/1wAVmlw4xUyXaP0xjfyP4T"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "Em Qualquer Cama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
-      },
-      "artists": [
-        {
-          "name": "Mumuzinho",
-          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Em Qualquer Cama - Ao Vivo",
-      "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
-    },
-    {
-      "added_at": "2026-03-13 03:01:14",
-      "album": {
         "name": "KM2",
         "url": "https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 139914,
       "name": "KIA",
       "url": "https://open.spotify.com/track/49mACJ1TtKpe5QKG80TwXx"
+    },
+    {
+      "added_at": "2026-03-13 03:01:14",
+      "album": {
+        "name": "Em Qualquer Cama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NQPcnfCEwZkRQJEoRr7Bn"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Em Qualquer Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/24MjRkHlHue1Qw3dC61Ypk"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "Louco por voc\u00ea",
-        "url": "https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19"
-      },
-      "artists": [
-        {
-          "name": "Cael Gomess",
-          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
-        }
-      ],
-      "duration_ms": 189178,
-      "name": "Louco por voc\u00ea",
-      "url": "https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52"
-    },
-    {
-      "added_at": "2026-03-13 03:01:14",
-      "album": {
         "name": "QUASE QUE FALEI TE AMO",
         "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+        "name": "Louco por voc\u00ea",
+        "url": "https://open.spotify.com/album/5AW92qkCXvj8lnkDMrzp19"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Cael Gomess",
+          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
         }
       ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
+      "duration_ms": 189178,
+      "name": "Louco por voc\u00ea",
+      "url": "https://open.spotify.com/track/7Dz7HqscJ0SnPV06jyVF52"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -843,6 +827,22 @@
       "duration_ms": 138857,
       "name": "Resenha do Rock",
       "url": "https://open.spotify.com/track/7nsvD1q1UrHbIeNU8iJZrc"
+    },
+    {
+      "added_at": "2026-03-13 03:01:14",
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
+        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 263281,
+      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
+    },
+    {
+      "added_at": "2026-03-13 03:01:14",
+      "album": {
         "name": "Sem Sentimento",
         "url": "https://open.spotify.com/album/6cKl9wlnEI5KTwdBtW3FwG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 132244,
       "name": "Sem Sentimento",
       "url": "https://open.spotify.com/track/37J7T56pGfgnQQMlAqdrGt"
-    },
-    {
-      "added_at": "2026-03-13 03:01:14",
-      "album": {
-        "name": "Samba \u00c9 Prece: Renan Oliveira Canta Jorge Arag\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2G1i3G5m7BkPcXCBPAgCew"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 263281,
-      "name": "Novos Tempos / Encontro das \u00c1guas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1vGAfMp4SDDUhWgIoL8sJw"
     },
     {
       "added_at": "2026-03-13 03:01:14",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2026-03-13 03:01:14",
       "album": {
-        "name": "Pagodom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
+        "name": "Interroga\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC"
       },
       "artists": [
         {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
         }
       ],
-      "duration_ms": 257741,
-      "name": "Cabo de Guerra - Ao Vivo",
-      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
+      "duration_ms": 171472,
+      "name": "Interroga\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
     }
   ],
   "unique_name": "AMPLIFIKA",

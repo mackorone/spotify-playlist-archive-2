@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 265363,
+  "num_followers": 265450,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abX2gAAAAADycHrkL+8Vy2Q+HLDxRsa9",
+  "snapshot_id": "abdIAAAAAADsn+HNlPuKiCfKiaXPUTUC",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 197311,
+      "name": "Doesn't Just Happen",
+      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
       },
@@ -291,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 181050,
+      "name": "Marvellous",
+      "url": "https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Propeller (feat. Dave & BNXN)",
         "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
@@ -315,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 181050,
-      "name": "Marvellous",
-      "url": "https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 251733,
       "name": "Clash (feat. Stormzy)",
       "url": "https://open.spotify.com/track/0hE6By0vNRrRZzhtqoKZzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 197311,
-      "name": "Doesn't Just Happen",
-      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/24q33NVA8s2wYs3BKdA7jT"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Tolerance",
-        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
-      },
-      "artists": [
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 243883,
-      "name": "Incredible Sauce (feat. Dave)",
-      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/1vdP5l03rrRobswkVke5qP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+      },
+      "artists": [
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 243883,
+      "name": "Incredible Sauce (feat. Dave)",
+      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 201345,
+      "name": "Twenty To One",
+      "url": "https://open.spotify.com/track/0UHfIL5GqruPrdgMZKIxQk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 307973,
       "name": "Our 25th Birthday",
       "url": "https://open.spotify.com/track/4vIPKDgaUQYtwrCKTKhiBP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 201345,
-      "name": "Twenty To One",
-      "url": "https://open.spotify.com/track/0UHfIL5GqruPrdgMZKIxQk"
     },
     {
       "added_at": null,

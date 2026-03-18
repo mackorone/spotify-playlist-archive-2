@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,320 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,321 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 5 | [HONNE](https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3) | [AlwaysTheSuspect](https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [ENTENDRE](https://open.spotify.com/artist/46k9u0s8MgHWowaTSmAsoL), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [HONNE](https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX) | 2:58 |
 | 6 | [Kyk Uit](https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Kyk Uit](https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS) | 2:40 |
 | 7 | [Miniete](https://open.spotify.com/track/4AfQGFZ2zYdIHYwqBhYx37) | [Interlecc Za](https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv), [Young OG CPT](https://open.spotify.com/artist/0Mj65U6z6MBgRCO9XsBTHO) | [Miniete](https://open.spotify.com/album/6FpisY6waijVL2IdW1Rsgd) | 2:36 |
-| 8 | [Nooit Genoeg](https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Nooit Genoeg](https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF) | 3:11 |
-| 9 | [Hoeveel](https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Hoeveel](https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD) | 2:03 |
+| 8 | [Hoeveel](https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC) | [Priddy Prince](https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh), [Luda G](https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z) | [Hoeveel](https://open.spotify.com/album/6TGu2sBpURyrECiHLLnWpD) | 2:03 |
+| 9 | [Nooit Genoeg](https://open.spotify.com/track/67CunmsSJA1YRTYE2M9FUS) | [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B), [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0) | [Nooit Genoeg](https://open.spotify.com/album/6qwo9jR60ylpjrajOfxqAF) | 3:11 |
 | 10 | [Disi makliki](https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d) | [Daxter Deedz](https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG) | [Disi makliki](https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc) | 2:59 |
 | 11 | [Sticks & Stones](https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9) | [Sticks & Stones](https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK) | 2:46 |
 | 12 | [Tolgevang](https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Tolgevang](https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc) | 2:40 |
