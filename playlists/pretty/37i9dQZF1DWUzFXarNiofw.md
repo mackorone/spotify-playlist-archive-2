@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leven Kali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,697 likes - 250 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,714 likes - 250 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

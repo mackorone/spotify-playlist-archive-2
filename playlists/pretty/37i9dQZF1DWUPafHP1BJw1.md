@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,566 likes - 203 songs - 11 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,679 likes - 203 songs - 11 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 16 | [Zombie \- \(Soundtrack Version\) from "Wednesday: Season 2"](https://open.spotify.com/track/066b8lHH03cSlTFES2jMre) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Christian Almiron](https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 2:24 |
 | 17 | [Golden](https://open.spotify.com/track/4pQ1tGNWPNf3W2flpyH55L) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Golden](https://open.spotify.com/album/2EP01A2LTMG0BiuIUBJsin) | 2:57 |
 | 18 | [Misery Business \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/1JWaYtUaxn19EkQPfvREyE) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Misery Business \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/5jQDivYRIBA3ZkcL6hOm4G) | 3:35 |
-| 19 | [All the Things She Said](https://open.spotify.com/track/2l8OdvgiGlXkrFRz2uFyPq) | [Joseph William Morgan](https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03) | [All the Things She Said](https://open.spotify.com/album/7aGFddZCr98KxUcSLVxFKL) | 3:15 |
+| 19 | [All the Things She Said \(Orchestral Version\)](https://open.spotify.com/track/2l8OdvgiGlXkrFRz2uFyPq) | [Joseph William Morgan](https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03) | [All the Things She Said \(Orchestral Version\)](https://open.spotify.com/album/7aGFddZCr98KxUcSLVxFKL) | 3:15 |
 | 20 | [Don’t Let Me Be Misunderstood](https://open.spotify.com/track/6pw5t0h16zgr2Tymgzyvac) | [Bennie Benjamin](https://open.spotify.com/artist/7ERDtbmv3l9goJ4dHzn715), [Sol Marcus](https://open.spotify.com/artist/4ZhtwsXB88HB2F2geIgt3N), [Gloria Caldwell](https://open.spotify.com/artist/7rKdx0Qj3ZwMSOJiNPBpaL), [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [Don’t Let Me Be Misunderstood](https://open.spotify.com/album/5j0VQMnEWUlIV2Xowno00i) | 3:57 |
 | 21 | [Good Luck, Babe! \(Arr\. String Quartet\) \- Inspired by Bridgerton](https://open.spotify.com/track/3hXLz8QmyU822ze5c9uoT9) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good Luck, Babe! \(Arr\. String Quartet\) \[Inspired by Bridgerton\]](https://open.spotify.com/album/07vOcbw7eODhv6P6B8WAmC) | 3:10 |
 | 22 | [Ordinary \- Solo Piano Version](https://open.spotify.com/track/1ee3ZlT2VQEUuNdsd4jiI9) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Ordinary](https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr) | 3:23 |

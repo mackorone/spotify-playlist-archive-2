@@ -4,10 +4,11 @@
 
 > Hottest tracks from Coke Studio Bharat.
 
-63 songs - 14 hr 48 min
+64 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Ae Ajnabee \| Coke Studio Bharat](https://open.spotify.com/track/5pkBdzFwC3sAfOvxIvmhL1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE) | [Ae Ajnabee \| Coke Studio Bharat](https://open.spotify.com/album/7idAWWOCszU8zkCAffYZx8) | 4:19 | 2026-03-19 |  |
 | [Ahir Bhairav](https://open.spotify.com/track/1rAHJIHBTMxk5B30UzvIAZ) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/4YHYezIazOcE2FNuQr0APX) | 6:14 | 2022-07-08 | 2022-10-29 |
 | [Ahir Bhairav](https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l) | 6:14 | 2022-03-03 | 2025-03-04 |
 | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 | 2025-08-25 |  |

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름 \(KIM PU REUM\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,277 songs - 3 day 5 hr 16 min
+1,279 songs - 3 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 | 2024-11-07 |
 | [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 | 2024-08-08 | 2024-09-04 |
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-01-26 |
-| [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 |  |
+| [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 | 2025-12-08 | 2026-03-19 |
 | [Dimension Theory](https://open.spotify.com/track/6o9Y9PAXJL2GCjukXtUuBz) | [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [Dimension Theory](https://open.spotify.com/album/4SOxENfRVQRs3E9DBMejik) | 2:35 | 2025-07-28 | 2025-08-30 |
 | [Ding!](https://open.spotify.com/track/0XzBowyHOl3RMbVN1Nt2JG) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [Ding!](https://open.spotify.com/album/6AYxh8txpOKfNjVidY2HSh) | 5:53 | 2025-12-23 | 2026-03-09 |
 | [Dissolve](https://open.spotify.com/track/1NpAxxKo9dwf9bwrDrobDb) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Dissolve](https://open.spotify.com/album/4gzT4CjcewVkpELipuuoRB) | 3:55 | 2025-03-04 | 2025-04-11 |
@@ -505,7 +505,7 @@
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-21 | 2022-04-21 |
 | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/track/4Jvgf76h1R9xRfLQAgjixK) | [jungumul 정우물](https://open.spotify.com/artist/4kkPYliE6UmXoj81Xzr4s6) | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/album/1wvNe35sWSsk35B8hrFgcP) | 3:29 | 2022-04-12 | 2022-04-21 |
 | [I Want You](https://open.spotify.com/track/2r3lmIMjeiBVfurRKM2XXn) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [I Want You](https://open.spotify.com/album/6LYuWto4dMfk00uHWZkkLx) | 3:48 | 2023-08-24 | 2024-05-09 |
-| [I Want You Too](https://open.spotify.com/track/0AWUDCy7FkbX4X8YhEyeJl) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [I Want You Too](https://open.spotify.com/album/12c2y4YcySOaEyG3BjohiI) | 3:45 | 2026-01-05 |  |
+| [I Want You Too](https://open.spotify.com/track/0AWUDCy7FkbX4X8YhEyeJl) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [I Want You Too](https://open.spotify.com/album/12c2y4YcySOaEyG3BjohiI) | 3:45 | 2026-01-05 | 2026-03-19 |
 | [I was wrong](https://open.spotify.com/track/2Nudb9hCRVGqePHBBedTic) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Songs from a bed](https://open.spotify.com/album/3d8OKUqQ7KBBK7iFMnK1ZE) | 4:30 | 2021-12-12 | 2022-06-25 |
 | [I Will Give You Everything](https://open.spotify.com/track/2pW1y2KEOrgSFJyzgU8LvZ) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [\[Vol.48\] You Hee yul's Sketchbook : 26th Voice 'Sketchbook X Jannabi'](https://open.spotify.com/album/1mzynYOm6D6r6hAOUEFjIv) | 3:32 | 2021-12-21 | 2022-06-23 |
 | [I Wonder \(feat\. SHIN YE CHAN of LUCY\)](https://open.spotify.com/track/7cr801LVaq0SUOxF8VnbOE) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj), [SHIN YE CHAN](https://open.spotify.com/artist/4ZvGSB96XtyOLpHMCBuc2p) | [Antiguo Trunk](https://open.spotify.com/album/5EWIHx3EGfOlcYWVhlNIfH) | 4:25 | 2025-11-28 | 2026-01-28 |
@@ -1096,9 +1096,11 @@
 | [To Him](https://open.spotify.com/track/2WH59CCJ7KMVRIRyG7za66) | [e\_so](https://open.spotify.com/artist/1KsLHf4SObKZZUWrENllYL) | [To Him](https://open.spotify.com/album/55TJJh7LpVS3XFPO62vh1F) | 4:06 | 2022-04-12 | 2022-04-14 |
 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-03-31 | 2022-04-19 |
 | [To The One](https://open.spotify.com/track/00babQKpTcxbh8kKsATc0R) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [To The One](https://open.spotify.com/album/3pvLfa1Y8N92FzFbEwOxEG) | 3:48 | 2025-11-17 | 2026-01-20 |
+| [To Truth](https://open.spotify.com/track/02EGe74DUyiuQp76biMQ8i) | [Ahn Dayoung](https://open.spotify.com/artist/3YaTzrZaXXljeI8vpvzyBX) | [To Truth](https://open.spotify.com/album/1G8siqRnMQiyjhm2bFVp0W) | 4:09 | 2026-03-18 |  |
 | [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-08-08 | 2024-12-03 |
 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 | 2021-12-21 | 2024-06-01 |
 | [Today's Mood](https://open.spotify.com/track/7LcgHOeLcMbAMu48Abqtqt) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/0H24UcLRQFp2iihdvpQQ20) | 3:45 | 2025-04-11 | 2025-07-29 |
+| [Today, Today](https://open.spotify.com/track/2HOHvjZiZRInQXcy1SXkHD) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [TRUTHBUSTER](https://open.spotify.com/album/2OlUMnS2qteJ6rY9LnZ0ht) | 4:09 | 2026-03-18 |  |
 | [TOKKEBI\-BULL](https://open.spotify.com/track/5FZiKZLU2OWufNKsY1eQ5Y) | [KARDI](https://open.spotify.com/artist/6v8xPUDPu5hQlu0GrYHyOE) | [When The Lights Out](https://open.spotify.com/album/1WmpPnR4sdtKBye5PMSVDh) | 4:22 | 2025-09-11 | 2025-10-20 |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-04-24 |
 | [Tomato Marinade \(feat\. 윤형준\)](https://open.spotify.com/track/3XkYgZPYOwn9Y4PSDKIITK) | [Jang kiki](https://open.spotify.com/artist/2uMuJQRkgaDPQzSccUgNbd), [Yoon Hyeong Jun](https://open.spotify.com/artist/1RD1AHG2pFbjj6CRXwZbMl) | [Recipe of Summer](https://open.spotify.com/album/6KH3ojIirdLY8LaZdw7ft8) | 2:57 | 2025-08-04 | 2025-10-15 |

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Daniel Godson",
-  "num_followers": 25311,
+  "num_followers": 25321,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
+      },
+      "artists": [
+        {
+          "name": "Krystian Embradora",
+          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3"
       },
@@ -543,6 +559,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 172383,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "sentymenty",
         "url": "https://open.spotify.com/album/3aswc9IaaGon4QeNhXvJls"
       },
@@ -559,22 +591,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Dom",
-        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
-      },
-      "artists": [
-        {
-          "name": "Krystian Embradora",
-          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
-        }
-      ],
-      "duration_ms": 154368,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Kto to?",
         "url": "https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF"
       },
@@ -587,6 +603,22 @@
       "duration_ms": 137952,
       "name": "Kto to?",
       "url": "https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Dotknij",
+        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "Dotknij",
+      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -611,22 +643,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Dotknij",
-        "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
-      },
-      "artists": [
-        {
-          "name": "Daria Marx",
-          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
-        }
-      ],
-      "duration_ms": 154736,
-      "name": "Dotknij",
-      "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Serce",
         "url": "https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 193500,
       "name": "Serce",
       "url": "https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "To nie koniec",
-        "url": "https://open.spotify.com/album/4NAFphZqgSKwL8BFiOIbXG"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 172383,
-      "name": "To nie koniec",
-      "url": "https://open.spotify.com/track/6O4ipJ8bo5bb2KyKagk1Lv"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Wspania\u0142y to by\u0142 rok",
-        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
-      },
-      "artists": [
-        {
-          "name": "Leon Krze\u015bniak",
-          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
-        }
-      ],
-      "duration_ms": 172193,
-      "name": "Wspania\u0142y to by\u0142 rok",
-      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "This too shall pass",
         "url": "https://open.spotify.com/album/1FZRasPpIPxiqPPXJFz01k"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Na stacji paliw",
-        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
+        "name": "Wspania\u0142y to by\u0142 rok",
+        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
       },
       "artists": [
         {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
         }
       ],
-      "duration_ms": 183260,
-      "name": "Na stacji paliw",
-      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
+      "duration_ms": 172193,
+      "name": "Wspania\u0142y to by\u0142 rok",
+      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -787,18 +771,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "HALO?",
-        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
+        "name": "Na stacji paliw",
+        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
       },
       "artists": [
         {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
         }
       ],
-      "duration_ms": 128321,
-      "name": "HALO?",
-      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
+      "duration_ms": 183260,
+      "name": "Na stacji paliw",
+      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Ze stali",
-        "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
+        "name": "HALO?",
+        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
       },
       "artists": [
         {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
         }
       ],
-      "duration_ms": 131866,
-      "name": "Ze stali",
-      "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
+      "duration_ms": 128321,
+      "name": "HALO?",
+      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -847,6 +831,22 @@
       "duration_ms": 153651,
       "name": "Ptak",
       "url": "https://open.spotify.com/track/7owZ1yAKJvTs8xrjZnAlTh"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Ze stali",
+        "url": "https://open.spotify.com/album/5fewcblY1gdnc9tkpjPV2C"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Ze stali",
+      "url": "https://open.spotify.com/track/5Zdq0ubjxhpzlIAFE6rroT"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Po co tyle m\u00f3wi\u0107",
-        "url": "https://open.spotify.com/album/2g8IESnzovXJeB6y5q3ytZ"
+        "name": "K\u0142am",
+        "url": "https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn"
       },
       "artists": [
         {
-          "name": "Klaudia Sadownik",
-          "url": "https://open.spotify.com/artist/55WKQ59yDpmZOoFOSTTnGc"
+          "name": "Julka Grabowska",
+          "url": "https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH"
         }
       ],
-      "duration_ms": 157258,
-      "name": "Po co tyle m\u00f3wi\u0107",
-      "url": "https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80"
+      "duration_ms": 148000,
+      "name": "K\u0142am",
+      "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -915,6 +915,38 @@
       "duration_ms": 167500,
       "name": "fuck, i\u2019m yours?",
       "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Po co tyle m\u00f3wi\u0107",
+        "url": "https://open.spotify.com/album/2g8IESnzovXJeB6y5q3ytZ"
+      },
+      "artists": [
+        {
+          "name": "Klaudia Sadownik",
+          "url": "https://open.spotify.com/artist/55WKQ59yDpmZOoFOSTTnGc"
+        }
+      ],
+      "duration_ms": 157258,
+      "name": "Po co tyle m\u00f3wi\u0107",
+      "url": "https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Sztorm",
+        "url": "https://open.spotify.com/album/5skJjjAuikeP6B7iowZvai"
+      },
+      "artists": [
+        {
+          "name": "Sandra Reizer",
+          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Sztorm",
+      "url": "https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -939,38 +971,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "K\u0142am",
-        "url": "https://open.spotify.com/album/7GgWwR9oemy5lRxADGsUcn"
-      },
-      "artists": [
-        {
-          "name": "Julka Grabowska",
-          "url": "https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "K\u0142am",
-      "url": "https://open.spotify.com/track/4XivnKS2tFGqmcMAThcFgo"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Sztorm",
-        "url": "https://open.spotify.com/album/5skJjjAuikeP6B7iowZvai"
-      },
-      "artists": [
-        {
-          "name": "Sandra Reizer",
-          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Sztorm",
-      "url": "https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Za t\u0119 mi\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "baza",
-        "url": "https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 186674,
-      "name": "baza",
-      "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W"
       },
@@ -1015,6 +999,38 @@
       "duration_ms": 224146,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Chcia\u0142abym Ci powiedzie\u0107",
+        "url": "https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg"
+      },
+      "artists": [
+        {
+          "name": "Julia Wasielewska",
+          "url": "https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I"
+        }
+      ],
+      "duration_ms": 156392,
+      "name": "Chcia\u0142abym Ci powiedzie\u0107",
+      "url": "https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "baza",
+        "url": "https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 186674,
+      "name": "baza",
+      "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Chcia\u0142abym Ci powiedzie\u0107",
-        "url": "https://open.spotify.com/album/11JIXjzepAvkXK20kKVOFg"
-      },
-      "artists": [
-        {
-          "name": "Julia Wasielewska",
-          "url": "https://open.spotify.com/artist/0BbWyb6ZMdisHe03Fy3v7I"
-        }
-      ],
-      "duration_ms": 156392,
-      "name": "Chcia\u0142abym Ci powiedzie\u0107",
-      "url": "https://open.spotify.com/track/4NlptlNKseLr56hRa1Qfvt"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Bluszcz",
         "url": "https://open.spotify.com/album/4im0Q6x4U3bJ1Zrz0U8fQr"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 211692,
       "name": "Bluszcz",
       "url": "https://open.spotify.com/track/6SOIWU78SJG0cpRk9oUNaO"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "KR\u00d3TKI METRA\u017b",
-        "url": "https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha"
-      },
-      "artists": [
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        },
-        {
-          "name": "Wiktor Walig\u00f3ra",
-          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
-        }
-      ],
-      "duration_ms": 306892,
-      "name": "nad ranem (kr\u00f3tki metra\u017c)",
-      "url": "https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1107,6 +1087,26 @@
       "duration_ms": 135428,
       "name": "Dotyk",
       "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "KR\u00d3TKI METRA\u017b",
+        "url": "https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "duration_ms": 306892,
+      "name": "nad ranem (kr\u00f3tki metra\u017c)",
+      "url": "https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1"
     }
   ],
   "unique_name": "up next",

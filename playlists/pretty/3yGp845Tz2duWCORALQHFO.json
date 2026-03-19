@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26052,
+  "num_followers": 26049,
   "original_name": "NEW EDM 2026\u26a1 EDM HITS 2026 \u26a1 MUSICA ELECTRONICA 2026",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABlSWlPQHTSQBCswbNhlXlcxGA4qvJc",
+  "snapshot_id": "AABlSseI1X1hDee8IHO2pZXghkO6ci5i",
   "tracks": [
     {
       "added_at": "2026-03-13 11:59:57",
@@ -335,6 +335,22 @@
       "duration_ms": 172312,
       "name": "Mirror Gazer",
       "url": "https://open.spotify.com/track/3Rjoni2nTxp5GrHRFShumq"
+    },
+    {
+      "added_at": "2026-03-18 19:54:50",
+      "album": {
+        "name": "When The Rain Falls",
+        "url": "https://open.spotify.com/album/13RhgQd0eUlDbt89Zz9Apj"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 261252,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4yJjWnT3962mIgaxA3ktg1"
     },
     {
       "added_at": "2026-03-14 18:50:51",

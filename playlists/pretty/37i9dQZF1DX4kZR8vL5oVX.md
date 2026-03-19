@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Playlist réalisée avec Naïka \(du titre \#1 au \#16\).
+> Le programme EQUAL fête ses 5 ans\. À cette occasion, redécouvrez les titres français phares des 5 dernières années \(du titre \#1 au \#15\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,564 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,566 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ONE TRACK MIND](https://open.spotify.com/track/6VjqIvOKnV8zA4rOkN7oaq) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/48HmiG504mBM1GbpMx2fMU) | 3:20 |
-| 2 | [Comme je l'aime](https://open.spotify.com/track/4gZthDLQ1GCHobT6ZapPd2) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 3:23 |
-| 3 | [Des mythos](https://open.spotify.com/track/0qjgrxjEy6okJTfCNLxx9d) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Des mythos](https://open.spotify.com/album/0F90DAqBFW6Jvie1hr45l4) | 3:10 |
-| 4 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 |
-| 5 | [Somersaults](https://open.spotify.com/track/2bAxlpGBYcn03ghPQ9xwwB) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Somersaults](https://open.spotify.com/album/5OhRJIS4bSB5xPWIS875HS) | 2:54 |
-| 6 | [FAKE WOMAN \- Et alors ? \(feat\. Ronisia\)](https://open.spotify.com/track/6xDjeDqSYuB0POIAqg17Vu) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [FAKE WOMAN \- Et alors ? \(feat\. Ronisia\)](https://open.spotify.com/album/1BmdMPpiybIGsrJLQD7kLx) | 3:07 |
-| 7 | [La Rumba Del Perdón](https://open.spotify.com/track/7o76sIawH9bRWsltcWfQfd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:11 |
-| 8 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 9 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
-| 10 | [If Only](https://open.spotify.com/track/5ufdZGJylS2Qv3T4FJMzGs) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Patchwork](https://open.spotify.com/album/0rMSgeNBmQ7gvOf3ooebN0) | 3:28 |
-| 11 | [somewhere in the world](https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [ijan](https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1) | 3:32 |
-| 12 | [Les 12 regles](https://open.spotify.com/track/5j0u93UwEuO8Xj6bxYi9Cr) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Les 12 regles](https://open.spotify.com/album/59ipR5nVMQ74Do6TfkyyQi) | 2:16 |
-| 13 | [Miss Yo](https://open.spotify.com/track/6g9FDs3mDOKPtW7iNliOEB) | [Danitsa](https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Miss Yo](https://open.spotify.com/album/4z4MrVwiiuPMDi4RFwluqx) | 3:24 |
-| 14 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
-| 15 | [Ensemble](https://open.spotify.com/track/1iHiWDDsJLsFENoKrfmY0p) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Queen](https://open.spotify.com/album/6dzjdYfWaGwfMZZaJXVlYJ) | 2:03 |
-| 16 | [What You Need \- A COLORS SHOW](https://open.spotify.com/track/49ceA6VvdgxF5LmXRPeIFA) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [What You Need \- A COLORS SHOW](https://open.spotify.com/album/2QCIt3Hun6RkRBug3DIz27) | 3:51 |
+| 1 | [No Stress](https://open.spotify.com/track/7LSDia8E3oKftKJbEvWAP7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:26 |
+| 2 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
+| 3 | [Secret](https://open.spotify.com/track/7dISpxgINJOQSuXUTEfB9x) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments](https://open.spotify.com/album/34zzJhaEHMgBndvceUHjoL) | 3:11 |
+| 4 | [Coeur maladroit](https://open.spotify.com/track/6adxmK6P4PkfsQvq02suYT) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 2:42 |
+| 5 | [Sains et saufs](https://open.spotify.com/track/4lHrPGR61C7WWvD2LuMKFn) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/1M3DBg5gnXZB4P80Iagl01) | 3:41 |
+| 6 | [Et même après je t'aimerai](https://open.spotify.com/track/5Pl4OxV9RGWNMO8MGmAoDP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Étoile flippante \(Version deluxe\)](https://open.spotify.com/album/3exYaNDjha1sFreVSqlWGW) | 3:15 |
+| 7 | [Un dimanche avec toi](https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:20 |
+| 8 | [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 |
+| 9 | [Pourquoi tu restes](https://open.spotify.com/track/75xZpzWWuTbTMdloVuQ67M) | [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [MINUIT UNE](https://open.spotify.com/album/3VPbTdf159bD51i91Sw6Aj) | 2:47 |
+| 10 | [The Fool](https://open.spotify.com/track/4bArJbevzjgIfbPupg9GEl) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw) | 3:26 |
+| 11 | [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 |
+| 12 | [Tout pour moi](https://open.spotify.com/track/2DFMYRYFopddiYTjF7eQta) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 3:34 |
+| 13 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 |
+| 14 | [Le Départ](https://open.spotify.com/track/0FTpFi1BlqoBVELlh7jK50) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 0:59 |
+| 15 | [harvest sky](https://open.spotify.com/track/3M8bJdRfYj1S5iKZIgwAnH) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:53 |
+| 16 | [ONE TRACK MIND](https://open.spotify.com/track/6VjqIvOKnV8zA4rOkN7oaq) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/48HmiG504mBM1GbpMx2fMU) | 3:20 |
 | 17 | [SPLASH](https://open.spotify.com/track/7qtnRed1TS8ZWp3ZZrI4cj) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SPLASH](https://open.spotify.com/album/4Q5CLByGguiRe8bE59IXi8) | 2:34 |
 | 18 | [La chanson d'amour](https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La chanson d'amour](https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7) | 3:27 |
 | 19 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Charade](https://open.spotify.com/track/2TXNsK2zjC72HSDA944rCv) | [Nina Uzan](https://open.spotify.com/artist/30iinzdRdXO3StiffBPiw9) | [Charade](https://open.spotify.com/album/6D5xf0IHzBNyfQU3otMLcn) | 2:40 |
 | 50 | [Kon Sa](https://open.spotify.com/track/7ykg7XuvPKaCans1BpX9dY) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Kon Sa](https://open.spotify.com/album/4arejIBFe8xHM0SGYfJqXT) | 2:42 |
 
-Snapshot ID: `AAAAAP22TADdyK0eEZ+DB77PDbyhiVcA`
+Snapshot ID: `AAAAAG4/k3nHk+4JqvJa0EL4opkaF0m3`

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Amy Shark
 
-2,581 songs - 5 day 13 hr 22 min
+2,582 songs - 5 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Blue ft\. LOVA](https://open.spotify.com/track/1ejVPsU3vHJvIoYAoLBtZ2) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Blue](https://open.spotify.com/album/0IHMJOuhVv3YyFScmeX6RM) | 3:39 | 2024-02-22 | 2024-03-22 |
 | [Blue Moon](https://open.spotify.com/track/20R5YwjmKubeva79prlvJq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:02 | 2025-09-25 | 2025-11-28 |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-04-10 | 2025-05-16 |
+| [Blueberry Skies](https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Blueberry Skies](https://open.spotify.com/album/75El775pQjP9Mx13n1rl41) | 3:26 | 2026-03-18 |  |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 | 2025-06-06 |
 | [Blueprint](https://open.spotify.com/track/15uiTmTGlSn6GmJeQg2j4u) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Blueprint](https://open.spotify.com/album/1rwq2McXrcfxa0WTnGDV88) | 2:36 | 2025-05-29 | 2025-07-11 |
 | [Bluffin'](https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Bluffin'](https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89) | 2:19 | 2025-12-04 | 2026-02-06 |
@@ -898,7 +899,7 @@
 | [Greener Than Me](https://open.spotify.com/track/6wdOyc2ZkGVNjVM1fS2YaA) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Greener Than Me](https://open.spotify.com/album/5rJJvdIbb3OPwgaus36Bls) | 3:42 | 2025-12-18 | 2026-01-23 |
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-07-19 | 2024-08-30 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 | 2023-08-05 |
-| [Growing Pains](https://open.spotify.com/track/3D87GX5fjm6vhs3Mi6NUV4) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Growing Pains](https://open.spotify.com/album/3oLeu179N3E3sdbFUDvbP2) | 2:13 | 2026-02-05 |  |
+| [Growing Pains](https://open.spotify.com/track/3D87GX5fjm6vhs3Mi6NUV4) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Growing Pains](https://open.spotify.com/album/3oLeu179N3E3sdbFUDvbP2) | 2:13 | 2026-02-05 | 2026-03-19 |
 | [Growing Pains](https://open.spotify.com/track/6pNHpb80EY9LpgExDUwSAX) | [Mason Watts](https://open.spotify.com/artist/3U0qz6QvONMmrEb3gO1jZN) | [Growing Pains](https://open.spotify.com/album/4thgNDs23QJ15l1iPOH1k1) | 2:34 | 2023-11-23 | 2023-12-22 |
 | [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 | 2024-05-09 | 2024-06-14 |
 | [Grown Woman](https://open.spotify.com/track/2YrAC1ZW7G7jiZfz2tHoXw) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Grown Woman](https://open.spotify.com/album/3Zpdg1WMQqfWrf4sXAHxLJ) | 5:10 | 2023-12-14 | 2024-02-09 |

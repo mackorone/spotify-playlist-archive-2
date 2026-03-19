@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Cheeky Leash
 
-4,469 songs - 10 day 6 hr 25 min
+4,470 songs - 10 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Blue Light Blind](https://open.spotify.com/track/68fw1VdloZAaVaEarvJE7Q) | [Jacob Fitzgerald](https://open.spotify.com/artist/7rcdYyLdhHk7l5FFejc6aO) | [Blue Light Blind](https://open.spotify.com/album/0xImk6HPz1WTs8u3wcXo2f) | 3:31 | 2025-04-29 | 2025-07-02 |
 | [Blue Moon](https://open.spotify.com/track/29lBozGdEwtw8ZrUsAoOUs) | [T Truman](https://open.spotify.com/artist/69fq3LFkhrH4vr6F3UGEUD) | [Blue Moon](https://open.spotify.com/album/6pf1SGAQ8uSRe8G86fbZqp) | 3:30 | 2024-09-10 | 2024-12-05 |
 | [blue skies](https://open.spotify.com/track/2pYBceCYXYMJAECYMgI1AB) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Beauteous Movements](https://open.spotify.com/album/5FVZiQYA0BeJJyZU4cAxYJ) | 3:30 | 2023-01-25 | 2023-02-16 |
+| [Blueberry Skies](https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Blueberry Skies](https://open.spotify.com/album/75El775pQjP9Mx13n1rl41) | 3:26 | 2026-03-18 |  |
 | [BlueTape](https://open.spotify.com/track/1vKBOJdzdu901DOUhH8uqB) | [Jack Slade](https://open.spotify.com/artist/2r06l2uzBPilIAxHkx9QG6) | [BlueTape](https://open.spotify.com/album/5wD8LhV0Dm7dsKNeBaNnbD) | 2:56 | 2023-03-29 | 2023-04-05 |
 | [Blur](https://open.spotify.com/track/1qGPVUPpRkpl9DQhx8NKSl) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Blur](https://open.spotify.com/album/1ULqDMnOnGBPMMr4YTl7ul) | 2:57 | 2023-05-03 | 2023-06-08 |
 | [Blush](https://open.spotify.com/track/6n7GCcOaANWWYp67s1nI5V) | [RAZÉ](https://open.spotify.com/artist/71ONx63ghBZNPZqjp525IZ) | [Blush](https://open.spotify.com/album/3vTD6VpUeXdRB4XZDf8YJe) | 2:43 | 2023-02-08 | 2023-03-02 |
@@ -517,7 +518,7 @@
 | [BRAIN ROT](https://open.spotify.com/track/6CRV2IA5lsUzz317XCNOcr) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BACKSTAB \(Deluxe\)](https://open.spotify.com/album/7nMCw1qtkloF4PUCTqxIXR) | 1:36 | 2023-11-29 | 2024-02-09 |
 | [Brainwashing](https://open.spotify.com/track/5myr7uD2rOczWD64Fl283G) | [Hugh B](https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn) | [Brainwashing](https://open.spotify.com/album/1qrzjwSNA5yLu6JPOLRS8Z) | 3:38 | 2024-04-23 | 2024-06-19 |
 | [BRAND NEW](https://open.spotify.com/track/2OgWSf0g7dSE1wIshkuRCB) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BRAND NEW](https://open.spotify.com/album/4XhMjqMQVw9Tc3Ezs854Xi) | 2:22 | 2023-04-26 | 2023-05-18 |
-| [Brand New](https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Brand New](https://open.spotify.com/album/1GFw1ItSHTCkJCIdDyZm4a) | 3:20 | 2026-01-20 |  |
+| [Brand New](https://open.spotify.com/track/5kY94GfvzI4gVLVqf9A1HD) | [Hot Glue](https://open.spotify.com/artist/6Xz3noOPv6Cpb2ULyIHOiG) | [Brand New](https://open.spotify.com/album/1GFw1ItSHTCkJCIdDyZm4a) | 3:20 | 2026-01-20 | 2026-03-19 |
 | [Brand New Bitch](https://open.spotify.com/track/2SdnRo0R8SV4BeFDcXAGBM) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Brand New Bitch](https://open.spotify.com/album/1lHquqNdZGFgSleGFNccWm) | 3:29 | 2024-01-25 | 2024-02-09 |
 | [brand new day](https://open.spotify.com/track/1fHy4iyO37QfMVhbatfJzh) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [brand new day](https://open.spotify.com/album/1ZQlHdpZED3UpNNuSEDtrw) | 3:40 | 2024-06-25 | 2024-08-14 |
 | [Brand New Smile](https://open.spotify.com/track/3NPz52HdHiul8fhvW58CYL) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Brand New Smile](https://open.spotify.com/album/1cFzd9XnWZwcGt6up2NVmm) | 2:15 | 2025-05-27 | 2025-07-23 |

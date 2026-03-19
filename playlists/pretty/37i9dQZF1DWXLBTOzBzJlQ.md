@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLBTOzBzJlQ.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921 likes - 20 songs - 53 min 41 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,204 likes - 20 songs - 53 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLBTOzBzJlQ.md) - [plain]
 | 19 | [Toki Yo Tomare](https://open.spotify.com/track/6IqEoBumGJPyESJAhwNMi3) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/31H9k0JQ0gQBO0PbhP52w8) | 3:08 |
 | 20 | [ALL FOR YOU](https://open.spotify.com/track/7i3A3RHpnqoOBEX9GcP1Ms) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [ALL FOR YOU, 2027](https://open.spotify.com/album/1N9oFEpIgZZoOkZZI0FFFg) | 2:50 |
 
-Snapshot ID: `AAAAAAezTWsFuhZNdnUt+OMJ4iuV0aWQ`
+Snapshot ID: `AAAAAI/Dwl4i75/UOSD/hjQ8JWP6W1cz`

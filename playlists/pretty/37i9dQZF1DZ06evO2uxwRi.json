@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43510,
+  "num_followers": 43513,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAACfT+2ka6tnbrICa2lBp0Cu",
+  "snapshot_id": "abiZgAAAAADrWgCKUV53ziW0q1FmUtGL",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 218509,
-      "name": "Treat Yourself",
-      "url": "https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q"
+      "duration_ms": 253231,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/4muBJIUmx46Ua1GGxFEroZ"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 253231,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/4muBJIUmx46Ua1GGxFEroZ"
+      "duration_ms": 218509,
+      "name": "Treat Yourself",
+      "url": "https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q"
     },
     {
       "added_at": null,

@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Love, Crime & Other Trouble",
+        "url": "https://open.spotify.com/album/4H1ejfeqzHNozHMP0u3r0v"
+      },
+      "artists": [
+        {
+          "name": "Charming Disaster",
+          "url": "https://open.spotify.com/artist/1RjkfhamohczSXjFy5WcZh"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Grifters",
+      "url": "https://open.spotify.com/track/7D0H4hT1QAIWb0M02IgFX8"
+    },
+    {
+      "album": {
         "name": "Folie \u00e0 Deux",
         "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
       },

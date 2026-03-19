@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 359893,
+  "num_followers": 359914,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Rocio Durcal Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Mis Momentos",
         "url": "https://open.spotify.com/album/5I831xaYFuuZlBs6Lu2bhw"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 230186,
       "name": "El Dia Que Me Acaricies Llorar\u00e9",
       "url": "https://open.spotify.com/track/111g0L3zCU8J4LCWN0EPCa"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Rocio Durcal Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "Viva Juan Gabriel / Popurr\u00ed",
+      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "Viva Juan Gabriel / Popurr\u00ed",
-      "url": "https://open.spotify.com/track/7bK7yujTLTLzHo5kZMryjL"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "De Nueva Cuenta",
+        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
+      },
+      "artists": [
+        {
+          "name": "Marcos Flores",
+          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
+        },
+        {
+          "name": "Banda Jerez",
+          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Solo Se Que Fue En Marzo",
+      "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "No Discutamos",
         "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 211253,
       "name": "Querida - Remasterizado",
       "url": "https://open.spotify.com/track/2e28L2PaIKf79jxwxahRfh"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "De Nueva Cuenta",
-        "url": "https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4"
-      },
-      "artists": [
-        {
-          "name": "Marcos Flores",
-          "url": "https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D"
-        },
-        {
-          "name": "Banda Jerez",
-          "url": "https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Solo Se Que Fue En Marzo",
-      "url": "https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
+        "name": "Juan Gabriel, el Divo y Sus Divas",
+        "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Un Alma en Pena",
+      "url": "https://open.spotify.com/track/4XmP7meJ8H35govmmHLvrg"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
-        "name": "Juan Gabriel, el Divo y Sus Divas",
-        "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Un Alma en Pena",
-      "url": "https://open.spotify.com/track/4XmP7meJ8H35govmmHLvrg"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Ana Gabriel Todos Sus Exitos",
-        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
+        "name": "Antologia De Juan Gabriel",
+        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 270266,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT"
+      "duration_ms": 157000,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj"
     },
     {
       "added_at": "2024-07-02 23:46:15",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Antologia De Juan Gabriel",
-        "url": "https://open.spotify.com/album/0PdCVDLLPyONwCzOAoeQtc"
+        "name": "Ana Gabriel Todos Sus Exitos",
+        "url": "https://open.spotify.com/album/1JRhGwaIC5lWxazf3yWySo"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 157000,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/1OZHMioFDVvY85KYoRovHj"
+      "duration_ms": 270266,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/739NTjHPzGdGG3mf4lgcGT"
     },
     {
       "added_at": "2024-07-02 23:46:15",

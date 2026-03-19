@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
 348 songs - 1 day 6 hr 21 min
 
@@ -66,12 +66,12 @@
 | [Cũng Một Chữ Tình](https://open.spotify.com/track/6tyVtakV7I37Z9Leti8mT6) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Cũng Một Chữ Tình](https://open.spotify.com/album/7fT7e5HwaGvWjfQiVswQv0) | 5:32 | 2022-03-11 | 2022-07-23 |
 | [Dem Buon Tinh Le](https://open.spotify.com/track/2S5oQ1s3p0cl5Zss33bVg5) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Co The Thoi](https://open.spotify.com/album/4P3hhiIUP0kY4HMYL0tdJF) | 4:45 | 2022-03-11 |  |
 | [Duyên Kiếp](https://open.spotify.com/track/2HMMspzKdqtU6JyOP5G2Sd) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Hữu Khương](https://open.spotify.com/artist/0FrOmjqDVlFKyiEanZnxj0) | [Tuyển Tập Bài Hát Hit Của Dương Hồng Loan](https://open.spotify.com/album/1O85fSIU5TkGib5Ucnl8CS) | 4:35 | 2022-03-11 | 2022-07-29 |
-| [Dấu Chân Kỷ Niệm](https://open.spotify.com/track/1VNjqb5ofbD2ILhelOtpj1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Dấu Chân Kỷ Niệm](https://open.spotify.com/album/681A6zdwd0nbZbBcov98ph) | 6:13 | 2023-01-18 | 2023-06-19 |
+| [Dấu Chân Kỷ Niệm](https://open.spotify.com/track/1VNjqb5ofbD2ILhelOtpj1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Dấu Chân Kỷ Niệm](https://open.spotify.com/album/681A6zdwd0nbZbBcov98ph) | 6:13 | 2023-01-18 |  |
 | [Em Hãy Về Đi](https://open.spotify.com/track/0v1sVifd4LISFksEF6lwy9) | [Doan Minh](https://open.spotify.com/artist/5LpXGJnM8abKp6sv8GSzj7) | [Người Yêu Cô Đơn](https://open.spotify.com/album/1sHk5cHPWeYyjNELxFKtAX) | 4:46 | 2022-03-11 | 2022-07-28 |
 | [Em Về Kẻo Trời Mưa](https://open.spotify.com/track/7ghoYcoWf5USCyyIo6eI7c) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1wVDUWmmUJaGPe60pX3t9h) | 4:38 | 2022-03-11 | 2022-07-29 |
 | [Em Về Kẻo Trời Mưa](https://open.spotify.com/track/0aOtpaJrPaB6tMr75MTjC5) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H) | 4:40 | 2023-05-24 | 2024-09-24 |
 | [Em Về Kẻo Trời Mưa](https://open.spotify.com/track/7fKiWUpxb76SViW84UMb3y) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1zbN3JwSe3zu6NHMgeDNnq) | 4:40 | 2022-03-11 | 2022-10-03 |
-| [Em Về Kẻo Trời Mưa](https://open.spotify.com/track/0SfY1n8Qt6GGqCsEgO4hS7) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Thao Thức Vì Em](https://open.spotify.com/album/2YW1Eu55DxhIlM02BpNt2a) | 4:34 | 2026-03-01 |  |
+| [Em Về Kẻo Trời Mưa](https://open.spotify.com/track/0SfY1n8Qt6GGqCsEgO4hS7) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Thao Thức Vì Em](https://open.spotify.com/album/2YW1Eu55DxhIlM02BpNt2a) | 4:34 | 2026-03-01 | 2026-03-19 |
 | [Em Về Với Người](https://open.spotify.com/track/570XE89SCoxIOS8V4vgZmz) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Xin Trả Tôi Về](https://open.spotify.com/album/1r5OrgvrLx5yR89oBSA3Y8) | 5:08 | 2022-03-11 | 2023-01-08 |
 | [Em Về Với Người](https://open.spotify.com/track/7hyoJ4h19L6q5SUPRZ5WHB) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Xin Trả Tôi Về](https://open.spotify.com/album/6kdSqWIpa70QrM9eojYdVS) | 5:08 | 2022-03-11 | 2022-07-26 |
 | [Em Về Với Người](https://open.spotify.com/track/3aNJQfOUBfRCfTDkOUAOYD) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 5:06 | 2022-03-11 | 2023-05-24 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 262186,
       "name": "2winkle Star Beat\u2606",
       "url": "https://open.spotify.com/track/1qsgpaBWncYmYDWweS3VVf"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 238893,
       "name": "Brilliant Smile",
       "url": "https://open.spotify.com/track/4UlLjDmCm3aa152WM02lKI"
@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "UNDEAD \u2715 \u7d05\u6708\u300cPERFECTLY-IMPERFECT\u300d \u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 FUSION UNIT SERIES 05",
+        "url": "https://open.spotify.com/album/31UVpdisEESvYUldPaL0Gq"
+      },
+      "artists": [
+        {
+          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228946,
+      "name": "FUSIONIC STARS!! - UNDEAD ver.",
+      "url": "https://open.spotify.com/track/7moqNkjnO6IH1sPqWtvxPv"
+    },
+    {
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
         "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
       },
@@ -1148,7 +1166,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 268000,
       "name": "Grateful allegiance",
       "url": "https://open.spotify.com/track/1k30Wm1kuCz97Jy7Iu7AnD"
@@ -1260,7 +1278,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 200266,
       "name": "Helter-Spider",
       "url": "https://open.spotify.com/track/5O0ATLOGx1KZvh0lMfHPcw"
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 231493,
       "name": "PERFECTLY-IMPERFECT",
       "url": "https://open.spotify.com/track/3fEZda4Fd8gLFWAkILkCA0"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 262533,
       "name": "SURF ON SMILE",
       "url": "https://open.spotify.com/track/4sNWvz279Vm4JVCYIg0cW3"
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 244813,
       "name": "Valentine Eve's Nightmare",
       "url": "https://open.spotify.com/track/1iWy6N1yPVTWaPPrRPCSei"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 291026,
       "name": "\u4eca\u5bb5\u6708\u306e\u9928\u306b\u3066",
       "url": "https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF"
@@ -4508,6 +4526,24 @@
       "duration_ms": 214749,
       "name": "\u708e\u7e8f\u7130\u8e0a\u5343\u5909\u4e07\u706b",
       "url": "https://open.spotify.com/track/2clRZ276jPbCuE9kedTkxX"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Valkyrie",
+        "url": "https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa"
+      },
+      "artists": [
+        {
+          "name": "\u5f71\u7247\u307f\u304b(CV.\u5927\u9808\u8cc0 \u7d14)",
+          "url": "https://open.spotify.com/artist/7qBy7Y8N9KcQ8DDbwtezqM"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234053,
+      "name": "\u7425\u73c0\u30c8\u7460\u7483\u30ce\u8f2a\u821e\u66f2",
+      "url": "https://open.spotify.com/track/46H4MGC13XEQoI3Pibz2wG"
     },
     {
       "album": {

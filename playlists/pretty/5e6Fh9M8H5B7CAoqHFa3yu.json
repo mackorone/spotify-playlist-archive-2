@@ -6,8 +6,80 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIq21Jgl+Sry1e0aw3wzd0sagdd+4N",
+  "snapshot_id": "AAAIr9df34VCuvc7VxACwAVqs+VfzdUE",
   "tracks": [
+    {
+      "added_at": "2026-03-18 17:33:09",
+      "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/6FkdVauaf3TWz2NedBfzsh"
+      },
+      "artists": [
+        {
+          "name": "Hyper Sync",
+          "url": "https://open.spotify.com/artist/6Sb54P0jJgg9TsxYbnISe0"
+        }
+      ],
+      "duration_ms": 80526,
+      "name": "Assurance",
+      "url": "https://open.spotify.com/track/5YWWg1cV7S8ilfYVTIzzJq"
+    },
+    {
+      "added_at": "2026-03-18 11:01:33",
+      "album": {
+        "name": "WHEN SPRING OPENS",
+        "url": "https://open.spotify.com/album/2aENCa3Fq5fOyW5KFYYtqq"
+      },
+      "artists": [
+        {
+          "name": "Leif Daniel Isaksson",
+          "url": "https://open.spotify.com/artist/755o76uW7R15KzvVPmeqRZ"
+        }
+      ],
+      "duration_ms": 176959,
+      "name": "The First Green Answer",
+      "url": "https://open.spotify.com/track/1gRyGE5ZGKSVRCeMQiTQZ3"
+    },
+    {
+      "added_at": "2026-03-18 11:01:31",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/5Ypxx896DfEK8eLkruGeh6"
+      },
+      "artists": [
+        {
+          "name": "Yin Yan",
+          "url": "https://open.spotify.com/artist/0vAfIvtrnLj4kF4EzzGEan"
+        },
+        {
+          "name": "Tino di Aboli",
+          "url": "https://open.spotify.com/artist/6wyUlAQOxsAOgzVcB4q7Dj"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/7o7E8NGmLMDveY2QJTcaNB"
+    },
+    {
+      "added_at": "2026-03-18 11:01:30",
+      "album": {
+        "name": "The Collaborations II",
+        "url": "https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk"
+      },
+      "artists": [
+        {
+          "name": "Rick Habana",
+          "url": "https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds"
+        },
+        {
+          "name": "JJ Sansaverino",
+          "url": "https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy"
+        }
+      ],
+      "duration_ms": 243175,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ"
+    },
     {
       "added_at": "2026-02-24 08:34:44",
       "album": {

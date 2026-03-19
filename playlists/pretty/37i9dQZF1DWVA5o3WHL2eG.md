@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mary Middlefield
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,224 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,213 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,17 +19,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 9 | [nirgendwen](https://open.spotify.com/track/3gqSqMYKDyRplVYUjYLVYr) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [nirgendwen](https://open.spotify.com/album/08K20mD88tcaRkeOV6SiCa) | 2:49 |
 | 10 | [Indigo](https://open.spotify.com/track/4KbNgQzGyrodC4MSPZVjsZ) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Indigo](https://open.spotify.com/album/5LQ5TqHSvXqRaIrRPm8DWs) | 2:56 |
 | 11 | [good girls](https://open.spotify.com/track/6iWxwmSei1nxhPuIP3zwbc) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [good girls](https://open.spotify.com/album/0e9Id3aQuB7y48oVLyjTg5) | 2:23 |
-| 12 | [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 |
-| 13 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
-| 14 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
+| 12 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
+| 13 | [Jeanie](https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX) | [Dreamboys The Band](https://open.spotify.com/artist/06EJZ7IlXEqlge7HYE5pIc) | [Jeanie](https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi) | 2:26 |
+| 14 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 |
 | 15 | [Sexless](https://open.spotify.com/track/5DXOSTlBTYEOkiTpRsoN4K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Young and Dumb](https://open.spotify.com/album/6J8WybVkcIXdIkIfeuQjZp) | 3:15 |
-| 16 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 |
+| 16 | [What’s a Girl Gotta Do?](https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Room Service](https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ) | 2:47 |
 | 17 | [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Everything](https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav) | 6:27 |
 | 18 | [SEX UND LIEBE](https://open.spotify.com/track/5odLD1t5L2VF5UgYOypjFY) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [SEX UND LIEBE](https://open.spotify.com/album/5whKAeJWySPuQVJ8z2bBBl) | 2:46 |
-| 19 | [Fotzen an die Macht](https://open.spotify.com/track/0OAuErdEzls6lPoA6x7sJz) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzen an die Macht](https://open.spotify.com/album/37BxJppK4gPPYJjLNyhX6m) | 2:08 |
-| 20 | [ALPHA FEMINIST](https://open.spotify.com/track/3v652Tj4Adys47C76CVON2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [ALPHA FEMINIST](https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s) | 2:34 |
-| 21 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
-| 22 | [Che Che](https://open.spotify.com/track/4kpIsRCP8Ab6vY1kS3HIIm) | [Nadia Offenbach](https://open.spotify.com/artist/08MZxpcZwhNzfkgVD2TqqR) | [Che Che](https://open.spotify.com/album/4mO2zMjDDVcnbZ1FSwVKAk) | 2:11 |
+| 19 | [ALPHA FEMINIST](https://open.spotify.com/track/3v652Tj4Adys47C76CVON2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [ALPHA FEMINIST](https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s) | 2:34 |
+| 20 | [Fotzen an die Macht](https://open.spotify.com/track/0OAuErdEzls6lPoA6x7sJz) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzen an die Macht](https://open.spotify.com/album/37BxJppK4gPPYJjLNyhX6m) | 2:08 |
+| 21 | [Che Che](https://open.spotify.com/track/4kpIsRCP8Ab6vY1kS3HIIm) | [Nadia Offenbach](https://open.spotify.com/artist/08MZxpcZwhNzfkgVD2TqqR) | [Che Che](https://open.spotify.com/album/4mO2zMjDDVcnbZ1FSwVKAk) | 2:11 |
+| 22 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
 | 23 | [Atlantis](https://open.spotify.com/track/0SHlGukB11djd2q27uBQkJ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/67FT3edp04m0M8CpPWZXuc) | 2:56 |
 | 24 | [TWIN](https://open.spotify.com/track/6TlMfzlLPrOsSK2rpVOEPm) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [TWIN](https://open.spotify.com/album/3BqlDx8gKqfieGWdYD1emh) | 1:52 |
 | 25 | [Vertigo](https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Vertigo](https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho) | 2:19 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Labyrinth](https://open.spotify.com/track/7En6dZXLv38QMRsqIaJjW3) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Labyrinth](https://open.spotify.com/album/4JHhiQQpbBKu8iOjbuoh1p) | 2:26 |
 | 33 | [Band Aid](https://open.spotify.com/track/4E6CeKP3IPqUE6uIucYp2L) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Band Aid](https://open.spotify.com/album/2kRRn2FQLjiJdVKyApllQN) | 4:36 |
 | 34 | [Nein sagen](https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Nein sagen](https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5) | 2:24 |
-| 35 | [venedig](https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [venedig](https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd) | 3:25 |
-| 36 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
+| 35 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
+| 36 | [venedig](https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [venedig](https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd) | 3:25 |
 | 37 | [ZICKZACK](https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [ZICKZACK](https://open.spotify.com/album/46vocArEiFAjtgffnrUp73) | 2:21 |
 | 38 | [Schenke mir ein](https://open.spotify.com/track/1nh7tFgkfO0Q7B6EAdUaJ2) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Schenke mir ein / Musik ist kein Krieg](https://open.spotify.com/album/31R7dXKQ2RAX1JSdX3slWj) | 3:36 |
 | 39 | [Nike Shox](https://open.spotify.com/track/7snTBRoLMEtNVsIhrliPjO) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Nike Shox](https://open.spotify.com/album/1O4OQRbrXJxRM6Q8zb4lcL) | 2:51 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [bis du mich fallen lässt](https://open.spotify.com/track/6bV7ybSLbAZ8mnXUWAjh70) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [bis du mich fallen lässt](https://open.spotify.com/album/6oymu7bgwmhhaTOPEF1u9H) | 3:15 |
 | 45 | [Wasteland](https://open.spotify.com/track/0TtvBY2n755oxFqTGToXCd) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Wasteland](https://open.spotify.com/album/0ndWCyFJSDayhJpTuD0WcU) | 2:40 |
 | 46 | [This Is Not Fun](https://open.spotify.com/track/4VOD0Am1Mcs8ksT40XqH7t) | [Filiah](https://open.spotify.com/artist/7eDeCweG3x20jhQvvbUkjl) | [This Is Not Fun / It's Always Winter \(Until It Is Not\)](https://open.spotify.com/album/0msQmrqy8ml85UcUrNSqxR) | 3:19 |
-| 47 | [Not Bad For A Girl](https://open.spotify.com/track/5WKUQ6S8XdaZQA9aBXDCuD) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Not Bad For A Girl](https://open.spotify.com/album/2MoayCbZxBRV8FRpY11Yga) | 2:22 |
-| 48 | [ich hab dich so lieb](https://open.spotify.com/track/6yBOeeiYYQzexDrPqMyqXG) | [REMOTE BONDAGE](https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z) | [ich hab dich so lieb](https://open.spotify.com/album/7nsDkZgWQJrMDIJEPpjnr2) | 2:25 |
+| 47 | [ich hab dich so lieb](https://open.spotify.com/track/6yBOeeiYYQzexDrPqMyqXG) | [REMOTE BONDAGE](https://open.spotify.com/artist/1HXRtPOPeROOtRPBCHIk5z) | [ich hab dich so lieb](https://open.spotify.com/album/7nsDkZgWQJrMDIJEPpjnr2) | 2:25 |
+| 48 | [Not Bad For A Girl](https://open.spotify.com/track/5WKUQ6S8XdaZQA9aBXDCuD) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Not Bad For A Girl](https://open.spotify.com/album/2MoayCbZxBRV8FRpY11Yga) | 2:22 |
 | 49 | [Supernatural 2.0](https://open.spotify.com/track/635S2joARkhSeH8JP4aVHm) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Embers](https://open.spotify.com/album/2OqOFjZQhUSHxUpzv8LBxW) | 4:01 |
 | 50 | [PARTYKLEID](https://open.spotify.com/track/1ywsTrfSwvdLNq3DxXACWN) | [Jinka](https://open.spotify.com/artist/7nJemD1mh8gTwk1wYql9T4) | [PARTYKLEID](https://open.spotify.com/album/0r8oJRyAt9UT4piK2tlECU) | 2:22 |
 

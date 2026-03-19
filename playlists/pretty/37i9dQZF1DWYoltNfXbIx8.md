@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 
 > Uma playlist só com as origens do Rap nacional\. Foto: MV Bill
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,628 likes - 70 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,664 likes - 70 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoltNfXbIx8.md) - [plain]
 | 34 | [Jesus Chorou](https://open.spotify.com/track/5wZUvwWGKaZ6NG8yckZcTM) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:51 |
 | 35 | [Malandragem da um Tempo](https://open.spotify.com/track/081oMZSOzhiklgYPkySdTO) | [Thaíde & DJ Hum](https://open.spotify.com/artist/26hFGAboiK1hGyRCXdfOq3), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf), [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Lino Crizz & Che Leal](https://open.spotify.com/artist/2NIUrYD2qwstVOfHwkuBtk) | [Preste Atenção](https://open.spotify.com/album/3cwZOIV5bkTrWG8Huzj1MV) | 6:52 |
 | 36 | [Sou Negrão](https://open.spotify.com/track/22jyfobuA8gTgTsTHGAPzG) | [Possemente Zulu](https://open.spotify.com/artist/6jXPqaCexpo7b4JHeFsmSV) | [Revolusom: A Volta do Tape Perdido](https://open.spotify.com/album/0S2iqPNC2M1taMpLWA2Map) | 6:25 |
-| 37 | [Traficando Informação](https://open.spotify.com/track/1vSxH0qXUvKvgyE4PXi4i6) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Jr](https://open.spotify.com/artist/5QlOcu6Gkblz9Ix9w6yudx) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:46 |
+| 37 | [Traficando Informação](https://open.spotify.com/track/1vSxH0qXUvKvgyE4PXi4i6) | [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [DJ Jr](https://open.spotify.com/artist/7s3wksTF72UXsqgIi4lE0T) | [Traficando Informação](https://open.spotify.com/album/0Tl0xR97QwbyY6YU5Q70mV) | 6:46 |
 | 38 | [Isso Aqui É uma Guerra](https://open.spotify.com/track/0aaVL58r9tX4wUrJM9K0RZ) | [Facção Central](https://open.spotify.com/artist/0gFS8ROCjrTZUHXt1roaa5) | [Versos Sangrentos](https://open.spotify.com/album/0NVLGw47LBem7p3rsQrrV8) | 4:26 |
 | 39 | [Só Que é Louco](https://open.spotify.com/track/3LsMUTCs1m6AUGxohkhQil) | [De Menos Crime](https://open.spotify.com/artist/0MihNWp86Psp4ss7Evogvv) | [Rap das Quebradas](https://open.spotify.com/album/3WlEvfTC8X2VBd8cO5ue3i) | 4:57 |
 | 40 | [Somos Nos](https://open.spotify.com/track/3qQ6z2RmuTXDDMW4FOZpEW) | [SNJ](https://open.spotify.com/artist/53eJax5oXY1SqAwVjSO7Uk) | [Somos Nos a Justica](https://open.spotify.com/album/0XlG6cwuICfhqx2oo7YqyK) | 4:34 |

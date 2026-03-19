@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 192619,
+  "num_followers": 192643,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,38 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "By Night",
+        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
+      },
+      "artists": [
+        {
+          "name": "Noah Praise God",
+          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "By Night",
+      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "If I Had a Boat",
         "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
       },
@@ -591,22 +623,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "compliments & hoopla .mp3",
         "url": "https://open.spotify.com/album/32MidnXoYcImqc6ZfBMCOC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 95085,
       "name": "compliments & hoopla .mp3",
       "url": "https://open.spotify.com/track/71fzZRtyKoRjWHWR811PTe"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "By Night",
-        "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
-      },
-      "artists": [
-        {
-          "name": "Noah Praise God",
-          "url": "https://open.spotify.com/artist/3UjCR3c49FUCGq5MGvV4WV"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "By Night",
-      "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "The Sludge of the Land",
-        "url": "https://open.spotify.com/album/4HZ9GCqvFEraON1Vf3YQQ6"
-      },
-      "artists": [
-        {
-          "name": "Babau",
-          "url": "https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU"
-        }
-      ],
-      "duration_ms": 291792,
-      "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
-      "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Walks",
         "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204586,
       "name": "New Brighton",
       "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "The Sludge of the Land",
+        "url": "https://open.spotify.com/album/4HZ9GCqvFEraON1Vf3YQQ6"
+      },
+      "artists": [
+        {
+          "name": "Babau",
+          "url": "https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU"
+        }
+      ],
+      "duration_ms": 291792,
+      "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
+      "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 240407,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
         "url": "https://open.spotify.com/album/45yM3JJAseGk0Kive5LBSW"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 240407,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Blu",
-        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
-      },
-      "artists": [
-        {
-          "name": "Sara Zozaya",
-          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
-        }
-      ],
-      "duration_ms": 221972,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Just Wanna Live Some",
         "url": "https://open.spotify.com/album/0PGfRDzCPVoOjdVj8X22fB"
       },
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Pythagoras",
-        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
+        "name": "Blu",
+        "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
       },
       "artists": [
         {
-          "name": "Pyramids",
-          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
+          "name": "Sara Zozaya",
+          "url": "https://open.spotify.com/artist/0kJdtWJm7Aqpdk7hn7AN8n"
         }
       ],
-      "duration_ms": 314500,
-      "name": "Pretty Pigs",
-      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
+      "duration_ms": 221972,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "BOH\u00c8ME",
+        "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "BOH\u00c8ME",
-        "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
+        "name": "Pythagoras",
+        "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
       },
       "artists": [
         {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+          "name": "Pyramids",
+          "url": "https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6"
         }
       ],
-      "duration_ms": 261818,
-      "name": "Resistance",
-      "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
+      "duration_ms": 314500,
+      "name": "Pretty Pigs",
+      "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Cosplayer (export per Guido)",
-        "url": "https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO"
-      },
-      "artists": [
-        {
-          "name": "Mofw",
-          "url": "https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH"
-        }
-      ],
-      "duration_ms": 238652,
-      "name": "Cosplayer (export per Guido)",
-      "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "HM2BB",
         "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
       },
@@ -1199,18 +1167,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Blue Veil",
-        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
       },
       "artists": [
         {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
         }
       ],
-      "duration_ms": 259402,
-      "name": "Phase I",
-      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1235,6 +1203,38 @@
       "duration_ms": 185992,
       "name": "BLKHISTORY",
       "url": "https://open.spotify.com/track/3XU7Lxuep5g6VBrmtXmjTD"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Cosplayer (export per Guido)",
+        "url": "https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO"
+      },
+      "artists": [
+        {
+          "name": "Mofw",
+          "url": "https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH"
+        }
+      ],
+      "duration_ms": 238652,
+      "name": "Cosplayer (export per Guido)",
+      "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Blue Veil",
+        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        }
+      ],
+      "duration_ms": 259402,
+      "name": "Phase I",
+      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Spaces In Between",
+        "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
+      },
+      "artists": [
+        {
+          "name": "Michael J. Blood",
+          "url": "https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "AKNEW",
+      "url": "https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
         "url": "https://open.spotify.com/album/2hgThzc4MM3pw3b0tWpG7q"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 154025,
       "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
       "url": "https://open.spotify.com/track/0G2JzjUz1a3BXXcNZ5We8e"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
-      },
-      "artists": [
-        {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Spaces In Between",
-        "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
       },
       "artists": [
         {
-          "name": "Michael J. Blood",
-          "url": "https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT"
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
         }
       ],
-      "duration_ms": 208695,
-      "name": "AKNEW",
-      "url": "https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
+      "duration_ms": 221960,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1391,6 +1375,22 @@
       "duration_ms": 196340,
       "name": "Thinking about you",
       "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Zabrisky",
-        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
-      },
-      "artists": [
-        {
-          "name": "Real Timpani",
-          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Zabrisky",
-      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
         "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
       },
@@ -1571,6 +1555,38 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Scintille",
+        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
+      },
+      "artists": [
+        {
+          "name": "Ehua",
+          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Scintille",
+      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Zabrisky",
+        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
+      },
+      "artists": [
+        {
+          "name": "Real Timpani",
+          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Zabrisky",
+      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "De lijn der verwachting (remixes)",
         "url": "https://open.spotify.com/album/6ZaBUEnJzsRZMiQIMtKKTU"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 217570,
       "name": "De lijn der verwachting - Willem Ardui remix",
       "url": "https://open.spotify.com/track/4RcEJ02h5cQx7cE8BhtTvj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Scintille",
-        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
-      },
-      "artists": [
-        {
-          "name": "Ehua",
-          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Scintille",
-      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Acrobata",
-        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
-      },
-      "artists": [
-        {
-          "name": "Bono / Burattini",
-          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
-        }
-      ],
-      "duration_ms": 296222,
-      "name": "Acrobata",
-      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Iti Eta No",
         "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 285738,
       "name": "The Scrollkeeper",
       "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Acrobata",
+        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "duration_ms": 296222,
+      "name": "Acrobata",
+      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
     },
     {
       "added_at": "2026-03-06 05:00:16",

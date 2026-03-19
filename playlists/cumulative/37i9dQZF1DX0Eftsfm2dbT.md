@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kohjiya \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,354 songs - 4 day 22 hr 32 min
+2,355 songs - 4 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [Michikusa](https://open.spotify.com/track/0RRJ9Z80mZYLo2KVD46Nqm) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [Michikusa](https://open.spotify.com/album/66h6iU86pXPAw7rTVSVmL7) | 2:28 | 2025-06-10 | 2025-07-16 |
 | [Mid Night Emotions](https://open.spotify.com/track/2TzpqaSmOQNr3Tjcqnm9Xg) | [jellyy](https://open.spotify.com/artist/5dSu6mjOtLlmE209ifesMt) | [Mid Night Emotions](https://open.spotify.com/album/1DoQzfry91oDPIpilYo27V) | 2:50 | 2026-01-20 | 2026-02-11 |
 | [Mid Spiral PRO](https://open.spotify.com/track/1lTsy9qWOSRn8r2f7rI33P) | [Flat Line Classics](https://open.spotify.com/artist/1KHsC5YEyWGgskwjU4tVHa) | [Mid Spiral PRO](https://open.spotify.com/album/2SGgoTir9Qq6oaIJubtoEb) | 2:57 | 2025-07-23 | 2025-08-27 |
+| [Midnight Blue](https://open.spotify.com/track/2mKYdbvULz6V0VNthBIiDB) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Midnight Blue](https://open.spotify.com/album/0cVhf99iCTwLAIOudXGezv) | 2:48 | 2026-03-18 |  |
 | [Midnight Hours](https://open.spotify.com/track/63WhMnznaaxJ0HS5pyji37) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74), [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx) | [Midnight Hours](https://open.spotify.com/album/3wCgSJveo1Scs1QAqiiDrI) | 2:00 | 2025-01-24 | 2025-02-19 |
 | [Midnight Hours](https://open.spotify.com/track/6DJkF1IGxkWEOn8eYOtDLL) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74), [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx) | [Midnight Hours](https://open.spotify.com/album/2qvGeXt9okSWD7C36sIkYe) | 2:00 | 2025-01-21 | 2025-01-25 |
 | [Miite](https://open.spotify.com/track/3uWZxSe9r4YvDL0k34Fc0d) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Miite](https://open.spotify.com/album/4RZ2DtH747A5CX5mAGEAV0) | 2:35 | 2023-10-12 | 2023-11-16 |
@@ -1761,6 +1762,7 @@
 | [STIM UP](https://open.spotify.com/track/2wV20D9Kq8duVN08eMxPUz) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [STIM UP](https://open.spotify.com/album/3uT0BgWtvQaJ2ZfMGIYIF8) | 2:51 | 2026-01-15 | 2026-02-25 |
 | [Stop Idling \(feat\. C.O.S.A\. & MIYACHI\)](https://open.spotify.com/track/6lBPYsejwCH0tK5cd184rk) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [THE MESSAGE 6.5](https://open.spotify.com/album/3ajbJDmrgjUqMQ4meNLVKa) | 3:02 | 2025-04-08 | 2025-06-14 |
 | [STORY](https://open.spotify.com/track/1NdN9PSkvGHJp3ildDZO5C) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [STORY](https://open.spotify.com/album/3oUpGpNxRqby4ruqauzTAl) | 4:12 | 2025-09-23 | 2025-10-24 |
+| [Straight Up!](https://open.spotify.com/track/5rShGpJJ6bL4WGn7GSgejt) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [Some Dad Rap Songs](https://open.spotify.com/album/6SMYLJySVglQ7qzcGZ7A2w) | 3:00 | 2026-03-17 |  |
 | [Stray Dog](https://open.spotify.com/track/1cXcjvLpbei2iiPaNGZYoc) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U), [荘子it](https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T), [BSC](https://open.spotify.com/artist/1OuOdwOYODLPpExkgLL76y) | [Chimera](https://open.spotify.com/album/40IVmdPsW41lwlpnqARYNl) | 3:34 | 2025-01-07 | 2025-01-29 |
 | [STREET ELEGY](https://open.spotify.com/track/6LbarCXGjbdbSgwVIBztc9) | [田中雄士](https://open.spotify.com/artist/1CN5inxgDjvGiJjDO2iVj2), [RYKEYDADDYDIRTY](https://open.spotify.com/artist/6ABUnz5K0dZNw7svuQitJb) | [STREET ELEGY](https://open.spotify.com/album/3OBIEuQSXCnVAnoeM3tDjm) | 4:30 | 2024-06-06 | 2024-06-19 |
 | [STREET PAIN](https://open.spotify.com/track/1wUiccguJBdBWQOsf98ZK1) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [STREET PAIN](https://open.spotify.com/album/6ohL3LKXPvrSxZbFrlyFOc) | 2:38 | 2023-11-16 | 2023-12-20 |
@@ -1906,7 +1908,6 @@
 | [Tour Life \-Ai\-](https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Ai Final](https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2) | 2:37 | 2025-04-15 | 2025-05-09 |
 | [town/city \(feat\. M.O.C, RH JayDee & Tete\)](https://open.spotify.com/track/2GFJDs1B4eNnGIBd1XSJ5s) | [RIVER SIDE HOLLYWOOD](https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL), [M.O.C](https://open.spotify.com/artist/2fDwWqmgXuPoOrCx7DDV6d), [RH JayDee](https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [RSH MIXTAPE 2](https://open.spotify.com/album/6jSXDc6Hbf2la9BPbxYZOo) | 2:37 | 2025-09-17 | 2025-10-24 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-21 | 2023-10-04 |
-| [Track 3](https://open.spotify.com/track/5rShGpJJ6bL4WGn7GSgejt) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md) | [Some Dad Rap Songs](https://open.spotify.com/album/6SMYLJySVglQ7qzcGZ7A2w) | 0:00 | 2026-03-17 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-06-26 |
 | [Train Train Train](https://open.spotify.com/track/5chrKpLpQwMyECA1MVntyC) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Train Train Train](https://open.spotify.com/album/4QafbOrEJvksjDAp8YiSrl) | 3:42 | 2024-09-19 | 2024-09-25 |
 | [TRAP](https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz), [RAFU](https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk), [wattz](https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG), [ebunii](https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF) | [PLM](https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5) | 2:45 | 2025-11-05 | 2025-11-19 |

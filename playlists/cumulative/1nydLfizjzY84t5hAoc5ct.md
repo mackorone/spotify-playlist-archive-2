@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-178 songs - 11 hr 3 min
+179 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Mr\. Nice Guy](https://open.spotify.com/track/0MOSKnO19vgPMhc9QzFgUI) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [Mr\. Nice Guy](https://open.spotify.com/album/3Mi9MfaBkL6nrJyHcobl8R) | 4:16 | 2025-11-16 | 2026-02-02 |
 | [My Friend Slim](https://open.spotify.com/track/2APYbWnkaxWs9psqqGeU6H) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Nick Broster](https://open.spotify.com/artist/2aAF7VGdZ3LFMGhEvKPXsp) | [Broster & West](https://open.spotify.com/album/4RznIm7ujwdFFt24irOUXJ) | 3:35 | 2026-02-01 | 2026-02-09 |
 | [Name for Yourself](https://open.spotify.com/track/6PzzFcYrjU2vhPQIM3fH3Z) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [Name for Yourself](https://open.spotify.com/album/2Cj2ojLwZsv3bhfvGe9WIM) | 3:18 | 2025-11-16 | 2025-12-01 |
+| [Nausea](https://open.spotify.com/track/0dJFoXdKvpc3A8aLN9GgV4) | [Flair](https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4) | [Nausea](https://open.spotify.com/album/58SUdGApxb0m7QUGZY4YvI) | 3:27 | 2026-03-18 |  |
 | [No Sound](https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 2:57 | 2025-12-07 | 2025-12-19 |
 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 | 2026-03-08 |  |
 | [November](https://open.spotify.com/track/6saWWilud85AtEAxOhEYKj) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [November](https://open.spotify.com/album/0WSEMdQ7LyZFXiDP38dmKL) | 3:42 | 2025-11-23 | 2026-02-02 |

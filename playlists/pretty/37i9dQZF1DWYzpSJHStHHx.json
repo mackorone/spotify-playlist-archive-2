@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483769,
+  "num_followers": 483772,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
-      },
-      "artists": [
-        {
-          "name": "Peach Fur",
-          "url": "https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz"
-        }
-      ],
-      "duration_ms": 233999,
-      "name": "Preloved",
-      "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "All Out of Good Days",
         "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 157065,
       "name": "Lying Through Their Teeth",
       "url": "https://open.spotify.com/track/1fUtTyrHCDELiSoUE2zw7h"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/2xhB8gE9KEr2fjCZoNzVDr"
+      },
+      "artists": [
+        {
+          "name": "Peach Fur",
+          "url": "https://open.spotify.com/artist/7HeH2mQJ6HWzZK7PZEBWxz"
+        }
+      ],
+      "duration_ms": 233999,
+      "name": "Preloved",
+      "url": "https://open.spotify.com/track/6uzUzGdIUdxHyup4fNAl1J"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "News of the Universe",
-        "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
-      },
-      "artists": [
-        {
-          "name": "La Luz",
-          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
-        }
-      ],
-      "duration_ms": 212075,
-      "name": "Poppies",
-      "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Mystic Braves",
         "url": "https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 243840,
       "name": "Mystic Rabbit",
       "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "News of the Universe",
+        "url": "https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft"
+      },
+      "artists": [
+        {
+          "name": "La Luz",
+          "url": "https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3"
+        }
+      ],
+      "duration_ms": 212075,
+      "name": "Poppies",
+      "url": "https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "So Excited",
-        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 240486,
-      "name": "So Excited",
-      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Santino Surfers",
         "url": "https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Soft Rock Band",
-        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+        "name": "So Excited",
+        "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
       },
       "artists": [
         {
-          "name": "Good Morning",
-          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
         }
       ],
-      "duration_ms": 492280,
-      "name": "Soft Rock Band",
-      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+      "duration_ms": 240486,
+      "name": "So Excited",
+      "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -571,6 +555,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Soft Rock Band",
+        "url": "https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m"
+      },
+      "artists": [
+        {
+          "name": "Good Morning",
+          "url": "https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ"
+        }
+      ],
+      "duration_ms": 492280,
+      "name": "Soft Rock Band",
+      "url": "https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "State Of Hawaii",
-        "url": "https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 255883,
-      "name": "State Of Hawaii",
-      "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Existential Playboy",
         "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 134386,
       "name": "always learning not what to do",
       "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "State Of Hawaii",
+        "url": "https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 255883,
+      "name": "State Of Hawaii",
+      "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 231950,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Ooooo",
         "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 154811,
       "name": "Alright, Alright",
       "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 231950,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Right or Wrong",
-        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 207665,
-      "name": "Right or Wrong",
-      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Pacific Ocean",
         "url": "https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Dear Grandpa",
-        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+        "name": "Right or Wrong",
+        "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
       },
       "artists": [
         {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
         }
       ],
-      "duration_ms": 178501,
-      "name": "Dear Grandpa",
-      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
+      "duration_ms": 207665,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1063,6 +1047,22 @@
       "duration_ms": 205376,
       "name": "Couch Sex",
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Dear Grandpa",
+        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Dear Grandpa",
+      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Middleman / Do The Sloth",
-        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
-      },
-      "artists": [
-        {
-          "name": "Straight Arrows",
-          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
-        }
-      ],
-      "duration_ms": 143947,
-      "name": "Middleman",
-      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Postcode Lover",
         "url": "https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 165589,
       "name": "Postcode Lover",
       "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Middleman / Do The Sloth",
+        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "duration_ms": 143947,
+      "name": "Middleman",
+      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

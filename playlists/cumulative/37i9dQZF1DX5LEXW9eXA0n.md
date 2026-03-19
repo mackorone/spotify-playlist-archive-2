@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 지아 \(Zia\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,700 songs - 4 day 14 hr 29 min
+1,702 songs - 4 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1093,7 +1093,7 @@
 | [POWER OF LOVE](https://open.spotify.com/track/37aWSOZ4Oihn2bfMiD5neP) | [ALICE](https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5) | [POWER OF LOVE](https://open.spotify.com/album/2wKTTgsFgEdOKiyFEOlbNs) | 3:41 | 2022-05-04 | 2022-05-17 |
 | [Prayer](https://open.spotify.com/track/2u9QZoVx2664QDOeefNG9U) | [GEMSTONE](https://open.spotify.com/artist/4dx29FxKF5aK2lUTY1bU5V) | [Prayer](https://open.spotify.com/album/4JAoW9GUMR1tpVix8kwsvg) | 4:48 | 2024-06-17 | 2024-07-12 |
 | [Prayer](https://open.spotify.com/track/6sgQEjL4Ii2ycEFoTWI5NQ) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Called Love](https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD) | 3:46 | 2025-10-30 | 2026-03-04 |
-| [Prayer](https://open.spotify.com/track/4H2LzU0FcdA3MrIkk4RSRD) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Moon River OST Part.2](https://open.spotify.com/album/2vogYzQBCeCNHxECx5e9l7) | 4:12 | 2025-11-10 |  |
+| [Prayer](https://open.spotify.com/track/4H2LzU0FcdA3MrIkk4RSRD) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Moon River OST Part.2](https://open.spotify.com/album/2vogYzQBCeCNHxECx5e9l7) | 4:12 | 2025-11-10 | 2026-03-19 |
 | [Presentiment](https://open.spotify.com/track/73vxAVH2iJfEofp8gKfh55) | [Son June Hyuk](https://open.spotify.com/artist/1FK7wpPPGDbPiPiM5lx5Re) | [Presentiment](https://open.spotify.com/album/39szLv79bxbtePUKOPAqZD) | 3:48 | 2023-07-17 | 2023-10-17 |
 | [Press](https://open.spotify.com/track/0M6VybCyWscrHKcf8ZIzgU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Press \(re;code Episode Ⅸ\)](https://open.spotify.com/album/4yOOZtIGZaX2uEBXUjl5s9) | 3:57 | 2022-01-26 | 2022-02-11 |
 | [Pretend](https://open.spotify.com/track/27e5QwFSRklIY7gfS1U6JP) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [The potato lab, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/05Q2jbEdlPcu1La61MH4tD) | 3:20 | 2025-03-31 | 2025-06-23 |
@@ -1248,7 +1248,7 @@
 | [Starlight \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/track/4jF30l1l7QsJA9AEuQgayG) | [Youngjae](https://open.spotify.com/artist/5b51dg40KfbVvr60Urn1O6) | [Starlight \(From "SHOW MUSICAL Dream High"\)](https://open.spotify.com/album/1V6tpkhkFaFo6C3xrbRVL8) | 5:26 | 2025-01-11 | 2025-04-01 |
 | [Starry Eyes](https://open.spotify.com/track/0pdbDFQrD8Aqa5J5fU0cb5) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Starry Eyes](https://open.spotify.com/album/6KYvOpG0MkGWzyutrcqSpy) | 3:44 | 2022-07-07 | 2022-09-06 |
 | [Starry road](https://open.spotify.com/track/6TtHvpmgStT8Stx6nndgQI) | [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Starry road with KozyPop](https://open.spotify.com/album/6NyqQ9jXzmnxiH4S1rWVJC) | 4:03 | 2022-07-07 | 2022-08-19 |
-| [Stars](https://open.spotify.com/track/7A2QVfKD6HyClAPITEPUcy) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [unloved](https://open.spotify.com/album/3F8gdyKwlc9BCJw6b03uW9) | 3:45 | 2025-11-28 |  |
+| [Stars](https://open.spotify.com/track/7A2QVfKD6HyClAPITEPUcy) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [unloved](https://open.spotify.com/album/3F8gdyKwlc9BCJw6b03uW9) | 3:45 | 2025-11-28 | 2026-03-19 |
 | [Stars](https://open.spotify.com/track/5Ep3YOn93Z5J2z4hjmxoN5) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Shine](https://open.spotify.com/album/41OYa62HOJVT8pEczl84vJ) | 3:20 | 2024-12-05 | 2025-05-21 |
 | [Stay](https://open.spotify.com/track/6fVIZMLDp8ajfb7A9Dt3RD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/082dja5H3X7Cu669XwXF0g) | 4:00 | 2021-12-23 | 2022-05-13 |
 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 | 2021-12-23 | 2022-07-05 |
@@ -1269,6 +1269,7 @@
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still In The Dream](https://open.spotify.com/track/3bGqReIYmdiHYoUfMDQAKX) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/7r1FskUKyAYGVfw1u3b4MD) | 4:01 | 2026-01-29 |  |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-07-07 | 2023-10-20 |
+| [Still Thinking of You](https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Still Thinking of You](https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga) | 4:40 | 2026-03-18 |  |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-17 | 2023-11-16 |
 | [Still, I Like You](https://open.spotify.com/track/5psJ44acTdUgdQFdNd3mmT) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [Still, I Like You](https://open.spotify.com/album/3kMsExLPq6z8zFJmY8sRSq) | 3:24 | 2025-08-18 | 2025-12-03 |
 | [Stitching](https://open.spotify.com/track/2FyMzBBr9xI0GL2du2KJsI) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Stitch](https://open.spotify.com/album/49l21eblkkpfozaTjlpphW) | 2:56 | 2024-11-20 | 2025-07-29 |
@@ -1375,6 +1376,7 @@
 | [The Song](https://open.spotify.com/track/1TDlDMp9J4cpHj77DETvVb) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Together](https://open.spotify.com/album/0Ex4iuYoVnF8IBrBBIfYWU) | 4:08 | 2022-02-23 | 2022-07-08 |
 | [The Sound Of Rain](https://open.spotify.com/track/3FQzdACTmhY6q0W1eXtj9i) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Singing Yoon Do Hyun](https://open.spotify.com/album/55moFj46U2geTKCj35tZXE) | 4:27 | 2024-03-15 | 2024-07-12 |
 | [The star](https://open.spotify.com/track/6dJE26yEAPMqGF5U6HaHbC) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [Petra](https://open.spotify.com/artist/3VWH0jNShIR12uJ55lchbw) | [The star](https://open.spotify.com/album/7srtgA0xnFqNLnrAnfjsQg) | 4:03 | 2022-12-26 | 2023-02-09 |
+| [The story never ends \(with Hailey Jeong\)](https://open.spotify.com/track/3CBO1W2vQc7Kc4d88hjiSF) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Hailey Jeong](https://open.spotify.com/artist/7EhVfkEbLB64DCZv7Gnqjl) | [The story never ends \(with Hailey Jeong\)](https://open.spotify.com/album/39pJ4twhqkZ4brlsIAaLdl) | 3:55 | 2026-03-18 |  |
 | [The Story of Us](https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Story of Us](https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy) | 3:36 | 2022-10-06 | 2023-01-21 |
 | [The Truth Untold](https://open.spotify.com/track/48XfojJC87VKLlUotYV0Gm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/2jJfnAZE6IG3oYnUv2eCj4) | 4:02 | 2021-12-20 | 2022-03-01 |
 | [The unbearable lightness of being](https://open.spotify.com/track/381Qd2YpkNvAbKIlkjyGKb) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [The unbearable lightness of being](https://open.spotify.com/album/4X5nMNxYiCVroaXzEsUfTh) | 4:18 | 2022-07-07 | 2022-08-13 |

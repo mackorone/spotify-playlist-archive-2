@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 94660,
+  "num_followers": 94672,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Language & Perspective",
-        "url": "https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 182518,
-      "name": "Cardiac Arrest",
-      "url": "https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Secondhand Rapture",
         "url": "https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 226373,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 182518,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
         "name": "Muchacho De Lujo (Deluxe Edition)",
         "url": "https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
-      },
-      "artists": [
-        {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/41C5iULlHU9sMYiekI75Pn"
       },
@@ -1632,9 +1632,9 @@
           "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
         }
       ],
-      "duration_ms": 309590,
-      "name": "Howling",
-      "url": "https://open.spotify.com/track/4ySB5vX2121c5L705ZbZTq"
+      "duration_ms": 268455,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/1hrar0wbUsvgSUpUXR5Wq0"
     }
   ],
   "unique_name": "Best of Indie 2013",

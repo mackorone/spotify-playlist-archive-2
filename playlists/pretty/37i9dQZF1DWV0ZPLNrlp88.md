@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,609 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,608 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 37 | [ポスト春](https://open.spotify.com/track/5A82kTVYFGf6nVXlqpcJxp) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 3:19 |
 | 38 | [おかえりジョニー](https://open.spotify.com/track/14QnHq6GzPH9kFtR4P402w) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [おかえりジョニー](https://open.spotify.com/album/2SPmPLWD9dUbhNtU1mRez0) | 4:23 |
 | 39 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 |
-| 40 | [幸せの色 \(piano ver.\)](https://open.spotify.com/track/2Bv4lRDnkS8kGESoyt4THy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [幸せの色 \(piano ver.\)](https://open.spotify.com/album/4qEVU1Zfr3QtHZ1kgAJHaB) | 4:24 |
+| 40 | [幸せの色 \(Piano Ver.\)](https://open.spotify.com/track/2Bv4lRDnkS8kGESoyt4THy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [幸せの色 \(Piano Ver.\)](https://open.spotify.com/album/4qEVU1Zfr3QtHZ1kgAJHaB) | 4:24 |
 
 Snapshot ID: `AAAAAHfgr/ZdT99XUSjxTxx18mB7xiye`

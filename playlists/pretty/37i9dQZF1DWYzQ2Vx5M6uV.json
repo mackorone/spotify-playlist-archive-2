@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: ARIA VEGA & Ryan Castro",
-  "num_followers": 142911,
+  "num_followers": 142929,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -531,42 +531,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "CALOR",
-        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "CALOR",
-      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "ALOH ALOH",
-        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 136571,
-      "name": "ALOH ALOH",
-      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -587,6 +551,42 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "ALOH ALOH",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 136571,
+      "name": "ALOH ALOH",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "RAM\u00c9",
-        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 161788,
-      "name": "RAM\u00c9",
-      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "RAM\u00c9",
+        "url": "https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 161788,
+      "name": "RAM\u00c9",
+      "url": "https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Un Trip",
-        "url": "https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        }
-      ],
-      "duration_ms": 158010,
-      "name": "Un Trip",
-      "url": "https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "X Siempre",
         "url": "https://open.spotify.com/album/4503riheEdxWQTNSVZItgF"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 139428,
       "name": "X Siempre",
       "url": "https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Un Trip",
+        "url": "https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "duration_ms": 158010,
+      "name": "Un Trip",
+      "url": "https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "AKI KIKI",
-        "url": "https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF"
-      },
-      "artists": [
-        {
-          "name": "RICCII",
-          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
-        }
-      ],
-      "duration_ms": 127256,
-      "name": "AKI KIKI",
-      "url": "https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "NoNoNo",
         "url": "https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "AKI KIKI",
+        "url": "https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF"
+      },
+      "artists": [
+        {
+          "name": "RICCII",
+          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
+        }
+      ],
+      "duration_ms": 127256,
+      "name": "AKI KIKI",
+      "url": "https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "Afro Vibes (2024-07-19)",
         "url": "https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ"
       },
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "El Problema (2020)",
+        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 150865,
+      "name": "El Problema (2020)",
+      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 131022,
       "name": "Normal",
       "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "El Problema (2020)",
-        "url": "https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 150865,
-      "name": "El Problema (2020)",
-      "url": "https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Yeye",
-        "url": "https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Yeye",
-      "url": "https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Momento Zero",
         "url": "https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 157699,
       "name": "Momento Zero",
       "url": "https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Yeye",
+        "url": "https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Yeye",
+      "url": "https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "a ti te matan las ganas",
+        "url": "https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        }
+      ],
+      "duration_ms": 149340,
+      "name": "a ti te matan las ganas",
+      "url": "https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "C\u00f3motu",
         "url": "https://open.spotify.com/album/3YSoXxrDu3IfLMeqILmTNk"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 164848,
       "name": "C\u00f3motu",
       "url": "https://open.spotify.com/track/0LJTp3MB60HmW6YaXGckPd"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "a ti te matan las ganas",
-        "url": "https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        }
-      ],
-      "duration_ms": 149340,
-      "name": "a ti te matan las ganas",
-      "url": "https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO"
     },
     {
       "added_at": "2026-03-06 05:00:17",

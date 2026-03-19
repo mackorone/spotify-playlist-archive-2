@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-570 songs - 1 day 21 hr 33 min
+572 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Echoes](https://open.spotify.com/track/0yQwDOqm8IfdsIQ4mI9NYC) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Echoes](https://open.spotify.com/album/5pGxvDYSbfj0DBGkUIeALN) | 5:31 | 2022-07-06 | 2025-06-07 |
 | [Ecovocative](https://open.spotify.com/track/0CFgpPfYd1KJRNMLEpatzL) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/6mfZkiUX4cK5rTVfKCJFqW) | 3:48 | 2021-10-06 | 2023-10-16 |
 | [Ecovocative](https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV) | 3:48 | 2021-10-06 | 2025-07-17 |
-| [El Fantasma](https://open.spotify.com/track/0tlweItM8lFTa4vOtictpB) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [El Fantasma / El Espíritu](https://open.spotify.com/album/1hKrasHK5FDOw0CwGtwOtl) | 6:22 | 2026-01-30 |  |
+| [El Fantasma](https://open.spotify.com/track/0tlweItM8lFTa4vOtictpB) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [El Fantasma / El Espíritu](https://open.spotify.com/album/1hKrasHK5FDOw0CwGtwOtl) | 6:22 | 2026-01-30 | 2026-03-19 |
 | [Elktorn](https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Elktorn / All I Could Think Of](https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw) | 2:38 | 2026-03-06 |  |
 | [Elysian Heights](https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Azure](https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4) | 4:06 | 2022-01-13 | 2025-07-17 |
 | [Emergence in Nature](https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2) | [Hannah Peel](https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o) | [Fir Wave](https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV) | 4:23 | 2021-10-06 | 2025-07-17 |
@@ -389,6 +389,7 @@
 | [Rejser](https://open.spotify.com/track/2zHDLkyEqwup69ZCR2mOAX) | [Emil Mark](https://open.spotify.com/artist/1qlDl83uNVefTibpCIvCoa) | [Rejser](https://open.spotify.com/album/0qA1RVPxi208LwgJU8p8X0) | 4:46 | 2026-02-04 |  |
 | [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2025-07-17 |
 | [Remaining](https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK) | [Niels Orens](https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu) | [Remaining](https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI) | 4:13 | 2026-02-27 |  |
+| [Remove Fear](https://open.spotify.com/track/3gp09N5BSTauvrPBEVtwTd) | [John Bryars](https://open.spotify.com/artist/11lKgHtYOHyg6QTafxD7Id) | [Invariant](https://open.spotify.com/album/03ybXhJPVcgzaG7KbCs8uk) | 2:54 | 2026-03-18 |  |
 | [Replica](https://open.spotify.com/track/4JvZ9aZDSG1vQigKPHGpaG) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Strange Forms](https://open.spotify.com/album/0gnnKS26a9maxCXGwuwAWn) | 4:48 | 2026-01-30 |  |
 | [Resonances From The D \- Bonus Track](https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: Rhythmic Resonance \(Mixed\)](https://open.spotify.com/album/4GR1hk1LnQ7Qq4ZWonzfiw) | 8:20 | 2025-05-20 | 2025-10-25 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 | 2025-07-17 |
@@ -442,6 +443,7 @@
 | [Soul Seeker](https://open.spotify.com/track/02YpqXX1eHR1eYjxIdFR0A) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Soul Seeker](https://open.spotify.com/album/4Fm9TGaxqrQFe9gF5TIsUq) | 5:15 | 2026-01-27 |  |
 | [Spider Ballad](https://open.spotify.com/track/2om8q3alq2Fl5fLIpKy55k) | [Kieran Hebden](https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E), [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Spider Ballad](https://open.spotify.com/album/5DIsD0YTxK5K98uTT2I8kD) | 7:35 | 2025-07-23 |  |
 | [Split Second](https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Yuada](https://open.spotify.com/artist/0FF4GvpiC3VwColbz5k2jJ) | [Split Second](https://open.spotify.com/album/1GTXGMsfJKBZxthNLhVQvO) | 5:22 | 2025-06-28 | 2025-10-18 |
+| [Spotless Mind](https://open.spotify.com/track/7bM0OKv1ieQDMd6FnuGVXU) | [so only](https://open.spotify.com/artist/2L37QXHmMrvJXojixg3tV7) | [Spotless Mind / Just This One](https://open.spotify.com/album/3alMLhIOz5swCCfAuEREJW) | 4:22 | 2026-03-18 |  |
 | [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 | 2025-07-17 |
 | [Stardew](https://open.spotify.com/track/0FHKJM8Ww5vHtPNZyeFjLX) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Starlight Divergence](https://open.spotify.com/album/5bDA2CyLvM7QOGp5TyDl6u) | 3:17 | 2025-08-15 | 2026-02-19 |
 | [Stardust](https://open.spotify.com/track/0WOIqQU4TH6S4PEgiJ9CLD) | [Elision](https://open.spotify.com/artist/4Jgr50VvxX0EFq5fxIoVC0) | [Press Play](https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ) | 2:05 | 2021-10-28 | 2025-07-17 |
@@ -541,7 +543,7 @@
 | [Walking Through Still Air](https://open.spotify.com/track/6XrnIr2rEUh0689dUNLMkR) | [Booker Stardrum](https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5) | [Walking Through Still Air](https://open.spotify.com/album/6kfaYNYtxLrVh5vmBNf2vw) | 5:22 | 2021-10-06 | 2025-07-17 |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-06 | 2025-06-07 |
 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 | 2023-03-03 | 2025-07-26 |
-| [Waterways](https://open.spotify.com/track/0cn24Uv7Za2OJ9kAcmrwqA) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [A Rhythm Protects One](https://open.spotify.com/album/66anS96MISnHJV4K5H2y7M) | 8:25 | 2025-11-03 |  |
+| [Waterways](https://open.spotify.com/track/0cn24Uv7Za2OJ9kAcmrwqA) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [A Rhythm Protects One](https://open.spotify.com/album/66anS96MISnHJV4K5H2y7M) | 8:25 | 2025-11-03 | 2026-03-19 |
 | [wavebeats \- dub](https://open.spotify.com/track/3OkRcIPK4wQwyHKShEncvp) | [Musicentrydelete](https://open.spotify.com/artist/1LM4iUWXAb1ZocvlVOAR7i) | [Selfless](https://open.spotify.com/album/5zZleQTvgmrr10C0KxhUMD) | 5:34 | 2025-11-28 |  |
 | [Waxcap](https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:10 | 2025-11-30 |  |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2021-10-06 | 2022-07-27 |

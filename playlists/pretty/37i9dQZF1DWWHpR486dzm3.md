@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,486 likes - 108 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,489 likes - 108 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 45 | [Mitä sanoisin](https://open.spotify.com/track/25SoKwDPWrwyHncMPNPg3t) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Mitä sanoisin](https://open.spotify.com/album/6EKFjeZ4Wsk7gIZgofNW9M) | 3:17 |
 | 46 | [Sydän auki](https://open.spotify.com/track/2wbmOpQNbyDId4SUH6Pdgp) | [Ylva Haru](https://open.spotify.com/artist/5kPC48lvYkLbKkXbbVWees) | [Sydän auki](https://open.spotify.com/album/3593RcgGdPW73DwEeB2YUe) | 4:24 |
 | 47 | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4), [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/album/6rX7ExQmzcWyuqPdKjZXwA) | 2:57 |
-| 48 | [Ehkä elämä voittaa](https://open.spotify.com/track/2zqJMNEDXHSFLFInkToHBb) | [Risto](https://open.spotify.com/artist/0EYsqhRnTOHHV222MPpn4H) | [Ehkä elämä voittaa](https://open.spotify.com/album/49Tp8wjwhK3uFoP0rYArC8) | 3:04 |
+| 48 | [Ehkä elämä voittaa](https://open.spotify.com/track/2zqJMNEDXHSFLFInkToHBb) | [Risto](https://open.spotify.com/artist/0EYsqhRnTOHHV222MPpn4H) | [Ehkä elämä voittaa](https://open.spotify.com/album/49Tp8wjwhK3uFoP0rYArC8) | 3:05 |
 | 49 | [Riivana](https://open.spotify.com/track/1BceEqG69NNs05az1BeG08) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Riivana](https://open.spotify.com/album/5H5gfsg2DRzbCEEsVgjJsN) | 2:37 |
 | 50 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
 | 51 | [Romanssi](https://open.spotify.com/track/6nb2FSfXsVLdhWErcBX2ea) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Romanssi](https://open.spotify.com/album/1MhBEolokjsYzsm5nk0kH1) | 2:45 |

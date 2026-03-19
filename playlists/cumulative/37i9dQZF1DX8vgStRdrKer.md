@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-744 songs - 2 day 15 hr 31 min
+745 songs - 2 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Jesus Oh](https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL) | 4:15 | 2023-12-01 | 2024-03-16 |
 | [Jesus Power](https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [Lydia Lifted](https://open.spotify.com/artist/1YvQlV2o6z5XvcAeKCHvZX) | [Jesus Power](https://open.spotify.com/album/5p3mZ98ws7KXGf9CZsF5ae) | 2:52 | 2025-08-15 | 2025-09-27 |
 | [Jesus Reigns \(Remix\) \(feat\. Khaya Mthethwa\)](https://open.spotify.com/track/2ghE8KoNrcqUUTBERLTdQP) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Adoration](https://open.spotify.com/album/3YK4Pkalw9PrD92s6Kmjdk) | 6:33 | 2025-07-18 | 2025-11-07 |
-| [Jesus Revealed \(No Eye Has Seen\)](https://open.spotify.com/track/4mZfvZBI8J9tyf58elL9Bc) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Jesus Revealed \(No Eye Has Seen\)](https://open.spotify.com/album/3IIA8smPWhZuEzG52CxVnE) | 9:20 | 2025-06-13 |  |
+| [Jesus Revealed \(No Eye Has Seen\)](https://open.spotify.com/track/4mZfvZBI8J9tyf58elL9Bc) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Jesus Revealed \(No Eye Has Seen\)](https://open.spotify.com/album/3IIA8smPWhZuEzG52CxVnE) | 9:20 | 2025-06-13 | 2026-03-19 |
 | [Jesus the Doer](https://open.spotify.com/track/7AdrYZPMBEjYIdjSyovMQ9) | [Esther Jonathan](https://open.spotify.com/artist/2VwZIHK1W8Izjud3aASxA9) | [Jesus the Doer](https://open.spotify.com/album/2XVvkwEkVy4JIOxvABUKNN) | 8:02 | 2025-11-14 | 2025-12-23 |
 | [Jesus We Lift Up Your Name \- Acoustic version](https://open.spotify.com/track/3rJ4hSkr935lC8ozvxald2) | [Shola Aliogo](https://open.spotify.com/artist/5flFoFrCfbZ1e0EzD5EePR) | [Jesus We Lift Up Your Name \(Acoustic version\)](https://open.spotify.com/album/4g2FiguHttJjfLKtCJgQHD) | 2:18 | 2025-06-20 | 2025-06-27 |
 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 | 2024-03-08 | 2025-06-27 |
@@ -459,6 +459,7 @@
 | [Moyo Wanga](https://open.spotify.com/track/3mYapvHCLZ9udtGPiQfSyU) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP) | [Moyo Wanga](https://open.spotify.com/album/1MDz8Ruc8nq72ZQh5IAjO0) | 6:21 | 2025-09-12 | 2026-01-15 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-10-20 | 2023-11-27 |
 | [My Daddy, My Daddy \- Live at AiiiH \- As It Is In Heaven](https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [My Daddy, My Daddy \(Live at AiiiH \- As It Is In Heaven\)](https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ) | 13:32 | 2023-09-15 | 2024-03-16 |
+| [My Desire \(Ps\. 42:1\)](https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [My Desire \(Ps\. 42:1\)](https://open.spotify.com/album/5cNYXLKbqvzBfzxyzkHaqn) | 6:28 | 2026-03-13 |  |
 | [My Future and Hope](https://open.spotify.com/track/2yYmdb2fPecJFrS9erTpvb) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:41 | 2024-03-01 | 2025-06-20 |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-10-31 |
 | [My Helper Lives](https://open.spotify.com/track/4letjvenLtMvXJtm1GlPVp) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp) | [Living Waters](https://open.spotify.com/album/63gbFwamxhdqShYTMZ97KI) | 4:53 | 2025-10-31 | 2025-12-24 |

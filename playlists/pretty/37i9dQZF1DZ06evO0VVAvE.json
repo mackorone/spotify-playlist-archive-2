@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9705,
+  "num_followers": 9714,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAABKfGyh+YhekMieeDYujpmG",
+  "snapshot_id": "abiZgAAAAAD8KtD43PiKkAylJ306y6xI",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 177931,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
+      "duration_ms": 173871,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 173871,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/24A2eZ8yd8vWwYmDocknNy"
+      "duration_ms": 177931,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okanlawon, Vol. 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
-      },
-      "artists": [
-        {
-          "name": "Cazulee",
-          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 212871,
-      "name": "The Way (Remix)",
-      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 135070,
       "name": "Popori",
       "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okanlawon, Vol. 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
+      },
+      "artists": [
+        {
+          "name": "Cazulee",
+          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 212871,
+      "name": "The Way (Remix)",
+      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,192 songs - 2 day 18 hr 26 min
+1,193 songs - 2 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1063,6 +1063,7 @@
 | [Throne](https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Throne](https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0) | 3:40 | 2022-07-18 | 2022-09-29 |
 | [Thrones of Blood](https://open.spotify.com/track/44qvUWEOuynmeFUWBSfaZy) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Thrones of Blood](https://open.spotify.com/album/1OAVn2XV3O3citcm3Vcyi9) | 4:02 | 2023-01-12 | 2023-03-28 |
 | [Through The Inversion](https://open.spotify.com/track/1m60Iz2EWGJduymkmM33d0) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K), [Dias Ridge](https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu) | [Through The Inversion](https://open.spotify.com/album/58KZYuS7Afr2W7Rxj2cJm4) | 3:22 | 2024-09-03 | 2024-11-26 |
+| [THUNDER](https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI) | [TESSERACTS](https://open.spotify.com/artist/2Oc62iD4J8F2YH34NoSALk), [CODE BREAKERZ](https://open.spotify.com/artist/4WFW8Zsgxhx6xpt4xKcS9H) | [THUNDER](https://open.spotify.com/album/0hBJbFpgm8u34sSABARGkN) | 4:03 | 2026-03-18 |  |
 | [Tidal Wave](https://open.spotify.com/track/1omHvO3u6OmOUp7arSDuF2) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Tidal Wave](https://open.spotify.com/album/31e7BFs4JJJtYsSc20tGnr) | 3:55 | 2024-10-28 | 2025-02-07 |
 | [Time](https://open.spotify.com/track/2G0nmOKGQds2EJjjIsu91J) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Time](https://open.spotify.com/album/4GK69DAIe79SoNuOkSCElS) | 2:28 | 2024-06-17 | 2024-09-10 |
 | [Time Is A Remedy](https://open.spotify.com/track/0WCgYZhHkhmgHwP9Y6LV59) | [Meeting Molly](https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G) | [Time Is A Remedy](https://open.spotify.com/album/0roDCd0pglP3jscyf5S3Eb) | 4:11 | 2021-11-19 | 2022-02-24 |

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: DYGL
 
-3,148 songs - 8 day 6 hr 15 min
+3,149 songs - 8 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [HATER](https://open.spotify.com/track/7wWnqf8ZIYAE2nGeD8Lfy3) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [HATER](https://open.spotify.com/album/5thqyyPSMm0kMUC1lCrMPK) | 3:20 | 2023-07-11 | 2023-07-19 |
 | [Have A Nice Weekend!](https://open.spotify.com/track/0bNQGss26uqHu0zsPL1l60) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Have A Nice Weekend!](https://open.spotify.com/album/4iEx22mZ1CQiHNV2GTqbfF) | 3:35 | 2025-05-27 | 2025-06-04 |
 | [Hazard Course](https://open.spotify.com/track/258EBARbxUYFPYumCb8yvW) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Hazard Course](https://open.spotify.com/album/4JzQq9LpfmhpDwCgxSpQEe) | 4:12 | 2026-02-17 | 2026-03-18 |
+| [Hazard Course](https://open.spotify.com/track/6A5VjxInqR55Atzhe4OEPT) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [TRUTHBUSTER](https://open.spotify.com/album/7aqvUIUwlZSUjGfygnFxv5) | 4:12 | 2026-03-17 |  |
 | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/track/5nX1wS5nBjTpNhnh1JD7fE) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/album/1Hfd92aPafCEWyhmRJkeG9) | 3:19 | 2025-10-21 | 2026-02-12 |
 | [Hazy Dusk](https://open.spotify.com/track/1QogrDqnEY2YztNOcLBWKr) | [softsurf](https://open.spotify.com/artist/1vPcqBxbcs5XnSQ0EXPS7N) | [Hazy Dusk](https://open.spotify.com/album/5sehQzYMNldHaLMYkQ90fh) | 4:53 | 2025-06-17 | 2025-06-25 |
 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 | 2025-03-25 | 2025-05-29 |
@@ -855,6 +856,7 @@
 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 | 2026-01-15 |
 | [Joyride](https://open.spotify.com/track/49bMyaa2FrqfoKpy5sGrRu) | [Puff](https://open.spotify.com/artist/5UhiiLdlZhWqyThTakJmkw) | [Joyride](https://open.spotify.com/album/5FHem8WetCSGkXRbGjUp1r) | 4:33 | 2023-09-19 | 2023-09-27 |
 | [Junk Corner On My Mind](https://open.spotify.com/track/4FBrAZGGWjZmvrSjWZvV5v) | [Massage Attack](https://open.spotify.com/artist/3yibwwxuLJdr6jH9BCrgPk) | [1,000,000,000 Attack](https://open.spotify.com/album/4mHAbcnlBrUJVD2jOR788P) | 3:04 | 2025-12-03 | 2025-12-24 |
+| [Junk Pop](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 3:39 | 2026-03-17 |  |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2024-02-11 | 2024-04-17 |
 | [junkie](https://open.spotify.com/track/4ey3mwkvUkUfssLTX6s3P6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/0H9sVdN2THowMRs9z4IkeS) | 2:28 | 2024-04-16 | 2024-09-18 |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
@@ -1859,7 +1861,6 @@
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Track 12](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 0:00 | 2026-03-17 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

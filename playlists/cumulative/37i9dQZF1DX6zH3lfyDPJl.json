@@ -1479,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "I could be your indie darling",
+        "url": "https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197996,
+      "name": "I could be your indie darling",
+      "url": "https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R"
+    },
+    {
+      "album": {
         "name": "Summer Plumage",
         "url": "https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq"
       },
@@ -1552,6 +1570,24 @@
       "duration_ms": 269775,
       "name": "Instant Lover",
       "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
+    },
+    {
+      "album": {
+        "name": "Orange Courage",
+        "url": "https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH"
+      },
+      "artists": [
+        {
+          "name": "Potatoi",
+          "url": "https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Joe",
+      "url": "https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK"
     },
     {
       "album": {
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 215852,
       "name": "miss u so",
       "url": "https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh"
@@ -2194,7 +2230,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 249000,
       "name": "NOTHING WITHOUT YOU",
       "url": "https://open.spotify.com/track/3ZfzAgu2hva5Pw9HVWys14"
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 130000,
       "name": "shorthand and shorthand",
       "url": "https://open.spotify.com/track/4LCyhDCUayVayYCLvNJfDn"
@@ -3300,6 +3336,28 @@
       "duration_ms": 224044,
       "name": "This Is Nowhere",
       "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
+    },
+    {
+      "album": {
+        "name": "This song is about you",
+        "url": "https://open.spotify.com/album/2MoQ5Vu6dbwW3uodxU3w1M"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        },
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "This song is about you",
+      "url": "https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0"
     },
     {
       "album": {

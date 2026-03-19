@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 138159,
       "name": "Aito freak",
       "url": "https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 125816,
       "name": "Avaimet mun kiesiin (Unitas Sigma)",
       "url": "https://open.spotify.com/track/26fTat1bHiFIElySm9kuJy"
@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 175677,
       "name": "Boom Kah 2.0",
       "url": "https://open.spotify.com/track/4we0IaQqOwFJlYIiCKvVFt"
@@ -23763,6 +23763,24 @@
     },
     {
       "album": {
+        "name": "Kirjotettu t\u00e4htiin",
+        "url": "https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158909,
+      "name": "Kirjotettu t\u00e4htiin",
+      "url": "https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2"
+    },
+    {
+      "album": {
         "name": "ViO",
         "url": "https://open.spotify.com/album/1syZJ0HasgimydePATEIfx"
       },
@@ -38160,7 +38178,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 221912,
       "name": "Onnellinen 2.0",
       "url": "https://open.spotify.com/track/4I449JXcbtG29y76wlyb8i"
@@ -43434,7 +43452,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Reissumies",
       "url": "https://open.spotify.com/track/39lVGCV5FERL8pkx2lxCUw"

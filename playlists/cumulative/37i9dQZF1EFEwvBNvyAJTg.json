@@ -2243,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/5ykYmRNOSpk5lhdG1yRESS"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Is It Just Me?",
+      "url": "https://open.spotify.com/track/6QDVKKJHOTIs2dJt4fJ9fB"
+    },
+    {
+      "album": {
         "name": "House with a Pool",
         "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
       },

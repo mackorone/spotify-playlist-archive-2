@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 131283,
+  "num_followers": 131282,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAAALsuS7bw/rFj5OitBHBCol",
+  "snapshot_id": "abiZgAAAAACKuagQUUwbG23VsxAUlLxf",
   "tracks": [
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Convocations",
-        "url": "https://open.spotify.com/album/1VSVlgMLuUyNGf6WFRwC12"
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 130247,
-      "name": "Meditation IV",
-      "url": "https://open.spotify.com/track/3JIoNUmFyXGLyLB4RUfhIF"
+      "duration_ms": 249259,
+      "name": "Will Anybody Ever Love Me?",
+      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+        "name": "Convocations",
+        "url": "https://open.spotify.com/album/1VSVlgMLuUyNGf6WFRwC12"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 249259,
-      "name": "Will Anybody Ever Love Me?",
-      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
+      "duration_ms": 130247,
+      "name": "Meditation IV",
+      "url": "https://open.spotify.com/track/3JIoNUmFyXGLyLB4RUfhIF"
     },
     {
       "added_at": null,

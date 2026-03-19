@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Tune into the finest of Tamil Indie music!\nCover : Rakhooo",
+  "description": "Tune into the finest of Tamil Indie music!\nCover : Rudh",
   "name": "Tamil Indie",
   "tracks": [
     {
@@ -5204,7 +5204,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 183944,
       "name": "Kaalam Neram (From \"MM Originals\") (Original Soundtrack)",
       "url": "https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm"
@@ -16716,6 +16716,32 @@
       "duration_ms": 194673,
       "name": "Yaavum Dooram",
       "url": "https://open.spotify.com/track/2lJgbECznMqSoeLr9u0Dfq"
+    },
+    {
+      "album": {
+        "name": "Yaen",
+        "url": "https://open.spotify.com/album/6qtKKlVADeAl0QvJEIk5NJ"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Varsha Gopinath",
+          "url": "https://open.spotify.com/artist/7ayUOUsYhzGOrNtKP0yDUz"
+        },
+        {
+          "name": "NZM",
+          "url": "https://open.spotify.com/artist/6xpJ0F0DpEITHP4HHAunl2"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230183,
+      "name": "Yaen",
+      "url": "https://open.spotify.com/track/1gqAZ2iYeqyuwuOS3Hnb7T"
     },
     {
       "album": {

@@ -1,13 +1,61 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sade Olutola. Artwork by Paola Saliby",
-  "num_followers": 237590,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lunar June. Artwork by Paola Saliby",
+  "num_followers": 237596,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA4yuAbkU//OS1HrLS3C2adVu1MW",
+  "snapshot_id": "AAAAAGdBfBLbC+HuxwoP3XZmSjePsW69",
   "tracks": [
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "happier",
+        "url": "https://open.spotify.com/album/3aUogWaD1tOhlPoVHCf1Lb"
+      },
+      "artists": [
+        {
+          "name": "Lunar June",
+          "url": "https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S"
+        }
+      ],
+      "duration_ms": 155035,
+      "name": "happier",
+      "url": "https://open.spotify.com/track/7IzufCLmkfr4Btrph9wYgg"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "auburn",
+        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "auburn",
+      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "Boardwalk",
+        "url": "https://open.spotify.com/album/1CsHlHoIrS2WyKCKDEOm9y"
+      },
+      "artists": [
+        {
+          "name": "Cloe Wilder",
+          "url": "https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/5c9ODNAoJI6tkqCnOByDoK"
+    },
     {
       "added_at": "2026-03-11 04:00:22",
       "album": {
@@ -23,6 +71,118 @@
       "duration_ms": 147500,
       "name": "2099",
       "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "ODD YOUTH 2nd Single [Babyface]",
+        "url": "https://open.spotify.com/album/37l9884n6H8JzEokUFQOsz"
+      },
+      "artists": [
+        {
+          "name": "ODD YOUTH",
+          "url": "https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/5UMIyID7WDBkOpGizVulol"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
+    },
+    {
+      "added_at": "2026-03-18 15:49:05",
+      "album": {
+        "name": "Blueberry Skies",
+        "url": "https://open.spotify.com/album/75El775pQjP9Mx13n1rl41"
+      },
+      "artists": [
+        {
+          "name": "CHIRAI",
+          "url": "https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Blueberry Skies",
+      "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "paint me like one of your fav american girls",
+        "url": "https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "duration_ms": 143789,
+      "name": "Feel Like I Died",
+      "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "Chasing Us",
+        "url": "https://open.spotify.com/album/77lxaK5hcfZanbsbZRhlIm"
+      },
+      "artists": [
+        {
+          "name": "Spuddy",
+          "url": "https://open.spotify.com/artist/1EGquwqYB8H2qTgiMXirRs"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Chasing Us",
+      "url": "https://open.spotify.com/track/6Hpnt47Y2QntZD1fAXEsNI"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "Letting Love Die",
+        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
+      },
+      "artists": [
+        {
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Letting Love Die",
+      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "no air",
+        "url": "https://open.spotify.com/album/68X9NyzNFzA6qdUbSoOMzK"
+      },
+      "artists": [
+        {
+          "name": "go4broke",
+          "url": "https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R"
+        }
+      ],
+      "duration_ms": 164900,
+      "name": "no air",
+      "url": "https://open.spotify.com/track/2oggiZRL5HDIrnBuYilemY"
     },
     {
       "added_at": "2026-03-11 04:00:22",
@@ -829,38 +989,6 @@
       "url": "https://open.spotify.com/track/5GIGmsyaCRehvGAsuIa4Pr"
     },
     {
-      "added_at": "2026-01-21 15:37:08",
-      "album": {
-        "name": "Bruises on the Peach",
-        "url": "https://open.spotify.com/album/5pj3C1wq8xvBMygTiOgHx1"
-      },
-      "artists": [
-        {
-          "name": "googly eyes",
-          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
-        }
-      ],
-      "duration_ms": 178770,
-      "name": "Bruises on the Peach",
-      "url": "https://open.spotify.com/track/6HYs3TipAbX6eR6YrQHCVS"
-    },
-    {
-      "added_at": "2026-01-16 05:00:46",
-      "album": {
-        "name": "jealous baby",
-        "url": "https://open.spotify.com/album/0MfvaWyi0ycyTG8KjlOLNp"
-      },
-      "artists": [
-        {
-          "name": "Fia James",
-          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
-        }
-      ],
-      "duration_ms": 172444,
-      "name": "jealous baby",
-      "url": "https://open.spotify.com/track/7Ct2izLXZcTd4ktA7xzqXp"
-    },
-    {
       "added_at": "2026-01-16 05:00:46",
       "album": {
         "name": "Girlhood",
@@ -1119,22 +1247,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD"
-      },
-      "artists": [
-        {
-          "name": "Maeve",
-          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "i, february",
         "url": "https://open.spotify.com/album/3RQo4ygL8TB3241bzwuFJQ"
       },
@@ -1179,86 +1291,6 @@
       "duration_ms": 285972,
       "name": "Anywhere Else",
       "url": "https://open.spotify.com/track/0fL6S8ciI1B7klHk7oTIFf"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Blushing at the BP",
-        "url": "https://open.spotify.com/album/1XzsyOBDHKRM70b00Qbwfl"
-      },
-      "artists": [
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Blushing at the BP",
-      "url": "https://open.spotify.com/track/0iNgtJmvz23Q77QZetusO1"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Will I Ever",
-        "url": "https://open.spotify.com/album/1Pt56Y8fz3rS7AwOO6qjre"
-      },
-      "artists": [
-        {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "Will I Ever",
-      "url": "https://open.spotify.com/track/6GqNzyHE084R4JheWzKIm6"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3LyaOh01KBQsQ0dSBJhIYz"
-      },
-      "artists": [
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4Vudlr60FXFP47yNlLzixA"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Me forever :(",
-        "url": "https://open.spotify.com/album/6ejhEfZ6NCucu2lC6G4rOh"
-      },
-      "artists": [
-        {
-          "name": "samxemma",
-          "url": "https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Me forever :(",
-      "url": "https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP"
     },
     {
       "added_at": "2026-01-14 05:00:01",

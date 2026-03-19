@@ -4,7 +4,7 @@
 
 > The official Eurovision Song Contest 2026 playlist.
 
-114 songs - 5 hr 37 min
+115 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-05-11 | 2025-03-01 |
 | [Nova Zora \- Eurovision 2026](https://open.spotify.com/track/3PGOiXT00ISVuUgr14m079) | [Tamara Živković](https://open.spotify.com/artist/3rhiMxv0cqPttBuoxtKiFw) | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW) | 2:51 | 2026-03-12 |  |
 | [Nân](https://open.spotify.com/track/40vsOMljwhHCibpToRULGo) | [Alis](https://open.spotify.com/artist/2qHjO4DZZhtrjeHGF1OvhT) | [Nân](https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo) | 3:09 | 2026-03-12 |  |
+| [On Replay](https://open.spotify.com/track/4ybdkbEdZ2JwXFbNaRbBIY) | [Bzikebi](https://open.spotify.com/artist/5BOldA1K6XRW9bSIT1oOcN) | [On Replay](https://open.spotify.com/album/54ZVX0mfzANelSskiymnD7) | 3:07 | 2026-03-18 |  |
 | [One Milkali \(One Blood\)](https://open.spotify.com/track/74mWVYv6xPilcalOxrQa5Y) | [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [One Milkali \(One Blood\)](https://open.spotify.com/album/5gmCSsc0MTQaKSQNWswUao) | 2:56 | 2024-05-11 | 2025-03-01 |
 | [Pedestal \- Eurovision version](https://open.spotify.com/track/0XzSKAgVOdtMSfzYY0qtAb) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Pedestal \(Eurovision version\)](https://open.spotify.com/album/62eT7CL8D4jrgi1InUOPmn) | 2:57 | 2024-05-11 | 2025-03-01 |
 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 | 2026-03-12 |  |

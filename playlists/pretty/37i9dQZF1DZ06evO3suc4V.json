@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10364,
+  "num_followers": 10372,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAADswaNDdwWC0Yr6MFXI7rS7",
+  "snapshot_id": "abiZgAAAAAAFWwll+iOASP/je4vxksIf",
   "tracks": [
     {
       "added_at": null,
@@ -767,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bicycle Race",
-        "url": "https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls"
+        "name": "Soulection White Label - Monte Booker",
+        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
       "artists": [
+        {
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 155116,
-      "name": "Bicycle Race",
-      "url": "https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT"
+      "duration_ms": 186647,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
     },
     {
       "added_at": null,
@@ -823,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soulection White Label - Monte Booker",
-        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
+        "name": "Bicycle Race",
+        "url": "https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls"
       },
       "artists": [
-        {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
-        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 186647,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
+      "duration_ms": 155116,
+      "name": "Bicycle Race",
+      "url": "https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT"
     },
     {
       "added_at": null,

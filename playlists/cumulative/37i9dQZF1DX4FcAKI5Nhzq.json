@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: AtHeart (\uc573\ud558\ud2b8))",
+  "description": "Future K-Pop hits! (Cover: LATENCY (\ub808\uc774\ud134\uc2dc))",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -3404,6 +3404,24 @@
       "duration_ms": 171600,
       "name": "BOTH SIDES",
       "url": "https://open.spotify.com/track/3b8RmBMHKwhVzsn3EMGqpK"
+    },
+    {
+      "album": {
+        "name": "SEVEN : CRIMSON HORIZON",
+        "url": "https://open.spotify.com/album/6WNkHW85pgRwezQlFtcnik"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198237,
+      "name": "BOTTOMS UP",
+      "url": "https://open.spotify.com/track/5ThWoCQuCn1tqDUDBGkleB"
     },
     {
       "album": {
@@ -10860,7 +10878,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 199000,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
@@ -14528,6 +14546,24 @@
       "duration_ms": 187466,
       "name": "Last Sequence",
       "url": "https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4"
+    },
+    {
+      "album": {
+        "name": "LATE O' CLOCK",
+        "url": "https://open.spotify.com/album/59Jx384F4bIX5NaXRLGr7z"
+      },
+      "artists": [
+        {
+          "name": "LATENCY",
+          "url": "https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "LATENCY",
+      "url": "https://open.spotify.com/track/6kp37iRjRvvbTwxJ6A8VoC"
     },
     {
       "album": {
@@ -29880,7 +29916,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 173000,
       "name": "Yes We Are",
       "url": "https://open.spotify.com/track/4Posl8hBAZxPVWguogt3og"

@@ -1,13 +1,29 @@
 {
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: LANA and Ell Teresa *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344652\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
-  "num_followers": 255634,
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: LANA and Ell Teresa *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344832\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "num_followers": 255656,
   "original_name": "New Music Wednesday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFswWbEMsAqSlTDoBxZYhfNvCz5",
+  "snapshot_id": "AAAAAGDKOscK7z450q2ZRyYe8u5mLucJ",
   "tracks": [
+    {
+      "added_at": "2026-03-18 03:41:16",
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "duration_ms": 3420972,
+      "name": "2026/3/18 LANA & Elle Teresa\u304c\u30b3\u30e9\u30dc\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01\u306b\u3057\u306a\u306e\u30ed\u30f3\u30b0\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\u914d\u4fe1\uff01Ado\u306e\u65b0\u66f2\u3001yama\u306eEP\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01",
+      "url": "https://open.spotify.com/episode/6rSsfysq1VWqtTXDzBvn7f"
+    },
     {
       "added_at": "2026-03-17 15:00:19",
       "album": {
@@ -915,6 +931,22 @@
     {
       "added_at": "2026-03-17 15:00:19",
       "album": {
+        "name": "TRUTHBUSTER",
+        "url": "https://open.spotify.com/album/7aqvUIUwlZSUjGfygnFxv5"
+      },
+      "artists": [
+        {
+          "name": "Noridogam",
+          "url": "https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe"
+        }
+      ],
+      "duration_ms": 198831,
+      "name": "Bucket Brigade",
+      "url": "https://open.spotify.com/track/1bMOeeq8cyvCDa0bSgYfn0"
+    },
+    {
+      "added_at": "2026-03-17 15:00:19",
+      "album": {
         "name": "New contemporary",
         "url": "https://open.spotify.com/album/72UZn3qIdAbPyokMHsuYQO"
       },
@@ -1288,8 +1320,8 @@
           "url": "https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 12",
+      "duration_ms": 219604,
+      "name": "Junk Pop",
       "url": "https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg"
     },
     {

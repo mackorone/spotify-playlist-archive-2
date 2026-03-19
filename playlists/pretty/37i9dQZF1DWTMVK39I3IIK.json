@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Y\u00f6r",
-  "num_followers": 47058,
+  "num_followers": 47056,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Udsving",
         "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 188752,
       "name": "Udsving",
       "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
+        "name": "Barn Af Venedig",
+        "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
+      },
+      "artists": [
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Barn Af Venedig",
+      "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 192314,
       "name": "Anna",
       "url": "https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
-        "name": "Barn Af Venedig",
-        "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
-      },
-      "artists": [
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Barn Af Venedig",
-      "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Pissoir",
-        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Pissoir",
-      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "S\u00f8vnl\u00f8s",
         "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 149304,
       "name": "S\u00f8vnl\u00f8s",
       "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Pissoir",
+        "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Pissoir",
+      "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "S\u00f8n",
-        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8n",
-          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
-        }
-      ],
-      "duration_ms": 164734,
-      "name": "Satellitter",
-      "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "S\u00f8n",
+        "url": "https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "S\u00f8n",
+          "url": "https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+      "duration_ms": 164734,
+      "name": "Satellitter",
+      "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -875,6 +859,22 @@
       "duration_ms": 152132,
       "name": "ung og elske",
       "url": "https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Et Sted p\u00e5 Vesterbro",
-        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
-      },
-      "artists": [
-        {
-          "name": "Augusta Schackinger",
-          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
-        }
-      ],
-      "duration_ms": 148521,
-      "name": "Et Sted p\u00e5 Vesterbro",
-      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "KUN FOR HENDE",
         "url": "https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 152878,
       "name": "KUN FOR HENDE",
       "url": "https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Et Sted p\u00e5 Vesterbro",
+        "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
+      },
+      "artists": [
+        {
+          "name": "Augusta Schackinger",
+          "url": "https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm"
+        }
+      ],
+      "duration_ms": 148521,
+      "name": "Et Sted p\u00e5 Vesterbro",
+      "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Kommet Videre",
         "url": "https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 141397,
       "name": "Kommet Videre",
       "url": "https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
     },
     {
       "added_at": "2026-03-05 23:00:46",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Den Lykkelige Ungdom",
-        "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
-      },
-      "artists": [
-        {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
-        }
-      ],
-      "duration_ms": 163948,
-      "name": "Den Lykkelige Ungdom",
-      "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
-    },
-    {
-      "added_at": "2026-03-05 23:00:46",
-      "album": {
         "name": "Ham Med Paraplyen",
         "url": "https://open.spotify.com/album/4bzY2ik074xHgJKkd4ib7J"
       },
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2026-03-05 23:00:46",
       "album": {
-        "name": "Holder mig v\u00e5gen",
-        "url": "https://open.spotify.com/album/3ZlHpSNsQTqcWBhNsUEzTS"
+        "name": "Den Lykkelige Ungdom",
+        "url": "https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo"
       },
       "artists": [
         {
-          "name": "Rigmor",
-          "url": "https://open.spotify.com/artist/2vl3gjL9MJNaGgs11WZr5y"
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
         }
       ],
-      "duration_ms": 201067,
-      "name": "Holder mig v\u00e5gen",
-      "url": "https://open.spotify.com/track/1EIba7fWI4mec9i8J7YMId"
+      "duration_ms": 163948,
+      "name": "Den Lykkelige Ungdom",
+      "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
+    },
+    {
+      "added_at": "2026-03-05 23:00:46",
+      "album": {
+        "name": "Elsk Mig",
+        "url": "https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU"
+      },
+      "artists": [
+        {
+          "name": "Joyce",
+          "url": "https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow"
+        }
+      ],
+      "duration_ms": 236624,
+      "name": "Se Mig",
+      "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
     }
   ],
   "unique_name": "ung kniv ",

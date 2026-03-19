@@ -3267,6 +3267,28 @@
     },
     {
       "album": {
+        "name": "Quiet selfish man",
+        "url": "https://open.spotify.com/album/3yBRhxOp9X7DLpEQVbzJ6q"
+      },
+      "artists": [
+        {
+          "name": "Ladat",
+          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
+        },
+        {
+          "name": "Hana Pav\u0161i\u010d",
+          "url": "https://open.spotify.com/artist/1zLtkHyi57e4iXlcFXyGLc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235112,
+      "name": "Quiet selfish man",
+      "url": "https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a"
+    },
+    {
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6"
       },

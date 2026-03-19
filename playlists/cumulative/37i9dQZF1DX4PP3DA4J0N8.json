@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Birds near the river in Columbia",
+        "url": "https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP"
+      },
+      "artists": [
+        {
+          "name": "Nicoguga",
+          "url": "https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119603,
+      "name": "Birds near the river in Columbia",
+      "url": "https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky"
+    },
+    {
+      "album": {
         "name": "Eager Bird",
         "url": "https://open.spotify.com/album/65ogwjkTFXvGIo1F19Ml68"
       },
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 142583,
       "name": "Showering Birds",
       "url": "https://open.spotify.com/track/6EqlbF10G58ofFeBMXSaih"

@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-5,082 songs - 11 day 14 hr 1 min
+5,083 songs - 11 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [ARMOR](https://open.spotify.com/track/1Te9AEzRvWc6ukDs4X61FX) | [Nivrex](https://open.spotify.com/artist/5GsQUZIzb6hYS43JY7AOrr), [MacKenzie Blake](https://open.spotify.com/artist/5vIja4R0MXzJP7lj47flMf), [Chill Union CFM](https://open.spotify.com/artist/367thuhEvBpz99ytopYN3a) | [ARMOR](https://open.spotify.com/album/5BzdqWvoayTDm9xeOAf7dj) | 3:20 | 2025-03-29 | 2025-04-11 |
 | [Around](https://open.spotify.com/track/0qDYl6Bj6oTuaBLNKZfuHb) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Around](https://open.spotify.com/album/4ANmjIhAGKLPOl9F3NrqWC) | 3:07 | 2025-04-18 | 2025-04-25 |
 | [Around The World \- VIP Remix](https://open.spotify.com/track/06e2PKp8yC0NHBxaCUt1Us) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Around The World Remix EP](https://open.spotify.com/album/5EuYNs0Zp7AjldY7kfvH0g) | 2:24 | 2024-09-05 | 2024-09-07 |
+| [Arrival](https://open.spotify.com/track/4yJjWnT3962mIgaxA3ktg1) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [When The Rain Falls](https://open.spotify.com/album/13RhgQd0eUlDbt89Zz9Apj) | 4:21 | 2026-03-18 |  |
 | [Arrival](https://open.spotify.com/track/0hSuV2otL5a1tl8pByCiAt) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Arrival](https://open.spotify.com/album/2lJVqcgwxrIvgV4BSiJ2Ww) | 3:24 | 2025-01-31 | 2025-02-07 |
 | [Arrival on Trnc](https://open.spotify.com/track/3tF364KhoVolo64KhLzPzD) | [3VTR](https://open.spotify.com/artist/5lYz2WSKe41QVPU1PwZDa8) | [Planet \- Trnc](https://open.spotify.com/album/1qZqOENPudP7upTDbXUmUj) | 4:05 | 2025-07-13 | 2025-07-18 |
 | [Artie](https://open.spotify.com/track/7fAjJxamnbaMt0xTgrZ1zD) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Artie](https://open.spotify.com/album/7nbT8zoxCQSm5zt0q2whdr) | 2:34 | 2025-03-21 | 2025-03-29 |

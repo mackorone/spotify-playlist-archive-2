@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94081,
+  "num_followers": 94093,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-01-12 23:46:55",
       "album": {
+        "name": "We're the Bastards",
+        "url": "https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv"
+      },
+      "artists": [
+        {
+          "name": "Phil Campbell and the Bastard Sons",
+          "url": "https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q"
+        }
+      ],
+      "duration_ms": 298702,
+      "name": "Born to Roam",
+      "url": "https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0"
+    },
+    {
+      "added_at": "2026-01-12 23:46:55",
+      "album": {
         "name": "Middle of Nowhere (feat. Chad Kroeger)",
         "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 240014,
       "name": "Middle of Nowhere (feat. Chad Kroeger)",
       "url": "https://open.spotify.com/track/7ciMCOVa5Dl44595cm4vcZ"
-    },
-    {
-      "added_at": "2026-01-12 23:46:55",
-      "album": {
-        "name": "We're the Bastards",
-        "url": "https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv"
-      },
-      "artists": [
-        {
-          "name": "Phil Campbell and the Bastard Sons",
-          "url": "https://open.spotify.com/artist/7fRzvXVDS5fOLD91WQwE6q"
-        }
-      ],
-      "duration_ms": 298702,
-      "name": "Born to Roam",
-      "url": "https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0"
     },
     {
       "added_at": "2026-01-12 23:46:55",

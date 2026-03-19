@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 179 songs - 9 hr 18 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 181 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,5 +187,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 177 | [Dying Alone!](https://open.spotify.com/track/0MVZaq5sejk2eTOa8PcmrC) | [Nathan Sragow](https://open.spotify.com/artist/6rNB4rxtHxXq2jBmpKYvla) | [Dying Alone!](https://open.spotify.com/album/6kHIMfzflJssAB9d4NA4FP) | 2:50 |
 | 178 | [Foolish](https://open.spotify.com/track/4Rx9hSHqsf7EnarIK4ogCq) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Foolish](https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw) | 3:22 |
 | 179 | [fall in love again](https://open.spotify.com/track/7pJahn2HDV3o13cTMfey1K) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [fall in love again](https://open.spotify.com/album/7vv4gLpYpoRWlsZ5KLLbyO) | 2:03 |
+| 180 | [cicada](https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF) | [Deadfilm](https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E), [Riper](https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq) | [volverás a sonreir.](https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP) | 4:58 |
+| 181 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 |
 
-Snapshot ID: `AAAVuQQNi+xAy/UTxUUTmbbH9tTjwvFb`
+Snapshot ID: `AAAVu8cTWcdh5FWu7OemBNVtwwOnbbRa`

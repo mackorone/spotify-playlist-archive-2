@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,173 songs - 9 day 6 hr 12 min
+4,176 songs - 9 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [COLORS](https://open.spotify.com/track/09StTRpRakGxE7DQLSAcly) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:59 | 2025-05-16 |  |
 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 | 2025-04-09 |  |
 | [Come bambini](https://open.spotify.com/track/0jdgV6W0axQL8OcIZR6TEX) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [R.A.L.P.H.](https://open.spotify.com/album/4Uxxl0SI4UaaBCmSnofMrG) | 3:01 | 2026-02-08 |  |
+| [Come immortali](https://open.spotify.com/track/2XNznLeDqSQqCDEt71gk8K) | [Giorgia Gambini](https://open.spotify.com/artist/2xxgXfBQyeVRJGmTytQnLZ) | [Come immortali](https://open.spotify.com/album/1DZQ55GyM54rTXO40c1Yxb) | 2:50 | 2026-03-18 |  |
 | [Come In](https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Come In](https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH) | 3:42 | 2025-11-26 |  |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-25 |  |
 | [Come se non ci fosse un domani](https://open.spotify.com/track/3AGRiS8AeMZ3bZF3ne6pSl) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 1:57 | 2025-04-04 |  |
@@ -1720,6 +1721,7 @@
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-09-23 |  |
 | [HOW CAN I DO](https://open.spotify.com/track/1tmMp3mLAp0X2DPf3EtVDJ) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [HOW CAN I DO](https://open.spotify.com/album/2rZyVdfZpVkahYPDSatW49) | 4:07 | 2025-06-08 |  |
 | [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 | 2025-11-05 |  |
+| [How Sweet It Is](https://open.spotify.com/track/00oZbWv4Bsc2vk8AXXbCJ6) | [Suzy E](https://open.spotify.com/artist/7qrz6D9jLWomJGH1WHxf9f) | [Catchy Syngers \(Softpop Special\)](https://open.spotify.com/album/5cQ8SbQ7Ur8Jir1VkBhtNu) | 2:37 | 2026-03-18 |  |
 | [How to be French](https://open.spotify.com/track/50Khdo34Qggq6NFczj8GW1) | [En Man & En Kvinna](https://open.spotify.com/artist/71ImAICJS2JHrnhQhyCFNX) | [How to be French](https://open.spotify.com/album/1NscMWDX6Z4hnbNeyZ7uR7) | 4:00 | 2025-12-04 |  |
 | [Humans Are Great](https://open.spotify.com/track/5qoOvfN3JAXVU1EQ8PD0xB) | [Sol Roth](https://open.spotify.com/artist/2hFn4Llkv4AkG2qF90Rgvt) | [Shadows In The Attic](https://open.spotify.com/album/7HYq8s1I1GlpkW8qBTHyID) | 2:00 | 2025-05-10 |  |
 | [Hunter's Moon](https://open.spotify.com/track/5dyAHxUMECsJNZMTOwgkZh) | [The Moon Birds](https://open.spotify.com/artist/5437diGkGt5bWVYztGPqlD) | [Hunter's Moon](https://open.spotify.com/album/2a7kT3MkFn0jXCQAfDslGm) | 3:11 | 2025-12-04 |  |
@@ -3994,6 +3996,7 @@
 | [When The Silence Breaks](https://open.spotify.com/track/6ye1n2cRLhITHu5oI49aon) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [When The Silence Breaks](https://open.spotify.com/album/7z8pnATQNsRzemYcrpoWbD) | 3:38 | 2025-06-14 |  |
 | [When We're All Gone](https://open.spotify.com/track/1kchx7g77R3lxZUzThhJw3) | [Journeys To Monas](https://open.spotify.com/artist/32mo0pave7LLstPQEBZ02t) | [Dawn](https://open.spotify.com/album/3vHqWSkAs7zWIJA7xNirPT) | 4:34 | 2025-11-05 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2025-11-05 |  |
+| [Where it began](https://open.spotify.com/track/7FxotCXuLecKLYZvlk6BLS) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Where it began](https://open.spotify.com/album/4fPcg0BfUr7BZv0od5wgi2) | 3:45 | 2026-03-18 |  |
 | [Where the Power Lies](https://open.spotify.com/track/4Ox1lyF51vHPW5hSiDF02n) | [Vigilant Sun](https://open.spotify.com/artist/4CKxxKaa8QGZ4nsZJ0gGj2) | [Vigilant Sun](https://open.spotify.com/album/59buI0FjiizLzAsLPYBPkJ) | 2:55 | 2025-05-05 |  |
 | [Where's Me Jumper?](https://open.spotify.com/track/0wRBCcuhLoI85VbrPByx88) | [Sultans Of Ping F.C.](https://open.spotify.com/artist/6SdAlCpKHeAXKmNzvhuhSs), [Frank Mcnamara](https://open.spotify.com/artist/6gauCsjCSocvGc243BRdnT) | [Casual Sex In The Cineplex](https://open.spotify.com/album/3Nunc0C2S3K5heQ9VRQFPy) | 3:08 | 2025-11-05 |  |
 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 | 2025-07-28 |  |

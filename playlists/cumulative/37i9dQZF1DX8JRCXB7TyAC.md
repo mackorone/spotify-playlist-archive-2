@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-181 songs - 8 hr 52 min
+182 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Aakhar Baat](https://open.spotify.com/track/43fQhX1yu8v42eQKgYKrBN) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB) | [Aakhar Baat](https://open.spotify.com/album/0LxwUs1lWQHZY96WsWfXFo) | 3:00 | 2023-07-24 | 2024-04-19 |
 | [Aar Paar](https://open.spotify.com/track/6VwFxZXXIt0fpFqBm8oSZ7) | [Veer Sahu](https://open.spotify.com/artist/6WX30h7AXzPvJdBKxf2i0F) | [Aar Paar](https://open.spotify.com/album/1of1BnD9Wy9Si8ActYR4Sy) | 3:27 | 2023-07-24 | 2024-02-01 |
 | [Akhada \- Title Song](https://open.spotify.com/track/2AxxnomQHFFkRYwZA4HimJ) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn), [Bamboo Beat](https://open.spotify.com/artist/7rgZG7aLO7ZLPZNxy08GRb) | [Akhada \- Title Song](https://open.spotify.com/album/3IeQ9FCMeM6FGkwY6PLFJW) | 2:52 | 2025-02-15 | 2025-09-30 |
-| [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 |  |
+| [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 | 2026-03-19 |
 | [All Eyes Down](https://open.spotify.com/track/0FtqurPJxBXugBGEPyHXtG) | [M Soni](https://open.spotify.com/artist/68BFsEEExE8N2YNjmYlP4X), [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [All Eyes Down](https://open.spotify.com/album/1dQn4cFiJRHy9cMLNlnhpx) | 3:01 | 2024-03-01 | 2024-05-01 |
 | [Asla](https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Vikrant Mehla](https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H), [Khushboo Manhas](https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf) | [Asla](https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG) | 2:29 | 2023-07-24 | 2024-04-19 |
 | [Baagh](https://open.spotify.com/track/27vHx0lpzWllP7iV224uel) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Baagh](https://open.spotify.com/album/3ItDPo58OHSB4vo99lsu6z) | 3:09 | 2025-08-19 |  |
@@ -168,6 +168,7 @@
 | [Target](https://open.spotify.com/track/3dMIUgx4oCPjBlOtN8X7Z0) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11) | [Target](https://open.spotify.com/album/1c2n4BfMREowVQJ5sr1CmW) | 2:45 | 2023-07-24 | 2024-01-06 |
 | [Target 2](https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11), [Duhan Muzic](https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz) | [Target 2](https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp) | 2:30 | 2023-10-03 | 2023-11-10 |
 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 | 2026-01-29 |
+| [TEL TAMAKHU](https://open.spotify.com/track/0bGoXd5z0MArvjCixDzJj0) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Sachin Jaat](https://open.spotify.com/artist/4ck1WdgXASk76eCovLig80) | [TEL TAMAKHU](https://open.spotify.com/album/2WJDnhF1hO3cgosSQYMSVI) | 2:42 | 2026-03-12 |  |
 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 | 2023-07-24 |  |
 | [The Villagers](https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7) | [The Villagers](https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV) | 3:03 | 2023-07-24 | 2023-11-10 |
 | [Things We Do](https://open.spotify.com/track/7yHpwPG691Bi52Lta0HtFj) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Things We Do](https://open.spotify.com/album/4PmrsxOsKa6wgwXK07Nz4k) | 2:50 | 2024-04-30 | 2025-02-16 |

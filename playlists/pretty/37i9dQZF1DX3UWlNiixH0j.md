@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: DYGL
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,312 likes - 99 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,322 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,32 +80,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 70 | [片道夜行](https://open.spotify.com/track/0YD05VWp6aEUGnS9Pm2lhn) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [片道夜行](https://open.spotify.com/album/0ntfW8LvkbSL8sSKNyO6dT) | 3:42 |
 | 71 | [Forêt](https://open.spotify.com/track/0M3tpdAze1kcapdWwFeaR1) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [Forêt](https://open.spotify.com/album/3lxmRkVIxEl6aZf9yJK5Wf) | 3:27 |
 | 72 | [Fuwa Fuwa](https://open.spotify.com/track/0GJvDRvKMDEVN4eGCQ1Ts5) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Already](https://open.spotify.com/album/2IybN7u5SBV4yTORBHhrFb) | 3:26 |
-| 73 | [関係のラプソディー](https://open.spotify.com/track/6Mpqo6mLIQ0qbf0Bz68hHp) | [睡眠船](https://open.spotify.com/artist/4OHZtD9DHyBp9nqSizvBff) | [関係のラプソディー](https://open.spotify.com/album/3JQU6Fl97q9ilcxOeAPr8Y) | 4:45 |
-| 74 | [水でできてる](https://open.spotify.com/track/6bzOXFszefhaTNbeaItyba) | [Glimpse Group](https://open.spotify.com/artist/4qGa7OPAUP7luUxcPUopeV) | [水でできてる](https://open.spotify.com/album/3BfjbotyqimsaRV2AJPdgD) | 4:14 |
-| 75 | [Iromeki](https://open.spotify.com/track/62lk71BlPo7f1KNEifisix) | [TiDE](https://open.spotify.com/artist/7GYf2bbYNFuyl22IYZJ8lI) | [Iromeki](https://open.spotify.com/album/00ZfUkuXjACIcrnubDo7Au) | 3:33 |
-| 76 | [knuckle duster](https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [knuckle duster](https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu) | 3:03 |
-| 77 | [Check](https://open.spotify.com/track/149oCvO1cYu3CmWWacL8Ki) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [Check](https://open.spotify.com/album/68hpRMdjB4e4lypZTxU1AF) | 4:23 |
-| 78 | [燃え殻](https://open.spotify.com/track/5Yz8XLemM511VYWaaTO2K3) | [ささくれ](https://open.spotify.com/artist/1NfltVPVl2DxMsNDrK7JlO) | [忘れたいこと](https://open.spotify.com/album/0bpFGYCpNCMjuOfg84dSZC) | 4:38 |
-| 79 | [I Think I Know You 2.0](https://open.spotify.com/track/0eDrxAHiLDW8fZcDrxmoak) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [ITIKYTN2.0](https://open.spotify.com/album/1jbZy7UJArMUPgBP0R6TDi) | 3:15 |
-| 80 | [スティルライフ](https://open.spotify.com/track/2CRM4xaArLWev6e1DZL8vG) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [スティルライフ](https://open.spotify.com/album/51IGNtQX5e3MJVYSDTGHAO) | 3:57 |
-| 81 | [Track 12](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 0:00 |
-| 82 | [Out of Time](https://open.spotify.com/track/2pLBsvLoOVNZdSOc0e4RRw) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [Out of Time](https://open.spotify.com/album/3Xx7dmXAgbAE3yWbB8OkmF) | 3:45 |
-| 83 | [Bags](https://open.spotify.com/track/5TGQvFTs6iCxyJQsO3osIk) | [Walm](https://open.spotify.com/artist/5Jz52URy3MvoWNMyGPUyPC) | [Bags](https://open.spotify.com/album/3muI5nMYdbrZhZgAmGqa6H) | 4:27 |
-| 84 | [Bloody Box](https://open.spotify.com/track/7gnAblitrUIwnbUPw55VEO) | [THE RAPTOLS](https://open.spotify.com/artist/0PfC73YU6spbJ76k2CRb3O) | [Bloody Box](https://open.spotify.com/album/0a3FbsksZo6fuKdkYQ87Zt) | 3:17 |
-| 85 | [still i wait](https://open.spotify.com/track/5DvOXiJyK0K2riz6i2Swod) | [sui sui duck](https://open.spotify.com/artist/6asuiLN1ghRaYH2JoKcVAC), [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A) | [still i wait](https://open.spotify.com/album/3oEdf4Kp3VlqJozpY7gOS1) | 3:38 |
-| 86 | [ノンラベル](https://open.spotify.com/track/6rUwTjhni5PnJbIbS8HykB) | [fugasi](https://open.spotify.com/artist/73gPdCme8OZuZMjwVQXA01) | [駄々](https://open.spotify.com/album/0F2MaageP2WEhXBrFToTOF) | 3:57 |
-| 87 | [流星にひっぱられて](https://open.spotify.com/track/3QXnYrBc0uZtA4X8YqsVUa) | [らんまん](https://open.spotify.com/artist/0ynBxm5p6ZMSBqqSq2QEyY) | [流星にひっぱられて](https://open.spotify.com/album/2GTL1IZuV5KH4ICogeZrQI) | 3:23 |
-| 88 | [夏の休日](https://open.spotify.com/track/18byJa50MoISMBtQfqZWLI) | [大陸BAND](https://open.spotify.com/artist/3zvKyEUcZvI0ApbgGzMKub) | [夏の休日](https://open.spotify.com/album/2QZGsVDIQR2YcauSWfVd5W) | 4:10 |
-| 89 | [湖](https://open.spotify.com/track/7L6IS3vOXEgxbU0eycuXqX) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [湖](https://open.spotify.com/album/3peimzhKL1feEj2N5VP473) | 4:39 |
-| 90 | [Sea](https://open.spotify.com/track/1fKIfTwO2egdeM3iYuGcW7) | [VIBI](https://open.spotify.com/artist/68HDifLIoEaRPw5ga9z5sf) | [Sea](https://open.spotify.com/album/2NX333PtGBsDml1D9ZxBY6) | 2:57 |
-| 91 | [nine lives](https://open.spotify.com/track/6RnQ7pqoEsRQ1pypZ4QMZZ) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [nine lives](https://open.spotify.com/album/4O2TFNxQrkcsjSwLVhaTsO) | 3:44 |
-| 92 | [Darling](https://open.spotify.com/track/4wuGhK7mRIJkBoLJYiwVmd) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [Darling](https://open.spotify.com/album/3wD00YxYnl5gC2H6dNpSXk) | 4:16 |
-| 93 | [PIANO](https://open.spotify.com/track/3Pr6crvXcF2XfhUWxO6wI1) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [PIANO](https://open.spotify.com/album/63daxtjGYm0whDN05AjsRD) | 3:34 |
-| 94 | [オールトの雲](https://open.spotify.com/track/5U6JEiKH5HHvbz3Ljykids) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [オールトの雲](https://open.spotify.com/album/4RfvQ2z7ncuC5i3EH3qrmR) | 4:01 |
-| 95 | [HOLLOW EYES](https://open.spotify.com/track/1HiXy7BSM1Uxs0jcBTlAbQ) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [HOLLOW EYES](https://open.spotify.com/album/5wv3O20bdoSzjl62iIs3tS) | 3:26 |
-| 96 | [Lily's Smile](https://open.spotify.com/track/5jN13riENABqBOosbaTzbA) | [The Pen Friend Club](https://open.spotify.com/artist/2YCoWIMictATX05LbntMQO) | [Lily's Smile / Really Feel](https://open.spotify.com/album/6gxLe3bBF3dMdVeP2lobo0) | 4:18 |
-| 97 | [Undo\-Onchi](https://open.spotify.com/track/1vT8iAHQHxNI0woM8azEEA) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [Undo\-Onchi](https://open.spotify.com/album/22fsvxeSmpCUWX4E76ZIa4) | 3:30 |
-| 98 | [U\-TOC ERROR](https://open.spotify.com/track/19HoNNUurRMjZQWtgCNYrW) | [pomodorosa](https://open.spotify.com/artist/2K5KXj15T4ZlEUvWSjvWPV) | [U\-TOC ERROR](https://open.spotify.com/album/121BsnHSnBeKLmm1Nk9keQ) | 4:14 |
-| 99 | [きみの名前](https://open.spotify.com/track/0FYJXPIobq9zMXIjcdOqYp) | [ヒノヨーコ](https://open.spotify.com/artist/2b6l4vgtJOlrLXPzsJFERb) | [ラッキーストライク！](https://open.spotify.com/album/0PtVr4iyD1InHOdoMiEvNw) | 2:00 |
+| 73 | [Hazard Course](https://open.spotify.com/track/6A5VjxInqR55Atzhe4OEPT) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [TRUTHBUSTER](https://open.spotify.com/album/7aqvUIUwlZSUjGfygnFxv5) | 4:12 |
+| 74 | [関係のラプソディー](https://open.spotify.com/track/6Mpqo6mLIQ0qbf0Bz68hHp) | [睡眠船](https://open.spotify.com/artist/4OHZtD9DHyBp9nqSizvBff) | [関係のラプソディー](https://open.spotify.com/album/3JQU6Fl97q9ilcxOeAPr8Y) | 4:45 |
+| 75 | [水でできてる](https://open.spotify.com/track/6bzOXFszefhaTNbeaItyba) | [Glimpse Group](https://open.spotify.com/artist/4qGa7OPAUP7luUxcPUopeV) | [水でできてる](https://open.spotify.com/album/3BfjbotyqimsaRV2AJPdgD) | 4:14 |
+| 76 | [Iromeki](https://open.spotify.com/track/62lk71BlPo7f1KNEifisix) | [TiDE](https://open.spotify.com/artist/7GYf2bbYNFuyl22IYZJ8lI) | [Iromeki](https://open.spotify.com/album/00ZfUkuXjACIcrnubDo7Au) | 3:33 |
+| 77 | [knuckle duster](https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [knuckle duster](https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu) | 3:03 |
+| 78 | [Check](https://open.spotify.com/track/149oCvO1cYu3CmWWacL8Ki) | [BOARD](https://open.spotify.com/artist/3Gw0SqmSLgqAtdouGnMste) | [Check](https://open.spotify.com/album/68hpRMdjB4e4lypZTxU1AF) | 4:23 |
+| 79 | [燃え殻](https://open.spotify.com/track/5Yz8XLemM511VYWaaTO2K3) | [ささくれ](https://open.spotify.com/artist/1NfltVPVl2DxMsNDrK7JlO) | [忘れたいこと](https://open.spotify.com/album/0bpFGYCpNCMjuOfg84dSZC) | 4:38 |
+| 80 | [I Think I Know You 2.0](https://open.spotify.com/track/0eDrxAHiLDW8fZcDrxmoak) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [ITIKYTN2.0](https://open.spotify.com/album/1jbZy7UJArMUPgBP0R6TDi) | 3:15 |
+| 81 | [スティルライフ](https://open.spotify.com/track/2CRM4xaArLWev6e1DZL8vG) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [スティルライフ](https://open.spotify.com/album/51IGNtQX5e3MJVYSDTGHAO) | 3:57 |
+| 82 | [Junk Pop](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 3:39 |
+| 83 | [Out of Time](https://open.spotify.com/track/2pLBsvLoOVNZdSOc0e4RRw) | [The Muddies](https://open.spotify.com/artist/2zFsxadjvDk8KJz1lgxwXS) | [Out of Time](https://open.spotify.com/album/3Xx7dmXAgbAE3yWbB8OkmF) | 3:45 |
+| 84 | [Bags](https://open.spotify.com/track/5TGQvFTs6iCxyJQsO3osIk) | [Walm](https://open.spotify.com/artist/5Jz52URy3MvoWNMyGPUyPC) | [Bags](https://open.spotify.com/album/3muI5nMYdbrZhZgAmGqa6H) | 4:27 |
+| 85 | [Bloody Box](https://open.spotify.com/track/7gnAblitrUIwnbUPw55VEO) | [THE RAPTOLS](https://open.spotify.com/artist/0PfC73YU6spbJ76k2CRb3O) | [Bloody Box](https://open.spotify.com/album/0a3FbsksZo6fuKdkYQ87Zt) | 3:17 |
+| 86 | [still i wait](https://open.spotify.com/track/5DvOXiJyK0K2riz6i2Swod) | [sui sui duck](https://open.spotify.com/artist/6asuiLN1ghRaYH2JoKcVAC), [相谷レイナ](https://open.spotify.com/artist/5Hm5GfaTrjt3IlzOcZVX2A) | [still i wait](https://open.spotify.com/album/3oEdf4Kp3VlqJozpY7gOS1) | 3:38 |
+| 87 | [ノンラベル](https://open.spotify.com/track/6rUwTjhni5PnJbIbS8HykB) | [fugasi](https://open.spotify.com/artist/73gPdCme8OZuZMjwVQXA01) | [駄々](https://open.spotify.com/album/0F2MaageP2WEhXBrFToTOF) | 3:57 |
+| 88 | [流星にひっぱられて](https://open.spotify.com/track/3QXnYrBc0uZtA4X8YqsVUa) | [らんまん](https://open.spotify.com/artist/0ynBxm5p6ZMSBqqSq2QEyY) | [流星にひっぱられて](https://open.spotify.com/album/2GTL1IZuV5KH4ICogeZrQI) | 3:23 |
+| 89 | [夏の休日](https://open.spotify.com/track/18byJa50MoISMBtQfqZWLI) | [大陸BAND](https://open.spotify.com/artist/3zvKyEUcZvI0ApbgGzMKub) | [夏の休日](https://open.spotify.com/album/2QZGsVDIQR2YcauSWfVd5W) | 4:10 |
+| 90 | [湖](https://open.spotify.com/track/7L6IS3vOXEgxbU0eycuXqX) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [湖](https://open.spotify.com/album/3peimzhKL1feEj2N5VP473) | 4:39 |
+| 91 | [Sea](https://open.spotify.com/track/1fKIfTwO2egdeM3iYuGcW7) | [VIBI](https://open.spotify.com/artist/68HDifLIoEaRPw5ga9z5sf) | [Sea](https://open.spotify.com/album/2NX333PtGBsDml1D9ZxBY6) | 2:57 |
+| 92 | [nine lives](https://open.spotify.com/track/6RnQ7pqoEsRQ1pypZ4QMZZ) | [tiny yawn](https://open.spotify.com/artist/4qiB0gKNq2SHDGl2pVvXrD) | [nine lives](https://open.spotify.com/album/4O2TFNxQrkcsjSwLVhaTsO) | 3:44 |
+| 93 | [Darling](https://open.spotify.com/track/4wuGhK7mRIJkBoLJYiwVmd) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [Darling](https://open.spotify.com/album/3wD00YxYnl5gC2H6dNpSXk) | 4:16 |
+| 94 | [PIANO](https://open.spotify.com/track/3Pr6crvXcF2XfhUWxO6wI1) | [Merchant](https://open.spotify.com/artist/6Znnlm7AdtM0ulJk5cuk0W) | [PIANO](https://open.spotify.com/album/63daxtjGYm0whDN05AjsRD) | 3:34 |
+| 95 | [オールトの雲](https://open.spotify.com/track/5U6JEiKH5HHvbz3Ljykids) | [湯冷めラジオ](https://open.spotify.com/artist/1Pjvr24b1tkJjyMRcyzF92) | [オールトの雲](https://open.spotify.com/album/4RfvQ2z7ncuC5i3EH3qrmR) | 4:01 |
+| 96 | [HOLLOW EYES](https://open.spotify.com/track/1HiXy7BSM1Uxs0jcBTlAbQ) | [星熊南巫](https://open.spotify.com/artist/4QHRf4j0MXjcghBBXhKE2U) | [HOLLOW EYES](https://open.spotify.com/album/5wv3O20bdoSzjl62iIs3tS) | 3:26 |
+| 97 | [Lily's Smile](https://open.spotify.com/track/5jN13riENABqBOosbaTzbA) | [The Pen Friend Club](https://open.spotify.com/artist/2YCoWIMictATX05LbntMQO) | [Lily's Smile / Really Feel](https://open.spotify.com/album/6gxLe3bBF3dMdVeP2lobo0) | 4:18 |
+| 98 | [Undo\-Onchi](https://open.spotify.com/track/1vT8iAHQHxNI0woM8azEEA) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [Undo\-Onchi](https://open.spotify.com/album/22fsvxeSmpCUWX4E76ZIa4) | 3:30 |
+| 99 | [U\-TOC ERROR](https://open.spotify.com/track/19HoNNUurRMjZQWtgCNYrW) | [pomodorosa](https://open.spotify.com/artist/2K5KXj15T4ZlEUvWSjvWPV) | [U\-TOC ERROR](https://open.spotify.com/album/121BsnHSnBeKLmm1Nk9keQ) | 4:14 |
+| 100 | [きみの名前](https://open.spotify.com/track/0FYJXPIobq9zMXIjcdOqYp) | [ヒノヨーコ](https://open.spotify.com/artist/2b6l4vgtJOlrLXPzsJFERb) | [ラッキーストライク！](https://open.spotify.com/album/0PtVr4iyD1InHOdoMiEvNw) | 2:00 |
 
 Snapshot ID: `AAAAAEDtiwVVFeZSKtxWwo0yA+qzNzgh`

@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 13028,
+  "num_followers": 13039,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Love Drive",
-        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
+        "name": "A Dance More Sweetly Played",
+        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
       },
       "artists": [
         {
-          "name": "Vimbs Mavimbs",
-          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
         }
       ],
-      "duration_ms": 274091,
-      "name": "Love Drive",
-      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
+      "duration_ms": 384853,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "A Dance More Sweetly Played",
-        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
+        "name": "Love Drive",
+        "url": "https://open.spotify.com/album/4xLYE2FqMIfSsHkPtL7v7q"
       },
       "artists": [
         {
-          "name": "Kyle Shepherd Trio",
-          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
         }
       ],
-      "duration_ms": 384853,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8"
+      "duration_ms": 274091,
+      "name": "Love Drive",
+      "url": "https://open.spotify.com/track/62vKXM3SYKQMP9V4FLhjCN"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "ANXIOUSLY PREOCCUPIED",
-        "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
-      },
-      "artists": [
-        {
-          "name": "giuliette price",
-          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "speak now",
-      "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 302022,
       "name": "The Waters",
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "ANXIOUSLY PREOCCUPIED",
+        "url": "https://open.spotify.com/album/5zgywYv1iXrgnJt8BbVGvi"
+      },
+      "artists": [
+        {
+          "name": "giuliette price",
+          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "speak now",
+      "url": "https://open.spotify.com/track/1U7EDHJNa3CbkI5AxyzykX"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "ISIGQI (live at the bird's eye)",
-        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
-      },
-      "artists": [
-        {
-          "name": "Sibusiso Mash Mashiloane",
-          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
-        }
-      ],
-      "duration_ms": 602757,
-      "name": "KwaZulu (Live)",
-      "url": "https://open.spotify.com/track/67Tzj44OUju41V3LCMegSY"
-    },
-    {
-      "added_at": "2026-03-13 08:01:55",
-      "album": {
         "name": "Tones of Epiphany",
         "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 362790,
       "name": "The Aha Moment",
       "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
+    },
+    {
+      "added_at": "2026-03-13 08:01:55",
+      "album": {
+        "name": "ISIGQI (live at the bird's eye)",
+        "url": "https://open.spotify.com/album/7EUxCUZdyjSkcCHvCmtAdM"
+      },
+      "artists": [
+        {
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
+        }
+      ],
+      "duration_ms": 602757,
+      "name": "KwaZulu (Live)",
+      "url": "https://open.spotify.com/track/67Tzj44OUju41V3LCMegSY"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -823,26 +823,18 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "People of the South",
-        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
+        "name": "P (x) J",
+        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
       },
       "artists": [
         {
-          "name": "Viwe Mkizwana Ensemble",
-          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
-        },
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
-        },
-        {
-          "name": "Marcus Wyatt",
-          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
+          "name": "NALEDI",
+          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
         }
       ],
-      "duration_ms": 345520,
-      "name": "People of the South",
-      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+      "duration_ms": 272120,
+      "name": "P (x) J",
+      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -875,18 +867,26 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "P (x) J",
-        "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
+        "name": "People of the South",
+        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
       "artists": [
         {
-          "name": "NALEDI",
-          "url": "https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA"
+          "name": "Viwe Mkizwana Ensemble",
+          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Marcus Wyatt",
+          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
         }
       ],
-      "duration_ms": 272120,
-      "name": "P (x) J",
-      "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
+      "duration_ms": 345520,
+      "name": "People of the South",
+      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -935,26 +935,22 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
+        "name": "ZINZA",
+        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
       "artists": [
         {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+          "name": "BandaBanda",
+          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
         },
         {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jacomo Bairos",
-          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 416493,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
+      "duration_ms": 270120,
+      "name": "Ngeke!",
+      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
     },
     {
       "added_at": "2026-03-13 08:01:55",
@@ -975,22 +971,26 @@
     {
       "added_at": "2026-03-13 08:01:55",
       "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
       },
       "artists": [
         {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
         },
         {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
         }
       ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+      "duration_ms": 416493,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
     },
     {
       "added_at": "2026-03-13 08:01:55",

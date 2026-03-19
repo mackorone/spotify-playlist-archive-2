@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 60402,
+  "num_followers": 60447,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,50 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
+        "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
+        },
+        {
+          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
+        },
+        {
+          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
+        },
+        {
+          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
+        },
+        {
+          "name": "\u30b5\u30af\u30e9\u30d0\u30af\u30b7\u30f3\u30aa\u30fc (CV. \u4e09\u6fa4\u7d17\u5343\u9999)",
+          "url": "https://open.spotify.com/artist/2KTO9iOuebXup8EbE8ynYU"
+        },
+        {
+          "name": "\u30d3\u30b3\u30fc\u30da\u30ac\u30b5\u30b9 (CV. \u7530\u4e2d\u3042\u3044\u307f)",
+          "url": "https://open.spotify.com/artist/785RrfSa8VWIBbfX9CQ3Hq"
+        },
+        {
+          "name": "\u30ca\u30a4\u30b9\u30cd\u30a4\u30c1\u30e3 (CV. \u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/0YcfowlzLQVZ9SKqIxjGZu"
+        },
+        {
+          "name": "\u30ad\u30f3\u30b0\u30d8\u30a4\u30ed\u30fc (CV. \u4f50\u4f2f\u4f0a\u7e54)",
+          "url": "https://open.spotify.com/artist/3fNRzjn4pun1Jj81oMftq5"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "\u672c\u80fd\u30b9\u30d4\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/73cEilZ9po5jqiQk6ICPNX"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 08",
         "url": "https://open.spotify.com/album/6kbBJpvOhVgoE9j9VxhmjN"
       },
@@ -936,50 +980,6 @@
       },
       "artists": [
         {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        },
-        {
-          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
-        },
-        {
-          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
-          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
-        },
-        {
-          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
-          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
-        },
-        {
-          "name": "\u30b5\u30af\u30e9\u30d0\u30af\u30b7\u30f3\u30aa\u30fc (CV. \u4e09\u6fa4\u7d17\u5343\u9999)",
-          "url": "https://open.spotify.com/artist/2KTO9iOuebXup8EbE8ynYU"
-        },
-        {
-          "name": "\u30d3\u30b3\u30fc\u30da\u30ac\u30b5\u30b9 (CV. \u7530\u4e2d\u3042\u3044\u307f)",
-          "url": "https://open.spotify.com/artist/785RrfSa8VWIBbfX9CQ3Hq"
-        },
-        {
-          "name": "\u30ca\u30a4\u30b9\u30cd\u30a4\u30c1\u30e3 (CV. \u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/0YcfowlzLQVZ9SKqIxjGZu"
-        },
-        {
-          "name": "\u30ad\u30f3\u30b0\u30d8\u30a4\u30ed\u30fc (CV. \u4f50\u4f2f\u4f0a\u7e54)",
-          "url": "https://open.spotify.com/artist/3fNRzjn4pun1Jj81oMftq5"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "\u672c\u80fd\u30b9\u30d4\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/73cEilZ9po5jqiQk6ICPNX"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
-        "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
-      },
-      "artists": [
-        {
           "name": "\u30b0\u30e9\u30b9\u30ef\u30f3\u30c0\u30fc (CV. \u524d\u7530\u73b2\u5948)",
           "url": "https://open.spotify.com/artist/613a940AwltjxfJv9vqBgG"
         },
@@ -1047,22 +1047,38 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.2 \u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6OsHfe5rmpFicRsAXJG14K"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
+        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
+        },
+        {
+          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
+        }
+      ],
+      "duration_ms": 288026,
+      "name": "transforming",
+      "url": "https://open.spotify.com/track/6YtQEadXsPqwoZZIrjl2Np"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 (vol.1 \u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01)",
+        "url": "https://open.spotify.com/album/29EUPZu75o2TfBLmMvxHu2"
       },
       "artists": [
         {
           "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
-        },
-        {
-          "name": "\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)",
-          "url": "https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2"
         }
       ],
-      "duration_ms": 295280,
-      "name": "\u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/1EqOLdIBv1wo4nSTa6TUZq"
+      "duration_ms": 240760,
+      "name": "winning the soul",
+      "url": "https://open.spotify.com/track/5vkwgb40XLJLvW6brxeHzy"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1151,8 +1167,8 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
-        "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 vol.2 \u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6OsHfe5rmpFicRsAXJG14K"
       },
       "artists": [
         {
@@ -1160,25 +1176,13 @@
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
         },
         {
-          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
-          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
-        },
-        {
-          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
-        },
-        {
-          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
-          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
-        },
-        {
-          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
-          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
+          "name": "\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/2l6FCoCzlD0uQgtSkXBZi2"
         }
       ],
-      "duration_ms": 287800,
-      "name": "Ms. VICTORIA",
-      "url": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe"
+      "duration_ms": 295280,
+      "name": "\u6728\u6f0f\u308c\u65e5\u306e\u30a8\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1EqOLdIBv1wo4nSTa6TUZq"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1227,6 +1231,22 @@
       "duration_ms": 325346,
       "name": "\u5922\u306e\u3053\u305f\u3048",
       "url": "https://open.spotify.com/track/1meMOKwFOq0PvuNwoGEIVy"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
+        "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
+      },
+      "artists": [
+        {
+          "name": "\u30ca\u30ea\u30bf\u30d6\u30e9\u30a4\u30a2\u30f3 (CV. \u8863\u5ddd\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO"
+        }
+      ],
+      "duration_ms": 293493,
+      "name": "BLAZE",
+      "url": "https://open.spotify.com/track/1Lz3m4EVjCiXlbyNWqzS25"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1315,24 +1335,8 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
-        "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
-      },
-      "artists": [
-        {
-          "name": "\u30ca\u30ea\u30bf\u30d6\u30e9\u30a4\u30a2\u30f3 (CV. \u8863\u5ddd\u91cc\u4f73)",
-          "url": "https://open.spotify.com/artist/68SOpX4lz1qAQoQsyvKvXO"
-        }
-      ],
-      "duration_ms": 293493,
-      "name": "BLAZE",
-      "url": "https://open.spotify.com/track/1Lz3m4EVjCiXlbyNWqzS25"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 11",
-        "url": "https://open.spotify.com/album/4YbosSHmE5o4LIhQdds9tR"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 09",
+        "url": "https://open.spotify.com/album/3mmxRh4FcAMN8OgG9Q4QF2"
       },
       "artists": [
         {
@@ -1340,25 +1344,25 @@
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
         },
         {
+          "name": "\u30aa\u30b0\u30ea\u30ad\u30e3\u30c3\u30d7 (CV. \u9ad8\u67f3\u77e5\u8449)",
+          "url": "https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU"
+        },
+        {
           "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
           "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
         },
         {
-          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
+          "name": "\u30bf\u30a4\u30ad\u30b7\u30e3\u30c8\u30eb (CV. \u5927\u576a\u7531\u4f73)",
+          "url": "https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz"
         },
         {
-          "name": "\u30c4\u30eb\u30de\u30eb\u30c4\u30e8\u30b7 (CV. \u9752\u5c71\u5409\u80fd)",
-          "url": "https://open.spotify.com/artist/7iJF3Do8bZVRYuuccgkeQh"
-        },
-        {
-          "name": "\u30bf\u30cb\u30ce\u30ae\u30e0\u30ec\u30c3\u30c8 (CV. \u677e\u5ca1\u7f8e\u91cc)",
-          "url": "https://open.spotify.com/artist/5y8hEKD7bCEYSrNpCmQj1o"
+          "name": "\u30a8\u30eb\u30b3\u30f3\u30c9\u30eb\u30d1\u30b5\u30fc (CV. \u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE"
         }
       ],
-      "duration_ms": 268466,
-      "name": "Everlasting BEATS",
-      "url": "https://open.spotify.com/track/2eCTlccWr1m9aWPTSnNCDk"
+      "duration_ms": 287800,
+      "name": "Ms. VICTORIA",
+      "url": "https://open.spotify.com/track/3LAp74LpBYMt7TzlypsTLe"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1443,18 +1447,34 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc Season 2\u300fANIMATION DERBY Season 2 (vol.1 \u30e6\u30e1\u30f2\u30ab\u30b1\u30eb\uff01)",
-        "url": "https://open.spotify.com/album/29EUPZu75o2TfBLmMvxHu2"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 11",
+        "url": "https://open.spotify.com/album/4YbosSHmE5o4LIhQdds9tR"
       },
       "artists": [
         {
           "name": "\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)",
           "url": "https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O"
+        },
+        {
+          "name": "\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270"
+        },
+        {
+          "name": "\u30b7\u30f3\u30dc\u30ea\u30eb\u30c9\u30eb\u30d5 (CV. \u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/2ElPdL2qFLO3Apwz0deRWO"
+        },
+        {
+          "name": "\u30c4\u30eb\u30de\u30eb\u30c4\u30e8\u30b7 (CV. \u9752\u5c71\u5409\u80fd)",
+          "url": "https://open.spotify.com/artist/7iJF3Do8bZVRYuuccgkeQh"
+        },
+        {
+          "name": "\u30bf\u30cb\u30ce\u30ae\u30e0\u30ec\u30c3\u30c8 (CV. \u677e\u5ca1\u7f8e\u91cc)",
+          "url": "https://open.spotify.com/artist/5y8hEKD7bCEYSrNpCmQj1o"
         }
       ],
-      "duration_ms": 240760,
-      "name": "winning the soul",
-      "url": "https://open.spotify.com/track/5vkwgb40XLJLvW6brxeHzy"
+      "duration_ms": 268466,
+      "name": "Everlasting BEATS",
+      "url": "https://open.spotify.com/track/2eCTlccWr1m9aWPTSnNCDk"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1483,6 +1503,22 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30d4\u30ab [\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)\u3001\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)\u3001\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)\u3001\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)\u3001\u30c0\u30a4\u30ef\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8 (CV. \u6728\u6751\u5343\u54b2)\u3001\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)\u3001\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)]",
+          "url": "https://open.spotify.com/artist/5dNPZt81boqupb2G4gAitd"
+        }
+      ],
+      "duration_ms": 299160,
+      "name": "Find My Only Way - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/1cYmcPxpTFXvLGSk1dFG6m"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -1507,18 +1543,18 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 03 Special Record!/Find My Only Way (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/7qZYX02Gz8iJwQp2wRC6WK"
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
       },
       "artists": [
         {
-          "name": "\u30b9\u30d4\u30ab [\u30b9\u30da\u30b7\u30e3\u30eb\u30a6\u30a3\u30fc\u30af (CV. \u548c\u6c23\u3042\u305a\u672a)\u3001\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)\u3001\u30c8\u30a6\u30ab\u30a4\u30c6\u30a4\u30aa\u30fc (CV. Machico)\u3001\u30a6\u30aa\u30c3\u30ab (CV. \u5927\u6a4b\u5f69\u9999)\u3001\u30c0\u30a4\u30ef\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8 (CV. \u6728\u6751\u5343\u54b2)\u3001\u30b4\u30fc\u30eb\u30c9\u30b7\u30c3\u30d7 (CV. \u4e0a\u7530 \u77b3)\u3001\u30e1\u30b8\u30ed\u30de\u30c3\u30af\u30a4\u30fc\u30f3 (CV. \u5927\u897f\u6c99\u7e54)]",
-          "url": "https://open.spotify.com/artist/5dNPZt81boqupb2G4gAitd"
+          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
         }
       ],
-      "duration_ms": 299160,
-      "name": "Find My Only Way - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/1cYmcPxpTFXvLGSk1dFG6m"
+      "duration_ms": 268213,
+      "name": "\u6c17\u307e\u3050\u308cTuning Heart - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/1AbjvHGbuWy1mpjJbILCfJ"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1591,22 +1627,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
-      },
-      "artists": [
-        {
-          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "\u6c17\u307e\u3050\u308cTuning Heart - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/1AbjvHGbuWy1mpjJbILCfJ"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 07 (2021 Remastered Version)",
         "url": "https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im"
       },
@@ -1639,50 +1659,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 03",
-        "url": "https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
-          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
-        },
-        {
-          "name": "\u30a2\u30b0\u30cd\u30b9\u30bf\u30ad\u30aa\u30f3 (CV. \u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/4nfIxuZocDZ6pOYPQIJL35"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "transforming",
-      "url": "https://open.spotify.com/track/6YtQEadXsPqwoZZIrjl2Np"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
-        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
-      },
-      "artists": [
-        {
-          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
-          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
-        },
-        {
-          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
-          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
-        },
-        {
-          "name": "\u30e6\u30ad\u30ce\u30d3\u30b8\u30f3 (CV. \u5c71\u672c\u5e0c\u671b)",
-          "url": "https://open.spotify.com/artist/28aGgD6eA22kgOEJKL29x4"
-        }
-      ],
-      "duration_ms": 225306,
-      "name": "A\u30fbNO\u30fbNE - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/3tIz6yFudNZvviiXMCRJWS"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
         "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
       },
@@ -1711,6 +1687,30 @@
       "duration_ms": 304920,
       "name": "We are DREAMERS!!",
       "url": "https://open.spotify.com/track/2mViOFg8N1olmZsSa9vi8j"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "\u30b9\u30de\u30db\u30b2\u30fc\u30e0\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fSTARTING GATE 08 (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/0vpMeLddwvNZ5neG2OiixY"
+      },
+      "artists": [
+        {
+          "name": "\u30b4\u30fc\u30eb\u30c9\u30b7\u30c1\u30fc (CV. \u9999\u5742\u3055\u304d)",
+          "url": "https://open.spotify.com/artist/1gu7ycwyjZTGDnGLBJt1w2"
+        },
+        {
+          "name": "\u30bb\u30a4\u30a6\u30f3\u30b9\u30ab\u30a4 (CV. \u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/62QH6q2fSLNOCCiKLaKG1p"
+        },
+        {
+          "name": "\u30e6\u30ad\u30ce\u30d3\u30b8\u30f3 (CV. \u5c71\u672c\u5e0c\u671b)",
+          "url": "https://open.spotify.com/artist/28aGgD6eA22kgOEJKL29x4"
+        }
+      ],
+      "duration_ms": 225306,
+      "name": "A\u30fbNO\u30fbNE - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/3tIz6yFudNZvviiXMCRJWS"
     },
     {
       "added_at": "2026-01-13 16:30:52",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-01-13 16:30:52",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 01 Make debut! (2021 Remastered Version)",
-        "url": "https://open.spotify.com/album/5Po7pJsoKPRVSx386Pf8g4"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
-          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "\u4e03\u8272\u306e\u666f\u8272 - 2021 Remastered Version",
-      "url": "https://open.spotify.com/track/1INojFWa1bybAkvBEWj5FF"
-    },
-    {
-      "added_at": "2026-01-13 16:30:52",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
         "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 256840,
       "name": "Never Looking Back",
       "url": "https://open.spotify.com/track/55SrcD8ihPqf5Ml6QdpczU"
+    },
+    {
+      "added_at": "2026-01-13 16:30:52",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fANIMATION DERBY 01 Make debut! (2021 Remastered Version)",
+        "url": "https://open.spotify.com/album/5Po7pJsoKPRVSx386Pf8g4"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30a4\u30ec\u30f3\u30b9\u30b9\u30ba\u30ab (CV. \u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/4pYvIklxg2YALG0A8MLUXD"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "\u4e03\u8272\u306e\u666f\u8272 - 2021 Remastered Version",
+      "url": "https://open.spotify.com/track/1INojFWa1bybAkvBEWj5FF"
     },
     {
       "added_at": "2026-01-13 16:30:52",

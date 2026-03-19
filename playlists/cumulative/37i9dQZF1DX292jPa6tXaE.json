@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Sifat Dhillon",
+  "description": "Discover the future of Punjabi Pop! Cover: Heera",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -1469,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Buried",
+        "url": "https://open.spotify.com/album/2xl85pgTpHtV6YRgOrGRaz"
+      },
+      "artists": [
+        {
+          "name": "SACH BAJWA",
+          "url": "https://open.spotify.com/artist/2XrlcI8r5hLJ6W6jGTstx1"
+        },
+        {
+          "name": "Shekh",
+          "url": "https://open.spotify.com/artist/2tmPa9mbYUmKBx203G9p5F"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Buried",
+      "url": "https://open.spotify.com/track/2xRbCiv4sD1b4l3cwOA2H6"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/10NuCUr5lPFFPz1MxB57w5"
       },
@@ -2057,6 +2079,28 @@
     },
     {
       "album": {
+        "name": "Chup Chup",
+        "url": "https://open.spotify.com/album/0Qc193JZhPThX5ZXpKPLrm"
+      },
+      "artists": [
+        {
+          "name": "Jind Sodhi",
+          "url": "https://open.spotify.com/artist/54YQBrYIRoJpiuE5Sb1jro"
+        },
+        {
+          "name": "Gavin Beats",
+          "url": "https://open.spotify.com/artist/4TLzjsNGObuG4T5K3CqYqS"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Chup Chup",
+      "url": "https://open.spotify.com/track/7yTd5Q4ZpBSHSzjRIuplke"
+    },
+    {
+      "album": {
         "name": "Classic Vibe",
         "url": "https://open.spotify.com/album/3v8UE4LaV0QpJbzuOCII46"
       },
@@ -2312,6 +2356,28 @@
       "duration_ms": 145647,
       "name": "Daaka",
       "url": "https://open.spotify.com/track/3ZqJTzZ8ZMprzw9QHyGY5d"
+    },
+    {
+      "album": {
+        "name": "Dang",
+        "url": "https://open.spotify.com/album/1t3n8ixPn4a4oVu33s54dg"
+      },
+      "artists": [
+        {
+          "name": "BAADAL",
+          "url": "https://open.spotify.com/artist/4Xv4nfUDkcLaiu6qoA7TGW"
+        },
+        {
+          "name": "Syphr",
+          "url": "https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Dang",
+      "url": "https://open.spotify.com/track/0ipvyfuMj43op8v3khWFMU"
     },
     {
       "album": {
@@ -4616,7 +4682,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 156577,
       "name": "ICONIC",
       "url": "https://open.spotify.com/track/0AcOW3bZG3egYiGXX0dAbz"
@@ -6023,6 +6089,24 @@
     },
     {
       "album": {
+        "name": "FIVE FRAMES",
+        "url": "https://open.spotify.com/album/5PeUfDkXt8sehhD2jjjMWg"
+      },
+      "artists": [
+        {
+          "name": "Heera",
+          "url": "https://open.spotify.com/artist/7uzeb12sTrgGZoYjEzK3In"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143998,
+      "name": "Kya Baat",
+      "url": "https://open.spotify.com/track/0EqikZRK8JIBLZ42G62Qmy"
+    },
+    {
+      "album": {
         "name": "L.VE",
         "url": "https://open.spotify.com/album/2bRe4Ma7rmiMSbcJHb3oas"
       },
@@ -6756,7 +6840,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 186000,
       "name": "Meharbaaniyan",
       "url": "https://open.spotify.com/track/5QV4yws6FGYfV3NDfdNBN7"
@@ -7146,7 +7230,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 152976,
       "name": "More Piya",
       "url": "https://open.spotify.com/track/4VwbpbHnQzn8DZgBZt1yyZ"
@@ -11228,7 +11312,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 162000,
       "name": "Void",
       "url": "https://open.spotify.com/track/6pIMf6awBwC17HoyB5ioLp"

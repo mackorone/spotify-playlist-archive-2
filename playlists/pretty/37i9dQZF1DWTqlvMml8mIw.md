@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,579 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,613 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 69 | [Pearly\-Dewdrops' Drops](https://open.spotify.com/track/6quWkdjaWC5OrskbKTbuMl) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Stars And Topsoil \- A Collection 1982\-1990](https://open.spotify.com/album/4Scia4LNRC4o2wkVl6mguk) | 4:11 |
 | 70 | [Spinning Away](https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 5:27 |
 | 71 | [Long Live \(Taylor's Version\)](https://open.spotify.com/track/4hqJ4bSlYJOXb6Z4SRmzxs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:17 |
-| 72 | [L'Elisir d'amore: Una furtiva lagrima](https://open.spotify.com/track/7iEl7EZ8pedmV0TP8ueh5o) | [Gaetano Donizetti](https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56), [Enrico Caruso](https://open.spotify.com/artist/2uB3KPGd1ZUGRsox7N1iH5), [Vienna Radio Symphony Orchestra](https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb), [Gottfried Rabl](https://open.spotify.com/artist/5GeHpJ4y6uKZBkQxyxU30C) | [Great Opera Arias](https://open.spotify.com/album/7rcZwRgMXEMx89oTBy1AtK) | 5:48 |
+| 72 | [L'Elisir d'amore: Una furtiva lagrima](https://open.spotify.com/track/7iEl7EZ8pedmV0TP8ueh5o) | [Gaetano Donizetti](https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56), [Enrico Caruso](https://open.spotify.com/artist/2uB3KPGd1ZUGRsox7N1iH5), [ORF Radio\-Symphonieorchester Wien](https://open.spotify.com/artist/76MQAIy2SmztmEBSfbl6xp), [Gottfried Rabl](https://open.spotify.com/artist/5GeHpJ4y6uKZBkQxyxU30C) | [Great Opera Arias](https://open.spotify.com/album/7rcZwRgMXEMx89oTBy1AtK) | 5:48 |
 | 73 | [Getchoo](https://open.spotify.com/track/1rvbY7HXYsFXSlLqxphocK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 2:52 |
 | 74 | [Purple Heather](https://open.spotify.com/track/6HOEvcvvRU6eMtI96SA2Es) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Hard Nose the Highway](https://open.spotify.com/album/2F6h5yYUVNcqqeCG55O8Rw) | 5:43 |
 | 75 | [Mixed Emotions \- Remastered 2009](https://open.spotify.com/track/6fKQblT3h0U2ydiDbnsyfa) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Steel Wheels \(Remastered 2009\)](https://open.spotify.com/album/7yUBkHdrxKHn4a3QhrfEj4) | 4:38 |

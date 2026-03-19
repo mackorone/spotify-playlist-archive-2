@@ -1,6 +1,6 @@
 {
   "description": "slc o brime ta vindo!!!",
-  "num_followers": 1453022,
+  "num_followers": 1452920,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "Eu Venci o Mundo",
-        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 107906,
-      "name": "Belieber",
-      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 255000,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/2fUBYMrJ968lLDHH8o3ocg"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "Eu Venci o Mundo",
+        "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 107906,
+      "name": "Belieber",
+      "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -855,34 +855,6 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "A Favela N\u00e3o Venceu",
-        "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "Neguin Desaforado",
-      "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
         "name": "S\u00f3 Lazer",
         "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
       },
@@ -907,6 +879,34 @@
       "duration_ms": 156000,
       "name": "S\u00f3 Lazer",
       "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
+        "name": "A Favela N\u00e3o Venceu",
+        "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "Neguin Desaforado",
+      "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1371,6 +1371,30 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "ADRENALINA",
+        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
+      },
+      "artists": [
+        {
+          "name": "AF!RMA",
+          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        }
+      ],
+      "duration_ms": 155789,
+      "name": "ADRENALINA",
+      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
         "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
       },
@@ -1387,42 +1411,6 @@
       "duration_ms": 140487,
       "name": "AMAPIANO",
       "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "MIXTAPE - BIG G",
-        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Brinquedo",
-          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Trunks",
-          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
-        },
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "Mc Dena",
-          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
-        }
-      ],
-      "duration_ms": 355848,
-      "name": "ARTIGOS (feat. Aaron Modesto, MC Dena)",
-      "url": "https://open.spotify.com/track/4ubNpZHs9hbj6B2nrideDi"
     },
     {
       "added_at": "2026-03-13 03:01:13",
@@ -1459,26 +1447,38 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
-        "name": "ADRENALINA",
-        "url": "https://open.spotify.com/album/4DQWPyCz5m3VdWT8ueitYJ"
+        "name": "MIXTAPE - BIG G",
+        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
       },
       "artists": [
         {
-          "name": "AF!RMA",
-          "url": "https://open.spotify.com/artist/5ezbyJgINANhxowRLAUoXS"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
         },
         {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Mc Dena",
+          "url": "https://open.spotify.com/artist/4J2dAJV1pnSqZIXUhN9615"
         }
       ],
-      "duration_ms": 155789,
-      "name": "ADRENALINA",
-      "url": "https://open.spotify.com/track/50pkxDzzTceIjWcxcTRE5l"
+      "duration_ms": 355848,
+      "name": "ARTIGOS (feat. Aaron Modesto, MC Dena)",
+      "url": "https://open.spotify.com/track/4ubNpZHs9hbj6B2nrideDi"
     },
     {
       "added_at": "2026-03-13 03:01:13",

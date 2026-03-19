@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,933 songs - 4 day 9 hr 13 min
+1,934 songs - 4 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [7YATI](https://open.spotify.com/track/2P9o39lTzv5Ot1rmRaVMrs) | [Ridouane.officiel1](https://open.spotify.com/artist/6CWdfBwZpsPKVYzIZucTKG) | [7YATI](https://open.spotify.com/album/6jeqpxMp1ODiZ6hdZXpeGk) | 2:35 | 2023-10-17 | 2023-10-19 |
 | [999](https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:14 | 2023-01-07 | 2023-01-19 |
 | [999](https://open.spotify.com/track/6byhaAmWs8DEL8veyvFXnO) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:14 | 2023-01-08 | 2023-01-10 |
-| [9awdooha](https://open.spotify.com/track/2MHafKNq1mDFBA9HGa2QdK) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [9awdooha](https://open.spotify.com/album/5tI95rP7sdZhIyaPNpafmQ) | 3:47 | 2025-09-27 |  |
+| [9awdooha](https://open.spotify.com/track/2MHafKNq1mDFBA9HGa2QdK) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [9awdooha](https://open.spotify.com/album/5tI95rP7sdZhIyaPNpafmQ) | 3:47 | 2025-09-27 | 2026-03-19 |
 | [9lil L7ya](https://open.spotify.com/track/72xRdkNgXfWTetqFPRxY7j) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [9lil L7ya](https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV) | 2:52 | 2021-10-18 | 2021-10-21 |
 | [9ortass](https://open.spotify.com/track/1m1RUXf2pARYhwNyaKd3ye) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/43LzWtYzYJYCAcIHmTHzdr) | 2:49 | 2021-05-07 | 2021-11-24 |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-03-12 | 2023-03-15 |
@@ -1204,6 +1204,7 @@
 | [MTV CRIBS](https://open.spotify.com/track/2pMw5VOlOtM7q5j2vp3QbF) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [MTV CRIBS](https://open.spotify.com/album/1OXlhfKHKoXmHBVBhAlSFi) | 3:44 | 2024-02-18 | 2024-02-26 |
 | [MUNYUN](https://open.spotify.com/track/2JJFJEvFSWyQ59Pwl2gqSF) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:34 | 2025-03-15 | 2025-03-17 |
 | [Murray](https://open.spotify.com/track/5ec36tT5RBowyUPB0AZLUl) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Murray](https://open.spotify.com/album/6GysYHx4p5DkTXcp54uK5m) | 3:18 | 2025-01-26 | 2025-02-13 |
+| [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2026-03-18 |  |
 | [MW2](https://open.spotify.com/track/2sMxeHjS9rQh9gB92rcRF9) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 4:47 | 2023-09-12 | 2023-09-14 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-01 |
 | [My Time](https://open.spotify.com/track/0YJFlxeHMUr9MxSDQVuQJA) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 3:54 | 2022-02-25 | 2022-02-27 |

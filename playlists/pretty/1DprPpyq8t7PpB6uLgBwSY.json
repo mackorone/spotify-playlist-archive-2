@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAJCwkSgMWsLe+fly3CSAxROBibaPv",
+  "snapshot_id": "AAAAJbMkjFj38ILQhqjF3O9EjpzAuGI7",
   "tracks": [
     {
       "added_at": "2022-09-07 18:39:54",
@@ -471,6 +471,22 @@
       "duration_ms": 198040,
       "name": "Crazy = Genius",
       "url": "https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C"
+    },
+    {
+      "added_at": "2026-03-19 00:51:15",
+      "album": {
+        "name": "Love, Crime & Other Trouble",
+        "url": "https://open.spotify.com/album/4H1ejfeqzHNozHMP0u3r0v"
+      },
+      "artists": [
+        {
+          "name": "Charming Disaster",
+          "url": "https://open.spotify.com/artist/1RjkfhamohczSXjFy5WcZh"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Grifters",
+      "url": "https://open.spotify.com/track/7D0H4hT1QAIWb0M02IgFX8"
     }
   ],
   "unique_name": "Power Trip",

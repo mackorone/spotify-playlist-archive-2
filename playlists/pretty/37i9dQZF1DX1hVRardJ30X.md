@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Zulia, Ozuna, CA7RIEL & Paco Amoroso, Yahritza y Su Esencia & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,569 likes - 42 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,572 likes - 42 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

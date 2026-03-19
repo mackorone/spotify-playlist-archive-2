@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,999 songs - 4 day 23 hr 0 min
+2,003 songs - 4 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 | 2026-01-04 |  |
 | [Asi Te Quiero](https://open.spotify.com/track/1ovtRibd9A7snHsGZTyrne) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Asi Te Quiero](https://open.spotify.com/album/54bz5FiwFx168Dy9FYw0Es) | 2:19 | 2026-03-12 |  |
 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 | 2026-01-07 |  |
+| [Assurance](https://open.spotify.com/track/5YWWg1cV7S8ilfYVTIzzJq) | [Hyper Sync](https://open.spotify.com/artist/6Sb54P0jJgg9TsxYbnISe0) | [Assurance](https://open.spotify.com/album/6FkdVauaf3TWz2NedBfzsh) | 1:20 | 2026-03-18 |  |
 | [Asteroid](https://open.spotify.com/track/2ZcZVHWbladB8xTuUZ2YFK) | [Dutch Gunderson](https://open.spotify.com/artist/5UAK417O73vLv1MOTDxhYx) | [Dutch Gunderson](https://open.spotify.com/album/1k3ynjVZhaPk2DFNIVERbW) | 3:47 | 2025-05-28 |  |
 | [Astral](https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z) | [Clariá](https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl) | [Astral](https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH) | 3:58 | 2026-02-10 |  |
 | [Astral Vision](https://open.spotify.com/track/79GyilhcKE7fvMhljJMQxL) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Zion Train](https://open.spotify.com/artist/6sDKfmMPaTI7MYeFoNFrg7), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Astral Vision](https://open.spotify.com/album/4skr9ieBSHKCa52ivYa7hy) | 5:49 | 2026-02-28 |  |
@@ -525,6 +526,7 @@
 | [Empty Throne](https://open.spotify.com/track/3UEk3j2pMcEqZylMLU02CY) | [J&J vocals](https://open.spotify.com/artist/6uHI6VGdtHbXFWY5STBSSr) | [Empty Throne](https://open.spotify.com/album/7DiX78iL5AVcU05Cos49A2) | 2:49 | 2025-06-23 |  |
 | [En Las Buenas y en las malas](https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [En Las Buenas y en las malas](https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv) | 2:52 | 2026-03-11 |  |
 | [En ti](https://open.spotify.com/track/5PIF9tnyyUOvzwEq9BNTge) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 4:11 | 2026-03-15 |  |
+| [Endless Nights](https://open.spotify.com/track/7o7E8NGmLMDveY2QJTcaNB) | [Yin Yan](https://open.spotify.com/artist/0vAfIvtrnLj4kF4EzzGEan), [Tino di Aboli](https://open.spotify.com/artist/6wyUlAQOxsAOgzVcB4q7Dj) | [Relax](https://open.spotify.com/album/5Ypxx896DfEK8eLkruGeh6) | 3:36 | 2026-03-18 |  |
 | [Endless Summer](https://open.spotify.com/track/21uZSg6TxNJHpbCO1ciDKY) | [Bruno S](https://open.spotify.com/artist/4c5rMVTHu7llZIxlX0OfVK) | [Endless Summer](https://open.spotify.com/album/3NvGRhHHSZBtCqEkdSBvYm) | 4:53 | 2025-05-30 |  |
 | [Energy](https://open.spotify.com/track/61IRHgTF3YRfeTSfvFtXWd) | [Radio\-Activity](https://open.spotify.com/artist/4xGqrEzme9UDHKeX4r7xbq) | [Energy](https://open.spotify.com/album/3cCoFwt1OBAudWSENtZtcB) | 8:57 | 2024-06-21 |  |
 | [Enigmas](https://open.spotify.com/track/2Wya6iAvu5GmToZh9xioDY) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:26 | 2025-12-28 |  |
@@ -1716,6 +1718,7 @@
 | [The Dub Sound](https://open.spotify.com/track/5rj6RDo9B18H57AHF62XEX) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [MKD](https://open.spotify.com/album/6JpOy0NsksNvyMAiqIHri3) | 4:37 | 2024-03-10 |  |
 | [The End of a Dream](https://open.spotify.com/track/4CnCOKgQFyaWYrJuv8hHYa) | [the andi & meicheng project](https://open.spotify.com/artist/7byI2YEssv2cp3AIs43poE) | [The End of a Dream](https://open.spotify.com/album/1PgU6LFcoTk1DbAGQksuLG) | 4:29 | 2025-09-14 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 | 2026-03-15 |  |
+| [The First Green Answer](https://open.spotify.com/track/1gRyGE5ZGKSVRCeMQiTQZ3) | [Leif Daniel Isaksson](https://open.spotify.com/artist/755o76uW7R15KzvVPmeqRZ) | [WHEN SPRING OPENS](https://open.spotify.com/album/2aENCa3Fq5fOyW5KFYYtqq) | 2:56 | 2026-03-18 |  |
 | [The First Time](https://open.spotify.com/track/4qbVVkHQEe0YHed3OiM801) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [The First Time](https://open.spotify.com/album/0yHB07da4YyM6HNZuvcIup) | 3:35 | 2025-01-27 |  |
 | [The Five Jack O'Lanterns](https://open.spotify.com/track/04n4d2bNgCu8n2lI03s0Cd) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 3:20 | 2026-02-05 |  |
 | [The Fortune of Tom Joe](https://open.spotify.com/track/26jsthRwt4F3KTEozCAfqK) | [Baie Verte B'ys](https://open.spotify.com/artist/5XC5OAvvXghFH8QxTb6tvg) | [The Fortune of Tom Joe](https://open.spotify.com/album/7L70pcEnB0GOUBsHJD66RV) | 4:09 | 2025-08-14 |  |
@@ -1879,6 +1882,7 @@
 | [Vola Con Me](https://open.spotify.com/track/3xRhjJ828dB8ghQ3jGTft0) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/3RIglDkAEucOt5a7mErXsl) | 3:35 | 2025-06-03 |  |
 | [Vola Con Me](https://open.spotify.com/track/1AmCkWduAoYpgbQ7UdFaoP) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/5kKJkej7PeeDuVFTTIamFT) | 3:35 | 2025-05-10 |  |
 | [Volume](https://open.spotify.com/track/4kH8CT496lEGJe4SInfwjw) | [Ria](https://open.spotify.com/artist/3gnLRygDQ3Srtb0zQHgsFP), [THESAVRVS](https://open.spotify.com/artist/4vzJ5XfRFoyV5hyq7gHQ64) | [Volume](https://open.spotify.com/album/5EdvxVHZU7YM8dq8o6kBo4) | 2:51 | 2024-06-20 |  |
+| [Voyage](https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [The Collaborations II](https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk) | 4:03 | 2026-03-18 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |

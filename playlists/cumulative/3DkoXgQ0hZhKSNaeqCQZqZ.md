@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-500 songs - 1 day 2 hr 26 min
+503 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [DEAD POETS SOCIETY](https://open.spotify.com/track/3JnwVQoO6kJwvN84Q5tQf0) | [cysteke](https://open.spotify.com/artist/4alcy3GdAmXMNsNXObxjsd), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [AFTERSHOCK](https://open.spotify.com/album/4sA7rp7GNDEAA9WvYdhwzt) | 6:57 | 2024-07-22 | 2025-11-10 |
 | [Delete All Your Socials](https://open.spotify.com/track/0FXg5omnMhBUbGBhMjSGZC) | [delle](https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF) | [Bay Area Demon](https://open.spotify.com/album/0TmiQoUOsXrnvmY1VoJGNz) | 2:22 | 2024-07-22 |  |
 | [DESIIRE](https://open.spotify.com/track/3rWHOmqjQ5Rq8BAvklep7R) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [DESIIRE](https://open.spotify.com/album/4CAT5NIGLKgWkFKy2E7Sb7) | 5:04 | 2025-01-25 | 2025-10-05 |
+| [Desperate Measure \- Lyric version](https://open.spotify.com/track/0qnQCqmFLJq5rUcdUYuWUM) | [Kamex](https://open.spotify.com/artist/2boudDTnAlzb00NFNXTkad) | [Desperate Measure \(Lyric version\)](https://open.spotify.com/album/3UXv2WMg45XUruZYloSLqJ) | 3:48 | 2026-03-18 |  |
 | [Determination](https://open.spotify.com/track/6xnYqujJZOarqDQ0HGGUeR) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb), [Zane de Klerk](https://open.spotify.com/artist/6P203pkgmGipAdomu0a3cH) | [Determination](https://open.spotify.com/album/4HXshGxrNPjY2etRb02SxM) | 2:34 | 2023-06-14 |  |
 | [diaries of a small town](https://open.spotify.com/track/6maCQUoO6Ld9GwK1fN0NYQ) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [diaries of a small town](https://open.spotify.com/album/1VQNdZ6m27lRsuPXJyiwX7) | 4:03 | 2024-11-18 | 2026-03-01 |
 | [DIGITAL](https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [DIGITAL](https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac) | 3:18 | 2025-01-18 | 2026-03-01 |
@@ -224,6 +225,7 @@
 | [inconsequential](https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp) | [claymaw](https://open.spotify.com/artist/2k2lkGzy1eLbw3IEvGJbrx), [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [UPWARD SPIR4L](https://open.spotify.com/album/1EtOu6cstUwTPQk5qTRsaQ) | 2:47 | 2024-07-22 | 2026-03-01 |
 | [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 | 2025-04-12 |  |
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 | 2026-03-01 |
+| [isolation\_](https://open.spotify.com/track/4f9Q0bMKeTB0AEx3Yn49db) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ) | [why are you here](https://open.spotify.com/album/53b8jXxxkUZcdGrZWIRwjI) | 2:48 | 2026-03-18 |  |
 | [It Should Be Enough](https://open.spotify.com/track/29zqa4XsteeaYfJRjrQE78) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:39 | 2026-02-11 | 2026-02-17 |
 | [It's Not Over](https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [It's Not Over](https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K) | 4:13 | 2024-02-18 |  |
 | [Jingle Bells, as Performed by the Pilford Squadron Seasonal Choral Group](https://open.spotify.com/track/6QuNhKTNlBTcLXwYbxz743) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 2:22 | 2025-11-29 |  |
@@ -303,6 +305,7 @@
 | [Night In The Woods](https://open.spotify.com/track/54diDu8KqqHpu1AnZGvaZm) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Sad, Drunk and Needy](https://open.spotify.com/album/4FRDjPenlluCNuhnSQY4Xf) | 3:40 | 2024-03-06 |  |
 | [nightmare you can't shake](https://open.spotify.com/track/5BJKzupuZo5Uk2T7zZpfeG) | [lucypawz](https://open.spotify.com/artist/7zjVCfhIUMI3l4p09rfrt7) | [kdreamz57](https://open.spotify.com/album/7A9Gvl6692gYLpW5MZvZhF) | 2:59 | 2024-08-15 | 2025-10-05 |
 | [Ninth Life](https://open.spotify.com/track/2ZiJzJjfvoKYwZ1NyPm2Ck) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Ninth Life](https://open.spotify.com/album/4zZQpt7nJDKREmgf9aqt4i) | 2:58 | 2023-06-14 | 2026-03-01 |
+| [Nirvana](https://open.spotify.com/track/52etPPMjlz6NQbxTsoKlvy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Nirvana](https://open.spotify.com/album/6KWcHp9kqhmH17dcJPhYj3) | 4:39 | 2026-03-18 |  |
 | [no amounts](https://open.spotify.com/track/2yLGNPPrlmZgqLzazjVbm2) | [Allen Inuyama](https://open.spotify.com/artist/56wRZVNHA9eqrWPwvPBOl9) | [no amounts](https://open.spotify.com/album/74KiR5yuxuFeBWUekfMTHG) | 2:35 | 2024-11-18 |  |
 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 | 2024-03-26 |  |
 | [No Matter What \- 2024](https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo), [Sylver Stripe](https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [GalaxySquid](https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 4:35 | 2025-01-07 |  |

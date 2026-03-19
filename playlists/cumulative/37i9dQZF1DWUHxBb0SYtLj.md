@@ -2,7 +2,7 @@
 
 ### [EQUAL Italia](https://open.spotify.com/playlist/37i9dQZF1DWUHxBb0SYtLj)
 
-> Artiste italiane da ascoltare a tutto volume 🔊 Cover: Arisa
+> Celebriamo i 5 anni di EQUAL 💚 Cover: Arisa
 
 1,788 songs - 3 day 17 hr 4 min
 

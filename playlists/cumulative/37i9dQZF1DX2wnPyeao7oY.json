@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Night Rider",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -580,6 +580,24 @@
       "duration_ms": 200558,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
+    },
+    {
+      "album": {
+        "name": "APOLOGY!",
+        "url": "https://open.spotify.com/album/31t43PGKYB8joyNW2krsFj"
+      },
+      "artists": [
+        {
+          "name": "BLANK ERA",
+          "url": "https://open.spotify.com/artist/6m2NxidYFe9kiulMWeyamm"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "APOLOGY!",
+      "url": "https://open.spotify.com/track/44q6Yni4KIb8mi0Tn9Cmao"
     },
     {
       "album": {
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 257464,
       "name": "Bygones",
       "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 216518,
       "name": "DEAD STARS",
       "url": "https://open.spotify.com/track/4uUczhrvo33iG48n4iGmDA"
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 172113,
       "name": "Dogma Dance",
       "url": "https://open.spotify.com/track/6Hb8ycWK6ZFEfsWSmisWMB"
@@ -4228,7 +4246,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 287986,
       "name": "Erased",
       "url": "https://open.spotify.com/track/0o1BStfHxwG0Hg4ohbWMB5"
@@ -5512,6 +5530,24 @@
       "duration_ms": 197986,
       "name": "Godhood",
       "url": "https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C"
+    },
+    {
+      "album": {
+        "name": "The Anatomy of Surviving",
+        "url": "https://open.spotify.com/album/0h8yjW4Sh3ypDhZFWZnFWh"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rain",
+          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253026,
+      "name": "Gods of Glass & Wire",
+      "url": "https://open.spotify.com/track/7wGrjVMCed0S0yeWS72T9L"
     },
     {
       "album": {
@@ -8019,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Make Us Whole Again",
+        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232944,
+      "name": "Make Us Whole Again",
+      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
+    },
+    {
+      "album": {
         "name": "Make You Mine",
         "url": "https://open.spotify.com/album/3Eu2wdAO6EJNLBaT2VMVgy"
       },
@@ -9006,6 +9060,28 @@
       "duration_ms": 156000,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI"
+    },
+    {
+      "album": {
+        "name": "No\u010dn\u00ed M\u016fra",
+        "url": "https://open.spotify.com/album/1KdYPZdmyNM8PZ7Z1ODfb4"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253363,
+      "name": "No\u010dn\u00ed M\u016fra",
+      "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
     },
     {
       "album": {
@@ -10994,7 +11070,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 289706,
       "name": "She's Had Enough",
       "url": "https://open.spotify.com/track/7ADbNNzzIBZupfq5KYYjiF"
@@ -11542,7 +11618,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 203396,
       "name": "Starbreather",
       "url": "https://open.spotify.com/track/1NRxkKWbknaSxgBMyk8E0b"
@@ -11896,6 +11972,24 @@
       "duration_ms": 438333,
       "name": "Sun Seeker",
       "url": "https://open.spotify.com/track/7CZGg2Vqmxm5NbcM5qBLzG"
+    },
+    {
+      "album": {
+        "name": "SUPER TURBO.",
+        "url": "https://open.spotify.com/album/726BjjOZorUfr3BoGbWFUF"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173456,
+      "name": "SUPER TURBO.",
+      "url": "https://open.spotify.com/track/7HiHUkIPAp8Sgq8AcIoM86"
     },
     {
       "album": {
@@ -14102,6 +14196,24 @@
       "duration_ms": 220500,
       "name": "Withered",
       "url": "https://open.spotify.com/track/0OXuzS6ueOvKBg8YHmkT6J"
+    },
+    {
+      "album": {
+        "name": "without a trace",
+        "url": "https://open.spotify.com/album/6r4WRDPNRX0t6y4CRDsP7Y"
+      },
+      "artists": [
+        {
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148175,
+      "name": "without a trace",
+      "url": "https://open.spotify.com/track/1JyFOk995wuumTB5ZQFJoW"
     },
     {
       "album": {

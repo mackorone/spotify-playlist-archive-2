@@ -1,29 +1,13 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Quiet Light",
-  "num_followers": 254916,
+  "num_followers": 254943,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYE7l8IPx5vG2GtFKjdd5U8pB6m",
+  "snapshot_id": "AAAAAENT6LKYlPA42dbhOd4N/8lfUjmA",
   "tracks": [
-    {
-      "added_at": "2026-03-11 17:52:17",
-      "album": {
-        "name": "\u4e00\u5305\u70df",
-        "url": "https://open.spotify.com/album/5Tbpo9yKicVDv3KX0sP3O5"
-      },
-      "artists": [
-        {
-          "name": "Organ Tapes",
-          "url": "https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS"
-        }
-      ],
-      "duration_ms": 140712,
-      "name": "Cigs",
-      "url": "https://open.spotify.com/track/4bAFGowS2jqSfGfMEyrNxM"
-    },
     {
       "added_at": "2026-03-11 17:52:17",
       "album": {
@@ -41,20 +25,20 @@
       "url": "https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf"
     },
     {
-      "added_at": "2026-02-25 17:24:17",
+      "added_at": "2026-03-18 17:42:54",
       "album": {
-        "name": "I Know!",
-        "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
+        "name": "draggin' my feet!",
+        "url": "https://open.spotify.com/album/5vEzSFTbG1LKzP8He9NTAQ"
       },
       "artists": [
         {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 214304,
-      "name": "I Know!",
-      "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
+      "duration_ms": 132587,
+      "name": "draggin' my feet!",
+      "url": "https://open.spotify.com/track/75rjpPPUrJoFcuVoAkkImF"
     },
     {
       "added_at": "2026-02-25 17:24:17",
@@ -73,20 +57,124 @@
       "url": "https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto"
     },
     {
-      "added_at": "2026-03-11 17:52:17",
+      "added_at": "2026-03-18 17:42:54",
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM"
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
       },
       "artists": [
         {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
         }
       ],
-      "duration_ms": 323198,
-      "name": "Sanity",
-      "url": "https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW"
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+    },
+    {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "Rockie",
+        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
+      },
+      "artists": [
+        {
+          "name": "Rockie Rode",
+          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
+        },
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "duration_ms": 130063,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
+    },
+    {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "Subject to Change",
+        "url": "https://open.spotify.com/album/6dHbi0NyH3rUdHS6Ac8r5R"
+      },
+      "artists": [
+        {
+          "name": "Jenna Pascale",
+          "url": "https://open.spotify.com/artist/2dJ9kBaf6P5ZUTltKgevu6"
+        }
+      ],
+      "duration_ms": 216349,
+      "name": "Dissociating in New York",
+      "url": "https://open.spotify.com/track/6wiesLavHvTWT23wawkVrO"
+    },
+    {
+      "added_at": "2026-02-25 17:24:17",
+      "album": {
+        "name": "I Know!",
+        "url": "https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 214304,
+      "name": "I Know!",
+      "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
+    },
+    {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "Crutch",
+        "url": "https://open.spotify.com/album/4zyDCy2bDu6BZKYcDIYlOl"
+      },
+      "artists": [
+        {
+          "name": "lil ket",
+          "url": "https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7"
+        },
+        {
+          "name": "David Grey",
+          "url": "https://open.spotify.com/artist/06W41FIA9jGjGvEXonnrfC"
+        }
+      ],
+      "duration_ms": 151356,
+      "name": "Crutch",
+      "url": "https://open.spotify.com/track/1dS0XYWVtLNrkfyG8VAfEa"
+    },
+    {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "songs i would never release",
+        "url": "https://open.spotify.com/album/77vGGQiLI2dg5RWaxXUboM"
+      },
+      "artists": [
+        {
+          "name": "Knox Write",
+          "url": "https://open.spotify.com/artist/6LCRsIzcJEhHvCxFpRzOfK"
+        }
+      ],
+      "duration_ms": 148668,
+      "name": "love me",
+      "url": "https://open.spotify.com/track/6hHW7ymUVBjwVA5jWrr076"
+    },
+    {
+      "added_at": "2026-03-11 17:52:17",
+      "album": {
+        "name": "\u4e00\u5305\u70df",
+        "url": "https://open.spotify.com/album/5Tbpo9yKicVDv3KX0sP3O5"
+      },
+      "artists": [
+        {
+          "name": "Organ Tapes",
+          "url": "https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS"
+        }
+      ],
+      "duration_ms": 140712,
+      "name": "Cigs",
+      "url": "https://open.spotify.com/track/4bAFGowS2jqSfGfMEyrNxM"
     },
     {
       "added_at": "2026-02-25 17:24:17",
@@ -105,6 +193,38 @@
       "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
     },
     {
+      "added_at": "2026-03-18 17:42:54",
+      "album": {
+        "name": "Navigation",
+        "url": "https://open.spotify.com/album/0KRaV9siJDBA1caBwQKnFa"
+      },
+      "artists": [
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        }
+      ],
+      "duration_ms": 99695,
+      "name": "Navigation",
+      "url": "https://open.spotify.com/track/3l6j12OekR484QBIbttlrx"
+    },
+    {
+      "added_at": "2026-03-11 17:52:17",
+      "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "duration_ms": 323198,
+      "name": "Sanity",
+      "url": "https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW"
+    },
+    {
       "added_at": "2026-02-11 17:00:28",
       "album": {
         "name": "My Heart Is A Room With No Cameras In It",
@@ -119,6 +239,22 @@
       "duration_ms": 235429,
       "name": "I got god",
       "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
+    },
+    {
+      "added_at": "2026-03-04 17:27:54",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/0hcdzuLJY31Dzc7ZIz8o2o"
+      },
+      "artists": [
+        {
+          "name": "Lola Blue",
+          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+        }
+      ],
+      "duration_ms": 172993,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/0bcff4ijcFCRui8XWmeKn9"
     },
     {
       "added_at": "2026-03-11 17:52:17",
@@ -153,20 +289,20 @@
       "url": "https://open.spotify.com/track/10HkcKldxntNwW4W9m998V"
     },
     {
-      "added_at": "2026-03-04 17:27:54",
+      "added_at": "2026-03-18 17:42:54",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/0hcdzuLJY31Dzc7ZIz8o2o"
+        "name": "I Like This",
+        "url": "https://open.spotify.com/album/6nbB9dZSxd38EJvZ97fg2y"
       },
       "artists": [
         {
-          "name": "Lola Blue",
-          "url": "https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at"
+          "name": "Jack Larsen",
+          "url": "https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o"
         }
       ],
-      "duration_ms": 172993,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/0bcff4ijcFCRui8XWmeKn9"
+      "duration_ms": 111963,
+      "name": "I Like This",
+      "url": "https://open.spotify.com/track/2Lo7t2lsSVMTK5Vu3amZm3"
     },
     {
       "added_at": "2026-03-04 17:27:54",

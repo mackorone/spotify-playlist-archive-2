@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 788816,
+  "num_followers": 788949,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
+        "name": "Club Classics Vol. One",
+        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "duration_ms": 394933,
+      "name": "Back To Life (However Do You Want Me) - One World Remix",
+      "url": "https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
         "name": "Beat Dis: The Very Best Of",
         "url": "https://open.spotify.com/album/0gs16qVEj1k1NAD1WdEnaN"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 435213,
       "name": "Gold - 12\" Mix",
       "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Club Classics Vol. One",
-        "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
-      },
-      "artists": [
-        {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
-        }
-      ],
-      "duration_ms": 394933,
-      "name": "Back To Life (However Do You Want Me) - One World Remix",
-      "url": "https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9"
     },
     {
       "added_at": "2024-02-06 15:45:26",

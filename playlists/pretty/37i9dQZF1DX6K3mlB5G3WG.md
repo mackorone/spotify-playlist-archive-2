@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Madame in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,076 likes - 147 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,080 likes - 147 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 146 | [Facsimile](https://open.spotify.com/track/57dIaGu6MjQ2P3g8mlq8FV) | [Catia](https://open.spotify.com/artist/4DgPrKFLvYeh1mwJ0CQ1iP) | [Facsimile](https://open.spotify.com/album/2dAWQmheVtAdHu0eDsKtvx) | 2:48 |
 | 147 | [Mosca Bianca](https://open.spotify.com/track/5N9gzJRyVjpLDRiuQvJnsd) | [Oba](https://open.spotify.com/artist/1W4W8wiWRq8ikeRiD0lkyw) | [Mosca Bianca](https://open.spotify.com/album/0dUjXBNVfQ670K6WHBPbkV) | 2:27 |
 
-Snapshot ID: `AAAAAMDeXXWKgpSOS28u6teAXQ43Cv2H`
+Snapshot ID: `AAAAAGeBG72yaFrv6X/pnOh68+WG1E4z`

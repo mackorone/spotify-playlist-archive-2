@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sade Olutola. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Lunar June. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -4901,6 +4901,24 @@
     },
     {
       "album": {
+        "name": "auburn",
+        "url": "https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn"
+      },
+      "artists": [
+        {
+          "name": "livingthing",
+          "url": "https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209591,
+      "name": "auburn",
+      "url": "https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE"
+    },
+    {
+      "album": {
         "name": "Audrey",
         "url": "https://open.spotify.com/album/7yKaCDdmyXmZucq7uFlkTp"
       },
@@ -5258,6 +5276,24 @@
       "duration_ms": 175870,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/6MhtEgjlNy4QK41DwhHyVn"
+    },
+    {
+      "album": {
+        "name": "ODD YOUTH 2nd Single [Babyface]",
+        "url": "https://open.spotify.com/album/37l9884n6H8JzEokUFQOsz"
+      },
+      "artists": [
+        {
+          "name": "ODD YOUTH",
+          "url": "https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/5UMIyID7WDBkOpGizVulol"
     },
     {
       "album": {
@@ -8786,7 +8822,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 191000,
       "name": "Blue",
       "url": "https://open.spotify.com/track/4Vudlr60FXFP47yNlLzixA"
@@ -8901,6 +8937,24 @@
     },
     {
       "album": {
+        "name": "Blueberry Skies",
+        "url": "https://open.spotify.com/album/75El775pQjP9Mx13n1rl41"
+      },
+      "artists": [
+        {
+          "name": "CHIRAI",
+          "url": "https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "Blueberry Skies",
+      "url": "https://open.spotify.com/track/3NCz117frOEZV6dSgVpop6"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99"
       },
@@ -8984,7 +9038,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 154000,
       "name": "Blushing at the BP",
       "url": "https://open.spotify.com/track/0iNgtJmvz23Q77QZetusO1"
@@ -9006,6 +9060,24 @@
       "duration_ms": 167240,
       "name": "BMW X5",
       "url": "https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC"
+    },
+    {
+      "album": {
+        "name": "Boardwalk",
+        "url": "https://open.spotify.com/album/1CsHlHoIrS2WyKCKDEOm9y"
+      },
+      "artists": [
+        {
+          "name": "Cloe Wilder",
+          "url": "https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234750,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/5c9ODNAoJI6tkqCnOByDoK"
     },
     {
       "album": {
@@ -10408,7 +10480,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 178770,
       "name": "Bruises on the Peach",
       "url": "https://open.spotify.com/track/6HYs3TipAbX6eR6YrQHCVS"
@@ -12308,7 +12380,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 177421,
       "name": "Catch & Release",
       "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
@@ -12716,6 +12788,24 @@
       "duration_ms": 172941,
       "name": "CHAOTIC",
       "url": "https://open.spotify.com/track/4pQILaaZapnMmQDvlYMZxg"
+    },
+    {
+      "album": {
+        "name": "Chasing Us",
+        "url": "https://open.spotify.com/album/77lxaK5hcfZanbsbZRhlIm"
+      },
+      "artists": [
+        {
+          "name": "Spuddy",
+          "url": "https://open.spotify.com/artist/1EGquwqYB8H2qTgiMXirRs"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Chasing Us",
+      "url": "https://open.spotify.com/track/6Hpnt47Y2QntZD1fAXEsNI"
     },
     {
       "album": {
@@ -23415,6 +23505,24 @@
     },
     {
       "album": {
+        "name": "paint me like one of your fav american girls",
+        "url": "https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143789,
+      "name": "Feel Like I Died",
+      "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
+    },
+    {
+      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/0d8uUGeWpytdTdQeZNHMHq"
       },
@@ -29221,6 +29329,24 @@
     },
     {
       "album": {
+        "name": "happier",
+        "url": "https://open.spotify.com/album/3aUogWaD1tOhlPoVHCf1Lb"
+      },
+      "artists": [
+        {
+          "name": "Lunar June",
+          "url": "https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155035,
+      "name": "happier",
+      "url": "https://open.spotify.com/track/7IzufCLmkfr4Btrph9wYgg"
+    },
+    {
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/5PmkyJvYmwTljLWcpWOjQm"
       },
@@ -32596,7 +32722,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 150000,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr"
@@ -38656,7 +38782,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 172444,
       "name": "jealous baby",
       "url": "https://open.spotify.com/track/7Ct2izLXZcTd4ktA7xzqXp"
@@ -41024,6 +41150,24 @@
       "duration_ms": 233610,
       "name": "Let's Talk",
       "url": "https://open.spotify.com/track/0yU9AgZHHg4aolSwz3eQYy"
+    },
+    {
+      "album": {
+        "name": "Letting Love Die",
+        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
+      },
+      "artists": [
+        {
+          "name": "Heidi Simpson",
+          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Letting Love Die",
+      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
     },
     {
       "album": {
@@ -45848,7 +45992,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 204093,
       "name": "Me forever :(",
       "url": "https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP"
@@ -50196,6 +50340,24 @@
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+    },
+    {
+      "album": {
+        "name": "no air",
+        "url": "https://open.spotify.com/album/68X9NyzNFzA6qdUbSoOMzK"
+      },
+      "artists": [
+        {
+          "name": "go4broke",
+          "url": "https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164900,
+      "name": "no air",
+      "url": "https://open.spotify.com/track/2oggiZRL5HDIrnBuYilemY"
     },
     {
       "album": {
@@ -77841,6 +78003,24 @@
     },
     {
       "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
+    },
+    {
+      "album": {
         "name": "When You Go",
         "url": "https://open.spotify.com/album/50fipKFopDRKBGgdO8hd6y"
       },
@@ -78656,7 +78836,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 171147,
       "name": "Will I Ever",
       "url": "https://open.spotify.com/track/6GqNzyHE084R4JheWzKIm6"

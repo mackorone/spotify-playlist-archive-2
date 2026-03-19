@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407078,
+  "num_followers": 407090,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,30 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
+        "name": "High School Musical 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
+      },
+      "artists": [
+        {
+          "name": "Sharpay Evans",
+          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
+        },
+        {
+          "name": "Lucas Grabeel",
+          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
         "name": "Chicago - Music From The Miramax Motion Picture",
         "url": "https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 442733,
       "name": "Cell Block Tango",
       "url": "https://open.spotify.com/track/28Tmk14BdrfaV2YzxpB35c"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Sharpay Evans",
-          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
-        },
-        {
-          "name": "Lucas Grabeel",
-          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
     },
     {
       "added_at": "2026-03-06 13:38:21",

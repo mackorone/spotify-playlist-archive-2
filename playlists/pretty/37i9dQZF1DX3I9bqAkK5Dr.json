@@ -1,29 +1,13 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Eknaath",
-  "num_followers": 43644,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Suswaram",
+  "num_followers": 43651,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHCF5jA7unqJoCxS7qPHVNlshUR",
+  "snapshot_id": "AAAAAG9Sf8SDWzwuOgr17SDon2AbFkYN",
   "tracks": [
-    {
-      "added_at": "2026-03-17 05:17:38",
-      "album": {
-        "name": "Ninne Na",
-        "url": "https://open.spotify.com/album/5n1sAWdBpuCav07fwNm05M"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Daruri",
-          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "Ninne Na",
-      "url": "https://open.spotify.com/track/5F0LmbkFcudCgnpbJznxG0"
-    },
     {
       "added_at": "2026-03-12 14:20:28",
       "album": {
@@ -107,6 +91,22 @@
       "duration_ms": 324140,
       "name": "Manasu Palike",
       "url": "https://open.spotify.com/track/2DQAW2DSBizw5OartBN6wR"
+    },
+    {
+      "added_at": "2026-03-17 05:17:38",
+      "album": {
+        "name": "Ninne Na",
+        "url": "https://open.spotify.com/album/5n1sAWdBpuCav07fwNm05M"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Daruri",
+          "url": "https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Ninne Na",
+      "url": "https://open.spotify.com/track/5F0LmbkFcudCgnpbJznxG0"
     },
     {
       "added_at": "2026-02-28 00:01:13",

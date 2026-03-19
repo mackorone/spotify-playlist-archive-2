@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 770106,
+  "num_followers": 770382,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -445,7 +445,7 @@
         }
       ],
       "duration_ms": 171973,
-      "name": "Fire Wire - Radio Edit",
+      "name": "Fire Wire",
       "url": "https://open.spotify.com/track/3Wj2bla9BKs0tcbmpq1p71"
     },
     {
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
-      },
-      "artists": [
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 210786,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Not Over Yet '99 (feat. Grace)",
         "url": "https://open.spotify.com/album/2P3GrMALjeCYAbFvuFFsFH"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 214266,
       "name": "Not Over Yet '99 (feat. Grace) - Radio Edit",
       "url": "https://open.spotify.com/track/3gYUvf0BzPsPky2y3oBf3d"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 210786,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Trance Top 1000 - Selection 003",
-        "url": "https://open.spotify.com/album/5MZ2w49s7nsUV1jcnS3STq"
+        "name": "Trance Top 1000 - The Legends",
+        "url": "https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0"
       },
       "artists": [
         {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+          "name": "Warrior",
+          "url": "https://open.spotify.com/artist/5h5zcDZF3qxBCskb39D8yt"
         }
       ],
-      "duration_ms": 238018,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/7uIU44vMKlPVIh4Xm6Cgzh"
+      "duration_ms": 227428,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/3lI7LW2LP1994W7kTBOUaK"
     }
   ],
   "unique_name": "Trance Classics",

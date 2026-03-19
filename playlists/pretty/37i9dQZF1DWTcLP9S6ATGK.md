@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Janita Gabriela, Putri Sashi
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,640 likes - 118 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,637 likes - 118 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

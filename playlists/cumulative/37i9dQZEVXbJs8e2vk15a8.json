@@ -40748,7 +40748,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 186680,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
@@ -56653,6 +56653,24 @@
     },
     {
       "album": {
+        "name": "Polly Pocket (Visualizer)",
+        "url": "https://open.spotify.com/album/2AY2XPeFt4kuOcDuCmoVOB"
+      },
+      "artists": [
+        {
+          "name": "Dark Winner",
+          "url": "https://open.spotify.com/artist/6dT9YbrR7UYgrKpszRpcZM"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145843,
+      "name": "Polly Pocket (Visualizer)",
+      "url": "https://open.spotify.com/track/5TPsxE1QVCYpB1FbaM3lB5"
+    },
+    {
+      "album": {
         "name": "Polvo Sano",
         "url": "https://open.spotify.com/album/6PglDLsz2x1oOmD9xNMPuS"
       },
@@ -71444,7 +71462,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
@@ -74706,7 +74724,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 277486,
       "name": "Un Rayo De Luz",
       "url": "https://open.spotify.com/track/4FglsPNvL4avF0MWJIeZm8"

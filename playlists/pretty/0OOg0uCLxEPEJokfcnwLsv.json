@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 800,
+  "num_followers": 807,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFWlX57No1Xuy3mtI1T10lgzy8ueFC",
+  "snapshot_id": "AAAFYTf7FywJCXK532OVk72Djf+t9xXK",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -39,6 +39,22 @@
       "duration_ms": 220535,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6"
+    },
+    {
+      "added_at": "2026-03-18 02:24:13",
+      "album": {
+        "name": "Standing on the Edge",
+        "url": "https://open.spotify.com/album/2MzZEWMpDN2gXyGoKFbMcc"
+      },
+      "artists": [
+        {
+          "name": "Tess & The Details",
+          "url": "https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql"
+        }
+      ],
+      "duration_ms": 158105,
+      "name": "Standing on the Edge",
+      "url": "https://open.spotify.com/track/4BCMHUgmnmD4v42FiocYr8"
     },
     {
       "added_at": "2026-03-14 16:10:26",
@@ -1327,6 +1343,70 @@
       "duration_ms": 163650,
       "name": "Anemia",
       "url": "https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh"
+    },
+    {
+      "added_at": "2026-03-18 01:49:43",
+      "album": {
+        "name": "We Met In Our Eyes",
+        "url": "https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 261035,
+      "name": "We Met In Our Eyes",
+      "url": "https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf"
+    },
+    {
+      "added_at": "2026-03-18 01:59:56",
+      "album": {
+        "name": "Stop the Bleed",
+        "url": "https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT"
+      },
+      "artists": [
+        {
+          "name": "Dreamer",
+          "url": "https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU"
+        }
+      ],
+      "duration_ms": 324578,
+      "name": "Stop the Bleed",
+      "url": "https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1"
+    },
+    {
+      "added_at": "2026-03-18 02:17:29",
+      "album": {
+        "name": "Former Familiars",
+        "url": "https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4"
+      },
+      "artists": [
+        {
+          "name": "Nicolust",
+          "url": "https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb"
+        }
+      ],
+      "duration_ms": 261544,
+      "name": "Former Familiars",
+      "url": "https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q"
+    },
+    {
+      "added_at": "2026-03-18 02:28:27",
+      "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/7aRky0Alt4LNplY9NYbbW5"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "duration_ms": 201566,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/1BvYQIRlgUbQLkxUeIwT1R"
     }
   ],
   "unique_name": "Unsigned Rock",

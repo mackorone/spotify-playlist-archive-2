@@ -4,7 +4,7 @@
 
 > 
 
-2,394 songs - 5 day 8 hr 44 min
+2,395 songs - 5 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,6 +827,7 @@
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2024-05-25 |  |
 | [Ginger Claps](https://open.spotify.com/track/42UDQ4nsp2aYpPjQm8svSR) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:04 | 2022-06-02 |  |
 | [Girl Anachronism](https://open.spotify.com/track/6Zbv79YWB0iZSXwIwEsIOP) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [The Dresden Dolls](https://open.spotify.com/album/3BMhZk7YVMQBh0Y4DuyNSt) | 2:59 | 2022-04-19 |  |
+| [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 | 2026-03-19 |  |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-21 |  |
 | [Girl156BPM](https://open.spotify.com/track/3IMXe0HhEQu5AjT31HIsvL) | [Windowshopping](https://open.spotify.com/artist/0y0oVfboNhPRm14rOzNann) | [Andromeda](https://open.spotify.com/album/2cDY4wa1QeqFmp5i1ma5tZ) | 3:22 | 2023-04-20 |  |
 | [Girlfriend](https://open.spotify.com/track/2RPDdBOkW50nhE96JWyEIV) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Girlfriend EP](https://open.spotify.com/album/6WRoFDc1f69ilu8DLaNOsS) | 3:37 | 2021-08-05 |  |

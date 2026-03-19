@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
 499 songs - 1 day 5 hr 59 min
 

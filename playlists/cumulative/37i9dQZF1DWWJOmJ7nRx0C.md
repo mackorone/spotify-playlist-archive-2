@@ -4,7 +4,7 @@
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: Bilmuri & A Day To Remember
 
-1,759 songs - 4 day 9 hr 16 min
+1,760 songs - 4 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 | 2025-09-12 | 2025-10-25 |
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-17 | 2023-07-29 |
 | [Imposter Syndrome \(feat\. Lzzy Hale\)](https://open.spotify.com/track/64wbg9tWc1hKSB4qokoq0e) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Imposter Syndrome \(feat\. Lzzy Hale\)](https://open.spotify.com/album/4HhYDRWtEOESsVY2K4ZEyo) | 3:50 | 2023-09-29 | 2024-01-13 |
+| [In My Room](https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [PRESSURE](https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe) | 2:43 | 2026-03-18 |  |
 | [In the Darkness](https://open.spotify.com/track/5vGBjM9bcD0zbgHHKaZHsQ) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [In the Darkness](https://open.spotify.com/album/3BJEaHhBQs3b2Q7zRLkIh9) | 3:15 | 2025-11-14 | 2025-12-13 |
 | [In The Night \(feat\. Underoath\)](https://open.spotify.com/track/3N7XPzpAbWmMCxLbcp54KD) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [In The Night \(feat\. Underoath\)](https://open.spotify.com/album/7fvirl6DWRAGEQMl36yZZn) | 4:39 | 2024-09-20 | 2024-11-09 |
 | [IN THREES](https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y), [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [JordyPurp](https://open.spotify.com/artist/7uEPTaEXCsV396Tt2OalLy) | [IN THREES](https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA) | 3:05 | 2021-12-10 | 2022-10-29 |

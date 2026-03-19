@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Country](https://open.spotify.com/playlist/37i9dQZF1DWYUfsq4hxHWP)
 
-> Fresh country music by independent artists every Wednesday\. Cover: Noah James, Artwork: Fanélie Muselier
+> Fresh country music by independent artists every Wednesday\. Cover: Erin Kinsey, Artwork: Fanélie Muselier
 
-3,616 songs - 8 day 3 hr 53 min
+3,620 songs - 8 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2476,6 +2476,8 @@
 | [Rearview](https://open.spotify.com/track/7GK2rS30n1aLRFznNtMHhQ) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Rearview](https://open.spotify.com/album/5nWMUbi0Obr6lZDrT3zbpz) | 2:19 | 2025-09-03 | 2025-12-04 |
 | [Reason That You Stay](https://open.spotify.com/track/6FE99hoDjv3xKvce2iiqOz) | [James McNair](https://open.spotify.com/artist/516Q8XRrVn2696be1wGIsd) | [The Family Name](https://open.spotify.com/album/4XNecKRVOYhhOPg31f9OJ9) | 3:04 | 2023-10-04 | 2023-11-30 |
 | [Reason To Love](https://open.spotify.com/track/7zmPA1n8avOloSbeTkGrRq) | [Chad Brownlee](https://open.spotify.com/artist/6k8x9QgjJkEQ1xRIDYa0tU) | [Reason To Love](https://open.spotify.com/album/5tg7NcUK6SS93Q1QNJl51f) | 2:41 | 2025-03-26 | 2025-07-03 |
+| [REASON YOU DRINK](https://open.spotify.com/track/1ZNHq4ZBAhUtfhq2mdBpOI) | [Ashley Walls](https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw) | [REASON YOU DRINK](https://open.spotify.com/album/1LqRy1VcYteldMS9O1yKVT) | 2:45 | 2026-03-18 |  |
+| [Reasons Why We Broke Up](https://open.spotify.com/track/3NzR8tsF7ZoaQnEOfxwwaT) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Reasons Why We Broke Up](https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb) | 3:56 | 2026-03-18 |  |
 | [Reckless](https://open.spotify.com/track/0doryYTT72oB8wKtHFfjNm) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Six Mile](https://open.spotify.com/album/19q7vSiSA1C3wnR7OvkR0B) | 3:35 | 2025-05-16 | 2025-09-04 |
 | [Reckless](https://open.spotify.com/track/0LZRpSQ1KXFCJQlZ16LBIN) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Reckless](https://open.spotify.com/album/6vNx2KXI59ivBPUYA4tKAN) | 3:07 | 2024-12-04 | 2025-01-16 |
 | [Reckless](https://open.spotify.com/track/614ON0DuAKhgMn5qw55JPc) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Reckless](https://open.spotify.com/album/6Wowb2a0dWRgHDXty6h0Gx) | 3:07 | 2024-04-17 | 2024-06-20 |
@@ -3179,6 +3181,7 @@
 | [Till the Wheels Fall Off](https://open.spotify.com/track/4FuTdOFoRDcvIWBwAQGsvC) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d) | [Till the Wheels Fall Off](https://open.spotify.com/album/3XZJzZQuHHwuCpKEkdVnFx) | 3:03 | 2022-06-15 | 2022-06-30 |
 | [Timbuktu](https://open.spotify.com/track/1XSZnmlbX5YhvQhY3UHw4x) | [Annabelle](https://open.spotify.com/artist/4W4vdagkfGtNz8pI4Ie3Wz) | [Timbuktu](https://open.spotify.com/album/2ROmVH34qgtIf6IAUJzQgd) | 3:01 | 2022-08-26 | 2022-10-06 |
 | [Time Difference](https://open.spotify.com/track/6S6Vm8L9TwV3nvCDGItLAA) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Time Difference](https://open.spotify.com/album/3a2UCQemFmAH5gWGHVkxSY) | 2:37 | 2022-06-08 | 2022-07-21 |
+| [Time for Sale](https://open.spotify.com/track/0IbSQ5CTREVa6ylXFnVMo8) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Grandpa's Mill](https://open.spotify.com/album/4PKlKNnkXHALrysN4dWm5C) | 3:29 | 2026-03-18 |  |
 | [Time for That](https://open.spotify.com/track/0f70Rz3Wb7jk8peE1o8wsO) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Time for That](https://open.spotify.com/album/5ZZfMCRc6z5yGptxdTtTdd) | 2:36 | 2024-03-20 | 2024-05-02 |
 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 | 2022-05-18 | 2022-06-30 |
 | [Time In This Truck](https://open.spotify.com/track/53vMWzBRNycwzkaPfBjOba) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Time In This Truck](https://open.spotify.com/album/3o3j4DQZnd88MIsIzlrIPV) | 3:02 | 2023-07-19 | 2023-08-31 |
@@ -3247,6 +3250,7 @@
 | [Twice](https://open.spotify.com/track/1Mhr1Jy837p9DC9ZiuXxd8) | [Carson Wallace](https://open.spotify.com/artist/7a8gQGuEPK8XmHhK8tWkFF) | [Twice](https://open.spotify.com/album/28VNTmLOesqlDxJzv03uS1) | 3:18 | 2025-06-25 | 2025-07-31 |
 | [Two Beers](https://open.spotify.com/track/6I7CDgG64I48oHZ117JUMr) | [Connor McCutcheon](https://open.spotify.com/artist/3yluFQwZBhp5jJYLlRG034) | [Two Beers](https://open.spotify.com/album/38WnC41q11Z96o8vYF7VtH) | 3:14 | 2025-03-26 | 2025-07-03 |
 | [Two Beers Old](https://open.spotify.com/track/2QuybYA5IkUG192cB2CaCH) | [Trey Teem](https://open.spotify.com/artist/53VXZh6xSVSnoSu4n0SoTF) | [Two Beers Old](https://open.spotify.com/album/7ckWGsZHyzSON6b4hvjF16) | 2:58 | 2022-03-16 | 2022-04-27 |
+| [Two Boots](https://open.spotify.com/track/0ey9A7L0UFKXmUTAVdJKY4) | [Kat Luna](https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt) | [Two Boots](https://open.spotify.com/album/6XGbwQMkgqJutbWl8iI3qn) | 3:23 | 2026-03-18 |  |
 | [TWO BROKE HEARTS](https://open.spotify.com/track/1cr011JYf3xTu3rYRUK6io) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [TWO BROKE HEARTS](https://open.spotify.com/album/36H4r65rax4ptGYfds64nC) | 3:17 | 2023-04-12 | 2023-06-01 |
 | [TWO CENTS](https://open.spotify.com/track/688FDschHMHZ8szCZEZcwQ) | [Josie Sal](https://open.spotify.com/artist/3h6C0d0yAJuEFVT18MQjK8) | [TWO CENTS](https://open.spotify.com/album/5Hd8HjHEvANV1R4GhpQBnI) | 3:19 | 2025-03-05 | 2025-06-05 |
 | [Two Lane](https://open.spotify.com/track/6XuJRTQZUhBEukHCf3Ymds) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Two Lane](https://open.spotify.com/album/7ogOLiAC1Hu9swWbR8ZANU) | 2:35 | 2023-08-04 | 2023-10-26 |
@@ -3311,7 +3315,7 @@
 | [Warning You Whiskey](https://open.spotify.com/track/57likbyVKhNSD2JvE4PxGT) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Warning You Whiskey](https://open.spotify.com/album/1Gnsl2qVdVHz6IRftwp1pP) | 3:36 | 2026-01-14 | 2026-02-12 |
 | [Waste It On Me](https://open.spotify.com/track/0XoibxVnCbqofK8VPuukj3) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Waste It On Me](https://open.spotify.com/album/06JmHcch1oXsHgcPMVAqVb) | 2:41 | 2025-06-04 | 2025-09-04 |
 | [Waste My Time](https://open.spotify.com/track/5pp9FiKxNLKRhRjN8VqaQR) | [Taylor Nikkole](https://open.spotify.com/artist/2JOQQ2I7FitqX63T0uy3Fq) | [Waste My Time](https://open.spotify.com/album/2UJgLmJiFYbZqospjU8Ffb) | 2:48 | 2023-09-06 | 2023-11-16 |
-| [WASTE OF WHISKEY](https://open.spotify.com/track/41qy6YBmbsVvWyOHqLCqnd) | [Ashley Walls](https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw) | [WASTE OF WHISKEY](https://open.spotify.com/album/13eymnp3pP48dk3KUtNAF9) | 2:29 | 2026-02-18 |  |
+| [WASTE OF WHISKEY](https://open.spotify.com/track/41qy6YBmbsVvWyOHqLCqnd) | [Ashley Walls](https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw) | [WASTE OF WHISKEY](https://open.spotify.com/album/13eymnp3pP48dk3KUtNAF9) | 2:29 | 2026-02-18 | 2026-03-19 |
 | [WASTED](https://open.spotify.com/track/51JvnhxdVqfldFqFb874jO) | [Hunter Chastain](https://open.spotify.com/artist/1iXXTqyY4e854ZqAh0nvUw) | [WASTED](https://open.spotify.com/album/2g35iku7j2Yu1svIsoomcb) | 3:58 | 2022-01-26 | 2022-03-10 |
 | [Wasted Prayers](https://open.spotify.com/track/1WvGfMf2HNlM6Rk9BbZSJx) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Wasted Prayers](https://open.spotify.com/album/5MvARiRgNiMgbxYWaX6EOa) | 3:24 | 2023-03-01 | 2023-04-06 |
 | [Wasting My Time](https://open.spotify.com/track/5mYFNE8rWy9yrkEJcPNiAl) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Wasting My Time](https://open.spotify.com/album/6eappJnIFc1c4s2OwJbhwo) | 2:56 | 2022-07-20 | 2022-08-18 |
@@ -3547,7 +3551,7 @@
 | [Write a Song](https://open.spotify.com/track/6dq8fYwqBC1HLxpykuuBeI) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Write a Song](https://open.spotify.com/album/3I2rlxi2hF7XB06De43SGD) | 3:27 | 2025-02-05 | 2025-04-17 |
 | [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 | 2025-04-09 | 2026-01-15 |
 | [Write You Out of My Memory](https://open.spotify.com/track/5oiwE7jcaQLz3cbTrq8jDS) | [Emily McGill](https://open.spotify.com/artist/78Wb0dmQQBvpRTDHtxPxvI) | [Write You Out of My Memory](https://open.spotify.com/album/75EPAlfOd0zxmOEctyN65y) | 3:56 | 2023-01-11 | 2023-02-09 |
-| [Written By A Woman](https://open.spotify.com/track/34E3kmbItdwGI3QG0uEncO) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Written By A Woman](https://open.spotify.com/album/5I5p6F69BHjRxfhCsZlX52) | 3:18 | 2026-02-04 |  |
+| [Written By A Woman](https://open.spotify.com/track/34E3kmbItdwGI3QG0uEncO) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Written By A Woman](https://open.spotify.com/album/5I5p6F69BHjRxfhCsZlX52) | 3:18 | 2026-02-04 | 2026-03-19 |
 | [Wrong](https://open.spotify.com/track/34DfmGZ7YUMc9TRWnpgjx5) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Wrong](https://open.spotify.com/album/4Au3DCA42NLqYYLpYzjNdA) | 3:18 | 2022-06-15 | 2022-07-21 |
 | [Wrong Hands](https://open.spotify.com/track/3zNHrGi03X6QI7qFERky9v) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Wrong Hands](https://open.spotify.com/album/6d57jr3PycPxvxe0jmDMtB) | 2:54 | 2022-04-27 | 2022-05-26 |
 | [Wrong Kind of Keepin' Me Up](https://open.spotify.com/track/1U5PoVpANnXh2p6HEo69A2) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Wrong Kind of Keepin' Me Up](https://open.spotify.com/album/0L7qOk2AMxB1fhwhogYFnz) | 3:30 | 2024-05-01 | 2025-01-16 |

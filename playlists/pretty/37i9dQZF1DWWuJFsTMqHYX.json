@@ -1,6 +1,6 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 462282,
+  "num_followers": 462349,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,18 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
-        "name": "Motherland - The Score",
-        "url": "https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC"
+        "name": "Akh Issudar",
+        "url": "https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx"
       },
       "artists": [
         {
-          "name": "Sona Jobarteh",
-          "url": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr"
+          "name": "Terakaft",
+          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
         }
       ],
-      "duration_ms": 283964,
-      "name": "Hizab",
-      "url": "https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl"
+      "duration_ms": 201200,
+      "name": "Tahra a Issasnane",
+      "url": "https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe"
     },
     {
       "added_at": "2026-03-12 18:21:09",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
+        "name": "Motherland - The Score",
+        "url": "https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC"
+      },
+      "artists": [
+        {
+          "name": "Sona Jobarteh",
+          "url": "https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr"
+        }
+      ],
+      "duration_ms": 283964,
+      "name": "Hizab",
+      "url": "https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl"
+    },
+    {
+      "added_at": "2026-03-12 18:21:09",
+      "album": {
         "name": "Kidal",
         "url": "https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 218076,
       "name": "Mawarniha Tartit",
       "url": "https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF"
-    },
-    {
-      "added_at": "2026-03-12 18:21:09",
-      "album": {
-        "name": "Akh Issudar",
-        "url": "https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx"
-      },
-      "artists": [
-        {
-          "name": "Terakaft",
-          "url": "https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Tahra a Issasnane",
-      "url": "https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe"
     },
     {
       "added_at": "2026-03-12 18:21:09",
@@ -887,18 +887,46 @@
     {
       "added_at": "2026-03-12 18:21:09",
       "album": {
-        "name": "Mariama",
-        "url": "https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb"
+        "name": "The Routes of Slavery",
+        "url": "https://open.spotify.com/album/5iRJeFmgDETMCRPFP0Y1pp"
       },
       "artists": [
         {
-          "name": "Boubacar Traor\u00e9",
-          "url": "https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU"
+          "name": "Jordi Savall",
+          "url": "https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL"
+        },
+        {
+          "name": "Kass\u00e9-Mady Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/6N7tKxTPH9T8uU3TdBzphC"
+        },
+        {
+          "name": "Mamani Ke\u00efta",
+          "url": "https://open.spotify.com/artist/5v8Qrpoya6Bf8Yaus5aVk6"
+        },
+        {
+          "name": "Nana Kouyate",
+          "url": "https://open.spotify.com/artist/6l4EqiNfXnYMZhIGVvaiu0"
+        },
+        {
+          "name": "Tanti Kouyat\u00e9",
+          "url": "https://open.spotify.com/artist/0EENHq2cnaZWYyQt4bL5Ey"
+        },
+        {
+          "name": "Driss El Maloumi",
+          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+        },
+        {
+          "name": "Ballak\u00e9 Sissoko",
+          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
+        },
+        {
+          "name": "Rajery",
+          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
         }
       ],
-      "duration_ms": 338933,
-      "name": "Mariama Kaba",
-      "url": "https://open.spotify.com/track/3c98vJqVg7Epkq8aBNTsNM"
+      "duration_ms": 281093,
+      "name": "Manden Mandinkadenou (Chant de griot)",
+      "url": "https://open.spotify.com/track/0irBIwMyqnB2MtUww6P6iY"
     }
   ],
   "unique_name": "Sahara",

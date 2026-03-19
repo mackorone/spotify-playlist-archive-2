@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: A7S, Shimza, Topic
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,102 likes - 98 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,101 likes - 98 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

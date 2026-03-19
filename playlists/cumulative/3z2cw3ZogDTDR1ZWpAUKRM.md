@@ -4,7 +4,7 @@
 
 > 
 
-46 songs - 3 hr 14 min
+47 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [It Was Coming All Along](https://open.spotify.com/track/2SSdjwuUQlkO0s6Kb4II8x) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 3:27 | 2026-02-05 |  |
 | [King Kunta](https://open.spotify.com/track/043Rs5H7XAV2soPAy88x02) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/6w7lqIsvDPgTChMrPw5oIL) | 3:54 | 2024-05-10 | 2024-05-14 |
 | [Learn How to Lose: Act 1](https://open.spotify.com/track/56rSvFCJSGDvHvbiJ7EKGg) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [A Mirror Brightly](https://open.spotify.com/album/1o4rcU1X9X31s6bdVPhuMJ) | 4:20 | 2024-04-08 | 2024-05-03 |
-| [No Shade of Green](https://open.spotify.com/track/5KiwfWPrwlAtoi6J8Kxvof) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Come May](https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i) | 3:01 | 2024-07-17 |  |
+| [Mexico \- 2019 Remaster](https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 2:58 | 2026-03-18 |  |
+| [No Shade of Green](https://open.spotify.com/track/5KiwfWPrwlAtoi6J8Kxvof) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Come May](https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i) | 3:01 | 2024-07-17 | 2026-03-19 |
 | [One Less Set Of Footsteps](https://open.spotify.com/track/0DVXEokERn31HSPcV2UPcy) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Photographs & Memories: His Greatest Hits](https://open.spotify.com/album/6aSizHsXgnBoMYzkzwb36s) | 2:47 | 2024-07-17 |  |
 | [Out Among the Stars](https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Out Among The Stars](https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth) | 3:00 | 2024-05-02 | 2024-05-11 |
 | [Outro](https://open.spotify.com/track/2QVmiA93GVhWNTWQctyY1K) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:07 | 2024-06-02 | 2024-07-18 |

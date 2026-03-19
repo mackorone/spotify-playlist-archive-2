@@ -1483,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1ERqcew3rdwwhaLQUPpOfp"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "City Lights (Feat. Hash Swan)",
+      "url": "https://open.spotify.com/track/02X3xsCCCtW0jwAXgvu5Mk"
+    },
+    {
+      "album": {
         "name": "EGO 90'S PART 3",
         "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
       },
@@ -2451,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Film Love",
+        "url": "https://open.spotify.com/album/7HSP5krjj4CV7xoBfPoIuz"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243280,
+      "name": "Film Love",
+      "url": "https://open.spotify.com/track/1cXTdenfd8MRKw9Elge6ru"
+    },
+    {
+      "album": {
         "name": "Find me",
         "url": "https://open.spotify.com/album/39TnHfqboN2tNkKpXG0oTp"
       },
@@ -3082,7 +3122,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 260169,
       "name": "Highteen (Feat. Lee Won Seok of Daybreak)",
       "url": "https://open.spotify.com/track/72quUKjITH4txudAUZKXpi"
@@ -4035,6 +4075,28 @@
     },
     {
       "album": {
+        "name": "BABO ZIPPER",
+        "url": "https://open.spotify.com/album/0cqUYYCX03YQ3HYiPduVCD"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Love Theme (Feat. John Park)",
+      "url": "https://open.spotify.com/track/4QKcefpavEt2FMmMRzlpDT"
+    },
+    {
+      "album": {
         "name": "Love visible",
         "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
       },
@@ -4542,7 +4604,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 343616,
       "name": "Monthly Project 2020 June Yoon Jong Shin - Summer, Anyway",
       "url": "https://open.spotify.com/track/1YJMHH9j5xCnaC0UAza07f"
@@ -7810,7 +7872,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 170000,
       "name": "\ufeffLove Recycle (Hyunyeop SOLO)",
       "url": "https://open.spotify.com/track/0TyUSUYotYKGekdym6DgRR"

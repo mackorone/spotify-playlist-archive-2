@@ -4,7 +4,7 @@
 
 > This is Daphne Oram\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 57 min
+41 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ascending and Decending Sequences of Varying Nature ii](https://open.spotify.com/track/68j2rZF6Y5r7LL2ap5h6nO) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:33 | 2026-03-04 |  |
 | [Ascending and Decending Sequences of Varying Nature iv](https://open.spotify.com/track/52tQ2R5lWx81lUbSEUpBJo) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:32 | 2026-03-04 |  |
 | [Ascending and Decending Sequences of Varying Nature v](https://open.spotify.com/track/3dDnvi8uqS6X4wwjoq2uUN) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:49 | 2026-03-13 |  |
+| [Ascending and Decending Sequences of Varying Nature vi](https://open.spotify.com/track/5Dxeuq3DaLU5fmpWCOpjBD) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:44 | 2026-03-19 |  |
 | [Ascending and Decending Sequences of Varying Nature vii](https://open.spotify.com/track/2F2i4rIAaPQV2oe262tTZx) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:45 | 2026-03-04 |  |
 | [Band 5: Rhythmic Variation, 2018 Remaster \- 2018 Remaster](https://open.spotify.com/track/5FNfXkhaYlSh2pTmUjRZ9i) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Incantations for Tape, Precocious Noise and Early Electronica Pt.1](https://open.spotify.com/album/70pM3i7Co4JWiYitNMOUMA) | 0:37 | 2026-03-04 |  |
 | [Beauty and the Beast, Pt\. 1](https://open.spotify.com/track/3MSsZnD275rZGclyYo4L8b) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Beauty and The Beast](https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ) | 1:27 | 2026-03-04 |  |
@@ -44,7 +45,7 @@
 | [Snow](https://open.spotify.com/track/0ZjTQR0a9MohtSVoPROCrI) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Beauty and The Beast](https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ) | 7:48 | 2026-03-04 |  |
 | [The Art Of Living](https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Nwando Ebizie](https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 3:49 | 2026-03-04 |  |
 | [The Ocean](https://open.spotify.com/track/58hcm2J3aUtNUmzhTi2FDZ) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Desmond Briscoe](https://open.spotify.com/artist/7CgRPr8VvVPikSUhoxq9ev) | [Roots of Electronica Vol\. 4, European Avant\-Garde, Noise and Experimental Music](https://open.spotify.com/album/4hhOfqckrZJbLUq4LXLQyI) | 1:07 | 2026-03-04 |  |
-| [Three Single Sounds Taken In Canon iv](https://open.spotify.com/track/23ULdP1ku6KPuq82YW2CBJ) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:42 | 2026-03-04 |  |
+| [Three Single Sounds Taken In Canon iv](https://open.spotify.com/track/23ULdP1ku6KPuq82YW2CBJ) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Electronic Sound Patterns \(Remastered\)](https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA) | 0:42 | 2026-03-04 | 2026-03-19 |
 | [Tributum](https://open.spotify.com/track/1cNZMLHqEmxGDMyls10uQ4) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Cosey Fanni Tutti](https://open.spotify.com/artist/1xBSMtc33fBa1ZeZ0EL9DI) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 3:33 | 2026-03-04 |  |
 | [Tumblewash](https://open.spotify.com/track/6XRxx3nTPhSTijeaB483Rw) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Oramics, Vol\. 1](https://open.spotify.com/album/56A2868JLnNJNhbN4RNywW) | 2:04 | 2026-03-04 |  |
 | [Under the Sand](https://open.spotify.com/track/14pexLgJWEtnkR4V0lveyX) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Daz Quayle](https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk), [Andrea Parker](https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj) | [Private Dreams and Public Nightmares](https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel) | 1:28 | 2026-03-04 |  |

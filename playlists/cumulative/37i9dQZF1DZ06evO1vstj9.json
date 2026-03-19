@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 199435,
       "name": "About Us",
       "url": "https://open.spotify.com/track/0CePgbdhXaopN3T58u4fEU"
@@ -782,6 +782,24 @@
       "duration_ms": 140929,
       "name": "Ribbon In The Sky - Live From Brussels",
       "url": "https://open.spotify.com/track/6xA1xHUaD3tNNsHWpYoPKg"
+    },
+    {
+      "album": {
+        "name": "Saviour",
+        "url": "https://open.spotify.com/album/3zWKWAIzDcJGKLugpnExtf"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180734,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr"
     },
     {
       "album": {

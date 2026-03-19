@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,869 likes - 101 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,870 likes - 101 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

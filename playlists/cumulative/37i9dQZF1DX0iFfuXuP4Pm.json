@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "baka bukas",
+        "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207558,
+      "name": "baka bukas",
+      "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
+    },
+    {
+      "album": {
         "name": "Bandaid (feat. Johnoy Danao)",
         "url": "https://open.spotify.com/album/3LYZsMhLEpjUaAA1wFceUS"
       },
@@ -1441,6 +1459,40 @@
     },
     {
       "album": {
+        "name": "D.T.M.G (Don\u2019t Touch My Girl)",
+        "url": "https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW"
+      },
+      "artists": [
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        },
+        {
+          "name": "dot.jaime",
+          "url": "https://open.spotify.com/artist/0ULME3YyOHybyb8oQCo7Kc"
+        },
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217928,
+      "name": "D.T.M.G (Don\u2019t Touch My Girl)",
+      "url": "https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I"
+    },
+    {
+      "album": {
         "name": "D14U",
         "url": "https://open.spotify.com/album/1WmtSzhHXMdIbHxpSGe7nL"
       },
@@ -1648,6 +1700,24 @@
       "duration_ms": 173557,
       "name": "Di Mawari",
       "url": "https://open.spotify.com/track/3iDayfbbCjkyfRI1YJFRJu"
+    },
+    {
+      "album": {
+        "name": "Di Na",
+        "url": "https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247413,
+      "name": "Di Na",
+      "url": "https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF"
     },
     {
       "album": {
@@ -2414,6 +2484,24 @@
       "duration_ms": 235841,
       "name": "gtara",
       "url": "https://open.spotify.com/track/5Dwj64pEjwdWLDIdm7vKrj"
+    },
+    {
+      "album": {
+        "name": "Guhit",
+        "url": "https://open.spotify.com/album/7mEau3f3BD6ksCQQ9ukL3Q"
+      },
+      "artists": [
+        {
+          "name": "Dro Perez",
+          "url": "https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225014,
+      "name": "Guhit",
+      "url": "https://open.spotify.com/track/74maWJVe6tA1nKGs5pwfj5"
     },
     {
       "album": {
@@ -3254,7 +3342,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 188741,
       "name": "Ikaw Talaga.",
       "url": "https://open.spotify.com/track/4QCWlicxD9Jacap6CTW2hs"
@@ -5270,7 +5358,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 173888,
       "name": "Moved on Last",
       "url": "https://open.spotify.com/track/38DWGFGbCNgdUnG29ibpff"
@@ -6544,7 +6632,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 241237,
       "name": "Palaisipan",
       "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
@@ -7562,6 +7650,28 @@
       "duration_ms": 203019,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3"
+    },
+    {
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/2dWmk1bspTUprZWi1ybGf7"
+      },
+      "artists": [
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250058,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
     },
     {
       "album": {
@@ -8918,7 +9028,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 196693,
       "name": "Tensionado",
       "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
@@ -9444,7 +9554,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 276992,
       "name": "Wala Na Bang Pag-ibig",
       "url": "https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh"

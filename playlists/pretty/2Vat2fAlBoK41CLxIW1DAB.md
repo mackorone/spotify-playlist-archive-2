@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,597 likes - 911 songs - 2 day 9 hr 24 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,597 likes - 918 songs - 2 day 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -919,5 +919,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 909 | [The Wretched One](https://open.spotify.com/track/5was7hVbo2RXuN86nT1HHS) | [ENGRAVED](https://open.spotify.com/artist/6R5sDWirfGj3i7FpTw2A3W) | [The Wretched One](https://open.spotify.com/album/4S4T5vjiikTVJFCY4SkKx0) | 5:31 |
 | 910 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 |
 | 911 | [Away With The Birds](https://open.spotify.com/track/0lfqXRjRhWz950m7f0sAOA) | [Sam Tout](https://open.spotify.com/artist/7KkL60MFnIoBkdAfkUIBei) | [Away With The Birds](https://open.spotify.com/album/7JSbLYkL4og3i1NpGwHOle) | 3:48 |
+| 912 | [La Separación de los Whitexicans y el Punk](https://open.spotify.com/track/0veqcjeaUOHr1O4jflCo6L) | [Los Invictos](https://open.spotify.com/artist/042BvqIgyWcC0IRkALJ3KS), [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [La Separación de los Whitexicans y el Punk](https://open.spotify.com/album/6SsS3FzJGzbQ9yFIbnOIWd) | 2:47 |
+| 913 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 |
+| 914 | [To Those Who Are Adept](https://open.spotify.com/track/2YGF2eJJHZpbJIMzOmNupi) | [Kolossos](https://open.spotify.com/artist/5YL0laVGokLXPoDkkbhB2K) | [To Those Who Are Adept](https://open.spotify.com/album/4n9K2syRoFXseCSr2rzOr0) | 5:31 |
+| 915 | [MILK AND CIGARETTES](https://open.spotify.com/track/1D3Yi7kRHb0Vn6tfyArzLc) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V) | [MILK AND CIGARETTES](https://open.spotify.com/album/300Ct60mr9Mm12OGCug1fl) | 4:04 |
+| 916 | [Old Jam \(HD\)](https://open.spotify.com/track/02qyvgqHhB10md2oMZsSy1) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Old Jam \(HD\)](https://open.spotify.com/album/3sLla5ezHeA4Aln2Sg4vUg) | 2:00 |
+| 917 | [Souls Reign Fire](https://open.spotify.com/track/0gcvgWBy9A87xtaeZxXyHp) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [Souls Reign Fire](https://open.spotify.com/album/2udl4XEQIVjT119ntkqqs0) | 6:52 |
+| 918 | [Spaceship L\-U\-V](https://open.spotify.com/track/7F42O7dbgst9G1Z2Hkut5w) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 2:20 |
 
-Snapshot ID: `AAADsDRC1s+zwtsn2HLX1uCYK3BbZ3pn`
+Snapshot ID: `AAADuEgjSl61+zq4Zez863gcw1k5ru9a`

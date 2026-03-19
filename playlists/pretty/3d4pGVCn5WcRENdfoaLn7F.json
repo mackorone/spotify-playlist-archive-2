@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 566,
+  "num_followers": 567,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAC/WZpRze/DX+yBNPbCT/iIG8JKZrK",
+  "snapshot_id": "AAAC/u0UWsRuHmdZUBcZ5Actt9FIbg6Z",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1159,6 +1159,26 @@
       "duration_ms": 254232,
       "name": "50/50",
       "url": "https://open.spotify.com/track/3AD2WXL3wz12SyNw6jfXFc"
+    },
+    {
+      "added_at": "2026-03-19 02:48:47",
+      "album": {
+        "name": "Quiet selfish man",
+        "url": "https://open.spotify.com/album/3yBRhxOp9X7DLpEQVbzJ6q"
+      },
+      "artists": [
+        {
+          "name": "Ladat",
+          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
+        },
+        {
+          "name": "Hana Pav\u0161i\u010d",
+          "url": "https://open.spotify.com/artist/1zLtkHyi57e4iXlcFXyGLc"
+        }
+      ],
+      "duration_ms": 235112,
+      "name": "Quiet selfish man",
+      "url": "https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

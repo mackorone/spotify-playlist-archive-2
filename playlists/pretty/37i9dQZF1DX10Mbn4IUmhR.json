@@ -1,6 +1,6 @@
 {
   "description": "Your frequency for today's hottest pop tracks in Mzansi. Cover: Lloyiso",
-  "num_followers": 5440,
+  "num_followers": 5439,
   "original_name": "pop fm",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-03-13 05:37:12",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
-    },
-    {
-      "added_at": "2026-03-13 05:37:12",
-      "album": {
         "name": "BAD ASS F*CKING KID",
         "url": "https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 123783,
       "name": "Tyla",
       "url": "https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M"
+    },
+    {
+      "added_at": "2026-03-13 05:37:12",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Paracosm",
+      "url": "https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0"
     },
     {
       "added_at": "2026-03-13 05:37:12",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-03-13 05:37:12",
       "album": {
+        "name": "Ted Mosby",
+        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
+      },
+      "artists": [
+        {
+          "name": "Sir Silly",
+          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Ted Mosby",
+      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
+    },
+    {
+      "added_at": "2026-03-13 05:37:12",
+      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 148800,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8"
-    },
-    {
-      "added_at": "2026-03-13 05:37:12",
-      "album": {
-        "name": "Ted Mosby",
-        "url": "https://open.spotify.com/album/3eEH6dpJaarICwy9yp2vKC"
-      },
-      "artists": [
-        {
-          "name": "Sir Silly",
-          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Ted Mosby",
-      "url": "https://open.spotify.com/track/0MEHbAg96M5HJMsRYPVDeU"
     },
     {
       "added_at": "2026-03-13 05:37:12",

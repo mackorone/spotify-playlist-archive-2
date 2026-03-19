@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 77178,
+  "num_followers": 77180,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "How Great",
-        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Praise the King",
-      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 246640,
       "name": "Fierce - Live",
       "url": "https://open.spotify.com/track/4VS6PK5bVEBtEt4lLvLYoi"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "How Great",
+        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Praise the King",
+      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 300733,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Presence People",
         "url": "https://open.spotify.com/album/3kSJsZ20S5G9Q53vkhrDAi"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 471490,
       "name": "Jesus Forever",
       "url": "https://open.spotify.com/track/0uj4h2Ltq68hUBoaTp62Oy"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Zion (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 535962,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Zion (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "It is Finished (Acoustic)",
-        "url": "https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "It is Finished - Acoustic",
-      "url": "https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Christ Is Risen",
         "url": "https://open.spotify.com/album/2Kl8y1D0wLHJ7Hjt2M2pvo"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 256313,
       "name": "Christ Is Risen",
       "url": "https://open.spotify.com/track/19nAPTRvJIAkru00EY9Eyy"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "It is Finished (Acoustic)",
+        "url": "https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "It is Finished - Acoustic",
+      "url": "https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad"
-      },
-      "artists": [
-        {
-          "name": "CCV Music",
-          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
-        }
-      ],
-      "duration_ms": 291027,
-      "name": "Rolled Away",
-      "url": "https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "We Adore You",
         "url": "https://open.spotify.com/album/0Xk4lFyKQ91MlURQwhi4Yw"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2Mo9j3A6jzSQHxUhZ5bXad"
+      },
+      "artists": [
+        {
+          "name": "CCV Music",
+          "url": "https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e"
+        }
+      ],
+      "duration_ms": 291027,
+      "name": "Rolled Away",
+      "url": "https://open.spotify.com/track/3xw2yhV13p82PA6P1bw1JA"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Heaven On Earth",
         "url": "https://open.spotify.com/album/0hT8voRUPW74O7jzcFlP2k"
       },
@@ -1691,22 +1691,6 @@
       "duration_ms": 267000,
       "name": "Heaven On Earth",
       "url": "https://open.spotify.com/track/5Z2ozMu3NqiHO9OpOiBCR8"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Deeper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v"
-      },
-      "artists": [
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "Lamb of God",
-      "url": "https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1727,6 +1711,42 @@
       "duration_ms": 330360,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/5VlojXyAGM1q9ke2ybxrVT"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Deeper (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v"
+      },
+      "artists": [
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "Lamb of God",
+      "url": "https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "I Really Love You (Live)",
+        "url": "https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO"
+      },
+      "artists": [
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        }
+      ],
+      "duration_ms": 511685,
+      "name": "Oh The Cross - Live",
+      "url": "https://open.spotify.com/track/4N2z745CqERTOBdrCjkh58"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1759,26 +1779,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "I Really Love You (Live)",
-        "url": "https://open.spotify.com/album/4WqclX4OiJKC0eriTugFmO"
-      },
-      "artists": [
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        }
-      ],
-      "duration_ms": 511685,
-      "name": "Oh The Cross - Live",
-      "url": "https://open.spotify.com/track/4N2z745CqERTOBdrCjkh58"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI"
       },
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Long Live The King (Versions) - EP",
-        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
+        "name": "Empires",
+        "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 353015,
-      "name": "Long Live The King - Acoustic",
-      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
+      "duration_ms": 262120,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/58yhHre6kOePZPD15hZWgP"
     }
   ],
   "unique_name": "Easter Worship",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: AuZTIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,941 likes - 120 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,943 likes - 120 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 30 | [摩洛哥玫瑰的芬芳治癒了人們的哀傷](https://open.spotify.com/track/3Q02z44atJYxfYOQqNI5UH) | [翁宇君](https://open.spotify.com/artist/1MvjwqXKSd4AXxHU0dsa3k) | [摩洛哥玫瑰的芬芳治癒了人們的哀傷](https://open.spotify.com/album/6CVFyKtzzUhJrMdWWISEiL) | 3:57 |
 | 31 | [流浪台北](https://open.spotify.com/track/3hjynJaQc2FWc5wBtpIfe3) | [陳星甫](https://open.spotify.com/artist/3GAyU6U4EG5mc5YR76hG1c) | [流浪台北](https://open.spotify.com/album/5fqis7J8asWlgqzXYwxDEf) | 4:16 |
 | 32 | [愛的摔角手](https://open.spotify.com/track/5zUW5udDUhp2XunbbQao4U) | [ShunYang](https://open.spotify.com/artist/6WBv7rNOojyI2Aq5tDMb9I), [雅博渡口](https://open.spotify.com/artist/608mwVFOr4eUD1H3oXxx6e) | [愛的摔角手](https://open.spotify.com/album/4yCu5sboeYHs724g5ltmW2) | 4:53 |
-| 33 | [我知道你已經不愛](https://open.spotify.com/track/1t2Al7uVb8EyNvtLR5dLq0) | [利善榛](https://open.spotify.com/artist/3dtAWMf2cqQNAxMw0TXi5M) | [我知道你已經不愛](https://open.spotify.com/album/0bhlDR03U0OgmqcE8MSO0u) | 3:03 |
+| 33 | [我知道你已經不愛](https://open.spotify.com/track/1t2Al7uVb8EyNvtLR5dLq0) | [利善榛](https://open.spotify.com/artist/3dtAWMf2cqQNAxMw0TXi5M) | [我知道你已經不愛](https://open.spotify.com/album/0bhlDR03U0OgmqcE8MSO0u) | 3:01 |
 | 34 | [DON'T fall asleep](https://open.spotify.com/track/2O0RGE3IEuAASxncchyAZo) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [DON'T fall asleep](https://open.spotify.com/album/5fwPeG4FsyZxz9ZigFICdy) | 3:19 |
 | 35 | [Late Night Hype, Pt\. 3](https://open.spotify.com/track/7vrhoE0CKPhldRR02apVU2) | [西屯純愛組](https://open.spotify.com/artist/6cYpkZJmpjYnWD6M5IDddT), [DruWChen](https://open.spotify.com/artist/69IBtbUtaMEbvM3fG17WvO) | [Late Night Hype, Pt\. 3](https://open.spotify.com/album/7aDWf2iVSWUQHIclxAJQum) | 2:47 |
 | 36 | [Free Man](https://open.spotify.com/track/2hjIuu9h5iAlPl5KVsTle6) | [野東西](https://open.spotify.com/artist/4rPhceoKF0tyntcBKJ8NX5) | [Free Man](https://open.spotify.com/album/197ys0kWdRFj1rJKwW80x7) | 3:03 |

@@ -4,7 +4,7 @@
 
 > Sounds of birds, rain, and forest ambience.
 
-214 songs - 10 hr 17 min
+215 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Birds in the Spring Rain](https://open.spotify.com/track/74HzxCRcYQLHC1CoBwc3gF) | [Jane Quin](https://open.spotify.com/artist/5LByymUnsM8FuuYIEUhI8o) | [Birds in the Spring Rain](https://open.spotify.com/album/0FJndSgck0RqNeMZAzxvmB) | 2:06 | 2023-03-03 |  |
 | [Birds In The Woods](https://open.spotify.com/track/2TJvCm7NNBJBSKQJWNEj3D) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:51 | 2023-03-03 |  |
 | [Birds Love Rain](https://open.spotify.com/track/1LIThJzbfd81yH4wLxqAEF) | [Sleep, Study, Focus](https://open.spotify.com/artist/1KLREyUk3MawnpXeaicU5J) | [Natural Rain](https://open.spotify.com/album/4OcEKcgz6h3tbx5nLDPfdh) | 2:30 | 2022-03-25 | 2025-12-09 |
+| [Birds near the river in Columbia](https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Birds near the river in Columbia](https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP) | 1:59 | 2025-11-11 |  |
 | [Birds Nest](https://open.spotify.com/track/4bMTIVZmDiAaDS45kVEkgn) | [Scenery Samples](https://open.spotify.com/artist/3xx7H6fXVcKgXrNJGXTaYv) | [Eager Bird](https://open.spotify.com/album/65ogwjkTFXvGIo1F19Ml68) | 1:52 | 2023-09-20 | 2023-10-12 |
 | [Birds of Papua New Guinea](https://open.spotify.com/track/5KnvxIUwYmSCGu4yD6Dvb6) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Feathers in the Forest](https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb) | 3:05 | 2024-03-26 |  |
 | [Birds Of the Rainforest](https://open.spotify.com/track/4KbwasB5txiAwLRFQsrZ07) | [Lively Nature Sounds](https://open.spotify.com/artist/4hYhL32tebI7EDJR8aDNWL) | [Wild Life Birds and Rain](https://open.spotify.com/album/7hGDH33pjK2feH0YSPZjyG) | 2:35 | 2022-03-25 |  |
@@ -163,7 +164,7 @@
 | [Rustling Leaves and Chirping Birds](https://open.spotify.com/track/6btXfDfFdOvw1G42xscQHP) | [Forest Sounds FX](https://open.spotify.com/artist/2S9zyoMbNGC3091mDUa7jF) | [Serene Forest Ambience](https://open.spotify.com/album/3c2hy7hLvWrYylWdIjkewS) | 2:56 | 2023-09-20 |  |
 | [Scandinavian Forest Rain Sound](https://open.spotify.com/track/0U72R7eOGDPit3iw1Wg0mh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:37 | 2022-03-25 |  |
 | [Serenity Stream](https://open.spotify.com/track/3YRLGX31Urt4b0sePMeqTK) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Natural Forest Sounds](https://open.spotify.com/album/2FSVv9SXq2JtwS9aZntmMn) | 4:00 | 2022-03-25 | 2022-04-29 |
-| [Showering Birds](https://open.spotify.com/track/6EqlbF10G58ofFeBMXSaih) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Showering Birds](https://open.spotify.com/album/33ZjYDG5rID24lRkqNTWpG) | 2:22 | 2024-12-03 |  |
+| [Showering Birds](https://open.spotify.com/track/6EqlbF10G58ofFeBMXSaih) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Showering Birds](https://open.spotify.com/album/33ZjYDG5rID24lRkqNTWpG) | 2:22 | 2024-12-03 | 2026-03-19 |
 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 | 2022-03-25 |  |
 | [Sitting Under The Tree](https://open.spotify.com/track/5ySy6nj1AWOTDx3Tm6M6zb) | [Paul's Field Recordings](https://open.spotify.com/artist/5fxe8QDUhBHXPULOFmFxry) | [Mother Nature](https://open.spotify.com/album/77DLlFKvDKjCbexjhopdve) | 2:23 | 2022-03-25 |  |
 | [Small Birds and Swirling Stream](https://open.spotify.com/track/01wmtbMHxi9M5swTTWl40Y) | [Alisha Pearce](https://open.spotify.com/artist/0BCrRTZJYvA0AkHRhPdfln) | [Small Birds and Swirling Stream](https://open.spotify.com/album/5Cm3gkO6u5UXY7moX1QMod) | 2:29 | 2023-03-04 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Noah James, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Erin Kinsey, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -44845,6 +44845,42 @@
     },
     {
       "album": {
+        "name": "REASON YOU DRINK",
+        "url": "https://open.spotify.com/album/1LqRy1VcYteldMS9O1yKVT"
+      },
+      "artists": [
+        {
+          "name": "Ashley Walls",
+          "url": "https://open.spotify.com/artist/1sO7K6dVf1ZYa4XNZVozBw"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "REASON YOU DRINK",
+      "url": "https://open.spotify.com/track/1ZNHq4ZBAhUtfhq2mdBpOI"
+    },
+    {
+      "album": {
+        "name": "Reasons Why We Broke Up",
+        "url": "https://open.spotify.com/album/6l0WShcnTrdTWl8CFF4tXb"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236555,
+      "name": "Reasons Why We Broke Up",
+      "url": "https://open.spotify.com/track/3NzR8tsF7ZoaQnEOfxwwaT"
+    },
+    {
+      "album": {
         "name": "Six Mile",
         "url": "https://open.spotify.com/album/19q7vSiSA1C3wnR7OvkR0B"
       },
@@ -57599,6 +57635,24 @@
     },
     {
       "album": {
+        "name": "Grandpa's Mill",
+        "url": "https://open.spotify.com/album/4PKlKNnkXHALrysN4dWm5C"
+      },
+      "artists": [
+        {
+          "name": "Colton Bowlin",
+          "url": "https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Time for Sale",
+      "url": "https://open.spotify.com/track/0IbSQ5CTREVa6ylXFnVMo8"
+    },
+    {
+      "album": {
         "name": "Time for That",
         "url": "https://open.spotify.com/album/5ZZfMCRc6z5yGptxdTtTdd"
       },
@@ -58835,6 +58889,24 @@
     },
     {
       "album": {
+        "name": "Two Boots",
+        "url": "https://open.spotify.com/album/6XGbwQMkgqJutbWl8iI3qn"
+      },
+      "artists": [
+        {
+          "name": "Kat Luna",
+          "url": "https://open.spotify.com/artist/0ZAMqSlS8quA8VPHdQF6jt"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203967,
+      "name": "Two Boots",
+      "url": "https://open.spotify.com/track/0ey9A7L0UFKXmUTAVdJKY4"
+    },
+    {
+      "album": {
         "name": "TWO BROKE HEARTS",
         "url": "https://open.spotify.com/album/36H4r65rax4ptGYfds64nC"
       },
@@ -60014,7 +60086,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 149638,
       "name": "WASTE OF WHISKEY",
       "url": "https://open.spotify.com/track/41qy6YBmbsVvWyOHqLCqnd"
@@ -64282,7 +64354,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 198176,
       "name": "Written By A Woman",
       "url": "https://open.spotify.com/track/34E3kmbItdwGI3QG0uEncO"

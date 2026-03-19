@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,288 likes - 168 songs - 9 hr 48 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 173 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,5 +176,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 166 | [follow my rhythm](https://open.spotify.com/track/0MiJdUtnv11W5MGNOMxGAB) | [MIRIIEM](https://open.spotify.com/artist/44UwKvv3KL8W83pbxsID5t), [Von Hortix](https://open.spotify.com/artist/5e0Spjepkjnoo1qJIGtcjQ) | [follow my rhythm](https://open.spotify.com/album/74OBwZJzchBJf6fpjrCFm9) | 1:59 |
 | 167 | [Hope](https://open.spotify.com/track/2Wy1stSrMcYwPvmKAb8Pay) | [Skye Darling](https://open.spotify.com/artist/4QiKBkvRxNWJoCdpclehUu) | [Only Noise](https://open.spotify.com/album/7wUOMeBuyuh8tGYQPWUNV4) | 3:48 |
 | 168 | [Clear My Mind](https://open.spotify.com/track/0Kc4uMBJroVPXkl2XTOXiq) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Clear My Mind](https://open.spotify.com/album/1pTbolOhXVsdBIdp14GPtA) | 2:57 |
+| 169 | [Fuori Fase](https://open.spotify.com/track/4BvTTUR5I6Lu32H4SEp5XF) | [SanaNasciari](https://open.spotify.com/artist/3DtXo63P1fcyUzRRYsnI3T) | [Fuori Fase](https://open.spotify.com/album/7EUDXRvf6IO08kdUOvmexW) | 3:19 |
+| 170 | [Tears](https://open.spotify.com/track/71KWkDcT5lwG1dG2mCf5vu) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Tears](https://open.spotify.com/album/1aF7rNMvxmQxTxRkGy6pUi) | 3:29 |
+| 171 | [The Process \- Sped Up & Reverbed](https://open.spotify.com/track/4Q9yFmSyERkNtBVdq1zKlQ) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process \(Sped Up & Reverbed\)](https://open.spotify.com/album/0FGNG8bBLKafYGIZYvOLcX) | 3:12 |
+| 172 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
+| 173 | [demonic stranger](https://open.spotify.com/track/30T4D9QFdqhJkIDvYQnrK4) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [Ready to fight evil](https://open.spotify.com/album/7ql4H2uSoJTggEuX6a6ToD) | 4:37 |
 
-Snapshot ID: `AAAR1yxkQ45poYUYA06eE7IW2NEUAazv`
+Snapshot ID: `AAAR3DIXI7vgKkhQ4ueg65+ck3BwO1YZ`

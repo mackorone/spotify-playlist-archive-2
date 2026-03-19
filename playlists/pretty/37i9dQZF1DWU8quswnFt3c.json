@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1045345,
+  "num_followers": 1045211,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Spellbook",
-        "url": "https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K"
-      },
-      "artists": [
-        {
-          "name": "mermaidonmars",
-          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
-        }
-      ],
-      "duration_ms": 149866,
-      "name": "Cognitive Dissonance",
-      "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "RAGE GIRL (Remix)",
         "url": "https://open.spotify.com/album/3ztsnfBbpSB67hYnJGJMwm"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 208851,
       "name": "RAGE GIRL (Remix)",
       "url": "https://open.spotify.com/track/3Lry62qNJ7Kgxtwq2Fh1jV"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Spellbook",
+        "url": "https://open.spotify.com/album/16R0XNwZAqSn3xtyxAOb7K"
+      },
+      "artists": [
+        {
+          "name": "mermaidonmars",
+          "url": "https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Cognitive Dissonance",
+      "url": "https://open.spotify.com/track/4gxcQjQas1oSbY63REnRjT"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "2 Versager",
-        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
-      },
-      "artists": [
-        {
-          "name": "Magda",
-          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "2 Versager",
-      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Temberang",
         "url": "https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "2 Versager",
+        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "2 Versager",
+      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "Broken?",
         "url": "https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 243773,
       "name": "Broken?",
       "url": "https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73"
-      },
-      "artists": [
-        {
-          "name": "Minelli",
-          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -831,18 +811,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73"
       },
       "artists": [
         {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+          "name": "Minelli",
+          "url": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
         }
       ],
-      "duration_ms": 325625,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
+      "duration_ms": 168071,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -859,6 +843,22 @@
       "duration_ms": 190955,
       "name": "I OWE IT TO YOU",
       "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 325625,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Pena, Penita, Pena",
         "url": "https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 223240,
       "name": "Pena penita pena",
       "url": "https://open.spotify.com/track/021KukNOhoemTxzEVWaaId"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "Nessuna",
-        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
-      },
-      "artists": [
-        {
-          "name": "Altea",
-          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
-        }
-      ],
-      "duration_ms": 134924,
-      "name": "mia",
-      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Meet Me In The Blue",
         "url": "https://open.spotify.com/album/0lMFXa1lhQsWm8u6ryWg28"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 186615,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/3VMIBXpCHzgQY0jAsHz2HW"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Nessuna",
+        "url": "https://open.spotify.com/album/3aCQCerumFp8XZKbGD6jXM"
+      },
+      "artists": [
+        {
+          "name": "Altea",
+          "url": "https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws"
+        }
+      ],
+      "duration_ms": 134924,
+      "name": "mia",
+      "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
-        "url": "https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp"
-      },
-      "artists": [
-        {
-          "name": "paiiinntt",
-          "url": "https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E"
-        }
-      ],
-      "duration_ms": 294822,
-      "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
-      "url": "https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3SL7IUdrQ23Xc0MqyGlGfj"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 219826,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1uvdsygNOfhOdKBehMl1f2"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
+        "url": "https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp"
+      },
+      "artists": [
+        {
+          "name": "paiiinntt",
+          "url": "https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E"
+        }
+      ],
+      "duration_ms": 294822,
+      "name": "\u0e01\u0e25\u0e32\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (love song)",
+      "url": "https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy"
+      },
+      "artists": [
+        {
+          "name": "THERA",
+          "url": "https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG"
+        }
+      ],
+      "duration_ms": 188930,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "Tento Na L\u00edngua",
         "url": "https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx"
       },
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "deja vu",
-        "url": "https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy"
-      },
-      "artists": [
-        {
-          "name": "THERA",
-          "url": "https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG"
-        }
-      ],
-      "duration_ms": 188930,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "soul.food \u9748\u98df",
         "url": "https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 216188,
       "name": "got.to.believe",
       "url": "https://open.spotify.com/track/5zvE5C2JislfFqefghan0H"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "TRANSFORMANIA",
+        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
+      },
+      "artists": [
+        {
+          "name": "Csinszka",
+          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
+        }
+      ],
+      "duration_ms": 187951,
+      "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
+      "url": "https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1243,22 +1259,6 @@
       "duration_ms": 175082,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "TRANSFORMANIA",
-        "url": "https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO"
-      },
-      "artists": [
-        {
-          "name": "Csinszka",
-          "url": "https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6"
-        }
-      ],
-      "duration_ms": 187951,
-      "name": "Fels\u00fct\u00f6tt a napsug\u00e1ra",
-      "url": "https://open.spotify.com/track/5o2pkld9SvipWLP46lBbeJ"
     },
     {
       "added_at": "2026-02-18 05:00:29",

@@ -850,7 +850,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 162565,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK"
@@ -1018,6 +1018,24 @@
       "duration_ms": 164000,
       "name": "Jet Plane 5000",
       "url": "https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA"
+      },
+      "artists": [
+        {
+          "name": "Pat Lagoon",
+          "url": "https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160062,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo"
     },
     {
       "album": {
@@ -1500,6 +1518,10 @@
         {
           "name": "Jordan Max",
           "url": "https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb"
+        },
+        {
+          "name": "St Francis Hotel",
+          "url": "https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9"
         }
       ],
       "date_added": "2025-08-07",

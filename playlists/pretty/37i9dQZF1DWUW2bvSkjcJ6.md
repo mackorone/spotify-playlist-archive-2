@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von badmómzjay, Topic, Ikkimel, Khalid & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,015 likes - 92 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,977 likes - 92 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

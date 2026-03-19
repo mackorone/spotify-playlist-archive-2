@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "The Healing Power of the Ocean Waves",
+        "url": "https://open.spotify.com/album/6Y2HubqRJEXXLecv8oF6bL"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Spree",
+          "url": "https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125595,
+      "name": "Lively Sound of Waves on a Windy Day",
+      "url": "https://open.spotify.com/track/5INCawK5g27NnG4iCIAc4l"
+    },
+    {
+      "album": {
         "name": "Lush Waves",
         "url": "https://open.spotify.com/album/3HsfMxvNvueXhO9PDqA7Oq"
       },
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 147534,
       "name": "Soft Rolling Waves",
       "url": "https://open.spotify.com/track/6fv4yl8OMQpTHti7nCTgLe"

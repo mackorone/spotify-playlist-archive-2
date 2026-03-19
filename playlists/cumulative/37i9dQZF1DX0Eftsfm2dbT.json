@@ -25247,6 +25247,24 @@
     },
     {
       "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/0cVhf99iCTwLAIOudXGezv"
+      },
+      "artists": [
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168149,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/2mKYdbvULz6V0VNthBIiDB"
+    },
+    {
+      "album": {
         "name": "Midnight Hours",
         "url": "https://open.spotify.com/album/3wCgSJveo1Scs1QAqiiDrI"
       },
@@ -38919,6 +38937,24 @@
     },
     {
       "album": {
+        "name": "Some Dad Rap Songs",
+        "url": "https://open.spotify.com/album/6SMYLJySVglQ7qzcGZ7A2w"
+      },
+      "artists": [
+        {
+          "name": "VOLOJZA",
+          "url": "https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Straight Up!",
+      "url": "https://open.spotify.com/track/5rShGpJJ6bL4WGn7GSgejt"
+    },
+    {
+      "album": {
         "name": "Chimera",
         "url": "https://open.spotify.com/album/40IVmdPsW41lwlpnqARYNl"
       },
@@ -42050,24 +42086,6 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
-    },
-    {
-      "album": {
-        "name": "Some Dad Rap Songs",
-        "url": "https://open.spotify.com/album/6SMYLJySVglQ7qzcGZ7A2w"
-      },
-      "artists": [
-        {
-          "name": "VOLOJZA",
-          "url": "https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md"
-        }
-      ],
-      "date_added": "2026-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5rShGpJJ6bL4WGn7GSgejt"
     },
     {
       "album": {

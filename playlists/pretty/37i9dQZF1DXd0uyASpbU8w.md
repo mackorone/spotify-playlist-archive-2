@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  James Blake, Kabza De Small, Nasty C, Shandesh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,982 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,003 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 16 | [Sukuma \(feat\. Tumelo.za, Tyrone Dee & Jay Sax\)](https://open.spotify.com/track/0tZst6GsvHwkGMbmnq59DW) | [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Tyrone Dee](https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC) | [Sukuma \(feat\. Tumelo.za, Tyrone Dee & Jay Sax\)](https://open.spotify.com/album/6T80cv59grZSp3fM5aHaRm) | 5:46 |
 | 17 | [SNOKONOKO IV \(Darkoo\)](https://open.spotify.com/track/7JGcpUOsYvFy7Xi1rWSg9t) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [SNOKONOKO IV \(Darkoo\)](https://open.spotify.com/album/7bEa7roINlL34B1nQDEGpU) | 3:03 |
 | 18 | [Ndivile](https://open.spotify.com/track/6ebjGZv5Z7DAssFfIOKfUc) | [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i), [Michelle ka Ndikhoyo](https://open.spotify.com/artist/3aBdFG9uR25zPsSqQvPzpF) | [Dithapelo](https://open.spotify.com/album/5614FCEOB3ZvIftl0W2J7a) | 4:19 |
-| 19 | [You're So Spoilt](https://open.spotify.com/track/5Cy1MFCCdzBGVqj63Fl6Ah) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C) | [You're So Spoilt](https://open.spotify.com/album/0OJCLxUCqISrzY3KQkI3WX) | 3:23 |
+| 19 | [You're So Spoilt](https://open.spotify.com/track/5Cy1MFCCdzBGVqj63Fl6Ah) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Zwayetoven](https://open.spotify.com/artist/3iw79FjeZRNqeD8JkREr3j) | [You're So Spoilt](https://open.spotify.com/album/0OJCLxUCqISrzY3KQkI3WX) | 3:23 |
 | 20 | [Yapa Yapa](https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0) | [Jiire Smith](https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc) | [Diamond in a Process](https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n) | 2:25 |
 | 21 | [Ohho](https://open.spotify.com/track/0B0ciPTKmE56RwnZgITNg1) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH) | [Ohho](https://open.spotify.com/album/0boDkNVWKo8U6m4ji6FXTp) | 3:18 |
 | 22 | [Summer Body \(feat\. Bontle Smith\)](https://open.spotify.com/track/71oqgBbCr1bLhNafdBX5IE) | [KayGee DaKing](https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2), [Bizizi](https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [Summer Body \(feat\. Bontle Smith\)](https://open.spotify.com/album/7EZX9NbDiCoFGC43RrQypv) | 5:47 |

@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: XXJULÍA
 
-275 songs - 14 hr 52 min
+275 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dans la nuit](https://open.spotify.com/track/5qeeSzrCSooIvk7SBfLC6A) | [Yengi](https://open.spotify.com/artist/3pOW6I20Pb4omyg8cSNGEX), [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [Guydo](https://open.spotify.com/artist/0FxNyLAP2TbgtZWATbTBLe) | [Dans la nuit](https://open.spotify.com/album/1odIZMVjPJDgh0p1HhfpZI) | 3:10 | 2025-05-07 |  |
 | [Danse lunaire](https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp) | [Carmen Jaci](https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3) | [Happy Child](https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK) | 4:58 | 2024-07-01 | 2025-05-08 |
 | [Day n Night](https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh) | [Sono](https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39) | [Day n Night](https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr) | 3:59 | 2024-10-21 | 2025-05-08 |
-| [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 | 2025-11-28 |  |
+| [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:09 | 2025-11-28 |  |
 | [Deja Vu](https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf) | [Howen Justin](https://open.spotify.com/artist/1LTaWRYPFuvUvthUmc5d8N) | [Deja Vu](https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd) | 2:31 | 2024-07-01 | 2025-05-08 |
 | [Dimes To Call](https://open.spotify.com/track/0lGqDniVUCQvNJ2ufF3QBd) | [Moon Jacky Jane](https://open.spotify.com/artist/0T7wdpMq0CIzTJBdTOCaov) | [Dimes To Call](https://open.spotify.com/album/23JcDLSvzBp7JMDwA4DFWS) | 3:12 | 2025-05-07 | 2025-09-05 |
 | [Dit Gaat Pijn Doen](https://open.spotify.com/track/2CTfVMR4Uayoge0b2gl60g) | [BERBER](https://open.spotify.com/artist/3InQDZx90dX0arwVY9JyMP) | [Dit Gaat Pijn Doen](https://open.spotify.com/album/1Gt7ItM4BmcpjupLhMahcv) | 3:15 | 2025-09-16 |  |

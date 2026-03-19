@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,008 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,034 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 5 | [Bloco dos Apaixonados](https://open.spotify.com/track/238zMnsORb3vbrpJtTCzPE) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Até o Próximo Carnaval, Vol\. 3](https://open.spotify.com/album/56wCjkQK8O6x2V25skPFsB) | 2:42 |
 | 6 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 | 7 | [Passa o Beck](https://open.spotify.com/track/3h54LeGsVaREXywhEnbjDT) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [Pedro Verné](https://open.spotify.com/artist/50DuPUvDj01Fd3yQb1ALXH), [Soft World](https://open.spotify.com/artist/6oZcMav6FpgRsaHzAJ7vA8) | [Passa o Beck](https://open.spotify.com/album/485NRfVV4lJYPS517lBCN5) | 2:26 |
-| 8 | [ME DIZ PQ?](https://open.spotify.com/track/3yTgfngNRx88W1GvD4Cyc8) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [R7](https://open.spotify.com/artist/5RTKFrrsCbQjICCEcWlSlj) | [ME DIZ PQ?](https://open.spotify.com/album/1Hvq4LbUkDiLHUc518ElWy) | 2:49 |
+| 8 | [ME DIZ PQ?](https://open.spotify.com/track/3yTgfngNRx88W1GvD4Cyc8) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB) | [ME DIZ PQ?](https://open.spotify.com/album/1Hvq4LbUkDiLHUc518ElWy) | 2:49 |
 | 9 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
 | 10 | [Você \- Remix](https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7) | [Delinn](https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ) | [Você \(Remix\)](https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE) | 3:23 |
 | 11 | [Oxigênio](https://open.spotify.com/track/5ERlEZEb6L9pn1ByAQJ3nT) | [Cael Gomess](https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh) | [Oxigênio](https://open.spotify.com/album/47jeyFF7y0PbGOKWCmybSM) | 3:15 |

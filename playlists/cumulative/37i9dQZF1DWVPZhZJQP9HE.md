@@ -2,9 +2,9 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Rakhooo
+> Tune into the finest of Tamil Indie music!<br/>Cover : Rudh
 
-761 songs - 1 day 20 hr 39 min
+762 songs - 1 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \- From "Irandaam kaadhal"](https://open.spotify.com/track/14fsJKRZp1RlFBvsVq4kNq) | [Kevin D'costa](https://open.spotify.com/artist/11m2LnJnChht9JbeiRIAmv), [Kiran Adithya GK](https://open.spotify.com/artist/7yGEsuloXy1pMd5p1xukPY) | [Kaadhal Pozhigiradhu Kaatrum Ninaigiradhae \(From "Irandaam kaadhal"\)](https://open.spotify.com/album/6O26zFJwro5cCzZqZ4iF4p) | 4:17 | 2022-02-03 | 2022-06-14 |
 | [Kaadhalaagiren](https://open.spotify.com/track/0xgf7Y6CLRfn68xPGmSB2J) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Kaadhalaagiren](https://open.spotify.com/album/4Aj9uwWrVsvTzzqsvV0HHi) | 3:43 | 2025-04-07 | 2025-08-14 |
 | [Kaaka Kadha \- From "Think Indie"](https://open.spotify.com/track/4ZU57HzgK8hWfeXcqBhWDd) | [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Kaaka Kadha \(From "Think Indie"\)](https://open.spotify.com/album/2Rf7Tu3ZqCmUdwqPosFaH4) | 3:30 | 2022-07-11 | 2023-08-09 |
-| [Kaalam Neram \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kaalam Neram \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/0QSIo68566ptRfAn1Za3ry) | 3:03 | 2026-01-23 |  |
+| [Kaalam Neram \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/track/4reJxn5fEju74xRPpRdUPm) | [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd) | [Kaalam Neram \(From "MM Originals"\) \(Original Soundtrack\)](https://open.spotify.com/album/0QSIo68566ptRfAn1Za3ry) | 3:03 | 2026-01-23 | 2026-03-19 |
 | [Kaalame](https://open.spotify.com/track/06sE9VkcA5o200k2tX0Hdq) | [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP) | [Kaalame](https://open.spotify.com/album/6I3sMf4t8FnM3r2mySReQv) | 5:27 | 2025-08-19 |  |
 | [Kaanadha Vizhigal](https://open.spotify.com/track/7K02crvfkaOH4LqZcp8lNM) | [Alvin Bruno](https://open.spotify.com/artist/1YYlKQ8S26WxCvXg1ULKvC) | [Kaanadha Vizhigal](https://open.spotify.com/album/2RJYqOUDoLnrErpDQ3OW3A) | 2:57 | 2022-02-25 | 2022-07-08 |
 | [Kaaranam](https://open.spotify.com/track/5qfTeUo5gDEYk7ApD7JUqR) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Kaaranam](https://open.spotify.com/album/0Wu1gmRfOGgr5KSIFQJwCt) | 4:02 | 2022-12-16 | 2023-01-11 |
@@ -763,6 +763,7 @@
 | [Yaaro \- From "Think Indie"](https://open.spotify.com/track/32JtlUwj5lO1tJCj6j5glU) | [Rakhooo](https://open.spotify.com/artist/4taC6D2Loslf6n6YBTWjzd), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Yaaro \(From "Think Indie"\)](https://open.spotify.com/album/0ee5p75PuogR9kErRoKCsx) | 3:15 | 2024-03-23 | 2024-08-13 |
 | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/track/14K8atqpMOPHkqwSVECjZJ) | [P.S\. Ashwin](https://open.spotify.com/artist/0QeMt74YcTUUxJebGV58Vv), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Yaaropole Neeyum Yaaropole Naanum \(From "Chota"\)](https://open.spotify.com/album/4QF4CLBDzeconmu7xcwKTX) | 3:59 | 2022-04-04 | 2022-07-18 |
 | [Yaavum Dooram](https://open.spotify.com/track/2lJgbECznMqSoeLr9u0Dfq) | [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Andrea Jeremiah](https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj), [Uthara Pattathil](https://open.spotify.com/artist/2UkwObB1pDRMsqq0lQnSPu) | [Yaavum Dooram](https://open.spotify.com/album/2QN3nXN2namoXB6oKo3rN1) | 3:14 | 2022-10-07 | 2022-10-11 |
+| [Yaen](https://open.spotify.com/track/1gqAZ2iYeqyuwuOS3Hnb7T) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Varsha Gopinath](https://open.spotify.com/artist/7ayUOUsYhzGOrNtKP0yDUz), [NZM](https://open.spotify.com/artist/6xpJ0F0DpEITHP4HHAunl2) | [Yaen](https://open.spotify.com/album/6qtKKlVADeAl0QvJEIk5NJ) | 3:50 | 2026-03-18 |  |
 | [YAENDI YAENDI](https://open.spotify.com/track/1FcSdJlxQxG2rUfi6Hw3sf) | [KS Chandru](https://open.spotify.com/artist/5yUVc6PdLSEPQXINJVBGyJ), [Sathya Narayanan](https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt) | [YAENDI YAENDI](https://open.spotify.com/album/6o4sLAluM3x3DKg5IGIi7w) | 5:04 | 2023-02-10 | 2024-03-24 |
 | [YEDA YUNG \(Tamil Remix\)](https://open.spotify.com/track/3jlfA88tVVL8TOe6AvV0oH) | [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG \(Tamil Remix\)](https://open.spotify.com/album/5wK6HCJIMzV2gtOTkaAnYO) | 1:45 | 2025-08-13 | 2026-02-04 |
 | [Yen Pulla](https://open.spotify.com/track/1KRSXgSrxbkbi1bOYRk0iP) | [Vishwanath Haveri](https://open.spotify.com/artist/1EHpGTni0ayOYRZTfXZ0Vo), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw), [Prasad Mahadev](https://open.spotify.com/artist/4d4itLWsTshSfFSrba1AR2) | [Yen Pulla](https://open.spotify.com/album/03ZbwAbnw2SuKzkmDE2e2Z) | 3:26 | 2022-08-14 | 2023-02-07 |

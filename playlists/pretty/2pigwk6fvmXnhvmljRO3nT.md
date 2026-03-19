@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,351 songs - 21 day 6 hr 38 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,356 songs - 21 day 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8359,5 +8359,10 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8349 | [Bitten Bullet](https://open.spotify.com/track/6CWrAMXTSfq26cYZhX1Jmg) | [Boris Nonte](https://open.spotify.com/artist/3EvnDQ9GqimRR7VXVPRAw4), [Tommy Gunn Müller](https://open.spotify.com/artist/5XsjKU4IBPna8p4cxhI35O) | [Swagger Symphony](https://open.spotify.com/album/2mCVFvLKWdynWECEXmCett) | 2:23 |
 | 8350 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:02 |
 | 8351 | [2 days into college](https://open.spotify.com/track/3J7xAcSC9UGaJDANSUBJpy) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/6QoP0rsL2zv5Of3yQTfenK) | 2:48 |
+| 8352 | [ミッション！ 健・康・第・イチ](https://open.spotify.com/track/1k0ShDMdFLVJh6Gnq5eQAp) | [赤血球（CV：花澤香菜）](https://open.spotify.com/artist/1v3I5yYYkX6jHwKtVRSeI7), [白血球（CV：前野智昭）](https://open.spotify.com/artist/0T4IGlBlPEfYGzvJeJluhR), [キラーT細胞（CV：小野大輔）](https://open.spotify.com/artist/6au535OTXtcjJ59q9HXn1K), [マクロファージ\(CV:井上喜久子\)](https://open.spotify.com/artist/2niCMWw0h1nUG9nBYgueVQ) | [【はたらく細胞】ミッション！ 健・康・第・イチ](https://open.spotify.com/album/7tDX10yU4dSVkybagz2lra) | 3:25 |
+| 8353 | [プレパレード](https://open.spotify.com/track/0XT65K4AnBTrjq9x32aj8v) | [逢坂大河・櫛枝実乃梨・川嶋亜美\(釘宮理恵、堀江由衣、喜多村英梨\)](https://open.spotify.com/artist/7e85JGlHFZ6FaQl01gyNLh) | [プレパレード](https://open.spotify.com/album/6FxxSB5XVY3I4JAtWllal3) | 3:24 |
+| 8354 | [オレンジ](https://open.spotify.com/track/3CSy3ua1eqT6M1zHjBzq02) | [逢坂大河・櫛枝実乃梨・川嶋亜美\(釘宮理恵、堀江由衣、喜多村英梨\)](https://open.spotify.com/artist/7e85JGlHFZ6FaQl01gyNLh) | [オレンジ](https://open.spotify.com/album/5CICziX48kj8o76IRqFY8L) | 4:38 |
+| 8355 | [Kyouran Hey Kids!!](https://open.spotify.com/track/5NfPjjpfNsodIepI8NpKKR) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/3L2po38uOcXO2tEFLTKixW) | 4:10 |
+| 8356 | [IKOUZE PARADISE](https://open.spotify.com/track/6PWTHFbYE9wSaQojr7umQ5) | [STUNK\(CV:JUNJI MAJIMA\)](https://open.spotify.com/artist/1gchAn06YwVzrs3MOkqmVF), [ZEL\(CV:YUSUKE KOBAYASHI\)](https://open.spotify.com/artist/259hmekQdBPiGLw6wkjzQ5), [CRIMVAEL\(CV:MIYU TOMITA\)](https://open.spotify.com/artist/06CcwKdfjfQMfgRQnUAKe1) | [OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”](https://open.spotify.com/album/6rxnYExQ3gLVipiUW1Wacu) | 4:15 |
 
-Snapshot ID: `AAALNjy7y9ueRdT2a0rzy0Mv66PrJ7al`
+Snapshot ID: `AAALPbjpbq0FK5aOCYNBHuqu3w4kdgbO`

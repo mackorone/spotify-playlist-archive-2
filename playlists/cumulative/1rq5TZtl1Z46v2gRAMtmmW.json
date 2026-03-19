@@ -9959,6 +9959,28 @@
     },
     {
       "album": {
+        "name": "Wrong Things",
+        "url": "https://open.spotify.com/album/3FVMLm8MQt729AkPGPIikI"
+      },
+      "artists": [
+        {
+          "name": "Danitsa",
+          "url": "https://open.spotify.com/artist/0M1Kb2aco43kS4nb66HOn2"
+        },
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169098,
+      "name": "Wrong Things",
+      "url": "https://open.spotify.com/track/1wB6r8nXiBz0EETAAT2Ysn"
+    },
+    {
+      "album": {
         "name": "You Knew",
         "url": "https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc"
       },

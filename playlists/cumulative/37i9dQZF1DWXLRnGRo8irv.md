@@ -2,9 +2,9 @@
 
 ### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
 
-> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: ITZY\)
+> 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: So!YoON!\)
 
-1,371 songs - 3 day 5 hr 28 min
+1,373 songs - 3 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,6 +1031,7 @@
 | [Slightly Tipsy \(feat\. Lee Min Hyuk\)](https://open.spotify.com/track/3lv7rG8xN1129BGF0Je9Tt) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Slightly Tipsy \(feat\. Lee Min Hyuk\)](https://open.spotify.com/album/4sr9Lf2Y0B274e38o16GRl) | 3:46 | 2025-03-04 | 2025-05-13 |
 | [Slowly](https://open.spotify.com/track/2Qx73j6OHx8Im6wMrmEG9j) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [Love is for Suckers, Pt.5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1f3HrC8d2uSztNpPyvaXDe) | 3:17 | 2022-11-10 | 2022-12-01 |
 | [SMASH! \(feat\. Skinny Brown\)](https://open.spotify.com/track/5krsjTkOuJQkxZXTdNtJ6f) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [SMASH! \(feat\. Skinny Brown\)](https://open.spotify.com/album/1Zq9QoDJ2zmG3aniPLUZkI) | 2:41 | 2023-05-02 | 2023-06-07 |
+| [Smoke Sprite \(feat\. RM\)](https://open.spotify.com/track/2uq5eMJ0mXZzjGRuFpSRZ7) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Episode1 : Love](https://open.spotify.com/album/3GcHEIy7bdne8Yb0rGTnsE) | 4:02 | 2026-03-18 |  |
 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-08-02 | 2022-09-07 |
 | [Snow \(Feat\. GORAE\)](https://open.spotify.com/track/3b9lNyXbguv8C6UElDV4HY) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA), [GORAE](https://open.spotify.com/artist/3atXbP5awWylK6MsPg59cF) | [Snow \(Feat\. GORAE\)](https://open.spotify.com/album/0cZl34EUpkVPhWi1JuA9KJ) | 3:14 | 2023-01-03 | 2023-02-01 |
 | [Snowfall \(Feat\. Coogie\)](https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Snowfall](https://open.spotify.com/album/1WkK7CXeGV60KEncYYDjf8) | 2:29 | 2025-02-04 | 2025-09-03 |
@@ -1275,6 +1276,7 @@
 | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/track/7wlip8qEudClSmF4GmUlis) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Windflower \(The Forbidden Marriage X Shin Ye\-Young\)](https://open.spotify.com/album/5yqtkANmdpmA8nzGalFjb5) | 4:20 | 2022-05-31 | 2022-08-03 |
 | [Windy](https://open.spotify.com/track/6lb8PuWa23cy0dQY0pbaKg) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:02 | 2022-03-07 | 2022-04-06 |
 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 | 2022-09-06 | 2022-10-05 |
+| [Wings](https://open.spotify.com/track/3ieVRTL0jHyZD6AAjcoeQa) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/42nmm0ZdjkbfsROkjqJx1c) | 3:15 | 2026-03-18 |  |
 | [Winter \(unreleased\)](https://open.spotify.com/track/6IJ2aqQTCa5ttrOSJY9WDT) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 1:58 | 2025-03-04 | 2025-05-13 |
 | [Winter Moon](https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 4:55 | 2025-03-04 | 2025-05-13 |
 | [Winter Poem](https://open.spotify.com/track/1WIoLsx3aZ83yAJn76vwLD) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6) | [W](https://open.spotify.com/album/2xTWhqmw4ulmDTMgQC97Jc) | 2:39 | 2022-01-04 | 2022-02-02 |

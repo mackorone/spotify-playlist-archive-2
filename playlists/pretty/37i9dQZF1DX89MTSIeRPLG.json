@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 24214,
+  "num_followers": 24222,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "12/31",
-        "url": "https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5"
-      },
-      "artists": [
-        {
-          "name": "Dwalk",
-          "url": "https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T"
-        }
-      ],
-      "duration_ms": 121217,
-      "name": "Stay Ballin'",
-      "url": "https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 204048,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "12/31",
+        "url": "https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5"
+      },
+      "artists": [
+        {
+          "name": "Dwalk",
+          "url": "https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T"
+        }
+      ],
+      "duration_ms": 121217,
+      "name": "Stay Ballin'",
+      "url": "https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Wizzle",
-        "url": "https://open.spotify.com/album/2Vvrzgq8XHNAEE6RIfYADd"
-      },
-      "artists": [
-        {
-          "name": "Dwalk",
-          "url": "https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T"
-        }
-      ],
-      "duration_ms": 101652,
-      "name": "Paid to Rap",
-      "url": "https://open.spotify.com/track/6KTYCE6x5a8HyPNiGKqYJt"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 146341,
       "name": "Basement",
       "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Wizzle",
+        "url": "https://open.spotify.com/album/2Vvrzgq8XHNAEE6RIfYADd"
+      },
+      "artists": [
+        {
+          "name": "Dwalk",
+          "url": "https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T"
+        }
+      ],
+      "duration_ms": 101652,
+      "name": "Paid to Rap",
+      "url": "https://open.spotify.com/track/6KTYCE6x5a8HyPNiGKqYJt"
     }
   ],
   "unique_name": "Funny Marco's Taste",

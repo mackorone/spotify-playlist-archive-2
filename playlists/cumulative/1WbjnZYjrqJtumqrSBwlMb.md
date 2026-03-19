@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,287 songs - 3 day 6 hr 59 min
+1,288 songs - 3 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-07-16 |  |
 | [Gorgeous](https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:57 | 2022-01-22 |  |
 | [Grave](https://open.spotify.com/track/5iSdtklaHGhsLtWZDgFUiB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Grave](https://open.spotify.com/album/1t4PKLoXYU9PSXdlSvzqq7) | 3:11 | 2025-07-14 |  |
+| [Green Light](https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 2:48 | 2026-03-18 |  |
 | [Guess What Bitch, We Back Hoe!](https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/2vMpqIUldNe7m83WAUqIdC) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:58 | 2023-07-11 |  |
 | [GUESS WHO?](https://open.spotify.com/track/0vSUCwrhwDSEOnhjLRSVOe) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD III](https://open.spotify.com/album/75KQkIcV2XhO8qygJgvE4I) | 3:04 | 2023-11-22 |  |
 | [GUESS WHO?](https://open.spotify.com/track/1haMSbJQ1nOYb0ri8X3MCb) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 3:04 | 2024-02-16 |  |

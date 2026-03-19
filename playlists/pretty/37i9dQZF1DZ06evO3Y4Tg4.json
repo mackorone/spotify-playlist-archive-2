@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 265450,
+  "num_followers": 265590,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAADsn+HNlPuKiCfKiaXPUTUC",
+  "snapshot_id": "abiZgAAAAAAt3dTQm1JrxNUz9yhdt6GE",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
       },
       "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 253093,
-      "name": "Screwface Capital",
-      "url": "https://open.spotify.com/track/0zvs4YrUqCwOJ5yVKY4tFm"
+      "duration_ms": 197311,
+      "name": "Doesn't Just Happen",
+      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
     },
     {
       "added_at": null,
@@ -215,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
       },
       "artists": [
         {
@@ -224,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
+      "duration_ms": 253093,
+      "name": "Screwface Capital",
+      "url": "https://open.spotify.com/track/0zvs4YrUqCwOJ5yVKY4tFm"
     },
     {
       "added_at": null,
@@ -251,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr"
       },
       "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 197311,
-      "name": "Doesn't Just Happen",
-      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
+      "duration_ms": 127750,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/52eK8eMaxpJuGaLwE8QAjh"
     },
     {
       "added_at": null,

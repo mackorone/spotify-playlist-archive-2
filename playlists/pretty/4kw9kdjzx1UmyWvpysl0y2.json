@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124201,
+  "num_followers": 124189,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVOJkFAxsR08HTvuSAdgS2YIdRzQUi",
+  "snapshot_id": "AAAVOYNFJGgd/ejvl1m/i1U9QoFIO9/t",
   "tracks": [
+    {
+      "added_at": "2026-03-18 15:56:59",
+      "album": {
+        "name": "THUNDER",
+        "url": "https://open.spotify.com/album/0hBJbFpgm8u34sSABARGkN"
+      },
+      "artists": [
+        {
+          "name": "TESSERACTS",
+          "url": "https://open.spotify.com/artist/2Oc62iD4J8F2YH34NoSALk"
+        },
+        {
+          "name": "CODE BREAKERZ",
+          "url": "https://open.spotify.com/artist/4WFW8Zsgxhx6xpt4xKcS9H"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "THUNDER",
+      "url": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
+    },
     {
       "added_at": "2026-03-16 14:04:01",
       "album": {

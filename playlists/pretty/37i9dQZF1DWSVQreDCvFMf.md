@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Earl Agustin
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,155 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,196 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 76 | [sa ating pag\-ibig](https://open.spotify.com/track/1Mk0E0MIcbHrf8VabtL3dY) | [shirebound](https://open.spotify.com/artist/5F6Eu8EFrLQXOqgEj5gbhJ) | [sa ating pag\-ibig](https://open.spotify.com/album/6zcasMLDxYoHBFMXb6OJgl) | 4:00 |
 | 77 | [Babalik Sa'yo](https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q) | [Babalik Sa'yo](https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl) | 2:59 |
 | 78 | [season 1 episode 43](https://open.spotify.com/track/0IOFshVRhyrxMuxr4sKDM9) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [season 1 episode 43](https://open.spotify.com/album/0UqG8kQkrX7wv6hVdgTOSr) | 3:23 |
-| 79 | [PUCHA](https://open.spotify.com/track/3sUgELJK76O64z2xMETxq1) | [Lu Marzan](https://open.spotify.com/artist/30oXGUTjzsNHfVAjAIjQZL) | [PUCHA](https://open.spotify.com/album/4EwNTkfOw9ZVdLVSp43bak) | 3:19 |
+| 79 | [PUCHA](https://open.spotify.com/track/3sUgELJK76O64z2xMETxq1) | [LU MARZAN](https://open.spotify.com/artist/30oXGUTjzsNHfVAjAIjQZL) | [PUCHA](https://open.spotify.com/album/4EwNTkfOw9ZVdLVSp43bak) | 3:19 |
 | 80 | [Anoba](https://open.spotify.com/track/5vcGeHKZ6hJI6uqN5Y62ik) | [Sean Archer](https://open.spotify.com/artist/19SziRzo0hKaQCP037qnkz) | [Anoba](https://open.spotify.com/album/04CcdNUPxVcz2nvUvd3hrv) | 4:12 |
 | 81 | [MATIK](https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [MATIK](https://open.spotify.com/album/0WKn0lixjdw46WHmvdRqcA) | 3:52 |
 | 82 | [Lapit Kapit](https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lapit Kapit](https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas) | 2:57 |

@@ -2,7 +2,7 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Châu Bùi
+> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt\. Ảnh bìa: Châu Bùi
 
 399 songs - 1 day 1 hr 8 min
 

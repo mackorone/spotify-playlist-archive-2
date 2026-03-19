@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  Ayra Starr
 
-917 songs - 1 day 20 hr 39 min
+918 songs - 1 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Away](https://open.spotify.com/track/2USojCYNliZskHMDUV1bcC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Pitch6lack](https://open.spotify.com/artist/2HJA55YaDvYLmD0fpdB2EP) | [The Men, The Boys and Your Guy](https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg) | 2:36 | 2025-09-26 | 2025-10-03 |
 | [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [B&B \(Booze & Bumbum\)](https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl) | 3:01 | 2022-11-25 | 2022-12-19 |
 | [B.D.E](https://open.spotify.com/track/3dA0G86SQEoj2vKjzjHoAf) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB), [Mr\. Kamera](https://open.spotify.com/artist/3DhTrOPm6Q2HrXgNTddwG5) | [B.D.E](https://open.spotify.com/album/3wZHmMYZfRuGrp41PBrTW5) | 2:54 | 2022-02-03 | 2022-02-23 |
+| [Baami](https://open.spotify.com/track/5P8pUsmXV23EcLGLF15mG8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Baami](https://open.spotify.com/album/5TtQNinKYN1pwJ2aJ4RtLe) | 3:09 | 2026-03-16 |  |
 | [Babcock](https://open.spotify.com/track/0R5Od7mq2qMvDXPHcbRShH) | [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Babcock](https://open.spotify.com/album/5OUQWjsOThQBnlL0mlcr9L) | 2:23 | 2025-03-28 |  |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-02-07 | 2026-01-15 |
 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 | 2021-10-14 | 2023-09-29 |
@@ -791,7 +792,7 @@
 | [Sundress](https://open.spotify.com/track/4gnAPznsSqXMqGfAFylZqK) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Bully Season Vol.1](https://open.spotify.com/album/5IBQ5q44YO63IlQYgeD2HE) | 2:35 | 2023-02-24 | 2023-03-03 |
 | [Sunflawa](https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Sunflawa](https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz) | 2:33 | 2023-05-26 | 2023-11-24 |
 | [Sunny Ade](https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70) | [STUBBORN](https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Sunny Ade](https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt) | 2:47 | 2025-09-19 | 2025-10-10 |
-| [Super](https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Super](https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5) | 2:46 | 2026-01-30 |  |
+| [Super](https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15) | [CupidSZN](https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ) | [Super](https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5) | 2:46 | 2026-01-30 | 2026-03-19 |
 | [SuperSonic](https://open.spotify.com/track/0tLIjCdtDDyyUeDGZ8iuwM) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [SuperSonic](https://open.spotify.com/album/4uekHrCeSWwBHoyv1vcl5e) | 3:59 | 2021-12-09 | 2022-02-11 |
 | [Survive](https://open.spotify.com/track/5yvupSFQQfTMRIkGgmT4WI) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Derry Black](https://open.spotify.com/artist/3e6qekdX5S8EZUaoyT6PAl) | [Once Upon A Cat](https://open.spotify.com/album/4aP4gc9FiGx6VqsDuCj6OX) | 1:55 | 2024-02-02 | 2024-03-16 |
 | [Sweet Adetola](https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr) | 3:46 | 2021-11-11 | 2022-03-02 |

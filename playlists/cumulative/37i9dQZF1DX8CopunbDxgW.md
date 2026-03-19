@@ -4,7 +4,7 @@
 
 > the heron waits patiently 🐦 metropolis is your home for the best indie dance
 
-2,211 songs - 5 day 13 hr 59 min
+2,212 songs - 5 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Far](https://open.spotify.com/track/1578HvhEj8czf6LKw1FnyR) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Places](https://open.spotify.com/album/6gWIOF1L8yhXNqQXGqli18) | 4:24 | 2022-05-20 | 2022-07-06 |
 | [Far Away](https://open.spotify.com/track/39RoLSWrXpOraQp0tvaXWl) | [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [Far Away](https://open.spotify.com/album/5tSovhsliXyWRyX20GWJgx) | 3:19 | 2025-01-10 | 2025-03-29 |
 | [Far Cry](https://open.spotify.com/track/4Bfu3zDZRQuglHGTdJ3I8U) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Far Cry](https://open.spotify.com/album/3pjMrn0bs4sDaOIYFGBkyh) | 4:38 | 2021-10-01 | 2022-07-24 |
+| [Far Too Long](https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Far Too Long](https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv) | 3:58 | 2026-03-18 |  |
 | [fav flav \(with Duckwrth\)](https://open.spotify.com/track/5jKADCQFs1tvvk3s2Er3be) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [fav flav \(with Duckwrth\)](https://open.spotify.com/album/6FqXFMDYQfxOCoX8Ame8az) | 3:16 | 2021-10-08 | 2022-07-11 |
 | [Feedback](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Feedback](https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB) | 5:58 | 2024-01-26 | 2024-02-10 |
 | [Feel](https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 03 + 04](https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW) | 3:15 | 2024-06-14 | 2024-08-24 |
@@ -1148,7 +1149,7 @@
 | [Little Miss Dynamite](https://open.spotify.com/track/0UgyZoaRyRZ8NSiAF8RIiz) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 3:14 | 2023-10-02 | 2024-01-13 |
 | [Little Miss Dynamite](https://open.spotify.com/track/6o2xX07z0g72uGj8rPldW3) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Little Miss Dynamite](https://open.spotify.com/album/7MOLCkGoOF4ehlOVKmAuHO) | 3:14 | 2023-08-25 | 2023-10-26 |
 | [LIVE](https://open.spotify.com/track/67azexYEXRdBvNnkAZuZY1) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [LIVE](https://open.spotify.com/album/34fhH2JfUYk74ygiMc3plp) | 2:06 | 2024-08-16 | 2024-10-05 |
-| [LIVE 4 THE WEEKEND](https://open.spotify.com/track/5RvZ6VwgeJv5bCJAHq0pIG) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [LIVE 4 THE WEEKEND](https://open.spotify.com/album/5NLoChRSdNm2M1sw0N7gvc) | 2:37 | 2026-01-09 |  |
+| [LIVE 4 THE WEEKEND](https://open.spotify.com/track/5RvZ6VwgeJv5bCJAHq0pIG) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [LIVE 4 THE WEEKEND](https://open.spotify.com/album/5NLoChRSdNm2M1sw0N7gvc) | 2:37 | 2026-01-09 | 2026-03-19 |
 | [Live Or Die By Love](https://open.spotify.com/track/10h8uNxxeHZMvwHi2Qiqky) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY) | [Live Or Die By Love](https://open.spotify.com/album/6dBjWRMMfFXc5Zomv2oR9D) | 3:48 | 2025-01-31 | 2025-04-05 |
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-24 | 2022-01-17 |
 | [Living It Up](https://open.spotify.com/track/05HfcpAJ4PBRp15enPGv0P) | [NEMO](https://open.spotify.com/artist/2naji4kbOcOdFil7HLc1HP) | [Living It Up](https://open.spotify.com/album/0RhI0nc4YJfyO8pGCcqK15) | 3:20 | 2024-08-30 | 2024-11-09 |

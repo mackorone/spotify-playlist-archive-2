@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-425 songs - 1 day 3 hr 19 min
+426 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [I Wanna Go](https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [I Wanna Go](https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd) | 3:10 | 2024-05-08 | 2024-05-16 |
 | [I'M SO TIRED](https://open.spotify.com/track/2TJFaa2ewvTo1SLpevIEBI) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [I'M SO TIRED](https://open.spotify.com/album/7N3zDTxxrpLheNDk0VBiVG) | 2:15 | 2024-10-24 | 2024-11-30 |
 | [Ibigay Mo Na](https://open.spotify.com/track/4FO8yUDSkpvybXMZxG3LFB) | [Derfy](https://open.spotify.com/artist/2neKnP2ZijIS5QKN2cxIAt), [Avian](https://open.spotify.com/artist/35sgf5PPri0laH36hdxclR), [Val](https://open.spotify.com/artist/5FLeLeGDXmKKjEuCHVW5kL) | [Ibigay Mo Na](https://open.spotify.com/album/6sE9IZz5E0IwqowJScy5Xj) | 3:36 | 2025-05-09 | 2025-05-22 |
-| [Ikaw ang Wakas](https://open.spotify.com/track/5PTUMeNI5CjMZ0qPy0DUcc) | [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Ikaw ang Wakas](https://open.spotify.com/album/0VK3UeX0KmN6TEnRpxoITn) | 3:46 | 2026-03-09 |  |
+| [Ikaw ang Wakas](https://open.spotify.com/track/5PTUMeNI5CjMZ0qPy0DUcc) | [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Ikaw ang Wakas](https://open.spotify.com/album/0VK3UeX0KmN6TEnRpxoITn) | 3:46 | 2026-03-09 | 2026-03-19 |
 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 | 2023-10-18 | 2025-05-01 |
 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 | 2025-02-19 |  |
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2023-10-18 | 2025-03-25 |
@@ -294,6 +294,7 @@
 | [Panindigan](https://open.spotify.com/track/12hfbDgrWNSkyUrRxdmNo5) | [LEMMY](https://open.spotify.com/artist/61CVEXyjQwkVEDCXsk045l) | [Lu](https://open.spotify.com/album/7thHAH9ci4JVDmQzeGjYgV) | 3:20 | 2025-02-19 | 2025-03-19 |
 | [Paniwalaan](https://open.spotify.com/track/3IAiANECnJXbojMlUvDaco) | [LEYO](https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg) | [Paniwalaan](https://open.spotify.com/album/4UPXrnoHel030dAdJaYp3o) | 3:19 | 2025-09-11 | 2025-10-04 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2023-10-18 | 2026-02-17 |
+| [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2026-03-18 |  |
 | [pano tayo \(?\)](https://open.spotify.com/track/1qMLxOAzVNEqA6ibD4BHXW) | [Zach x Zeph](https://open.spotify.com/artist/4CYeHT9n7RrHjp3SGS455I) | [pano tayo \(?\)](https://open.spotify.com/album/5M9rV3VTkXYt1ErBFpHMZ2) | 4:09 | 2025-12-08 | 2026-01-20 |
 | [Pansamantala](https://open.spotify.com/track/5OIfVsyqjgYvZty3rpkln0) | [Lags](https://open.spotify.com/artist/6HrM9bQKCjFM0o0nXw4rGt) | [Pansamantala](https://open.spotify.com/album/4x8U0rAG7QUFoxgWVPt6YL) | 4:23 | 2026-02-24 | 2026-03-10 |
 | [Pantasya](https://open.spotify.com/track/2LMb2eM0ofNfAmqjj2Z2Xy) | [Marion Talavera](https://open.spotify.com/artist/4sKYcezEK11EMLONEhInb0) | [Pantasya](https://open.spotify.com/album/2sBh8DlPH5AJoU6sHCUnSv) | 3:18 | 2025-02-19 | 2025-03-19 |

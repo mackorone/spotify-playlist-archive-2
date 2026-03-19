@@ -22019,6 +22019,28 @@
     },
     {
       "album": {
+        "name": "THUNDER",
+        "url": "https://open.spotify.com/album/0hBJbFpgm8u34sSABARGkN"
+      },
+      "artists": [
+        {
+          "name": "TESSERACTS",
+          "url": "https://open.spotify.com/artist/2Oc62iD4J8F2YH34NoSALk"
+        },
+        {
+          "name": "CODE BREAKERZ",
+          "url": "https://open.spotify.com/artist/4WFW8Zsgxhx6xpt4xKcS9H"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243453,
+      "name": "THUNDER",
+      "url": "https://open.spotify.com/track/2ixV3QTHRM7jG4T6wvM0gI"
+    },
+    {
+      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/31e7BFs4JJJtYsSc20tGnr"
       },

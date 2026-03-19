@@ -2686,7 +2686,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 263050,
       "name": "Before This",
       "url": "https://open.spotify.com/track/4ieitALo8bLoLfVxabdieZ"
@@ -6896,7 +6896,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 372971,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4LtiA5z2X1NlfSMrLwkSzC"
@@ -11974,7 +11974,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 236951,
       "name": "Haze",
       "url": "https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1"
@@ -18656,7 +18656,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 166493,
       "name": "More Real",
       "url": "https://open.spotify.com/track/1iqDZKQKJ2QUAfvqk1wPTW"
@@ -20164,6 +20164,24 @@
       "duration_ms": 215286,
       "name": "NOT TODAY",
       "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
+    },
+    {
+      "album": {
+        "name": "PLAY ME",
+        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/37HVCXVernYKmkS6YiIHFZ"
     },
     {
       "album": {
@@ -24974,7 +24992,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 192936,
       "name": "Smiling",
       "url": "https://open.spotify.com/track/4luX73X27vMHgj0j22H4ax"

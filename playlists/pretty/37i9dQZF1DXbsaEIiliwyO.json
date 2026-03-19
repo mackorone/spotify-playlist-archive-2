@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans. Cover: UNISON SQUARE GARDEN",
-  "num_followers": 56630,
+  "num_followers": 56629,
   "original_name": "Anime Rocks",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-03-11 10:26:55",
       "album": {
+        "name": "gift",
+        "url": "https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr"
+      },
+      "artists": [
+        {
+          "name": "\u30ae\u30f4\u30f3",
+          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "\u51ac\u306e\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
+    },
+    {
+      "added_at": "2026-03-11 10:26:55",
+      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
-    },
-    {
-      "added_at": "2026-03-11 10:26:55",
-      "album": {
-        "name": "gift",
-        "url": "https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr"
-      },
-      "artists": [
-        {
-          "name": "\u30ae\u30f4\u30f3",
-          "url": "https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "\u51ac\u306e\u306f\u306a\u3057",
-      "url": "https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7"
     },
     {
       "added_at": "2026-03-11 10:26:55",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De toekomst van de Benelux volgens onze muziekredactie. Nieuw: <a href=\"spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE\">Zo\u00eb Livay</a>",
+  "description": "De toekomst van de Benelux volgens onze muziekredactie. Nieuw: <a href=\"spotify:artist:0BFood0cmj86LkpdOArhNs\">Langa</a>",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 226434,
       "name": "Adem Je In",
       "url": "https://open.spotify.com/track/3YKAKQVZBybMEWpUtQ1HAW"
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 200701,
       "name": "Beef Met Mezelf",
       "url": "https://open.spotify.com/track/6XRENEEHLT8cE15VkccJZW"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 296885,
       "name": "Before It Might Be Gone",
       "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 285000,
       "name": "Broken",
       "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 208669,
       "name": "Dancing On My Feelings",
       "url": "https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 196686,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/2Wb0VFETsGsf5HUpt3lNsZ"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 174760,
       "name": "Droom Het Donker Weg",
       "url": "https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 219432,
       "name": "Droom Sinds Klein",
       "url": "https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 177980,
       "name": "get older",
       "url": "https://open.spotify.com/track/0Ry8KfNAJIuKQBskXsF0ee"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 179975,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 187976,
       "name": "Hallo Met Mij",
       "url": "https://open.spotify.com/track/1ZAeLtI8kuZX6cFCJm08RP"
@@ -1702,6 +1702,32 @@
       "duration_ms": 146799,
       "name": "Head On The Block",
       "url": "https://open.spotify.com/track/2pvSoA1HrhMnzFAmUvVLNN"
+    },
+    {
+      "album": {
+        "name": "Helaas",
+        "url": "https://open.spotify.com/album/5VJ9DvEiel3SnSZBSFGnvx"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Helaas",
+      "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
     },
     {
       "album": {
@@ -1810,7 +1836,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 216774,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49"
@@ -2194,7 +2220,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 152500,
       "name": "Klop Klop",
       "url": "https://open.spotify.com/track/6a3UR5Lp9h2u9x4JMuV0T6"
@@ -2412,7 +2438,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 185293,
       "name": "Maybe Another Time",
       "url": "https://open.spotify.com/track/3XCU2WB2v2SXiNPphH2JZY"
@@ -2470,7 +2496,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 210413,
       "name": "mind games",
       "url": "https://open.spotify.com/track/4UpvfveHlxiH4QQuf8V7Wj"
@@ -2506,7 +2532,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 174690,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt"
@@ -2546,7 +2572,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 158140,
       "name": "Motown Philly",
       "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
@@ -2672,7 +2698,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 179889,
       "name": "Niets Tussen",
       "url": "https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY"
@@ -2748,7 +2774,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 174666,
       "name": "Not Going Anywhere",
       "url": "https://open.spotify.com/track/2xawDSDpOeTSi45sKtSwSZ"
@@ -2929,6 +2955,32 @@
     },
     {
       "album": {
+        "name": "Op Een Go",
+        "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177346,
+      "name": "Op Een Go",
+      "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
+    },
+    {
+      "album": {
         "name": "Out Of My Way",
         "url": "https://open.spotify.com/album/4jz1nR0RuhDXZQJztdPDa9"
       },
@@ -2940,7 +2992,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 208319,
       "name": "Out Of My Way",
       "url": "https://open.spotify.com/track/62tz6SFL395514c4ZXCnQa"
@@ -3279,6 +3331,28 @@
     },
     {
       "album": {
+        "name": "Vrijspel",
+        "url": "https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi"
+      },
+      "artists": [
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        },
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Rondjes",
+      "url": "https://open.spotify.com/track/7xDTXLMmlgTmrhp0YpFVNc"
+    },
+    {
+      "album": {
         "name": "Run Away to Mars",
         "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
       },
@@ -3308,7 +3382,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 234892,
       "name": "Running Backwards Into The Future",
       "url": "https://open.spotify.com/track/1ubzJLpN00M1WQJ7vuJsPL"
@@ -3752,7 +3826,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 180280,
       "name": "stubborn mind",
       "url": "https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR"
@@ -3788,7 +3862,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 131796,
       "name": "Sugardaddy",
       "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
@@ -3824,7 +3898,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 245933,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/0oGi9ZMVLf00i8K9qJIVkY"
@@ -4422,7 +4496,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 192878,
       "name": "Zo Zijn",
       "url": "https://open.spotify.com/track/0WyNNLzRGqajGWCjcrVTaC"

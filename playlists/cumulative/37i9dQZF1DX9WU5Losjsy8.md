@@ -4,7 +4,7 @@
 
 > Die Musik für die Hütten Gaudi!
 
-198 songs - 9 hr 53 min
+199 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Baby Bell](https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3) | [Breitner](https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6) | [Baby Bell](https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF) | 2:39 | 2026-02-19 |  |
 | [Baila Baila](https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai), [Kings of Günter](https://open.spotify.com/artist/64Tp3pyyHag0ngw5SLchgY), [Immer Hansi](https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH) | [Baila Baila](https://open.spotify.com/album/2evbu0IbU1p0uzcx7g0WBF) | 2:30 | 2025-11-07 |  |
 | [Bayern](https://open.spotify.com/track/3oAr0vS5s6nBzxxwBkwknF) | [Haindling](https://open.spotify.com/artist/3oHgkMmch5iJdxxcdejYI5) | [Zwischenlandung](https://open.spotify.com/album/344ZdjOsSbIcDsHpg0Hqkz) | 3:13 | 2024-11-07 | 2025-02-20 |
-| [Beam mich in den Süden](https://open.spotify.com/track/79VaG1NA6FHq4iuo6tHrEw) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [Beam mich in den Süden](https://open.spotify.com/album/6LUZyJkpyESUHKTqbTWjBA) | 2:38 | 2026-03-05 |  |
+| [Beam mich in den Süden](https://open.spotify.com/track/79VaG1NA6FHq4iuo6tHrEw) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [Beam mich in den Süden](https://open.spotify.com/album/6LUZyJkpyESUHKTqbTWjBA) | 2:38 | 2026-03-05 | 2026-03-19 |
 | [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2024-11-07 |  |
 | [Berg Rave](https://open.spotify.com/track/5YsCbW9MqDhVEW23zz1vrN) | [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC) | [Berg Rave](https://open.spotify.com/album/0ldTriobb4bhr3zsYbUaTi) | 2:00 | 2025-05-22 | 2025-07-15 |
 | [BIER](https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Maxim K.I.Z](https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [BIER](https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC) | 2:09 | 2023-07-14 |  |
@@ -61,6 +61,7 @@
 | [Disco Pogo](https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:24 | 2023-07-14 |  |
 | [Dorflove](https://open.spotify.com/track/4DvWYFv3kYm9U8pJ5gQwn1) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Party Nationalmannschaft](https://open.spotify.com/artist/0Zbu8uOsq9HRDFeAIWzJTO) | [Dorflove](https://open.spotify.com/album/0QGAN0UYuGQL6TFfJVKcH1) | 2:41 | 2023-12-19 | 2024-04-19 |
 | [Dorflove](https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Thekensportlerz](https://open.spotify.com/artist/0TmXQnUwPnEx8MLICEk1r4) | [Dorflove](https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR) | 2:41 | 2023-07-14 | 2024-01-18 |
+| [Drauf Gehn](https://open.spotify.com/track/1oInZfHh2xFY4TF9bD1jUR) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [Drauf Gehn](https://open.spotify.com/album/4YYW9NHriUkre72CiM493C) | 2:31 | 2026-03-12 |  |
 | [Drinking Wine Feeling Fine](https://open.spotify.com/track/4gUFxJ0FH76iMgsePtYdYr) | [Vincent Gross](https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy), [Olaf der Flipper](https://open.spotify.com/artist/7Apu3Zjo7um4OkL7B7SONQ) | [Drinking Wine Feeling Fine](https://open.spotify.com/album/6UlbT43b89S6bMfx40D10L) | 3:12 | 2025-04-17 | 2025-07-10 |
 | [Du bist mein Glück](https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Du Bist Mein Glück](https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp) | 3:36 | 2024-03-27 | 2026-01-03 |
 | [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2024-12-20 |  |

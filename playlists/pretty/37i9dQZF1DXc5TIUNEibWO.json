@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 8156,
+  "num_followers": 8166,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -704,13 +704,13 @@
       },
       "artists": [
         {
-          "name": "George Darko",
-          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
+          "name": "Kantata",
+          "url": "https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M"
         }
       ],
-      "duration_ms": 375266,
-      "name": "Highlife Time",
-      "url": "https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ"
+      "duration_ms": 334906,
+      "name": "Duke",
+      "url": "https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -720,13 +720,13 @@
       },
       "artists": [
         {
-          "name": "Kantata",
-          "url": "https://open.spotify.com/artist/1BtHSC6HWHCrterN5N6i0M"
+          "name": "George Darko",
+          "url": "https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9"
         }
       ],
-      "duration_ms": 334906,
-      "name": "Duke",
-      "url": "https://open.spotify.com/track/2AKpEK6ru5xDwAcIAAFX4h"
+      "duration_ms": 375266,
+      "name": "Highlife Time",
+      "url": "https://open.spotify.com/track/7wBc1GgjHtROXgq9oXQvwQ"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Fakye",
-        "url": "https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5"
+        "name": "Demara",
+        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
       },
       "artists": [
         {
-          "name": "Nana Quame",
-          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
-        },
-        {
-          "name": "Sass Squad",
-          "url": "https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx"
+          "name": "Amanzeba",
+          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
         }
       ],
-      "duration_ms": 389666,
-      "name": "Me Nko Meda",
-      "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
+      "duration_ms": 283640,
+      "name": "Wogbe",
+      "url": "https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -1287,18 +1283,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Demara",
-        "url": "https://open.spotify.com/album/4Kida7vEurh2GHNtc9QiUm"
+        "name": "Fakye",
+        "url": "https://open.spotify.com/album/6giJXZ1DPdH494smPqqeb5"
       },
       "artists": [
         {
-          "name": "Amanzeba",
-          "url": "https://open.spotify.com/artist/4ZTPfIzBBjPkpCuVRTUr6m"
+          "name": "Nana Quame",
+          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
+        },
+        {
+          "name": "Sass Squad",
+          "url": "https://open.spotify.com/artist/3E16mwczdDDwAAysKVnISx"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Wogbe",
-      "url": "https://open.spotify.com/track/19WnRgNdWOrkfQnjSaIDDg"
+      "duration_ms": 389666,
+      "name": "Me Nko Meda",
+      "url": "https://open.spotify.com/track/2s0eloIGarvn2AyPBCBNRc"
     },
     {
       "added_at": "2026-02-20 08:28:52",

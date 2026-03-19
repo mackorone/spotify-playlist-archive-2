@@ -1474,10 +1474,28 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 211066,
       "name": "Pueblito",
       "url": "https://open.spotify.com/track/2K21TBW2dUeSW570gthDla"
+    },
+    {
+      "album": {
+        "name": "20 Norte\u00f1as Los Cadetes De Linares",
+        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215016,
+      "name": "Pueblito",
+      "url": "https://open.spotify.com/track/11G2XuECCiQaRLyFmQh0rG"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Oberherren, Locus Noir, AlligatorX and more",
+  "description": "With Locus Noir, Die Oberherren, AlligatorX and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -482,6 +482,24 @@
       "duration_ms": 363266,
       "name": "Beati i perseguitati",
       "url": "https://open.spotify.com/track/5FhY4jqBqPUnVUL8R9v5Wa"
+    },
+    {
+      "album": {
+        "name": "It's always something",
+        "url": "https://open.spotify.com/album/60n7iynhiookeCHSpGy96Y"
+      },
+      "artists": [
+        {
+          "name": "Bill Mandara",
+          "url": "https://open.spotify.com/artist/1NOSjHEbxAtgWPD3ZP4ODb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205704,
+      "name": "Behold the new digital overlords",
+      "url": "https://open.spotify.com/track/7s5dgU86UmdRtzV8V61zPg"
     },
     {
       "album": {
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 246666,
       "name": "Death, That Elusive Mistress",
       "url": "https://open.spotify.com/track/6dkyykLMdt7oF2djYNOVX7"
@@ -1462,6 +1480,24 @@
       "duration_ms": 370886,
       "name": "Den Negative Tanke",
       "url": "https://open.spotify.com/track/3UvO8XTOMD102VeOKdpcNx"
+    },
+    {
+      "album": {
+        "name": "Der Brandtaucher",
+        "url": "https://open.spotify.com/album/6BmcBFVReGqifwdTueTJiY"
+      },
+      "artists": [
+        {
+          "name": "Uada",
+          "url": "https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281024,
+      "name": "Der Brandtaucher",
+      "url": "https://open.spotify.com/track/38UpY1Y40BUufYoLVLTUE0"
     },
     {
       "album": {
@@ -1664,7 +1700,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 245950,
       "name": "Don't Trust Anyone",
       "url": "https://open.spotify.com/track/0e9zvGl4VZMeynWO8xSZQ9"
@@ -1866,6 +1902,24 @@
       "duration_ms": 296470,
       "name": "Dying Lights",
       "url": "https://open.spotify.com/track/48GXQDTWzg7FQCwExG8nhH"
+    },
+    {
+      "album": {
+        "name": "Eagle Eye",
+        "url": "https://open.spotify.com/album/2OctxrggqAyFHSbzC3Nerq"
+      },
+      "artists": [
+        {
+          "name": "Frank Martin",
+          "url": "https://open.spotify.com/artist/5T1L33Ann8mnfUarCXY8tc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Eagle Eye",
+      "url": "https://open.spotify.com/track/7kJblTtNgROa133KRacBWD"
     },
     {
       "album": {
@@ -2212,6 +2266,24 @@
       "duration_ms": 278097,
       "name": "Exuvia",
       "url": "https://open.spotify.com/track/1YuRuDBV8IzOOCnbah094Y"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/6qRSgOUYS7Zy3vQzqYGVnU"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229925,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/0ag5MdcFWcTqZlkFSJdc54"
     },
     {
       "album": {
@@ -4196,7 +4268,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -4384,7 +4456,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -4810,7 +4882,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -4882,7 +4954,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -5304,7 +5376,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5401,6 +5473,24 @@
     },
     {
       "album": {
+        "name": "Pandemic 2",
+        "url": "https://open.spotify.com/album/62ymioyoIGBhUpFAuvjv9m"
+      },
+      "artists": [
+        {
+          "name": "Frank Martin",
+          "url": "https://open.spotify.com/artist/5T1L33Ann8mnfUarCXY8tc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Pandemic 2",
+      "url": "https://open.spotify.com/track/03Vk8Hgz87zdhEwYbZk4cM"
+    },
+    {
+      "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/54J5z8fwaehG2NClZejMok"
       },
@@ -5470,7 +5560,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 271048,
       "name": "Paris Is Burning",
       "url": "https://open.spotify.com/track/0b2rLPEsMlyZ1wIvts59N6"
@@ -5542,7 +5632,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -5618,7 +5708,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 211461,
       "name": "Pimeyden sulhanen",
       "url": "https://open.spotify.com/track/0SBfnN69Mx4jes3um9HVl1"
@@ -6070,7 +6160,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 314414,
       "name": "Scared Dancer",
       "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
@@ -6290,7 +6380,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -7824,7 +7914,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 199614,
       "name": "To Kill a Silver Sparrow",
       "url": "https://open.spotify.com/track/08RIklEZ1C1T7xL1A1MqP2"
@@ -7940,7 +8030,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 169756,
       "name": "TO\u0143",
       "url": "https://open.spotify.com/track/0Q0eVjlRJIFzMkL1NbJawP"
@@ -8246,7 +8336,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -8336,7 +8426,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"

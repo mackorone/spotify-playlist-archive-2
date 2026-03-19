@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨James Blake✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,751 likes - 187 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,744 likes - 187 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

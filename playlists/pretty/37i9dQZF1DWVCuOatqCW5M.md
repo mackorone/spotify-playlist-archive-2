@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Josh Brar, Shashwat Singh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,636 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,647 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 31 | [Bheegi Bheegi](https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Bheegi Bheegi](https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX) | 3:39 |
 | 32 | [Tu Jaane Hai Kahan](https://open.spotify.com/track/4zZlZgX3sleF4h8XTnxY14) | [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Jaane Hai Kahan](https://open.spotify.com/album/7lc1T9K43NHibF0obXhmJD) | 4:06 |
 | 33 | [Pari](https://open.spotify.com/track/7puxdj9sb3JMDfH4aSnAb5) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Akshay Tripathi AKS](https://open.spotify.com/artist/5OTeIPtpp5yTmG2JmzofRY) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:05 |
-| 34 | [Pyar Se](https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Pyar Se](https://open.spotify.com/album/1RpjHqJ8iU602vplOTYxMA) | 2:42 |
+| 34 | [Pyar Se](https://open.spotify.com/track/6Pe0vVB8zA7ZMRDSWhNxaD) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Akash Rajput](https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk) | [Pyar Se](https://open.spotify.com/album/1RpjHqJ8iU602vplOTYxMA) | 2:42 |
 | 35 | [Pyar Ki Si](https://open.spotify.com/track/4tdHWHHN8o9SXXrdx8P4kJ) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [Pyar Ki Si](https://open.spotify.com/album/17LToUy05sTUGLABuQm2XA) | 3:12 |
 | 36 | [Ankhiyaan](https://open.spotify.com/track/6X8fO4Y3zYv7VJdgw0Av1H) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Babul Supriyo](https://open.spotify.com/artist/7guD32ltIhsA1tHdf7IVe0) | [Ankhiyaan](https://open.spotify.com/album/5ylQoX1qDVC3Bytw3TDSoM) | 3:50 |
 | 37 | [Mil Lena](https://open.spotify.com/track/08VXv7aK05NwxMpGBZQLb2) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Junior](https://open.spotify.com/artist/0Ca2wgWMjAoKtvb0v3tsAI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Mil Lena](https://open.spotify.com/album/0BDpHa5ZMKN19Oulp3smL9) | 2:47 |

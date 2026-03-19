@@ -2,7 +2,7 @@
 
 ### [ شيلات](https://open.spotify.com/playlist/37i9dQZF1DWTZ8jTY8g4MU)
 
-> شيلات تشيل الليلة\. الغلاف: محمد بن غرمان
+> شيلات تشيل الليلة\. الغلاف: فهد بن فصلا
 
 284 songs - 18 hr 56 min
 
@@ -68,7 +68,7 @@
 | [البارحة قلبي](https://open.spotify.com/track/0TNOCBHR9uGQpbFLe89bgN) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [البارحة قلبي](https://open.spotify.com/album/3QsmwhoUrTaFPTybd6H8ed) | 3:17 | 2023-09-22 | 2024-12-20 |
 | [البارحه](https://open.spotify.com/track/0pTYxndHSqlqID4hZ8TZbW) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [البارحه](https://open.spotify.com/album/48n2gykRFFH9QHNXt3oAu5) | 3:31 | 2023-08-11 | 2023-09-02 |
 | [الحلا والرقة](https://open.spotify.com/track/2I0JqlIwvI8AtR3M3v0oGe) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [الحلا والرقة](https://open.spotify.com/album/1g5O0y3SyVcyQ5EyVjErTq) | 4:02 | 2023-02-22 | 2024-05-10 |
-| [الخشف الطروب](https://open.spotify.com/track/6xrLVRF4HAmc8GqUHvmu9z) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [الخشف الطروب](https://open.spotify.com/album/41fLGvjlLKoRlCr8GhtLAd) | 5:29 | 2024-05-09 |  |
+| [الخشف الطروب](https://open.spotify.com/track/6xrLVRF4HAmc8GqUHvmu9z) | [ماجد الرسلاني](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [الخشف الطروب](https://open.spotify.com/album/41fLGvjlLKoRlCr8GhtLAd) | 5:29 | 2024-05-09 |  |
 | [الزمن دوار](https://open.spotify.com/track/1CTX0NAUvAZN3X2rUhoqfR) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [الزمن دوار](https://open.spotify.com/album/2PF6wJILCDKZ8mAHci19Eu) | 3:52 | 2022-08-31 | 2023-03-15 |
 | [الزمن دوار](https://open.spotify.com/track/4XSZa8zr5ya13NcLkSTHM1) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [الزمن دوار](https://open.spotify.com/album/7tHMNHXeNILzhr7Hcd2nEk) | 3:52 | 2022-06-13 | 2022-11-03 |
 | [الزين القوي](https://open.spotify.com/track/2DL9axGXUKv7oP9xcKSljz) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm), [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [الزين القوي](https://open.spotify.com/album/7EO8MwFRrTD66x1NJQFNxJ) | 3:12 | 2023-07-27 | 2023-09-02 |
@@ -86,7 +86,7 @@
 | [القلب الحجر](https://open.spotify.com/track/64N8WSEPHokrKpPEDAIPAo) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [القلب الحجر](https://open.spotify.com/album/78VvLWMJLBLJXIyOa38d9e) | 4:07 | 2025-02-10 |  |
 | [الله اكبر ياجمالك](https://open.spotify.com/track/16uDrZREXddFhfNoHNqUtZ) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [الله اكبر ياجمالك](https://open.spotify.com/album/1eseQHFKJcR7q3cYY35XjL) | 3:16 | 2023-07-03 | 2023-10-04 |
 | [المفارق سنه](https://open.spotify.com/track/1w5DRZQNeZb480Hfsf6KJt) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [المفارق سنه](https://open.spotify.com/album/74Oi4I7z3X6v7s3ERZ2AaZ) | 3:28 | 2023-09-01 | 2023-10-04 |
-| [المكان](https://open.spotify.com/track/3oH9oWDEhIadRjwGPcYCMp) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [المكان](https://open.spotify.com/album/72DhfPlDA1DO85lw5jYLnq) | 5:39 | 2024-12-19 |  |
+| [المكان](https://open.spotify.com/track/3oH9oWDEhIadRjwGPcYCMp) | [ماجد الرسلاني](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [المكان](https://open.spotify.com/album/72DhfPlDA1DO85lw5jYLnq) | 5:39 | 2024-12-19 |  |
 | [النظره قتّاله](https://open.spotify.com/track/4hANvcj9NmqkDS0cXMQzBo) | [ماجد الرسلاني](https://open.spotify.com/artist/1TrcFvtMbJqhog5XVABHlm) | [النظره قتّاله](https://open.spotify.com/album/1gQi4Kqw3oJZQvPlGeQbG6) | 3:12 | 2023-05-03 | 2023-09-02 |
 | [النفسيه](https://open.spotify.com/track/7CWuTxu15rF0Yq41Za2ASy) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [النفسيه](https://open.spotify.com/album/3zR996pyTSU7eR282jP8lp) | 5:27 | 2023-02-22 | 2023-03-15 |
 | [النوم طيرته عتيبه](https://open.spotify.com/track/3xufOBSM1hZMsPro29IUAI) | [مهنا العتيبي](https://open.spotify.com/artist/4RZtWzM5Vl8Azd2p4jSTEt) | [النوم طيرته عتيبه](https://open.spotify.com/album/1fBabOhLoifhAgHgzQUeqn) | 6:46 | 2024-06-26 | 2025-12-19 |

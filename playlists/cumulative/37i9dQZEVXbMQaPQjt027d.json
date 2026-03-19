@@ -10967,6 +10967,28 @@
     },
     {
       "album": {
+        "name": "Max Ammo",
+        "url": "https://open.spotify.com/album/7nYz8MahUqqalx9HUrNYWM"
+      },
+      "artists": [
+        {
+          "name": "Roosterz",
+          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
+        },
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204842,
+      "name": "Max Ammo",
+      "url": "https://open.spotify.com/track/5uLGX83JDA0HpHOAbb07lq"
+    },
+    {
+      "album": {
         "name": "Meisje",
         "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
       },
@@ -13902,6 +13924,24 @@
     {
       "album": {
         "name": "Rave Forever",
+        "url": "https://open.spotify.com/album/1vDCAW4I5XH1EaU1a7wMba"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Rave Forever",
+      "url": "https://open.spotify.com/track/0NeUSyxAwPPuW6MOrXPcef"
+    },
+    {
+      "album": {
+        "name": "Rave Forever",
         "url": "https://open.spotify.com/album/6knlQtFMb15fCMDksubXCB"
       },
       "artists": [
@@ -13912,7 +13952,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 137454,
       "name": "Rave Forever",
       "url": "https://open.spotify.com/track/78iezSkKG2QtyHkmxSv6XU"
@@ -13930,7 +13970,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 173658,
       "name": "Read All About It - Disco Remix",
       "url": "https://open.spotify.com/track/7BtYZiQZvWL4Y1tOJPExCk"
@@ -15510,7 +15550,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 249290,
       "name": "Spiegel Aan De Wand",
       "url": "https://open.spotify.com/track/1JewS5TiIGLFZ22GUmkmAT"
@@ -18942,6 +18982,24 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "album": {

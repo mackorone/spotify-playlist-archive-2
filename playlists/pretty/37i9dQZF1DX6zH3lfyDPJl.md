@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,273 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,297 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 |
-| 2 | [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 |
-| 3 | [shorthand and shorthand](https://open.spotify.com/track/4LCyhDCUayVayYCLvNJfDn) | [2danji](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [a public walk](https://open.spotify.com/album/1PEy98fZ5FmI2R71CCK2zt) | 2:10 |
-| 4 | [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 |
-| 5 | [miss u so](https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh) | [blueberryclub](https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC), [Nam Gijun](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [miss u so](https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg) | 3:35 |
-| 6 | [NOTHING WITHOUT YOU](https://open.spotify.com/track/3ZfzAgu2hva5Pw9HVWys14) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [NOTHING WITHOUT YOU](https://open.spotify.com/album/3aKoklMO5GlK6PuUJMz5Xx) | 4:09 |
+| 1 | [Joe](https://open.spotify.com/track/2S6pQwV5E9W0RLp6oNbyiK) | [Potatoi](https://open.spotify.com/artist/0gBPHR1hURnHSHXiiIKVCf) | [Orange Courage](https://open.spotify.com/album/7utBWrEE1OfvsysNTRS6eH) | 3:28 |
+| 2 | [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 |
+| 3 | [This song is about you](https://open.spotify.com/track/33RENj1uecpLxh3p25aTj0) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [This song is about you](https://open.spotify.com/album/2MoQ5Vu6dbwW3uodxU3w1M) | 3:07 |
+| 4 | [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 |
+| 5 | [Ours](https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Happy Together](https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY) | 4:06 |
+| 6 | [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 |
 | 7 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 8 | [Sunsetz](https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 3:34 |
 | 9 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 13 | [Sweet](https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:51 |
 | 14 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
 | 15 | [Calling After Me](https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 3:07 |
-| 16 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 17 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 16 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 |
+| 17 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 18 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 |
 | 19 | [Pistol](https://open.spotify.com/track/36pMQRacz9p99OevARrvVs) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/5nvVm89VAndk8QoIwKBB3I) | 3:54 |
 | 20 | [Next Semester](https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zH3lfyDPJl.md) - [plain]
 | 49 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 |
 | 50 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 |
 
-Snapshot ID: `AAAAAMzIXmJT5Ogrja0m1NwI03YADKFC`
+Snapshot ID: `AAAAAFJwcILd8FzOKW/BVCJu1p6uLwca`

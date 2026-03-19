@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Yetii. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Vimbs Mavimbs. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 212000,
       "name": "Bonds",
       "url": "https://open.spotify.com/track/4HJOa7TWVCO0T9zrB4TUDO"
@@ -9511,6 +9511,24 @@
     },
     {
       "album": {
+        "name": "Family Gathering",
+        "url": "https://open.spotify.com/album/7udmP1WAhbaQVLSw3nuvYD"
+      },
+      "artists": [
+        {
+          "name": "Vimbs Mavimbs",
+          "url": "https://open.spotify.com/artist/17miQtSakhWQ0YJQtNdCeN"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296668,
+      "name": "Family Gathering",
+      "url": "https://open.spotify.com/track/7lxprar02ISIdUnNr4WeaT"
+    },
+    {
+      "album": {
         "name": "FANCY BIRDS",
         "url": "https://open.spotify.com/album/3WqtmLBbJrwJKHbPsozVBB"
       },
@@ -12092,6 +12110,36 @@
       "duration_ms": 178500,
       "name": "Helium Three",
       "url": "https://open.spotify.com/track/5M3GMHe1p5kgrba3OSF6gz"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1imSu9bL9DwSdx8pm4ehGT"
+      },
+      "artists": [
+        {
+          "name": "Hello!",
+          "url": "https://open.spotify.com/artist/3U5ZZeY7KFB8u5tHJETPNL"
+        },
+        {
+          "name": "ATELLER",
+          "url": "https://open.spotify.com/artist/4Lo6X5XvC17kXkibcqpHNi"
+        },
+        {
+          "name": "Alon Albagli",
+          "url": "https://open.spotify.com/artist/393oYyT0Zs2DhnlvvmGvfe"
+        },
+        {
+          "name": "Eden Ladin",
+          "url": "https://open.spotify.com/artist/1KK4PFwYqPm4Dt9VmUT0ka"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202119,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/30n9ILgNwofWBwNeO2b2WY"
     },
     {
       "album": {
@@ -19510,7 +19558,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 102381,
       "name": "no fui yo",
       "url": "https://open.spotify.com/track/7asOvkIjiglWJJjKb8ATE4"
@@ -26194,7 +26242,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 446882,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS"
@@ -31900,6 +31948,24 @@
       "duration_ms": 290846,
       "name": "We Have Been Here Before",
       "url": "https://open.spotify.com/track/2r0FgpMULZjmw6BySwNgO2"
+    },
+    {
+      "album": {
+        "name": "We The People",
+        "url": "https://open.spotify.com/album/2zgSIAgWRzpsgw8N7Py7sW"
+      },
+      "artists": [
+        {
+          "name": "TC & the Groove Family",
+          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262792,
+      "name": "We The People",
+      "url": "https://open.spotify.com/track/5pNVpQECQ0YY1yuD75nSXq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 391,
+  "num_followers": 401,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Weight Off My Shoulders",
-        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
+        "name": "Sinatanale",
+        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
       "artists": [
         {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+          "name": "LAGOS IN PARIS",
+          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
+        },
+        {
+          "name": "TSIE",
+          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
         }
       ],
-      "duration_ms": 167680,
-      "name": "Weight Off My Shoulders",
-      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
+      "duration_ms": 214956,
+      "name": "Sinatanale",
+      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -767,22 +771,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Sinatanale",
-        "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
+        "name": "Weight Off My Shoulders",
+        "url": "https://open.spotify.com/album/2XgsvZmnYcXzXS7X61MX6v"
       },
       "artists": [
         {
-          "name": "LAGOS IN PARIS",
-          "url": "https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe"
-        },
-        {
-          "name": "TSIE",
-          "url": "https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF"
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
         }
       ],
-      "duration_ms": 214956,
-      "name": "Sinatanale",
-      "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
+      "duration_ms": 167680,
+      "name": "Weight Off My Shoulders",
+      "url": "https://open.spotify.com/track/5XxuPzkGAYR7OXzebZZsn2"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Akanbi",
-        "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
-      },
-      "artists": [
-        {
-          "name": "Diamond Jimma",
-          "url": "https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf"
-        }
-      ],
-      "duration_ms": 144410,
-      "name": "Old Days",
-      "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "take it & leave",
         "url": "https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 248000,
       "name": "take it & leave",
       "url": "https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Akanbi",
+        "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
+      },
+      "artists": [
+        {
+          "name": "Diamond Jimma",
+          "url": "https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf"
+        }
+      ],
+      "duration_ms": 144410,
+      "name": "Old Days",
+      "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
     }
   ],
   "unique_name": "Afro Indie",

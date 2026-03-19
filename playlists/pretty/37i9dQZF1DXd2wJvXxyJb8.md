@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,642,217 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,642,370 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 50 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn) | 2:57 |
 | 51 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 |
 | 52 | [Foguinho](https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 1:22 |
-| 53 | [Sequência da Botação](https://open.spotify.com/track/6XX6DTK8eugxgZqmlwcvkG) | [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Sequência da Botação](https://open.spotify.com/album/0eDfhfCaR8VMozqzVj5Jkm) | 2:25 |
+| 53 | [Sequência da Botação](https://open.spotify.com/track/6XX6DTK8eugxgZqmlwcvkG) | [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [DJ Victor Falcão](https://open.spotify.com/artist/4Be7qATV1p11M2w5nlKqWc) | [Sequência da Botação](https://open.spotify.com/album/0eDfhfCaR8VMozqzVj5Jkm) | 2:25 |
 | 54 | [Me Apaixonei Nessa Morena](https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Me Apaixonei Nessa Morena](https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU) | 2:51 |
 | 55 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
 | 56 | [Um Maluco Cowboy \- Ao Vivo](https://open.spotify.com/track/4PCK1yo22yS5BzE5Uy4ua1) | [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Isso É CountryBeat, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/46cha1cSOHOqrTUJ89dIF0) | 1:57 |

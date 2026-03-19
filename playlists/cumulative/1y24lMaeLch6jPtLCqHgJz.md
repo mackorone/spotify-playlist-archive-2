@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-456 songs - 22 hr 53 min
+457 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 | 2023-06-16 |  |
 | [Tomorrow](https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [Gangi](https://open.spotify.com/artist/5Z0vJqhdSkVLPD5BbmMf08), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Tomorrow](https://open.spotify.com/album/1tWxL1uLXtjjdlZSdcIii7) | 3:00 | 2022-07-29 | 2023-07-15 |
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-21 | 2023-11-11 |
+| [Ultra Love](https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Ultra Love](https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol) | 3:23 | 2026-03-18 |  |
 | [Under The Moonlight](https://open.spotify.com/track/6LnPMGaiR8zMI0gWrvuoF8) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP) | [Under The Moonlight](https://open.spotify.com/album/50pn19SdyxaBZVBqvARV3W) | 2:39 | 2025-09-25 |  |
 | [Vibration](https://open.spotify.com/track/3mVgxiEBvMmO0Rms2VwAzY) | [Matt Ice](https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Vibration](https://open.spotify.com/album/5mC8vxcYv2yqlvuPWM3kRT) | 3:23 | 2024-02-29 | 2024-08-10 |
 | [Wait](https://open.spotify.com/track/74a9POPKLVfLqqrYY65JmC) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M) | [Wait](https://open.spotify.com/album/5h68xM7y94PgItlUJrSK7M) | 3:07 | 2026-01-23 |  |

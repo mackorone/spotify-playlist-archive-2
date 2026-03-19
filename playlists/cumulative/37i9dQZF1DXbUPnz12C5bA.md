@@ -4,7 +4,7 @@
 
 > Para cantar y recordar.
 
-219 songs - 16 hr 38 min
+220 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Infiel](https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [Alto Voltaje](https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB) | 4:06 | 2024-05-28 | 2026-03-03 |
 | [Isabel Martínez \- El Negro Maldito](https://open.spotify.com/track/77jWPONUuSJV1sHjqr8ATq) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Julio Rojas](https://open.spotify.com/artist/4ggsID5la9TdapHKim9wSc), [Javier Vega](https://open.spotify.com/artist/2vOmk7qYwuHUpQwW6AmHKV) | [100 Años de Vallenato \(Vol.6\)](https://open.spotify.com/album/7iUxkFqdQMnGHgjcueG11h) | 4:54 | 2022-01-24 | 2023-02-14 |
 | [Jaime Molina](https://open.spotify.com/track/7KGk2Az2Pkg5KBGIAmYfJN) | [Orquesta Filarmónica de Bogotá](https://open.spotify.com/artist/6iR9h8XJsIb3WwA8u9j7sU) | [50 años tocando para ti](https://open.spotify.com/album/0z4qrWLVFyhdXEmKJ9WOQw) | 5:00 | 2023-12-21 | 2024-07-30 |
+| [La Caja Negra](https://open.spotify.com/track/7uWYUPE6XvWP1oVxxnt8t1) | [Beto Rada](https://open.spotify.com/artist/5urvrwvm3mQzKGUwQUAoTl), [Cheche Rada](https://open.spotify.com/artist/6EoykLq9drbjzLU2yFq8G5) | [100 Años de Vallenato \(Vol\. 3\)](https://open.spotify.com/album/6IhTu5NtStfCIe5a9S7roF) | 3:25 | 2024-05-28 |  |
 | [La Caja Negra](https://open.spotify.com/track/6ayeTFT30KobwnRB1Iw2zd) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Rafael Valencia](https://open.spotify.com/artist/03P1SmMWXLRz4ezprAzZfJ) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 3:24 | 2022-01-24 | 2023-02-14 |
 | [La Casa](https://open.spotify.com/track/6CqQJT0M4aA5EJSC0mY1zN) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Julio Rojas](https://open.spotify.com/artist/4ggsID5la9TdapHKim9wSc), [Javier Vega](https://open.spotify.com/artist/2vOmk7qYwuHUpQwW6AmHKV) | [100 Años de Vallenato \(Vol.4\)](https://open.spotify.com/album/28Bo7pUHtIW1qGk7se8aBQ) | 3:59 | 2022-01-24 | 2023-02-14 |
 | [La Casa en el Aire](https://open.spotify.com/track/0INNn8BIIJ6cIV7nTXlo4P) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 5:31 | 2022-01-24 | 2023-02-14 |
@@ -122,7 +123,7 @@
 | [Manantial de Amor](https://open.spotify.com/track/74QAvbvgkM9yjyV0beRPMN) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 4:21 | 2024-05-28 | 2024-10-31 |
 | [Manantial De Amor](https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:21 | 2022-01-24 | 2023-02-14 |
 | [Matilde Lina](https://open.spotify.com/track/1nOSznKu9OH5FPd4zOW70f) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Leandro Diaz](https://open.spotify.com/artist/3pixeYtMhncGd6nrjdtsPD) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 3:28 | 2022-01-24 | 2023-02-14 |
-| [Me Ilusione](https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb) | 5:00 | 2023-12-21 |  |
+| [Me Ilusione](https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/2YCWN8hMvb8QYUEHkmGqDb) | 5:00 | 2023-12-21 | 2026-03-19 |
 | [Me Sobran las Palabras](https://open.spotify.com/track/3jPpZ5ikg40XJ8g6rjjUvJ) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Dubán Bayona](https://open.spotify.com/artist/6jGkJmr4vmIFRPIRy7zsF1) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/00vITF8SZst4YVAbF8nqOq) | 4:30 | 2024-05-28 |  |
 | [Me Tiraste Al Mar](https://open.spotify.com/track/4x0fsFljh9cbNLQTZxCov1) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:26 | 2023-04-02 | 2023-05-09 |
 | [Me Tiraste Al Mar](https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:26 | 2024-05-28 | 2026-02-28 |

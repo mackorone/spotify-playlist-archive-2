@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,802 likes - 116 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,801 likes - 116 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 93 | [What U Need](https://open.spotify.com/track/2CvMsWDnR2Q3PsXg40kGvD) | [Cloud Wang](https://open.spotify.com/artist/37W2XxtEqQE00I1ZoQ6LSY) | [What U Need](https://open.spotify.com/album/3ct2bntsR3mcLImf7PaMbc) | 2:50 |
 | 94 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
 | 95 | [midori](https://open.spotify.com/track/7ii36S3maWr2WHOO1KPK3Y) | [黃博脩](https://open.spotify.com/artist/0z0lYTVGlfLqFOH3H1iPHn) | [midori](https://open.spotify.com/album/04vdIrkbQsRlvy9TbTT27K) | 4:44 |
-| 96 | [我知道你已經不愛](https://open.spotify.com/track/1t2Al7uVb8EyNvtLR5dLq0) | [利善榛](https://open.spotify.com/artist/3dtAWMf2cqQNAxMw0TXi5M) | [我知道你已經不愛](https://open.spotify.com/album/0bhlDR03U0OgmqcE8MSO0u) | 3:03 |
+| 96 | [我知道你已經不愛](https://open.spotify.com/track/1t2Al7uVb8EyNvtLR5dLq0) | [利善榛](https://open.spotify.com/artist/3dtAWMf2cqQNAxMw0TXi5M) | [我知道你已經不愛](https://open.spotify.com/album/0bhlDR03U0OgmqcE8MSO0u) | 3:01 |
 | 97 | [重新再來](https://open.spotify.com/track/2lDECRI9cRIO0ZzPHnZ1nB) | [顧芮寧](https://open.spotify.com/artist/3UuOPvs86dQtI96P8NQu9p) | [重新再來](https://open.spotify.com/album/0XhBzqDBA2ySHd5tmwVgqp) | 4:26 |
 | 98 | [寂寞日常](https://open.spotify.com/track/5pMVnkbRb8DNCT6vNxixb5) | [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [寂寞日常](https://open.spotify.com/album/66GRUkKWxURPPHyHhYTg3Q) | 5:13 |
 | 99 | [換我不要你](https://open.spotify.com/track/1nPZeyMrkDNYbmReRrEuHm) | [施語庭](https://open.spotify.com/artist/4IuEkOrNCePRLpRYVWbUql) | [換我不要你](https://open.spotify.com/album/26KiZMWNQBkmCLEOjIsz3T) | 3:30 |

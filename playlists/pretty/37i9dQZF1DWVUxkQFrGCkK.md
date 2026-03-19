@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,637 likes - 414 songs - 1 day 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,648 likes - 414 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

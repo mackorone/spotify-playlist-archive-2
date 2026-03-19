@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Coyote",
+        "url": "https://open.spotify.com/album/7aRky0Alt4LNplY9NYbbW5"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201566,
+      "name": "Coyote",
+      "url": "https://open.spotify.com/track/1BvYQIRlgUbQLkxUeIwT1R"
+    },
+    {
+      "album": {
         "name": "Crazy Dance of Death",
         "url": "https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS"
       },

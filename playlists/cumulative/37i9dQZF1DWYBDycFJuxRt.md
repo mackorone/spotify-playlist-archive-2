@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: LANA and Ell Teresa \*👉 <a href="https://spice.eplus.jp/articles/344652">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: LANA and Ell Teresa \*👉 <a href="https://spice.eplus.jp/articles/344832">連動記事</a>をSPICEでチェック!
 
-14,009 songs - 37 day 2 hr 52 min
+14,011 songs - 37 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [2026/2/25 HANAが待望の1stアルバムをリリース！Mrs\. GREEN APPLEの大森元貴がリリースしたソロ1stミニアルバム も！Watsonのニューアルバム、Kan Sanoと関口シンゴのコラボ、Early Noiseアーティストkurayamisakaのライブアルバムもピックアップ！](https://open.spotify.com/episode/5gJsKUM1msewxrbhql86vm) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:23 | 2026-02-25 | 2026-03-04 |
 | [2026/2/4 MISAMOがカバー！ちゃんみなの新曲、CHAIのMANA・KANAによる新プロジェクトOKAMEの1stアルバム、KID FRESINO×YONCEのコラボもピックアップ！Early Noiseアーティストluvの新曲も！ONE OR EIGHTからメッセージも到着！！](https://open.spotify.com/episode/5FYvVOAdls9Dv6MirODBMc) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:42 | 2026-02-04 | 2026-02-11 |
 | [2026/3/11 椎名林檎がニューアルバムをリリース！ゆずのロングインタビューも！いきものがかりの新解釈コラボレーションアルバム、ちゃんみなとINI西洸人のコラボ、Daichi Yamamoto、MIKADO、NENEによる『POP YOURS』オリジナル曲もピックアップ！](https://open.spotify.com/episode/6wQ0JZoFhxZVDXT9fbcW4l) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:01:15 | 2026-03-11 | 2026-03-18 |
+| [2026/3/18 LANA & Elle Teresaがコラボ曲をリリース！にしなのロングインタビューも配信！Adoの新曲、yamaのEPもピックアップ！！](https://open.spotify.com/episode/6rSsfysq1VWqtTXDzBvn7f) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 57:00 | 2026-03-18 |  |
 | [2026/3/4 嵐が新曲をリリース！ Furui Rihoロングインタビュー&Mitskiからのメッセージが到着！ヨルシカのニューアルバム、Kianna、Harka、AOTO、Sieroによる『POP YOURS』オリジナル楽曲もピックアップ！](https://open.spotify.com/episode/7sXiU57lFFpFRfc0oHkWGR) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:08:51 | 2026-03-04 | 2026-03-11 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
@@ -1318,6 +1319,7 @@
 | [BUCHINUKERU](https://open.spotify.com/track/2TCyfVDce0Ftvz9baInjcy) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/4eKCXqZvwAUzYKihxBUcKk) | 3:02 | 2024-03-26 | 2024-03-28 |
 | [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 | 2024-01-02 | 2024-01-10 |
 | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/track/70sREIqvDuuHKXSjmWMysS) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [BUCK \(feat\. Diljit Dosanjh\)](https://open.spotify.com/album/29xxo6iJM8mqwKYWTHCu06) | 2:43 | 2025-05-14 | 2025-05-21 |
+| [Bucket Brigade](https://open.spotify.com/track/1bMOeeq8cyvCDa0bSgYfn0) | [Noridogam](https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe) | [TRUTHBUSTER](https://open.spotify.com/album/7aqvUIUwlZSUjGfygnFxv5) | 3:18 | 2026-03-17 |  |
 | [bud](https://open.spotify.com/track/6G2Y1XUqHlx3FMMML9Eczm) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [bud](https://open.spotify.com/album/1u7uQbPuJeaJk1VRE1feWG) | 2:46 | 2023-06-20 | 2023-06-28 |
 | [Buddy](https://open.spotify.com/track/01n0kUW0Sfs21y7Q3Dslub) | [DEPAPEPE](https://open.spotify.com/artist/239OR3ZY9wKxFTrrDQHfkF) | [Buddy](https://open.spotify.com/album/6Lz9PgIr0YNMnmTytbcSfN) | 4:00 | 2025-12-02 | 2025-12-10 |
 | [Buddy](https://open.spotify.com/track/4CScOyYelyzEodaT3HzA3y) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Buddy](https://open.spotify.com/album/5DX5NkHJmZiXSFVtfHQToC) | 2:22 | 2026-02-17 | 2026-02-25 |
@@ -4129,6 +4131,7 @@
 | [Jungle\-Jin](https://open.spotify.com/track/2Okb27HBGieySOxLaqNaUw) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Jungle\-Jin](https://open.spotify.com/album/42m5bd3PNVWnM0VlHXNXnp) | 2:21 | 2025-04-29 | 2025-05-07 |
 | [JUNK or GEM](https://open.spotify.com/track/1HN80TcPggMoPd5QUfrxEc) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/4ihrJ3Tvoa5puJ8a8UKeUI) | 2:58 | 2023-03-15 | 2023-03-22 |
 | [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 | 2023-03-14 | 2023-03-16 |
+| [Junk Pop](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 3:39 | 2026-03-17 |  |
 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-19 | 2023-07-26 |
 | [Just a Dance](https://open.spotify.com/track/2iulJlc0L0rbcvowdlib7J) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Just a Dance](https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e) | 2:40 | 2024-06-04 | 2024-06-12 |
@@ -8440,7 +8443,6 @@
 | [TOY](https://open.spotify.com/track/1lEx4vBP4323Jkq7XcZpXa) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [TOY](https://open.spotify.com/album/3rrZBogMusvZvTXv50Kevg) | 2:39 | 2025-01-14 | 2025-01-22 |
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 12](https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [JUNK POP](https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE) | 0:00 | 2026-03-17 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |

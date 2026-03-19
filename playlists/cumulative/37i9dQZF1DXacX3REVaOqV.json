@@ -4257,6 +4257,28 @@
     },
     {
       "album": {
+        "name": "The Sound Vault, Pt. 3",
+        "url": "https://open.spotify.com/album/2zE003e01cGUnaNNQorMUW"
+      },
+      "artists": [
+        {
+          "name": "Miguel Migs",
+          "url": "https://open.spotify.com/artist/6sqqGHyJ1Dnt1qKKe9iGAi"
+        },
+        {
+          "name": "Martin Luther McCoy",
+          "url": "https://open.spotify.com/artist/6FdIwdTYtfGSULGl1JA9OJ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332459,
+      "name": "Eyes For You (Migs Retro Vault Remix)",
+      "url": "https://open.spotify.com/track/3Fv2vkIbt37OhpTLbwqVZS"
+    },
+    {
+      "album": {
         "name": "Faith (feat. Leslie O'Smith)",
         "url": "https://open.spotify.com/album/0lxfGkg9i6dJUOdaAMDRxy"
       },
@@ -12846,7 +12868,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 361172,
       "name": "Solid Ground - Brian Tappert for the Heads Remix",
       "url": "https://open.spotify.com/track/1QDuYOb7u7H2iiuhJqdXlB"

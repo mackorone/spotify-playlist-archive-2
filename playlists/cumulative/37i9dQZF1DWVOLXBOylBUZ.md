@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Dalex y Boza.
 
-1,385 songs - 2 day 23 hr 46 min
+1,386 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -811,7 +811,7 @@
 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2023-11-10 | 2024-06-22 |
 | [Moschino](https://open.spotify.com/track/2TOXwgZo66czJlgbY8cnAG) | [Valentina](https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI) | [Moschino](https://open.spotify.com/album/4i9gzbR2drDJXDCgeCDlMS) | 2:35 | 2022-03-04 | 2022-05-07 |
 | [Movezz en silencio](https://open.spotify.com/track/1Hrucz5n0cjYuPApCk8VkL) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:00 | 2023-09-22 | 2024-01-20 |
-| [MPB: CONTIGO \- SAMAI, MAISAK](https://open.spotify.com/track/49R0wmR7b7stdKyi2xPgIq) | [SAMAI](https://open.spotify.com/artist/6dmCCGyGDIeqaqVlQMPxbE), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [MPB: CONTIGO \- SAMAI, MAISAK](https://open.spotify.com/album/5OT7DHvWX4XnnWGgKjmIQs) | 2:40 | 2026-02-28 |  |
+| [MPB: CONTIGO \- SAMAI, MAISAK](https://open.spotify.com/track/49R0wmR7b7stdKyi2xPgIq) | [SAMAI](https://open.spotify.com/artist/6dmCCGyGDIeqaqVlQMPxbE), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [MPB: CONTIGO \- SAMAI, MAISAK](https://open.spotify.com/album/5OT7DHvWX4XnnWGgKjmIQs) | 2:40 | 2026-02-28 | 2026-03-19 |
 | [MR\. MOONDIAL](https://open.spotify.com/track/67LKV40NfSSGIJnm0xz6fi) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 2:45 | 2024-11-22 | 2025-10-04 |
 | [Mujerón](https://open.spotify.com/track/2F2kre9J0uxhoap5iQyCV0) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Mujerón](https://open.spotify.com/album/7yY1iOFMzA5Zv0cDvOJgjX) | 2:50 | 2022-08-19 | 2022-10-22 |
 | [Musika Bellakona](https://open.spotify.com/track/0xzmquQRefAWG6u7bHaKf8) | [Daniel Martinez](https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Brand Randall](https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL) | [Musika Bellakona](https://open.spotify.com/album/13I6eZ9URkIFIkVyPp1NzN) | 2:53 | 2024-09-13 | 2024-10-12 |
@@ -1183,6 +1183,7 @@
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-19 | 2023-08-19 |
 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2023-10-09 | 2024-01-27 |
 | [t kiero](https://open.spotify.com/track/5qVDPQyDtQSHBmFriKfT7S) | [astrid](https://open.spotify.com/artist/19ERkl4Eee4V0WhCjGeJrm) | [t kiero](https://open.spotify.com/album/5TsreoljdE5hPAFPBGwc5W) | 2:28 | 2022-11-11 | 2023-02-25 |
+| [T O M A !](https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [T O M A !](https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI) | 2:40 | 2026-03-18 |  |
 | [Tal Vez](https://open.spotify.com/track/66mYdj1nlbGJ03L314VsrL) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Tal Vez](https://open.spotify.com/album/6HsEKcwOLhcZkqZNRCMmHy) | 3:07 | 2022-02-11 | 2022-05-07 |
 | [Tan Rico](https://open.spotify.com/track/71OoXq0nOq1044lycb1Kz9) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Clandestino & Yailemm](https://open.spotify.com/artist/62nI6AYd7LkBD9JAufr7yi) | [Tan Rico](https://open.spotify.com/album/2fGm8wI8Datqlq8sK6leF0) | 4:06 | 2023-05-12 | 2023-08-12 |
 | [Tapate \(with Ak4:20\)](https://open.spotify.com/track/4tckYfU2DJXdCqBlLWdiEX) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Tapate \(with Ak4:20\)](https://open.spotify.com/album/1iiK3tCDF1N66QxF4YSJfg) | 3:11 | 2022-07-15 | 2022-11-19 |

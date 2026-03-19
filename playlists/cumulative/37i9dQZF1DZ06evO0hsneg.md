@@ -4,7 +4,7 @@
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 35 min
+68 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Go Get That B](https://open.spotify.com/track/70m0i8abrcAwhEVeg1l6lx) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Go Get That B](https://open.spotify.com/album/4L0x5vBHiaushaskjdDPQu) | 2:32 | 2023-12-14 | 2024-10-08 |
 | [Go! \(I Can Be Your\)](https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Go! \(I Can Be Your\)](https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT) | 2:52 | 2023-05-02 | 2025-10-02 |
 | [GOOD GIRL](https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [GOOD GIRL](https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi) | 2:53 | 2025-06-29 |  |
+| [Gue Gak Mau Kawin](https://open.spotify.com/track/71EvzawCJqi1b0D5ItB9SE) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [toxicdev!](https://open.spotify.com/artist/7bD17oHb4liDNH9eg7dUev), [Young Lex](https://open.spotify.com/artist/2GP0U8IbD2C8CeVbtuyDaX) | [Gue Gak Mau Kawin](https://open.spotify.com/album/66K4RpnoJl4auky5Uii8oK) | 3:49 | 2026-03-19 |  |
 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 | 2023-05-02 | 2025-07-31 |
 | [I AM ME](https://open.spotify.com/track/5Ga159MBI3o7b8cgSEpVWz) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I AM ME](https://open.spotify.com/album/2lnvGKz1MPILzM3G3aHw8c) | 3:38 | 2023-05-02 |  |
 | [I Dont Wanna Talk to You](https://open.spotify.com/track/0YHNk8LG0aQIgrluJJNWWw) | [Orang Malaya](https://open.spotify.com/artist/0EluFJFfb096k5EAfLF14y), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I Dont Wanna Talk to You](https://open.spotify.com/album/1JJ4tPHGHbiJJm7iMcik19) | 3:06 | 2024-08-14 | 2025-02-05 |
@@ -49,7 +50,7 @@
 | [JOYFUL INTERLUDE](https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq) | [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [PRONOIA 2.0](https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt) | 2:41 | 2024-08-03 |  |
 | [JUICY \- From "Joy Ride" Official Motion Picture Soundtrack](https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [JUICY \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6) | 2:30 | 2023-06-30 |  |
 | [Kawaii 808](https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Crisis Era](https://open.spotify.com/artist/4G6enmlHQQ4ktgVMIR9op0), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [The Holy Bassgod EP](https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA) | 2:46 | 2023-05-02 |  |
-| [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 | 2023-05-02 |  |
+| [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 | 2023-05-02 | 2026-03-19 |
 | [lollipop thug](https://open.spotify.com/track/13vS5OU07nQ7xlaqFy4Nnc) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g), [Chasu](https://open.spotify.com/artist/1qIVbNaFEyJ73CX72RM9Ts), [Rafkyboy](https://open.spotify.com/artist/0716HWuFnwWNErpKxn649R), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [SUGARTOWN](https://open.spotify.com/album/7McuiynMZiR1R3Ex8f0gqi) | 2:44 | 2024-06-09 |  |
 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 | 2023-05-02 |  |
 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 | 2023-05-02 |  |

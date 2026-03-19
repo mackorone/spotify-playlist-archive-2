@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of soul & jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,534 likes - 84 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,651 likes - 84 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 24 | [There She Goes](https://open.spotify.com/track/3tRfWnJXA557NsVIz2R2GB) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [There She Goes](https://open.spotify.com/album/2c1hGxNtwhCI9xjcmgJr6t) | 4:05 |
 | 25 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 |
 | 26 | [Terra De Luz](https://open.spotify.com/track/1NlgVPxML1adA7DIKxUKEF) | [Mark de Clive\-Lowe](https://open.spotify.com/artist/6K3loJxbWoXzVycXOBKh7P), [Andrea Lombardini](https://open.spotify.com/artist/73YGgmVlzKtpkMAe4P0MKP), [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2) | [Dreamweavers II](https://open.spotify.com/album/59ziCZNShV9tAfI2FG9lKh) | 3:40 |
-| 27 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 |
+| 27 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:09 |
 | 28 | [Tangled \(Stripped\)](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 |
 | 29 | [Give You the World](https://open.spotify.com/track/77VRjAUqg8NRlBYv9kHJiG) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You the World](https://open.spotify.com/album/73b9Doft1XSfao2EjyUEhh) | 3:39 |
 | 30 | [3454 \(thoughts\)](https://open.spotify.com/track/5XL10wnNyzuWtlrCrX8wXg) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR), [Ranie Ribeiro](https://open.spotify.com/artist/6PZ3Yb4Yr2CtDF3463y7hz) | [3454 \(thoughts\)](https://open.spotify.com/album/5qBzkS5HjjLU9RZDvmXLqj) | 7:22 |

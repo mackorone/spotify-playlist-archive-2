@@ -2,7 +2,7 @@
 
 ### [This Is BTS](https://open.spotify.com/playlist/37i9dQZF1DX08mhnhv6g9b)
 
-> Welcome to the BTS's universe\. A.R.M.Y's World! 💜 <a href="spotify:presents:decodingarirang"> Decoding ARIRANG </a>
+> <a href="spotify:presents:decodingarirang">Decoding ARIRANG </a> featuring: <a href="spotify:presents:decodingarirang?code=RM4X71"> RM </a>, <a href="spotify:presents:decodingarirang?code=JI2AL3"> Jin </a>, <a href="spotify:presents:decodingarirang?code=SG3MK1"> SUGA </a>, <a href="spotify:presents:decodingarirang?code=JH4LQ1"> j\-hope </a>, <a href="spotify:presents:decodingarirang?code=JM5XB2"> Jimin </a>, <a href="spotify:presents:decodingarirang?code=VV5KX3"> V </a>, and <a href="spotify:presents:decodingarirang?code=JK77H4"> Jung Kook </a>.
 
 531 songs - 1 day 7 hr 29 min
 

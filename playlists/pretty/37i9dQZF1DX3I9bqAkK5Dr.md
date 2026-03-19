@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,644 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,651 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ninne Na](https://open.spotify.com/track/5F0LmbkFcudCgnpbJznxG0) | [Aishwarya Daruri](https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf) | [Ninne Na](https://open.spotify.com/album/5n1sAWdBpuCav07fwNm05M) | 2:52 |
-| 2 | [Tholi Prema](https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Tholi Prema](https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM) | 4:38 |
-| 3 | [Haayi](https://open.spotify.com/track/0rTQeRNV44kCFxUx53IJ2x) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Haayi](https://open.spotify.com/album/06zs6wqQSvQZFMZcOOxReV) | 5:24 |
-| 4 | [Daari Maarina](https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX) | [Sanskari](https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R) | [Vinamrata](https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC) | 4:17 |
-| 5 | [Manasu Palike](https://open.spotify.com/track/2DQAW2DSBizw5OartBN6wR) | [Vijay Ileni](https://open.spotify.com/artist/7kO1jLBfgLID5nXCjapvzo), [Santosh Ileni](https://open.spotify.com/artist/2Ymo9tKes20gWrIGdWdLPa) | [Manasu Palike](https://open.spotify.com/album/2tkDBNmXMkQfDxYhD3MNmy) | 5:24 |
+| 1 | [Tholi Prema](https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Tholi Prema](https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM) | 4:38 |
+| 2 | [Haayi](https://open.spotify.com/track/0rTQeRNV44kCFxUx53IJ2x) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Haayi](https://open.spotify.com/album/06zs6wqQSvQZFMZcOOxReV) | 5:24 |
+| 3 | [Daari Maarina](https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX) | [Sanskari](https://open.spotify.com/artist/3aIui8O5th8gOzC0YRVN6R) | [Vinamrata](https://open.spotify.com/album/299tCSFgDlxGFYJN1E4LpC) | 4:17 |
+| 4 | [Manasu Palike](https://open.spotify.com/track/2DQAW2DSBizw5OartBN6wR) | [Vijay Ileni](https://open.spotify.com/artist/7kO1jLBfgLID5nXCjapvzo), [Santosh Ileni](https://open.spotify.com/artist/2Ymo9tKes20gWrIGdWdLPa) | [Manasu Palike](https://open.spotify.com/album/2tkDBNmXMkQfDxYhD3MNmy) | 5:24 |
+| 5 | [Ninne Na](https://open.spotify.com/track/5F0LmbkFcudCgnpbJznxG0) | [Aishwarya Daruri](https://open.spotify.com/artist/3qTd6UfFRiDnDucDLWAAyf) | [Ninne Na](https://open.spotify.com/album/5n1sAWdBpuCav07fwNm05M) | 2:52 |
 | 6 | [Vennela](https://open.spotify.com/track/5WPphyuv7OeTyqeZ3KkJ5i) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Vennela](https://open.spotify.com/album/6xqTVfYYhITayEtXlVVadT) | 3:01 |
 | 7 | [Taaraley](https://open.spotify.com/track/0RWppfpvEJg6ZKGzeJCezz) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Himasri Divakaruni](https://open.spotify.com/artist/34tqqa7FjkHTtGeic6CtaK) | [Taaraley](https://open.spotify.com/album/4NoSNc7ChtXfR2HkkNXiyP) | 4:03 |
 | 8 | [Poraga Poraga](https://open.spotify.com/track/2N6V75n89gCZX1b4vvlI3N) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Vaishakh Jyothis](https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot) | [Poraga Poraga](https://open.spotify.com/album/2ZqE68XcuVBkq3fW3aCLgk) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 74 | [Cheliya](https://open.spotify.com/track/5lhfZHPPPvgHsvlEoQIEZC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Cheliya](https://open.spotify.com/album/3hqJlxtPFccOcBIVlqHKTk) | 3:03 |
 | 75 | [Seenu Gaani Dawath](https://open.spotify.com/track/2vbfIUYmq9H9B2CVaZrtYK) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [Seenu Gaani Dawath](https://open.spotify.com/album/5UgeFsY9v8Sc5VOTQhgF6C) | 3:01 |
 
-Snapshot ID: `AAAAAGHCF5jA7unqJoCxS7qPHVNlshUR`
+Snapshot ID: `AAAAAG9Sf8SDWzwuOgr17SDon2AbFkYN`

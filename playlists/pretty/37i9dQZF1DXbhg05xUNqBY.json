@@ -555,6 +555,26 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
+        "name": "Spirit Breathe",
+        "url": "https://open.spotify.com/album/0ruqTmr1iVkkekhMSoWqtK"
+      },
+      "artists": [
+        {
+          "name": "Echo Harbor Worship",
+          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 296744,
+      "name": "Spirit Breathe",
+      "url": "https://open.spotify.com/track/3uPCdMhnn9Xs6Yh8T4xbnr"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 253632,
       "name": "Who You'll Always Be - Reimagined",
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
-        "name": "Spirit Breathe",
-        "url": "https://open.spotify.com/album/0ruqTmr1iVkkekhMSoWqtK"
-      },
-      "artists": [
-        {
-          "name": "Echo Harbor Worship",
-          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 296744,
-      "name": "Spirit Breathe",
-      "url": "https://open.spotify.com/track/3uPCdMhnn9Xs6Yh8T4xbnr"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Agnus Dei",
-        "url": "https://open.spotify.com/album/0FI9YzwKRttLTCbYj4kHor"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 316343,
-      "name": "Agnus Dei",
-      "url": "https://open.spotify.com/track/3UTgRmOlROxB1Ly99MAMzv"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
         "name": "His World",
         "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 267282,
       "name": "Wings",
       "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "Agnus Dei",
+        "url": "https://open.spotify.com/album/0FI9YzwKRttLTCbYj4kHor"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 316343,
+      "name": "Agnus Dei",
+      "url": "https://open.spotify.com/track/3UTgRmOlROxB1Ly99MAMzv"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Trust In God (Acoustic)",
-        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
+        "name": "This is How I Thank The Lord (Acoustic)",
+        "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 307247,
-      "name": "Trust In God - Acoustic",
-      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
+      "duration_ms": 178548,
+      "name": "This Is How I Thank The Lord - Acoustic",
+      "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1095,6 +1095,22 @@
       "duration_ms": 196878,
       "name": "Goodbye Yesterday",
       "url": "https://open.spotify.com/track/7taSVgFjoRGzAgjWGRYx9q"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "Simple Phrase",
+        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Simple Phrase",
+      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1135,24 +1151,8 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Simple Phrase",
-        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Simple Phrase",
-      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
-        "name": "This is How I Thank The Lord (Acoustic)",
-        "url": "https://open.spotify.com/album/477g5LoFRhCg7EpfbQIlxZ"
+        "name": "Trust In God (Acoustic)",
+        "url": "https://open.spotify.com/album/3giS5SE0lcdIUVUIqNXJay"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
         }
       ],
-      "duration_ms": 178548,
-      "name": "This Is How I Thank The Lord - Acoustic",
-      "url": "https://open.spotify.com/track/0Kqcdnl7PM85xSNF2NHFKH"
+      "duration_ms": 307247,
+      "name": "Trust In God - Acoustic",
+      "url": "https://open.spotify.com/track/45h3M5mnqeoCRuNUEKxuNO"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "All I Truly Know",
-        "url": "https://open.spotify.com/album/3uG7sSj5QiHYKTnv6oUhV3"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 210857,
-      "name": "All I Truly Know",
-      "url": "https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
         "name": "Precious Gold",
         "url": "https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 216400,
       "name": "Precious Gold",
       "url": "https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "All I Truly Know",
+        "url": "https://open.spotify.com/album/3uG7sSj5QiHYKTnv6oUhV3"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "All I Truly Know",
+      "url": "https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
+        "name": "Memorandum",
+        "url": "https://open.spotify.com/album/0pGUEWQdJVXOFEm0lN0NBk"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 242607,
+      "name": "Stay In The River",
+      "url": "https://open.spotify.com/track/4D79QedvPRgbKSM51BmD6X"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
         "name": "Surrendered",
         "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
-        "name": "Memorandum",
-        "url": "https://open.spotify.com/album/0pGUEWQdJVXOFEm0lN0NBk"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 242607,
-      "name": "Stay In The River",
-      "url": "https://open.spotify.com/track/4D79QedvPRgbKSM51BmD6X"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Praise (Acoustic)",
-        "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Praise - Acoustic",
-      "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
         "name": "MATIN: Home",
         "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 160331,
       "name": "Anything, Everything",
       "url": "https://open.spotify.com/track/6DeNFuhBgxcoSJrDuxDltk"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "Praise (Acoustic)",
+        "url": "https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Praise - Acoustic",
+      "url": "https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Mo Wa Dupe (Thank You)",
-        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        }
-      ],
-      "duration_ms": 214158,
-      "name": "Mo Wa Dupe (Thank You)",
-      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/3qIJgc6Rtd0fJKAKUeBRSP"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 212462,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3vD7RwSB9qjbnGn5mAcdjn"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "Mo Wa Dupe (Thank You)",
+        "url": "https://open.spotify.com/album/2EgrK2xpy5MCeKeA6gTdzb"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 214158,
+      "name": "Mo Wa Dupe (Thank You)",
+      "url": "https://open.spotify.com/track/08K3tNcYdKQiACiOiP9EJK"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Jesus Cries",
-        "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 206530,
-      "name": "Jesus Cries - Unplugged Version",
-      "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
         "name": "Safest",
         "url": "https://open.spotify.com/album/6OOQlxMpNc5TIVM0IQ92CP"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 226957,
       "name": "Safest",
       "url": "https://open.spotify.com/track/0sbwGU7GgdyU8ffKV2q1Ad"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "Jesus Cries",
+        "url": "https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 206530,
+      "name": "Jesus Cries - Unplugged Version",
+      "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Where You Found Me",
-        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 320580,
-      "name": "Seen What I Have Seen",
-      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
         "name": "The Mire is Where Grace Abounds",
         "url": "https://open.spotify.com/album/1I0gK1uCdNtg0pF4aZ4L9f"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 145173,
       "name": "The Mire is Where Grace Abounds",
       "url": "https://open.spotify.com/track/28teLHHWDvP7PtUORZH6Nq"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "Where You Found Me",
+        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 320580,
+      "name": "Seen What I Have Seen",
+      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2455,6 +2455,22 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
+        "name": "Between Garden and Glory",
+        "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
+      },
+      "artists": [
+        {
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+        }
+      ],
+      "duration_ms": 299236,
+      "name": "Between Garden and Glory",
+      "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
         "name": "HEART AND MIND",
         "url": "https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek"
       },
@@ -2475,18 +2491,18 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "Between Garden and Glory",
-        "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
+        "name": "Pray, Pray, Pray",
+        "url": "https://open.spotify.com/album/3eGkYjPWt0pBn9vvaUHN8h"
       },
       "artists": [
         {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
         }
       ],
-      "duration_ms": 299236,
-      "name": "Between Garden and Glory",
-      "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
+      "duration_ms": 166138,
+      "name": "Pray, Pray, Pray",
+      "url": "https://open.spotify.com/track/0taxzffM52DcgsNzwU98a8"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2503,22 +2519,6 @@
       "duration_ms": 92759,
       "name": "Peace",
       "url": "https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
-        "name": "Pray, Pray, Pray",
-        "url": "https://open.spotify.com/album/3eGkYjPWt0pBn9vvaUHN8h"
-      },
-      "artists": [
-        {
-          "name": "Kaelob Mecum",
-          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
-        }
-      ],
-      "duration_ms": 166138,
-      "name": "Pray, Pray, Pray",
-      "url": "https://open.spotify.com/track/0taxzffM52DcgsNzwU98a8"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2543,22 +2543,18 @@
     {
       "added_at": "2025-12-13 23:43:10",
       "album": {
-        "name": "sirens (Sarah Nathali\u00e9 Mix)",
-        "url": "https://open.spotify.com/album/6YaT0gY4eoWXuqXDC9ociS"
+        "name": "church",
+        "url": "https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV"
       },
       "artists": [
         {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
-        },
-        {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
         }
       ],
-      "duration_ms": 204099,
-      "name": "sirens - Sarah Nathali\u00e9 Mix",
-      "url": "https://open.spotify.com/track/5j0ySCK0HUXElgaRfPsta6"
+      "duration_ms": 172682,
+      "name": "church",
+      "url": "https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2575,6 +2571,26 @@
       "duration_ms": 304347,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/4HYualIRbm2DhNTEvjMzKJ"
+    },
+    {
+      "added_at": "2025-12-13 23:43:10",
+      "album": {
+        "name": "sirens (Sarah Nathali\u00e9 Mix)",
+        "url": "https://open.spotify.com/album/6YaT0gY4eoWXuqXDC9ociS"
+      },
+      "artists": [
+        {
+          "name": "Praise Lubangu",
+          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+        },
+        {
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        }
+      ],
+      "duration_ms": 204099,
+      "name": "sirens - Sarah Nathali\u00e9 Mix",
+      "url": "https://open.spotify.com/track/5j0ySCK0HUXElgaRfPsta6"
     },
     {
       "added_at": "2025-12-13 23:43:10",
@@ -2615,22 +2631,6 @@
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
-    },
-    {
-      "added_at": "2025-12-13 23:43:10",
-      "album": {
-        "name": "church",
-        "url": "https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV"
-      },
-      "artists": [
-        {
-          "name": "Armand Mukenge",
-          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
-        }
-      ],
-      "duration_ms": 172682,
-      "name": "church",
-      "url": "https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ"
     },
     {
       "added_at": "2025-12-13 23:43:10",

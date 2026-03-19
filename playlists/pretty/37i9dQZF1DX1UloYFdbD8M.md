@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,702 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,705 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 2 | [Elelam Kili](https://open.spotify.com/track/6K1piWP9RoIT6xi3NlZ7aD) | [Project Malabaricus](https://open.spotify.com/artist/68cQOO7OM5QMcokboxwp1l), [Ahamed Shyam](https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Gana Vimala](https://open.spotify.com/artist/6dIbB2yuIeQ9pHCPWn522k) | [Elelam Kili](https://open.spotify.com/album/1oegkbqJNZrw6n3kAeOycs) | 5:43 |
 | 3 | [Vidha \- From Saina Indie Radar](https://open.spotify.com/track/0Am7wCieAFwFsmFTmS3rJ7) | [Ali Najih](https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo), [Dhaliya navas](https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw), [Leno Martin](https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K) | [Vidha \(From Saina Indie Radar\)](https://open.spotify.com/album/7ys7bCJKziDqLkNRFoS8yK) | 4:16 |
 | 4 | [Hermosa](https://open.spotify.com/track/0Gix4EkytHhNAoDHzyrYcW) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [J2K](https://open.spotify.com/artist/6Um66wxKM0pGG4HIoLacTM), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Baidurjya Banerjee](https://open.spotify.com/artist/2qnVYtcJJ7SzjuOJdxTuNZ) | [J2K, Vol\. 1](https://open.spotify.com/album/68V0Qf6Vmr40VmmVPftfvH) | 2:34 |
-| 5 | [Minnal](https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Minnal](https://open.spotify.com/album/7fCcCldrSjMcWLKdHYaYaz) | 2:51 |
+| 5 | [Minnal](https://open.spotify.com/track/4H0OZy4tS8NozQbyXttkBl) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [copiedthecat](https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO) | [Minnal](https://open.spotify.com/album/7fCcCldrSjMcWLKdHYaYaz) | 2:51 |
 | 6 | [Kaane](https://open.spotify.com/track/7qoJHTG9sc8h8plT2pTdqw) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [Raunaq](https://open.spotify.com/artist/6GKH8jEn8d7Go10zcnWCHq) | [Kaane](https://open.spotify.com/album/5gvlDdbSJuy6rYNqxuOsSF) | 2:54 |
 | 7 | [Poomaala Trap](https://open.spotify.com/track/6tqK4xKIaeFJSvffDxtv7E) | [Jinu Vijayan](https://open.spotify.com/artist/3w2sXw6r9f455JklJcsbgo), [Ilaa Irene](https://open.spotify.com/artist/1AdaT6vrGsoI7KI578cBYw), [Visakh Sivaraman](https://open.spotify.com/artist/4q7p27lubzRX0MbOfvunbK), [Abhiram Suresh](https://open.spotify.com/artist/5bzwJLHzQ3oE0dyyxRy1jG) | [Shambari](https://open.spotify.com/album/7fCfvbcyY5BhEyF5Qv0YrW) | 3:13 |
 | 8 | [THOAZHI](https://open.spotify.com/track/4Ct2DqMV7J8Y2bhXhBAMAo) | [Joardean Ousepp](https://open.spotify.com/artist/2vvprsmi2CfeHM9uWPeOzx), [Rickeysiva](https://open.spotify.com/artist/1HssdaUPj5IERhuMZGyxwK) | [THOAZHI](https://open.spotify.com/album/1batvPzz9HzbdBlb0aYP7Y) | 3:24 |

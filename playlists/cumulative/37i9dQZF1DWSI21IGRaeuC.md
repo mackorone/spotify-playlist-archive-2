@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring SOSA
 
-1,040 songs - 3 day 1 hr 23 min
+1,041 songs - 3 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Bionic Boy](https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Bionic Boy](https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg) | 3:26 | 2022-06-10 | 2023-11-05 |
 | [Bizniss](https://open.spotify.com/track/2HzuD7rDoOZSssMmtrDc7x) | [FINKY](https://open.spotify.com/artist/2rZjYuAVFCk4oCPHmCZ4y2) | [FINKY FILES 002](https://open.spotify.com/album/0ZtpBVMmINyar36THqzQtH) | 2:48 | 2025-12-29 |  |
 | [Blackbird](https://open.spotify.com/track/2JY3csEWcMt3JqboZGE5cd) | [Mathias Kaden](https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S), [Zoë Xenia](https://open.spotify.com/artist/5HrUbYq85HT5B1dtYrh3fg) | [Blackbird](https://open.spotify.com/album/6QRoboEziqck9Zdkxl8qJ3) | 6:48 | 2022-07-15 | 2022-08-27 |
-| [Blinding Lights](https://open.spotify.com/track/2WSzfVx0B988f2CBzrPjTN) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Blinding Lights](https://open.spotify.com/album/1VYZiyG5ZNf5tUoueb3l2J) | 3:29 | 2026-02-06 |  |
+| [Blinding Lights](https://open.spotify.com/track/2WSzfVx0B988f2CBzrPjTN) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Blinding Lights](https://open.spotify.com/album/1VYZiyG5ZNf5tUoueb3l2J) | 3:29 | 2026-02-06 | 2026-03-19 |
 | [Bliss](https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Bliss](https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS) | 3:40 | 2023-07-28 | 2024-02-07 |
 | [Block \- Gio Lucca Remix](https://open.spotify.com/track/7KvZ8fcCRQHiXwPqIR34IO) | [Dimmish](https://open.spotify.com/artist/3BPvVhOECwv7HSHVZaq3BG), [Gio Lucca](https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74) | [Block](https://open.spotify.com/album/1epKMIh5yAJ6VoORh3ksTT) | 3:04 | 2025-11-03 | 2026-01-15 |
 | [Block Steppa'](https://open.spotify.com/track/4OQjZ459UBa4OtiaGIOnJ9) | [Dyl Poole](https://open.spotify.com/artist/0vRUQytdOTCdqYMZvQ6SQw) | [Block Steppa' EP](https://open.spotify.com/album/1MMsCfmw2Ob4mDZOOXU1Gn) | 5:57 | 2026-03-04 |  |
@@ -994,6 +994,7 @@
 | [Warehouse Music](https://open.spotify.com/track/3P73QG2DNw3JVZmxZ0Po8r) | [GIGSTA](https://open.spotify.com/artist/36l9HLDiaCw6E5qmLusL9a) | [Warehouse Music EP](https://open.spotify.com/album/1TIE9wf1B3Z7rdONUzVIA1) | 6:45 | 2024-05-03 | 2024-05-18 |
 | [Warning](https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Warning](https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp) | 5:36 | 2022-11-11 | 2025-03-01 |
 | [Was I Loved?](https://open.spotify.com/track/1OXp5ZrI1JXY0xY5H4ql7z) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [Was I Loved?](https://open.spotify.com/album/0xuivpSg8Z5zmBkYZZ5IUN) | 3:13 | 2025-10-17 | 2026-01-15 |
+| [Was I Loved? \- Dub Mix](https://open.spotify.com/track/4XHtyj62uFk4Tlk16WrQ30) | [Joss Dean](https://open.spotify.com/artist/5wY7g9kThj0QTE33r30CXf) | [Was I Loved? \(Dub Mix\)](https://open.spotify.com/album/2D1rJsEEfe4YPdRNAWFvRs) | 2:47 | 2026-03-18 |  |
 | [Watch The Time](https://open.spotify.com/track/6XPfwzMY6XsNJovlaSnSw9) | [Cristina Lazic](https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg) | [Watch The Time EP](https://open.spotify.com/album/3exjev590oxSNXL9TdPjyS) | 2:52 | 2025-07-04 | 2025-08-23 |
 | [Way Back](https://open.spotify.com/track/7cfFMlr9FEIc3WVBZwpnJJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Way Back EP](https://open.spotify.com/album/4APn6rJ9usEWuxf6LDYdZF) | 6:18 | 2025-05-09 | 2025-06-25 |
 | [Way Down](https://open.spotify.com/track/4etgCTIbvjFIJn4KpXjn75) | [Skonka](https://open.spotify.com/artist/7prWNv2plXHCHWTkQa4dDM) | [Way Down](https://open.spotify.com/album/2R4AORZL5cNmlbpbn9AvHO) | 5:15 | 2024-02-16 | 2024-10-05 |

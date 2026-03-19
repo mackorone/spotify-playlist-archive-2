@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 382892,
       "name": "El Fantasma",
       "url": "https://open.spotify.com/track/0tlweItM8lFTa4vOtictpB"
@@ -7179,6 +7179,24 @@
     },
     {
       "album": {
+        "name": "Invariant",
+        "url": "https://open.spotify.com/album/03ybXhJPVcgzaG7KbCs8uk"
+      },
+      "artists": [
+        {
+          "name": "John Bryars",
+          "url": "https://open.spotify.com/artist/11lKgHtYOHyg6QTafxD7Id"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174288,
+      "name": "Remove Fear",
+      "url": "https://open.spotify.com/track/3gp09N5BSTauvrPBEVtwTd"
+    },
+    {
+      "album": {
         "name": "Strange Forms",
         "url": "https://open.spotify.com/album/0gnnKS26a9maxCXGwuwAWn"
       },
@@ -8186,6 +8204,24 @@
       "duration_ms": 322503,
       "name": "Split Second",
       "url": "https://open.spotify.com/track/3Q92wSRE08dOBNDKQHuF4Q"
+    },
+    {
+      "album": {
+        "name": "Spotless Mind / Just This One",
+        "url": "https://open.spotify.com/album/3alMLhIOz5swCCfAuEREJW"
+      },
+      "artists": [
+        {
+          "name": "so only",
+          "url": "https://open.spotify.com/artist/2L37QXHmMrvJXojixg3tV7"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262596,
+      "name": "Spotless Mind",
+      "url": "https://open.spotify.com/track/7bM0OKv1ieQDMd6FnuGVXU"
     },
     {
       "album": {
@@ -10066,7 +10102,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 505560,
       "name": "Waterways",
       "url": "https://open.spotify.com/track/0cn24Uv7Za2OJ9kAcmrwqA"

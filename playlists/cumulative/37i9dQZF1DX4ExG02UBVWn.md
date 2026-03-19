@@ -4,7 +4,7 @@
 
 > for the late nights
 
-102 songs - 5 hr 35 min
+103 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [grab my coat](https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC), [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [crumbs in my bed](https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh) | 2:37 | 2025-08-07 |  |
 | [Half Full](https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Ugh](https://open.spotify.com/album/5k00fgF5AJavyexoZVB391) | 3:02 | 2025-08-07 |  |
 | [HEARTACHE & CHEST PAINS](https://open.spotify.com/track/5sO2NkmWPTAWryJ6CWcj3Q) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:35 | 2025-08-07 |  |
-| [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 | 2025-08-07 |  |
+| [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 | 2025-08-07 | 2026-03-19 |
 | [honey lemon tea \(feat\. Jaydonclover\)](https://open.spotify.com/track/7FSlGYVKwVDfi1J1DD8daS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [honey lemon tea](https://open.spotify.com/album/694WwGLnOXDg8Mh44e4FbT) | 2:19 | 2025-08-07 |  |
 | [I Like](https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18) | [71A](https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb) | [I Like](https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD) | 3:38 | 2025-08-07 |  |
 | [I Like](https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe) | 3:07 | 2025-08-07 |  |
@@ -60,6 +60,7 @@
 | [Introverted Stoner](https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Introverted Stoner](https://open.spotify.com/album/1mLKp499Qf01vpQEeSAX08) | 3:12 | 2025-08-07 |  |
 | [iwtwbaigwap](https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6) | [Leo Chavez](https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv) | [iwtwbaigwap](https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL) | 3:55 | 2025-08-07 |  |
 | [Jet Plane 5000](https://open.spotify.com/track/0YOVGM1hQKI3ulmWFxBYSO) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK), [Rebekah Fitch](https://open.spotify.com/artist/3okhrC6DbZJOUhPTiUkwM6) | [Jet Plane 5000](https://open.spotify.com/album/3noTnaZZqXuflfPKDokgfJ) | 2:44 | 2025-08-07 |  |
+| [Jungle](https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo) | [Pat Lagoon](https://open.spotify.com/artist/4WaDfJax1AahnapPlsWsDs) | [Jungle](https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA) | 2:40 | 2025-08-07 |  |
 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 | 2025-08-07 |  |
 | [Lagoon](https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Lagoon](https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY) | 4:48 | 2025-08-07 |  |
 | [Late Nights](https://open.spotify.com/track/0ZcjG6n7IPu57gd64fPU5H) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Late Nights](https://open.spotify.com/album/2mx1bRvFZZUW6ifNmAsZx4) | 2:58 | 2025-08-07 |  |
@@ -84,7 +85,7 @@
 | [Out Of The Blue](https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Out Of The Blue](https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo) | 3:27 | 2025-08-07 |  |
 | [Paradise Pending](https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt) | [Life's a Bitch, I Just Need an Early Night](https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS) | 4:42 | 2025-08-07 |  |
 | [Pingu](https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [No Place for Patience, Vol\. 3](https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l) | 2:42 | 2025-08-07 |  |
-| [Please](https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6) | [BOYY](https://open.spotify.com/artist/3TKwMNkY3pIOJssmsjhE0M), [Jordan Max](https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb) | [Please](https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y) | 3:23 | 2025-08-07 |  |
+| [Please](https://open.spotify.com/track/5ozpzvONlBPM02tapw1ue6) | [BOYY](https://open.spotify.com/artist/3TKwMNkY3pIOJssmsjhE0M), [Jordan Max](https://open.spotify.com/artist/7mJOpa0R9YYi7vTqMCBeJb), [St Francis Hotel](https://open.spotify.com/artist/5ovQJMniNkE6D4Bwxxqin9) | [Please](https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y) | 3:23 | 2025-08-07 |  |
 | [Price You Pay](https://open.spotify.com/track/3ZuAZWE7pKBPh0tyGATaPQ) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Price You Pay](https://open.spotify.com/album/68H7rb7p0wrAjDa9SV0sML) | 3:03 | 2025-08-07 |  |
 | [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 | 2025-08-07 |  |
 | [Ride 2 Nowhere](https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:08 | 2025-08-07 |  |

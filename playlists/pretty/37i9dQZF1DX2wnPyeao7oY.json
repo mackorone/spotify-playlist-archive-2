@@ -1,13 +1,33 @@
 {
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
-  "num_followers": 32242,
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Night Rider",
+  "num_followers": 32269,
   "original_name": "Fresh Finds Heavy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMIWCfF8ySA8rBA0tMouDoYII+bx",
+  "snapshot_id": "AAAAAP90KWiQEW7FsUPXcsBeZjWNgFYP",
   "tracks": [
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "No\u010dn\u00ed M\u016fra",
+        "url": "https://open.spotify.com/album/1KdYPZdmyNM8PZ7Z1ODfb4"
+      },
+      "artists": [
+        {
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
+        },
+        {
+          "name": "Dal Av",
+          "url": "https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri"
+        }
+      ],
+      "duration_ms": 253363,
+      "name": "No\u010dn\u00ed M\u016fra",
+      "url": "https://open.spotify.com/track/4JnkgvDRTyhdZ2t7EjkNKM"
+    },
     {
       "added_at": "2026-03-11 04:00:22",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 184807,
       "name": "PETTY FUCK",
       "url": "https://open.spotify.com/track/7iWKbcLo4oZ3StHDIdEWxx"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "APOLOGY!",
+        "url": "https://open.spotify.com/album/31t43PGKYB8joyNW2krsFj"
+      },
+      "artists": [
+        {
+          "name": "BLANK ERA",
+          "url": "https://open.spotify.com/artist/6m2NxidYFe9kiulMWeyamm"
+        }
+      ],
+      "duration_ms": 207692,
+      "name": "APOLOGY!",
+      "url": "https://open.spotify.com/track/44q6Yni4KIb8mi0Tn9Cmao"
     },
     {
       "added_at": "2026-03-04 05:00:32",
@@ -41,6 +77,22 @@
       "url": "https://open.spotify.com/track/211ixSQEaqHyFNn64O3xxT"
     },
     {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "Make Us Whole Again",
+        "url": "https://open.spotify.com/album/7iVoz3L80Uhoz5c3qhzU1i"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 232944,
+      "name": "Make Us Whole Again",
+      "url": "https://open.spotify.com/track/7qCSwzTqTLCnbUdpHewXsP"
+    },
+    {
       "added_at": "2026-03-11 04:00:22",
       "album": {
         "name": "Bottom Feeder",
@@ -55,6 +107,22 @@
       "duration_ms": 243702,
       "name": "Bottom Feeder",
       "url": "https://open.spotify.com/track/3AnhZAWyfd0xoJDThaI5ud"
+    },
+    {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "SUPER TURBO.",
+        "url": "https://open.spotify.com/album/726BjjOZorUfr3BoGbWFUF"
+      },
+      "artists": [
+        {
+          "name": "paradise fell.",
+          "url": "https://open.spotify.com/artist/6xiHXeTXBiPw7J9w85oye3"
+        }
+      ],
+      "duration_ms": 173456,
+      "name": "SUPER TURBO.",
+      "url": "https://open.spotify.com/track/7HiHUkIPAp8Sgq8AcIoM86"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -73,6 +141,22 @@
       "url": "https://open.spotify.com/track/189BviPaRZsYE0TEoxpqKq"
     },
     {
+      "added_at": "2026-03-18 04:00:18",
+      "album": {
+        "name": "The Anatomy of Surviving",
+        "url": "https://open.spotify.com/album/0h8yjW4Sh3ypDhZFWZnFWh"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rain",
+          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
+        }
+      ],
+      "duration_ms": 253026,
+      "name": "Gods of Glass & Wire",
+      "url": "https://open.spotify.com/track/7wGrjVMCed0S0yeWS72T9L"
+    },
+    {
       "added_at": "2026-03-11 04:00:22",
       "album": {
         "name": "Moira (Rerecorded)",
@@ -89,20 +173,20 @@
       "url": "https://open.spotify.com/track/5jxs5HVcBDDuz83hLOO38K"
     },
     {
-      "added_at": "2026-02-25 00:00:07",
+      "added_at": "2026-03-18 04:00:18",
       "album": {
-        "name": "HIDE FROM THE LIGHT",
-        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
+        "name": "without a trace",
+        "url": "https://open.spotify.com/album/6r4WRDPNRX0t6y4CRDsP7Y"
       },
       "artists": [
         {
-          "name": "DIESECT",
-          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+          "name": "Chamber",
+          "url": "https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN"
         }
       ],
-      "duration_ms": 198924,
-      "name": "NO HOME LEFT TO FIND",
-      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
+      "duration_ms": 148175,
+      "name": "without a trace",
+      "url": "https://open.spotify.com/track/1JyFOk995wuumTB5ZQFJoW"
     },
     {
       "added_at": "2026-03-11 04:00:22",
@@ -123,6 +207,38 @@
     {
       "added_at": "2026-03-04 05:00:32",
       "album": {
+        "name": "Sharp Teeth",
+        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "Sharp Teeth",
+      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+    },
+    {
+      "added_at": "2026-02-25 00:00:07",
+      "album": {
+        "name": "HIDE FROM THE LIGHT",
+        "url": "https://open.spotify.com/album/5cLwOTfMHRD4nuFdtWY2Gs"
+      },
+      "artists": [
+        {
+          "name": "DIESECT",
+          "url": "https://open.spotify.com/artist/3omvraIGd4KYyb89eeordB"
+        }
+      ],
+      "duration_ms": 198924,
+      "name": "NO HOME LEFT TO FIND",
+      "url": "https://open.spotify.com/track/3GBW3ISQc8jAQojA28IW18"
+    },
+    {
+      "added_at": "2026-03-04 05:00:32",
+      "album": {
         "name": "Cowboys Of Doom",
         "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
       },
@@ -139,22 +255,6 @@
       "duration_ms": 299720,
       "name": "Cowboys Of Doom",
       "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Celebrity Culture Simp Farm",
-        "url": "https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU"
-      },
-      "artists": [
-        {
-          "name": "Doodseskader",
-          "url": "https://open.spotify.com/artist/3NFvorn4wvIOqrDLJbXroK"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Celebrity Culture Simp Farm",
-      "url": "https://open.spotify.com/track/3bWfhHxw89M5mXdtoPI7J1"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -205,20 +305,20 @@
       "url": "https://open.spotify.com/track/6foUpoZ99QPkjPdzoBgyJz"
     },
     {
-      "added_at": "2026-03-11 04:00:22",
+      "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "You Gotta Get Through Me",
-        "url": "https://open.spotify.com/album/5j94Vs1E0Nbzb5N5k8COUB"
+        "name": "Falling Away From Me",
+        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
       },
       "artists": [
         {
-          "name": "Rabbit Junk",
-          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
+          "name": "Overlaps",
+          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
         }
       ],
-      "duration_ms": 237241,
-      "name": "You Gotta Get Through Me",
-      "url": "https://open.spotify.com/track/1mJl55Ceupn9G9i1hU68dk"
+      "duration_ms": 265384,
+      "name": "Falling Away From Me",
+      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -237,20 +337,36 @@
       "url": "https://open.spotify.com/track/1l3aAtHncaAiSlf9XixDqn"
     },
     {
-      "added_at": "2026-03-04 05:00:32",
+      "added_at": "2026-03-11 04:00:22",
       "album": {
-        "name": "Sharp Teeth",
-        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+        "name": "Celebrity Culture Simp Farm",
+        "url": "https://open.spotify.com/album/6Hnm2mtHj9bJe79nbLspNU"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+          "name": "Doodseskader",
+          "url": "https://open.spotify.com/artist/3NFvorn4wvIOqrDLJbXroK"
         }
       ],
-      "duration_ms": 184640,
-      "name": "Sharp Teeth",
-      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+      "duration_ms": 221333,
+      "name": "Celebrity Culture Simp Farm",
+      "url": "https://open.spotify.com/track/3bWfhHxw89M5mXdtoPI7J1"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "You Gotta Get Through Me",
+        "url": "https://open.spotify.com/album/5j94Vs1E0Nbzb5N5k8COUB"
+      },
+      "artists": [
+        {
+          "name": "Rabbit Junk",
+          "url": "https://open.spotify.com/artist/3Cnkej21cJ1XgbAh98CbaS"
+        }
+      ],
+      "duration_ms": 237241,
+      "name": "You Gotta Get Through Me",
+      "url": "https://open.spotify.com/track/1mJl55Ceupn9G9i1hU68dk"
     },
     {
       "added_at": "2026-03-04 05:00:32",
@@ -301,22 +417,6 @@
       "url": "https://open.spotify.com/track/6UxGXtVucF6wYINmQLnolY"
     },
     {
-      "added_at": "2026-02-25 00:00:07",
-      "album": {
-        "name": "Anywhere But Here",
-        "url": "https://open.spotify.com/album/5fixRDMNxDv5L58J8jhEpG"
-      },
-      "artists": [
-        {
-          "name": "Moodring",
-          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
-        }
-      ],
-      "duration_ms": 200558,
-      "name": "Anywhere But Here",
-      "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
-    },
-    {
       "added_at": "2026-02-18 05:00:29",
       "album": {
         "name": "poison",
@@ -333,36 +433,20 @@
       "url": "https://open.spotify.com/track/7KkltGeZGKDRclb1RoGk2z"
     },
     {
-      "added_at": "2026-02-11 05:00:09",
+      "added_at": "2026-02-25 00:00:07",
       "album": {
-        "name": "Falling Away From Me",
-        "url": "https://open.spotify.com/album/5A7n31Nnnn8n4Rqx9ieuHN"
+        "name": "Anywhere But Here",
+        "url": "https://open.spotify.com/album/5fixRDMNxDv5L58J8jhEpG"
       },
       "artists": [
         {
-          "name": "Overlaps",
-          "url": "https://open.spotify.com/artist/422HBf4XVfUisbvXKTnm7v"
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
         }
       ],
-      "duration_ms": 265384,
-      "name": "Falling Away From Me",
-      "url": "https://open.spotify.com/track/5aZOUaaWL6f2krMnSapHKT"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Mental",
-        "url": "https://open.spotify.com/album/0oBFhSHSZFgZ2tuEHEGVIs"
-      },
-      "artists": [
-        {
-          "name": "Morphide",
-          "url": "https://open.spotify.com/artist/5qJg8wCDfasUO8hFVQORfi"
-        }
-      ],
-      "duration_ms": 249639,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
+      "duration_ms": 200558,
+      "name": "Anywhere But Here",
+      "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -397,22 +481,6 @@
       "url": "https://open.spotify.com/track/3p7H5WSJoa5ds2nH4hlzaE"
     },
     {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Death Is All You Will Know",
-        "url": "https://open.spotify.com/album/4gjyuViL16fkpki6U60Gt3"
-      },
-      "artists": [
-        {
-          "name": "Elision",
-          "url": "https://open.spotify.com/artist/4kkoqDos9OB9xzO07DiiJf"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Death Is All You Will Know",
-      "url": "https://open.spotify.com/track/0fCWEimQozzXs2xWSqnbzE"
-    },
-    {
       "added_at": "2026-02-18 05:00:29",
       "album": {
         "name": "SUPERSONIC",
@@ -443,6 +511,94 @@
       "duration_ms": 182984,
       "name": "Self-Immolate",
       "url": "https://open.spotify.com/track/2wrtiKxQ8Q4aazZwlecWWl"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Dumb Luck",
+        "url": "https://open.spotify.com/album/6XKAO5vywtfKWiBAINDCey"
+      },
+      "artists": [
+        {
+          "name": "Red Keep",
+          "url": "https://open.spotify.com/artist/1725duX98HxfXbWaJ1c4Gc"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Dumb Luck",
+      "url": "https://open.spotify.com/track/1OwROWAf1P7VzgETtowT5A"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "MUTE WITNESS",
+        "url": "https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR"
+      },
+      "artists": [
+        {
+          "name": "SUICIDE MESSIAH",
+          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "duration_ms": 183121,
+      "name": "MUTE WITNESS",
+      "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Nope (Hollow Point Elysium)",
+        "url": "https://open.spotify.com/album/55eYwyWTmpliCkwItA71a8"
+      },
+      "artists": [
+        {
+          "name": "The Gloom In The Corner",
+          "url": "https://open.spotify.com/artist/4dJTtqdQ6GlgNr8TNkzh65"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nope (Hollow Point Elysium)",
+      "url": "https://open.spotify.com/track/5bDQPoauwc55xLZaiefEFJ"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/0oBFhSHSZFgZ2tuEHEGVIs"
+      },
+      "artists": [
+        {
+          "name": "Morphide",
+          "url": "https://open.spotify.com/artist/5qJg8wCDfasUO8hFVQORfi"
+        }
+      ],
+      "duration_ms": 249639,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/4Lu81P0JUGMVrLMKK6kWPO"
+    },
+    {
+      "added_at": "2026-02-11 05:00:09",
+      "album": {
+        "name": "Death Is All You Will Know",
+        "url": "https://open.spotify.com/album/4gjyuViL16fkpki6U60Gt3"
+      },
+      "artists": [
+        {
+          "name": "Elision",
+          "url": "https://open.spotify.com/artist/4kkoqDos9OB9xzO07DiiJf"
+        }
+      ],
+      "duration_ms": 159910,
+      "name": "Death Is All You Will Know",
+      "url": "https://open.spotify.com/track/0fCWEimQozzXs2xWSqnbzE"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -515,38 +671,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "Bygones",
-        "url": "https://open.spotify.com/album/43obAFCaeoql2ZCpJtmpys"
-      },
-      "artists": [
-        {
-          "name": "Night Rider",
-          "url": "https://open.spotify.com/artist/29W0B4U3bPj5wvrH5gv3Y6"
-        }
-      ],
-      "duration_ms": 257464,
-      "name": "Bygones",
-      "url": "https://open.spotify.com/track/0vrR41iXxyHgCOG47yFKuC"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Dumb Luck",
-        "url": "https://open.spotify.com/album/6XKAO5vywtfKWiBAINDCey"
-      },
-      "artists": [
-        {
-          "name": "Red Keep",
-          "url": "https://open.spotify.com/artist/1725duX98HxfXbWaJ1c4Gc"
-        }
-      ],
-      "duration_ms": 187546,
-      "name": "Dumb Luck",
-      "url": "https://open.spotify.com/track/1OwROWAf1P7VzgETtowT5A"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "Dying Son",
         "url": "https://open.spotify.com/album/14e7Th4blXvtD9WULa3UbA"
       },
@@ -567,30 +691,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "MUTE WITNESS",
-        "url": "https://open.spotify.com/album/2B0sd976idNW5QX7vVOVsR"
-      },
-      "artists": [
-        {
-          "name": "SUICIDE MESSIAH",
-          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
-        },
-        {
-          "name": "Taylor Barber",
-          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
-        },
-        {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
-        }
-      ],
-      "duration_ms": 183121,
-      "name": "MUTE WITNESS",
-      "url": "https://open.spotify.com/track/5JGA7gtu4iJXLP6AS087pu"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "WEAPONEYES",
         "url": "https://open.spotify.com/album/4FIyjLdvXLo4a6JXQEo8rj"
       },
@@ -603,22 +703,6 @@
       "duration_ms": 203294,
       "name": "WEAPONEYES",
       "url": "https://open.spotify.com/track/2rmehG4gb9ISOf8wSFItLE"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Erased",
-        "url": "https://open.spotify.com/album/00JpGF76Xlf0tqecm15eUq"
-      },
-      "artists": [
-        {
-          "name": "Sylosis",
-          "url": "https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Erased",
-      "url": "https://open.spotify.com/track/0o1BStfHxwG0Hg4ohbWMB5"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -651,30 +735,6 @@
       "duration_ms": 191647,
       "name": "Eyes Up",
       "url": "https://open.spotify.com/track/3MtNA6UHoxfJAJAsqeQhPO"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "DEAD STARS",
-        "url": "https://open.spotify.com/album/6tPBPuLXzLGuS1V1UPOCoO"
-      },
-      "artists": [
-        {
-          "name": "Cloudsight",
-          "url": "https://open.spotify.com/artist/1KolhhZm1SOVLBxFDT56bx"
-        },
-        {
-          "name": "ADAM ON EARTH",
-          "url": "https://open.spotify.com/artist/4M3WL2gwGr5CeUGdklBGZa"
-        },
-        {
-          "name": "Kellin Quinn",
-          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
-        }
-      ],
-      "duration_ms": 216518,
-      "name": "DEAD STARS",
-      "url": "https://open.spotify.com/track/4uUczhrvo33iG48n4iGmDA"
     },
     {
       "added_at": "2026-02-11 05:00:09",
@@ -747,22 +807,6 @@
     {
       "added_at": "2026-02-11 05:00:09",
       "album": {
-        "name": "She's Had Enough",
-        "url": "https://open.spotify.com/album/26bxp91QjlP4zrZnGyZ47G"
-      },
-      "artists": [
-        {
-          "name": "Waxed",
-          "url": "https://open.spotify.com/artist/4jW7rGR5aeJpsEhmv3PAtY"
-        }
-      ],
-      "duration_ms": 289706,
-      "name": "She's Had Enough",
-      "url": "https://open.spotify.com/track/7ADbNNzzIBZupfq5KYYjiF"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
         "name": "Joke's on You",
         "url": "https://open.spotify.com/album/5wdx6ZrkKeeTwV1naZjo57"
       },
@@ -775,54 +819,6 @@
       "duration_ms": 208997,
       "name": "Joke's on You",
       "url": "https://open.spotify.com/track/2YF0HWuVjKBhvEwH80K6hz"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Dogma Dance",
-        "url": "https://open.spotify.com/album/0xbMX3mZEwUCNKMU77sFAr"
-      },
-      "artists": [
-        {
-          "name": "PEUR",
-          "url": "https://open.spotify.com/artist/0r0pQHZ34J5e9WDg50EAfj"
-        }
-      ],
-      "duration_ms": 172113,
-      "name": "Dogma Dance",
-      "url": "https://open.spotify.com/track/6Hb8ycWK6ZFEfsWSmisWMB"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Starbreather",
-        "url": "https://open.spotify.com/album/4dfw548qxSjK2Ao2dIyyXi"
-      },
-      "artists": [
-        {
-          "name": "Above, Below",
-          "url": "https://open.spotify.com/artist/1BvVWm89YnIqEVnQiGvBLx"
-        }
-      ],
-      "duration_ms": 203396,
-      "name": "Starbreather",
-      "url": "https://open.spotify.com/track/1NRxkKWbknaSxgBMyk8E0b"
-    },
-    {
-      "added_at": "2026-02-11 05:00:09",
-      "album": {
-        "name": "Nope (Hollow Point Elysium)",
-        "url": "https://open.spotify.com/album/55eYwyWTmpliCkwItA71a8"
-      },
-      "artists": [
-        {
-          "name": "The Gloom In The Corner",
-          "url": "https://open.spotify.com/artist/4dJTtqdQ6GlgNr8TNkzh65"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Nope (Hollow Point Elysium)",
-      "url": "https://open.spotify.com/track/5bDQPoauwc55xLZaiefEFJ"
     },
     {
       "added_at": "2026-02-11 05:00:09",

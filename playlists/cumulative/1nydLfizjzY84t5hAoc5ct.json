@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/58SUdGApxb0m7QUGZY4YvI"
+      },
+      "artists": [
+        {
+          "name": "Flair",
+          "url": "https://open.spotify.com/artist/2FDBZdGWn8G6927XKL6cd4"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207375,
+      "name": "Nausea",
+      "url": "https://open.spotify.com/track/0dJFoXdKvpc3A8aLN9GgV4"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf"
       },

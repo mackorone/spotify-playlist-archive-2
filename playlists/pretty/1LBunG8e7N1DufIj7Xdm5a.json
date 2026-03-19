@@ -6,8 +6,56 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIB+c6CK8BL+j5CCz0gLaWql8rsXVf",
+  "snapshot_id": "AAAIClpoUfZ7BFTeG99HW9BJBhnKpV5X",
   "tracks": [
+    {
+      "added_at": "2026-03-18 17:32:57",
+      "album": {
+        "name": "Where it began",
+        "url": "https://open.spotify.com/album/4fPcg0BfUr7BZv0od5wgi2"
+      },
+      "artists": [
+        {
+          "name": "Patrick van Bergen",
+          "url": "https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY"
+        }
+      ],
+      "duration_ms": 225663,
+      "name": "Where it began",
+      "url": "https://open.spotify.com/track/7FxotCXuLecKLYZvlk6BLS"
+    },
+    {
+      "added_at": "2026-03-18 10:22:22",
+      "album": {
+        "name": "Catchy Syngers (Softpop Special)",
+        "url": "https://open.spotify.com/album/5cQ8SbQ7Ur8Jir1VkBhtNu"
+      },
+      "artists": [
+        {
+          "name": "Suzy E",
+          "url": "https://open.spotify.com/artist/7qrz6D9jLWomJGH1WHxf9f"
+        }
+      ],
+      "duration_ms": 157046,
+      "name": "How Sweet It Is",
+      "url": "https://open.spotify.com/track/00oZbWv4Bsc2vk8AXXbCJ6"
+    },
+    {
+      "added_at": "2026-03-18 10:16:23",
+      "album": {
+        "name": "Come immortali",
+        "url": "https://open.spotify.com/album/1DZQ55GyM54rTXO40c1Yxb"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Gambini",
+          "url": "https://open.spotify.com/artist/2xxgXfBQyeVRJGmTytQnLZ"
+        }
+      ],
+      "duration_ms": 170493,
+      "name": "Come immortali",
+      "url": "https://open.spotify.com/track/2XNznLeDqSQqCDEt71gk8K"
+    },
     {
       "added_at": "2026-03-15 21:55:02",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Yas Mayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,642 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,668 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 25 | [IPA](https://open.spotify.com/track/57O6haKhVDNYS1nTnBdWbP) | [Richard Cejer](https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14) | [IPA](https://open.spotify.com/album/4Od6dfiIfhFaw6Ln4SxMbk) | 2:27 |
 | 26 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:03 |
 | 27 | [Get Away From It](https://open.spotify.com/track/2r4cKBorqcpsCUG1J09NFD) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Crush Culture](https://open.spotify.com/album/5JzM7K49l1hHgw0iDDenWi) | 2:55 |
-| 28 | [Moonlight](https://open.spotify.com/track/7KhtBkiYMt0ewSHsXZJHlq) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Moonlight](https://open.spotify.com/album/6Ka0UHLW3BzOAQxAZFmlAY) | 2:29 |
+| 28 | [Moonlight](https://open.spotify.com/track/7KhtBkiYMt0ewSHsXZJHlq) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Moonlight](https://open.spotify.com/album/6Ka0UHLW3BzOAQxAZFmlAY) | 2:32 |
 | 29 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 |
 | 30 | [Heat](https://open.spotify.com/track/2sFhb5wOheqeUU3vAa5Nmt) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Heat](https://open.spotify.com/album/4skxVlSEuG1dsgfoChLzfc) | 2:48 |
 | 31 | [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/album/60DViyBah1sE2vXa53Ljrg) | 3:12 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 43 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
 | 44 | [Change Me](https://open.spotify.com/track/1N2T53a0By0Bek0jS3zqrW) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [It Starts With Us](https://open.spotify.com/album/01mAiwqFG2n1zfTvMZ9bWa) | 3:22 |
 | 45 | [Daydream](https://open.spotify.com/track/7wVHlZXsN3OjGZma0RktJC) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Everlasting](https://open.spotify.com/album/1rZ3d4vYbxYxQVKUyyRLOs) | 3:23 |
-| 46 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:08 |
+| 46 | [Daydreaming](https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Daydreaming](https://open.spotify.com/album/3Ela60hHr10MD5dxh4yXCf) | 3:09 |
 | 47 | [Can't Wait to Meet You](https://open.spotify.com/track/4Btm2bOAkyMFxSRSrpnasS) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [Can't Wait to Meet You](https://open.spotify.com/album/4sABeJQnfb3vdx2ONTWSqu) | 3:29 |
 | 48 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 |
 | 49 | [Saving All My Love](https://open.spotify.com/track/2aeBRy4Rb55mZEngtFeEIz) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Saving All My Love](https://open.spotify.com/album/7qPS8oM3jIPWvY1ea7BEL0) | 2:18 |

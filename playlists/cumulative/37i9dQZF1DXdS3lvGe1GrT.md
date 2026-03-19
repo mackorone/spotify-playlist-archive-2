@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Alyssa Grace
 
-2,042 songs - 5 day 2 hr 4 min
+2,045 songs - 5 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [delay](https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Tiny Things](https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT) | 3:37 | 2023-04-20 | 2023-06-22 |
 | [Demagogue](https://open.spotify.com/track/2My5iO4woUP3sRRkCd7PWL) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [Demagogue](https://open.spotify.com/album/5b4ZwHMubAwXSVXef5e6M7) | 3:00 | 2025-09-24 | 2025-12-04 |
 | [Demise](https://open.spotify.com/track/0OIyLDRVl6r1YZIF31b2eZ) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Demise](https://open.spotify.com/album/0mRvcFRelfrdZJj68oEkQG) | 2:59 | 2023-11-08 | 2023-12-11 |
+| [Demon in Me](https://open.spotify.com/track/2Oh46gHI8lhRJXrJbvV1IP) | [Lily Seabird](https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd) | [Demon in Me](https://open.spotify.com/album/2rierMHKvXnpRV68LqSiy0) | 5:54 | 2026-03-18 |  |
 | [Demons](https://open.spotify.com/track/7pbcnvtJd5xKgYil9gRf6Z) | [Nap Eyes](https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7) | [Demons](https://open.spotify.com/album/5lZbk8VSLTxuaE2itouQVC) | 6:36 | 2024-06-19 | 2024-09-12 |
 | [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 | 2022-11-09 | 2022-12-01 |
 | [departure hall](https://open.spotify.com/track/5RhlpOZGOsOnzVEZLmjWZG) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [departure hall](https://open.spotify.com/album/0YgBekUUGHVNTuOJayZl4t) | 3:47 | 2022-05-25 | 2022-08-04 |
@@ -634,6 +635,7 @@
 | [Fifteen](https://open.spotify.com/track/6bFteikqoJrRDBSoZJIX6r) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Fifteen](https://open.spotify.com/album/3MHvO6ZlicVMDOSQ8RWDEc) | 3:00 | 2023-10-11 | 2023-12-11 |
 | [fifth avenue](https://open.spotify.com/track/1IE79nIDouMaDGHEapWTUj) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [fifth avenue](https://open.spotify.com/album/5pOGpCTL403o4QYXoZQ9zh) | 2:53 | 2023-11-15 | 2023-12-11 |
 | [fifty degrees](https://open.spotify.com/track/6usyUtwmQof6NnJhSeCiyg) | [Jason Ventura](https://open.spotify.com/artist/7g7mDO5qauzz30vuHekAxK) | [fifty degrees](https://open.spotify.com/album/5ryiIAISiBAQnkRXgGDljZ) | 3:01 | 2024-01-10 | 2024-02-22 |
+| [Fighter Dog](https://open.spotify.com/track/1UmAkErdwBOjtfT9fpJ6sb) | [Nikki Falk](https://open.spotify.com/artist/4XlXTNdb31GyKkl1sICiF0) | [Fighter Dog](https://open.spotify.com/album/57pXQxr9mmsmf6sohGsyp0) | 4:28 | 2026-03-18 |  |
 | [Fighting On The Wing](https://open.spotify.com/track/4EVubDVbvz2kwPyvqxv6Gy) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM) | [Fighting On The Wing](https://open.spotify.com/album/0xWeCVv5ZJt0bEr1TQq4zC) | 5:22 | 2025-03-06 | 2025-06-05 |
 | [Find Her in the Grass](https://open.spotify.com/track/0QpgXknYVO9nf0zRDZXAgY) | [Iona Zajac](https://open.spotify.com/artist/5XIL7iEbCKJIz14Gqd58Y7) | [Find Her in the Grass](https://open.spotify.com/album/3TBnIxX2ZjZTZXeq1w8bMn) | 3:27 | 2022-05-25 | 2022-08-04 |
 | [Find Our Way Home](https://open.spotify.com/track/28oB5HyQbKcEoAQWUn91si) | [Good Lovelies](https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S) | [Find Our Way Home](https://open.spotify.com/album/1TB4O6SScAW9NL4jaQhFK8) | 3:35 | 2023-08-09 | 2023-10-13 |
@@ -1421,6 +1423,7 @@
 | [Please](https://open.spotify.com/track/2nGo49pmg4s4ZLWOj3MsbH) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Please](https://open.spotify.com/album/20gw3rAOBS1PWn6WrcaOeG) | 3:43 | 2024-03-27 | 2024-06-06 |
 | [Please](https://open.spotify.com/track/7wtU8CEcIELlWhmvC0hqZx) | [Otracami](https://open.spotify.com/artist/6VZhV0nHzh64xErbe4OHZs) | [Please](https://open.spotify.com/album/1yn8sAYRP3l4F624E2mwy8) | 3:33 | 2026-02-04 |  |
 | [please don't forget about me](https://open.spotify.com/track/79TOLoQPN2YQBU9M6v7EV0) | [Pompey](https://open.spotify.com/artist/2nWS0foFZts25bZ6sxfP9x) | [please don't forget about me](https://open.spotify.com/album/15YVZmVuMHxcPE5Dk6vkRp) | 3:00 | 2023-11-15 | 2023-12-11 |
+| [Please, Don't Wake Me](https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Please, Don't Wake Me](https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA) | 3:39 | 2026-03-18 |  |
 | [Pocket](https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so) | [Margot Liotta](https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM) | [Pocket](https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E) | 2:42 | 2024-04-03 | 2025-01-16 |
 | [Point and Shoot](https://open.spotify.com/track/0kBKkzdS9m3Pxwy2ozwN1z) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Point and Shoot](https://open.spotify.com/album/1LK1xswR9T1ZfTZZhAgPej) | 3:05 | 2025-04-24 | 2025-07-24 |
 | [Point and Shoot](https://open.spotify.com/track/1YhGlIl93I7WNvsBda9Fpw) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 3:05 | 2025-12-03 | 2026-01-15 |

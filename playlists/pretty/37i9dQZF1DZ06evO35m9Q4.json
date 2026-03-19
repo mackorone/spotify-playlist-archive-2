@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 167774,
+  "num_followers": 167794,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAAB3kIP3Se71yYMY8YWB9uSw",
+  "snapshot_id": "abiZgAAAAABxyyqUMIstKeiCyDiXTkZJ",
   "tracks": [
     {
       "added_at": null,
@@ -491,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 280826,
-      "name": "Superstition - Live",
-      "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
+      "duration_ms": 459493,
+      "name": "Match Box Blues",
+      "url": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 459493,
-      "name": "Match Box Blues",
-      "url": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
+      "duration_ms": 280826,
+      "name": "Superstition - Live",
+      "url": "https://open.spotify.com/track/4OaTSHT0NYViNOgjpIAXpv"
     },
     {
       "added_at": null,

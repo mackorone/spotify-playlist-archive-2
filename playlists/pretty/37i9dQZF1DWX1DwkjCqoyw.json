@@ -1,6 +1,6 @@
 {
   "description": "The biggest crossover songs from the islands and the diaspora. Cover: Mahalia",
-  "num_followers": 645116,
+  "num_followers": 645130,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-08-29 14:45:24",
       "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 157628,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
+    },
+    {
+      "added_at": "2025-08-29 14:45:24",
+      "album": {
         "name": "Bwoii Affi\" Watch Eh Style",
         "url": "https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 145794,
       "name": "Bwoii Affi\" Watch Eh Style",
       "url": "https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX"
-    },
-    {
-      "added_at": "2025-08-29 14:45:24",
-      "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4"
     },
     {
       "added_at": "2025-08-29 14:45:24",

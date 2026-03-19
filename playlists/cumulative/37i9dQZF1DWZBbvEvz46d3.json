@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Szok 'N' Show",
+        "url": "https://open.spotify.com/album/13Lel55hdHNJejfro8RJKH"
+      },
+      "artists": [
+        {
+          "name": "Edyta Bartosiewicz",
+          "url": "https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g"
+        }
+      ],
+      "date_added": "2025-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304666,
+      "name": "Ostatni",
+      "url": "https://open.spotify.com/track/4EbrkWbN93ZMN6bCiol0YX"
+    },
+    {
+      "album": {
         "name": "Ostatni (Rojst '97 | Netflix)",
         "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 210333,
       "name": "\u015awiat si\u0119 pomyli\u0142",
       "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"

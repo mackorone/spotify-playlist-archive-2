@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🦉 Tech house operators, featuring TOBEHONEST & Pedroz
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,057 likes - 125 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,091 likes - 125 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 4 | [Waist Move](https://open.spotify.com/track/7HzUjBSzXpS3vsmz8VG7yW) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Waist Move](https://open.spotify.com/album/36oIcP7sVGtn9utIHk1KZd) | 3:21 |
 | 5 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 |
 | 6 | [Ain't Nobody \(Goosey Remix\)](https://open.spotify.com/track/41BP9oPAIS8sWWSH362V8Y) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP), [Goosey](https://open.spotify.com/artist/76ICZ7nJdYo0EBLYLkH2Tn) | [Ain’t Nobody Remix EP](https://open.spotify.com/album/0d616igQbwE45L2oc7Sxfu) | 3:45 |
-| 7 | [Addicted To Bass \- Dom Dolla Relapse](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 |
+| 7 | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 |
 | 8 | [For the Music](https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [For the Music](https://open.spotify.com/album/7Ix3ulz7HciLSZiicNv2cS) | 3:34 |
 | 9 | [Side To Side](https://open.spotify.com/track/29OC90AImALwo1LTvh5Zhf) | [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Side To Side](https://open.spotify.com/album/5rjewwF7ZdawgIuO2zmJZU) | 3:05 |
 | 10 | [BLAH BLAH BLAH](https://open.spotify.com/track/2ZVQo7aRQPW9LMi6CNdiRt) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [BLAH BLAH BLAH](https://open.spotify.com/album/0h0u5Sep1GRSZBslUBeneY) | 3:07 |

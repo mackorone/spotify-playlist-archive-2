@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from London, Patoranking, Famous Pluto, Kunmie  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,500 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,538 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 48 | [Ghetto Anthem](https://open.spotify.com/track/13BpYH0eMgXkxHPfn6fN9U) | [Epixode](https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3), [StarBwoy](https://open.spotify.com/artist/32LGQXXDuv98pUiVtPeeUp) | [Ghetto Anthem](https://open.spotify.com/album/2XLbU7Xxo4w6ZGPVzWS1yA) | 2:59 |
 | 49 | [HGF](https://open.spotify.com/track/1CKrhdDdnHFk1EGsLVwUnR) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [HGF](https://open.spotify.com/album/6M9MsS9A5fFSGd6yMjVQdq) | 2:44 |
 | 50 | [Blame On Me](https://open.spotify.com/track/03FQZWe6qCPqeHPIExAIjr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Blame On Me](https://open.spotify.com/album/4SMLSrqBkE01ysiHQ3kV6z) | 2:35 |
-| 51 | [Salam](https://open.spotify.com/track/3ILNby3J6WIqjl8IpWCSP3) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Salam](https://open.spotify.com/album/33uXHaFuMsBHdo8iDNpwlO) | 3:23 |
+| 51 | [Salam](https://open.spotify.com/track/3ILNby3J6WIqjl8IpWCSP3) | [Dj Voyst](https://open.spotify.com/artist/7g61HbXl5DD2soIUBikmUA), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Islambo](https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR) | [Salam](https://open.spotify.com/album/33uXHaFuMsBHdo8iDNpwlO) | 3:23 |
 | 52 | [Faaja](https://open.spotify.com/track/4g1VtKfVi7DVKRT6JnbsNm) | [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Faaja](https://open.spotify.com/album/6qnUenJiVj3wJStgNMPqlY) | 2:35 |
 | 53 | [Una Aventura](https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Una Aventura](https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms) | 3:00 |
 | 54 | [Ke lekile](https://open.spotify.com/track/5sHXRFxFhwX9geosXPWHQQ) | [Shandesh](https://open.spotify.com/artist/5ZJCmUoFCgVzfXtralZ9Wy), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [King Salah](https://open.spotify.com/artist/7pjNRv5i1KBe7oPzdys04w) | [The Time Is Now](https://open.spotify.com/album/3QxJkbo1wW4vrbNPHQlNF1) | 4:26 |

@@ -4,7 +4,7 @@
 
 > Tracks popping off in the Afro scene\. Cover:  Emma'a
 
-1,136 songs - 2 day 5 hr 13 min
+1,137 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 | 2024-02-22 | 2024-03-29 |
 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-09-26 | 2025-01-24 |
 | [Maria](https://open.spotify.com/track/1XUxwqxspZJOOrFJQvTcvn) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Maria](https://open.spotify.com/album/2x8mPFCuEGUGkQuGIdQhYV) | 2:09 | 2023-07-21 | 2023-10-14 |
+| [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 | 2026-03-12 |  |
 | [MASSOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-05-29 | 2025-06-27 |
 | [Matta](https://open.spotify.com/track/0ev676IvTmWtEiECWV0TnE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Matta](https://open.spotify.com/album/2mc596usTFQtK44NuQjCy1) | 2:26 | 2025-12-12 | 2026-02-27 |
 | [Mauvais](https://open.spotify.com/track/3sMUHc8JRbSoIMbTzucmYF) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Mauvais](https://open.spotify.com/album/41563zjsTgUaCXTvhglrUE) | 2:19 | 2025-10-09 | 2025-10-24 |

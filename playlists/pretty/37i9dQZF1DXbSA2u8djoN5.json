@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Killa Fonic",
-  "num_followers": 22885,
+  "num_followers": 22897,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
-        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
-      },
-      "artists": [
-        {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
-        },
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 193481,
-      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
-      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
-    },
-    {
-      "added_at": "2026-03-12 22:00:22",
-      "album": {
         "name": "Arunca-ma La Lei",
         "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 152144,
       "name": "Arunca-ma La Lei",
       "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
+    },
+    {
+      "added_at": "2026-03-12 22:00:22",
+      "album": {
+        "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
+        "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
+      },
+      "artists": [
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
+        },
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 193481,
+      "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
+      "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
     },
     {
       "added_at": "2026-03-12 22:00:22",
@@ -699,8 +699,8 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "HE$OYAM",
-        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
+        "name": "PLAYBOY CITY",
+        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
       },
       "artists": [
         {
@@ -708,13 +708,13 @@
           "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "Johny Romano",
-          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
         }
       ],
-      "duration_ms": 183428,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
+      "duration_ms": 123191,
+      "name": "A.D.S.",
+      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
     },
     {
       "added_at": "2026-03-12 22:00:22",
@@ -811,8 +811,8 @@
     {
       "added_at": "2026-03-12 22:00:22",
       "album": {
-        "name": "PLAYBOY CITY",
-        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
+        "name": "HE$OYAM",
+        "url": "https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2"
       },
       "artists": [
         {
@@ -820,13 +820,13 @@
           "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
         },
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+          "name": "Johny Romano",
+          "url": "https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd"
         }
       ],
-      "duration_ms": 123191,
-      "name": "A.D.S.",
-      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
+      "duration_ms": 183428,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT"
     },
     {
       "added_at": "2026-03-12 22:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 
 > 
 
-[ssamt](https://open.spotify.com/user/ssamt) - 0 likes - 12 songs - 49 min 4 sec
+[ssamt](https://open.spotify.com/user/ssamt) - 0 likes - 12 songs - 49 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/3z2cw3ZogDTDR1ZWpAUKRM.md) - [plain]
 | 7 | [The Mighty Rio Grande](https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 11:16 |
 | 8 | [Turn Me Up](https://open.spotify.com/track/0i6MFSVoW9FRPwEau74Wrq) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:44 |
 | 9 | [Blackest Eyes \- Remastered](https://open.spotify.com/track/72MXwlutXRUV31lmFhylgn) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [In Absentia \(Deluxe \- Remastered\)](https://open.spotify.com/album/38d7C2XIoUX0v5cU0HuSSW) | 4:24 |
-| 10 | [No Shade of Green](https://open.spotify.com/track/5KiwfWPrwlAtoi6J8Kxvof) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Come May](https://open.spotify.com/album/5EjCJgYeGLfT7pdsDIbI5i) | 3:01 |
+| 10 | [Mexico \- 2019 Remaster](https://open.spotify.com/track/0CMuiL9aePFA6VG3wBeNPi) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 2:58 |
 | 11 | [One Less Set Of Footsteps](https://open.spotify.com/track/0DVXEokERn31HSPcV2UPcy) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Photographs & Memories: His Greatest Hits](https://open.spotify.com/album/6aSizHsXgnBoMYzkzwb36s) | 2:47 |
 | 12 | [heart pt\. 6](https://open.spotify.com/track/1x95pL62pLkxgPprH9ONkQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 4:52 |
 
-Snapshot ID: `AAAAhQ3Q28w8d52iJENHzEOMDkV+vBu/`
+Snapshot ID: `AAAAiFi1tIYJY2eOOUNkYxHd/0aCO/GP`

@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 174051,
+  "num_followers": 174144,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-03-12 07:03:58",
       "album": {
-        "name": "Bad Newz",
-        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba",
-      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
-    },
-    {
-      "added_at": "2026-03-12 07:03:58",
-      "album": {
         "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
+    },
+    {
+      "added_at": "2026-03-12 07:03:58",
+      "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2026-03-12 07:03:58",
@@ -1539,50 +1539,6 @@
     {
       "added_at": "2026-03-12 07:03:58",
       "album": {
-        "name": "Kuch Kuch Locha Hai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WQHi2iNVTo5AqdlZDKdYc"
-      },
-      "artists": [
-        {
-          "name": "Ikka",
-          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
-        },
-        {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        },
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Paani Waala Dance",
-      "url": "https://open.spotify.com/track/0Wt2nTFdp8maSu2cNRMxDx"
-    },
-    {
-      "added_at": "2026-03-12 07:03:58",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Sahil Kaushal",
-          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
-    },
-    {
-      "added_at": "2026-03-12 07:03:58",
-      "album": {
         "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -1611,6 +1567,50 @@
     {
       "added_at": "2026-03-12 07:03:58",
       "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Sahil Kaushal",
+          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
+        }
+      ],
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
+    },
+    {
+      "added_at": "2026-03-12 07:03:58",
+      "album": {
+        "name": "Kuch Kuch Locha Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WQHi2iNVTo5AqdlZDKdYc"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Paani Waala Dance",
+      "url": "https://open.spotify.com/track/0Wt2nTFdp8maSu2cNRMxDx"
+    },
+    {
+      "added_at": "2026-03-12 07:03:58",
+      "album": {
         "name": "Judwaa 2",
         "url": "https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J"
       },
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-03-12 07:03:58",
       "album": {
+        "name": "Nawabzaade",
+        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "High Rated Gabru",
+      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
+    },
+    {
+      "added_at": "2026-03-12 07:03:58",
+      "album": {
         "name": "Jai Jai Shivshankar (From \"War\")",
         "url": "https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 230557,
       "name": "Jai Jai Shivshankar (From \"War\")",
       "url": "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy"
-    },
-    {
-      "added_at": "2026-03-12 07:03:58",
-      "album": {
-        "name": "Nawabzaade",
-        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "High Rated Gabru",
-      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
     },
     {
       "added_at": "2026-03-12 07:03:58",

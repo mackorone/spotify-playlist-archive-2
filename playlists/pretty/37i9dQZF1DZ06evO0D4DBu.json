@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211274,
+  "num_followers": 211271,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAAB8c9K0p6t6SayCGDg9fBi6",
+  "snapshot_id": "abiZgAAAAAD5Td9PLD4Ap7nRcWtL4G2v",
   "tracks": [
     {
       "added_at": null,
@@ -1043,22 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boys 2",
         "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
       },
@@ -1075,6 +1059,34 @@
       "duration_ms": 133670,
       "name": "Bad Boys 2",
       "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Donnie Trumpet",
+          "url": "https://open.spotify.com/artist/7qbQOln6DZHcPm6l94PXU5"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Coast Is Clear (with Chance the Rapper and The Social Experiment)",
+      "url": "https://open.spotify.com/track/1c35oVynBuaFs99MNGUOUj"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

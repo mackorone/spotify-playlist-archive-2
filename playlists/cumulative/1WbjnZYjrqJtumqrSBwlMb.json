@@ -8197,6 +8197,28 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/7HQqlyTnavA97mX9h8TNRy"
+    },
+    {
+      "album": {
         "name": "SCARING THE HOES: DLC PACK",
         "url": "https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO"
       },

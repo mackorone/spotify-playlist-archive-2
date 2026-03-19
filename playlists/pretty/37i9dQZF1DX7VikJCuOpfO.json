@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Grupo Triunfadores, Posadas\ud83d\udcf8",
-  "num_followers": 366959,
+  "num_followers": 366966,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Ley De La Atracci\u00f3n",
-        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 163354,
-      "name": "Ley De La Atracci\u00f3n",
-      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
         "name": "La Perra",
         "url": "https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 188640,
       "name": "La Perra",
       "url": "https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y"
+    },
+    {
+      "added_at": "2026-03-13 06:00:13",
+      "album": {
+        "name": "Ley De La Atracci\u00f3n",
+        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 163354,
+      "name": "Ley De La Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
         "name": "El Hombre Que Yo Amo",
         "url": "https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 235338,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I"
+    },
+    {
+      "added_at": "2026-03-13 06:00:13",
+      "album": {
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
       },
       "artists": [
         {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
         }
       ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 773154,
-      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
         "name": "Mi M\u00e9xico Mestizo",
         "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 146060,
       "name": "Mi M\u00e9xico Mestizo",
       "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+    },
+    {
+      "added_at": "2026-03-13 06:00:13",
+      "album": {
+        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 773154,
+      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
     },
     {
       "added_at": "2026-03-13 06:00:13",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-13 06:00:13",
       "album": {
-        "name": "Ay\u00fadame A Creer",
-        "url": "https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Ay\u00fadame A Creer",
-      "url": "https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL"
-    },
-    {
-      "added_at": "2026-03-13 06:00:13",
-      "album": {
         "name": "Por Un Amor",
         "url": "https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 193058,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN"
+    },
+    {
+      "added_at": "2026-03-13 06:00:13",
+      "album": {
+        "name": "Ay\u00fadame A Creer",
+        "url": "https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "Ay\u00fadame A Creer",
+      "url": "https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL"
     },
     {
       "added_at": "2026-03-13 06:00:13",

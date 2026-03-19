@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-803 songs - 1 day 23 hr 12 min
+808 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Decirte](https://open.spotify.com/track/1XdhfKIz7UaziPl5sIXYyg) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Decirte](https://open.spotify.com/album/3h8r22CVKJPz8S1RA2jnkZ) | 2:55 | 2026-01-14 | 2026-02-20 |
 | [Del Uno al Diez](https://open.spotify.com/track/4iG7xg9J2N99rtW4pkkz4p) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE) | [Del Uno al Diez](https://open.spotify.com/album/008hskOXrpcZJnR28Qwizk) | 1:53 | 2026-02-23 |  |
 | [Delay](https://open.spotify.com/track/6SY5BLYfK4mmb9fcU7q38X) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Delay](https://open.spotify.com/album/6tfhd6qt2y9QhbBaOQeq8N) | 3:14 | 2025-12-09 | 2026-01-05 |
+| [demonic stranger](https://open.spotify.com/track/30T4D9QFdqhJkIDvYQnrK4) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [Ready to fight evil](https://open.spotify.com/album/7ql4H2uSoJTggEuX6a6ToD) | 4:37 | 2026-03-18 |  |
 | [Dentro De Ti](https://open.spotify.com/track/1oa09yw9bnZHXZNHVupo0t) | [Petter Marchan Xtasix](https://open.spotify.com/artist/6RTz0qC5h5uYfAO3UgNXTr) | [Dentro De Ti](https://open.spotify.com/album/5IgQdsSMIJX14d4ybY6EnH) | 3:00 | 2026-03-05 |  |
 | [Depende de mí](https://open.spotify.com/track/4h0qZah1CMkFPtqfCbRx6b) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Depende de mí](https://open.spotify.com/album/7fOnzY2MBOjvh1h96fOIRN) | 3:31 | 2026-01-14 | 2026-02-20 |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
@@ -236,6 +237,7 @@
 | [From First Day To Forever \(I'm Falling\) \- Acoustic](https://open.spotify.com/track/6eQWBtXs1IOUgCsVbeLBMk) | [Lyric official](https://open.spotify.com/artist/2i8zdGO7nanhaZfFKxWME4), [Kota](https://open.spotify.com/artist/2vI7jKFWv3dxJGfEd1roTC) | [From First Day To Forever \(I'm Falling\) \[Acoustic\]](https://open.spotify.com/album/5Er68t74OiZGRSSEZa4jlF) | 3:40 | 2026-03-05 |  |
 | [Frostbite](https://open.spotify.com/track/0E5iAOwABvC7vqjl6CcWo7) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Frostbite](https://open.spotify.com/album/4JLphJ1oIPpfp4A6wgUNzk) | 2:14 | 2026-02-17 |  |
 | [Fumble](https://open.spotify.com/track/1SQufToTrFMKonHw9xmfFy) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Fumble](https://open.spotify.com/album/6ucAkjjQKfWa3n83odFH7P) | 4:02 | 2025-12-15 | 2026-01-15 |
+| [Fuori Fase](https://open.spotify.com/track/4BvTTUR5I6Lu32H4SEp5XF) | [SanaNasciari](https://open.spotify.com/artist/3DtXo63P1fcyUzRRYsnI3T) | [Fuori Fase](https://open.spotify.com/album/7EUDXRvf6IO08kdUOvmexW) | 3:19 | 2026-03-18 |  |
 | [Gangster Shit](https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o) | [Lance Mitchell](https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4) | [Gangster Shit](https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs) | 1:54 | 2026-02-03 | 2026-03-07 |
 | [Gem](https://open.spotify.com/track/1k7zJz2uqSHZzHPjpiW9ps) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [Gem](https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui) | 3:44 | 2026-03-03 |  |
 | [Ger\-ru](https://open.spotify.com/track/6NhjyDPvfIbR72a0aPwgpI) | [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb) | [Sicilian Connection](https://open.spotify.com/album/4LRnpkrPSzdcd9RY5DzeVD) | 3:31 | 2025-06-21 | 2025-12-21 |
@@ -286,6 +288,7 @@
 | [Hängematte](https://open.spotify.com/track/5w8apl86z4vmd1wkSRJr4G) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Hängematte](https://open.spotify.com/album/3RY4slE0DaXLZNsMBEg3GB) | 3:51 | 2026-01-16 | 2026-02-20 |
 | [I came like water, like wind I go](https://open.spotify.com/track/2QfSa214f8Mvij3TyEQn8p) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [I came like water, like wind I go](https://open.spotify.com/album/3jQo8nHd9lyBQ5J510ASy2) | 2:59 | 2025-07-11 | 2026-01-05 |
 | [I Can't Wait](https://open.spotify.com/track/7aGZ7Vk2d3k1Nme5DEAC23) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [I Can't Wait](https://open.spotify.com/album/5FTGujsJdSOvZqz1GQ4k8z) | 3:36 | 2025-09-11 | 2025-12-21 |
+| [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-03-18 |  |
 | [I Feel Good](https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [I Feel Good](https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q) | 2:43 | 2026-02-03 | 2026-03-07 |
 | [I Forgive You Anyway](https://open.spotify.com/track/4tl7GhvkTCcRjx9PqUlBpf) | [Alex Inn](https://open.spotify.com/artist/6t1dBTRi3HgJlC9RN8e7Kd) | [Cold World](https://open.spotify.com/album/5ptpOwvFRiU56fGPHDxtfk) | 3:16 | 2026-01-06 | 2026-02-03 |
 | [I Hate Pumpkin Spice](https://open.spotify.com/track/1BwGrUBSF3ceevdwZL71Cn) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [I Hate Pumpkin Spice](https://open.spotify.com/album/5C5UNXG03v8K9LeD6gHhFr) | 4:00 | 2025-12-22 | 2026-01-24 |
@@ -647,6 +650,7 @@
 | [Taurus](https://open.spotify.com/track/2b6zhMIRbsqrIkQhl0nPQf) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Stories: Lands, Men and Gods](https://open.spotify.com/album/28lSO60QhDMkpAaRWJDjme) | 5:02 | 2023-04-27 | 2025-11-29 |
 | [Taxi a Arenales](https://open.spotify.com/track/35malk9KXRyc4rcZn3RSf7) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:53 | 2024-09-19 | 2025-12-21 |
 | [Teal Waves And Rum Nights](https://open.spotify.com/track/0mLFAl3zHncCDtAhjF3Pjh) | [The Florida Shipwreckers](https://open.spotify.com/artist/1BMsaOL5sPmOIbec8WUFl4) | [Daiquiris and Sandy Knees](https://open.spotify.com/album/73iwb1DaCm4T15RTf77lAj) | 4:04 | 2026-01-26 | 2026-02-28 |
+| [Tears](https://open.spotify.com/track/71KWkDcT5lwG1dG2mCf5vu) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Tears](https://open.spotify.com/album/1aF7rNMvxmQxTxRkGy6pUi) | 3:29 | 2026-03-18 |  |
 | [Temptation](https://open.spotify.com/track/2vYEf6osvIaDzuCYpmshkJ) | [VKB Band](https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop) | [Yesterday is Here](https://open.spotify.com/album/5lMe79wBPvY7rPZzlbvi1j) | 2:40 | 2026-01-20 | 2026-02-20 |
 | [Tengo](https://open.spotify.com/track/3kNqJjZyw1IC49IafzLZGm) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Entre gargantas y oídos](https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx) | 2:50 | 2025-11-25 | 2026-01-05 |
 | [Tere Ishq Mai](https://open.spotify.com/track/6noYEFKEF9mYBVsBbMXhKU) | [DrXHassan](https://open.spotify.com/artist/7IYdWmzwMltrg8VhYrnvKJ) | [Tere Ishq Mai](https://open.spotify.com/album/08kUqXUD2VATh2vKUcn6JT) | 3:54 | 2026-01-26 | 2026-02-28 |
@@ -689,6 +693,7 @@
 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 | 2026-03-04 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-14 | 2025-12-21 |
 | [The Process](https://open.spotify.com/track/6qJ5OA70ILvgAIrfsMYKbJ) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process](https://open.spotify.com/album/0KqDqn5H9VBrBFe9izp6zo) | 3:38 | 2026-02-24 |  |
+| [The Process \- Sped Up & Reverbed](https://open.spotify.com/track/4Q9yFmSyERkNtBVdq1zKlQ) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process \(Sped Up & Reverbed\)](https://open.spotify.com/album/0FGNG8bBLKafYGIZYvOLcX) | 3:12 | 2026-03-18 |  |
 | [The queen and the tearaway](https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [The queen and the tearaway](https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp) | 3:27 | 2025-11-17 | 2025-12-21 |
 | [The Reason](https://open.spotify.com/track/2t6wx9LrVfQTfCn4gCubIQ) | [Josh Wood](https://open.spotify.com/artist/4B9f0l2R6YnSmzlLdAAgLB) | [Orange Noise](https://open.spotify.com/album/7rwwrNsKuE6bLxeUDixsGC) | 3:59 | 2026-02-16 | 2026-03-15 |
 | [The Remedy](https://open.spotify.com/track/3EDIOqc7ePpyeVw9Zsp9gO) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [The Remedy](https://open.spotify.com/album/254co2MRMhVIcVJ2ed0thZ) | 5:15 | 2025-08-23 | 2025-11-29 |

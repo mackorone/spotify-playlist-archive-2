@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap, a little bit of country? Cover: Red Leather
+> A little bit of pop, a little bit of rap, a little bit of country? Cover: Dominic Fike
 
-838 songs - 1 day 14 hr 18 min
+839 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-04-06 | 2022-07-16 |
 | [Ayo](https://open.spotify.com/track/2WChmzZosgW38oS7rVzJda) | [goodboy noah](https://open.spotify.com/artist/021wqpA4geq0mtJlARXjon), [Ayo Cheetah](https://open.spotify.com/artist/1fHyYweFVbtQvAaeqx0cRk) | [Ayo](https://open.spotify.com/album/2bh8yN7FYL0gkRxTWhKIYY) | 2:02 | 2023-03-03 | 2023-06-24 |
 | [Baby Baby](https://open.spotify.com/track/0JCwp6ekBI2CkOtXWErcJt) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Baby Baby](https://open.spotify.com/album/30ld7U0BT2zBNTZkgcVzvZ) | 2:36 | 2025-08-08 | 2026-01-15 |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-18 |  |
 | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 | 2025-06-20 | 2025-11-11 |
 | [Back Then](https://open.spotify.com/track/6G0211y476pxdQXHbdFeVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Back Then](https://open.spotify.com/album/5UFqhj2GruuvXFF8PKr8u4) | 2:22 | 2022-03-25 | 2022-06-11 |
 | [Bad Day](https://open.spotify.com/track/3wA4ronkc8ZcPXUP0fDgYA) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Bad Day](https://open.spotify.com/album/3k1lFVPUbpxngCtvkB9JkA) | 1:48 | 2021-11-16 | 2023-09-09 |
@@ -502,7 +503,7 @@
 | [My World](https://open.spotify.com/track/5PCn4ysnzhILLhQY0u4Ans) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [My World](https://open.spotify.com/album/3WRgF7kV3rACmcjk8JDbdh) | 2:37 | 2025-08-18 | 2026-02-21 |
 | [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 | 2024-12-13 | 2025-09-13 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-18 | 2022-09-24 |
-| [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 | 2025-08-08 |  |
+| [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 | 2025-08-08 | 2026-03-19 |
 | [NAUSEOUS](https://open.spotify.com/track/4L5ATobsBdlUoHgVG5LdKa) | [PERRIS](https://open.spotify.com/artist/28g5e8S0umbeXJOxmRZFMw) | [NAUSEOUS](https://open.spotify.com/album/61ZmBqFS4wXTwky1qojCvC) | 2:30 | 2025-05-27 | 2025-06-21 |
 | [Need To Know](https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Need To Know](https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ) | 2:54 | 2023-06-30 | 2023-09-09 |
 | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/track/0ypg4T6esIqndywe7fiSUG) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/album/0fOriXAONaoenGQi5nfOcl) | 2:10 | 2021-11-16 | 2022-02-19 |

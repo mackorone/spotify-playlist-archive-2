@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Jackie Hollander.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,572 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,130 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 6 | [Some Kinda Heaven](https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Some Kinda Heaven](https://open.spotify.com/album/3EeGkM5qgkBgkTTJvXy6VU) | 3:24 |
 | 7 | [Love Who You Love \- KI/KI Remix \- Radio Edit](https://open.spotify.com/track/4eupIj45yiQy6W7g65Qhzx) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Love Who You Love \(KI/KI Remix \- Radio Edit\)](https://open.spotify.com/album/5M4eQWmJq9PuzbniuK2P9e) | 3:34 |
 | 8 | [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 |
-| 9 | [I’ll Stand By You \(feat\. Blythe\)](https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:33 |
+| 9 | [I’ll Stand By You](https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:33 |
 | 10 | [Love On Me](https://open.spotify.com/track/3rBYmkOB8N1Z4bCa3DsdPK) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj), [House Of Molly](https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh) | [Love On Me](https://open.spotify.com/album/3ScGSR9l9CAIr7NNYq5bOJ) | 2:27 |
 | 11 | [Gimme Dat](https://open.spotify.com/track/1MwIuhWqaLKTA3CrAaEZM5) | [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [Gimme Dat](https://open.spotify.com/album/2b06j6NmZwWm03yspjQKLC) | 2:53 |
 | 12 | [Miami Crest](https://open.spotify.com/track/5BWL1daZx8NkFETSMAWm4q) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Miami Crest](https://open.spotify.com/album/7wddxaFYnH7K0s8aULp0ql) | 2:39 |

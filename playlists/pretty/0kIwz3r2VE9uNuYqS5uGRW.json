@@ -6,7 +6,7 @@
     "name": "CerVon Campbell",
     "url": "https://open.spotify.com/user/1275620579"
   },
-  "snapshot_id": "AAAVuQQNi+xAy/UTxUUTmbbH9tTjwvFb",
+  "snapshot_id": "AAAVu8cTWcdh5FWu7OemBNVtwwOnbbRa",
   "tracks": [
     {
       "added_at": "2025-03-12 13:37:59",
@@ -3031,6 +3031,42 @@
       "duration_ms": 123299,
       "name": "fall in love again",
       "url": "https://open.spotify.com/track/7pJahn2HDV3o13cTMfey1K"
+    },
+    {
+      "added_at": "2026-03-19 00:53:56",
+      "album": {
+        "name": "volver\u00e1s a sonreir.",
+        "url": "https://open.spotify.com/album/18sFjenWqRu3Fa9mGHMLhP"
+      },
+      "artists": [
+        {
+          "name": "Deadfilm",
+          "url": "https://open.spotify.com/artist/5OwwZoJuwmHqi5O9p94A2E"
+        },
+        {
+          "name": "Riper",
+          "url": "https://open.spotify.com/artist/3anPhsakd2B9tTl6tPdFbq"
+        }
+      ],
+      "duration_ms": 298405,
+      "name": "cicada",
+      "url": "https://open.spotify.com/track/2BHGoDcPPJPBQemfknoxqF"
+    },
+    {
+      "added_at": "2026-03-19 00:54:00",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz"
+      },
+      "artists": [
+        {
+          "name": "Big Puffah",
+          "url": "https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q"
     }
   ],
   "unique_name": "u pwetty",

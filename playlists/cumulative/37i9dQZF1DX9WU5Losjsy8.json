@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 158222,
       "name": "Beam mich in den S\u00fcden",
       "url": "https://open.spotify.com/track/79VaG1NA6FHq4iuo6tHrEw"
@@ -1100,6 +1100,24 @@
       "duration_ms": 161046,
       "name": "Dorflove",
       "url": "https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7"
+    },
+    {
+      "album": {
+        "name": "Drauf Gehn",
+        "url": "https://open.spotify.com/album/4YYW9NHriUkre72CiM493C"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151400,
+      "name": "Drauf Gehn",
+      "url": "https://open.spotify.com/track/1oInZfHh2xFY4TF9bD1jUR"
     },
     {
       "album": {

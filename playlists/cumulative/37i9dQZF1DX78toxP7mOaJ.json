@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/6jrvhTjwiHM3zC493ruel8"
+      },
+      "artists": [
+        {
+          "name": "Super Sometimes",
+          "url": "https://open.spotify.com/artist/4zB8iT4joBTjD6VES4cLbF"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206204,
+      "name": "Afterthought",
+      "url": "https://open.spotify.com/track/1Y9Nu5Jzuf1CKFOY4x7jCU"
+    },
+    {
+      "album": {
         "name": "AFV",
         "url": "https://open.spotify.com/album/3dyzYkmtPlS62AE4MZgmFY"
       },
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 248000,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/40vDTqelKo6WlIq9IMydxC"
@@ -13237,6 +13255,24 @@
     },
     {
       "album": {
+        "name": "Figurine",
+        "url": "https://open.spotify.com/album/27P08yRazykZcJCbgQxheh"
+      },
+      "artists": [
+        {
+          "name": "Gouge Away",
+          "url": "https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151580,
+      "name": "Figurine",
+      "url": "https://open.spotify.com/track/3eo9ytt9yiJRLUy85Wumnw"
+    },
+    {
+      "album": {
         "name": "FINALLY SOBER (ANGELS CALLING)",
         "url": "https://open.spotify.com/album/6E0GwKl75NuFkeh6WoFI03"
       },
@@ -13644,7 +13680,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 148626,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/3ZBzkVWAnTxR9VoD0XY8pf"
@@ -21240,7 +21276,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 148455,
       "name": "Lala",
       "url": "https://open.spotify.com/track/0PCB6i5MHdB94K3gEFvn2Q"
@@ -24319,6 +24355,24 @@
     },
     {
       "album": {
+        "name": "More Fire",
+        "url": "https://open.spotify.com/album/1ECDdfM9WTCOYBJOkwFqSA"
+      },
+      "artists": [
+        {
+          "name": "Otala",
+          "url": "https://open.spotify.com/artist/5Ha8b8szNaRXrcXYR0oAXE"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208389,
+      "name": "More Fire",
+      "url": "https://open.spotify.com/track/4VWyHOJIH9Q6wsMDoPJW0Z"
+    },
+    {
+      "album": {
         "name": "Hysterical Strength",
         "url": "https://open.spotify.com/album/5BHIfFeQdKQIPtQMREfHjZ"
       },
@@ -25198,7 +25252,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 176768,
       "name": "Neptune Girl",
       "url": "https://open.spotify.com/track/5OLQKfOEmxAa9qVNhQygra"
@@ -25220,6 +25274,24 @@
       "duration_ms": 149720,
       "name": "Nest",
       "url": "https://open.spotify.com/track/1rKGfMOG6HxI3TzzO2F79F"
+    },
+    {
+      "album": {
+        "name": "Never Better",
+        "url": "https://open.spotify.com/album/4y4b3JMn304TCeyw5bF1Q3"
+      },
+      "artists": [
+        {
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "Never Better",
+      "url": "https://open.spotify.com/track/7oYm171RmKxCSEwVAc4I3o"
     },
     {
       "album": {
@@ -29296,7 +29368,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 208409,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5qO0HpnQaD0DHea2u7a9ud"
@@ -31686,6 +31758,24 @@
       "duration_ms": 161500,
       "name": "she wants me too",
       "url": "https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E"
+    },
+    {
+      "album": {
+        "name": "Vol.1",
+        "url": "https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343190,
+      "name": "Sherpa",
+      "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
     },
     {
       "album": {

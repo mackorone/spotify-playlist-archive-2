@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,717 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,689 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 3 | [Grabe Ka Naman Saktan](https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t) | [Abby Asistio](https://open.spotify.com/artist/1SzRbptyg5juRlfWOAFHLM) | [Grabe Ka Naman Saktan](https://open.spotify.com/album/292rYJLw0TqS2uC2LJJAAK) | 4:17 |
 | 4 | [Di Na](https://open.spotify.com/track/1ETxEgB0R48fOF3mIajPyF) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Di Na](https://open.spotify.com/album/0yGfCICYBpXM0sBfYj1TlI) | 4:07 |
 | 5 | [Traffic](https://open.spotify.com/track/1yiO7S3ipTzVOdEdG5j56k) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Traffic](https://open.spotify.com/album/7us9nYgkLeGMK5ZuKaSc3F) | 3:04 |
-| 6 | [Sana](https://open.spotify.com/track/5RrDA3olSgav14H16vEmcg) | [Oh Stella!](https://open.spotify.com/artist/6dY6VNiVi63oVv7oPvk9w5) | [Sana](https://open.spotify.com/album/4AOvZVCcgB0C78K7lOPRrl) | 3:38 |
+| 6 | [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 |
 | 7 | [Oh, Ano?](https://open.spotify.com/track/3pvDXA9FjDTHWKt9riw0NE) | [1621](https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI) | [1621: BEGIN](https://open.spotify.com/album/3oFCmZl4MAR3ob7XRGCa9C) | 2:41 |
 | 8 | [Maging Sino Ka Man](https://open.spotify.com/track/2ylw78O3bu32JW0qm7mOod) | [LEYO](https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg) | [Maging Sino Ka Man](https://open.spotify.com/album/33yeAP6NdL4nHm3dNt8gOz) | 3:40 |
 | 9 | [Walang Sala](https://open.spotify.com/track/12dVvamWnsPN50ZSaIqBZB) | [K.O.N](https://open.spotify.com/artist/3GetIhCdRbofYJT7EFoEv9) | [Walang Sala](https://open.spotify.com/album/3JJ5hUOZsHOsclCNAGASis) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 50 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
 
-Snapshot ID: `AAAAAFEbMPcsfEd6pC1r0CzSlbKBlYWS`
+Snapshot ID: `AAAAAMA2mneDuxAWyDBiLghVBcjoAa0M`

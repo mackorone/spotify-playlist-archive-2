@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-218 songs - 13 hr 48 min
+219 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 | 2025-11-07 |  |
 | [pamasahe](https://open.spotify.com/track/0YbqgaBE1LwZhalqK09iQf) | [GY](https://open.spotify.com/artist/1r92uYFzHwUHmSVCd4Yn37) | [pamasahe](https://open.spotify.com/album/1XfrJx9J2gJ3JhCRuio6qi) | 2:48 | 2026-02-18 | 2026-03-10 |
 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 | 2025-02-12 |  |
+| [Pano Na](https://open.spotify.com/track/4Ksp6UbLxXEI8gSAxVFhDY) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Pano Na](https://open.spotify.com/album/7MkoJvJg0mD3rGzKDBHmuX) | 3:20 | 2026-03-18 |  |
 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 | 2024-02-07 | 2026-03-10 |
 | [Paraiso](https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH) | [JetNekko](https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o) | [Paraiso](https://open.spotify.com/album/5nEVhJoyzg7K9S8DRwO3xy) | 5:01 | 2025-12-08 | 2026-01-20 |
 | [Paramdam](https://open.spotify.com/track/0ewqLShg1DRv2yvOApI5XC) | [FINA](https://open.spotify.com/artist/55svyNcngicNYNing9V9QP) | [Paramdam](https://open.spotify.com/album/4zxO3Mr0TPtosqc9kiM8Fo) | 3:34 | 2026-02-26 | 2026-03-10 |
@@ -177,7 +178,7 @@
 | [Sakote](https://open.spotify.com/track/0QDJGf6Wo4cCbBVn4g8D4d) | [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v) | [Sakote](https://open.spotify.com/album/2852rN5GsWjyvC6u5EQHJy) | 4:49 | 2024-02-27 | 2025-02-26 |
 | [Samahan Mo Ako](https://open.spotify.com/track/1mXxolyhAm7eP91K48L57k) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Samahan Mo Ako](https://open.spotify.com/album/3cQnZJpy16sCjo52KUiEDL) | 3:32 | 2024-02-27 | 2024-12-09 |
 | [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 | 2025-02-12 | 2025-08-14 |
-| [Sana](https://open.spotify.com/track/5RrDA3olSgav14H16vEmcg) | [Oh Stella!](https://open.spotify.com/artist/6dY6VNiVi63oVv7oPvk9w5) | [Sana](https://open.spotify.com/album/4AOvZVCcgB0C78K7lOPRrl) | 3:38 | 2026-03-09 |  |
+| [Sana](https://open.spotify.com/track/5RrDA3olSgav14H16vEmcg) | [Oh Stella!](https://open.spotify.com/artist/6dY6VNiVi63oVv7oPvk9w5) | [Sana](https://open.spotify.com/album/4AOvZVCcgB0C78K7lOPRrl) | 3:38 | 2026-03-09 | 2026-03-19 |
 | [Sana'y Di Matapos Ang Gabi](https://open.spotify.com/track/43bWUDblEE6AabBVAv9y8X) | [Saranggola Society](https://open.spotify.com/artist/4zNyknsvBptSyQ09BUlfax) | [Sana'y Di Matapos Ang Gabi](https://open.spotify.com/album/5meu1mbjCUpY5IXOv98KZW) | 4:56 | 2026-03-09 |  |
 | [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-16 | 2025-02-05 |
 | [Sapat](https://open.spotify.com/track/16DOniUplo7e5jpPuf5Y7q) | [Andrew Ramos](https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI) | [Sapat](https://open.spotify.com/album/3g6qYWAya2Mg149N7UlPQe) | 3:51 | 2025-11-24 | 2025-12-09 |

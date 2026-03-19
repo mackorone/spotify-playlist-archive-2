@@ -12849,6 +12849,28 @@
     },
     {
       "album": {
+        "name": "TRUTHBUSTER",
+        "url": "https://open.spotify.com/album/7aqvUIUwlZSUjGfygnFxv5"
+      },
+      "artists": [
+        {
+          "name": "Noridogam",
+          "url": "https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe"
+        },
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252229,
+      "name": "Hazard Course",
+      "url": "https://open.spotify.com/track/6A5VjxInqR55Atzhe4OEPT"
+    },
+    {
+      "album": {
         "name": "HAZY (Prod. A.G.O)",
         "url": "https://open.spotify.com/album/1Hfd92aPafCEWyhmRJkeG9"
       },
@@ -16060,6 +16082,24 @@
       "duration_ms": 184502,
       "name": "Junk Corner On My Mind",
       "url": "https://open.spotify.com/track/4FBrAZGGWjZmvrSjWZvV5v"
+    },
+    {
+      "album": {
+        "name": "JUNK POP",
+        "url": "https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE"
+      },
+      "artists": [
+        {
+          "name": "\u0e1c\u0e49\u0e32\u0e2d\u0e49\u0e2d\u0e2199999",
+          "url": "https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8"
+        }
+      ],
+      "date_added": "2026-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219604,
+      "name": "Junk Pop",
+      "url": "https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg"
     },
     {
       "album": {
@@ -34908,24 +34948,6 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
-    },
-    {
-      "album": {
-        "name": "JUNK POP",
-        "url": "https://open.spotify.com/album/66X7dfyaXIeVuPUKDKgEoE"
-      },
-      "artists": [
-        {
-          "name": "\u0e1c\u0e49\u0e32\u0e2d\u0e49\u0e2d\u0e2199999",
-          "url": "https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8"
-        }
-      ],
-      "date_added": "2026-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/5fCqVGBJazjpNDvapBPmpg"
     },
     {
       "album": {

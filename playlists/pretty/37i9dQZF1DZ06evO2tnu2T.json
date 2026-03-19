@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1826,
+  "num_followers": 1836,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abdIAAAAAABZHVSYC2/g4sSXPv4gojLH",
+  "snapshot_id": "abiZgAAAAAABsqrVclU/mx/TpaLsWWQT",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Shades",
-      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friends From Your Hometown",
         "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 264266,
       "name": "Walls (feat. Absolutely) - Live",
       "url": "https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 146293,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
+      "duration_ms": 202786,
+      "name": "Natural Disaster",
+      "url": "https://open.spotify.com/track/5CycJGxE7haKnBuNsssY4r"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 191546,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
+      "duration_ms": 146293,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 202786,
-      "name": "Natural Disaster",
-      "url": "https://open.spotify.com/track/5CycJGxE7haKnBuNsssY4r"
+      "duration_ms": 191546,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
     },
     {
       "added_at": null,

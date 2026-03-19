@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,802 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,827 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [By the Coastline](https://open.spotify.com/track/4pnKKWhKflXZZl2ILUaKS1) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [By the Coastline](https://open.spotify.com/album/5LZXE8mmoRGryQhbhPOESD) | 4:08 |
 | 100 | [Don't Run Away From Hurt](https://open.spotify.com/track/4a2lOWOBuXHGsCk34fmZnO) | [Maanyung](https://open.spotify.com/artist/6Dg8fZV2GE2z6caTDzTH5i) | [Don't Run Away From Hurt](https://open.spotify.com/album/5APKvXRcs5YvdLY2AKlSjh) | 3:44 |
 
-Snapshot ID: `AAAAABNIrGPgj+ljZ9mwKUUTJ8PeKbfd`
+Snapshot ID: `AAAAALLRdRCEQA10tGhQlw4Z9Luj2PJ9`

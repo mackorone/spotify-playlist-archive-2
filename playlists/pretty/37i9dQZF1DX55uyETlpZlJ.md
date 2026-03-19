@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,301 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,303 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 3 | [Ninna Notavu](https://open.spotify.com/track/33W4mZI2Kd4sye4K65Pf0r) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5) | [Ninna Notavu](https://open.spotify.com/album/4hOEeRjxdJ64VK5W0KwKCk) | 2:43 |
 | 4 | [BERETU](https://open.spotify.com/track/5eJOcYtmYvXDwRMv1bgIsV) | [Kavya Bhagvat](https://open.spotify.com/artist/4S3qacWfkE2NOUAD8HOnCk), [Muriel D’Souza](https://open.spotify.com/artist/2FxRVzfznFNrELtuDAWt6X), [Advait Pattanaik](https://open.spotify.com/artist/2Qd2hmd9M4F0f4hJjhFlvb), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [BERETU](https://open.spotify.com/album/7z1bG55Ptk3qQ5VQKwwNq0) | 3:26 |
 | 5 | [THAGO BOUNCE](https://open.spotify.com/track/1M66itYNnPWtSWFJZ7xefF) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh), [Emcee Raga](https://open.spotify.com/artist/1lNWLyYD8Sb9WaPukYyosa) | [THAGO BOUNCE](https://open.spotify.com/album/6GDpFef4cUshDiCDr9Morv) | 3:21 |
-| 6 | [Aahana](https://open.spotify.com/track/3KECzIYpl6GkLltXGxwmPy) | [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW) | [Aahana](https://open.spotify.com/album/69biYJzY4dYrCuwEV9Yv5M) | 4:24 |
+| 6 | [Aahana](https://open.spotify.com/track/3KECzIYpl6GkLltXGxwmPy) | [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW), [Narayan Sharma](https://open.spotify.com/artist/3bLpM0uZQGjGyxtXgJa8hP) | [Aahana](https://open.spotify.com/album/69biYJzY4dYrCuwEV9Yv5M) | 4:24 |
 | 7 | [Janani](https://open.spotify.com/track/3zQ0AwRwPEnGQ3Vha2CuCE) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq) | [Janani](https://open.spotify.com/album/0hJicQHbw7PBDJDV7F85Q6) | 2:43 |
 | 8 | [Andada Gombe](https://open.spotify.com/track/2o4IRqT61medCrMnOPOs6L) | [Ravi K](https://open.spotify.com/artist/3y8nrKofZtzjWJ3DOdueVs) | [Andada Gombe](https://open.spotify.com/album/5hp0crxPK8b6mveYwJlNdX) | 3:23 |
 | 9 | [ROUGH ROACH](https://open.spotify.com/track/689FJCbzH68posJE4MEcF3) | [H18](https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3), [S.P.B](https://open.spotify.com/artist/3eEet8yyGoxJjIKViRe7Gf), [Arhan A Betur](https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4) | [5 STAR](https://open.spotify.com/album/55z0OyLx2IDFEwYw5BgofI) | 2:39 |

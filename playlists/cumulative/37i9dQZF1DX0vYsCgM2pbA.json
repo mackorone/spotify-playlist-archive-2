@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Damaged Goods",
+        "url": "https://open.spotify.com/album/3yEgpFKYXoZmqN3iNnJznX"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278154,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/5j1APmJZ3ttRSlSB3H7Khk"
+    },
+    {
+      "album": {
         "name": "Dance Machine",
         "url": "https://open.spotify.com/album/5Gcp9tzpJvXtG0E55i4ZQq"
       },
@@ -2574,6 +2592,32 @@
       "duration_ms": 255483,
       "name": "Great Southern Land",
       "url": "https://open.spotify.com/track/3kvZ95Je92gWoXF1E9aFQM"
+    },
+    {
+      "album": {
+        "name": "HARDSTYLE 2",
+        "url": "https://open.spotify.com/album/4K3sHV7n2hdD8JtkMHCd9U"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286285,
+      "name": "HARDSTYLE 2",
+      "url": "https://open.spotify.com/track/25E8dNd1xwaMRINstUPy1r"
     },
     {
       "album": {
@@ -4737,6 +4781,28 @@
     },
     {
       "album": {
+        "name": "Run (Make A Dance Remix)",
+        "url": "https://open.spotify.com/album/5eSDLqeWqlghrfj4oocVSu"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "Make A Dance",
+          "url": "https://open.spotify.com/artist/0uCHsPscaxehIexzf7nkXP"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360125,
+      "name": "Run (Make A Dance Remix)",
+      "url": "https://open.spotify.com/track/52M1s923iWGjJEHURiWo48"
+    },
+    {
+      "album": {
         "name": "Regrowth",
         "url": "https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS"
       },
@@ -4942,7 +5008,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 197423,
       "name": "Shut Up!",
       "url": "https://open.spotify.com/track/4NmXB7JYOrTJqYTh3UQJFK"
@@ -5030,7 +5096,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 150266,
       "name": "Skin & Bones (feat. Winona Oak)",
       "url": "https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ"
@@ -5204,7 +5270,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-19",
       "duration_ms": 197697,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/79yhXYDZ8RE0AyXxDvgSwU"

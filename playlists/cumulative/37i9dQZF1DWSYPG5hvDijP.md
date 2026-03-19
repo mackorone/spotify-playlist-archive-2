@@ -4,7 +4,7 @@
 
 > Naya Hip\-Hop Hindi! Cover: J Trix
 
-1,450 songs - 2 day 23 hr 12 min
+1,451 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Chalta Reh](https://open.spotify.com/track/5jEzKNy81X0N9CIil30A1v) | [Albela](https://open.spotify.com/artist/5LAqES7mtiAF86N0aBLqPO), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Chalta Reh](https://open.spotify.com/album/2NpuPaw7sWfDIscYlPLIvu) | 2:55 | 2026-01-30 | 2026-02-28 |
 | [Chamakta Tara Hu Main](https://open.spotify.com/track/48OPmvwTvExG3nanwOzeOY) | [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Chamakta Tara Hu Main](https://open.spotify.com/album/7a95MCPVSJmf6VVq5yyTXU) | 2:18 | 2025-07-04 | 2025-08-23 |
 | [Chambal Zone](https://open.spotify.com/track/2VhU2L1k4hiHFjhAQTpkzT) | [Nirvana UP70](https://open.spotify.com/artist/3rs7GlKqfESf5DgDuffY4d), [Valerio](https://open.spotify.com/artist/4bUHuDhlW8RkolIdjHzo7n) | [Chambal Zone](https://open.spotify.com/album/0iJHdBoYgYYeS2z5mmxkx1) | 2:44 | 2025-12-12 | 2026-01-24 |
-| [Chandni \- From "Tu Yaa Main"](https://open.spotify.com/track/2qssm545LdtJVqirLVd5HY) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Kataaksh](https://open.spotify.com/artist/6Htyk6uFt91DpnRT8MDS6I), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Tu Yaa Main](https://open.spotify.com/album/2GoehjUUwOEEYYOOfxob5m) | 3:38 | 2026-02-13 |  |
+| [Chandni \- From "Tu Yaa Main"](https://open.spotify.com/track/2qssm545LdtJVqirLVd5HY) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Kataaksh](https://open.spotify.com/artist/6Htyk6uFt91DpnRT8MDS6I), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR) | [Tu Yaa Main](https://open.spotify.com/album/2GoehjUUwOEEYYOOfxob5m) | 3:38 | 2026-02-13 | 2026-03-19 |
 | [Change](https://open.spotify.com/track/1xB9ZYJLczMSLOli6B5JfA) | [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx) | [Change](https://open.spotify.com/album/6RhgiXmAgwdvjlUq9juRfI) | 3:36 | 2025-07-18 | 2025-09-06 |
 | [Channa Ve](https://open.spotify.com/track/4ekflmlEIqeYEgZYx2p4xy) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Channa Ve](https://open.spotify.com/album/0VfXeutoN0UChbGzlfcLka) | 3:57 | 2024-09-05 | 2024-11-13 |
 | [Charter \(Freestyle\)](https://open.spotify.com/track/3A7XCQf2wkuSotK9VRPpwx) | [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA), [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6) | [Charter \(Freestyle\)](https://open.spotify.com/album/10jf2Whfy0WnBpU1IGTDlz) | 2:07 | 2025-03-14 | 2025-04-26 |
@@ -411,6 +411,7 @@
 | [Departure Night](https://open.spotify.com/track/1iU2GVF3EhZl34WJFRNCx7) | [Manish Manral](https://open.spotify.com/artist/2vC797VK3xLQ12eObqvemP) | [Departure Night](https://open.spotify.com/album/3FWkDIoim7wB0KvOe9Q0qp) | 3:19 | 2026-01-09 | 2026-01-31 |
 | [Desi Dil](https://open.spotify.com/track/7m00JPc7wqckFI9K6tfCJO) | [Rahul U](https://open.spotify.com/artist/5BrVcsZNGTh62EBgi8vFrA) | [Desi Dil](https://open.spotify.com/album/7h7C25MWYTZlCwlKakUkSv) | 2:38 | 2025-02-28 | 2025-04-19 |
 | [Desktop](https://open.spotify.com/track/1KXJ0DXzCA5ysq7i15ujKP) | [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [Desktop](https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk) | 2:00 | 2023-05-12 | 2023-06-02 |
+| [Destiny \- Mann Atkeya](https://open.spotify.com/track/6za0VNkFezXamgUjJi1nMx) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Vaibhav Gupta](https://open.spotify.com/artist/72M9WwyFJkcQVhrun1xGTd), [Shahzad Ali](https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5) | [Dhurandhar The Revenge](https://open.spotify.com/album/7eMMfuSyi30y0vNn2Vd0H4) | 3:46 | 2026-03-18 |  |
 | [Dev Nagri](https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri](https://open.spotify.com/album/5wdDntwoQKW8E5WmLhH5qC) | 4:25 | 2023-08-08 | 2024-06-29 |
 | [Devbhoomi](https://open.spotify.com/track/18THj7XwTEH7Mxw1qdtSiv) | [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS) | [Devbhoomi](https://open.spotify.com/album/57lCYrJbtvT4BHtXbZ2meX) | 2:36 | 2025-11-11 | 2025-12-17 |
 | [DHADAK DHADAK](https://open.spotify.com/track/56JbLxo8BzitVt3n8AZ4Kp) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [mcrzl](https://open.spotify.com/artist/5jyNcBet23mG0F0ihgIgJS) | [DHADAK DHADAK](https://open.spotify.com/album/5Fdqrnd3Q6rKwnyDk5VCFn) | 2:59 | 2025-05-23 | 2025-07-12 |

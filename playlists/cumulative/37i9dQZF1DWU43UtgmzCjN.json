@@ -5,6 +5,60 @@
   "tracks": [
     {
       "album": {
+        "name": "Ay Que Chulos Ojos",
+        "url": "https://open.spotify.com/album/6O44PDHwY6bP8Os68OCQ5x"
+      },
+      "artists": [
+        {
+          "name": "Nicasio Quintero",
+          "url": "https://open.spotify.com/artist/01ydsipdqHRagj6wMOGxNV"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "\"Riverside \"\"Aricora\"\"\"",
+      "url": "https://open.spotify.com/track/57b2CMZvQrBpSMnDIjlXw3"
+    },
+    {
+      "album": {
+        "name": "Alegre Y Mujeriego (14 Exitos Con Banda)",
+        "url": "https://open.spotify.com/album/2TynA8xbBHzJmKGYHbdRoS"
+      },
+      "artists": [
+        {
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129826,
+      "name": "Alegre y Mujeriego",
+      "url": "https://open.spotify.com/track/1GAaOWvUBvmtPbONJ7JbaC"
+    },
+    {
+      "album": {
+        "name": "20 \u00c9xitos Querido Amigo",
+        "url": "https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq"
+      },
+      "artists": [
+        {
+          "name": "Saul Viera El Gavilancillo",
+          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Caja de Muerte",
+      "url": "https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X"
+    },
+    {
+      "album": {
         "name": "Los Mas Buscados",
         "url": "https://open.spotify.com/album/78v7U6lkses8rPAyYnafVc"
       },
@@ -124,7 +178,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 209773,
       "name": "Chingon De Chingones",
       "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
@@ -265,6 +319,46 @@
     },
     {
       "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248198,
+      "name": "Corrido De Pedro Avilez",
+      "url": "https://open.spotify.com/track/1Pxonmri5vLp3oVfc6vaYZ"
+    },
+    {
+      "album": {
+        "name": "Cruzillo Estrada (\u00c9poca Pesada) [En Vivo]",
+        "url": "https://open.spotify.com/album/1slbMmRT5zsYAfiyK2GBB2"
+      },
+      "artists": [
+        {
+          "name": "Leonel el Ranchero",
+          "url": "https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6"
+        },
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188507,
+      "name": "Cruzillo Estrada - En Vivo",
+      "url": "https://open.spotify.com/track/4SLwUWzm21qqKJhLBNfAMO"
+    },
+    {
+      "album": {
         "name": "Retro-Corridos, Vol. 2",
         "url": "https://open.spotify.com/album/0lzTVbPrR9DTpiX6LqJ9Gj"
       },
@@ -280,6 +374,24 @@
       "duration_ms": 239074,
       "name": "Cuando Le Batallaba",
       "url": "https://open.spotify.com/track/27waItiQKZqS7KF5WgBuCZ"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos Gruesos",
+        "url": "https://open.spotify.com/album/3oCX126z4un8MZfibwYJGA"
+      },
+      "artists": [
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134511,
+      "name": "Dos Celulares",
+      "url": "https://open.spotify.com/track/4ursBpfbVOOMoVsLv7sB4y"
     },
     {
       "album": {
@@ -392,6 +504,40 @@
       "duration_ms": 158093,
       "name": "El Centenario",
       "url": "https://open.spotify.com/track/1KrleiVgBHPcWE1dW74BUt"
+    },
+    {
+      "album": {
+        "name": "El Corrido del Ocho (\u00c9poca Pesada)",
+        "url": "https://open.spotify.com/album/34fzK2gpqINxKSwaQ5PFPu"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+        },
+        {
+          "name": "El Halcon De La Sierra",
+          "url": "https://open.spotify.com/artist/1KdzlfS9Fli0fwzE2oc9GU"
+        },
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        },
+        {
+          "name": "Leonel el Ranchero",
+          "url": "https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "El Corrido del Ocho - \u00c9poca Pesada",
+      "url": "https://open.spotify.com/track/4F8ZwyhCpOA4wHMu62SA95"
     },
     {
       "album": {
@@ -525,6 +671,24 @@
     },
     {
       "album": {
+        "name": "El Nuevo Rey",
+        "url": "https://open.spotify.com/album/11BuGWAtaESFZLfPHpUBrM"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188146,
+      "name": "El Michoacano Y La Ram",
+      "url": "https://open.spotify.com/track/0HB50oSOx7CG76AzvMXy0p"
+    },
+    {
+      "album": {
         "name": "14 \u00c9xitos",
         "url": "https://open.spotify.com/album/2Taq7gieTFp9rjORJkrLWp"
       },
@@ -558,6 +722,24 @@
       "duration_ms": 236160,
       "name": "El Numero Uno",
       "url": "https://open.spotify.com/track/517C3ko96edIA8XMh5nE3R"
+    },
+    {
+      "album": {
+        "name": "Pilares de Cristal",
+        "url": "https://open.spotify.com/album/2d9yTiNqR31ly7NhgN7pXQ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "El Original",
+      "url": "https://open.spotify.com/track/3rAvt7womVmL5DxcZAmAQh"
     },
     {
       "album": {
@@ -741,6 +923,42 @@
     },
     {
       "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196673,
+      "name": "Guerrillero 100%",
+      "url": "https://open.spotify.com/track/7gX2hOso9t3stF8peQzwyR"
+    },
+    {
+      "album": {
+        "name": "Kiosko Pa' Mis Compas",
+        "url": "https://open.spotify.com/album/7kl2uAUrWwaqPkTXzovDga"
+      },
+      "artists": [
+        {
+          "name": "Edgar Aguilar \"El Narquillo\"",
+          "url": "https://open.spotify.com/artist/1ZGKgAnwPK0pqoYj8VnRgR"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Hay Veces Que El Pato Nada",
+      "url": "https://open.spotify.com/track/1wP6weDBuIqOH3VUBNe4lM"
+    },
+    {
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -778,6 +996,24 @@
       "duration_ms": 198975,
       "name": "Hierba Mala Nunca Muere (M\u00fasica Original de la Serie el Se\u00f1or de los Cielos 8)",
       "url": "https://open.spotify.com/track/5v6jSoZb9VVYeJaiUQ8xxF"
+    },
+    {
+      "album": {
+        "name": "10 Aniversario",
+        "url": "https://open.spotify.com/album/35PiD5PY5yhF8eyvowTs9L"
+      },
+      "artists": [
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275640,
+      "name": "Juanito el Comandante",
+      "url": "https://open.spotify.com/track/5Sxa49yo4WPJwxhY6ElFrO"
     },
     {
       "album": {
@@ -1073,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "La Historia De Los Exitos (Mexico)",
+        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145680,
+      "name": "La Peda",
+      "url": "https://open.spotify.com/track/2xDmPreVm3Lo2pJf9UAoM8"
+    },
+    {
+      "album": {
         "name": "El Jardinero (14 Corridazos Para El Pueblo)",
         "url": "https://open.spotify.com/album/3cCvAX45kjE3LnQwdBDZlg"
       },
@@ -1271,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos de Coleccion las Tres Mujeres",
+        "url": "https://open.spotify.com/album/5EqBBDo112jM1tK3VKQIPs"
+      },
+      "artists": [
+        {
+          "name": "Saul Viera El Gavilancillo",
+          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180653,
+      "name": "Las Tres Mujeres",
+      "url": "https://open.spotify.com/track/4fjw1nwSrOvbQWKoli0h2s"
+    },
+    {
+      "album": {
         "name": "Le Compr\u00e9 la Muerte a Mi Hijo",
         "url": "https://open.spotify.com/album/36jpd4kKEalvzpw8k12mNP"
       },
@@ -1286,6 +1558,24 @@
       "duration_ms": 176386,
       "name": "Las \u00c1guilas Andan Solas",
       "url": "https://open.spotify.com/track/6wQjoZ4ffP7cAIfiwldEWZ"
+    },
+    {
+      "album": {
+        "name": "Corridones",
+        "url": "https://open.spotify.com/album/4vHMAnX4gxG4476f5LqpJ8"
+      },
+      "artists": [
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221238,
+      "name": "Los Empacadores",
+      "url": "https://open.spotify.com/track/0lxma3VcgWWW4jiqx80Qbs"
     },
     {
       "album": {
@@ -1603,6 +1893,24 @@
     },
     {
       "album": {
+        "name": "20 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6Rc0SG6eszGhIBgr8FbBWy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171640,
+      "name": "Reten en la Sierra",
+      "url": "https://open.spotify.com/track/4TUkno8AXy0ycnqMOQhJo5"
+    },
+    {
+      "album": {
         "name": "Reuni\u00f3n en la Sierra",
         "url": "https://open.spotify.com/album/3Walje4aOxMKP8rLQO4asL"
       },
@@ -1618,6 +1926,24 @@
       "duration_ms": 166703,
       "name": "Reuni\u00f3n en la Sierra",
       "url": "https://open.spotify.com/track/6yRyUraWazUPBimI43HpeL"
+    },
+    {
+      "album": {
+        "name": "Despreciado",
+        "url": "https://open.spotify.com/album/0VD6EsSyY1jeCirs9A95Ih"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Se Les Pelo el More\u00f1o",
+      "url": "https://open.spotify.com/track/5wc54iADXOr4BVEoqo3aMF"
     },
     {
       "album": {
@@ -1676,6 +2002,54 @@
       "duration_ms": 181044,
       "name": "Se Rifan la Temporada",
       "url": "https://open.spotify.com/track/60nUuXopFX1Vdft6fBM4dG"
+    },
+    {
+      "album": {
+        "name": "Traficantes Michoacanos",
+        "url": "https://open.spotify.com/album/3nhEMjYDoUJYApQQ22utG2"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Jimenez",
+          "url": "https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/3InbOGb8IJdbzjYUlLkrPf"
+    },
+    {
+      "album": {
+        "name": "\u00c9poca Pesada",
+        "url": "https://open.spotify.com/album/6AvUYXcwEGDNUiD4uIStJq"
+      },
+      "artists": [
+        {
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+        },
+        {
+          "name": "Leonel el Ranchero",
+          "url": "https://open.spotify.com/artist/1DN5Y1Kdhvz5LCWe5n61p6"
+        },
+        {
+          "name": "Jorge Gamboa",
+          "url": "https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx"
+        },
+        {
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174768,
+      "name": "\u00c9poca Pesada",
+      "url": "https://open.spotify.com/track/2I3tRBhuhfLttu3ZaIHH4b"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU43UtgmzCjN"

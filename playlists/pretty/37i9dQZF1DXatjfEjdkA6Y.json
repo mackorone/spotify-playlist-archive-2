@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 5773,
+  "num_followers": 5777,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Yo soy aqu\u00e9l",
-      "url": "https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Tal Como Eramos",
         "url": "https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Bobby Solo Cantaitalia",
-        "url": "https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy"
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl"
       },
       "artists": [
         {
-          "name": "Bobby Solo",
-          "url": "https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
         }
       ],
-      "duration_ms": 204336,
-      "name": "Se Piangi Se Ridi",
-      "url": "https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL"
+      "duration_ms": 159560,
+      "name": "Yo soy aqu\u00e9l",
+      "url": "https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -395,6 +379,22 @@
       "duration_ms": 177293,
       "name": "Dansevise",
       "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Bobby Solo Cantaitalia",
+        "url": "https://open.spotify.com/album/6ESzygL26GaA2DNaG8UHNy"
+      },
+      "artists": [
+        {
+          "name": "Bobby Solo",
+          "url": "https://open.spotify.com/artist/7GxkHuCxqtPAVnpBTjObpn"
+        }
+      ],
+      "duration_ms": 204336,
+      "name": "Se Piangi Se Ridi",
+      "url": "https://open.spotify.com/track/3KFtTMzhe5hVTfMur4osaL"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Universal Master",
-        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
-      },
-      "artists": [
-        {
-          "name": "Mich\u00e8le Torr",
-          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Une petite fran\u00e7aise",
-      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Herzen zu verschenken",
         "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 193973,
       "name": "Nur die Liebe l\u00e4sst uns leben - Neuaufnahme",
       "url": "https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Universal Master",
+        "url": "https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K"
+      },
+      "artists": [
+        {
+          "name": "Mich\u00e8le Torr",
+          "url": "https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Une petite fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Festivalfavoriter 1",
-        "url": "https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m"
-      },
-      "artists": [
-        {
-          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
-      "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Nicole Rieu",
         "url": "https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Collection: Sergio Endrigo",
-        "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
+        "name": "Festivalfavoriter 1",
+        "url": "https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m"
       },
       "artists": [
         {
-          "name": "Sergio Endrigo",
-          "url": "https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3"
+          "name": "Claes-G\u00f6ran Hederstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Marianne",
-      "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
+      "duration_ms": 166186,
+      "name": "Det b\u00f6rjar verka k\u00e4rlek, banne mej",
+      "url": "https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1027,6 +1011,22 @@
       "duration_ms": 183466,
       "name": "Feuer - Remastered 1996",
       "url": "https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Collection: Sergio Endrigo",
+        "url": "https://open.spotify.com/album/3I41nPHRdOpInP57Noytru"
+      },
+      "artists": [
+        {
+          "name": "Sergio Endrigo",
+          "url": "https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Popp Songs",
-        "url": "https://open.spotify.com/album/4wvER0DV3Av6iGOwfbeMsj"
+        "name": "Brez besed",
+        "url": "https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9"
       },
       "artists": [
         {
-          "name": "Rachel",
-          "url": "https://open.spotify.com/artist/6k2XA52whNeJDYbIes1nOC"
+          "name": "Berta Ambroz",
+          "url": "https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq"
         }
       ],
-      "duration_ms": 142552,
-      "name": "Le chant de Mallory",
-      "url": "https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA"
+      "duration_ms": 165293,
+      "name": "Brez besed - Evrovizija 1966",
+      "url": "https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK"
     }
   ],
   "unique_name": "Eurovision Gold",
