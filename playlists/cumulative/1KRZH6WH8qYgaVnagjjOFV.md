@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a>
 
-183 songs - 12 hr 16 min
+184 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 | 2025-08-15 |  |
 | [I've Got A Story \(feat\. Tori Kelly\)](https://open.spotify.com/track/36eSZRHIYEE1zFN3aAjjAN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [House Of David \(Music Inspired By The Prime Video Original Series\) \[Season One\]](https://open.spotify.com/album/0xV5LfRixOiXlDYOvny1GI) | 3:23 | 2025-02-28 |  |
 | [I've Witnessed It \- Single Version](https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:29 | 2024-05-24 |  |
+| [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 | 2026-03-19 |  |
 | [If it wasn't for Jesus](https://open.spotify.com/track/7FVckXqUw0kkUU00TxCvV4) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [If it wasn't for Jesus](https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4) | 3:49 | 2024-09-06 |  |
 | [JERICHO WALLS](https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [JERICHO WALLS](https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb) | 3:05 | 2025-09-19 |  |
 | [Jesus Cries](https://open.spotify.com/track/29erlbIRZ0Z0iDqDuV6cFi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Jesus Cries](https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4) | 3:23 | 2025-01-31 | 2025-09-20 |

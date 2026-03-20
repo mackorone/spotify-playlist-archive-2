@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover: Tony Boy",
-  "num_followers": 129249,
+  "num_followers": 129251,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "GLORIA",
-        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "Tardi (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 183500,
       "name": "Beatrice (feat. Annalisa)",
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Tardi (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -383,22 +383,18 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
       },
       "artists": [
         {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
         }
       ],
-      "duration_ms": 176838,
-      "name": "1 MOMENTO (feat. ANNA)",
-      "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -419,18 +415,22 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG"
       },
       "artists": [
         {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
+      "duration_ms": 176838,
+      "name": "1 MOMENTO (feat. ANNA)",
+      "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -455,6 +455,26 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 167921,
+      "name": "Polvere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
         "name": "Going Hard 3",
         "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 214588,
       "name": "Non mi basta mai (feat. Frah Quintale, Capo Plaza)",
       "url": "https://open.spotify.com/track/0HiHVL8iC1Z1kAjV6vZdIo"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 167921,
-      "name": "Polvere (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Malammore",
-        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 265454,
-      "name": "Ti Amo",
-      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 228454,
       "name": "Non lo Sai",
       "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "Malammore",
+        "url": "https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 265454,
+      "name": "Ti Amo",
+      "url": "https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "Fenomeno",
         "url": "https://open.spotify.com/album/4ADdQgtvkvsnxYlg850nGA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 264573,
       "name": "Stavo Pensando A Te",
       "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 169256,
+      "name": "TU",
+      "url": "https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
         "name": "Santana Season",
         "url": "https://open.spotify.com/album/4oUqxRcUDEwAPqpYgOYuUG"
       },
@@ -767,24 +783,8 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 169256,
-      "name": "TU",
-      "url": "https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
-        "name": "TUTTO \u00c8 POSSIBILE",
-        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
@@ -792,13 +792,13 @@
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 193667,
-      "name": "ARCOBALENO (feat. Anuel AA)",
-      "url": "https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA"
+      "duration_ms": 215421,
+      "name": "X CASO (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -886,15 +886,11 @@
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 215421,
-      "name": "X CASO (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -959,38 +955,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 190628,
-      "name": "Bene ormai",
-      "url": "https://open.spotify.com/track/4Vq5sGWPEemZvBWP7CRjj2"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "Milano Angels",
         "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
       },
@@ -1007,18 +971,22 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "PER SOLDI E PER AMORE",
-        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 176584,
-      "name": "IL GIOCO DEL SILENZIO",
-      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
+      "duration_ms": 193667,
+      "name": "ARCOBALENO (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/6JE8qB33bwbb6kLK7YjndA"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1043,8 +1011,24 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "UFORIA",
-        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 176584,
+      "name": "IL GIOCO DEL SILENZIO",
+      "url": "https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9"
       },
       "artists": [
         {
@@ -1052,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 163939,
-      "name": "2000 Pensieri",
-      "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
+      "duration_ms": 190628,
+      "name": "Bene ormai",
+      "url": "https://open.spotify.com/track/4Vq5sGWPEemZvBWP7CRjj2"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 163939,
+      "name": "2000 Pensieri",
+      "url": "https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
         "name": "Latte in Polvere",
         "url": "https://open.spotify.com/album/1RjEbi0mbq9x7oUDMWq159"
       },
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
+        "name": "L'erba cattiva",
+        "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 231655,
+      "name": "Parole di ghiaccio",
+      "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
         "name": "Mattoni",
         "url": "https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 194861,
       "name": "Prometto (feat. Rkomi & Luch\u00e8)",
       "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
-        "name": "L'erba cattiva",
-        "url": "https://open.spotify.com/album/2Dbxqy0O665QXENEoKc1oH"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 231655,
-      "name": "Parole di ghiaccio",
-      "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Nonostante Tutto",
-        "url": "https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 207322,
-      "name": "Forte",
-      "url": "https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW"
-    },
-    {
-      "added_at": "2026-03-12 23:01:35",
-      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -1339,6 +1323,26 @@
       "duration_ms": 160227,
       "name": "Amore cieco (feat. Madame)",
       "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
+    },
+    {
+      "added_at": "2026-03-12 23:01:35",
+      "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
       "added_at": "2026-03-12 23:01:35",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2026-03-12 23:01:35",
       "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+        "name": "Nonostante Tutto",
+        "url": "https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ"
       },
       "artists": [
         {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+      "duration_ms": 207322,
+      "name": "Forte",
+      "url": "https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW"
     },
     {
       "added_at": "2026-03-12 23:01:35",

@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 770382,
+  "num_followers": 770709,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/0ZtQgsteaWjFMPwGQm2B6c"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 209653,
       "name": "Satellite - Above & Beyond Mix (Edit)",
       "url": "https://open.spotify.com/track/29xhHp7I079jDveVcoShIk"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
-      },
-      "artists": [
-        {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -835,30 +835,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "The Whiteroom",
-        "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
-      },
-      "artists": [
-        {
-          "name": "Andy Moor",
-          "url": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn"
-        },
-        {
-          "name": "Adam White",
-          "url": "https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R"
-        },
-        {
-          "name": "Whiteroom",
-          "url": "https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib"
-        }
-      ],
-      "duration_ms": 233848,
-      "name": "The Whiteroom",
-      "url": "https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Retrospective (25 Years)",
         "url": "https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 186893,
       "name": "Liberation (Fly Like An Angel) - Ferry Corsten Remix",
       "url": "https://open.spotify.com/track/4PzBpZbQLEWHwBhh6oFILN"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "The Whiteroom",
+        "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
+      },
+      "artists": [
+        {
+          "name": "Andy Moor",
+          "url": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn"
+        },
+        {
+          "name": "Adam White",
+          "url": "https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R"
+        },
+        {
+          "name": "Whiteroom",
+          "url": "https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib"
+        }
+      ],
+      "duration_ms": 233848,
+      "name": "The Whiteroom",
+      "url": "https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH"
     },
     {
       "added_at": "2024-07-23 09:55:55",

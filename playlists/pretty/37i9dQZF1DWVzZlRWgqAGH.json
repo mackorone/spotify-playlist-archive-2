@@ -1,6 +1,6 @@
 {
   "description": "RAYE and music for your soul.",
-  "num_followers": 840418,
+  "num_followers": 840476,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
@@ -124,12 +124,12 @@
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 218122,

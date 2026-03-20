@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,177 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,179 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 32 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
 | 33 | [PESADILLA.wav](https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [PESADILLA.wav](https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay) | 2:43 |
 | 34 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 |
-| 35 | [Obsesionado Contigo](https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Obsesionado Contigo](https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV) | 2:11 |
-| 36 | [PUM PUM!](https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [¡GLORIA EL CENTRO DE REHABILITACION!](https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j) | 2:38 |
+| 35 | [PUM PUM!](https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [¡GLORIA EL CENTRO DE REHABILITACION!](https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j) | 2:38 |
+| 36 | [Obsesionado Contigo](https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Obsesionado Contigo](https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV) | 2:11 |
 | 37 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
 | 38 | [cash cash](https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [T.V ADDICT](https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K) | 2:41 |
-| 39 | [TUTOGERME](https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 1:49 |
-| 40 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 |
-| 41 | [All I See](https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [TOLEDØ](https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms) | [All I See](https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka) | 3:09 |
+| 39 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 |
+| 40 | [All I See](https://open.spotify.com/track/70lvfZR3qneKtNEPZbL4eD) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [TOLEDØ](https://open.spotify.com/artist/7sMwiJQWm6bcQrLb2PGgms) | [All I See](https://open.spotify.com/album/1nzpJdalAkDKxCJTcgggka) | 3:09 |
+| 41 | [TUTOGERME](https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 1:49 |
 | 42 | [114](https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [114](https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ) | 3:12 |
 | 43 | [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 |
 | 44 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 72 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
 | 73 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
 | 74 | [Altamar](https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV) | [Cross MX](https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [CATARSIS](https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP) | 2:29 |
-| 75 | [MI D](https://open.spotify.com/track/78UCRREwnCspGmSX6njy35) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [REGGAETON CUTE \(VOL\. 2\)](https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7) | 2:38 |
+| 75 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:43 |
 
 Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

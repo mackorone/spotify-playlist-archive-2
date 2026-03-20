@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,196 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,205 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 32 | [CREDIT \(Feat\. YUMDDA, GIRIBOY, Zion.T\)](https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:07 |
 | 33 | [Time limit \(Feat\. Leellamarz, Loco\)](https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 3:49 |
 | 34 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 |
-| 35 | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav) | 2:58 |
-| 36 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 |
+| 35 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 |
+| 36 | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav) | 2:58 |
 | 37 | [just talking to myself](https://open.spotify.com/track/0VjP1Lm6NkbsF5Icvu5rY5) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [\[Hwa Sa Show Vol.1\] just talking to myself](https://open.spotify.com/album/2ewNXQbBgZuETosKZ3RTim) | 2:49 |
 | 38 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 |
 | 39 | [ISLAND](https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [ISLAND](https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur) | 3:17 |

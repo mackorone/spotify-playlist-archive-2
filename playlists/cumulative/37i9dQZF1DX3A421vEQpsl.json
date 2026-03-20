@@ -530,7 +530,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 188117,
       "name": "Balam Subedaar (From \"Subedaar\")",
       "url": "https://open.spotify.com/track/2I839M0trNMsMuhdAvCr0o"
@@ -2565,7 +2565,7 @@
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 332203,
+      "duration_ms": 331244,
       "name": "Jaan Se Guzarte Hain",
       "url": "https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4"
     },
@@ -4454,6 +4454,52 @@
       "duration_ms": 161793,
       "name": "Ramba Ho",
       "url": "https://open.spotify.com/track/3Zg5ENFvbucf41iPRvPcHn"
+    },
+    {
+      "album": {
+        "name": "Rang De Lal (Oye Oye) (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/63TbaYXYHUcXGTVuclbSw2"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Amit Kumar",
+          "url": "https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC"
+        },
+        {
+          "name": "Sapna Mukherjee",
+          "url": "https://open.spotify.com/artist/2ME9akyjf2IaOM5DLTqHUS"
+        },
+        {
+          "name": "Kalyanji-Anandji",
+          "url": "https://open.spotify.com/artist/7pWXlTjky0KXWgbdZi9ebq"
+        },
+        {
+          "name": "Anand Bakshi",
+          "url": "https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200159,
+      "name": "Rang De Lal (Oye Oye) (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/66jbypfLRHYRB3UwqklrYI"
     },
     {
       "album": {

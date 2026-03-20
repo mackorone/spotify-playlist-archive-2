@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Smoke From A Distant Fire",
+        "url": "https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX"
+      },
+      "artists": [
+        {
+          "name": "Sanford Townsend Band",
+          "url": "https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "In for the Night",
+      "url": "https://open.spotify.com/track/09r0WIkaiL5fzAwBVLKWfy"
+    },
+    {
+      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -1157,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "My Maria",
+        "url": "https://open.spotify.com/album/38Iu09mBYy8LcZUl9ZpHRC"
+      },
+      "artists": [
+        {
+          "name": "B.W. Stevenson",
+          "url": "https://open.spotify.com/artist/1asN4HM089PlqWPJRkHvLA"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "My Maria",
+      "url": "https://open.spotify.com/track/6EA8NmWd3l9C6ycQfbEOnS"
+    },
+    {
+      "album": {
         "name": "Ambrosia",
         "url": "https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI"
       },
@@ -1370,7 +1406,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200165,
       "name": "Summer, Highland Falls",
       "url": "https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv"

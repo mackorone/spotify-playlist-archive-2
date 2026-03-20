@@ -19656,7 +19656,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 161695,
       "name": "KAWASAKI (&TEAM Remix)",
       "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
@@ -20070,6 +20070,24 @@
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "album": {
@@ -20968,7 +20986,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -27236,6 +27254,24 @@
       "duration_ms": 213788,
       "name": "Nada Nace",
       "url": "https://open.spotify.com/track/5HLujWzC7p8mG1NICBlO8r"
+    },
+    {
+      "album": {
+        "name": "Nadie Esta Hablando De Amar [NEHDA]",
+        "url": "https://open.spotify.com/album/16j5rSVf1E30Q76xrZs9Ov"
+      },
+      "artists": [
+        {
+          "name": "LA DOBLE AA",
+          "url": "https://open.spotify.com/artist/7dAMgsd3eOLOt1xdYhk28j"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189144,
+      "name": "Nadie Esta Hablando De Amar [NEHDA]",
+      "url": "https://open.spotify.com/track/6s7wvZDnXSrOS8GTOhGIMy"
     },
     {
       "album": {
@@ -44764,7 +44800,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 265833,
       "name": "WHAT U NEED? (SexPlaylist 2)",
       "url": "https://open.spotify.com/track/7jnSlMG2jKJmKvAWxufk2I"
@@ -45676,7 +45712,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 121281,
       "name": "Y SI TE VAS",
       "url": "https://open.spotify.com/track/504futIUPeI6SGUHKpUwzv"

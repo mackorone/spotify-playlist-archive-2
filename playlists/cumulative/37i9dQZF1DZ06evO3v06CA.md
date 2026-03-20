@@ -4,7 +4,7 @@
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 39 min
+118 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,10 +39,11 @@
 | [Desperados Waiting for a Train](https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman](https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU) | 4:37 | 2023-08-25 | 2025-12-18 |
 | [Devil in a Sleepin' Bag](https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:38 | 2023-04-28 | 2023-09-26 |
 | [Do You Realize??](https://open.spotify.com/track/2xDch0dVjwlCqWT03pu0mb) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Do You Realize??](https://open.spotify.com/album/6yGTrxonx43B5ZwJi0KLCq) | 3:11 | 2024-09-21 | 2024-10-20 |
+| [Dream Chaser](https://open.spotify.com/track/0zHVrC2G5mCIFRBCu8z90l) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Dream Chaser](https://open.spotify.com/album/0UxpZGAr4nfENjVjS2OXiR) | 3:14 | 2026-03-20 |  |
 | [Easy](https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:30 | 2023-04-28 |  |
 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 | 2024-03-15 |  |
 | [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 | 2025-05-30 | 2025-06-20 |
-| [Forgiving You Was Easy](https://open.spotify.com/track/1uPV78WGj2AfJILdUBrwLs) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie Nelson \- 16 Biggest Hits](https://open.spotify.com/album/7IZ5H4tIiVSnbgdoE5OhuG) | 2:47 | 2026-03-12 |  |
+| [Forgiving You Was Easy](https://open.spotify.com/track/1uPV78WGj2AfJILdUBrwLs) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Willie Nelson \- 16 Biggest Hits](https://open.spotify.com/album/7IZ5H4tIiVSnbgdoE5OhuG) | 2:47 | 2026-03-12 | 2026-03-20 |
 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 | 2024-01-24 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 | 2023-04-28 |  |
 | [Georgia on My Mind](https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Made in the Usa Collection](https://open.spotify.com/album/2vwhPIDd0WnJO0yuL8vrku) | 4:17 | 2023-04-28 | 2023-09-26 |

@@ -2065,6 +2065,28 @@
     },
     {
       "album": {
+        "name": "Bankok",
+        "url": "https://open.spotify.com/album/17RZ5CmbLfbOtqhi9SUow3"
+      },
+      "artists": [
+        {
+          "name": "Vitinho RB",
+          "url": "https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151625,
+      "name": "Bankok",
+      "url": "https://open.spotify.com/track/7uzcxYLPrLUhVlKEHPZVLM"
+    },
+    {
+      "album": {
         "name": "A Hist\u00f3ria do Deus Pivete",
         "url": "https://open.spotify.com/album/6M4oPFZ1wWlx6wNMDtjWbX"
       },
@@ -6070,7 +6092,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 174732,
       "name": "Flor de Alca\u00e7\u00faz",
       "url": "https://open.spotify.com/track/3oVnScLHg9LR9aJeVwqgxZ"
@@ -7683,6 +7705,32 @@
     },
     {
       "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Maunatrack",
+          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194702,
+      "name": "Irrefre\u00e1vel",
+      "url": "https://open.spotify.com/track/0xXH3cmorPEzUzJ5aNO97C"
+    },
+    {
+      "album": {
         "name": "Isnaipa",
         "url": "https://open.spotify.com/album/0Fk8aVA61SVzoepEnCK0Cz"
       },
@@ -8692,6 +8740,28 @@
       "duration_ms": 206000,
       "name": "L\u00c1 DA 019",
       "url": "https://open.spotify.com/track/0d40dU8PlnOmaCNgcMUCaA"
+    },
+    {
+      "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Maunatrack",
+          "url": "https://open.spotify.com/artist/7EE3Bwna7HSQ4bR4PCXtMY"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "M.P.G",
+      "url": "https://open.spotify.com/track/2xpUxllPR6nEiBCxzb4CCP"
     },
     {
       "album": {
@@ -10078,6 +10148,32 @@
       "duration_ms": 186461,
       "name": "NASCI PRA ISSO",
       "url": "https://open.spotify.com/track/4WwJ4xNXqRjNJOXYm38QNa"
+    },
+    {
+      "album": {
+        "name": "Caindo em si",
+        "url": "https://open.spotify.com/album/53aVwrlLS7ThtUZiNQQVea"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "Manel Beats",
+          "url": "https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99740,
+      "name": "Nem tudo \u00e9 sobre Mim",
+      "url": "https://open.spotify.com/track/266IekD3RXBT28GyfDLFPT"
     },
     {
       "album": {
@@ -12370,7 +12466,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 167999,
       "name": "Pontos de Aura",
       "url": "https://open.spotify.com/track/0e5rH2htDjjqHghLHyxZHT"
@@ -14104,7 +14200,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 208866,
       "name": "Rol\u00e9 de Quest\u00e3o",
       "url": "https://open.spotify.com/track/7LJXh2QD51wZjZJVMRgMRM"
@@ -14598,7 +14694,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 277142,
       "name": "Sangue Latino",
       "url": "https://open.spotify.com/track/3QQcV1Majkj2JFJK1Kb3Ye"

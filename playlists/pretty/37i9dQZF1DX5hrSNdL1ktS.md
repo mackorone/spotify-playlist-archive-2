@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Cachirula, LOOJAN, DJ Blas y DJ Aza en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,637 likes - 66 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,700 likes - 66 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

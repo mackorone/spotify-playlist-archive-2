@@ -1,6 +1,6 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Harry Styles.",
-  "num_followers": 43014,
+  "num_followers": 43008,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
@@ -1626,6 +1626,10 @@
         {
           "name": "Peter Peter",
           "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        },
+        {
+          "name": "Heated Rivalry",
+          "url": "https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz"
         }
       ],
       "duration_ms": 266047,

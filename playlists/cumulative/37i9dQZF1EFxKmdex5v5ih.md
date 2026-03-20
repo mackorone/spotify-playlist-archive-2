@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-546 songs - 1 day 5 hr 59 min
+548 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Fida Known](https://open.spotify.com/track/6YArufs2SI9FnHJjoZiIIf) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Fida Known](https://open.spotify.com/album/5qkINobRruMEoL2NrNJe8P) | 3:17 | 2025-02-09 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-27 | 2023-03-13 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-03-12 | 2023-12-14 |
-| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 | 2026-03-19 |
+| [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-12-15 |  |
 | [Flowers](https://open.spotify.com/track/792wj4fbYgH66u8khzAUSj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Official Video\)](https://open.spotify.com/album/7ljVAiH4UToMeJFUmDHJ9K) | 3:21 | 2023-12-13 | 2024-02-02 |
 | [Flowers \(Demo\)](https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:30 | 2024-05-24 |  |
 | [Folding My Patience](https://open.spotify.com/track/6PuZ4DVTekcM0wKILrWipL) | [Slaus Brown\-Paul](https://open.spotify.com/artist/1IUVqwmQS72YFtn2q93Nx5), [Shon Howard](https://open.spotify.com/artist/1JQK2oRQY4YYXM0qhz5ECD), [Tony Medina](https://open.spotify.com/artist/0VaH8VDmJlpa0XOHfiuiuB) | [The Burning Point Sessions](https://open.spotify.com/album/4YbQJFkGAeZpUsDW7dR4A3) | 5:17 | 2023-01-16 | 2023-12-14 |
@@ -185,6 +185,7 @@
 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2025-01-09 | 2025-04-28 |
 | [Good News](https://open.spotify.com/track/5VHRiH48pBB008CAkrIBwP) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:19 | 2025-05-03 |  |
 | [Good Time](https://open.spotify.com/track/7MOU3fdZOAeg4bB02Lhfhq) | [Abraam](https://open.spotify.com/artist/6m5iVp7RUW3xncdohzo6yA), [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Good Time](https://open.spotify.com/album/2Lzq6DyYozvhnjTPxyeyDX) | 3:04 | 2025-01-09 | 2025-04-12 |
+| [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 | 2026-03-19 |  |
 | [Happy Sad Song](https://open.spotify.com/track/45IE0eGMtljSg9ZmN61I5t) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song](https://open.spotify.com/album/7r7vD3A2yDWlFJ4NYk2tbk) | 3:06 | 2024-06-30 |  |
 | [Happy Sad Song \(feat\. Symon\)](https://open.spotify.com/track/1mOuCPWI181DXmEy50CKzf) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Happy Sad Song](https://open.spotify.com/album/7sX0J1Xxms0zq5fHANdGkl) | 3:06 | 2022-09-16 | 2024-07-01 |
 | [Happy Sad Song Feat\. Symon](https://open.spotify.com/track/1IiWTBrfSe9oDbZvnLEavH) | [ChampionsLeak](https://open.spotify.com/artist/5VMgZIvjxtR9SNvroVpEm4), [Symon](https://open.spotify.com/artist/0Yi8b2U9AemQbI0dj0jtRE) | [Championsleak \- Happy Sad Song](https://open.spotify.com/album/4n5vtJ81nC2br4fPmVRSwY) | 3:06 | 2021-12-27 | 2022-09-17 |
@@ -503,6 +504,7 @@
 | [The Story Never Ends](https://open.spotify.com/track/2hTcD5aTYlQoTT76KofQam) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:49 | 2022-11-02 | 2024-10-24 |
 | [The Story Never Ends](https://open.spotify.com/track/3u5bTqHMM1P34ZkbwzdckV) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:49 | 2021-12-27 | 2022-11-03 |
 | [The Story Never Ends](https://open.spotify.com/track/6I6lwAR8HMDQwltRcRJOtg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:49 | 2024-10-23 |  |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-19 |  |
 | [Things \(Things\)](https://open.spotify.com/track/75WmIlFJNQcdnbUBNiuemB) | [The Cheap Soap](https://open.spotify.com/artist/5kWpxzYuRo2QbrSkh1KwRx) | [I Was and I Did](https://open.spotify.com/album/7v1qW0bkIIbpOH9KZ135Wi) | 1:33 | 2022-12-15 | 2023-12-14 |
 | [Think of Me](https://open.spotify.com/track/2Wh9f0mW2IaJLgU4zj9bdM) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/6PG9WY2lqwsESkwuvxr4Qo) | 3:07 | 2021-12-27 | 2022-10-19 |
 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 | 2022-10-18 |  |

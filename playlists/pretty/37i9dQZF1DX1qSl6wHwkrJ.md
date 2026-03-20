@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,461 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,458 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1dTbaytzmCoyFrWMvyV1BR) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 3:29 |
-| 2 | [Good Morning Blues](https://open.spotify.com/track/0AqIhsraOrAQn2KhlRidrW) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:15 |
-| 3 | [Please Come Home For Christmas](https://open.spotify.com/track/0cwealcvftIKDBFJh1X014) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Charles Brown Sings Christmas Songs](https://open.spotify.com/album/7fyklcTMPrBRGkOivUwwCW) | 2:49 |
+| 2 | [Please Come Home For Christmas](https://open.spotify.com/track/0cwealcvftIKDBFJh1X014) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Charles Brown Sings Christmas Songs](https://open.spotify.com/album/7fyklcTMPrBRGkOivUwwCW) | 2:49 |
+| 3 | [Good Morning Blues](https://open.spotify.com/track/0AqIhsraOrAQn2KhlRidrW) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:15 |
 | 4 | [Please Come Home For Christmas](https://open.spotify.com/track/13syy8gRhefDlNIBfe0ZKh) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 4:51 |
 | 5 | [Please Come Home for Christmas](https://open.spotify.com/track/2PjMTWirUB90kmUHvN1gBH) | [Jamie O'Neal](https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe), [Rodney Good](https://open.spotify.com/artist/7cgtMzLMFaAQETR9PAL4ct) | [Please Come Home for Christmas \(feat\. Rodney Good\)](https://open.spotify.com/album/6q72QzOdroMd0CXaO7Bdl4) | 3:08 |
 | 6 | [Ghost From Christmas Past](https://open.spotify.com/track/5UUoJxGN7cnwOlsX3wH0gI) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Ghost From Christmas Past](https://open.spotify.com/album/5az7pvl1q5ms5eYuZLY82l) | 3:57 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 17 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
 | 18 | [Have You Heard The News?](https://open.spotify.com/track/6GB4li6peWpJgJafvFvQZH) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/5QeFkXK6oAt0KLARBJR44B) | 4:44 |
 | 19 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
-| 20 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
-| 21 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 20 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 21 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
 | 22 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:37 |
 | 23 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |
 | 24 | [The Day It Snows On Christmas](https://open.spotify.com/track/7dhgZvhWgeDhp1GpIfYcGq) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Christmas Gumbo](https://open.spotify.com/album/3v7yoCGisdwfvIBnU9RYmp) | 3:16 |

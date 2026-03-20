@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112525,
+  "num_followers": 112528,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 195546,
-      "name": "La Perla",
-      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 157272,
-      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "poci\u0105g bez ostatniej stacji",
         "url": "https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
         "name": "\u015awiat\u0142ocienie EP",
         "url": "https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 161656,
       "name": "A Nu\u017c",
       "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
-        "name": "jet lag",
-        "url": "https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p"
-      },
-      "artists": [
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
-        }
-      ],
-      "duration_ms": 201840,
-      "name": "jet lag",
-      "url": "https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -963,6 +947,22 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "jet lag",
+        "url": "https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "jet lag",
+      "url": "https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH"
     },
     {
       "added_at": "2026-02-23 16:52:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-23 16:52:31",
       "album": {
-        "name": "mario",
-        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
-      },
-      "artists": [
-        {
-          "name": "Lor",
-          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "mario",
-      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
-    },
-    {
-      "added_at": "2026-02-23 16:52:31",
-      "album": {
         "name": "TOKSYNA",
         "url": "https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 216398,
       "name": "TOKSYNA",
       "url": "https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ"
+    },
+    {
+      "added_at": "2026-02-23 16:52:31",
+      "album": {
+        "name": "mario",
+        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "mario",
+      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
     },
     {
       "added_at": "2026-02-23 16:52:31",

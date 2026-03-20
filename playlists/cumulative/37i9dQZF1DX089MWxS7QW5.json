@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: COII)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: siso)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 179454,
       "name": "17",
       "url": "https://open.spotify.com/track/14MlkpwxVaIgzezt6Yi7Q3"
+    },
+    {
+      "album": {
+        "name": "1972",
+        "url": "https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147873,
+      "name": "1972",
+      "url": "https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir"
     },
     {
       "album": {
@@ -827,6 +845,24 @@
     },
     {
       "album": {
+        "name": "arrrt.",
+        "url": "https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134399,
+      "name": "arrrt.",
+      "url": "https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC"
+    },
+    {
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
       },
@@ -930,6 +966,24 @@
       "duration_ms": 181395,
       "name": "Baby Step (feat. siso)",
       "url": "https://open.spotify.com/track/2s32yDDsDOnDAuIQ24h1QP"
+    },
+    {
+      "album": {
+        "name": "Baby, Honey",
+        "url": "https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM"
+      },
+      "artists": [
+        {
+          "name": "HOSHI",
+          "url": "https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Baby, Honey",
+      "url": "https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz"
     },
     {
       "album": {
@@ -1604,7 +1658,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 234703,
       "name": "Bye my night",
       "url": "https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1"
@@ -1902,7 +1956,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 198500,
       "name": "CATGIRL",
       "url": "https://open.spotify.com/track/2C1mEP1LRWbL3kPNdzzoyp"
@@ -2430,7 +2484,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 144461,
       "name": "Counter Punch",
       "url": "https://open.spotify.com/track/4DgOE5sQzN44rVwudUoMJk"
@@ -3257,6 +3311,28 @@
     },
     {
       "album": {
+        "name": "emoji",
+        "url": "https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "emoji",
+      "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
+    },
+    {
+      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/05oQFShTdNbreCMvRAbNQb"
       },
@@ -4044,7 +4120,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 153000,
       "name": "Giddy Up",
       "url": "https://open.spotify.com/track/7rAtB9982DtnSsw0225d3K"
@@ -6412,7 +6488,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 213000,
       "name": "Love Power Warrior (Prod. hyeminsong)",
       "url": "https://open.spotify.com/track/7wFLMYAba4y9quHtt1KRVR"
@@ -6652,6 +6728,24 @@
       "duration_ms": 158469,
       "name": "Man Like You",
       "url": "https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40"
+    },
+    {
+      "album": {
+        "name": "Marshmallow",
+        "url": "https://open.spotify.com/album/01YBiuiBRM0cA6qAfJn1tL"
+      },
+      "artists": [
+        {
+          "name": "drewboi",
+          "url": "https://open.spotify.com/artist/4v3atOCQjqdxU6VkWfOf0U"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/0CdKCMl8tnEFRnAKOwG2DL"
     },
     {
       "album": {
@@ -7024,7 +7118,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172000,
       "name": "MY BAD",
       "url": "https://open.spotify.com/track/1Fp1aWRIK78nrKN3femdpi"
@@ -8854,7 +8948,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 157209,
       "name": "Scared of Love",
       "url": "https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f"
@@ -9660,6 +9754,32 @@
       "duration_ms": 214146,
       "name": "Stuck in",
       "url": "https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/30ZqZCE8cENooyfKImZUCi"
+      },
+      "artists": [
+        {
+          "name": "HAAN",
+          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Stuck in My Head",
+      "url": "https://open.spotify.com/track/0oQWm8tjM9RT194in5CMe4"
     },
     {
       "album": {
@@ -11110,6 +11230,24 @@
       "duration_ms": 194000,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/47IzvV73meHMGPrEfwZUuT"
+    },
+    {
+      "album": {
+        "name": "When Spring Comes",
+        "url": "https://open.spotify.com/album/5qOhC1bkR3CdCFQytnGsOx"
+      },
+      "artists": [
+        {
+          "name": "E.ul",
+          "url": "https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187501,
+      "name": "When Spring Comes",
+      "url": "https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf"
     },
     {
       "album": {

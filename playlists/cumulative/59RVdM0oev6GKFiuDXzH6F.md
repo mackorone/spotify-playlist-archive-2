@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,102 songs - 2 day 8 hr 43 min
+1,103 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1044,6 +1044,7 @@
 | [Watch Me Do My Thing](https://open.spotify.com/track/1YLMVtxJFuTkObwzvioeJ6) | [Alannys Weber](https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu) | [Watch Me Do My Thing](https://open.spotify.com/album/2EsXsflgBTQrTloJbXyAc9) | 2:20 | 2023-09-01 | 2023-12-14 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2024-12-05 | 2025-03-14 |
 | [Way Too Good](https://open.spotify.com/track/0SXWJXZmF6mT6uOqQr8rPg) | [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Way Too Good](https://open.spotify.com/album/3q22v4Q0OmG0ukZVXqSuGZ) | 3:21 | 2023-07-20 | 2023-12-14 |
+| [We Don't Need](https://open.spotify.com/track/6Yowk2GeIUCOvxmLVIdAOg) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [Hot Bullet](https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5) | [We Don't Need](https://open.spotify.com/album/6QFn2S5NqgwmXkr4kTsmlm) | 2:27 | 2026-03-19 |  |
 | [We Don’t Need](https://open.spotify.com/track/7CMHF9xJYMXIHlOkD1NCGg) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:36 | 2024-08-29 |  |
 | [We Enter](https://open.spotify.com/track/7qIpx1KiZc6KBY6zeOJe3T) | [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [We Enter](https://open.spotify.com/album/43EyY47jMzKbeq1pHKaGx0) | 2:39 | 2024-01-26 | 2024-09-26 |
 | [We Got The Bass](https://open.spotify.com/track/7ABEZFYxZV6JuhVUXzReGJ) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI) | [We Got The Bass](https://open.spotify.com/album/6NbiC4cOm7ebiw6mRSjPAO) | 3:09 | 2024-12-09 | 2025-03-14 |

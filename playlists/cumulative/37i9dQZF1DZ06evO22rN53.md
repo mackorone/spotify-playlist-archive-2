@@ -4,7 +4,7 @@
 
 > This is Victor Ray\. The essential tracks, all in one playlist.
 
-20 songs - 1 hr 4 min
+21 songs - 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 | 2025-10-28 |  |
 | [Hollow](https://open.spotify.com/track/6d0nwrhZwPGRy9RptimFW6) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hollow](https://open.spotify.com/album/4dVnjYdYgCGrdKoRG7dWn3) | 3:23 | 2025-10-28 |  |
 | [It Only Cost Everything](https://open.spotify.com/track/1kT0mt9AstPDGUJCNiQI0T) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/0ciuSJpaytL7XoDSyt4jhl) | 2:28 | 2025-10-28 |  |
-| [Like The Moon](https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Like The Moon](https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk) | 2:57 | 2025-10-28 |  |
+| [Like The Moon](https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I AM\. MIXTAPE](https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6) | 2:57 | 2026-03-20 |  |
+| [Like The Moon](https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Like The Moon](https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk) | 2:57 | 2025-10-28 | 2026-03-20 |
 | [Lose Myself](https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [I TRIED.](https://open.spotify.com/album/3ZrMVmVgaAzizc3MzotdvN) | 3:05 | 2025-10-28 |  |
 | [Off Balance](https://open.spotify.com/track/2CDiN7sx4xHa8H7360GAcJ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Off Balance](https://open.spotify.com/album/7E8I4TyooemC9brsZzMP6w) | 3:10 | 2025-10-28 |  |
 | [Popcorn and a Smoothie](https://open.spotify.com/track/217lMAhuyxm8Smz7OeSiJ7) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Popcorn and a Smoothie](https://open.spotify.com/album/7FUQUeda9RYXI5invOQS5i) | 3:23 | 2025-10-28 |  |

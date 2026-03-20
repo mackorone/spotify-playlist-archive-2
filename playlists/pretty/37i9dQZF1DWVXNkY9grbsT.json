@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Curated by human Spotify editors. ",
-  "num_followers": 122326,
+  "num_followers": 122380,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKzkLztd+oy56RJov3mSZCrAmBtB",
+  "snapshot_id": "AAAAAK4l/UXeypNovk/SLq1x9bvNO19u",
   "tracks": [
     {
       "added_at": "2026-03-09 17:54:52",
@@ -138,6 +138,14 @@
         {
           "name": "Florian T M Zeisig",
           "url": "https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv"
+        },
+        {
+          "name": "R\u00f3is\u00edn Berkeley",
+          "url": "https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG"
+        },
+        {
+          "name": "Cathal Berkeley",
+          "url": "https://open.spotify.com/artist/4UsICmM9hJUe13eTyJ46qJ"
         }
       ],
       "duration_ms": 244000,
@@ -630,6 +638,14 @@
         {
           "name": "Florian T M Zeisig",
           "url": "https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv"
+        },
+        {
+          "name": "R\u00f3is\u00edn Berkeley",
+          "url": "https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG"
+        },
+        {
+          "name": "Cathal Berkeley",
+          "url": "https://open.spotify.com/artist/4UsICmM9hJUe13eTyJ46qJ"
         }
       ],
       "duration_ms": 324000,
@@ -1210,6 +1226,10 @@
         {
           "name": "Florian T M Zeisig",
           "url": "https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv"
+        },
+        {
+          "name": "Cathal Berkeley",
+          "url": "https://open.spotify.com/artist/4UsICmM9hJUe13eTyJ46qJ"
         }
       ],
       "duration_ms": 104000,

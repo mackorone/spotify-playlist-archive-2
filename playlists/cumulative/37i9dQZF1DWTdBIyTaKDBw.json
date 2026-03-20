@@ -3074,7 +3074,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 122745,
       "name": "Izumi",
       "url": "https://open.spotify.com/track/5PDGyZGX8hsA0if5F6G1VU"
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 167102,
       "name": "Miss Each Other Because of Love",
       "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
@@ -4465,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "Necessary Changes",
+        "url": "https://open.spotify.com/album/2zEF0X8nekddJLdChd8lkh"
+      },
+      "artists": [
+        {
+          "name": "eugenio izzi",
+          "url": "https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158630,
+      "name": "Never be prey to the winds",
+      "url": "https://open.spotify.com/track/4MAVbFiNnuVFlj1YNOL15k"
+    },
+    {
+      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
       },
@@ -4724,6 +4742,24 @@
       "duration_ms": 172564,
       "name": "one day in japan",
       "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
+    },
+    {
+      "album": {
+        "name": "One Summer's Day",
+        "url": "https://open.spotify.com/album/1k3JSH4AZU2F68cQsvkKZn"
+      },
+      "artists": [
+        {
+          "name": "Smyang Piano",
+          "url": "https://open.spotify.com/artist/1hatwkL9sjz45yLimEcQOS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168168,
+      "name": "One Summer's Day",
+      "url": "https://open.spotify.com/track/5gmwxFfSGC5s3xzGj8Om0k"
     },
     {
       "album": {
@@ -6215,6 +6251,28 @@
     },
     {
       "album": {
+        "name": "Sun Will Rise",
+        "url": "https://open.spotify.com/album/2HL9SfddGTaBRMxw0akpav"
+      },
+      "artists": [
+        {
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
+        },
+        {
+          "name": "Chinsaku",
+          "url": "https://open.spotify.com/artist/0Y4zXpYaV5L4zDiUhmlV0i"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129081,
+      "name": "Sun Will Rise",
+      "url": "https://open.spotify.com/track/7oFTdwHXmhYDwRW1QXqf8j"
+    },
+    {
+      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -7110,7 +7168,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 81710,
       "name": "Water Lily",
       "url": "https://open.spotify.com/track/3MUBdWLyWZhyyzK77ytTZy"

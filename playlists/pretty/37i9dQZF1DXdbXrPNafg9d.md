@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Ms Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,403 likes - 175 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,399 likes - 175 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

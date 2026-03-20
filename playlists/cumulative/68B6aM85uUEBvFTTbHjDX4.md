@@ -4,7 +4,7 @@
 
 > 
 
-165 songs - 13 hr 29 min
+166 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [The Blacker The Berry](https://open.spotify.com/track/5Mtt6tZSZA9cXTHGSGpyh0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:28 | 2019-03-22 |  |
 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 | 2025-04-07 |  |
 | [The Hills](https://open.spotify.com/track/25khomWgBVamSdKw7hzm3l) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/28ZKQMoNBB0etKXZ97G2SN) | 4:02 | 2019-06-03 |  |
+| [The Life](https://open.spotify.com/track/46KZYSiZk2XxtNkRDTdnHb) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:27 | 2026-03-19 |  |
 | [The Phoenix](https://open.spotify.com/track/1jO9T05pWsWLcCOfLHIc8R) | [Alex Stein](https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB) | [The Phoenix](https://open.spotify.com/album/1osrjRDfILTRwYVzwKrRfO) | 6:56 | 2021-07-01 |  |
 | [The Sound Of Space](https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Sound Of Space EP](https://open.spotify.com/album/0CW5qDbO13Ax7GxwWNaeUT) | 8:18 | 2023-02-21 |  |
 | [Thinking About You \(feat\. Ayah Marar\)](https://open.spotify.com/track/1KtD0xaLAikgIt5tPbteZQ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 4:07 | 2018-05-19 |  |

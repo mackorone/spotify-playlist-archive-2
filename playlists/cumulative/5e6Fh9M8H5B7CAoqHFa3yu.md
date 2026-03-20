@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,003 songs - 4 day 23 hr 12 min
+2,004 songs - 4 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Close](https://open.spotify.com/track/3VD3K1yTGF4bvqYddUhbS9) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Close](https://open.spotify.com/album/2zeQG69Omrxy1bSrsrB3m7) | 2:55 | 2026-02-05 |  |
 | [Closer to Jah](https://open.spotify.com/track/1TOABTELrbUcgF9VmW53ZQ) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:38 | 2024-03-23 |  |
 | [Coffee in Cortina](https://open.spotify.com/track/1TNIf3WyutMSNRWZGq8QLZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Cortina](https://open.spotify.com/album/3pr0rJE67WeyE80oCfheLH) | 3:28 | 2026-01-16 |  |
+| [Coffee in London](https://open.spotify.com/track/42HKbul3bRLL5O6SSGRS7f) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in London](https://open.spotify.com/album/2OaaFpOndRjfF4HELPL3OR) | 3:18 | 2026-03-20 |  |
 | [Coffee in Milano](https://open.spotify.com/track/4wsPvkuY4bHwXXYqExwgAh) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Milano](https://open.spotify.com/album/5CaZY1VbdJAJ7uIjMIwx2v) | 3:56 | 2025-10-17 |  |
 | [Coffee in New York](https://open.spotify.com/track/2kAgs1LUk4z7UCDFZ6GBrW) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in New York](https://open.spotify.com/album/5wolzIv4nc5hb4nMSK5HGR) | 3:46 | 2025-12-16 |  |
 | [Coffee in New York](https://open.spotify.com/track/7HL26Bgq1HHVNXbKYBb84m) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:46 | 2025-12-19 |  |

@@ -4,7 +4,7 @@
 
 > summer isn't over yet  ☀️🐬✨
 
-1,670 songs - 3 day 16 hr 1 min
+1,671 songs - 3 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [FΛSHION](https://open.spotify.com/track/70jiETKdlLEram2zJSHdHH) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/6cKTeK2UQ55jCrJcTsDm1h) | 2:26 | 2024-02-14 | 2024-04-19 |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2026-01-29 |  |
 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 | 2022-05-19 | 2025-01-08 |
+| [GAPA](https://open.spotify.com/track/54FkzkIVEo9ZtLp5HRV29Z) | [PERLA](https://open.spotify.com/artist/2i5X6gFEO8v2FGUF9xIJe7) | [GAPA](https://open.spotify.com/album/3gBK0BEo4UipJDcDvy0MaK) | 2:41 | 2026-03-19 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-17 | 2025-02-07 |
 | [Gegagedigedagedago \[Cotton Eye Joe Viral Version\] \- Gegagedigedagedago \(with Razi\) \[Cotton Eye Joe Viral Version\]](https://open.spotify.com/track/5PZEY7GQnozAM20AECyryR) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g), [Razi](https://open.spotify.com/artist/3BiOCDs5cPIRMyOX5f5nC3) | [Gegagedigedagedago \(Cotton Eye Joe Viral Version\)](https://open.spotify.com/album/7ppANxRYsiauednEVILNlz) | 2:35 | 2024-05-23 | 2025-01-24 |
 | [Gemstone](https://open.spotify.com/track/5ykAlgMXCygcUsfyBl5IZZ) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Gemstone](https://open.spotify.com/album/34CJZ8FiPTMS6ISQ1OYV1b) | 2:45 | 2022-07-28 | 2025-01-08 |

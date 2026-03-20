@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "c\u00f4te d\u2019azur",
+        "url": "https://open.spotify.com/album/2hTUA4B6JZ2wLr1ReJeyiP"
+      },
+      "artists": [
+        {
+          "name": "PAUL FALC",
+          "url": "https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128490,
+      "name": "c\u00f4te d\u2019azur",
+      "url": "https://open.spotify.com/track/0xquiEavk4Gj6wzJGmJSTe"
+    },
+    {
+      "album": {
         "name": "baby T EP",
         "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
       },
@@ -2876,7 +2894,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 146933,
       "name": "Jeanie",
       "url": "https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX"
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 218140,
       "name": "Losing Streak",
       "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
@@ -4179,6 +4197,28 @@
     },
     {
       "album": {
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/2BClfhnqKr6ukg1SgdzUch"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/6QIwDkInfXZpxdbPtHoZhi"
+    },
+    {
+      "album": {
         "name": "right person, wrong time",
         "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
@@ -4844,6 +4884,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Summer In The Woods",
+        "url": "https://open.spotify.com/album/4yQ3hrlA3RsYy4CXlXmDP6"
+      },
+      "artists": [
+        {
+          "name": "l\u00f9isa",
+          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184149,
+      "name": "Summer In The Woods",
+      "url": "https://open.spotify.com/track/2oMVZc7fzqNy6iq9ugUmrV"
     },
     {
       "album": {
@@ -5738,7 +5796,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

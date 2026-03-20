@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is ❤️‍🔥 with John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,877 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,343 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 93 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 |
 | 94 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
 | 95 | [Everlight](https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Everlight](https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6) | 2:47 |
-| 96 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 |
-| 97 | [Set Me Free](https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Set Me Free](https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF) | 3:09 |
+| 96 | [Set Me Free](https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Set Me Free](https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF) | 3:09 |
+| 97 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 |
 | 98 | [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 |
 | 99 | [Tokyo Drift](https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Tokyo Drift](https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix) | 2:26 |
 | 100 | [Can’t Get Enough](https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Can’t Get Enough](https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2) | 2:45 |

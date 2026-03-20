@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > CADÊ O BONDE DO ESCULACHO?? // Ciça
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,162 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,185 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 41 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
 | 42 | [Bandida chata](https://open.spotify.com/track/5JcEzg4pdWcr76G0MXTqeY) | [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk), [VITOR VRIL](https://open.spotify.com/artist/1r4Ur6C9ZTPQQQXrgY1BM8) | [bandida chata \(original\)](https://open.spotify.com/album/1WiJNCtZ8MVQ2Bh7gZztEq) | 3:20 |
 | 43 | [Man Down](https://open.spotify.com/track/1fXsBep9ifLIHlzKWuF7bA) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw) | [Man Down](https://open.spotify.com/album/4PDBM8CE55AbLWoISVuU5m) | 2:33 |
-| 44 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
+| 44 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
 | 45 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
-| 46 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
+| 46 | [Kylie Kenner](https://open.spotify.com/track/7jfzviafhHFK7a3rKRhT22) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Kylie Kenner](https://open.spotify.com/album/000FnEhyZ7C6noRngF6r1W) | 2:19 |
 | 47 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
 | 48 | [CHAPA QUENTE](https://open.spotify.com/track/7q04im6F1NSXFcUlecUMFP) | [ABRONCA](https://open.spotify.com/artist/03Bdw7o4orNeiIa0WHp4Fd) | [CHAPA QUENTE](https://open.spotify.com/album/0xVrqL7jieiZKlLATiEobk) | 2:08 |
 | 49 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 |

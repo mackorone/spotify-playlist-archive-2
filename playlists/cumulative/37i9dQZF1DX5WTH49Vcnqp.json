@@ -3667,6 +3667,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248100,
+      "name": "Bodyfeeling",
+      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
+    },
+    {
+      "album": {
         "name": "bootleg jordans",
         "url": "https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS"
       },
@@ -15629,6 +15647,24 @@
     },
     {
       "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
+    },
+    {
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -16868,6 +16904,24 @@
       "duration_ms": 191077,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1qrbX0qEOuuXgewDMtElfa"
+    },
+    {
+      "album": {
+        "name": "Lately, Love Is Dead",
+        "url": "https://open.spotify.com/album/2uQkM9irfWIhfJKRhFMcxr"
+      },
+      "artists": [
+        {
+          "name": "Baby Smith",
+          "url": "https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245484,
+      "name": "Lately, Love Is Dead",
+      "url": "https://open.spotify.com/track/49b2ZZj6rxIwQCuMgrj8zI"
     },
     {
       "album": {

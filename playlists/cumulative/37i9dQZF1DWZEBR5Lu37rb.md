@@ -2,7 +2,7 @@
 
 ### [Your Valentine's Mood](https://open.spotify.com/playlist/37i9dQZF1DWZEBR5Lu37rb)
 
-> You have loved, you have lost, and you survived with your headphones on.
+> If love is in the air then you've got your own gas tank\. No roses\. Just vibes.
 
 323 songs - 21 hr 24 min
 

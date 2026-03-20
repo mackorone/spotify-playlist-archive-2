@@ -2,14 +2,14 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Comme Caroline" de Zaho et MC Solaar est le Grand Hit de la semaine.
+> "La recette" de Jeck et Carla est le Grand Hit de la semaine.
 
-319 songs - 16 hr 22 min
+320 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Février](https://open.spotify.com/track/4b79znaQ7DUDGhFrQvJiPo) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [24 Février](https://open.spotify.com/album/4mwa0FodjMlZ50O1ez8vSZ) | 2:19 | 2024-05-10 | 2024-07-05 |
-| [Abysses](https://open.spotify.com/track/3Lgri1rcCPb99ezlE0SWTB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [MAGNIFICAT](https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1) | 2:25 | 2026-01-15 |  |
+| [Abysses](https://open.spotify.com/track/3Lgri1rcCPb99ezlE0SWTB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [MAGNIFICAT](https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1) | 2:25 | 2026-01-15 | 2026-03-20 |
 | [Adieu](https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Adieu](https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl) | 3:04 | 2024-05-02 | 2024-10-11 |
 | [Adieu, nous deux](https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde \(Edition deluxe\)](https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly) | 3:08 | 2024-11-28 | 2025-06-27 |
 | [Ailleurs](https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:12 | 2025-11-20 |  |
@@ -325,6 +325,7 @@
 | [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 | 2025-08-07 | 2026-02-06 |
 | [À tes côtés](https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [À tes côtés](https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1) | 2:37 | 2025-05-01 | 2025-12-05 |
 | [Ça fait mal](https://open.spotify.com/track/20TU073PqgJ2IcL9rYvhoS) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9) | 3:09 | 2026-03-05 |  |
+| [ça pik un peu quand même](https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i) | 2:17 | 2026-03-19 |  |
 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 | 2024-08-01 | 2024-09-13 |
 | [Ô travers](https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Ô travers](https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9) | 2:41 | 2024-10-24 | 2025-03-07 |
 

@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Wild River Rhythm",
+        "url": "https://open.spotify.com/album/0alwaN1cGehi3umFgcfMyX"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Butterfingers",
+      "url": "https://open.spotify.com/track/3B04FA9mnW2noL74w2QouV"
+    },
+    {
+      "album": {
         "name": "Loving You So Bad",
         "url": "https://open.spotify.com/album/70FS5UEzQpaDOiFjheNEn0"
       },
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 134533,
       "name": "Butterfingers",
       "url": "https://open.spotify.com/track/704TWO9eqZfwEqp9hna3rS"
@@ -1580,7 +1598,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152893,
       "name": "Do Your Duty, Doctor",
       "url": "https://open.spotify.com/track/2XQ8xs85nQWb5Hb3P6Ft4A"
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"

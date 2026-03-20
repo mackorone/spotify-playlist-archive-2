@@ -1,13 +1,45 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2703,
+  "num_followers": 2705,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARjSDaof2AE4DZXnFsl7bp7QFZiTpE",
+  "snapshot_id": "AAARj+l9uwjtoGJ7RAkK06I+OGbnoJ9G",
   "tracks": [
+    {
+      "added_at": "2026-03-19 19:15:33",
+      "album": {
+        "name": "No Means No",
+        "url": "https://open.spotify.com/album/4vSLnL9L4YK3KT3gWOl2GO"
+      },
+      "artists": [
+        {
+          "name": "DMAO",
+          "url": "https://open.spotify.com/artist/7I1N6VLZiAXwulLEnuIkUg"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "No Means No",
+      "url": "https://open.spotify.com/track/5zgFNWFAzeGqU4QxsdmyG5"
+    },
+    {
+      "added_at": "2026-03-19 16:56:34",
+      "album": {
+        "name": "Flat Mr. Bass",
+        "url": "https://open.spotify.com/album/59OoYdbuAOnwIQmc57QkTd"
+      },
+      "artists": [
+        {
+          "name": "THE KING YOUTHFULNESS",
+          "url": "https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py"
+        }
+      ],
+      "duration_ms": 269807,
+      "name": "Flat Mr. Bass",
+      "url": "https://open.spotify.com/track/5g8LDjXyDWF0Qv3upgaLXB"
+    },
     {
       "added_at": "2026-03-17 20:48:39",
       "album": {

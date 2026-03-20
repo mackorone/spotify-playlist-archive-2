@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-364 songs - 21 hr 48 min
+365 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Buss The Red](https://open.spotify.com/track/4McMGDTcUNYhhYI9tjhUJT) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Buss The Red](https://open.spotify.com/album/6MLVfZkN8w9DGvniaSmhVE) | 3:25 | 2023-09-20 | 2023-10-09 |
 | [Buss The Red](https://open.spotify.com/track/67X5z4XFBbRxjbfbIGP3Ii) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Buss The Red](https://open.spotify.com/album/4CExA6NO7uMMvxX5H7eI2N) | 3:25 | 2021-12-21 | 2023-09-09 |
 | [By Your Side](https://open.spotify.com/track/5wp6dhW0dCOO0TG4MGCIPT) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [By Your Side](https://open.spotify.com/album/69Ihx4MCBC9ACFRSH7EO4V) | 3:26 | 2021-12-21 | 2024-02-23 |
+| [California Dreamin'](https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [California Dreamin'](https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C) | 2:50 | 2026-03-12 |  |
 | [Call Your Name](https://open.spotify.com/track/2Alg4O53mZzfWwUanYCsIO) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Hedara](https://open.spotify.com/artist/6lUauNyvHBjAp0tBFDiBNm) | [Call Your Name](https://open.spotify.com/album/0rnxXg9A1mF3B4wlIkWlNZ) | 3:46 | 2024-05-17 | 2024-05-25 |
 | [Can't Decide](https://open.spotify.com/track/12EIsy8ta9mGwPxcY5zpv8) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [MHITR: The Album](https://open.spotify.com/album/4vjx5GK9ZRTU1sJTvqIJuO) | 3:53 | 2026-03-12 |  |
 | [Can't Love Me](https://open.spotify.com/track/1tALflD6FaMu5fHeIIUHPy) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Can't Love Me](https://open.spotify.com/album/6Zk5PXlpX7Eu6NKLvgHjFp) | 3:07 | 2026-03-12 |  |
@@ -96,7 +97,7 @@
 | [Double Rum](https://open.spotify.com/track/6LaMXYSAxWYKMFIELplsph) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [Double Rum](https://open.spotify.com/album/3Yj8cWXW4Bxu2AoAPJqrtu) | 3:40 | 2024-04-04 | 2024-08-10 |
 | [Double Vision](https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Double Vision](https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk) | 2:11 | 2025-02-20 | 2026-03-13 |
 | [Down Low](https://open.spotify.com/track/43Ylq76hnqwdNvbOEbdNBO) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Down Low](https://open.spotify.com/album/03TI13zwgG29Hies8HBbdm) | 2:52 | 2024-09-20 | 2024-10-25 |
-| [Drift Away](https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Don't Slow Down](https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1) | 3:46 | 2026-03-12 |  |
+| [Drift Away](https://open.spotify.com/track/081pMCvmyYlZ6G4cHoM8Ro) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Don't Slow Down](https://open.spotify.com/album/05iSvXggDKaW49P1N4Tsi1) | 3:46 | 2026-03-12 | 2026-03-20 |
 | [Drowning Mind](https://open.spotify.com/track/2FD8e8lJgul2phNSMlOHDM) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Drowning Mind](https://open.spotify.com/album/6VOQfMjCoccGRvn5eP0gSw) | 2:50 | 2024-10-24 | 2026-03-13 |
 | [Dying Light](https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Ex Machina](https://open.spotify.com/album/7ojYx4vW64prZ1bZy4r0cB) | 4:41 | 2021-12-21 | 2023-09-08 |
 | [Ecstasy](https://open.spotify.com/track/7cSIPXSNgMTZ8XKD1YHd7c) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Ecstasy](https://open.spotify.com/album/1s18YEqZLke7AR9pZRjL6p) | 3:24 | 2024-05-17 | 2024-10-14 |

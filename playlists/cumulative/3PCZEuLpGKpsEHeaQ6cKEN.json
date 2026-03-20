@@ -8761,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC"
+      },
+      "artists": [
+        {
+          "name": "Lucca Saettone",
+          "url": "https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/6bxuqw8DzRPEqCv0ZYjwUe"
       },
@@ -19981,6 +19999,32 @@
     },
     {
       "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "ROSY",
+          "url": "https://open.spotify.com/artist/4GqbQv1ULHsdxxq6yZJC6P"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147777,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
+    },
+    {
+      "album": {
         "name": "Lost in You",
         "url": "https://open.spotify.com/album/1NN9Ij1QN5xDlnaayD8mj3"
       },
@@ -24203,6 +24247,24 @@
     },
     {
       "album": {
+        "name": "Open Up",
+        "url": "https://open.spotify.com/album/4emvnbE9E7wEfypWgO9lhy"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203358,
+      "name": "Open Up",
+      "url": "https://open.spotify.com/track/1ppwrJSjflOuHOnEb3LOT3"
+    },
+    {
+      "album": {
         "name": "Open Up The Night",
         "url": "https://open.spotify.com/album/1f4bWNv7x3umNB4vqvhtr5"
       },
@@ -26364,7 +26426,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 137454,
       "name": "Rave Forever",
       "url": "https://open.spotify.com/track/0NeUSyxAwPPuW6MOrXPcef"
@@ -29340,6 +29402,32 @@
       "duration_ms": 198882,
       "name": "Shine Like You",
       "url": "https://open.spotify.com/track/4CY0DfaWQjuiCqHxkRzXm2"
+    },
+    {
+      "album": {
+        "name": "Shine On Me",
+        "url": "https://open.spotify.com/album/4JbVuySZzCRYCHMOAwzM7s"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        },
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/6uKqTRwxjlgmkNfPEUf2jC"
     },
     {
       "album": {

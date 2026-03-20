@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 ### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: D\-Charged
+> Weekly new Hardstyle releases! Cover: Outsiders & Paul Elstak
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,357 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,398 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Somebody Like You](https://open.spotify.com/track/6a9qTBBUdzmMbL89QX0Zix) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Somebody Like You](https://open.spotify.com/album/7GfxFIyNMB02ki8AUwQjF9) | 3:18 |
-| 2 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 |
-| 3 | [LIKE THIZ](https://open.spotify.com/track/4AqwkXbGNV7PUAHwyWepdQ) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [LIKE THIZ](https://open.spotify.com/album/7rvyVTb7xGubWwU16rIlVa) | 2:15 |
-| 4 | [When Sound Meets Sound \- Official REBiRTH Festival 2026 Anthem](https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [When Sound Meets Sound \(Official REBiRTH Festival 2026 Anthem\)](https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU) | 4:33 |
-| 5 | [Above It All](https://open.spotify.com/track/0Rc76jWVVhd7P444rjIngT) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Above It All](https://open.spotify.com/album/2Az7K5WL8kd8aeXjbkXDUH) | 3:06 |
-| 6 | [The Devil](https://open.spotify.com/track/4Ls9YfqNATdkxOuOTkpKR1) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [The Devil](https://open.spotify.com/album/58Lxbb3XsnXToECXjvj9Vj) | 2:52 |
-| 7 | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9) | 3:25 |
+| 1 | [Right Now](https://open.spotify.com/track/0sIhLsGX8xLNmegXBmkzEP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Right Now](https://open.spotify.com/album/4bGCG6X43KPhbtjNrrSHOL) | 2:57 |
+| 2 | [LIKE THIZ](https://open.spotify.com/track/4AqwkXbGNV7PUAHwyWepdQ) | [D\-Charged](https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy) | [LIKE THIZ](https://open.spotify.com/album/7rvyVTb7xGubWwU16rIlVa) | 2:15 |
+| 3 | [Somebody Like You](https://open.spotify.com/track/6a9qTBBUdzmMbL89QX0Zix) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Somebody Like You](https://open.spotify.com/album/7GfxFIyNMB02ki8AUwQjF9) | 3:18 |
+| 4 | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/track/6i2cqA5mFGSyWVtja0nwcu) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Stephen Oaks](https://open.spotify.com/artist/3VXwGdv0OXpHOg5rXtgso1), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Mona Lisa \(All That She Wants\)](https://open.spotify.com/album/0xx7kBAvYk2YVwPrkLE7t9) | 3:25 |
+| 5 | [When Sound Meets Sound \- Official REBiRTH Festival 2026 Anthem](https://open.spotify.com/track/0zJvrXLNMYyYFIQYoN21ae) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX), [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [When Sound Meets Sound \(Official REBiRTH Festival 2026 Anthem\)](https://open.spotify.com/album/4Lafh3a57QFsp2aTUYIkbU) | 4:33 |
+| 6 | [Above It All](https://open.spotify.com/track/0Rc76jWVVhd7P444rjIngT) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Above It All](https://open.spotify.com/album/2Az7K5WL8kd8aeXjbkXDUH) | 3:06 |
+| 7 | [The Devil](https://open.spotify.com/track/4Ls9YfqNATdkxOuOTkpKR1) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [The Devil](https://open.spotify.com/album/58Lxbb3XsnXToECXjvj9Vj) | 2:52 |
 | 8 | [YEAH](https://open.spotify.com/track/03QzNTMRkmuVifyapS8eKX) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [YEAH](https://open.spotify.com/album/1QEbCQjE1boSO1yqw0rX4J) | 2:26 |
 | 9 | [MUSICAL BOX](https://open.spotify.com/track/3ZLVGZ8I8JGrZyOt7zfUyJ) | [KATALYZE](https://open.spotify.com/artist/0tqm177gEuN2Sc19zSEBL7) | [MUSICAL BOX](https://open.spotify.com/album/3lLyWyTycOY7oMnaROETW5) | 2:04 |
 | 10 | [Maniac](https://open.spotify.com/track/3H2vFTg5ncJrgucRYTGwim) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Maniac](https://open.spotify.com/album/6KSptG1KXOVCSlarzAgGeE) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Life's A Bitch](https://open.spotify.com/track/3ikFZxHC5BjyHp1BbpkIN0) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Life's A Bitch](https://open.spotify.com/album/3hFSshfBGxzzjwgHchYzYH) | 2:06 |
 | 100 | [Running Around \- Outlined Remix](https://open.spotify.com/track/27zoGOyQJJrIQ8aBUITDuZ) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j), [Outlined](https://open.spotify.com/artist/2daKoGBVeeNvR59lsF9XJ6) | [Running Around \(Outlined Remix\)](https://open.spotify.com/album/2nteIfro9LwKUR5xg4toIu) | 2:10 |
 
-Snapshot ID: `AAAAAJiKtJ/+NkF73epl6afjiTEBiEmv`
+Snapshot ID: `AAAAADU1EtdGnYdhglWnXGcxdH4p9yQf`

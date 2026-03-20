@@ -495,6 +495,44 @@
     },
     {
       "album": {
+        "name": "Hum Pyaar Karne Wale (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/2ziGVcYrz7QyAaGSbFJM8l"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208169,
+      "name": "Hum Pyaar Karne Wale (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/6NPUftix9Z6nbo8Seg3yle"
+    },
+    {
+      "album": {
         "name": "Zindagi Na Milegi Dobara",
         "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
       },
@@ -690,7 +728,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187500,
       "name": "Jee Liya - From \"Tu Yaa Main\"",
       "url": "https://open.spotify.com/track/0H545XfNvoSu9THGf8mBnd"

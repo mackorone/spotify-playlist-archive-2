@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Silva Bumpa, Riordan",
+  "description": "The UK's biggest dance playlist! Cover: ANOTR",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
@@ -4154,6 +4154,24 @@
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Go (Don\u2019t Leave)",
+        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Don\u2019t Go (Don\u2019t Leave)",
+      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
     },
     {
       "album": {
@@ -10356,10 +10374,32 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
+    },
+    {
+      "album": {
+        "name": "On A Wave",
+        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "On A Wave",
+      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
     },
     {
       "album": {

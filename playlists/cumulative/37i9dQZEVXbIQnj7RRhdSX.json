@@ -28905,6 +28905,32 @@
     },
     {
       "album": {
+        "name": "Maledetti innamorati",
+        "url": "https://open.spotify.com/album/3MTpb0TKibwVHunlztnLhn"
+      },
+      "artists": [
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        },
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198033,
+      "name": "L'amore \u00e8 / L'amore va",
+      "url": "https://open.spotify.com/track/34SFDPte4y11mPVZ9HPcG5"
+    },
+    {
+      "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
@@ -39086,7 +39112,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 223834,
       "name": "Nessuna",
       "url": "https://open.spotify.com/track/1ZOC7H5JfPtj8OW9lRz6pm"
@@ -42674,7 +42700,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/25idOmfSOCGGdgPhw9iCRm"
@@ -57452,7 +57478,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 217593,
       "name": "Tristano e Isotta",
       "url": "https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt"

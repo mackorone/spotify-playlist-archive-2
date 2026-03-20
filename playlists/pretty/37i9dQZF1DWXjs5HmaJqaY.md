@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,666 likes - 65 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,707 likes - 65 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 6 | [The Road To Myself \- Prevision Remix](https://open.spotify.com/track/0QyAKZ7pcIHmDFlC386NDX) | [Fifty Five](https://open.spotify.com/artist/2sWTgm6qQXV3Ebyg3T9FD2), [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [The Road To Myself \(Prevision Remix\)](https://open.spotify.com/album/4CaE1vYJLD0Nrs53vM933y) | 6:51 |
 | 7 | [Wait A Minute](https://open.spotify.com/track/2y1G8H9dm0vrsEExAFVklj) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Wait A Minute](https://open.spotify.com/album/6TFEuSiVIP6kVbUtPKmkNI) | 4:23 |
 | 8 | [Hmuah\-A\-Hey\-Tahb\-Yu\-DahAh](https://open.spotify.com/track/6l1zHCbBcV4iEmDgL4bfEW) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [Neurocharger](https://open.spotify.com/album/5XQL4QLpiGuNn3PIrIq28z) | 7:34 |
-| 9 | [FUTURO](https://open.spotify.com/track/7cO2ZPy5gOOa15PE1j6EFW) | [Adrian Mills](https://open.spotify.com/artist/6H9sRmDCsXzsWK7jEg1thF), [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [FUTURO](https://open.spotify.com/album/2jSxiD4sLfBkhcds1Xd53N) | 5:06 |
+| 9 | [FUTURO \(INTRO\)](https://open.spotify.com/track/7cO2ZPy5gOOa15PE1j6EFW) | [Adrian Mills](https://open.spotify.com/artist/6H9sRmDCsXzsWK7jEg1thF), [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [FUTURO \(INTRO\)](https://open.spotify.com/album/2jSxiD4sLfBkhcds1Xd53N) | 5:06 |
 | 10 | [Algorithm](https://open.spotify.com/track/3Na1OqTOAg8rlxzhDx3x3q) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Algorithm](https://open.spotify.com/album/365zphzquUancMmfLCH0ud) | 2:58 |
 | 11 | [Loud Music \- Club Mix](https://open.spotify.com/track/1JwHKVqIjTUF3uERfVCNIq) | [Eric Wishes](https://open.spotify.com/artist/5dGWriwUqrYL96UnZ2FPHp), [Stefan Hollaender](https://open.spotify.com/artist/7nWt0T6CwrGLek3B4686vI) | [Loud Music](https://open.spotify.com/album/5rircDPYgvidUixZCjK0KT) | 3:38 |
 | 12 | [Dancing Penguins](https://open.spotify.com/track/1JWxMJR4RF00BQIXvag03G) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dancing Penguins](https://open.spotify.com/album/6xo8gu7kxXiT6SG5bmzHIT) | 7:58 |

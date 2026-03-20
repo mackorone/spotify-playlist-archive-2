@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-264 songs - 15 hr 29 min
+265 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Dancing People Are Never Wrong](https://open.spotify.com/track/4admt90cSChznePxyzUVCP) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [The Bianca Story](https://open.spotify.com/artist/1p6obHqCF3E42HYbyQrHhE) | [Dancing People Are Never Wrong](https://open.spotify.com/album/3pISRwuc4xXShYnEp1L49R) | 3:19 | 2025-07-18 |  |
 | [Dark Belts](https://open.spotify.com/track/0tCD5iDugyIqGJALEG7jHB) | [Duncan La Barre](https://open.spotify.com/artist/7wAx0flUZw6uzEe5Objdee) | [Cassini](https://open.spotify.com/album/6FE8QceGF0DzQyMIpWkvZq) | 3:55 | 2025-06-19 |  |
 | [Daydreams](https://open.spotify.com/track/2VVx8kelRCfVWeCCRqTqHs) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Daydreams](https://open.spotify.com/album/0oASdkx9nrneQtqihIKvme) | 3:13 | 2025-08-29 |  |
+| [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 | 2026-03-20 |  |
 | [Deep Inside](https://open.spotify.com/track/2W7oS0eMpYU2lAAprAT6hL) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Summer Is Calling, Vol\. 1](https://open.spotify.com/album/2zaKbh9KmiTtkpSAHaeikd) | 2:43 | 2025-08-22 |  |
 | [Defiance](https://open.spotify.com/track/2hIqWlIinmg23A9uYQbi77) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R) | [Chill Executive Officer \(CEO\), Vol\. 37 \[Selected by Maykel Piron\]](https://open.spotify.com/album/0lA3lSQ5oQeOtQ8CV1QeG7) | 3:41 | 2025-07-04 |  |
 | [Disconnected](https://open.spotify.com/track/4LYaFcMoIwqRtaDCED5DJM) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Disconnected](https://open.spotify.com/album/52o5ZbStGF7H2ikwU447l8) | 4:36 | 2025-07-18 |  |

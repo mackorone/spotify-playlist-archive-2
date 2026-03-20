@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "idols",
+        "url": "https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168008,
+      "name": "idols",
+      "url": "https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h"
+    },
+    {
+      "album": {
         "name": "If it wasn't for Jesus",
         "url": "https://open.spotify.com/album/1ZL9ejiRgiehK2F65ywwQ4"
       },

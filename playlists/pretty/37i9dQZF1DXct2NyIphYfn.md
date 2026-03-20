@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 
 > Some of the most beautiful love songs en français <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,451 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,477 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXct2NyIphYfn.md) - [plain]
 | 6 | [Facile](https://open.spotify.com/track/6r9bGYQzXAY29e6JzadyrY) | [MARISOL](https://open.spotify.com/artist/3nDAA2eQulfDw50we3zdhW) | [Facile](https://open.spotify.com/album/1F1T4PKb3jQisCWIh394zG) | 3:57 |
 | 7 | [Cimetière](https://open.spotify.com/track/5GI7dE5w4CfxctSk3ZzA67) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Cimetière](https://open.spotify.com/album/0Rdbgv3BNJjNV4iE101yhc) | 3:33 |
 | 8 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
-| 9 | [La nuit est longue \- from "Heated Rivalry"](https://open.spotify.com/track/126GwiEMMNqjxf8Dzfbdvg) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 3:11 |
+| 9 | [La nuit est longue \- from "Heated Rivalry"](https://open.spotify.com/track/126GwiEMMNqjxf8Dzfbdvg) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 3:11 |
 | 10 | [Faufile](https://open.spotify.com/track/3pgnyg25pkcNlcKuaKnh6b) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Big Boy](https://open.spotify.com/album/3VEHArYf1TweZAxKlX0P8R) | 2:32 |
 | 11 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 |
 | 12 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |

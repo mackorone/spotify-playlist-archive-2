@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1972",
+        "url": "https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147873,
+      "name": "1972",
+      "url": "https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir"
+    },
+    {
+      "album": {
         "name": "5 Dollar Pony Rides",
         "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
       },
@@ -621,6 +639,28 @@
     },
     {
       "album": {
+        "name": "emoji",
+        "url": "https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "emoji",
+      "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
+    },
+    {
+      "album": {
         "name": "null",
         "url": "https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr"
       },
@@ -758,7 +798,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 167195,
       "name": "garbage_dump_record (3am)",
       "url": "https://open.spotify.com/track/3428JuI2LoccafM2sK1S0M"
@@ -1113,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "I\u2019m not cold",
+        "url": "https://open.spotify.com/album/1DHFc8g4wvOzZInKQlKMzx"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163741,
+      "name": "I\u2019m not cold",
+      "url": "https://open.spotify.com/track/3tyLbICxG083OdVooXmW2g"
+    },
+    {
+      "album": {
         "name": "I\u2019m not good at",
         "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
       },
@@ -1160,7 +1218,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 185681,
       "name": "just a boy",
       "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
@@ -2114,7 +2172,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 203256,
       "name": "Separated",
       "url": "https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4"

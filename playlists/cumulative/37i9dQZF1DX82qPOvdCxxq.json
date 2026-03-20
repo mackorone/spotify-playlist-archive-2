@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Justin Radford",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Jonny Henninger",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 164000,
       "name": "BEFORE I EVER LOVED YOU",
       "url": "https://open.spotify.com/track/1tydPVe7fl2IqaAQVIO0fk"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 237000,
       "name": "Belong In Heaven",
       "url": "https://open.spotify.com/track/1wAMwyjAqZxWfKTL0Gi9bu"
@@ -1770,6 +1770,24 @@
       "duration_ms": 165529,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5sCAYbVqMzoo92kln5zfdq"
+    },
+    {
+      "album": {
+        "name": "best thing",
+        "url": "https://open.spotify.com/album/3cReeK55hE5LnvhpLA8kh9"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233583,
+      "name": "best thing",
+      "url": "https://open.spotify.com/track/5GFxzXTom2S4ZhC7JSOBEh"
     },
     {
       "album": {
@@ -1948,6 +1966,28 @@
       "duration_ms": 249312,
       "name": "Birdie",
       "url": "https://open.spotify.com/track/2Cch3RgdPteC8vNv0daDu3"
+    },
+    {
+      "album": {
+        "name": "Bitter Cup",
+        "url": "https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        },
+        {
+          "name": "Rachel Morley",
+          "url": "https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156612,
+      "name": "Bitter Cup",
+      "url": "https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C"
     },
     {
       "album": {
@@ -2146,7 +2186,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 138795,
       "name": "BOOM!",
       "url": "https://open.spotify.com/track/7aip3a5tzvuRuS0MhdCOoF"
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 199719,
       "name": "BROKEN BUT I RISE",
       "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
@@ -4106,7 +4146,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 123157,
       "name": "DESPITE",
       "url": "https://open.spotify.com/track/3QlNIyzlzkUIaxyERqhu3l"
@@ -4496,7 +4536,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 183529,
       "name": "Doubts",
       "url": "https://open.spotify.com/track/2znZja1nW51hBr0twmio97"
@@ -4658,7 +4698,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 208961,
       "name": "Easel",
       "url": "https://open.spotify.com/track/2teuBu0Dl8jHlMIqNVyvrI"
@@ -4676,7 +4716,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 270535,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5dngRLb9IzRjl3b3sl4ZRi"
@@ -5355,6 +5395,24 @@
     },
     {
       "album": {
+        "name": "Far Be It From Me",
+        "url": "https://open.spotify.com/album/218mUDi1Kv8R8thsp9WUrb"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194328,
+      "name": "Far Be It From Me",
+      "url": "https://open.spotify.com/track/5ZjprV2bUZKA4WW5HKa2jq"
+    },
+    {
+      "album": {
         "name": "Far Far",
         "url": "https://open.spotify.com/album/334ovjV48rjW7uZAv395fV"
       },
@@ -5670,7 +5728,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 162020,
       "name": "Flame",
       "url": "https://open.spotify.com/track/0g1SsfhWdHa2FfNwN2iSJe"
@@ -6204,7 +6262,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 91600,
       "name": "Get Your Hopes Up",
       "url": "https://open.spotify.com/track/2pGhdjiwzN93tMYLgbk1eo"
@@ -6505,6 +6563,24 @@
     },
     {
       "album": {
+        "name": "God of My Seasons",
+        "url": "https://open.spotify.com/album/3eFnsqYlwxYIyOjGZiEOFY"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235608,
+      "name": "God of My Seasons",
+      "url": "https://open.spotify.com/track/7fEF9XFVbNsmLJhg100rSq"
+    },
+    {
+      "album": {
         "name": "God Of My Seasons (Acoustic)",
         "url": "https://open.spotify.com/album/4vEYmY4NIsLd0EeY5RW81H"
       },
@@ -6614,7 +6690,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 192309,
       "name": "God So Loved",
       "url": "https://open.spotify.com/track/3Z0cNI4AFI05Eyuw1uOuZY"
@@ -6958,7 +7034,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 205920,
       "name": "Grace in The Shadows",
       "url": "https://open.spotify.com/track/0FmNjC2KLEAOO72Fo0uCMq"
@@ -7504,7 +7580,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 243205,
       "name": "heart of heaven",
       "url": "https://open.spotify.com/track/5oYViuxzQmU2MSQxAXp36r"
@@ -7630,7 +7706,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 315711,
       "name": "Heavenward",
       "url": "https://open.spotify.com/track/7D29Ly7vaEqLNT3IufhgpT"
@@ -7862,6 +7938,24 @@
       "duration_ms": 202226,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1LvPXi9WbYBub6v0Q94ItD"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4KY5t6jZ9BRCxL1ZHGW6rO"
+      },
+      "artists": [
+        {
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/57D4aDWr9L8QnLkH1NIyIS"
     },
     {
       "album": {
@@ -8286,7 +8380,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 284400,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3s3z9k5thcjKZtyXoTrzgg"
@@ -8322,7 +8416,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 181975,
       "name": "Holy, Holy, Holy (Praise Panda Remix)",
       "url": "https://open.spotify.com/track/21ZzfvwkHM3HONKek5UURR"
@@ -9082,7 +9176,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 198613,
       "name": "I'm Alive",
       "url": "https://open.spotify.com/track/10dpitqzg3AOfQO8gK8NpI"
@@ -9712,7 +9806,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148806,
       "name": "Jericho (Sempe)",
       "url": "https://open.spotify.com/track/5BC3vCM7hkbTY7lfpsmOUv"
@@ -9822,7 +9916,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 194437,
       "name": "JESUS LOVES ME",
       "url": "https://open.spotify.com/track/6uIarf6X3laYslxgXiii8m"
@@ -10064,7 +10158,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 159138,
       "name": "Just Like God",
       "url": "https://open.spotify.com/track/76CzRzX0asOraEpcIOirT8"
@@ -10296,7 +10390,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 201923,
       "name": "Kingdom Walls",
       "url": "https://open.spotify.com/track/3Cqgdc421tmbBwH9hdHX0o"
@@ -10657,6 +10751,28 @@
     },
     {
       "album": {
+        "name": "Light of the World (John 8)",
+        "url": "https://open.spotify.com/album/4rd7wAjNFrH9WdeH5kJsl3"
+      },
+      "artists": [
+        {
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Nad\u00e8ge Nightingale",
+          "url": "https://open.spotify.com/artist/5xCWbBpvJpf8QSfFtgZRHa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199583,
+      "name": "Light of the World (John 8)",
+      "url": "https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp"
+    },
+    {
+      "album": {
         "name": "lighthouse",
         "url": "https://open.spotify.com/album/58YX8l1NtPeQsr7WfTXL7k"
       },
@@ -10758,7 +10874,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152597,
       "name": "Like Me Better",
       "url": "https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw"
@@ -10780,7 +10896,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 281375,
       "name": "Like The Prodigal (Come Home)",
       "url": "https://open.spotify.com/track/7DBugFty697vJcT7so4kfl"
@@ -11482,7 +11598,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 235860,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/1fg8ncMoFqRR7WvZKX3S3G"
@@ -11708,7 +11824,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156116,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/1Oc6ppQE9vxsyPYm2tFKnK"
@@ -12294,7 +12410,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 208163,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/7Jog4oLDP1ls1gqEBsaBkf"
@@ -12718,6 +12834,24 @@
       "duration_ms": 104347,
       "name": "New Life",
       "url": "https://open.spotify.com/track/4SkFhQHSLZyrXA0mItVd1t"
+    },
+    {
+      "album": {
+        "name": "New Thing",
+        "url": "https://open.spotify.com/album/4dEU1LrAxGX4Vq1bis0mCn"
+      },
+      "artists": [
+        {
+          "name": "Baily Hager",
+          "url": "https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "New Thing",
+      "url": "https://open.spotify.com/track/4KJj2EuGyL7q47lH3vGciN"
     },
     {
       "album": {
@@ -13267,6 +13401,28 @@
     },
     {
       "album": {
+        "name": "oceans",
+        "url": "https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz"
+      },
+      "artists": [
+        {
+          "name": "xylin",
+          "url": "https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg"
+        },
+        {
+          "name": "Jacob Lin",
+          "url": "https://open.spotify.com/artist/6DVR8QvYzcYtLif7f3I8op"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292250,
+      "name": "oceans",
+      "url": "https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte"
+    },
+    {
+      "album": {
         "name": "Oceans (Where Feet May Fail)",
         "url": "https://open.spotify.com/album/2H7GUS1k7frO1TxnFchQ2p"
       },
@@ -13442,6 +13598,24 @@
       "duration_ms": 246956,
       "name": "On And On",
       "url": "https://open.spotify.com/track/7lPHdo4cIyuGppOYp9VTiB"
+    },
+    {
+      "album": {
+        "name": "On Fire Still",
+        "url": "https://open.spotify.com/album/6oyBJE1wMizpgPyg2D6Pnw"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172013,
+      "name": "On Fire Still",
+      "url": "https://open.spotify.com/track/7dypv6j24ELNfafCknr66W"
     },
     {
       "album": {
@@ -15260,7 +15434,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 129214,
       "name": "Romans 15:13",
       "url": "https://open.spotify.com/track/1Y0P9RdvIXtnDGMxXDyZ31"
@@ -16002,7 +16176,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 157228,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/3ilA9oCTZqYUb4RX0FD1K1"
@@ -16192,7 +16366,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 218064,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3zN7IBCLAdtDU9SuRB6RjK"
@@ -16450,6 +16624,24 @@
       "duration_ms": 232105,
       "name": "Something About Your Love",
       "url": "https://open.spotify.com/track/4pWSuffghBr69VsPfSrhNr"
+    },
+    {
+      "album": {
+        "name": "Something Greater",
+        "url": "https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162890,
+      "name": "Something Greater",
+      "url": "https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7"
     },
     {
       "album": {
@@ -17000,7 +17192,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229250,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/62Hv5THS0foe6h4W5Nlmuf"
@@ -17776,7 +17968,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 215427,
       "name": "THAT'S WHO I PRAISE (PUNK VERSION)",
       "url": "https://open.spotify.com/track/3dSAlyTjoeMDfmiYzWClsO"
@@ -18004,7 +18196,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 211250,
       "name": "THE ROOM",
       "url": "https://open.spotify.com/track/6ANSECDHRzRtHZk5qpmPBE"
@@ -18204,7 +18396,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210000,
       "name": "This Is The Love",
       "url": "https://open.spotify.com/track/7wr0gntMKI6TkR7OQRDH0w"
@@ -18374,7 +18566,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 204444,
       "name": "Till You're Home",
       "url": "https://open.spotify.com/track/2RrkLEP2YYsi2CXIpL3OZ8"
@@ -18651,6 +18843,28 @@
     },
     {
       "album": {
+        "name": "tried & true",
+        "url": "https://open.spotify.com/album/7LQTfoTrSsfNX50zvi4QfH"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        },
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "tried & true",
+      "url": "https://open.spotify.com/track/3KaDZgcxR2JwFVPNj0MMva"
+    },
+    {
+      "album": {
         "name": "True Religion",
         "url": "https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk"
       },
@@ -18830,7 +19044,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 121961,
       "name": "u know u can live 4ever?",
       "url": "https://open.spotify.com/track/4AfHheJZtQGWpBBhNxYrav"
@@ -19264,7 +19478,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 189197,
       "name": "waiting on me",
       "url": "https://open.spotify.com/track/0Em0KfU4L3xbuWTKFUomdf"
@@ -19678,7 +19892,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 135822,
       "name": "What a Friend",
       "url": "https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm"
@@ -20956,6 +21170,24 @@
       "duration_ms": 152898,
       "name": "You Have Done It All",
       "url": "https://open.spotify.com/track/0CVhylQTD18iNFfTxxaPr2"
+    },
+    {
+      "album": {
+        "name": "You Loved Me First",
+        "url": "https://open.spotify.com/album/2igiPSrGLGeuFElYgNPF0V"
+      },
+      "artists": [
+        {
+          "name": "Landon Forbes",
+          "url": "https://open.spotify.com/artist/07Y4FLIt4oUI1aUZsUDOM9"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "You Loved Me First",
+      "url": "https://open.spotify.com/track/4KRGSKS702BHApwZBiCtZR"
     },
     {
       "album": {

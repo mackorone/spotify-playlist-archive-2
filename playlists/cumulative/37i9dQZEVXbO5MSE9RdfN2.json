@@ -9143,6 +9143,28 @@
     },
     {
       "album": {
+        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
+        "url": "https://open.spotify.com/album/6zgA5tC0h7FQgHV796gDGV"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        },
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "COCONUT (feat. Eem Triplin)",
+      "url": "https://open.spotify.com/track/4BagPVnrcGVujbuwevPp1z"
+    },
+    {
+      "album": {
         "name": "When I Change My Mind I Don't Mean It",
         "url": "https://open.spotify.com/album/5MWXPIyCF4KztRg1f37Ok6"
       },
@@ -22512,7 +22534,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
@@ -38288,7 +38310,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -38306,7 +38328,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"

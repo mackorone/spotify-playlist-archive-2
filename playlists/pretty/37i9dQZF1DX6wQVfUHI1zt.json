@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 244665,
+  "num_followers": 244709,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -432,13 +432,13 @@
       },
       "artists": [
         {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+          "name": "Pete Astudillo",
+          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
         }
       ],
-      "duration_ms": 189920,
-      "name": "La Llamada - 1993 Version",
-      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
+      "duration_ms": 278920,
+      "name": "Como Te Extrano",
+      "url": "https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -448,13 +448,13 @@
       },
       "artists": [
         {
-          "name": "Pete Astudillo",
-          "url": "https://open.spotify.com/artist/5wB9uZHnYDudrgfxOXUsjY"
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
         }
       ],
-      "duration_ms": 278920,
-      "name": "Como Te Extrano",
-      "url": "https://open.spotify.com/track/1FAubvFODC0G1hRfBGMqp1"
+      "duration_ms": 189920,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/0g5m1UJVMWQkNjZk1suW4s"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 143053,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 217129,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "No Debes Jugar - 1993 Version",
-      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Steel Rain",
         "url": "https://open.spotify.com/album/1MULrpYOnPW4U8nTyuu9pD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 173933,
       "name": "Son Tus Miradas",
       "url": "https://open.spotify.com/track/2nPVP13joEfdlIIxfaVujj"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "No Debes Jugar - 1993 Version",
+      "url": "https://open.spotify.com/track/77OlR5LDh9mwSGctxs6Dn2"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
+        "name": "Chulas Fronteras and Del Mero Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
+      },
+      "artists": [
+        {
+          "name": "Little Joe & La Familia",
+          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Las Nubes",
+      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 227986,
       "name": "T\u00fa Robaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "Chulas Fronteras and Del Mero Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1oy5u4Jx010Bl15qSpVbsc"
-      },
-      "artists": [
-        {
-          "name": "Little Joe & La Familia",
-          "url": "https://open.spotify.com/artist/59NWRwGcObmk2sukU5uqmN"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Las Nubes",
-      "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 247533,
-      "name": "Contigo Quiero Estar",
-      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 205626,
       "name": "Poquito A Poco",
       "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Contigo Quiero Estar",
+      "url": "https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Con un Nudo en la Garganta",
-        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
-      },
-      "artists": [
-        {
-          "name": "Joe Bravo",
-          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Con un Nudo en la Garganta",
-      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 167279,
       "name": "Que Tristeza",
       "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Con un Nudo en la Garganta",
+        "url": "https://open.spotify.com/album/0S5NBCcSyYQlHRijkiCldk"
+      },
+      "artists": [
+        {
+          "name": "Joe Bravo",
+          "url": "https://open.spotify.com/artist/2OVwFpzZV7P8GJWVFF7n1Y"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Con un Nudo en la Garganta",
+      "url": "https://open.spotify.com/track/0tWVo41LuScCrbfZjYDz6u"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Texano (Vol.2 / 20 Temas Originales)",
-        "url": "https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 223946,
-      "name": "Por Favor Corazon",
-      "url": "https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 169466,
       "name": "Ay Mujer",
       "url": "https://open.spotify.com/track/55YYsAeziwm3etSsQsOIHj"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Yo S\u00e9 Que Te Acordar\u00e1s Texano (Vol.2 / 20 Temas Originales)",
+        "url": "https://open.spotify.com/album/356kgwdvily1RQ2sDdMcj9"
+      },
+      "artists": [
+        {
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
+        }
+      ],
+      "duration_ms": 223946,
+      "name": "Por Favor Corazon",
+      "url": "https://open.spotify.com/track/5g5abUvf0ldvD7AAvGj1Oe"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
+      "duration_ms": 201960,
+      "name": "Se Me Olvid\u00f3 Olvidarte",
+      "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 201960,
-      "name": "Se Me Olvid\u00f3 Olvidarte",
-      "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
+      "duration_ms": 236466,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/7H9BJi45b1XJwYiC1vajfc"
     },
     {
       "added_at": "2024-05-02 04:14:20",

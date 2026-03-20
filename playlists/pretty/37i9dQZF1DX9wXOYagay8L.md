@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Maleh
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,380 likes - 95 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,478 likes - 95 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

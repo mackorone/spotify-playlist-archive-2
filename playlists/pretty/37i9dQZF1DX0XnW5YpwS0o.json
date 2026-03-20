@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 122496,
+  "num_followers": 122534,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 211851,
-      "name": "Sleep On The Floor",
-      "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Teens of Denial",
-        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
-    },
-    {
-      "added_at": "2026-01-20 18:32:57",
-      "album": {
         "name": "First Steps",
         "url": "https://open.spotify.com/album/1IH1Oz8jD4hyN3eg8aHdjv"
       },
@@ -1551,18 +1535,34 @@
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Is the Is Are",
-        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
       },
       "artists": [
         {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 226999,
-      "name": "Under the Sun",
-      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
+    },
+    {
+      "added_at": "2026-01-20 18:32:57",
+      "album": {
+        "name": "Teens of Denial",
+        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
+      },
+      "artists": [
+        {
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "Drunk Drivers/Killer Whales",
+      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
     },
     {
       "added_at": "2026-01-20 18:32:57",
@@ -1576,25 +1576,25 @@
           "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/5bzf1xrbqr1ttjAJuRz2xY"
+      "duration_ms": 211851,
+      "name": "Sleep On The Floor",
+      "url": "https://open.spotify.com/track/44uOreAESeRIBaxkuCW4wN"
     },
     {
       "added_at": "2026-01-20 18:32:57",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+        "name": "Is the Is Are",
+        "url": "https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
+      "duration_ms": 226999,
+      "name": "Under the Sun",
+      "url": "https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV"
     },
     {
       "added_at": "2026-01-20 18:32:57",

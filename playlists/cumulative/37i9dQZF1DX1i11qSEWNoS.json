@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "ALARMSTUFE ROT",
+        "url": "https://open.spotify.com/album/2DM3znbiyb219po7BJElKa"
+      },
+      "artists": [
+        {
+          "name": "Milli",
+          "url": "https://open.spotify.com/artist/6Rqtw9iL1TvPQgJJNu1tx3"
+        },
+        {
+          "name": "Robbensohn",
+          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146589,
+      "name": "ALARMSTUFE ROT",
+      "url": "https://open.spotify.com/track/4tPJVjlIhNH7lv5vcFwCEH"
+    },
+    {
+      "album": {
         "name": "All I Wanna",
         "url": "https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu"
       },
@@ -928,7 +950,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 185624,
       "name": "Bauchnabelpiercing - mrgnstrn & Poetry Remix",
       "url": "https://open.spotify.com/track/3XM28rqDGZLNKEE2M3lgbL"
@@ -1176,7 +1198,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 153352,
       "name": "Blind vor Liebe",
       "url": "https://open.spotify.com/track/7aRf9f0EGLHvrFRoPGsGxV"
@@ -1611,6 +1633,28 @@
     },
     {
       "album": {
+        "name": "DADIDELDUMM",
+        "url": "https://open.spotify.com/album/44CkQ87QsW9sZ3pJ4oB0vZ"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162706,
+      "name": "DADIDELDUMM",
+      "url": "https://open.spotify.com/track/7EPzcWArQVSLe8w3ozSNdQ"
+    },
+    {
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -1948,7 +1992,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 151400,
       "name": "Drauf Gehn",
       "url": "https://open.spotify.com/track/1oInZfHh2xFY4TF9bD1jUR"
@@ -2574,6 +2618,54 @@
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "album": {
+        "name": "Gangsta's Paradise",
+        "url": "https://open.spotify.com/album/0SqCo1LB3HGjLs7puyKsMN"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/2PQ5At0Rnm4ogInS1ejZYl"
+    },
+    {
+      "album": {
+        "name": "GERMAN CLASS",
+        "url": "https://open.spotify.com/album/5FNPslXu1zr0mTjDZyMGWt"
+      },
+      "artists": [
+        {
+          "name": "DJ DRECKISCH",
+          "url": "https://open.spotify.com/artist/29pghx4OZDZ45mcQLjdxUl"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "GERMAN CLASS",
+      "url": "https://open.spotify.com/track/3GSCf5uhQldzdvHlK2TSJn"
     },
     {
       "album": {
@@ -3602,7 +3694,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 179727,
       "name": "Kann nix sehen (fast life fast lane)",
       "url": "https://open.spotify.com/track/00rKVLJBnmP9WHlQoRRyTJ"
@@ -3650,6 +3742,28 @@
       "duration_ms": 133226,
       "name": "KEEP UP",
       "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
+    },
+    {
+      "album": {
+        "name": "KEIN BRETT",
+        "url": "https://open.spotify.com/album/34zZjP13N7eUK3fJZKSYZb"
+      },
+      "artists": [
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        },
+        {
+          "name": "Zak Conner",
+          "url": "https://open.spotify.com/artist/6X7NJAJFXDHkU6tIV1QmZB"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92004,
+      "name": "KEIN BRETT",
+      "url": "https://open.spotify.com/track/3NGpzwLc0hSWcyzyy9zQWq"
     },
     {
       "album": {
@@ -3708,7 +3822,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
@@ -4734,7 +4848,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 161392,
       "name": "Motto",
       "url": "https://open.spotify.com/track/0yeFZfAw5Ua5JMon1v46GZ"
@@ -5241,6 +5355,32 @@
     },
     {
       "album": {
+        "name": "Panda Augen",
+        "url": "https://open.spotify.com/album/2fWfQbxglALFzX7hLeogc2"
+      },
+      "artists": [
+        {
+          "name": "Vivi Minu",
+          "url": "https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "ANVEE",
+          "url": "https://open.spotify.com/artist/1G8RTaCyfbl9e4EasQL6gw"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126486,
+      "name": "Panda Augen",
+      "url": "https://open.spotify.com/track/1WfeqDwBoGyrmT1IbYJMTq"
+    },
+    {
+      "album": {
         "name": "Paradies",
         "url": "https://open.spotify.com/album/6Kyd3AsrRrRo3SZQ94E4fy"
       },
@@ -5481,6 +5621,28 @@
     },
     {
       "album": {
+        "name": "Rambazamba",
+        "url": "https://open.spotify.com/album/7cEYWILqIVRYYCCmoWhF0X"
+      },
+      "artists": [
+        {
+          "name": "KaaCee",
+          "url": "https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV"
+        },
+        {
+          "name": "ISO 3000",
+          "url": "https://open.spotify.com/artist/0HN1PBgXg9vz0xbPuCe8rx"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Rambazamba",
+      "url": "https://open.spotify.com/track/2rAlonMKRv3mESivk4Wn7O"
+    },
+    {
+      "album": {
         "name": "RAN AN DIE BULETTEN",
         "url": "https://open.spotify.com/album/43XAKMkGl05QLqTBtMMyMF"
       },
@@ -5569,6 +5731,24 @@
     },
     {
       "album": {
+        "name": "WANT (Deluxe)",
+        "url": "https://open.spotify.com/album/10xgy5KkSpP3prnygQmFoN"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "RICHMAN",
+      "url": "https://open.spotify.com/track/1Q1lQKlgXBXWF1Bb8eRvhq"
+    },
+    {
+      "album": {
         "name": "Rock It!",
         "url": "https://open.spotify.com/album/52umhzF360CmaXJRoiGUAU"
       },
@@ -5606,7 +5786,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 133618,
       "name": "Rotes Halsband",
       "url": "https://open.spotify.com/track/32igCcGjazdDWcxYFaaATV"
@@ -5876,7 +6056,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 149612,
       "name": "SCHREI NACH LIEBE",
       "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
@@ -7178,7 +7358,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 147617,
       "name": "WAS LOS?",
       "url": "https://open.spotify.com/track/31baymElZm1jcHdVZejQyF"
@@ -7634,6 +7814,24 @@
       "duration_ms": 116500,
       "name": "ZOOM CALL",
       "url": "https://open.spotify.com/track/1m4juqM2fqfLfKMYKUJB0h"
+    },
+    {
+      "album": {
+        "name": "Zukunft",
+        "url": "https://open.spotify.com/album/7Hoyl4pndl16yi099Yecqi"
+      },
+      "artists": [
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128974,
+      "name": "Zukunft",
+      "url": "https://open.spotify.com/track/0g1joZDeT7BuxCf9bwl1v0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1i11qSEWNoS"

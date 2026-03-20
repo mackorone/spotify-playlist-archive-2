@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 403138,
+  "num_followers": 403140,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -775,18 +775,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+        "name": "Tumbleweed",
+        "url": "https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        },
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 317226,
-      "name": "A Cat in the Rain",
-      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
+      "duration_ms": 274576,
+      "name": "How Much Beer",
+      "url": "https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -807,22 +811,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Tumbleweed",
-        "url": "https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty"
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
       },
       "artists": [
         {
-          "name": "Drake Milligan",
-          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
-        },
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 274576,
-      "name": "How Much Beer",
-      "url": "https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E"
+      "duration_ms": 317226,
+      "name": "A Cat in the Rain",
+      "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Wandering Star",
         "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
       },
@@ -911,6 +895,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Change the Game",
         "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
       },
@@ -923,22 +923,6 @@
       "duration_ms": 208901,
       "name": "Change The Game",
       "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -959,6 +943,22 @@
       "duration_ms": 219882,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Where 90's Meets Now",
-        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
-      },
-      "artists": [
-        {
-          "name": "Jake Bush",
-          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
-        }
-      ],
-      "duration_ms": 203861,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Hearts Don't",
         "url": "https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 218000,
       "name": "Hearts Don't",
       "url": "https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Where 90's Meets Now",
+        "url": "https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm"
+      },
+      "artists": [
+        {
+          "name": "Jake Bush",
+          "url": "https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF"
+        }
+      ],
+      "duration_ms": 203861,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/4wR24Dlp1ULiwjTqR32qVx"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 212346,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/2uGhFYgEsIowLnRqf3Z78T"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1703,30 +1703,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Running out of Time",
-        "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        },
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 217899,
-      "name": "Running out of Time",
-      "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     }
   ],
   "unique_name": "Texas Country Now",

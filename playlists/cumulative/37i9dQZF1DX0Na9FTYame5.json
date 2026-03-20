@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Aus dem Kopf",
+        "url": "https://open.spotify.com/album/2016s4QAFNvbJhxbx0vThM"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Aus dem Kopf",
+      "url": "https://open.spotify.com/track/0LKgRtXc3yqUodZTcUOYUV"
+    },
+    {
+      "album": {
         "name": "DEN UMST\u00c4NDEN WIDERSPRECHEND",
         "url": "https://open.spotify.com/album/74ZaEXX990KpZCW53Esv00"
       },
@@ -584,6 +602,24 @@
       "duration_ms": 206188,
       "name": "AUSGERUTSCHT",
       "url": "https://open.spotify.com/track/71epxkNy3UZ1B6PydH176F"
+    },
+    {
+      "album": {
+        "name": "AZADI",
+        "url": "https://open.spotify.com/album/5tvu8bSlg0IwwALEC9ol13"
+      },
+      "artists": [
+        {
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129073,
+      "name": "AZADI",
+      "url": "https://open.spotify.com/track/3bTCC25oTMrVLKkHA6GOTi"
     },
     {
       "album": {
@@ -716,6 +752,32 @@
       "duration_ms": 212006,
       "name": "BERETTA",
       "url": "https://open.spotify.com/track/5T8d11vkU2b3bIRSMIBrCC"
+    },
+    {
+      "album": {
+        "name": "Bete f\u00fcr sie",
+        "url": "https://open.spotify.com/album/5QF559X0atlb6R5yIgop89"
+      },
+      "artists": [
+        {
+          "name": "Takt32",
+          "url": "https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7"
+        },
+        {
+          "name": "NKSN",
+          "url": "https://open.spotify.com/artist/7xaDVu3YWJLnyoExZy9iWt"
+        },
+        {
+          "name": "RYCH",
+          "url": "https://open.spotify.com/artist/2anAeor9hqScCy83LKyGIY"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203925,
+      "name": "Bete f\u00fcr sie",
+      "url": "https://open.spotify.com/track/0rdA3QBJcqdjKsfK7Rk6k4"
     },
     {
       "album": {
@@ -871,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Bladerunner",
+        "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Bladerunner",
+      "url": "https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e"
+    },
+    {
+      "album": {
         "name": "Brauch nur dich",
         "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
       },
@@ -882,7 +962,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
@@ -1390,7 +1470,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 144120,
       "name": "Eh zu kurz",
       "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
@@ -2435,6 +2515,54 @@
     },
     {
       "album": {
+        "name": "helden",
+        "url": "https://open.spotify.com/album/0sXdARjWxj1EhNxUBOzUXR"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        },
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189143,
+      "name": "helden",
+      "url": "https://open.spotify.com/track/2TYB7NAnjy6zzcM9wXbEW1"
+    },
+    {
+      "album": {
+        "name": "Herz aus Stein",
+        "url": "https://open.spotify.com/album/1eWpEyZkXnhgnZRntD9LXe"
+      },
+      "artists": [
+        {
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        },
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Herz aus Stein",
+      "url": "https://open.spotify.com/track/4LgbkwOdnHJmSTtrE7fJyX"
+    },
+    {
+      "album": {
         "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
         "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
       },
@@ -3062,7 +3190,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 185153,
       "name": "Keine Helden",
       "url": "https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU"
@@ -3312,6 +3440,24 @@
       "duration_ms": 145000,
       "name": "LEERER MAGEN",
       "url": "https://open.spotify.com/track/00XmE56Q9wZ6ztUrCRYW4D"
+    },
+    {
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/5Rp921jqxLHXblF3kieMqo"
+      },
+      "artists": [
+        {
+          "name": "KASIMIR1441",
+          "url": "https://open.spotify.com/artist/7ADRm1oT7VmhRRZrZqycV6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/0tc5itiiqWbEPtyxtQcIBS"
     },
     {
       "album": {
@@ -3594,7 +3740,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 160686,
       "name": "Loch",
       "url": "https://open.spotify.com/track/5He0LbVtjKcvmsvcQ5lqhc"
@@ -4022,7 +4168,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
@@ -4408,7 +4554,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 179000,
       "name": "Nie wieder",
       "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
@@ -4452,7 +4598,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
@@ -6337,6 +6483,28 @@
     },
     {
       "album": {
+        "name": "WAS ICH BIN",
+        "url": "https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt"
+      },
+      "artists": [
+        {
+          "name": "FAYAN",
+          "url": "https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF"
+        },
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129023,
+      "name": "WAS ICH BIN",
+      "url": "https://open.spotify.com/track/7syy0KIJDEXson69rGXK35"
+    },
+    {
+      "album": {
         "name": "Was war das",
         "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
       },
@@ -6384,7 +6552,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 142640,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"

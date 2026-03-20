@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: The Scratch",
+  "description": "The UK's biggest rock playlist. Cover: Muse ",
   "name": "The Rock List",
   "tracks": [
     {
@@ -640,6 +640,24 @@
       "duration_ms": 213391,
       "name": "A Kiss From A Mother",
       "url": "https://open.spotify.com/track/24UTdotuXBQcdrW0f7ydmj"
+    },
+    {
+      "album": {
+        "name": "A Little Less",
+        "url": "https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202887,
+      "name": "A Little Less",
+      "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
     },
     {
       "album": {
@@ -1519,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216884,
+      "name": "An Ending In Itself",
+      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
+    },
+    {
+      "album": {
         "name": "Angel Wings",
         "url": "https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H"
       },
@@ -2222,6 +2258,24 @@
       "duration_ms": 176392,
       "name": "Be That Girl",
       "url": "https://open.spotify.com/track/5h8YHZVo8UdxrKEfHnlEeZ"
+    },
+    {
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
     },
     {
       "album": {
@@ -3069,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "Bones For The Crows",
+        "url": "https://open.spotify.com/album/1jKDs3Oq7HAY05DffoP4Fg"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244638,
+      "name": "Bones For The Crows",
+      "url": "https://open.spotify.com/track/37vEcnzAkAOdb7zqxLqHvb"
+    },
+    {
+      "album": {
         "name": "BOOM",
         "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
       },
@@ -3848,6 +3920,24 @@
       "duration_ms": 223878,
       "name": "Catherine Wheels",
       "url": "https://open.spotify.com/track/5IZ7XbCi7PGhSAZ8KLe3Yz"
+    },
+    {
+      "album": {
+        "name": "Caught In The Echo",
+        "url": "https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Caught In The Echo",
+      "url": "https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH"
     },
     {
       "album": {
@@ -7848,7 +7938,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 190230,
       "name": "Gladrags",
       "url": "https://open.spotify.com/track/34ZKtMpAQq4xPVyI2dfXTG"
@@ -9368,6 +9458,24 @@
       "duration_ms": 170494,
       "name": "hot girls in hell",
       "url": "https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz"
+    },
+    {
+      "album": {
+        "name": "House Baby",
+        "url": "https://open.spotify.com/album/4HBxYswFtFlYc6jbPV14Ia"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196773,
+      "name": "House Baby",
+      "url": "https://open.spotify.com/track/2JYRElDZlJx5GPomwbQxnL"
     },
     {
       "album": {
@@ -13140,7 +13248,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 175835,
       "name": "Miss Millennial",
       "url": "https://open.spotify.com/track/5CppV85q7sOY4Okurdsa9j"
@@ -13562,6 +13670,24 @@
       "duration_ms": 194731,
       "name": "Mustang",
       "url": "https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8"
+    },
+    {
+      "album": {
+        "name": "My Baby's Place",
+        "url": "https://open.spotify.com/album/2SStqgA0tGcHofhYKgvyig"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235006,
+      "name": "My Baby's Place",
+      "url": "https://open.spotify.com/track/5noMqCfgrkV3zOcCvpC6We"
     },
     {
       "album": {
@@ -16965,6 +17091,24 @@
     },
     {
       "album": {
+        "name": "Riptides",
+        "url": "https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197089,
+      "name": "Riptides",
+      "url": "https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz"
+    },
+    {
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7"
       },
@@ -17693,6 +17837,24 @@
     },
     {
       "album": {
+        "name": "SFX",
+        "url": "https://open.spotify.com/album/2RK8T9yUZVLXOcrSxlpxp2"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170166,
+      "name": "SFX",
+      "url": "https://open.spotify.com/track/3IK5I4w8ca9RPZxozSC0xq"
+    },
+    {
+      "album": {
         "name": "Shades of Blue",
         "url": "https://open.spotify.com/album/2zduWdJOVRh6YiQ0rSNzmn"
       },
@@ -18183,6 +18345,24 @@
     },
     {
       "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206137,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
+    },
+    {
+      "album": {
         "name": "Skullcrusher",
         "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
       },
@@ -18320,7 +18500,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 260978,
       "name": "Smoke Screen",
       "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
@@ -19921,6 +20101,24 @@
     },
     {
       "album": {
+        "name": "Terrestrials",
+        "url": "https://open.spotify.com/album/7Jka6HCeAYcU6Glrzb9r3f"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Terrestrials",
+      "url": "https://open.spotify.com/track/0Rz8hTX3IDEzJnsraQSYJG"
+    },
+    {
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4eCNNKkvJK9tXdMPaV8abd"
       },
@@ -20250,6 +20448,24 @@
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "album": {
+        "name": "My First Time",
+        "url": "https://open.spotify.com/album/77p8sqJUYp6bGv373QRZyi"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208720,
+      "name": "The Kids Are",
+      "url": "https://open.spotify.com/track/6B9xB5xqjl4JegwjppRQ3f"
     },
     {
       "album": {
@@ -20934,7 +21150,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
@@ -23292,7 +23508,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187249,
       "name": "You Broke Me Too (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
@@ -23484,7 +23700,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"

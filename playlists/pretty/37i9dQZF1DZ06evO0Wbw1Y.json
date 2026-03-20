@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29055,
+  "num_followers": 29052,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAABOtCZ+O1e5x3LS2k0nZNJH",
+  "snapshot_id": "abnrAAAAAADDV20L5EE0yl8la/rrmk9v",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 188162,
       "name": "Equivocarse - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3jJshgZPbc6glVBW9HLFKf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
-        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Caracol Televisi\u00f3n",
-          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        }
-      ],
-      "duration_ms": 143737,
-      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 195488,
       "name": "Soltar Tu Mano (feat. Rom\u00e1n Torres)",
       "url": "https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
+        "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Caracol Televisi\u00f3n",
+          "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        }
+      ],
+      "duration_ms": 143737,
+      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
       "duration_ms": 165473,
       "name": "No Se Me Ve Tan Mal (NSMVTM)",
       "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 179084,
+      "name": "Para Variar",
+      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 179084,
-      "name": "Para Variar",
-      "url": "https://open.spotify.com/track/0YwTlwZc4IcxQW3HqavRwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Qu\u00e9 Te Vas",
         "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 201190,
       "name": "Por Qu\u00e9 Te Vas",
       "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 175887,
+      "name": "Besos De Bar",
+      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
     },
     {
       "added_at": null,
@@ -635,6 +651,22 @@
       "duration_ms": 154475,
       "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,
@@ -668,25 +700,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 175887,
-      "name": "Besos De Bar",
-      "url": "https://open.spotify.com/track/18YogXh8QbFtu5p0xCdA5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+      "duration_ms": 171808,
+      "name": "Inevitables",
+      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 171808,
-      "name": "Inevitables",
-      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosas Pendientes",
         "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 181253,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De 0 a 100",
+        "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 168645,
+      "name": "De 0 a 100",
+      "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 174259,
       "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 0 a 100",
-        "url": "https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 168645,
-      "name": "De 0 a 100",
-      "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
     },
     {
       "added_at": null,

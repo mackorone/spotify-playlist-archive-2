@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284745,
+  "num_followers": 284766,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "No Rain",
-        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 203810,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "No Rain",
+        "url": "https://open.spotify.com/album/6D5SHwk9iambazDxMy1GuF"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 203810,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/46ZQXqq2hnbyER4JJdcD1u"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Humming House Party! (Live)",
+        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
+      },
+      "artists": [
+        {
+          "name": "Humming House",
+          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
+        }
+      ],
+      "duration_ms": 278854,
+      "name": "My Love (Live)",
+      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Yellow Ledbetter",
         "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 245120,
       "name": "Yellow Ledbetter",
       "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Humming House Party! (Live)",
-        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
-      },
-      "artists": [
-        {
-          "name": "Humming House",
-          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
-        }
-      ],
-      "duration_ms": 278854,
-      "name": "My Love (Live)",
-      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Wagon Wheel",
+        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 433563,
+      "name": "Wagon Wheel",
+      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Folsom Prison Blues",
         "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 206886,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Wagon Wheel",
-        "url": "https://open.spotify.com/album/7cPsrl4X5vxDsoL3gdZK2l"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 433563,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
+      },
+      "artists": [
+        {
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
+        }
+      ],
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Johnny B. Goode",
         "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 197250,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+      },
+      "artists": [
+        {
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Jukebox",
         "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 193000,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
-      },
-      "artists": [
-        {
-          "name": "Aine Burns",
-          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     },
     {
       "added_at": "2026-02-04 05:00:53",

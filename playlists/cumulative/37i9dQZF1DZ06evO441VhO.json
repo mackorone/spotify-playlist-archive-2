@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Burn Burn Burn",
+        "url": "https://open.spotify.com/album/3YkwHZOU12OMiPyaYUxmLy"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154027,
+      "name": "Burn Burn Burn",
+      "url": "https://open.spotify.com/track/5iVh4MTn1n3mf2AScD4GFp"
+    },
+    {
+      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -362,7 +380,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 170029,
       "name": "Doomsday on the Radio",
       "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"

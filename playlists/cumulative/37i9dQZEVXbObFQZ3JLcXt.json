@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -3344,6 +3344,24 @@
     {
       "album": {
         "name": "Duka",
+        "url": "https://open.spotify.com/album/3o6TXD0EcJJ099ieOM460j"
+      },
+      "artists": [
+        {
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324649,
+      "name": "Duka",
+      "url": "https://open.spotify.com/track/3rXS2AEXNADrIFyuY3F6RJ"
+    },
+    {
+      "album": {
+        "name": "Duka",
         "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
       },
       "artists": [
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 325147,
       "name": "Duka",
       "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 234204,
       "name": "Lantas",
       "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
@@ -10282,10 +10300,32 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 313670,
       "name": "Selamat (Selamat Tinggal)",
       "url": "https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK"
+    },
+    {
+      "album": {
+        "name": "Selamat (Selamat Tinggal)",
+        "url": "https://open.spotify.com/album/0UGeiKOePzmxt3Zb9efy5G"
+      },
+      "artists": [
+        {
+          "name": "Virgoun",
+          "url": "https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f"
+        },
+        {
+          "name": "Audy",
+          "url": "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313670,
+      "name": "Selamat (Selamat Tinggal)",
+      "url": "https://open.spotify.com/track/5iN2kyMTTkIEogE0DvEbZO"
     },
     {
       "album": {
@@ -11556,7 +11596,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 274381,
       "name": "TABOLA BALE",
       "url": "https://open.spotify.com/track/7mqG8I1JG0iQAejC53qpbU"
@@ -12546,7 +12586,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"

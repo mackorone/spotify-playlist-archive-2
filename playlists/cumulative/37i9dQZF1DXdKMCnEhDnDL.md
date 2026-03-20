@@ -2,9 +2,9 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Robert van Hemert & Donnie
+> De beste Nederlandse liedjes\. Cover: Zoë Livay \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">RADAR</a><br/>\-artiest\)
 
-477 songs - 1 day 0 hr 17 min
+479 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Alles Kwijt \- Live in Carré 2023](https://open.spotify.com/track/3swj4AMjeqaPxHAqftfAq8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Alles Kwijt](https://open.spotify.com/album/2L1qzNA0JnpifTZMI07a9i) | 3:15 | 2023-12-07 | 2024-03-20 |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2024-10-24 |  |
 | [Alles Op Gevoel](https://open.spotify.com/track/2hCc09htDSAQobdmbYWryY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Alles Op Gevoel](https://open.spotify.com/album/0NSk5echypu0j5gJ8x2MNp) | 2:49 | 2024-02-02 | 2024-10-25 |
+| [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 | 2026-03-19 |  |
 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 | 2025-03-12 | 2025-06-17 |
 | [Alles Wordt Beter](https://open.spotify.com/track/5d0KtdnoPpniNFngV5ehcP) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alles Wordt Beter](https://open.spotify.com/album/7CgvY0HQwJiDPh9ENB59DB) | 3:11 | 2025-05-07 |  |
 | [Als Geen Ander](https://open.spotify.com/track/1QzzCEcKxcELzdJcHpinQ6) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Geen Ander](https://open.spotify.com/album/68ObzZyYcFZOO1NdiQlFSP) | 3:30 | 2023-02-24 | 2023-06-15 |
@@ -80,7 +81,7 @@
 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-10-02 |  |
 | [C'est La Vie](https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C'est La Vie](https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV) | 3:03 | 2025-01-23 | 2025-11-05 |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-03-12 | 2025-10-03 |
-| [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 | 2025-12-11 |  |
+| [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 | 2025-12-11 | 2026-03-20 |
 | [Casual](https://open.spotify.com/track/1Oq4ei25SeGivbXLcCnz7z) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:22 | 2025-03-27 | 2025-10-17 |
 | [CD van mij](https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [CD van mij](https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a) | 2:50 | 2026-02-03 |  |
 | [Champions League](https://open.spotify.com/track/0VrTqrs9O9mi3dhY4RWuQI) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/4hbnlDx7CSVBLrrXVpjyFo) | 2:22 | 2024-04-16 | 2024-09-27 |
@@ -158,6 +159,7 @@
 | [Grijs](https://open.spotify.com/track/64hayhfzodjwBrQcZ69SVp) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Grijs](https://open.spotify.com/album/5WIkuPDQFlfpV9l0tLNm70) | 3:00 | 2023-02-24 | 2024-03-20 |
 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 | 2023-02-24 | 2025-02-28 |
 | [Hallo Met Mij](https://open.spotify.com/track/1ZAeLtI8kuZX6cFCJm08RP) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Hallo Met Mij](https://open.spotify.com/album/4cJAK6hENqRInHm1clemmF) | 3:07 | 2023-02-24 | 2023-12-22 |
+| [Halverwege](https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Halverwege](https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt) | 2:50 | 2026-03-19 |  |
 | [Hard Hout](https://open.spotify.com/track/4d3lKZ5YOnt3pWSp9yUTG9) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Hard Hout](https://open.spotify.com/album/4olpplTVPCKmgIxDOinv2E) | 2:34 | 2025-07-14 | 2026-02-04 |
 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:10 | 2023-02-24 | 2024-10-25 |
 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Boven](https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6) | 4:13 | 2023-06-14 | 2024-04-19 |
@@ -378,7 +380,7 @@
 | [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-04-16 | 2024-05-03 |
 | [Speed Of Light](https://open.spotify.com/track/6m5zC7ua6twLWCaIIYHP0F) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/7o1U1c0tmRjgrqcNZdJA5u) | 3:07 | 2024-02-02 | 2024-04-15 |
 | [Speed Of Light](https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [New Gold](https://open.spotify.com/album/01QIywmbTG54Dcz3fidcUK) | 3:07 | 2024-04-03 | 2024-04-19 |
-| [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 | 2025-01-23 |  |
+| [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 | 2025-01-23 | 2026-03-20 |
 | [Sprakeloos](https://open.spotify.com/track/0phnbN8sTSUk1PSLLe1cic) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/0wvSyUbbI7uA3IDLmdcrHG) | 2:25 | 2025-11-26 |  |
 | [Sprakeloos](https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Sprakeloos](https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z) | 2:25 | 2025-04-03 | 2025-11-27 |
 | [Stay](https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Stay](https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag) | 3:45 | 2025-09-04 |  |

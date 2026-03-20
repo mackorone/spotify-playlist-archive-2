@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Leven Kali
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,714 likes - 250 songs - 12 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,763 likes - 250 songs - 12 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 29 | [Getchu Down](https://open.spotify.com/track/69G2n6iZ7r01KRPV0VwyQ6) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Getchu Down](https://open.spotify.com/album/7KDAjKF1WVLrMdThmnTqkV) | 2:42 |
 | 30 | [Garden Floor](https://open.spotify.com/track/2xJc5ET0m85rXRc5Tqc9Yd) | [Lo Steele](https://open.spotify.com/artist/2JuHN7vSq7s6zN54XPKTPD), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Marcus Finnie](https://open.spotify.com/artist/20d7biKdCvOFh95hIOhqjx) | [Only a Drop](https://open.spotify.com/album/0joGHqwP9PD2x443YwjmFB) | 2:55 |
 | 31 | [Lotus](https://open.spotify.com/track/5HBMAC4czl16G9oqH6TjlD) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Lotus](https://open.spotify.com/album/1NBO8iru74GTrNKdTMlmHE) | 2:26 |
-| 32 | [FAVORITE.](https://open.spotify.com/track/4AF074f6U02WTGojtdxg7e) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE), [SAFA](https://open.spotify.com/artist/2RglzmIaBaiXyqhE8VUmnX) | [FAVORITE.](https://open.spotify.com/album/1zt9CZy10n33H83Eogxcr7) | 2:14 |
+| 32 | [FAVORITE.](https://open.spotify.com/track/4AF074f6U02WTGojtdxg7e) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE), [Safa](https://open.spotify.com/artist/5Z1BHeEQ7rsfqEpvQsh5y6) | [FAVORITE.](https://open.spotify.com/album/1zt9CZy10n33H83Eogxcr7) | 2:14 |
 | 33 | [Control](https://open.spotify.com/track/4vmbUMfmm48WuTyGg5KAOY) | [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Control](https://open.spotify.com/album/4Uj7dX7LKFmbnQl6BVg2iB) | 4:57 |
 | 34 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
 | 35 | [bad bitch alert](https://open.spotify.com/track/6E3NhQN1qTXNLao7yI61dK) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [bad bitch alert](https://open.spotify.com/album/5uUtc6ORn7VrJIJ3Z6QqKH) | 2:24 |

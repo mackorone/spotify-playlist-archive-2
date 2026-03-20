@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 120026,
       "name": "94 F",
       "url": "https://open.spotify.com/track/7etvmixsXbfoFoX3mYDYx3"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 164937,
       "name": "Diadem",
       "url": "https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy"
@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "DRECKIGE DOLLARS",
       "url": "https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 163064,
       "name": "DU FEHLST",
       "url": "https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace"
@@ -4714,7 +4714,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m"
@@ -4780,7 +4780,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 132680,
       "name": "Loft",
       "url": "https://open.spotify.com/track/14HEqZhk0BMLIU2QDSIghO"
@@ -5252,6 +5252,24 @@
       "duration_ms": 146570,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/0GTPNseX2jfIwK81RKPLZd"
+    },
+    {
+      "album": {
+        "name": "mein cutie <3",
+        "url": "https://open.spotify.com/album/73MU9R7JX5phaaO5StfOA7"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130914,
+      "name": "mein cutie <3",
+      "url": "https://open.spotify.com/track/4amIje1MIz0NbIzmso07tZ"
     },
     {
       "album": {
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 206053,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187286,
       "name": "Pech & Schwefel",
       "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
@@ -6460,7 +6478,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 153406,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb"
@@ -6994,7 +7012,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 141067,
       "name": "Schiebedach",
       "url": "https://open.spotify.com/track/1uXGJ0jZ6IBbjN27QDGJpR"
@@ -7232,7 +7250,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 144359,
       "name": "Sie ist",
       "url": "https://open.spotify.com/track/3iKocY9U4TP3J3hjxsSBwM"
@@ -7250,7 +7268,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 163306,
       "name": "Simpel",
       "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 149973,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
@@ -7788,7 +7806,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 144200,
       "name": "Tash Bolivia",
       "url": "https://open.spotify.com/track/0BB85Wiq8w6jggzWy125TJ"
@@ -8132,7 +8150,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 219733,
       "name": "Tutto Bene",
       "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 132475,
       "name": "Unendlich",
       "url": "https://open.spotify.com/track/6nWCMoUxbjvtdLa4ubl5vd"
@@ -8768,7 +8786,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 142640,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
@@ -8826,7 +8844,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 136973,
       "name": "WENN DU W\u00dcSSTEST",
       "url": "https://open.spotify.com/track/2MKzQ2sv5hwIWdlPIhXLkn"
@@ -9276,7 +9294,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 153490,
       "name": "Yummy",
       "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"

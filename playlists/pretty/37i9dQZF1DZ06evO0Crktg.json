@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 335205,
+  "num_followers": 335273,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAABZ7pqUTea+IEvEYTtWcpWJ",
+  "snapshot_id": "abnrAAAAAADLzXEgE0isJ+y60oS36ako",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The High Road",
-        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 254277,
       "name": "Life",
       "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
     },
     {
       "added_at": null,
@@ -688,13 +688,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 193880,
-      "name": "Past Yesterday (with Skylar Grey)",
-      "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
+      "duration_ms": 198426,
+      "name": "Don't Want To (with Keith Urban)",
+      "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
     },
     {
       "added_at": null,
@@ -760,13 +760,13 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         },
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
         }
       ],
-      "duration_ms": 198426,
-      "name": "Don't Want To (with Keith Urban)",
-      "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
+      "duration_ms": 193880,
+      "name": "Past Yesterday (with Skylar Grey)",
+      "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Whiskey Bent (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 215477,
       "name": "Tears Could Talk",
       "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Whiskey Bent (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Yelawolf",
-          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Unlive - with Yelawolf",
-      "url": "https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/2lNvvHWi0K3J6KSpmUUPKn"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 192969,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Yelawolf",
+          "url": "https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Unlive - with Yelawolf",
+      "url": "https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj"
     }
   ],
   "unique_name": "This Is Jelly Roll",

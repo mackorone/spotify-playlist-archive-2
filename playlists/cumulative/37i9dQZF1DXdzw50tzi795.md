@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Maiyarap, Z9
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Tattoo Colour
 
-228 songs - 14 hr 45 min
+229 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Loop \(ฉันจึงวนกลับมา\)](https://open.spotify.com/track/0Fye2qtgBqOzHxb4cPSjWb) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz) | [Loop \(ฉันจึงวนกลับมา\) \- Single](https://open.spotify.com/album/05DGgZgqUX2HbssDax9YoL) | 3:50 | 2024-09-12 | 2025-05-23 |
 | [Luxury](https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [Luxury](https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk) | 4:06 | 2024-01-26 | 2024-09-08 |
 | [Mona Lisa](https://open.spotify.com/track/3H4k0YdtIxrZVORbW57wtp) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [Mona Lisa](https://open.spotify.com/album/69xnGRhLkV3mQcV30IEWMn) | 3:49 | 2024-03-27 | 2024-04-12 |
+| [Move On แบบใด](https://open.spotify.com/track/53XeQvCYruEEHVDgWmraKq) | [JOEY PHUWASIT](https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1) | [Move On แบบใด](https://open.spotify.com/album/1SYedOaOGyBXObvmBMpp1X) | 4:18 | 2026-03-19 |  |
 | [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 | 2024-11-08 | 2025-05-09 |
 | [One Of My Life](https://open.spotify.com/track/6Mm77XGJld1QxvKyMrYbFj) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt) | [One Of My Life](https://open.spotify.com/album/1CoVcH5nmOxaKBc6Z6TJMQ) | 3:36 | 2025-03-23 |  |
 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 | 2024-07-25 | 2025-08-30 |
@@ -189,7 +190,7 @@
 | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/track/3v5g7khNHS9726iyuI1iUs) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หากจะเพียงขอ\(Sincare\)](https://open.spotify.com/album/4UmeizyaQt3UMctskcADjF) | 5:17 | 2024-01-26 | 2024-03-28 |
 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 | 2025-06-19 |  |
 | [อยากอินเพลงรัก](https://open.spotify.com/track/0ZK7WAqADNAc2zY7WVRDTl) | [Season Five](https://open.spotify.com/artist/2DWxd6CkiJVMnTqSbtd56H), [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [อยากอินเพลงรัก](https://open.spotify.com/album/6G3FvZ2OHWHyoG40SQhIbJ) | 3:22 | 2026-01-15 |  |
-| [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-08 |  |
+| [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-08 | 2026-03-20 |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2024-01-26 | 2024-06-07 |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-01-26 | 2024-08-23 |
 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 | 2025-05-22 |  |

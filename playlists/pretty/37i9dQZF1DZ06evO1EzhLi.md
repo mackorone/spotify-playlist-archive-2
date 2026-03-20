@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 
 > This is 3 Doors Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,978 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,996 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 20 | [What's Left](https://open.spotify.com/track/2Qh95cRQ32MkgN7i79B9VM) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:42 |
 | 21 | [Behind Those Eyes](https://open.spotify.com/track/4QOTzEsuoZaBxtaS32VRNz) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/067UgzF9Nbn25xHpY2DJdG) | 4:19 |
 | 22 | [Ticket To Heaven](https://open.spotify.com/track/09FofPlGG8SGxccEuUHHJ5) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:27 |
-| 23 | [Duck And Run](https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:50 |
+| 23 | [Life Of My Own](https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:58 |
 | 24 | [Heaven](https://open.spotify.com/track/4E0UH3Wr1cbOhQNUHbpUYN) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:27 |
 | 25 | [Still Alive](https://open.spotify.com/track/6cJRjKolnLTz0Q0TbwJaSv) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 2:41 |
 | 26 | [There's A Life](https://open.spotify.com/track/3WdKchTlzeAgex3rYa9l9n) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 3:10 |
-| 27 | [Life Of My Own](https://open.spotify.com/track/19v5b0qbqfqIDuRO8wxsIY) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:58 |
+| 27 | [Duck And Run](https://open.spotify.com/track/0s8OsDxW96cl290PcsI2mX) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:50 |
 | 28 | [Round And Round](https://open.spotify.com/track/3qAa5EFKFYUau1kM0mcJFr) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:46 |
 | 29 | [Inside Of Me](https://open.spotify.com/track/7FXXsaAduHbsNewEMImm6G) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:45 |
 | 30 | [One Light](https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Greatest Hits](https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR) | 2:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 48 | [That Smell](https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 5:48 |
 | 49 | [Dead Love \- Early Version](https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:05 |
 
-Snapshot ID: `abiZgAAAAAA4RxZN4KK2gvT5z+AGQWzp`
+Snapshot ID: `abnrAAAAAAAQIbbHlMYvVs5HpcuOScUF`

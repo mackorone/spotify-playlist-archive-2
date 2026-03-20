@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Jaako Eino Kalevi",
+  "description": "New music off the beaten track. Cover: ford.",
   "name": "OFF POP",
   "tracks": [
     {
@@ -4990,7 +4990,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
@@ -7303,6 +7303,24 @@
     },
     {
       "album": {
+        "name": "Paradises",
+        "url": "https://open.spotify.com/album/3nqp0mEDLi09YbdNwyLQJh"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321859,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/5j7sM5f8lOSn65S1ZU1DzZ"
+    },
+    {
+      "album": {
         "name": "Every Little Drop (Edit)",
         "url": "https://open.spotify.com/album/7bE9IkWBXiHK6Tv35lPZ6B"
       },
@@ -8924,7 +8942,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 189140,
       "name": "Friends Don't Break Up",
       "url": "https://open.spotify.com/track/5IDXTeeIOi7IAmqYDGRHTm"
@@ -9936,6 +9954,24 @@
       "duration_ms": 140837,
       "name": "Head Straight",
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
+    },
+    {
+      "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Heard What You Said",
+      "url": "https://open.spotify.com/track/5rX8YRB4QrwKX1Gdneg57a"
     },
     {
       "album": {
@@ -12716,7 +12752,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 415240,
       "name": "Inept Apollo (Tom Sharkett Remix)",
       "url": "https://open.spotify.com/track/2ork9hjrRPKE1VOZU5z65t"
@@ -12836,6 +12872,28 @@
       "duration_ms": 165978,
       "name": "Into You - Vienna Nights Mix",
       "url": "https://open.spotify.com/track/461hznkAq17ywDHFzqA34b"
+    },
+    {
+      "album": {
+        "name": "Intro (25th Anniversary)",
+        "url": "https://open.spotify.com/album/7G0aAufrvGovkHeoseli6x"
+      },
+      "artists": [
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Intro - Alan Braxe Remix",
+      "url": "https://open.spotify.com/track/1ILzzSYz9IXpVRdNqL2sdE"
     },
     {
       "album": {
@@ -15192,7 +15250,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148253,
       "name": "Lost Fish",
       "url": "https://open.spotify.com/track/0U4oJyPXGkwwsU81Ot2VyT"
@@ -17274,6 +17332,28 @@
       "duration_ms": 256562,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/1INYpUDPkutq3NxAXgDlOC"
+    },
+    {
+      "album": {
+        "name": "Music Lights Color",
+        "url": "https://open.spotify.com/album/2RnsbcsKcjgttzkTkCqnSn"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        },
+        {
+          "name": "A Beacon School",
+          "url": "https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Music Lights Color",
+      "url": "https://open.spotify.com/track/0nNNppCcXMMq9PkwW9oH28"
     },
     {
       "album": {
@@ -22015,6 +22095,24 @@
     },
     {
       "album": {
+        "name": "Show Business",
+        "url": "https://open.spotify.com/album/75aKMtEDynNz5kFCZOic3r"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Show Business",
+      "url": "https://open.spotify.com/track/4bGI8XDVLPMpsP0mMqeBuS"
+    },
+    {
+      "album": {
         "name": "Show Pony (Parra For Cuva Remix)",
         "url": "https://open.spotify.com/album/4c4saDMXpFGxYezguZQWvu"
       },
@@ -25491,6 +25589,32 @@
     },
     {
       "album": {
+        "name": "This Must Be It (Alan Dixon Remix)",
+        "url": "https://open.spotify.com/album/2PO8Itl4zpHsUWvY8Z3KDc"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        },
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372266,
+      "name": "This Must Be It - Alan Dixon Remix",
+      "url": "https://open.spotify.com/track/3y9OqWZj2nHQ1mTigvmtof"
+    },
+    {
+      "album": {
         "name": "This One's For You",
         "url": "https://open.spotify.com/album/4jvq2JvowQmDTqMsQw0nWu"
       },
@@ -26034,7 +26158,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 233651,
       "name": "Travel Light",
       "url": "https://open.spotify.com/track/37qLbAeOU3yhpLlD2gyTsp"
@@ -26487,6 +26611,28 @@
     },
     {
       "album": {
+        "name": "U Can\u2019t Come Home",
+        "url": "https://open.spotify.com/album/6L71fSWcS2PbjB6B9slBqO"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "TS Graye",
+          "url": "https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196415,
+      "name": "U Can't Come Home",
+      "url": "https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"
+    },
+    {
+      "album": {
         "name": "U Make Me Feel",
         "url": "https://open.spotify.com/album/1jcZh4UgnBjF5nXsdlsqQ5"
       },
@@ -26648,7 +26794,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 195661,
       "name": "Uncomfortable",
       "url": "https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO"
@@ -28142,7 +28288,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168393,
       "name": "Whats Next",
       "url": "https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN"

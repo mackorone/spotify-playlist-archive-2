@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Eijv\-JdSTCumhjsWkOSU6Q>Folabi Nuel</a>
 
-319 songs - 1 day 14 hr 18 min
+321 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Arojinle](https://open.spotify.com/track/6IAkCy6DH4eZTomOlQ5nSU) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/0jfLu0yOlJBXzpBCHE4msv) | 14:43 | 2024-05-09 | 2024-05-24 |
 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 | 2024-05-09 |  |
 | [ASHEDA](https://open.spotify.com/track/0A9vUjffz3V2EVc1hmP65r) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [ASHEDA](https://open.spotify.com/album/53xb6WpFI8m7M9vTqdfKck) | 3:43 | 2024-11-15 | 2024-12-20 |
+| [At the Center](https://open.spotify.com/track/1zitShgMHWS3m76aPnLDs6) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [At the Center](https://open.spotify.com/album/36WJbEECUUs1eKODqniDrT) | 10:00 | 2026-03-20 |  |
 | [Atmosphere Is Shifting \- Live](https://open.spotify.com/track/0U42klnqrGN9WIqWMmBAbL) | [Eljoe Onoja](https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Atmosphere Is Shifting \(Live\)](https://open.spotify.com/album/2OA7qYAr5ZzikxiaZgTiGt) | 10:29 | 2026-01-23 |  |
 | [Awofuwo](https://open.spotify.com/track/4jDtIlGX6AmW2NFJTcRpiL) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Awofuwo](https://open.spotify.com/album/5qWIB74h8PVysO1QMcSjCx) | 5:46 | 2024-11-01 | 2024-12-13 |
 | [Ayó \(Joy Song\) \[Worship free flow\]](https://open.spotify.com/track/2vtOulr9QRJxYFbAvUwWDV) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [Ayó \(Joy Song\) \[Worship free flow\]](https://open.spotify.com/album/07MjeRltyrtndCYE345vga) | 7:43 | 2025-11-28 | 2026-02-06 |
@@ -246,6 +247,7 @@
 | [Only You](https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Only You](https://open.spotify.com/album/52CZ8Iey34gLpaCbLiiMzW) | 3:51 | 2026-02-13 |  |
 | [Only You \- Live](https://open.spotify.com/track/7aGAhMdVTe8N3uEWQbdyCM) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Only You \(Live\)](https://open.spotify.com/album/28rMX1PGe2KdcLOkM1Rf5F) | 9:27 | 2026-02-20 |  |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-05-09 | 2025-03-28 |
+| [Orun Si](https://open.spotify.com/track/3FF3zeBKsLZzpNT6hnF0xc) | [Elijah Daniel Omo Majemu](https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Orun Si](https://open.spotify.com/album/4OlONH4wGTdr5oYSlKrzs5) | 9:04 | 2026-03-20 |  |
 | [Osuba \- Remix](https://open.spotify.com/track/3X6x1sYQIiUCUwzY3u94qI) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Osuba \(Remix\)](https://open.spotify.com/album/55HkimoZNtqiYb81B2XFIS) | 5:23 | 2024-08-09 | 2025-09-19 |
 | [Presence Of The Lord](https://open.spotify.com/track/75zDWZQl2FzZSSdWRJ4Pe1) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ) | [Presence Of The Lord](https://open.spotify.com/album/73uQVfKHePKvWoFNWtgGIR) | 4:41 | 2025-01-10 | 2025-02-28 |
 | [Prophetic Worship, Vol\. 2](https://open.spotify.com/track/4JbkjVGb7FmKKyuN8WpkND) | [Apostle Femi Lazarus](https://open.spotify.com/artist/4bbgsyWj0hlgyUXUY9GHTp), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Prophetic Worship, Vol\. 2](https://open.spotify.com/album/6iptYi4tTiItuNB2QY84tL) | 13:15 | 2024-09-06 | 2025-06-06 |

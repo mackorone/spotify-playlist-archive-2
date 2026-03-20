@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-466 songs - 1 day 3 hr 10 min
+467 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-07-21 |  |
 | [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-08 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2023-10-25 |  |
+| [お勉強しといてよ](https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [お勉強しといてよ](https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI) | 4:40 | 2026-03-19 |  |
 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 | 2024-12-03 |  |
 | [くたばろうぜ](https://open.spotify.com/track/3r6xYYqdyPLrKjEgxaW2N5) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/2L84XD90kjs9HVG51eb4jK) | 3:26 | 2026-03-14 |  |
 | [けーたいみしてよ](https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [けーたいみしてよ](https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7) | 2:12 | 2024-09-07 |  |

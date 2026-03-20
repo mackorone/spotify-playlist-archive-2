@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 46 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 94 likes - 46 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 10 | [Déjà Vu](https://open.spotify.com/track/5f6nlDTGRzH9zR7vHIxlp7) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Déjà Vu](https://open.spotify.com/album/49suZMTVKKsLNX34EqQ7mc) | 2:31 |
 | 11 | [Better Now](https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Better Now](https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY) | 2:49 |
 | 12 | [Life](https://open.spotify.com/track/1JmrB1mUq9BislMIDHjlJu) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/2pmdlbQJN9NXsCxHFOvjzx) | 2:54 |
-| 13 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
-| 14 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 13 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
+| 14 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
 | 15 | [This Time](https://open.spotify.com/track/2Yd4qXngsCBJMGnl7jpd4J) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [Desirée Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [This Time](https://open.spotify.com/album/5lg1ZSzwI54olu69s3Uw37) | 2:50 |
 | 16 | [Madison \(feat\. Janieck\)](https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:45 |
 | 17 | [22](https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd) | [Sarah McTernan](https://open.spotify.com/artist/5KHDZuaKZOP6cJWRtSHWe8) | [22](https://open.spotify.com/album/7dakU6o0pVLhFyKOpBD1JY) | 2:53 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 45 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 46 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcMflAAAAAANDSz7joYd3Qkv4dLQ7f7o`
+Snapshot ID: `AcMlNAAAAADyftHQcAABiqpY9gNYZnO9`

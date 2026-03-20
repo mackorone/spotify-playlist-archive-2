@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "CLOSE",
+        "url": "https://open.spotify.com/album/0Rs5cWNh3a0rDO9awmYfG0"
+      },
+      "artists": [
+        {
+          "name": "Palm Brothers",
+          "url": "https://open.spotify.com/artist/3UZp3SJMqLmvdbYXv2vYoq"
+        },
+        {
+          "name": "Selfmode",
+          "url": "https://open.spotify.com/artist/12AEq0j5KPcuypzbbSJicX"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "CLOSE",
+      "url": "https://open.spotify.com/track/1kXgeD352yqLhIiiQw3YQz"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/78fVXahvUO9sKQqsptYthB"
       },
@@ -4996,6 +5022,32 @@
       "duration_ms": 131478,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/6u4UWP0u9zBpyoNoDlE3jH"
+    },
+    {
+      "album": {
+        "name": "Salama",
+        "url": "https://open.spotify.com/album/3TTdPM58VQnCExT87kle4v"
+      },
+      "artists": [
+        {
+          "name": "Rancido",
+          "url": "https://open.spotify.com/artist/0wtDZVdBWiPXM4gQt3ZNUq"
+        },
+        {
+          "name": "Soulroots",
+          "url": "https://open.spotify.com/artist/5NZyHuRM5kcVx8Bf6EkPdd"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379171,
+      "name": "Salama",
+      "url": "https://open.spotify.com/track/0sZnH8h7U8PMQ4AFQiURLB"
     },
     {
       "album": {

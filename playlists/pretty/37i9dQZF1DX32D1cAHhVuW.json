@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 66981,
+  "num_followers": 67004,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Better Living",
+        "url": "https://open.spotify.com/album/58FGVPSHqBFWgAhKMIhrxH"
+      },
+      "artists": [
+        {
+          "name": "Slimelife Shawty",
+          "url": "https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf"
+        }
+      ],
+      "duration_ms": 208194,
+      "name": "Baby Boy",
+      "url": "https://open.spotify.com/track/0qeNJtldeoVelVsOUahnbw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Unfuckwitable (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 202067,
       "name": "Paperwork Party - Remix",
       "url": "https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Better Living",
-        "url": "https://open.spotify.com/album/58FGVPSHqBFWgAhKMIhrxH"
-      },
-      "artists": [
-        {
-          "name": "Slimelife Shawty",
-          "url": "https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf"
-        }
-      ],
-      "duration_ms": 208194,
-      "name": "Baby Boy",
-      "url": "https://open.spotify.com/track/0qeNJtldeoVelVsOUahnbw"
     },
     {
       "added_at": "2022-10-01 16:00:00",

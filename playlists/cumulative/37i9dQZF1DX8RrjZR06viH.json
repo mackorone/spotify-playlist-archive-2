@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Bli hos deg",
+        "url": "https://open.spotify.com/album/6NSawjnhOLmI3aW9b6XeLp"
+      },
+      "artists": [
+        {
+          "name": "Sondre Halland",
+          "url": "https://open.spotify.com/artist/74dIUqstrh5XQ8jfraDyyU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171923,
+      "name": "Bli hos deg",
+      "url": "https://open.spotify.com/track/7At1tJL2XOLvCd46Pcxi12"
+    },
+    {
+      "album": {
         "name": "Boxes",
         "url": "https://open.spotify.com/album/5UvxcC7flSaHQONo8GR3Nk"
       },
@@ -964,7 +982,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 186739,
       "name": "DESPU\u00c9S DE LA FERIA",
       "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
@@ -1098,7 +1116,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 132616,
       "name": "D\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 193134,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ"
@@ -4312,6 +4330,24 @@
       "duration_ms": 180126,
       "name": "Rekk opp h\u00e5nda",
       "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
+    },
+    {
+      "album": {
+        "name": "It Will Never Be The Right Time",
+        "url": "https://open.spotify.com/album/0qLmrn1RXhXBJ88xdeVKBY"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229731,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/0niEhSYvPA0C5Z0WlgDX8E"
     },
     {
       "album": {
@@ -5268,6 +5304,24 @@
       "duration_ms": 133928,
       "name": "Take Your Time (Slow Down)",
       "url": "https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn"
+    },
+    {
+      "album": {
+        "name": "Tanken p\u00e5 dei andre",
+        "url": "https://open.spotify.com/album/2Ckfpy6tbri4HO9NQi52nd"
+      },
+      "artists": [
+        {
+          "name": "Gunn Kvaale",
+          "url": "https://open.spotify.com/artist/3upvRPK3aM4G5v03vMAlNO"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138298,
+      "name": "Tanken p\u00e5 dei andre",
+      "url": "https://open.spotify.com/track/7bWWxtmjYAbgTxSDXxQhVZ"
     },
     {
       "album": {

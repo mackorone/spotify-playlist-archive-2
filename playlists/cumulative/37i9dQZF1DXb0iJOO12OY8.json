@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 132000,
       "name": "Alt Jeg Har",
       "url": "https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 153333,
       "name": "Clean Fit, Fin Anledning",
       "url": "https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs"
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Mot deg",
+        "url": "https://open.spotify.com/album/5yXHUmhpZxKXc1QYybeV8Q"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "Mot deg",
+      "url": "https://open.spotify.com/track/2EnvKnpV4nYr7WfcN2kfzB"
+    },
+    {
+      "album": {
         "name": "Narco Freestyle",
         "url": "https://open.spotify.com/album/5sbWMsirtJm5whDYeWqDLv"
       },
@@ -3044,6 +3062,24 @@
       "duration_ms": 163142,
       "name": "Sees Igjen",
       "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
+    },
+    {
+      "album": {
+        "name": "Siste gang",
+        "url": "https://open.spotify.com/album/2GyPGXCZc7YEWvjsuIV8qW"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Siste gang",
+      "url": "https://open.spotify.com/track/0Vq1QtDAM6vU8HR253xP6q"
     },
     {
       "album": {

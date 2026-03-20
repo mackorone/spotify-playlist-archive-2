@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Cidade Dormitório, Grisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 779,103 likes - 66 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,982 likes - 66 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 19 | [Depressa](https://open.spotify.com/track/1fdw0RylmEVesr0sKUeT4x) | [Carvel](https://open.spotify.com/artist/1EkD4MU0DeLqWp7kBWaxDI) | [Depressa](https://open.spotify.com/album/2o3ooJPzpn2Y6UHGtoRtoN) | 3:55 |
 | 20 | [Questão de Fogo](https://open.spotify.com/track/4powTPisOZkWY8da8sBeWl) | [Oblomov](https://open.spotify.com/artist/2EUaba83feGXNAGXAhERE7) | [Questão de Fogo](https://open.spotify.com/album/3gPuiyXFEI43yREaJjGZnf) | 4:20 |
 | 21 | [Golden Eye](https://open.spotify.com/track/09fGTMBFiOZ6HaJxKA0t84) | [City Mall](https://open.spotify.com/artist/5IUx10uUQF8dfkuvlejNiV) | [Golden Eye](https://open.spotify.com/album/1vwkNqE1639EDaAHQXpgVW) | 3:05 |
-| 22 | [bater asas](https://open.spotify.com/track/0nMYsdvBsoHfql3MQRjd86) | [cleozinhu](https://open.spotify.com/artist/33rIAuMggV82FyD4enW1IA) | [Variações para o Silêncio](https://open.spotify.com/album/2ioTUfmD6Gtl0gsq69yzaT) | 1:30 |
+| 22 | [bater asas](https://open.spotify.com/track/0nMYsdvBsoHfql3MQRjd86) | [cleozinhu](https://open.spotify.com/artist/0aKUNUnkMrz42wCFkgNzmh) | [Variações para o Silêncio](https://open.spotify.com/album/2ioTUfmD6Gtl0gsq69yzaT) | 1:30 |
 | 23 | [Denga \- Ao Vivo](https://open.spotify.com/track/10hcDy5Rl0X96mc4j15vPg) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1) | [Denga \(Ao Vivo\)](https://open.spotify.com/album/3ZroXj4Ayz1012p5sWt2kf) | 2:05 |
 | 24 | [Me mande um \(sinal\)](https://open.spotify.com/track/2JwXqx97V0XvZpKKPUAwVx) | [corama](https://open.spotify.com/artist/6MIhN6VoByrGx5EjVoz21W) | [Me mande um \(sinal\)](https://open.spotify.com/album/2yjyedH74RW8Vn3kQfFMvD) | 2:33 |
 | 25 | [Menina do cabelo alaranjado](https://open.spotify.com/track/2Rspg5WSGNFmU0XicEwYr8) | [Luiza Aires](https://open.spotify.com/artist/7xOICaCwUN27SBArKb9jle) | [Menina do cabelo alaranjado](https://open.spotify.com/album/40wuN4ukAndX0xBCYIbecA) | 3:00 |

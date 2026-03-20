@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 320929,
+  "num_followers": 320941,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Cellar",
         "url": "https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 245998,
       "name": "Cellar",
       "url": "https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 400037,
-      "name": "Earth To Sea",
-      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "sulky baby",
         "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 400037,
+      "name": "Earth To Sea",
+      "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
       },
       "artists": [
         {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw"
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
       "artists": [
         {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH"
+      "duration_ms": 202026,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "How Many Love Songs Have Died In Vegas?",
-        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "How Many Love Songs Have Died In Vegas?",
-      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Heathers",
         "url": "https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 194947,
       "name": "Ohio Blue Tips",
       "url": "https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "How Many Love Songs Have Died In Vegas?",
+        "url": "https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V"
+      },
+      "artists": [
+        {
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "How Many Love Songs Have Died In Vegas?",
+      "url": "https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Heaven Sent (Between Heavens B-Sides)",
-        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
-      },
-      "artists": [
-        {
-          "name": "Ruby Haunt",
-          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Nadine",
-      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Heaven Sent (Between Heavens B-Sides)",
+        "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
+      },
+      "artists": [
+        {
+          "name": "Ruby Haunt",
+          "url": "https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Nadine",
+      "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+        "name": "Simona",
+        "url": "https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq"
       },
       "artists": [
         {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        },
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
+          "name": "Mauro Samaniego",
+          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
         }
       ],
-      "duration_ms": 340000,
-      "name": "Near",
-      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
+      "duration_ms": 228642,
+      "name": "Cielo Negro",
+      "url": "https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h"
     }
   ],
   "unique_name": "Dreampop",

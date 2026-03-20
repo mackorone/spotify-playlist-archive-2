@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,423 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,447 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 14 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 |
 | 15 | [The Way You Look Tonight](https://open.spotify.com/track/4YzVZ67bjyhs1BylmBZDzx) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [William Galison](https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn) | [Got You on My Mind](https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S) | 3:02 |
 | 16 | [My One and Only Love](https://open.spotify.com/track/6d3m5JM3OgVPI7GD7T5MYR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Ain't No Sunshine / My One and Only Love](https://open.spotify.com/album/2nnI1qx6N43Hyr8TbLmblC) | 4:40 |
-| 17 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Signature](https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i) | 3:05 |
-| 18 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
+| 17 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
+| 18 | [A Kiss To Build A Dream On](https://open.spotify.com/track/5ZFWfIZhKqwG8l1UGqqLig) | [Ann Hampton Callaway](https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e) | [Signature](https://open.spotify.com/album/3awMOQ2xcwEGi1SXw9Wi2i) | 3:05 |
 | 19 | [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 |
 | 20 | [Mean To Me](https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Mean To Me](https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK) | 3:04 |
 | 21 | [Love Song](https://open.spotify.com/track/5Kl1fxp9mTCwtqDaxfDV7i) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Sunset In The Blue \(Deluxe Version\)](https://open.spotify.com/album/7vSwamY5i4hhnRSnpyLsAx) | 5:25 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 54 | [As Time Goes By](https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:31 |
 | 55 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
 | 56 | [Our Love Is Here to Stay](https://open.spotify.com/track/3WhovG1qE9Vi60bbm6ot9r) | [Brandon Sanders](https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Our Love Is Here to Stay](https://open.spotify.com/album/6VCxDrD0Cms6BZqdVDrpnK) | 6:21 |
-| 57 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 |
-| 58 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
+| 57 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
+| 58 | [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 |
 | 59 | [There Is No Greater Love](https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 5:29 |
 | 60 | [The Man I Love](https://open.spotify.com/track/24tanGYdTNn3D3RoCXdr3W) | [Søs Fenger](https://open.spotify.com/artist/5TRVLzyHn2sEJsu1fwbv5S) | [On Holiday](https://open.spotify.com/album/1GPUhD5Ok6KhbsJw68Lmq4) | 4:45 |
 | 61 | [You Are There \(Orchestral Version\)](https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [Wild Woman Tells All](https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT) | 5:44 |

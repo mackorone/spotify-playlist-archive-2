@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Jacquees.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,460 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,444 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 12 | [Wasted](https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 1:49 |
 | 13 | [ASAP \(Remix\)](https://open.spotify.com/track/0vfrD59deamGv601WOHz8z) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [ASAP \(Remix\)](https://open.spotify.com/album/7cdOWcQK2NwyFvuNB1sxKp) | 3:41 |
 | 14 | [8 Stages](https://open.spotify.com/track/24PCmAa9K0g7Z44xjyaIOk) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [8 Stages](https://open.spotify.com/album/6wCVVevpRRuSWKFQx6qDrk) | 3:17 |
-| 15 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
+| 15 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 16 | [NEVER BE THE SAME](https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [NEVER BE THE SAME](https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk) | 2:52 |
 | 17 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 | 18 | [Blue Lights \- Havoc Remix](https://open.spotify.com/track/5hQZ4Q9wPS9iCzZYJMpoTY) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Havoc](https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W) | [Blue Lights \(Havoc Remix\)](https://open.spotify.com/album/4KDuRP6CT5bY2hwmYq2sPU) | 4:22 |

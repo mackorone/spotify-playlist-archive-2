@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19332,
+  "num_followers": 19335,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Welcome to the Mood",
-        "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
         "name": "TN's",
         "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 196267,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "Welcome to the Mood",
+        "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 213400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -599,18 +599,22 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
       "artists": [
         {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson and The Romantics",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
         }
       ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -631,22 +635,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Robinson and The Romantics",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 337565,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
         "name": "Harmless",
         "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 145445,
       "name": "Harmless",
       "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 337565,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -851,18 +851,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
         }
       ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "In The Shade",
-        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
-      },
-      "artists": [
-        {
-          "name": "Bean Magazine",
-          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
-        }
-      ],
-      "duration_ms": 193987,
-      "name": "Don't You Die",
-      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
-    },
-    {
-      "added_at": "2026-02-12 13:00:16",
-      "album": {
         "name": "look what you're doing to me",
         "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 264289,
       "name": "look what you're doing to me",
       "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
+      "added_at": "2026-02-12 13:00:16",
+      "album": {
+        "name": "In The Shade",
+        "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
+      },
+      "artists": [
+        {
+          "name": "Bean Magazine",
+          "url": "https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152"
+        }
+      ],
+      "duration_ms": 193987,
+      "name": "Don't You Die",
+      "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
     },
     {
       "added_at": "2026-02-12 13:00:16",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-02-12 13:00:16",
       "album": {
-        "name": "Revival 2.0",
-        "url": "https://open.spotify.com/album/1vgUJlj5RVNrg3y7GVhX6G"
+        "name": "When He Was Mine (Pele Fo'i Mai)",
+        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
       },
       "artists": [
         {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+          "name": "A.R.T",
+          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
         }
       ],
-      "duration_ms": 251575,
-      "name": "Reggae Revival - Revival 2.0",
-      "url": "https://open.spotify.com/track/0ASUvTVvEApBOGAV9O3mIg"
+      "duration_ms": 156516,
+      "name": "When He Was Mine (Pele Fo'i Mai)",
+      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     }
   ],
   "unique_name": "The Local List Aotearoa",

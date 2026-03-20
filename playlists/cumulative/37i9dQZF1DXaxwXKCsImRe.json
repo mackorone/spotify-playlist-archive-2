@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Beter Zo",
+        "url": "https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Beter Zo",
+      "url": "https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm"
+    },
+    {
+      "album": {
         "name": "Binibini",
         "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
       },
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 186680,
       "name": "Hoe Zit Het Met Ons?",
       "url": "https://open.spotify.com/track/1rN5JHM21poaueaK01se6P"
@@ -3346,7 +3364,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 183626,
       "name": "Rondjes",
       "url": "https://open.spotify.com/track/7xDTXLMmlgTmrhp0YpFVNc"
@@ -4482,6 +4500,36 @@
       "duration_ms": 176943,
       "name": "Yuh (Symphony In D Minor)",
       "url": "https://open.spotify.com/track/3lUzn12RioxpKrRhsdUZwt"
+    },
+    {
+      "album": {
+        "name": "Zijkant",
+        "url": "https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2"
+      },
+      "artists": [
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        },
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Priceless",
+          "url": "https://open.spotify.com/artist/2408j875K0AESndCiOw5UO"
+        },
+        {
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Zijkant",
+      "url": "https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg"
     },
     {
       "album": {

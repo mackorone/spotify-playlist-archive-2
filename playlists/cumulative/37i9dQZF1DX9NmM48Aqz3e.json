@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "Favourites from Canadians who dominated the 1990s. Cover: Melanie C & Bryan Adams",
-  "name": "Canadian '90s Hits",
+  "description": "Favourites from Canadians who dominated the 1990s. Cover: C\u00e9line Dion",
+  "name": "All Out Canadian 90s",
   "tracks": [
     {
       "album": {
@@ -362,6 +362,24 @@
       "duration_ms": 355133,
       "name": "Blown Wide Open",
       "url": "https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2"
+    },
+    {
+      "album": {
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "album": {
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 239186,
       "name": "Poets - 2023 Remastered",
       "url": "https://open.spotify.com/track/0tOeuzHJaeptDdXQxKJguE"
@@ -1836,6 +1854,24 @@
       "duration_ms": 219391,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U"
+    },
+    {
+      "album": {
+        "name": "Ron Sexsmith",
+        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Secret Heart",
+      "url": "https://open.spotify.com/track/3rTuruoKn9K9I1gBbinklI"
     },
     {
       "album": {
@@ -2045,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "album": {
         "name": "Steal My Sunshine (Remixes, Vol. 1)",
         "url": "https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL"
       },
@@ -2056,7 +2110,7 @@
       ],
       "date_added": "2020-10-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 211863,
       "name": "Steal My Sunshine - Remastered Version",
       "url": "https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar"

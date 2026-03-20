@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Mejja",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: JIVU",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -130,6 +130,28 @@
       "duration_ms": 145882,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw"
+    },
+    {
+      "album": {
+        "name": "Anitah",
+        "url": "https://open.spotify.com/album/64M1BDnx2IoJyzziD0Bm6V"
+      },
+      "artists": [
+        {
+          "name": "JIVU",
+          "url": "https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231887,
+      "name": "Anitah",
+      "url": "https://open.spotify.com/track/6TTMF57Wiks0T8Z9tTvoLi"
     },
     {
       "album": {
@@ -546,7 +568,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 215769,
       "name": "Dnd",
       "url": "https://open.spotify.com/track/3jmXHTXgVb3QxqgVsKYPcD"
@@ -682,6 +704,24 @@
       "duration_ms": 170666,
       "name": "Extra Pressure",
       "url": "https://open.spotify.com/track/5psM7zuqtSaMnLr9WzI4s5"
+    },
+    {
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/3farOkHVZOUHuUuDHGDsAZ"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189255,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4vTj1RvJpxFu6QHRchAcQx"
     },
     {
       "album": {
@@ -1582,7 +1622,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 181285,
       "name": "Massage",
       "url": "https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE"
@@ -1920,7 +1960,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229024,
       "name": "Niangalie",
       "url": "https://open.spotify.com/track/4r7vOzZFoGWxKPCd3XD95S"
@@ -2424,7 +2464,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 245326,
       "name": "Server",
       "url": "https://open.spotify.com/track/3hG3x8Msj5c4X86oJAuRms"
@@ -2902,6 +2942,50 @@
       "duration_ms": 174117,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/1qIHo7Sah6VXUIMVyHJP7x"
+    },
+    {
+      "album": {
+        "name": "Umekuwa Wapi",
+        "url": "https://open.spotify.com/album/0MrAZsQQJuVBZDpwa1gAT9"
+      },
+      "artists": [
+        {
+          "name": "Gogo Ashley",
+          "url": "https://open.spotify.com/artist/4vpwefvDygvtIhb16RdUza"
+        },
+        {
+          "name": "V-Be",
+          "url": "https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219782,
+      "name": "Umekuwa Wapi",
+      "url": "https://open.spotify.com/track/71U2cD3TdVSYK9RR0TZgTi"
+    },
+    {
+      "album": {
+        "name": "Umenibamba",
+        "url": "https://open.spotify.com/album/2LAN8uQgQPUNyReVik0CGq"
+      },
+      "artists": [
+        {
+          "name": "H_art the Band",
+          "url": "https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1"
+        },
+        {
+          "name": "Alternate Sound",
+          "url": "https://open.spotify.com/artist/6JVHkeBIT6zvsbIVGl2Q8l"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "Umenibamba",
+      "url": "https://open.spotify.com/track/2EQCYkxZYcQjDyuBIii7EN"
     },
     {
       "album": {

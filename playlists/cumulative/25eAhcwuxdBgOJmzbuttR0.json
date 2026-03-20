@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520173,
+      "name": "I Think I Lost My Headache",
+      "url": "https://open.spotify.com/track/0MUXUGM0qh4lqWWQ9vvytv"
+    },
+    {
+      "album": {
         "name": "A Fever You Can't Sweat Out",
         "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
       },

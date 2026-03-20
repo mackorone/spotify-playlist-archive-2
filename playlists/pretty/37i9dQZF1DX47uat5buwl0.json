@@ -1,13 +1,29 @@
 {
-  "description": "Heerlie de peerlie. Cover: Miloolaathetlukken \ud83d\udd25",
-  "num_followers": 313563,
+  "description": "Banger na banger. Cover: Bausa \ud83d\udd25",
+  "num_followers": 313576,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJijJFip2P+Qm/EPklX4gNy0yeE3",
+  "snapshot_id": "AAAAAOZQJe2wUvN6RBRZBkG5m9xgdt7h",
   "tracks": [
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
     {
       "added_at": "2026-03-12 23:01:02",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 154029,
       "name": "HDP",
       "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
-    },
-    {
-      "added_at": "2026-03-12 23:01:02",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
       "added_at": "2026-03-12 23:01:02",

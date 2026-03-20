@@ -1,12 +1,12 @@
 {
   "description": "This is Eminem. The essential tracks, all in one playlist.",
-  "num_followers": 4107018,
+  "num_followers": 4107345,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACGLDmAkwFYyZzFGl6hDL/V",
+  "snapshot_id": "abnrAAAAAAAs8D1aPmfwyUEAg7tqYKO5",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 283520,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/0FDjc7fIiK29BWH45Ka7Vp"
+      "duration_ms": 392826,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
       "duration_ms": 248680,
       "name": "Just Lose It",
       "url": "https://open.spotify.com/track/0qcjuYtMWhBjXg0Xwt5SzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Kill You",
+      "url": "https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "Kill You",
-      "url": "https://open.spotify.com/track/5eGEc27nnhtmcOh6RC890a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relapse: Refill",
         "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 392826,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa"
+      "duration_ms": 283520,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/0FDjc7fIiK29BWH45Ka7Vp"
     },
     {
       "added_at": null,

@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Flat Mr. Bass",
+        "url": "https://open.spotify.com/album/59OoYdbuAOnwIQmc57QkTd"
+      },
+      "artists": [
+        {
+          "name": "THE KING YOUTHFULNESS",
+          "url": "https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269807,
+      "name": "Flat Mr. Bass",
+      "url": "https://open.spotify.com/track/5g8LDjXyDWF0Qv3upgaLXB"
+    },
+    {
+      "album": {
         "name": "Flowcito",
         "url": "https://open.spotify.com/album/6ZdofVuh9nqJcbN6Chr8T8"
       },
@@ -6658,6 +6676,24 @@
       "duration_ms": 353588,
       "name": "No Kidding",
       "url": "https://open.spotify.com/track/6baO8tFIkeFh0LUqMqkk6C"
+    },
+    {
+      "album": {
+        "name": "No Means No",
+        "url": "https://open.spotify.com/album/4vSLnL9L4YK3KT3gWOl2GO"
+      },
+      "artists": [
+        {
+          "name": "DMAO",
+          "url": "https://open.spotify.com/artist/7I1N6VLZiAXwulLEnuIkUg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "No Means No",
+      "url": "https://open.spotify.com/track/5zgFNWFAzeGqU4QxsdmyG5"
     },
     {
       "album": {

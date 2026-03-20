@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "10 SEGUNDOS",
+        "url": "https://open.spotify.com/album/1Y4VDN6EZjy7dCBdixGHdl"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154037,
+      "name": "10 SEGUNDOS",
+      "url": "https://open.spotify.com/track/48SYVECjCIwWWsqogDHWVF"
+    },
+    {
+      "album": {
         "name": "C\u00ea T\u00e1 Doido (S\u00e3o Jos\u00e9 Do Rio Preto) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu"
       },
@@ -7346,7 +7368,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 131002,
       "name": "Vigia de Celular - Uaiternativo - Ao Vivo",
       "url": "https://open.spotify.com/track/6pOF8hx8W0Az57PNjLjU7p"

@@ -6,7 +6,7 @@
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA4yDpCZsM3xf/OGGXPdLh6b4dEm2aW",
+  "snapshot_id": "AAA4yW7EDu+H4PYI67Ns3BrkyjnfHkrT",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -529,6 +529,26 @@
       "url": "https://open.spotify.com/track/6shAWZ1Syi2Q7BSAYY77FU"
     },
     {
+      "added_at": "2026-03-19 13:18:07",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/0daRddgcJATl4AKv58qJ2o"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "Temsu Clover",
+          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
+        }
+      ],
+      "duration_ms": 192623,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2WPzYNPh1tX7j4d3W1Ewjg"
+    },
+    {
       "added_at": "2026-03-07 16:24:03",
       "album": {
         "name": "Come Closer",
@@ -544,7 +564,7 @@
           "url": "https://open.spotify.com/artist/2VIhuQHWV8VY8rJQZCuVJ5"
         }
       ],
-      "duration_ms": 260000,
+      "duration_ms": 260433,
       "name": "Come Closer",
       "url": "https://open.spotify.com/track/0UREytiAyD0YqW8lzKIvbp"
     },

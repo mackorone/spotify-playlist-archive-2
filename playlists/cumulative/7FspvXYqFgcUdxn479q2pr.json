@@ -4067,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/4SHw0mtjHRoEghRurhIzvx"
+      },
+      "artists": [
+        {
+          "name": "Reggio",
+          "url": "https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185545,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/5EMhYHYl6OE7r0W7EbSMKY"
+    },
+    {
+      "album": {
         "name": "Darwin Falls",
         "url": "https://open.spotify.com/album/5r11NZrelXZXkHYOuCLCjD"
       },
@@ -8951,6 +8969,28 @@
     },
     {
       "album": {
+        "name": "I LIKE IT!",
+        "url": "https://open.spotify.com/album/6CMF8MoL1KSMZO5L45u9Nt"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Salvyan",
+          "url": "https://open.spotify.com/artist/0ueKhy5Vj2mxumUXB41yMf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141375,
+      "name": "I LIKE IT!",
+      "url": "https://open.spotify.com/track/35CYutcUenbFfg5UOGbWrT"
+    },
+    {
+      "album": {
         "name": "I Love The Way (feat. LEVi & Toddla T)",
         "url": "https://open.spotify.com/album/5a2H2FH5eh00AiqjxbN6gz"
       },
@@ -9648,6 +9688,32 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "album": {
+        "name": "Into The Sun (feat. Brieanna Grace)",
+        "url": "https://open.spotify.com/album/6Hul57nelgR1a4iHRnstpa"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197201,
+      "name": "Into The Sun (feat. Brieanna Grace)",
+      "url": "https://open.spotify.com/track/4FIFylQf9hYh440pXpBkmD"
     },
     {
       "album": {
@@ -10614,6 +10680,28 @@
       "duration_ms": 143709,
       "name": "Last Night (feat. Sadie Rose Van)",
       "url": "https://open.spotify.com/track/4gA4ndECS37Q9EtanM0SVG"
+    },
+    {
+      "album": {
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/35YOrHWgpUOe6DTnzOO8xj"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177201,
+      "name": "Last Night On Earth",
+      "url": "https://open.spotify.com/track/1uQPMFQqh9TZAHZhAZLTgZ"
     },
     {
       "album": {
@@ -20181,6 +20269,32 @@
     },
     {
       "album": {
+        "name": "Uma Can\u00e7\u00e3o (For Shelter)",
+        "url": "https://open.spotify.com/album/2rdvpDrYEyaQuv38yG2yhW"
+      },
+      "artists": [
+        {
+          "name": "Ashton Collier",
+          "url": "https://open.spotify.com/artist/5rvtJkGUH0MZLc52vQLCLT"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Sam Silva",
+          "url": "https://open.spotify.com/artist/3blV8KVYXODP5q8zxzfwYM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247868,
+      "name": "Uma Can\u00e7\u00e3o (For Shelter)",
+      "url": "https://open.spotify.com/track/6RkeAURZB3MhneWxcTeKA2"
+    },
+    {
+      "album": {
         "name": "Una Velita",
         "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
       },
@@ -21030,6 +21144,28 @@
       "duration_ms": 119047,
       "name": "Way Down Low (feat. Good Humans)",
       "url": "https://open.spotify.com/track/573QarJrvT8LynoeCzAg7R"
+    },
+    {
+      "album": {
+        "name": "We Don't Need",
+        "url": "https://open.spotify.com/album/6QFn2S5NqgwmXkr4kTsmlm"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "Hot Bullet",
+          "url": "https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "We Don't Need",
+      "url": "https://open.spotify.com/track/6Yowk2GeIUCOvxmLVIdAOg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Gara Dur\u00e1n.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Pipiolas.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Pipiolas",
+        "url": "https://open.spotify.com/album/0mqJ9htA1wLWFzEzwXSOgs"
+      },
+      "artists": [
+        {
+          "name": "Pipiolas",
+          "url": "https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174816,
+      "name": "Ahora que...",
+      "url": "https://open.spotify.com/track/6eEUOPQx0bvgYYcazkEhS5"
+    },
+    {
+      "album": {
         "name": "Ahora Qu\u00e9",
         "url": "https://open.spotify.com/album/4at4PncnsDMz7UvjGX5sWo"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 151607,
       "name": "ANESTESIAO",
       "url": "https://open.spotify.com/track/0VcGEiyZWei0OouJWYYknN"
@@ -1460,6 +1478,28 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
+    },
+    {
+      "album": {
+        "name": "Manual de Belleza",
+        "url": "https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212277,
+      "name": "BLZA",
+      "url": "https://open.spotify.com/track/1dZDInGD5Ao4ZEJuOAvOuI"
     },
     {
       "album": {
@@ -2830,7 +2870,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 153391,
       "name": "de ILEGALES",
       "url": "https://open.spotify.com/track/7bIS3xGQSMDdAw5ZBhFX51"
@@ -4316,7 +4356,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177321,
       "name": "escocia",
       "url": "https://open.spotify.com/track/1qxZNxDrYHpewkRHZDGuhr"
@@ -5961,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "Juan Antonio",
+        "url": "https://open.spotify.com/album/66hbmjcISI0nSUwf4c4Jm9"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Juan Antonio",
+      "url": "https://open.spotify.com/track/5dLCzulBlTAjpllHs0FFTp"
+    },
+    {
+      "album": {
         "name": "Juvenil",
         "url": "https://open.spotify.com/album/3Krto3PEJptwSC7FTA4dZF"
       },
@@ -6594,6 +6652,24 @@
       "duration_ms": 152762,
       "name": "La Vida Ca\u00f1\u00f3n",
       "url": "https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee"
+    },
+    {
+      "album": {
+        "name": "Largo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/5m4ELtMAznI7SkcKDEwjUe"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170259,
+      "name": "Largo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0DJZelRhM5zSLtu4YwqIYe"
     },
     {
       "album": {
@@ -8222,7 +8298,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 167750,
       "name": "Misma Liga",
       "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
@@ -8645,6 +8721,24 @@
     },
     {
       "album": {
+        "name": "MAKTUB",
+        "url": "https://open.spotify.com/album/28FVbzNNl06w1Vgx35RQ4N"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Najmi",
+      "url": "https://open.spotify.com/track/0G6GjeyJEvInceWmj9LzQ1"
+    },
+    {
+      "album": {
         "name": "NaNaNa",
         "url": "https://open.spotify.com/album/7vuN0baselq2ob0d6wkVua"
       },
@@ -9034,6 +9128,24 @@
       "duration_ms": 134160,
       "name": "No me saco e' la cabeza",
       "url": "https://open.spotify.com/track/2eoouHNmqle7D8OX6Rkcyz"
+    },
+    {
+      "album": {
+        "name": "No me Sueltes",
+        "url": "https://open.spotify.com/album/2cAAtbPVtNCce1L3RDPHHh"
+      },
+      "artists": [
+        {
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150379,
+      "name": "No me Sueltes",
+      "url": "https://open.spotify.com/track/4GHDwaTDba6xlGey1pCGwo"
     },
     {
       "album": {
@@ -10288,7 +10400,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 137475,
       "name": "Poki",
       "url": "https://open.spotify.com/track/1rOKNFlPxMF3qr7PYgUGcb"
@@ -11066,7 +11178,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187588,
       "name": "ROC\u00cdN",
       "url": "https://open.spotify.com/track/29A0LjKHNQj8sNlwk4ogze"
@@ -11370,7 +11482,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 180342,
       "name": "Ser grande siendo peque\u00f1o",
       "url": "https://open.spotify.com/track/4AzQzofO3Wfwe4zNLXjhdb"
@@ -12618,6 +12730,24 @@
       "duration_ms": 230653,
       "name": "tiene que ser m\u00e1s f\u00e1cil",
       "url": "https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh"
+    },
+    {
+      "album": {
+        "name": "Tierra de nadie (2/4)",
+        "url": "https://open.spotify.com/album/4GwBNtcVFoIz9pK1SkHxYK"
+      },
+      "artists": [
+        {
+          "name": "Dav",
+          "url": "https://open.spotify.com/artist/5Ypm25EKwroObJIOeAqh79"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149696,
+      "name": "Tierra de nadie (2/4)",
+      "url": "https://open.spotify.com/track/3lspOcEic2OlaoAIFyCiPF"
     },
     {
       "album": {

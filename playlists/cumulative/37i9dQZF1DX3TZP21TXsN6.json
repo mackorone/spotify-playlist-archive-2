@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: BFLQuatro, Flo, Vurr Flashy en meer\u2026",
+  "description": "Nieuw: VL Disappear, Hos, Bastosz en meer\u2026",
   "name": "Fresh Flows",
   "tracks": [
+    {
+      "album": {
+        "name": "$EXY",
+        "url": "https://open.spotify.com/album/0qRfJXuptU0lttmH1L0Dnp"
+      },
+      "artists": [
+        {
+          "name": "Bens",
+          "url": "https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118188,
+      "name": "$EXY",
+      "url": "https://open.spotify.com/track/6WAr4kqaqZXpiSUbvDOkeW"
+    },
     {
       "album": {
         "name": "1 Voor De Money",
@@ -38,7 +56,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 234545,
       "name": "10/10",
       "url": "https://open.spotify.com/track/7xgngrNmopJ549obUdrt7V"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148821,
       "name": "5",
       "url": "https://open.spotify.com/track/1dwPP3aarCe53wuSZk7jnC"
@@ -2429,6 +2447,28 @@
     },
     {
       "album": {
+        "name": "Doe gewoon (feat. ATLouis)",
+        "url": "https://open.spotify.com/album/3xkFvS2zHmY8mkzDzfTXt7"
+      },
+      "artists": [
+        {
+          "name": "Rz",
+          "url": "https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8"
+        },
+        {
+          "name": "ATLouis",
+          "url": "https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140051,
+      "name": "Doe gewoon (feat. ATLouis)",
+      "url": "https://open.spotify.com/track/2WYtV9kV5OYIz28ZrAegAL"
+    },
+    {
+      "album": {
         "name": "DOLCE & GABBANA",
         "url": "https://open.spotify.com/album/76Q7Qnr1qhU90Unkr9yL0t"
       },
@@ -3591,6 +3631,28 @@
     },
     {
       "album": {
+        "name": "Guess Who's Back",
+        "url": "https://open.spotify.com/album/5MCEAbxIw98c0zQNMl1ZL4"
+      },
+      "artists": [
+        {
+          "name": "Bastosz",
+          "url": "https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Guess Who's Back",
+      "url": "https://open.spotify.com/track/4hbdrNEyo15PGaJ3nOTNuS"
+    },
+    {
+      "album": {
         "name": "HAKIMI",
         "url": "https://open.spotify.com/album/532Xd7ZKo2gXyBYxU2y7U2"
       },
@@ -3700,7 +3762,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 146068,
       "name": "Haten",
       "url": "https://open.spotify.com/track/6KeLzjmdULnJxScv0gcXtD"
@@ -3942,7 +4004,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 203835,
       "name": "Hollander",
       "url": "https://open.spotify.com/track/4LIVJ4CtWiEzMlx5FMDUSm"
@@ -4287,6 +4349,28 @@
     },
     {
       "album": {
+        "name": "Jong Zijn",
+        "url": "https://open.spotify.com/album/6m9ITG8z8uIVLlIZDxJ8iI"
+      },
+      "artists": [
+        {
+          "name": "VL Disappear",
+          "url": "https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy"
+        },
+        {
+          "name": "Jordan Knows",
+          "url": "https://open.spotify.com/artist/5PfjH7mhfa4dZf3SQhuzId"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139368,
+      "name": "Jong Zijn",
+      "url": "https://open.spotify.com/track/3vm8o96SmY5B8Ogq4T7UpJ"
+    },
+    {
+      "album": {
         "name": "Jonge van Beethoven",
         "url": "https://open.spotify.com/album/3wPDHdpHJX8zW8pdRimiAR"
       },
@@ -4450,7 +4534,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148611,
       "name": "Kelderklasse",
       "url": "https://open.spotify.com/track/2WdHe9erdGAjXYf3GYpAIw"
@@ -5150,7 +5234,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 129333,
       "name": "Life",
       "url": "https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1"
@@ -5902,7 +5986,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 167272,
       "name": "Minor",
       "url": "https://open.spotify.com/track/21F8F0dFQdYMRWL2SDrEy3"
@@ -6019,6 +6103,28 @@
     },
     {
       "album": {
+        "name": "Money Related",
+        "url": "https://open.spotify.com/album/4CdlDQzsXipQab8Wgb3oIT"
+      },
+      "artists": [
+        {
+          "name": "Hos",
+          "url": "https://open.spotify.com/artist/7ifVl6NLsutQy73RYugPwo"
+        },
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161641,
+      "name": "Money Related",
+      "url": "https://open.spotify.com/track/3EHUSR2MMIjlffuQXqwY9z"
+    },
+    {
+      "album": {
         "name": "Money up",
         "url": "https://open.spotify.com/album/1USUn7mimk2br4xW7BhPOV"
       },
@@ -6071,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1MZc1Qof7viTF8fn0B1yTe"
+      },
+      "artists": [
+        {
+          "name": "IKER",
+          "url": "https://open.spotify.com/artist/0RgWG68I2ybn4jLZlcDWqC"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/0HH40IzI6jPklR8ZtWPjJy"
+    },
+    {
+      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/4SIY5DbET8kwUPCozgi72B"
       },
@@ -6090,7 +6214,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 130285,
       "name": "Movie",
       "url": "https://open.spotify.com/track/6YRkOlYagaDyXAk3s2jNpH"
@@ -6120,7 +6244,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 176640,
       "name": "Mo\u00ebt & Belvedere - Remix",
       "url": "https://open.spotify.com/track/5aOHbf5szJmS1nlTEdI5BY"
@@ -6230,7 +6354,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 120500,
       "name": "Nasty Valentine",
       "url": "https://open.spotify.com/track/4YpurA219M0G3HtbBbU2x4"
@@ -6248,7 +6372,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 166336,
       "name": "Net Iets Meer",
       "url": "https://open.spotify.com/track/3pT7ovGitM5OW95DEM60oq"
@@ -6906,7 +7030,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 182400,
       "name": "ONLY US",
       "url": "https://open.spotify.com/track/5RrlCVoQC6h5lzLNLPVOLd"
@@ -8831,6 +8955,24 @@
     },
     {
       "album": {
+        "name": "Uitgeslapen",
+        "url": "https://open.spotify.com/album/2njmeJEn3bd6YhHb6rFvNH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sellah",
+          "url": "https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Uitgeslapen",
+      "url": "https://open.spotify.com/track/6lO8IJq5FzE9ohHNkeSwvR"
+    },
+    {
+      "album": {
         "name": "Uitleg",
         "url": "https://open.spotify.com/album/0YQEun65Mm0QyRcR0NInym"
       },
@@ -9195,6 +9337,24 @@
     },
     {
       "album": {
+        "name": "VPN",
+        "url": "https://open.spotify.com/album/6tcDlzC7Rbzoc0mtyimRmf"
+      },
+      "artists": [
+        {
+          "name": "B4RKIE",
+          "url": "https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "VPN",
+      "url": "https://open.spotify.com/track/6DgjFcBIv6mRAaAsbJUEQk"
+    },
+    {
+      "album": {
         "name": "Vragen",
         "url": "https://open.spotify.com/album/20fH2cRdR3h5x5erbi9oCO"
       },
@@ -9236,7 +9396,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 197168,
       "name": "Waardige Staar",
       "url": "https://open.spotify.com/track/5FISJUWXdZPN0kMjvJF9S7"
@@ -9316,7 +9476,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152608,
       "name": "Wat ik voel",
       "url": "https://open.spotify.com/track/1ketT97Cie18kU6gH4iSHH"
@@ -9718,7 +9878,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 207428,
       "name": "Zo Jong",
       "url": "https://open.spotify.com/track/4ZoZALmGXlkDbfYnghv8es"

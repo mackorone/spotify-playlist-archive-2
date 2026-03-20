@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷 La Fiera de Ojinaga en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,790 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,817 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 8 | [Mi Credo](https://open.spotify.com/track/5n0P5exIlP2OaN5ezEcLHr) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Mi Credo](https://open.spotify.com/album/63LSGQMYobZ2e7VGbhoGqK) | 2:29 |
 | 9 | [El Infierno](https://open.spotify.com/track/5eOGAIAg1BrWCrAOe0nQ4U) | [Grupo Legitimo](https://open.spotify.com/artist/5gK5oK6eqn17Rf7K0ljxi8) | [Trival](https://open.spotify.com/album/7KLMP956QnJIwjxAqnT03t) | 4:17 |
 | 10 | [Electrohuapango Popurrí: Don / La Danza del Chicahual / Molinos de Viento / El Caballito de Mar](https://open.spotify.com/track/4j00lToQqeXrIDyDegpI1Z) | [Kikin y Los Astros](https://open.spotify.com/artist/5esNpX3rlw42k8Lc8BWCYx) | [Electrohuapango Popurrí](https://open.spotify.com/album/6cNRfP7QZyVZnRAiFjsSjJ) | 4:57 |
-| 11 | [Mirenla Admirenla \- Huapango Tribal Tumbado](https://open.spotify.com/track/6NvVCWNs28ZnlY0DeEnU18) | [Tribaleros MX](https://open.spotify.com/artist/2fnFV0DbrYv9blgSb8Y7vM), [Kódigo 7umbado](https://open.spotify.com/artist/5NLXsuJqce8cbkHg2UJb59) | [Mirenla Admirenla \(Huapango Tribal Tumbado\)](https://open.spotify.com/album/3enie16y1gHWpKgVPIK9SN) | 3:46 |
+| 11 | [Mirenla Admirenla](https://open.spotify.com/track/6NvVCWNs28ZnlY0DeEnU18) | [Tribaleros MX](https://open.spotify.com/artist/2fnFV0DbrYv9blgSb8Y7vM), [Kódigo 7umbado](https://open.spotify.com/artist/5NLXsuJqce8cbkHg2UJb59) | [Mirenla Admirenla](https://open.spotify.com/album/3enie16y1gHWpKgVPIK9SN) | 3:46 |
 | 12 | [Quise](https://open.spotify.com/track/7gS12BA7nNzh40aXc3SifB) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/43G6dJIuUUFFFXQ23KUQ2F) | 3:09 |
 | 13 | [Como Los Vaqueros](https://open.spotify.com/track/1p0i3w8Fp0OS2HOzWFPajF) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L) | [Como Los Vaqueros](https://open.spotify.com/album/5B4zC9ph3LVyVY6zwwov9f) | 2:52 |
 | 14 | [Todo Lo Fue](https://open.spotify.com/track/64GZDnrcHHW3lAnx05g7pI) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Todo Lo Fue](https://open.spotify.com/album/735I46REeAjkcMEkQbK86H) | 2:51 |

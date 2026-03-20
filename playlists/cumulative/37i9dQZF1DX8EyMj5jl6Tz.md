@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-195 songs - 8 hr 40 min
+196 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Carnaval Do Brasil](https://open.spotify.com/track/0sH9GexrcK3yhMCREq2OOX) | [Henk](https://open.spotify.com/artist/5yt5ZGD6Q2FfK1Elw2Efbv) | [Carnaval Do Brasil](https://open.spotify.com/album/6yFxZIQutnNrI4EAEDhvq5) | 2:51 | 2025-10-31 |  |
 | [Coming Home](https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Coming Home](https://open.spotify.com/album/7uCJbAjUNki8L9qO5IGHE1) | 2:35 | 2025-07-10 |  |
 | [Conga](https://open.spotify.com/track/4uYQIfG7I2a2215Xdlf4iT) | [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Mastik Lickers](https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN), [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv), [Audiosonik](https://open.spotify.com/artist/7kMmIuIMrfztBnJn5HZuob), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Conga](https://open.spotify.com/album/39DG1QAm3KtNkQMAZDzrm5) | 2:20 | 2025-07-10 |  |
+| [Could You Be Loved](https://open.spotify.com/track/7auxXfuzqVQLuzFhgjL1cQ) | [Alphajack](https://open.spotify.com/artist/16QqxKys1labZDMzVuZ8D9) | [Could You Be Loved](https://open.spotify.com/album/3JkfQCdWvU710YgVcnE1I3) | 1:53 | 2026-03-19 |  |
 | [Country Roads, Take Me Home \- 2024 Mix](https://open.spotify.com/track/0PCRNtWlXWMcf3HlDhDa3i) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Country Roads, Take Me Home \(2024 Mix\)](https://open.spotify.com/album/1tOOCHUQSI6JJjmgW2nYD4) | 2:18 | 2025-07-10 |  |
 | [Cry \(Just A Little\)](https://open.spotify.com/track/5aLTtkq9oHUCCVO96gyNQN) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB) | [Cry \(Just A Little\)](https://open.spotify.com/album/3XnwQ88D5UqWNYXpRQw5ji) | 2:43 | 2025-09-11 |  |
 | [Cry For You](https://open.spotify.com/track/3rgTtY3yfOtJas1hxTye3x) | [Basstrologe](https://open.spotify.com/artist/6OMAZu0PYOsl3kONOQV9Zk), [D.N.S](https://open.spotify.com/artist/0a4v4FxuMsYSSc4PXbgKkc) | [Cry For You](https://open.spotify.com/album/2eIUTbijLZp5fTb2W5eghF) | 2:32 | 2025-07-10 | 2025-09-05 |
@@ -130,7 +131,7 @@
 | [Pompeii](https://open.spotify.com/track/3egSGj2YB8QtGbzSLVjuKB) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ) | [Pompeii](https://open.spotify.com/album/5AXGOlpPybXZwPyIi4tcIM) | 2:07 | 2025-07-10 |  |
 | [Pon De Replay](https://open.spotify.com/track/0Pf0qMHAWrAkEQOfy0cm6H) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [Pon De Replay](https://open.spotify.com/album/2pz2xrOldHvovzJvErMGA9) | 2:02 | 2025-07-10 |  |
 | [Popcorn](https://open.spotify.com/track/7e86UGGXwQXn5lXhxo1Blf) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Payback](https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE) | [Popcorn](https://open.spotify.com/album/695LgauTSn8ULBulzlCMey) | 2:50 | 2025-07-10 |  |
-| [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2025-07-10 |  |
+| [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2025-07-10 | 2026-03-20 |
 | [Pump It Up](https://open.spotify.com/track/1uPKdCqA7TOUGmYgiGVQ5g) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 2:47 | 2025-07-10 |  |
 | [Replay](https://open.spotify.com/track/0hScGmsBneIBP2K1Emd7ck) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [YOIA](https://open.spotify.com/artist/05Uufgky0rWAFwZbsSwlBB) | [Replay](https://open.spotify.com/album/1OPvH0zrF1QJOxzu0ZuhWW) | 2:45 | 2025-07-10 |  |
 | [Ridin' Dirty](https://open.spotify.com/track/2eHDuXlnG21sfPV2XTufWY) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [NXNJAS](https://open.spotify.com/artist/3NiiV7QNgurciXVAmr2C7o), [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb) | [Ridin' Dirty](https://open.spotify.com/album/5mnLXTacNtrmWrchALjk4A) | 2:49 | 2025-07-10 |  |

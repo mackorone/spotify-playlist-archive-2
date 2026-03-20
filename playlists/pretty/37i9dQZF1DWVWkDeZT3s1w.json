@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 120544,
+  "num_followers": 120585,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Tiempos Muertos",
+        "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
+      },
+      "artists": [
+        {
+          "name": "Elote el Barbaro",
+          "url": "https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m"
+        },
+        {
+          "name": "Sinful",
+          "url": "https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2"
+        }
+      ],
+      "duration_ms": 286673,
+      "name": "Esto Es M\u00e9xico",
+      "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "THE RULES",
         "url": "https://open.spotify.com/album/7tyUUAbaAgku8WzXWTkoP7"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 693654,
       "name": "THE RULES",
       "url": "https://open.spotify.com/track/2Q8mFo9kEhgf2rgNOIHK86"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Tiempos Muertos",
-        "url": "https://open.spotify.com/album/23MFmAALUwxvxcW0yBBXpV"
-      },
-      "artists": [
-        {
-          "name": "Elote el Barbaro",
-          "url": "https://open.spotify.com/artist/0yWcBatdQPfGvY4XEGeD6m"
-        },
-        {
-          "name": "Sinful",
-          "url": "https://open.spotify.com/artist/0Pe4PWfk1dWblSMuxQbKt2"
-        }
-      ],
-      "duration_ms": 286673,
-      "name": "Esto Es M\u00e9xico",
-      "url": "https://open.spotify.com/track/7wQnxrNTZiOPjZu1kXUttb"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Benedicto",
         "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 194666,
       "name": "Benedicto",
       "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Hombre (One Shot) [Remix]",
-        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
-      },
-      "artists": [
-        {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
-        },
-        {
-          "name": "Discan",
-          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Hombre (One Shot) - Remix",
-      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Tiempos Felices",
         "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 201399,
       "name": "Tiempos Felices",
       "url": "https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Hombre (One Shot) [Remix]",
+        "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        },
+        {
+          "name": "Discan",
+          "url": "https://open.spotify.com/artist/7I7KLUX6kCxnrZMDJOontY"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "Hombre (One Shot) - Remix",
+      "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Despiertas",
-        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
-      },
-      "artists": [
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        },
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        }
-      ],
-      "duration_ms": 171690,
-      "name": "Despiertas",
-      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Vive Libre",
         "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 228000,
       "name": "Vive Libre",
       "url": "https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Despiertas",
+        "url": "https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu"
+      },
+      "artists": [
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
+        },
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        }
+      ],
+      "duration_ms": 171690,
+      "name": "Despiertas",
+      "url": "https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Poes\u00eda Difusa",
-        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 316784,
-      "name": "Chico Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Ser\u00e1 posible?",
         "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 158500,
       "name": "Ser\u00e1 posible?",
       "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Poes\u00eda Difusa",
+        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 316784,
+      "name": "Chico Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
     },
     {
       "added_at": "2025-05-23 06:00:30",

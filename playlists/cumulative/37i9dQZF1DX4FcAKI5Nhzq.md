@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: LATENCY \(레이턴시\)\)
 
-1,616 songs - 3 day 14 hr 41 min
+1,618 songs - 3 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [B.O.M.B \- KABOOM ver.](https://open.spotify.com/track/435tPAXJyzIEBzxYsHeUhd) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [B.O.M.B \(KABOOM ver.\)](https://open.spotify.com/album/4MPeGD5fJa85Q8k3AwFGJS) | 3:37 | 2023-10-20 | 2023-10-28 |
 | [B.T.W \(feat\. Jay Park\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:12 | 2021-08-27 | 2021-10-13 |
 | [Baby](https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Baby](https://open.spotify.com/album/3myL1yEMNbzCosXULCjhAO) | 3:09 | 2023-07-07 | 2023-08-12 |
+| [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 | 2026-03-20 |  |
 | [Baby, Not Baby](https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:13 | 2025-03-12 | 2025-04-19 |
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2020-10-13\* | 2021-03-18 |
 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 | 2022-12-13 | 2023-04-07 |
@@ -316,7 +317,7 @@
 | [Creamppang](https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Creamppang](https://open.spotify.com/album/2D0VlLiR8TavwuwEyHkavW) | 2:49 | 2021-05-11 | 2021-06-25 |
 | [Criminal](https://open.spotify.com/track/2KXEE2MsPZLmT38XiyAOpH) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:31 | 2020-10-13\* | 2021-03-18 |
 | [Criminal \(Feat\. MC MONG\)](https://open.spotify.com/track/2Pa2nJbeFRgzL8twqs06S8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [Criminal \(Feat\. MC MONG\)](https://open.spotify.com/album/5k2dXby8yLoMHBFoBlQEf4) | 3:04 | 2024-07-05 | 2024-08-09 |
-| [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 | 2026-01-19 |  |
+| [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 | 2026-01-19 | 2026-03-20 |
 | [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 | 2023-11-08 | 2024-01-30 |
 | [Crush!](https://open.spotify.com/track/6lZrMteR4f7nHrNW4ot3H1) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Crush!](https://open.spotify.com/album/0clcYq3eLhpPzTF4TCp8XB) | 2:08 | 2023-12-01 | 2024-02-02 |
 | [CRZY](https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [TASTE \- The 1st Album](https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U) | 3:26 | 2025-09-09 | 2025-10-21 |
@@ -352,6 +353,7 @@
 | [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 3:58 | 2020-10-13\* | 2020-11-16 |
 | [Dazzle Flash](https://open.spotify.com/track/0UIUWBylHJE3Ab7Dru1dN0) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [Hyper](https://open.spotify.com/album/275Rlsp2De6eV7EZlEFv0L) | 2:38 | 2026-02-20 |  |
 | [DDARA](https://open.spotify.com/track/5ZGWNNcE2q3v8phEw0ZWci) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [DDARA](https://open.spotify.com/album/7vYhvCOcaB9udeX2oK5QMX) | 3:45 | 2021-10-13 | 2021-11-19 |
+| [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 | 2026-03-20 |  |
 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 | 2025-06-09 | 2025-07-16 |
 | [Dear My Light](https://open.spotify.com/track/0UXLLeFAFbo5JbSR9C4STe) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Dear My Light](https://open.spotify.com/album/1HIwbRLI1l4U0HcfCZwo11) | 2:55 | 2023-04-13 | 2023-07-22 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-13 | 2022-08-26 |
@@ -1591,7 +1593,7 @@
 | [Yes We Are](https://open.spotify.com/track/4Posl8hBAZxPVWguogt3og) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/79l0iWkT4NjXY2tjqXLfiB) | 2:53 | 2026-01-20 | 2026-03-19 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-17 | 2023-04-27 |
 | [YG \- Spotify Singles](https://open.spotify.com/track/0QeZDFhBQGIrFgkmaIEko9) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [YEOHO](https://open.spotify.com/artist/4228BjQOcYIzpST8mLwR2V) | [Spotify Singles](https://open.spotify.com/album/0PAZM8z8Xa56Lmp0DZzTSp) | 3:09 | 2023-03-06 | 2023-04-21 |
-| [Yin and Yang](https://open.spotify.com/track/6CyRYi1FXygOyejKcfZeJI) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yin and Yang](https://open.spotify.com/album/4wEyDGNGZUVetM252x1D5W) | 2:07 | 2026-01-21 |  |
+| [Yin and Yang](https://open.spotify.com/track/6CyRYi1FXygOyejKcfZeJI) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yin and Yang](https://open.spotify.com/album/4wEyDGNGZUVetM252x1D5W) | 2:07 | 2026-01-21 | 2026-03-20 |
 | [You](https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 4\. \[You\]](https://open.spotify.com/album/4dvlOLOSqR0oOW1bNtXZDb) | 3:18 | 2024-07-30 | 2024-09-10 |
 | [YOU AND I](https://open.spotify.com/track/2hHOqDemKev23WuLV8Rhwv) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [YOU AND I](https://open.spotify.com/album/4MoiswkE556lt1PuCCOUIE) | 2:49 | 2025-07-15 | 2025-08-19 |
 | [You Are Spring](https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG) | [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [Spring Fever, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN) | 3:47 | 2026-01-21 | 2026-03-12 |

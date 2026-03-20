@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Fatin
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,058 likes - 184 songs - 12 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,082 likes - 184 songs - 12 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 | 124 | [Wanita Masih Banyak](https://open.spotify.com/track/5H60BCrbWBocSIAoZwjxwD) | [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [Melodichildish](https://open.spotify.com/album/6Ww2FnpfXq6wYZHgzFl4pV) | 3:52 |
 | 125 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
 | 126 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
-| 127 | [Seluruh Nafas Ini](https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:52 |
+| 127 | [Seluruh Nafas Ini \(feat\. Giselle\)](https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Our Biggest Thing Ever](https://open.spotify.com/album/0lmWHPA0DAJY2xKscafErm) | 4:52 |
 | 128 | [Tentang Rindu](https://open.spotify.com/track/5bG0Nj8pt4fM8LTG9PiWmu) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Kedua](https://open.spotify.com/album/6n4rcbxKg2BTGU8gjDQKEP) | 4:01 |
 | 129 | [Sewindu](https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 4:00 |
 | 130 | [Could It Be](https://open.spotify.com/track/2EJqk0IabX2xVZHOl3YuXu) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/4BZl8mzxQXW0CeOWEV4vek) | 3:41 |

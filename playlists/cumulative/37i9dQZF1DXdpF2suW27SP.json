@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "Prod\u00edgio, Bispo, Gson entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -7839,6 +7839,24 @@
     },
     {
       "album": {
+        "name": "FYNTA",
+        "url": "https://open.spotify.com/album/67eM7l7OhAWshwz9uevR4A"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212872,
+      "name": "FYNTA",
+      "url": "https://open.spotify.com/track/0X6SKCzx98CRhbNtMSGWRR"
+    },
+    {
+      "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/7hapMvQZnEIt1dgxVRyfTI"
       },
@@ -7964,6 +7982,28 @@
       "duration_ms": 137142,
       "name": "Gangway #3",
       "url": "https://open.spotify.com/track/6UcAbc5vFLZy2gQ7QLM2Ln"
+    },
+    {
+      "album": {
+        "name": "MITO",
+        "url": "https://open.spotify.com/album/6bxYjF61m2zuL5Yoxkyopn"
+      },
+      "artists": [
+        {
+          "name": "Landim",
+          "url": "https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh"
+        },
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115294,
+      "name": "GB4L",
+      "url": "https://open.spotify.com/track/2al9yrM2ZkGOGfcnwevaRZ"
     },
     {
       "album": {
@@ -10700,7 +10740,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 162000,
       "name": "Manda Fogo",
       "url": "https://open.spotify.com/track/3TzLz0o0ilVEmc2EUGl7zM"
@@ -10906,7 +10946,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 166357,
       "name": "Marital",
       "url": "https://open.spotify.com/track/74ZgDex0thEt3VIxlnkpL9"
@@ -16250,7 +16290,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 193333,
       "name": "Sac 2660",
       "url": "https://open.spotify.com/track/2JhekrzSS6kInDeZOT7XXy"
@@ -19038,6 +19078,24 @@
       "duration_ms": 197112,
       "name": "Undeu",
       "url": "https://open.spotify.com/track/1Ydix7bIZSDHc7oefzmDw4"
+    },
+    {
+      "album": {
+        "name": "UNIVERSO",
+        "url": "https://open.spotify.com/album/7953aKGtpXmJpBIrjN5BOp"
+      },
+      "artists": [
+        {
+          "name": "MUN",
+          "url": "https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "UNIVERSO",
+      "url": "https://open.spotify.com/track/4Hf1fvy3UbgAAYDiV1kp9A"
     },
     {
       "album": {

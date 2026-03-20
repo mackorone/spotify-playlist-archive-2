@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Selin",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Sefo x \u0130rem Derici",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -470,6 +470,28 @@
       "duration_ms": 151000,
       "name": "Anlatamam",
       "url": "https://open.spotify.com/track/6DvmF8iireotLfNH5oouqV"
+    },
+    {
+      "album": {
+        "name": "Anlayamazs\u0131n",
+        "url": "https://open.spotify.com/album/1FcM8rddkOgnrmEBQeqvEO"
+      },
+      "artists": [
+        {
+          "name": "Sakiler",
+          "url": "https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK"
+        },
+        {
+          "name": "\u0130stanbul Strings",
+          "url": "https://open.spotify.com/artist/2VcUWYiSenFWbc5gnSBZfd"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264205,
+      "name": "Anlayamazs\u0131n",
+      "url": "https://open.spotify.com/track/5BTiI3keB5Br1P19RjjT7z"
     },
     {
       "album": {
@@ -2050,7 +2072,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 264729,
       "name": "Bir G\u00fczellik Yap - Live",
       "url": "https://open.spotify.com/track/7IsaefBFQoXvZtDsi3fslv"
@@ -2730,7 +2752,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 209287,
       "name": "Daha Nas\u0131l Anlatay\u0131m",
       "url": "https://open.spotify.com/track/75laORP3PNVoba0tr3yRzZ"
@@ -4342,7 +4364,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 184500,
       "name": "Haketmedim Olanlar\u0131",
       "url": "https://open.spotify.com/track/5lyaTCH9XecEeU3nM7VSSC"
@@ -5491,6 +5513,28 @@
     },
     {
       "album": {
+        "name": "KORKAK",
+        "url": "https://open.spotify.com/album/4QtkFNM0pkdfYVRJtDcuDJ"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6khan \u00d6zen",
+          "url": "https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB"
+        },
+        {
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250726,
+      "name": "KORKAK",
+      "url": "https://open.spotify.com/track/4XqfG0novYyoshk2JW3Ypr"
+    },
+    {
+      "album": {
         "name": "Korkum Bundan",
         "url": "https://open.spotify.com/album/7hm2b1Q3UTpr6FVbdWP5iL"
       },
@@ -6490,7 +6534,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 106206,
       "name": "Nereye Kadar",
       "url": "https://open.spotify.com/track/0N25XB3u1VyI10lcgSKDhX"
@@ -6904,6 +6948,24 @@
       "duration_ms": 162000,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/38iMOXptk023Z9IxRDo9iU"
+    },
+    {
+      "album": {
+        "name": "Pasl\u0131 Sand\u0131k",
+        "url": "https://open.spotify.com/album/5z5hTPBHnpdzc5EJDaitcy"
+      },
+      "artists": [
+        {
+          "name": "Aysel Yakupo\u011flu",
+          "url": "https://open.spotify.com/artist/2ZXIEujgkSOHFk47ra8Z1m"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157384,
+      "name": "Pasl\u0131 Sand\u0131k",
+      "url": "https://open.spotify.com/track/6JENFxIrwe7JLKFYEYJeXh"
     },
     {
       "album": {
@@ -7687,6 +7749,28 @@
     },
     {
       "album": {
+        "name": "Senden Kalanlar",
+        "url": "https://open.spotify.com/album/3T1ITiHfBlStHbXkYdUzGj"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176407,
+      "name": "Senden Kalanlar",
+      "url": "https://open.spotify.com/track/4wfenAbKjdMEIH8xt3R1Cp"
+    },
+    {
+      "album": {
         "name": "Seni Bana Vermediler",
         "url": "https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj"
       },
@@ -8230,7 +8314,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 224561,
       "name": "Sonuna Kadar",
       "url": "https://open.spotify.com/track/6dUGHAYukIKfy2R0JpnC40"
@@ -10368,6 +10452,28 @@
       "duration_ms": 177091,
       "name": "\u00dczg\u00fcn\u00fcm",
       "url": "https://open.spotify.com/track/0hhfaytUvJM5ouXayoEuPc"
+    },
+    {
+      "album": {
+        "name": "\u00dcz\u00fclmedim Ki",
+        "url": "https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154402,
+      "name": "\u00dcz\u00fclmedim Ki",
+      "url": "https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH"
     },
     {
       "album": {

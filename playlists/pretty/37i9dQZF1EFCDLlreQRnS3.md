@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 79 | [PARIS](https://open.spotify.com/track/0NfeAyYr0WWnV33gYfKOFY) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [PARIS](https://open.spotify.com/album/7mFz9BHV1E6VDp9DLMll1q) | 2:25 |
 | 80 | [Shapeshifting](https://open.spotify.com/track/0wyrhNheLaN7wyiW1TaJ0D) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 3:26 |
 | 81 | [Oasis](https://open.spotify.com/track/5gFMmlneOGAKlGYEKQIFEX) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Oasis](https://open.spotify.com/album/6xOinKBhlnTjIdMRCJgg4I) | 2:43 |
-| 82 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
-| 83 | [Yeah Yeah Yeah](https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:55 |
+| 82 | [Yeah Yeah Yeah](https://open.spotify.com/track/7pJeq5nRA2NhrRuIxvM3ZV) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:55 |
+| 83 | [Comfortable](https://open.spotify.com/track/4h7ZS66TqqTnQcNn9DDZkx) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Résumé](https://open.spotify.com/album/1LdMSrbrbw2Gabc5na3mcO) | 3:56 |
 | 84 | [Wallet, Keys & Phone](https://open.spotify.com/track/7mux2YcZHv7HQPfj8wPlcG) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [French Pirates](https://open.spotify.com/artist/0kTuCWShcfxSpOKQ2xYdf3) | [Wallet, Keys & Phone](https://open.spotify.com/album/2AdOab51bDityCFh0kROI2) | 2:53 |
 | 85 | [Bilder im Kopf](https://open.spotify.com/track/2R1zXcvgZz74fjZM3VUQlT) | [Ella Endlich](https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2) | [Im Vertrauen](https://open.spotify.com/album/224TphESj01IM70mwROTgj) | 3:10 |
 | 86 | [Foundations](https://open.spotify.com/track/7lkwDDJUosg2aejawcon9O) | [Adam Ulanicki](https://open.spotify.com/artist/1vpmKYpHvgrwxooa6PCtsQ) | [Foundations](https://open.spotify.com/album/7B0pezOTRnXZQyURsjirjc) | 2:50 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 124 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 125 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcMflAAAAADRAoHf1vCwbstt42bspKy+`
+Snapshot ID: `AcMlNAAAAADRTahEsx+tpuGUyM29aHRB`

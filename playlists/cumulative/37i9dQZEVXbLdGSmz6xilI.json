@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/2pm7K14nHj2fLrpU8j9bit"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 256905,
       "name": "24H",
       "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 245750,
       "name": "Anh \u0110\u00e3 Kh\u00f4ng Bi\u1ebft C\u00e1ch Y\u00eau Em",
       "url": "https://open.spotify.com/track/1hPbWyZnUPaeAWbOSKwkXJ"
@@ -5218,7 +5218,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 214158,
       "name": "CH\u1edc ANH V\u1ec0",
       "url": "https://open.spotify.com/track/7dlgEjrK3lHbP786dshKDV"
@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 174000,
       "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
       "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
@@ -6526,6 +6526,24 @@
       "duration_ms": 247413,
       "name": "Danger",
       "url": "https://open.spotify.com/track/5S5Pnnyx7I4WLtOYeeVSVM"
+    },
+    {
+      "album": {
+        "name": "daobuochongkong",
+        "url": "https://open.spotify.com/album/17Rt4frgos4VJ6djpbXDs0"
+      },
+      "artists": [
+        {
+          "name": "NHONHO m\u01a1i nh\u1ea1c",
+          "url": "https://open.spotify.com/artist/4fkaG6CTAlYm3daxCqiQzt"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209605,
+      "name": "daobuochongkong",
+      "url": "https://open.spotify.com/track/402pYgXoUIiWfZFhafcloO"
     },
     {
       "album": {
@@ -7488,7 +7506,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/4MCP9l0QB9YN2LCkIy8mz4"
@@ -16378,7 +16396,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 214438,
       "name": "Ng\u00e0n N\u0103m \u00c1nh S\u00e1ng",
       "url": "https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5"
@@ -23980,7 +23998,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -26006,7 +26024,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"

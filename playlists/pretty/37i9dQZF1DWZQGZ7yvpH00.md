@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 en Yahritza y Su Esencia portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,195 likes - 77 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,141 likes - 77 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Sleepy Hallow, Joyner Lucas, Y.G and more
 
-563 songs - 1 day 4 hr 45 min
+564 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Middle of the Summer](https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Middle of the Summer](https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2) | 2:52 | 2025-11-28 | 2025-12-06 |
 | [MIDST](https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [MIDST](https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER) | 2:40 | 2024-02-16 | 2024-04-19 |
 | [Mink](https://open.spotify.com/track/5x6ufTZrcowzAQXq97MIQu) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Mink](https://open.spotify.com/album/7wM4xWUZjUsaUEF0xAsfgZ) | 2:46 | 2024-06-14 | 2024-10-19 |
+| [Minks In Miami](https://open.spotify.com/track/1UC82aenDIiSaCEXp5jNpS) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Minks In Miami](https://open.spotify.com/album/5vVAfd7JRgOooDtlspNLlQ) | 2:50 | 2026-03-13 |  |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-06 | 2024-10-05 |
 | [Monitoring Me](https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Monitoring Me](https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV) | 2:24 | 2024-10-04 | 2025-01-11 |
 | [Monsters Inc\. \(feat\. Future\)](https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 3:03 | 2024-06-07 | 2024-08-24 |

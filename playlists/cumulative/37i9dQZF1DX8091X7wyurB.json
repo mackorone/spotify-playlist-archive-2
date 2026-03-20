@@ -1045,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "Arise (Over the Nations) [Live]",
+        "url": "https://open.spotify.com/album/0vOm5gVUrLOJH8sbNzORgc"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410952,
+      "name": "Arise (Over the Nations) - Live",
+      "url": "https://open.spotify.com/track/5rlI8fiWdU4LQER9uzOHY7"
+    },
+    {
+      "album": {
         "name": "Arojinle",
         "url": "https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At"
       },
@@ -1831,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Boma",
+        "url": "https://open.spotify.com/album/0NmWxEOqLxYuuZbP3VTSBr"
+      },
+      "artists": [
+        {
+          "name": "Fome Peters",
+          "url": "https://open.spotify.com/artist/6pa2ODjcM6q2fE7uaBksz0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Boma",
+      "url": "https://open.spotify.com/track/1c0Nyayn5KRn9pePaXoeMn"
+    },
+    {
+      "album": {
         "name": "Endless Worship",
         "url": "https://open.spotify.com/album/0RzwSPDwajoGi1WgGevbxX"
       },
@@ -2114,6 +2154,28 @@
       "duration_ms": 214989,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
     },
     {
       "album": {
@@ -4758,7 +4820,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 392870,
       "name": "God Will Work It Out",
       "url": "https://open.spotify.com/track/5evSnRhml9lC1iYr0Oanet"
@@ -5899,6 +5961,24 @@
     },
     {
       "album": {
+        "name": "Highly Lifted",
+        "url": "https://open.spotify.com/album/3w1eEMex8DPkySUT0hrl3p"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339207,
+      "name": "Highly Lifted",
+      "url": "https://open.spotify.com/track/7B4o2XhrtS0kvWpkxqsP9Q"
+    },
+    {
+      "album": {
         "name": "His Own (Leave Me Alone)",
         "url": "https://open.spotify.com/album/2EJzFXvdGBLUaTrcILHbJw"
       },
@@ -6094,7 +6174,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 576041,
       "name": "Holy Ghost My Safe Zone",
       "url": "https://open.spotify.com/track/6eisBzfE1a6sxwFiZBW0Lj"
@@ -6170,7 +6250,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 219469,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR"
@@ -7486,7 +7566,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 279160,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO"
@@ -8388,7 +8468,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 596235,
       "name": "K\u00c1B\u00cdY\u00c8S\u00cd R\u0118 - Live",
       "url": "https://open.spotify.com/track/4r0LxRMfz4ZRrGCVDLDjq7"
@@ -8532,7 +8612,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 443614,
       "name": "Lifter Of Men - Higher",
       "url": "https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ"
@@ -10014,7 +10094,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 388866,
       "name": "Ndenzel' Uncedo Hymn 377 - Live",
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"
@@ -11930,7 +12010,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 370476,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/5991gdcJDASAS0c1DHX4iv"
@@ -12228,7 +12308,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172476,
       "name": "REMEMBER ME",
       "url": "https://open.spotify.com/track/77uZbj8IvWRkHpmSAGCIfc"
@@ -13584,7 +13664,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 250477,
       "name": "That's My King",
       "url": "https://open.spotify.com/track/7kfKCB4MvQJCrMy8pQlWiQ"
@@ -15758,7 +15838,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 160062,
       "name": "WORTHY OF MY PRAISE - LIVE",
       "url": "https://open.spotify.com/track/2RvfkKlp8J23p7Gk5eo8oJ"
@@ -16574,7 +16654,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 468800,
       "name": "YOUR MERCY",
       "url": "https://open.spotify.com/track/0k2zY5XBFtoJRDDdiMaJ6R"

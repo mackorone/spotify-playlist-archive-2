@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 520230,
+  "num_followers": 520250,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,18 @@
     {
       "added_at": "2026-02-06 01:04:04",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+      "duration_ms": 260371,
+      "name": "Nunca quise",
+      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
     },
     {
       "added_at": "2026-02-06 01:04:04",
@@ -263,22 +263,6 @@
       "duration_ms": 226181,
       "name": "TIEMPO OFF",
       "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
-    },
-    {
-      "added_at": "2026-02-06 01:04:04",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 260371,
-      "name": "Nunca quise",
-      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
     },
     {
       "added_at": "2026-02-06 01:04:04",
@@ -343,6 +327,22 @@
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+    },
+    {
+      "added_at": "2026-02-06 01:04:04",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2026-02-06 01:04:04",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-02-06 01:04:04",
       "album": {
-        "name": "Detonador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 264838,
-      "name": "La Raz\u00f3n Que Te Demora",
-      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
-    },
-    {
-      "added_at": "2026-02-06 01:04:04",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+    },
+    {
+      "added_at": "2026-02-06 01:04:04",
+      "album": {
+        "name": "Detonador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 264838,
+      "name": "La Raz\u00f3n Que Te Demora",
+      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
     },
     {
       "added_at": "2026-02-06 01:04:04",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-06 01:04:04",
       "album": {
-        "name": "Almafuerte",
-        "url": "https://open.spotify.com/album/2EC1fS6uKutEPexAfOgBEl"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "S\u00e9 Vos",
-      "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
-    },
-    {
-      "added_at": "2026-02-06 01:04:04",
-      "album": {
         "name": "Valentin Alsina",
         "url": "https://open.spotify.com/album/3LgREqKxbuGFLthZqShNuC"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 217359,
       "name": "Me est\u00e1s tratando mal",
       "url": "https://open.spotify.com/track/4wGecpdpXwzaFPgZDecKka"
+    },
+    {
+      "added_at": "2026-02-06 01:04:04",
+      "album": {
+        "name": "Almafuerte",
+        "url": "https://open.spotify.com/album/2EC1fS6uKutEPexAfOgBEl"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "S\u00e9 Vos",
+      "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
     },
     {
       "added_at": "2026-02-06 01:04:04",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-06 01:04:04",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 238625,
-      "name": "Si Supieras - En Vivo en el Luna Park",
-      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
-    },
-    {
-      "added_at": "2026-02-06 01:04:04",
-      "album": {
         "name": "SHOC",
         "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 255851,
       "name": "Solo voy",
       "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+    },
+    {
+      "added_at": "2026-02-06 01:04:04",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 238625,
+      "name": "Si Supieras - En Vivo en el Luna Park",
+      "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
     },
     {
       "added_at": "2026-02-06 01:04:04",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-06 01:04:04",
       "album": {
+        "name": "La Ciudad Liberada",
+        "url": "https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 252867,
+      "name": "Tu Vida Mi Vida",
+      "url": "https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL"
+    },
+    {
+      "added_at": "2026-02-06 01:04:04",
+      "album": {
         "name": "Devorador De Corazones",
         "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 248706,
       "name": "Selva",
       "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
-    },
-    {
-      "added_at": "2026-02-06 01:04:04",
-      "album": {
-        "name": "Es As\u00ed",
-        "url": "https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 208764,
-      "name": "Ya Lo Sab\u00e9s",
-      "url": "https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg"
     }
   ],
   "unique_name": "Asadito",

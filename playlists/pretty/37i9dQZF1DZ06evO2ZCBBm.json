@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 49041,
+  "num_followers": 49050,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACrYnFzDOviOtIKcuPKgHep",
+  "snapshot_id": "abnrAAAAAAAAq79mecCfc+Tgd4XP4hSb",
   "tracks": [
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 157489,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
+      "duration_ms": 157489,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
     },
     {
       "added_at": null,
@@ -731,6 +731,82 @@
       "duration_ms": 183044,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "duration_ms": 171741,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NEED",
+        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
+        }
+      ],
+      "duration_ms": 148642,
+      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 213946,
+      "name": "Born to Quit",
+      "url": "https://open.spotify.com/track/35GqUDMKUtbuNyh0YQDmtV"
     },
     {
       "added_at": null,
@@ -763,82 +839,6 @@
       "duration_ms": 184286,
       "name": "River Stay",
       "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 174350,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NEED",
-        "url": "https://open.spotify.com/album/1aMzqU6B4mJ78P6YBGYkaN"
-      },
-      "artists": [
-        {
-          "name": "3OH!3",
-          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
-        },
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Bert McCracken",
-          "url": "https://open.spotify.com/artist/7rEzlkwGjVgUXbWi0kDEAA"
-        }
-      ],
-      "duration_ms": 148642,
-      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
-      "url": "https://open.spotify.com/track/5Ay2ZYlRNc9KUlhPeJmse4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heartwork",
-        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
-        }
-      ],
-      "duration_ms": 171741,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Artwork",
-        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 213946,
-      "name": "Born to Quit",
-      "url": "https://open.spotify.com/track/35GqUDMKUtbuNyh0YQDmtV"
     },
     {
       "added_at": null,

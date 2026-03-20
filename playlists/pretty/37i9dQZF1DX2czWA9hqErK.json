@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1327610,
+  "num_followers": 1327552,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Crazymad, For Me",
-        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 228449,
       "name": "Let Me In",
       "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Unreal Unearth: Unending",
         "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 202937,
       "name": "Hymn To Virgil",
       "url": "https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Solar Power (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 171594,
       "name": "Helen of Troy - Bonus Track",
       "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Headlights",
-        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172778,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "I Can\u2019t Believe We Never Went Out Dancing",
         "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 224093,
       "name": "I Can\u2019t Believe We Never Went Out Dancing",
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 172778,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 205768,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Don't Fall Asleep",
         "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 269280,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2026-02-20 00:00:16",

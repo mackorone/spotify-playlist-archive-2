@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 45487,
+  "num_followers": 45504,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACKUG7Zc2vbT8E+8OZGsfCr",
+  "snapshot_id": "abnrAAAAAAAUWnAKh0KbELhrY/WfMfsW",
   "tracks": [
     {
       "added_at": null,
@@ -787,26 +787,6 @@
       "duration_ms": 201681,
       "name": "Fashion Habits",
       "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp"
-      },
-      "artists": [
-        {
-          "name": "HXG",
-          "url": "https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. ",
-  "num_followers": 119080,
+  "num_followers": 119089,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-03-17 15:00:19",
       "album": {
-        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 155692,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
-    },
-    {
-      "added_at": "2026-03-17 15:00:19",
-      "album": {
         "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
         "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 195757,
       "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
+    },
+    {
+      "added_at": "2026-03-17 15:00:19",
+      "album": {
+        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 155692,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
     },
     {
       "added_at": "2026-03-17 15:00:19",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-17 15:00:19",
       "album": {
-        "name": "Spot Late",
-        "url": "https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE"
-      },
-      "artists": [
-        {
-          "name": "\u7a32\u8449\u66c7",
-          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Spot Late",
-      "url": "https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3"
-    },
-    {
-      "added_at": "2026-03-17 15:00:19",
-      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 235096,
       "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
       "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
+    },
+    {
+      "added_at": "2026-03-17 15:00:19",
+      "album": {
+        "name": "Spot Late",
+        "url": "https://open.spotify.com/album/6kRUDQ0A6l0pMGMO8cDdKE"
+      },
+      "artists": [
+        {
+          "name": "\u7a32\u8449\u66c7",
+          "url": "https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Spot Late",
+      "url": "https://open.spotify.com/track/6FqWBvjXuDOI0wK7E2dPE3"
     },
     {
       "added_at": "2026-03-17 15:00:19",

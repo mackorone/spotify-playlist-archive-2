@@ -20373,6 +20373,24 @@
     },
     {
       "album": {
+        "name": "Deseo, Carne y Voluntad",
+        "url": "https://open.spotify.com/album/4XqjkJmo5IHFQEOm8PsGut"
+      },
+      "artists": [
+        {
+          "name": "Candelabro",
+          "url": "https://open.spotify.com/artist/1vcHRdox9r4UWUTWLHZ7Au"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153805,
+      "name": "Domingo de ramos",
+      "url": "https://open.spotify.com/track/6iYgiPa4uDxf9W8gxXT4vs"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -27388,6 +27406,28 @@
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
+        "name": "FriendZone:(",
+        "url": "https://open.spotify.com/album/4rPxxBrZvkDmqAPCdujvEm"
+      },
+      "artists": [
+        {
+          "name": "slimesanti",
+          "url": "https://open.spotify.com/artist/7m6juwK6xeE8csPoZ5MGK6"
+        },
+        {
+          "name": "Slugwurf",
+          "url": "https://open.spotify.com/artist/7tycaAd6ORsVyo3zh7I09o"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102524,
+      "name": "FriendZone:(",
+      "url": "https://open.spotify.com/track/3u0I8jAFTT3AN7YLdC5Xwe"
     },
     {
       "album": {
@@ -34652,7 +34692,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 181741,
       "name": "JETSKI - Remix",
       "url": "https://open.spotify.com/track/7z26frY6O7BXwyjeqzYo7W"
@@ -43908,6 +43948,24 @@
       "duration_ms": 135341,
       "name": "Menace",
       "url": "https://open.spotify.com/track/4BcOedr1qWY4hDC7Ki59ZB"
+    },
+    {
+      "album": {
+        "name": "Mendigo",
+        "url": "https://open.spotify.com/album/0v5caQFzPRChYvnZfZnBzL"
+      },
+      "artists": [
+        {
+          "name": "Hector El Father",
+          "url": "https://open.spotify.com/artist/6cUdPia3JManFfQidqAIth"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203991,
+      "name": "Mendigo",
+      "url": "https://open.spotify.com/track/51xoDusXlP06dbvaFBcsCz"
     },
     {
       "album": {
@@ -70882,7 +70940,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 133000,
       "name": "TIC TIC (feat. Pabllo Vittar)",
       "url": "https://open.spotify.com/track/2ZBMbueQLQZAUHio2jplVK"
@@ -74226,10 +74284,6 @@
       },
       "artists": [
         {
-          "name": "Sly",
-          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
-        },
-        {
           "name": "Jairo Vera",
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
@@ -74240,6 +74294,10 @@
         {
           "name": "Ag Daddy",
           "url": "https://open.spotify.com/artist/73KNwwW76I5apbxImsIkJ1"
+        },
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/3n7sjffAzmx5iCvpSizuOs"
         },
         {
           "name": "Bayriton",
@@ -80278,7 +80336,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 115210,
       "name": "You Are Re Hermosa",
       "url": "https://open.spotify.com/track/4GFJrhmEz2sz8V8cDfds6S"

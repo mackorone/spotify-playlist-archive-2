@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: The Paradise",
-  "num_followers": 556342,
+  "num_followers": 557207,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBSnTaL6ap3LFzodJgtQVKFRdJw",
+  "snapshot_id": "AAAAABexxs96jfvqMfhIW4IyNeRa1rHN",
   "tracks": [
     {
       "added_at": "2026-02-25 10:32:25",
@@ -87,6 +87,30 @@
       "duration_ms": 188505,
       "name": "Monica (From \"Coolie\") (Telugu)",
       "url": "https://open.spotify.com/track/6ZjyKXvQIwalLNmJo3exz3"
+    },
+    {
+      "added_at": "2026-03-19 08:17:35",
+      "album": {
+        "name": "Tholiprema",
+        "url": "https://open.spotify.com/album/66qwge2Oz74D9Wm5MSXWAZ"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Sirivennela Seetharama Sastry",
+          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "duration_ms": 265978,
+      "name": "Ee Manase Se Se",
+      "url": "https://open.spotify.com/track/68cR7xQ7LKVms9EGKjDVTP"
     },
     {
       "added_at": "2026-03-18 07:24:56",
@@ -265,6 +289,26 @@
       "url": "https://open.spotify.com/track/2Zu9jBaVw9WsjCfQszpeh7"
     },
     {
+      "added_at": "2026-03-19 08:17:35",
+      "album": {
+        "name": "Rudra Veena",
+        "url": "https://open.spotify.com/album/56YV4uf2rak2AxgFMyrMDK"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "duration_ms": 272026,
+      "name": "Taralirada",
+      "url": "https://open.spotify.com/track/6OfjrpORq2SP4TlT6wHqyJ"
+    },
+    {
       "added_at": "2026-02-16 13:08:30",
       "album": {
         "name": "Saahasam Swaasaga Saagipo",
@@ -327,30 +371,6 @@
       "duration_ms": 264000,
       "name": "Gulabi Kallu Rendu Mullu",
       "url": "https://open.spotify.com/track/73RZq0S81ptydTcm25KPvs"
-    },
-    {
-      "added_at": "2026-02-24 09:08:55",
-      "album": {
-        "name": "Naa Praanam (From \"Couple Friendly\")",
-        "url": "https://open.spotify.com/album/3A78nnIdxBFf5Dp4TQcJEK"
-      },
-      "artists": [
-        {
-          "name": "Aditya Ravindran",
-          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
-        }
-      ],
-      "duration_ms": 249492,
-      "name": "Naa Praanam (From \"Couple Friendly\")",
-      "url": "https://open.spotify.com/track/6L89FdUMkZFBF9LT8iCAcP"
     },
     {
       "added_at": "2025-11-03 09:53:29",
@@ -771,30 +791,6 @@
       "duration_ms": 260000,
       "name": "Inthalo Ennenni Vinthalo Male",
       "url": "https://open.spotify.com/track/25KR5goV6JQkfzKCf0EBuQ"
-    },
-    {
-      "added_at": "2025-09-24 14:19:46",
-      "album": {
-        "name": "They Call Him OG (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4kdL88K9XLanDjaE4cHmlM"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sruthi Ranjani",
-          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
-        },
-        {
-          "name": "Kalyan Chakravarthy Tripuraneni",
-          "url": "https://open.spotify.com/artist/5blw1g0NOKg2g02hkN6Dgb"
-        }
-      ],
-      "duration_ms": 275128,
-      "name": "Suvvi Suvvi",
-      "url": "https://open.spotify.com/track/4Thm04ZRILTYvnaFgBc1Hi"
     },
     {
       "added_at": "2025-01-06 08:20:46",

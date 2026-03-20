@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: London
+> The tracks heating up the continent right now!  Cover: DopeNation
 
 675 songs - 1 day 16 hr 31 min
 

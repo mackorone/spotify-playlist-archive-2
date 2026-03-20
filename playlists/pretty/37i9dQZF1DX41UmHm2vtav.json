@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 504332,
+  "num_followers": 504355,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -231,30 +231,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
-        "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
-      },
-      "artists": [
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Cazt",
-          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 152851,
-      "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
-      "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Can't Get Over You",
         "url": "https://open.spotify.com/album/5McVvbere3ujsgUgEp5gGR"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 142439,
       "name": "Can't Get Over You",
       "url": "https://open.spotify.com/track/3dTmgecC7MCMbteWjf8Ls7"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
+        "url": "https://open.spotify.com/album/3jq5Zd42igYRaypTQNJc0L"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Cazt",
+          "url": "https://open.spotify.com/artist/66KMR938PcmbSkHzZzW6Gg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 152851,
+      "name": "V\u00e1rias Queixas (Remix) (feat. Gilsons)",
+      "url": "https://open.spotify.com/track/1GThrHo1eJgmO8hT3v1Oc7"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
         "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 186680,
       "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
       "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Please Don't Go (Bruno Martini Remix)",
         "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 158774,
       "name": "Please Don't Go - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Monalisa (KVSH Remix)",
-        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        }
-      ],
-      "duration_ms": 175844,
-      "name": "Monalisa (KVSH Remix)",
-      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/5LxrGkxw4SmdIM4jFeZJHE"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 216126,
       "name": "Light",
       "url": "https://open.spotify.com/track/1xhHvaRIgQldy1bBEbuLXQ"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Monalisa (KVSH Remix)",
+        "url": "https://open.spotify.com/album/682jx7IHZwSmVkxld1qkgz"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Monalisa (KVSH Remix)",
+      "url": "https://open.spotify.com/track/2DiuOqMFJcTCEquAFCtjwW"
     },
     {
       "added_at": "2026-02-13 15:25:57",

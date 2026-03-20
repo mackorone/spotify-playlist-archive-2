@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,505 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,510 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 71 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
 | 72 | [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 |
 | 73 | [Zombie](https://open.spotify.com/track/42GKyvz5KBsHTBaLpo3cqJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 4:06 |
-| 74 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
-| 75 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
+| 74 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
+| 75 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 76 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\) \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR \(DELUXE\)](https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U) | 3:00 |
 | 77 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 | 78 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 95 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
 | 96 | [Cupidoane](https://open.spotify.com/track/7EU7LfkpzVy60icTM3y5lb) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Cupidoane](https://open.spotify.com/album/26kVsTzpGVeCOYar1wY0ih) | 2:26 |
 | 97 | [Regele \- From Buzz House: The Movie 2](https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW), [rares bebelusul](https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw) | [Regele \(From Buzz House: The Movie 2\)](https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk) | 2:40 |
-| 98 | [Cometa](https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Cometa](https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa) | 3:00 |
+| 98 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
 | 99 | [Ponte Pa Mi](https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ponte Pa Mi](https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV) | 2:05 |
-| 100 | [Doar La Ea, Ba La Ea](https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9) | [Denis Nuca](https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj), [Letty](https://open.spotify.com/artist/38W9DiKfCJQxQp5zUYyFDw) | [Doar La Ea, Ba La Ea](https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG) | 2:28 |
+| 100 | [Cometa](https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Cometa](https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa) | 3:00 |
 
 Snapshot ID: `AAAAACzMKXL8Aq+7TNZucGWKaWaOAgdt`

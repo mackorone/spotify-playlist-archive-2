@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aj18djI6uz.md) - [plain]
 
 > 블랙핑크가 직접 국립중앙박물관의 유물들을 설명해주는 스포티파이 공식 도슨트 플레이리스트입니다\. \(This is a Spotify official docent playlist, featuring the members of BLACKPINK as they personally guide you through the artifacts of the National Museum of Korea.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,099 likes - 21 songs - 32 min 33 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,180 likes - 21 songs - 32 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aj18djI6uz.md) - [plain]
 | 20 | [\[LISA\_TH\] 반가사유상 \(Pensive Bodhisattva\)](https://open.spotify.com/track/3LEgK3D6m54csJJk2I2keB) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/148qyaMaezFTIH1JTEwRTV) | 1:11 |
 | 21 | [\[LISA\_TH\] 감산사 석조미륵보살입상 \(Stone Standing Maitreya Bodhisattva from Gamsansa Temple Site\)](https://open.spotify.com/track/0S5kTz5RkOU13o7A4MDvFg) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/148qyaMaezFTIH1JTEwRTV) | 1:19 |
 
-Snapshot ID: `AAAAAEwIlmoLiHLSzIDsWhkL18UYM2R6`
+Snapshot ID: `AAAAAIbjirEiIosKYNOHdNcnNsSCcH3H`

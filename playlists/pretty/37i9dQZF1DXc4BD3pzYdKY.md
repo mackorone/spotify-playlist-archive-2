@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,284 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,340 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 63 | [Gotham City](https://open.spotify.com/track/5xREHZNlYVYoVDkVmrztUS) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Gotham City](https://open.spotify.com/album/2v2I2Sp5qTKUOGRzh9WB5Q) | 2:55 |
 | 64 | [Glory To The Lord \- Remix](https://open.spotify.com/track/6RVC5dZl3McTWusLC9fQFa) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Glory To The Lord \(Remix\)](https://open.spotify.com/album/0RCZjhWs1sPMaaoOvDAZXM) | 3:36 |
 | 65 | [No Lie](https://open.spotify.com/track/1AzKRCeyPGZfQMRDgk5VCS) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [No Lie](https://open.spotify.com/album/4fCkxQFg1A2wwfqqwqI5R3) | 2:29 |
-| 66 | [Keanu's Song](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [Keanu's Song](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 |
+| 66 | [KEANU'S SONG](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [KEANU'S SONG](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 |
 | 67 | [REVIVAL!](https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [REVIVAL!](https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR) | 3:04 |
 | 68 | [Switch](https://open.spotify.com/track/5KCw2qJmUgquvJ9ggomSLX) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Switch](https://open.spotify.com/album/6oK5JjSPrkBYfCN5J8TLh9) | 3:08 |
 | 69 | [Save The Hero](https://open.spotify.com/track/3swS83NB42wHWMLg78XvM7) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Save The Hero](https://open.spotify.com/album/1HtLjUfm2eLtEw23Xm11Yv) | 2:47 |

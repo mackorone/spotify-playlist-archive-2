@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70431,
+  "num_followers": 70441,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAABDqJhj3I1zAY9od5xt6JLM",
+  "snapshot_id": "abnrAAAAAAD+iT8d+2ZJat9TOT7UPM4n",
   "tracks": [
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 170099,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 218665,
       "name": "Cae de Una",
       "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 170099,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
     },
     {
       "added_at": null,
@@ -1007,22 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+        "name": "Chambao 25 Aniversario",
+        "url": "https://open.spotify.com/album/49fgCXV3zoBSdUhsGl6V7A"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 228280,
-      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
+      "duration_ms": 205104,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/096jMYuaNreIRkEQ4EuM5Z"
     }
   ],
   "unique_name": "This Is Pedro Cap\u00f3",

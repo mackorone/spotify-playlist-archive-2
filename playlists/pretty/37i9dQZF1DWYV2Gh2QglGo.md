@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Owen Riegling
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,680 likes - 121 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,681 likes - 121 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

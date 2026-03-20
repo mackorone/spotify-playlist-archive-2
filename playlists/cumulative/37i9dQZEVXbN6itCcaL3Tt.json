@@ -8530,7 +8530,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 213000,
       "name": "B\u0118D\u0118 PREZYDENTEM :)",
       "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
@@ -14620,7 +14620,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 196204,
       "name": "DYLEMAT",
       "url": "https://open.spotify.com/track/3HCZqNBhvnwjAWyLuDUcG5"
@@ -29795,6 +29795,28 @@
     },
     {
       "album": {
+        "name": "WSZYSCY JESTE\u015aMY KACPERCZYK",
+        "url": "https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "MAM TALENT",
+      "url": "https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P"
+    },
+    {
+      "album": {
         "name": "MAMA POWTARZA\u0141A",
         "url": "https://open.spotify.com/album/5BxZauvVwPhsl0xyTpkcOK"
       },
@@ -33622,7 +33644,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 266158,
       "name": "NA POCZ\u0104TKU BY\u0141O S\u0141OWO",
       "url": "https://open.spotify.com/track/23zb8kBxaE3AZHGcBx7KGM"
@@ -41778,6 +41800,36 @@
       "duration_ms": 178936,
       "name": "Pod pr\u0105d",
       "url": "https://open.spotify.com/track/5PM3HS8gTWXwczbMS7FEur"
+    },
+    {
+      "album": {
+        "name": "PODAJ MI D\u0141O\u0143",
+        "url": "https://open.spotify.com/album/5GTqQkn3b4OIlqNe0M6oSs"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "DOPEHOUSE",
+          "url": "https://open.spotify.com/artist/1jGFwoIhmjGm0VMXTsi3dN"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        },
+        {
+          "name": "Johny Jalapeno",
+          "url": "https://open.spotify.com/artist/2KzOwZafQgDbTdIZkMC5rs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173052,
+      "name": "PODAJ MI D\u0141O\u0143",
+      "url": "https://open.spotify.com/track/6f28GI6rbiDerKkOUpTFYM"
     },
     {
       "album": {
@@ -51316,7 +51368,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 118095,
       "name": "TEMACIK",
       "url": "https://open.spotify.com/track/5et2TU5dnLbpEUIbwOMWmf"

@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 128034,
+  "num_followers": 128036,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAADVxZTS/xERhhyuKePQxGEM",
+  "snapshot_id": "abnrAAAAAACIi8QR+p2U5X0/JAiey1Ee",
   "tracks": [
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Hit The Road To Dreamland",
-      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
+      "duration_ms": 190000,
+      "name": "Goodnight Sweetheart",
+      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Goodnight Sweetheart",
-      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
+      "duration_ms": 171600,
+      "name": "Hit The Road To Dreamland",
+      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
-        "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "In Napoli",
-      "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(Remember Me) I'm the One That Loves You",
         "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 142129,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 6 (1955-1956)",
+        "url": "https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "In Napoli",
+      "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
     },
     {
       "added_at": null,

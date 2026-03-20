@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAAC0WvM9I8xlx3AIENUKN2F5",
+  "snapshot_id": "abnrAAAAAAA8zDrXZjAjayFVA4jXw5sd",
   "tracks": [
     {
       "added_at": null,
@@ -387,54 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
-      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 174034,
-      "name": "How Honest Do You Want Me To Be?",
-      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
         "url": "https://open.spotify.com/album/30rdiduDKCF2u35tlagbOP"
       },
@@ -495,22 +447,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cross Country",
-        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
       "artists": [
-        {
-          "name": "BRELAND",
-          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
-        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 183591,
-      "name": "Here for It (feat. Ingrid Andress)",
-      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
+      "duration_ms": 174034,
+      "name": "How Honest Do You Want Me To Be?",
+      "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
       "added_at": null,
@@ -527,6 +507,26 @@
       "duration_ms": 200557,
       "name": "Treated Me Good",
       "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cross Country",
+        "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
+      },
+      "artists": [
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 183591,
+      "name": "Here for It (feat. Ingrid Andress)",
+      "url": "https://open.spotify.com/track/539AfK6L46AlSeQLKerleq"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 258827,
+      "name": "Wish You Would",
+      "url": "https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "songs for sad eyes",
         "url": "https://open.spotify.com/album/6NS3kVO5BUMDdWlIOvOk65"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/06IC4v8Smdm5fVQuMAOxe2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 258827,
-      "name": "Wish You Would",
-      "url": "https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD"
     }
   ],
   "unique_name": "This Is Ingrid Andress",

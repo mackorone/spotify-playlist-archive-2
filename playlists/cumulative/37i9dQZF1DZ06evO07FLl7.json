@@ -586,6 +586,28 @@
     {
       "album": {
         "name": "Outra Esfera",
+        "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384448,
+      "name": "Da Lama / Afrontamento",
+      "url": "https://open.spotify.com/track/6Zkb1V7bbL5hIR4SEdhmGm"
+    },
+    {
+      "album": {
+        "name": "Outra Esfera",
         "url": "https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR"
       },
       "artists": [
@@ -600,7 +622,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 386440,
       "name": "Da Lama / Afrontamento",
       "url": "https://open.spotify.com/track/1kLZ1EeAoV6NQcHulPNTKB"

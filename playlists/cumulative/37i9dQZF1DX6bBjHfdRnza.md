@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance tracks from independent artists & labels\. Featuring PITCHBLACK\. Curated by human Spotify editors.
+> The best new dance tracks from independent artists & labels\. Featuring Jackyboom\. Curated by human Spotify editors.
 
 3,451 songs - 9 day 8 hr 24 min
 

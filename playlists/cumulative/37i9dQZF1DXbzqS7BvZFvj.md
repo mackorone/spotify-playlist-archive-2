@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Joyner Lucas
 
-1,477 songs - 3 day 1 hr 41 min
+1,478 songs - 3 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -809,6 +809,7 @@
 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 | 2023-07-20 | 2023-08-25 |
 | [Mine For The Night](https://open.spotify.com/track/5HJr6r6NdRpNnpUOxeXTjK) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Mine For The Night](https://open.spotify.com/album/3xHZvCFIIqqqEH6l24CRJX) | 4:14 | 2024-06-14 | 2024-08-10 |
 | [Mini Birki](https://open.spotify.com/track/1DvTZSxTgY7UqHknm5YDaK) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [The World Changed On Me](https://open.spotify.com/album/11ftxdclHX02L9kfuzFG60) | 2:50 | 2024-12-12 | 2025-02-07 |
+| [Minks In Miami](https://open.spotify.com/track/1UC82aenDIiSaCEXp5jNpS) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Minks In Miami](https://open.spotify.com/album/5vVAfd7JRgOooDtlspNLlQ) | 2:50 | 2026-03-12 |  |
 | [MINT](https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [MINT](https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3) | 2:21 | 2025-08-07 | 2025-11-14 |
 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 | 2023-12-14 | 2024-01-13 |
 | [Minty](https://open.spotify.com/track/1pyDwjJ1Purrpb9FjkrjyB) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [Minty](https://open.spotify.com/album/4ep3T753Rhypn7EVN5NXeE) | 1:47 | 2026-03-12 |  |

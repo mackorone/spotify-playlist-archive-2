@@ -4,10 +4,11 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-148 songs - 7 hr 43 min
+151 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1972](https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [1972](https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr) | 2:27 | 2026-03-19 |  |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-05-16 | 2025-09-01 |
 | [9 \(feat\. Han MinJi\)](https://open.spotify.com/track/4BO4lTu9sk1Ypgvqi9x4Xy) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF), [HanMinji](https://open.spotify.com/artist/5PAAkALx5byUebFVd2kOBF) | [9](https://open.spotify.com/album/1jlnFFdq02vnJns1xEUX2V) | 3:15 | 2025-10-17 | 2025-11-06 |
 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-05-16 | 2025-09-10 |
@@ -40,6 +41,7 @@
 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 | 2025-05-16 | 2025-07-29 |
 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 | 2025-05-16 |  |
 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 | 2025-05-22 |  |
+| [emoji](https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Suen](https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi) | [emoji](https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE) | 3:39 | 2026-03-19 |  |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-19 | 2025-10-04 |
 | [error](https://open.spotify.com/track/1SzinFXFmMYWedGwGZjK2Z) | [Kuonechan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [error](https://open.spotify.com/album/0SkFqjFefiYI9LmEdtDkpI) | 3:10 | 2025-11-06 | 2026-01-15 |
 | [Escapade](https://open.spotify.com/track/1u1nd8ZoRPtiukdZkWKyFb) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:59 | 2025-08-19 | 2025-10-04 |
@@ -47,7 +49,7 @@
 | [Expensive](https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Expensive](https://open.spotify.com/album/28v8MtvP2x9lmRXA5Imee1) | 3:10 | 2026-01-13 | 2026-02-06 |
 | [Filter](https://open.spotify.com/track/4p3oOaC3Fo38tEXp3SR5DN) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1W7dufIS79lk01w3tBAGe5) | 2:31 | 2026-01-13 | 2026-01-20 |
 | [Flowers](https://open.spotify.com/track/4u9cOL7R5OjAmlWkeEFXzf) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:10 | 2025-05-16 | 2025-08-20 |
-| [garbage\_dump\_record \(3am\)](https://open.spotify.com/track/3428JuI2LoccafM2sK1S0M) | [Kyurin](https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp) | [NUDUGI HEART RUNNER](https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp) | 2:47 | 2026-03-05 |  |
+| [garbage\_dump\_record \(3am\)](https://open.spotify.com/track/3428JuI2LoccafM2sK1S0M) | [Kyurin](https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp) | [NUDUGI HEART RUNNER](https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp) | 2:47 | 2026-03-05 | 2026-03-20 |
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2025-05-16 |  |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2025-06-26 | 2025-07-10 |
 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-13 |  |
@@ -66,9 +68,10 @@
 | [I don′t need you](https://open.spotify.com/track/2Vf16DrDTzhb4Xmpu57Y14) | [Joyce](https://open.spotify.com/artist/0QOCwtP4YjaUY382rdWaoD) | [I don′t need you](https://open.spotify.com/album/2MVRs48RPXEH4a6aNqa3UJ) | 3:09 | 2025-08-19 | 2025-09-09 |
 | [intentions](https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [alone tonight](https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY) | 3:45 | 2025-06-26 |  |
 | [Intoxicated](https://open.spotify.com/track/0hXpZ1Guz9ljuGXXhvWPPA) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8), [V.et](https://open.spotify.com/artist/57fP8asGx1qnkEh17w2Xv0) | [Intoxicated](https://open.spotify.com/album/6UWzyPGxJGlguSOVQafkJK) | 3:01 | 2025-12-13 | 2026-01-15 |
+| [I’m not cold](https://open.spotify.com/track/3tyLbICxG083OdVooXmW2g) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [I’m not cold](https://open.spotify.com/album/1DHFc8g4wvOzZInKQlKMzx) | 2:43 | 2026-03-19 |  |
 | [I’m not good at](https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS) | [Mitty](https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ) | [I’m not good at](https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc) | 3:43 | 2025-05-16 | 2025-06-06 |
 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 | 2025-05-16 |  |
-| [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 | 2026-03-12 |  |
+| [just a boy](https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [just a boy](https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q) | 3:05 | 2026-03-12 | 2026-03-20 |
 | [k bye](https://open.spotify.com/track/3ByurcMfnnP5Af9ezJ4DEa) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 2:09 | 2025-06-12 | 2026-01-27 |
 | [Ketchup And Lemonade \- NINGNING Solo](https://open.spotify.com/track/1D1cBWh7IJ5DqOIYqCtqZa) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 4:08 | 2025-12-13 |  |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2026-02-26 | 2026-03-06 |
@@ -119,7 +122,7 @@
 | [Saturn](https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:06 | 2025-05-16 |  |
 | [Say](https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:01 | 2025-05-16 |  |
 | [Secret](https://open.spotify.com/track/0SQNu4qg8dQQxmwZoxNsCR) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Secret](https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB) | 2:12 | 2025-11-10 | 2025-12-14 |
-| [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 | 2025-10-17 |  |
+| [Separated](https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:23 | 2025-10-17 | 2026-03-20 |
 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 | 2025-05-16 |  |
 | [shy girl](https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [shy girl](https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh) | 2:43 | 2025-08-19 | 2025-09-09 |
 | [signs](https://open.spotify.com/track/2tbEksv7lhfmUzlX5djhGq) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV) | [signs](https://open.spotify.com/album/1Rki9Crop0zIXWP23w6gIJ) | 2:16 | 2026-02-05 | 2026-02-27 |

@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1267,
+  "num_followers": 1272,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAMpNQU1/P5uHaLNqTn9OAMvXKbDN5D",
+  "snapshot_id": "AAAMqogZYl160u43JUpbiTZnP9kxPsrl",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,42 @@
       "duration_ms": 188000,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-03-19 23:04:20",
+      "album": {
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/0osGwMc2y9GS7noTPVRLiB"
+      },
+      "artists": [
+        {
+          "name": "Flo.Von",
+          "url": "https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV"
+        },
+        {
+          "name": "Tim Klein",
+          "url": "https://open.spotify.com/artist/3XGnDIrgR2jEqdXDRMWqEH"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/6Su3jNXEUCLmy3hAVJyZmd"
+    },
+    {
+      "added_at": "2026-03-19 14:04:08",
+      "album": {
+        "name": "Sedative",
+        "url": "https://open.spotify.com/album/1tJuF6JzxMYeXJN9y7gIjc"
+      },
+      "artists": [
+        {
+          "name": "Cranked",
+          "url": "https://open.spotify.com/artist/7Lf6ADGQEPghnrtwHpMAKw"
+        }
+      ],
+      "duration_ms": 193473,
+      "name": "Sedative",
+      "url": "https://open.spotify.com/track/1CXQdY5PViOyD3In9YlWmz"
     },
     {
       "added_at": "2026-03-18 14:24:26",
@@ -4765,6 +4801,38 @@
       "url": "https://open.spotify.com/track/3OzYVtWOTRvwIt434ruHL2"
     },
     {
+      "added_at": "2026-03-19 06:05:04",
+      "album": {
+        "name": "High Tension Frequency",
+        "url": "https://open.spotify.com/album/2AJN22QbnaEo8ElRquJhsU"
+      },
+      "artists": [
+        {
+          "name": "NYRHEA WAVE",
+          "url": "https://open.spotify.com/artist/1kfCm14imhJXghVNY1E02Z"
+        }
+      ],
+      "duration_ms": 110672,
+      "name": "Shockpulse Overdrive",
+      "url": "https://open.spotify.com/track/3Mhz6T4CDfLCtHKRseGhb3"
+    },
+    {
+      "added_at": "2026-03-19 06:04:44",
+      "album": {
+        "name": "S'THANDWA",
+        "url": "https://open.spotify.com/album/3yqGzNSW7vxbq95BZ1raCb"
+      },
+      "artists": [
+        {
+          "name": "MOODE.ART",
+          "url": "https://open.spotify.com/artist/18OtkFSnmwUZFiPFBMnZIH"
+        }
+      ],
+      "duration_ms": 224279,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/29ylbdInlkxo9EBbaJfKWq"
+    },
+    {
       "added_at": "2026-03-18 21:19:26",
       "album": {
         "name": "Sink Down to You",
@@ -4843,6 +4911,38 @@
       "duration_ms": 209813,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
+    },
+    {
+      "added_at": "2026-03-19 06:08:46",
+      "album": {
+        "name": "GROWING",
+        "url": "https://open.spotify.com/album/192wCJGiB81LgOfTQBxlpN"
+      },
+      "artists": [
+        {
+          "name": "Lupo Prospero",
+          "url": "https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J"
+        }
+      ],
+      "duration_ms": 169734,
+      "name": "GROWING",
+      "url": "https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN"
+    },
+    {
+      "added_at": "2026-03-19 21:20:32",
+      "album": {
+        "name": "Asshole",
+        "url": "https://open.spotify.com/album/0wvE6tMZOyf1gQ3qNVhNas"
+      },
+      "artists": [
+        {
+          "name": "High Wasted Genes",
+          "url": "https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC"
+        }
+      ],
+      "duration_ms": 233189,
+      "name": "Asshole",
+      "url": "https://open.spotify.com/track/58TAP86mhvjX6VH2w45k8I"
     }
   ],
   "unique_name": "Shuffle Roulette",

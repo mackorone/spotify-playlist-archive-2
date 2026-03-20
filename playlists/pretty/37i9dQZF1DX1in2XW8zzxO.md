@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,786 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,833 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 22 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 |
 | 23 | [Goat](https://open.spotify.com/track/0jl64IvfpHeD6fzlbVzbP4) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Pheelz](https://open.spotify.com/artist/5ko0eyyi8zdgUYN1wqxifi), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB) | [Mr Big Flexa](https://open.spotify.com/album/07j3fUJnSnzzqV55ENfa6Z) | 4:10 |
 | 24 | [Hamba Kanje \(feat\. LeeMcKrazy\)](https://open.spotify.com/track/2GUCK9glnfH55qpmULt9w8) | [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [Hamba Kanje \(feat\. LeeMcKrazy\)](https://open.spotify.com/album/3hJTA361imvPpqRrWBLVHQ) | 5:08 |
-| 25 | [6 foot 7 Foot \- Remix](https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy) | [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [The Legacy EP King of Barcadi](https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH) | 4:50 |
-| 26 | [Turn Off The Lights](https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Turn Off The Lights](https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR) | 8:24 |
+| 25 | [Turn Off The Lights](https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Turn Off The Lights](https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR) | 8:24 |
+| 26 | [6 foot 7 Foot \- Remix](https://open.spotify.com/track/7mV3Qjnxt5mUgTq7gT1JKy) | [Enny Man Da Guitar](https://open.spotify.com/artist/0eTIUHraMDu3poKy1Qsqv6) | [The Legacy EP King of Barcadi](https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH) | 4:50 |
 | 27 | [Sweety My Loving \(feat\. Ndibo Ndibs & Djy Zan SA\)](https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [Ndibo Ndibs](https://open.spotify.com/artist/6rEdZVv3UyRT6jibugZN9x), [Djy Zan SA](https://open.spotify.com/artist/6G8cF1dY05cxy99pzEdGya) | [Sweety My Loving \(feat\. Ndibo Ndibs & Djy Zan SA\)](https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL) | 7:38 |
 | 28 | [Mang' Dakiwe \(feat\. Leon Lee\)](https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Masego](https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u) | 6:51 |
 | 29 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 |

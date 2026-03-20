@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,377 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,381 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 9 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 | 10 | [Going in Blind](https://open.spotify.com/track/4VdR5o57IdK2L6EF8JmTBK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 4:28 |
 | 11 | [Execute the Sounds](https://open.spotify.com/track/2Y3NwMktDYwp7U82BMDt0I) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:01 |
-| 12 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 |
+| 12 | [Lost In Forever](https://open.spotify.com/track/3j0TRa1zODLBJtEGjdBpj8) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 4:05 |
 | 13 | [Satellite](https://open.spotify.com/track/3zAIrDlrGJ5cwBHMR1YaLl) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:30 |
-| 14 | [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:12 |
-| 15 | [Lost In Forever](https://open.spotify.com/track/3j0TRa1zODLBJtEGjdBpj8) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 4:05 |
+| 14 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 |
+| 15 | [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:12 |
 | 16 | [I WON'T BOW DOWN](https://open.spotify.com/track/7KjvtZOhareZF6phDFdHsm) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 2:40 |
 | 17 | [Set It Off](https://open.spotify.com/track/6TFuD55E4nGF0Gm2DBm5ww) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:15 |
 | 18 | [Don’t Let Me Down](https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Don’t Let Me Down](https://open.spotify.com/album/2knuzEl2xSGhUOPtuigl4R) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 49 | [No Ordinary Love Song \- Acoustic Version](https://open.spotify.com/track/0fMHHSvKYVNJ8mswH55jIv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 3:49 |
 | 50 | [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 |
 
-Snapshot ID: `abiZgAAAAABvgZYuN2M8KHRJzSB99jpu`
+Snapshot ID: `abnrAAAAAAAQ+I1P3FIml5mHLnVwE9qD`

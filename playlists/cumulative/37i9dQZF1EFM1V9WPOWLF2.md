@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-111 songs - 5 hr 20 min
+112 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/5ycn8M0WNGedabDuaH9mQT) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:15 | 2024-04-05 |  |
 | [LIKE A CHAMPION](https://open.spotify.com/track/73mViHQE6N08rInBWkyaiw) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:12 | 2025-10-29 |  |
 | [Luna Llena](https://open.spotify.com/track/1bWgH8CoRntlH5m3VLkbmu) | [GIGI SALDAÑA](https://open.spotify.com/artist/0EyHu2W0sQlu85nKWfuWVP) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:29 | 2024-04-05 |  |
+| [Make It Count](https://open.spotify.com/track/3YEmN9JO8M50asTMfcQ1Wm) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [2026 World Baseball Classic](https://open.spotify.com/album/0eG0kZA7uZtCrNgXZPxqlB) | 2:40 | 2026-03-19 |  |
 | [Malas Decisiones](https://open.spotify.com/track/4dRggoEpvJPAwmCMAO7HvB) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:37 | 2024-04-05 |  |
 | [MENTE \(with Tainy & Mau y Ricky\)](https://open.spotify.com/track/5OVYDbQP9pMKpF0ViSyMty) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MENTE \(with Tainy & Mau y Ricky\)](https://open.spotify.com/album/3svtbAQNLpKVpUFlArRN3n) | 3:46 | 2024-04-05 |  |
 | [Monotonía](https://open.spotify.com/track/2dfH1gA3FZDv9L69Dqy9RY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:41 | 2024-04-05 |  |

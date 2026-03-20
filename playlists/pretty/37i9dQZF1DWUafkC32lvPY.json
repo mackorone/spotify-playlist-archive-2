@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 32202,
+  "num_followers": 32212,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv"
       },
@@ -511,26 +495,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Bolero coqueto",
-        "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        },
-        {
-          "name": "Diego Galindo",
-          "url": "https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 135163,
-      "name": "Bolero coqueto",
-      "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -559,26 +535,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+        "name": "Bolero coqueto",
+        "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
       "artists": [
         {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
         },
         {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+          "name": "Diego Galindo",
+          "url": "https://open.spotify.com/artist/0ioIOSUh5zjsTTDPX7aL4I"
         },
         {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+      "duration_ms": 135163,
+      "name": "Bolero coqueto",
+      "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -607,18 +583,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -639,6 +623,22 @@
       "duration_ms": 123875,
       "name": "Los d\u00edas grises (Remix)",
       "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -887,42 +887,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Primer Beso",
-        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Primer Beso",
-      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Wait 4 Me",
-        "url": "https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf"
-      },
-      "artists": [
-        {
-          "name": "twuan",
-          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
-        }
-      ],
-      "duration_ms": 116791,
-      "name": "Wait 4 Me",
-      "url": "https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Sample Saga: Brazil",
         "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
       },
@@ -943,6 +907,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Primer Beso",
+        "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Primer Beso",
+      "url": "https://open.spotify.com/track/4XodJHQma1WbMVezFDt9yn"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "soltarte (instrumental)",
         "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 176202,
       "name": "soltarte (instrumental)",
       "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Wait 4 Me",
+        "url": "https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        }
+      ],
+      "duration_ms": 116791,
+      "name": "Wait 4 Me",
+      "url": "https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Mi\u00e9rcoles Azul",
+        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        }
+      ],
+      "duration_ms": 167857,
+      "name": "Mi\u00e9rcoles Azul",
+      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "LA FALDA (LoFi)",
         "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 171844,
       "name": "LA FALDA - LoFi",
       "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Mi\u00e9rcoles Azul",
-        "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Monno Briceno",
-          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
-        }
-      ],
-      "duration_ms": 167857,
-      "name": "Mi\u00e9rcoles Azul",
-      "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 165976,
       "name": "Lunes Azul",
       "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
-      },
-      "artists": [
-        {
-          "name": "Anto Pla",
-          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Dia de Muertos",
         "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
+      },
+      "artists": [
+        {
+          "name": "Anto Pla",
+          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Beautiful Lights",
         "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
       },
@@ -1303,26 +1303,6 @@
       "duration_ms": 148860,
       "name": "Diamond Sparkle",
       "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Landscape Ride",
-        "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
-      },
-      "artists": [
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 147700,
-      "name": "Landscaper",
-      "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1347,18 +1327,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+        "name": "Landscape Ride",
+        "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
       },
       "artists": [
         {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
         }
       ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+      "duration_ms": 147700,
+      "name": "Landscaper",
+      "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1379,6 +1363,22 @@
       "duration_ms": 134918,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/0WmBZJiCZBgkfNmT0Pms3Z"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
     },
     {
       "added_at": "2025-04-04 04:00:19",

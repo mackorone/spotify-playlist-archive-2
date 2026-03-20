@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 190561,
       "name": "1000 Timer",
       "url": "https://open.spotify.com/track/4xCGb24w2tsJxSLy1cgrBJ"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 150617,
       "name": "dr\u00f8mmefanger (feat. URO)",
       "url": "https://open.spotify.com/track/1vsap6mgQTyL2EVUXWq66e"
@@ -4770,10 +4770,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 196043,
       "name": "D\u00e9t der er med livet",
       "url": "https://open.spotify.com/track/3GUL2HDpzfFxECfL89Mx8S"
+    },
+    {
+      "album": {
+        "name": "D\u00e9t Der Udenfor",
+        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214739,
+      "name": "D\u00e9t Der Udenfor",
+      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
     },
     {
       "album": {
@@ -5114,6 +5132,28 @@
       "duration_ms": 171794,
       "name": "Er det mig du elsker?",
       "url": "https://open.spotify.com/track/7Jyuh91JYGoh8ps4hIRD1P"
+    },
+    {
+      "album": {
+        "name": "Er Vi Okay?",
+        "url": "https://open.spotify.com/album/509Kkx4BDbKvFbhqEdO0if"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        },
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150057,
+      "name": "Er Vi Okay?",
+      "url": "https://open.spotify.com/track/6yNgksIvyLstd9w0HscPkz"
     },
     {
       "album": {
@@ -6452,6 +6492,24 @@
       "duration_ms": 174374,
       "name": "F\u00f8r Vi G\u00e5r Hjem",
       "url": "https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf"
+    },
+    {
+      "album": {
+        "name": "Galt Med Mig",
+        "url": "https://open.spotify.com/album/6oUMRdYiNFCiBCS5BHIFAU"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175878,
+      "name": "Galt Med Mig",
+      "url": "https://open.spotify.com/track/5NgJ6hUZAmgr7baIMxfNKO"
     },
     {
       "album": {
@@ -8035,6 +8093,24 @@
     },
     {
       "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
+    },
+    {
+      "album": {
         "name": "Songs I Cry 2",
         "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
       },
@@ -9574,7 +9650,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 193020,
       "name": "jeg tror jeg elsker dig for evigt",
       "url": "https://open.spotify.com/track/2bsahf0KRgkJB8LDE4rmAb"
@@ -10576,6 +10652,24 @@
       "duration_ms": 197601,
       "name": "Livet f\u00f8les ikke langt nok (feat. Lis S\u00f8rensen)",
       "url": "https://open.spotify.com/track/0u5AZUdieewsc7e6GXfW0U"
+    },
+    {
+      "album": {
+        "name": "Livsforladt",
+        "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182204,
+      "name": "Livsforladt",
+      "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
     },
     {
       "album": {
@@ -15141,6 +15235,32 @@
     },
     {
       "album": {
+        "name": "Sl\u00e5r Op",
+        "url": "https://open.spotify.com/album/17lxuKDVowv0NoWAloj8S7"
+      },
+      "artists": [
+        {
+          "name": "Sofie1998",
+          "url": "https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB"
+        },
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        },
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199784,
+      "name": "Sl\u00e5r Op",
+      "url": "https://open.spotify.com/track/6HFZQd5vQvHJLKQGsOB6Xd"
+    },
+    {
+      "album": {
         "name": "SMOKE THE PAIN AWAY",
         "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
       },
@@ -15766,7 +15886,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 214120,
       "name": "Srs Ice",
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
@@ -17862,7 +17982,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 173945,
       "name": "T\u00f8mmerm\u00e6nd - Radio Edit",
       "url": "https://open.spotify.com/track/6rIOedNez2EcpEX0Dxd2B5"

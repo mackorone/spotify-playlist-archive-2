@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,553 likes - 315 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,646 likes - 315 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 314 | [Vespera](https://open.spotify.com/track/2c8z7wq9HJEwZToAg95DfH) | [Elio Vane](https://open.spotify.com/artist/3KdplR6fQigF6Octm8lqOV) | [Vespera](https://open.spotify.com/album/7jBqT6wsgVL6Ia52EFgahR) | 2:40 |
 | 315 | [Efeu](https://open.spotify.com/track/6BwD8TE6eWKasH11uh6vU4) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Efeu](https://open.spotify.com/album/75rqo70A07zXqdWwKEaotv) | 2:52 |
 
-Snapshot ID: `AAAAABlFYsnbT22C9PxxohdQqCLnLNm6`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 107 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 15 | [In the Morning](https://open.spotify.com/track/3Xp9VqusQqyWGLGSGWcBEC) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [In the Morning \(Remixes\)](https://open.spotify.com/album/5oHR3zw7gew31FjEp7iNqc) | 3:15 |
 | 16 | [Wolf](https://open.spotify.com/track/65QpqPsptQU1VPyq4QbjWk) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Porcelain](https://open.spotify.com/album/0IVewblBonxlT9EyBz7UfT) | 3:43 |
 | 17 | [Mermaid](https://open.spotify.com/track/1zeH4lyTUZBp567d6K6zTM) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Mermaid](https://open.spotify.com/album/5sPNx1gl1y4GmrRitZqzf3) | 3:31 |
-| 18 | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme) | 2:47 |
-| 19 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
-| 20 | [Ride or Die \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/5vlOmC9rYZKO69KYkcX8va) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:08 |
+| 18 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
+| 19 | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/track/1p0RjMued7Tmm0o7CjzoHY) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Våran sång \(Sveriges Officiella VM\-låt 2023\)](https://open.spotify.com/album/18j2FMjXGeb0FAlaA89Nme) | 2:47 |
+| 20 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 |
 | 21 | [All They Wanna Be](https://open.spotify.com/track/2ffNvrXkSX5hNTCcDp0q9V) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Caslin](https://open.spotify.com/artist/6We20xnlWq1e0X62ONbrFL) | [All They Wanna Be](https://open.spotify.com/album/2tzjglYB5QW3baeP7J9xHj) | 2:48 |
 | 22 | [Fira jul med mig](https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [TILL\_\_\_\_\_FRÅN\_\_\_\_\_](https://open.spotify.com/album/12YzGnrZZ99j2C5eQciaTK) | 3:43 |
 | 23 | [Human](https://open.spotify.com/track/38aPeueGAUmEneEEJoANXO) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Human](https://open.spotify.com/album/74OCmHnI3mJUjJri4WlmIA) | 2:26 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 100 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 101 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcMfdgAAAABo3GEvVUycWBn7ZnPwyRtG`
+Snapshot ID: `AcMlFgAAAAA+eF1+pNnEY+uERDwyPq5D`

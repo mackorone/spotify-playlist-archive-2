@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 436551,
+  "num_followers": 436489,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Singular",
-        "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
       "artists": [
         {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 230943,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
+      "duration_ms": 180001,
+      "name": "choque t\u00e9rmico - ao vivo",
+      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+        "name": "Singular",
+        "url": "https://open.spotify.com/album/5fE7n160Z91dVGHQaAS0qo"
       },
       "artists": [
         {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 180001,
-      "name": "choque t\u00e9rmico - ao vivo",
-      "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
+      "duration_ms": 230943,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/1seYL4Yk6U2mGLm41uoxoE"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -551,22 +551,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Ao Vivo E A Cores",
-        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
       },
       "artists": [
         {
           "name": "Matheus & Kauan",
           "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 180304,
-      "name": "Ao Vivo E A Cores",
-      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -643,18 +639,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+        "name": "Ao Vivo E A Cores",
+        "url": "https://open.spotify.com/album/446dHiuQt06TAh4sWU02vo"
       },
       "artists": [
         {
           "name": "Matheus & Kauan",
           "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
+      "duration_ms": 180304,
+      "name": "Ao Vivo E A Cores",
+      "url": "https://open.spotify.com/track/6jhZTGGw37atbaHoLsY9TD"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Em Sintonia (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "Prisioneiros - Ao Vivo",
+      "url": "https://open.spotify.com/track/15gIb6lnjIMcgtbasaeXwq"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/2YWSmJ37zzqKI9gqjwDJ0L"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Em Sintonia (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 206850,
-      "name": "Prisioneiros - Ao Vivo",
-      "url": "https://open.spotify.com/track/15gIb6lnjIMcgtbasaeXwq"
     },
     {
       "added_at": "2026-01-16 03:03:24",

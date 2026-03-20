@@ -5811,6 +5811,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088",
+        "url": "https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280720,
+      "name": "\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088",
+      "url": "https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW"
+    },
+    {
+      "album": {
         "name": "\u304a\u6d12\u843d\u756a\u9577 (feat. Ado)",
         "url": "https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev"
       },

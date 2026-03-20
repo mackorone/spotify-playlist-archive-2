@@ -1,12 +1,12 @@
 {
   "description": "Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions. www.lucciagobeats.com ",
-  "num_followers": 562,
+  "num_followers": 563,
   "original_name": "Cruise Music",
   "owner": {
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAKCA9r/87GqJ875xmOrDHKx2T7iBGA",
+  "snapshot_id": "AAAKEAHXkpwp/hnA1nngpJY+ORv8rW8I",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -40111,6 +40111,142 @@
       "duration_ms": 204189,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/4qhSU5tHFZY8etTBeZtXsI"
+    },
+    {
+      "added_at": "2026-03-19 07:04:46",
+      "album": {
+        "name": "\u00c9 S\u00e9rio!",
+        "url": "https://open.spotify.com/album/4Sg4kuMbSUQPa1qbd6zrQx"
+      },
+      "artists": [
+        {
+          "name": "Cust\u00f3dio Rezende",
+          "url": "https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ"
+        },
+        {
+          "name": "Louren\u00e7o Vasconcellos",
+          "url": "https://open.spotify.com/artist/0Pul9J5Xv8E03F7AoWvAc9"
+        },
+        {
+          "name": "Natan Gomes",
+          "url": "https://open.spotify.com/artist/5pBWviF6S5gwkkCQT2eGRB"
+        }
+      ],
+      "duration_ms": 285517,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/7gTLwMu1YwbvHrG9iDiyqw"
+    },
+    {
+      "added_at": "2026-03-19 07:13:14",
+      "album": {
+        "name": "I Am Not a Robot",
+        "url": "https://open.spotify.com/album/7ngJJBlk9nVRAvi8TLm49e"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 206744,
+      "name": "I Am Not a Robot",
+      "url": "https://open.spotify.com/track/4WcQyKvtLslvIf9mbEolCP"
+    },
+    {
+      "added_at": "2026-03-19 07:15:26",
+      "album": {
+        "name": "Libra",
+        "url": "https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK"
+      },
+      "artists": [
+        {
+          "name": "Deep Shoq",
+          "url": "https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5"
+        }
+      ],
+      "duration_ms": 200860,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/2OYUWhuiTQ2pBESGZYzrgQ"
+    },
+    {
+      "added_at": "2026-03-19 07:16:39",
+      "album": {
+        "name": "It's Breaking My Heart",
+        "url": "https://open.spotify.com/album/50YVJV6JvaQl2vKifQ0nfY"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "It's Breaking My Heart",
+      "url": "https://open.spotify.com/track/24ujmsmgv7ksfWmUYKOx0A"
+    },
+    {
+      "added_at": "2026-03-19 07:17:40",
+      "album": {
+        "name": "Bonus Extra Et Cetera",
+        "url": "https://open.spotify.com/album/1e7udVqoW8SvqajknsrJ03"
+      },
+      "artists": [
+        {
+          "name": "Marcus O'Neill",
+          "url": "https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J"
+        }
+      ],
+      "duration_ms": 194342,
+      "name": "Things Ain't Simple",
+      "url": "https://open.spotify.com/track/2RqOBz0U57wvZLE0Px1Rsv"
+    },
+    {
+      "added_at": "2026-03-19 18:47:21",
+      "album": {
+        "name": "Under Open Skies",
+        "url": "https://open.spotify.com/album/1iu755YDhynfuTx06PfA42"
+      },
+      "artists": [
+        {
+          "name": "Lex Grey",
+          "url": "https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C"
+        }
+      ],
+      "duration_ms": 299960,
+      "name": "Under Open Skies",
+      "url": "https://open.spotify.com/track/7HtqFv70pXHBHHM1FiBRaf"
+    },
+    {
+      "added_at": "2026-03-19 18:48:26",
+      "album": {
+        "name": "King of Yellowstone",
+        "url": "https://open.spotify.com/album/1CMfOlSI8zkWjg8imV3zYA"
+      },
+      "artists": [
+        {
+          "name": "Lex Grey",
+          "url": "https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "King of Yellowstone",
+      "url": "https://open.spotify.com/track/5Hlqy8lUzlXpojFAxtMerm"
+    },
+    {
+      "added_at": "2026-03-19 18:50:00",
+      "album": {
+        "name": "Songs from Tidebury",
+        "url": "https://open.spotify.com/album/1UvyWZvCCP1konkCAV6mx0"
+      },
+      "artists": [
+        {
+          "name": "Seabairy",
+          "url": "https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh"
+        }
+      ],
+      "duration_ms": 195207,
+      "name": "Tidebirds",
+      "url": "https://open.spotify.com/track/0ZtLNjmb5YhUEHwhPdpyAc"
     }
   ],
   "unique_name": "Cruise Music",

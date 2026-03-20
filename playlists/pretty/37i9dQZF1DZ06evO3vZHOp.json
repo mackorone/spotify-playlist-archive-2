@@ -1,13 +1,29 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 376154,
+  "num_followers": 376198,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAADxEoHDd6clQyi8m+zeneUC",
+  "snapshot_id": "abnrAAAAAAC17RERmeX2IS5Waltk1VFx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Chamaquito",
+        "url": "https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "De Chamaquito",
+      "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
+    },
     {
       "added_at": null,
       "album": {
@@ -531,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1%",
-        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 224845,
-      "name": "1%",
-      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUPERARTE",
         "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
       },
@@ -575,6 +571,26 @@
       "duration_ms": 236590,
       "name": "LAS ESTRELLAS NO ESTAN TAN LEJOS",
       "url": "https://open.spotify.com/track/7CkNUfgbjjS4oNCjKVjs8L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/3dg9llrQbQFisFgbjtuJln"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 224845,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/4I84JZ0sC27yYWgFvqBabp"
     },
     {
       "added_at": null,
@@ -831,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FX De La Rose",
-        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 244894,
-      "name": "$extape",
-      "url": "https://open.spotify.com/track/5z3r0C8Q3jlbpJRHvLaVk4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
       },
@@ -883,6 +879,26 @@
       "duration_ms": 288282,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 244894,
+      "name": "$extape",
+      "url": "https://open.spotify.com/track/5z3r0C8Q3jlbpJRHvLaVk4"
     },
     {
       "added_at": null,
@@ -1043,26 +1059,6 @@
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Mi Error",
-      "url": "https://open.spotify.com/track/4o4HQPKJQEsPq36BJqWWUr"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

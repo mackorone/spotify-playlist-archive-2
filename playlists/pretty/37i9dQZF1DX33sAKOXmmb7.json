@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 85329,
+  "num_followers": 85343,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+      "duration_ms": 232373,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 232373,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Love Songs For Robots",
-        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 217606,
-      "name": "Love Songs For Robots",
-      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 257519,
       "name": "Agape",
       "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Love Songs For Robots",
+        "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Love Songs For Robots",
+      "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Shallow Grave",
-        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Cold Little Heart (Acoustic)",
         "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 269386,
       "name": "Cold Little Heart - Acoustic",
       "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Shallow Grave",
+        "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Place I Left Behind",
         "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "A Crow Looked at Me",
-        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
-      },
-      "artists": [
-        {
-          "name": "Mount Eerie",
-          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Real Death",
-      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Painting of a Panic Attack (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 201146,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "A Crow Looked at Me",
+        "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 147533,
+      "name": "Real Death",
+      "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Vestiges & Claws",
         "url": "https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 207493,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "The Lone Bellow",
         "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 252853,
       "name": "Green Eyes and a Heart of Gold",
       "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
-      },
-      "artists": [
-        {
-          "name": "Liza Anne",
-          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
-        }
-      ],
-      "duration_ms": 236834,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Two",
+        "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
+      },
+      "artists": [
+        {
+          "name": "Liza Anne",
+          "url": "https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ"
+        }
+      ],
+      "duration_ms": 236834,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1U3eCqaFcgjZwdSgOg8jDW"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 346493,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3MuZrrcX0Ko3lgvbfLA7mU"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "The Carpenter",
-        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Live And Die",
-      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "The Carpenter",
+        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Live And Die",
+      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "No Witch",
         "url": "https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 191266,
       "name": "Distant Sures",
       "url": "https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     }
   ],
   "unique_name": "10s Indie Folk",

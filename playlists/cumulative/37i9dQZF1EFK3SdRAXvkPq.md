@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 7 hr 36 min
+149 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [ME HIZO UN FAVOR](https://open.spotify.com/track/0bODyWeaMOm8tqlgFfx3E9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:36 | 2025-11-07 |  |
 | [ME SIENTO HIGH](https://open.spotify.com/track/69KQFggl5lJSDNT9fKBNCc) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 2:37 | 2025-11-07 |  |
 | [Melancolía](https://open.spotify.com/track/1DiEushlmN8kJZ2t2tywjU) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:41 | 2025-11-07 |  |
+| [MHM](https://open.spotify.com/track/4gHWdRP5ocZkEhq1iDStoI) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [DUAL](https://open.spotify.com/album/5y3kJTo3x5PBOK6aJSKWMD) | 2:19 | 2026-03-19 |  |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2025-11-07 |  |
 | [Mi Favorita](https://open.spotify.com/track/4YTGpnKyqWeR1TnjYoEBdd) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Mi Favorita](https://open.spotify.com/album/6coF3KmIe24ZcGIucUMg5U) | 2:54 | 2025-11-07 |  |
 | [Mi Momento Favorito](https://open.spotify.com/track/68OpadfcNyC3iMIPaKrikB) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [El Cambio](https://open.spotify.com/album/5js6CdkxePKw4aOD3Brnj1) | 3:28 | 2025-11-07 |  |

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-776 songs - 2 day 2 hr 8 min
+777 songs - 2 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 | 2024-10-10 | 2025-11-08 |
 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:16 | 2024-09-26 | 2024-10-11 |
 | [24h In A Disco](https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco](https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS) | 3:15 | 2025-04-28 |  |
-| [305](https://open.spotify.com/track/3rUtK5Erq4mrjJdCEHE9F2) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi) | [305](https://open.spotify.com/album/1AxOWBJK1aXUTglBHzUP6i) | 2:46 | 2026-01-23 |  |
+| [305](https://open.spotify.com/track/3rUtK5Erq4mrjJdCEHE9F2) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi) | [305](https://open.spotify.com/album/1AxOWBJK1aXUTglBHzUP6i) | 2:46 | 2026-01-23 | 2026-03-20 |
 | [333 \- Cut Version](https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Majoness](https://open.spotify.com/artist/3AUYGVHoXYjXumJ9aAfgYR) | [333 EP](https://open.spotify.com/album/4X9pRIOXjqMJKYjb6ydtqJ) | 4:05 | 2022-05-05 | 2024-04-12 |
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-05-16 | 2024-08-31 |
 | [A Bit Patchy \- Eric Prydz Remix](https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov) | [Switch](https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [A Bit Patchy \(Remixes\)](https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm) | 7:40 | 2022-04-14 | 2024-02-01 |
@@ -662,6 +662,7 @@
 | [Take Some Time](https://open.spotify.com/track/7CuzqluZbLC2ByREzICmPe) | [Kellie Allen](https://open.spotify.com/artist/0ITmVPvWLd1t4emVerjKAt) | [Take Some Time](https://open.spotify.com/album/59Nv1k8RX5ja09ejOATqB2) | 4:05 | 2024-09-26 | 2025-01-31 |
 | [Take You High](https://open.spotify.com/track/69yTqNKtr2rdtpEMcc5hqK) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [Take You High](https://open.spotify.com/album/23BwMKdSQmHJYp8JEr1a68) | 2:40 | 2022-12-15 | 2024-04-26 |
 | [take your vibes and go \- Dam Swindle Remix](https://open.spotify.com/track/0v0v5vFIqp83R0M8y3fdlt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go \(Dam Swindle Remix\)](https://open.spotify.com/album/1ohCvUgMQuiwwkDINauTsf) | 5:33 | 2025-10-09 | 2026-01-25 |
+| [Taking Us Higher](https://open.spotify.com/track/1y5AErdUv289F9zs8bbcRQ) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [Taking Us Higher](https://open.spotify.com/album/0aR8dJLmwd7zbUYr34Ngul) | 2:57 | 2026-03-19 |  |
 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 | 2022-04-14 | 2024-03-01 |
 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 | 2022-04-14 | 2024-03-21 |
 | [TALI](https://open.spotify.com/track/51pEVxPCc5ZlAm5Y47Kuhg) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [TALI](https://open.spotify.com/album/2xjaexaUErg3fBhqoRRzKS) | 6:31 | 2022-04-26 | 2022-07-29 |

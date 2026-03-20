@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance tracks from independent artists & labels\. Featuring PITCHBLACK\. Curated by human Spotify editors.
+> The best new dance tracks from independent artists & labels\. Featuring Jackyboom\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,113 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,140 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 79 | [Enigma](https://open.spotify.com/track/4rfNBDqU7qSp0S81ci8qqb) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [Club Nostalgia](https://open.spotify.com/album/23jZ4KydwdjM0pprkozKAn) | 6:31 |
 | 80 | [Hold Me](https://open.spotify.com/track/52n9w0fmTgeHE65isG7UQg) | [cutback!](https://open.spotify.com/artist/3K9E1NNVSshkvpK6Fhjwsg), [COD](https://open.spotify.com/artist/6zxYW5BOzUs0JSq1rlo2dw) | [Hold Me](https://open.spotify.com/album/4N5IWtgq34vNQ7kkifSo4H) | 3:29 |
 
-Snapshot ID: `AAAAABjvdI1V4aMjDntj/5wW2spX1x4P`
+Snapshot ID: `AAAAANRaeroljYnKX8JtCPIJ2iu1dukz`

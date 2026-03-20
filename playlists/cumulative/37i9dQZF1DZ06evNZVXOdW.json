@@ -970,6 +970,24 @@
     {
       "album": {
         "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 911913,
+      "name": "Ovid's Metamorphoses",
+      "url": "https://open.spotify.com/track/16EpeiRPTdWLvuKZdpi6mi"
+    },
+    {
+      "album": {
+        "name": "Siren Islands",
         "url": "https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl"
       },
       "artists": [

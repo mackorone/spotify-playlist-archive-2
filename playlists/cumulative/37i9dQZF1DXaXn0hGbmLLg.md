@@ -2,9 +2,9 @@
 
 ### [EQUAL Benelux](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
 
-> Listen to women at full volume! March ambassador: <a href="spotify:artist:0KaC2z2SJoxk3vCDdl1AKx">JELISA</a>
+> Celebrating 5 Years of EQUAL Benelux with the Top 10 most streamed Benelux women\. Cover: Sevdaliza
 
-3,146 songs - 6 day 21 hr 25 min
+3,149 songs - 6 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [AMA SEN](https://open.spotify.com/track/4B6jC9s5aueu03vtm3KXCN) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [AMA SEN](https://open.spotify.com/album/2t5EZxL7oNWgDW3f44wHdZ) | 2:29 | 2023-01-03 | 2023-02-01 |
 | [Amazing](https://open.spotify.com/track/6hAFHursWWTqyS219wa1Se) | [Zulema](https://open.spotify.com/artist/4zZNKi7LpDeLANCiozqMv4), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Amazing](https://open.spotify.com/album/7dRPdJRTaQ1A3j4Bu9Lfrb) | 3:03 | 2024-07-02 | 2024-08-07 |
 | [Amen](https://open.spotify.com/track/1eSej5TdSVrBXcrkmkplqS) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Amen](https://open.spotify.com/album/6sHU9OqQqqpoxtDx6Gjmyw) | 3:30 | 2024-01-10 | 2024-02-07 |
+| [Amen](https://open.spotify.com/track/1fvZxBgBZ4d2goakbH6np4) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/3gItu2V465QjUfK63UQM0K) | 3:30 | 2026-03-19 |  |
 | [America](https://open.spotify.com/track/1xP09kD3dfXS4YRAUjhZJI) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [Popular Problems](https://open.spotify.com/album/1mhmQBmR0fjaTEuDGRiXaK) | 3:33 | 2023-11-29 | 2024-01-11 |
 | [America](https://open.spotify.com/track/3zz8cJC15lXm4P0UOFTDkP) | [Rachèl Louise](https://open.spotify.com/artist/5qBnUEVyM1b6orwYHQjfYw) | [America](https://open.spotify.com/album/4gtK6deZDNm7hhR2bKY2F8) | 3:33 | 2023-05-02 | 2023-06-07 |
 | [Amor](https://open.spotify.com/track/5PeQQwj8nCFR37kv0n7yEN) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [Amor](https://open.spotify.com/album/1C6vXWfqDdf5QYWM4ckpRd) | 4:11 | 2025-09-30 | 2025-11-05 |
@@ -870,6 +871,7 @@
 | [Gasolina](https://open.spotify.com/track/5sg4Ah65gbAtZGlR2ScD3c) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Gasolina](https://open.spotify.com/album/37AjaShy45tMwdQf3Jq3mo) | 2:36 | 2024-03-05 | 2024-04-03 |
 | [gasoline](https://open.spotify.com/track/4ppmYArWfXolvg8DLfj8sI) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [gasoline](https://open.spotify.com/album/1fGj6cZCDZK4qfTGngvC79) | 2:44 | 2022-02-01 | 2022-03-08 |
 | [Gebruiksaanwijzing](https://open.spotify.com/track/618yYVf9TdfLpcj6tdePaP) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Gebruiksaanwijzing](https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP) | 2:47 | 2023-01-03 | 2024-01-11 |
+| [Gece Puslu](https://open.spotify.com/track/1lzu13s6ag3F9RaZo4aodv) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Gece Puslu](https://open.spotify.com/album/7qySLENb2zHNqTWQ3CgKTw) | 2:39 | 2026-03-19 |  |
 | [Gedoemd Te Mislukken](https://open.spotify.com/track/08usYSVEgY0R01aoWgiVFf) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Gedoemd Te Mislukken](https://open.spotify.com/album/6veVuNUi2Ges3ZacZzyhUe) | 2:45 | 2026-03-03 |  |
 | [Geef Me Dan Even](https://open.spotify.com/track/12uK11Y0VbFgqYEWCM4iCf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Dan Even](https://open.spotify.com/album/4EZjo1cp265mNWvfWR6YDJ) | 3:15 | 2022-11-01 | 2022-11-30 |
 | [Geef Me Het Leven](https://open.spotify.com/track/0Q0HDbyXAjuyhkEvVBJ9tx) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Geef Me Het Leven](https://open.spotify.com/album/6hsFidirKZuZtSc4LNjOMk) | 3:15 | 2024-07-02 | 2024-08-07 |
@@ -1231,7 +1233,7 @@
 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 | 2024-11-05 | 2024-12-04 |
 | [Ik Ken Jou](https://open.spotify.com/track/7qoAdOVGvFp9oLfPdglYaV) | [Zulema](https://open.spotify.com/artist/4zZNKi7LpDeLANCiozqMv4) | [Ik Ken Jou](https://open.spotify.com/album/4gc28mrrkCIpD6iLE6QuqA) | 2:22 | 2024-09-03 | 2024-10-02 |
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2022-11-01 | 2022-11-30 |
-| [IK MOET GAAN](https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 2:43 | 2025-11-04 | 2025-12-04 |
+| [IK MOET GAAN](https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 2:43 | 2025-11-04 |  |
 | [Ik Moet Het Niet Doen](https://open.spotify.com/track/7tnnYXHZDw30733ydAfZVj) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Ik Moet Het Niet Doen](https://open.spotify.com/album/7uTlmxhjqy0QAcVAqB0VOs) | 2:17 | 2024-06-04 | 2024-07-03 |
 | [Ik Reis Door De Nacht](https://open.spotify.com/track/3wup0jGZHoOVb24syu2hVr) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Ik Reis Door De Nacht](https://open.spotify.com/album/6DA0jt7sNTggjlnnunoCat) | 2:57 | 2024-07-03 | 2024-08-07 |
 | [Ik Ren](https://open.spotify.com/track/7ATLz1jdCZmwi6n6f3hqlA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Ik Ren](https://open.spotify.com/album/5MkenFzk9r19qPvShJPOVv) | 4:13 | 2024-06-04 | 2024-07-03 |
@@ -1582,7 +1584,7 @@
 | [Los in mij](https://open.spotify.com/track/1TBhCIH5POksa7gDXGPFw4) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Los in mij](https://open.spotify.com/album/0eQ36q9FJofZPpPpkMERwo) | 2:36 | 2025-05-06 | 2025-06-04 |
 | [Lose Myself](https://open.spotify.com/track/0NgxNRkuEfytKKf89f12h9) | [Áslaug](https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz) | [Lose Myself](https://open.spotify.com/album/6pSh0WsivEGbF1utMlDBSN) | 3:08 | 2024-10-01 | 2024-11-06 |
 | [Loser](https://open.spotify.com/track/5MBaUQGYX5oK3kpukAZRDj) | [Dutch Mustard](https://open.spotify.com/artist/6QGi06qu6deTJRLZO2YrlP) | [Loser](https://open.spotify.com/album/2mlLbBlwrR0YgPf484jcJH) | 3:03 | 2024-08-06 | 2024-09-04 |
-| [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2026-01-12 | 2026-02-04 |
+| [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 | 2026-01-12 |  |
 | [Losing Again](https://open.spotify.com/track/3SIVr8XmtT9cYVEg7LV8Ro) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [Losing Again](https://open.spotify.com/album/6kzqMiDx7usSC2flj8hy9k) | 3:16 | 2024-11-05 | 2024-12-04 |
 | [Losing My Mind](https://open.spotify.com/track/44cRgaHpKEq4d2qPqotGIr) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Losing My Mind](https://open.spotify.com/album/0pOyzxAWbbMNVDrkS4qo0i) | 3:28 | 2024-01-10 | 2024-02-07 |
 | [Loslaten](https://open.spotify.com/track/7qy4cIKOuTW1kzDicP7KmE) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Loslaten](https://open.spotify.com/album/6fl32J8dH6si5bcfKoK6E2) | 2:56 | 2021-12-07 | 2022-02-02 |
@@ -1689,7 +1691,7 @@
 | [Merci](https://open.spotify.com/track/2ucacgpSBS5IwOXvDnCvWs) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Merci](https://open.spotify.com/album/2CLzos1UOTwd6YoL7FVQni) | 3:11 | 2025-02-04 | 2025-03-05 |
 | [Mesmerized](https://open.spotify.com/track/1b1gHZRofxSPvnEcjMjRbW) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Mesmerized](https://open.spotify.com/album/0jdl8h8IZavF2pxtsfOiax) | 2:42 | 2023-02-28 | 2023-04-05 |
 | [Mess Of My Kind](https://open.spotify.com/track/1HrrHPZNrvWhzVWZAEzI9v) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Mess Of My Kind](https://open.spotify.com/album/2amDpS0S84DIK8kG4ogXRy) | 2:42 | 2024-01-10 | 2024-02-07 |
-| [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 | 2025-07-01 | 2025-08-06 |
+| [Messiah](https://open.spotify.com/track/1YUgKPbLTDk36tEthUIpxv) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [Messiah](https://open.spotify.com/album/1sSOLDIVlkFSqHSiEcEPHd) | 2:56 | 2025-07-01 |  |
 | [Messy](https://open.spotify.com/track/2RpUKNvbof9j97R7cvrT0Y) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Messy](https://open.spotify.com/album/2eZV5EjQQCWBgLulYgyMN5) | 3:15 | 2026-01-12 | 2026-02-04 |
 | [Messy](https://open.spotify.com/track/3RvSjbvhpFo9ErxDiwhNtv) | [Áslaug](https://open.spotify.com/artist/1y11BpoSKV2cOGKk8TFVOz) | [Messy](https://open.spotify.com/album/6FvhY4QWJsLIHI6cVtg25v) | 2:41 | 2025-01-07 | 2025-02-05 |
 | [Met Een Reden](https://open.spotify.com/track/0XbGwHymFSaSSR1YTfMazd) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Met Een Reden](https://open.spotify.com/album/4Vzj0KkxkpkIIeWSkl4tLr) | 2:26 | 2023-01-03 | 2023-02-01 |
@@ -1881,7 +1883,7 @@
 | [No stress zone](https://open.spotify.com/track/1Atd9ieir1NXGz9rTBiG5c) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM) | [No stress zone](https://open.spotify.com/album/0kh2WQprmeAATldxsuum22) | 2:40 | 2026-03-03 |  |
 | [No Time](https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [No Time](https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR) | 3:18 | 2022-09-06 | 2022-10-05 |
 | [No Worry](https://open.spotify.com/track/1hfYYQHeAvd4RiXmXe8RoZ) | [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Carpata](https://open.spotify.com/artist/2Xy9YUiCeDyGEUitda5VJs) | [No Worry](https://open.spotify.com/album/0OLrUj4OlfR3ILwtIVmVUE) | 2:54 | 2025-08-05 | 2025-09-03 |
-| [NOG 1 KEER](https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [NOG 1 KEER](https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY) | 2:29 | 2025-06-03 | 2025-07-02 |
+| [NOG 1 KEER](https://open.spotify.com/track/1tSmrzHgtQf70rtrnmga65) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [NOG 1 KEER](https://open.spotify.com/album/6FP8fDIZKajzB2p5X0OPSY) | 2:29 | 2025-06-03 |  |
 | [Nog Een Keer](https://open.spotify.com/track/1JXgCvjhdDrCO2lRm21mw6) | [Denise Kroes](https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6) | [Nog Een Keer](https://open.spotify.com/album/0vVAyMrHBhDruuvBidivip) | 2:44 | 2026-03-03 |  |
 | [Nog even hier](https://open.spotify.com/track/2CxcTO9K3RBdgATXpA02Dd) | [Dyde](https://open.spotify.com/artist/4KDbJoYj56Kf3KSpZYWEUu) | [Nog even hier](https://open.spotify.com/album/2XiPXHMn2QY0Ss0kEsLXPE) | 3:07 | 2025-09-02 | 2025-10-01 |
 | [Nog Één Laatste Dans](https://open.spotify.com/track/2Xna5UxLejgr80HXcXhMDE) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nog Één Laatste Dans](https://open.spotify.com/album/3osA0lKFSHMNtxl910iuM0) | 2:51 | 2024-08-06 | 2024-09-04 |
@@ -2045,6 +2047,7 @@
 | [Paradise](https://open.spotify.com/track/0FGB8HscO5sYS2tK4rlGQ1) | [Macarena](https://open.spotify.com/artist/638JICAu6DuMOLtrBrlTJg) | [Paradise](https://open.spotify.com/album/0BbVpg96wMqukEi3Ndjd0d) | 4:05 | 2022-10-04 | 2022-11-02 |
 | [Paradise](https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Paradise](https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA) | 5:16 | 2022-04-05 | 2023-01-04 |
 | [PARADOX](https://open.spotify.com/track/7EBT2ysSOVTvtLd3IedjDz) | [PARRA.DICE](https://open.spotify.com/artist/2eCxfiZzKfDdrxK0U0RYwg) | [PARADOX](https://open.spotify.com/album/21oCU0aD5wbKAbNd6UHg6u) | 3:22 | 2025-01-07 | 2025-02-05 |
+| [Paranoia](https://open.spotify.com/track/3jl0X6KiUAWM8YrumN29PQ) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Eclips](https://open.spotify.com/album/6k4wcGbc7oL8GNHItUtneq) | 3:14 | 2026-03-19 |  |
 | [Paranoia](https://open.spotify.com/track/4h272DTgerbGSLboHdYefP) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Paranoia](https://open.spotify.com/album/1R3bFpMH3ySvkMArLrwFox) | 3:14 | 2024-05-07 | 2024-06-05 |
 | [Parels](https://open.spotify.com/track/6wGoVHW6BNXef4Sxg1nRcc) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Parels](https://open.spotify.com/album/6OwBBSR0RukcAhHEmnrgbe) | 3:23 | 2022-07-05 | 2022-08-03 |
 | [Parenthood](https://open.spotify.com/track/3VN2HtCxJ3VIBGZKlaKJ8G) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Parenthood](https://open.spotify.com/album/2FZHY25n9Rkk4r4PvVaI2K) | 3:52 | 2022-06-01 | 2022-06-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Fino y elegante, como Aria Vega. ",
-  "num_followers": 221206,
+  "num_followers": 221199,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFo6WT538F5cU/0wKercGeWNe+w",
+  "snapshot_id": "AAAAAPB0yIv0Gyif05P2pT2soKh9yeK5",
   "tracks": [
     {
       "added_at": "2026-03-06 04:59:28",
@@ -207,6 +207,26 @@
       "duration_ms": 159452,
       "name": "LATINA FOREVA",
       "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
+    },
+    {
+      "added_at": "2026-03-19 15:00:58",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 172621,
+      "name": "te pongo mal(prendelo)",
+      "url": "https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv"
     },
     {
       "added_at": "2026-03-18 21:38:51",

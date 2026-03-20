@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
+    },
+    {
+      "album": {
         "name": "Summer Is Calling, Vol. 1",
         "url": "https://open.spotify.com/album/2zaKbh9KmiTtkpSAHaeikd"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  SENZA CRI in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,253 likes - 76 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,252 likes - 76 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 41 | [Te e Me](https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Te e Me](https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ) | 2:40 |
 | 42 | [NORMALE](https://open.spotify.com/track/3QCQSvsySCZpqFkkFrKMd9) | [LUNA LIAS](https://open.spotify.com/artist/2SHKobhACxOoqb7xramKdA) | [Neotenìa EP](https://open.spotify.com/album/0dvxBEhhdrzMbEwfCes6d0) | 3:22 |
 | 43 | [Che sarà mai](https://open.spotify.com/track/6K2Vwo6MnBEVOaajnHBGOj) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Che sarà mai](https://open.spotify.com/album/1OB4yPsfjRM61P6ogWMq9u) | 2:58 |
-| 44 | [MNM \(feat\. MYDRAMA & VTR\)](https://open.spotify.com/track/1ryU8bcGlofoUfnF5QQU0a) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [MNM \(feat\. MYDRAMA & VTR\)](https://open.spotify.com/album/2J0TJZJXxs4HgaHbZfDi9h) | 2:27 |
+| 44 | [MNM](https://open.spotify.com/track/1ryU8bcGlofoUfnF5QQU0a) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [MNM](https://open.spotify.com/album/2J0TJZJXxs4HgaHbZfDi9h) | 2:27 |
 | 45 | [ONDE](https://open.spotify.com/track/269ZySgpz2Q6uFoxdKvT3v) | [NICOL](https://open.spotify.com/artist/5SHDHLDBneSJWuVN8DAShg) | [ONDE](https://open.spotify.com/album/3SzXhtjlHzKlcskuHFNh9Z) | 2:49 |
 | 46 | [TOY BOY](https://open.spotify.com/track/6DoUL5vqmwapENFypmEfEm) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm), [Raffucs](https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo) | [UNCLAIMED TWINK](https://open.spotify.com/album/6aiMs1WTTVHn9gqZkLpZUZ) | 2:16 |
 | 47 | [Silenzio](https://open.spotify.com/track/0Wn5uKEy882wjQy2XPuyld) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Silenzio](https://open.spotify.com/album/4jWgwYsZqS67dT82lm0Xxq) | 2:53 |

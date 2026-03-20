@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > J\-Tong & Hukky Shibaseki’s Top 10 Hip\-Hop Picks\. Catch them first at the top!
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,220 likes - 101 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,352 likes - 101 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 15 | [TICK TOCK \(Feat\. ZICO\) \(Prod\. by ZICO, Crush\)](https://open.spotify.com/track/3m08yeqLjXsqblRU3KXPAp) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW), [Jung Junhyuk](https://open.spotify.com/artist/3AfvvgMrTONEdoXOfWrBoS), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me The Money 12 Episode 1](https://open.spotify.com/album/67ieVVFQxypYAvx3FirGoG) | 3:50 |
 | 16 | [I DON'T BARGAIN](https://open.spotify.com/track/2aTs07BHIgEoelYtdYONw7) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/62Jpd59HqdZiKEu0aewPtY) | 2:50 |
 | 17 | [PLAYER \(feat\. Crush\)](https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [6SEOUL](https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh) | 3:06 |
-| 18 | [Yin and Yang \(Feat\. DEAN, PENOMECO\) \- FANXY CHILD Ver.](https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Yin and Yang \(Feat\. DEAN, PENOMECO\) \[FANXY CHILD Ver.\]](https://open.spotify.com/album/5zcPl24xa0wV5JXjzzs8oq) | 3:42 |
+| 18 | [Yin and Yang \- FANXY CHILD Ver.](https://open.spotify.com/track/5VWjUgKTeDoX5GJGgfUSXM) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Yin and Yang \(FANXY CHILD Ver.\)](https://open.spotify.com/album/5zcPl24xa0wV5JXjzzs8oq) | 3:42 |
 | 19 | [STAY on FIRE \(feat\. DEAN\)](https://open.spotify.com/track/6PpxPJyQYHGeiUCYy6jF02) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [STAY on FIRE \(feat\. DEAN\)](https://open.spotify.com/album/7yb2TYcg7G8Xjp9FAHNcqJ) | 3:03 |
 | 20 | [LAKU](https://open.spotify.com/track/5xgBNPHw4s99IIQ9GORN71) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [AMBITION 3/10](https://open.spotify.com/album/1AUgYZCQlfevwwHcI7IXGU) | 2:40 |
 | 21 | [KrOWN\_Loco](https://open.spotify.com/track/1aMU3K4GxvEgikHmfBi8Tw) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [KrOWN Audio Liner](https://open.spotify.com/album/3jQXGV5BDM5iVvRfgURHR8) | 0:02 |

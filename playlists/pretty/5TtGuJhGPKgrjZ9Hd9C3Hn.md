@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,453 likes - 122 songs - 13 hr 2 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 47,458 likes - 122 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 6 | ['Round Midnight](https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 3:13 |
 | 7 | [Bags' Groove](https://open.spotify.com/track/1ewQUavRnFAEwPqqwKQ0nF) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [Milt Jackson With John Lewis, Percy Heath, Kenny Clarke, Lou Donaldson And The Thelonious Monk Quintet \(Expanded Edition\)](https://open.spotify.com/album/3rEExGtWJZ5uRXNKaCgKDl) | 3:06 |
 | 8 | [Boogie Woogie Stomp](https://open.spotify.com/track/2jZXAZ07wtsPETniGqkqBp) | [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The First Day](https://open.spotify.com/album/1ajSXIknjZtWOz00kVjY7Z) | 3:38 |
-| 9 | [Senor Blues](https://open.spotify.com/track/1xobOM810o8ZwPrhYnN3OY) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 7:01 |
+| 9 | [Senor Blues \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/1xobOM810o8ZwPrhYnN3OY) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver \(Remastered 1998/Rudy Van Gelder Edition\)](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 7:01 |
 | 10 | [Un Poco Loco \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/5SocjOFFwNyWGLwAzPfLFh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:46 |
 | 11 | [Speak Low \- Remastered 1998](https://open.spotify.com/track/48maZW59yoavD1b4gbSGro) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 6:50 |
 | 12 | [De\-Dah \- Remastered](https://open.spotify.com/track/6WWkfAJdWLvJcUs9wq33Ou) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Memorial Album \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ) | 4:51 |

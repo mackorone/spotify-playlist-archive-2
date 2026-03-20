@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 86618,
+  "num_followers": 86639,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Follownaise",
-        "url": "https://open.spotify.com/album/2zvjEVuqwNcOlIUDe1bOYK"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        }
-      ],
-      "duration_ms": 138672,
-      "name": "Follownaise",
-      "url": "https://open.spotify.com/track/5aFE42f0LP3mYFBcoqYl29"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Chaos",
         "url": "https://open.spotify.com/album/7HLaSZwK4sheOVJNg12hC6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 154064,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2YeN5MsDe24lWB40Vx4wNN"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Follownaise",
+        "url": "https://open.spotify.com/album/2zvjEVuqwNcOlIUDe1bOYK"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        }
+      ],
+      "duration_ms": 138672,
+      "name": "Follownaise",
+      "url": "https://open.spotify.com/track/5aFE42f0LP3mYFBcoqYl29"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -759,30 +759,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Doe Maar",
-        "url": "https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv"
-      },
-      "artists": [
-        {
-          "name": "Dansado & De Feestmeester",
-          "url": "https://open.spotify.com/artist/1Mkig7lvNqKA8Z6QAKy8vG"
-        },
-        {
-          "name": "Zany",
-          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Doe Maar",
-      "url": "https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Amalia (Remix)",
         "url": "https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp"
       },
@@ -799,30 +775,6 @@
       "duration_ms": 152829,
       "name": "Amalia - Remix",
       "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
-        "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
-        "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
-      },
-      "artists": [
-        {
-          "name": "CV De W\u00e8ggooiers",
-          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
-        },
-        {
-          "name": "Matt Ardeo",
-          "url": "https://open.spotify.com/artist/1dDxFgX25Bxk6JchWaqTSa"
-        },
-        {
-          "name": "Partytigers",
-          "url": "https://open.spotify.com/artist/6ql49n8DVN6ghKusnXqsbM"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
-      "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -847,6 +799,54 @@
       "duration_ms": 191174,
       "name": "In Mijn Bloed (feat. Eelco)",
       "url": "https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/1tZ2LLBIawSYfhcalfYDRv"
+      },
+      "artists": [
+        {
+          "name": "Dansado & De Feestmeester",
+          "url": "https://open.spotify.com/artist/1Mkig7lvNqKA8Z6QAKy8vG"
+        },
+        {
+          "name": "Zany",
+          "url": "https://open.spotify.com/artist/5lHeHJPYUJdDBXIApseBwO"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/29JcOMyinCk92BmIw1lBF5"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
+        "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
+      },
+      "artists": [
+        {
+          "name": "CV De W\u00e8ggooiers",
+          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
+        },
+        {
+          "name": "Matt Ardeo",
+          "url": "https://open.spotify.com/artist/1dDxFgX25Bxk6JchWaqTSa"
+        },
+        {
+          "name": "Partytigers",
+          "url": "https://open.spotify.com/artist/6ql49n8DVN6ghKusnXqsbM"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
+      "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
     },
     {
       "added_at": "2026-03-05 23:00:27",

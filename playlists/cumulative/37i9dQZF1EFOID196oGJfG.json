@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151868,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k"
+    },
+    {
+      "album": {
         "name": "balloons don't float here",
         "url": "https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw"
       },

@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: James Blake
 
-1,825 songs - 4 day 8 hr 52 min
+1,828 songs - 4 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Boarding Pass](https://open.spotify.com/track/0gs7ASaZRslvTqeKSi2mNf) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [MAJORDOMO](https://open.spotify.com/album/5E0LdqAKEHpaP3nxS47uxq) | 3:37 | 2024-08-29 | 2024-10-18 |
 | [Body Better](https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Body Better](https://open.spotify.com/album/1M3Zej93KusKy0Ty1IBVQI) | 3:09 | 2023-03-23 | 2023-05-19 |
 | [Body's Chorus](https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Bodys Chorus](https://open.spotify.com/album/2pl6IAqWlzpbhyTjycbHj4) | 3:58 | 2025-01-16 | 2025-03-21 |
+| [Bodyfeeling](https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 4:08 | 2026-03-19 |  |
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-28 | 2022-06-21 |
 | [Booty Call](https://open.spotify.com/track/7fTa1znarT0UvbtvLCAPxE) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Booty Call](https://open.spotify.com/album/4btdT0MHZpeqLNqY32VuKB) | 3:14 | 2022-04-14 | 2022-05-10 |
 | [Border Line](https://open.spotify.com/track/6lHz9vaD9fxEHJnzYkN5Nq) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [6 Feet Beneath The Moon](https://open.spotify.com/album/6uvdXVgHsioxRIo0cFnkD7) | 3:05 | 2023-04-06 | 2023-04-14 |
@@ -838,6 +839,7 @@
 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 | 2023-11-30 | 2024-01-26 |
 | [Intro](https://open.spotify.com/track/2ClJu45cS0Gu8QMgm0u16V) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Intro](https://open.spotify.com/album/3zjQLCpXlFRFNEmS0exFSg) | 2:54 | 2021-12-28 | 2022-01-27 |
 | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Invincible \(feat\. Daniel Caesar\)](https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh) | 3:36 | 2022-02-10 | 2022-04-01 |
+| [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 | 2026-03-19 |  |
 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 | 2025-05-01 | 2025-05-23 |
 | [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 | 2022-03-10 | 2022-05-20 |
 | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/track/05AXOoZN3bpJh6oXylrfvX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Is This What It Feels Like to Feel Like This?](https://open.spotify.com/album/6sxU6FxUwBONwo2zsbD2v8) | 2:45 | 2022-10-11 | 2022-11-04 |
@@ -905,6 +907,7 @@
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-13 | 2022-04-05 |
 | [Last of a Dying Breed](https://open.spotify.com/track/1c2ArpI0RmBOk62Tf81xLI) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Last of a Dying Breed](https://open.spotify.com/album/3ttt3IAhIjw42M0OXWbyJS) | 2:29 | 2026-01-22 |  |
 | [Last Train Home](https://open.spotify.com/track/1qrbX0qEOuuXgewDMtElfa) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [Chasing Home](https://open.spotify.com/album/58T4xfwNmLLxvjfqzLZRyK) | 3:11 | 2022-03-03 | 2022-04-01 |
+| [Lately, Love Is Dead](https://open.spotify.com/track/49b2ZZj6rxIwQCuMgrj8zI) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [Lately, Love Is Dead](https://open.spotify.com/album/2uQkM9irfWIhfJKRhFMcxr) | 4:05 | 2026-03-19 |  |
 | [Laying Low](https://open.spotify.com/track/68LCrRHSHTVagcSFf0OjUH) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Love and Fortune](https://open.spotify.com/album/7qEZ2vRPu9ojHwkCWMRrOB) | 3:30 | 2025-11-13 |  |
 | [LAZY](https://open.spotify.com/track/2pUsVdWX8cCwznDqTKil2G) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [LAZY](https://open.spotify.com/album/5R4N50KXCR8YzZ5JaNqNue) | 3:23 | 2022-09-29 | 2022-11-11 |
 | [Lean](https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [Lean](https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD) | 3:53 | 2026-01-15 |  |

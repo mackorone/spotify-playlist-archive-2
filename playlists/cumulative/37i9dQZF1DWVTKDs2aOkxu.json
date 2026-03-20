@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: beabadoobee",
+  "description": "The best indie music of the moment. Cover: Florence Road ",
   "name": "The Indie List",
   "tracks": [
     {
@@ -841,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb"
+    },
+    {
+      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/63H5mLhEaz0nG3cFpQ1Hjx"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
@@ -2121,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248100,
+      "name": "Bodyfeeling",
+      "url": "https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX"
+    },
+    {
+      "album": {
         "name": "bone",
         "url": "https://open.spotify.com/album/5CZw1bn4UiEc9aBXVim8kU"
       },
@@ -2399,6 +2435,24 @@
     },
     {
       "album": {
+        "name": "Bus Song",
+        "url": "https://open.spotify.com/album/1u4VRnXeVmItAF1xqoKPHJ"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199518,
+      "name": "Bus Song",
+      "url": "https://open.spotify.com/track/52toKg7MSgoJiGUWECr7uK"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S"
       },
@@ -2608,7 +2662,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 186463,
       "name": "Candle",
       "url": "https://open.spotify.com/track/66447TJUyw3jjyePECdqJY"
@@ -3350,7 +3404,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 253346,
       "name": "Crumbs",
       "url": "https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz"
@@ -5308,7 +5362,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 243280,
       "name": "Garden",
       "url": "https://open.spotify.com/track/5Pr0dZZjoGqnWzlASF1ESU"
@@ -5910,6 +5964,24 @@
       "duration_ms": 189531,
       "name": "Hangman",
       "url": "https://open.spotify.com/track/47sdIyGJrff7WH00KEaCUm"
+    },
+    {
+      "album": {
+        "name": "Written into Changes",
+        "url": "https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233113,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
     },
     {
       "album": {
@@ -6544,6 +6616,24 @@
       "duration_ms": 156000,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
+    },
+    {
+      "album": {
+        "name": "I Keep Her Photograph With Me",
+        "url": "https://open.spotify.com/album/6Bhf0WMabGMXMsqNXixL3k"
+      },
+      "artists": [
+        {
+          "name": "Swim Deep",
+          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312576,
+      "name": "I Keep Her Photograph With Me",
+      "url": "https://open.spotify.com/track/7Aq7hxCI4C5ZT5tyOXFVqP"
     },
     {
       "album": {
@@ -8207,6 +8297,24 @@
     },
     {
       "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7gfAIiklAXOtyfSAAnRz0C"
+      },
+      "artists": [
+        {
+          "name": "My New Band Believe",
+          "url": "https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226077,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/3FAgUjS7OqRoXl4WjowcKS"
+    },
+    {
+      "album": {
         "name": "Wall Of Arms",
         "url": "https://open.spotify.com/album/5ToJ9pG8YEetqP7qlFQP49"
       },
@@ -8240,6 +8348,24 @@
       "duration_ms": 212500,
       "name": "LOVEBITES",
       "url": "https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum"
+    },
+    {
+      "album": {
+        "name": "lovedrunk",
+        "url": "https://open.spotify.com/album/46a91eZfO06sfLJiTOdvcd"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140812,
+      "name": "lovedrunk",
+      "url": "https://open.spotify.com/track/73HM4oXqEBDbeKn8GexF3c"
     },
     {
       "album": {
@@ -9564,7 +9690,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 130000,
       "name": "Nights In Armor (FKA Love Song)",
       "url": "https://open.spotify.com/track/60ghrjJevnOt9WihSGmZ1B"
@@ -9694,7 +9820,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 191240,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/1GgAQK7vuuydUdSn7uJFFT"
@@ -10246,7 +10372,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 193910,
       "name": "Peel",
       "url": "https://open.spotify.com/track/0AmeoPjCxl4SoX7YUS69NC"
@@ -10881,6 +11007,24 @@
     },
     {
       "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/43e8cs35ILaJjlDtj8H44z"
       },
@@ -11456,7 +11600,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168490,
       "name": "Scared Of Loving Wild Again",
       "url": "https://open.spotify.com/track/7FcTEvbElcmioUYPtc5bpj"
@@ -11712,7 +11856,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 100913,
       "name": "SF & GG",
       "url": "https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ"
@@ -11972,7 +12116,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 230129,
       "name": "SLATHER ON THE HONEY",
       "url": "https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW"
@@ -13856,7 +14000,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 281988,
       "name": "The Old Law",
       "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
@@ -14040,7 +14184,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 144286,
       "name": "The Wahs",
       "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
@@ -14645,6 +14789,24 @@
     },
     {
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH"
+    },
+    {
+      "album": {
         "name": "Gumshoe",
         "url": "https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo"
       },
@@ -14948,6 +15110,24 @@
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+    },
+    {
+      "album": {
+        "name": "PRINT",
+        "url": "https://open.spotify.com/album/1sZ1EplSM9SsQJZzg1QZVM"
+      },
+      "artists": [
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203211,
+      "name": "verden",
+      "url": "https://open.spotify.com/track/4Ak1ze9cxOduO9BsbJkI5O"
     },
     {
       "album": {
@@ -15745,6 +15925,24 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3BB0xOQPvpn5Amjh3TFBfI"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227242,
+      "name": "Witching Hour",
+      "url": "https://open.spotify.com/track/2wRv8M3xboX9UHlkyvpn8l"
+    },
+    {
+      "album": {
         "name": "Wolf River",
         "url": "https://open.spotify.com/album/134mZBbvgtMVVdxG1BItmx"
       },
@@ -15922,6 +16120,24 @@
       "duration_ms": 244766,
       "name": "You Were Solved",
       "url": "https://open.spotify.com/track/2GCpKaWWtcM6UKG2oJ2hut"
+    },
+    {
+      "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/2TeNHfb3Xb8aWWESW1QCkl"
     },
     {
       "album": {

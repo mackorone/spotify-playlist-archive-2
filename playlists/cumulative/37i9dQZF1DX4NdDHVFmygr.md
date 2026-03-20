@@ -4,7 +4,7 @@
 
 > Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-504 songs - 1 day 2 hr 50 min
+505 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Campeónes](https://open.spotify.com/track/7ECCF1vFZ97wnYukjbUYsO) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G), [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [ElMarocchino](https://open.spotify.com/album/252TA0tbVv9K773Z33o8W2) | 2:44 | 2022-06-27 | 2022-09-27 |
 | [Carabina](https://open.spotify.com/track/2fxWooJ4Mymjo0nVk2HqFo) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [Carabina](https://open.spotify.com/album/2jio9hp6RxAu5WKupaBZdV) | 3:03 | 2025-09-24 |  |
 | [Cariño](https://open.spotify.com/track/43WGG3jUSVGStwAByFIKkC) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Cariño](https://open.spotify.com/album/2mLtZR6hCt81DOYsiWkniJ) | 3:02 | 2021-12-25 | 2022-01-25 |
-| [CARTA ROUGE](https://open.spotify.com/track/2ZzUpYp57Eftn5ueNKxkdW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CARTA ROUGE](https://open.spotify.com/album/7DmLAQQhaikH0svVdVSlBX) | 3:13 | 2025-11-22 |  |
+| [CARTA ROUGE](https://open.spotify.com/track/2ZzUpYp57Eftn5ueNKxkdW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CARTA ROUGE](https://open.spotify.com/album/7DmLAQQhaikH0svVdVSlBX) | 3:13 | 2025-11-22 | 2026-03-20 |
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 | 2024-08-29 |
 | [Casaway](https://open.spotify.com/track/1M5E9egSgeNZGI45zdTM0l) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Raymonde](https://open.spotify.com/artist/63nHhkPCFLt50hfm4L9J0l) | [Casaway](https://open.spotify.com/album/6BuJoTvXekiP5Ixr6drom6) | 3:04 | 2022-12-15 | 2022-12-28 |
 | [Champion](https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Champion](https://open.spotify.com/album/3TC4AzLjp92AoJj56TXvkZ) | 3:44 | 2022-12-22 | 2023-01-18 |
@@ -220,6 +220,7 @@
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2022-09-04 | 2023-05-30 |
 | [J’en ai marre](https://open.spotify.com/track/6VQTDVNUUeb3pcP8QbvmMa) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [J’en ai marre](https://open.spotify.com/album/00wrmWKjrzKvUpi69rYhoD) | 2:51 | 2021-12-25 | 2022-02-23 |
 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 | 2025-08-14 | 2026-03-07 |
+| [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 | 2026-03-20 |  |
 | [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 | 2024-01-14 | 2024-05-10 |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-06-11 | 2022-07-17 |
 | [KATA](https://open.spotify.com/track/5NKlXALZpt7pLjRZimclan) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [KATA](https://open.spotify.com/album/1ESrW2WAb59BBFxFbjpg6W) | 3:48 | 2022-11-09 | 2023-06-16 |

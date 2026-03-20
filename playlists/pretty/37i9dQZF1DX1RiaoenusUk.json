@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 34667,
+  "num_followers": 34672,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gotta Get Funky",
+      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
+    },
+    {
+      "added_at": "2026-02-27 14:19:39",
+      "album": {
         "name": "La Iguana en el Jard\u00edn",
         "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 222334,
       "name": "1000 D\u00edas",
       "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
-    },
-    {
-      "added_at": "2026-02-27 14:19:39",
-      "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Gotta Get Funky",
-      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Tal para Cual",
-      "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
-    },
-    {
-      "added_at": "2026-02-27 14:19:39",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 241706,
       "name": "Can't Fight The Funk",
       "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2026-02-27 14:19:39",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Tal para Cual",
+      "url": "https://open.spotify.com/track/2MQt1W8HZoOCuhPUYMROjY"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -903,34 +903,18 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Big Bombo Mamma",
-        "url": "https://open.spotify.com/album/2mUnAYErozFk0gn4V8noY8"
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Fool Times",
-      "url": "https://open.spotify.com/track/1V5Rk0zJFtw3Fz6DnRxIQf"
-    },
-    {
-      "added_at": "2026-02-27 14:19:39",
-      "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -967,18 +951,34 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
       "artists": [
         {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
         }
       ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2026-02-27 14:19:39",
+      "album": {
+        "name": "Big Bombo Mamma",
+        "url": "https://open.spotify.com/album/2mUnAYErozFk0gn4V8noY8"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Fool Times",
+      "url": "https://open.spotify.com/track/1V5Rk0zJFtw3Fz6DnRxIQf"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Eco (feat. Funky Torinos)",
-        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
-      },
-      "artists": [
-        {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        }
-      ],
-      "duration_ms": 286080,
-      "name": "Back to Life",
-      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
-    },
-    {
-      "added_at": "2026-02-27 14:19:39",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2026-02-27 14:19:39",
+      "album": {
+        "name": "Eco (feat. Funky Torinos)",
+        "url": "https://open.spotify.com/album/5iN5lxXt3Bxw0Pd8bEtiRH"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/5ABGgarzrlJ7bebh8wzOvr"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
+        "name": "Que Me Pasa",
+        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
+      },
+      "artists": [
+        {
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Que Me Pasa",
+      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+    },
+    {
+      "added_at": "2026-02-27 14:19:39",
+      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1459,18 +1475,18 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Que Me Pasa",
-        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
+        "name": "Sepia",
+        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
       },
       "artists": [
         {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Que Me Pasa",
-      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+      "duration_ms": 326661,
+      "name": "Sepia",
+      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -1507,22 +1523,6 @@
       "duration_ms": 161379,
       "name": "Sujeto a Espacio",
       "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
-    },
-    {
-      "added_at": "2026-02-27 14:19:39",
-      "album": {
-        "name": "Sepia",
-        "url": "https://open.spotify.com/album/7n8DQxmEU59eGsqK89zqaE"
-      },
-      "artists": [
-        {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        }
-      ],
-      "duration_ms": 326661,
-      "name": "Sepia",
-      "url": "https://open.spotify.com/track/5tNssisrG10u3i8M2tuK8X"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2026-02-27 14:19:39",
-      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Cami Brooks",
-          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 226871,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2026-02-27 14:19:39",
@@ -1647,22 +1631,34 @@
     {
       "added_at": "2026-02-27 14:19:39",
       "album": {
-        "name": "Foulmouth",
-        "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
       },
       "artists": [
         {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
         }
       ],
-      "duration_ms": 174273,
-      "name": "Foulmouth",
-      "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
+    },
+    {
+      "added_at": "2026-02-27 14:19:39",
+      "album": {
+        "name": "Fiestas en las Nubes",
+        "url": "https://open.spotify.com/album/0Tiz6OfXDDjzRoGxvjKa9A"
+      },
+      "artists": [
+        {
+          "name": "INTI GARCIA",
+          "url": "https://open.spotify.com/artist/6xfsqkwKslZM1Ygk9HfKZL"
+        }
+      ],
+      "duration_ms": 162624,
+      "name": "Fiestas en las Nubes",
+      "url": "https://open.spotify.com/track/0so8JhqmYKVsUufgewIASn"
     }
   ],
   "unique_name": "Nota Funk",

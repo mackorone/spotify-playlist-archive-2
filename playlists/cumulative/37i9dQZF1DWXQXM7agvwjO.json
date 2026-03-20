@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: Thee Marloes (Indonesia)",
+  "description": "Hottest indie sounds from Asia. Cover: Noridogam (Korea)",
   "name": ".ORG",
   "tracks": [
     {
@@ -2790,7 +2790,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 278515,
       "name": "Babel - Re-recorded",
       "url": "https://open.spotify.com/track/10xfnXloDbfdwDwA9MyEyK"
@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "cry jar",
+        "url": "https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179317,
+      "name": "cry jar",
+      "url": "https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp"
+    },
+    {
+      "album": {
         "name": "CryBaby",
         "url": "https://open.spotify.com/album/4e2e9kK6l66Hw2J3cOV0El"
       },
@@ -11386,7 +11404,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 245449,
       "name": "FACES",
       "url": "https://open.spotify.com/track/5fmNsEdbraFS9leqbsBvbQ"
@@ -14900,7 +14918,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 195882,
       "name": "heaven",
       "url": "https://open.spotify.com/track/32ygL7hogsW5q8W6SLSnuL"
@@ -16728,6 +16746,24 @@
       "duration_ms": 172777,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH"
+    },
+    {
+      "album": {
+        "name": "i know u by heart",
+        "url": "https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "i know u by heart",
+      "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
     },
     {
       "album": {
@@ -22758,7 +22794,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 292958,
       "name": "Megamind",
       "url": "https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB"
@@ -23186,6 +23222,24 @@
       "duration_ms": 218928,
       "name": "Midnight Hotline",
       "url": "https://open.spotify.com/track/3vTvVfBQis7wysyjxUJJ8x"
+    },
+    {
+      "album": {
+        "name": "Midnight In My Room",
+        "url": "https://open.spotify.com/album/4RM9KzxCSYdUBEdHGCosK4"
+      },
+      "artists": [
+        {
+          "name": "DOOR PLANT",
+          "url": "https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201287,
+      "name": "Midnight In My Room",
+      "url": "https://open.spotify.com/track/3JfjVkfbqbKqLAZh6016Fk"
     },
     {
       "album": {
@@ -27542,7 +27596,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 194500,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3hBdLJdJQnVXASDXFrXVYW"
@@ -29487,6 +29541,28 @@
     },
     {
       "album": {
+        "name": "Reel 4",
+        "url": "https://open.spotify.com/album/4d3lFppUOefm01EFhQ8AbW"
+      },
+      "artists": [
+        {
+          "name": "Zeke And The Popo",
+          "url": "https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j"
+        },
+        {
+          "name": "Kaneko Pardede",
+          "url": "https://open.spotify.com/artist/5rBkep2MYuz4aEXzGVuW2B"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184545,
+      "name": "Reel 4",
+      "url": "https://open.spotify.com/track/0dVSANH9ZCILbjNOozeTEH"
+    },
+    {
+      "album": {
         "name": "Neo Hell",
         "url": "https://open.spotify.com/album/1Tgf4iaOZ1xwYPa1kEoJY4"
       },
@@ -29816,7 +29892,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 227213,
       "name": "Robot Revolution",
       "url": "https://open.spotify.com/track/1oFZdO313TxVIMrurGaaWa"
@@ -33886,7 +33962,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229173,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1KQVk62nF7UGf38Q4LniGM"
@@ -34302,6 +34378,24 @@
       "duration_ms": 243555,
       "name": "sunrise",
       "url": "https://open.spotify.com/track/4amslzmcELgZwGmfrg2gOV"
+    },
+    {
+      "album": {
+        "name": "one dream, one star",
+        "url": "https://open.spotify.com/album/46RPLwDuUYeWLqg9mtSKCz"
+      },
+      "artists": [
+        {
+          "name": "sugar plant",
+          "url": "https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351311,
+      "name": "sunrise",
+      "url": "https://open.spotify.com/track/5o8TBqGcHjBcBfZGnU4ObF"
     },
     {
       "album": {
@@ -35190,6 +35284,24 @@
       "duration_ms": 241582,
       "name": "Take My Hug",
       "url": "https://open.spotify.com/track/4Fml95IHlQ9QE976vkyvZk"
+    },
+    {
+      "album": {
+        "name": "take three",
+        "url": "https://open.spotify.com/album/0R8AcFXuKhEsJ5XTZ2YIwT"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "take three",
+      "url": "https://open.spotify.com/track/67y8te5E7oYXnAq4nlhjZI"
     },
     {
       "album": {
@@ -37031,6 +37143,24 @@
     },
     {
       "album": {
+        "name": "TRUTHBUSTER",
+        "url": "https://open.spotify.com/album/2OlUMnS2qteJ6rY9LnZ0ht"
+      },
+      "artists": [
+        {
+          "name": "Noridogam",
+          "url": "https://open.spotify.com/artist/0wGPie2VhTjtwscQEqBhDe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249382,
+      "name": "Today, Today",
+      "url": "https://open.spotify.com/track/2HOHvjZiZRInQXcy1SXkHD"
+    },
+    {
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
       },
@@ -37422,6 +37552,24 @@
       "duration_ms": 157000,
       "name": "Toxicated",
       "url": "https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE"
+    },
+    {
+      "album": {
+        "name": "Tirakat (Habibi Funk 034)",
+        "url": "https://open.spotify.com/album/4FiEX8kdgko6dZkaYzqeqs"
+      },
+      "artists": [
+        {
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/6DOFJOTBsO1YxZKaacmY8f"
     },
     {
       "album": {
@@ -38524,7 +38672,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200571,
       "name": "Velvet Love",
       "url": "https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd"
@@ -42020,7 +42168,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177979,
       "name": "\u0e1b\u0e25\u0e32\u0e22\u0e1d\u0e19\u0e15\u0e49\u0e19\u0e2b\u0e19\u0e32\u0e27 (Winter Breeze)",
       "url": "https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS"
@@ -44364,6 +44512,28 @@
       "duration_ms": 128000,
       "name": "\u5e36\u4f60\u53bb\u83ef\u76db\u9813\u884c\u4e00\u5708",
       "url": "https://open.spotify.com/track/02bWV0hw1J43OMTTWcPl9T"
+    },
+    {
+      "album": {
+        "name": "\u5e73\u51e1\u7684\u4e00\u5929",
+        "url": "https://open.spotify.com/album/0ZoOP9WP31TUzusrD1nnjz"
+      },
+      "artists": [
+        {
+          "name": "\u7d19\u9cf6",
+          "url": "https://open.spotify.com/artist/05delKph4l4CQoZ5seRwW9"
+        },
+        {
+          "name": "\u77e5\u66f4",
+          "url": "https://open.spotify.com/artist/5L84ifCEkzPSo2pE0FQ6KE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278709,
+      "name": "\u5e73\u51e1\u7684\u4e00\u5929",
+      "url": "https://open.spotify.com/track/5w5nJJ0KKgzolaeyA97VTx"
     },
     {
       "album": {

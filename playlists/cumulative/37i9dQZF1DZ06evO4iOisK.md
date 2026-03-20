@@ -4,7 +4,7 @@
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 29 min
+90 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chase the Shine](https://open.spotify.com/track/30EfnWyFnPO7UOXa9x4HYp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Chase the Shine](https://open.spotify.com/album/13dG83G4Lgqw5fgLiCdJ2D) | 3:00 | 2025-07-09 |  |
 | [COME IN SUMMER](https://open.spotify.com/track/1qmg9NdpEaRE70MgSjLath) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:45 | 2022-06-09 |  |
 | [Come on](https://open.spotify.com/track/30W9ifepbiFfbwypA27eQl) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:36 | 2022-06-09 | 2025-10-24 |
+| [Darling](https://open.spotify.com/track/0JtabsBfN1J8KnWw6x1PE3) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m) | 3:13 | 2026-03-20 |  |
 | [Don't Look Back](https://open.spotify.com/track/2EYq8MSKm0q2SoYksSyy2R) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [KINGDOM](https://open.spotify.com/album/4uPXRFvnyXL13UV154reKX) | 3:25 | 2022-08-29 | 2022-10-09 |
 | [EZ Going](https://open.spotify.com/track/5FD3lEtvlewgOsiz0yPVq0) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:04 | 2022-10-06 | 2022-10-08 |
 | [Far away](https://open.spotify.com/track/0qqO2Z3PDWYXGtbXcnl76h) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 4:02 | 2022-06-12 | 2022-10-02 |
@@ -66,7 +67,7 @@
 | [Stand by me](https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [4](https://open.spotify.com/album/5But7Bof89100t1dGas3vE) | 3:52 | 2022-08-24 |  |
 | [STAR](https://open.spotify.com/track/6tWWNHpJMwIsy3NeSGGvYi) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Naked](https://open.spotify.com/album/3KYvw9yizdKqQPa7K1iEd9) | 3:49 | 2022-06-09 |  |
 | [STILL ON FIRE](https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [STILL ON FIRE](https://open.spotify.com/album/0mVecY7PMTHop2lnWOb7Vf) | 3:16 | 2026-03-07 |  |
-| [STORY](https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:34 | 2022-06-09 |  |
+| [STORY](https://open.spotify.com/track/3HXOjRUWG9aIFLj6OiLREp) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [UNITE](https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4) | 3:34 | 2022-06-09 | 2026-03-20 |
 | [STRONG \- Just Like This 2024 Live](https://open.spotify.com/track/1k3cZjIn6OEhSFYHpqKOOo) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Like This 2024 \(Live\)](https://open.spotify.com/album/4wJfyByrRy9lezrzZfEo81) | 3:11 | 2025-10-05 | 2025-11-01 |
 | [Supersonic](https://open.spotify.com/track/4A427q0E6UkOenyNb5wfaX) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58) | 3:41 | 2024-12-06 | 2026-01-22 |
 | [The Way of My Life](https://open.spotify.com/track/54VtH0KYGp5jFMa4TbM2r1) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MIDNIGHT](https://open.spotify.com/album/2sqD7W4DVj6ndCNeTPH7PV) | 3:19 | 2022-07-16 | 2022-10-27 |

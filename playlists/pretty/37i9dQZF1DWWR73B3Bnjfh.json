@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 302022,
+  "num_followers": 302212,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 314160,
       "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
+        "name": "The Standard Joe",
+        "url": "https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        },
+        {
+          "name": "Al Foster",
+          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
+        },
+        {
+          "name": "Rufus Reid",
+          "url": "https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg"
+        }
+      ],
+      "duration_ms": 530000,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
         "name": "The Complete RCA Victor Recordings",
         "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
@@ -1171,30 +1195,6 @@
       "duration_ms": 345333,
       "name": "When Joanna Loved Me",
       "url": "https://open.spotify.com/track/3NWbVol7ddKadbd1yU0bHI"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
-        "name": "The Standard Joe",
-        "url": "https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        },
-        {
-          "name": "Al Foster",
-          "url": "https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6"
-        },
-        {
-          "name": "Rufus Reid",
-          "url": "https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg"
-        }
-      ],
-      "duration_ms": 530000,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy"
     },
     {
       "added_at": "2025-12-04 13:09:04",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-12-04 13:09:04",
       "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 425933,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
-    },
-    {
-      "added_at": "2025-12-04 13:09:04",
-      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 316400,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
+    },
+    {
+      "added_at": "2025-12-04 13:09:04",
+      "album": {
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 425933,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/3QjtOdXc69Kd3m7FOgZXkq"
     },
     {
       "added_at": "2025-12-04 13:09:04",

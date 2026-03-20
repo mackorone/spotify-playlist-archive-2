@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Der Frühling ist da – mit Songs für längere Tage und fröhliche Familienmomente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,594 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,607 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Frühlingslied](https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt) | [Unser Sandmännchen](https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ) | [015/Abends im Walde](https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI) | 2:03 |
 | 46 | [Frühling, ich hab dich entdeckt!](https://open.spotify.com/track/6DvPoVxRyzigWeLjtxnhsW) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Frühling](https://open.spotify.com/album/4pyuynXo8bCbLoJDmWmxdq) | 2:58 |
 | 47 | [Nach draußen gehn](https://open.spotify.com/track/2cqVti1MrsPMW010dEY99r) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [herrH ist da! \- Das Album](https://open.spotify.com/album/4CM8QXMOVoPvWLtI1Rhm5h) | 3:13 |
-| 48 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
-| 49 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
+| 48 | [Bunte Blumen auf der Wiese](https://open.spotify.com/track/2cKgAEfsp3zVyhiLHwQ0p6) | [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4) | [Frühlingsspaß und Osterhas](https://open.spotify.com/album/5PTzP0cm11j8aze10r6TdQ) | 2:26 |
+| 49 | [Rumspringen](https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ) | [Bernd Begemann](https://open.spotify.com/artist/4OY3MNylZg1nxCpFILirnH), [Belinda](https://open.spotify.com/artist/6tfFPvA0Pw2jbDrhVoNHxY), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 2:29 |
 | 50 | [Dann ist der Frühling da! \(Fröhliches Kinderlied zum Frühling\)](https://open.spotify.com/track/4aaYT4tqQK0FvuvVd1Cky6) | [Sternschnuppe](https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5) | [Frühlingslieder: Schöne Kinderlieder zum Frühling](https://open.spotify.com/album/0Hz27wHnXEiywIidy4YQz5) | 5:36 |
 
 Snapshot ID: `AAAAAL879AKLjxguEczm31TUV8oBj77n`

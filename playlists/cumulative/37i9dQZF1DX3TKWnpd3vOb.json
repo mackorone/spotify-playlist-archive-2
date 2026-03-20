@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: La Ley",
+  "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Triciclo Parlante",
   "name": "Rock Chileno",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 220452,
       "name": "A Cada Segundo",
       "url": "https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd"
+    },
+    {
+      "album": {
+        "name": "SE ARRIENDA",
+        "url": "https://open.spotify.com/album/2BRGgzEPWoyZU7JnUPXXQz"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "A las Nueve",
+      "url": "https://open.spotify.com/track/798CtkUHeziOJ3vdbQEWrw"
     },
     {
       "album": {
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 209579,
       "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
       "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"

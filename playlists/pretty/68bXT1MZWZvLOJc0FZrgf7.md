@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Harry Styles
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 93,033 likes - 100 songs - 5 hr 30 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 93,026 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 2 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 3 | [Dance No More](https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:14 |
 | 4 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
-| 5 | [Inferno \- from "Heated Rivalry"](https://open.spotify.com/track/1n8afwzrk9KEdORiC5EBYV) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 4:26 |
+| 5 | [Inferno \- from "Heated Rivalry"](https://open.spotify.com/track/1n8afwzrk9KEdORiC5EBYV) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 4:26 |
 | 6 | [Release The Pressure](https://open.spotify.com/track/7Dev2VJdJKwIIUdj3lcQl9) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Release The Pressure](https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx) | 3:23 |
 | 7 | [Stressed Out \(feat\. Jarrod Allen & Lenno\) \- Deerock & Robin Woods Remix](https://open.spotify.com/track/4MEd2Cy76HEMk4YnqCEX5x) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu), [Jarrod Allen](https://open.spotify.com/artist/0pk5AhJWChybyFjgSueWZc), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robin Woods](https://open.spotify.com/artist/0WjQLIzhhBMswtXLlyPzD1), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [Stressed Out \(feat\. Jarrod Allen & Lenno\) \[Deerock & Robin Woods Remix\]](https://open.spotify.com/album/5l3pqQlKwhUa5DzgNqJwUk) | 2:28 |
 | 8 | [What If You Fly \(Sweet Disposition\)](https://open.spotify.com/track/6M23kyZO0uXfD1pZzsFNQE) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [What If You Fly \(Sweet Disposition\)](https://open.spotify.com/album/6y8oWt1t9Ktrv1nH7Tqxcu) | 5:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,272 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,296 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [TENGO UN FEELING](https://open.spotify.com/track/1toIsvoqn3HCpdetMXk2sJ) | [PEPU](https://open.spotify.com/artist/2uHt84x3H1VLR7xFBAuNS8), [Pizzu](https://open.spotify.com/artist/7pedkJwoj0LebN20pvgtJY) | [EL ÁLBUM DEL VERANO](https://open.spotify.com/album/1JM2BMHpt2pTdaIpw2Jxtb) | 3:17 |
 | 50 | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 |
 
-Snapshot ID: `MU4OGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MU9dQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

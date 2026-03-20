@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Latte",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Filipe Sambado",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
+    },
+    {
+      "album": {
+        "name": "5678",
+        "url": "https://open.spotify.com/album/4kmTzxgXt1cSBlem21sEnj"
+      },
+      "artists": [
+        {
+          "name": "Filipe Sambado",
+          "url": "https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144787,
+      "name": "6 (O Meu Sangue)",
+      "url": "https://open.spotify.com/track/4unP9bGmcZYsRRCGJTPmyu"
     },
     {
       "album": {
@@ -869,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215196,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
+    },
+    {
+      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
       },
@@ -1143,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "BRUTA",
+        "url": "https://open.spotify.com/album/3DHXiLC0q9Fccf90AVwQty"
+      },
+      "artists": [
+        {
+          "name": "Rita Onofre",
+          "url": "https://open.spotify.com/artist/7vVA69an2aWJ4q8lY5KC9Z"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200424,
+      "name": "bruta",
+      "url": "https://open.spotify.com/track/3W2nYdyaR8r74R2mkeP6FL"
+    },
+    {
+      "album": {
         "name": "BUBBLING",
         "url": "https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID"
       },
@@ -1176,7 +1230,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 203490,
       "name": "Bullseye (with Hozier)",
       "url": "https://open.spotify.com/track/6hwzlorpMDQsHtIhwoNPP9"
@@ -1324,6 +1378,24 @@
       "duration_ms": 200373,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "album": {
+        "name": "Cartas",
+        "url": "https://open.spotify.com/album/5CB93jpjrgGVOn5LVt1Py4"
+      },
+      "artists": [
+        {
+          "name": "Amor Perdido",
+          "url": "https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123119,
+      "name": "Cartas",
+      "url": "https://open.spotify.com/track/1FI2DJdGaw1xDAEQHBdiga"
     },
     {
       "album": {
@@ -2946,7 +3018,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
@@ -4863,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "album": {
         "name": "Mochila",
         "url": "https://open.spotify.com/album/4wzsQJ79LXjSFG8rESTyuE"
       },
@@ -5094,7 +5184,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 191625,
       "name": "nao me apetece",
       "url": "https://open.spotify.com/track/76btEYilSVlQMZQ7mlLcnO"
@@ -5998,7 +6088,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 249842,
       "name": "Poseidon",
       "url": "https://open.spotify.com/track/169ZqPo9y92j9fw2Kqip1t"
@@ -6758,6 +6848,24 @@
       "duration_ms": 233609,
       "name": "SO MUCH HAS CHANGED",
       "url": "https://open.spotify.com/track/7wFsDYP42p2fXYZ35zBti7"
+    },
+    {
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4BG0zEeCmqQiO9fqCfycEC"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271213,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/2mr1Sm2SOzIhaEXyzpd6II"
     },
     {
       "album": {
@@ -8126,7 +8234,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 367240,
       "name": "Vai dar",
       "url": "https://open.spotify.com/track/4oP9mB23EO627jSYYAQ7iO"
@@ -8612,7 +8720,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 183462,
       "name": "Yougotmefeeling",
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"

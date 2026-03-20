@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,183 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,302 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 49 | [Put The Lights Out](https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw) | 4:20 |
 | 50 | [Energy](https://open.spotify.com/track/3nnimZotOr3KofQvYYdIev) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Energy](https://open.spotify.com/album/6ETSzMC6O7buksXUr1GPaU) | 3:32 |
 | 51 | [Shenlong](https://open.spotify.com/track/5f9lGdQdpuJLCINacT7AEZ) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Shenlong](https://open.spotify.com/album/4Mf48UyRaaOgMBsaFr2CXf) | 3:46 |
-| 52 | [Different Style](https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m) | [SKALA](https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Different Style](https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve) | 2:38 |
+| 52 | [Different Style](https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m) | [SKALAH](https://open.spotify.com/artist/5a1P3oJAiCkIu67CaLajlx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Different Style](https://open.spotify.com/album/7vl3aY94lBHM9AV43dsQve) | 2:38 |
 | 53 | [Gut Feeling](https://open.spotify.com/track/4QaJ8qopyxWowl5C4nuGed) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Project X](https://open.spotify.com/album/0F5FIqzaAWINdcgKQSXQbc) | 2:59 |
 | 54 | [Innocence 2025](https://open.spotify.com/track/3dNDt0VLKc0xUcuTI20Q73) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Innocence 2025](https://open.spotify.com/album/5zumT6xPCZUHJnKR2ng3pY) | 2:48 |
 | 55 | [Skull Cracker](https://open.spotify.com/track/4n7bwgS7aBTzc4eGXf87my) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Skull Cracker](https://open.spotify.com/album/7uucyGczWhJk5biXk6OARP) | 2:52 |

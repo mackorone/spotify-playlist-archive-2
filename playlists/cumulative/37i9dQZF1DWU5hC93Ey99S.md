@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-983 songs - 2 day 4 hr 23 min
+985 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,6 +761,7 @@
 | [So Lonely](https://open.spotify.com/track/5eJQXOLYb9EYrg22B444E6) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [So Lonely](https://open.spotify.com/album/0DonM4KackIBzO7jHQM67Q) | 4:02 | 2026-02-12 |  |
 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 | 2023-04-13 | 2024-01-06 |
 | [So Low](https://open.spotify.com/track/0ZSTmlF8lahcALsdkxSdQB) | [Julian Bates](https://open.spotify.com/artist/3RmwJpW3ISPqgDcSN6hIyr) | [So Low](https://open.spotify.com/album/5kVMQDZeL1GlUkj5t1kR3J) | 2:27 | 2024-08-15 | 2025-08-13 |
+| [So Much Beauty \(Around Us\)](https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [So Much Beauty \(Around Us\)](https://open.spotify.com/album/21Mv7U24CtuCynPMhZGihK) | 2:34 | 2026-03-19 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 | 2025-08-13 |
 | [So Sad](https://open.spotify.com/track/50eUM0SPChUkxCSXj9SDpU) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [So Sad](https://open.spotify.com/album/34c9VT0L8JNBwtOX0pAUzM) | 2:52 | 2024-09-19 | 2025-08-13 |
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-04 | 2024-01-06 |
@@ -769,6 +770,7 @@
 | [SOLANA](https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [SOLANA](https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT) | 3:10 | 2025-05-08 |  |
 | [Somebody Else](https://open.spotify.com/track/5K9UgcPMw6y4PkQkLqwHu7) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X) | [Somebody Else](https://open.spotify.com/album/0OpZ6W4gMnByrUkMQIKPBS) | 2:01 | 2026-01-29 |  |
 | [Somebody’s Watching Me](https://open.spotify.com/track/4BGbzOXgQqfhHUeqSJ1x9E) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Somebody’s Watching Me](https://open.spotify.com/album/5YlyXX5gQsEhVnEbdUczo2) | 2:49 | 2024-07-25 | 2025-05-02 |
+| [Someday](https://open.spotify.com/track/6cRlE2AaC9waHPBgYOmRBb) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1), [Valeria Litvakov](https://open.spotify.com/artist/3FBE2uYOyGl3z0QmAJNp4q) | [Someday](https://open.spotify.com/album/5CmVuxBj3pldvNLyisdx3I) | 3:31 | 2026-03-19 |  |
 | [Someone Else's Love](https://open.spotify.com/track/53UM9v0j1E0rrmmJkZFVCm) | [REMAZE](https://open.spotify.com/artist/7JgLMiRf1ogwmyTskyD8vB) | [Someone Else's Love](https://open.spotify.com/album/0dtS2OttklkcSpDD4Dk60S) | 2:57 | 2024-04-18 | 2024-04-26 |
 | [Something Again](https://open.spotify.com/track/4tLjCopJRlwduVqN7PNJBm) | [Le Boeuf](https://open.spotify.com/artist/6yTeWbdwQqIVfU1jGk2aeH), [Abby Celso](https://open.spotify.com/artist/3TDPiKzbGXppI5fO7JRtvq) | [Something Again](https://open.spotify.com/album/58TJWdlTCkMPEtBu68CbOh) | 2:57 | 2024-04-04 | 2024-04-26 |
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-04-13 | 2024-01-06 |

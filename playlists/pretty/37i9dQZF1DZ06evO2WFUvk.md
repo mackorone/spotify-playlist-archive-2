@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,107 likes - 28 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,108 likes - 28 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 27 | [Learning to Climb](https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Learning to Climb](https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A) | 3:04 |
 | 28 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 
-Snapshot ID: `abiZgAAAAACIUkDmhTNh2tIgpAWHw52t`
+Snapshot ID: `abnrAAAAAACa3H73JpjBTGxKFvUNgY5F`

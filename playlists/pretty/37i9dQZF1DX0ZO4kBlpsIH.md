@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,697 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,804 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 59 | [Quai aux Fleurs](https://open.spotify.com/track/3YqdvXCFdN44kattwBSgqn) | [Vincent Carenzi](https://open.spotify.com/artist/34jld7FKHe7h6xc55lJJ0B), [Gilbert Sigrist](https://open.spotify.com/artist/3CKwrrnFs0fv7w7lg4ReIX), [Laurent Sigrist](https://open.spotify.com/artist/7BbLZ7BoH71qnKGhdIwOzX) | [Souvenirs](https://open.spotify.com/album/0bNxItRPphxD07gwBZUZXH) | 3:02 |
 | 60 | [Germaine](https://open.spotify.com/track/3D7XKxSW2giVfFMEm7Sym9) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:17 |
 
-Snapshot ID: `AAAAAFn7sdg6w7Cywpe8iVoKFXaklv8p`
+Snapshot ID: `AAAAABBJ/sjhmR0S6okliUGYYk3s8NgJ`

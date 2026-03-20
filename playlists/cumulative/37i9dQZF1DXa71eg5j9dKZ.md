@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Chase & Status, Pozer
+> The home for alternative electronic music\. Cover: Collect 200
 
-1,416 songs - 4 day 0 hr 1 min
+1,418 songs - 4 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 | 2024-10-04 |
 | [Backshifting](https://open.spotify.com/track/7AsthFcXBLZlGAyDpljpoy) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Backshifting](https://open.spotify.com/album/5H96oSbsd5Ob8DqOAMHIS7) | 4:04 | 2023-11-17 | 2024-05-03 |
 | [Backwards](https://open.spotify.com/track/2LUvEI9tnkp9Wrq0fFl2H1) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Backwards](https://open.spotify.com/album/0xB9fmB7FwD6MRmSHCXEEt) | 3:33 | 2022-04-08 | 2022-07-08 |
-| [Bad Luck](https://open.spotify.com/track/6csDhb03N9jdJUmkif5UmG) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Bad Luck / Feel](https://open.spotify.com/album/0P5lz9M9GgAOmkPpOhDs2B) | 3:05 | 2025-10-23 |  |
+| [Bad Luck](https://open.spotify.com/track/6csDhb03N9jdJUmkif5UmG) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Bad Luck / Feel](https://open.spotify.com/album/0P5lz9M9GgAOmkPpOhDs2B) | 3:05 | 2025-10-23 | 2026-03-20 |
 | [Badders](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Badders](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 | 2023-08-18 | 2024-01-13 |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-19 | 2024-09-06 |
 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 | 2022-09-29 | 2022-12-17 |
@@ -292,7 +292,7 @@
 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 | 2023-09-28 | 2024-03-15 |
 | [Deep End](https://open.spotify.com/track/2m5EUOqv1XjDW4yP0TZFKN) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Deep End](https://open.spotify.com/album/2WuNuLoaj2LFVqTlGnVDIn) | 3:25 | 2023-05-04 | 2023-10-20 |
 | [Deep Sea \- DJ\-Kicks](https://open.spotify.com/track/5BmgjLP1lYHEndkzJyaA7d) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [DJ\-Kicks: Disclosure](https://open.spotify.com/album/7F0dkkAqwrmclRH8KP2QmW) | 4:25 | 2021-11-24\* | 2021-12-10 |
-| [Deeper Type of Tech](https://open.spotify.com/track/6VTVU8vyVG6HXdjguUWAEw) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Vol 1](https://open.spotify.com/album/3wX8edIjHRe29gNhQOaPWq) | 6:02 | 2025-10-16 |  |
+| [Deeper Type of Tech](https://open.spotify.com/track/6VTVU8vyVG6HXdjguUWAEw) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Vol 1](https://open.spotify.com/album/3wX8edIjHRe29gNhQOaPWq) | 6:02 | 2025-10-16 | 2026-03-20 |
 | [Deewana Deewana](https://open.spotify.com/track/58daZksNVvIO6X9977fAo7) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Deewana Deewana](https://open.spotify.com/album/4qULPYu7nqpBLcJMoEUYAY) | 5:42 | 2024-01-19 | 2024-05-24 |
 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 | 2022-10-20 | 2023-02-04 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2023-03-31 |
@@ -1202,6 +1202,7 @@
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-08 | 2024-06-21 |
 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 | 2025-05-29 | 2025-10-24 |
 | [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 | 2022-01-14 | 2022-05-27 |
+| [Teach You Desire](https://open.spotify.com/track/2i2BaQHXCWNFzDqxcyZVE0) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Teach You Desire](https://open.spotify.com/album/7Ff17FqI9Nl0uIueRWJwWM) | 3:30 | 2026-03-20 |  |
 | [TEARDROPS](https://open.spotify.com/track/42Ncw4TTGb1MO1WchSVSaQ) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [TEARDROPS](https://open.spotify.com/album/5xb1WKKpThyoit6HhVLbfD) | 3:23 | 2024-09-26 | 2025-03-21 |
 | [Tech Flex VIP](https://open.spotify.com/track/7oYhhesWeKI3Mv1ffuf1or) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Tech Flex VIP](https://open.spotify.com/album/3rjvuQXVACuPnIR7KRAI3J) | 4:13 | 2022-08-04 | 2022-10-29 |
 | [Teeth](https://open.spotify.com/track/4APFA0QISiN2MwQzpUQgRq) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Teeth](https://open.spotify.com/album/1dUJq0Ut5RmlPwdodLuMrI) | 4:32 | 2022-09-29 | 2022-11-11 |
@@ -1307,6 +1308,7 @@
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2024-11-22 | 2025-06-06 |
 | [U Always](https://open.spotify.com/track/5KqMPYaStD6h3wkVU1nVFV) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [U Always](https://open.spotify.com/album/2GL4MOHJDbEHFaJYFuQ2eu) | 4:18 | 2025-05-08 | 2025-10-17 |
 | [U Around Me](https://open.spotify.com/track/6eVHuIqlFkiji8ZsCHpCMl) | [Pray J](https://open.spotify.com/artist/5aLvVB85i8o3lnKqaKA7At) | [U Around Me](https://open.spotify.com/album/3mnzaBb32Co1B4lf8Sdv06) | 3:01 | 2021-11-24\* | 2022-02-12 |
+| [U Can't Come Home](https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [U Can’t Come Home](https://open.spotify.com/album/6L71fSWcS2PbjB6B9slBqO) | 3:16 | 2026-03-20 |  |
 | [U DO](https://open.spotify.com/track/6LTPzG9ONMja1bvY2yDYZt) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Mera Bhai](https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU) | [ASKING FOR A FRIEND](https://open.spotify.com/album/1mwn3eJUlBO1M2eNrQUBGz) | 4:00 | 2025-11-14 |  |
 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 | 2023-06-15 | 2023-10-20 |
 | [Uh Oh](https://open.spotify.com/track/74Cy4UMTn0Yeu0kSMwARt8) | [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [Uh Oh](https://open.spotify.com/album/0OJEQmJJBPKNsWV50bOUF1) | 3:13 | 2022-06-09 | 2022-09-16 |

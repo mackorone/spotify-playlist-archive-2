@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,833 songs - 13 day 13 hr 57 min
+5,834 songs - 13 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4410,6 +4410,7 @@
 | [Shift](https://open.spotify.com/track/6PcWLVR7L4NDF0v0Wa0T73) | [Villaboyscottie](https://open.spotify.com/artist/22vLwzKq6QkWH73t1dgSFP) | [Shift](https://open.spotify.com/album/43JS6KAH7JxFnosqwJbRMW) | 1:48 | 2024-12-14 | 2024-12-26 |
 | [Shimmer](https://open.spotify.com/track/6P68h4DlSkSoiK8AXpuQRd) | [Hersey](https://open.spotify.com/artist/1rlwpkFQNWFw1c8cRvyY8E) | [Neon Masquerade](https://open.spotify.com/album/4YoACkGeStXjDfyi5N4n5J) | 3:33 | 2022-04-15 | 2022-04-30 |
 | [Shine](https://open.spotify.com/track/0nCVDWPdR4UpGSxRKQoqrG) | [Pura Coco](https://open.spotify.com/artist/03a3TmpMFgHPURsTZZ0iac) | [Shine](https://open.spotify.com/album/33TAEgKnwvSVCQx6LAR4aU) | 3:27 | 2024-06-12 | 2024-06-24 |
+| [Shine](https://open.spotify.com/track/2WPzYNPh1tX7j4d3W1Ewjg) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Shine](https://open.spotify.com/album/0daRddgcJATl4AKv58qJ2o) | 3:12 | 2026-03-19 |  |
 | [Shining \(feat\. Beyoncé & Jay\-Z\)](https://open.spotify.com/track/3OoZagIW3YK8vjt0ws6NOI) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Grateful](https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A) | 4:43 | 2019-10-24 | 2020-08-20 |
 | [Shining \(feat\. Beyoncé & Jay\-Z\)](https://open.spotify.com/track/6eu26UisJ9lisp5P9vhWvo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Grateful](https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI) | 4:44 | 2019-09-29\* | 2019-10-24 |
 | [Shining \(feat\. Beyoncé & Jay\-Z\)](https://open.spotify.com/track/7Fa5UNizycSms5jP3SQD3F) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Grateful](https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw) | 4:44 | 2021-07-12 | 2021-11-19 |

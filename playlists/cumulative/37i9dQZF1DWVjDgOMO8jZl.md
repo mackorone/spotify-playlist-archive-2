@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-212 songs - 10 hr 4 min
+213 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/track/7n8AUlwA0Fu3ryGYDYnIxd) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/album/1UIV43DxOINFzn0C3AYtNU) | 2:35 | 2023-03-08 | 2023-04-12 |
 | [Romanzo Rosa](https://open.spotify.com/track/5oR5NvN3Cml2LD0sq7zDAN) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [Romanzo Rosa](https://open.spotify.com/album/1ozTJQBhbtke6kyb7Co7x6) | 3:01 | 2024-06-13 | 2025-05-14 |
 | [Rose Senza Spine](https://open.spotify.com/track/2XJc9OFlT2gWcieSgxlfHP) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt) | [Rose Senza Spine](https://open.spotify.com/album/4LCVI9qr0bxmKQUfX7OaIH) | 2:06 | 2022-08-31 | 2023-04-12 |
+| [RUDE BOYS](https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [METAMORFOSI](https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm) | 2:21 | 2026-03-19 |  |
 | [Sbronza](https://open.spotify.com/track/13O6v6qGF3GI60fKpFkJIU) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mystic Motel](https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4) | 2:53 | 2022-08-31 | 2023-04-12 |
 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 | 2025-07-10 |  |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-08-31 | 2023-04-12 |

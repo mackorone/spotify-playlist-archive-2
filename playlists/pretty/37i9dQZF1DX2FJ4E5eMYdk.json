@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 194014,
+  "num_followers": 194033,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Pearls to Swine",
+        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
+      },
+      "artists": [
+        {
+          "name": "Adam Torres",
+          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
+        }
+      ],
+      "duration_ms": 360946,
+      "name": "Juniper Arms",
+      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Shannon In Nashville",
         "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 168080,
       "name": "Dream Within a Dream",
       "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Pearls to Swine",
-        "url": "https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca"
-      },
-      "artists": [
-        {
-          "name": "Adam Torres",
-          "url": "https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8"
-        }
-      ],
-      "duration_ms": 360946,
-      "name": "Juniper Arms",
-      "url": "https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U"
     },
     {
       "added_at": "2024-07-05 19:49:15",

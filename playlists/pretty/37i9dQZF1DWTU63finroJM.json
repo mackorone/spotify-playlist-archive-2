@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Tegi Pannu",
-  "num_followers": 85147,
+  "num_followers": 85141,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2026-03-18 14:17:52",
       "album": {
-        "name": "Quello che deve essere sar\u00e0",
-        "url": "https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A"
-      },
-      "artists": [
-        {
-          "name": "Emma Nolde",
-          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Quello che deve essere sar\u00e0",
-      "url": "https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt"
-    },
-    {
-      "added_at": "2026-03-18 14:17:52",
-      "album": {
         "name": "Misunderstood",
         "url": "https://open.spotify.com/album/5NtMBGjZe5Io2gyCAARolT"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 137049,
       "name": "JDP",
       "url": "https://open.spotify.com/track/36kIGKkKT22D1DXI8iVMVq"
+    },
+    {
+      "added_at": "2026-03-18 14:17:52",
+      "album": {
+        "name": "Quello che deve essere sar\u00e0",
+        "url": "https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A"
+      },
+      "artists": [
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Quello che deve essere sar\u00e0",
+      "url": "https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt"
     },
     {
       "added_at": "2026-03-18 14:17:52",

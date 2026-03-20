@@ -8889,6 +8889,24 @@
     },
     {
       "album": {
+        "name": "De Chamaquito",
+        "url": "https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170624,
+      "name": "De Chamaquito",
+      "url": "https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr"
+    },
+    {
+      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
@@ -12812,6 +12830,28 @@
       "duration_ms": 189226,
       "name": "ENCHULETIAO",
       "url": "https://open.spotify.com/track/5Q9h2r0aU17WD8nn0HkSg9"
+    },
+    {
+      "album": {
+        "name": "ENCUERA",
+        "url": "https://open.spotify.com/album/6J3cjGoymPt1tF9rdWGAvy"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "July Queen",
+          "url": "https://open.spotify.com/artist/6B1OtjbuEkKs8RV3HruvJO"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "ENCUERA",
+      "url": "https://open.spotify.com/track/4fclQgqgZDLbiEkNhtZ0Mx"
     },
     {
       "album": {
@@ -19998,7 +20038,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -34610,7 +34650,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 122607,
       "name": "SALEN MALOS",
       "url": "https://open.spotify.com/track/7CX7Cq1iOyAR6utjjPh9De"

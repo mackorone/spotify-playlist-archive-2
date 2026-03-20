@@ -4,7 +4,7 @@
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-863 songs - 2 day 0 hr 22 min
+864 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2024-06-28 | 2024-09-13 |
 | [Hemingway](https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Hemingway](https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus) | 3:16 | 2025-05-31 | 2025-09-16 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-18 | 2025-09-16 |
+| [Herbaciana](https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62), [Michał Rajca](https://open.spotify.com/artist/6ohnGF7EJugDureSIvIIWe) | [Herbaciana](https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb) | 3:09 | 2026-03-13 |  |
 | [herbata](https://open.spotify.com/track/2qha8vBQzGw4Fv89TE1r9L) | [jaś&małgosia](https://open.spotify.com/artist/7Abi3cGp415znWBbgd4obq) | [herbata](https://open.spotify.com/album/6RcoNthIWy13K8ME7x5PRA) | 2:29 | 2024-10-17 | 2024-10-26 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-06-28 | 2024-09-13 |
 | [Himalaje](https://open.spotify.com/track/4IhYpTLze4fiOIDZ6HTS6X) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Himalaje](https://open.spotify.com/album/0Y3ZhFXv40x4Euyg3J7IYY) | 2:53 | 2025-09-15 | 2025-09-28 |
@@ -763,7 +764,7 @@
 | [TV](https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [TV](https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R) | 2:43 | 2025-12-05 | 2026-01-06 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-09-16 |
 | [Twoja miłość](https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Twoja miłość](https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH) | 3:41 | 2024-09-12 | 2024-09-14 |
-| [twój głos](https://open.spotify.com/track/3mfxm9Y3tC4dwdFuyCSxEv) | [Lynx.](https://open.spotify.com/artist/6MY35otuE9BTVqMm3jAKiy) | [twój głos](https://open.spotify.com/album/6JXR8mRQwAy5OQ2WbNumEK) | 3:10 | 2026-03-13 |  |
+| [twój głos](https://open.spotify.com/track/3mfxm9Y3tC4dwdFuyCSxEv) | [Lynx.](https://open.spotify.com/artist/6MY35otuE9BTVqMm3jAKiy) | [twój głos](https://open.spotify.com/album/6JXR8mRQwAy5OQ2WbNumEK) | 3:10 | 2026-03-13 | 2026-03-20 |
 | [Ty się nie bój](https://open.spotify.com/track/3LhNpdJsMZmKKzs3l6Ab6k) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Ty się nie bój](https://open.spotify.com/album/0AoKj5Xk3Qh1wZWVOKCXih) | 3:05 | 2024-10-14 | 2024-10-26 |
 | [Ty to Ja](https://open.spotify.com/track/44XvWHUZcYWvzMWhqhYLl6) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Ty to Ja](https://open.spotify.com/album/5DqH7F3PynlPtXYx6sqX7K) | 3:33 | 2025-02-28 | 2025-03-15 |
 | [Tylko o sobie](https://open.spotify.com/track/1jNxTar4cTALeka7nwGHaX) | [Fear of Eating Rabbits](https://open.spotify.com/artist/33mEy7GdJPgrNlk59mMSpB) | [Sztućce EP](https://open.spotify.com/album/1liPHIkERKGaFAi0ETkoK7) | 4:39 | 2025-09-15 | 2025-09-20 |

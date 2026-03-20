@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: DYGL
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,322 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,330 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 41 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 42 | [グラス・リバー](https://open.spotify.com/track/70Hn3IxGPz5d4kyMQWQUua) | [Strip Joint](https://open.spotify.com/artist/3SSyE3YH7LiqnaYAouwBzc) | [グラス・リバー](https://open.spotify.com/album/25WgFfcjQPNeIoCQ0HMnMF) | 4:36 |
 | 43 | [Vaporlamp](https://open.spotify.com/track/0XqJ5vGTLHqmaKDR4TSkt0) | [sadd](https://open.spotify.com/artist/1wiP4izOvuacV6WqYhfW72) | [EP\-1](https://open.spotify.com/album/4GeZGVK0tbO9U0lz98e2Uw) | 3:45 |
-| 44 | [Between Them \- tiger bae Remix](https://open.spotify.com/track/7DHdrQ1suq3WuEpafOxzp1) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [MIYA](https://open.spotify.com/artist/3udE4vZ3uSgZ1MPvZIiiiq), [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Between Them \(tiger bae Remix\)](https://open.spotify.com/album/6PtLJ40aDTgLUV0tmpZPgV) | 4:48 |
+| 44 | [Between Them \- tiger bae Remix](https://open.spotify.com/track/7DHdrQ1suq3WuEpafOxzp1) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [MIYA\(Ålborg\)](https://open.spotify.com/artist/3pP4cAFj6dkQuukluPZj2b), [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [Between Them \(tiger bae Remix\)](https://open.spotify.com/album/6PtLJ40aDTgLUV0tmpZPgV) | 4:48 |
 | 45 | [Lonely Girl](https://open.spotify.com/track/5dXJuhG1OpTQIeOic1Wszp) | [Pastel Tang Club](https://open.spotify.com/artist/6ak5zQYXKIesItTybXv0Nc) | [Lonely Girl](https://open.spotify.com/album/7az13vPz83Ho7fIs77h5Y9) | 3:49 |
 | 46 | [Let\-Me\-Ct](https://open.spotify.com/track/3ngtrhmGeRjWjjEciYZKZ2) | [aldo van eyck](https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0) | [Berlin/Brass / Let\-Me\-Ct](https://open.spotify.com/album/1UaA5Fo3QgFqpdmDKPwvtb) | 2:35 |
 | 47 | [夜はきらい](https://open.spotify.com/track/5wngKDzVSyiCoDhiTPmIr8) | [OKAME](https://open.spotify.com/artist/3eFiQtxtuoUrj9rjlsWw00) | [DEBUT](https://open.spotify.com/album/4s9NnOKqJ7MkiXilulQYEp) | 4:26 |

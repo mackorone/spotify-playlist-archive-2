@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 23 | [Then People Forget](https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
 | 24 | [I got Punched in the Face, What's your Excuse](https://open.spotify.com/track/0KDFtrVZ3Wv4Tw3YQKkgBe) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
 
-Snapshot ID: `abiZgAAAAADca4WzYEIFv1hV8pF8xDbu`
+Snapshot ID: `abnrAAAAAAAKcVUXQDWWCFBHtghSsGP4`

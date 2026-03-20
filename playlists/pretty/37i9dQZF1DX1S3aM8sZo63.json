@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Banda Renovaci\u00f3n en portada \ud83d\udcf8",
-  "num_followers": 1071397,
+  "num_followers": 1071515,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,18 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+      "duration_ms": 202560,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -215,18 +211,22 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 202560,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
+      "duration_ms": 180750,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
-        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 240624,
-      "name": "La Historia (En Vivo)",
-      "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 240624,
+      "name": "La Historia (En Vivo)",
+      "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Habla Tu Ex",
-        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Habla Tu Ex",
-      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "B\u00e9same Diferente",
         "url": "https://open.spotify.com/album/2pL8DZXeH1W8TblZQtgiNS"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 152436,
       "name": "B\u00e9same Diferente",
       "url": "https://open.spotify.com/track/2mDtsObUPQJ3BhhLqW6wxh"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "Habla Tu Ex",
+        "url": "https://open.spotify.com/album/5oe0Kt1rdkIclajNXC4YBZ"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Habla Tu Ex",
+      "url": "https://open.spotify.com/track/4m2g3MSQmM3vRDMVeDjddV"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+        "name": "Br\u00fajula Perdida",
+        "url": "https://open.spotify.com/album/2Mh76jMxpTljiHopuH1sPv"
       },
       "artists": [
         {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 212493,
-      "name": "Me Canse De Morir Por Tu Amor",
-      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
+      "duration_ms": 157959,
+      "name": "Br\u00fajula Perdida",
+      "url": "https://open.spotify.com/track/1j2hONUzQqmhmfr5zBLrrU"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Br\u00fajula Perdida",
-        "url": "https://open.spotify.com/album/2Mh76jMxpTljiHopuH1sPv"
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
       },
       "artists": [
         {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
         }
       ],
-      "duration_ms": 157959,
-      "name": "Br\u00fajula Perdida",
-      "url": "https://open.spotify.com/track/1j2hONUzQqmhmfr5zBLrrU"
+      "duration_ms": 212493,
+      "name": "Me Canse De Morir Por Tu Amor",
+      "url": "https://open.spotify.com/track/7GV9iziCj6kx0noYOtrI6O"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/4OAhS55Tzp3M936vF9xkga"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/417X6wL1dS22GIqC84qaKD"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Exitos De Mariano Barba",
-        "url": "https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
       "artists": [
         {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Una Noche Mas Contigo",
-      "url": "https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
+        "name": "Exitos De Mariano Barba",
+        "url": "https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp"
+      },
+      "artists": [
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Una Noche Mas Contigo",
+      "url": "https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
         "name": "Mas Alla Del Sol",
         "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 188471,
       "name": "365",
       "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
-        "name": "Un Cantautor Con Alma de Triunfador",
-        "url": "https://open.spotify.com/album/0XTaNhlqfiRdXLYJ7ZL7TS"
-      },
-      "artists": [
-        {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
-        }
-      ],
-      "duration_ms": 272920,
-      "name": "Aliado Del Tiempo",
-      "url": "https://open.spotify.com/track/4KeTe10W4xvAOxfRC0kxpF"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
+        "name": "Un Cantautor Con Alma de Triunfador",
+        "url": "https://open.spotify.com/album/0XTaNhlqfiRdXLYJ7ZL7TS"
+      },
+      "artists": [
+        {
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+        }
+      ],
+      "duration_ms": 272920,
+      "name": "Aliado Del Tiempo",
+      "url": "https://open.spotify.com/track/4KeTe10W4xvAOxfRC0kxpF"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
         "name": "Joan Sebastian",
         "url": "https://open.spotify.com/album/0LuipAAeA43iDxcaGlljDR"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 149884,
       "name": "Traficante De Besos",
       "url": "https://open.spotify.com/track/5H4RlQDQWnvRBSI8C6WVlg"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/4OAhS55Tzp3M936vF9xkga"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/417X6wL1dS22GIqC84qaKD"
     },
     {
       "added_at": "2026-02-27 06:00:29",

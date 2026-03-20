@@ -4,7 +4,7 @@
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-22 songs - 1 hr 46 min
+23 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Take the Thorn, Leave the Rose](https://open.spotify.com/track/4lGU6coYhhEH6ekB5bN4cZ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 6:04 | 2026-03-12 |  |
 | [The Veil I](https://open.spotify.com/track/38to0a1eQ09ObTJ6sy4Uj6) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:02 | 2026-03-12 |  |
 | [The Veil II](https://open.spotify.com/track/2PlhiLwlhVstW2Ajgg6wiR) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:29 | 2026-03-12 |  |
+| [Untitled II](https://open.spotify.com/track/2IJtB1A5xzjaWKB2fbuIuf) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Untitled II](https://open.spotify.com/album/6ZUGwc1dAb5rWYZuXenOIk) | 6:24 | 2026-03-20 |  |
 | [Venus](https://open.spotify.com/track/4HAF5goUXFs9DQF0QdIMEQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:57 | 2026-03-12 |  |
 | [Wicked Game](https://open.spotify.com/track/4nOhr4lOjFc5vZhAVTIBa7) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Wicked Game](https://open.spotify.com/album/4MJUtAW4841s91OHlSbUsu) | 4:22 | 2026-03-12 |  |
 

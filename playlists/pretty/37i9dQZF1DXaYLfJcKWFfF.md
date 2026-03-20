@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 401 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 61 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 62 | [The Midnight Wanderer](https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4) | [LUUKHANYO](https://open.spotify.com/artist/7G3XzYYbpwW7C8Ejjf137k) | [LUCKY UU](https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx) | 3:06 |
 | 63 | [We Will Run](https://open.spotify.com/track/3FdL3BjbehixMentJ8L63u) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [We Will Run](https://open.spotify.com/album/0aJGfIl4Patoo1cOn00Mwz) | 3:08 |
-| 64 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
-| 65 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
-| 66 | [When You Know You Know](https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [When You Know You Know](https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI) | 2:41 |
-| 67 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
+| 64 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 |
+| 65 | [In My Heart \(The Rent is Free\)](https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe) | [Nic van Graan](https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt) | [Goodbyes](https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB) | 4:33 |
+| 66 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
+| 67 | [When You Know You Know](https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [When You Know You Know](https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI) | 2:41 |
 | 68 | [Feel It All](https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Feel It All](https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ) | 2:48 |
 | 69 | [Chameleon](https://open.spotify.com/track/0UWGUvmjyOMwWUeh8mXtXk) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chameleon](https://open.spotify.com/album/2F3janmMQKTUU3vYSnwsA7) | 3:29 |
 | 70 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |

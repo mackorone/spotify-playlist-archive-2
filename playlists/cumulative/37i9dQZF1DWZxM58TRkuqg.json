@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Andien",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Wijaya 80, Sal Priadi",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -482,7 +482,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 237348,
       "name": "Aku Yang Engkau Cari (Original Soundtrack from \u2018Para Perasuk\u2019)",
       "url": "https://open.spotify.com/track/3XvxZzhFcwYSJpGQ0GFeXm"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 253090,
       "name": "Andai 'Ku Bukan Idola",
       "url": "https://open.spotify.com/track/2Q6Lv9jgqt3YWZqrRcHG9C"
@@ -1933,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Bulan Bintang, Garis Menyilang",
+        "url": "https://open.spotify.com/album/2yz71Y5q037CryRvOsILS9"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        },
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332654,
+      "name": "Bulan Bintang, Garis Menyilang",
+      "url": "https://open.spotify.com/track/4XjtlZNz9eOA55q3Em4P3B"
+    },
+    {
+      "album": {
         "name": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
         "url": "https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69"
       },
@@ -2294,7 +2316,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 235931,
       "name": "Cinta Tak Nyata",
       "url": "https://open.spotify.com/track/387AE8j51DFoEKWRx8e1mF"
@@ -4104,7 +4126,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 214967,
       "name": "Jaga Nafas",
       "url": "https://open.spotify.com/track/0oidZ9wJZ8fRgdnXBhvI9J"
@@ -4916,7 +4938,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 228578,
       "name": "Ketika Tangan Dan Kaki Berkata",
       "url": "https://open.spotify.com/track/14UEeMIQWbef1gfEYwu7NL"
@@ -7035,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "Negoro Angin",
+        "url": "https://open.spotify.com/album/473skY7alrmJfasO5CIeDm"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312502,
+      "name": "Negoro Angin",
+      "url": "https://open.spotify.com/track/3kfVlzPUsy7x1MiPHRuFr0"
+    },
+    {
+      "album": {
         "name": "New Feeling",
         "url": "https://open.spotify.com/album/4tSmSKg7v1BYVuKzcyOFDs"
       },
@@ -7172,7 +7212,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 186455,
       "name": "Nyaman Yang Ku Pilih",
       "url": "https://open.spotify.com/track/0DPLckXVQ5szKNjnYCVw25"
@@ -7602,7 +7642,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 241621,
       "name": "Perahu Kertas",
       "url": "https://open.spotify.com/track/16udHyqg2MLJIN32L3YBt2"
@@ -8294,7 +8334,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 238909,
       "name": "Salah Kaprah #Anjay",
       "url": "https://open.spotify.com/track/3AnEaWI0Ax5jmP40RVg6cG"
@@ -11296,7 +11336,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 275621,
       "name": "Tulang Punggung",
       "url": "https://open.spotify.com/track/0YwEhTKPAsQkMd9oehSJHz"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Pappy Kojo",
+  "description": "Hottest bars coming live from the 233.  Cover: AlorG",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 145714,
       "name": "2AM",
       "url": "https://open.spotify.com/track/5EuMg0c12nY3VcjLD6BakA"
@@ -1068,6 +1068,28 @@
       "duration_ms": 211875,
       "name": "AGYEIWAA",
       "url": "https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa"
+    },
+    {
+      "album": {
+        "name": "Ahoya",
+        "url": "https://open.spotify.com/album/60zAsukpZmETDd6ly61Ox1"
+      },
+      "artists": [
+        {
+          "name": "Dikoo",
+          "url": "https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "Ahoya",
+      "url": "https://open.spotify.com/track/0dp7zGK8uFSGLyzWMP1DEQ"
     },
     {
       "album": {
@@ -2746,6 +2768,36 @@
       "duration_ms": 138240,
       "name": "Bills",
       "url": "https://open.spotify.com/track/7HvhhK0MAkgaNuhwlOq0zP"
+    },
+    {
+      "album": {
+        "name": "Birkin",
+        "url": "https://open.spotify.com/album/4GzJ5vlnIaLFWSXwulsudz"
+      },
+      "artists": [
+        {
+          "name": "Kev & Grenade",
+          "url": "https://open.spotify.com/artist/1yOEo7wlLHYqSL3yHYnEc6"
+        },
+        {
+          "name": "KevTheTopic",
+          "url": "https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z"
+        },
+        {
+          "name": "Nana Grenade",
+          "url": "https://open.spotify.com/artist/1UsLliECctwMwm75LCYU9K"
+        },
+        {
+          "name": "K.viibez",
+          "url": "https://open.spotify.com/artist/7qbCa2UHIe5qA8A5xaX5Ra"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158876,
+      "name": "Birkin",
+      "url": "https://open.spotify.com/track/2Zke4QkjzbvFZISq4mPgBh"
     },
     {
       "album": {
@@ -7118,7 +7170,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 125631,
       "name": "GHRIME RIDDIM II: RHYTHM & GHRIME",
       "url": "https://open.spotify.com/track/3mL9b7kpStwetzxHGLaVQs"
@@ -9595,6 +9647,24 @@
     },
     {
       "album": {
+        "name": "SOLILOQUIZE",
+        "url": "https://open.spotify.com/album/1EEauNCTGyLNnrAC6jYi9L"
+      },
+      "artists": [
+        {
+          "name": "Sean Lifer",
+          "url": "https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112326,
+      "name": "Lighter & Peace",
+      "url": "https://open.spotify.com/track/23uzzEJEIpF9n5FvqO9fMK"
+    },
+    {
+      "album": {
         "name": "Lights go dim",
         "url": "https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH"
       },
@@ -10464,7 +10534,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 159529,
       "name": "Mensu",
       "url": "https://open.spotify.com/track/1D2f0L04VMVvJ4ZgI9RFfr"
@@ -10646,7 +10716,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187500,
       "name": "Millicent",
       "url": "https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o"
@@ -12431,6 +12501,28 @@
     },
     {
       "album": {
+        "name": "Okonto (Awhinie)",
+        "url": "https://open.spotify.com/album/2RYnFecSi0d0pDWEyXokEL"
+      },
+      "artists": [
+        {
+          "name": "Naab",
+          "url": "https://open.spotify.com/artist/6KFPqy0PsLo3qfBl4hCMRc"
+        },
+        {
+          "name": "B4bonah",
+          "url": "https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167553,
+      "name": "Okonto (Awhinie)",
+      "url": "https://open.spotify.com/track/7jBLUCMXNIm8bJOx57NnpY"
+    },
+    {
+      "album": {
         "name": "Okukuseku",
         "url": "https://open.spotify.com/album/1jyYzrWVXDIq9C7aASM29Y"
       },
@@ -13370,6 +13462,24 @@
       "duration_ms": 168179,
       "name": "Prayed Up",
       "url": "https://open.spotify.com/track/2NnTgv3KgB4YhbFzxHuK4q"
+    },
+    {
+      "album": {
+        "name": "President",
+        "url": "https://open.spotify.com/album/5pThue3COroQicBptQFsGu"
+      },
+      "artists": [
+        {
+          "name": "Holyrina",
+          "url": "https://open.spotify.com/artist/7rTbmW7MnQQjLKpFdZrTuv"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144966,
+      "name": "President",
+      "url": "https://open.spotify.com/track/7c9NpcwhxGQmPKPwa26WVP"
     },
     {
       "album": {
@@ -15892,7 +16002,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154698,
       "name": "Straight Shot Hennessy",
       "url": "https://open.spotify.com/track/0EnHCs1fsyt4nnTxt2eL7A"
@@ -16867,6 +16977,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0UZfeZizENHfRbHmrCXbV6"
+      },
+      "artists": [
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6NymBsuoyIsjNxZFZRmynz"
+    },
+    {
+      "album": {
         "name": "Tonic No Lime (Remix)",
         "url": "https://open.spotify.com/album/6ad5OgTWoLvk1ELlu01Tu5"
       },
@@ -17194,7 +17322,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
@@ -17620,6 +17748,24 @@
       "duration_ms": 206000,
       "name": "Warzone",
       "url": "https://open.spotify.com/track/2Y1pXK2i2FRUvJEUUn02hY"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/60gXEzlRHwZMcuSy0m2UlB"
+      },
+      "artists": [
+        {
+          "name": "Starflexx Armani",
+          "url": "https://open.spotify.com/artist/3NyysOo28DWoS4Xh3FbXt0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/3hDjN7tVwTmLVV7lEKlqjL"
     },
     {
       "album": {
@@ -18078,7 +18224,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 145379,
       "name": "Who Send You",
       "url": "https://open.spotify.com/track/0eiLbJ7utDTWd4XF3LCXWd"
@@ -18458,6 +18604,24 @@
       "duration_ms": 203939,
       "name": "Wtf",
       "url": "https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD"
+    },
+    {
+      "album": {
+        "name": "Wura",
+        "url": "https://open.spotify.com/album/4srT7DvvfQCiDyDcVRvdRD"
+      },
+      "artists": [
+        {
+          "name": "Itz Tiffany",
+          "url": "https://open.spotify.com/artist/1Owom9d3JLOlczXBorsQeW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195027,
+      "name": "Wura",
+      "url": "https://open.spotify.com/track/3k2460qzwd0ArtDOIoN5ik"
     },
     {
       "album": {
@@ -18924,7 +19088,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 201764,
       "name": "YESU",
       "url": "https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU"

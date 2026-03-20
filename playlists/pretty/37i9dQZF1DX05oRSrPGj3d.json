@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 287484,
+  "num_followers": 287513,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Blink You'll Miss It",
-        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
-      },
-      "artists": [
-        {
-          "name": "Mike Ryan",
-          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
-        }
-      ],
-      "duration_ms": 212819,
-      "name": "Damn Good Goodbye",
-      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 262866,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Blink You'll Miss It",
+        "url": "https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq"
+      },
+      "artists": [
+        {
+          "name": "Mike Ryan",
+          "url": "https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh"
+        }
+      ],
+      "duration_ms": 212819,
+      "name": "Damn Good Goodbye",
+      "url": "https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Brand New Me",
-        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
-      },
-      "artists": [
-        {
-          "name": "Cory Morrow",
-          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Lonesome",
-      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Texas Cookin",
         "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 234506,
       "name": "Anyhow, I Love You",
       "url": "https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Brand New Me",
+        "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
+      },
+      "artists": [
+        {
+          "name": "Cory Morrow",
+          "url": "https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Lonesome",
+      "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Willis Alan Ramsey",
-        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
-      },
-      "artists": [
-        {
-          "name": "Willis Alan Ramsey",
-          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Ballad Of Spider John",
-      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Joshua Judges Ruth",
         "url": "https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 342573,
       "name": "North Dakota",
       "url": "https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Willis Alan Ramsey",
+        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
+      },
+      "artists": [
+        {
+          "name": "Willis Alan Ramsey",
+          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Ballad Of Spider John",
+      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
     },
     {
       "added_at": "2026-02-11 22:47:27",

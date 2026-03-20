@@ -2,7 +2,7 @@
 
 ### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: D\-Charged
+> Weekly new Hardstyle releases! Cover: Outsiders & Paul Elstak
 
 1,941 songs - 4 day 6 hr 1 min
 

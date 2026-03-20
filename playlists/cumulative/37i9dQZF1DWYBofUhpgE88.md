@@ -4,7 +4,7 @@
 
 > per spingere come veri gym bro e gym sis
 
-421 songs - 22 hr 2 min
+422 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2024-08-01 | 2024-08-08 |
 | [Mwaka Moon \- Remix](https://open.spotify.com/track/1OGORI9Hx45AEYqxkndMhN) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Mwaka Moon \(Remix\)](https://open.spotify.com/album/276ORc1Ggk5x9QwlsQpwuI) | 3:57 | 2022-05-03 | 2022-07-29 |
 | [Narcos Remix \(feat\. Lazza\)](https://open.spotify.com/track/0mAeTwKRW38d8TRsWqvw9Z) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Emanuele \(Marchio registrato\)](https://open.spotify.com/album/19v0KdpOdICJH05EwVcMMR) | 3:19 | 2022-05-03 | 2022-07-29 |
-| [NEMESI \(feat\. BLANCO\)](https://open.spotify.com/track/4QBXMgfDKmmVrYEqICIPxJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 2:55 | 2026-02-19 |  |
+| [NEMESI \(feat\. BLANCO\)](https://open.spotify.com/track/4QBXMgfDKmmVrYEqICIPxJ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 2:55 | 2026-02-19 | 2026-03-20 |
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-10-09 | 2025-09-05 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-08-07 | 2024-10-25 |
 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-03-05 |  |
@@ -324,6 +324,7 @@
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2025-07-21 |  |
 | [Russell Crowe](https://open.spotify.com/track/6PmqCw22rKTF2sFZhghyIS) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Midnite \(Deluxe Version\)](https://open.spotify.com/album/0d0xhfyP9VIZ8V9IsyvUdg) | 2:57 | 2022-05-03 | 2022-07-28 |
 | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \- Original Soundtrack](https://open.spotify.com/track/0W7yvrUlkhdFvKB4KMxqS7) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [SARÒ CON TE \(feat\. Lele Blade, Vale Lambo, MV Killa, Yung Snapp\) \[Original Soundtrack\]](https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu) | 4:33 | 2024-06-04 | 2024-08-02 |
+| [SATA](https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [SATA](https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr) | 3:02 | 2026-03-19 |  |
 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 | 2024-08-01 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-19 | 2024-06-05 |
 | [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 | 2022-05-03 | 2022-07-29 |

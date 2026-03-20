@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-228 songs - 11 hr 8 min
+229 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Venno](https://open.spotify.com/track/5c6b3gmHsKRh06BMsZeJNa) | [Erik Hubo](https://open.spotify.com/artist/1imbx6HxQr0PkQtA5LHB9b) | [Venno](https://open.spotify.com/album/4nJ3zZhKsHvUTYuRF0osKI) | 3:04 | 2025-08-29 | 2026-02-14 |
 | [Virus \(How About Now\) \- Radio Edit](https://open.spotify.com/track/6GLzN6o2fkOupy8e1vGzwp) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Virus \(How About Now\) \[Radio Edit\]](https://open.spotify.com/album/22GK1YrW3XnIFnhifmv5nZ) | 3:19 | 2025-07-04 |  |
 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 | 2025-10-08 |  |
+| [Wake Me Up \(I'm Alive\)](https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Wake Me Up \(I'm Alive\)](https://open.spotify.com/album/6h7bRxq7UfqGA1xZDPJe3S) | 3:22 | 2026-03-19 |  |
 | [Wanna Rock](https://open.spotify.com/track/33PX42yfwXnmeowcZktYmL) | [Sebastian Bronk](https://open.spotify.com/artist/4Iau0oBg23all6HbsD98lm) | [Revealed Recordings presents ADE Sampler 2023](https://open.spotify.com/album/0DB4352TIbGPGz1gSkENN8) | 2:43 | 2025-07-04 | 2025-08-26 |
 | [We Are Free](https://open.spotify.com/track/36vCzShuqcVtAikqtpPTmT) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [We Are Free](https://open.spotify.com/album/3PynmYXtpWvXeiabyyBH6k) | 2:42 | 2025-07-04 |  |
 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 | 2025-07-04 |  |

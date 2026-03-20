@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Anirudh Suswaram
 
-499 songs - 1 day 5 hr 59 min
+500 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Nuvvu Unte Chaalu](https://open.spotify.com/track/2Ls2a6pVhsEp2gFWUhegdV) | [Oliver Kim](https://open.spotify.com/artist/4A4siCgJtEqDbtmotaNVgs) | [Nuvvu Unte Chaalu](https://open.spotify.com/album/6MNr0qhQfvkJthcGqNelpV) | 1:38 | 2024-03-21 | 2024-04-26 |
 | [Nuvvu Vuntava?](https://open.spotify.com/track/7Dvq7rDFQUegmwzXChLUfs) | [Madduri Hemant](https://open.spotify.com/artist/1C3UfslxonJjT3Y5VFlN3L) | [Nuvvu Vuntava?](https://open.spotify.com/album/3PIrKyzwISi0V0fv2fOpXJ) | 2:32 | 2026-02-14 |  |
 | [Nuvvunte Acoustic](https://open.spotify.com/track/3YfCpxpyXviMwEmrvSkzqx) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Nuvvunte Acoustic](https://open.spotify.com/album/1rUB6pntj9LVvjrH8f9pZR) | 3:12 | 2023-04-17 | 2023-05-23 |
-| [O Jaana](https://open.spotify.com/track/6zTE4qILoNBO77vlXxjMym) | [V\. Kiran Kumara](https://open.spotify.com/artist/4Z749KM9HAqKwKhSHZm4jl), [Teja Gorle](https://open.spotify.com/artist/6HuRYV0V9D7J2QdfDBd24X) | [O Jaana](https://open.spotify.com/album/7BcN94l7Ds3MbpmO3fmHcb) | 3:01 | 2025-10-23 |  |
+| [O Jaana](https://open.spotify.com/track/6zTE4qILoNBO77vlXxjMym) | [V\. Kiran Kumara](https://open.spotify.com/artist/4Z749KM9HAqKwKhSHZm4jl), [Teja Gorle](https://open.spotify.com/artist/6HuRYV0V9D7J2QdfDBd24X) | [O Jaana](https://open.spotify.com/album/7BcN94l7Ds3MbpmO3fmHcb) | 3:01 | 2025-10-23 | 2026-03-20 |
 | [O Mayya](https://open.spotify.com/track/1H9R0AWj5cxVdRA6JGx2ZI) | [Sai Madhav Rella](https://open.spotify.com/artist/7J2eKWSknBCCkwQEK5rDpw) | [O Mayya](https://open.spotify.com/album/5jXOvuqz6iFThLiUxMdbdx) | 4:14 | 2023-07-10 | 2023-10-14 |
 | [O Pilla \(TELUGU\)](https://open.spotify.com/track/1hmHzSfyVerXSYiY1Qq4Vx) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [O Pilla \(TELUGU\)](https://open.spotify.com/album/0lCTbSr2qTIXfRTHy2cWXp) | 3:21 | 2022-10-11 | 2023-05-23 |
 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 | 2024-04-05 | 2026-01-15 |
@@ -451,6 +451,7 @@
 | [Telugodi Beat](https://open.spotify.com/track/5mQKKShZT8OuPLtZeEN5eq) | [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Telugodi Beat](https://open.spotify.com/album/3sxdDrmnrBgCQv8fZT30xV) | 3:51 | 2024-12-20 | 2025-09-06 |
 | [Telugu Bhasha](https://open.spotify.com/track/3spnmQIfqbs7WApfP1l5uh) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC) | [Telugu Bhasha](https://open.spotify.com/album/70P4Be7U3B8ANL5tYjdHjg) | 3:02 | 2024-02-02 | 2024-03-06 |
 | [Telugu Flow](https://open.spotify.com/track/3Q4Rn6L8GRbbR43DHcFwN7) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Telugu Flow](https://open.spotify.com/album/70gsV2nrvydHTwVRGUbUsA) | 3:13 | 2023-05-29 | 2023-07-11 |
+| [Telupana Cheli](https://open.spotify.com/track/7Mwdxcy1LsYtghUphU2yzI) | [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Lakshmi Priyanka](https://open.spotify.com/artist/2K08CRxFYB4vypKb79x62A) | [Telupana Cheli](https://open.spotify.com/album/3w59ATwnl8qqnfq52SgmSJ) | 2:44 | 2026-03-19 |  |
 | [Telusa Nuvvevaro](https://open.spotify.com/track/4AiOWsLqXlYgs70dYugZBf) | [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn) | [Telusa Nuvvevaro](https://open.spotify.com/album/5RBhYJpO14jspepP1yMAfh) | 3:04 | 2024-03-05 | 2025-01-16 |
 | [Thaanu](https://open.spotify.com/track/2wOflzlWeTjOtzq5xWce1E) | [Jammers](https://open.spotify.com/artist/35rhxl9kHgmuqIODepTF6u) | [Thaanu](https://open.spotify.com/album/5l0c9ZBV6Y3NQza3E7m3jL) | 3:12 | 2024-05-25 | 2025-09-16 |
 | [Thamara Poovai](https://open.spotify.com/track/5bvJPJZGprkIDqLSXmRdSf) | [Ram Muthiah](https://open.spotify.com/artist/6FmTbZeAj6lhscs3PLXVUa), [Sai Madhukar](https://open.spotify.com/artist/0Zt595ddYyhnoQN42mt4OT), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Thamara Poovai](https://open.spotify.com/album/16utbSdG0wcQcTaGvHk7c5) | 5:30 | 2023-06-16 | 2023-07-04 |

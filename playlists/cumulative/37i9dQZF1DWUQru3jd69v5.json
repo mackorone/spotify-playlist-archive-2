@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Clam\u00f6 in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Marte in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 181714,
       "name": "$LOT MACHINE (feat. Tony 2Milli)",
       "url": "https://open.spotify.com/track/78Y5sd7YADvm7M1nMZqv6V"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 151488,
       "name": "a me piace #249 (feat. LILCR)",
       "url": "https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN"
@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 113814,
       "name": "Affari di Famiglia",
       "url": "https://open.spotify.com/track/4asfq8On9n52IARlPE7p7f"
@@ -2966,6 +2966,28 @@
       "duration_ms": 170362,
       "name": "Alcolici",
       "url": "https://open.spotify.com/track/3KezwV81GX7whU9Pgg1mEz"
+    },
+    {
+      "album": {
+        "name": "ALDIL\u00c0",
+        "url": "https://open.spotify.com/album/1T7F2lJ00C6aY4QeM7Qpfk"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "ALDIL\u00c0",
+      "url": "https://open.spotify.com/track/0JYnkcNqffg2QEJ8ioSOkN"
     },
     {
       "album": {
@@ -3490,6 +3512,32 @@
       "duration_ms": 144000,
       "name": "AMORE E ODIO",
       "url": "https://open.spotify.com/track/58Xg7tSx5PEmAPeVChMTpg"
+    },
+    {
+      "album": {
+        "name": "Reggio Piange",
+        "url": "https://open.spotify.com/album/6ZFA8Wl7JOzHFa4lDjKGyV"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        },
+        {
+          "name": "Boyka",
+          "url": "https://open.spotify.com/artist/5osiBkJhu6mLTbUdjXiGbK"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128108,
+      "name": "Amsterdam (feat. Boyka)",
+      "url": "https://open.spotify.com/track/054VwR4zsSbzbHb7kHCRae"
     },
     {
       "album": {
@@ -9730,7 +9778,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 127551,
       "name": "Coccodrillo Verde",
       "url": "https://open.spotify.com/track/5maHL9Shzf6OCnIMuO8frh"
@@ -12228,7 +12276,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187259,
       "name": "DESTINO",
       "url": "https://open.spotify.com/track/2CVvhoDX3XxEwN4kOOlDQu"
@@ -13639,6 +13687,24 @@
     },
     {
       "album": {
+        "name": "ELICOTTERI BASSI",
+        "url": "https://open.spotify.com/album/2jT2XgqQ18zFjiEuukhbqh"
+      },
+      "artists": [
+        {
+          "name": "Lil Parta",
+          "url": "https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106329,
+      "name": "ELICOTTERI BASSI",
+      "url": "https://open.spotify.com/track/0RltznyaF8iyXXHa3ddCen"
+    },
+    {
+      "album": {
         "name": "Emotions (feat. Tony Boy)",
         "url": "https://open.spotify.com/album/5W4SVDrLe6pUIznOOxVTAb"
       },
@@ -13844,7 +13910,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 162000,
       "name": "Eremita in Herm\u00e8s",
       "url": "https://open.spotify.com/track/3H1ZhIJoeoTatBUaaPzb1d"
@@ -13906,7 +13972,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156187,
       "name": "ERROR (404)",
       "url": "https://open.spotify.com/track/1xj85ce5coVDAq01Fw8vH7"
@@ -15744,7 +15810,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 135130,
       "name": "FOLLIA",
       "url": "https://open.spotify.com/track/1Es5ce2ol45NvQbl4tgeW4"
@@ -16980,7 +17046,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156365,
       "name": "Geekin\u2019",
       "url": "https://open.spotify.com/track/7Hr8R5DI18Ecrbot6eRC4w"
@@ -18358,7 +18424,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 125040,
       "name": "GUARDA E IMPARA (con Visino Bianco)",
       "url": "https://open.spotify.com/track/3fRUcFeEXMcFBxgvFk0Lhh"
@@ -19546,7 +19612,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 185562,
       "name": "I can't",
       "url": "https://open.spotify.com/track/09RHs89gHskC4vx8xYCQ8t"
@@ -19952,7 +20018,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168648,
       "name": "Immune",
       "url": "https://open.spotify.com/track/2m86wd66N4qWnuaCe0ZlLS"
@@ -21605,6 +21671,28 @@
     },
     {
       "album": {
+        "name": "METAMORFOSI",
+        "url": "https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        },
+        {
+          "name": "SKT",
+          "url": "https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119770,
+      "name": "KYLIE (feat. SKT)",
+      "url": "https://open.spotify.com/track/43DE2yBEywVcP30QFdPc8Q"
+    },
+    {
+      "album": {
         "name": "L'Alcol Non \u00c8 Un Problema",
         "url": "https://open.spotify.com/album/7Kj40gynPLTP1Fz9hH0N8h"
       },
@@ -22988,7 +23076,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 141777,
       "name": "LAVORARE NO GRAZIE (feat. elliot)",
       "url": "https://open.spotify.com/track/4SUnOFzgSFHsN0NyENXGXF"
@@ -24364,6 +24452,24 @@
       "duration_ms": 136956,
       "name": "Maglietta Bianca",
       "url": "https://open.spotify.com/track/39MR6whe83H7QiZ2lY2VYD"
+    },
+    {
+      "album": {
+        "name": "PENSIERI CATTIVI",
+        "url": "https://open.spotify.com/album/5SCrMyqREI1Qybkqp7HxoP"
+      },
+      "artists": [
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "MAHATMA",
+      "url": "https://open.spotify.com/track/7hILuJZtSKO6ZBmvyzgJ76"
     },
     {
       "album": {
@@ -29606,7 +29712,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 158000,
       "name": "No Pinscher (feat. Nerissima Serpe, Papa V & Rhove)",
       "url": "https://open.spotify.com/track/6qaIxiM2EFYaec3oBaRqwj"
@@ -29990,7 +30096,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 133640,
       "name": "NON FARTELO RACCONTARE",
       "url": "https://open.spotify.com/track/1xalvzebBDSqGKZj1XqSdS"
@@ -30326,6 +30432,28 @@
       "duration_ms": 192443,
       "name": "Non sai di me",
       "url": "https://open.spotify.com/track/3A9N1BNNayyIwV4TndhNbs"
+    },
+    {
+      "album": {
+        "name": "NON SEMBRIAMO FELICI",
+        "url": "https://open.spotify.com/album/3g3HiqQRW5uy6Tyr9izE1q"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "NON SEMBRIAMO FELICI",
+      "url": "https://open.spotify.com/track/3FCiuvma5oIbrIPS05LyPQ"
     },
     {
       "album": {
@@ -30758,7 +30886,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 151578,
       "name": "NULLA DI BELLO (feat. 22simba, Flaco G e IDUA)",
       "url": "https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha"
@@ -31794,7 +31922,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 123550,
       "name": "OVERSIZE",
       "url": "https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO"
@@ -33084,7 +33212,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 145000,
       "name": "PENSIERI CATTIVI",
       "url": "https://open.spotify.com/track/0ls1xhGTOQvVpFZPgGil9x"
@@ -34597,6 +34725,28 @@
     },
     {
       "album": {
+        "name": "PRATICA",
+        "url": "https://open.spotify.com/album/5iJvzE65D1w22zJqOg1vOo"
+      },
+      "artists": [
+        {
+          "name": "Jeko",
+          "url": "https://open.spotify.com/artist/3aHY5YJ8YSoez2FYLK83CM"
+        },
+        {
+          "name": "Fallen",
+          "url": "https://open.spotify.com/artist/1QmF4Y2XK7p63RMJKjmgB4"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127692,
+      "name": "PRATICA",
+      "url": "https://open.spotify.com/track/1B59gq28Lb1fwY5ISrO5sp"
+    },
+    {
+      "album": {
         "name": "Precipitando dalle stelle",
         "url": "https://open.spotify.com/album/1Wij959mvJqdlvbczy6uwG"
       },
@@ -36042,7 +36192,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168000,
       "name": "RAFAEL LEAO",
       "url": "https://open.spotify.com/track/1mx8YG8LMyhmvDjIYKUJse"
@@ -36086,6 +36236,24 @@
       "duration_ms": 179076,
       "name": "Ragazzini 2000 (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/0HOMX6xhF9ViSM8LNpUm1P"
+    },
+    {
+      "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120835,
+      "name": "Rager !",
+      "url": "https://open.spotify.com/track/2otPJNgn51GS9zxTocTQO6"
     },
     {
       "album": {
@@ -36340,7 +36508,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 163106,
       "name": "Reggio Piange",
       "url": "https://open.spotify.com/track/0tlGkLFFJ4y0zCg4776n8c"
@@ -36692,7 +36860,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 188267,
       "name": "RIEMPIO IL SACCO (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/7qOFJWf5bsYNcNNMTyBe5b"
@@ -37560,6 +37728,24 @@
       "duration_ms": 162666,
       "name": "RUBINO",
       "url": "https://open.spotify.com/track/0oZEMtNPrWNh3SsNOwa0rG"
+    },
+    {
+      "album": {
+        "name": "METAMORFOSI",
+        "url": "https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141570,
+      "name": "RUDE BOYS",
+      "url": "https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14"
     },
     {
       "album": {
@@ -41246,7 +41432,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148085,
       "name": "Stanza dei ricordi",
       "url": "https://open.spotify.com/track/0Ya6h7s1IoVSToVWMn3ZHF"
@@ -43216,7 +43402,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 137032,
       "name": "Tic",
       "url": "https://open.spotify.com/track/0Zh291dBD3BuTA3FcXMrEp"
@@ -44807,6 +44993,24 @@
     },
     {
       "album": {
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169784,
+      "name": "TutteLeVolte",
+      "url": "https://open.spotify.com/track/2tbivxZFgeoq1ZAGmcITfX"
+    },
+    {
+      "album": {
         "name": "OGNI MUSICA",
         "url": "https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ"
       },
@@ -45224,6 +45428,28 @@
       "duration_ms": 160000,
       "name": "Uhssi",
       "url": "https://open.spotify.com/track/6WY56poBm8fOB4UCdYPMjt"
+    },
+    {
+      "album": {
+        "name": "UK SWAG",
+        "url": "https://open.spotify.com/album/0IwPyFqLWOl58OChLSNMip"
+      },
+      "artists": [
+        {
+          "name": "SKT",
+          "url": "https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr"
+        },
+        {
+          "name": "Caldo",
+          "url": "https://open.spotify.com/artist/1pzqHeOCbE4vVK7CSLQXbU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166548,
+      "name": "UK SWAG",
+      "url": "https://open.spotify.com/track/2i3zFkwiTaszSdgqoHlJwG"
     },
     {
       "album": {
@@ -45678,6 +45904,24 @@
       "duration_ms": 113814,
       "name": "Va Bene",
       "url": "https://open.spotify.com/track/5w4wqUJgNGfKUYueXO8kCb"
+    },
+    {
+      "album": {
+        "name": "Vabbene",
+        "url": "https://open.spotify.com/album/4VLKLMa67QkH642Uuxmmok"
+      },
+      "artists": [
+        {
+          "name": "Gallas",
+          "url": "https://open.spotify.com/artist/0trWmturcmhrIVeVWbn1OT"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Vabbene",
+      "url": "https://open.spotify.com/track/2zOLtHrCpfJLULqubanbt6"
     },
     {
       "album": {
@@ -46541,6 +46785,32 @@
     },
     {
       "album": {
+        "name": "Vita nuova (feat. Gheba)",
+        "url": "https://open.spotify.com/album/00GskigtC8i6zKlgjBuW4Q"
+      },
+      "artists": [
+        {
+          "name": "Fandino",
+          "url": "https://open.spotify.com/artist/4eazpH2wKAhA7uzaflG6ju"
+        },
+        {
+          "name": "Gheba",
+          "url": "https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "Vita nuova (feat. Gheba)",
+      "url": "https://open.spotify.com/track/3N2s9VIfSU6ApdIeTZVZD5"
+    },
+    {
+      "album": {
         "name": "VITA PUTTANA",
         "url": "https://open.spotify.com/album/0bfend4tdsLrwhdPMyGorA"
       },
@@ -46680,7 +46950,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 143500,
       "name": "VOLDEMORT",
       "url": "https://open.spotify.com/track/0AMDTiUh3S5niOi5PmimAu"
@@ -48078,6 +48348,24 @@
       "duration_ms": 140588,
       "name": "Z4 (don't play)",
       "url": "https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858"
+    },
+    {
+      "album": {
+        "name": "ZAINO GUCCI",
+        "url": "https://open.spotify.com/album/7qtjKOb3aFShj3gZKlyEY5"
+      },
+      "artists": [
+        {
+          "name": "IvanBi",
+          "url": "https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "ZAINO GUCCI",
+      "url": "https://open.spotify.com/track/2prQiacFHWgk5TCigkAyv4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The big Hip\-Life hits rn\. Cover: R2Bees
 
-321 songs - 19 hr 48 min
+322 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Konkontiba \(feat\. Batman\)](https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ) | [Obour](https://open.spotify.com/artist/3gPfj7Ur5rEUNRNd8kPjRv), [Batman](https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 5:41 | 2020-02-20 | 2022-03-16 |
 | [Kotosa](https://open.spotify.com/track/3mBRt8Ca7OhCew1X1tac0G) | [Wutah](https://open.spotify.com/artist/15YvgMGSsybKVkZIIqOheJ) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 6:04 | 2020-02-20 | 2022-07-25 |
 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 | 2024-03-04 | 2024-12-13 |
+| [Kwesi Arthur II](https://open.spotify.com/track/1PxzVVP6W9zkcdZsd8zukW) | [Cojo Rae](https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Kwesi Arthur II](https://open.spotify.com/album/5S03i4bznJ31ubq9pvS73V) | 2:38 | 2026-03-19 |  |
 | [La vida Loca](https://open.spotify.com/track/4Hxx6KY9Hrq6q3NFZkR1gV) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [La vida Loca](https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm) | 4:26 | 2025-09-19 | 2025-10-17 |
 | [LABADI](https://open.spotify.com/track/6LRN0BxZWwTc8kgPK5XbBu) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [LABADI](https://open.spotify.com/album/1ujkng48efaVKFzlfEMIYr) | 2:14 | 2026-01-23 | 2026-02-12 |
 | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB) | 2:39 | 2025-07-18 |  |
@@ -289,7 +290,7 @@
 | [Tebidi \(feat\. Michael Dwamena\)](https://open.spotify.com/track/3aDUSS1u60v9OIwtQQw3p9) | [Kool Joe](https://open.spotify.com/artist/5M9sGpyOMhWysL6CKLbUKw), [Michael Dwamena](https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:56 | 2020-02-20 | 2022-07-29 |
 | [Thank You](https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Thank You](https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT) | 3:10 | 2025-05-23 | 2025-06-13 |
 | [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 | 2025-12-12 | 2026-03-17 |
-| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 |  |
+| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 | 2026-03-20 |
 | [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 | 2020-02-20 | 2022-07-29 |
 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 | 2020-02-20 | 2024-03-05 |
 | [Theresa](https://open.spotify.com/track/5JbM70NquXzGUzMM02M3hQ) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [The Very Best of Daddy Lumba, Vol\. 1](https://open.spotify.com/album/2QG8g2t5FiTT6VnpmTO81q) | 5:39 | 2020-02-20 | 2022-11-13 |

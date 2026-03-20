@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Mon Laferte en portada.",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Kenia Os en portada.",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 183873,
       "name": "Cholo 2",
       "url": "https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN"
@@ -10209,6 +10209,24 @@
     },
     {
       "album": {
+        "name": "Llenadera",
+        "url": "https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Coronel",
+          "url": "https://open.spotify.com/artist/5NoHhsqkBw0TMQFfig7eLT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164220,
+      "name": "Llenadera",
+      "url": "https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE"
+    },
+    {
+      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -11726,7 +11744,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 222366,
       "name": "MI GATA",
       "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
@@ -16603,6 +16621,24 @@
     },
     {
       "album": {
+        "name": "K de Karma",
+        "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Ruleta Rusa",
+      "url": "https://open.spotify.com/track/0IZy9WMqzzK4HNTiHnuzBM"
+    },
+    {
+      "album": {
         "name": "Rumores",
         "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
       },
@@ -16792,6 +16828,32 @@
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/0cubEBmB9wjsdBwXNFmzFy"
+    },
+    {
+      "album": {
+        "name": "San Charly",
+        "url": "https://open.spotify.com/album/31Bc4KiyvpxhlHxps82U52"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174770,
+      "name": "San Charly",
+      "url": "https://open.spotify.com/track/7ghPrLoF9gcOm4jQpwzzMz"
     },
     {
       "album": {

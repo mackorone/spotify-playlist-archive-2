@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 2076,
+  "num_followers": 2311,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Germ Free Adolescents",
-        "url": "https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa"
-      },
-      "artists": [
-        {
-          "name": "X-Ray Spex",
-          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Identity",
-      "url": "https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "NIIS WORLD",
         "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 171070,
       "name": "The Bow",
       "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Germ Free Adolescents",
+        "url": "https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa"
+      },
+      "artists": [
+        {
+          "name": "X-Ray Spex",
+          "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Identity",
+      "url": "https://open.spotify.com/track/7oMsD1x3pV1nLm26p8Q914"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Frenching The Bully (2024 Remaster)",
         "url": "https://open.spotify.com/album/0unK1ttNt8xgj6bU0cMo2t"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 171866,
       "name": "Second Skin - 2024 Remaster",
       "url": "https://open.spotify.com/track/4Rvwe2nPrL4QiylcSD6lcy"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "The Refrigerator",
-        "url": "https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR"
-      },
-      "artists": [
-        {
-          "name": "Remember Sports",
-          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Across The Line",
-      "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 199693,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "The Refrigerator",
+        "url": "https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR"
+      },
+      "artists": [
+        {
+          "name": "Remember Sports",
+          "url": "https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Across The Line",
+      "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
     },
     {
       "added_at": "2026-03-17 18:41:04",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "All That Is Over",
-        "url": "https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 160862,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Stepping Out of Line - The Anthology",
         "url": "https://open.spotify.com/album/1rQBMMOdTHjqRcg3mD54VK"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 377026,
       "name": "It's Obvious",
       "url": "https://open.spotify.com/track/5gPOiq7h6NydcfXEv2XiYg"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "All That Is Over",
+        "url": "https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 160862,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1"
     },
     {
       "added_at": "2026-03-05 23:16:41",

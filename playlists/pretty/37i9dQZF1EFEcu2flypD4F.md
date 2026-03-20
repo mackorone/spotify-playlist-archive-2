@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,470 likes - 344 songs - 21 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,471 likes - 344 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,8 +249,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 239 | [If I Can't Have You](https://open.spotify.com/track/1GSOHVVSVoR0oWrNxKj2pX) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:22 |
 | 240 | [Butterflies](https://open.spotify.com/track/48Cf7df74BjUz9rWJXXwXb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:22 |
 | 241 | [Waiting To Die](https://open.spotify.com/track/7dMeeGi3mjL5YAIiUWgEvu) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:40 |
-| 242 | [Chaos](https://open.spotify.com/track/0KAAMcIYH5D9JwVLXcTQmb) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 4:05 |
-| 243 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
+| 242 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
+| 243 | [Chaos](https://open.spotify.com/track/0KAAMcIYH5D9JwVLXcTQmb) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 4:05 |
 | 244 | [Champion \(feat\. Tierra Whack, Kaliii & Jimmy Jolliff\)](https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Jimmy Jolliff](https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:40 |
 | 245 | [One Night](https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:58 |
 | 246 | [Get over U](https://open.spotify.com/track/5HvN5wQFNTNxlNBgeaPGbf) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe) | [Get Over U](https://open.spotify.com/album/1vleMZIYYhBSXyAWPUeSIX) | 3:24 |
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 295 | [Firecracker](https://open.spotify.com/track/1iUNZuYz6hYoGgDWN8fAjm) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Only Human \(Deluxe\)](https://open.spotify.com/album/4YCGJ4vLqqnKGYjVhv6HB4) | 3:32 |
 | 296 | [Victory](https://open.spotify.com/track/2zsbc8inHb2ehEskRuU3J7) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:12 |
 | 297 | [Round Your Little Finger](https://open.spotify.com/track/7q3SFkjxhRKhEmUDuJJEcw) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [Hysteria](https://open.spotify.com/album/2vaD3Zl5XcFMWL2KU0R1VX) | 3:38 |
-| 298 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 |
-| 299 | [Summer Rain](https://open.spotify.com/track/0Rhqa2LgIu8YH7DeGExwvV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:34 |
+| 298 | [Summer Rain](https://open.spotify.com/track/0Rhqa2LgIu8YH7DeGExwvV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:34 |
+| 299 | [Go Get It](https://open.spotify.com/track/55MUolR1RPiH6zvfUxpz1c) | [Riff Raff](https://open.spotify.com/artist/31IZdHrCZ5pRhLz4zBxN3o), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT), [Lil Debbie](https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN) | [Balloween](https://open.spotify.com/album/6xHseLn2Rz353MyoB3A5zY) | 4:07 |
 | 300 | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/track/6JVj1kLMutHGrDDP1vsdys) | [Nina Sofie](https://open.spotify.com/artist/3lJmsswS82rAa5qaOyrICa) | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/album/5KDJEzHwSvD9yi7f8XQ7z8) | 3:32 |
 | 301 | [Plaster](https://open.spotify.com/track/2pofAwAUipRcvvlMDS8Ftq) | [Marco Carola](https://open.spotify.com/artist/2p8O7NCyfWf1sIZamrU9N1) | [The Tribe](https://open.spotify.com/album/1AsyuED8iHFezYSTEDNVkV) | 7:46 |
 | 302 | [I Will Get Over You](https://open.spotify.com/track/2EuVDGZ3aLtGen3jiYUHlE) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [When You Grow Up](https://open.spotify.com/album/40VVhYrRI1I7OWWIJwhtcw) | 3:42 |
@@ -353,4 +353,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 343 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 344 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcMfdgAAAABrM9ZOIdR7Ag51aGhv0MTw`
+Snapshot ID: `AcMlFgAAAAA/XmLhUslgQsMRpuff8Vtk`

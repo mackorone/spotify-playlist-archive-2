@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Tooth",
+  "description": "Where your new favourite bands are discovered. Cover: Truthpaste",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 117400,
       "name": "All The Good Men",
       "url": "https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt"
+    },
+    {
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk"
+      },
+      "artists": [
+        {
+          "name": "deary",
+          "url": "https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220096,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb"
     },
     {
       "album": {
@@ -322,7 +340,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 184624,
       "name": "Barbed Wire",
       "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
@@ -664,7 +682,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 69733,
       "name": "Bumble Been",
       "url": "https://open.spotify.com/track/7HMUW5O54l5hdzJR4pfdf0"
@@ -704,6 +722,24 @@
       "duration_ms": 327000,
       "name": "Bury Me Not",
       "url": "https://open.spotify.com/track/5OG5tAPqIskd9z3ZP1biUK"
+    },
+    {
+      "album": {
+        "name": "Bus Song",
+        "url": "https://open.spotify.com/album/1u4VRnXeVmItAF1xqoKPHJ"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199518,
+      "name": "Bus Song",
+      "url": "https://open.spotify.com/track/52toKg7MSgoJiGUWECr7uK"
     },
     {
       "album": {
@@ -2219,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Grazer",
+        "url": "https://open.spotify.com/album/4NcqO8MWjbvLaWcCAU7EeT"
+      },
+      "artists": [
+        {
+          "name": "Ain't",
+          "url": "https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "Grazer",
+      "url": "https://open.spotify.com/track/6x5YxvJ6jFKTSCNU8FfJ2U"
+    },
+    {
+      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/1z7EEIao5ukfXy1Lqw2LQM"
       },
@@ -3292,7 +3346,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 192386,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/70DK9qoXC1XvgRjeOIHdH1"
@@ -3332,6 +3386,24 @@
       "duration_ms": 195371,
       "name": "madonna",
       "url": "https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx"
+    },
+    {
+      "album": {
+        "name": "Mama, My Heart Is Achin'",
+        "url": "https://open.spotify.com/album/06uAi42XtPri4UzaL7usrT"
+      },
+      "artists": [
+        {
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "Mama, My Heart Is Achin'",
+      "url": "https://open.spotify.com/track/6tVk7AVFvAa5oSj2YEoB6W"
     },
     {
       "album": {
@@ -4132,7 +4204,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 207877,
       "name": "Puzzle pop",
       "url": "https://open.spotify.com/track/065H6t0gyBgzDWqJAi2J8r"
@@ -4186,7 +4258,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 238832,
       "name": "Red Brick",
       "url": "https://open.spotify.com/track/5JiEzvDyUom70fKv4gYEEr"
@@ -4280,6 +4352,24 @@
       "duration_ms": 181364,
       "name": "Ruminate",
       "url": "https://open.spotify.com/track/6odyiCWTis0oVok60fdogG"
+    },
+    {
+      "album": {
+        "name": "Run Kid",
+        "url": "https://open.spotify.com/album/7FMwvpxiU0ITuiVQSFlyLa"
+      },
+      "artists": [
+        {
+          "name": "Arkayla",
+          "url": "https://open.spotify.com/artist/09w9cxzjdgXxzACb0N3C50"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175352,
+      "name": "Run Kid",
+      "url": "https://open.spotify.com/track/2MIOg8OV9I7qxpXrCOPtNu"
     },
     {
       "album": {
@@ -4510,7 +4600,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210856,
       "name": "Sit Awake",
       "url": "https://open.spotify.com/track/3yzxeoLhMMwXNe3xqy5Baw"
@@ -5666,6 +5756,24 @@
       "duration_ms": 165529,
       "name": "Wingman",
       "url": "https://open.spotify.com/track/4XA4i4BT5hgy2Gxdh7jCDJ"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3BB0xOQPvpn5Amjh3TFBfI"
+      },
+      "artists": [
+        {
+          "name": "Witch Post",
+          "url": "https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227242,
+      "name": "Witching Hour",
+      "url": "https://open.spotify.com/track/2wRv8M3xboX9UHlkyvpn8l"
     },
     {
       "album": {

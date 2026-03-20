@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 401,
+  "num_followers": 414,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB"
-      },
-      "artists": [
-        {
-          "name": "Nic van Graan",
-          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "In My Heart (The Rent is Free)",
-      "url": "https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Mellow Dramatic",
         "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "When You Know You Know",
-        "url": "https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/5H1A6BJ9XyBMD3OgWzsfiB"
       },
       "artists": [
         {
-          "name": "Joneaux",
-          "url": "https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv"
+          "name": "Nic van Graan",
+          "url": "https://open.spotify.com/artist/5szYkf5z4q40eLOyWDFJgt"
         }
       ],
-      "duration_ms": 161250,
-      "name": "When You Know You Know",
-      "url": "https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5"
+      "duration_ms": 273913,
+      "name": "In My Heart (The Rent is Free)",
+      "url": "https://open.spotify.com/track/51dLHrDvojeebhJQglTEpe"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1143,6 +1127,22 @@
       "duration_ms": 189176,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "When You Know You Know",
+        "url": "https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI"
+      },
+      "artists": [
+        {
+          "name": "Joneaux",
+          "url": "https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5"
     },
     {
       "added_at": "2026-03-06 14:50:02",

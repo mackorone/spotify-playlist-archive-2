@@ -1,15 +1,15 @@
 {
   "description": "Essential songs of India's beloved crooner.",
-  "num_followers": 1241755,
+  "num_followers": 1241991,
   "original_name": "This Is Arijit Singh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIR6gCRhk/zG8XihxYvSVTRdskcT",
+  "snapshot_id": "AAAAAGTEIDfW5nZzyk8JkQnA68hBumQI",
   "tracks": [
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Gehra Hua (From \"Dhurandhar\")",
         "url": "https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW"
@@ -37,7 +37,31 @@
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
+      "album": {
+        "name": "Phir Se (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/29d9h0aVlxJus5RkvjQces"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 353085,
+      "name": "Phir Se (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/1i6Uk2tHzDbWgxhlEayzYb"
+    },
+    {
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Laapataa Ladies",
         "url": "https://open.spotify.com/album/6RRszKfdIZFMYabAL8vDGB"
@@ -61,7 +85,7 @@
       "url": "https://open.spotify.com/track/4gU4FIc5N5nqg6W29LwXIs"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Dhun (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
@@ -81,7 +105,7 @@
       "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Ek Din Title Track (From \"Ek Din\")",
         "url": "https://open.spotify.com/album/4k1ssT85lMzmK3hi3ACZjT"
@@ -105,7 +129,7 @@
       "url": "https://open.spotify.com/track/2abR4ilhs5JWqZq12SB3GB"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Satranga (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/5mZX4EMwEyohNmVfLTDtXn"
@@ -129,7 +153,7 @@
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Aavan Jaavan (From \"WAR 2\")",
         "url": "https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA"
@@ -157,7 +181,7 @@
       "url": "https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Sonu Ke Titu Ki Sweety",
         "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
@@ -181,7 +205,7 @@
       "url": "https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "O Maahi (From \"Dunki\")",
         "url": "https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC"
@@ -205,7 +229,7 @@
       "url": "https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
@@ -225,7 +249,7 @@
       "url": "https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
@@ -249,7 +273,7 @@
       "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
@@ -273,7 +297,7 @@
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Fitratein",
         "url": "https://open.spotify.com/album/76x9TiVITMmsA5KjSDSPUl"
@@ -289,7 +313,7 @@
       "url": "https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Zamaana Lage (From \"Metro ... In Dino\")",
         "url": "https://open.spotify.com/album/7BpW3kwzoeLX4RFWJVvjGx"
@@ -321,7 +345,7 @@
       "url": "https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "RAINA",
         "url": "https://open.spotify.com/album/75clQ7n29rQkzvGxrW1Btw"
@@ -345,7 +369,7 @@
       "url": "https://open.spotify.com/track/3Hmfcqxxy8OCPhaLJT9QaQ"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Tainu Khabar Nahi (From \"Munjya\")",
         "url": "https://open.spotify.com/album/0cJXodCZCl2EWRNcw6m1eJ"
@@ -365,31 +389,7 @@
       "url": "https://open.spotify.com/track/5npFBWhVs3VVlc0nY5xQMA"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
-      "album": {
-        "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
-        "url": "https://open.spotify.com/album/7p8l83GzCSkQic9yxPJmGR"
-      },
-      "artists": [
-        {
-          "name": "Vishal Bhardwaj",
-          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        }
-      ],
-      "duration_ms": 304134,
-      "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
-      "url": "https://open.spotify.com/track/5Kmpdwhvv2mk9rlW0Km6TJ"
-    },
-    {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Kalank (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/7G5wpuR61ABrT7R1snos7C"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
         "url": "https://open.spotify.com/album/3abedjI3sFEqUI7hNu0yzF"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/39aHB0LHPLDZNwVhMf3DNH"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Raees (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5htEa8wThL3TBnRLmsuxzD"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/1J9vyEntJ79CppvgUxJs75"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Gadar 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Chaleya (From \"Jawan\")",
         "url": "https://open.spotify.com/album/7zAITOBN6eG4UBm4IapAik"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
         "url": "https://open.spotify.com/album/5FtQVEQsWzRcpqh820ZoII"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/06LCamFUOtImIKi9mFRKiD"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Tenu Sang Rakhna (From \"Jigra\")",
         "url": "https://open.spotify.com/album/3Yi3HyE86jKrOJQBhIRKO5"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/0Yf9Tgv5f55njDQeuRUnQH"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Padman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2sUawhYyxtLryh34rA4sop"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0EwRpK9wY6lHfcJSt82w4x"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Sanam Re",
         "url": "https://open.spotify.com/album/5xP2I1UDXhE7D4GpMOoZY9"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/0CVfovmUv7BnemOyTtOcbL"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Half Girlfriend (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6MJDmQZ0BDR3pw6m2oFc03"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/3oNVqllTnz7bHrY3f0nICg"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Rustom (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/78QGeq3kPu6bBNpYXUAR60"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/190P8pyw8J4gr6ygwUlG3z"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Kedarnath (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Kesari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3hdOKtAGjNOJckzjOrgTmN"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/276OSoX4vez6UtPF8TGWav"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Chhichhore",
         "url": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Kesariya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/1HeX4SmCFW4EPHQDvHgrVS"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Lutt Putt Gaya (From \"Dunki\")",
         "url": "https://open.spotify.com/album/06griqizTDBczBxvgB91el"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/72Z2D7jpKevicRkyL45mbw"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Befikre",
         "url": "https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Chhichhore",
         "url": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Ludo",
         "url": "https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Oonchi Oonchi Deewarein (From \"Yaariyan 2\")",
         "url": "https://open.spotify.com/album/4j3UkSRlAyWElz9VNf7toV"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/4EAxNKJQEIIcivG82cU5LM"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Tera Fitoor (From \"Genius\")",
         "url": "https://open.spotify.com/album/4eF3oOh8jyVwUryRUsvODW"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/68nqVf3mY2aReIVN6xXavH"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Ek Villain",
         "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/0l6g8Z8mqGbGXFOjigYetD"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Shayad (From \"Love Aaj Kal\")",
         "url": "https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Thodi Jagah (From \"Marjaavaan\")",
         "url": "https://open.spotify.com/album/4DZ2mXEtUDsltgPqGwnRDd"
@@ -1033,7 +1033,7 @@
       "url": "https://open.spotify.com/track/3f0wz6zcA7XkQiGm0qNF5r"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Ae Dil Hai Mushkil Title Track (From \"Ae Dil Hai Mushkil\")",
         "url": "https://open.spotify.com/album/5G7pAy1rJRhSvzwPbPvMAo"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/79jYT83v4bMOWEgwjQxSx2"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Airlift",
         "url": "https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju"
@@ -1077,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Bolna (From \"Kapoor & Sons (Since 1921)\")",
         "url": "https://open.spotify.com/album/0wzJaFTmOlIGokjoNJ9loW"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/3GrCQPpKqKzOcKfMAoqn82"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/1hPrjTLgnaAlEmDIDtfd5X"
@@ -1117,7 +1117,7 @@
       "url": "https://open.spotify.com/track/75p6BrziB5urmwPCeXl3y7"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Sunny Sanskari Ki Tulsi Kumari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx"
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs"
     },
     {
-      "added_at": "2026-02-27 04:08:46",
+      "added_at": "2026-03-19 12:25:40",
       "album": {
         "name": "Sitaare (From \"Ikkis\")",
         "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"

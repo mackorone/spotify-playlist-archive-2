@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Dancefleur Dream (Dance Rituals)",
+        "url": "https://open.spotify.com/album/4Wppqf7QALWWe22dRrhSS4"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Dancefleur Dream - Dance Rituals",
+      "url": "https://open.spotify.com/track/7xnnj73WCoRnWUveOWrS9f"
+    },
+    {
+      "album": {
         "name": "Italianissimo EP",
         "url": "https://open.spotify.com/album/0nHgSQx4sKmFItKIm8M8rt"
       },
@@ -6158,7 +6176,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 254090,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/2tqgGbISrFLxIWaKiGqPJQ"
@@ -6348,6 +6366,24 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "album": {
+        "name": "Remember Who You Are",
+        "url": "https://open.spotify.com/album/2JZ9v11Hfhbvk5AtW3Pgyo"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224140,
+      "name": "Remember Who You Are",
+      "url": "https://open.spotify.com/track/3tblXmky5Yxp4egimxx5t8"
     },
     {
       "album": {
@@ -8250,7 +8286,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 218052,
       "name": "Up To You",
       "url": "https://open.spotify.com/track/0UZsygTBXsbzeECoZ4yAq5"

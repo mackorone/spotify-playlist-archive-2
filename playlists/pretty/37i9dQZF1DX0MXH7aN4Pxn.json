@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731240,
+  "num_followers": 731219,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "No More Idols",
+        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
         "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "No More Idols",
-        "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Blind Faith",
-      "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Sippin",
         "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 158075,
       "name": "Sippin",
       "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1967,22 +1967,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Mitsubishi (feat. Muki)",
-        "url": "https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC"
+        "name": "Under The Sun (with Alok)",
+        "url": "https://open.spotify.com/album/4PP92BFZLs8PMzJoKtNn5I"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
         },
         {
-          "name": "Muki",
-          "url": "https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1"
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         }
       ],
-      "duration_ms": 176021,
-      "name": "Mitsubishi (feat. Muki)",
-      "url": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H"
+      "duration_ms": 165743,
+      "name": "Under The Sun (with Alok)",
+      "url": "https://open.spotify.com/track/59ySremqxhrlZnCuNrqf1Y"
     }
   ],
   "unique_name": "PARTY MODE",

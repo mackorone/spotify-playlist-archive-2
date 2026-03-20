@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267533,
+      "name": "The Life",
+      "url": "https://open.spotify.com/track/46KZYSiZk2XxtNkRDTdnHb"
+    },
+    {
+      "album": {
         "name": "The Phoenix",
         "url": "https://open.spotify.com/album/1osrjRDfILTRwYVzwKrRfO"
       },

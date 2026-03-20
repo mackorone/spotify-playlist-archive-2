@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > <a href="spotify:presents:decodingarirang">Decoding ARIRANG </a> featuring: <a href="spotify:presents:decodingarirang?code=RM4X71"> RM </a>, <a href="spotify:presents:decodingarirang?code=JI2AL3"> Jin </a>, <a href="spotify:presents:decodingarirang?code=SG3MK1"> SUGA </a>, <a href="spotify:presents:decodingarirang?code=JH4LQ1"> j\-hope </a>, <a href="spotify:presents:decodingarirang?code=JM5XB2"> Jimin </a>, <a href="spotify:presents:decodingarirang?code=VV5KX3"> V </a>, and <a href="spotify:presents:decodingarirang?code=JK77H4"> Jung Kook </a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,946,304 likes - 296 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,952,777 likes - 296 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

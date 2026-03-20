@@ -1,6 +1,6 @@
 {
   "description": "Chill r&b. Cover: Lekan",
-  "num_followers": 2369489,
+  "num_followers": 2369504,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
@@ -416,12 +416,12 @@
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 218122,

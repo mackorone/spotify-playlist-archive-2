@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65067,
+  "num_followers": 65066,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -649,6 +649,22 @@
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
     },
     {
+      "added_at": "2022-01-14 03:44:06",
+      "album": {
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Prieto",
+          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
+        }
+      ],
+      "duration_ms": 458280,
+      "name": "Horizonte Lejano",
+      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "What's The Rush? (Remastered)",
@@ -663,6 +679,22 @@
       "duration_ms": 403946,
       "name": "Temporary Insanity",
       "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 198083,
+      "name": "La Franca",
+      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -685,36 +717,20 @@
       "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
     },
     {
-      "added_at": "2024-08-29 03:09:23",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+        "name": "La Instituci\u00f3n Te Reclama",
+        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
       },
       "artists": [
         {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+          "name": "David Chanson",
+          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
         }
       ],
-      "duration_ms": 198083,
-      "name": "La Franca",
-      "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
-    },
-    {
-      "added_at": "2022-01-14 03:44:06",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Prieto",
-          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
-        }
-      ],
-      "duration_ms": 458280,
-      "name": "Horizonte Lejano",
-      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
+      "duration_ms": 349008,
+      "name": "Entronque",
+      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -747,22 +763,6 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "La Instituci\u00f3n Te Reclama",
-        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
-      },
-      "artists": [
-        {
-          "name": "David Chanson",
-          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
-        }
-      ],
-      "duration_ms": 349008,
-      "name": "Entronque",
-      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
     },
     {
       "added_at": "2021-07-28 16:44:28",

@@ -483,6 +483,40 @@
     },
     {
       "album": {
+        "name": "6X1",
+        "url": "https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "6X1",
+      "url": "https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi"
+    },
+    {
+      "album": {
         "name": "7 Meiota",
         "url": "https://open.spotify.com/album/48aImzLYN7EO5RTsJSKXjW"
       },
@@ -11760,7 +11794,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 96536,
       "name": "MODA 2",
       "url": "https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw"
@@ -12894,7 +12928,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152158,
       "name": "Number One",
       "url": "https://open.spotify.com/track/5cWEZixlL2o2CKGTT0VEYT"
@@ -15642,6 +15676,32 @@
       "duration_ms": 180651,
       "name": "Refil de Whisky",
       "url": "https://open.spotify.com/track/1oIHYi7EM3FJxGORXQffb8"
+    },
+    {
+      "album": {
+        "name": "REI DOS CAMAROTE",
+        "url": "https://open.spotify.com/album/5oUbnObKLxI7AxqXfhMvSp"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        },
+        {
+          "name": "DKmixx",
+          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "REI DOS CAMAROTE",
+      "url": "https://open.spotify.com/track/0iW7XkTUG3IooxTA19etH4"
     },
     {
       "album": {

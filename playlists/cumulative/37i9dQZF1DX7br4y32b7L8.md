@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist
 
-864 songs - 1 day 19 hr 24 min
+865 songs - 1 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Barbaras Rhabarberbar](https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W) | [Bodo Wartke](https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Zungenbrecher 4.0 \- Staffel 4](https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC) | 1:25 | 2024-03-06 | 2024-08-02 |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2023-06-26 | 2023-07-11 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-07-10 | 2023-11-01 |
+| [Bare Minimum \(Starboy\)](https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Bare Minimum \(Starboy\)](https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j) | 2:26 | 2026-03-19 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-05-01 | 2023-07-14 |
 | [Beachclub](https://open.spotify.com/track/0kLr2EDbfeMOyhgWbluBWl) | [Koen](https://open.spotify.com/artist/6vwz7HydONQujdnKzrsSUf), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Beachclub](https://open.spotify.com/album/5gC1HRsXewur0q2UajAZuU) | 2:01 | 2023-08-07 | 2023-11-10 |
 | [Beanie](https://open.spotify.com/track/01Mjc6LbGAMiXbgoccl6Hd) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/2kVk1VA2JnBovMvsyGSyT9) | 2:12 | 2024-11-13 | 2024-12-04 |
@@ -859,7 +860,7 @@
 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 | 2025-10-22 |  |
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-17 | 2026-01-15 |
 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 | 2024-07-03 | 2025-02-11 |
-| [Yoga](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Yoga](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) | 3:35 | 2026-03-04 |  |
+| [Yoga](https://open.spotify.com/track/3IJCSQoLF4YzPAKaxq2JLb) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [Yoga](https://open.spotify.com/album/5rzxGeVyCV74SvV5hjLRAU) | 3:35 | 2026-03-04 | 2026-03-20 |
 | [You Will See](https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ) | [You Will See](https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay) | 2:23 | 2024-03-26 | 2024-11-01 |
 | [Young Black & Rich](https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Young Black & Rich](https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV) | 2:35 | 2025-07-08 | 2025-09-16 |
 | [Your Love Is My Drug](https://open.spotify.com/track/3QWMD4DwBJF6VQr60Q7ivW) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Your Love Is My Drug](https://open.spotify.com/album/0miSIOhDvk4GvOK4aSnvG4) | 3:07 | 2025-06-27 | 2025-08-28 |

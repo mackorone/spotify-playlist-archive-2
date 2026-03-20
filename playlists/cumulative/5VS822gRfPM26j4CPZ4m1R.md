@@ -4,7 +4,7 @@
 
 > Playlist
 
-641 songs - 1 day 13 hr 57 min
+642 songs - 1 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Dark Imagination](https://open.spotify.com/track/2HG5pRpERRJ2wbln73lvLS) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 2:59 | 2024-02-23 |  |
 | [Dark Wall](https://open.spotify.com/track/2D97mrnXsqOJIuvTPJjhU2) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 2:31 | 2023-10-25 |  |
 | [Daydream](https://open.spotify.com/track/2budGANfflOJebjUFoIQeA) | [Coral Pink](https://open.spotify.com/artist/4tBONWiDXvYt42kbXueDdY) | [Daydream](https://open.spotify.com/album/7lg30VacocDtXNzLFOgo92) | 3:30 | 2023-10-25 |  |
+| [Deber Ser](https://open.spotify.com/track/0uC3Z9GkPKRTwZev1bvrFf) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Deber Ser](https://open.spotify.com/album/1J3QNTqNdPw5FQl0YS9YvH) | 4:35 | 2026-03-19 |  |
 | [Deer Island](https://open.spotify.com/track/7yLe9IEg8mhzhJndZycKwA) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:10 | 2023-10-25 |  |
 | [Delay](https://open.spotify.com/track/6qkxabFsTPxgVYjQcawOyi) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 2:52 | 2023-10-25 |  |
 | [Derby Daze](https://open.spotify.com/track/2WNy0AZsFinL8qtwdK58Ao) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 3:53 | 2023-10-25 |  |

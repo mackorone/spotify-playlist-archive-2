@@ -4,7 +4,7 @@
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-83 songs - 4 hr 33 min
+84 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,10 +31,11 @@
 | [Contigo](https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:32 | 2025-02-08 |  |
 | [Contigo Na' Ma](https://open.spotify.com/track/3aP5oa388fSueGlxybGCj2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:39 | 2025-09-01 | 2025-09-30 |
 | [Day By Day](https://open.spotify.com/track/5ydWZFeCPA8GTrqlVJZ9h2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:18 | 2023-11-10 | 2025-03-03 |
+| [Detalles](https://open.spotify.com/track/096jMYuaNreIRkEQ4EuM5Z) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Chambao 25 Aniversario](https://open.spotify.com/album/49fgCXV3zoBSdUhsGl6V7A) | 3:25 | 2026-03-20 |  |
 | [Divina](https://open.spotify.com/track/3Okh7qw2zSwrS9AST3SSUx) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:27 | 2025-02-04 |  |
 | [Divina \- En Vivo Coliseo de Puerto Rico](https://open.spotify.com/track/18cnKKqYMWyCGDYoBZUGT9) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Divina \(En Vivo Coliseo de Puerto Rico\)](https://open.spotify.com/album/3CmeFFS7qeZFdsohBBPqut) | 3:31 | 2026-01-25 | 2026-02-22 |
 | [Donde Hubo Amor](https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:38 | 2023-11-10 |  |
-| [Duele Amarte Así \(feat\. Pedro Capó\)](https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:48 | 2023-11-10 |  |
+| [Duele Amarte Así \(feat\. Pedro Capó\)](https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:48 | 2023-11-10 | 2026-03-20 |
 | [Dulce Soledad](https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 2:18 | 2025-02-05 |  |
 | [El Aprendiz \(with Pedro Capó\) \- En Vivo Desde Guanajuato](https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq) | [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Me Quito el Sombrero \(En Vivo Desde Guanajuato\)](https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ) | 4:23 | 2023-11-10 |  |
 | [El Tiempo Dirá](https://open.spotify.com/track/5jOWMWidQD51Y4vUeVsCjZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:24 | 2025-02-21 | 2026-02-22 |

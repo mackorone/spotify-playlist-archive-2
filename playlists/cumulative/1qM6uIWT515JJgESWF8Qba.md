@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-186 songs - 11 hr 38 min
+187 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 |  |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 | 2026-01-21 |
 | [Money Makes Money](https://open.spotify.com/track/7262GNW8eQtESLlmOY5dy8) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:36 | 2026-01-06 | 2026-02-02 |
+| [Money Tied The Knot](https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 2:24 | 2026-03-19 |  |
 | [Monkfish](https://open.spotify.com/track/4BvBGq0OroqEMATekQq2EW) | [Salad Days.](https://open.spotify.com/artist/1ogzEwTOLBa4ryvx0xgbP1) | [Monkfish](https://open.spotify.com/album/3l2BZD1mTenRPY5wkJRblP) | 4:01 | 2026-01-15 | 2026-02-23 |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-12-23 | 2026-01-21 |
 | [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 | 2025-12-16 | 2026-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,554 likes - 543 songs - 1 day 11 hr 35 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,561 likes - 551 songs - 1 day 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -551,5 +551,13 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 541 | [PINE BARRENS](https://open.spotify.com/track/4rXPslBAEpEmo1ywklkzyc) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:49 |
 | 542 | [LIKE TOTALLY FREAK ME OUT](https://open.spotify.com/track/7xcmS4PaNKDQp2yB3Ad01A) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:04 |
 | 543 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
+| 544 | [Raven](https://open.spotify.com/track/4z9DJzuI38uhemsY0YUd07) | [Oliver Good](https://open.spotify.com/artist/12pVaqQ3ZVT9rpr6zslXZd) | [STELLAR BLADE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0ImRpX3Ce1Gr7MWH4vehzw) | 5:23 |
+| 545 | [ONLINE](https://open.spotify.com/track/3vTZQv1f95rJaS6W8xIROT) | [Atari Music](https://open.spotify.com/artist/7GbzFLcfG1xVBfHWR4OHt1), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [The Sound of Yars Rising \(Official Game Soundtrack\)](https://open.spotify.com/album/5ZmrKAzZpWlXYm9P44qkHX) | 3:28 |
+| 546 | [Clutch](https://open.spotify.com/track/3PnMkNdShK5RBQmLGHL5Qv) | [STRLGHT](https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx) | [Mass Hysteria](https://open.spotify.com/album/6bx6OvSo3s5YcPN91PXfPo) | 2:39 |
+| 547 | [Keep Riding Me](https://open.spotify.com/track/1tX1GK4bLfoS9oDIIbhYAv) | [ur pretty](https://open.spotify.com/artist/5m9PQtVJ9ZZVWgb3t2nTMN) | [Keep Riding Me](https://open.spotify.com/album/4kN9CRrkFvXfiadphIZhwX) | 2:21 |
+| 548 | [Keep Riding Me](https://open.spotify.com/track/5q1wPhQBMXCVvbzHCchuI0) | [ShiaBun](https://open.spotify.com/artist/10jX9uQfjTO6Sxt3kXUIac) | [Keep Riding Me](https://open.spotify.com/album/0xRyKQnGMTDG5bRVkVGikr) | 2:21 |
+| 549 | [Shower Song](https://open.spotify.com/track/6ur9gl1CnAMzM0gww5Yqhf) | [Alpha Aniki](https://open.spotify.com/artist/3ngVPljHDJlR8UB69LLK98), [Isaak Wolf](https://open.spotify.com/artist/1jJzuhgUaCarfJG7PFbcQL) | [Shower Song](https://open.spotify.com/album/2xvxzvtBt9upIcJPXv2IvG) | 2:50 |
+| 550 | [The Fall](https://open.spotify.com/track/7IKwkNZzI8Xtazydcl1rEF) | [NOMARKMORE](https://open.spotify.com/artist/2MWLcIknPfRiaIktptiPil) | [Exhibition Number Zero](https://open.spotify.com/album/7oeji3p37n2WRtP3bZZc7X) | 3:14 |
+| 551 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 
-Snapshot ID: `AAABYnNUT8ZYekG/F4aWhYC1WJhwS3Y8`
+Snapshot ID: `AAABasL2eszaAvo3PJivdrhAad+BnUEt`

@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-161 songs - 8 hr 53 min
+162 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Sedona](https://open.spotify.com/track/7b7ILSiNTtbn16VYqvIqrG) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Sedona](https://open.spotify.com/album/7mIpzHi8pyp4pYudim7zwh) | 4:15 | 2025-12-03 | 2025-12-14 |
 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-12-03 |  |
 | [SEEK](https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [SEEK](https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp) | 2:41 | 2025-12-03 |  |
-| [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 | 2025-12-03 |  |
+| [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 | 2025-12-03 | 2026-03-20 |
 | [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 | 2024-12-04 | 2025-12-04 |
 | [she ain't texas](https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [she ain't texas](https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx) | 4:05 | 2024-12-04 | 2025-12-04 |
 | [She Likes a Boy](https://open.spotify.com/track/062xVECDI7YZqOgdEtWlVs) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/0Bb603aWr6BO3VjDgptTio) | 2:09 | 2024-12-04 | 2025-12-04 |
@@ -158,6 +158,7 @@
 | [Unravel](https://open.spotify.com/track/4sbpgpAo9Lud8XXib5xPZO) | [Guinevere](https://open.spotify.com/artist/0SdOBSTmq4qpS3Qxb6NvDn) | [Unravel](https://open.spotify.com/album/4ztRjOz5dFnwbFXiAw6t6L) | 4:02 | 2024-12-04 | 2025-12-04 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-12-03 |  |
 | [Virtual Hug](https://open.spotify.com/track/0QZEBlTEC1ExBARHuzk50H) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Heart of the Artichoke](https://open.spotify.com/album/01Y6gij1vhxRlST9TEfDSK) | 3:09 | 2024-12-04 | 2025-12-04 |
+| [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 | 2025-12-03 |  |
 | [WAKE UP](https://open.spotify.com/track/6Rn0E6cj7o9y1HreiMv0Aw) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [WAKE UP](https://open.spotify.com/album/3mI0rvBdda0WogdFHQI2Uu) | 2:44 | 2024-12-04 | 2025-12-04 |
 | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 | 2024-12-04 | 2025-12-04 |
 | [Why Is It Light Out?](https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Why Is It Light Out?](https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm) | 4:02 | 2024-12-04 | 2025-12-04 |

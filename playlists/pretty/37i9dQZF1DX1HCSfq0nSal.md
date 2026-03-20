@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Gracias por las sugerencias, añadidos los temas más pedidos.<br/>Feat\. Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,471 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,448 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

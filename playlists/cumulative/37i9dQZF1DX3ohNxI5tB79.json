@@ -7157,6 +7157,32 @@
     },
     {
       "album": {
+        "name": "You Got to Feel It",
+        "url": "https://open.spotify.com/album/6Z3ClVmovq0NLwwRgPW4ge"
+      },
+      "artists": [
+        {
+          "name": "Nao Yoshioka",
+          "url": "https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        },
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "You Got to Feel It",
+      "url": "https://open.spotify.com/track/5soaQgOH24Vu24Okl5WM18"
+    },
+    {
+      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
       },

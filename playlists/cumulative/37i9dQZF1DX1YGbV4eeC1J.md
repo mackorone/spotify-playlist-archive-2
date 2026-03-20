@@ -2,15 +2,16 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Watendawili
+> What is your love language? Say it in Swahili\.  Cover: Kethan
 
-345 songs - 19 hr 22 min
+346 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2025](https://open.spotify.com/track/6uYvA5SG0fEBMRd5jTs2wf) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR) | [2025](https://open.spotify.com/album/7J8FtcTu6PCLhlKjA9JNbi) | 3:18 | 2024-08-30 |  |
 | [Abee](https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Abee](https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn) | 3:09 | 2023-11-30 | 2024-04-05 |
 | [African Girl](https://open.spotify.com/track/43jov3soAgRlQtC8mfKM58) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Joh Marley](https://open.spotify.com/artist/6IVRhkrCpt2PQxqY5Y39yz) | [African Girl](https://open.spotify.com/album/2NvEWfNVQnbq3eX3td3z1k) | 3:35 | 2024-01-25 | 2024-05-03 |
+| [Aje](https://open.spotify.com/track/3ZnHvodgfo2Wzo10z9oZPX) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Aje](https://open.spotify.com/album/1BpeAxmgnX9cjgrcoOnLCj) | 3:49 | 2026-03-19 |  |
 | [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2022-05-26 | 2022-10-28 |
 | [All I Need](https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [All I Need](https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp) | 3:07 | 2023-10-26 | 2024-02-23 |
 | [Aló](https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Aló](https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex) | 2:56 | 2023-12-22 | 2024-04-19 |
@@ -127,7 +128,7 @@
 | [Kiss Me](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:03 | 2025-08-14 |  |
 | [Komando](https://open.spotify.com/track/4H8j1OrVUVGk9b7lkyfJHf) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Komando](https://open.spotify.com/album/57ejAmwWLxZD6qviYZ9etd) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Kukupenda](https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP) | [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3) | [Kukupenda](https://open.spotify.com/album/1nsDxtG4GX7aMgAQ1QTTo7) | 3:32 | 2024-06-14 | 2024-06-21 |
-| [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 | 2025-01-09 |  |
+| [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 | 2025-01-09 | 2026-03-20 |
 | [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/album/0pTKNetIIghEtDHembZlje) | 2:10 | 2025-08-14 |  |
 | [Lalala](https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Lalala](https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl) | 2:40 | 2024-02-29 | 2024-06-14 |
 | [Lazizi \- Spotify Singles \- Cover](https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Lazizi \- Spotify Singles \(Cover\)](https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce) | 4:40 | 2023-11-03 | 2024-04-19 |

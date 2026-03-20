@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Patrick Brasca \u6d3e\u5049\u4fca",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u97cb\u79ae\u5b89 Weibird",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -6272,7 +6272,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 197954,
       "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
       "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
@@ -7670,6 +7670,24 @@
       "duration_ms": 176153,
       "name": "\u53cd\u8986\u62c9\u626f",
       "url": "https://open.spotify.com/track/3zFr8ABoWIJm1u4UdSnpmu"
+    },
+    {
+      "album": {
+        "name": "LOVE WEI BACK Vol.2",
+        "url": "https://open.spotify.com/album/7Mdh3Pw8EZViS9e1wmirSN"
+      },
+      "artists": [
+        {
+          "name": "WeiBird",
+          "url": "https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269649,
+      "name": "\u53cd\u9396",
+      "url": "https://open.spotify.com/track/2sQHLZyFmGT0gIpr0E2eHb"
     },
     {
       "album": {
@@ -11136,7 +11154,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 173333,
       "name": "\u60e1\u99ac\u60e1\u4eba\u9a0e",
       "url": "https://open.spotify.com/track/0Uq0hC6Ay6twQ1lSpllCAo"
@@ -11226,7 +11244,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "\u60f3\u554f",
       "url": "https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5"
@@ -15734,7 +15752,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 192992,
       "name": "\u6c89\u9ed8\u90a3\u9ebc\u7684\u75db",
       "url": "https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM"
@@ -16356,6 +16374,24 @@
       "duration_ms": 170181,
       "name": "\u6df1\u7231\u7684\u4f60",
       "url": "https://open.spotify.com/track/3beJucbnWJmuCrbmGDZt8X"
+    },
+    {
+      "album": {
+        "name": "\u6e1b\u50b7",
+        "url": "https://open.spotify.com/album/7AVDlo3SephY6I9DBtlhcF"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200909,
+      "name": "\u6e1b\u50b7",
+      "url": "https://open.spotify.com/track/4jqh9HVVGVhr5NOjJ7Cabu"
     },
     {
       "album": {
@@ -18136,7 +18172,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 215328,
       "name": "\u7b49\u70df\u706b\u7167\u4eae\u6211 - \u300a\u6709\u4e00\u5929\u300b\u4e2d\u6587\u7248",
       "url": "https://open.spotify.com/track/3Q3KPP4IDdcH9hlEtlrg5Y"
@@ -19360,7 +19396,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 150000,
       "name": "\u897f\u5cb8\u5c0f\u6cd5\u5492",
       "url": "https://open.spotify.com/track/3CJXCELQP2I62NN6OgOyvA"

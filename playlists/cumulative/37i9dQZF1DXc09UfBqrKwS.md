@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-946 songs - 1 day 20 hr 56 min
+947 songs - 1 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Destello Cosmico](https://open.spotify.com/track/3AcEjvJHGwJBWVVHHZYKIc) | [Universo](https://open.spotify.com/artist/1Ww4X8PlwRBiocjYoAoQ4N) | [Destello Cosmico](https://open.spotify.com/album/2SPHK8VZRckwgl2k3UwwNs) | 2:45 | 2025-01-08 |  |
 | [Developmental Process](https://open.spotify.com/track/5GnKoJzAANzdLmAc1fClLy) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Developmental Process](https://open.spotify.com/album/5Rsg120PXR7nqhJwh79ij8) | 3:02 | 2025-12-17 |  |
 | [Different Worlds](https://open.spotify.com/track/7csZm64U1maWUQH4qNbayP) | [Aether Deem](https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4) | [Different Worlds](https://open.spotify.com/album/27xnNVop1EWk8bByr70r4o) | 2:30 | 2025-12-17 |  |
-| [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/3IbBAK3p67A2nrqvUCbRwT) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 | 2025-09-23 |  |
+| [Dignidade](https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Dignidade](https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4) | 2:39 | 2025-09-23 |  |
 | [Dignity](https://open.spotify.com/track/4vFL08pP0H9RDUVj05qXyL) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Dignity](https://open.spotify.com/album/6sk6xBBjIWn7JXVnJHwuLm) | 2:46 | 2025-03-19 |  |
 | [Dimmed Light](https://open.spotify.com/track/7zNoicQ4RSRfWzyMH9uf4j) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Dimmed Light](https://open.spotify.com/album/7CHL1omMAmsCF9B25bT11e) | 2:59 | 2025-02-26 | 2025-12-17 |
 | [Distant Dreams](https://open.spotify.com/track/05XqOIQ7J4mO4ZyOFIoz5L) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Distant Dreams](https://open.spotify.com/album/6M5JYrM1JhzIXe5vIDWZcB) | 3:59 | 2023-03-31 | 2024-02-09 |
@@ -697,6 +697,7 @@
 | [Ridges](https://open.spotify.com/track/6Q3WHEYkQ54apZl6WoFyQu) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Ridges](https://open.spotify.com/album/5QPmwgdpIy1rjFGazOFDpC) | 3:45 | 2023-03-31 | 2024-02-09 |
 | [Rituals](https://open.spotify.com/track/6amYDqp1Jctu3jbFGIFzaT) | [Aurora Chamber](https://open.spotify.com/artist/5RskfD8FI7hAdPYRLno1OX) | [Rituals](https://open.spotify.com/album/5ipVpC156LAZdVwgE6JApj) | 2:50 | 2025-12-17 |  |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2023-03-31 | 2024-02-09 |
+| [River Of Reflection](https://open.spotify.com/track/7ccQEYerekWy7t06MUo8GG) | [Ethereal Nexus](https://open.spotify.com/artist/2n6EstH6raQHsVPAz4zIYI) | [River Of Reflection](https://open.spotify.com/album/4U8Bkobac8aIrdZawBcmc7) | 2:55 | 2026-03-11 |  |
 | [Rooted](https://open.spotify.com/track/2qegphyohaqW4UZVpHxERI) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Rooted](https://open.spotify.com/album/6yJQRwrmBlA7JQTHcbswq6) | 3:06 | 2026-03-11 |  |
 | [Royal Cubit](https://open.spotify.com/track/1PhMMm4HZgwJI97RXAuFg6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Royal Cubit](https://open.spotify.com/album/0iShyFMcuswRzJDvV9ATz8) | 3:22 | 2024-03-20 | 2025-07-29 |
 | [Sable Horizon](https://open.spotify.com/track/0xjkXpjEWTtGC0QvcVbDwr) | [Ethereon](https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq) | [Sable Horizon](https://open.spotify.com/album/1m5foIzzRHOMW6ZepBIbAG) | 3:08 | 2025-06-03 | 2026-03-05 |
@@ -818,7 +819,7 @@
 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 | 2023-03-31 | 2024-02-09 |
 | [Stories](https://open.spotify.com/track/0ETgVH10Y5yiljMWO5kNtV) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Stories](https://open.spotify.com/album/6rxRh7wYIckgED89wMQwE5) | 2:52 | 2023-03-31 | 2024-02-09 |
 | [Storm](https://open.spotify.com/track/1VRfy2xysk0ekJQboMPGEr) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Storm](https://open.spotify.com/album/2bbVxJefZu3V3zsJdnA2FU) | 2:36 | 2024-02-08 | 2025-01-09 |
-| [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 |  |
+| [Stress Reliever](https://open.spotify.com/track/5y6Cy93KwBgAuL2Il5YXN7) | [Tuscany Flow](https://open.spotify.com/artist/6oMNHqt2Amt55TwRg2FhbH) | [Stress Reliever](https://open.spotify.com/album/2hezA7VkyAiKBzUrXGpB3k) | 3:10 | 2024-06-18 | 2026-03-20 |
 | [Suavidade](https://open.spotify.com/track/4F0muRT2KxqONuS4PwE44V) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Suavidade](https://open.spotify.com/album/7q3Ix7F4HOKYpzCxcCE5qz) | 3:25 | 2025-02-04 |  |
 | [Suavizar El Dolor](https://open.spotify.com/track/0IhzSLcbaRlqH896WDTRot) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar El Dolor](https://open.spotify.com/album/1eepNMy4qQaYaKt6zUuc8n) | 2:07 | 2024-03-06 | 2024-04-19 |
 | [Suavizar el Dolor](https://open.spotify.com/track/16Tey0pRs8HqVFwAHbWoio) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Suavizar el Dolor](https://open.spotify.com/album/4zCajE0HiF7u1sn93Qx5wP) | 2:07 | 2024-04-05 | 2024-07-10 |

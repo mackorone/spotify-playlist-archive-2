@@ -291,6 +291,22 @@
     {
       "added_at": "2026-03-16 02:22:21",
       "album": {
+        "name": "When I stop thinking",
+        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 282453,
+      "name": "Dear love",
+      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
+    },
+    {
+      "added_at": "2026-03-16 02:22:21",
+      "album": {
         "name": "Microhabitat",
         "url": "https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 167999,
       "name": "Microhabitat (feat. Kim gyeol)",
       "url": "https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r"
-    },
-    {
-      "added_at": "2026-03-16 02:22:21",
-      "album": {
-        "name": "When I stop thinking",
-        "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 282453,
-      "name": "Dear love",
-      "url": "https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF"
     },
     {
       "added_at": "2026-03-16 02:22:21",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-16 02:22:21",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
-    },
-    {
-      "added_at": "2026-03-16 02:22:21",
-      "album": {
         "name": "Fine",
         "url": "https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 251866,
       "name": "Fine",
       "url": "https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01"
+    },
+    {
+      "added_at": "2026-03-16 02:22:21",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2026-03-16 02:22:21",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-03-16 02:22:21",
       "album": {
-        "name": "Broken Heart",
-        "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv"
       },
       "artists": [
         {
-          "name": "Norwegian Wood",
-          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
         }
       ],
-      "duration_ms": 238575,
-      "name": "Hug Me (I'm In Your Arms)",
-      "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
+      "duration_ms": 191945,
+      "name": "of the waves",
+      "url": "https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq"
     },
     {
       "added_at": "2026-03-16 02:22:21",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-03-16 02:22:21",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv"
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
       },
       "artists": [
         {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
         }
       ],
-      "duration_ms": 191945,
-      "name": "of the waves",
-      "url": "https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq"
+      "duration_ms": 238575,
+      "name": "Hug Me (I'm In Your Arms)",
+      "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

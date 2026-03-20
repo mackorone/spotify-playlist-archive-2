@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,189 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,205 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 23 | [Missen Zou](https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Missen Zou](https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE) | 2:47 |
 | 24 | [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 |
 | 25 | [Gooi 'm Dicht](https://open.spotify.com/track/3OVqGh1AJlrjLThO3S6LAn) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Gooi 'm Dicht](https://open.spotify.com/album/1n3tJ1eFmoEtmV2fSRwLsN) | 2:32 |
-| 26 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |
-| 27 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 |
+| 26 | [Doe Je Dansie](https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Doe Je Dansie](https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv) | 2:28 |
+| 27 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |
 | 28 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 | 29 | [Honderd Keer](https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Honderd Keer](https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo) | 3:16 |
 | 30 | [Lichaamstaal](https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n) | [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP), [SHQQ](https://open.spotify.com/artist/6vi2JBAG0l35nszvlOfcAr), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Lichaamstaal](https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62) | 2:28 |

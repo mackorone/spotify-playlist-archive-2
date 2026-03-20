@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Nicol\u00f2 Filippucci",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Sally Cruz",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "io Individuo",
+        "url": "https://open.spotify.com/album/31bkDaSjWXeCnc18BfkpaY"
+      },
+      "artists": [
+        {
+          "name": "nayt",
+          "url": "https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Addio xx",
+      "url": "https://open.spotify.com/track/5uqqtENVvjMHwJjwhA0ygT"
+    },
+    {
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/6XxvQNfV0vhA3KWFCE0g8B"
       },
@@ -1037,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "ANCORA",
+        "url": "https://open.spotify.com/album/0UVmCwuninL78hS7RUYq5L"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153277,
+      "name": "ANCORA",
+      "url": "https://open.spotify.com/track/0wpHfNrcHhorXg5hAShozc"
+    },
+    {
+      "album": {
         "name": "Ancora un minuto",
         "url": "https://open.spotify.com/album/7qLIFQSH0hbvt9wjTi6dIa"
       },
@@ -1312,6 +1348,24 @@
       "duration_ms": 183321,
       "name": "Arsenico",
       "url": "https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw"
+    },
+    {
+      "album": {
+        "name": "ASPETTANDO PRIMAVERA",
+        "url": "https://open.spotify.com/album/7bfqIMoMmxl6DCXGYSOHGL"
+      },
+      "artists": [
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154434,
+      "name": "ASPETTANDO PRIMAVERA",
+      "url": "https://open.spotify.com/track/7MyzOTWTUIB2gczr0nCdu3"
     },
     {
       "album": {
@@ -3025,6 +3079,24 @@
     },
     {
       "album": {
+        "name": "casa mia",
+        "url": "https://open.spotify.com/album/1CPXTkrON4AeyNEiwbngQk"
+      },
+      "artists": [
+        {
+          "name": "Dae",
+          "url": "https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "casa mia",
+      "url": "https://open.spotify.com/track/4asnXnpnLxhaLyNpbqHLRA"
+    },
+    {
+      "album": {
         "name": "CHI AMA NON DIMENTICA",
         "url": "https://open.spotify.com/album/0fnLXLFy55LD2UCeIVBo6B"
       },
@@ -3655,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Colline toscane",
+        "url": "https://open.spotify.com/album/0AFVpXWTrgzoQwh5lrCohB"
+      },
+      "artists": [
+        {
+          "name": "SCAR",
+          "url": "https://open.spotify.com/artist/2COZ1UNN4kWa65mYMVH1JZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194481,
+      "name": "Colline toscane",
+      "url": "https://open.spotify.com/track/5Cr9H5Is1GPtXhGU45EDSO"
+    },
+    {
+      "album": {
         "name": "wax",
         "url": "https://open.spotify.com/album/615jw7ZM5CjeqDdatGrrq2"
       },
@@ -3692,6 +3782,24 @@
       "duration_ms": 130285,
       "name": "Colpa Mia",
       "url": "https://open.spotify.com/track/1O9UvXAnPwFXSccCqB9K2R"
+    },
+    {
+      "album": {
+        "name": "Colpo di stato",
+        "url": "https://open.spotify.com/album/370JybRNO88fVzO7M5y337"
+      },
+      "artists": [
+        {
+          "name": "Sissi",
+          "url": "https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172769,
+      "name": "Colpo di stato",
+      "url": "https://open.spotify.com/track/6HL5aWVABB5ViuM1VMvtOk"
     },
     {
       "album": {
@@ -6057,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "FIGLIO DI P",
+        "url": "https://open.spotify.com/album/54mSzrEGlTKTIOiKnAZ0CY"
+      },
+      "artists": [
+        {
+          "name": "Bett",
+          "url": "https://open.spotify.com/artist/568pseqtkMADgX1DUSzxkj"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "FIGLIO DI P",
+      "url": "https://open.spotify.com/track/71PNIJca0wWxSeu43MT45E"
+    },
+    {
+      "album": {
         "name": "Fila indiana",
         "url": "https://open.spotify.com/album/68GC0n66xwvHhuAL8aJ9rM"
       },
@@ -6166,6 +6292,24 @@
       "duration_ms": 191629,
       "name": "finiscimi",
       "url": "https://open.spotify.com/track/2c0lqanQ7Yz8f7VaAfgqqt"
+    },
+    {
+      "album": {
+        "name": "fino a impazzire",
+        "url": "https://open.spotify.com/album/2nCZhFJPVjbepAX7nWkaGB"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196629,
+      "name": "fino a impazzire",
+      "url": "https://open.spotify.com/track/4gkeol5Zsmer90kdKtZgIs"
     },
     {
       "album": {
@@ -6842,6 +6986,24 @@
       "duration_ms": 173454,
       "name": "Giugno",
       "url": "https://open.spotify.com/track/0DZynk5siVmgLCPVDMytf0"
+    },
+    {
+      "album": {
+        "name": "Giulia",
+        "url": "https://open.spotify.com/album/5wzZeBZSp9snAZdCaaxwkI"
+      },
+      "artists": [
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172559,
+      "name": "Giulia",
+      "url": "https://open.spotify.com/track/3ASV4lMJzAHMrhIW646RfM"
     },
     {
       "album": {
@@ -15463,6 +15625,24 @@
     },
     {
       "album": {
+        "name": "Scomparso",
+        "url": "https://open.spotify.com/album/2tpnV93j0y2gkPEAxU9KbR"
+      },
+      "artists": [
+        {
+          "name": "NDG",
+          "url": "https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134666,
+      "name": "Scomparso",
+      "url": "https://open.spotify.com/track/08RpHWvVDlItEYkLHXecq6"
+    },
+    {
+      "album": {
         "name": "Scusa",
         "url": "https://open.spotify.com/album/4H14ewfokXlCBThQpDdYru"
       },
@@ -16983,6 +17163,24 @@
     },
     {
       "album": {
+        "name": "STUPIDA",
+        "url": "https://open.spotify.com/album/6LkpOdi3MYn99m0Cgz2HfF"
+      },
+      "artists": [
+        {
+          "name": "rob",
+          "url": "https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141270,
+      "name": "STUPIDA",
+      "url": "https://open.spotify.com/track/4NGPyafxftu7QwRoi7S8mt"
+    },
+    {
+      "album": {
         "name": "Stupida Libert\u00e0",
         "url": "https://open.spotify.com/album/7yEiN9dB700F55cpt1shTh"
       },
@@ -17806,6 +18004,24 @@
       "duration_ms": 159397,
       "name": "Tranquillo mai",
       "url": "https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU"
+    },
+    {
+      "album": {
+        "name": "Trasporto Eccezionale",
+        "url": "https://open.spotify.com/album/4g0ZhSsAsEYiIDjpG0ISDY"
+      },
+      "artists": [
+        {
+          "name": "Ube",
+          "url": "https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164317,
+      "name": "Trasporto Eccezionale",
+      "url": "https://open.spotify.com/track/3PANuP58O3ynFqZc13LbQc"
     },
     {
       "album": {

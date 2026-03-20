@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,016 likes - 70 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,121 likes - 70 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 52 | [Só por Ti Jesus](https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA) | [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Minha História](https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c) | 3:56 |
 | 53 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 54 | [Oração pela Paz](https://open.spotify.com/track/2iM87kL2SSVUoRD5v0Gp6M) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Oração pela Paz](https://open.spotify.com/album/1uPyGym4lIjS2hOTYR0Gt1) | 3:41 |
-| 55 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
-| 56 | [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 |
+| 55 | [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 |
+| 56 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
 | 57 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 58 | [Essencial \- Ao Vivo](https://open.spotify.com/track/4GOPtH8a3VAgmtIPc5lzcQ) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Maninho](https://open.spotify.com/artist/14MVRoPX1LC6cm5su44CrM) | [Essencial \(Ao Vivo\)](https://open.spotify.com/album/5MPstyeFYs1xk8mI2PPErW) | 3:40 |
 | 59 | [Restitui](https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Restitui](https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5) | 4:33 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a playlist without boundaries \ud83d\udc90\ncover: beabadoobee & the mar\u00edas",
+  "description": "a playlist without boundaries \ud83e\ude90\ncover: PIXY",
   "name": "Our Generation",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172437,
       "name": "All My Mess",
       "url": "https://open.spotify.com/track/15BuvM6K93OWhahQAc2dTZ"
@@ -2125,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "brb",
+        "url": "https://open.spotify.com/album/4gQyZYV5aQBUpgyOI1K7jl"
+      },
+      "artists": [
+        {
+          "name": "The Two Lips",
+          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156478,
+      "name": "brb",
+      "url": "https://open.spotify.com/track/2S1rtk02tgZSX2zQhVdoYO"
+    },
+    {
+      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 207239,
       "name": "Comfort Food",
       "url": "https://open.spotify.com/track/6RVhm0dPjzPANNCEY10eni"
@@ -3116,6 +3134,24 @@
       "duration_ms": 99373,
       "name": "crickets!!!",
       "url": "https://open.spotify.com/track/5wFONkT1kjKdDVz9jePnRu"
+    },
+    {
+      "album": {
+        "name": "Crocodile Woman",
+        "url": "https://open.spotify.com/album/26r8iB0XKZCFtRPW4w20uh"
+      },
+      "artists": [
+        {
+          "name": "Saam Sultan",
+          "url": "https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266171,
+      "name": "Crocodile Woman",
+      "url": "https://open.spotify.com/track/4UusBRHn8xwrFS9Uokutcz"
     },
     {
       "album": {
@@ -3797,6 +3833,42 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/0Vo4QBLiC7wdCuG58pgRwa"
+      },
+      "artists": [
+        {
+          "name": "Finn Askew",
+          "url": "https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194113,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/41gGYveHrgZoUIHmxRcif8"
+    },
+    {
+      "album": {
+        "name": "Creature of Bad Habits",
+        "url": "https://open.spotify.com/album/20UDuV0GdrAa2IAbb4dizw"
+      },
+      "artists": [
+        {
+          "name": "Harlen",
+          "url": "https://open.spotify.com/artist/2k1NNKMVa0VXuUMsnUbvKj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126121,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1VQWeoNAcCguLrmcuIELJg"
+    },
+    {
+      "album": {
         "name": "Distractions",
         "url": "https://open.spotify.com/album/7qreiiOotAmwHtw7JbesnX"
       },
@@ -4080,6 +4152,24 @@
       "duration_ms": 165186,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2Z9Biqmc0XwwYUVgvIkeiq"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/26MHLlcZIbBkyeIvyeq4Wi"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212897,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0dAj6BkZaBkAUJ8wJxKgCR"
     },
     {
       "album": {
@@ -5610,7 +5700,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 263228,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
@@ -7378,7 +7468,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210586,
       "name": "In Between",
       "url": "https://open.spotify.com/track/1pat9Eyvp7hxrEQ69bBAZ5"
@@ -8146,7 +8236,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 189532,
       "name": "Ladybird",
       "url": "https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy"
@@ -9164,7 +9254,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 180832,
       "name": "MARIGOLD",
       "url": "https://open.spotify.com/track/7yRTBRlM4kW0FOsEJFRs0n"
@@ -9442,6 +9532,24 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "album": {
+        "name": "Miyazaki",
+        "url": "https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Miyazaki",
+      "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
     },
     {
       "album": {
@@ -10723,6 +10831,24 @@
     },
     {
       "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/1yiVOuCt6cgP6lHVNALOrV"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "PASTEL SKIES",
+      "url": "https://open.spotify.com/track/3dMD87OLuqQfvm5EjNQiuH"
+    },
+    {
+      "album": {
         "name": "PE3",
         "url": "https://open.spotify.com/album/3uBk7P0msuy6PNVzrjOfRb"
       },
@@ -11344,7 +11470,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152052,
       "name": "rectangles",
       "url": "https://open.spotify.com/track/25roMo7yEbFbyt6vlbUlQ4"
@@ -11568,7 +11694,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 166514,
       "name": "Romeo + Rachel Chinouriri",
       "url": "https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H"
@@ -12480,7 +12606,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 242926,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/4PGFtcjr0yLaVKVNzdwqGb"
@@ -13117,6 +13243,24 @@
     },
     {
       "album": {
+        "name": "Behind The Wings",
+        "url": "https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
+    },
+    {
+      "album": {
         "name": "Stateside",
         "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
       },
@@ -13200,7 +13344,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 206022,
       "name": "Steady",
       "url": "https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh"
@@ -14079,6 +14223,24 @@
     },
     {
       "album": {
+        "name": "My First Time",
+        "url": "https://open.spotify.com/album/77p8sqJUYp6bGv373QRZyi"
+      },
+      "artists": [
+        {
+          "name": "My First Time",
+          "url": "https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208720,
+      "name": "The Kids Are",
+      "url": "https://open.spotify.com/track/6B9xB5xqjl4JegwjppRQ3f"
+    },
+    {
+      "album": {
         "name": "the kids don't go outside",
         "url": "https://open.spotify.com/album/1eNHAARIdGYKMwfoQHGw0T"
       },
@@ -14886,6 +15048,24 @@
       "duration_ms": 157055,
       "name": "u made a smart girl dumb!!",
       "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
+    },
+    {
+      "album": {
+        "name": "u were here",
+        "url": "https://open.spotify.com/album/3PU6N2VJJEeP32CxMY4kQ0"
+      },
+      "artists": [
+        {
+          "name": "homesick",
+          "url": "https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135436,
+      "name": "u were here",
+      "url": "https://open.spotify.com/track/1LshbuwK8UttXynu0ykn17"
     },
     {
       "album": {

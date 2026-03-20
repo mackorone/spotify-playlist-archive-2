@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עומר אדם
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,739 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,763 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [כולם גנבים](https://open.spotify.com/track/7IYAf32MmX7oCqgnGNT3g8) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Life Lately](https://open.spotify.com/album/3TEETsW2tjzuqXArpb53sz) | 4:01 |
-| 2 | [אהבת השם](https://open.spotify.com/track/0rNhXjwIf1748jqeHo3n6z) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [הוויה \- חלק א'](https://open.spotify.com/album/4fZUiRvlUJrLzW9WNvocrV) | 2:15 |
+| 2 | [אהבת השם](https://open.spotify.com/track/0rNhXjwIf1748jqeHo3n6z) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [חלק א' \- הוויה](https://open.spotify.com/album/4fZUiRvlUJrLzW9WNvocrV) | 2:15 |
 | 3 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
 | 4 | [משפחה וכבוד](https://open.spotify.com/track/64bfvxCPzxyljgC4aPi4vu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 3:01 |
 | 5 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |

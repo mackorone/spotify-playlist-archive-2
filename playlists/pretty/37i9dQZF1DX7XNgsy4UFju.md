@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment\. Cover: Good Kid
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,371 likes - 101 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,369 likes - 101 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

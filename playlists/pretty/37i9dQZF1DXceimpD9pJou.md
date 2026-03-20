@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Emanuel Deliser
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,782 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,794 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 26 | [Cantaremos \(Que Cante La Iglesia\)](https://open.spotify.com/track/1c3kCYHSJWAM4doRN4Bver) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [Cantaremos \(Que Cante La Iglesia\)](https://open.spotify.com/album/5huZc7HBMowjgsBDcZhcrW) | 3:15 |
 | 27 | [Escojo la Vida](https://open.spotify.com/track/2y4CfvaP124RwNyjJXCoW4) | [Santiago Benavides](https://open.spotify.com/artist/1kmI6wp97POUynJvBlxkuR), [Cris Velez](https://open.spotify.com/artist/5Vw576povsUgOarGPvcmQM) | [Andar Sobre el Agua](https://open.spotify.com/album/1hjN4fnsl0oGzR0IIJ7WT5) | 3:28 |
 | 28 | [SÍGUEME](https://open.spotify.com/track/4gL3gWs3J29Du2CrM8s80W) | [Luispo](https://open.spotify.com/artist/628FuQxkeQlwH2QcFzgil5), [OzoresP](https://open.spotify.com/artist/7g2WdxkwctSnq2vMTyVjeW) | [SÍGUEME](https://open.spotify.com/album/5uWvHAVloFrXFsdzzPgK18) | 4:04 |
-| 29 | [Vencio](https://open.spotify.com/track/2pri22zuE30r6F7wXfia1P) | [YADAH](https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1), [Álvaro López](https://open.spotify.com/artist/5LrqAMICjuzUZXr8AqQhMv) | [Vencio](https://open.spotify.com/album/5xagOQYXoLWnSOcgGsRS5A) | 3:40 |
+| 29 | [Vencio](https://open.spotify.com/track/2pri22zuE30r6F7wXfia1P) | [YADAH](https://open.spotify.com/artist/3Ah5V56kXoarxe5HfnRUl1), [Álvaro López](https://open.spotify.com/artist/7wQmTThXpa2PmOMNpYPiaW) | [Vencio](https://open.spotify.com/album/5xagOQYXoLWnSOcgGsRS5A) | 3:40 |
 | 30 | [EL SANTO](https://open.spotify.com/track/4FArOuN4SgaIch5cNx6hrq) | [Cita Con el Padre](https://open.spotify.com/artist/0L6N5Bc6pyZLndWo930w3a), [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [EL SANTO](https://open.spotify.com/album/5Hbx4rTlptBDd9D1s0xMbs) | 13:22 |
 | 31 | [Gloria al Justo \- Live](https://open.spotify.com/track/4dhTiLNaIlpbLMq64evqJb) | [Comunidad Music](https://open.spotify.com/artist/5qzNDbhaScIgGBcByNzJQd), [Catalina Castaño](https://open.spotify.com/artist/5aIHcTYriz799e51WJWY9o), [Miguel Ibañez](https://open.spotify.com/artist/0TRZ28ZMERih7XbJXWBuqJ) | [Gloria al Justo \(Live\)](https://open.spotify.com/album/191f1qceRbZJlGSLF4Os5t) | 9:53 |
 | 32 | [No Hay Otro Nombre](https://open.spotify.com/track/7bT84iTM5WW6zR6qxitCPK) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [No Hay Otro Nombre](https://open.spotify.com/album/0qZtUHUKu1f9me1UHsrgQ6) | 6:43 |

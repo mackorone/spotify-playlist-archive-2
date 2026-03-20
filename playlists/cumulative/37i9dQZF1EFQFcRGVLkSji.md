@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 8 hr 30 min
+182 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,8 @@
 | [chaNGE](https://open.spotify.com/track/4M0M2KF95LkvfM5CFexPZb) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 1:40 | 2025-06-01 |  |
 | [CLARITY](https://open.spotify.com/track/3z1z0Rjwhi6U71yv0qy85D) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [FIRST DEGREE](https://open.spotify.com/album/3xXhMQ8hGvs9hHwowUo7Wf) | 2:44 | 2025-06-01 |  |
 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 | 2025-06-01 |  |
+| [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 | 2026-03-19 |  |
+| [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 | 2026-03-19 |  |
 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 | 2025-08-06 |  |
 | [Dazed](https://open.spotify.com/track/0yvzGLzdyJIJ294lbt5ESc) | [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [Dazed](https://open.spotify.com/album/7bjaG4ZyFG9VaAlQLr9xBj) | 2:08 | 2025-06-01 |  |
 | [DIAMONDS LIGHTS FAST CARS \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/0dE6bo63eqDDfIr8XZhZpN) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [INSANO \(NITRO MEGA\)](https://open.spotify.com/album/6ofMZXVeY7dABB00zHp8WV) | 2:41 | 2025-06-01 |  |

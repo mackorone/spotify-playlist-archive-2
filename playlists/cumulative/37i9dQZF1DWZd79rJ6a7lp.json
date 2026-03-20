@@ -1878,6 +1878,24 @@
     {
       "album": {
         "name": "Aphelion",
+        "url": "https://open.spotify.com/album/7bm6yf26WJab5t3Cmn8cch"
+      },
+      "artists": [
+        {
+          "name": "Aetheria Solara",
+          "url": "https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144991,
+      "name": "Aphelion",
+      "url": "https://open.spotify.com/track/1UodY3ilZxndiXxrQ0XKpR"
+    },
+    {
+      "album": {
+        "name": "Aphelion",
         "url": "https://open.spotify.com/album/0idAKMAPpGjKsGctraHWEk"
       },
       "artists": [
@@ -7008,7 +7026,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 159053,
       "name": "Dignidade",
       "url": "https://open.spotify.com/track/3auPngiUnFPlx9jaOdBS0v"
@@ -13503,6 +13521,24 @@
     },
     {
       "album": {
+        "name": "In Warmth",
+        "url": "https://open.spotify.com/album/6Mgqs0QSsWG6j6jXC5MuNm"
+      },
+      "artists": [
+        {
+          "name": "The Lay-Backs",
+          "url": "https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153937,
+      "name": "In Warmth",
+      "url": "https://open.spotify.com/track/28xW5WozDABhJvfxNx3XDq"
+    },
+    {
+      "album": {
         "name": "Incandescent",
         "url": "https://open.spotify.com/album/2LihUwNXSVTW601y1XLlzz"
       },
@@ -16095,6 +16131,24 @@
     },
     {
       "album": {
+        "name": "Margin",
+        "url": "https://open.spotify.com/album/3u7wffCg17gYqD5kp8mEDc"
+      },
+      "artists": [
+        {
+          "name": "Astral Steps",
+          "url": "https://open.spotify.com/artist/1F2Bnj5hR7xoWkRVrtfROZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171962,
+      "name": "Margin",
+      "url": "https://open.spotify.com/track/5iACyfuT5cnOotN8kn3zVp"
+    },
+    {
+      "album": {
         "name": "Marimosa",
         "url": "https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB"
       },
@@ -17798,7 +17852,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 158000,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/4oE9p4JvXJvnqTmGvVseIV"
@@ -30432,7 +30486,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 120438,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/3XtJAP477UlgS6iEgxfhnr"

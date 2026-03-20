@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,899 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,927 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 74 | [Oregano \- Original Mix](https://open.spotify.com/track/3Tgr3YrThg0ZaCAHc5U5Ag) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C), [Laura Weider](https://open.spotify.com/artist/5KbsYPjRrEZPZ4BDvG9aYL) | [Get Lost V mixed by Acid Pauli](https://open.spotify.com/album/3fMJibMNgbBa21HsUHEnnl) | 3:48 |
 | 75 | [Fugitivo](https://open.spotify.com/track/7LW8l60uYQeauWg1G39sdH) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd), [Monique](https://open.spotify.com/artist/3HsEZkkL1t1GXkMjBetzIv) | [Senses](https://open.spotify.com/album/3AtsqKQ6fcU3iIUSAAMyeV) | 7:26 |
 | 76 | [Walk in the Room](https://open.spotify.com/track/5CEzy7QYNIgDcWAWJUvGe9) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [Jackson Englund](https://open.spotify.com/artist/5IyPh7d0fsrKhKUn0mCBLS) | [Walk in the Room](https://open.spotify.com/album/3h9gQ59fKN963AHFkeMmpO) | 3:11 |
-| 77 | [La Luna y el Lobo \- Jhon Montoya Expedition](https://open.spotify.com/track/2OjkARSP2Ly2D8EDHLC5ca) | [Matanza](https://open.spotify.com/artist/5Cuxj0XOrtIaHbfP1fSQY6), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Jhon Montoya](https://open.spotify.com/artist/2jEOWfFibo5MmKo5Va7xVv) | [Expediciones: Matanza & Oceanvs Orientalis](https://open.spotify.com/album/0tm62c0gGrUBFWpNcU9zAT) | 5:08 |
+| 77 | [La Luna y el Lobo \- Jhon Montoya Expedition](https://open.spotify.com/track/2OjkARSP2Ly2D8EDHLC5ca) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Jhon Montoya](https://open.spotify.com/artist/2jEOWfFibo5MmKo5Va7xVv) | [Expediciones: Matanza & Oceanvs Orientalis](https://open.spotify.com/album/0tm62c0gGrUBFWpNcU9zAT) | 5:08 |
 | 78 | [Experiencing a Significant Gravitas Shortfall \- TACHES Remix](https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL) | [Commoner](https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB), [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Experiencing a Significant Gravitas Shortfall](https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7) | 4:52 |
 | 79 | [Passa](https://open.spotify.com/track/2wDbJGzqPkW7iqLMi9Ygxz) | [See Maw](https://open.spotify.com/artist/6EpzsiQuQ3dJas4vA6drGQ) | [Ghiaccio](https://open.spotify.com/album/5wEBAyn88DZs3ebPJgajdD) | 3:45 |
 | 80 | [Cooping \- Map.ache Remix](https://open.spotify.com/track/0D97FOu7UqZvatcSCOtZfJ) | [Lake People](https://open.spotify.com/artist/6YTWss7MFcjsJRDgmtqO2l), [Map.ache](https://open.spotify.com/artist/2enNMBArUbDhmTopWMVWHr) | [Purposely Uncertain Field \(Remixes\)](https://open.spotify.com/album/2ObgMq3OJXOr3s1XbsatuD) | 7:58 |

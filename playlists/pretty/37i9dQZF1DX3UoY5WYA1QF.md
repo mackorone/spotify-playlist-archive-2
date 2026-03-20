@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,037 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,091 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 95 | [Amor Sin Cuenta](https://open.spotify.com/track/1L4TJJpR4uJpir4AxWjICU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:26 |
 | 96 | [Homenaje A Joan Sebastian](https://open.spotify.com/track/08mTIG1Dh2pwwk4LeDH0UR) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i) | 3:46 |
 | 97 | [El Consentido](https://open.spotify.com/track/3PCAcQyEjs89Wr4VvxtNGH) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Consentido](https://open.spotify.com/album/03d5AiP5PEssrmQ033TuOm) | 3:21 |
-| 98 | [Contigo O Sin Ti](https://open.spotify.com/track/5J1obD97BsinlwF7b9nJLf) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian En Vivo](https://open.spotify.com/album/5eSpZTrLzLAaZxWecQn37x) | 4:21 |
+| 98 | [Asi Te Quiero](https://open.spotify.com/track/4w0k7oGaTLMAmBQ3NUU7Ws) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Lo Mejor de Joan Sebastian](https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3) | 3:18 |
 | 99 | [Hasta Que Amanezca](https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Homenaje A Joan Sebastian](https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF) | 2:56 |
 | 100 | [Cada Mañana](https://open.spotify.com/track/7Hi3l1vdmvQGOwvLP2FQRo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Otra Vez](https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF) | 3:24 |
 

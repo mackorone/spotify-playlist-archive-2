@@ -4,7 +4,7 @@
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Nieuw: <a href="spotify:artist:0BFood0cmj86LkpdOArhNs">Langa</a>
 
-241 songs - 12 hr 50 min
+243 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 | 2024-11-07 | 2026-03-19 |
 | [Before Your Birth](https://open.spotify.com/track/5TsRbdH1kqK7wjVITG2j1k) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Talk the Talk](https://open.spotify.com/album/7bXOx5DSCaBsWvNpX4FoRo) | 3:37 | 2024-09-26 | 2024-11-08 |
 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-11-06 |  |
+| [Beter Zo](https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Beter Zo](https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI) | 3:04 | 2026-03-19 |  |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-12-10 | 2022-08-26 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-10 | 2023-04-07 |
 | [Blijven Rijden](https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Blijven Rijden](https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV) | 2:56 | 2022-09-08 | 2023-01-28 |
@@ -102,7 +103,7 @@
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-01-27 | 2023-05-10 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-14 | 2024-01-19 |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-01 | 2024-10-25 |
-| [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 | 2025-09-24 |  |
+| [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 | 2025-09-24 | 2026-03-20 |
 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 | 2022-08-25 | 2023-06-24 |
 | [Hou Me Vast](https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:36 | 2023-01-27 | 2026-03-19 |
 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 | 2023-08-31 | 2024-04-11 |
@@ -183,7 +184,7 @@
 | [Roddels](https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Roddels](https://open.spotify.com/album/0AKNcOmJM09yEmaPDh0zrB) | 2:17 | 2023-03-23 | 2023-09-15 |
 | [Romance in Great Britain](https://open.spotify.com/track/4t51Fwx665meFGj1DJwweV) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/14YzhyJwBKhmtshaBaINzQ) | 3:21 | 2022-03-18 | 2022-10-09 |
 | [Romance in Great Britain](https://open.spotify.com/track/7qHn95y6Fry3I6t87HekQ5) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Romance in Great Britain](https://open.spotify.com/album/3gL5sXknuYa2VCjr5bA5UT) | 3:21 | 2022-10-05 | 2023-05-10 |
-| [Rondjes](https://open.spotify.com/track/7xDTXLMmlgTmrhp0YpFVNc) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi) | 3:03 | 2026-03-18 |  |
+| [Rondjes](https://open.spotify.com/track/7xDTXLMmlgTmrhp0YpFVNc) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/2VGSxA5QMA7Kz7T7ugTYzi) | 3:03 | 2026-03-18 | 2026-03-20 |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2022-08-25 | 2023-09-15 |
 | [Running Backwards Into The Future](https://open.spotify.com/track/1ubzJLpN00M1WQJ7vuJsPL) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/76wnXaWyDwYiq2wrH0vVpB) | 3:54 | 2024-04-10 | 2026-03-19 |
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-08 | 2023-06-05 |
@@ -246,6 +247,7 @@
 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 | 2026-01-08 |  |
 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-26 | 2025-01-10 |
 | [Yuh \(Symphony In D Minor\)](https://open.spotify.com/track/3lUzn12RioxpKrRhsdUZwt) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 2](https://open.spotify.com/album/5CEj9bjGd1fAp2DRUcljmm) | 2:56 | 2022-05-20 | 2022-08-26 |
+| [Zijkant](https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [Zijkant](https://open.spotify.com/album/1LaxxpY3iDj4NxfirjjbX2) | 2:46 | 2026-03-19 |  |
 | [Zo Zijn](https://open.spotify.com/track/0WyNNLzRGqajGWCjcrVTaC) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 3:12 | 2023-09-14 | 2026-03-19 |
 | [Zo Zijn](https://open.spotify.com/track/1q30hUyUUZyjytlKTJz4cI) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Zo Zijn](https://open.spotify.com/album/2AaXaMEDHo0ZJbvsoTmynp) | 3:12 | 2022-02-14 | 2022-08-26 |
 | [Zonder Gezicht](https://open.spotify.com/track/0KAqcZyd6eiKjyneZRmePT) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:44 | 2022-03-17 | 2022-08-26 |

@@ -4,7 +4,7 @@
 
 > Rustig aan doen op zaterdag met deze zachte popliedjes.
 
-308 songs - 18 hr 9 min
+309 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,10 +248,10 @@
 | [Sorry](https://open.spotify.com/track/39HyltGRsg2q0s5PMA9ala) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Control](https://open.spotify.com/album/7kunNk4rQrxOtatKGidJO4) | 3:47 | 2021-11-24 | 2022-07-29 |
 | [Southern Star](https://open.spotify.com/track/6lXsRALRbTwZC7In4eMLWr) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 | 2025-02-03 |  |
 | [Spring \(But With The Snow\)](https://open.spotify.com/track/6zW0xZCyPE1sYCi7flJmHM) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Tender Superpower](https://open.spotify.com/album/2dmEJeZTuo5H5TfD3eBGTM) | 4:08 | 2025-02-17 |  |
-| [Spring \- Single Edit](https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Spring](https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29) | 5:08 | 2024-10-22 |  |
+| [Spring \- Single Edit](https://open.spotify.com/track/4amOLvYbgXIezj5Gjh1OAr) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Spring](https://open.spotify.com/album/4jEF8mTXVEJd17oO2FPq29) | 5:08 | 2024-10-22 | 2026-03-20 |
 | [State I'm In](https://open.spotify.com/track/2gjAuXhLvVuBH765dxJUXg) | [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [State I'm In \- Single](https://open.spotify.com/album/0t74M2BYapEfGaglgSjEA0) | 3:48 | 2021-11-24 | 2022-07-29 |
 | [State I'm In](https://open.spotify.com/track/4aUHLZXBqkGETnyJm6vavF) | [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [State I'm In](https://open.spotify.com/album/2rYFcoi3NzplG0wcmd9EAn) | 3:48 | 2022-06-03 | 2023-02-10 |
-| [State of War \- Acoustic](https://open.spotify.com/track/6SCBrXqS49Cg8FO3sZerw5) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [State of War](https://open.spotify.com/album/6MSFc7cbKx1FJnicqd3VeE) | 2:50 | 2022-11-17 |  |
+| [State of War \- Acoustic](https://open.spotify.com/track/6SCBrXqS49Cg8FO3sZerw5) | [LYS](https://open.spotify.com/artist/6Kp9gMLqYA14HIrTitRJEQ) | [State of War](https://open.spotify.com/album/6MSFc7cbKx1FJnicqd3VeE) | 2:50 | 2022-11-17 | 2026-03-20 |
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2026-01-23 |  |
 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 | 2021-11-24 | 2024-11-23 |
 | [Strongest Girl](https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Strongest Girl](https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu) | 3:27 | 2025-04-25 |  |
@@ -287,6 +287,7 @@
 | [Tomb for Rockets](https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [Tomb for Rockets](https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG) | 4:23 | 2024-10-22 |  |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-12 |  |
 | [Torn \- Bonus Track](https://open.spotify.com/track/7lwYNEUrDP4thCD6nQ4nBv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:16 | 2021-11-24 | 2022-04-29 |
+| [Truth](https://open.spotify.com/track/5PIVsmRNAY3Jm4rjiZF4Wy) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Truth](https://open.spotify.com/album/1boryF8Znj8KXWvXbTlO8k) | 4:21 | 2026-03-19 |  |
 | [Trying My Best](https://open.spotify.com/track/06qUEhhx6jKQmhj2qAkn4H) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Trying My Best](https://open.spotify.com/album/7y7FAlGLQ3qCubAGtw1oT0) | 3:42 | 2021-11-24 | 2025-05-16 |
 | [Trying My Best](https://open.spotify.com/track/3zKYELUQUt2b7GbiNcnYBF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [slow sad songs](https://open.spotify.com/album/6tg9GnuGCIyR6VSCiaafoc) | 3:42 | 2022-11-03 | 2022-11-13 |
 | [Trying My Best](https://open.spotify.com/track/6hjh2phISvfR1Ib6S0FK7b) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:42 | 2022-06-03 | 2024-04-19 |

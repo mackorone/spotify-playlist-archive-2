@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Crispy Pancakes",
+        "url": "https://open.spotify.com/album/3IbFm9W1TcJKKo8wAnD4Is"
+      },
+      "artists": [
+        {
+          "name": "Jimpster",
+          "url": "https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302439,
+      "name": "Crispy Pancakes",
+      "url": "https://open.spotify.com/track/2BwKVfq5bkg7oalYGAxfmm"
+    },
+    {
+      "album": {
         "name": "Dance To The Rhythm EP",
         "url": "https://open.spotify.com/album/6GZM06lOdwvBliFRD2BB0y"
       },
@@ -5637,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Just like that",
+        "url": "https://open.spotify.com/album/4ZRqcE9V0tvsRcbpAHCag1"
+      },
+      "artists": [
+        {
+          "name": "ESCE",
+          "url": "https://open.spotify.com/artist/3xVvJGFXPlg9vcRkNB6BGk"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "Just like that",
+      "url": "https://open.spotify.com/track/3Y38DdRZao2CeKgnHz9rsO"
+    },
+    {
+      "album": {
         "name": "Just open your mind (Deep Jazz Mix)",
         "url": "https://open.spotify.com/album/3hpOcaeYwPl7cNCvf2Vz8S"
       },
@@ -6100,7 +6136,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 331836,
       "name": "Lightening In Me",
       "url": "https://open.spotify.com/track/1klNgEYD7zZw8xAHO56vB6"

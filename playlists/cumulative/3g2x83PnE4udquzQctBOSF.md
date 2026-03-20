@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-531 songs - 1 day 8 hr 15 min
+533 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Firestarter](https://open.spotify.com/track/40zrIbnQI3a3JRUvlKqoHT) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Firestarter](https://open.spotify.com/album/6IDyDOPO6hJIe5l2zZXe7h) | 3:04 | 2024-10-13 |  |
 | [Flamingos](https://open.spotify.com/track/0lAQ4hpL4wS7EdgXYd3I2w) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Side B](https://open.spotify.com/artist/3hm9D6w73Erm43Ym0gtmjR) | [Pam Pam](https://open.spotify.com/album/1cdc1XeYkT0YTEYHsh97SU) | 3:28 | 2023-03-12 | 2023-04-01 |
 | [Flash](https://open.spotify.com/track/0jvrVHIuoIvC8kaxZPjCmO) | [The BeatBoy's](https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE) | [Flash](https://open.spotify.com/album/4d1S4boYB2A9crfMQ5nUEm) | 5:58 | 2023-11-05 | 2024-01-15 |
+| [Flat Mr\. Bass](https://open.spotify.com/track/5g8LDjXyDWF0Qv3upgaLXB) | [THE KING YOUTHFULNESS](https://open.spotify.com/artist/390HdFpUeNh5Fir2cFd3Py) | [Flat Mr\. Bass](https://open.spotify.com/album/59OoYdbuAOnwIQmc57QkTd) | 4:29 | 2026-03-19 |  |
 | [Flowcito](https://open.spotify.com/track/3tLClIQs8SkhqFlXMyYNwM) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA), [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Francis De Simone](https://open.spotify.com/artist/2vtok5FpY8afpLG9ZOmAod) | [Flowcito](https://open.spotify.com/album/6ZdofVuh9nqJcbN6Chr8T8) | 6:30 | 2023-05-21 | 2023-06-12 |
 | [Fly Away](https://open.spotify.com/track/6VF8DFuo2NVsoBKaqt5Nlw) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Fly Away](https://open.spotify.com/album/0Tc1tg1w34KqvGfbydJFPu) | 5:37 | 2023-03-12 | 2023-04-01 |
 | [Flying Like A Dragon](https://open.spotify.com/track/5kc7bJbL43ArvIFByYZF2m) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Flying Like A Dragon EP](https://open.spotify.com/album/4Eod6YHLqedv5kw0MuVe2w) | 3:43 | 2024-04-14 | 2024-07-08 |
@@ -344,6 +345,7 @@
 | [Neutron Decay \- Rebirth Edit](https://open.spotify.com/track/4F6VoXxtgQyy2iJEEWXv6c) | [SPXCEPVNK](https://open.spotify.com/artist/2AMOCfEU0hWfO6qtzxcy8Z) | [Neutron Decay \(Rebirth Edit\)](https://open.spotify.com/album/6yR0ksueyFX1JaCqAOqJz3) | 2:57 | 2026-03-11 |  |
 | [No Fight](https://open.spotify.com/track/7sgSVpOZSWu3gfJbRJCRgk) | [Mateo Cabero](https://open.spotify.com/artist/5Ri5LQBXRhuHVGFVUciSai) | [No Fight](https://open.spotify.com/album/5m0Z8mzS38YlVlFkHebDjo) | 3:52 | 2026-03-07 |  |
 | [No Kidding](https://open.spotify.com/track/6baO8tFIkeFh0LUqMqkk6C) | [Krizman Toni](https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0) | [Futur Sampler Vol\. 2](https://open.spotify.com/album/4VbE8jvuLZCNTfUm5ycqjq) | 5:53 | 2024-10-13 |  |
+| [No Means No](https://open.spotify.com/track/5zgFNWFAzeGqU4QxsdmyG5) | [DMAO](https://open.spotify.com/artist/7I1N6VLZiAXwulLEnuIkUg) | [No Means No](https://open.spotify.com/album/4vSLnL9L4YK3KT3gWOl2GO) | 4:40 | 2026-03-19 |  |
 | [No Mendacium \- Radio Edit](https://open.spotify.com/track/1XMQsx7IzYpuYcj3HZEqJQ) | [Nadda](https://open.spotify.com/artist/2UBywQW4UxTyUJPfVloPbR) | [No Mendacium](https://open.spotify.com/album/16A9qDBJoU5fYqccnGtpKS) | 3:40 | 2023-11-26 | 2024-02-05 |
 | [no quiero hablar mas con mi mente](https://open.spotify.com/track/4erwWa7FDbpXfB6iOX5pDa) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [ultimo verano](https://open.spotify.com/album/6WK5IArf4z1QP9UXYHom4I) | 3:31 | 2026-01-12 | 2026-02-23 |
 | [No Stoppin'](https://open.spotify.com/track/4MqZA9u2BDdFheypDOjAxU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [No Stoppin'](https://open.spotify.com/album/5n5T2dugUpP3orPV6aWYRh) | 3:02 | 2023-07-16 | 2023-08-20 |

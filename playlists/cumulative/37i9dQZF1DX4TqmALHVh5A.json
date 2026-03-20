@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Of\u00e9",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Mitty",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Autisme",
+        "url": "https://open.spotify.com/album/0MKIA5SiY1FzMZuYDoJ9Mz"
+      },
+      "artists": [
+        {
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Autisme",
+      "url": "https://open.spotify.com/track/2LDmzuSF1E6EeUiHBrj7OK"
+    },
+    {
+      "album": {
         "name": "A\u00efe a\u00efe a\u00efe",
         "url": "https://open.spotify.com/album/1Nm9pTliKqoSXupzwlyyFd"
       },
@@ -622,7 +640,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 206373,
       "name": "Bal de fin d'ann\u00e9e",
       "url": "https://open.spotify.com/track/4tOehJCrjHFakWKIt2yuHd"
@@ -1506,6 +1524,28 @@
       "duration_ms": 143906,
       "name": "COPINES?",
       "url": "https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5"
+    },
+    {
+      "album": {
+        "name": "coucou les potes",
+        "url": "https://open.spotify.com/album/2ZD9Dj7uISqHQyBgXWiiLW"
+      },
+      "artists": [
+        {
+          "name": "Dab Rozer",
+          "url": "https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl"
+        },
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150285,
+      "name": "coucou les potes",
+      "url": "https://open.spotify.com/track/1R8EXTuGZPIJehG5kDR1rC"
     },
     {
       "album": {
@@ -2829,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/4I7qdgWeMuzB2ME7LnZcsN"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/6Wo4zyufcc4V8ZM1TCxDxW"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/7aC0og0wGBisY87cUpEdXG"
+    },
+    {
+      "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/0MDwD4UQN2pBZtPrcB1wdr"
       },
@@ -3742,7 +3800,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 170389,
       "name": "La Fable",
       "url": "https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa"
@@ -3930,7 +3988,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 134846,
       "name": "La pomme",
       "url": "https://open.spotify.com/track/2RmBJ4b1fDRCuxD3UWIj9R"
@@ -4024,6 +4082,24 @@
       "duration_ms": 205619,
       "name": "Laisse moi le chat",
       "url": "https://open.spotify.com/track/2zUjP87cBGoW49OPUH8y1H"
+    },
+    {
+      "album": {
+        "name": "LAISSE-MOI T'AIDER",
+        "url": "https://open.spotify.com/album/6vJSoIr2S10bWW1FDQJFlC"
+      },
+      "artists": [
+        {
+          "name": "Lonepsi",
+          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229972,
+      "name": "LAISSE-MOI T'AIDER",
+      "url": "https://open.spotify.com/track/68Isw7yVpfgVSSjKHbrRJR"
     },
     {
       "album": {
@@ -4136,7 +4212,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 141150,
       "name": "le rem\u00e8de",
       "url": "https://open.spotify.com/track/5EH33ROUwuT0KgCKBJmMAc"
@@ -4626,7 +4702,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 158054,
       "name": "Mauvaise t\u00eate",
       "url": "https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK"
@@ -5456,7 +5532,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 249336,
       "name": "Paris Bruxelles",
       "url": "https://open.spotify.com/track/3PDJkJiZiqQm3wYeRGUej7"
@@ -5582,7 +5658,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 273653,
       "name": "Pause Play",
       "url": "https://open.spotify.com/track/4yNgAVEPDXv5RmxOHMxKHM"
@@ -6623,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "Cavalcades \"ce que la nuit ne dit pas\"",
+        "url": "https://open.spotify.com/album/0foQKSbp4ES8LtHLliblDm"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176835,
+      "name": "Seulement cette fois",
+      "url": "https://open.spotify.com/track/517lGwcYzVNjzkAbkjTss4"
+    },
+    {
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/3RBuzCHdEXspCfVkuyc7er"
       },
@@ -6699,6 +6793,24 @@
     },
     {
       "album": {
+        "name": "Si tu meurs",
+        "url": "https://open.spotify.com/album/0t240MQUXjulKFlF0qj0EG"
+      },
+      "artists": [
+        {
+          "name": "Nerlov",
+          "url": "https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212020,
+      "name": "Si tu meurs",
+      "url": "https://open.spotify.com/track/1LDMAUnwUgeKBwK83bet2w"
+    },
+    {
+      "album": {
         "name": "si tu veux on va voir la mer",
         "url": "https://open.spotify.com/album/165OtpCQM1BgC6TPnaiMQx"
       },
@@ -6768,6 +6880,24 @@
       "duration_ms": 176431,
       "name": "Silencieux",
       "url": "https://open.spotify.com/track/39KQPpuNyoNVM97LOizaxm"
+    },
+    {
+      "album": {
+        "name": "SOLEIL",
+        "url": "https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D"
+      },
+      "artists": [
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168114,
+      "name": "SOLEIL",
+      "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
     },
     {
       "album": {

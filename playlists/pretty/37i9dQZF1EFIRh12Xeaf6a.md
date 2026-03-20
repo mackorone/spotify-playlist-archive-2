@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,255 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,257 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 53 | [Rage Of Angels](https://open.spotify.com/track/62D4ilwxJNhjiixorqH567) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Coup De Grace](https://open.spotify.com/album/7nNWD9YdMAIxhGxXuuud4x) | 4:28 |
 | 54 | [I'd Never Find Another You](https://open.spotify.com/track/3NdGW143zQClqgvLN5OdPs) | [Billy Fury](https://open.spotify.com/artist/7rtLZcKWGV4eaZsBwSKimf), [The Tornados](https://open.spotify.com/artist/3SblTU11ZKURsHhWGwPpt9) | [Radio Luxembourg Sessions/The Sound Of Fury Demos](https://open.spotify.com/album/4GxeKxGHCCjTSLOn9nyoUi) | 2:40 |
 | 55 | [Taking a Page](https://open.spotify.com/track/16lxg7eNSRbJRt5ePVr7G7) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ma](https://open.spotify.com/album/1FjqYdqCz7Sg5kNC3mYjWY) | 3:36 |
-| 56 | [Keep Your Hands off My Baby](https://open.spotify.com/track/5jq0N3md5T4Y0Wwp944KcI) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion](https://open.spotify.com/album/52S2Bfn5L5v5W1X8ltnj7I) | 2:32 |
+| 56 | [Keep Your Hands off My Baby](https://open.spotify.com/track/61HxMhmxwb2QSAb7UJvVp7) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion Party](https://open.spotify.com/album/6r5HyauRBALzHMlJ78Xiq6) | 2:32 |
 | 57 | [Out in the Cold](https://open.spotify.com/track/0mgRHRnVctNI7KhXSnoRMn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Out In the Cold](https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91) | 2:44 |
 | 58 | [I Can't Make It Alone \- Remastered](https://open.spotify.com/track/2KzlY5heyGkSYSbd6MK7yr) | [P.J\. Proby](https://open.spotify.com/artist/3g4Os4LNZvOQUaokeSLCwG) | [Best Of The EMI Years \(1961\-1972\)](https://open.spotify.com/album/3AsA1h6kQvqdnfaC1lu8Tx) | 4:20 |
 | 59 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 |
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 160 | [Morning Sun \- Mono](https://open.spotify.com/track/1kXJg6esr4PPKeKE5IqP7N) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Cast Your Fate to the Wind: The Singles, B\-Sides, & Rarities](https://open.spotify.com/album/3FG5LVUGOMFT2Z7C9iu1kA) | 3:09 |
 | 161 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 |
 | 162 | [The Awful Truth](https://open.spotify.com/track/111iXVIriBsgidJT1lTIsN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:12 |
-| 163 | [Let's Start the Party Again](https://open.spotify.com/track/0JvPb6ORbV97cYyvtZsqSP) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 2:48 |
+| 163 | [Let's Start the Party Again](https://open.spotify.com/track/6QmmLbWDYsVw0SAatl9F4Z) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Sunshine Boulevard](https://open.spotify.com/album/2xLW7PijPtzLeFXEyu24GY) | 2:48 |
 | 164 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 |
 | 165 | [That's How Things Go Down](https://open.spotify.com/track/7hKo6FxDo4AQTeo6IOzOd2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 3:01 |
 | 166 | [Haywood](https://open.spotify.com/track/7E60F1oyjoFq8UGwuhwp7I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 4:46 |
@@ -179,7 +179,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 169 | [Same Old Story](https://open.spotify.com/track/1NC4U3Q0PAZgpTeawDeB5P) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 4:49 |
 | 170 | [So Many Ways](https://open.spotify.com/track/7scWRQNIqipbmrcngQfwmf) | [Crash Kings](https://open.spotify.com/artist/08QZWYiCiN62cbBoq8JR5I) | [Dark Of The Daylight](https://open.spotify.com/album/70uumErsWpotWrGrfmkqiH) | 4:06 |
 | 171 | [You're Something New](https://open.spotify.com/track/6PrYru1Jj9hvVSV0mIj15N) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:53 |
-| 172 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 1:59 |
+| 172 | [What I Gotta Do \(To Make You Jealous\)](https://open.spotify.com/track/0ZWzBETmYKjCouSCgnVVcy) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Loco\-Motion Party](https://open.spotify.com/album/6r5HyauRBALzHMlJ78Xiq6) | 1:59 |
 | 173 | [Honey and Wine \- 2003 Remaster](https://open.spotify.com/track/11qM9odmMGoDOfHMOM65se) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [In The Hollies Style \(Expanded Edition\)](https://open.spotify.com/album/1juitqjWhK1iPIQ6aSiuVc) | 2:29 |
 | 174 | [No Sad Song](https://open.spotify.com/track/4GAu46qbdEu21ScQ10BkPZ) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Helen Reddy](https://open.spotify.com/album/5JcT9BxkqS2CQmMkg16lgR) | 3:11 |
 | 175 | [I'll Love You For A While](https://open.spotify.com/track/4LNzBFytMkQ4nxE2Yhxv2A) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Ooooooweeee! \(Expanded Edition\)](https://open.spotify.com/album/1HxE0CdLFyhAAb7ysXtHjM) | 2:06 |
@@ -203,7 +203,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 193 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
 | 194 | [My Lovin' Eyes \- Re\-Recorded Version](https://open.spotify.com/track/0YBaCpel1nmXxUHU9BjjIq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [100 Minutes With Carole King](https://open.spotify.com/album/5ga2nqmQ62J9PaDQhXQ0f2) | 3:01 |
 | 195 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 |
-| 196 | [Just a Little Girl](https://open.spotify.com/track/0nrcvwY0ZK9slURiw5iDca) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Playlist: The Best Of Little Eva](https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n) | 2:57 |
+| 196 | [Just a Little Girl](https://open.spotify.com/track/0J28N2l2NZZFyynG5EMJjG) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [Sunshine Boulevard](https://open.spotify.com/album/2xLW7PijPtzLeFXEyu24GY) | 2:57 |
 | 197 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
 | 198 | [Long Way To Be Happy](https://open.spotify.com/track/6rS2B0RwdfPLcMWHuugcoY) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Phil Spector Collection](https://open.spotify.com/album/5NKKNLuM9Y0thrHgX709mp) | 2:47 |
 | 199 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcMfdgAAAADm9uOemyuTEGr8lNSErmH0`
+Snapshot ID: `AcMlFgAAAADVM7WaInwmzC0gbqSh81n8`

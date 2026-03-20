@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 5月5日\(火祝\)\~6日\(水祝\)に開催される「KOBE MELLOW CRUISE」公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,836 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,843 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 57 | [Flight To Mumbai](https://open.spotify.com/track/1FY8wkNzyoL0yXN2o3qbS9) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm), [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [Flight To Mumbai](https://open.spotify.com/album/5ljcCgXanxkJMV24viniyp) | 2:25 |
 | 58 | [Omatcha](https://open.spotify.com/track/4I8KfeqnrXYeHNm7w1IaQ2) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:37 |
 
-Snapshot ID: `AAAAAGiyWlSMnd67YGjo3Lvovp8JQg9o`
+Snapshot ID: `AAAAANUIk+tkHDR+of5q5cwF4h2vfJEu`

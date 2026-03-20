@@ -4,7 +4,7 @@
 
 > This is kessoku band\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 19 min
+51 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [UNITE](https://open.spotify.com/track/1alnCCvoaTx5r0IhqXU3Ru) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:18 | 2024-09-08 |  |
 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 | 2024-01-19 |  |
 | [あのバンド](https://open.spotify.com/track/6wvTBMe3zZBv4W3OlpPGbS) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [あのバンド](https://open.spotify.com/album/0Q7q1edTAuH2hifLVFjscF) | 3:33 | 2023-01-06 | 2024-01-20 |
+| [あのバンド \-We will B\- Live ver.](https://open.spotify.com/track/6gsQSBxFiKYI33VI4Kt6RA) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:04 | 2026-03-20 |  |
 | [あのバンド \-恒星\- Live ver.](https://open.spotify.com/track/2M4VFiQx8J9z8KjojIXH8t) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:05 | 2024-01-19 |  |
 | [なにが悪い](https://open.spotify.com/track/5r8hIaf0VCNptCt8SRtxD9) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [なにが悪い](https://open.spotify.com/album/7u1WUpovfbZSSDM8edRqmb) | 3:47 | 2023-01-06 | 2024-01-20 |
 | [ひとりぼっち東京](https://open.spotify.com/track/5FlFJocxsY6XHHqUtYuEvo) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/2i6HcZ86ErsCwxib4T11bk) | 3:53 | 2023-01-06 | 2023-02-15 |
@@ -44,7 +45,7 @@
 | [忘れてやらない](https://open.spotify.com/track/5ISHFvPLUqKz2JfDRtwnb2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:43 | 2023-01-06 |  |
 | [忘れてやらない \-恒星\- Live ver.](https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:43 | 2024-01-21 |  |
 | [惑う星](https://open.spotify.com/track/4iWnWYDtg7ITUoNh6OjJUz) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 4:33 | 2024-09-08 |  |
-| [惑う星 \-We will B\- Live ver.](https://open.spotify.com/track/6sbzdTd7hLv5ULaZY8DuUJ) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:48 | 2025-10-10 |  |
+| [惑う星 \-We will B\- Live ver.](https://open.spotify.com/track/6sbzdTd7hLv5ULaZY8DuUJ) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:48 | 2025-10-10 | 2026-03-20 |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-06 |  |
 | [星座になれたら \-We will B\- Live ver.](https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:34 | 2025-10-19 |  |
 | [星座になれたら \-恒星\- Live ver.](https://open.spotify.com/track/3Rtv7KXHFVcjWYlPFOxDvc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:41 | 2024-01-20 |  |

@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "2 u",
+        "url": "https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136170,
+      "name": "2 u",
+      "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
+    },
+    {
+      "album": {
         "name": "2hard2letgo",
         "url": "https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp"
       },

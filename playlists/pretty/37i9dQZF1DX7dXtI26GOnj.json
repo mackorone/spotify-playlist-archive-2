@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Shakira, Bel\u00e9e",
-  "num_followers": 240165,
+  "num_followers": 240203,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,6 @@
     {
       "added_at": "2026-03-13 03:00:01",
       "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
-    },
-    {
-      "added_at": "2026-03-13 03:00:01",
-      "album": {
         "name": "JETSKI - Remix",
         "url": "https://open.spotify.com/album/1sjNMQMlvjVlxVGuPLVzPi"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 181741,
       "name": "JETSKI - Remix",
       "url": "https://open.spotify.com/track/7z26frY6O7BXwyjeqzYo7W"
+    },
+    {
+      "added_at": "2026-03-13 03:00:01",
+      "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
     },
     {
       "added_at": "2026-03-13 03:00:01",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-13 03:00:01",
       "album": {
-        "name": "FLOW DE REVISTA",
-        "url": "https://open.spotify.com/album/1exjzYbSUPY0DNQt2Blw9T"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "FLOW DE REVISTA",
-      "url": "https://open.spotify.com/track/27LpKkISDV9I9YE64xHUgu"
-    },
-    {
-      "added_at": "2026-03-13 03:00:01",
-      "album": {
         "name": "Dame Toma",
         "url": "https://open.spotify.com/album/2si8k8pdBqNEX1MmcD6kUZ"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 130666,
       "name": "Dame Toma",
       "url": "https://open.spotify.com/track/7j0pRdDEOcr8fwonHy5QCc"
+    },
+    {
+      "added_at": "2026-03-13 03:00:01",
+      "album": {
+        "name": "FLOW DE REVISTA",
+        "url": "https://open.spotify.com/album/1exjzYbSUPY0DNQt2Blw9T"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "FLOW DE REVISTA",
+      "url": "https://open.spotify.com/track/27LpKkISDV9I9YE64xHUgu"
     },
     {
       "added_at": "2026-03-13 03:00:01",

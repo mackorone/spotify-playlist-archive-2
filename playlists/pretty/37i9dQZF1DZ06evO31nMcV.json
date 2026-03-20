@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 25002,
+  "num_followers": 25005,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAABvN4riIWWCTAt2XQo6sA51",
+  "snapshot_id": "abnrAAAAAABJDwHN/raT83eouTGE6lBB",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Did I Ever Tell You",
+      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical Soul Vol. 1",
         "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/1SOVb18kGeGYYr1tkOVcFV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5FZSyaYxEBdFETvg5i9BAH"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/1SOVb18kGeGYYr1tkOVcFV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 216625,
       "name": "Story of You",
       "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Soul Vol. 1 - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/44CqQSIcCEc9wG8eeZnD4F"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Did I Ever Tell You",
-      "url": "https://open.spotify.com/track/3q3bjcd4SHSRNoafyK4MMl"
     },
     {
       "added_at": null,
@@ -631,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Stolen Lullabies",
+        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
       "artists": [
+        {
+          "name": "The Gagliano Strings",
+          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
+        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 238510,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
+      "duration_ms": 134040,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stolen Lullabies",
-        "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
       "artists": [
-        {
-          "name": "The Gagliano Strings",
-          "url": "https://open.spotify.com/artist/4LJwh9ZsgqIiJcv57e6bUO"
-        },
         {
           "name": "Alexis Ffrench",
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 134040,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/0GErrpZaCNudZ4tzImWndx"
+      "duration_ms": 238510,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/4w8N32GjuYFBUZh2Z7CQBK"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 84575,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4dqde2wJGFvMuQwiikyErr"
+      "duration_ms": 154372,
+      "name": "Truth Vibrations",
+      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 154372,
-      "name": "Truth Vibrations",
-      "url": "https://open.spotify.com/track/3SLMylmbPzGQL68AO4w6e4"
+      "duration_ms": 84575,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4dqde2wJGFvMuQwiikyErr"
     },
     {
       "added_at": null,

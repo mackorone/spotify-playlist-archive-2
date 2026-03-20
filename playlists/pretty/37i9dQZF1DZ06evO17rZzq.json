@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 5051,
+  "num_followers": 5054,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAAAzXLtENj0+5GgymINJ2WRK",
+  "snapshot_id": "abnrAAAAAAB1eqIMzJu7BqhKkRoQU27p",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 149438,
-      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
-      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MMM MMM (feat. ATL Jacob)",
         "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 137341,
       "name": "MMM MMM (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FCK GIRL SZN",
         "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 116506,
       "name": "Stand On It",
       "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -895,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+        "name": "Do A Bitch (Club Mix)",
+        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
       },
       "artists": [
         {
@@ -904,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 154453,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+      "duration_ms": 156096,
+      "name": "Do A Bitch - Club Mix",
+      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
     },
     {
       "added_at": null,
@@ -931,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do A Bitch (Club Mix)",
-        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/0pMuKNqI4VOoLESF5wExWY"
       },
       "artists": [
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 156096,
-      "name": "Do A Bitch - Club Mix",
-      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
+      "duration_ms": 153847,
+      "name": "Chainzzz (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/5SYwk9PsKrlhvKoQc63izx"
     },
     {
       "added_at": null,
@@ -971,26 +991,6 @@
       "duration_ms": 197066,
       "name": "Ouuhh!!",
       "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/0pMuKNqI4VOoLESF5wExWY"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153847,
-      "name": "Chainzzz (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/5SYwk9PsKrlhvKoQc63izx"
     }
   ],
   "unique_name": "This Is Kaliii",

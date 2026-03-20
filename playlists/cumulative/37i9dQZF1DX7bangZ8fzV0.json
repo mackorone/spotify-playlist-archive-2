@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: JACOBUS",
+  "description": "Net die beste Afrikaanse musiek! Omslag: ONS",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -460,6 +460,24 @@
       "duration_ms": 203007,
       "name": "Bietjie Benoni",
       "url": "https://open.spotify.com/track/5JGkomhAMrzfikSR4BGuYh"
+    },
+    {
+      "album": {
+        "name": "Bietjie Chill",
+        "url": "https://open.spotify.com/album/196VFDRW3lg7Bp0bKxmWbe"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Bietjie Chill",
+      "url": "https://open.spotify.com/track/7ibqBZmwZKH28ixAnK1dAr"
     },
     {
       "album": {
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 165149,
       "name": "Diepseeduiker 17",
       "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
@@ -3008,7 +3026,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 169164,
       "name": "Kan 'N Man",
       "url": "https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O"
@@ -5197,6 +5215,24 @@
     },
     {
       "album": {
+        "name": "Regte Plekke",
+        "url": "https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189611,
+      "name": "Regte Plekke",
+      "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
+    },
+    {
+      "album": {
         "name": "Rooi Vlag",
         "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
       },
@@ -5420,7 +5456,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 192676,
       "name": "Shut Up & Soen My",
       "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
@@ -5714,6 +5750,24 @@
       "duration_ms": 208124,
       "name": "Soos Bloed - SENSASIE Remix",
       "url": "https://open.spotify.com/track/4uXteEd1JioDpa7IMkYmrR"
+    },
+    {
+      "album": {
+        "name": "Sou Jy?",
+        "url": "https://open.spotify.com/album/3hkbPe7j0dAIlMuJZCWb9M"
+      },
+      "artists": [
+        {
+          "name": "ONS",
+          "url": "https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "Sou Jy?",
+      "url": "https://open.spotify.com/track/68pECvdhIrrj081ww8E0IA"
     },
     {
       "album": {
@@ -6292,7 +6346,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
@@ -6816,6 +6870,24 @@
       "duration_ms": 155409,
       "name": "Wes Kaap",
       "url": "https://open.spotify.com/track/3vdDLTqgBb9ro7p3K0h6MI"
+    },
+    {
+      "album": {
+        "name": "Wie Anders",
+        "url": "https://open.spotify.com/album/5zLV9nKIJHlp2N9CAzXwsZ"
+      },
+      "artists": [
+        {
+          "name": "Rooksein",
+          "url": "https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "Wie Anders",
+      "url": "https://open.spotify.com/track/32wQgPOPIwmoRW2HulnKFT"
     },
     {
       "album": {

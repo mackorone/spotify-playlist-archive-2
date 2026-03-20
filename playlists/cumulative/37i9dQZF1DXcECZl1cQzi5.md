@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-220 songs - 10 hr 29 min
+221 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Hidden Beach](https://open.spotify.com/track/15RY8ZjXcqI3Ouh3Aj4bjp) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Hidden Beach](https://open.spotify.com/album/0pvZ5i0bmgOEw9Q63Lr0J7) | 2:58 | 2023-10-23 | 2025-04-02 |
 | [Highest Peaks](https://open.spotify.com/track/57cEl0th5hS43eAXY7krXh) | [Starry Girl](https://open.spotify.com/artist/4Uaq25W6YRawMeHyRIKwxy) | [Highest Peaks](https://open.spotify.com/album/5bqLjmTyXSVGls4ocSft2F) | 3:07 | 2024-02-06 | 2024-02-11 |
 | [Horizon](https://open.spotify.com/track/3vh3W77oJHFoR0gOSfWGxk) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Horizon](https://open.spotify.com/album/79JYZGVV44vTeiP1VbZEob) | 2:33 | 2025-10-02 |  |
+| [Ijevan](https://open.spotify.com/track/4PEUq8eJu7ApR2xRiZqLeU) | [Flowing Light](https://open.spotify.com/artist/3cQywPCPFCA8A8CFfZ1d3H) | [Ijevan](https://open.spotify.com/album/36gScMCmvklqRa2xyPlLzi) | 3:41 | 2026-02-27 |  |
 | [In Balance By The Shore](https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [In Balance By The Shore](https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO) | 2:53 | 2025-06-23 |  |
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2025-01-16 |
 | [Infinite Homelands](https://open.spotify.com/track/3pRow3lwTX36GWRDKGo5Fg) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Infinite Homelands](https://open.spotify.com/album/3HWr3rTCjDrxMshUaOgZWw) | 3:35 | 2026-02-27 |  |
@@ -141,7 +142,7 @@
 | [Ocean Mindfulness](https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Ocean Mindfulness](https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh) | 3:27 | 2023-10-23 | 2025-10-27 |
 | [Ocean Miracle](https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Ocean Dynamics](https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo) | 2:56 | 2024-05-01 |  |
 | [Ocean Mist](https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Ocean Mist](https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY) | 2:31 | 2025-01-15 |  |
-| [Ocean Swell](https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Ocean Swell](https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT) | 2:55 | 2024-03-20 |  |
+| [Ocean Swell](https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Ocean Swell](https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT) | 2:55 | 2024-03-20 | 2026-03-20 |
 | [Ocean's Rest](https://open.spotify.com/track/133m9xVMTdOifqyohjzby9) | [IntoVerted](https://open.spotify.com/artist/7KPMTEva2Ul6kWl0ddz7kT) | [Ocean's Rest](https://open.spotify.com/album/6Vz8sDcOZBtl4xI87nBC3S) | 3:24 | 2025-12-17 |  |
 | [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 | 2023-10-23 | 2024-08-23 |
 | [Oceanic Breathing](https://open.spotify.com/track/4Dh5oYEfeVcDIApq68VnwV) | [Faded Grandeur](https://open.spotify.com/artist/64ODerOSP4aFrfGgTQ7nbe) | [Oceanic Breathing](https://open.spotify.com/album/6eMHxOiVMQ7SVYIi2ZAeSt) | 3:10 | 2026-02-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28408,
+  "num_followers": 28407,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAAANRFUnemyvk+ZDp/+Ld2tx",
+  "snapshot_id": "abnrAAAAAACnjJpuevqOixf3lTVEKdOH",
   "tracks": [
     {
       "added_at": null,
@@ -91,7 +91,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+        "name": "WE STILL BELIEVE (HLY FOREVER) (feat. One Church Music)",
         "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
       },
       "artists": [
@@ -109,7 +109,7 @@
         }
       ],
       "duration_ms": 171822,
-      "name": "We Still Believe (HLY FOREVER) (feat. One Church Music)",
+      "name": "WE STILL BELIEVE (HLY FOREVER) (feat. One Church Music)",
       "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
     },
     {
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 212110,
+      "name": "Armies",
+      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLOOD 2",
         "url": "https://open.spotify.com/album/3u5CY0qvMmaIIM6Smj2MyX"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 158330,
       "name": "BLOOD 2",
       "url": "https://open.spotify.com/track/3vYdFpkCK3OzNjLxEvhCMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 212110,
-      "name": "Armies",
-      "url": "https://open.spotify.com/track/0xn6LxYghEct04MQTcrtrJ"
     },
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 170761,
-      "name": "Who the Son Sets Free",
-      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COUNT 'EM / TEAR OFF THE ROOF (REMIXES)",
         "url": "https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 245133,
       "name": "COUNT 'EM (REMIX)",
       "url": "https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 170761,
+      "name": "Who the Son Sets Free",
+      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
     },
     {
       "added_at": null,
@@ -447,7 +447,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keanu's Song",
+        "name": "KEANU'S SONG",
         "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
       },
       "artists": [
@@ -461,7 +461,7 @@
         }
       ],
       "duration_ms": 152911,
-      "name": "Keanu's Song",
+      "name": "KEANU'S SONG",
       "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
     },
     {
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II (Deluxe)",
         "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
@@ -739,6 +723,30 @@
       "duration_ms": 177664,
       "name": "It Ain't Safe",
       "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Cardec Drums",
+          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
+        }
+      ],
+      "duration_ms": 203195,
+      "name": "Danza",
+      "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
     },
     {
       "added_at": null,
@@ -783,30 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        },
-        {
-          "name": "Cardec Drums",
-          "url": "https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG"
-        }
-      ],
-      "duration_ms": 203195,
-      "name": "Danza",
-      "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wholehearted",
         "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 182095,
       "name": "Wholehearted",
       "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santo (HLY FOREVER)",
         "url": "https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 166803,
       "name": "Santo (HLY FOREVER)",
       "url": "https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,

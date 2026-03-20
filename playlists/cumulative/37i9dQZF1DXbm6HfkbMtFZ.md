@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-671 songs - 1 day 16 hr 17 min
+672 songs - 1 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,6 +286,7 @@
 | [It Takes Time to Be a Man](https://open.spotify.com/track/77Y6QDudHZMG3O1FrI926B) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/4gwqJXH0UUQFwrimYJKfmu) | 5:41 | 2024-08-14 | 2025-04-30 |
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 | 2023-03-25 |
 | [It'll Be Ok](https://open.spotify.com/track/2YO6ZDPdQFkrOa6YYceEN4) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [It'll Be Ok](https://open.spotify.com/album/3wksTuCjoVEmmD87tOc8QJ) | 2:34 | 2023-03-10 | 2023-05-14 |
+| [It's Been You](https://open.spotify.com/track/57HaB5Z4DId8ENrNDfUSiZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Imaginary Audience](https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk) | 3:13 | 2026-03-19 |  |
 | [It's Not Easy](https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Try and Love](https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC) | 4:23 | 2023-02-10 | 2025-04-30 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 | 2024-12-10 |
@@ -628,7 +629,7 @@
 | [Untitled](https://open.spotify.com/track/2IoEP9SKwBpm4DL89MKTDZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Untitled](https://open.spotify.com/album/0Ycva8sqd96rxJAQhYFqSt) | 2:59 | 2022-03-30 | 2022-04-16 |
 | [Up All Night \- Oliver Remix](https://open.spotify.com/track/12aQRcFFIh1zAoPOGTVY2y) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Up All Night \(Oliver Remix\)](https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa) | 4:26 | 2021-12-16 | 2022-07-29 |
 | [Upbeat Feelgood](https://open.spotify.com/track/5C5CXRDE2oztTMnKDLAT7I) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Upbeat Feelgood](https://open.spotify.com/album/3Sj5i4yIFu55SlB1OmfJ4k) | 3:23 | 2022-03-30 | 2022-04-20 |
-| [Upside Down](https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:37 | 2024-08-14 |  |
+| [Upside Down](https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Stunning & Atrocious](https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH) | 3:37 | 2024-08-14 | 2026-03-20 |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-03-30 | 2022-10-04 |
 | [Wait For the Moment](https://open.spotify.com/track/7qFexQbJ2Kjv9V5hMtK5Lh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [My First Car](https://open.spotify.com/album/1ZKMBF3dJmYqNnxtjexACq) | 3:50 | 2021-12-16 | 2022-07-27 |
 | [Wait for the Moment](https://open.spotify.com/track/48wH8bAxvBJO2l14GmNLz7) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [My First Car](https://open.spotify.com/album/66lLDYWrrbm8tsrBGNYC5E) | 3:50 | 2022-07-26 | 2022-10-04 |

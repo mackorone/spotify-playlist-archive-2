@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Body Tea",
+        "url": "https://open.spotify.com/album/1PcJi8Y5AYmRW4pqPpZGot"
+      },
+      "artists": [
+        {
+          "name": "Juanita",
+          "url": "https://open.spotify.com/artist/2Itueij8fk67HWdPAJYqJ9"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Body Tea",
+      "url": "https://open.spotify.com/track/2SIPNmncpm1dJhoKZGC7ON"
+    },
+    {
+      "album": {
         "name": "Bom Bom (Shoni Kompo)",
         "url": "https://open.spotify.com/album/3BUsFxaGLtkj753vDlQreV"
       },
@@ -572,6 +590,24 @@
       "duration_ms": 243424,
       "name": "Bom Bom (Shoni Kompo)",
       "url": "https://open.spotify.com/track/5Ydt3VtaElebZwn9GMqt1p"
+    },
+    {
+      "album": {
+        "name": "Only Sad People Smile: Only Hurt People Heal",
+        "url": "https://open.spotify.com/album/7xjzOqRfqawB6xVeUn6mFj"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Bongolo Cigar",
+      "url": "https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK"
     },
     {
       "album": {
@@ -1021,6 +1057,32 @@
     },
     {
       "album": {
+        "name": "Wahala Princess",
+        "url": "https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Don't Suffer (feat. Winny)",
+      "url": "https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl"
+    },
+    {
+      "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/4nXVQgtBoO0eqLtxRkmHlu"
       },
@@ -1142,6 +1204,24 @@
       "duration_ms": 156000,
       "name": "Favourite Girl",
       "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/0eOXDRWifoeszzHwvrHkYO"
+      },
+      "artists": [
+        {
+          "name": "MaryAnn\u00e9",
+          "url": "https://open.spotify.com/artist/2yCNysKyU25njnqGItZUWo"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/2Rnw1jwFHyQcpSdUe7Te7c"
     },
     {
       "album": {
@@ -1544,7 +1624,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154978,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0eszwyvJZq4o9NRVabRHS6"
@@ -1646,7 +1726,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 163200,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY"
@@ -1762,7 +1842,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 138181,
       "name": "Jamzy Vibe",
       "url": "https://open.spotify.com/track/3QsKvy5KtKrtx5QkkGTtVv"
@@ -2027,6 +2107,24 @@
     },
     {
       "album": {
+        "name": "Kwasinda Mana",
+        "url": "https://open.spotify.com/album/3nM29RGgpCUtCG2pujCsrc"
+      },
+      "artists": [
+        {
+          "name": "N'Jiru",
+          "url": "https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Kwasinda Mana",
+      "url": "https://open.spotify.com/track/5AAQl0V7jWGaVvFVmRtm1F"
+    },
+    {
+      "album": {
         "name": "Ladida",
         "url": "https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ"
       },
@@ -2114,7 +2212,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 151498,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4ZLPVrjMb6dkY0v9Tf3UKt"
@@ -2252,7 +2350,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
@@ -2987,6 +3085,36 @@
     },
     {
       "album": {
+        "name": "Not a Drill",
+        "url": "https://open.spotify.com/album/20f09wvMg4Vn5fYXMii6Sl"
+      },
+      "artists": [
+        {
+          "name": "Elestee",
+          "url": "https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7"
+        },
+        {
+          "name": "WeTalkSound",
+          "url": "https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w"
+        },
+        {
+          "name": "JEMIYO",
+          "url": "https://open.spotify.com/artist/6uQH4UQMMq9H6Fxd97rXlK"
+        },
+        {
+          "name": "AR4",
+          "url": "https://open.spotify.com/artist/4tORd6VckUgLhiQkcX90Mq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143720,
+      "name": "Not a Drill",
+      "url": "https://open.spotify.com/track/0pXLqHJlBe7US30EAY1Z8F"
+    },
+    {
+      "album": {
         "name": "Number 2",
         "url": "https://open.spotify.com/album/0w0S9Yanb2CFarPJFndDHt"
       },
@@ -3238,7 +3366,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 153684,
       "name": "One Life",
       "url": "https://open.spotify.com/track/1ALDDxD2qP0VN7PUhcVeF0"
@@ -4171,6 +4299,28 @@
     },
     {
       "album": {
+        "name": "TUFF TIMES 2.0 (feat. AratheJay)",
+        "url": "https://open.spotify.com/album/1hzwiDaN0GZHS95ZXo1BQQ"
+      },
+      "artists": [
+        {
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127726,
+      "name": "TUFF TIMES 2.0 (feat. AratheJay)",
+      "url": "https://open.spotify.com/track/5Co15LP8Gbm8FVBTrqnAYY"
+    },
+    {
+      "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR"
       },
@@ -4362,7 +4512,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172912,
       "name": "Who\u2019s Dat Girl",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"

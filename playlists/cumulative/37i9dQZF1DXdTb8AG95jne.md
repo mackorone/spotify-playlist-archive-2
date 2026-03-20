@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름 \(KIM PU REUM\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,279 songs - 3 day 5 hr 25 min
+1,280 songs - 3 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1179,6 +1179,7 @@
 | [Whatever u are](https://open.spotify.com/track/4Lv08yuwGs79fY9gTSmsZk) | [memethehouse](https://open.spotify.com/artist/2pmi3fj6A9vv7eksh6vE5s) | [Whatever u are](https://open.spotify.com/album/0cZyc7Nh5mhXj7ywWAZqtE) | 3:16 | 2023-02-08 | 2023-02-16 |
 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 | 2021-12-21 | 2025-07-24 |
 | [When It Snows 눈이 오는 날](https://open.spotify.com/track/41mmblVBKV1QqzAsaq9ogD) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [When It Snows 눈이 오는 날](https://open.spotify.com/album/2tb5GVztnwrBcm2A9v0sro) | 4:13 | 2021-12-21 | 2022-05-25 |
+| [When Spring Comes](https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [When Spring Comes](https://open.spotify.com/album/5qOhC1bkR3CdCFQytnGsOx) | 3:07 | 2026-03-19 |  |
 | [When We Were Us](https://open.spotify.com/track/09ecF04FnWqF83WPYPtkME) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [When We Were Us](https://open.spotify.com/album/3dZjUiGR0KNF3x0UMaV013) | 3:45 | 2025-12-02 | 2026-02-13 |
 | [When we were young](https://open.spotify.com/track/7KT7nJM98mzPpl4ETuLA2o) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [When we were young](https://open.spotify.com/album/2TwiLiC3cWI1Zu6z9dbvro) | 2:54 | 2025-06-27 | 2025-07-07 |
 | [Where Am I](https://open.spotify.com/track/0ZsgX7WDC1jnwFbHUdwTky) | [Mio Si](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Where Am I](https://open.spotify.com/album/6nvrZGRQVezq6C8VDHENfr) | 4:12 | 2022-03-31 | 2024-04-30 |
@@ -1267,7 +1268,7 @@
 | [명동콜링](https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [더 팬 2ROUND Part.1](https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV) | 3:56 | 2021-12-21 | 2024-11-07 |
 | [뭐해](https://open.spotify.com/track/6Nr5299pHtLDpIl5vdz9pH) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [뭐해](https://open.spotify.com/album/1AcCaPEmYXZD6su9fRyS0L) | 3:11 | 2025-01-30 | 2025-04-11 |
 | [방랑자](https://open.spotify.com/track/6h7VcJXkym9NGISDIYlmch) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [방랑자](https://open.spotify.com/album/7EOdAL92s1kwBSqYlJNAOX) | 3:20 | 2023-09-15 | 2024-05-10 |
-| [별, 사이\(2026\)](https://open.spotify.com/track/0Vxb8VgxTidGl8jfsux5Kt) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [별, 사이\(2026\)](https://open.spotify.com/album/5GXWNgcRwppo8csrzEHyPy) | 3:45 | 2026-02-02 |  |
+| [별, 사이\(2026\)](https://open.spotify.com/track/0Vxb8VgxTidGl8jfsux5Kt) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [별, 사이\(2026\)](https://open.spotify.com/album/5GXWNgcRwppo8csrzEHyPy) | 3:45 | 2026-02-02 | 2026-03-20 |
 | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/track/5SLKr9YIs6MT195opLHZTg) | [cool\_lazy](https://open.spotify.com/artist/1hpBDK67kAJEqCcR8KW6Q4), [hyeri ji 지혜리](https://open.spotify.com/artist/1aUPs6AsUyPbpH00DEA31P) | [봄밤 \(Feat\. 지혜리\)](https://open.spotify.com/album/05XQGlkHH5hliTxgRyg1RK) | 3:42 | 2022-03-31 | 2022-04-11 |
 | [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-08-10 | 2024-10-10 |
 | [사랑은 내겐 아직 어려운가봐](https://open.spotify.com/track/1x51l9lzqwmvVZQY4YCHAm) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [사랑은 내겐 아직 어려운가봐](https://open.spotify.com/album/0zo5w36seemxcNKNMuhG5n) | 2:57 | 2026-01-05 | 2026-02-10 |

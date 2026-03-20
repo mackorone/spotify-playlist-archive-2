@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,430 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,526 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 7 | [With Little Left To Say](https://open.spotify.com/track/1iZAq3Po0LNyeZgWPneiGP) | [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl) | [self titled](https://open.spotify.com/album/6bREGr336MJC4yBpTnjquS) | 4:25 |
 | 8 | [periferi](https://open.spotify.com/track/3ytorOvPTZGJr0padwLgLv) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [periferi](https://open.spotify.com/album/0F7Jik5LF6ol2NHsUjGCwh) | 6:24 |
 | 9 | [Hill Blocks View](https://open.spotify.com/track/3uOW5j1bSslTwy0ajoFhfc) | [Prymek & Sage](https://open.spotify.com/artist/6ZNNlWOMi5GLTFvBarOqU5), [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [Lake Mary](https://open.spotify.com/artist/3J8gUMSMX6Wk4Do8Anu7ta) | [Hill Blocks View](https://open.spotify.com/album/0U9XxMywMrM9XXE5W7kJi0) | 10:13 |
-| 10 | [Vale](https://open.spotify.com/track/12LY5t6xdc0pSl6vyKmh15) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Vale](https://open.spotify.com/album/0NVhwL1vuiaDZ7gqUaa4cJ) | 1:47 |
+| 10 | [Vale](https://open.spotify.com/track/12LY5t6xdc0pSl6vyKmh15) | [Prodigieux](https://open.spotify.com/artist/4TrJfuTIjLsnD4d1d9vGn8) | [Vale](https://open.spotify.com/album/0NVhwL1vuiaDZ7gqUaa4cJ) | 1:47 |
 | 11 | [Anti\-Drone Nets](https://open.spotify.com/track/0VzpuT3BU5QRvNzeO8rPES) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vil'na](https://open.spotify.com/album/5QAfFgm7Tyh0LSEZXii909) | 4:44 |
 | 12 | [We Move Slightly Forward](https://open.spotify.com/track/13jl7QOGhx4YAXDjXP3Abb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Blu Miles](https://open.spotify.com/artist/6Im1pI4Fs0wC6Vb4nj6E9A) | [We Move Slightly Forward](https://open.spotify.com/album/4iClAq2zbA2OzAYBmEYjvM) | 1:17 |
 | 13 | [Where the Light Rests \(for Chris\)](https://open.spotify.com/track/58ZNBQEy5XbMyGiARiRBQQ) | [inamomentimalive](https://open.spotify.com/artist/36im0ei483DaMGXlbkTYUT), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Where the Light Rests \(for Chris\)](https://open.spotify.com/album/2PwZh4tuxgGmC2mo1nby8P) | 3:41 |

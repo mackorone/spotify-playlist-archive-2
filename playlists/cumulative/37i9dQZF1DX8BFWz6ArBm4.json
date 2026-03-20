@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Despina Vandi, Konstantinos Argiros",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Peggy Zina",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -246,6 +246,24 @@
       "duration_ms": 170595,
       "name": "Amartiste",
       "url": "https://open.spotify.com/track/55ep0yZZ26g4utQDKsRRMy"
+    },
+    {
+      "album": {
+        "name": "Amyna",
+        "url": "https://open.spotify.com/album/1AzKX9Jk5enuqbdbTG6wdf"
+      },
+      "artists": [
+        {
+          "name": "Peggy Zina",
+          "url": "https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "Amyna",
+      "url": "https://open.spotify.com/track/3taCePOvlBh8K72OS2I0B9"
     },
     {
       "album": {
@@ -578,7 +596,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 134201,
       "name": "Ayto Einai Sosto",
       "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
@@ -2052,10 +2070,28 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200564,
       "name": "Kerasmena",
       "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
+    },
+    {
+      "album": {
+        "name": "Kollima",
+        "url": "https://open.spotify.com/album/0LEQbCuNx05qvuTE4BnSEc"
+      },
+      "artists": [
+        {
+          "name": "Panos Kalidis",
+          "url": "https://open.spotify.com/artist/1rylldluHh9z6RiCzLNUsC"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197551,
+      "name": "Kollima",
+      "url": "https://open.spotify.com/track/1jGZX7XcviQ8PAwOCnP0pA"
     },
     {
       "album": {
@@ -3321,6 +3357,28 @@
     },
     {
       "album": {
+        "name": "Apo To Xthes Sto Simera (Part 2)",
+        "url": "https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        },
+        {
+          "name": "Sfera 102.2",
+          "url": "https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215937,
+      "name": "Plati",
+      "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
+    },
+    {
+      "album": {
         "name": "Poios Tha Tou To Pei",
         "url": "https://open.spotify.com/album/2MxKF6SqvEIfwzmUpHTa6i"
       },
@@ -4226,7 +4284,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 227565,
       "name": "Tha Me Kitas Sta Matia",
       "url": "https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ"

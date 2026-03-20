@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,133 songs - 2 day 15 hr 59 min
+1,139 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Are People Using You?](https://open.spotify.com/track/2fsA3XI9opXlccokC6NsoM) | [Cult Baby](https://open.spotify.com/artist/4H5r2jSXuuthJVe4aek67I) | [Are People Using You?](https://open.spotify.com/album/1aBDhplfiRfJyJv3L4i3UX) | 2:56 | 2026-01-03 | 2026-01-22 |
 | [Are We Not Men?](https://open.spotify.com/track/2dsddOLeJMxJIKDuBysVz1) | [Ben Gel](https://open.spotify.com/artist/061zXo3f18S4rvBolMK6Pk) | [Are We Not Men?](https://open.spotify.com/album/1s9mkvAm9niE20qM0lH1mf) | 3:07 | 2026-03-17 |  |
 | [As It Was](https://open.spotify.com/track/7uhTlxl2fbbqXiRZnNbj7F) | [Never A Phase](https://open.spotify.com/artist/2RIF672EPlrRjsSl9MdTz2) | [As It Was](https://open.spotify.com/album/2br82fYprVhypZEPo241TB) | 4:02 | 2026-02-25 | 2026-03-17 |
+| [Asshole](https://open.spotify.com/track/58TAP86mhvjX6VH2w45k8I) | [High Wasted Genes](https://open.spotify.com/artist/2wEqBI8GfibxbVN6XRgMBC) | [Asshole](https://open.spotify.com/album/0wvE6tMZOyf1gQ3qNVhNas) | 3:53 | 2026-03-19 |  |
 | [Assistant Professional White Guy](https://open.spotify.com/track/08ZbBfxfoq46UKPl1hTU1x) | [Doctor Striker](https://open.spotify.com/artist/0IDqaDsgC4usGdu6uprBl9) | [Assistant Professional White Guy](https://open.spotify.com/album/5kv8JWGcKDhj7Ydam26Q3W) | 2:46 | 2026-02-11 | 2026-03-03 |
 | [At The Show / \(Relentless Chorus\)](https://open.spotify.com/track/1FEwu0DCid0V8Lebrhu4nq) | [Serjj](https://open.spotify.com/artist/4fXBoPnJBmstbjnl56NRog) | [At The Show / \(Relentless Chorus\)](https://open.spotify.com/album/4lk21sK4COUZowEaFD8DDm) | 3:32 | 2026-01-06 | 2026-02-07 |
 | [Atom Bomb](https://open.spotify.com/track/0GEAESWN5R2E7KNNca4URa) | [strudlmaus](https://open.spotify.com/artist/64c2HxJcbeg3rb181pIS0n) | [Atom Bomb](https://open.spotify.com/album/5H99PB5MlTLfZBeZBDLqz3) | 2:40 | 2026-01-23 | 2026-02-24 |
@@ -400,6 +401,7 @@
 | [Greedy](https://open.spotify.com/track/2EpfWYkOZPkXCqFvJXYlw5) | [I'd Rather Be](https://open.spotify.com/artist/4EETQElkLfuxxTydmWxpLS) | [Greedy](https://open.spotify.com/album/21vKeyIaOKGHc1G98mjAX7) | 2:14 | 2026-01-30 | 2026-03-03 |
 | [Green Dynamite](https://open.spotify.com/track/1ZD6uio5K3zI6K605c0IkW) | [Nexus\_0](https://open.spotify.com/artist/1DeTbdvBWontCdCJThnYV8) | [Green Dynamite](https://open.spotify.com/album/79l6J16R93JFWhOJi7uQxo) | 3:54 | 2026-03-02 |  |
 | [Groceries](https://open.spotify.com/track/3XchDQDHTVYGWEVBKGPe6N) | [Tired Cossack](https://open.spotify.com/artist/7LZt0YpmFcot7UQ7BqOQtq) | [Groceries](https://open.spotify.com/album/0Gy6SeuSqw6J5Zp2AddiJ0) | 2:40 | 2026-03-10 |  |
+| [GROWING](https://open.spotify.com/track/33RszjKEEGkz8mvT2D6hcN) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/192wCJGiB81LgOfTQBxlpN) | 2:49 | 2026-03-19 |  |
 | [Grown Up](https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI) | [The DT's](https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ) | [Grown Up](https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh) | 3:16 | 2025-12-25 | 2026-01-15 |
 | [GUARDIAN](https://open.spotify.com/track/08F0GASkCAgiQiSCezLqAA) | [ethical artifacts](https://open.spotify.com/artist/7IHO8Z5AdfjxUv1KkIE6fV) | [GUARDIAN](https://open.spotify.com/album/5ihPLwitCr5awlUmBzpK5g) | 4:18 | 2025-12-19 | 2026-01-22 |
 | [Gun Woman](https://open.spotify.com/track/38GuJUr9v3GUVrPhkHgeOo) | [Ghost Track](https://open.spotify.com/artist/5eLsN49fM4Zi7l2vy9YVp4) | [Ghost Track](https://open.spotify.com/album/3fbtcP0lSzHJeU6F7wxu2g) | 3:22 | 2026-03-18 |  |
@@ -764,6 +766,7 @@
 | [Real Woman \(Alternate Mix\)](https://open.spotify.com/track/4TsFSZhRCJfNc1bgkFdz2b) | [Dan Tanas](https://open.spotify.com/artist/2yzyxkgMmo3NHftdGfhXui) | [Real Woman \(Alternate Mix\)](https://open.spotify.com/album/3qeJzn5YhNZmyXk0gi5Yh6) | 5:12 | 2026-01-15 | 2026-02-03 |
 | [Reanimatrix](https://open.spotify.com/track/4RwmCfgq9AYs8QFRYmvhoy) | [Lake Mar/E](https://open.spotify.com/artist/0MmYo1dIk0fPxoGIsYWRkg) | [Reanimatrix](https://open.spotify.com/album/0zveQ08GWmblWerK3rMyBg) | 3:55 | 2026-03-12 |  |
 | [Reckoner](https://open.spotify.com/track/2iydK1qSBLuqkOogdnWzQT) | [Late Night Fights](https://open.spotify.com/artist/6GkSLJj5CGLIckLIb8J4LR) | [Reckoner](https://open.spotify.com/album/5S6gBnGssCAdZ4diqX1Y5q) | 5:15 | 2026-02-25 |  |
+| [Red Flag](https://open.spotify.com/track/29ylbdInlkxo9EBbaJfKWq) | [MOODE.ART](https://open.spotify.com/artist/18OtkFSnmwUZFiPFBMnZIH) | [S'THANDWA](https://open.spotify.com/album/3yqGzNSW7vxbq95BZ1raCb) | 3:44 | 2026-03-19 |  |
 | [Red Light, Danger!](https://open.spotify.com/track/62y4Ymu5RGcFzl9VyjWe2N) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Red Light, Danger!](https://open.spotify.com/album/29CA8Ld2mCKoeazUqbdCOO) | 4:05 | 2026-01-01 | 2026-01-22 |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
 | [Regular Piece Of Shit](https://open.spotify.com/track/27zQNRkLR1kfhIuyfTcMic) | [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Regular Piece Of Shit](https://open.spotify.com/album/6B5lAhbdRmNihTZ2OqZd9e) | 2:43 | 2026-01-26 | 2026-02-27 |
@@ -780,6 +783,7 @@
 | [Resistance](https://open.spotify.com/track/2MjWYeEx3LmtqihJjRRMw3) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana](https://open.spotify.com/album/0eMRitbmy4cdRn4lHXTNdA) | 3:42 | 2025-08-03 |  |
 | [Resistance \(remaster\)](https://open.spotify.com/track/0dq6lmjXEcwFDa6E7ZPWua) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:40 | 2025-09-22 |  |
 | [Restless](https://open.spotify.com/track/2tXEqX2Jx7iunIzheetaYU) | [Grandma's Chandelier](https://open.spotify.com/artist/6dtP5fyPl76HScmIsqell7) | [Restless](https://open.spotify.com/album/6FHcXFlvN7EclypTMGlYLR) | 4:49 | 2025-11-21 | 2025-12-10 |
+| [Reverse](https://open.spotify.com/track/6Su3jNXEUCLmy3hAVJyZmd) | [Flo.Von](https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV), [Tim Klein](https://open.spotify.com/artist/3XGnDIrgR2jEqdXDRMWqEH) | [Reverse](https://open.spotify.com/album/0osGwMc2y9GS7noTPVRLiB) | 2:47 | 2026-03-19 |  |
 | [Revolve \(remaster\)](https://open.spotify.com/track/2MaNnKD4kbBjtKMXnuuBX3) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:21 | 2025-09-18 |  |
 | [Rewind to Fade](https://open.spotify.com/track/5rjzfPZ8jhERbENZlVjOLI) | [She's Got Claws](https://open.spotify.com/artist/4zz5npLXbyTXmCpsF5R2cN) | [Stronger the Faith](https://open.spotify.com/album/4ac8AjLbvxIk2HWrsRDVWj) | 3:26 | 2026-02-20 | 2026-03-12 |
 | [Right As Rain](https://open.spotify.com/track/28AL8pLijFZ2pr450Cu8Ud) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [Dancing Is Forbidden!](https://open.spotify.com/album/4oqkNK5zI7Q0JzBNy1TPMA) | 3:26 | 2026-01-14 | 2026-02-03 |
@@ -809,6 +813,7 @@
 | [Searchlights](https://open.spotify.com/track/053X0nqmnEYzlLgQ4kuHC3) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:12 | 2025-08-03 |  |
 | [Secret Ive Kept](https://open.spotify.com/track/2wEDn3xrlM2sl8AYMomUEn) | [Unders](https://open.spotify.com/artist/3hrtWqTWO3ZRGYgS7CCAm4) | [Secret Ive Kept](https://open.spotify.com/album/7fOQzg0OXncPxI8xE9v6U0) | 5:36 | 2025-11-03 | 2025-12-10 |
 | [Secret Speech](https://open.spotify.com/track/3sXhaB5xzmKLbqE8VcNt3P) | [Sugar Horse](https://open.spotify.com/artist/6WsGWiP2wXeG3nbMWADUim) | [Secret Speech](https://open.spotify.com/album/3h7tf7wDKblO61CMnLAzE2) | 4:02 | 2026-02-20 |  |
+| [Sedative](https://open.spotify.com/track/1CXQdY5PViOyD3In9YlWmz) | [Cranked](https://open.spotify.com/artist/7Lf6ADGQEPghnrtwHpMAKw) | [Sedative](https://open.spotify.com/album/1tJuF6JzxMYeXJN9y7gIjc) | 3:13 | 2026-03-19 |  |
 | [See You In The Wind](https://open.spotify.com/track/4zV9OGWWiW64XkdwvV8GYD) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [See You In The Wind](https://open.spotify.com/album/3lJRKYhDtNEI2rcDP3q4Do) | 3:02 | 2026-01-12 | 2026-02-03 |
 | [Seethe](https://open.spotify.com/track/6Kn7KRJBXAhnxMchEHqAMJ) | [The Blood Curdles](https://open.spotify.com/artist/7yKMvje6ohU399QAzMpNCb) | [Seethe](https://open.spotify.com/album/0J1tDeBG8NyBX2HxfHMoXE) | 2:19 | 2026-02-03 | 2026-03-07 |
 | [Self Defense](https://open.spotify.com/track/3XMMzreRK09nPiptIaQArd) | [BLFST](https://open.spotify.com/artist/3lk9j4pL4HTXJjBDs9Pje5) | [Self Defense](https://open.spotify.com/album/6CJ9mRl7IY07nypm4D0osV) | 3:19 | 2025-12-11 | 2026-01-06 |
@@ -835,6 +840,7 @@
 | [Shine](https://open.spotify.com/track/4Z4XWCv7Kamr8YWMjwWY1g) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 4:19 | 2025-12-08 | 2026-01-06 |
 | [Shit Out Of Luck](https://open.spotify.com/track/5QqPn9qJ2xBUGqsoWYwy37) | [Mermaid Island](https://open.spotify.com/artist/7iGEsQzSOaEhXNgTSKfqSS) | [The Shit Split](https://open.spotify.com/album/71DZycL3EgRqrdUFu6Eetf) | 4:02 | 2026-03-17 |  |
 | [SHIT!! OUTTA LUCK...](https://open.spotify.com/track/5fexDtSRoaEsHmB5K6XCw6) | [Layth](https://open.spotify.com/artist/5q3nzH71lFnidI5GWiMzEL) | [I AM WHAT I AM AND NOTHING MORE](https://open.spotify.com/album/3KJIS9RXhILWed8L6GR2Ey) | 1:39 | 2026-03-09 |  |
+| [Shockpulse Overdrive](https://open.spotify.com/track/3Mhz6T4CDfLCtHKRseGhb3) | [NYRHEA WAVE](https://open.spotify.com/artist/1kfCm14imhJXghVNY1E02Z) | [High Tension Frequency](https://open.spotify.com/album/2AJN22QbnaEo8ElRquJhsU) | 1:50 | 2026-03-19 |  |
 | [shoes](https://open.spotify.com/track/3ArDIn5jS9zudfbT54fdeW) | [foureyes](https://open.spotify.com/artist/1N2WG7si2PeqFemMgPXoG9) | [shoes](https://open.spotify.com/album/1sTWAPMKOH7Pw5A5XWJ1Jk) | 3:50 | 2026-01-08 | 2026-01-29 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2026-01-20 | 2026-02-12 |
 | [Shortchanged Even Shorter](https://open.spotify.com/track/3yUpbRXgwt0yftpRTlfeRK) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Shortchanged Even Shorter](https://open.spotify.com/album/4imrwR8PREQhfAsQKkfIeE) | 3:03 | 2025-12-01 | 2025-12-24 |

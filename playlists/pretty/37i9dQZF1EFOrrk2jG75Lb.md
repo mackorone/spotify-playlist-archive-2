@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 43 | [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 |
 | 44 | [Esta Si Va Para Ti](https://open.spotify.com/track/4erfK0Eutehoe1tc2l5XWE) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Versus](https://open.spotify.com/album/2qHa6D9zffuZhKxi0xtpUB) | 3:33 |
 | 45 | [Q.E.P.D.](https://open.spotify.com/track/1nZU8WqaCNG0FprwG3r0QV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 2:37 |
-| 46 | [Quítame La Ropa](https://open.spotify.com/track/4kUMlxewJpjYuopLClp38R) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Inmortal \(En Vivo/Deluxe\)](https://open.spotify.com/album/7hStMz0Ez50koiBxtzfmRL) | 3:00 |
-| 47 | [Sabes](https://open.spotify.com/track/2wl9MZI8RvGCEAWNFzEQ2d) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:58 |
+| 46 | [Sabes](https://open.spotify.com/track/2wl9MZI8RvGCEAWNFzEQ2d) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:58 |
+| 47 | [Quítame La Ropa](https://open.spotify.com/track/4kUMlxewJpjYuopLClp38R) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Inmortal \(En Vivo/Deluxe\)](https://open.spotify.com/album/7hStMz0Ez50koiBxtzfmRL) | 3:00 |
 | 48 | [Que Emane](https://open.spotify.com/track/4smt7R9eqj7Tayae2ELEvU) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [6 Super Hits](https://open.spotify.com/album/3Hpql8w5zpptxGHF7d5fpi) | 3:52 |
 | 49 | [Sin Miedo A Nada](https://open.spotify.com/track/6FMAicEUZ4FtSRDfoSkgMn) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:07 |
 | 50 | [Cobardía](https://open.spotify.com/track/6z8AtxXDLKj3Q4rgzxJTtt) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:03 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 78 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/5tcxo91GPmSVgMEw8r0TzB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:02 |
 | 79 | [Un Ángel De Dios \(Aleluya\)](https://open.spotify.com/track/5Q02SSgigCQRCysAyDto0J) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:36 |
 
-Snapshot ID: `AcMflAAAAAD2egW14AUuK3xwPGVf6L5J`
+Snapshot ID: `AcMlNAAAAAD4qOir3YtGAthCZvJBMDw9`

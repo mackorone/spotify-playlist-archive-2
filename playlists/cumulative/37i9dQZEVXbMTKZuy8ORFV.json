@@ -5520,6 +5520,24 @@
     {
       "album": {
         "name": "Bonita Bonita",
+        "url": "https://open.spotify.com/album/16Dzbm2u0PdEArnEH1uopC"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277635,
+      "name": "Bonita Bonita",
+      "url": "https://open.spotify.com/track/2H5wRgIzqqUS7s5MpXBwlg"
+    },
+    {
+      "album": {
+        "name": "Bonita Bonita",
         "url": "https://open.spotify.com/album/6DnijYTJLedFzZ1VJ5ZA6O"
       },
       "artists": [
@@ -10088,7 +10106,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 214920,
       "name": "Cuando quieres",
       "url": "https://open.spotify.com/track/502iJvcXNph5p8oPqjg0M8"
@@ -14426,7 +14444,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 214644,
       "name": "Eres un 10",
       "url": "https://open.spotify.com/track/0HjfOnQRKw8j73hrdjlVmw"
@@ -16308,7 +16326,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
@@ -18136,6 +18154,28 @@
       "duration_ms": 177000,
       "name": "Hala Madrid ...y nada m\u00e1s",
       "url": "https://open.spotify.com/track/5pIy4qzGJmEElPppFxSN8W"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/1hBlcW6ovv4zJ5Okl2Lc8u"
+      },
+      "artists": [
+        {
+          "name": "Red Shine",
+          "url": "https://open.spotify.com/artist/2cmJgaNX2PMjQ3yyBX8C5z"
+        },
+        {
+          "name": "Whitehouse",
+          "url": "https://open.spotify.com/artist/4BHEkFlA3YXUwyKbWBMeX2"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126160,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/2Ya55JpsLWKJUWFulImAJy"
     },
     {
       "album": {
@@ -20946,7 +20986,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 161695,
       "name": "KAWASAKI (&TEAM Remix)",
       "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
@@ -23902,7 +23942,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -27430,7 +27470,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 97758,
       "name": "MONTAGEM DOMER - Ultra Slowed",
       "url": "https://open.spotify.com/track/3qWGanhvLi5OBtlsfCsqtp"
@@ -29608,7 +29648,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -36536,7 +36576,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -36554,7 +36594,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -38462,7 +38502,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 169719,
       "name": "Sin Medias Tintas",
       "url": "https://open.spotify.com/track/0xM0fCKQsuOuvehwLgMdVx"
@@ -42620,7 +42660,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
@@ -45016,7 +45056,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"
@@ -47570,7 +47610,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 262400,
       "name": "Y Si Te Quedas, Que?",
       "url": "https://open.spotify.com/track/42X4cUqxpcu0wRhazXplak"
@@ -48032,7 +48072,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 118666,
       "name": "Yo te conozco :):",
       "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"

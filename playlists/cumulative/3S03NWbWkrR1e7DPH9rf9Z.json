@@ -4715,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "Wake Me Up (I'm Alive)",
+        "url": "https://open.spotify.com/album/6h7bRxq7UfqGA1xZDPJe3S"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Wake Me Up (I'm Alive)",
+      "url": "https://open.spotify.com/track/6xS0c6nbKlUq8blm3Qq5Ad"
+    },
+    {
+      "album": {
         "name": "Revealed Recordings presents ADE Sampler 2023",
         "url": "https://open.spotify.com/album/0DB4352TIbGPGz1gSkENN8"
       },

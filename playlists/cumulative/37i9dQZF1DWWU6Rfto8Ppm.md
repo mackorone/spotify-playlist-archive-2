@@ -4,7 +4,7 @@
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-475 songs - 1 day 4 hr 16 min
+476 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Al Natural](https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:33 | 2023-03-21 |  |
 | [Al Natural \(feat\. Yandel\)](https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [El Enemy de Los Guasíbiri](https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L) | 3:24 | 2021-12-17 | 2023-03-21 |
 | [Algo Me Gusta De Ti](https://open.spotify.com/track/3nDNXKBb5fRTuQXpeowWTT) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:35 | 2022-07-27 | 2023-10-19 |
-| [Algo Musical](https://open.spotify.com/track/4oYN44rloSqxabqrSgIani) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Exitos](https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx) | 3:29 | 2021-12-17 |  |
+| [Algo Musical](https://open.spotify.com/track/1Koxb4StDE2K7XsuDunx76) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:54 | 2026-03-19 |  |
+| [Algo Musical](https://open.spotify.com/track/4oYN44rloSqxabqrSgIani) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Exitos](https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx) | 3:29 | 2021-12-17 | 2026-03-20 |
 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 | 2021-12-17 |  |
 | [Alocate](https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 2:32 | 2024-06-18 |  |
 | [Alocate](https://open.spotify.com/track/58smrlsnspzIZKaiSJEJ6y) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:06 | 2023-12-21 | 2024-06-17 |

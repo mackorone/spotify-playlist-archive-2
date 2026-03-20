@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172405,
       "name": "Behtar",
       "url": "https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 220320,
       "name": "Chand Maine Dekha",
       "url": "https://open.spotify.com/track/2FTb2WM3Oy9NeluBrqUQDq"
@@ -5947,6 +5947,36 @@
     },
     {
       "album": {
+        "name": "Hello Bachhon (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J"
+      },
+      "artists": [
+        {
+          "name": "Suvarna Tiwari",
+          "url": "https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC"
+        },
+        {
+          "name": "Noxious D",
+          "url": "https://open.spotify.com/artist/6qMKYqfmlgmBFayGbFzgMd"
+        },
+        {
+          "name": "Aanand Bajpai",
+          "url": "https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK"
+        },
+        {
+          "name": "Geet Sagar",
+          "url": "https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145350,
+      "name": "Jaadu (From \"Hello Bachhon\")",
+      "url": "https://open.spotify.com/track/1qNy6lumbs7h0Tx2oL8lZ2"
+    },
+    {
+      "album": {
         "name": "Dhurandhar The Revenge",
         "url": "https://open.spotify.com/album/7eMMfuSyi30y0vNn2Vd0H4"
       },
@@ -5963,7 +5993,7 @@
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 332203,
+      "duration_ms": 331244,
       "name": "Jaan Se Guzarte Hain",
       "url": "https://open.spotify.com/track/0bdA7CMrqT1qJVwwhw2Yn4"
     },
@@ -7966,7 +7996,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 252213,
       "name": "Maai Teri Yaad (From \"Assi\")",
       "url": "https://open.spotify.com/track/70quzh1qwe0o7qsDd6lQN8"
@@ -9258,7 +9288,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 173406,
       "name": "Naam Karu Bada - From \"Tu Yaa Main\"",
       "url": "https://open.spotify.com/track/23kMv9ZRkuZMBRmMQ7f7Wq"
@@ -10051,6 +10081,32 @@
     },
     {
       "album": {
+        "name": "Parchhaiyan",
+        "url": "https://open.spotify.com/album/5XdV9tpYLzz5NvnV6IM9CS"
+      },
+      "artists": [
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Phosphenes",
+          "url": "https://open.spotify.com/artist/2HISYRhPoA9lFTL7c32l3Q"
+        },
+        {
+          "name": "Timothy Thampy",
+          "url": "https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197659,
+      "name": "Parchhaiyan",
+      "url": "https://open.spotify.com/track/2PvoucU5Pm9SeLN9neuJpX"
+    },
+    {
+      "album": {
         "name": "Pardesiya (From \"Param Sundari\")",
         "url": "https://open.spotify.com/album/4hHAxLq4VGuyb6HsyUIPGd"
       },
@@ -10230,6 +10286,32 @@
       "duration_ms": 207916,
       "name": "Phir Na Milenge",
       "url": "https://open.spotify.com/track/1eTTBpmpHHe0Or4hZ54qJV"
+    },
+    {
+      "album": {
+        "name": "Phir Se (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/29d9h0aVlxJus5RkvjQces"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353085,
+      "name": "Phir Se (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/1i6Uk2tHzDbWgxhlEayzYb"
     },
     {
       "album": {
@@ -11955,6 +12037,28 @@
     },
     {
       "album": {
+        "name": "Hello Bachhon (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J"
+      },
+      "artists": [
+        {
+          "name": "Aanand Bajpai",
+          "url": "https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK"
+        },
+        {
+          "name": "Geet Sagar",
+          "url": "https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102247,
+      "name": "Sapno Ki Zidd (From \"Hello Bachhon\")",
+      "url": "https://open.spotify.com/track/6eR4exufGdIY2alJNZHFW1"
+    },
+    {
+      "album": {
         "name": "Sapphire (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7"
       },
@@ -12516,7 +12620,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 122748,
       "name": "SPEAKERTOWN",
       "url": "https://open.spotify.com/track/4Tdp143MfFfudPg5VoW1ps"
@@ -13161,6 +13265,32 @@
     },
     {
       "album": {
+        "name": "Tere Ishq Ne (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/5alSSvYlOrQ91HdwJsbtRc"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338070,
+      "name": "Tere Ishq Ne (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/6iMasiFzpQt3Y8c9EnITCP"
+    },
+    {
+      "album": {
         "name": "Tere Sang (From \"Echoes Of Us\")",
         "url": "https://open.spotify.com/album/1GLH2yt6Y5Hk9TH5bX2hZa"
       },
@@ -13372,7 +13502,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 118078,
       "name": "The Lalla Anthem - Warning From Subedaar (From \"Subedaar\")",
       "url": "https://open.spotify.com/track/7pIk5lVxAxT3GHd8fQXZW4"
@@ -13822,7 +13952,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 246043,
       "name": "Tu Jaane Hai Kahan",
       "url": "https://open.spotify.com/track/4zZlZgX3sleF4h8XTnxY14"
@@ -14374,6 +14504,36 @@
       "duration_ms": 261000,
       "name": "Uss Dilnashi",
       "url": "https://open.spotify.com/track/3je1pOIzXhiWjuUKaWN4lc"
+    },
+    {
+      "album": {
+        "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
+        "url": "https://open.spotify.com/album/3ZuPJdRCHLLmqr2y6qrqKC"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Jyoti Nooran",
+          "url": "https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249047,
+      "name": "Vaari Jaavan (From \"Dhurandhar The Revenge\")",
+      "url": "https://open.spotify.com/track/1qJiRzRlmNrzYBsMdVPqT2"
     },
     {
       "album": {
@@ -15262,6 +15422,28 @@
       "duration_ms": 202750,
       "name": "Zulf Ko",
       "url": "https://open.spotify.com/track/4sXj9ECdXtbXY9sqAM8oOA"
+    },
+    {
+      "album": {
+        "name": "Zulfe",
+        "url": "https://open.spotify.com/album/46guavxrNdZddtM3XouUli"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        },
+        {
+          "name": "Trosk",
+          "url": "https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "Zulfe",
+      "url": "https://open.spotify.com/track/5Jr6BVsaP2w8YgkFxobTYf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd8cOUiye1o2"

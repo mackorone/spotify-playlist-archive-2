@@ -213,6 +213,28 @@
     },
     {
       "album": {
+        "name": "4AM IN MONTPARNASSE",
+        "url": "https://open.spotify.com/album/3dOQhR3xaAI4pWFrwtry0G"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "NSE",
+          "url": "https://open.spotify.com/artist/55b6kN2JxVjfSA9KeqPvNB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177087,
+      "name": "4AM IN MONTPARNASSE",
+      "url": "https://open.spotify.com/track/6MNXS2m92WC3CqQbjGHzNV"
+    },
+    {
+      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -3580,7 +3602,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 191611,
       "name": "DANGEROUS",
       "url": "https://open.spotify.com/track/5xrMWjauz6o9VMkAv3IsEP"
@@ -3888,6 +3910,32 @@
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
       "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
+    },
+    {
+      "album": {
+        "name": "Wahala Princess",
+        "url": "https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2"
+      },
+      "artists": [
+        {
+          "name": "Somadina",
+          "url": "https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Don't Suffer (feat. Winny)",
+      "url": "https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl"
     },
     {
       "album": {
@@ -5795,6 +5843,28 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+    },
+    {
+      "album": {
         "name": "Chequemate",
         "url": "https://open.spotify.com/album/2EPnjTlC52Hr4LPIHNjcjt"
       },
@@ -6780,7 +6850,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156000,
       "name": "Kyekyere Me",
       "url": "https://open.spotify.com/track/5kSLwrX3DptO1p4II5yjCJ"
@@ -7368,7 +7438,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 146206,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5HBMAC4czl16G9oqH6TjlD"
@@ -8640,10 +8710,32 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 153500,
       "name": "My Shayla",
       "url": "https://open.spotify.com/track/2c0dnFPOisvOiWOCAzHhdZ"
+    },
+    {
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/74RhE1JGTExeB44bXPuwXd"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2STn48rKSuwKc5SdwpAslT"
     },
     {
       "album": {
@@ -9688,7 +9780,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 185567,
       "name": "Painless Melody",
       "url": "https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla"
@@ -10180,6 +10272,32 @@
       "duration_ms": 171133,
       "name": "Poison",
       "url": "https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh"
+    },
+    {
+      "album": {
+        "name": "Pongo",
+        "url": "https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189197,
+      "name": "Pongo",
+      "url": "https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu"
     },
     {
       "album": {
@@ -10788,7 +10906,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 128399,
       "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
       "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"
@@ -13507,6 +13625,32 @@
     },
     {
       "album": {
+        "name": "Tropicana",
+        "url": "https://open.spotify.com/album/3iESACtNvFj9ow5aQOTicl"
+      },
+      "artists": [
+        {
+          "name": "Sinachi",
+          "url": "https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si"
+        },
+        {
+          "name": "Oshunda",
+          "url": "https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C"
+        },
+        {
+          "name": "9roovy",
+          "url": "https://open.spotify.com/artist/1vcTEePkCTv3XMyuVNSAMy"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147152,
+      "name": "Tropicana",
+      "url": "https://open.spotify.com/track/1wTupR6XF1y1yduWbrBa1x"
+    },
+    {
+      "album": {
         "name": "troublin - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
       },
@@ -14679,6 +14823,28 @@
     },
     {
       "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
+    },
+    {
+      "album": {
         "name": "Not A Project",
         "url": "https://open.spotify.com/album/4OxET58i2SHiaQcsSHgbzV"
       },
@@ -15196,7 +15362,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 175841,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/5WLQv9nYwTjnSOsSLCLp4p"

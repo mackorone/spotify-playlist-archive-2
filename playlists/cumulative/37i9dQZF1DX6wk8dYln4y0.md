@@ -4,7 +4,7 @@
 
 > music that just \*hits different\* Cover: Olivia C\. Dacal
 
-675 songs - 1 day 12 hr 25 min
+676 songs - 1 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2023-08-25 | 2024-06-19 |
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-04-11 | 2024-04-19 |
 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 | 2024-06-04 | 2025-06-13 |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-19 |  |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-17 | 2024-11-15 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-16 | 2024-12-13 |
 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 | 2025-11-13 | 2026-03-13 |
@@ -361,7 +362,7 @@
 | [Lo Siento](https://open.spotify.com/track/3Xa9v5iDy4tLPgGeQs7hmp) | [benison](https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO) | [Lo Siento](https://open.spotify.com/album/6wXMg8fNDm6LYr6K3pK8Vk) | 2:28 | 2024-04-18 | 2024-04-26 |
 | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/track/4ipGjejGLalq6rCtK7Mmom) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Locked & Loaded \(Official Fortnite Anthem\)](https://open.spotify.com/album/5akMIsx9jTHVmu5FBi0kTe) | 2:36 | 2025-09-11 | 2025-12-13 |
 | [Locket](https://open.spotify.com/track/3iMfaUUhpNkPJWuuwpE0zk) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Locket](https://open.spotify.com/album/6Mzh22WFS0KC7zRzGup0f5) | 3:13 | 2025-08-14 | 2025-09-19 |
-| [Lonely Touch](https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lonely Touch](https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM) | 3:21 | 2026-01-15 |  |
+| [Lonely Touch](https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lonely Touch](https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM) | 3:21 | 2026-01-15 | 2026-03-20 |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-07-18 | 2024-08-28 |
 | [Lose My Lines](https://open.spotify.com/track/4f8X83eDJJtiZGxToICuLN) | [Wells\*](https://open.spotify.com/artist/4znHFKahg05RTuhSzEIZ41), [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [i don't want you to miss this](https://open.spotify.com/album/4kehE9ww8kz7L7gyjamK9p) | 2:38 | 2024-12-05 | 2025-01-10 |
 | [Lost To The Moon](https://open.spotify.com/track/5IHO4GcaF8ex9oLww2kh4S) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Lost To The Moon](https://open.spotify.com/album/4FIqjEd8BlFta4bHD4WLNN) | 4:04 | 2025-04-03 | 2025-05-02 |

@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-143 songs - 8 hr 56 min
+144 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Year at Sea](https://open.spotify.com/track/1p9uEGKBoxxSYgn8EwN2Ow) | [Syd Hudson](https://open.spotify.com/artist/0RQfr3D9JzuXGAak4PLYUR) | [Year at Sea](https://open.spotify.com/album/0FfQPEOGLymCabi1qTH9QJ) | 3:51 | 2025-10-02 |  |
 | [You](https://open.spotify.com/track/3a90kg1iqzqTubBGzAuegL) | [Lydia Rowlands](https://open.spotify.com/artist/6A9Rjs90JR5Ir2IayaLOEh) | [You](https://open.spotify.com/album/3u8qN8cx7nLlXhxls9bYgI) | 4:43 | 2025-09-04 |  |
 | [You Are Freak](https://open.spotify.com/track/0VTgOZ03OJ0fN8LKQ513I1) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ) | [Brst 62](https://open.spotify.com/album/0CNmgv2VnSC3R3BisvIENj) | 3:04 | 2026-01-12 |  |
+| [You Don't Know Me](https://open.spotify.com/track/6dM7waRbFfsjNeATYqehYA) | [The Castaways](https://open.spotify.com/artist/4ewY1VD6VLTTNTjYabMfKZ) | [You Don't Know Me](https://open.spotify.com/album/4Gh5QsJW3oebWvFnwfRtAq) | 4:57 | 2026-03-19 |  |
 | [Your Light](https://open.spotify.com/track/2feL5CrldN5Qk2hYZgxeYs) | [Radiogeist](https://open.spotify.com/artist/4DyDsTZASajZFpfOdBvSsk) | [9](https://open.spotify.com/album/5M5LOKNr2dwyUXf4BjOavV) | 3:02 | 2025-11-04 |  |
 | [You’re Not There](https://open.spotify.com/track/2ZvFxhehRLBvz65yugCU0i) | [VoodooMirage](https://open.spotify.com/artist/3nSA1zY4DETNYKugJVCHJf) | [You’re Not There](https://open.spotify.com/album/5zJiYG3qCNZTv3ubwqY8xX) | 4:16 | 2025-01-04 |  |
 | [Дороги снегом замело...](https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Дороги снегом замело...](https://open.spotify.com/album/2pTVHLJ4wxSOWXshqJE2nX) | 2:59 | 2025-09-22 |  |

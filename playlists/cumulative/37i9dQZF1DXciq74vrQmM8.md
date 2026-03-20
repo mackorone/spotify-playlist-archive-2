@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. chalk
+> welcome to our universe ft\. alt blk era
 
-1,271 songs - 2 day 14 hr 35 min
+1,274 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Black Punk](https://open.spotify.com/track/00mQ7YTqP92vZU4jW4Zdxh) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Black Punk](https://open.spotify.com/album/2Uu7ur5jyDonV9tHvy4ILX) | 2:30 | 2022-06-16 | 2022-07-29 |
 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-07-28 | 2023-03-09 |
 | [blame](https://open.spotify.com/track/3nuMtZAqdSLTGAWBQnvjsZ) | [Sinxi](https://open.spotify.com/artist/7gPvslUym7gEDxebPSkGkZ) | [blame](https://open.spotify.com/album/3SfHODt7uKCPq4lcesaFum) | 3:57 | 2024-07-18 | 2024-10-04 |
+| [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4) | 4:22 | 2026-03-20 |  |
 | [BLAST](https://open.spotify.com/track/1KFoSgEXNktySoRzA3dQwT) | [Charles Jeffrey LOVERBOY](https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ), [Taliable](https://open.spotify.com/artist/2STpck5MSfT4rIOAVsdn1L) | [NEKO](https://open.spotify.com/album/6uDqbQjGjh4X8CMK9mPJc6) | 2:09 | 2022-11-04 | 2023-01-13 |
 | [BLEACH](https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [BLEACH](https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO) | 2:28 | 2026-02-06 |  |
 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-03-24 | 2023-07-07 |
@@ -605,7 +606,7 @@
 | [IM FINE](https://open.spotify.com/track/77uPz7kZIBC8kmBDiiNMfh) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IM FINE](https://open.spotify.com/album/4JlIkjXKZBS80VAhVygA4r) | 2:12 | 2022-09-22 | 2023-05-14 |
 | [Imposter Syndrome](https://open.spotify.com/track/7zce3JYJfyVYF8UmLYvQsq) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Imposter Syndrome](https://open.spotify.com/album/5rSanFwFS56tJs4AvV34t1) | 2:38 | 2023-02-03 | 2023-03-31 |
 | [In Bloom \[WHOKILLEDXIX Remix\]](https://open.spotify.com/track/07f1H1TlstbEnq0E0nhyx1) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH), [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [In Bloom \[WHOKILLEDXIX Remix\]](https://open.spotify.com/album/0oKsaBnhRnfevCUsiB1jbp) | 4:30 | 2022-08-18 | 2022-11-11 |
-| [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 | 2025-09-04 |  |
+| [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 | 2025-09-04 | 2026-03-20 |
 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-02-20 |  |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-15 | 2025-07-25 |
 | [In Too Deep](https://open.spotify.com/track/0oOmvjUwty6SzGqUhwlE99) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [In Too Deep](https://open.spotify.com/album/2SDpVychsWa7E65pM61pjL) | 2:26 | 2025-04-03 | 2025-08-09 |
@@ -716,6 +717,7 @@
 | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/track/1sh5yKwsSfddAumS4rJyZi) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Losing My Grip \(Feat\. Jason Aalon Butler of Fever 333\)](https://open.spotify.com/album/5Hx7U2s7DySYx1KYGJjIzR) | 2:47 | 2024-01-19 | 2024-02-23 |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-04 | 2023-11-18 |
 | [Lost](https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:28 | 2022-02-12 | 2022-12-01 |
+| [Lost In The Back Of My Mind](https://open.spotify.com/track/4si6e3qSbzhKHUoSqskfxI) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Lost In The Back Of My Mind](https://open.spotify.com/album/1Bf8BDVKuVtgq0CONIVahC) | 2:50 | 2026-03-20 |  |
 | [LOST!](https://open.spotify.com/track/7AOe2bLNTnBt09RkfrRudU) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [LOST!](https://open.spotify.com/album/1nMZef6fwTtOO1T3SBZDrI) | 2:06 | 2023-11-10 | 2024-02-23 |
 | [LOTTO BOY](https://open.spotify.com/track/3WF1NUbFv0iBIFSJAoDn0i) | [Rex Arcum](https://open.spotify.com/artist/2aESSO1rH5zYGmkTqvLQfI), [Syano](https://open.spotify.com/artist/58OyCAJb1NYuQMhCeuq8Rt) | [LOTTO BOY](https://open.spotify.com/album/3a7bN2cMrozuYGKdVJI20V) | 3:07 | 2023-02-10 | 2023-03-10 |
 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 | 2024-11-08 | 2025-01-10 |
@@ -1146,7 +1148,7 @@
 | [Tommy](https://open.spotify.com/track/0M5yOiTKWbHlZOGS9q1Lqy) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Tommy](https://open.spotify.com/album/7f79w4qMEqGgFaVgMfBAwb) | 2:02 | 2025-04-10 | 2025-05-16 |
 | [Tommy's Dream \- PVA Remix](https://open.spotify.com/track/6Vwgdkgeo1uj51nSKLg76h) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk), [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Tommy's Dream \(Remixes\)](https://open.spotify.com/album/7Cx0eWI1v5DDPoy3ouf4ZU) | 3:34 | 2023-01-20 | 2023-02-09 |
 | [tone deF](https://open.spotify.com/track/60G59hIoNZSt8YanQKT7yk) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [tone deF](https://open.spotify.com/album/1YuGyZZzXjdj4gLvLvilns) | 2:43 | 2026-01-23 |  |
-| [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-20 |  |
+| [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-20 | 2026-03-20 |
 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 | 2022-08-04 | 2022-09-09 |
 | [Tongue in cheek](https://open.spotify.com/track/5PEaxIDwsHnncKTlBezBpP) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/3zl3Qtgdt9tMVqiMa7RaK1) | 2:36 | 2022-04-19 | 2022-09-09 |
 | [Tonight \(demo\)](https://open.spotify.com/track/1i2secJ8Pl16d59744WFEB) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/2CY6wMGNGCESBIRaaIDF1Y) | 3:13 | 2023-08-17 | 2023-08-30 |
@@ -1188,7 +1190,7 @@
 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 | 2023-11-10 | 2024-04-19 |
 | [VIBE COP](https://open.spotify.com/track/10XUaxmDM4GZiCwjOPw47I) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [VIBE COP](https://open.spotify.com/album/3xsEDdXxK10DCUE4z4p1DF) | 2:53 | 2025-10-03 | 2026-03-06 |
 | [Vigilantes](https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Vigilantes](https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m) | 4:00 | 2025-04-24 | 2026-02-21 |
-| [VIOLENCE](https://open.spotify.com/track/21nMuvJmnxxLUY2DZMYoO7) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [VIOLENCE](https://open.spotify.com/album/3vQtCzuU1jIbTIo7iZe2Ez) | 2:58 | 2025-10-16 |  |
+| [VIOLENCE](https://open.spotify.com/track/21nMuvJmnxxLUY2DZMYoO7) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [VIOLENCE](https://open.spotify.com/album/3vQtCzuU1jIbTIo7iZe2Ez) | 2:58 | 2025-10-16 | 2026-03-20 |
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2022-03-31 | 2022-11-11 |
 | [VOICES](https://open.spotify.com/track/0IeHMHKG0yZ5iu3hgwms8f) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOICES](https://open.spotify.com/album/0rsYd1AOtCS0sdEou7kYVh) | 2:43 | 2024-08-01 | 2024-08-09 |
 | [Volatile](https://open.spotify.com/track/4lm7Ddj64sIerQ9tTFhzjT) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Volatile](https://open.spotify.com/album/6yty6eXGcIvwtBEdO8ywP0) | 3:26 | 2024-08-08 | 2024-11-08 |
@@ -1256,6 +1258,7 @@
 | [yellow tape](https://open.spotify.com/track/6XAzStbS0JfyN17D6vNv2L) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [yellow tape](https://open.spotify.com/album/3Xl7pPxG692nUmLdRsePHE) | 2:20 | 2023-11-10 | 2024-01-26 |
 | [yeR sTupiD NighTmaRe \(mAd wOrLd\)](https://open.spotify.com/track/1GyNFQ9q61xNcIEF9zfpYy) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [yeR sTupiD NighTmaRe \(mAd wOrLd\)](https://open.spotify.com/album/05L6KVtCje3egke9rsNyF2) | 3:31 | 2022-12-02 | 2023-03-25 |
 | [You & I](https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [You & I](https://open.spotify.com/album/6IVg6Cvr9dHktpmkFjOpT6) | 1:54 | 2023-03-03 | 2023-06-09 |
+| [You are what you fear in me\. \- Fairy Metal Version](https://open.spotify.com/track/4JJpaeww6XpLtm4UtojgmQ) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me\. \(Fairy Metal Version\)](https://open.spotify.com/album/4LhidMVMPt03Hnky1FFLzC) | 2:29 | 2026-03-20 |  |
 | [YOU DIED](https://open.spotify.com/track/76hJuzeeHq615YFWu0NyaD) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [YOU DIED](https://open.spotify.com/album/0D9HpjMrmUY5w9LSHVvdM8) | 3:24 | 2025-11-07 |  |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-19 | 2024-07-19 |
 | [You Know Who's Seatbelt](https://open.spotify.com/track/5yznJ7J8XNl7n7pmgy2AVy) | [The Bled](https://open.spotify.com/artist/0EvGuw8fuWFtxhAsBOFTin) | [Pass the Flask](https://open.spotify.com/album/4MQAe56gfSYNCpOvzlmN0S) | 3:01 | 2024-05-28 | 2024-06-07 |

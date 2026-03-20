@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,687 likes - 90 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,702 likes - 90 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 55 | [eres fácil de encontrar](https://open.spotify.com/track/5vVjKAAEYyd6ZSlyuX0S92) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn), [Ivette & Ivon Lopez](https://open.spotify.com/artist/1slcGbJMZhp5sRQJLkeZJV) | [eres fácil de encontrar](https://open.spotify.com/album/2QedKvJJePCBFkLNWYKl2F) | 6:27 |
 | 56 | [Ángeles](https://open.spotify.com/track/1LnGKbPKjghDsNbnDscT5I) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Me Siento Libre](https://open.spotify.com/album/140zosbCYDzohDkOyBJcmH) | 3:26 |
 | 57 | [Are You Ready](https://open.spotify.com/track/1S7gWlDknB8Uc3ZVkrBcuj) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Full Bloom](https://open.spotify.com/album/6SUTVZzodxA2aRcAnMwfY9) | 2:50 |
-| 58 | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 |
+| 58 | [WE STILL BELIEVE \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [WE STILL BELIEVE \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 |
 | 59 | [ROB HELL](https://open.spotify.com/track/6868cDsJrSGPyYnO8HPxHZ) | [indie tribe](https://open.spotify.com/artist/1sPm31qmcbk9EFoRCS8eRl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [ROB HELL](https://open.spotify.com/album/36m7D5xlqA3w3rp0Xaf1N1) | 2:31 |
 | 60 | [JERICHO WALLS](https://open.spotify.com/track/2lboNYBNF71Ju153GaMrez) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [JERICHO WALLS](https://open.spotify.com/album/3Tco6lGqiHmttFOd9z5pkb) | 3:05 |
 | 61 | [RAIN ON ME](https://open.spotify.com/track/2MYo9BI8aO2884Y0GrgLj3) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi) | [RAIN ON ME](https://open.spotify.com/album/2Hi63v931OtIxnPAxXUXOJ) | 2:12 |

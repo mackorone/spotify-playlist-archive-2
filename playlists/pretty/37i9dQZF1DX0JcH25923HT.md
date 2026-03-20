@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,746 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,964 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 60 | [Cuenta Conmigo](https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Maracucho Bueno Muere Chiquito](https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5) | 3:32 |
 | 61 | [Pure](https://open.spotify.com/track/4XgcpHJAulT6gSTPFODnB7) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [EZ El Ezeta](https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Pure](https://open.spotify.com/album/0OoijCMFMoorw6EBRkULoJ) | 3:56 |
 | 62 | [Perdoname Si Llego Tarde](https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Nivel](https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS) | 3:12 |
-| 63 | [Pa Que Brille](https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Ídolo](https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX) | 3:19 |
-| 64 | [Bufón](https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Bufón](https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI) | 4:02 |
+| 63 | [Bufón](https://open.spotify.com/track/6ovp1nCwIAOSMotiCF7pjk) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Bufón](https://open.spotify.com/album/5RpGiCddWLzGrrAsB6EcgI) | 4:02 |
+| 64 | [Pa Que Brille](https://open.spotify.com/track/3xNMMrXGcFIg06FfTVxod9) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Ídolo](https://open.spotify.com/album/19lX6EAXyt4uROdcsgnoiX) | 3:19 |
 | 65 | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/track/1GpBcCRShuLTp4gz1Udc8n) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tócate Tu Misma \(feat\. Bad Bunny\)](https://open.spotify.com/album/0k7zDatOV2O7XlQSGeH3s1) | 4:12 |
 | 66 | [Miss U](https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Keoland](https://open.spotify.com/album/55LyR7TjjagrB1DinBBlLI) | 4:19 |
 | 67 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |

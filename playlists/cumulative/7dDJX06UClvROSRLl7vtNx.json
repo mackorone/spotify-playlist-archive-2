@@ -7668,6 +7668,28 @@
     {
       "album": {
         "name": "Follow Me",
+        "url": "https://open.spotify.com/album/4zi08V0S2GFuup7mEel0zh"
+      },
+      "artists": [
+        {
+          "name": "EFA",
+          "url": "https://open.spotify.com/artist/50EYBMMIVUb1MduqASXYil"
+        },
+        {
+          "name": "Lacey",
+          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130875,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/7clEjhyJm1FD8s0LJ8nC1N"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
         "url": "https://open.spotify.com/album/0yapV75dDNa3ZUOjGsA4wC"
       },
       "artists": [

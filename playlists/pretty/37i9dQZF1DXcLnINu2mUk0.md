@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Murta
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,786 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,824 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 72 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 73 | [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 |
 | 74 | [Olhar](https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Olhar](https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm) | 3:39 |
-| 75 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
+| 75 | [Kataleya](https://open.spotify.com/track/6mH00dqyfpInDELpEqyDPI) | [Traficante D'Arte](https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF), [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ), [Pempas](https://open.spotify.com/artist/6l7kK18m55OXGv2bDbkf7X), [Lil Star](https://open.spotify.com/artist/2SgPIGR7IhSl4nK76cKBAj), [Sassá](https://open.spotify.com/artist/0338A7A7HSYIKVjAB69LiI), [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u), [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Kataleya](https://open.spotify.com/album/5CXJjjRHTXWCKW5sAV3vis) | 7:56 |
 
 Snapshot ID: `AAAAAM/2yfuQ7ElhrLbnwQccVSEX2pjq`

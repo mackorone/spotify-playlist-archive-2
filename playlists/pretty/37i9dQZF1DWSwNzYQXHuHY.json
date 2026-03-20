@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12216,
+  "num_followers": 12221,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-03-17 02:14:29",
       "album": {
-        "name": "Red Diary Page.1",
-        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s"
-    },
-    {
-      "added_at": "2026-03-17 02:14:29",
-      "album": {
         "name": "You're Mine, You're My Man",
         "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 153000,
       "name": "You're Mine, You're My Man",
       "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
+    },
+    {
+      "added_at": "2026-03-17 02:14:29",
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s"
     },
     {
       "added_at": "2026-03-17 02:14:29",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-03-17 02:14:29",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms"
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Ingyeong Choi",
+          "url": "https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI"
         }
       ],
-      "duration_ms": 173106,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
+      "duration_ms": 155000,
+      "name": "Seesaw",
+      "url": "https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE"
     },
     {
       "added_at": "2026-03-17 02:14:29",

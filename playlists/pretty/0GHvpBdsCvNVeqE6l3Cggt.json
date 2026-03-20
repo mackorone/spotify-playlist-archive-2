@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAkEZpOb+lPsoynk0qe5j1SEyj5Qe1I",
+  "snapshot_id": "AAAkFVIJCfU7jpH9gbtS/AiN8xerV0b6",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -601,54 +601,6 @@
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
     },
     {
-      "added_at": "2026-03-03 12:53:33",
-      "album": {
-        "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3\u30fb\u30b7\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8"
-      },
-      "artists": [
-        {
-          "name": "\u967d\u90a3 \u4eac",
-          "url": "https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3\u30fb\u30b7\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj"
-    },
-    {
-      "added_at": "2026-03-05 08:52:07",
-      "album": {
-        "name": "Fool Me Once",
-        "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
-      },
-      "artists": [
-        {
-          "name": "Sean Blu",
-          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
-        }
-      ],
-      "duration_ms": 165651,
-      "name": "Fool Me Once",
-      "url": "https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts"
-    },
-    {
-      "added_at": "2026-03-05 08:53:12",
-      "album": {
-        "name": "Drunk on Expectations",
-        "url": "https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz"
-      },
-      "artists": [
-        {
-          "name": "Amity Hayze",
-          "url": "https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf"
-        }
-      ],
-      "duration_ms": 177329,
-      "name": "Drunk on Expectations",
-      "url": "https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia"
-    },
-    {
       "added_at": "2026-03-06 08:15:20",
       "album": {
         "name": "yung n dumb",
@@ -743,6 +695,22 @@
       "duration_ms": 161291,
       "name": "slowdance",
       "url": "https://open.spotify.com/track/6Kx3zHc8aidGu6sSIpSjkc"
+    },
+    {
+      "added_at": "2026-03-19 08:14:55",
+      "album": {
+        "name": "Pink Girls",
+        "url": "https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42"
+      },
+      "artists": [
+        {
+          "name": "Lun\u00e9",
+          "url": "https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Almost Again",
+      "url": "https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK"
     }
   ],
   "unique_name": "Alternative Pop Archive",

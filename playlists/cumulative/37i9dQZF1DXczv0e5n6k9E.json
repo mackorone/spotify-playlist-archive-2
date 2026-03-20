@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Logos Timis",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Saske",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -356,6 +356,24 @@
       "duration_ms": 153750,
       "name": "4U",
       "url": "https://open.spotify.com/track/6Wq97Q9kQ8pioRtYQYfcNQ"
+    },
+    {
+      "album": {
+        "name": "4YOU",
+        "url": "https://open.spotify.com/album/7jrzbw5xB8LFzxxL3nwJCb"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "4YOU",
+      "url": "https://open.spotify.com/track/1AEcnXDp6GjkF5mXOugTpQ"
     },
     {
       "album": {
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 184615,
       "name": "BAM BAM",
       "url": "https://open.spotify.com/track/7yJbZo0ev4D9ZaJgf1kaYX"
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156585,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/7oPqAlO0jFfC4z6EQusQaL"
@@ -5681,6 +5699,32 @@
     },
     {
       "album": {
+        "name": "GKD",
+        "url": "https://open.spotify.com/album/0ORuoJwPcj7v2fbUrN2nRg"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "GKD",
+      "url": "https://open.spotify.com/track/18CrgcLdzD1I3c0Iq0bBlP"
+    },
+    {
+      "album": {
         "name": "GO GET EM",
         "url": "https://open.spotify.com/album/2dBP2gs2iyXf5KJst7PGTl"
       },
@@ -7548,7 +7592,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 109011,
       "name": "Lefta",
       "url": "https://open.spotify.com/track/0oDGgUtfgk1fm0VVaAYYFm"
@@ -8721,6 +8765,28 @@
     },
     {
       "album": {
+        "name": "PERCEPTION",
+        "url": "https://open.spotify.com/album/735ipzqyHg8Tw8IL9W1D2L"
+      },
+      "artists": [
+        {
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+        },
+        {
+          "name": "ICE LEE",
+          "url": "https://open.spotify.com/artist/3xVq481XkpWXV0ut2BeXh5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "MONADIKO",
+      "url": "https://open.spotify.com/track/5H3wWJRvgk3AP0E7y0yL43"
+    },
+    {
+      "album": {
         "name": "HOME ALONE",
         "url": "https://open.spotify.com/album/6d59OazyuQRkHOzjWNukCa"
       },
@@ -9476,6 +9542,10 @@
         {
           "name": "Roi 6/12",
           "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        },
+        {
+          "name": "Lived",
+          "url": "https://open.spotify.com/artist/6nlLQysyyJ6vyTxZeEJh1A"
         }
       ],
       "date_added": "2025-12-11",
@@ -9694,6 +9764,36 @@
       "duration_ms": 167538,
       "name": "OLA GYRNANE",
       "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+    },
+    {
+      "album": {
+        "name": "URSA MAJOR (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1diB2N08I1e02aPVTcdjJM"
+      },
+      "artists": [
+        {
+          "name": "Pindos Atletico",
+          "url": "https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck"
+        },
+        {
+          "name": "Tsaki",
+          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
+        },
+        {
+          "name": "Styl Mo",
+          "url": "https://open.spotify.com/artist/5vcLO0kMM1sarGeTNRoQks"
+        },
+        {
+          "name": "Pparanoia 2462",
+          "url": "https://open.spotify.com/artist/2eu1Sz64bp7T9vyzQyKrvi"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208555,
+      "name": "Ola Kala",
+      "url": "https://open.spotify.com/track/6G3H34dlzki1HoHnGfUp98"
     },
     {
       "album": {
@@ -10258,7 +10358,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 190167,
       "name": "Paidikes Pliges",
       "url": "https://open.spotify.com/track/2qapFbE5wKeQ9XplIGmnV1"
@@ -10334,7 +10434,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 118548,
       "name": "PANW MOU",
       "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
@@ -10352,7 +10452,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 138710,
       "name": "PARA PERA",
       "url": "https://open.spotify.com/track/0uVK9FEN4uI3rlvOusMJUt"
@@ -11649,6 +11749,32 @@
     },
     {
       "album": {
+        "name": "RAIGEKI",
+        "url": "https://open.spotify.com/album/4ZVkx5l2Vfqc1ShQFIYH04"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        },
+        {
+          "name": "TAFF",
+          "url": "https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J"
+        },
+        {
+          "name": "Evan Spikes",
+          "url": "https://open.spotify.com/artist/6p5qNRLXkVrmKVRPMaL6qP"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "RAIGEKI",
+      "url": "https://open.spotify.com/track/7p7ch2rYxIVEsviZwC3xth"
+    },
+    {
+      "album": {
         "name": "RATATA",
         "url": "https://open.spotify.com/album/2IvNAPQGN0QWjMObrttNlW"
       },
@@ -12142,6 +12268,24 @@
       "duration_ms": 131414,
       "name": "San Emas",
       "url": "https://open.spotify.com/track/3FOlNQhCL8UwDhuj2jACOc"
+    },
+    {
+      "album": {
+        "name": "SANKARA",
+        "url": "https://open.spotify.com/album/40pMN8dHtoda3RaBBTf2ma"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150879,
+      "name": "SANKARA",
+      "url": "https://open.spotify.com/track/0YJSqoXGkJrnUgV9t8ln4e"
     },
     {
       "album": {

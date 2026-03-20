@@ -2199,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "TIC TIC",
+        "url": "https://open.spotify.com/album/0vjMmLl4CGSYbmXASYydhQ"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "TIC TIC (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/3LI7emieOkgFz1qbVcKR7m"
+    },
+    {
+      "album": {
         "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
         "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
       },

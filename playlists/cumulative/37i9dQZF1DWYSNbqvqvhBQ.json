@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Kensington",
+  "description": "Nieuwe tijdloze muziek. Cover: Nona",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -2237,6 +2237,28 @@
     },
     {
       "album": {
+        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+        "url": "https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301674,
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+      "url": "https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX"
+    },
+    {
+      "album": {
         "name": "Cold Summer",
         "url": "https://open.spotify.com/album/1t5svLayuVhJFZ7KZKlLAK"
       },
@@ -2302,7 +2324,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 209890,
       "name": "Coming Back Babe",
       "url": "https://open.spotify.com/track/7IGWOUIrYykMGjoDQvf9Ky"
@@ -2674,7 +2696,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 264124,
       "name": "Day To Night",
       "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
@@ -4385,6 +4407,24 @@
     },
     {
       "album": {
+        "name": "Get it wrong",
+        "url": "https://open.spotify.com/album/6HSvZXxHcg9yy3OVSadSFh"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194885,
+      "name": "Get it wrong",
+      "url": "https://open.spotify.com/track/1M4p6SpM5H4WcYenCuAbJD"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/23WTkcOd1rOmmEinugyrF9"
       },
@@ -4522,7 +4562,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 213897,
       "name": "Giving Her Away",
       "url": "https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ"
@@ -7460,7 +7500,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 223981,
       "name": "Let's Take Our Time",
       "url": "https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG"
@@ -7824,6 +7864,24 @@
       "duration_ms": 136084,
       "name": "Lost Love",
       "url": "https://open.spotify.com/track/10uL8zMFDZVfB9voq9PQPB"
+    },
+    {
+      "album": {
+        "name": "Love Bites Back",
+        "url": "https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191495,
+      "name": "Love Bites Back",
+      "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"
     },
     {
       "album": {
@@ -8378,7 +8436,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 157054,
       "name": "Melodies - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK"
@@ -8436,7 +8494,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 171339,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2I3dBfT6TKeAz94hK4RmJr"
@@ -8584,6 +8642,36 @@
       "duration_ms": 186000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/5rSlV6fa4MoMC5SW9GD7sk"
+    },
+    {
+      "album": {
+        "name": "Movin'",
+        "url": "https://open.spotify.com/album/0oXtQl9dM4b0iqRenoRWDV"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        },
+        {
+          "name": "The Gallands",
+          "url": "https://open.spotify.com/artist/3V7kDBsTTCHub0FQBPCzMm"
+        },
+        {
+          "name": "St\u00e9phane Galland",
+          "url": "https://open.spotify.com/artist/1tj1I6guCFUOGJdhB3f5j6"
+        },
+        {
+          "name": "Elvin Galland",
+          "url": "https://open.spotify.com/artist/2cnAbjaRyAYlMqqhcvvppP"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Movin'",
+      "url": "https://open.spotify.com/track/6U0LFxNdqo8F2oXgGDgR2E"
     },
     {
       "album": {
@@ -10343,6 +10431,24 @@
     },
     {
       "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165289,
+      "name": "Rethink Some Things",
+      "url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf"
       },
@@ -10770,7 +10876,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229458,
       "name": "Secrets (feat. Lindsey Buckingham & Mick Fleetwood)",
       "url": "https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ"
@@ -12548,7 +12654,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
@@ -12938,7 +13044,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 239373,
       "name": "The City",
       "url": "https://open.spotify.com/track/1l3h3VMG7JTXJkketTj3cJ"
@@ -13922,6 +14028,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "Letters To My Habits",
+        "url": "https://open.spotify.com/album/5tD52eQUJoBetPCi2hQdln"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/7lXJRZCuWUPTXasC1tQPJo"
     },
     {
       "album": {
@@ -15028,6 +15152,24 @@
       "duration_ms": 160320,
       "name": "Where The Mind Goes",
       "url": "https://open.spotify.com/track/0RxgPLc1JxOEK9t62MwpGX"
+    },
+    {
+      "album": {
+        "name": "Where There's Smoke, There's Fire",
+        "url": "https://open.spotify.com/album/50yjrQvcvaw6M17RKAVZoh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300623,
+      "name": "Where There's Smoke, There's Fire",
+      "url": "https://open.spotify.com/track/2fmKTXjj8zPinrBwswwTjI"
     },
     {
       "album": {

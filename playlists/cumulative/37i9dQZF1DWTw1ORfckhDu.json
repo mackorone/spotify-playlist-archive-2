@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Shakespeare 2",
+        "url": "https://open.spotify.com/album/5EZPtBbhpoYa9XdMgQcaTi"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115834,
+      "name": "DD",
+      "url": "https://open.spotify.com/track/1bqtP940InJ6mnv1wbIJY0"
+    },
+    {
+      "album": {
         "name": "Dead Presidents",
         "url": "https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m"
       },
@@ -6704,7 +6722,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 180534,
       "name": "Jos t\u00e4\u00e4 ei oo se",
       "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
@@ -8054,6 +8072,24 @@
       "duration_ms": 175672,
       "name": "Kirja",
       "url": "https://open.spotify.com/track/1Xyf1W46hLxG2ccHO4Y3wR"
+    },
+    {
+      "album": {
+        "name": "Kirjotettu t\u00e4htiin",
+        "url": "https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT"
+      },
+      "artists": [
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158909,
+      "name": "Kirjotettu t\u00e4htiin",
+      "url": "https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2"
     },
     {
       "album": {
@@ -10744,7 +10780,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156250,
       "name": "L\u00e4nsipuoli",
       "url": "https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t"
@@ -12638,7 +12674,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
@@ -20054,6 +20090,24 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
+    },
+    {
+      "album": {
+        "name": "Stallion",
+        "url": "https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo"
+      },
+      "artists": [
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272250,
+      "name": "Totuus Sattuu",
+      "url": "https://open.spotify.com/track/42AWyhI6hD9Q4J4NLcqKdP"
     },
     {
       "album": {

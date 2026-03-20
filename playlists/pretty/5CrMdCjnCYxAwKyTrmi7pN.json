@@ -1,12 +1,12 @@
 {
-  "description": "Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...",
-  "num_followers": 128312,
-  "original_name": "Winter Vibes 2026",
+  "description": "Geniett van het zonnetje met deze lijst vol lente vibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...",
+  "num_followers": 128297,
+  "original_name": "Lente 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA70ObwJPTf+mUfGLeKa92fGbue60mb",
+  "snapshot_id": "AAA71cRUBNnBjoo/ZxXfF0wHAILu+svm",
   "tracks": [
     {
       "added_at": "2026-03-13 08:41:04",
@@ -27,18 +27,22 @@
     {
       "added_at": "2026-03-13 08:41:04",
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "Rein Me In (with Olivia Dean) [Live at London Stadium] [Extended Intro Version]",
+        "url": "https://open.spotify.com/album/217vf9PyKMExLgDughPYl6"
       },
       "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
         {
           "name": "Olivia Dean",
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6"
     },
     {
       "added_at": "2026-03-13 08:41:04",
@@ -147,22 +151,18 @@
     {
       "added_at": "2026-03-13 08:41:04",
       "album": {
-        "name": "Rein Me In (with Olivia Dean) [Live at London Stadium] [Extended Intro Version]",
-        "url": "https://open.spotify.com/album/217vf9PyKMExLgDughPYl6"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
         {
           "name": "Olivia Dean",
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/5Mq63YSs7vGy71ZPisNJF6"
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2026-03-13 08:41:04",
@@ -1993,6 +1993,6 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     }
   ],
-  "unique_name": "Winter Vibes 2026",
+  "unique_name": "Lente 2026",
   "url": "https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN"
 }

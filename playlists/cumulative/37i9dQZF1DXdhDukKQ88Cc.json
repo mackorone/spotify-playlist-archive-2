@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Kundo",
+  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Merro8",
   "name": "rap dk",
   "tracks": [
     {
@@ -6402,6 +6402,24 @@
       "duration_ms": 133608,
       "name": "Mentalitet",
       "url": "https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC"
+    },
+    {
+      "album": {
+        "name": "Mentally",
+        "url": "https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155476,
+      "name": "Mentally",
+      "url": "https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H"
     },
     {
       "album": {

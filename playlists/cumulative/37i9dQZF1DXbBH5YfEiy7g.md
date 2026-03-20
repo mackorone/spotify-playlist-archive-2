@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-228 songs - 1 day 0 hr 46 min
+229 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Moyongcwele](https://open.spotify.com/track/7EGJk2dluf3ahwKa9Ognkc) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Moyongcwele](https://open.spotify.com/album/3Md7jFJCda78uhck7VfPJC) | 5:09 | 2024-10-04 |  |
 | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/track/2Fr91FaX7a7lw66N3bB0gJ) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H), [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Moyongcwele 2.0 \(feat\. Xolly Mncwango & Dumi Mkokstad\)](https://open.spotify.com/album/2olLcwxLFYjAEGeMUr710p) | 5:08 | 2024-10-04 | 2025-12-05 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2024-10-11 |  |
+| [Muya Mukhethwa \- Live](https://open.spotify.com/track/1NqgZinyLOIdc4YXG2QVvb) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Muya Mukhethwa \(Live\)](https://open.spotify.com/album/3Q9eh1c2qo0Dt8ouI6TPkG) | 4:04 | 2026-03-20 |  |
 | [Mvelinqangi](https://open.spotify.com/track/2PVWNCTVQCHn0jLJ3q1YBR) | [Thak'so Ujey Choir](https://open.spotify.com/artist/6GAiCaNkiz2HNCPXbv8GPa) | [Mvelinqangi](https://open.spotify.com/album/0tH8n41iblT4sPuRDh9MSS) | 3:41 | 2024-12-20 |  |
 | [My God Is Good](https://open.spotify.com/track/55dcymYOsRVYL4sQHa8Sb5) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [My God Is Good](https://open.spotify.com/album/0osF0CnAck1ZFYh9taWJtW) | 9:58 | 2025-08-08 | 2025-09-19 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2024-10-11 |  |
@@ -187,7 +188,7 @@
 | [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 | 2025-03-28 | 2025-08-22 |
 | [Ukuphila Kwethu](https://open.spotify.com/track/5MQblyyQ4AdnWWZwZI2jvW) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Ukuphila Kwethu](https://open.spotify.com/album/7IQECBtOUX5SF0lWG2SVSM) | 10:00 | 2025-05-23 | 2025-06-27 |
 | [Ukwenzile \(Live\)](https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Ukwenzile \(Live\)](https://open.spotify.com/album/727KqRu1ClKY5blwbrMyFh) | 8:48 | 2024-10-11 | 2025-09-26 |
-| [Ukwetsimile](https://open.spotify.com/track/5zNda7f8w3Co4pcFxm1rRe) | [The Light Twins](https://open.spotify.com/artist/2zvKxVB2VOf18MMBuCFsJi), [Priests of the Archdiocese of Johannesburg](https://open.spotify.com/artist/3Is6qP3Vr7AYxKlasfbkwJ) | [Ukwetsimile](https://open.spotify.com/album/03XloMxDk53z7KmBqQ1FoD) | 4:54 | 2026-02-27 |  |
+| [Ukwetsimile](https://open.spotify.com/track/5zNda7f8w3Co4pcFxm1rRe) | [The Light Twins](https://open.spotify.com/artist/2zvKxVB2VOf18MMBuCFsJi), [Priests of the Archdiocese of Johannesburg](https://open.spotify.com/artist/3Is6qP3Vr7AYxKlasfbkwJ) | [Ukwetsimile](https://open.spotify.com/album/03XloMxDk53z7KmBqQ1FoD) | 4:54 | 2026-02-27 | 2026-03-20 |
 | [Uloyiko Lwami 2.0 \(Live\)](https://open.spotify.com/track/6xEXoF9hY3AZ7MF9xEw3rZ) | [Brilliant Baloyi](https://open.spotify.com/artist/4WrGUdLd8aQOczzzPZdnuA), [Mini Twins](https://open.spotify.com/artist/2KoVSeXgWTNpUm3LlcF2Rz), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [The Bonfire Experience \(Live\)](https://open.spotify.com/album/4J9lZoFJ8FH5UFNrjS8owz) | 8:02 | 2025-03-28 | 2025-07-25 |
 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 | 2024-10-04 |  |
 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 | 2024-10-04 |  |

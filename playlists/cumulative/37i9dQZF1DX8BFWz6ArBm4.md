@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Despina Vandi, Konstantinos Argiros
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Peggy Zina
 
-253 songs - 14 hr 15 min
+256 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Allo](https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Allo](https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav) | 3:33 | 2024-06-27 | 2026-02-27 |
 | [Allou Gia Allou](https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Allou Gia Allou](https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9) | 2:47 | 2025-09-25 |  |
 | [Amartiste](https://open.spotify.com/track/55ep0yZZ26g4utQDKsRRMy) | [Giorgos Tsalikis](https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD), [Ano Kato](https://open.spotify.com/artist/0kcxmPF8rChN29OV7UFl5a) | [Amartiste](https://open.spotify.com/album/3SmcXwg76WTXdZw0hmpbfD) | 2:50 | 2025-06-05 | 2025-06-14 |
+| [Amyna](https://open.spotify.com/track/3taCePOvlBh8K72OS2I0B9) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz) | [Amyna](https://open.spotify.com/album/1AzKX9Jk5enuqbdbTG6wdf) | 4:14 | 2026-03-19 |  |
 | [An Anoikso Tin Kardia Mou](https://open.spotify.com/track/5mixbsUmgisXypyUeWLbZ4) | [Zafeiris Melas](https://open.spotify.com/artist/2poZNBfEMf8mVK7qZZDFeE) | [An Anoikso Tin Kardia Mou](https://open.spotify.com/album/4N3tc26QpZqmeYSrZEihnc) | 3:21 | 2024-12-12 | 2024-12-20 |
 | [An Ikseres](https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [An Ikseres](https://open.spotify.com/album/2ekZxLSD9qz2AjEAMirKBc) | 3:09 | 2024-06-27 | 2025-02-04 |
 | [An Me Agapas Deiks' To](https://open.spotify.com/track/60smzoXUyrEJnNahFxE4Ox) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI) | [An Me Agapas Deiks' To](https://open.spotify.com/album/3VTtb3b5nGLNcFlZZtfm9W) | 3:02 | 2025-02-13 | 2025-02-28 |
@@ -37,7 +38,7 @@
 | [Aspromavro](https://open.spotify.com/track/7xN62pSQUKRrYr2ofWt1WD) | [Ilias Kampakakis](https://open.spotify.com/artist/0sTPMLGBv3QdhuZQw5ZMu6) | [Aspromavro](https://open.spotify.com/album/6R72Tmo2w195Rkh7rd2SW9) | 4:05 | 2024-06-27 | 2024-07-19 |
 | [Auta Ta Matia Ta Glika](https://open.spotify.com/track/2Vw2NoEC3IbUYhOCqN6rQZ) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 3:13 | 2025-05-23 | 2025-09-12 |
 | [Ay Ay \(Magissa\)](https://open.spotify.com/track/3QwDFpWlJ0tuaj1fG1K0Rc) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Ay Ay \(Magissa\)](https://open.spotify.com/album/6bp22Qd1KGpDEe2K72HKz8) | 2:43 | 2024-06-27 | 2024-07-19 |
-| [Ayto Einai Sosto](https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Ayto Einai Sosto](https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt) | 2:14 | 2025-12-18 |  |
+| [Ayto Einai Sosto](https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Ayto Einai Sosto](https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt) | 2:14 | 2025-12-18 | 2026-03-20 |
 | [Bam](https://open.spotify.com/track/68dVduobw35v0SFTfMuaZj) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Bam](https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H) | 2:46 | 2025-03-20 | 2025-10-17 |
 | [DAVATZIS \- LIVE by TOKYO THEATER](https://open.spotify.com/track/2Lbjh8H9sFeAPWzldzZ1bW) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [DAVATZIS \(LIVE by TOKYO THEATER\)](https://open.spotify.com/album/7gFygh1UdeoLUYaauss1uz) | 2:16 | 2025-01-16 | 2025-03-08 |
 | [De Ginetai](https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe) | [Giannis Ploutarhos](https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD) | [De Ginetai](https://open.spotify.com/album/1zovJXe2QfUD6DjE58zNDm) | 3:22 | 2025-12-18 | 2026-01-16 |
@@ -112,7 +113,8 @@
 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 | 2025-02-13 |  |
 | [Kathestos](https://open.spotify.com/track/4fOSyDqPqV1AnVZfj44f6z) | [Vasilis Karras](https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz) | [Kathestos](https://open.spotify.com/album/2O6Hd21LRn99WJmuiVzXiV) | 3:24 | 2024-10-10 | 2024-10-25 |
 | [Kati Xereis](https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Kati Xereis](https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w) | 2:44 | 2025-03-20 |  |
-| [Kerasmena](https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [M' Akous](https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR) | 3:20 | 2025-11-06 |  |
+| [Kerasmena](https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [M' Akous](https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR) | 3:20 | 2025-11-06 | 2026-03-20 |
+| [Kollima](https://open.spotify.com/track/1jGZX7XcviQ8PAwOCnP0pA) | [Panos Kalidis](https://open.spotify.com/artist/1rylldluHh9z6RiCzLNUsC) | [Kollima](https://open.spotify.com/album/0LEQbCuNx05qvuTE4BnSEc) | 3:17 | 2026-03-19 |  |
 | [Kontra Paidi](https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Kontra Paidi](https://open.spotify.com/album/1nE79NwK4nbiv93YuEYtrK) | 2:44 | 2025-03-27 | 2025-04-25 |
 | [Kourastika Na S' Agapo](https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Kourastika Na S' Agapo](https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP) | 4:13 | 2025-09-25 |  |
 | [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 | 2025-11-20 | 2026-03-15 |
@@ -180,6 +182,7 @@
 | [Pes Mou Kati](https://open.spotify.com/track/6LDc0SG4DGhowqwjBvaMnG) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Pes Mou Kati](https://open.spotify.com/album/3R0Wv0GGXq3XEHrO1T33sN) | 4:00 | 2024-06-27 | 2024-10-18 |
 | [Pes Tou](https://open.spotify.com/track/5OaWfAqcuFy4Mza599OyEZ) | [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Pes Tou](https://open.spotify.com/album/6MrcPPRPLs3O5yeVkOx0PE) | 2:55 | 2025-06-19 | 2025-07-04 |
 | [Planitis Gi](https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Planitis Gi](https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK) | 4:07 | 2024-08-01 | 2026-02-27 |
+| [Plati](https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT), [Sfera 102.2](https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu) | [Apo To Xthes Sto Simera \(Part 2\)](https://open.spotify.com/album/2vQAu03RgOqg5ljSPm1fG3) | 3:35 | 2026-03-19 |  |
 | [Poios Tha Tou To Pei](https://open.spotify.com/track/67rlb9f252xaAJ1LQabIw2) | [Eleni Hatzidou](https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl) | [Poios Tha Tou To Pei](https://open.spotify.com/album/2MxKF6SqvEIfwzmUpHTa6i) | 3:07 | 2025-04-10 | 2025-05-09 |
 | [Porni Outopia](https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI) | [Paola](https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF) | [Porni Outopia](https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5) | 3:32 | 2024-12-12 | 2026-02-27 |
 | [Pou Ti Vrike?](https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256), [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pou Ti Vrike?](https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI) | 3:08 | 2025-10-09 |  |
@@ -227,7 +230,7 @@
 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 | 2024-06-27 | 2026-02-27 |
 | [Tha Grapsoume Istoria](https://open.spotify.com/track/01Yi1adIapW3den379xnF4) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/25BZDyu2Ui8GqEzWCB6EMa) | 3:06 | 2025-06-13 | 2025-08-04 |
 | [Tha Mas Mathei Oli H Hora](https://open.spotify.com/track/03vNoF7juH5JasXlAWuWZB) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Tha Mas Mathei Oli H Hora](https://open.spotify.com/album/7KNVHmQgfLyOAtFMYtibvD) | 3:19 | 2024-06-27 | 2024-08-16 |
-| [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 | 2025-03-13 |  |
+| [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 | 2025-03-13 | 2026-03-20 |
 | [Tha Meinei Mistiko](https://open.spotify.com/track/67l58APmwUU1yCb1DhjVZS) | [Panos Kalidis](https://open.spotify.com/artist/1rylldluHh9z6RiCzLNUsC) | [Tha Meinei Mistiko](https://open.spotify.com/album/6BU3OUqkCZF3HGKOfmnulf) | 2:53 | 2025-04-10 | 2025-04-25 |
 | [Tha ta kapso \- Studio Session](https://open.spotify.com/track/6O2AXgTMhEbBkRlzGJeXpw) | [Nefeli Fasouli](https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp) | [Wyrd](https://open.spotify.com/album/50n57fXZKu3gY1h0bWu6pH) | 3:51 | 2025-04-10 | 2025-04-25 |
 | [Thalasses](https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Thalasses](https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5) | 4:12 | 2024-06-27 | 2024-10-11 |

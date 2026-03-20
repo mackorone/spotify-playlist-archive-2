@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,306 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,343 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 3 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
 | 4 | [Chand Takiye](https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Chand Takiye](https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy) | 3:28 |
 | 5 | [Jaan 'Nisaar](https://open.spotify.com/track/17cYtwy8kdB6e6b2EBTn4M) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Kedarnath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm) | 3:58 |
-| 6 | [Pagalpan](https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:12 |
+| 6 | [Yaara Ve \(From "Hello Bachhon"\)](https://open.spotify.com/track/226wdFNaMHyj9B2g10Kwlr) | [Aanand Bajpai](https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK), [Geet Sagar](https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce) | [Hello Bachhon \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J) | 1:50 |
 | 7 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 8 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |
 | 9 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Meri Kya Khata](https://open.spotify.com/track/25cu0HRFLcHsQ3DGijw4IH) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Meri Kya Khata](https://open.spotify.com/album/121PPl7OE4kVQCUcFrLylb) | 3:02 |
 | 75 | [Tuta Pull Wahan](https://open.spotify.com/track/7EYEswNmA0XjzwUitONgzK) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Tuta Pull Wahan](https://open.spotify.com/album/00BfVMr2A2C6V1fScLpMTI) | 5:13 |
 
-Snapshot ID: `AAAAANN5FCalbfq5W2JOLdigUqOhuO1M`
+Snapshot ID: `AAAAAHy3496Xvh5UcprnzQ5F05dBudpE`

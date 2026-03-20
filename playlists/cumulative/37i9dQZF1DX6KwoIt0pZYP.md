@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,182 songs - 2 day 16 hr 14 min
+1,183 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Birthday](https://open.spotify.com/track/00v0tTZNJYfXZzINHWQcvN) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Birthday](https://open.spotify.com/album/16OJXa3NYyAebywfOjoPbc) | 3:01 | 2023-12-08 | 2023-12-16 |
 | [BITE](https://open.spotify.com/track/2VdwhqPXMmjKH31CP5tq3a) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [BITE](https://open.spotify.com/album/1sieyXKdYpUAFPP1OJOvuL) | 2:51 | 2024-10-25 | 2024-12-14 |
 | [Black & Blue](https://open.spotify.com/track/0nG9UdOvcxq16buOenF8a0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Black & Blue](https://open.spotify.com/album/0GU8nszlbBQiyt1GLmKCQZ) | 3:17 | 2022-08-12 | 2022-08-20 |
-| [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 | 2023-10-13 |  |
+| [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 | 2023-10-13 | 2026-03-20 |
 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 | 2024-04-12 | 2024-06-01 |
 | [blame on you](https://open.spotify.com/track/5dGUfQBSrgMA5SQ2H4Bx1Y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 2:44 | 2022-03-29 | 2022-04-17 |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-01-28 | 2022-07-29 |
@@ -555,6 +555,7 @@
 | [kitchen light](https://open.spotify.com/track/3y2SDMSFemKDSF9q8xbmm1) | [Maggery](https://open.spotify.com/artist/452UwbEF3N7LK6Zd3bkTzw), [Isaac Solo](https://open.spotify.com/artist/0DqFap2UZBZYFYKEDYMEPa) | [kitchen light](https://open.spotify.com/album/34omlcFfOvMIgIOvLnStQo) | 2:17 | 2022-09-12 | 2022-09-17 |
 | [Know Me so Well \(feat\. Helen Hong\)](https://open.spotify.com/track/6yW1wqoGkABqhM6MlVK9eI) | [Lowhi](https://open.spotify.com/artist/3KUPWfQpnvly6W1yogx267), [Helen Hong](https://open.spotify.com/artist/4q4YgMpzLs9xevRBfEhY5s) | [Come Back Home](https://open.spotify.com/album/2MJhau1UjgYtvQJ6LTxYqN) | 3:13 | 2022-02-11 | 2022-04-21 |
 | [kodak](https://open.spotify.com/track/4DCa5XDAMffNCB3SN79YhB) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [kodak](https://open.spotify.com/album/3IKAESdzFil1Ka7GNQdbTJ) | 3:41 | 2022-01-28 | 2022-07-13 |
+| [Koneko](https://open.spotify.com/track/5OKtvYYQH7Ej7C7BD3uWBH) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR), [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Koneko](https://open.spotify.com/album/18BjCYMvmvJSfFT8EWtyWe) | 4:08 | 2026-03-19 |  |
 | [l.s.d](https://open.spotify.com/track/54I88UKXZfKxNGsHeDoJR9) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [l.s.d](https://open.spotify.com/album/1auwbTPYA5QsgzemGEDUx8) | 2:00 | 2024-10-04 | 2024-10-19 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-23 | 2026-01-28 |
 | [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-27 |  |

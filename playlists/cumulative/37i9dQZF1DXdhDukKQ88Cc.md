@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 de største nye rap hits i dk 🔥 cover: Kundo
+> 🔥 de største nye rap hits i dk 🔥 cover: Merro8
 
-511 songs - 21 hr 47 min
+512 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 | 2023-12-14 |
 | [Mennesker](https://open.spotify.com/track/3c2wLkIpxt5DiyfXa07ilT) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Split Personality](https://open.spotify.com/album/2j0Dk0I6fV8CFh1hl9KHYF) | 3:05 | 2025-01-30 | 2025-04-18 |
 | [Mentalitet](https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC) | [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Mentalitet](https://open.spotify.com/album/313cbKPg6w2qN4KeOZpzbg) | 2:13 | 2024-11-21 | 2025-04-18 |
+| [Mentally](https://open.spotify.com/track/1Yx9f4IEoor3fwHhZ2NC3H) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Mentally](https://open.spotify.com/album/2nRMyEBaMtQ9riwmv47Ga9) | 2:35 | 2026-03-19 |  |
 | [Mercedes](https://open.spotify.com/track/5kc0p3uu8xH3up1ISZEojw) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [Mercedes](https://open.spotify.com/album/1KlPJdYE39Kba8M5Fl71nm) | 2:25 | 2025-05-15 | 2025-06-20 |
 | [Mercedes](https://open.spotify.com/track/3wHsUrdxZTw8QFdtcwFfX9) | [Nøx](https://open.spotify.com/artist/10KZuAV6Rn48ewMNugZSV4) | [Mercedes](https://open.spotify.com/album/5XVWLQ3lUKr1jF0ts63NKa) | 2:12 | 2025-05-22 | 2025-06-13 |
 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 | 2024-10-17 | 2025-05-16 |

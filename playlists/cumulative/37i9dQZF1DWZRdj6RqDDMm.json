@@ -2043,6 +2043,28 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS"
+    },
+    {
+      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo"
       },
@@ -5184,7 +5206,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 236689,
       "name": "I Still Remember",
       "url": "https://open.spotify.com/track/5tsMfIR4QxkjSWSAGyoVsg"
@@ -5644,7 +5666,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 194000,
       "name": "Jesus",
       "url": "https://open.spotify.com/track/7IuiH0WfXnzIyKqgp9MwL9"
@@ -9888,6 +9910,28 @@
       "duration_ms": 159340,
       "name": "resolve~",
       "url": "https://open.spotify.com/track/7BMymBTTpyv5eUdEo8ZB4r"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "WINNER WAYS.",
+          "url": "https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136092,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80141,
+  "num_followers": 80145,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Fiesta de Koky",
-        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "La Suegra",
-      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 235600,
       "name": "Golpes y Besos",
       "url": "https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Fiesta de Koky",
+        "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "La Suegra",
+      "url": "https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "A Trav\u00e9s del Vaso (Remix)",
-        "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
-      },
-      "artists": [
-        {
-          "name": "Los Pincheira del Sur",
-          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
-        },
-        {
-          "name": "Los Charros de Luchito y Rafael",
-          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
-        }
-      ],
-      "duration_ms": 239701,
-      "name": "A Trav\u00e9s del Vaso - Remix",
-      "url": "https://open.spotify.com/track/2Q8lTtjk4TYapqf6meBBKc"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Para Mi Gente Campesina",
         "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 192776,
       "name": "Vivo la Vida",
       "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "A Trav\u00e9s del Vaso (Remix)",
+        "url": "https://open.spotify.com/album/34BUoxHKkDIPjrfjJWLS84"
+      },
+      "artists": [
+        {
+          "name": "Los Pincheira del Sur",
+          "url": "https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z"
+        },
+        {
+          "name": "Los Charros de Luchito y Rafael",
+          "url": "https://open.spotify.com/artist/35qSQ3Rr7VGXFyB8qimJUq"
+        }
+      ],
+      "duration_ms": 239701,
+      "name": "A Trav\u00e9s del Vaso - Remix",
+      "url": "https://open.spotify.com/track/2Q8lTtjk4TYapqf6meBBKc"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 143413,
       "name": "La Fotograf\u00eda",
       "url": "https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 217375,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Amor Salvaje",
         "url": "https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 307966,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 217375,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "La Micaela",
+        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "La Micaela",
+      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "C\u00f3mo Quisiera",
         "url": "https://open.spotify.com/album/1eHjkkwOksQhKl0HQc8jBL"
       },
@@ -1491,34 +1507,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+        "name": "La Vida No Vale Nada",
+        "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
       },
       "artists": [
         {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
         }
       ],
-      "duration_ms": 221680,
-      "name": "Charros para Rato",
-      "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "La Micaela",
-        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "La Micaela",
-      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
+      "duration_ms": 204255,
+      "name": "La Vida No Vale Nada",
+      "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Vida No Vale Nada",
-        "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
       },
       "artists": [
         {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
         }
       ],
-      "duration_ms": 204255,
-      "name": "La Vida No Vale Nada",
-      "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
+      "duration_ms": 221680,
+      "name": "Charros para Rato",
+      "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1571,22 +1571,6 @@
       "duration_ms": 196862,
       "name": "Tu Amor Barato",
       "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "C\u00f3mo Dejar de Amarte y Otros",
-      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1627,38 +1611,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "En las Cantinas",
-        "url": "https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 169012,
-      "name": "En las Cantinas",
-      "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Vivo en Tinieblas",
         "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
       },
@@ -1675,18 +1627,50 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+        "name": "En las Cantinas",
+        "url": "https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+      "duration_ms": 169012,
+      "name": "En las Cantinas",
+      "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "C\u00f3mo Dejar de Amarte y Otros",
+      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1719,6 +1703,22 @@
       "duration_ms": 183525,
       "name": "El Solovino",
       "url": "https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
     },
     {
       "added_at": "2026-02-19 20:52:53",

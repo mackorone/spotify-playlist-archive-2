@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325115,
+  "num_followers": 325129,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
         "name": "Sippin",
         "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 158075,
       "name": "Sippin",
       "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "added_at": "2025-08-28 23:00:34",
@@ -1863,6 +1863,30 @@
     {
       "added_at": "2025-08-28 23:00:34",
       "album": {
+        "name": "Show Me Love (feat. Robin S)",
+        "url": "https://open.spotify.com/album/2miu8ZVhdGb34StwR5Ve6w"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Show Me Love (feat. Robin S)",
+      "url": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
+    },
+    {
+      "added_at": "2025-08-28 23:00:34",
+      "album": {
         "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
         "url": "https://open.spotify.com/album/5USMLXcmyO4BdAeQaOEql2"
       },
@@ -1887,30 +1911,6 @@
       "duration_ms": 160602,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
       "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
-    },
-    {
-      "added_at": "2025-08-28 23:00:34",
-      "album": {
-        "name": "Show Me Love (feat. Robin S)",
-        "url": "https://open.spotify.com/album/2miu8ZVhdGb34StwR5Ve6w"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Show Me Love (feat. Robin S)",
-      "url": "https://open.spotify.com/track/55eFVWZ4lLq8kbJ0VwSfA4"
     },
     {
       "added_at": "2025-08-28 23:00:34",

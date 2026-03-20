@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-439 songs - 20 hr 4 min
+440 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [City Boy](https://open.spotify.com/track/0MzftibVXzOHofvzw6sqQ3) | [Hjulspinn](https://open.spotify.com/artist/5A1Dp2synjftKRsqAV8Jgr) | [City Boy](https://open.spotify.com/album/2I6TGlH8cMneYC4m8zwA47) | 2:05 | 2022-07-21 | 2022-07-25 |
 | [Clubber Oppi France \(Kaotisk Eleganse 2023\)](https://open.spotify.com/track/2bO1TODqaomL2OduuDKSGZ) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Clubber Oppi France \(Kaotisk Eleganse 2023\)](https://open.spotify.com/album/2pDbtRGzSNxwqt4PFGB9bm) | 2:10 | 2022-03-10 | 2022-10-14 |
 | [Cowboyhatten](https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Cowboyhatten](https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS) | 2:51 | 2025-09-11 |  |
-| [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 | 2024-10-17 |  |
+| [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 | 2024-10-17 | 2026-03-20 |
 | [Da vi var to](https://open.spotify.com/track/66mAcIc3VtfVTgae4gVeBV) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Da vi var to](https://open.spotify.com/album/5kubT1Uexezpd5eejqQDgZ) | 3:07 | 2024-05-02 | 2024-10-18 |
 | [Dagsfylla](https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7) | [Kaptein EPA](https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t), [Løvendahl](https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz) | [Dagsfylla](https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt) | 1:51 | 2021-12-16 | 2026-02-15 |
 | [Dama Di](https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Dama Di](https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS) | 2:51 | 2026-01-15 |  |
@@ -203,6 +203,7 @@
 | [Hopp inn i kjerra](https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Hopp inn i kjerra](https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH) | 2:20 | 2025-03-13 | 2026-01-18 |
 | [Hoppe inn med hjertet først](https://open.spotify.com/track/7qgk9wQwrXZnL8cZgA8vKR) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Hoppe inn med hjertet først](https://open.spotify.com/album/5aLeG3uJQeB5GBFxEfukZS) | 2:54 | 2025-10-23 | 2026-01-01 |
 | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/track/2TLVUAQzq9FnzSxFYGOF7Y) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Hot Girls \(dricker hotshots\)](https://open.spotify.com/album/6z5uLVB0RW6M8Yj5KLEA7H) | 1:36 | 2022-09-22 | 2022-10-14 |
+| [Hva gjør du nå?](https://open.spotify.com/track/1ZWDLei3i9cWF4IMClFYxo) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Hva gjør du nå?](https://open.spotify.com/album/2VKqpZN9XCAQ20Etpxjd7a) | 2:45 | 2026-03-19 |  |
 | [Hva skjedde i går](https://open.spotify.com/track/78CcSemi3XfCX2T0knpp2f) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Hva skjedde i går](https://open.spotify.com/album/1vcgYJBUvtUnnatQAeMPGD) | 2:46 | 2025-03-27 | 2026-01-15 |
 | [Hva skjedde nå?](https://open.spotify.com/track/3MU7bSZdfMWg44OhS0SOej) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Hva skjedde nå?](https://open.spotify.com/album/0s43Es79OPnqCYLj27eFUv) | 3:53 | 2022-05-05 | 2022-09-01 |
 | [Hvem skal nekte meg en øl?](https://open.spotify.com/track/6bfbQpHqcAMsBT2D5YYPTb) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Hvem skal nekte meg en øl?](https://open.spotify.com/album/0LryBlmnp3nfWLI6jwH0kC) | 2:06 | 2025-12-31 |  |

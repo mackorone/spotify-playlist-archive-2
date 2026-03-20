@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\) wint twee Edisons: Nieuwkomer en Hollands
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,701 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,750 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 38 | [Zijn Het Je Ogen](https://open.spotify.com/track/1kNYqojoCcL50GzXQKCLL6) | [Koos Alberts](https://open.spotify.com/artist/2x8IIf3l8n2kJgLOxcYP29) | [Het Leven Gaat Door](https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW) | 3:20 |
 | 39 | [Zwevend naar 't geluk](https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 3:38 |
 | 40 | [Bailando](https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Bailando](https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK) | 2:43 |
-| 41 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
+| 41 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
 | 42 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
-| 43 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
+| 43 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 44 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
 | 45 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
 | 46 | [Liever Te Dik In De Kist](https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm), [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Liever Te Dik In De Kist](https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA) | 3:58 |

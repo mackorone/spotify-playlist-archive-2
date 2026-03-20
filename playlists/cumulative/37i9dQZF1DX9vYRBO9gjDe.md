@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。3月16日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。3月1 7日付。
 
 6,772 songs - 16 day 21 hr 34 min
 
@@ -6133,7 +6133,7 @@
 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 | 2025-06-24 | 2025-06-28 |
 | [春の歌](https://open.spotify.com/track/56ISW3rNZJHEkUfVbZ61bq) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [CYCLE HIT 1997\-2005 Spitz Complete Single Collection](https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ) | 4:43 | 2023-04-02 | 2024-04-10 |
 | [春の海](https://open.spotify.com/track/4SZDbeAr1k8u39t3SfUo9h) | [宮城喜代子](https://open.spotify.com/artist/18KqTiVL46DGkZrcLUQuXS), [青木鈴慕](https://open.spotify.com/artist/3WQ7m7qMLE5nJfvilZdtjx) | [箏曲 宮城喜代子の芸術 宮城道雄作品編 1](https://open.spotify.com/album/4l0sJngmhVGSLxo5EjmXN0) | 6:47 | 2024-01-01 | 2026-01-15 |
-| [春の薫り](https://open.spotify.com/track/0e8kPmZKnBDRuOEEr3PFvZ) | [にどる](https://open.spotify.com/artist/63b3ORUYKO3JFC1Wvimh3T) | [春の薫り](https://open.spotify.com/album/23meMSd0Twp80bJYkr3cEG) | 3:37 | 2026-03-16 |  |
+| [春の薫り](https://open.spotify.com/track/0e8kPmZKnBDRuOEEr3PFvZ) | [にどる](https://open.spotify.com/artist/63b3ORUYKO3JFC1Wvimh3T) | [春の薫り](https://open.spotify.com/album/23meMSd0Twp80bJYkr3cEG) | 3:37 | 2026-03-16 | 2026-03-20 |
 | [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 | 2023-05-20 | 2023-05-23 |
 | [春一番](https://open.spotify.com/track/61qEeQbRlKpZoi1msfhANP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [春一番](https://open.spotify.com/album/6umddxqdrqZmILr4OHa35Z) | 3:17 | 2023-03-02 | 2023-03-19 |
 | [春夏秋冬](https://open.spotify.com/track/1Wuxhm0pM3qvBEkTFiQdcP) | [STEADY&CO.](https://open.spotify.com/artist/2TatKKNpSC0r3IQxZAbii7) | [CHAMBERS](https://open.spotify.com/album/0bdkNp1rOkm9zRvFh7pfRG) | 4:20 | 2024-02-02 | 2024-02-04 |
@@ -6209,7 +6209,7 @@
 | [栄光の扉](https://open.spotify.com/track/4Q0cwmEsjcP0tuYJ20FqU6) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [LOVE＋PEACE](https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti) | 3:27 | 2025-07-15 | 2025-08-12 |
 | [栞](https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [泣きたくなるほど嬉しい日々に](https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq) | 4:21 | 2023-03-20 | 2026-03-13 |
 | [栞](https://open.spotify.com/track/4ydI1PBgOZvwLScf5eR0kw) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [栞](https://open.spotify.com/album/1RebfCbPJxZ2coD3Fb9Rtn) | 4:30 | 2024-08-29 | 2024-09-17 |
-| [桜](https://open.spotify.com/track/5Hi4IAtdFZzg6IfAVMd6lZ) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [NAMELESS　WORLD](https://open.spotify.com/album/4aD2P4IT3O69rPMMKDpb51) | 6:00 | 2024-02-02 | 2025-04-10 |
+| [桜](https://open.spotify.com/track/5Hi4IAtdFZzg6IfAVMd6lZ) | [KOBUKURO](https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr) | [NAMELESS　WORLD](https://open.spotify.com/album/4aD2P4IT3O69rPMMKDpb51) | 6:00 | 2024-02-02 |  |
 | [桜、ひらり](https://open.spotify.com/track/3W4gHflGqzUCFqwhm5aQjA) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [桜、ひらり](https://open.spotify.com/album/3nKDMfAxhPznHcMZzx6b2c) | 4:06 | 2025-01-06 | 2025-01-08 |
 | [桜が降る夜は](https://open.spotify.com/track/0H2n6GpHAMlujiER71ubMB) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 4:34 | 2024-11-29 | 2025-11-07 |
 | [桜の時](https://open.spotify.com/track/2CukFFswRZixS0AMkdMHSk) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:25 | 2025-04-09 | 2025-04-11 |

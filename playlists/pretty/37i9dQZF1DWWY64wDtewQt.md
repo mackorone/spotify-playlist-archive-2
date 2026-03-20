@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,470,972 likes - 100 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,474,430 likes - 100 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 8 | [Fendi 2](https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH) | [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0), [Khim](https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l), [ayv1o](https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv) | [Fendi 2](https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU) | 1:30 |
 | 9 | [MENTE MÁ](https://open.spotify.com/track/11gZL0HigsqfzjTHOpdFjE) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx) | [MENTE MÁ](https://open.spotify.com/album/4ZopuwBxqYKDYkKh61tNqv) | 1:15 |
 | 10 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
-| 11 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
+| 11 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR), [MC PR](https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
 | 12 | [MONTAGEM ALQUIMIA](https://open.spotify.com/track/0Wms5IftbzNzmrAyXx4A33) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf), [n7san7os](https://open.spotify.com/artist/3cvsBiWPwn1oVpKCeGBev9), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM ALQUIMIA](https://open.spotify.com/album/0N6Xm4YHBgSx1NGUCs4L7X) | 1:36 |
 | 13 | [Vem Vem](https://open.spotify.com/track/2FnkrCrbXJuebXxnVtXiHI) | [Jmilton](https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi) | [Vem Vem](https://open.spotify.com/album/5fvUS8yHMCkTZj4sJ0FHDV) | 1:23 |
 | 14 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |

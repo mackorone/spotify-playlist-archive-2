@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "In Between The Covers",
+        "url": "https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3"
+      },
+      "artists": [
+        {
+          "name": "Every Other Thursday",
+          "url": "https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144016,
+      "name": "Money Tied The Knot",
+      "url": "https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp"
+    },
+    {
+      "album": {
         "name": "Monkfish",
         "url": "https://open.spotify.com/album/3l2BZD1mTenRPY5wkJRblP"
       },

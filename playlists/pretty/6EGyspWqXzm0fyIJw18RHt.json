@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAALsLP5g79boCKgwlO2Ms3wIxpIvPJ",
+  "snapshot_id": "AAAAL/2sM+Rf4dOyCSbv0Gi0tismXWM1",
   "tracks": [
     {
       "added_at": "2023-03-23 07:57:00",
@@ -647,6 +647,22 @@
       "duration_ms": 311946,
       "name": "BRAINS! (from the Cartoon Network's GRIM AND EVIL)",
       "url": "https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf"
+    },
+    {
+      "added_at": "2026-03-19 09:40:01",
+      "album": {
+        "name": "Spells + Rituals",
+        "url": "https://open.spotify.com/album/4tE4gOsZHxodHLe2FOwz1C"
+      },
+      "artists": [
+        {
+          "name": "Charming Disaster",
+          "url": "https://open.spotify.com/artist/1RjkfhamohczSXjFy5WcZh"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Blacksnake",
+      "url": "https://open.spotify.com/track/7J56rJncvP2SUnTV8phOPX"
     }
   ],
   "unique_name": "Halloween",

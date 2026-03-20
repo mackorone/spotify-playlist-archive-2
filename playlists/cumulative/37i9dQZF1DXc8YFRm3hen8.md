@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 NTVG
 
-431 songs - 1 day 3 hr 27 min
+432 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Caronte](https://open.spotify.com/track/2JgcShs8JycDzmfcazU9pX) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Caronte](https://open.spotify.com/album/3o7hOrguLg6GIFURGsUeZG) | 3:53 | 2022-07-19 | 2022-07-28 |
 | [Casualidad](https://open.spotify.com/track/6DKUK1wABPWg7DoulUEzrs) | [Cony la Tuquera](https://open.spotify.com/artist/0GqHNuocCl9kNENsJNgvQJ), [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Casualidad](https://open.spotify.com/album/4i9TJ0ixbMoJIC0ud6UZJ1) | 4:14 | 2022-07-01 | 2022-07-29 |
 | [Cerca Lejos](https://open.spotify.com/track/01d2IW5H2F5tjLIKQO0Ncf) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Líneas Generales](https://open.spotify.com/album/5FJdkJDhlBPt993dVf12Ey) | 3:18 | 2025-05-02 | 2025-07-11 |
-| [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 |  |
+| [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 | 2022-06-29 | 2026-03-20 |
 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 | 2023-12-15 | 2026-03-07 |
 | [Cheques](https://open.spotify.com/track/2kv0MUq9wNLPABYp33P7Uf) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Cheques](https://open.spotify.com/album/5Y115yLkxT4q3CEITzdEUV) | 2:52 | 2026-03-06 |  |
 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 | 2022-07-19 |  |
@@ -360,6 +360,7 @@
 | [Suelto](https://open.spotify.com/track/6pCeEWCyIlOuwG5J3q2pKP) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Suelto](https://open.spotify.com/album/1Mb36xDeCUR5xmgIEt869k) | 3:43 | 2022-07-06 | 2022-07-15 |
 | [Suerte](https://open.spotify.com/track/0lntiOJwWI3yF3LDP8CG2P) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 5:39 | 2022-06-29 | 2022-07-29 |
 | [Suerte](https://open.spotify.com/track/7klCcHpOKNQlQMpPDYFhKH) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social I](https://open.spotify.com/album/0WFzTYmc4FzB7slxvTgLky) | 5:39 | 2024-01-04 | 2024-01-15 |
+| [supermercado](https://open.spotify.com/track/1DRzLWG6cEHRfHKZfs6a21) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:56 | 2026-03-19 |  |
 | [Superstar](https://open.spotify.com/track/67AG59ltjS8JSqAUTWTJgu) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Pura Casualidad](https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a) | 3:02 | 2023-01-27 | 2023-10-07 |
 | [Sur Vigente](https://open.spotify.com/track/6ZHQobo4G0Ig3i8ZTYzQla) | [Vozenoff](https://open.spotify.com/artist/0hASTHk8Lmdj2zAHvkfsfW) | [Sur Vigente](https://open.spotify.com/album/6GV5oNdTZmTpaD4D4HhzES) | 3:42 | 2022-07-01 | 2022-07-06 |
 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 | 2022-06-29 | 2026-03-17 |

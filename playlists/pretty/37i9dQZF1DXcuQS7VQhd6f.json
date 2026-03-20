@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P. Kee",
-  "num_followers": 50263,
+  "num_followers": 50365,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "The Nu Nation Project",
-        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 368440,
-      "name": "Something About the Name Jesus",
-      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 318560,
       "name": "Because Of Who You Are",
       "url": "https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 368440,
+      "name": "Something About the Name Jesus",
+      "url": "https://open.spotify.com/track/0bGyh9iwb37ElctPNsxdwX"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "If He Did It Before....Same God - Live",
-      "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "God Chaser",
         "url": "https://open.spotify.com/album/0BLe7iiUwRz3qlYVSvHPdS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 292240,
       "name": "It's Working",
       "url": "https://open.spotify.com/track/6cfvKRVBkw0i6usuYwsYSI"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "If He Did It Before....Same God - Live",
+      "url": "https://open.spotify.com/track/3ubvpgBsJK96b4OSTo5DiC"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
+        "name": "JT3",
+        "url": "https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "Joshua's Troop",
+          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
         }
       ],
-      "duration_ms": 264693,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
+      "duration_ms": 290800,
+      "name": "Everybody Clap Your Hands",
+      "url": "https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "JT3",
-        "url": "https://open.spotify.com/album/1hv7b36PgqioFel3FfKSDn"
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
       },
       "artists": [
         {
-          "name": "Joshua's Troop",
-          "url": "https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 290800,
-      "name": "Everybody Clap Your Hands",
-      "url": "https://open.spotify.com/track/00lemnC7rWUV2tOCnPegvU"
+      "duration_ms": 264693,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 417706,
-      "name": "In the Midst of It All",
-      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "God's Property from Kirk Franklin's Nu Nation",
         "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        }
+      ],
+      "duration_ms": 417706,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 484640,
       "name": "Great Is Your Mercy - Live",
       "url": "https://open.spotify.com/track/62DNye6dXRsmZNVJaXZYc5"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "20/85 The Experience",
-        "url": "https://open.spotify.com/album/716E6f5K4vHfQ6aewX5n8U"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Love Fellowship Choir",
-          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
-        }
-      ],
-      "duration_ms": 415160,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7G857E0hBszqDjQLre6h4L"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1323,34 +1303,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+        "name": "20/85 The Experience",
+        "url": "https://open.spotify.com/album/716E6f5K4vHfQ6aewX5n8U"
       },
       "artists": [
         {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
-        "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
-      },
-      "artists": [
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
         {
-          "name": "Kurt Carr & The Kurt Carr Singers",
-          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
         }
       ],
-      "duration_ms": 340280,
-      "name": "I Almost Let Go",
-      "url": "https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W"
+      "duration_ms": 415160,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7G857E0hBszqDjQLre6h4L"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1371,22 +1339,34 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "The Essential Hezekiah Walker",
-        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
+        "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
+        "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
       },
       "artists": [
         {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "Love Fellowship Choir",
-          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+          "name": "Kurt Carr & The Kurt Carr Singers",
+          "url": "https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ"
         }
       ],
-      "duration_ms": 451080,
-      "name": "I Need You To Survive",
-      "url": "https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE"
+      "duration_ms": 340280,
+      "name": "I Almost Let Go",
+      "url": "https://open.spotify.com/track/7mg2zRCXpQG4kAGBlZrT7W"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "V2...",
+        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+      },
+      "artists": [
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Praise on the Inside",
+      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1407,18 +1387,38 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "V2...",
-        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
       "artists": [
         {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Praise on the Inside",
-      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
+      "duration_ms": 276773,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "The Essential Hezekiah Walker",
+        "url": "https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "Love Fellowship Choir",
+          "url": "https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6"
+        }
+      ],
+      "duration_ms": 451080,
+      "name": "I Need You To Survive",
+      "url": "https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "Shout It Loud",
+        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 370704,
+      "name": "I Know Who I Am",
+      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "As We Worship Live",
         "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
       },
@@ -2255,22 +2271,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Shout It Loud",
-        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 370704,
-      "name": "I Know Who I Am",
-      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Right Now Praise",
         "url": "https://open.spotify.com/album/5bXz7wIK9dCdP5Ua5WxSox"
       },
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "I Give Myself Away",
-      "url": "https://open.spotify.com/track/75BWWyySBqv0OZAN6w6OtM"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "I See Miracles",
         "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 260431,
       "name": "I See Miracles",
       "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "I Give Myself Away",
+      "url": "https://open.spotify.com/track/75BWWyySBqv0OZAN6w6OtM"
     },
     {
       "added_at": "2026-02-13 12:47:48",

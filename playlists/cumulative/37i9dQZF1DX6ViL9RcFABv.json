@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: IOLANDA",
+  "description": "Uma playlist de pura alma pop! Foto: Ant\u00f3nio Zambujo",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Espiral",
+        "url": "https://open.spotify.com/album/5sgR6xvy6O5rIsevbPfqOH"
+      },
+      "artists": [
+        {
+          "name": "Bia Caboz",
+          "url": "https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/3mJRNnkxV9r18AX8qHabE7"
+    },
+    {
+      "album": {
         "name": "Contratempo",
         "url": "https://open.spotify.com/album/416ohviXC6mDNnDKW92eo7"
       },
@@ -2706,6 +2724,24 @@
       "duration_ms": 196250,
       "name": "Domingo \u00e0 Noite",
       "url": "https://open.spotify.com/track/6wNthtmutbdC3MA0RliEqS"
+    },
+    {
+      "album": {
+        "name": "Dona De Si",
+        "url": "https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ"
+      },
+      "artists": [
+        {
+          "name": "Os Alentons",
+          "url": "https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167223,
+      "name": "Dona De Si",
+      "url": "https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra"
     },
     {
       "album": {
@@ -6995,6 +7031,24 @@
     },
     {
       "album": {
+        "name": "Ora\u00e7\u00e3o Ao Tempo",
+        "url": "https://open.spotify.com/album/4MeybEpXYrzioJUo6PWhWJ"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f3nio Zambujo",
+          "url": "https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Regresso \u00c0 Infancia",
+      "url": "https://open.spotify.com/track/7qFmXBTDYviyGh3W1p32bI"
+    },
+    {
+      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H"
       },
@@ -7949,6 +8003,24 @@
     },
     {
       "album": {
+        "name": "Florbela",
+        "url": "https://open.spotify.com/album/7opTU4anLmK9jfRrPeee1p"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Trigacheiro",
+          "url": "https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156779,
+      "name": "S\u00f3",
+      "url": "https://open.spotify.com/track/4Qw5x0FlRuZLEnCNBAzVXg"
+    },
+    {
+      "album": {
         "name": "S\u00f3 Deus Sabe",
         "url": "https://open.spotify.com/album/7xCJoZt1lSDqtGjMjLvwro"
       },
@@ -8630,6 +8702,24 @@
       "duration_ms": 168136,
       "name": "Vive o dia",
       "url": "https://open.spotify.com/track/5lcjHPZUhIPUdunrIAMpy4"
+    },
+    {
+      "album": {
+        "name": "Vizinha do 1\u00b0 Andar",
+        "url": "https://open.spotify.com/album/5uIjoy5Fc7UxqegPXDExIt"
+      },
+      "artists": [
+        {
+          "name": "Vizinhos",
+          "url": "https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188615,
+      "name": "Vizinha do 1\u00b0 Andar",
+      "url": "https://open.spotify.com/track/0nvLKn3RVp68QVH1h5jVXx"
     },
     {
       "album": {

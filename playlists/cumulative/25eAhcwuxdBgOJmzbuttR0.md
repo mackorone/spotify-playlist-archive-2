@@ -4,7 +4,7 @@
 
 > I&\#x27;M ANGSTY!! I&\#x27;M ANGSTY
 
-423 songs - 1 day 5 hr 1 min
+424 songs - 1 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [I Miss the Misery](https://open.spotify.com/track/3gmEzilP9BzF45wIMvA16l) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:03 | 2024-03-13 |  |
 | [I Stand Alone](https://open.spotify.com/track/44NRdYQw7P0GWuiunRv3hr) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/7xhudjssYTY8qRl1s9R3wu) | 4:06 | 2023-05-13 |  |
 | [i think about you all the time](https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 | 2025-08-22 |  |
+| [I Think I Lost My Headache](https://open.spotify.com/track/0MUXUGM0qh4lqWWQ9vvytv) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Rated R](https://open.spotify.com/album/05tJhGl52X4zGe0ySlcBk6) | 8:40 | 2026-03-19 |  |
 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 | 2023-03-28 |  |
 | [I'd Rather Drown](https://open.spotify.com/track/78HE1Ptk8RoAVu1mwyVI2X) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Cinematics \(Deluxe\)](https://open.spotify.com/album/5ID6i0rp73LaRuNcsLQDiq) | 3:25 | 2023-05-15 |  |
 | [I'll Sleep When I'm Dead](https://open.spotify.com/track/72vsd9IEBIonmvIY7TEjXK) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Cinematics \(Deluxe\)](https://open.spotify.com/album/5ID6i0rp73LaRuNcsLQDiq) | 3:24 | 2023-03-28 |  |

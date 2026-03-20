@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-650 songs - 2 day 13 hr 1 min
+652 songs - 2 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Cooking Up](https://open.spotify.com/track/0n94wJUljNAp0KvFplWYKM) | [Baka G](https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4) | [Cooking Up](https://open.spotify.com/album/1Dj7hOK9AoNTXBjYaITnor) | 4:42 | 2023-07-07 | 2024-04-10 |
 | [Cosmic Weapon](https://open.spotify.com/track/5V14vCQZxlGQJoV5rGceBA) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3), [Ben Silver](https://open.spotify.com/artist/0JsvTi1PxXyMqRdwEXxoDl), [Boogs](https://open.spotify.com/artist/6NdN6xLu4VR8nIGnBcTpwK) | [Contemporary Part Three](https://open.spotify.com/album/4VGoU2gyhIwS927c6XAfzs) | 6:54 | 2025-04-16 |  |
 | [Craving Crew](https://open.spotify.com/track/5tKtyc5xbc9dXjavBIEMPp) | [Tomasi Brothers](https://open.spotify.com/artist/3lc2hwCYX5BRmUzqXVazyE) | [Rythm Diaries](https://open.spotify.com/album/0mFnNsFZdYhqRseH4YHuV3) | 5:11 | 2023-07-07 | 2024-06-04 |
+| [Crispy Pancakes](https://open.spotify.com/track/2BwKVfq5bkg7oalYGAxfmm) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Crispy Pancakes](https://open.spotify.com/album/3IbFm9W1TcJKKo8wAnD4Is) | 5:02 | 2026-03-19 |  |
 | [Dance To The Rhythm](https://open.spotify.com/track/5k4dDheG0CcrII4jrWUDZo) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Dance To The Rhythm EP](https://open.spotify.com/album/6GZM06lOdwvBliFRD2BB0y) | 5:30 | 2024-04-04 | 2024-12-12 |
 | [Dances Of The Red Planet \- Club Edit](https://open.spotify.com/track/6tGNknjOFHVblkRuUMmttW) | [Mirlaqi](https://open.spotify.com/artist/6pOstvYpddLuYFTdPH3qs7) | [Dances Of The Red Planet \(A Vision Of Panorama Remix\)](https://open.spotify.com/album/0lIecoEtwbGKksjuOqjs7E) | 3:14 | 2025-05-11 |  |
 | [Dark](https://open.spotify.com/track/5ZUfxPD7COtssDTrGOYBtu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [In the Sky](https://open.spotify.com/album/2nqV2ojfNCdkfmcRt5Z3la) | 5:55 | 2024-12-11 | 2025-05-26 |
@@ -286,6 +287,7 @@
 | [JuJu Love](https://open.spotify.com/track/3znD0Jyul7cZlP4donxRBS) | [Juliet Mendoza](https://open.spotify.com/artist/1NeZEhcwWoLpkNzByUetzR) | [JuJu Love](https://open.spotify.com/album/5rgffzpuuEHi5ctYJtSiKv) | 4:57 | 2025-04-16 | 2025-09-21 |
 | [Just Because \- LYMA Remix](https://open.spotify.com/track/53h7Zdoybb4FUcWgdkOI66) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk), [Javonntte](https://open.spotify.com/artist/2qBuzbYgrjGhnf79c60kxi), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Just Because \(LYMA Remix\)](https://open.spotify.com/album/6t3CPMmQadfjSfyk98vM39) | 6:28 | 2025-03-13 | 2025-05-26 |
 | [Just Deep \- Tier's Deep Bottom Vocal Imprint](https://open.spotify.com/track/3OXJ4rKBazXWrliPQGShVb) | [Tier Ra Nichi](https://open.spotify.com/artist/4qPtOOUARjbLZbL8FrZDoX), [Seductive Sapphire](https://open.spotify.com/artist/05UzpI1gY7OheoCtXX6fbd) | [From Under The Counter](https://open.spotify.com/album/5CjVAiCa2TnLxwvCHqluQO) | 7:59 | 2025-09-25 |  |
+| [Just like that](https://open.spotify.com/track/3Y38DdRZao2CeKgnHz9rsO) | [ESCE](https://open.spotify.com/artist/3xVvJGFXPlg9vcRkNB6BGk) | [Just like that](https://open.spotify.com/album/4ZRqcE9V0tvsRcbpAHCag1) | 3:57 | 2026-03-19 |  |
 | [Just open your mind \- Deep Jazz Mix](https://open.spotify.com/track/00TmXAlL2VGicXdvYoz6vV) | [Jo Paciello](https://open.spotify.com/artist/3DEPyHwyKPe3BzyhlXrSlM) | [Just open your mind \(Deep Jazz Mix\)](https://open.spotify.com/album/3hpOcaeYwPl7cNCvf2Vz8S) | 7:32 | 2024-06-03 | 2025-01-26 |
 | [Jutzjazz](https://open.spotify.com/track/3puUQAU9ffPQW0E4QuGi3w) | [Justin Harris](https://open.spotify.com/artist/196WEo1Qy7ajWXSTFPX6F7) | [Check Your Chains EP](https://open.spotify.com/album/7qHFWCic0X0Xhh9gw3WfO0) | 5:37 | 2026-02-14 |  |
 | [Kamoufle](https://open.spotify.com/track/1z4SfJBEpQTwlLu9GMtmCe) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Kamoufle](https://open.spotify.com/album/4bZXo5hxXxyikFVlSFXcWn) | 7:19 | 2022-09-15 | 2023-04-09 |
@@ -308,7 +310,7 @@
 | [Lifted](https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun](https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry) | 6:56 | 2023-02-27 | 2023-10-13 |
 | [Lifted](https://open.spotify.com/track/4917oCInRqYqJVu4GmjEuK) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun EP](https://open.spotify.com/album/7iNiSkKg5xuNoaPo2IlfEi) | 6:56 | 2022-09-15 | 2023-03-09 |
 | [Light And Shadow \- Masalo Version](https://open.spotify.com/track/0sl5ZWJ68rOCDfyI2rGQrs) | [Manabu Nagayama](https://open.spotify.com/artist/7I48pTbXppMQw54TwQFXav), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Light And Shadow](https://open.spotify.com/album/1AlWBn8ubFv2qq6pVEDAsW) | 8:23 | 2025-02-07 | 2025-09-21 |
-| [Lightening In Me](https://open.spotify.com/track/1klNgEYD7zZw8xAHO56vB6) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [The Phoenix EP](https://open.spotify.com/album/6T3gVKAY1oA0hqYf4m3cJJ) | 5:31 | 2025-04-16 |  |
+| [Lightening In Me](https://open.spotify.com/track/1klNgEYD7zZw8xAHO56vB6) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [The Phoenix EP](https://open.spotify.com/album/6T3gVKAY1oA0hqYf4m3cJJ) | 5:31 | 2025-04-16 | 2026-03-20 |
 | [Like That](https://open.spotify.com/track/0h7sggAJvhPkf7znFFxBF9) | [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Like That](https://open.spotify.com/album/2JKZyi8XcLI9nftHmicdr3) | 3:35 | 2022-09-15 | 2023-04-09 |
 | [Like This \- Original Mix](https://open.spotify.com/track/4SNBhv0fxfCq6SxPHUR9iD) | [Rocco Rodamaal](https://open.spotify.com/artist/3NwffipFBRlnHBV9iQoB5l) | [Like This](https://open.spotify.com/album/7jGVsVvthGeO4s3nOMV89q) | 4:52 | 2025-08-30 |  |
 | [Like You](https://open.spotify.com/track/3wrnQYRWPxbiKeoY5QAN2F) | [Turbojazz](https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Like You](https://open.spotify.com/album/52O1fXKJQ4bo34br5La1r9) | 6:41 | 2024-04-25 | 2025-01-26 |

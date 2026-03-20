@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 332465,
+  "num_followers": 332513,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACfbgX93R4Dz55JEsFUT7f6",
+  "snapshot_id": "abnrAAAAAAAdUUCiAibA1BVitx0cgSxh",
   "tracks": [
     {
       "added_at": null,
@@ -522,15 +522,11 @@
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 278715,
-      "name": "Hate the Club (feat. Masego)",
-      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
+      "duration_ms": 245674,
+      "name": "Open (Passionate)",
+      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
     },
     {
       "added_at": null,
@@ -602,11 +598,15 @@
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 245674,
-      "name": "Open (Passionate)",
-      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
+      "duration_ms": 278715,
+      "name": "Hate the Club (feat. Masego)",
+      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
       "added_at": null,

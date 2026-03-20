@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9NmM48Aqz3e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9NmM48Aqz3e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9NmM48Aqz3e)
 
-### [Canadian '90s Hits](https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e)
+### [All Out Canadian 90s](https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e)
 
-> Favourites from Canadians who dominated the 1990s\. Cover: Melanie C & Bryan Adams
+> Favourites from Canadians who dominated the 1990s\. Cover: Céline Dion
 
-160 songs - 11 hr 12 min
+163 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Before You](https://open.spotify.com/track/43x055iXFysthvFWt2kVXK) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Colour Moving And Still](https://open.spotify.com/album/5tQWhrXatm5sZpk5DpDvyd) | 3:52 | 2024-04-05 |  |
 | [Blown Wide Open](https://open.spotify.com/track/0RGOHedWSJ2UUGjhJF0gif) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/41p1zVds0cmA8AeUviUWPs) | 5:55 | 2024-04-12 |  |
 | [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 | 2024-04-05 | 2024-04-19 |
+| [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 | 2026-03-19 |  |
 | [Breathe \- TLA Mix](https://open.spotify.com/track/1VoVbKTpQqH53CsViCdHoT) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Mercedes Five And Dime](https://open.spotify.com/album/0C7qJzzXQAl7Q3esSBOTnz) | 4:46 | 2024-04-05 | 2024-04-19 |
 | [Breathe \- TLA Mix](https://open.spotify.com/track/0UWklae5nAqRgKDIWpyWpe) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Machine Punch Through: The Singles Collection](https://open.spotify.com/album/48qfe5GUaW0l0UoKQisehK) | 4:54 | 2024-04-12 |  |
 | [Building a Mystery](https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/2XIPqTkZP5BSrtlHE7jkVz) | 4:07 | 2020-10-29\* |  |
@@ -101,7 +102,7 @@
 | [Paste](https://open.spotify.com/track/4as0umG24CgtpqKhZci8hF) | [Pluto](https://open.spotify.com/artist/2L9W4rjBa2yYSOvNqPTLEa) | [Pluto](https://open.spotify.com/album/5A9gzy6fnIOX7VRpTmGL53) | 3:42 | 2024-04-05 |  |
 | [Perfect](https://open.spotify.com/track/2TsHIYsETECpryUfYaXyTH) | [Maren Ord](https://open.spotify.com/artist/6tIOMfnZKcOpsYcI6RoujQ) | [Waiting](https://open.spotify.com/album/7KVHVTyKKHUnLpLweIQXl3) | 3:45 | 2024-04-05 |  |
 | [Pictures \- Featuring Kim Esty](https://open.spotify.com/track/6WE97b6kJHEnlkaf7xuMVu) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:51 | 2024-04-05 |  |
-| [Poets \- 2023 Remastered](https://open.spotify.com/track/0tOeuzHJaeptDdXQxKJguE) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 3:59 | 2024-04-05 |  |
+| [Poets \- 2023 Remastered](https://open.spotify.com/track/0tOeuzHJaeptDdXQxKJguE) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 3:59 | 2024-04-05 | 2026-03-20 |
 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 | 2021-09-21 | 2024-04-19 |
 | [Push](https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA) | 3:50 | 2020-10-29\* |  |
 | [Rave + Drool](https://open.spotify.com/track/1RNDyrE7ZEH0YF0L9iqJ4X) | [The Killjoys](https://open.spotify.com/artist/4tqAAab5kwc7pNYSWzlFGX) | [Gimme Five](https://open.spotify.com/album/3mwgbhHKmJ8dNXYOnPsmJA) | 4:02 | 2024-04-05 |  |
@@ -109,6 +110,7 @@
 | [Remote Control](https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg) | 3:39 | 2021-09-21 | 2024-04-19 |
 | [Remote Control](https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/4pdQQux0MoEnkeTUhEfY3K) | 3:39 | 2020-10-29\* |  |
 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 | 2021-09-21 | 2023-05-01 |
+| [Secret Heart](https://open.spotify.com/track/3rTuruoKn9K9I1gBbinklI) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Ron Sexsmith](https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg) | 3:15 | 2026-03-19 |  |
 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 | 2020-10-29\* |  |
 | [Since When](https://open.spotify.com/track/1JNpM7hH3lxYG3Qnkq3ki0) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Since When...](https://open.spotify.com/album/1cqtL5Hp6QONaueLlFztVC) | 4:14 | 2024-04-05 |  |
 | [Sleepy Maggie](https://open.spotify.com/track/5y74w1TrYCWA171jy3rK3u) | [Ashley MacIsaac](https://open.spotify.com/artist/7Jvc7K9mTzwZ7Jn0C5dv7V) | [Hi, How Are You Today?](https://open.spotify.com/album/5y90o2k3pS5JctAPDKWaJh) | 5:27 | 2024-04-05 |  |
@@ -120,7 +122,8 @@
 | [Spaceman \(2023 Remastered Version\)](https://open.spotify.com/track/3nf3FN7MRLuZDjQxcEwWxU) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I,Bificus XXV Anniversary \(2023 Remastered Version\)](https://open.spotify.com/album/1QOhDrMqusjS4aBYoO7Lig) | 4:21 | 2021-09-21 | 2024-04-19 |
 | [Sparkle & Shine](https://open.spotify.com/track/376zCRm5StOQyVBgHQtnMt) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [The Devil You Know](https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh) | 3:42 | 2024-04-05 |  |
 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 | 2020-10-29\* | 2024-04-06 |
-| [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 | 2020-10-29\* |  |
+| [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2026-03-19 |  |
+| [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 | 2020-10-29\* | 2026-03-20 |
 | [Stick to Your Vision](https://open.spotify.com/track/0rUJlihq250CR1PNo1sgk8) | [Maestro](https://open.spotify.com/artist/751BmPY1nbWMM4i9fxylUB) | [Built to Last](https://open.spotify.com/album/2GWUqHekMiHd9H1LhXPykG) | 4:48 | 2024-04-05 |  |
 | [Strange Disease](https://open.spotify.com/track/1TWjFagDRfmuXfEErIOiDk) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz) | 3:26 | 2024-04-12 |  |
 | [Strange Disease](https://open.spotify.com/track/3NUJcAWAIzlzNqGyQnm7XL) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/0FxSVyJ7d9BTddJfekVzpz) | 3:26 | 2024-04-05 | 2024-04-19 |

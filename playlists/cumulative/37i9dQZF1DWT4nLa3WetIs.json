@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Celebrating 5 years of stardom with Ayra Starr",
+  "description": "Celebrating 15 years of Olamide's debut album 'Rapsodi'",
   "name": "Timeless Afro ",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168103,
       "name": "Aquafina",
       "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 169400,
       "name": "Away",
       "url": "https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
@@ -1120,6 +1120,28 @@
       "duration_ms": 316426,
       "name": "Bootycall",
       "url": "https://open.spotify.com/track/0kX03hm5QJJDFR6X3B0tvG"
+    },
+    {
+      "album": {
+        "name": "Rapsodi",
+        "url": "https://open.spotify.com/album/2w7LTbrUuRW5LhezyFjeWk"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Terry tha Rapman",
+          "url": "https://open.spotify.com/artist/4gdH0HAj2UoCkNcDSur4le"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241487,
+      "name": "Boys Are Not Smiling {B.A.N.S}",
+      "url": "https://open.spotify.com/track/5WSz2KFhSYWLXYKZuAb7dO"
     },
     {
       "album": {
@@ -1760,7 +1782,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 132820,
       "name": "DITR",
       "url": "https://open.spotify.com/track/1iEH453kVmEcwgVKtbvylS"
@@ -2060,6 +2082,24 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
+    },
+    {
+      "album": {
+        "name": "Rapsodi",
+        "url": "https://open.spotify.com/album/2w7LTbrUuRW5LhezyFjeWk"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290011,
+      "name": "Eni Duro",
+      "url": "https://open.spotify.com/track/7BloZoqAe6Zi2uVcogruLZ"
     },
     {
       "album": {
@@ -4427,6 +4467,28 @@
     },
     {
       "album": {
+        "name": "Rapsodi",
+        "url": "https://open.spotify.com/album/2w7LTbrUuRW5LhezyFjeWk"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249155,
+      "name": "Omo to Shan",
+      "url": "https://open.spotify.com/track/1seSOKXNklp7AQsfgk7mOD"
+    },
+    {
+      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
       },
@@ -5118,7 +5180,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
@@ -5136,7 +5198,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
@@ -5154,7 +5216,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154500,
       "name": "Sare",
       "url": "https://open.spotify.com/track/5687UltkEFNIoi7friwKwt"

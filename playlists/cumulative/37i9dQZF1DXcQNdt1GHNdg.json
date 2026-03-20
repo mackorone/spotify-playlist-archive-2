@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210000,
       "name": "8 Parche",
       "url": "https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen"
@@ -1228,6 +1228,28 @@
       "duration_ms": 125106,
       "name": "Bhau Flow",
       "url": "https://open.spotify.com/track/0CfXLJr9A4qrcRkABEJM04"
+    },
+    {
+      "album": {
+        "name": "Big Shot",
+        "url": "https://open.spotify.com/album/5maqmL5k0QvRf2RRsqwd9J"
+      },
+      "artists": [
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "YAADA",
+          "url": "https://open.spotify.com/artist/1hCzZYgBEWZzLeGo93KSmY"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177692,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/5JRWkbK0vvCP50ow1QfF3A"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-426 songs - 1 day 3 hr 42 min
+427 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Feel Yourself](https://open.spotify.com/track/5WGNKRx4dYMXHvwGPrrci7) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI) | [Feel Yourself](https://open.spotify.com/album/286uUL0vH8fFrbRs6DuP9A) | 6:03 | 2024-02-16 |  |
 | [Feelin' It](https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82) | [Feelin' It](https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2) | 3:21 | 2025-09-26 |  |
 | [Feeling For You \(feat\. FARLEY\)](https://open.spotify.com/track/6pC6TW94GCOUwEj7ZchIk6) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Feeling For You \(feat\. FARLEY\)](https://open.spotify.com/album/43JAltifXLaRCkVzgfV7eb) | 3:46 | 2023-12-01 | 2023-12-30 |
-| [Feels So Good](https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos) | 3:25 | 2025-12-19 |  |
+| [Feels So Good](https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos) | 3:25 | 2025-12-19 | 2026-03-20 |
 | [Fighting Love](https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Fighting Love](https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3) | 3:08 | 2025-02-14 | 2026-01-15 |
 | [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-17 | 2024-09-18 |
 | [Flawless](https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Open Market](https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011) | 3:10 | 2023-05-19 |  |
@@ -295,6 +295,7 @@
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 |  |
 | [Past Life](https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Past Life](https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr) | 3:57 | 2024-04-26 |  |
 | [Patti](https://open.spotify.com/track/4T5Z0tSggegOb89AORT6AM) | [Tom Everett](https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK) | [Patti](https://open.spotify.com/album/3ZNk3kfQlopQkWvdGWna5s) | 3:22 | 2021-07-24 | 2023-06-25 |
+| [Pawa!](https://open.spotify.com/track/4b3QAtoxGL3JUzHoEmeBbc) | [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Pawa!](https://open.spotify.com/album/6giaVmagl27nQVjBvSDsg3) | 4:06 | 2026-03-13 |  |
 | [Petite Etoile](https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 4:35 | 2025-03-28 |  |
 | [phoenix](https://open.spotify.com/track/0JiS119XxHV9RfowD0GnIJ) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [phoenix](https://open.spotify.com/album/43nJVcXlrXfu540KyCab82) | 2:33 | 2023-05-26 | 2023-07-09 |
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [We Love Dogs!](https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7) | 3:29 | 2023-05-19 | 2024-06-18 |

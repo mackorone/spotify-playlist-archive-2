@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Ebubé
+> Discover your new favourite artists from UK&IE\. Cover: deary
 
-347 songs - 18 hr 36 min
+348 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All My Freaks](https://open.spotify.com/track/0zuMZmRQBp65CNS6WfzEYl) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [All My Freaks](https://open.spotify.com/album/5nKeAjFQwW4os6jxKOkv1E) | 3:01 | 2024-09-26 |  |
 | [All Night Long](https://open.spotify.com/track/3oYuIcMNiEgy3HMX2BPUb2) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [All Night Long](https://open.spotify.com/album/6OYva1symTcQGU5bPLtx5I) | 3:05 | 2022-05-26 |  |
 | [All The Mels](https://open.spotify.com/track/1d2NuaC27YWPW7gPcZxSJe) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e) | [All The Mels](https://open.spotify.com/album/3YGiEYfrVpzFeL8ea6GYc8) | 4:31 | 2024-06-24 |  |
+| [Alma](https://open.spotify.com/track/5WDWSOm8Wa9jxt2XtRmbyb) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Alma](https://open.spotify.com/album/5SvoJKCjUAyLWTQESwuNqk) | 3:40 | 2026-03-20 |  |
 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-25 |  |
 | [amnesia111](https://open.spotify.com/track/4cc73WNl3KdrJNgWk0eySz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:35 | 2023-04-27 |  |
 | [Amour Armour](https://open.spotify.com/track/3BeT0aKDJdMdsAXBeTpstR) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Amour Armour](https://open.spotify.com/album/5EBkaQAyQM8oXV7xkE6pzB) | 5:00 | 2025-11-07 |  |

@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "Sunshine Boulevard",
+        "url": "https://open.spotify.com/album/2xLW7PijPtzLeFXEyu24GY"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177706,
+      "name": "Just a Little Girl",
+      "url": "https://open.spotify.com/track/0J28N2l2NZZFyynG5EMJjG"
+    },
+    {
+      "album": {
         "name": "Playlist: The Best Of Little Eva",
         "url": "https://open.spotify.com/album/4hiDQjQltfdWHqAdiQqe7n"
       },
@@ -2930,7 +2948,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177706,
       "name": "Just a Little Girl",
       "url": "https://open.spotify.com/track/0nrcvwY0ZK9slURiw5iDca"
@@ -3056,7 +3074,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152006,
       "name": "Keep Your Hands off My Baby",
       "url": "https://open.spotify.com/track/5jq0N3md5T4Y0Wwp944KcI"
@@ -3096,6 +3114,24 @@
       "duration_ms": 152093,
       "name": "Keep Your Hands off My Baby",
       "url": "https://open.spotify.com/track/5DKc9MXYFqwSlKDModKgF9"
+    },
+    {
+      "album": {
+        "name": "The Loco-Motion Party",
+        "url": "https://open.spotify.com/album/6r5HyauRBALzHMlJ78Xiq6"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "Keep Your Hands off My Baby",
+      "url": "https://open.spotify.com/track/61HxMhmxwb2QSAb7UJvVp7"
     },
     {
       "album": {
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168733,
       "name": "Let's Start the Party Again",
       "url": "https://open.spotify.com/track/0JvPb6ORbV97cYyvtZsqSP"
@@ -3294,6 +3330,24 @@
       "duration_ms": 168733,
       "name": "Let's Start the Party Again",
       "url": "https://open.spotify.com/track/1aMVc6RzgAJX4GKxjZBiA6"
+    },
+    {
+      "album": {
+        "name": "Sunshine Boulevard",
+        "url": "https://open.spotify.com/album/2xLW7PijPtzLeFXEyu24GY"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168733,
+      "name": "Let's Start the Party Again",
+      "url": "https://open.spotify.com/track/6QmmLbWDYsVw0SAatl9F4Z"
     },
     {
       "album": {
@@ -6298,10 +6352,28 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 119066,
       "name": "What I Gotta Do (To Make You Jealous)",
       "url": "https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU"
+    },
+    {
+      "album": {
+        "name": "The Loco-Motion Party",
+        "url": "https://open.spotify.com/album/6r5HyauRBALzHMlJ78Xiq6"
+      },
+      "artists": [
+        {
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119080,
+      "name": "What I Gotta Do (To Make You Jealous)",
+      "url": "https://open.spotify.com/track/0ZWzBETmYKjCouSCgnVVcy"
     },
     {
       "album": {

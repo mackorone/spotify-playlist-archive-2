@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Broke & Famous",
+        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234906,
+      "name": "Algo Musical",
+      "url": "https://open.spotify.com/track/1Koxb4StDE2K7XsuDunx76"
+    },
+    {
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx"
       },
@@ -444,7 +466,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 209452,
       "name": "Algo Musical",
       "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"

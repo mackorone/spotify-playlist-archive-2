@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem NATTAN,  Melody, Xamã com L7NNON, Alok com Khalid, Zara Larsson, Fernando & Sorocaba com Hugo & Guilherme e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,265,079 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264,950 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

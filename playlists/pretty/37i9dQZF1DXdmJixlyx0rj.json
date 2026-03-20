@@ -1,12 +1,12 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Silly Silky (\uc2e4\ub9ac\uc2e4\ud0a4))",
-  "num_followers": 35609,
+  "num_followers": 35626,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAXhdMJa0TJgmIuv0/cXIQHnfnk",
+  "snapshot_id": "AAAAAGWxsM/XYviZUhjdMh/RGcjt7+PF",
   "tracks": [
     {
       "added_at": "2026-03-11 03:03:26",
@@ -875,6 +875,30 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
+        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
+        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
+      },
+      "artists": [
+        {
+          "name": "KINO",
+          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "UWA",
+          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "DIRTY BOY (feat. JAMIE & UWA)",
+      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
         "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 (Effie & Eurohead Remix)",
         "url": "https://open.spotify.com/album/0aYO5sUYrc65edOubY9saN"
       },
@@ -899,30 +923,6 @@
       "duration_ms": 186857,
       "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 - Effie & Eurohead Remix",
       "url": "https://open.spotify.com/track/217pG31hswPFS8zFo2KONE"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
-        "name": "EVERYBODY\u2019S GUILTY, BUT NO ONE\u2019S TO BLAME",
-        "url": "https://open.spotify.com/album/1dvli73JK8urCWN7v3cPBa"
-      },
-      "artists": [
-        {
-          "name": "KINO",
-          "url": "https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL"
-        },
-        {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
-        },
-        {
-          "name": "UWA",
-          "url": "https://open.spotify.com/artist/75Mlh5IbMKyzzDDLEeEddF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "DIRTY BOY (feat. JAMIE & UWA)",
-      "url": "https://open.spotify.com/track/7bpEfztP5hljY9u9yHikSr"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "Mushroom House",
-        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
-      },
-      "artists": [
-        {
-          "name": "Tomatomat",
-          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Mushroom House",
-      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "iScreaM Vol.26 : Spicy Remix",
         "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 190000,
       "name": "Spicy - Nitepunk Remix",
       "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "Mushroom House",
+        "url": "https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG"
+      },
+      "artists": [
+        {
+          "name": "Tomatomat",
+          "url": "https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Mushroom House",
+      "url": "https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
+        "name": "Rich Man (Remixes)",
+        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 190370,
+      "name": "Rich Man - Yellow Claw Remix",
+      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
         "name": "My Bad (feat. Julie Bergan) [KSHMR Edit]",
         "url": "https://open.spotify.com/album/35NGvCNRwl2NiWfcai5k4G"
       },
@@ -1095,26 +1115,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "Rich Man (Remixes)",
-        "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 190370,
-      "name": "Rich Man - Yellow Claw Remix",
-      "url": "https://open.spotify.com/track/3cs4cGO4EgZDATiKgoAqpO"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+      },
+      "artists": [
+        {
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1155,38 +1171,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "Love Crime",
-        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
-      },
-      "artists": [
-        {
-          "name": "Rockett",
-          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
-        }
-      ],
-      "duration_ms": 154712,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
-        "name": "eigensinn",
-        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 261301,
-      "name": "homes",
-      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 188000,
       "name": "Armageddon (2Spade Remix)",
       "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "eigensinn",
+        "url": "https://open.spotify.com/album/5oHPjdcJM6hiYNbFVNAJUg"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 261301,
+      "name": "homes",
+      "url": "https://open.spotify.com/track/0JjEptlop0dcPsCxkcy5As"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "KPOP B!TCH",
-        "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "KPOP B!TCH",
-      "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "Unstable",
         "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 174000,
       "name": "Unstable",
       "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "KPOP B!TCH",
+        "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 172554,
+      "name": "KPOP B!TCH",
+      "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 162681,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "iScreaM Vol.24 : Perfume Remixes",
         "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 168973,
       "name": "Perfume - Jafunk Remix",
       "url": "https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 162681,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
+        "name": "Iab",
+        "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
+      },
+      "artists": [
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "duration_ms": 190312,
+      "name": "Iab",
+      "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
         "name": "Late Night Feels (\u00d6wnboss Remix)",
         "url": "https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
-        "name": "Iab",
-        "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
-      },
-      "artists": [
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        },
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        }
-      ],
-      "duration_ms": 190312,
-      "name": "Iab",
-      "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "Lowkey (feat. Lee Ba Da)",
-        "url": "https://open.spotify.com/album/6Zixfi2chqy7t0VhRwmQpv"
-      },
-      "artists": [
-        {
-          "name": "Klozer",
-          "url": "https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC"
-        },
-        {
-          "name": "LEEBADA",
-          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "Lowkey (feat. Lee Ba Da)",
-      "url": "https://open.spotify.com/track/0WSTRuSHlqji3GItjWDOeN"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "We The One",
         "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 199453,
       "name": "Peaches - SUMIN Remix",
       "url": "https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "Lowkey (feat. Lee Ba Da)",
+        "url": "https://open.spotify.com/album/6Zixfi2chqy7t0VhRwmQpv"
+      },
+      "artists": [
+        {
+          "name": "Klozer",
+          "url": "https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC"
+        },
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "duration_ms": 158880,
+      "name": "Lowkey (feat. Lee Ba Da)",
+      "url": "https://open.spotify.com/track/0WSTRuSHlqji3GItjWDOeN"
     },
     {
       "added_at": "2026-03-11 03:03:26",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2026-03-11 03:03:26",
       "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "taalthechoi",
-          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Breakthrough - taalthechoi Remix",
-      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
-    },
-    {
-      "added_at": "2026-03-11 03:03:26",
-      "album": {
         "name": "Falling In Love (feat. Natalie Major)",
         "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 214758,
       "name": "Falling In Love (feat. Natalie Major)",
       "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
+    },
+    {
+      "added_at": "2026-03-11 03:03:26",
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "taalthechoi",
+          "url": "https://open.spotify.com/artist/0Wz3NC2nQgeV1titlYTj4C"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Breakthrough - taalthechoi Remix",
+      "url": "https://open.spotify.com/track/2qM9XN5Wm4qqfjdfTGEK0Y"
     },
     {
       "added_at": "2026-03-11 03:03:26",

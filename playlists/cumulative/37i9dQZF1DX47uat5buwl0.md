@@ -2,7 +2,7 @@
 
 ### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
-> Heerlie de peerlie\. Cover: Miloolaathetlukken 🔥
+> Banger na banger\. Cover: Bausa 🔥
 
 155 songs - 6 hr 48 min
 

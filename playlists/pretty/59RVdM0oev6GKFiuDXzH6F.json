@@ -6,8 +6,28 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARPLbINjo3XyPYhKYEa72b/fO54pJN",
+  "snapshot_id": "AAARPcuS974NZI4ffH9XhDmOh8e6e6FQ",
   "tracks": [
+    {
+      "added_at": "2026-03-19 23:00:16",
+      "album": {
+        "name": "We Don't Need",
+        "url": "https://open.spotify.com/album/6QFn2S5NqgwmXkr4kTsmlm"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "Hot Bullet",
+          "url": "https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "We Don't Need",
+      "url": "https://open.spotify.com/track/6Yowk2GeIUCOvxmLVIdAOg"
+    },
     {
       "added_at": "2026-03-12 23:00:15",
       "album": {

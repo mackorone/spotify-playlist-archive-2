@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1039979,
+  "num_followers": 1039997,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -423,30 +423,6 @@
     {
       "added_at": "2026-03-13 04:00:52",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 232149,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
-    },
-    {
-      "added_at": "2026-03-13 04:00:52",
-      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8"
       },
@@ -467,6 +443,30 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
+    },
+    {
+      "added_at": "2026-03-13 04:00:52",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 232149,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },
     {
       "added_at": "2026-03-13 04:00:52",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-03-13 04:00:52",
       "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 216149,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
+    },
+    {
+      "added_at": "2026-03-13 04:00:52",
+      "album": {
         "name": "M\u00e1s Que T\u00fa",
         "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
-    },
-    {
-      "added_at": "2026-03-13 04:00:52",
-      "album": {
-        "name": "Tu C\u00e1rcel",
-        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 216149,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
     },
     {
       "added_at": "2026-03-13 04:00:52",
@@ -947,8 +947,8 @@
     {
       "added_at": "2026-03-13 04:00:52",
       "album": {
-        "name": "Una Noche M\u00e1s",
-        "url": "https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 159062,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
     },
     {
       "added_at": "2026-03-13 04:00:52",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2026-03-13 04:00:52",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/2NbUbyDuX5rrdJVVaM4ccE"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
+      "duration_ms": 159062,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6hl4VqVrqMgHYibqtmjpI7"
     },
     {
       "added_at": "2026-03-13 04:00:52",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-03-13 04:00:52",
       "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-03-13 04:00:52",
+      "album": {
         "name": "CUCARACHEO",
         "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 153903,
       "name": "CUCARACHEO",
       "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
-    },
-    {
-      "added_at": "2026-03-13 04:00:52",
-      "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-03-13 04:00:52",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2026-03-13 04:00:52",
       "album": {
+        "name": "Cur\u00e1ndote",
+        "url": "https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 142021,
+      "name": "Cur\u00e1ndote",
+      "url": "https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8"
+    },
+    {
+      "added_at": "2026-03-13 04:00:52",
+      "album": {
         "name": "Mu\u00e9rdeme",
         "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 184506,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
-    },
-    {
-      "added_at": "2026-03-13 04:00:52",
-      "album": {
-        "name": "Cur\u00e1ndote",
-        "url": "https://open.spotify.com/album/20oYOzxKp2XQZAZ2qLSzJm"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 142021,
-      "name": "Cur\u00e1ndote",
-      "url": "https://open.spotify.com/track/4AJlSjQppatiHS61OrZJd8"
     },
     {
       "added_at": "2026-03-13 04:00:52",

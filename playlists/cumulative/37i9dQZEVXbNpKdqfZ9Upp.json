@@ -12629,6 +12629,28 @@
     },
     {
       "album": {
+        "name": "TY x 3",
+        "url": "https://open.spotify.com/album/2OkiqE7Qd7jWbDoZA6r0Fr"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122363,
+      "name": "Chica Baila",
+      "url": "https://open.spotify.com/track/0ayDGpeamuHKkx4H8qhJcX"
+    },
+    {
+      "album": {
         "name": "LA OBSESION, VOL. 1",
         "url": "https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM"
       },
@@ -16282,7 +16304,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 156600,
       "name": "CU\u00c1L ESTR\u00c9S?",
       "url": "https://open.spotify.com/track/1DbNzL9dW8TN0nSF0KEUHE"
@@ -18394,7 +18416,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -32006,7 +32028,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 139734,
       "name": "IMU",
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
@@ -45476,7 +45498,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 221538,
       "name": "MVLAN",
       "url": "https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k"
@@ -58464,7 +58486,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -58482,7 +58504,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -68312,6 +68334,32 @@
       "duration_ms": 161287,
       "name": "Tiempos de Plan B",
       "url": "https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM"
+    },
+    {
+      "album": {
+        "name": "Tienes",
+        "url": "https://open.spotify.com/album/5EJ95wl95LErUtl08aoBLy"
+      },
+      "artists": [
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187143,
+      "name": "Tienes",
+      "url": "https://open.spotify.com/track/3IS16gHjX1lRyBGnM1L5DL"
     },
     {
       "album": {

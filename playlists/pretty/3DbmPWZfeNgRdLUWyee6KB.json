@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAR3DIXI7vgKkhQ4ueg65+ck3BwO1YZ",
+  "snapshot_id": "AAAR4Y1quIfsZ0iuVdtXDnwhCdgf1BBj",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -2919,6 +2919,90 @@
       "duration_ms": 277043,
       "name": "demonic stranger",
       "url": "https://open.spotify.com/track/30T4D9QFdqhJkIDvYQnrK4"
+    },
+    {
+      "added_at": "2026-03-19 08:38:14",
+      "album": {
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/6mVCQDEYg5Jc75s3q6p42h"
+      },
+      "artists": [
+        {
+          "name": "Al 29",
+          "url": "https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs"
+        }
+      ],
+      "duration_ms": 244719,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/0fSeYXVW6L20zmswLwWKhM"
+    },
+    {
+      "added_at": "2026-03-19 08:38:19",
+      "album": {
+        "name": "I Love You More",
+        "url": "https://open.spotify.com/album/6a5LYuzQ3FuyEexUhvyFhp"
+      },
+      "artists": [
+        {
+          "name": "Denny Haze",
+          "url": "https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "I Love You More",
+      "url": "https://open.spotify.com/track/7yvEjVqM9yzjaJO4GoqlNa"
+    },
+    {
+      "added_at": "2026-03-19 08:38:38",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/3bf3Ve3cqufuD62hIQnBmJ"
+      },
+      "artists": [
+        {
+          "name": "OceanHeir",
+          "url": "https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU"
+        },
+        {
+          "name": "Pineberry",
+          "url": "https://open.spotify.com/artist/66WL1CvsVUbUltz9CcvQYI"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/49eKAgjF5UXYiNAmIOCb4d"
+    },
+    {
+      "added_at": "2026-03-19 12:00:17",
+      "album": {
+        "name": "E resta qui con me",
+        "url": "https://open.spotify.com/album/1P7agHAhwbTUbcYqmRkcAK"
+      },
+      "artists": [
+        {
+          "name": "Manuel Marino",
+          "url": "https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ"
+        }
+      ],
+      "duration_ms": 238356,
+      "name": "E resta qui con me",
+      "url": "https://open.spotify.com/track/2nWGzqiNx8ZCbJgeBkKl1u"
+    },
+    {
+      "added_at": "2026-03-19 12:00:25",
+      "album": {
+        "name": "Dar Koridor",
+        "url": "https://open.spotify.com/album/4x6MQlw8TWrRGsnyzJ8DTC"
+      },
+      "artists": [
+        {
+          "name": "Ers \u00d6zl\u00fc",
+          "url": "https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Dar Koridor",
+      "url": "https://open.spotify.com/track/3DiY9hFu1VVY4oAErGfTYE"
     }
   ],
   "unique_name": "New Indie Music",

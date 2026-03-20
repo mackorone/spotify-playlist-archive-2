@@ -2,9 +2,9 @@
 
 ### [The ACS](https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa)
 
-> A perfect link up to soundtrack your day\. Cover: MOLIY, bees & honey
+> A perfect link up to soundtrack your day\. Cover: King Promize, Mr Eazi
 
-628 songs - 1 day 8 hr 36 min
+629 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Foreign](https://open.spotify.com/track/0kRm8zsYvR7OwuS6WosMW9) | [Bankulli](https://open.spotify.com/artist/5vaAZTnLCHp0garbEDlorS), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Foreign](https://open.spotify.com/album/3zpmrSrXjutTncIdJ7v4Hx) | 2:49 | 2021-12-20 | 2022-06-05 |
 | [Foreigner](https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Foreigner](https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ) | 3:54 | 2022-02-28 | 2022-07-29 |
 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 | 2025-07-03 |  |
-| [Forever Grateful](https://open.spotify.com/track/4EPXfugV9mM66inwJIyLaU) | [Keznamdi](https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [BLXXD & FYAH](https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv) | 4:05 | 2026-02-27 |  |
+| [Forever Grateful](https://open.spotify.com/track/4EPXfugV9mM66inwJIyLaU) | [Keznamdi](https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [BLXXD & FYAH](https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv) | 4:05 | 2026-02-27 | 2026-03-20 |
 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 | 2022-05-20 | 2022-05-24 |
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2021-12-20 | 2022-07-29 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-10 | 2026-02-27 |
@@ -342,6 +342,7 @@
 | [Malunde](https://open.spotify.com/track/6oBzjUAFMcU448RzHciM43) | [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Djy Ma'Ten](https://open.spotify.com/artist/7BFXyzkV91hV7KjxaiMQS3), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Malunde](https://open.spotify.com/album/2TK1air4eHlL7cIhPmgiAA) | 6:34 | 2022-03-21 | 2022-05-06 |
 | [Mama Stay](https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs) | [Mama Stay](https://open.spotify.com/album/7tru8RQVWKJ3MwC253e4CP) | 3:10 | 2021-12-20 | 2022-07-20 |
 | [Man Dem](https://open.spotify.com/track/4EziPrWWeLbMzI6Oho0O7z) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [One Acen](https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8) | [Twelve A.M](https://open.spotify.com/album/6ZOAzx00nKsqJYRTW3wknJ) | 2:52 | 2021-12-20 | 2022-06-14 |
+| [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 | 2026-03-20 |  |
 | [Marry Me](https://open.spotify.com/track/4u6JtcrqFz1kw8wTahLGbI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Marry Me](https://open.spotify.com/album/56qXnhOME5HgzNIlxVt2AR) | 2:53 | 2021-12-20 | 2022-07-29 |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-07-21 | 2024-01-19 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2024-01-22 | 2025-08-29 |

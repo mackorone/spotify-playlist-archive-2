@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,264 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,301 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 36 | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS) | [The Corner Room](https://open.spotify.com/artist/2ajMEZ6eWYBO1ijf0X3Vgg) | [Romans 3:23\-24 \(English Standard Version\)](https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F) | 2:40 |
 | 37 | [Awesome God](https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Worship For Your Family \(Yellow\)](https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA) | 3:14 |
 | 38 | [How Great Is Our God](https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 4:00 |
-| 39 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |
-| 40 | [Your Name \(Psalm 40\) \- Live](https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:50 |
+| 39 | [Your Name \(Psalm 40\) \- Live](https://open.spotify.com/track/7Dmap2QHdFFuoweoQxNrNm) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in the Word, Vol\. 3 \(Live\)](https://open.spotify.com/album/2xj1Lu3FycIfZQNkZhmS9n) | 4:50 |
+| 40 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |
 | 41 | [Prayed for This Day](https://open.spotify.com/track/2GZK4aAvR7QYTPuQOoJCVN) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 3:18 |
 | 42 | [I've Got Peace Like A River](https://open.spotify.com/track/1QNzSJpXT821Ywcw70jf9S) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [100 Singalong Songs For Kids](https://open.spotify.com/album/2EiryC1JLLMcy6SDeOuT7F) | 1:34 |
 | 43 | [You're Worthy Of My Praise](https://open.spotify.com/track/18u6SPiW95kfpWTg4zfYvZ) | [I Could Sing Kids Performers](https://open.spotify.com/artist/13sPKIaXpiW7mFr3cgCb02) | [I Could Sing Of Your Love Forever Kids](https://open.spotify.com/album/6M5aMxSlZFxbJtIz2wqzxj) | 4:17 |

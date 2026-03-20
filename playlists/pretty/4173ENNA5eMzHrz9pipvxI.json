@@ -1,13 +1,77 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Valentino Khan &amp; No/Me",
-  "num_followers": 118507,
+  "num_followers": 118510,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAg4YhsNmEK0fQ/gkFt0W7GA8jfYDg1",
+  "snapshot_id": "AAAg5ThX/Jnakmv80xS+6KrjQMtJrV/E",
   "tracks": [
+    {
+      "added_at": "2026-03-19 23:00:14",
+      "album": {
+        "name": "Into The Sun (feat. Brieanna Grace)",
+        "url": "https://open.spotify.com/album/6Hul57nelgR1a4iHRnstpa"
+      },
+      "artists": [
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 197201,
+      "name": "Into The Sun (feat. Brieanna Grace)",
+      "url": "https://open.spotify.com/track/4FIFylQf9hYh440pXpBkmD"
+    },
+    {
+      "added_at": "2026-03-19 23:00:15",
+      "album": {
+        "name": "We Don't Need",
+        "url": "https://open.spotify.com/album/6QFn2S5NqgwmXkr4kTsmlm"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        },
+        {
+          "name": "Hot Bullet",
+          "url": "https://open.spotify.com/artist/4vDtyZl3NELBWbdvHQ28M5"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "We Don't Need",
+      "url": "https://open.spotify.com/track/6Yowk2GeIUCOvxmLVIdAOg"
+    },
+    {
+      "added_at": "2026-03-19 23:00:17",
+      "album": {
+        "name": "Last Night On Earth",
+        "url": "https://open.spotify.com/album/35YOrHWgpUOe6DTnzOO8xj"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Last Night On Earth",
+      "url": "https://open.spotify.com/track/1uQPMFQqh9TZAHZhAZLTgZ"
+    },
     {
       "added_at": "2026-03-12 23:00:16",
       "album": {
@@ -31,6 +95,30 @@
       "duration_ms": 203516,
       "name": "Ultra Love",
       "url": "https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi"
+    },
+    {
+      "added_at": "2026-03-19 23:00:18",
+      "album": {
+        "name": "Uma Can\u00e7\u00e3o (For Shelter)",
+        "url": "https://open.spotify.com/album/2rdvpDrYEyaQuv38yG2yhW"
+      },
+      "artists": [
+        {
+          "name": "Ashton Collier",
+          "url": "https://open.spotify.com/artist/5rvtJkGUH0MZLc52vQLCLT"
+        },
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Sam Silva",
+          "url": "https://open.spotify.com/artist/3blV8KVYXODP5q8zxzfwYM"
+        }
+      ],
+      "duration_ms": 247868,
+      "name": "Uma Can\u00e7\u00e3o (For Shelter)",
+      "url": "https://open.spotify.com/track/6RkeAURZB3MhneWxcTeKA2"
     },
     {
       "added_at": "2026-03-12 23:00:17",

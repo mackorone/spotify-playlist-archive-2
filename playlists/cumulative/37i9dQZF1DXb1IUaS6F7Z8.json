@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177887,
       "name": "Barroom Hero",
       "url": "https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 168840,
       "name": "Captain Kelly's Kitchen",
       "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
@@ -874,6 +874,24 @@
       "duration_ms": 173563,
       "name": "Glad to See the Back of You",
       "url": "https://open.spotify.com/track/37JVPMsOsY6tvG2pn0jI0e"
+    },
+    {
+      "album": {
+        "name": "The Valley Of The Shadow Of Death",
+        "url": "https://open.spotify.com/album/3SztKOnYC6MOcYzjZJFi0u"
+      },
+      "artists": [
+        {
+          "name": "The Tossers",
+          "url": "https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102080,
+      "name": "Goodmornin' Da",
+      "url": "https://open.spotify.com/track/2sxAK4ukwn6wg3hAfYu95q"
     },
     {
       "album": {
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 157875,
       "name": "The Cabin",
       "url": "https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT"

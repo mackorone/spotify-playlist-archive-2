@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 39 songs - 2 hr 14 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 37 | [One Foot in the Grave](https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Element Two: Earth](https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ) | 2:40 |
 | 38 | [Unicorn Tolerance](https://open.spotify.com/track/276BJyNe0CW6GPMjPtwcIa) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths \(Deluxe Version\)](https://open.spotify.com/album/1yJuS1MzCnoqG8IKZA6uuf) | 5:24 |
 | 39 | [BRAINS! \(from the Cartoon Network's GRIM AND EVIL\)](https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [BOO HOO](https://open.spotify.com/album/2EY8rTI7ZaU9f68LDXIsZk) | 5:11 |
+| 40 | [Blacksnake](https://open.spotify.com/track/7J56rJncvP2SUnTV8phOPX) | [Charming Disaster](https://open.spotify.com/artist/1RjkfhamohczSXjFy5WcZh) | [Spells + Rituals](https://open.spotify.com/album/4tE4gOsZHxodHLe2FOwz1C) | 4:24 |
 
-Snapshot ID: `AAAALsLP5g79boCKgwlO2Ms3wIxpIvPJ`
+Snapshot ID: `AAAAL/2sM+Rf4dOyCSbv0Gi0tismXWM1`

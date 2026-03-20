@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-152 songs - 8 hr 34 min
+153 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,13 +18,13 @@
 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 | 2022-03-18 |  |
 | [Back Home in Bristol](https://open.spotify.com/track/4fJ3Izp494APZkuSQJMe36) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Foreign Skies](https://open.spotify.com/album/4sXaOOcXH2tfRFUJsiIzKh) | 4:03 | 2024-02-06 | 2026-03-17 |
 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 | 2022-03-18 |  |
-| [Barroom Hero](https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:57 | 2024-02-06 |  |
+| [Barroom Hero](https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:57 | 2024-02-06 | 2026-03-20 |
 | [Black Friday Rule](https://open.spotify.com/track/0tXYtoyv8OH1dz45CLPP9G) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 7:01 | 2024-02-06 |  |
 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 | 2022-03-18 |  |
 | [Bottoms Up](https://open.spotify.com/track/0PVMlDrq7OTZPUyve5Of0D) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Devil's Dozen](https://open.spotify.com/album/0HAn7KPVICSQy36HHeqWVo) | 3:01 | 2024-02-06 |  |
 | [Bullhead](https://open.spotify.com/track/1Fa7HO1JHC20Fcv0wTTDTQ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Bullhead](https://open.spotify.com/album/4e4gqnGXeLQIpccdoN95kE) | 2:39 | 2022-03-18 | 2022-07-29 |
 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 | 2022-03-18 | 2024-02-07 |
-| [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 | 2024-02-06 | 2026-03-19 |
+| [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 | 2024-02-06 |  |
 | [Celtic Storm \(2010\)](https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ) | [The Mighty Regis](https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp) | [21](https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9) | 3:16 | 2022-03-18 | 2022-12-16 |
 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 | 2022-03-18 |  |
 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 | 2022-03-18 | 2024-04-19 |
@@ -56,6 +56,7 @@
 | [Fuck You, I'm Drunk](https://open.spotify.com/track/5h5F15pdoLR3jhiC3JInsf) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats on Board](https://open.spotify.com/album/25N5DFrbDiyYepxO38maDT) | 2:46 | 2024-02-06 | 2024-04-11 |
 | [Giving It Up \(The Drink\)](https://open.spotify.com/track/5hUyDIqCOt8oZqqs7W1PPP) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [The Underdogs](https://open.spotify.com/album/1kdh75Ql8j44IdYNeSxSXQ) | 3:02 | 2022-03-18 | 2022-07-16 |
 | [Glad to See the Back of You](https://open.spotify.com/track/37JVPMsOsY6tvG2pn0jI0e) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Down and out in the City of Saints](https://open.spotify.com/album/2gpS86odPTUcZV6ENCmM5L) | 2:53 | 2022-03-18 | 2022-07-29 |
+| [Goodmornin' Da](https://open.spotify.com/track/2sxAK4ukwn6wg3hAfYu95q) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Valley Of The Shadow Of Death](https://open.spotify.com/album/3SztKOnYC6MOcYzjZJFi0u) | 1:42 | 2024-02-06 |  |
 | [Grace O'malley](https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY) | 3:36 | 2024-02-06 |  |
 | [Grace O'malley](https://open.spotify.com/track/7BxuW1u779q9orjpmbNlxF) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/2ioktS4K96jpk7Q5McGouo) | 3:36 | 2022-03-18 | 2022-07-15 |
 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 | 2022-03-18 | 2023-07-22 |
@@ -119,7 +120,7 @@
 | [Still Alive](https://open.spotify.com/track/1RbpnDf4CwKWnQNdMeDjM1) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Spice It Up!](https://open.spotify.com/album/2NzU2lS6b41Dvmm0sFZNl4) | 2:47 | 2022-03-18 | 2024-01-30 |
 | [Still Alive](https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Still Alive](https://open.spotify.com/album/2lxPat5AT5o7D06Q7YNE6G) | 2:47 | 2022-03-18 | 2022-07-29 |
 | [The Beer Song](https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [On the Rocks](https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05) | 1:54 | 2024-02-06 |  |
-| [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 | 2022-03-18 |  |
+| [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 | 2022-03-18 | 2026-03-20 |
 | [The Cruel Wars](https://open.spotify.com/track/6BadR8UdEijDv01ZafyO62) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Uncle Touchy Goes to College](https://open.spotify.com/album/3AtaamrqosM5VdORJN2WR9) | 3:07 | 2024-02-06 |  |
 | [The Foggy Dew](https://open.spotify.com/track/59cTalavalHWTXoEtGnrJA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect \- The Irish Sessions](https://open.spotify.com/album/3SIgoKx2ScvBdf7XFps6i0) | 3:11 | 2022-03-18 | 2022-07-29 |
 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 | 2022-03-18 | 2024-04-19 |

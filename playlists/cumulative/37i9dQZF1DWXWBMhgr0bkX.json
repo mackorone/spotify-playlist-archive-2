@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown emerging pop \ud83e\udd64 Cover: Mulaa Joans",
+  "description": "Homegrown emerging pop \ud83c\udf19\ncover: Kerr Mercer",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 193092,
       "name": "3minutes",
       "url": "https://open.spotify.com/track/3WmMhXZRNRMwuuRSTsEB92"
+    },
+    {
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/2rv3ghf548C87buuNxQnXW"
+      },
+      "artists": [
+        {
+          "name": "Ruby Mae",
+          "url": "https://open.spotify.com/artist/599ZqT12WCMuXHBI14MKT8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200494,
+      "name": "4321",
+      "url": "https://open.spotify.com/track/2rmR0fqiDQhUbumtKrBt3l"
     },
     {
       "album": {
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172927,
       "name": "better 4 u",
       "url": "https://open.spotify.com/track/0JXuDTEwOY4SpcW7gEptAs"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229087,
       "name": "Blue",
       "url": "https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B"
@@ -2996,6 +3014,24 @@
       "duration_ms": 189058,
       "name": "Callowman",
       "url": "https://open.spotify.com/track/36e7KXBW3MWm9alOemKiGr"
+    },
+    {
+      "album": {
+        "name": "Calvin Klein",
+        "url": "https://open.spotify.com/album/0uTvMlnRc5G6k4yAty4Q44"
+      },
+      "artists": [
+        {
+          "name": "Kayleigh Noble",
+          "url": "https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166557,
+      "name": "Calvin Klein",
+      "url": "https://open.spotify.com/track/6V8q2p3HdAi7YKwzoNXxhi"
     },
     {
       "album": {
@@ -5723,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif"
+    },
+    {
+      "album": {
         "name": "Every Ounce of Me",
         "url": "https://open.spotify.com/album/3z13N1Cg0jutVKa5EC8x4g"
       },
@@ -6700,7 +6754,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154126,
       "name": "For You",
       "url": "https://open.spotify.com/track/015oTZOFMNR1IhWEKOr1H1"
@@ -10453,6 +10507,24 @@
     },
     {
       "album": {
+        "name": "lie to me better",
+        "url": "https://open.spotify.com/album/6t4iyrvn3OAPRhbtYFtzxO"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160795,
+      "name": "lie to me better",
+      "url": "https://open.spotify.com/track/1yOVQADad0VaKAmx9VKkZb"
+    },
+    {
+      "album": {
         "name": "Lights Off",
         "url": "https://open.spotify.com/album/1qxqjgKbzcUdLaxyza6ZuH"
       },
@@ -11584,7 +11656,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 182630,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2LGyAOcIjuvwoPczGgzOIY"
@@ -12934,7 +13006,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 218573,
       "name": "Over-Saturation",
       "url": "https://open.spotify.com/track/1cxbCTL4SGP0vYIPP22xVv"
@@ -14250,6 +14322,24 @@
       "duration_ms": 195828,
       "name": "ride of my life",
       "url": "https://open.spotify.com/track/7FB9xmkuB5jJg8uvlmIM7w"
+    },
+    {
+      "album": {
+        "name": "Riding in Cars with Boys",
+        "url": "https://open.spotify.com/album/2FWLYpxwKgpfV2pixWzzto"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192228,
+      "name": "Riding in Cars with Boys",
+      "url": "https://open.spotify.com/track/0w9ioOmHyRtTDQS0fpB7J3"
     },
     {
       "album": {
@@ -16141,6 +16231,24 @@
     },
     {
       "album": {
+        "name": "Behind The Wings",
+        "url": "https://open.spotify.com/album/1ANVPaZLBRPTmQc3ara4ON"
+      },
+      "artists": [
+        {
+          "name": "gianna",
+          "url": "https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/3Hoe1YtEchcNP7Jn5ff5Lz"
+    },
+    {
+      "album": {
         "name": "Stateside",
         "url": "https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z"
       },
@@ -16242,7 +16350,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 223821,
       "name": "Still in My Head",
       "url": "https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ"

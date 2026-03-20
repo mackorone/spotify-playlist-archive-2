@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,417 songs - 5 day 21 hr 8 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 563 likes - 2,425 songs - 5 day 21 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2425,5 +2425,13 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2415 | [Punto y Aparte](https://open.spotify.com/track/3DaKMgCe0q4yClOGE3B6Sa) | [Lu\-k Mc](https://open.spotify.com/artist/7eBvM4CyBRXoJK0l7dUTkq) | [Punto y Aparte](https://open.spotify.com/album/0mrSmNzbz4CMdUEh7rjcSb) | 2:53 |
 | 2416 | [Amor Psycho](https://open.spotify.com/track/5eZZB783UNpLqZV5jgnqe6) | [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Reviresco](https://open.spotify.com/album/1iKsmD04jZ6xliKKYOMBqU) | 4:38 |
 | 2417 | [Immortal](https://open.spotify.com/track/4qhSU5tHFZY8etTBeZtXsI) | [Scarlett](https://open.spotify.com/artist/6aq1nhpQ3EfkdVwdNg9lG2) | [Immortal](https://open.spotify.com/album/5Luadz5xgVjq5GcGkjwmeR) | 3:24 |
+| 2418 | [Souvenir](https://open.spotify.com/track/7gTLwMu1YwbvHrG9iDiyqw) | [Custódio Rezende](https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ), [Lourenço Vasconcellos](https://open.spotify.com/artist/0Pul9J5Xv8E03F7AoWvAc9), [Natan Gomes](https://open.spotify.com/artist/5pBWviF6S5gwkkCQT2eGRB) | [É Sério!](https://open.spotify.com/album/4Sg4kuMbSUQPa1qbd6zrQx) | 4:45 |
+| 2419 | [I Am Not a Robot](https://open.spotify.com/track/4WcQyKvtLslvIf9mbEolCP) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Am Not a Robot](https://open.spotify.com/album/7ngJJBlk9nVRAvi8TLm49e) | 3:26 |
+| 2420 | [Flare](https://open.spotify.com/track/2OYUWhuiTQ2pBESGZYzrgQ) | [Deep Shoq](https://open.spotify.com/artist/7vdWVGhRjWiT8VHuS9D9a5) | [Libra](https://open.spotify.com/album/4vlThC8yGepna19qTYL9fK) | 3:20 |
+| 2421 | [It's Breaking My Heart](https://open.spotify.com/track/24ujmsmgv7ksfWmUYKOx0A) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [It's Breaking My Heart](https://open.spotify.com/album/50YVJV6JvaQl2vKifQ0nfY) | 3:23 |
+| 2422 | [Things Ain't Simple](https://open.spotify.com/track/2RqOBz0U57wvZLE0Px1Rsv) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Bonus Extra Et Cetera](https://open.spotify.com/album/1e7udVqoW8SvqajknsrJ03) | 3:14 |
+| 2423 | [Under Open Skies](https://open.spotify.com/track/7HtqFv70pXHBHHM1FiBRaf) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [Under Open Skies](https://open.spotify.com/album/1iu755YDhynfuTx06PfA42) | 4:59 |
+| 2424 | [King of Yellowstone](https://open.spotify.com/track/5Hlqy8lUzlXpojFAxtMerm) | [Lex Grey](https://open.spotify.com/artist/7DSazBEqn2tJdpTHMKzt8C) | [King of Yellowstone](https://open.spotify.com/album/1CMfOlSI8zkWjg8imV3zYA) | 3:54 |
+| 2425 | [Tidebirds](https://open.spotify.com/track/0ZtLNjmb5YhUEHwhPdpyAc) | [Seabairy](https://open.spotify.com/artist/2QyaY4IUabmJUCEna7qzJh) | [Songs from Tidebury](https://open.spotify.com/album/1UvyWZvCCP1konkCAV6mx0) | 3:15 |
 
-Snapshot ID: `AAAKCA9r/87GqJ875xmOrDHKx2T7iBGA`
+Snapshot ID: `AAAKEAHXkpwp/hnA1nngpJY+ORv8rW8I`

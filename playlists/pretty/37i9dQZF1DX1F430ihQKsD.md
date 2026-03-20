@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Lewis Dice
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,238 likes - 95 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,264 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 74 | [BLOOD/INK](https://open.spotify.com/track/47wnepGsS8fdwmeUgCGrcQ) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [BLOOD/INK](https://open.spotify.com/album/1xBHMX0VuaRNR1y8fmQzJk) | 3:04 |
 | 75 | [Flocons](https://open.spotify.com/track/26TV5erxGmc924vwFoJ5b0) | [Joseph Avalé](https://open.spotify.com/artist/3BJ3ZN0pOwhJXqG6zQMCdB) | [Flocons](https://open.spotify.com/album/6roRTrpoS91aKKZJ8W1xBn) | 3:28 |
 | 76 | [A Brand New Color](https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Crooked Lines](https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L) | 3:22 |
-| 77 | [La nuit est longue \- from "Heated Rivalry"](https://open.spotify.com/track/126GwiEMMNqjxf8Dzfbdvg) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 3:11 |
+| 77 | [La nuit est longue \- from "Heated Rivalry"](https://open.spotify.com/track/126GwiEMMNqjxf8Dzfbdvg) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Heated Rivalry \(Original Series Soundtrack\)](https://open.spotify.com/album/1nINHwH5P6718MK0unzYcN) | 3:11 |
 | 78 | [Love Myself](https://open.spotify.com/track/7bUXdx8McOz7cROvYqSPnF) | [Vinni Payne](https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59) | [Love Myself](https://open.spotify.com/album/4SmotZ4pS0lVLpwn8cXF0K) | 2:13 |
 | 79 | [mauvais sort](https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [mauvais sort](https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9) | 4:51 |
 | 80 | [La nuit devant nous](https://open.spotify.com/track/4c5DPhLf5u1eoVRGmh4sf6) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [La nuit devant nous](https://open.spotify.com/album/1moz4WuZwUB9Xz9GCDWS1u) | 3:37 |

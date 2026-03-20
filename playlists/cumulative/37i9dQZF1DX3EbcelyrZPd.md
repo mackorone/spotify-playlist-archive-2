@@ -2,7 +2,7 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
+> Get your fill of vibes straight out of Tanzania\. Cover:Diamond Platnumz
 
 648 songs - 1 day 12 hr 56 min
 
@@ -452,7 +452,7 @@
 | [Pisi \- remix](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 | 2024-10-24 | 2025-04-18 |
 | [Pita Kule](https://open.spotify.com/track/45rces9Jy2Oskyl3D3VaFP) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pita Kule](https://open.spotify.com/album/0NHnGLPDGZKXhtnB6ouLZv) | 3:42 | 2023-08-10 | 2023-11-24 |
 | [Poa \(feat\. Nandy\)](https://open.spotify.com/track/1aW5IycpHP6fLvAVGZrSLR) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Poa \(feat\. Nandy\)](https://open.spotify.com/album/0zMg1nq3fE289pRFwJe1H2) | 2:49 | 2024-07-04 | 2025-01-17 |
-| [Pom Pom](https://open.spotify.com/track/3wqGL8Mf7Nugx4Zlr2GzBW) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Pom Pom](https://open.spotify.com/album/3nvfWWbqlQW2cNZPfSOOIa) | 4:17 | 2026-01-01 |  |
+| [Pom Pom](https://open.spotify.com/track/3wqGL8Mf7Nugx4Zlr2GzBW) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Pom Pom](https://open.spotify.com/album/3nvfWWbqlQW2cNZPfSOOIa) | 4:17 | 2026-01-01 | 2026-03-20 |
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 | 2022-11-11 |
 | [Pounds & Dollars](https://open.spotify.com/track/3AZgT5PLKg2MvDZosiUbtK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml) | [Pounds & Dollars](https://open.spotify.com/album/2Qo6netL2LkiOFuQlLCP0I) | 2:55 | 2023-09-14 | 2024-01-26 |
 | [Promise](https://open.spotify.com/track/5osKVS3oNDJnSalftBBkut) | [zedrim](https://open.spotify.com/artist/5pgSj80GuNJOsXQOJ27yTy), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Promise](https://open.spotify.com/album/1M6HGLoIQe7iHTNfKjhcpZ) | 3:20 | 2023-12-21 | 2024-04-26 |

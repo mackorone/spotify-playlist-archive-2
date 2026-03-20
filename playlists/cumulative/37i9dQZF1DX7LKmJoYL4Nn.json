@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 234160,
       "name": "Last Lament",
       "url": "https://open.spotify.com/track/3kUM43sqTFPBXV1SCWYCjm"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 226666,
       "name": "Wonderful Happiness",
       "url": "https://open.spotify.com/track/2RGEPzjh4pkN0mX89P4tTD"
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 291026,
       "name": "\u4eca\u5bb5\u6708\u306e\u9928\u306b\u3066",
       "url": "https://open.spotify.com/track/3TSqHmKB8KREL3KUIbzbVF"
@@ -4046,7 +4046,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 201360,
       "name": "\u5263\u621f\u306e\u821e",
       "url": "https://open.spotify.com/track/1e6cM5eoRk9Ga2Oew7ekSi"
@@ -4428,6 +4428,24 @@
       "duration_ms": 379772,
       "name": "\u661f\u306e\u9cf4\u52d5\u97ff\u304d\u3057\u6642\u306b",
       "url": "https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.2 2019 Ver.)",
+        "url": "https://open.spotify.com/album/2JEQPLGjt8PGc6itGwTN9y"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708/\u84ee\u5df3\u656c\u4eba(CV.\u6885\u539f\u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u795e\u5d0e\u98af\u99ac(CV.\u795e\u6c38\u572d\u4f51)",
+          "url": "https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG"
+        }
+      ],
+      "date_added": "2026-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250813,
+      "name": "\u6708\u4e0b\u7121\u53cc\u3001\u7d05\u306e\u821e",
+      "url": "https://open.spotify.com/track/6JB9NHrYVTxbKzI12jSLEF"
     },
     {
       "album": {
@@ -4816,7 +4834,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 248053,
       "name": "\u8056\u5c11\u5e74\u904a\u622f",
       "url": "https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY"

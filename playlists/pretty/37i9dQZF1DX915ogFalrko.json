@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186757,
+  "num_followers": 186760,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -199,18 +199,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Lucky Again",
-        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -231,18 +231,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "3 Days",
+      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "3 Days",
-      "url": "https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Get Go",
+        "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 202196,
+      "name": "Get Go",
+      "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Get Go",
-        "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 202196,
-      "name": "Get Go",
-      "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Lonely Touch",
         "url": "https://open.spotify.com/album/3bTsSlLyqN9zKDR1JBXjYM"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 201813,
       "name": "Lonely Touch",
       "url": "https://open.spotify.com/track/1lQhXkh6tMrYYvIOAv6GNX"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Southern Belle",
-        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "Southern Belle",
-      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "special",
         "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Southern Belle",
+        "url": "https://open.spotify.com/album/5bJzqmUqzXnZkLak46bLvb"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "Southern Belle",
+      "url": "https://open.spotify.com/track/4tebTUgVtx7pLxT99gIwYg"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+        "name": "Take you away",
+        "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
         }
       ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+      "duration_ms": 234784,
+      "name": "Take you away",
+      "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1219,6 +1219,22 @@
       "duration_ms": 193604,
       "name": "Jupiter and Mars",
       "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Take you away",
-        "url": "https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR"
-      },
-      "artists": [
-        {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
-        }
-      ],
-      "duration_ms": 234784,
-      "name": "Take you away",
-      "url": "https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "No Dawn To Wake",
         "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 180011,
       "name": "No Dawn To Wake",
       "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Ordinary Creature",
         "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 220226,
       "name": "Ordinary Creature",
       "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Junk",
-        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 163301,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 163301,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Christina",
         "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 231706,
       "name": "Let Me Blow Your Mind",
       "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Angus & Julia Stone",
+        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1455,22 +1471,6 @@
       "duration_ms": 282765,
       "name": "Sua Alma",
       "url": "https://open.spotify.com/track/1ooPkv9QwTUjkErmsDVLyB"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Angus & Julia Stone",
-        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
-        "name": "Wind Says Low",
-        "url": "https://open.spotify.com/album/3oUFqERiot1k7yXiv3GiL0"
-      },
-      "artists": [
-        {
-          "name": "Broken Back",
-          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Wind Says Low",
-      "url": "https://open.spotify.com/track/4kKyZT2eiGWjcp5bqenDXv"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
+        "name": "Wind Says Low",
+        "url": "https://open.spotify.com/album/3oUFqERiot1k7yXiv3GiL0"
+      },
+      "artists": [
+        {
+          "name": "Broken Back",
+          "url": "https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Wind Says Low",
+      "url": "https://open.spotify.com/track/4kKyZT2eiGWjcp5bqenDXv"
     },
     {
       "added_at": "2026-03-12 23:00:59",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-03-12 23:00:59",
       "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "duration_ms": 249069,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
+    },
+    {
+      "added_at": "2026-03-12 23:00:59",
+      "album": {
         "name": "Tourisme",
         "url": "https://open.spotify.com/album/50dLClesSVQO0ni2RIStOp"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 164500,
       "name": "Hopes",
       "url": "https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7"
-    },
-    {
-      "added_at": "2026-03-12 23:00:59",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
-      },
-      "artists": [
-        {
-          "name": "Aly & AJ",
-          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
-        }
-      ],
-      "duration_ms": 249069,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
     },
     {
       "added_at": "2026-03-12 23:00:59",

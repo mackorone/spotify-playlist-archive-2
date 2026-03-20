@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 173 songs - 10 hr 4 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,289 likes - 178 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,5 +181,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 171 | [The Process \- Sped Up & Reverbed](https://open.spotify.com/track/4Q9yFmSyERkNtBVdq1zKlQ) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [The Process \(Sped Up & Reverbed\)](https://open.spotify.com/album/0FGNG8bBLKafYGIZYvOLcX) | 3:12 |
 | 172 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
 | 173 | [demonic stranger](https://open.spotify.com/track/30T4D9QFdqhJkIDvYQnrK4) | [Exorcisor](https://open.spotify.com/artist/0WFguk3ZC20eLKXcM70rOT) | [Ready to fight evil](https://open.spotify.com/album/7ql4H2uSoJTggEuX6a6ToD) | 4:37 |
+| 174 | [Le monde est fou](https://open.spotify.com/track/0fSeYXVW6L20zmswLwWKhM) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Le monde est fou](https://open.spotify.com/album/6mVCQDEYg5Jc75s3q6p42h) | 4:04 |
+| 175 | [I Love You More](https://open.spotify.com/track/7yvEjVqM9yzjaJO4GoqlNa) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [I Love You More](https://open.spotify.com/album/6a5LYuzQ3FuyEexUhvyFhp) | 3:33 |
+| 176 | [Come Back](https://open.spotify.com/track/49eKAgjF5UXYiNAmIOCb4d) | [OceanHeir](https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU), [Pineberry](https://open.spotify.com/artist/66WL1CvsVUbUltz9CcvQYI) | [Come Back](https://open.spotify.com/album/3bf3Ve3cqufuD62hIQnBmJ) | 3:26 |
+| 177 | [E resta qui con me](https://open.spotify.com/track/2nWGzqiNx8ZCbJgeBkKl1u) | [Manuel Marino](https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ) | [E resta qui con me](https://open.spotify.com/album/1P7agHAhwbTUbcYqmRkcAK) | 3:58 |
+| 178 | [Dar Koridor](https://open.spotify.com/track/3DiY9hFu1VVY4oAErGfTYE) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Dar Koridor](https://open.spotify.com/album/4x6MQlw8TWrRGsnyzJ8DTC) | 3:12 |
 
-Snapshot ID: `AAAR3DIXI7vgKkhQ4ueg65+ck3BwO1YZ`
+Snapshot ID: `AAAR4Y1quIfsZ0iuVdtXDnwhCdgf1BBj`

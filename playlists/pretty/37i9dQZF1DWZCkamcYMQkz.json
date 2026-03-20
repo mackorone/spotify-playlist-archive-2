@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 504902,
+  "num_followers": 505086,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
+        "name": "table for two",
+        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 111319,
+      "name": "table for two",
+      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 159000,
       "name": "Don't Get Around Much Anymore",
       "url": "https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
-        "name": "table for two",
-        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 111319,
-      "name": "table for two",
-      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 138986,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Roll Call",
         "url": "https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 407533,
       "name": "The More I See You - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/42iATJYN5S908wQMReeDkV"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Time To Swing",
-        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
-      },
-      "artists": [
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 116280,
-      "name": "When Lights Are Low",
-      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Time To Swing",
+        "url": "https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko"
+      },
+      "artists": [
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 116280,
+      "name": "When Lights Are Low",
+      "url": "https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 172453,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "A Matter of Time",
         "url": "https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/3E619cvUK3bgsm4xH9A34H"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Past Midnight",
+        "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 172453,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
-        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
-      },
-      "artists": [
-        {
-          "name": "George Shearing Quintet",
-          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
-        },
-        {
-          "name": "Dakota Staton",
-          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
-        }
-      ],
-      "duration_ms": 152160,
-      "name": "I Hear Music - Remastered",
-      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
         "name": "Buen Sabor",
         "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 482592,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
+        "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
+      },
+      "artists": [
+        {
+          "name": "George Shearing Quintet",
+          "url": "https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y"
+        },
+        {
+          "name": "Dakota Staton",
+          "url": "https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx"
+        }
+      ],
+      "duration_ms": 152160,
+      "name": "I Hear Music - Remastered",
+      "url": "https://open.spotify.com/track/65Yy88Liyj4JzcU2gbklgR"
     },
     {
       "added_at": "2026-03-13 08:31:27",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-03-13 08:31:27",
       "album": {
+        "name": "Didn\u2019t I Tell You So?",
+        "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
+      },
+      "artists": [
+        {
+          "name": "Flore Benguigui & The Sensible Notes",
+          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
+        }
+      ],
+      "duration_ms": 266413,
+      "name": "Didn\u2019t I Tell You So?",
+      "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
+    },
+    {
+      "added_at": "2026-03-13 08:31:27",
+      "album": {
         "name": "Happy Song No.2",
         "url": "https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 310040,
       "name": "Why'd You Have To Go and Lie To Me Boy",
       "url": "https://open.spotify.com/track/1cYjSURe4iTZb6ndRFHOVr"
-    },
-    {
-      "added_at": "2026-03-13 08:31:27",
-      "album": {
-        "name": "Didn\u2019t I Tell You So?",
-        "url": "https://open.spotify.com/album/2qf2P1TV4lOkK4wZ1wxNvu"
-      },
-      "artists": [
-        {
-          "name": "Flore Benguigui & The Sensible Notes",
-          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
-        }
-      ],
-      "duration_ms": 266413,
-      "name": "Didn\u2019t I Tell You So?",
-      "url": "https://open.spotify.com/track/4ufNRAVcnb2PqUadnWhXDW"
     },
     {
       "added_at": "2026-03-13 08:31:27",

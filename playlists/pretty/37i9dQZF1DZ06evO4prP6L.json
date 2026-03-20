@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 18036,
+  "num_followers": 18038,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAABJlx7dHWfPclJZ/BzcpVLS",
+  "snapshot_id": "abnrAAAAAACUUEQhqCfkOdXTuJG/vKEQ",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Rodeo",
-        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Texas Qld 4385 - Remastered 2017",
-      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm Of The Highway (Tamworth Edition)",
         "url": "https://open.spotify.com/album/5M6fBvIwz7vz1gZMt6NWUm"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 214720,
       "name": "I'm From The Country",
       "url": "https://open.spotify.com/track/041tmZwy1FfSfeJfy1IHRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Rodeo",
+        "url": "https://open.spotify.com/album/1G6LYp0xwhTyFMYFvit9CS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Texas Qld 4385 - Remastered 2017",
+      "url": "https://open.spotify.com/track/3ZneF8UFPALQbQJlFyXADD"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backroad Nation",
+        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "The Wolfe Brothers",
+          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
+        }
+      ],
+      "duration_ms": 181113,
+      "name": "Till It Ends",
+      "url": "https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
       },
@@ -447,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backroad Nation",
-        "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "The Wolfe Brothers",
-          "url": "https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma"
-        }
-      ],
-      "duration_ms": 181113,
-      "name": "Till It Ends",
-      "url": "https://open.spotify.com/track/030qfBYqMej6nV1T5JWWuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Leave Him in the Longyard - Remastered 2017",
-      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 244106,
       "name": "This Cowboy's Hat - Remastered 2017",
       "url": "https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Leave Him in the Longyard - Remastered 2017",
+      "url": "https://open.spotify.com/track/235akYf5HGd1KuFGYGYtq7"
     },
     {
       "added_at": null,
@@ -547,30 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're Still Here",
-        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
-      },
-      "artists": [
-        {
-          "name": "Tom Curtain",
-          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        },
-        {
-          "name": "Sara Storer",
-          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "She Gave Us the Song",
-      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 240834,
       "name": "Outback Club Reunion",
       "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We're Still Here",
+        "url": "https://open.spotify.com/album/57mIyBf5fasLBOjGWQyPYU"
+      },
+      "artists": [
+        {
+          "name": "Tom Curtain",
+          "url": "https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        },
+        {
+          "name": "Sara Storer",
+          "url": "https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL"
+        }
+      ],
+      "duration_ms": 200320,
+      "name": "She Gave Us the Song",
+      "url": "https://open.spotify.com/track/6LhWEFbYfRXsuzywhpRMAa"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 204746,
       "name": "Beautiful Noise",
       "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Planet Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 190346,
       "name": "It's Only Country",
       "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Planet Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/1HcuJ3ME3chqvwAigHDJPi"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Chain Road",
-        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "'Cause I'm Country - Remastered 2017",
-      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spirit of the Bush (Remastered 2017)",
         "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 220973,
       "name": "Mate - Remastered 2017",
       "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Chain Road",
+        "url": "https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "'Cause I'm Country - Remastered 2017",
+      "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13778,
+  "num_followers": 13784,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAAAO4diH4wIFALE4ds+/bFJr",
+  "snapshot_id": "abnrAAAAAACgyRCIqRaeel8N4TzN3bD4",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "tdbn (Deluxe)",
+        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "u.c.m.c.d.n.",
+      "url": "https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Est\u00e1 Cambiando",
         "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "tdbn (Deluxe)",
-        "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "u.c.m.c.d.n.",
-      "url": "https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobred\u00f3sis De Tempra",
         "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 178960,
       "name": "Sobred\u00f3sis De Tempra",
       "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 193173,
-      "name": "Todo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 177466,
       "name": "ecoducto",
       "url": "https://open.spotify.com/track/5f6eF1GxmwaRm0DLsFdVit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 193173,
+      "name": "Todo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD"
     },
     {
       "added_at": null,

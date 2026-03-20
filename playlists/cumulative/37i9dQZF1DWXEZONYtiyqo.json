@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Feli ",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Florian Rus",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -442,6 +442,24 @@
       "duration_ms": 153401,
       "name": "Aleg S\u0103 Z\u00e2mbesc",
       "url": "https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG"
+    },
+    {
+      "album": {
+        "name": "Alint\u0103-m\u0103",
+        "url": "https://open.spotify.com/album/2PWpLRoZ6MBGL7VLjEBgCW"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132343,
+      "name": "Alint\u0103-m\u0103",
+      "url": "https://open.spotify.com/track/0ivTRVLgeguzNWJNccDlLW"
     },
     {
       "album": {
@@ -922,6 +940,24 @@
       "duration_ms": 141333,
       "name": "Azucar",
       "url": "https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe"
+    },
+    {
+      "album": {
+        "name": "A\u0219 Fi Iubit-o",
+        "url": "https://open.spotify.com/album/04TmQ5AJT0o389O5mdixOj"
+      },
+      "artists": [
+        {
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214230,
+      "name": "A\u0219 Fi Iubit-o",
+      "url": "https://open.spotify.com/track/0flHTpfogKtmsMmMFCTnso"
     },
     {
       "album": {
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 130000,
       "name": "CROCO",
       "url": "https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR"
@@ -2636,7 +2672,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210947,
       "name": "Dou\u0103 Vorbe-n Plus",
       "url": "https://open.spotify.com/track/0ZuLb1svYPvwbDDcJLEfYn"
@@ -3303,6 +3339,28 @@
     },
     {
       "album": {
+        "name": "forEva",
+        "url": "https://open.spotify.com/album/1GJ0Ua9jaZ8fLLfgbgCGit"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "Stefan Oprea",
+          "url": "https://open.spotify.com/artist/5AETQOCHyWPKeat2zI53pa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160733,
+      "name": "forEva",
+      "url": "https://open.spotify.com/track/5dOCPmdvTvRBXzmWBxqi4U"
+    },
+    {
+      "album": {
         "name": "Forever 18",
         "url": "https://open.spotify.com/album/0KfAxkfKqDiX8SKCMbcMlb"
       },
@@ -3630,7 +3688,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 145090,
       "name": "Hau",
       "url": "https://open.spotify.com/track/0w6AqOWSM7yhaILAb32mPX"
@@ -4160,7 +4218,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 179210,
       "name": "La Fel",
       "url": "https://open.spotify.com/track/52nlTHXA3CF9cuY6pUlp3E"
@@ -4830,10 +4888,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 165714,
       "name": "Mintea Mea",
       "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
+    },
+    {
+      "album": {
+        "name": "Mireasa Ta",
+        "url": "https://open.spotify.com/album/5q4qFtI8s3IF1zhUd5Q7j1"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Mireasa Ta",
+      "url": "https://open.spotify.com/track/29Z8qJmTvibCOXFw4WCTMn"
     },
     {
       "album": {
@@ -5146,6 +5222,46 @@
       "duration_ms": 140000,
       "name": "M\u0103rie",
       "url": "https://open.spotify.com/track/1H7PkDnUtiAcjBaIXvGENz"
+    },
+    {
+      "album": {
+        "name": "N-am mai iubit a\u0219a pe nimeni",
+        "url": "https://open.spotify.com/album/43TUzapHjUbWsRkqmIs8qc"
+      },
+      "artists": [
+        {
+          "name": "Florian Rus",
+          "url": "https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "N-am mai iubit a\u0219a pe nimeni",
+      "url": "https://open.spotify.com/track/5ZZza4KAsPn8EHRKTjCVCV"
+    },
+    {
+      "album": {
+        "name": "Ne Suntem",
+        "url": "https://open.spotify.com/album/1ffwhXU88wz4LIS8sYpuhM"
+      },
+      "artists": [
+        {
+          "name": "Edward Sanda",
+          "url": "https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V"
+        },
+        {
+          "name": "Cleopatra Stratan",
+          "url": "https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Ne Suntem",
+      "url": "https://open.spotify.com/track/5lQWydJG2xXix6glDujyXM"
     },
     {
       "album": {
@@ -6524,7 +6640,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 163226,
       "name": "Queen In Puerto Rico",
       "url": "https://open.spotify.com/track/1L0V8F1KdnRiI5iNsrXKyb"
@@ -7136,7 +7252,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 150322,
       "name": "Suflet digital",
       "url": "https://open.spotify.com/track/7aLUBCcJmY8cP2xCTNheiY"
@@ -7736,6 +7852,24 @@
       "duration_ms": 201889,
       "name": "Tu, Omule",
       "url": "https://open.spotify.com/track/7xbSg9L3XUoSR6vBCKWF3D"
+    },
+    {
+      "album": {
+        "name": "Uit\u0103-te \u00een ochii mei",
+        "url": "https://open.spotify.com/album/4wBsFTnnKDGIP3mX7mgvH2"
+      },
+      "artists": [
+        {
+          "name": "Holy Molly",
+          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Uit\u0103-te \u00een ochii mei",
+      "url": "https://open.spotify.com/track/5WEonvH777WjGwaVgON52e"
     },
     {
       "album": {

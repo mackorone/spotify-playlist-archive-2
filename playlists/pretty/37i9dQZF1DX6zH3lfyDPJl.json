@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11297,
+  "num_followers": 11334,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-03-19 02:06:13",
       "album": {
+        "name": "WHOEVER",
+        "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
+      },
+      "artists": [
+        {
+          "name": "LEEHEESANG",
+          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
+        }
+      ],
+      "duration_ms": 266499,
+      "name": "Love Shine",
+      "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
+    },
+    {
+      "added_at": "2026-03-19 02:06:13",
+      "album": {
         "name": "To Dry a Tear",
         "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 240000,
       "name": "1:05",
       "url": "https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw"
-    },
-    {
-      "added_at": "2026-03-19 02:06:13",
-      "album": {
-        "name": "WHOEVER",
-        "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
-      },
-      "artists": [
-        {
-          "name": "LEEHEESANG",
-          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
-        }
-      ],
-      "duration_ms": 266499,
-      "name": "Love Shine",
-      "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
     },
     {
       "added_at": "2026-03-19 02:06:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Locus Noir, Die Oberherren, AlligatorX and more",
+  "description": "With Die Oberherren, Locus Noir, AlligatorX and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 268510,
       "name": "Control",
       "url": "https://open.spotify.com/track/7DGsGpngDhy1kNi5ZHBNMl"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 246666,
       "name": "Death, That Elusive Mistress",
       "url": "https://open.spotify.com/track/6dkyykLMdt7oF2djYNOVX7"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 184000,
       "name": "Eagle Eye",
       "url": "https://open.spotify.com/track/7kJblTtNgROa133KRacBWD"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 307133,
       "name": "Emisja",
       "url": "https://open.spotify.com/track/36f7aMjnrLNwqSgRezLMmp"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229925,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0ag5MdcFWcTqZlkFSJdc54"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -4257,6 +4257,24 @@
     },
     {
       "album": {
+        "name": "Almost a Distant Memory",
+        "url": "https://open.spotify.com/album/42HYAeMuV4X4bgfcCowyup"
+      },
+      "artists": [
+        {
+          "name": "Fire Bridge",
+          "url": "https://open.spotify.com/artist/16tWu8CpsI2N7MYrmJLQkn"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260622,
+      "name": "Man In The Box",
+      "url": "https://open.spotify.com/track/1NgkJEwzFtPCkPcGu4f11k"
+    },
+    {
+      "album": {
         "name": "Patient X",
         "url": "https://open.spotify.com/album/0MONbWwfVyG75eNIhHKzsi"
       },
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -4831,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "My Empire Of Fire (The Fire Trilogy Part II)",
+        "url": "https://open.spotify.com/album/7cQXvliVhZDOpAF2We3RHJ"
+      },
+      "artists": [
+        {
+          "name": "Cvlt Ov the Svn",
+          "url": "https://open.spotify.com/artist/2KVSnLE8OkCi50mbRsBtWU"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211145,
+      "name": "My Empire Of Fire - The Fire Trilogy Part II",
+      "url": "https://open.spotify.com/track/5aBzAXo3q7DQQ7W1V75SjY"
+    },
+    {
+      "album": {
         "name": "My Love Fits You Like A Glove",
         "url": "https://open.spotify.com/album/0iunX1byq12wToqMJb6i6z"
       },
@@ -4882,7 +4918,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -4954,7 +4990,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 299311,
       "name": "Never the Same",
       "url": "https://open.spotify.com/track/37RaDHuCzwcZeRzgqhf3Dv"
@@ -5376,7 +5412,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5484,7 +5520,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 199000,
       "name": "Pandemic 2",
       "url": "https://open.spotify.com/track/03Vk8Hgz87zdhEwYbZk4cM"
@@ -5632,7 +5668,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -7256,10 +7292,28 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
+    },
+    {
+      "album": {
+        "name": "Essenza",
+        "url": "https://open.spotify.com/album/2oaVV5vjvKtWVfVzSbhm3l"
+      },
+      "artists": [
+        {
+          "name": "Id-zero",
+          "url": "https://open.spotify.com/artist/0vIq8UxRlpAbwyUP1TGm00"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218408,
+      "name": "The EyePhone Is My New Religion",
+      "url": "https://open.spotify.com/track/3dqgKYCTzGdwPiOlSYrEpz"
     },
     {
       "album": {
@@ -7744,7 +7798,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -8030,7 +8084,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "TO\u0143",
       "url": "https://open.spotify.com/track/0Q0eVjlRJIFzMkL1NbJawP"
@@ -8102,7 +8156,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 201617,
       "name": "Trick of Escaping Death",
       "url": "https://open.spotify.com/track/7xi2jjyS16aMJRL9GpVMI5"
@@ -8722,7 +8776,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"

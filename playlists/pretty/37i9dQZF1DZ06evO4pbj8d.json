@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 11655,
+  "num_followers": 11656,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACjiIxfe6GOlklNSIwh5Ivd",
+  "snapshot_id": "abnrAAAAAACpkkI/2fxmhf4FwsguZ3Tr",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
-        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
-      },
-      "artists": [
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
-      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 230744,
       "name": "You At The Table (with Manchester Orchestra)",
       "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 203739,
-      "name": "DRUGS",
-      "url": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 240553,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 203739,
+      "name": "DRUGS",
+      "url": "https://open.spotify.com/track/0q4DbCRYxEAZQXXyCFhNe3"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 149500,
-      "name": "STRONG ONES",
-      "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"
+      "duration_ms": 196008,
+      "name": "AM I?",
+      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 196008,
-      "name": "AM I?",
-      "url": "https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4"
+      "duration_ms": 149500,
+      "name": "STRONG ONES",
+      "url": "https://open.spotify.com/track/2ZHO25QseXKr2ip1vuXvOg"
     },
     {
       "added_at": null,

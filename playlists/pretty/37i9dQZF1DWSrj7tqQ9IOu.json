@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois dernier s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402506,
+  "num_followers": 402502,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : F\u00e9vrier 2026",
   "owner": {
     "name": "Spotify",
@@ -172,12 +172,12 @@
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 218122,

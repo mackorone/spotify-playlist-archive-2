@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,882 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 30 | [1990](https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:09 |
 | 31 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 2:48 |
 | 32 | [Oxyballad](https://open.spotify.com/track/40lhbdDvg4gUMJHnv8ofJ8) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Oxyballad](https://open.spotify.com/album/2gBVbWyEoofNBmuEHrkULI) | 2:58 |
-| 33 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
-| 34 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
-| 35 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
+| 33 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
+| 34 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
+| 35 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
 | 36 | [SAM](https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [SAM](https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ) | 4:50 |
-| 37 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
-| 38 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
-| 39 | [INSURGENCIA](https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [INSURGENCIA](https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX) | 2:12 |
-| 40 | [Sotula](https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Sotula](https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm) | 3:06 |
+| 37 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
+| 38 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
+| 39 | [Sotula](https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Sotula](https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm) | 3:06 |
+| 40 | [INSURGENCIA](https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [INSURGENCIA](https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX) | 2:12 |
 | 41 | [Coma \- Stripped Version](https://open.spotify.com/track/2XnCicNih9wL1IQsq5nxOY) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma \(Stripped Version\)](https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17) | 3:18 |
 | 42 | [Coming Home](https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR) | [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Roots \(Extended\)](https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY) | 2:56 |
 | 43 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |

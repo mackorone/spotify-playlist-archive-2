@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best from Britain's vibrant scene. Cover: Tom Misch",
+  "description": "The best from Britain's vibrant scene. Cover: ZENA",
   "name": "Jazz UK",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 296168,
       "name": "31. Bleep (01)",
       "url": "https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU"
@@ -8192,7 +8192,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 274539,
       "name": "Love Is Like A Movie",
       "url": "https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M"
@@ -13379,6 +13379,24 @@
     },
     {
       "album": {
+        "name": "TEMESGEN",
+        "url": "https://open.spotify.com/album/0EumtWJuoHzKS8fPJf1DBv"
+      },
+      "artists": [
+        {
+          "name": "ZENA",
+          "url": "https://open.spotify.com/artist/0sk3E9OBTYlz5D1VQBcMo8"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297769,
+      "name": "TEMESGEN",
+      "url": "https://open.spotify.com/track/4W0WXy86UkWSv65NcuQxMj"
+    },
+    {
+      "album": {
         "name": "Temperature High",
         "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
       },
@@ -14012,6 +14030,28 @@
       "duration_ms": 241596,
       "name": "This Sun",
       "url": "https://open.spotify.com/track/5PdhaqWAtMDcMeI7qvsKLp"
+    },
+    {
+      "album": {
+        "name": "Chasing Shadows",
+        "url": "https://open.spotify.com/album/3ehJxu0Y4xuXMJyaYCpv0a"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/4c3iegw9CfKT3ZjeyzevQW"
     },
     {
       "album": {

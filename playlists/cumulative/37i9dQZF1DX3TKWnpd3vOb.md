@@ -2,14 +2,15 @@
 
 ### [Rock Chileno](https://open.spotify.com/playlist/37i9dQZF1DX3TKWnpd3vOb)
 
-> Encuentra un mix de clásicos y nuevos talentos\. Foto: La Ley
+> Encuentra un mix de clásicos y nuevos talentos\. Foto: Triciclo Parlante
 
-322 songs - 20 hr 23 min
+323 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [93](https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS) | [Sonora de Llegar](https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [93](https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z) | 2:49 | 2022-04-08 | 2023-03-03 |
 | [A Cada Segundo](https://open.spotify.com/track/1V8gq40G3Fxxx4CW6r43nd) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [A Cada Segundo](https://open.spotify.com/album/3J5wDJn7CcCpWg1TcuImG1) | 3:40 | 2025-02-20 |  |
+| [A las Nueve](https://open.spotify.com/track/798CtkUHeziOJ3vdbQEWrw) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [SE ARRIENDA](https://open.spotify.com/album/2BRGgzEPWoyZU7JnUPXXQz) | 3:28 | 2026-03-19 |  |
 | [A veces \- Remezclado 2025](https://open.spotify.com/track/3Zyt4DluEHhTCZMflBUvj9) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [1988 \(Remezclado 2025\)](https://open.spotify.com/album/6h2ssxozeNzivGcrvdu5CF) | 3:18 | 2026-01-30 |  |
 | [Abejas En La Miel](https://open.spotify.com/track/0vnvBApffcXbV2QoEzjHCg) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Abejas En La Miel](https://open.spotify.com/album/10MlABdlVHamSJ4O2BT7G0) | 3:45 | 2022-04-08 | 2024-10-19 |
 | [Abrázame](https://open.spotify.com/track/386W9zuYD4lZhb0WfAk79s) | [Frank's White Canvas](https://open.spotify.com/artist/0BUt8giUgbVvPzCIoznf6i) | [Abrázame](https://open.spotify.com/album/5Beu32a70MC8gI1fh43xKW) | 4:15 | 2022-04-08 | 2023-03-03 |
@@ -105,7 +106,7 @@
 | [Ella es de Ella](https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Ella es de Ella](https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp) | 4:32 | 2025-08-01 |  |
 | [Entre Mis Brazos](https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers](https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV) | 5:02 | 2022-04-08 | 2022-12-17 |
 | [Eso que ves ahí](https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Eso que ves ahí](https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf) | 3:28 | 2022-04-08 | 2024-08-31 |
-| [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 | 2023-10-13 |  |
+| [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Esta casa hace rato dejó de ser un hogar](https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY) | 3:29 | 2023-10-13 | 2026-03-20 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 | 2022-04-08 |  |
 | [Estereotipo](https://open.spotify.com/track/7400p5DQgZByjkhYw9dprs) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Estereotipo](https://open.spotify.com/album/7MthIfL1jkDZAJxfsR23IQ) | 2:56 | 2022-04-08 | 2022-07-29 |
 | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/track/0UC5d0kcl6qxRjnjBdJdBN) | [Los Prisioneros](https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04) | [Estrechez de Corazón \(En Vivo\)](https://open.spotify.com/album/45d0IXNNcFkpK7nzcnJ6mO) | 7:20 | 2022-04-08 | 2022-12-17 |

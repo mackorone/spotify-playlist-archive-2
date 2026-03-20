@@ -8368,7 +8368,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 252089,
       "name": "Pagalpan",
       "url": "https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS"
@@ -12486,6 +12486,28 @@
       "duration_ms": 110217,
       "name": "Yaara Tere Bin - Reprise [From \"Call Me Bae\"]",
       "url": "https://open.spotify.com/track/72taAwEdg17pI7CHl19jyg"
+    },
+    {
+      "album": {
+        "name": "Hello Bachhon (Music From The Netflix Series)",
+        "url": "https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J"
+      },
+      "artists": [
+        {
+          "name": "Aanand Bajpai",
+          "url": "https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK"
+        },
+        {
+          "name": "Geet Sagar",
+          "url": "https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110180,
+      "name": "Yaara Ve (From \"Hello Bachhon\")",
+      "url": "https://open.spotify.com/track/226wdFNaMHyj9B2g10Kwlr"
     },
     {
       "album": {

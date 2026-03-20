@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-394 songs - 23 hr 43 min
+395 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ain't nobody like me](https://open.spotify.com/track/4MzstnWuONzS5gYlBTnVBc) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1) | [Ain't nobody like me](https://open.spotify.com/album/7I7MDoKMtJdFzwQBe8LVh3) | 3:25 | 2021-12-02 | 2022-07-29 |
 | [Ain't Nobody Like Me](https://open.spotify.com/track/1HClG4JoFtukyPDO73eoVe) | [Bendik Brænne](https://open.spotify.com/artist/2xHFB5Nl4D6Il5tfP57sr1), [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [The Last Great Country Swindle](https://open.spotify.com/album/1I25HgAQMA4yhiW7jIv0qQ) | 3:23 | 2022-07-14 | 2023-04-30 |
 | [Alaska](https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap) | [Tina Refsnes](https://open.spotify.com/artist/4k4ZCaLoprf7qfc8DSWaKL) | [Alaska](https://open.spotify.com/album/1EmBIWpPRn6MNe311hh8VA) | 3:54 | 2021-12-02 | 2022-07-26 |
-| [Aldri Mer](https://open.spotify.com/track/5SGQVo26MlPWDK5WUwGz6T) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Aslaksen](https://open.spotify.com/album/07LPZP2ZbUOILRQ4yOUCn0) | 4:11 | 2026-01-30 |  |
+| [Aldri Mer](https://open.spotify.com/track/5SGQVo26MlPWDK5WUwGz6T) | [Jonas Alaska](https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148) | [Aslaksen](https://open.spotify.com/album/07LPZP2ZbUOILRQ4yOUCn0) | 4:11 | 2026-01-30 | 2026-03-20 |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-08-28 | 2026-02-14 |
 | [All for You](https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [All for You](https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb) | 3:57 | 2024-04-18 | 2025-04-18 |
 | [All My Life](https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE) | [Claudia Scott](https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481), [Casino Steel](https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj) | [All My Life](https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J) | 5:26 | 2021-12-02 | 2022-10-14 |
@@ -175,7 +175,7 @@
 | [Hymn](https://open.spotify.com/track/2MXX8H5R8UMmI5oYzgqrYA) | [VELVET MOON](https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ) | [Hymn](https://open.spotify.com/album/5TXCV14ZfHcQrJTruMbQNp) | 5:35 | 2023-11-30 | 2024-03-15 |
 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 | 2026-02-05 |  |
 | [i don’t know what i saw in you](https://open.spotify.com/track/0BD4OTTInTSc9tcJwGPyT2) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [i don’t know what i saw in you](https://open.spotify.com/album/7vY6bUU0ZDn1X5CkEtwzyR) | 2:09 | 2024-05-23 | 2025-03-30 |
-| [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 | 2026-03-13 |
+| [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 | 2024-08-22 |  |
 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 | 2024-03-21 | 2025-12-23 |
 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 | 2024-09-19 |  |
 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 | 2024-10-17 | 2026-02-27 |
@@ -341,6 +341,7 @@
 | [Time Of The Blue](https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Time Of The Blue](https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo) | 3:46 | 2021-12-02 | 2022-07-29 |
 | [Time of Waiting](https://open.spotify.com/track/0ouq2rgrnZ71KmnkW4xUmq) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt), [Roberto Dalla Vecchia](https://open.spotify.com/artist/7bfm99qXAlGJQrkcudmwyA) | [Time of Waiting](https://open.spotify.com/album/55d318EyF219Cbnei0f0wV) | 2:48 | 2023-02-16 | 2023-07-25 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-06 |  |
+| [Track 2](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 0:00 | 2026-03-19 |  |
 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2024-01-19 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 |  |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 |  |
@@ -380,7 +381,7 @@
 | [Where Are We Now](https://open.spotify.com/track/4strxrzrIlwvVdbyBm1c6W) | [Moreau](https://open.spotify.com/artist/6wydoYiLiAUaJVxQc0iKpK) | [Where Are We Now](https://open.spotify.com/album/65UxaqiDvqdJJ3QLCVRKwW) | 3:43 | 2025-05-08 | 2025-05-26 |
 | [While He Is Still Asleep](https://open.spotify.com/track/11QGYpsukruD6f85WSDyQD) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [While He Is Still Asleep](https://open.spotify.com/album/1KGp59EIwjR3kh4eRHAHjM) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [While I Was Asleep](https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh) | 3:27 | 2021-12-02 | 2022-07-17 |
-| [Who Am I](https://open.spotify.com/track/1rB9qUObJZvI91XoIfWBbZ) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Who Am I](https://open.spotify.com/album/3MAXqtp9tiiuHRzhkCc8dO) | 5:21 | 2026-02-19 |  |
+| [Who Am I](https://open.spotify.com/track/1rB9qUObJZvI91XoIfWBbZ) | [Freja Drakenberg](https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR), [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke) | [Who Am I](https://open.spotify.com/album/3MAXqtp9tiiuHRzhkCc8dO) | 5:21 | 2026-02-19 | 2026-03-20 |
 | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/track/2BJistpeWs0hLtCfAgTqeZ) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Why Fall Asleep, When You Can Fall in Love?](https://open.spotify.com/album/1hAYAyoKGVinR7S1ETybdu) | 2:57 | 2022-02-17 | 2022-07-29 |
 | [Wild Dreams](https://open.spotify.com/track/63aqcGJGsqwa0e1jFazRcy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Wild Dreams](https://open.spotify.com/album/2UeNGwnXHPQEdouzwRUMZ5) | 4:01 | 2022-09-08 | 2022-09-27 |
 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 | 2024-03-04 | 2026-03-13 |

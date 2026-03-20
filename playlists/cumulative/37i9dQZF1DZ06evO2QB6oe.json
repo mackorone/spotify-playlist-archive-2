@@ -647,6 +647,28 @@
     },
     {
       "album": {
+        "name": "Chambao 25 Aniversario",
+        "url": "https://open.spotify.com/album/49fgCXV3zoBSdUhsGl6V7A"
+      },
+      "artists": [
+        {
+          "name": "Chambao",
+          "url": "https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205104,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/096jMYuaNreIRkEQ4EuM5Z"
+    },
+    {
+      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -716,7 +738,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 228280,
       "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"

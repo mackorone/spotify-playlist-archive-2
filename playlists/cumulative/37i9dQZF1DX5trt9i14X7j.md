@@ -4,7 +4,7 @@
 
 > Dedicated to all the programmers out there.
 
-188 songs - 11 hr 45 min
+193 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Annica](https://open.spotify.com/track/7IuVGIs20WQmT5FLp49NLz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Annica](https://open.spotify.com/album/2vhMintpHbPM31rf7gYBcW) | 2:55 | 2022-09-06 |  |
 | [Approaching Dusk](https://open.spotify.com/track/6vwuSjfe1UjY6fn43HZ4CK) | [Eagle Lake](https://open.spotify.com/artist/4vOO570FcsEOodJuMh98EP) | [Piano Studies](https://open.spotify.com/album/26pIGdUcRbCfXQ2GcuvvQA) | 1:45 | 2021-12-08 |  |
 | [Atlavík](https://open.spotify.com/track/6WdO6Ds95sLALCqCOfbDQh) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Varða](https://open.spotify.com/album/0M1zBtkmWOJQSkVZhNcIeH) | 2:35 | 2022-05-31 |  |
-| [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 | 2021-12-08 |  |
+| [Autumnal](https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/0BO4sOTUYgYnuQuNqXGbX6) | 5:28 | 2021-12-08 | 2026-03-20 |
 | [Autumnal](https://open.spotify.com/track/7DYWZQb835uvBJE2upVA49) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Glacier](https://open.spotify.com/album/42t0Qkl1aNE9K8ewFeNqLG) | 5:28 | 2023-12-07 | 2024-04-19 |
 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 | 2022-08-03 |  |
 | [Bacall](https://open.spotify.com/track/0keMf5m5CVWX0ZZnhc8xPz) | [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 4:06 | 2021-12-08 |  |
@@ -67,6 +67,7 @@
 | [Dust](https://open.spotify.com/track/090k8UpQw34yVp7h89TNHm) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [iterations \(demos and releases 2016\-2020\)](https://open.spotify.com/album/76rqdANANWeYIBmtl8eGh6) | 3:32 | 2022-11-07 | 2022-11-13 |
 | [Dust](https://open.spotify.com/track/4fqzVh6YXqskezIs862H6d) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Star Crossed / Dust](https://open.spotify.com/album/3hT3xJbL4UjJMET6CvbcKc) | 3:32 | 2022-09-06 | 2024-04-19 |
 | [Dust](https://open.spotify.com/track/79srzZz9HB7l9MJjWlHPvD) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Dust](https://open.spotify.com/album/6RurZxObPerofRLmbWeb1o) | 3:32 | 2024-04-17 |  |
+| [Echo in the Field](https://open.spotify.com/track/4xIOeiLTEaoKFsD8JrCdPw) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Don't Trust Mirrors](https://open.spotify.com/album/28npNYRc0n2EYmv56rnzSY) | 4:38 | 2026-03-19 |  |
 | [efflorescence](https://open.spotify.com/track/7qa14fkhxgOwWgJ2cbDTyc) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [efflorescence](https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr) | 2:23 | 2022-08-03 |  |
 | [Emerald and Stone](https://open.spotify.com/track/6fymXW3eFHPmIOdDfnLXS4) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/1CNhM669xHzsZMF1yZ9WFg) | 2:12 | 2023-02-01 | 2024-04-19 |
 | [Emerald and Stone](https://open.spotify.com/track/7Jd0MqZq15T4pDWts2G6Yl) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd) | [Small Craft On A Milk Sea](https://open.spotify.com/album/47e7SP8MtzYKK8Lm3gEK2i) | 2:12 | 2021-12-08 |  |
@@ -94,8 +95,10 @@
 | [Happy Man](https://open.spotify.com/track/50pEmS593x4xb305XdICSP) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Happy Man](https://open.spotify.com/album/5bpn5e1mna0zSiSwPB4g8n) | 3:11 | 2022-11-07 | 2022-11-13 |
 | [Happy Man](https://open.spotify.com/track/5nF6drlQTtXc5iThQoyONB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/1VZxGX1lzF1QjY5QofhC5r) | 3:11 | 2021-12-08 |  |
 | [Homecoming](https://open.spotify.com/track/5hDxgd1QjOO2kz577FJYme) | [Sahamanyu](https://open.spotify.com/artist/0qD6Ngdk3zUM2pKRsczr8C) | [Homecoming](https://open.spotify.com/album/091PcRTCoEx0mS7z3Jkr3A) | 5:21 | 2021-12-08 |  |
+| [Hora Dorada](https://open.spotify.com/track/2H9uhmMVABgcUHxppF1GK9) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Chill Out Zone](https://open.spotify.com/album/7fyCNZNItiQvcVrzLVouTC) | 3:39 | 2026-03-19 |  |
 | [Horizons](https://open.spotify.com/track/53TsZT0ySAHpRJ8GClsekU) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Horizons](https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ) | 2:43 | 2022-05-31 |  |
 | [Hypnagogia Well](https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Hypnagogia Well](https://open.spotify.com/album/5QULT8EPM4qXnA8hAQmbJL) | 3:42 | 2022-08-03 |  |
+| [I Know](https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [OnlyL](https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU) | 4:48 | 2026-03-19 |  |
 | [I Know That](https://open.spotify.com/track/0XulKJA4eRQZBGx2dwV8jD) | [Brilliantes Del Vuelo](https://open.spotify.com/artist/1Qo8nw3OipdEHSbj4JLLMb) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:20 | 2021-12-08 |  |
 | [i wish it would never stop snowing](https://open.spotify.com/track/0jDYc3XRkTaEi5zycl5E1G) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/1vV4Hl5uDdMtKdKChSkjLG) | 3:16 | 2022-07-25 | 2024-04-19 |
 | [i wish it would never stop snowing](https://open.spotify.com/track/5nKSxq2yNgQLtgzqJxPn41) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Chillhop Essentials Spring 2019](https://open.spotify.com/album/0FBkB6e7deadNGBxQCpQc0) | 3:16 | 2021-12-08 |  |
@@ -116,6 +119,7 @@
 | [Look At The Stars](https://open.spotify.com/track/4YhxXaf6Qrn5DrmgEfhwLH) | [The Purple Stripe](https://open.spotify.com/artist/4XIkeyeO2tENGL73fDZS1A) | [Look At The Stars](https://open.spotify.com/album/1zq2gcTCCKtXMsF9qg8xvR) | 3:36 | 2022-08-03 |  |
 | [Loosen Up](https://open.spotify.com/track/7h8FoVdFGKGNbZvbY51d5h) | [Cake House](https://open.spotify.com/artist/70lqKvxnIZuNyQiYjwZytB) | [Loosen Up](https://open.spotify.com/album/4mMfto7T62viWO9mK4mwpo) | 2:27 | 2022-05-31 |  |
 | [Loungerie](https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL) | [Jorge Milliano](https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ) | [Dosages](https://open.spotify.com/album/2DZ9XsRcXUf5E1RBR2MXL0) | 3:15 | 2021-12-08 |  |
+| [Lunar](https://open.spotify.com/track/4u5073p9qQ3EdBUuh7Qp05) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Lunar](https://open.spotify.com/album/2nLR051PemM1cp2jr2U1Db) | 3:14 | 2026-03-19 |  |
 | [Machines Are People Too](https://open.spotify.com/track/4Y7I8njISED3da52cbdbKf) | [B 3 N B i](https://open.spotify.com/artist/1lER5N3Qx6dOfkDkseDeeg) | [IWYMI Volume Four](https://open.spotify.com/album/5bCxD19JPbHXGTe9mzLaaV) | 2:28 | 2021-12-08 |  |
 | [Mano](https://open.spotify.com/track/2Z2CLhQwH001Wr1Zea44hu) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Four](https://open.spotify.com/album/4oxvKHTBzfTD86BLU0ftou) | 4:12 | 2021-12-08 |  |
 | [Mano](https://open.spotify.com/track/5IE9m0dNaRoVbdYUeRTkSl) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Four](https://open.spotify.com/album/4ykiA59HEv4gwYiDWW4UF0) | 4:12 | 2023-10-17 | 2024-04-19 |
@@ -196,5 +200,6 @@
 | [Winter Sun](https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Winter Sun](https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi) | 2:22 | 2022-05-31 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2022-08-03 |  |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-12-08 |  |
+| [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 | 2026-03-19 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

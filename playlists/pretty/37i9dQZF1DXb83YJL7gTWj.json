@@ -1,6 +1,6 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 1374,
+  "num_followers": 1383,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/7uttm8Iurm5uK67Vr9G2Sp"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/7uttm8Iurm5uK67Vr9G2Sp"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "In Real Life",
-        "url": "https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9"
-      },
-      "artists": [
-        {
-          "name": "Mandy Moore",
-          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "In Real Life",
-      "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "In Real Life",
+        "url": "https://open.spotify.com/album/58yGjTqTpGCIYqMYcdrzb9"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "In Real Life",
+      "url": "https://open.spotify.com/track/1WF1MdrtmlazEkZT7Rzhve"
     },
     {
       "added_at": "2024-07-15 19:31:50",

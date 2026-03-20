@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Xamã, L7NNON
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,650 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,646 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 19 | [AYO](https://open.spotify.com/track/3TvZoN9m8zlvOEeMv230Sg) | [Xamuel](https://open.spotify.com/artist/62T0lHxZPLwEo96o1cgBoC) | [AYO](https://open.spotify.com/album/2HzcjIA6snvcA9IJPbLxG5) | 2:37 |
 | 20 | [Deixa Vim](https://open.spotify.com/track/1gKNWGFXrdqUOCwDpVUpdn) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [Deixa Vim](https://open.spotify.com/album/0mForV9hdIrcq3tqOyGSyv) | 3:38 |
 | 21 | [Parafuso](https://open.spotify.com/track/2UIEALWYjNVv9nACFFCWgY) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [Parafuso](https://open.spotify.com/album/3MxyXYalVZPoJxDZEZn4xw) | 3:12 |
-| 22 | [Cavalo de Tróia \#2](https://open.spotify.com/track/2gWVj5Z6idt0mDRIE1Jyya) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Novak Mc](https://open.spotify.com/artist/2zjtNuJYQ1BIgQxXYyDnWr) | [Cavalo de Tróia \#2](https://open.spotify.com/album/4NVBuisgPTrEQ4qBha0O5N) | 4:16 |
+| 22 | [Cavalo de Tróia \#2](https://open.spotify.com/track/2gWVj5Z6idt0mDRIE1Jyya) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa), [Novak Mc](https://open.spotify.com/artist/2zjtNuJYQ1BIgQxXYyDnWr), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Alta Rec](https://open.spotify.com/artist/4S88NckzXHTMwvXw7kY0Ii) | [Cavalo de Tróia \#2](https://open.spotify.com/album/4NVBuisgPTrEQ4qBha0O5N) | 4:16 |
 | 23 | [DISCURSO DO GRAMMY](https://open.spotify.com/track/6V9Ea0gmi4f228AvEDdNhB) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Lucchini](https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [INFRAÇÃO \- 1º ATO](https://open.spotify.com/album/0d1H9Ibh2JL1JauWYcNI5g) | 3:30 |
 | 24 | [Quinto Dia Útil](https://open.spotify.com/track/3PNvOHfxOpP9e97XkrtKM7) | [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Quinto Dia Útil](https://open.spotify.com/album/1etO4ay8gnGzMq6p1uboRV) | 4:04 |
 | 25 | [FICTÍCIA](https://open.spotify.com/track/14y5Kssru7BC6cIDfu7iys) | [Lil⁷ Holmes](https://open.spotify.com/artist/1tGkl9sCN1F47RPtZYhPO0), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [KT](https://open.spotify.com/artist/2JvPwmp2vRfZ6zZi2CI5yf), [Crisex](https://open.spotify.com/artist/0o8aKcYavak25BoMrheRzC) | [FICTÍCIA](https://open.spotify.com/album/6a9s0KIIqkmzZ5lITlAhwO) | 2:31 |

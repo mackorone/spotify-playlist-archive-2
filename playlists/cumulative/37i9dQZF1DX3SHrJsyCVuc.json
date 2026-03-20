@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Bag Of Sand",
+        "url": "https://open.spotify.com/album/24G3gqxBJkrcv4fRbC1HXQ"
+      },
+      "artists": [
+        {
+          "name": "Day Dreamers",
+          "url": "https://open.spotify.com/artist/1jGia2OegGP0F1ZlEbgcwZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189545,
+      "name": "Bag Of Sand",
+      "url": "https://open.spotify.com/track/6xPIof8affSfAo4ADpcEFC"
+    },
+    {
+      "album": {
         "name": "Beat To Beat",
         "url": "https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi"
       },
@@ -154,6 +172,24 @@
       "duration_ms": 256920,
       "name": "Beat To Beat",
       "url": "https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD"
+    },
+    {
+      "album": {
+        "name": "Big Star",
+        "url": "https://open.spotify.com/album/4bpoN2m5o52kpPtCYMlHrJ"
+      },
+      "artists": [
+        {
+          "name": "city dog",
+          "url": "https://open.spotify.com/artist/4HY1DoD5kjV0OV3EjV3QBX"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/7tEUBlisQoe2wYRqAEnGji"
     },
     {
       "album": {
@@ -1755,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Rolling By",
+        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
+      },
+      "artists": [
+        {
+          "name": "Antenna",
+          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182714,
+      "name": "Rolling By",
+      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
+    },
+    {
+      "album": {
         "name": "rooster",
         "url": "https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e"
       },
@@ -1766,7 +1820,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 335038,
       "name": "rooster",
       "url": "https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n"
@@ -1842,7 +1896,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 194794,
       "name": "Scorching Heat",
       "url": "https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78"
@@ -2026,7 +2080,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 277437,
       "name": "Sooner",
       "url": "https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq"

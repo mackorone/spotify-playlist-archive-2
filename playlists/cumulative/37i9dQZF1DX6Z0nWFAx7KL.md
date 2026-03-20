@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-359 songs - 17 hr 45 min
+360 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Far Beyond](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA) | [Munch](https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Far Beyond](https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5) | 2:17 | 2024-04-25 | 2025-11-25 |
 | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Feel Alive \(feat\. PollyAnna\)](https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM) | 2:37 | 2023-02-15 | 2023-12-25 |
 | [Feel Like It](https://open.spotify.com/track/6vej5gKy4oOEXQvovSZA6P) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Feel Like It](https://open.spotify.com/album/1KidEC954PkrMmsD1ZOL43) | 2:20 | 2025-02-28 |  |
-| [Feel Like Tomorrow](https://open.spotify.com/track/0asKDNIQaJ1s7HDNuXXA4i) | [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Feel Like Tomorrow](https://open.spotify.com/album/4ajnjnQNLZ1HbWPSLPtmOu) | 3:35 | 2026-01-19 |  |
+| [Feel Like Tomorrow](https://open.spotify.com/track/0asKDNIQaJ1s7HDNuXXA4i) | [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Feel Like Tomorrow](https://open.spotify.com/album/4ajnjnQNLZ1HbWPSLPtmOu) | 3:35 | 2026-01-19 | 2026-03-20 |
 | [Feeling Lost Tonight](https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [Feeling Lost Tonight](https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6) | 1:46 | 2023-03-30 | 2025-04-25 |
 | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/track/6xZsVNX6ZkOFNEj9ByRtow) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [HARBER](https://open.spotify.com/artist/31TGg0YIcWnprDAqruoJSd), [NISHA](https://open.spotify.com/artist/0zY8LOMvTmcromP2vV0nBv) | [Feelings After Dark \(feat\. NISHA\)](https://open.spotify.com/album/2BuyHgSr8yy1LHEJCdMcBd) | 2:44 | 2022-09-15 | 2023-04-26 |
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-09-15 | 2022-09-30 |
@@ -367,5 +367,6 @@
 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 | 2025-02-07 |  |
 | [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 | 2025-06-26 |  |
 | [Young Folks](https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Young Folks](https://open.spotify.com/album/5jplgAkT3cHlmsvVKPcDlT) | 3:15 | 2025-03-06 |  |
+| [Young Forever](https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Young Forever](https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR) | 2:17 | 2026-03-19 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

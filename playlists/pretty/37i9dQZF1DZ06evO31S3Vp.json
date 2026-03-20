@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 205394,
+  "num_followers": 205393,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAADzj9Cqrzy9r7TuwAzq3uf9",
+  "snapshot_id": "abnrAAAAAADJ68vyRnHeKfid2Zj/hGee",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 236921,
+      "name": "VSF",
+      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisas da Gera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 236921,
-      "name": "VSF",
-      "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 219634,
-      "name": "Enquanto Me Beija",
-      "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
+      "duration_ms": 179446,
+      "name": "Triste Pra Sempre",
+      "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 179446,
-      "name": "Triste Pra Sempre",
-      "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
+      "duration_ms": 219634,
+      "name": "Enquanto Me Beija",
+      "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
     },
     {
       "added_at": null,

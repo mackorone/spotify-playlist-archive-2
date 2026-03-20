@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, Ecto Peach, JUST LIZZY and more",
+  "description": "With Evil Level Live, JUST LIZZY, Ecto Peach and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 244958,
       "name": "Blood Energy",
       "url": "https://open.spotify.com/track/2m7ggGWCEWwAh0vFjCGC4H"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 229642,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
@@ -1470,7 +1470,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 314188,
       "name": "Comfort in Disease",
       "url": "https://open.spotify.com/track/6VmKwotqJLsCSzMCcwG1Ml"
@@ -1528,6 +1528,24 @@
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
+    },
+    {
+      "album": {
+        "name": "Control Room Lullaby",
+        "url": "https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Control Room Lullaby",
+      "url": "https://open.spotify.com/track/1qskFetHVqLUEMcnnQAjMl"
     },
     {
       "album": {
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-16",
+      "date_removed": null,
       "duration_ms": 181503,
       "name": "Cringe",
       "url": "https://open.spotify.com/track/42KNXHh9zILElQGre9fQQM"
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -3290,7 +3308,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 175982,
       "name": "HAIR KILLER",
       "url": "https://open.spotify.com/track/3Th9GrFjG5bKv5nQQIw3bh"
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/0STK506ou4gRKW0TrspkxD"
@@ -5140,7 +5158,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -5472,7 +5490,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -6361,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7KfG07lwpwLyP4R1fDHTSy"
+      },
+      "artists": [
+        {
+          "name": "Garbage Girlfriend",
+          "url": "https://open.spotify.com/artist/36A9GlFLSKyb9gWxaDZTyd"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181202,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2urgbOQnor6omGLg1h0P8G"
+    },
+    {
+      "album": {
         "name": "identity crisis",
         "url": "https://open.spotify.com/album/6qA7NqB5x2iNjCOuFuHYsV"
       },
@@ -6838,7 +6874,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 175493,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/3Nz73ci9wWV90V0sb3PJqN"
@@ -7406,7 +7442,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -7518,6 +7554,24 @@
       "duration_ms": 238627,
       "name": "Sunset in the Water",
       "url": "https://open.spotify.com/track/1fUvoPPEn8aAZAmgHUnlnU"
+    },
+    {
+      "album": {
+        "name": "Suspirium",
+        "url": "https://open.spotify.com/album/6u0opOPBL1xcVtuKv9kOiz"
+      },
+      "artists": [
+        {
+          "name": "A Very Special Episode",
+          "url": "https://open.spotify.com/artist/2ZmZQgJQNyPvVXUWSs9DKD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259146,
+      "name": "Suspirium",
+      "url": "https://open.spotify.com/track/0rPpW88Hr3Z1h6Y4bhwrD9"
     },
     {
       "album": {
@@ -8270,7 +8324,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -8454,7 +8508,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-19",
+      "date_removed": null,
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -8906,7 +8960,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 306287,
       "name": "Walking Weapon",
       "url": "https://open.spotify.com/track/5ChgbTYEyRGN1h7EeLFnYp"
@@ -9318,6 +9372,24 @@
       "duration_ms": 196000,
       "name": "Wire Drums",
       "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"
+    },
+    {
+      "album": {
+        "name": "With blood",
+        "url": "https://open.spotify.com/album/6quhE5xL9YRhMCWkXRfg5n"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252633,
+      "name": "With blood",
+      "url": "https://open.spotify.com/track/3rj1cHATwCfHp6P9Yi2YAL"
     },
     {
       "album": {

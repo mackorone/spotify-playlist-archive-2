@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 10014,
+  "num_followers": 10017,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAABY5Z42VohIdo7K+UlCyx5C",
+  "snapshot_id": "abnrAAAAAADtQd2RLjSyi3WMmzK9pHvN",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 342439,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas a Acordar de Mi",
         "url": "https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 239026,
       "name": "Vestido Blanco",
       "url": "https://open.spotify.com/track/3WVRoIs8UO1OV89G3ezp6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 342439,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 321776,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 201133,
       "name": "Asesinos del Rock",
       "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 321776,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Haces Volar",
-        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 320960,
-      "name": "Vengador An\u00f3nimo",
-      "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 191746,
       "name": "Octubre 68",
       "url": "https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Haces Volar",
+        "url": "https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 320960,
+      "name": "Vengador An\u00f3nimo",
+      "url": "https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp"
     }
   ],
   "unique_name": "This Is Tex Tex",

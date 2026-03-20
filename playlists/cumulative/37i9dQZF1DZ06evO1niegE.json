@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "DESPEDIDA",
+        "url": "https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb"
+      },
+      "artists": [
+        {
+          "name": "Paco Miranda",
+          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213785,
+      "name": "DESPEDIDA",
+      "url": "https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI"
+    },
+    {
+      "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
       },

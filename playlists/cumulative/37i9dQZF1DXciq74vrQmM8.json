@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. chalk",
+  "description": "welcome to our universe ft. alt blk era",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -2128,6 +2128,28 @@
       "duration_ms": 237977,
       "name": "blame",
       "url": "https://open.spotify.com/track/3nuMtZAqdSLTGAWBQnvjsZ"
+    },
+    {
+      "album": {
+        "name": "BLAME (feat. Corey Taylor)",
+        "url": "https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262687,
+      "name": "BLAME (feat. Corey Taylor)",
+      "url": "https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU"
     },
     {
       "album": {
@@ -11226,7 +11248,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168000,
       "name": "In House Enemy",
       "url": "https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt"
@@ -13318,6 +13340,24 @@
       "duration_ms": 148000,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3xd4GVGAuzJGdVZLEKvWea"
+    },
+    {
+      "album": {
+        "name": "Lost In The Back Of My Mind",
+        "url": "https://open.spotify.com/album/1Bf8BDVKuVtgq0CONIVahC"
+      },
+      "artists": [
+        {
+          "name": "ALT BLK ERA",
+          "url": "https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170255,
+      "name": "Lost In The Back Of My Mind",
+      "url": "https://open.spotify.com/track/4si6e3qSbzhKHUoSqskfxI"
     },
     {
       "album": {
@@ -21436,7 +21476,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148072,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh"
@@ -22236,7 +22276,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 178159,
       "name": "VIOLENCE",
       "url": "https://open.spotify.com/track/21nMuvJmnxxLUY2DZMYoO7"
@@ -23498,6 +23538,24 @@
       "duration_ms": 114342,
       "name": "You & I",
       "url": "https://open.spotify.com/track/5yxXbY0npSW5ddLAtxCV83"
+    },
+    {
+      "album": {
+        "name": "You are what you fear in me. (Fairy Metal Version)",
+        "url": "https://open.spotify.com/album/4LhidMVMPt03Hnky1FFLzC"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "You are what you fear in me. - Fairy Metal Version",
+      "url": "https://open.spotify.com/track/4JJpaeww6XpLtm4UtojgmQ"
     },
     {
       "album": {

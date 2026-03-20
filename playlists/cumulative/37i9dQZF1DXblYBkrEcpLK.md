@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-839 songs - 2 day 7 hr 18 min
+840 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [あかね組活動日誌 \~酉班\~](https://open.spotify.com/track/0sQLLithQmtD62geUyGHIg) | [スミレ\(CV.ファイルーズあい\)](https://open.spotify.com/artist/7d2RWnsBKLqqNovNmCkrdb), [アザミ\(CV.朝井彩加\)](https://open.spotify.com/artist/6WWodpDLtZjIszo6IsmTdv), [タンポポ\(CV.井上ほの花\)](https://open.spotify.com/artist/6QF7IX2D7ydYlV2qYdCL79) | [あかね組活動日誌 \~酉班\~](https://open.spotify.com/album/1upzpgjhm4NHYVNX4lH3P1) | 1:32 | 2022-06-09 | 2022-07-13 |
 | [あてもなく](https://open.spotify.com/track/4VIteRWGpJ77WBm1nQfQu0) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3:54 | 2023-07-25 | 2023-09-22 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 | 2023-07-27 |
+| [あなただけ見つめてる \- MONA's Version](https://open.spotify.com/track/5M414Xx9foqUVHHgrtbxTF) | [Mona Gonzales](https://open.spotify.com/artist/4WfDxyfUCSNCJtorm2eOOT) | [あなただけ見つめてる \(MONA's Version\)](https://open.spotify.com/album/4QAZAdFKsOu5ISLwGFwSRB) | 3:35 | 2026-03-19 |  |
 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 | 2023-01-06 | 2024-02-14 |
 | [あの日のことば](https://open.spotify.com/track/2bFuloLzFQ6wkBZq2P9gOF) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [あの日のことば / Growing](https://open.spotify.com/album/2uwhDqO7HjJULspAfWD5AM) | 4:26 | 2022-06-09 | 2022-07-23 |
 | [あまい夢](https://open.spotify.com/track/4O9LMQcPjRfNa0BPDHSjbm) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [Empathy](https://open.spotify.com/album/0RGJ7M4sIgtfs5QwZvgs6J) | 4:03 | 2022-07-19 | 2022-07-22 |
@@ -517,7 +518,7 @@
 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 | 2026-02-05 |  |
 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-16 | 2024-06-23 |
 | [アンチテーゼ](https://open.spotify.com/track/6gaTXvxDp4auqdGnAbE8tQ) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [コンポジット](https://open.spotify.com/album/7c13AoYp8d1co832E46kqU) | 4:18 | 2022-06-24 | 2022-07-04 |
-| [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 |  |
+| [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 | 2026-03-20 |
 | [イツカノキオク](https://open.spotify.com/track/6H89asd35YNQJ3Ga0B41Je) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [イツカノキオク / 透明のペダル](https://open.spotify.com/album/4DF9D7Tg8ciZg63yAdKvtu) | 3:55 | 2022-06-09 | 2022-07-20 |
 | [イマココ](https://open.spotify.com/track/26apmjQrRKz3Q8h5MzJgxo) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 3:42 | 2022-06-12 | 2022-07-14 |
 | [イロドリ](https://open.spotify.com/track/4OqUFJkoUZA7RNtEyvilS1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [イロドリ](https://open.spotify.com/album/2DJBLrJSA045LLJGhtFqgP) | 3:15 | 2024-05-21 | 2024-07-08 |

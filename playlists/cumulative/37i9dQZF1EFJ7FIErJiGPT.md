@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/46nW9gotDIl5QFJjs5bRtA">NEA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-101 songs - 5 hr 19 min
+102 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/track/1fqd7L51uCAPmy5WgHqirc) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/album/43zlvshjmVjXyUsKFgWocq) | 2:09 | 2026-03-07 |  |
 | [Pretty Please](https://open.spotify.com/track/0WTkHRwtsJPMHzucqaaZH4) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 2:22 | 2026-03-07 |  |
 | [Purple Haze](https://open.spotify.com/track/0YRJfcmlQ0zaYmZ5tPMmZR) | [Galavant](https://open.spotify.com/artist/7CsSec3NzFx2UipwF1APhu) | [Purple E.P.](https://open.spotify.com/album/0ILgg10qHRLTFTjQEkKyIs) | 3:00 | 2026-03-07 |  |
-| [Ride or Die \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/5vlOmC9rYZKO69KYkcX8va) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:08 | 2026-03-07 |  |
+| [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 | 2026-03-19 |  |
+| [Ride or Die \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/5vlOmC9rYZKO69KYkcX8va) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:08 | 2026-03-07 | 2026-03-20 |
 | [Right?](https://open.spotify.com/track/6f0FMijyEt4FNHl0JDZp1S) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 2:56 | 2026-03-07 |  |
 | [Roller Skater](https://open.spotify.com/track/6f9dDGRWfimvWMcKF7vnQ8) | [Chris Tall ](https://open.spotify.com/artist/67ncboRbwyEWfzLPCjgHKt) | [Roller Skater](https://open.spotify.com/album/6A3aYmLfTT1MfDGjVHAMUp) | 3:49 | 2026-03-07 |  |
 | [Same Old](https://open.spotify.com/track/7n1OZXdSi6XUK4iB02nzX3) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Same Old](https://open.spotify.com/album/0KjqWjoXVrJsPqHtTJwXSz) | 2:55 | 2026-03-07 |  |

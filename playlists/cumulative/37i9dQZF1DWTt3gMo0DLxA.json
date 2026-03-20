@@ -1809,6 +1809,32 @@
     },
     {
       "album": {
+        "name": "Tholiprema",
+        "url": "https://open.spotify.com/album/66qwge2Oz74D9Wm5MSXWAZ"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Sirivennela Seetharama Sastry",
+          "url": "https://open.spotify.com/artist/6AgipdEVghvFGPxilhdrBO"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265978,
+      "name": "Ee Manase Se Se",
+      "url": "https://open.spotify.com/track/68cR7xQ7LKVms9EGKjDVTP"
+    },
+    {
+      "album": {
         "name": "Vinaya Vidheya Rama",
         "url": "https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF"
       },
@@ -4296,7 +4322,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 249492,
       "name": "Naa Praanam (From \"Couple Friendly\")",
       "url": "https://open.spotify.com/track/6L89FdUMkZFBF9LT8iCAcP"
@@ -6600,7 +6626,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 275128,
       "name": "Suvvi Suvvi",
       "url": "https://open.spotify.com/track/4Thm04ZRILTYvnaFgBc1Hi"
@@ -6630,6 +6656,28 @@
       "duration_ms": 209369,
       "name": "Swathi Reddy (From \"Mad Square\")",
       "url": "https://open.spotify.com/track/4LitAOz0wo4rmVI6sstajG"
+    },
+    {
+      "album": {
+        "name": "Rudra Veena",
+        "url": "https://open.spotify.com/album/56YV4uf2rak2AxgFMyrMDK"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Taralirada",
+      "url": "https://open.spotify.com/track/6OfjrpORq2SP4TlT6wHqyJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-623 songs - 1 day 10 hr 53 min
+624 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Paani Ki Lehar](https://open.spotify.com/track/52dM9JC6FnWVOpRYDSscae) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Paani Ki Lehar](https://open.spotify.com/album/5Z7Hkb9CilgSjPdajkwpzb) | 4:44 | 2025-09-18 | 2025-09-27 |
 | [Paas Aa](https://open.spotify.com/track/78EbeEIxRZJM9NLRxcFscq) | [Raj Thakur](https://open.spotify.com/artist/2Gao6MverARcqpP8Li1jXE), [Amisha Singh](https://open.spotify.com/artist/4eQyLr2gpOu92VoXIBDuy6) | [Paas Aa](https://open.spotify.com/album/6C8AMKqkiI4sO6nm1MiUOv) | 4:52 | 2024-07-03 | 2024-10-25 |
 | [Paas Mere](https://open.spotify.com/track/6L8QciURnXIwZVZMeeNJB5) | [Rajraktim Konwar](https://open.spotify.com/artist/6y65f3ZHnYyTcVjnNQwvJZ), [Mayukh](https://open.spotify.com/artist/19I0L8PB44SSGiPhpIjdmr) | [Paas Mere](https://open.spotify.com/album/3zxrvRU4mO4kUBGIXG78xr) | 2:56 | 2023-08-28 | 2023-12-16 |
-| [Pagalpan](https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:12 | 2026-02-13 |  |
+| [Pagalpan](https://open.spotify.com/track/38I7Uyjiful80S7RjilkxS) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Reet Talwar](https://open.spotify.com/artist/4Q72AebP3Suxs5MQ8ocDl5), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Pagalpan \- The Album](https://open.spotify.com/album/6ZFCFsn4GBD4ttDdTQZ5KO) | 4:12 | 2026-02-13 | 2026-03-20 |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
 | [Pal Behta Jaaye 2.0](https://open.spotify.com/track/5SHfxmcRM55HoxnhPJLcal) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye 2.0](https://open.spotify.com/album/7nCPsjpyUj4pY2HI4EhwLV) | 3:03 | 2023-05-17 | 2024-02-10 |
 | [Pal Pal Dil Ke Paas](https://open.spotify.com/track/4HyawPkxzJxnt181a1a81e) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC) | [Pal Pal Dil Ke Paas](https://open.spotify.com/album/250PvwZ3taWg6x1k42Zt0i) | 3:41 | 2025-06-26 |  |
@@ -612,6 +612,7 @@
 | [Yaadein](https://open.spotify.com/track/0H4hdAb1HANfERJR6fllKK) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Pranshu Jha](https://open.spotify.com/artist/5JW6fUObHNgkNCnYBs3BQp), [Vishrut Sinha](https://open.spotify.com/artist/5Sdr51djDja91YU5DArkkd) | [Yaadein](https://open.spotify.com/album/4nlK5bJgllcWsPGtnqn0E5) | 3:39 | 2024-04-29 | 2024-10-05 |
 | [Yaara](https://open.spotify.com/track/6uWMRxFSppcKyd3dEE59gb) | [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Yaara](https://open.spotify.com/album/0qA8ycI9Ss4uH7WJGWasut) | 4:02 | 2025-04-22 | 2025-11-14 |
 | [Yaara Tere Bin \- Reprise \[From "Call Me Bae"\]](https://open.spotify.com/track/72taAwEdg17pI7CHl19jyg) | [RUUH](https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ), [JOH](https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Smriti Bhoker](https://open.spotify.com/artist/6h5RK5NeNrsYNoUXJrIFlL) | [Call Me Bae \- Original Series Soundtrack](https://open.spotify.com/album/0lIHIDrZbRZK20gn5Cw3uL) | 1:50 | 2024-09-02 | 2024-09-21 |
+| [Yaara Ve \(From "Hello Bachhon"\)](https://open.spotify.com/track/226wdFNaMHyj9B2g10Kwlr) | [Aanand Bajpai](https://open.spotify.com/artist/33ZjMNIw2o1aGLYBKZ1IxK), [Geet Sagar](https://open.spotify.com/artist/2794Yv56Ut2J2gFz1p7uce) | [Hello Bachhon \(Music From The Netflix Series\)](https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J) | 1:50 | 2026-03-19 |  |
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-21 |
 | [Yaaron \- Unplugged](https://open.spotify.com/track/1Bc4g3Z7ctklJz3IFRpHIj) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Home Session](https://open.spotify.com/album/3VdOS1TsIJojJH8yKBgu39) | 3:12 | 2025-04-18 |  |
 | [Yahi](https://open.spotify.com/track/6iiHvnhqvtXuE364OiHPDY) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Yahi](https://open.spotify.com/album/5jQuBe9YHXDDXanNaUWQ6M) | 3:31 | 2024-05-15 | 2024-08-03 |

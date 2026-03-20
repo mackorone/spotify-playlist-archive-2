@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 38753,
+  "num_followers": 38779,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACnzvwIrYCcJ7xogaDytk2+",
+  "snapshot_id": "abnrAAAAAAD++kr4sth+jsE27A2EVebz",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/5F1r9gvkQNWDYLFAGplUJr"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 170799,
-      "name": "El Coco",
-      "url": "https://open.spotify.com/track/0bxzFnyeD1AHh0AHyZyeVU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Son las Cosas",
         "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194666,
       "name": "Brinca Brita",
       "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/5F1r9gvkQNWDYLFAGplUJr"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 170799,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/0bxzFnyeD1AHh0AHyZyeVU"
     },
     {
       "added_at": null,

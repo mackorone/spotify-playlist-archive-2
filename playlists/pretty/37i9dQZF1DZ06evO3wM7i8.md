@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,910 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,912 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Indispensible Django Reinhardt \(1949\-1950\)](https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH) | 4:19 |
 | 50 | [Place de Brouckere](https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:56 |
 
-Snapshot ID: `abiZgAAAAAAthrV0d59pOxs4g5r+3nnh`
+Snapshot ID: `abnrAAAAAAB8fwB75XaGmWO1946wdfMN`

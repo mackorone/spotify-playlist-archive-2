@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,039 likes - 34 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,166 likes - 34 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 17 | [Dancing on the ice](https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861) | [Essyla](https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81) | [Dancing on the ice](https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD) | 3:00 |
 | 18 | [Eins, Zwei, Drei](https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf) | [LOOK MUM NO COMPUTER](https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef) | [Eins, Zwei, Drei](https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT) | 3:10 |
 | 19 | [Mother Nature](https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1) | [Eva Marija](https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4) | [Mother Nature](https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq) | 2:58 |
-| 20 | [Nova Zora \- Eurovision 2026](https://open.spotify.com/track/3PGOiXT00ISVuUgr14m079) | [Tamara Živković](https://open.spotify.com/artist/3rhiMxv0cqPttBuoxtKiFw) | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW) | 2:51 |
+| 20 | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/track/3PGOiXT00ISVuUgr14m079) | [Tamara Živković](https://open.spotify.com/artist/3rhiMxv0cqPttBuoxtKiFw) | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW) | 2:51 |
 | 21 | [CROSSROADS](https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG) | [Daniel Žižka](https://open.spotify.com/artist/03igozcHSdgnU1Z1aZ20aS) | [CROSSROADS](https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL) | 3:00 |
 | 22 | [TANZSCHEIN](https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q) | [COSMÓ](https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM) | [TANZSCHEIN](https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix) | 2:42 |
 | 23 | [Bella](https://open.spotify.com/track/6xMZVKtQ76THTiJBntzmwz) | [AIDAN](https://open.spotify.com/artist/6fqAnsJdhftWSyDd3huQIi) | [Bella](https://open.spotify.com/album/4WrXzOulZzFDhB84ogTcKQ) | 2:57 |

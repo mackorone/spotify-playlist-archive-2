@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,048,847 likes - 79 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,108 likes - 79 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

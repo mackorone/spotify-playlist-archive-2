@@ -1,13 +1,29 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18414,
+  "num_followers": 18413,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAAAclFNS3XQ+y7S3yNS3Hr4B",
+  "snapshot_id": "abnrAAAAAAAtv7FoccZ8xGd2usxIzvrb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Burn Burn",
+        "url": "https://open.spotify.com/album/3YkwHZOU12OMiPyaYUxmLy"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 154027,
+      "name": "Burn Burn Burn",
+      "url": "https://open.spotify.com/track/5iVh4MTn1n3mf2AScD4GFp"
+    },
     {
       "added_at": null,
       "album": {
@@ -191,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 192510,
-      "name": "Chasing the Sun",
-      "url": "https://open.spotify.com/track/1K1VCU0M0n4WXsAxBGp9Fr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call Your Friends",
         "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 187516,
       "name": "Call Your Friends",
       "url": "https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 192510,
+      "name": "Chasing the Sun",
+      "url": "https://open.spotify.com/track/1K1VCU0M0n4WXsAxBGp9Fr"
     },
     {
       "added_at": null,
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "Keep It to Myself",
-      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 164782,
       "name": "You Don't Know Anything About Me",
       "url": "https://open.spotify.com/track/0Bfi4xUfHr3R8GnfYr2rcz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 179178,
+      "name": "Keep It to Myself",
+      "url": "https://open.spotify.com/track/5x973aFd6Tj4nuvcT69TeW"
     },
     {
       "added_at": null,
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+      "duration_ms": 193925,
+      "name": "Mental Health",
+      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
       },
       "artists": [
         {
@@ -504,15 +520,15 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 193925,
-      "name": "Mental Health",
-      "url": "https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq"
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 206178,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
+      "duration_ms": 189840,
+      "name": "The Walking Dead",
+      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
     },
     {
       "added_at": null,
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 189840,
-      "name": "The Walking Dead",
-      "url": "https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw"
+      "duration_ms": 206178,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 210547,
-      "name": "Public Enemy Number One",
-      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 198892,
       "name": "A Long Way Down",
       "url": "https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 210547,
+      "name": "Public Enemy Number One",
+      "url": "https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE"
     },
     {
       "added_at": null,
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 176405,
-      "name": "Evil Anonymous",
-      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
+      "duration_ms": 181261,
+      "name": "Licking on a Knife for Fun",
+      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
     },
     {
       "added_at": null,
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 181261,
-      "name": "Licking on a Knife for Fun",
-      "url": "https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt"
+      "duration_ms": 176405,
+      "name": "Evil Anonymous",
+      "url": "https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 187360,
       "name": "With Legs Like That (Maria)",
       "url": "https://open.spotify.com/track/37WKcLIJyGNQKBwaYAKVkx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doomsday on the Radio",
-        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 170029,
-      "name": "Doomsday on the Radio",
-      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
     }
   ],
   "unique_name": "This Is zebrahead",

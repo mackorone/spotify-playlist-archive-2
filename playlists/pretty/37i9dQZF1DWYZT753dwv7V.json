@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103226,
+  "num_followers": 103225,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
-        "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
+        "name": "Polvere",
+        "url": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM"
       },
       "artists": [
         {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 198082,
-      "name": "Dove Si Balla",
-      "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
+      "duration_ms": 166791,
+      "name": "Polvere",
+      "url": "https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -395,22 +399,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Polvere",
-        "url": "https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM"
+        "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
+        "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
         }
       ],
-      "duration_ms": 166791,
-      "name": "Polvere",
-      "url": "https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu"
+      "duration_ms": 198082,
+      "name": "Dove Si Balla",
+      "url": "https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "di20are",
-        "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
-      },
-      "artists": [
-        {
-          "name": "Francesca Michielin",
-          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Nessun grado di separazione",
-      "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Sulla Mia Pelle",
         "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 192053,
       "name": "Per tutta la vita",
       "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "di20are",
+        "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
+      },
+      "artists": [
+        {
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Nessun grado di separazione",
+      "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "My Mamma",
+        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "CHIAMAMI PER NOME",
         "url": "https://open.spotify.com/album/6Q4QCwk7I4Ox4rsKpsQY8O"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 222666,
       "name": "CHIAMAMI PER NOME",
       "url": "https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "My Mamma",
-        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Nicola Di Bari",
-        "url": "https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD"
-      },
-      "artists": [
-        {
-          "name": "Nicola Di Bari",
-          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "La prima cosa bella",
-      "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Barbara e altri Carella",
         "url": "https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 246293,
       "name": "Barbara",
       "url": "https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Nicola Di Bari",
+        "url": "https://open.spotify.com/album/0UK0bIaurVpHSgTY9gsASD"
+      },
+      "artists": [
+        {
+          "name": "Nicola Di Bari",
+          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "La prima cosa bella",
+      "url": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
     },
     {
       "added_at": "2026-01-25 23:01:06",

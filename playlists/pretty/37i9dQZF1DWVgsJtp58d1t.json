@@ -1,6 +1,6 @@
 {
   "description": "The best in Black music! Cover: <a href=\"spotify:artist:5gqxLVfjWfNZ6dsKL05NKd\">Momo Boyd</a> ",
-  "num_followers": 1127406,
+  "num_followers": 1127464,
   "original_name": "This Is Frequency",
   "owner": {
     "name": "Spotify",
@@ -1964,12 +1964,12 @@
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 218122,

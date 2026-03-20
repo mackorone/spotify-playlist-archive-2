@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Riley Green, Carly Pearce",
+  "description": "The cream of today's country crop. Cover: Morgan Evans",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 197655,
       "name": "Be By You",
       "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
@@ -4644,7 +4644,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 240946,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
@@ -5460,7 +5460,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 205723,
       "name": "Dry County",
       "url": "https://open.spotify.com/track/5qUybX88YaxhC3e8zD4BBn"
@@ -5752,7 +5752,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 200927,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/1XbqVDFdW6hj6JcBpZSDRs"
@@ -5972,6 +5972,24 @@
       "duration_ms": 212995,
       "name": "Feelin' Love",
       "url": "https://open.spotify.com/track/5GiOrSNO9SXfTTHILJ7abt"
+    },
+    {
+      "album": {
+        "name": "Feels Like Love",
+        "url": "https://open.spotify.com/album/5ov2nC2ojAe5dx46D3mbQg"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201586,
+      "name": "Feels Like Love",
+      "url": "https://open.spotify.com/track/2IKIlZ4epdAuFnsytqZrJN"
     },
     {
       "album": {
@@ -8176,6 +8194,24 @@
       "duration_ms": 184450,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5"
+    },
+    {
+      "album": {
+        "name": "Hey Dallas",
+        "url": "https://open.spotify.com/album/4UQgpT2Qrp19LU9X07YmwB"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Hey Dallas",
+      "url": "https://open.spotify.com/track/0wwXoAsSOvu1S78iD2rXEw"
     },
     {
       "album": {
@@ -10655,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Steel Town",
+        "url": "https://open.spotify.com/album/6olQXi537DIuAMEa065n4e"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182264,
+      "name": "Letting You Go",
+      "url": "https://open.spotify.com/track/4rzRrwNt2FlrFT1KqWxjAR"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Go Fishing",
         "url": "https://open.spotify.com/album/79vC94qpK1F4x3c8Q7SOZP"
       },
@@ -11494,6 +11548,24 @@
       "duration_ms": 229626,
       "name": "Love You Anyway",
       "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
+    },
+    {
+      "album": {
+        "name": "Loving Life Again",
+        "url": "https://open.spotify.com/album/2QMHxhhWF1hicphwlSAtJC"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226413,
+      "name": "Loving Life Again",
+      "url": "https://open.spotify.com/track/0n09hxqzKFxW1MBxIjctny"
     },
     {
       "album": {
@@ -12803,6 +12875,24 @@
     },
     {
       "album": {
+        "name": "New Frontier",
+        "url": "https://open.spotify.com/album/34ENfR2s3ZLPBcCMnWHHd5"
+      },
+      "artists": [
+        {
+          "name": "Felicity Urquhart and Josh Cunningham",
+          "url": "https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237615,
+      "name": "New Frontier",
+      "url": "https://open.spotify.com/track/1yZOVBrmZeM8vPpVhMNzzs"
+    },
+    {
+      "album": {
         "name": "New Me",
         "url": "https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x"
       },
@@ -13586,7 +13676,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 169958,
       "name": "ONE MORE",
       "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
@@ -14340,7 +14430,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154623,
       "name": "Problem",
       "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
@@ -14897,6 +14987,24 @@
     },
     {
       "album": {
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165289,
+      "name": "Rethink Some Things",
+      "url": "https://open.spotify.com/track/5LNgnMLXaoG9KRkL47KlZu"
+    },
+    {
+      "album": {
         "name": "Rich Men North of Richmond",
         "url": "https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI"
       },
@@ -15310,6 +15418,24 @@
       "duration_ms": 186341,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/7jWXoYMa2fd6xrIJ1AOcjb"
+    },
+    {
+      "album": {
+        "name": "Runnin' On E",
+        "url": "https://open.spotify.com/album/3VGbvxcnoPaVGXp9WKjCVS"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Runnin' On E",
+      "url": "https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh"
     },
     {
       "album": {
@@ -16142,7 +16268,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 124001,
       "name": "Slow Dancin'",
       "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
@@ -17603,6 +17729,24 @@
     },
     {
       "album": {
+        "name": "Sunday Sober",
+        "url": "https://open.spotify.com/album/6Xz7QV2rYmB4V0iVdhTmKZ"
+      },
+      "artists": [
+        {
+          "name": "Zac Griffith",
+          "url": "https://open.spotify.com/artist/5Ey24iy8lcSqkFegl7nUoF"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248205,
+      "name": "Sunday Sober",
+      "url": "https://open.spotify.com/track/0Q1kh2GrkkYN6EeoUo3Wtc"
+    },
+    {
+      "album": {
         "name": "Sunday Supper",
         "url": "https://open.spotify.com/album/4INxn0b1dgoKZ9uWukk4ul"
       },
@@ -18780,7 +18924,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 162866,
       "name": "Tombstone Desperado (feat. Jake Banfield)",
       "url": "https://open.spotify.com/track/6YgfL1Ks0iLhD2RrYMFBbw"

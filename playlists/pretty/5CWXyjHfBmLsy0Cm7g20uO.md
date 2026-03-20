@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 786 likes - 136 songs - 8 hr 33 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 787 likes - 137 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,5 +144,6 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 134 | [Whatcha Gonna Do \- \(remix\)](https://open.spotify.com/track/3iSrxoBnDoz5sIHWaS8L5Y) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Whatcha Gonna Do \(remix\)](https://open.spotify.com/album/7nO4OjN6f9xGxLkSGaGFzO) | 3:29 |
 | 135 | [You Are Freak](https://open.spotify.com/track/0VTgOZ03OJ0fN8LKQ513I1) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ) | [Brst 62](https://open.spotify.com/album/0CNmgv2VnSC3R3BisvIENj) | 3:04 |
 | 136 | [Disappointment](https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Disappointment](https://open.spotify.com/album/0XHhbFHM5TQYB3O5VerbuX) | 4:31 |
+| 137 | [You Don't Know Me](https://open.spotify.com/track/6dM7waRbFfsjNeATYqehYA) | [The Castaways](https://open.spotify.com/artist/4ewY1VD6VLTTNTjYabMfKZ) | [You Don't Know Me](https://open.spotify.com/album/4Gh5QsJW3oebWvFnwfRtAq) | 4:57 |
 
-Snapshot ID: `AAAF5zt55OF3ThJhQUF5ltf1Zvnh74Z7`
+Snapshot ID: `AAAF6PcYXqoXdTQ74ObTnEDa/ci1YlkT`

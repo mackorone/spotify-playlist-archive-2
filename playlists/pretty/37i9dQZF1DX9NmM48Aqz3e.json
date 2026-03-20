@@ -1,129 +1,13 @@
 {
-  "description": "Favourites from Canadians who dominated the 1990s. Cover: Melanie C & Bryan Adams",
-  "num_followers": 81093,
-  "original_name": "Canadian '90s Hits",
+  "description": "Favourites from Canadians who dominated the 1990s. Cover: C\u00e9line Dion",
+  "num_followers": 81183,
+  "original_name": "All Out Canadian 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKt38ySnAg6dw2NLuSCCKPRvEdM3",
+  "snapshot_id": "AAAAADyJTxQQb0ptM+8u2wFBwqhtqDXv",
   "tracks": [
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Steal My Sunshine (Remixes, Vol. 1)",
-        "url": "https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL"
-      },
-      "artists": [
-        {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
-        }
-      ],
-      "duration_ms": 211863,
-      "name": "Steal My Sunshine - Remastered Version",
-      "url": "https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Glee",
-        "url": "https://open.spotify.com/album/3vXanoRgJfcgjymf63ur5h"
-      },
-      "artists": [
-        {
-          "name": "Bran Van 3000",
-          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Drinking in L.A.",
-      "url": "https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Clumsy",
-        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Superman's Dead",
-      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "On A Day Like Today",
-        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
-        }
-      ],
-      "duration_ms": 204893,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Piece Of Paradise",
-        "url": "https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu"
-      },
-      "artists": [
-        {
-          "name": "Sky",
-          "url": "https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Phantom Power (Deluxe)",
-        "url": "https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Poets - 2023 Remastered",
-      "url": "https://open.spotify.com/track/0tOeuzHJaeptDdXQxKJguE"
-    },
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
@@ -155,6 +39,118 @@
       "duration_ms": 249493,
       "name": "You Oughta Know - 2015 Remaster",
       "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "That Don't Impress Me Much - Edit",
+      "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Stunt",
+        "url": "https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Glee",
+        "url": "https://open.spotify.com/album/3vXanoRgJfcgjymf63ur5h"
+      },
+      "artists": [
+        {
+          "name": "Bran Van 3000",
+          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Drinking in L.A.",
+      "url": "https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j"
+    },
+    {
+      "added_at": "2026-03-19 19:10:22",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2026-03-19 19:10:22",
+      "album": {
+        "name": "Phantom Power",
+        "url": "https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "Bobcaygeon",
+      "url": "https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -211,34 +207,18 @@
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
-        "name": "Stunt",
-        "url": "https://open.spotify.com/album/4FsibLgkGMV9AfbLtEqvxT"
+        "name": "Piece Of Paradise",
+        "url": "https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu"
       },
       "artists": [
         {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT"
         }
       ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Come On Over (Diamond Edition / Super Deluxe)",
-        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "That Don't Impress Me Much - Edit",
-      "url": "https://open.spotify.com/track/1wneerMXqozDjikFAKSUlw"
+      "duration_ms": 216626,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -259,8 +239,8 @@
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
-        "name": "Mind On The Moon",
-        "url": "https://open.spotify.com/album/1xZiuD3ZqJL44ZTpGvBb0q"
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
       },
       "artists": [
         {
@@ -268,9 +248,29 @@
           "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
         }
       ],
-      "duration_ms": 200573,
-      "name": "Everybody Wants To Be Like You",
-      "url": "https://open.spotify.com/track/0R5w0gGpRjrGBF6DEYC2nI"
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 204893,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
+        "name": "Bonavista",
+        "url": "https://open.spotify.com/album/0XVTU6CkwvOUis1dc0LKUu"
+      },
+      "artists": [
+        {
+          "name": "Kim Stockwood",
+          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
+        }
+      ],
+      "duration_ms": 253960,
+      "name": "Jerk",
+      "url": "https://open.spotify.com/track/4zQkckWuvFrNLYYH6AEweW"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/4rkKj2mEFeStg6BWfp2A0o"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
         "name": "Creature",
         "url": "https://open.spotify.com/album/6sLfvZAxaK6WmxzWbahsLx"
       },
@@ -431,6 +431,22 @@
       "duration_ms": 223133,
       "name": "Ahead By A Century",
       "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -807,6 +823,22 @@
       "duration_ms": 313920,
       "name": "Hasn't Hit Me Yet - 2012 Remaster",
       "url": "https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz"
+    },
+    {
+      "added_at": "2026-03-19 19:10:22",
+      "album": {
+        "name": "Ron Sexsmith",
+        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
+      },
+      "artists": [
+        {
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Secret Heart",
+      "url": "https://open.spotify.com/track/3rTuruoKn9K9I1gBbinklI"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -1211,6 +1243,22 @@
     {
       "added_at": "2024-12-13 05:00:04",
       "album": {
+        "name": "Mind On The Moon",
+        "url": "https://open.spotify.com/album/1xZiuD3ZqJL44ZTpGvBb0q"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Everybody Wants To Be Like You",
+      "url": "https://open.spotify.com/track/0R5w0gGpRjrGBF6DEYC2nI"
+    },
+    {
+      "added_at": "2024-12-13 05:00:04",
+      "album": {
         "name": "Stuff",
         "url": "https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9"
       },
@@ -1355,38 +1403,6 @@
       "duration_ms": 212200,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Bonavista",
-        "url": "https://open.spotify.com/album/0XVTU6CkwvOUis1dc0LKUu"
-      },
-      "artists": [
-        {
-          "name": "Kim Stockwood",
-          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
-        }
-      ],
-      "duration_ms": 253960,
-      "name": "Jerk",
-      "url": "https://open.spotify.com/track/4zQkckWuvFrNLYYH6AEweW"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -1645,6 +1661,6 @@
       "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
     }
   ],
-  "unique_name": "Canadian '90s Hits",
+  "unique_name": "All Out Canadian 90s",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9NmM48Aqz3e"
 }

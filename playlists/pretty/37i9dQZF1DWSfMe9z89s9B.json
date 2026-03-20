@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: James Blake",
-  "num_followers": 1324120,
+  "num_followers": 1324042,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Pluto Baby",
+        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Pluto Baby",
+      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+    },
+    {
       "added_at": "2025-08-01 08:16:45",
       "album": {
         "name": "True Believer",
@@ -1255,26 +1271,6 @@
       "duration_ms": 229009,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
-    },
-    {
-      "added_at": "2025-11-07 07:39:57",
-      "album": {
-        "name": "Beck n Call",
-        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
-          "name": "ttoh",
-          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Beck n Call",
-      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
     },
     {
       "added_at": "2024-06-07 12:28:44",
@@ -1297,20 +1293,24 @@
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
+      "added_at": "2025-11-07 07:39:57",
       "album": {
-        "name": "Pluto Baby",
-        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
       },
       "artists": [
         {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Pluto Baby",
-      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
     },
     {
       "added_at": "2024-08-23 05:28:40",
@@ -1757,22 +1757,6 @@
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/6iCdb8zonKMIHFmvZ54HFZ"
-      },
-      "artists": [
-        {
-          "name": "MiLES.",
-          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
-        }
-      ],
-      "duration_ms": 160727,
-      "name": "Closer Than Close",
-      "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
-    },
-    {
       "added_at": "2024-10-26 03:32:36",
       "album": {
         "name": "The Drive Home",
@@ -1787,6 +1771,22 @@
       "duration_ms": 143102,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "Closer Than Close",
+        "url": "https://open.spotify.com/album/6iCdb8zonKMIHFmvZ54HFZ"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 160727,
+      "name": "Closer Than Close",
+      "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1965,22 +1965,6 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Whine Am",
-        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "Whine Am",
-      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
-    },
-    {
       "added_at": "2025-04-04 04:43:43",
       "album": {
         "name": "THE LAST TIME",
@@ -2001,24 +1985,20 @@
       "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
+      "added_at": "2026-03-06 06:14:13",
       "album": {
-        "name": "Agnus",
-        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
+        "name": "Whine Am",
+        "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
       },
       "artists": [
         {
-          "name": "Merges",
-          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
-        },
-        {
-          "name": "Lonr.",
-          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
         }
       ],
-      "duration_ms": 136918,
-      "name": "scrabble",
-      "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
+      "duration_ms": 176326,
+      "name": "Whine Am",
+      "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
     },
     {
       "added_at": "2024-07-19 15:05:24",
@@ -2055,6 +2035,26 @@
       "duration_ms": 140104,
       "name": "GET YA MONEY",
       "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
+    },
+    {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Agnus",
+        "url": "https://open.spotify.com/album/1sryjTuYCA1Z9J9OSvuzBF"
+      },
+      "artists": [
+        {
+          "name": "Merges",
+          "url": "https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3"
+        },
+        {
+          "name": "Lonr.",
+          "url": "https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ"
+        }
+      ],
+      "duration_ms": 136918,
+      "name": "scrabble",
+      "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2205,6 +2205,22 @@
       "url": "https://open.spotify.com/track/3sgoRhmVZj3wtkzFd6hcZb"
     },
     {
+      "added_at": "2026-03-13 08:17:11",
+      "album": {
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 185506,
+      "name": "Heard What You Said",
+      "url": "https://open.spotify.com/track/5rX8YRB4QrwKX1Gdneg57a"
+    },
+    {
       "added_at": "2024-09-13 09:09:19",
       "album": {
         "name": "What\u2019s It Take to Be a Star?",
@@ -2235,22 +2251,6 @@
       "duration_ms": 217600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
-    },
-    {
-      "added_at": "2026-03-13 08:17:11",
-      "album": {
-        "name": "A Rush To Nowhere",
-        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Heard What You Said",
-      "url": "https://open.spotify.com/track/5rX8YRB4QrwKX1Gdneg57a"
     },
     {
       "added_at": "2024-07-19 15:05:24",
@@ -2337,6 +2337,22 @@
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "me rn",
+        "url": "https://open.spotify.com/album/68aKP6gmpMFgu3Fuw3YDmK"
+      },
+      "artists": [
+        {
+          "name": "Amindi",
+          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
+        }
+      ],
+      "duration_ms": 118956,
+      "name": "Matrimony",
+      "url": "https://open.spotify.com/track/5UNWVxlaSSvGAiOrvtFmsw"
+    },
+    {
       "added_at": "2025-02-07 08:30:49",
       "album": {
         "name": "Soft Spot (Deluxe Edition)",
@@ -2355,22 +2371,6 @@
       "duration_ms": 250248,
       "name": "Soft Spot - 955 remix",
       "url": "https://open.spotify.com/track/32B5Ht7NQoanL8WHiE6GMA"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "me rn",
-        "url": "https://open.spotify.com/album/68aKP6gmpMFgu3Fuw3YDmK"
-      },
-      "artists": [
-        {
-          "name": "Amindi",
-          "url": "https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua"
-        }
-      ],
-      "duration_ms": 118956,
-      "name": "Matrimony",
-      "url": "https://open.spotify.com/track/5UNWVxlaSSvGAiOrvtFmsw"
     },
     {
       "added_at": "2025-03-21 05:31:12",
@@ -2501,22 +2501,6 @@
       "url": "https://open.spotify.com/track/3b3MgbQskkpBb6rSkoIAoh"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "Grey Scale",
@@ -2531,6 +2515,22 @@
       "duration_ms": 179066,
       "name": "Grey Scale",
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
     },
     {
       "added_at": "2025-10-10 08:11:09",

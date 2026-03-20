@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 1139,
+  "num_followers": 1202,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "FUCK WITH A WITCH 2",
+        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 90491,
+      "name": "FUCK WITH A WITCH 2",
+      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Picasso On The Concrete",
         "url": "https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM"
       },
@@ -1043,34 +1059,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
       "artists": [
         {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
         }
       ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "FUCK WITH A WITCH 2",
-        "url": "https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 90491,
-      "name": "FUCK WITH A WITCH 2",
-      "url": "https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C"
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
       },
       "artists": [
         {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
         }
       ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "80486DX",
+        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "80486DX",
+      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Sun Up To Sun Down (Remix)",
         "url": "https://open.spotify.com/album/0k0dMQoz9HiR6LtQUjykc8"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "80486DX",
-        "url": "https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f"
-      },
-      "artists": [
-        {
-          "name": "MASTER BOOT RECORD",
-          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "80486DX",
-      "url": "https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU"
     },
     {
       "added_at": "2024-07-19 10:51:43",

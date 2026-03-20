@@ -3323,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "METAMORFOSI",
+        "url": "https://open.spotify.com/album/1SPhCDB44Mgx1lEbdMnIKm"
+      },
+      "artists": [
+        {
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141570,
+      "name": "RUDE BOYS",
+      "url": "https://open.spotify.com/track/3LBGbIsWxbjj7ujeigCD14"
+    },
+    {
+      "album": {
         "name": "Mystic Motel",
         "url": "https://open.spotify.com/album/1DuxRyJopWZslxD48VCaa4"
       },

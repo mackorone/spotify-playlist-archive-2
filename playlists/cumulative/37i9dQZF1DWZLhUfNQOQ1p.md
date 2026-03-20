@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🥃
 
-456 songs - 1 day 6 hr 30 min
+458 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Da Fonk \(feat\. Joni\) \- \[Dub\]](https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 5:51 | 2023-10-30 |  |
 | [Dance Boys \(Feat\. Paulita Demaíz\)](https://open.spotify.com/track/0h7r57THNIdUrOYmPT7Zya) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Tonight](https://open.spotify.com/album/7FPRkvo8RatLUCmByPgmFT) | 3:45 | 2023-05-14 | 2023-05-30 |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 | 2025-06-23 |
+| [Dancefleur Dream \- Dance Rituals](https://open.spotify.com/track/7xnnj73WCoRnWUveOWrS9f) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow) | [Dancefleur Dream \(Dance Rituals\)](https://open.spotify.com/album/4Wppqf7QALWWe22dRrhSS4) | 3:16 | 2026-03-19 |  |
 | [Danza Organica](https://open.spotify.com/track/4bLuMAVUgd6nATmUt6K65p) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Italianissimo EP](https://open.spotify.com/album/0nHgSQx4sKmFItKIm8M8rt) | 3:00 | 2023-05-14 | 2023-05-30 |
 | [Domicile Conjugal](https://open.spotify.com/track/4zFn08n1iWgWZhcn8HYE0g) | [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Domicile Conjugal](https://open.spotify.com/album/4BltUMukeIAR8Gw3F3jB8H) | 2:46 | 2023-05-14 | 2023-05-30 |
 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 | 2021-08-05 | 2023-05-31 |
@@ -321,7 +322,7 @@
 | [Portofino](https://open.spotify.com/track/5pAdgRrEDtLAGU83fpkiD6) | [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Glaz](https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3) | 2:55 | 2023-05-14 | 2023-05-30 |
 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 | 2023-05-30 | 2024-08-20 |
 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 | 2023-05-30 |  |
-| [Pressure](https://open.spotify.com/track/2tqgGbISrFLxIWaKiGqPJQ) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Pressure / Sine Machine](https://open.spotify.com/album/49xnZCzkwPkVZbqSboc2RN) | 4:14 | 2026-03-05 |  |
+| [Pressure](https://open.spotify.com/track/2tqgGbISrFLxIWaKiGqPJQ) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Pressure / Sine Machine](https://open.spotify.com/album/49xnZCzkwPkVZbqSboc2RN) | 4:14 | 2026-03-05 | 2026-03-20 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7xUXITq5VTGwmt4Klywd2L) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Pressure Makes Diamonds](https://open.spotify.com/album/4ovkiGQFIBK9TcxzoNvzlh) | 5:44 | 2024-07-01 | 2025-11-01 |
 | [Prisencolinensinainciusol](https://open.spotify.com/track/0HQf0bd3oSZei450iKuUFR) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Celentano Hit Parade / Le Volte Che Adriano E' Stato Primo](https://open.spotify.com/album/5dP9R1pAhtCoZJXU3iqW4y) | 3:49 | 2024-05-19 | 2024-06-03 |
 | [Psicomagia](https://open.spotify.com/track/1BDfGMy4SK2OaZhX522zB6) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Psicomagia](https://open.spotify.com/album/0htTcwRP2A5J33zOqtkgNV) | 3:10 | 2023-05-14 | 2023-05-30 |
@@ -331,6 +332,7 @@
 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 | 2023-06-22 |  |
 | [Relax](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 | 2024-05-19 | 2024-06-03 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-06-22 | 2023-09-28 |
+| [Remember Who You Are](https://open.spotify.com/track/3tblXmky5Yxp4egimxx5t8) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Remember Who You Are](https://open.spotify.com/album/2JZ9v11Hfhbvk5AtW3Pgyo) | 3:44 | 2026-03-19 |  |
 | [Restless Bones](https://open.spotify.com/track/0ymhaRjiCwNQzeQEjewE7F) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Restless Bones](https://open.spotify.com/album/4gyGSYCRPbJ8BtVhzOYRl9) | 2:25 | 2023-05-30 |  |
 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 | 2021-08-05 | 2023-05-31 |
 | [Ring My Bell](https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV) | 8:11 | 2023-05-14 | 2024-06-03 |
@@ -427,7 +429,7 @@
 | [Ubuhle \(feat\. Bukeka\)](https://open.spotify.com/track/63xAXgMQNh3RSG1wV1VS51) | [Whitney Mkok](https://open.spotify.com/artist/5U2I7kRpTglDqTHy5Uehmu), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Ubuhle \(feat\. Bukeka\)](https://open.spotify.com/album/4U7ETvlOj3fohJiJdkffey) | 4:46 | 2025-07-03 |  |
 | [Una notte da impazzire](https://open.spotify.com/track/0xMQlNxTTaAVMmzSGYUEoR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:49 | 2024-05-19 | 2024-06-03 |
 | [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 | 2021-08-05 | 2023-05-31 |
-| [Up To You](https://open.spotify.com/track/0UZsygTBXsbzeECoZ4yAq5) | [Dogs I Know](https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ) | [Up To You](https://open.spotify.com/album/3qXN5KjbgTJg4mHKB8TVml) | 3:38 | 2026-03-05 |  |
+| [Up To You](https://open.spotify.com/track/0UZsygTBXsbzeECoZ4yAq5) | [Dogs I Know](https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ) | [Up To You](https://open.spotify.com/album/3qXN5KjbgTJg4mHKB8TVml) | 3:38 | 2026-03-05 | 2026-03-20 |
 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 | 2024-05-19 | 2024-06-03 |
 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 | 2021-08-05 | 2022-12-08 |
 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 | 2024-05-19 | 2024-06-03 |

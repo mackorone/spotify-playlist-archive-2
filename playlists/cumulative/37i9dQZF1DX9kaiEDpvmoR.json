@@ -2119,6 +2119,32 @@
     },
     {
       "album": {
+        "name": "Eld fire fogo",
+        "url": "https://open.spotify.com/album/3FvqIdXrAw1CSKnLqXwWDq"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        },
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        },
+        {
+          "name": "Jaqee",
+          "url": "https://open.spotify.com/artist/31JCx1UPkfVSDBMVr1UQOR"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "Eld fire fogo",
+      "url": "https://open.spotify.com/track/6bUjuJns2EqRNhAr9HTa96"
+    },
+    {
+      "album": {
         "name": "Eller hur",
         "url": "https://open.spotify.com/album/5H8n2sZeG4MqcYKuWtbY4i"
       },
@@ -2148,7 +2174,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 264496,
       "name": "Emilie's Song - From the TV series \"Tordyveln flyger i skymningen\"",
       "url": "https://open.spotify.com/track/1OAbp83E27ZE0eLiw9KxaF"
@@ -2434,6 +2460,24 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "album": {
+        "name": "Escape Higher",
+        "url": "https://open.spotify.com/album/32m9TsdAxKjUQhVsu78rsY"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265586,
+      "name": "Escape Through Music",
+      "url": "https://open.spotify.com/track/5yYvMWbMI9heTaRuU7tRrn"
     },
     {
       "album": {
@@ -7316,7 +7360,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 212339,
       "name": "Sol \u00e5 snygga m\u00e4n",
       "url": "https://open.spotify.com/track/4hsMGYvX8AHgtqbkQrRDSe"

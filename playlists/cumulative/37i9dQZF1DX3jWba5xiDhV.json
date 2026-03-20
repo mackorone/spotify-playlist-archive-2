@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Dancefleur Dream (Dance Rituals)",
+        "url": "https://open.spotify.com/album/4Wppqf7QALWWe22dRrhSS4"
+      },
+      "artists": [
+        {
+          "name": "Pellegrino",
+          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196190,
+      "name": "Dancefleur Dream - Dance Rituals",
+      "url": "https://open.spotify.com/track/7xnnj73WCoRnWUveOWrS9f"
+    },
+    {
+      "album": {
         "name": "Outline",
         "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 172722,
       "name": "Love Will Save the Day",
       "url": "https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9"
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 238493,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg"
@@ -3718,6 +3736,24 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "album": {
+        "name": "Tuttosport",
+        "url": "https://open.spotify.com/album/2kcM5zOApNGVIjKnXuI5Te"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336120,
+      "name": "Tuttosport",
+      "url": "https://open.spotify.com/track/5Y2ckG8axbdGJ2HUzOe7Ce"
     },
     {
       "album": {

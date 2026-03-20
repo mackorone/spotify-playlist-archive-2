@@ -1,6 +1,6 @@
 {
   "description": "All vengeance, no brakes. Listen to music from the series Duster, now streaming on Max.",
-  "num_followers": 8831,
+  "num_followers": 8845,
   "original_name": "Duster Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -324,8 +324,16 @@
       },
       "artists": [
         {
-          "name": "Frank Williams & the Rocketeers",
-          "url": "https://open.spotify.com/artist/5vwbZqrHOTxJIpmjwLSd9G"
+          "name": "Frank Williams",
+          "url": "https://open.spotify.com/artist/6pUSHrJcjIibTfQws5AsfO"
+        },
+        {
+          "name": "The Rocketeers",
+          "url": "https://open.spotify.com/artist/7KzrFQKTD3zIoRcv42HLBF"
+        },
+        {
+          "name": "Little Beaver",
+          "url": "https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn"
         }
       ],
       "duration_ms": 152106,

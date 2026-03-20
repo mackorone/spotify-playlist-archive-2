@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1896274,
+  "num_followers": 1896452,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Deja Entendu",
-        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "The Quiet Things That No One Ever Knows",
-      "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Translating the Name",
         "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "Deja Entendu",
+        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
         }
       ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+      "duration_ms": 241640,
+      "name": "The Quiet Things That No One Ever Knows",
+      "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Tell All Your Friends (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "You're So Last Summer",
-      "url": "https://open.spotify.com/track/22opp9Depbmn43q5gSERwH"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "War All The Time",
         "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 272400,
       "name": "War All The Time",
       "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Tell All Your Friends (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "You're So Last Summer",
+      "url": "https://open.spotify.com/track/22opp9Depbmn43q5gSERwH"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Stories And Alibis",
-        "url": "https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL"
-      },
-      "artists": [
-        {
-          "name": "Matchbook Romance",
-          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
-        }
-      ],
-      "duration_ms": 256226,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "For All Of This",
         "url": "https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 210053,
       "name": "I Want To Hear You Sad",
       "url": "https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Stories And Alibis",
+        "url": "https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL"
+      },
+      "artists": [
+        {
+          "name": "Matchbook Romance",
+          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY"
     },
     {
       "added_at": "2025-08-05 14:57:44",

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-570 songs - 1 day 5 hr 50 min
+571 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 | 2021-12-16 | 2022-01-25 |
 | [Drogba \(Joanna\)](https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c) | 3:19 | 2022-12-20 | 2023-03-02 |
 | [Drogba \(Joanna\)](https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1) | 3:19 | 2021-12-16 | 2022-12-25 |
-| [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 |  |
+| [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 | 2026-03-20 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-12-10 |  |
 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 | 2022-07-28 | 2024-04-19 |
 | [Dumebi](https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 2:59 | 2021-12-16 | 2025-05-09 |
@@ -326,6 +326,7 @@
 | [Marathon](https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Koba Brown](https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75) | [Marathon](https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj) | 3:00 | 2025-01-28 | 2025-04-02 |
 | [MAS DUSHI](https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [MAS DUSHI](https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd) | 2:38 | 2024-07-22 | 2025-02-23 |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-12-14 | 2025-02-23 |
+| [Me & U](https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 | 2026-03-19 |  |
 | [Mehbooba](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2021-12-16 | 2021-12-29 |
 | [Meliza](https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Meliza](https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1) | 3:32 | 2021-12-16 | 2023-10-17 |
 | [Meliza](https://open.spotify.com/track/7dQFi51rjTv7ZqCKXU7uvp) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Meliza](https://open.spotify.com/album/5H7N7wIDlfGlgqC2DzQDi1) | 3:32 | 2024-02-23 | 2024-03-15 |

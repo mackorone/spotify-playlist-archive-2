@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 328813,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/2KIx2bD6uvUYDZ2XrAKZXN"
@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Don't Trust Mirrors",
+        "url": "https://open.spotify.com/album/28npNYRc0n2EYmv56rnzSY"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278028,
+      "name": "Echo in the Field",
+      "url": "https://open.spotify.com/track/4xIOeiLTEaoKFsD8JrCdPw"
+    },
+    {
+      "album": {
         "name": "efflorescence",
         "url": "https://open.spotify.com/album/5gTuNZ0GwWQLNH0YiwsDZr"
       },
@@ -1593,6 +1611,24 @@
     },
     {
       "album": {
+        "name": "Chill Out Zone",
+        "url": "https://open.spotify.com/album/7fyCNZNItiQvcVrzLVouTC"
+      },
+      "artists": [
+        {
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219310,
+      "name": "Hora Dorada",
+      "url": "https://open.spotify.com/track/2H9uhmMVABgcUHxppF1GK9"
+    },
+    {
+      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/2JualanmCPX3pupSVgIMWZ"
       },
@@ -1626,6 +1662,24 @@
       "duration_ms": 222000,
       "name": "Hypnagogia Well",
       "url": "https://open.spotify.com/track/2jpL7mFOMzRnbaSj790BfQ"
+    },
+    {
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "album": {
@@ -1994,6 +2048,28 @@
       "duration_ms": 195480,
       "name": "Loungerie",
       "url": "https://open.spotify.com/track/4abjt5hWugcmJucydd6eHL"
+    },
+    {
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2nLR051PemM1cp2jr2U1Db"
+      },
+      "artists": [
+        {
+          "name": "M1NT",
+          "url": "https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL"
+        },
+        {
+          "name": "blnkspc_",
+          "url": "https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194187,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/4u5073p9qQ3EdBUuh7Qp05"
     },
     {
       "album": {
@@ -3466,6 +3542,24 @@
       "duration_ms": 293751,
       "name": "Xtal",
       "url": "https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB"
+    },
+    {
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "\u22c6.\u2729 \u08ea\u208a\u02da.\u22c6\u263e\u22c6\u207a\u208a\u2727",
+      "url": "https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"

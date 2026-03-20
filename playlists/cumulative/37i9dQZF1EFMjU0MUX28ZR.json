@@ -1901,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "Confessions: An Unexpected Turn of Events",
+        "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147942,
+      "name": "Stay Single",
+      "url": "https://open.spotify.com/track/33VBeE2AuU9sbVnZYncmVm"
+    },
+    {
+      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/0cIfc3rnu2iEB4e7rRu0k3"
       },

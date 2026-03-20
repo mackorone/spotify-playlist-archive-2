@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "I AM. MIXTAPE",
+        "url": "https://open.spotify.com/album/1fj6GxAiOwzGlT16GTQ5X6"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Like The Moon",
+      "url": "https://open.spotify.com/track/38UHOSV8sYkMCGM8wPo7Eq"
+    },
+    {
+      "album": {
         "name": "Like The Moon",
         "url": "https://open.spotify.com/album/0u1GmTFsk4E3hirXBetbpk"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177560,
       "name": "Like The Moon",
       "url": "https://open.spotify.com/track/5IMIzerUwHmzMW9sgjWSj7"

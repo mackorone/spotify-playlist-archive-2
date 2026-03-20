@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Skylaa Tylaa",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: DESIREE",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 332259,
       "name": "Angekho",
       "url": "https://open.spotify.com/track/3CPRkePlApKOZylFqehK21"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 349090,
       "name": "Arcana Dei",
       "url": "https://open.spotify.com/track/1lCA23ozFtmsi5kqVA29VY"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 303386,
       "name": "Asalam Alaikum",
       "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 231257,
       "name": "Dream - Radio Edit",
       "url": "https://open.spotify.com/track/3wio3XA57i8cgBVXpVSGzR"
@@ -1565,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "Four Women (DESIREE Remix)",
+        "url": "https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248290,
+      "name": "Four Women - DESIREE Remix",
+      "url": "https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ"
+    },
+    {
+      "album": {
         "name": "Free 2 Be",
         "url": "https://open.spotify.com/album/2PZ5ntpaeQyz9eatXOHKSQ"
       },
@@ -1702,7 +1724,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 212000,
       "name": "Gemu - Radio Edit",
       "url": "https://open.spotify.com/track/1iApKEOkBkgAkkelE9NdiW"
@@ -1790,6 +1812,36 @@
       "duration_ms": 188867,
       "name": "Haaa!",
       "url": "https://open.spotify.com/track/6da4dCRFfrq1JdW2GCppbY"
+    },
+    {
+      "album": {
+        "name": "Halala",
+        "url": "https://open.spotify.com/album/7qZKlqtzoB3qJ7aC2x7n6F"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Nadrums",
+          "url": "https://open.spotify.com/artist/3W6v2xM1RVw0kg4ZZ4NBle"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176674,
+      "name": "Halala",
+      "url": "https://open.spotify.com/track/5QNp6b2qsOo1EGHwMi1q0A"
     },
     {
       "album": {
@@ -1978,7 +2030,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 366265,
       "name": "I Just Needed",
       "url": "https://open.spotify.com/track/2cgjriKXV2nZeONvYlEydy"
@@ -2048,7 +2100,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 333967,
       "name": "Ijubane",
       "url": "https://open.spotify.com/track/7AYzgnmvIO2N81DLvpVM31"
@@ -2244,7 +2296,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 360000,
       "name": "In Color",
       "url": "https://open.spotify.com/track/5XcvYsDqaK5XXWeKD3nIiQ"
@@ -2336,7 +2388,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 240140,
       "name": "Inkolelo Yami",
       "url": "https://open.spotify.com/track/2mVo3MVaL6OH1RZTMfHLLk"
@@ -2434,7 +2486,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 406956,
       "name": "Iqiniso",
       "url": "https://open.spotify.com/track/7aNEGJXixGnC48jg8T8qYd"
@@ -2550,7 +2602,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 285239,
       "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]",
       "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
@@ -2646,7 +2698,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 357966,
       "name": "Izinkinga Zami (feat. SG MusiQ)",
       "url": "https://open.spotify.com/track/45oRgTSNn47SIa0st2CD69"
@@ -2834,7 +2886,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 323275,
       "name": "Khumbula",
       "url": "https://open.spotify.com/track/07Os1DkJyFyyloZn6eu5h9"
@@ -2904,7 +2956,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 374470,
       "name": "Kilimanjaro",
       "url": "https://open.spotify.com/track/4n8dPpH3y7d7J7alhB4u3i"
@@ -3044,7 +3096,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 377125,
       "name": "Kude",
       "url": "https://open.spotify.com/track/6zC7kRdEe0XWTBUAqkoXbR"
@@ -3310,7 +3362,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 158769,
       "name": "Ma Tnsani (Yalla Habibi) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4VUEpBFCSO1Ro4J50O6hyZ"
@@ -3414,7 +3466,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 182000,
       "name": "Maithori",
       "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
@@ -3522,7 +3574,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 420190,
       "name": "Mamma",
       "url": "https://open.spotify.com/track/5aM14CNo9Xezodbx0TUZRD"
@@ -3688,7 +3740,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 479999,
       "name": "Mkungu Close",
       "url": "https://open.spotify.com/track/65dHkpBCNGp9FB4IK8yerM"
@@ -3818,7 +3870,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 212500,
       "name": "Mulalo",
       "url": "https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw"
@@ -3912,7 +3964,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 394576,
       "name": "Muthi",
       "url": "https://open.spotify.com/track/77DVbEGHnExzOPm6dEueC1"
@@ -4948,7 +5000,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 175670,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3aHGvFF5ShruzOBDDrkyHV"
@@ -5176,7 +5228,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 394576,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6RqwWN3p1KeZCnPRMa4K3A"
@@ -5206,7 +5258,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 472106,
       "name": "Soul Alive",
       "url": "https://open.spotify.com/track/7kfLKbqZA8nQHjf7ONUhRZ"
@@ -5440,7 +5492,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 463872,
       "name": "Tholukuthi (Clap Song) (feat. MaWhoo)",
       "url": "https://open.spotify.com/track/1d3srkotnZxmQhsqbIu9jv"
@@ -5750,7 +5802,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 341403,
       "name": "Ukuphumelela",
       "url": "https://open.spotify.com/track/2CiDQsPXQsl80PodS2DM3a"
@@ -5840,7 +5892,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 360021,
       "name": "Umkhuleko (feat. Angel Ndlela)",
       "url": "https://open.spotify.com/track/6DmARTmb3Fqgn6NHxa5PZE"
@@ -6176,7 +6228,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 368000,
       "name": "uValo (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/1gpcYCQC5YTPkT840nr83D"
@@ -6298,7 +6350,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 392000,
       "name": "Vela",
       "url": "https://open.spotify.com/track/5dAG4Hu4N2sBKTfybDfEkG"
@@ -6416,7 +6468,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 380238,
       "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
       "url": "https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt"
@@ -6549,6 +6601,28 @@
     },
     {
       "album": {
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+      },
+      "artists": [
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
+    },
+    {
+      "album": {
         "name": "Gods window, Pt. 1",
         "url": "https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD"
       },
@@ -6564,7 +6638,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 513893,
       "name": "When We Play",
       "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"
@@ -6730,7 +6804,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 378007,
       "name": "Yini",
       "url": "https://open.spotify.com/track/2QTyQlwZRzsMMu1VzLO8zU"
@@ -6826,7 +6900,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 348019,
       "name": "Zolo Lam",
       "url": "https://open.spotify.com/track/5GdCB3ociwRgo3pQ1eF02s"

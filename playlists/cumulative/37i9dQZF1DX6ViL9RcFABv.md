@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: IOLANDA
+> Uma playlist de pura alma pop! Foto: António Zambujo
 
-449 songs - 23 hr 40 min
+454 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Contigo](https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Contigo](https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr) | 3:19 | 2025-05-22 |  |
 | [Contigo para Sempre](https://open.spotify.com/track/3ci2RTjkUdQhmbVyh7Or0T) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Miguel Moura](https://open.spotify.com/artist/2RNVpVAfgEuFNxHOILyK9q) | [Contigo para Sempre](https://open.spotify.com/album/0nAkeLSbAEFN1H9gr3rwGI) | 2:47 | 2025-10-31 |  |
 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 | 2024-06-27 | 2025-03-07 |
+| [Contramão](https://open.spotify.com/track/3mJRNnkxV9r18AX8qHabE7) | [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Espiral](https://open.spotify.com/album/5sgR6xvy6O5rIsevbPfqOH) | 4:38 | 2026-03-20 |  |
 | [Contratempo](https://open.spotify.com/track/1QiUcomB2NULRveIHa8T1P) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn), [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Contratempo](https://open.spotify.com/album/416ohviXC6mDNnDKW92eo7) | 3:08 | 2024-11-29 | 2025-03-21 |
 | [Coração](https://open.spotify.com/track/0eWXOqxdbP647k3wVrstcY) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [9](https://open.spotify.com/album/2fBNDKu8TOe6HXY5L7gCV5) | 3:36 | 2024-06-27 | 2024-11-29 |
 | [Coração](https://open.spotify.com/track/446HdJnpCj1fqbxrbO08Pq) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:04 | 2024-06-27 | 2024-11-29 |
@@ -146,6 +147,7 @@
 | [Dois](https://open.spotify.com/track/4eYWyX4X4InIx1QnKkv3UI) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Dois](https://open.spotify.com/album/0aKzVffljSE3UF3Gg7UeyJ) | 3:25 | 2024-06-27 | 2024-10-04 |
 | [Dois Dedos de Testa](https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [Dois Dedos De Testa](https://open.spotify.com/album/7hXKkcdTAx5P2Kk3t1Vg2I) | 3:15 | 2024-06-27 | 2024-10-25 |
 | [Domingo à Noite](https://open.spotify.com/track/6wNthtmutbdC3MA0RliEqS) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Domingo à Noite](https://open.spotify.com/album/2fMhS1goQFFvMCUA8Xg0ns) | 3:16 | 2025-12-12 | 2026-01-30 |
+| [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 | 2026-03-20 |  |
 | [Drama](https://open.spotify.com/track/6N1z5XlUcO67JA1XxTdIsu) | [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7), [Os Azeitonas](https://open.spotify.com/artist/580DM82FybhvbJYUtEjkEz) | [Drama](https://open.spotify.com/album/4O4Z2HgACr41aZ66X0jmL7) | 3:33 | 2025-09-04 | 2026-01-23 |
 | [Dá Cá Um Bacalhau](https://open.spotify.com/track/7caPKea4LdKLgZbj8y5ZnN) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Dá Cá Um Bacalhau](https://open.spotify.com/album/69RGd1xW6QsLVTfLwdNgGu) | 2:18 | 2025-11-21 | 2026-01-16 |
 | [Dói](https://open.spotify.com/track/2YUyNW6Im8CJiEti9LYRvy) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm), [Rafaell Dior](https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla) | [Dói](https://open.spotify.com/album/5j9j5FJyTsUbpSx7yofANe) | 3:03 | 2026-02-27 |  |
@@ -361,6 +363,7 @@
 | [Raspão](https://open.spotify.com/track/726Wj3tCY1A4vIrwHlQyRZ) | [Beatriz Rosário](https://open.spotify.com/artist/1IJF0z5AWZ3GF0If3CrWvl) | [Raspão](https://open.spotify.com/album/4jZqzziNQ6o9K6S4IV8zFH) | 2:24 | 2025-02-07 | 2025-09-19 |
 | [Re\-Começo \(feat\. BISPO\)](https://open.spotify.com/track/37o3U6VTkiwlzKeIJAPvUn) | [João Pedro Pais](https://open.spotify.com/artist/3Pjj7heoGNSFE6S3kPQsex), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Amigo Improvável](https://open.spotify.com/album/1leVLqDizSzXJlFBAfusZW) | 4:00 | 2025-03-21 | 2025-06-27 |
 | [Recomeçar](https://open.spotify.com/track/1XDJv6oiATTKhMc5xwLXsJ) | [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [Recomeçar](https://open.spotify.com/album/6RHEt7a31vDEVM9jS1lpvE) | 3:21 | 2026-01-23 | 2026-03-06 |
+| [Regresso À Infancia](https://open.spotify.com/track/7qFmXBTDYviyGh3W1p32bI) | [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Oração Ao Tempo](https://open.spotify.com/album/4MeybEpXYrzioJUo6PWhWJ) | 3:28 | 2026-03-20 |  |
 | [Respirar](https://open.spotify.com/track/3Fwap1UvFz66uQUPfUqvZq) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA) | [Respirar](https://open.spotify.com/album/5ufqNkX3GmQuODOMFADd0H) | 4:14 | 2025-02-28 |  |
 | [Responso](https://open.spotify.com/track/32OBrzQDUYNhaWY4GzRXwm) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Responso](https://open.spotify.com/album/4kJa2LZOab7gZOsfeFJQ2p) | 3:00 | 2026-03-13 |  |
 | [Ride or Die](https://open.spotify.com/track/1j4kYsMuewIYAYqtKfyTwj) | [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8) | [Ride or Die](https://open.spotify.com/album/0WVxIbOT1EOAqGVrEZhXr9) | 2:28 | 2025-07-11 | 2025-11-14 |
@@ -410,6 +413,7 @@
 | [Sozinha](https://open.spotify.com/track/5YPp2OpITgckNXF71jBdW9) | [Ágata](https://open.spotify.com/artist/4hjRolqjkmfAWhjkUPFJiI), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Sozinha](https://open.spotify.com/album/6ctUih3rczyZp9INZyUQjZ) | 2:58 | 2025-06-12 | 2025-10-03 |
 | [Sozinho](https://open.spotify.com/track/6FRjQPBZ4pEdKWGSCSgeh8) | [No Maka](https://open.spotify.com/artist/35dFX8XteNIxKbFW6VmdW3), [Mike Flowers](https://open.spotify.com/artist/4fwKbNGSZ5NNI7Tc6DAuOE) | [Sozinho](https://open.spotify.com/album/3RYhMw7mbqMFHEGyo3nkOf) | 2:28 | 2024-06-27 | 2024-07-05 |
 | [Superação](https://open.spotify.com/track/0WYwgdwCr4fdNADvinbWBX) | [Mariana Pereira](https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm) | [Superação](https://open.spotify.com/album/3siFdTrUNLxFNkRV2ksiwQ) | 2:39 | 2024-10-17 | 2026-01-30 |
+| [Só](https://open.spotify.com/track/4Qw5x0FlRuZLEnCNBAzVXg) | [Luís Trigacheiro](https://open.spotify.com/artist/3Q8P5JGiCwBz7IFDoL3HcH) | [Florbela](https://open.spotify.com/album/7opTU4anLmK9jfRrPeee1p) | 2:36 | 2026-03-20 |  |
 | [Só Deus Sabe](https://open.spotify.com/track/1t7lqhqTivyMiXVNFK9cPx) | [Anda Pacheco](https://open.spotify.com/artist/6Eg8oODWtEpLya3GudfTZM) | [Só Deus Sabe](https://open.spotify.com/album/7xCJoZt1lSDqtGjMjLvwro) | 3:31 | 2024-12-06 | 2025-03-21 |
 | [Só Existo Contigo](https://open.spotify.com/track/6KSp8SF1M4DmlO3FA3JU9G) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Só Existo Contigo](https://open.spotify.com/album/3H9BKvBxbel1z3lFbgY57r) | 3:27 | 2025-10-02 |  |
 | [SÓ QUERO VIVER](https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Criss Calisto](https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX) | [SÓ QUERO VIVER](https://open.spotify.com/album/5MXDOITYtd2842neVb5IS5) | 2:42 | 2025-07-17 | 2025-09-27 |
@@ -444,6 +448,7 @@
 | [Viagem](https://open.spotify.com/track/3TAtUFZ4wLgh6jDmemLQa5) | [Luís Fialho](https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8), [Inês de Vasconcellos](https://open.spotify.com/artist/38LLnLrfME2OCNaqPKAB7f) | [A Viagem](https://open.spotify.com/album/4IVB1cL3uZrOxyaMLsQzcR) | 3:09 | 2025-10-09 | 2026-01-30 |
 | [Vida de Cão](https://open.spotify.com/track/05w6de7LbQSnGqilshZLJT) | [Edmundo Inácio](https://open.spotify.com/artist/04CmgOhFRROgjxTnL7dKlR) | [Vida de Cão](https://open.spotify.com/album/4KMBwRSiwcHKWmsGQhuoZp) | 2:55 | 2026-03-13 |  |
 | [Vive o dia](https://open.spotify.com/track/5lcjHPZUhIPUdunrIAMpy4) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Vive o dia](https://open.spotify.com/album/1kaPrridSNurOrrWWoeDaF) | 2:48 | 2025-07-17 | 2025-10-03 |
+| [Vizinha do 1° Andar](https://open.spotify.com/track/0nvLKn3RVp68QVH1h5jVXx) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Vizinha do 1° Andar](https://open.spotify.com/album/5uIjoy5Fc7UxqegPXDExIt) | 3:08 | 2026-03-20 |  |
 | [Voar](https://open.spotify.com/track/54IJk4ONmSkwCO63YKJTNB) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Voar](https://open.spotify.com/album/38nCRSs2sVkNb7x6nhyJhE) | 3:15 | 2025-11-07 | 2025-11-14 |
 | [Volta Atrás](https://open.spotify.com/track/2kwVWRa2ZjOCeyhHbrX3VQ) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [Volta Atrás](https://open.spotify.com/album/4B0E69oN7iCRomcAr3PZlE) | 3:16 | 2025-12-12 | 2026-01-23 |
 | [Voltar ao Inicio](https://open.spotify.com/track/124qzX6fC9it7YRgmKpKK6) | [Nayra Mirella](https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Voltar ao Inicio](https://open.spotify.com/album/1m8uTvFaK5PCwKyUmKiKCC) | 3:17 | 2026-01-16 | 2026-02-27 |

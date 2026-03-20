@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,356 songs - 21 day 6 hr 58 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,364 songs - 21 day 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8364,5 +8364,13 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8354 | [オレンジ](https://open.spotify.com/track/3CSy3ua1eqT6M1zHjBzq02) | [逢坂大河・櫛枝実乃梨・川嶋亜美\(釘宮理恵、堀江由衣、喜多村英梨\)](https://open.spotify.com/artist/7e85JGlHFZ6FaQl01gyNLh) | [オレンジ](https://open.spotify.com/album/5CICziX48kj8o76IRqFY8L) | 4:38 |
 | 8355 | [Kyouran Hey Kids!!](https://open.spotify.com/track/5NfPjjpfNsodIepI8NpKKR) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/3L2po38uOcXO2tEFLTKixW) | 4:10 |
 | 8356 | [IKOUZE PARADISE](https://open.spotify.com/track/6PWTHFbYE9wSaQojr7umQ5) | [STUNK\(CV:JUNJI MAJIMA\)](https://open.spotify.com/artist/1gchAn06YwVzrs3MOkqmVF), [ZEL\(CV:YUSUKE KOBAYASHI\)](https://open.spotify.com/artist/259hmekQdBPiGLw6wkjzQ5), [CRIMVAEL\(CV:MIYU TOMITA\)](https://open.spotify.com/artist/06CcwKdfjfQMfgRQnUAKe1) | [OPENING&ENDING THEME FROM TV SERIES ”INTERSPECIES REVIEWERS”](https://open.spotify.com/album/6rxnYExQ3gLVipiUW1Wacu) | 4:15 |
+| 8357 | [コレカラ](https://open.spotify.com/track/2j1OAlRPPgrTa9sNRHhh3g) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [マチビトサガシ](https://open.spotify.com/album/5AW8SbAFPJyqtQ28VKIsrr) | 3:38 |
+| 8358 | [不思議な旅はつづくのさ](https://open.spotify.com/track/1I1MmAvxwzZamzXInNNsYQ) | [つりビット](https://open.spotify.com/artist/6kmUaorD1QQjKcDrWRIKLJ) | [Never Ending Story ～All of Tsuribit～](https://open.spotify.com/album/21IaKvwcUZXoq6F6kEMkDI) | 4:06 |
+| 8359 | [Union](https://open.spotify.com/track/5lWjB3gZdGSMNOY1AA7MDv) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [Reunion](https://open.spotify.com/album/4fVup8ngSf93g2dg8LjImS) | 3:44 |
+| 8360 | [Can Do](https://open.spotify.com/track/61MJ6Zn91wMSX2sEj5zE5W) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [CRACK STAR FLASH](https://open.spotify.com/album/2xmVEWJaOW32oW5A7G3LQb) | 4:23 |
+| 8361 | [Howling](https://open.spotify.com/track/2LdW2wz7EBI7dM54KWyri9) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:19 |
+| 8362 | [ひとりぼっちのモノローグ](https://open.spotify.com/track/4dKhZSRaGchgvu0IZnYPrS) | [一里ぼっち\(CV:森下千咲\)](https://open.spotify.com/artist/6p4Tw99DCzxDqV8JzqdDaM), [砂尾なこ\(CV:田中美海\)](https://open.spotify.com/artist/0SSwOXwkE34oj9f3lvHDDu), [本庄アル\(CV:鬼頭明里\)](https://open.spotify.com/artist/1zEfPkUngW2LgjHqEWcGl9), [ソトカ・ラキター\(CV:黒瀬ゆうこ\)](https://open.spotify.com/artist/7oXm22Dn3pTQRPfl49nldS) | [TVアニメ「ひとりぼっちの○○生活」オープニングテーマ「ひとりぼっちのモノローグ」](https://open.spotify.com/album/1VE4tcskd1H1teLZm70TXa) | 4:28 |
+| 8363 | [ね、いっしょにかえろ。](https://open.spotify.com/track/7xgp7x9TGXvn86GKn3tjR6) | [一里ぼっち\(CV:森下千咲\)](https://open.spotify.com/artist/6p4Tw99DCzxDqV8JzqdDaM) | [TVアニメ「ひとりぼっちの○○生活」エンディングテーマ「ね、いっしょにかえろ。」](https://open.spotify.com/album/5vTmNHIXsVwVfFlYEyo6gQ) | 3:38 |
+| 8364 | [WONDERFUL WONDER](https://open.spotify.com/track/0w3nm3bkkaUv03AQ2AReSt) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [NEWS](https://open.spotify.com/album/3i29DkI1BQr8lp0gdgYnRl) | 3:05 |
 
-Snapshot ID: `AAALPbjpbq0FK5aOCYNBHuqu3w4kdgbO`
+Snapshot ID: `AAALRWK5SNyNptPSgdYYtyjnTlDSaoVF`

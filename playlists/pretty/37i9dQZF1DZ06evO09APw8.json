@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 21335,
+  "num_followers": 21381,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAADpzvrkk7r1ZTu/wPNOdT0C",
+  "snapshot_id": "abnrAAAAAADuJeNL3v2zJ+C+dMMyFKYh",
   "tracks": [
     {
       "added_at": null,
@@ -32,12 +32,12 @@
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 218122,
@@ -342,15 +342,11 @@
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 207999,
-      "name": "I USED TO (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
+      "duration_ms": 159495,
+      "name": "SAFE PLACE",
+      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
     },
     {
       "added_at": null,
@@ -422,11 +418,15 @@
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 159495,
-      "name": "SAFE PLACE",
-      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
+      "duration_ms": 207999,
+      "name": "I USED TO (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
       "added_at": null,

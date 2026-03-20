@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169401,
+  "num_followers": 169402,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAACHv/Pk5LajbzLJ9J1Rng6N",
+  "snapshot_id": "abnrAAAAAACR5UvhKOOxsPCUwJA0ix2P",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "SPARK-AGAIN",
+      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u5730\u7403\u5100",
         "url": "https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 232786,
       "name": "\u5730\u7403\u5100",
       "url": "https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walpurgis",
-        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "SPARK-AGAIN",
-      "url": "https://open.spotify.com/track/7c7iiyRHZQB2VUxyUQA8ZI"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
+        "name": "ninelie EP",
+        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 215490,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+      "duration_ms": 244186,
+      "name": "Through My Blood <AM>",
+      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ninelie EP",
-        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 244186,
-      "name": "Through My Blood <AM>",
-      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
+      "duration_ms": 215490,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
     },
     {
       "added_at": null,

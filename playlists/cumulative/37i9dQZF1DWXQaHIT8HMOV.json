@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 143894,
       "name": "Games",
       "url": "https://open.spotify.com/track/7qilhegCmxrNHLl9fEza4q"
@@ -3742,7 +3742,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 166500,
       "name": "Hoozambe",
       "url": "https://open.spotify.com/track/2wUYg8gvMUnx1jbekCUso7"
@@ -6461,6 +6461,28 @@
     },
     {
       "album": {
+        "name": "Njagala Banjagala",
+        "url": "https://open.spotify.com/album/0UEqzwohyikF1VxI5CgNG9"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        },
+        {
+          "name": "Mun G",
+          "url": "https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182985,
+      "name": "Njagala Banjagala",
+      "url": "https://open.spotify.com/track/5SoOchV6p7ZeIMo4h7s2KA"
+    },
+    {
+      "album": {
         "name": "Njagala Mukwano",
         "url": "https://open.spotify.com/album/1iD6TzKVWgf7sgChI5777R"
       },
@@ -7590,7 +7612,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 220438,
       "name": "Owaye",
       "url": "https://open.spotify.com/track/2g8oqBQViuUcpbjSXnFvxq"
@@ -8104,6 +8126,24 @@
       "duration_ms": 191489,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/1RNuBijIYqiTiVntdLxmSI"
+    },
+    {
+      "album": {
+        "name": "Revolve",
+        "url": "https://open.spotify.com/album/77hRlufu1pFl8KGlBjOsPg"
+      },
+      "artists": [
+        {
+          "name": "Afrie",
+          "url": "https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173901,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/7EyJa8jYBkpRO8NxFFaH8a"
     },
     {
       "album": {
@@ -9158,6 +9198,36 @@
       "duration_ms": 156734,
       "name": "Sweetheart",
       "url": "https://open.spotify.com/track/1cfSfMn58rP9OacGNxgUL8"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/4AWV0Kl4nWnfaPTseDUKWN"
+      },
+      "artists": [
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Soundlykbb",
+          "url": "https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "Chxf Barry",
+          "url": "https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161708,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/44ohwgdP6fywqjza4cwBU4"
     },
     {
       "album": {

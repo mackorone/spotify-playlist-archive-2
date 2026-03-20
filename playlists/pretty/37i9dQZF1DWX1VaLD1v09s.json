@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 82694,
+  "num_followers": 82692,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Neon Steeple",
-        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        }
-      ],
-      "duration_ms": 289746,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "This Is Not A Test",
         "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Neon Steeple",
+        "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 289746,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 277280,
+      "name": "Same Power",
+      "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 570629,
       "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
       "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 277280,
-      "name": "Same Power",
-      "url": "https://open.spotify.com/track/7AlFRA7zpc30NM8LO3ZcE4"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Citizens",
-        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Made Alive",
-      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+        "name": "Citizens",
+        "url": "https://open.spotify.com/album/7EtWK30PesO8kiVHoPFVhE"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
         }
       ],
-      "duration_ms": 291715,
-      "name": "Crowns & Thorns (Oceans)",
-      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
+      "duration_ms": 206210,
+      "name": "Made Alive",
+      "url": "https://open.spotify.com/track/7zb6qjGi5l9cgUjYaoYI3Y"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1135,6 +1119,22 @@
       "duration_ms": 329720,
       "name": "The Power Of The Cross",
       "url": "https://open.spotify.com/track/0BaI66HnzOMf3Kk7femx8m"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 291715,
+      "name": "Crowns & Thorns (Oceans)",
+      "url": "https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Empty Grave",
-        "url": "https://open.spotify.com/album/3tFw52Ve84toBkvDUhlGvL"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Empty Grave",
-      "url": "https://open.spotify.com/track/4a8YNAz0TnAZgX92b2i2Vr"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Valley of the Shadow",
         "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 256127,
       "name": "Glory & Grace",
       "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Empty Grave",
+        "url": "https://open.spotify.com/album/3tFw52Ve84toBkvDUhlGvL"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Empty Grave",
+      "url": "https://open.spotify.com/track/4a8YNAz0TnAZgX92b2i2Vr"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "The Narrow Sea",
         "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 313489,
       "name": "O Rock Eternal",
       "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Hallelujah For The Cross",
+        "url": "https://open.spotify.com/album/4lEgT0xxX67pJMBg8h5iRh"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Hallelujah For The Cross",
+      "url": "https://open.spotify.com/track/6TVUJKNnDfvPM6jtXWMcrO"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Alive In You (Studio Version)",
         "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 239999,
       "name": "Alive In You - Studio Version",
       "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "Hallelujah For The Cross",
-        "url": "https://open.spotify.com/album/4lEgT0xxX67pJMBg8h5iRh"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Hallelujah For The Cross",
-      "url": "https://open.spotify.com/track/6TVUJKNnDfvPM6jtXWMcrO"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2159,8 +2159,8 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "My Weapon",
-        "url": "https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5"
+        "name": "Music Inspired By The Story",
+        "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
       },
       "artists": [
         {
@@ -2168,9 +2168,9 @@
           "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 261093,
-      "name": "My Weapon",
-      "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
+      "duration_ms": 305693,
+      "name": "Alive (Mary Magdalene)",
+      "url": "https://open.spotify.com/track/6JfcyN6xlcJWXTHfFGjcSd"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2187,22 +2187,6 @@
       "duration_ms": 249000,
       "name": "The Passover Song (feat. Sean Carter)",
       "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "Don't Lose Hope",
-        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "He's Not Here",
-      "url": "https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2227,6 +2211,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Don't Lose Hope",
+        "url": "https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "He's Not Here",
+      "url": "https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -2243,8 +2243,8 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Music Inspired By The Story",
-        "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
+        "name": "My Weapon",
+        "url": "https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5"
       },
       "artists": [
         {
@@ -2252,9 +2252,9 @@
           "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
         }
       ],
-      "duration_ms": 305693,
-      "name": "Alive (Mary Magdalene)",
-      "url": "https://open.spotify.com/track/6JfcyN6xlcJWXTHfFGjcSd"
+      "duration_ms": 261093,
+      "name": "My Weapon",
+      "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV"
-      },
-      "artists": [
-        {
-          "name": "Travis Cottrell",
-          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/5JJPHbFPolI3dl8VbUuoAs"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
         "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 212466,
       "name": "He Is Risen",
       "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5JJPHbFPolI3dl8VbUuoAs"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Beautiful Scandalous Night",
-        "url": "https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 251895,
-      "name": "Beautiful Scandalous Night",
-      "url": "https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Beautiful Scandalous Night",
+        "url": "https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 251895,
+      "name": "Beautiful Scandalous Night",
+      "url": "https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d"
     },
     {
       "added_at": "2025-04-17 21:35:44",

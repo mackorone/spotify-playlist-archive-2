@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 134499,
+  "num_followers": 134528,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Gourmandises",
+        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
+      },
+      "artists": [
+        {
+          "name": "Aliz\u00e9e",
+          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
+        }
+      ],
+      "duration_ms": 264282,
+      "name": "Moi... Lolita",
+      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Gourmandises",
-        "url": "https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy"
-      },
-      "artists": [
-        {
-          "name": "Aliz\u00e9e",
-          "url": "https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4"
-        }
-      ],
-      "duration_ms": 264282,
-      "name": "Moi... Lolita",
-      "url": "https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "TREAT MYSELF",
-        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Mike Sabath",
-          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
-        }
-      ],
-      "duration_ms": 176947,
-      "name": "Wave (feat. Mike Sabath)",
-      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "TREAT MYSELF",
+        "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Mike Sabath",
+          "url": "https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu"
+        }
+      ],
+      "duration_ms": 176947,
+      "name": "Wave (feat. Mike Sabath)",
+      "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
     },
     {
       "added_at": "2024-06-02 21:23:10",

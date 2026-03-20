@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Arise (Over the Nations) [Live]",
+        "url": "https://open.spotify.com/album/0vOm5gVUrLOJH8sbNzORgc"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410952,
+      "name": "Arise (Over the Nations) - Live",
+      "url": "https://open.spotify.com/track/5rlI8fiWdU4LQER9uzOHY7"
+    },
+    {
+      "album": {
         "name": "ARISE AND SHINE",
         "url": "https://open.spotify.com/album/4b0TTUruvy0QuiudbDp226"
       },
@@ -3557,6 +3579,24 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1HPhM6imos4KxycwA6KKe6"
+      },
+      "artists": [
+        {
+          "name": "Miriam Jaydah",
+          "url": "https://open.spotify.com/artist/0WD1OVRYVzK0UGWfh42NrG"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2AhmFyKuWPEMoie3RbT0Gg"
+    },
+    {
+      "album": {
         "name": "Firm Foundation (He Won't)",
         "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
@@ -5984,7 +6024,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 279352,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
@@ -6280,7 +6320,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 269538,
       "name": "Isi Gini",
       "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
@@ -6324,7 +6364,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 139694,
       "name": "Jabez's Prayer",
       "url": "https://open.spotify.com/track/3Zrt7CSH0wcRez0Q9Sjq6i"
@@ -11099,6 +11139,28 @@
     },
     {
       "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/4I6jfQErCWguANlJgrimnN"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "WINNER WAYS.",
+          "url": "https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136092,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/1Mct4TjRxkfHkSOzAUvVbl"
+    },
+    {
+      "album": {
         "name": "rest",
         "url": "https://open.spotify.com/album/50TWUhnsnEnXlSQ8sGZ9v5"
       },
@@ -12130,7 +12192,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 188000,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/37vfiHVsdmfJ9YYpvQn7w8"
@@ -13304,7 +13366,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 395226,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA"

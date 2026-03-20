@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > World music from the continent, to the islands with Shenseea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,801 likes - 65 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,836 likes - 65 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

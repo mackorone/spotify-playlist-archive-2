@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 446 songs - 1 day 1 hr 38 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 447 songs - 1 day 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -454,5 +454,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 444 | [Amygdala's Rag Doll](https://open.spotify.com/track/11LOpncQm2hylzwfvG2j7q) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [Thanks to You Song](https://open.spotify.com/album/7jR9LLmvyGevD3hgWa8geY) | 4:35 |
 | 445 | [くたばろうぜ](https://open.spotify.com/track/3r6xYYqdyPLrKjEgxaW2N5) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr) | [CYNICISM](https://open.spotify.com/album/2L84XD90kjs9HVG51eb4jK) | 3:26 |
 | 446 | [天国へ行こう](https://open.spotify.com/track/11mV5Ol1OcOimE20hpASVR) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク](https://open.spotify.com/album/3fFajEtPI0sXa1Eo0WJMKJ) | 4:39 |
+| 447 | [お勉強しといてよ](https://open.spotify.com/track/6k90ibcH1z8Mx9684nfuLW) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [お勉強しといてよ](https://open.spotify.com/album/3cOMXsId5ORUGXt9xu90NI) | 4:40 |
 
-Snapshot ID: `AAAJ+dItkF+YYtQkDl9KNCyWhliXbtik`
+Snapshot ID: `AAAJ+8WpoZLpGwmNs0AYCCm82q3fhHCm`

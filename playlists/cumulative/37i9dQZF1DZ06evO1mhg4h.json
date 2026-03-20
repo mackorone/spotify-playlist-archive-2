@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9 TOUR \u201cWe will B\u201d",
+        "url": "https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "\u3042\u306e\u30d0\u30f3\u30c9 -We will B- Live ver.",
+      "url": "https://open.spotify.com/track/6gsQSBxFiKYI33VI4Kt6RA"
+    },
+    {
+      "album": {
         "name": "\u7d50\u675f\u30d0\u30f3\u30c9LIVE-\u6052\u661f- at Zepp Haneda\uff08TOKYO\uff09",
         "url": "https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 288653,
       "name": "\u60d1\u3046\u661f -We will B- Live ver.",
       "url": "https://open.spotify.com/track/6sbzdTd7hLv5ULaZY8DuUJ"

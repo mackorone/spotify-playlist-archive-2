@@ -3503,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "In Between The Covers",
+        "url": "https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3"
+      },
+      "artists": [
+        {
+          "name": "Every Other Thursday",
+          "url": "https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144016,
+      "name": "Money Tied The Knot",
+      "url": "https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp"
+    },
+    {
+      "album": {
         "name": "Why Not Take A Chance",
         "url": "https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey"
       },
@@ -5005,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/3aeYcTvgmX1OvUAosl6vcE"
+      },
+      "artists": [
+        {
+          "name": "Hard To Miss",
+          "url": "https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228036,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd"
+    },
+    {
+      "album": {
         "name": "Standing on the Edge",
         "url": "https://open.spotify.com/album/2MzZEWMpDN2gXyGoKFbMcc"
       },
@@ -6497,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Shit Creek Blues",
+        "url": "https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG"
+      },
+      "artists": [
+        {
+          "name": "The Delta Shake",
+          "url": "https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208457,
+      "name": "Wolves Of E-Street",
+      "url": "https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS"
+    },
+    {
+      "album": {
         "name": "Worst Enemy",
         "url": "https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb"
       },
@@ -6548,6 +6602,24 @@
       "duration_ms": 183982,
       "name": "You Can't Drive a Prius Without Wheels",
       "url": "https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg"
+    },
+    {
+      "album": {
+        "name": "YOU CANNOT BE SERIOUS",
+        "url": "https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "You cannot be serious",
+      "url": "https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv"
     },
     {
       "album": {

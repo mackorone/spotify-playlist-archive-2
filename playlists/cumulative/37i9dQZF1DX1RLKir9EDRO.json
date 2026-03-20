@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 254257,
       "name": "Bir D\u00fcnya D\u00fc\u015f\u00fcnd\u00fcm",
       "url": "https://open.spotify.com/track/5uegLKJY0t8xRk848tkyRx"
@@ -3576,7 +3576,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 140117,
       "name": "B\u0130N PAR\u00c7A",
       "url": "https://open.spotify.com/track/3UcfCocoSYo4yeIvAtAA3e"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 124000,
       "name": "Bombo\u015f",
       "url": "https://open.spotify.com/track/4SpZiZlhNxIg7Ba0O6fAvb"
@@ -5788,7 +5788,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 137755,
       "name": "Do\u011fru A\u015fk",
       "url": "https://open.spotify.com/track/0H3YkvvhdOyufTLXpVuxLv"
@@ -6758,7 +6758,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 235882,
       "name": "eti\u011fimin gettosu",
       "url": "https://open.spotify.com/track/0ehdtznhJV3czAfJ3TI2lr"
@@ -7840,6 +7840,24 @@
       "duration_ms": 191629,
       "name": "Gideceksen Geleceksen",
       "url": "https://open.spotify.com/track/7m6LMiaZdHcsVK5c558taN"
+    },
+    {
+      "album": {
+        "name": "Gideceksin",
+        "url": "https://open.spotify.com/album/2ZbooYIgCHjWOds6l1OQhg"
+      },
+      "artists": [
+        {
+          "name": "Cem Alt\u0131nsoy",
+          "url": "https://open.spotify.com/artist/3cIEB1a150ywUHBbX7g8fZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247556,
+      "name": "Gideceksin",
+      "url": "https://open.spotify.com/track/1Qy9sU6vPy4csF1pAaL4ny"
     },
     {
       "album": {
@@ -9080,7 +9098,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177386,
       "name": "her yerde sen vars\u0131n",
       "url": "https://open.spotify.com/track/4FgVV5wJFwmOvVZj0MWbZw"
@@ -9206,7 +9224,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 238933,
       "name": "HEY FELEK",
       "url": "https://open.spotify.com/track/5n85BRVhkWQ4EZVnFkxL9q"
@@ -10706,7 +10724,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 206625,
       "name": "Kafas\u0131 At\u0131k",
       "url": "https://open.spotify.com/track/0pthLpqSsyZt7GHHDvkukH"
@@ -11610,7 +11628,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 217970,
       "name": "Ka\u011f\u0131ttan \u015eehirler",
       "url": "https://open.spotify.com/track/2InY8LeK4QRxxQ8N5lVcvd"
@@ -12324,7 +12342,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 166000,
       "name": "Kumpas",
       "url": "https://open.spotify.com/track/4i2l3oX52wIUuvgHgsL75t"
@@ -12360,7 +12378,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 205000,
       "name": "Kurt",
       "url": "https://open.spotify.com/track/7MTdcIg3Ha9FwzcHpJHWgG"
@@ -12544,6 +12562,24 @@
       "duration_ms": 159200,
       "name": "K\u00f6r Bi' A\u015f\u0131k",
       "url": "https://open.spotify.com/track/0UGfjw2WXymuvJJrzWv9Od"
+    },
+    {
+      "album": {
+        "name": "K\u00f6r Kuyular",
+        "url": "https://open.spotify.com/album/5Uyc9VTLrFN598GP66apJg"
+      },
+      "artists": [
+        {
+          "name": "Kaan K\u00fc\u00e7\u00fck",
+          "url": "https://open.spotify.com/artist/3Mx4MlGjcoi50i0yLsQ3lZ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "K\u00f6r Kuyular",
+      "url": "https://open.spotify.com/track/0TmZt4099foVi3YiRHkXbc"
     },
     {
       "album": {
@@ -12926,7 +12962,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154666,
       "name": "Likya",
       "url": "https://open.spotify.com/track/5scvat12ucB6MTl5nbUyOz"
@@ -14634,7 +14670,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 233454,
       "name": "oyun bah\u00e7esi",
       "url": "https://open.spotify.com/track/3TauTYuMReTskVZZ4El8OO"
@@ -16054,7 +16090,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 249000,
       "name": "Sarho\u015f Bir Adam",
       "url": "https://open.spotify.com/track/2QO2Kp2MoXr3Bd2x7JL5bk"
@@ -16418,7 +16454,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 146000,
       "name": "sen olmay\u0131nca",
       "url": "https://open.spotify.com/track/3V7pl800g7ShFIJUQIxKT8"
@@ -17540,7 +17576,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 152285,
       "name": "sordular seni",
       "url": "https://open.spotify.com/track/51Qv971X32x2YXwKiX15bt"
@@ -18210,7 +18246,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 244000,
       "name": "Tersine D\u00f6nd\u00fc",
       "url": "https://open.spotify.com/track/2NzggiG5POGDJc9D6dxrtU"
@@ -18430,7 +18466,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 161494,
       "name": "Tutu\u015fursa",
       "url": "https://open.spotify.com/track/5sj9RlsNNS3xij0ij5YfGi"
@@ -19004,7 +19040,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 208372,
       "name": "U\u00e7urum",
       "url": "https://open.spotify.com/track/3brpCU2ER04n6KvgcRRVii"
@@ -19188,7 +19224,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 177000,
       "name": "Vukuat",
       "url": "https://open.spotify.com/track/4tZt0liZA5M9AYPqU4w8A6"
@@ -19260,7 +19296,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229524,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/6ElaG1jBFHcbodpckGUHUE"
@@ -19462,7 +19498,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 187500,
       "name": "Yalan D\u00fcnya",
       "url": "https://open.spotify.com/track/0im2Hj4RQEuVEcfUaV9294"
@@ -19668,7 +19704,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 260136,
       "name": "Yaln\u0131z Par\u00e7a",
       "url": "https://open.spotify.com/track/0xrcNVHQ20wcLtdsHqttNc"
@@ -20010,7 +20046,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 139588,
       "name": "YANILSAMA",
       "url": "https://open.spotify.com/track/4wTSdizMPYWi8uWGm66ypW"
@@ -20028,7 +20064,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 193893,
       "name": "yanl\u0131\u015f anlama",
       "url": "https://open.spotify.com/track/4MoE9f77QnHWFTpLDJlkY1"
@@ -20590,6 +20626,24 @@
       "duration_ms": 251183,
       "name": "Ya\u015famaya \u00c7al\u0131\u015fan Bir \u00d6l\u00fc - Live",
       "url": "https://open.spotify.com/track/4XbbB2D767QzgGdVL1UuLv"
+    },
+    {
+      "album": {
+        "name": "Postmodern Karanl\u0131k",
+        "url": "https://open.spotify.com/album/2HRZ3ulzsVmhlovnHFSeCK"
+      },
+      "artists": [
+        {
+          "name": "Radyocinleri",
+          "url": "https://open.spotify.com/artist/4RUFuaC0gdh6AXpGSuA0rC"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308903,
+      "name": "Ya\u015f\u0131mdan \u00c7ok",
+      "url": "https://open.spotify.com/track/3iJdn2KZ07QAmlLqu354aF"
     },
     {
       "album": {
@@ -21368,7 +21422,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 203007,
       "name": "Y\u00fck",
       "url": "https://open.spotify.com/track/6ujgkLyjFhQzQ1uE7ZrHYr"
@@ -21674,7 +21728,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 211500,
       "name": "Zaman\u0131n Ruhu",
       "url": "https://open.spotify.com/track/6MbBK1Ebu7X1xJdHUYrz89"
@@ -22786,7 +22840,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 204886,
       "name": "\u015eimdi De\u011filse Ne Zaman?",
       "url": "https://open.spotify.com/track/4w0HWjsTRclOOySWxORTkz"

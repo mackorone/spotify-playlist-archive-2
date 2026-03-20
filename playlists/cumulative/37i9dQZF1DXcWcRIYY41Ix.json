@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "La nueva ola de trovadores del siglo XXI. En portada: Guille Galv\u00e1n.",
+  "description": "La nueva ola de trovadores del siglo XXI. En portada: Gabriel Vidanauta.",
   "name": "Cancionistas",
   "tracks": [
     {
@@ -2567,6 +2567,28 @@
     },
     {
       "album": {
+        "name": "Campos De Castilla",
+        "url": "https://open.spotify.com/album/6uPhwhdfSyxK8igoM3tr23"
+      },
+      "artists": [
+        {
+          "name": "borja pacheco",
+          "url": "https://open.spotify.com/artist/1zjnpCZ8pj8SaVDmtZKhtF"
+        },
+        {
+          "name": "GOGUI",
+          "url": "https://open.spotify.com/artist/1wdFQfOZU673MgWWklOnsA"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138878,
+      "name": "Campos De Castilla",
+      "url": "https://open.spotify.com/track/2zMfVm6i8QnrSEH8fHFZvx"
+    },
+    {
+      "album": {
         "name": "Camposanto",
         "url": "https://open.spotify.com/album/6Bd3L7gZ9ZxKYSWtIjJHjP"
       },
@@ -2940,6 +2962,28 @@
       "duration_ms": 236698,
       "name": "Carta al Diablo",
       "url": "https://open.spotify.com/track/1fS4c6kYUDPeHPaPxHORkU"
+    },
+    {
+      "album": {
+        "name": "Cartas de amor que se queman",
+        "url": "https://open.spotify.com/album/6S66MPb6euEGm3yxyFBom6"
+      },
+      "artists": [
+        {
+          "name": "Manu Estrach",
+          "url": "https://open.spotify.com/artist/39DZii3g3RFWu2b64Wyn10"
+        },
+        {
+          "name": "Magal\u00ed Datzira",
+          "url": "https://open.spotify.com/artist/4Wwktb7LI1OtXAWRO6Hln4"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315115,
+      "name": "Cartas de amor que se queman",
+      "url": "https://open.spotify.com/track/4Q6IzN4DqyzBioUe4HhXle"
     },
     {
       "album": {
@@ -5001,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Distancia",
+        "url": "https://open.spotify.com/album/237Av6fyckbG11k9FBIc5q"
+      },
+      "artists": [
+        {
+          "name": "Las Nietas del Charli",
+          "url": "https://open.spotify.com/artist/7qUIkRxw27ibYFxuzEm9rS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314741,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/3yumVIeMc2Ympl3rm6t47j"
+    },
+    {
+      "album": {
         "name": "Dividido",
         "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
@@ -5204,6 +5266,28 @@
       "duration_ms": 190169,
       "name": "D\u00e9jame de Matar",
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/2z3Ys1gLW7mU4G9SKAesL2"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        },
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217024,
+      "name": "D\u00e9jate Llevar",
+      "url": "https://open.spotify.com/track/2vdam9DcMwXpW9yGm7rdCW"
     },
     {
       "album": {
@@ -6072,7 +6156,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 154187,
       "name": "El Vac\u00edo",
       "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
@@ -6867,6 +6951,24 @@
     },
     {
       "album": {
+        "name": "Fin de semana",
+        "url": "https://open.spotify.com/album/4Udwp9Hl6rAU2EAdaFvV65"
+      },
+      "artists": [
+        {
+          "name": "very magenta",
+          "url": "https://open.spotify.com/artist/6XXXKQtXtkH9yrjAKYF9z6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Fin de semana",
+      "url": "https://open.spotify.com/track/48xkQse30ty9E1PywDtXlb"
+    },
+    {
+      "album": {
         "name": "FLORECE",
         "url": "https://open.spotify.com/album/0sNr91K6lSawOWJm3gswSK"
       },
@@ -7658,7 +7760,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 289078,
       "name": "Incre\u00edble",
       "url": "https://open.spotify.com/track/2Zz5YrfcOsM7bCXNjuuOhR"
@@ -7746,6 +7848,24 @@
       "duration_ms": 300114,
       "name": "Instantes y Aullidos",
       "url": "https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE"
+    },
+    {
+      "album": {
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226126,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM"
     },
     {
       "album": {
@@ -8325,6 +8445,24 @@
     },
     {
       "album": {
+        "name": "La Escalera",
+        "url": "https://open.spotify.com/album/5ZDKvsAz9v1l9YHiMPqgpc"
+      },
+      "artists": [
+        {
+          "name": "Rita Ojanguren",
+          "url": "https://open.spotify.com/artist/1noVzLdWnsIHYoSuxlG5mr"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179669,
+      "name": "La Escalera",
+      "url": "https://open.spotify.com/track/6mKVAtAmyVNpr2QzzrMcIh"
+    },
+    {
+      "album": {
         "name": "La Felicidad",
         "url": "https://open.spotify.com/album/7I4PU6ds2OA6jC7UMO4TUI"
       },
@@ -8525,6 +8663,24 @@
     },
     {
       "album": {
+        "name": "La luz de las orillas",
+        "url": "https://open.spotify.com/album/0Jl17iTqcw8XKF9p9LsaXc"
+      },
+      "artists": [
+        {
+          "name": "BEGO\u00d1A",
+          "url": "https://open.spotify.com/artist/0C4E51vOaS3FxS3Qpe5MBA"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192512,
+      "name": "La luz de las orillas",
+      "url": "https://open.spotify.com/track/0ed4GnsQVIgHhbimbWsvru"
+    },
+    {
+      "album": {
         "name": "La Maleza",
         "url": "https://open.spotify.com/album/3eG2CiXR8IGinvyvOXFh8A"
       },
@@ -8700,7 +8856,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168000,
       "name": "La Menudita",
       "url": "https://open.spotify.com/track/7KHDOXDm0rnN2lRrdyrpIy"
@@ -8838,7 +8994,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 210447,
       "name": "La primera vez que te vi",
       "url": "https://open.spotify.com/track/21QAzTxFDvFsulmRrj0KlO"
@@ -9752,7 +9908,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 201919,
       "name": "lo_divino",
       "url": "https://open.spotify.com/track/20SlD6QDxPlOd1Ip0NvsdG"
@@ -11104,7 +11260,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 173240,
       "name": "Mientras Sue\u00f1o y Vivo",
       "url": "https://open.spotify.com/track/2cW60XXZg0wFa300A57Wmn"
@@ -12902,7 +13058,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 223018,
       "name": "Ojos Tierra",
       "url": "https://open.spotify.com/track/14kShgOA3LTzgnsdvw19n7"
@@ -13810,7 +13966,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 243400,
       "name": "Pez Mago & Luis Ramiro \"El hombre de la habitaci\u00f3n de al lado\"",
       "url": "https://open.spotify.com/track/4LwFnUI9jshmsCb935OLX1"
@@ -14910,7 +15066,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 310840,
       "name": "Rabia",
       "url": "https://open.spotify.com/track/61tKFdvTjLOM0trK7HfI2v"
@@ -16197,6 +16353,28 @@
     },
     {
       "album": {
+        "name": "Si te aleja del amor no puede ser bueno",
+        "url": "https://open.spotify.com/album/1o9aYmc0gxZKd4kY62fTD7"
+      },
+      "artists": [
+        {
+          "name": "Calequi y Las Panteras",
+          "url": "https://open.spotify.com/artist/1ktDK2MSGJMNB2hBgmki5u"
+        },
+        {
+          "name": "ORTIGA",
+          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155427,
+      "name": "Si te aleja del amor no puede ser bueno",
+      "url": "https://open.spotify.com/track/74OSeuCRZ8PD3odrj8wDMX"
+    },
+    {
+      "album": {
         "name": "Si te vas",
         "url": "https://open.spotify.com/album/6208RozH4lBLu94n6ih083"
       },
@@ -16424,7 +16602,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 297000,
       "name": "Soldados Subacu\u00e1ticos",
       "url": "https://open.spotify.com/track/0Uy9t4zfESnwJmSORA9Gsd"
@@ -16708,7 +16886,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 194000,
       "name": "S\u00e1fica",
       "url": "https://open.spotify.com/track/2l4LwK58Mlj0LAfaxtMEQe"
@@ -18223,6 +18401,24 @@
     },
     {
       "album": {
+        "name": "T\u00faam\u00ed nome",
+        "url": "https://open.spotify.com/album/0H7gUsMCGQb9GqRDPU6Kz4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Vidanauta",
+          "url": "https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253425,
+      "name": "T\u00faam\u00ed nome",
+      "url": "https://open.spotify.com/track/06hOaMZt4g3g1lS1VgRqKn"
+    },
+    {
+      "album": {
         "name": "Un Amor (Tambi\u00e9n Esto Pasar\u00e1)",
         "url": "https://open.spotify.com/album/7I771i9A6kvNmzefya1Sle"
       },
@@ -19696,6 +19892,28 @@
       "duration_ms": 217475,
       "name": "\u00a1Qu\u00e9 bonito es vivir!",
       "url": "https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
+        "url": "https://open.spotify.com/album/2vHXAh1NbsF0ftGYgLBcvJ"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Rueda de Candombe",
+          "url": "https://open.spotify.com/artist/603pfk1hiL5mfXafI4dfnH"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228815,
+      "name": "\u00bfQu\u00e9 ser\u00e1 que es?",
+      "url": "https://open.spotify.com/track/7bIJ2FuWBAnO9IMVzGMPcy"
     },
     {
       "album": {

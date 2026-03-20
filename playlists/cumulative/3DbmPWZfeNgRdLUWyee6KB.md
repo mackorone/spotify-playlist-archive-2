@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-808 songs - 1 day 23 hr 28 min
+813 songs - 1 day 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-12-04 | 2026-01-05 |
 | [Com'eri](https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Com'eri](https://open.spotify.com/album/0Hd1JZLkU2hbsnhEqsxAwf) | 4:09 | 2026-03-05 |  |
 | [come alive](https://open.spotify.com/track/2PHcMVs6DLwPKRJrZi2BqC) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [come alive](https://open.spotify.com/album/1FKPvxeD3py53CpUpLwj5D) | 3:32 | 2026-01-02 | 2026-02-03 |
+| [Come Back](https://open.spotify.com/track/49eKAgjF5UXYiNAmIOCb4d) | [OceanHeir](https://open.spotify.com/artist/1NDQkClVSZ63vwlST77bhU), [Pineberry](https://open.spotify.com/artist/66WL1CvsVUbUltz9CcvQYI) | [Come Back](https://open.spotify.com/album/3bf3Ve3cqufuD62hIQnBmJ) | 3:26 | 2026-03-19 |  |
 | [Come for You](https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Come for You](https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR) | 2:43 | 2025-12-22 | 2026-01-24 |
 | [Comet](https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy) | [Jen Maria](https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN) | [Comet](https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx) | 3:43 | 2026-01-03 | 2026-02-03 |
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 | 2026-01-15 |
@@ -158,6 +159,7 @@
 | [Cut You Off](https://open.spotify.com/track/5OQ74RnqKC3l3wpjoRxpAG) | [Maren Schlicht](https://open.spotify.com/artist/6Oxro0jNNoWSiHuIJfeYuh) | [Cut You Off](https://open.spotify.com/album/58DLFT6hE64zU4hElyDYmi) | 2:20 | 2026-03-15 |  |
 | [Czarny świat](https://open.spotify.com/track/1pgIUKJKQhh4q1U9gBKaj1) | [Biker](https://open.spotify.com/artist/7edqs6CgLIQ0KUNUP1guyo) | [Czarny świat](https://open.spotify.com/album/3NpJbHzvkqGCJXgxjE1qwn) | 4:54 | 2026-03-03 |  |
 | [Danza della luna](https://open.spotify.com/track/4gDIwU7JzlqxOdH3nnxRg9) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Lorenzo Rundo](https://open.spotify.com/artist/79coFumyLISx5dFLfeoSVa) | [Mythos: Metamorphosis](https://open.spotify.com/album/31uzEwbBrZzZakE1jmekuP) | 3:49 | 2023-04-20 | 2025-11-29 |
+| [Dar Koridor](https://open.spotify.com/track/3DiY9hFu1VVY4oAErGfTYE) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Dar Koridor](https://open.spotify.com/album/4x6MQlw8TWrRGsnyzJ8DTC) | 3:12 | 2026-03-19 |  |
 | [Day One](https://open.spotify.com/track/3MQ7aLt6WdX4JwWTNkEU1E) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Losing CTRL](https://open.spotify.com/album/10uCN18aqpvdTtxvc0syKN) | 3:31 | 2026-03-13 |  |
 | [Dear Daddy](https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [11 songs](https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum) | 3:00 | 2025-12-24 | 2026-01-24 |
 | [Dear X \- Acoustic](https://open.spotify.com/track/2EzZoCJWjgrTDypksr4gKo) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Dear X \(Acoustic\)](https://open.spotify.com/album/5vDMnPvS72yhtFzzd9BNcC) | 2:02 | 2026-01-26 | 2026-02-28 |
@@ -194,6 +196,7 @@
 | [Dubious](https://open.spotify.com/track/17H9H9krGfGb05FxunN5E0) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Dubious](https://open.spotify.com/album/1WSDHaH9sCm0ALywxpys1E) | 1:55 | 2026-02-02 | 2026-02-28 |
 | [Dumb](https://open.spotify.com/track/2sUfsE4d8E2NZ8T4zcIhhn) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Dumb](https://open.spotify.com/album/2gge7ioJsjcRg3jb6v4Y1G) | 3:46 | 2026-03-05 |  |
 | [Dust](https://open.spotify.com/track/3VRWKz4dsAwfkPm0rMCSy8) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Our Place Behind the Stars](https://open.spotify.com/album/6LNqoOjahbMiv5j00m9Maw) | 2:29 | 2026-02-02 | 2026-03-09 |
+| [E resta qui con me](https://open.spotify.com/track/2nWGzqiNx8ZCbJgeBkKl1u) | [Manuel Marino](https://open.spotify.com/artist/0gbimxmrRQbbiwHeWinxWQ) | [E resta qui con me](https://open.spotify.com/album/1P7agHAhwbTUbcYqmRkcAK) | 3:58 | 2026-03-19 |  |
 | [Eastern Breath \(Take II \)](https://open.spotify.com/track/6yEhUtCKDTWUXpKbxGxsSa) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa) | [Eastern Breath \(Take II \)](https://open.spotify.com/album/6HcN6xq6aSnSUR7h9mHEhx) | 5:15 | 2023-04-27 | 2025-11-29 |
 | [Echoes of Amy](https://open.spotify.com/track/6UiwIJQxIK1x6gqXmKlHKU) | [Ab ashford](https://open.spotify.com/artist/4g9FR7ZZIljvUkcL4iT6ln) | [Echoes of Amy](https://open.spotify.com/album/66EFLSHLGGHvRZGMSRyR5l) | 5:04 | 2025-12-29 | 2026-02-03 |
 | [Efimero Amor](https://open.spotify.com/track/6Ms8BHznJ328BEW4hGPEo1) | [Kort Funes](https://open.spotify.com/artist/5C5AL8ee4M0UzxPxjK1oLQ) | [Efimero Amor](https://open.spotify.com/album/1CGTRd3Gm6f8d5tQTqcvtR) | 4:44 | 2025-12-23 | 2026-01-24 |
@@ -295,6 +298,7 @@
 | [I Hope That You're Okay](https://open.spotify.com/track/4nhffh2CLn0tJ9pxwYGq4N) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [I Hope That You're Okay](https://open.spotify.com/album/3wGgAUJUw328hFAmQByGuf) | 3:36 | 2026-01-01 | 2026-02-03 |
 | [I Know What Ever Love Is](https://open.spotify.com/track/2L5eeiNzPGfCPKkmwzoe5Y) | [Neil Wells](https://open.spotify.com/artist/1II894supggID2amUinnsf) | [I Know What Ever Love Is](https://open.spotify.com/album/75BFG4J2ayVWt9WGqyaQl0) | 3:43 | 2026-03-10 |  |
 | [I Like It Like That](https://open.spotify.com/track/1cpStVGZuj5IxJUQ29FCMq) | [C Douglas](https://open.spotify.com/artist/6wOuR5uXJy1RqpK5G9SEAc) | [I Like It Like That](https://open.spotify.com/album/5d7eSh9oEQH92dut0QDeZ0) | 3:21 | 2026-02-06 | 2026-03-07 |
+| [I Love You More](https://open.spotify.com/track/7yvEjVqM9yzjaJO4GoqlNa) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [I Love You More](https://open.spotify.com/album/6a5LYuzQ3FuyEexUhvyFhp) | 3:33 | 2026-03-19 |  |
 | [I painted our kitchen](https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB) | [Heather Bond](https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK) | [somewhere out there](https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ) | 4:44 | 2026-02-04 | 2026-03-07 |
 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-22 | 2026-01-24 |
 | [I Remember](https://open.spotify.com/track/1g6A2VknXWthpFdIABD7TL) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [I Remember](https://open.spotify.com/album/329hvLLTQfamreFNuFYLy5) | 2:10 | 2025-10-02 | 2025-11-29 |
@@ -369,6 +373,7 @@
 | [Laugh In The West](https://open.spotify.com/track/43aVP7siaAfqPsgzKLGn0N) | [The Beatroot Road](https://open.spotify.com/artist/2igBGRo0CgkQaQmR6nrk9b), [Ian Putz](https://open.spotify.com/artist/0jnbutvYP88Rh3eiz7Gbqu) | [Humanimal](https://open.spotify.com/album/5rFNe5IslSCUsPtuZX1Tsk) | 5:25 | 2026-02-01 | 2026-03-09 |
 | [Le lapin en papier](https://open.spotify.com/track/0GB6KV4GD9Pdi2ZCVJxpcA) | [Inyha](https://open.spotify.com/artist/0KxFoSTWNluwDJ5NRJHfs2) | [Le lapin en papier](https://open.spotify.com/album/2qbusVyyuwhqNnXMVBnPrY) | 4:16 | 2026-02-03 | 2026-03-07 |
 | [Le moi d'autrefois](https://open.spotify.com/track/5Ahz9MMcUJKgi40U0aVSEY) | [Machteld](https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw) | [Le moi d'autrefois](https://open.spotify.com/album/4RBJIuW9MoQYewURJp0epK) | 5:04 | 2025-12-22 | 2026-01-24 |
+| [Le monde est fou](https://open.spotify.com/track/0fSeYXVW6L20zmswLwWKhM) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Le monde est fou](https://open.spotify.com/album/6mVCQDEYg5Jc75s3q6p42h) | 4:04 | 2026-03-19 |  |
 | [Leave Am for God](https://open.spotify.com/track/6Bgzjd17rmYVFEWFJjOBor) | [Skyl Panameraa](https://open.spotify.com/artist/0QW6dSzw0EqIIBQJrGq1Kd) | [Leave Am for God](https://open.spotify.com/album/0minRiEpEzErTfC28mfINM) | 3:06 | 2026-01-20 | 2026-02-20 |
 | [Leave the light on](https://open.spotify.com/track/3wwgk08vxkeSEcjMLQjjjD) | [Tim Lord](https://open.spotify.com/artist/5KJwBUKEaVvztUNDOjv53Z) | [Leave the light on](https://open.spotify.com/album/4ptK4u2Y9MdnrxiTVhPvTM) | 4:17 | 2026-03-05 |  |
 | [Leitmotiv](https://open.spotify.com/track/21xKwv5djzVaB9ztvET6y0) | [Emmett Garam](https://open.spotify.com/artist/3ja43fWPD90vfzhGkm9dLY) | [Leitmotiv](https://open.spotify.com/album/2RHneU6EMRpjjfc6VSxiKA) | 3:12 | 2026-03-13 |  |

@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-106 songs - 6 hr 12 min
+107 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Afterlight Rebirth](https://open.spotify.com/track/725R9MjTvuQuxCXPlEz7pL) | [Emre Kalkan](https://open.spotify.com/artist/4GR3PMuKyV1bCCZNE28NKX) | [Afterlight Rebirth](https://open.spotify.com/album/0RVaytmlV8i6N9QSjl3s3v) | 4:17 | 2026-02-23 | 2026-03-14 |
 | [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 | 2025-12-10 | 2026-01-15 |
 | [Allora come ti va](https://open.spotify.com/track/1e4XmtctCBleGXpwMFL2uS) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Allora come ti va](https://open.spotify.com/album/2kIGDCh4ia1nJP38hvN6QH) | 4:38 | 2026-01-09 |  |
+| [Almost Again](https://open.spotify.com/track/7w1TnmKDHfYbyehaDpmYwK) | [Luné](https://open.spotify.com/artist/42URj5wwbtN07LSKYhdsLL) | [Pink Girls](https://open.spotify.com/album/4K17dtEO3JcHkBEFQ5Kv42) | 2:48 | 2026-03-19 |  |
 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 | 2025-12-01 | 2025-12-13 |
 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 | 2025-10-13 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2021-03-29 |  |
@@ -33,13 +34,13 @@
 | [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 | 2025-12-08 | 2025-12-28 |
 | [Dreams](https://open.spotify.com/track/2A94cKnGgmODcH9cQzoDoX) | [souhl](https://open.spotify.com/artist/4Ee5YS1tbDJz20cJocxN6y) | [Dreams](https://open.spotify.com/album/3h8Jt6ybUgccyBY0rSTC8J) | 3:28 | 2025-11-10 | 2025-11-27 |
 | [Dreamscape \(드림스케이프\)](https://open.spotify.com/track/2We94z0XW0hf5ipTCQ4qjx) | [ECLIPSE OF AERA](https://open.spotify.com/artist/3Stckikbh1beMMDjayt2W9) | [Dreamscape \(드림스케이프\)](https://open.spotify.com/album/7zi9YBeCkc37gauuPVzhKv) | 4:04 | 2025-12-23 | 2026-01-29 |
-| [Drunk on Expectations](https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [Drunk on Expectations](https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz) | 2:57 | 2026-03-05 |  |
+| [Drunk on Expectations](https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [Drunk on Expectations](https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz) | 2:57 | 2026-03-05 | 2026-03-20 |
 | [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 | 2025-12-03 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-03-29 |  |
 | [F.E.A.R.](https://open.spotify.com/track/5YeYIVwxXC2NHyBHSz8zOy) | [Ian Brown](https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT) | [Music Of The Spheres](https://open.spotify.com/album/2EB1HKXeOOB4CqMGoSon1L) | 4:28 | 2021-03-29 |  |
 | [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 | 2026-03-02 | 2026-03-17 |
 | [Fears](https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd) | [Audio Entity](https://open.spotify.com/artist/2mKtj5JzkdmYJJnQKhnysU), [Woes & Wonder](https://open.spotify.com/artist/1ROh7khHluUL5ppnlyrMxA) | [Fears](https://open.spotify.com/album/1lCUfQ4Oadzz2xYdRsLaJE) | 4:27 | 2025-12-23 | 2026-01-29 |
-| [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-05 |  |
+| [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 | 2026-03-05 | 2026-03-20 |
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
 | [gas station girlfriend](https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT) | [Gabrielle Gutierrez](https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga) | [gas station girlfriend](https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg) | 3:48 | 2026-03-10 |  |
 | [Getting Closer](https://open.spotify.com/track/4ikF8jNOxfceIXgN3CO60A) | [GINSHER](https://open.spotify.com/artist/4JjoAxWIfPKrhuRZwGvOPS) | [Getting Closer](https://open.spotify.com/album/1JUkTN3vZe1feMsybsR4jI) | 2:53 | 2026-03-16 |  |
@@ -113,6 +114,6 @@
 | [you accommodate my apprehensions](https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY) | [pato](https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg) | [you accommodate my apprehensions](https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT) | 3:30 | 2026-01-29 |  |
 | [yung n dumb](https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK) | [Marc Vinyls](https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8) | [yung n dumb](https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj) | 1:52 | 2026-03-06 |  |
 | [Zombie](https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 5:06 | 2021-03-29 |  |
-| [イマジネーション・シティ](https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [イマジネーション・シティ](https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8) | 3:33 | 2026-03-03 |  |
+| [イマジネーション・シティ](https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [イマジネーション・シティ](https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8) | 3:33 | 2026-03-03 | 2026-03-20 |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

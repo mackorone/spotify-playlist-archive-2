@@ -8142,7 +8142,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 190025,
       "name": "J\u00e4\u00e4p\u00e4h\u00e4n",
       "url": "https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4"
@@ -8266,6 +8266,24 @@
       "duration_ms": 275493,
       "name": "Kaikki p\u00e4\u00e4ttyy kyyneliin",
       "url": "https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa"
+    },
+    {
+      "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "album": {
@@ -11568,7 +11586,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 213666,
       "name": "Min\u00e4 olin t\u00e4\u00e4ll\u00e4",
       "url": "https://open.spotify.com/track/65u2hRy8N3yN9QkYTbbTPu"
@@ -13466,7 +13484,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 158769,
       "name": "ONGELMII",
       "url": "https://open.spotify.com/track/7aAyBC1dIq5VAqSAVa7Mts"
@@ -15602,7 +15620,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 178750,
       "name": "Ringside",
       "url": "https://open.spotify.com/track/2nsvYByxwXzlJw6Tps4Tde"
@@ -16730,6 +16748,24 @@
       "duration_ms": 137375,
       "name": "Sinilev\u00e4",
       "url": "https://open.spotify.com/track/2x7jDG4VYwbNDr0Yyvho1P"
+    },
+    {
+      "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "album": {
@@ -20330,7 +20366,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 161240,
       "name": "Vasara",
       "url": "https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec"
@@ -21576,7 +21612,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-18",
+      "date_removed": null,
       "duration_ms": 144705,
       "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
       "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"

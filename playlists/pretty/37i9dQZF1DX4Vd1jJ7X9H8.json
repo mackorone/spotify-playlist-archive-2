@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 342572,
+  "num_followers": 342597,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-27 17:33:06",
       "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
-    },
-    {
-      "added_at": "2026-02-27 17:33:06",
-      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -867,22 +851,34 @@
     {
       "added_at": "2026-02-27 17:33:06",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Mood Talk",
-          "url": "https://open.spotify.com/artist/0s0nktI1hRDRcexcJGkZ2D"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 226280,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/5yXf2ZVlBdgIGxbSKb6VFW"
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "added_at": "2026-02-27 17:33:06",
+      "album": {
+        "name": "Tetra",
+        "url": "https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt"
+      },
+      "artists": [
+        {
+          "name": "C2C",
+          "url": "https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T"
     }
   ],
   "unique_name": "Soir\u00e9e",

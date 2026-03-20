@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,233 songs - 2 day 5 hr 17 min
+1,234 songs - 2 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Fly](https://open.spotify.com/track/5Lwdx5gUegew9hbycRnjSw) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Fly](https://open.spotify.com/album/3pTP6gdMWrJBOPwFZEr5Sa) | 3:00 | 2023-10-27 | 2024-02-03 |
 | [Fly Away](https://open.spotify.com/track/24xylrY9ijPtljf7uC5NXy) | [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH) | [Fly Away](https://open.spotify.com/album/1lLp7Ffdf37fCVkKfC9kKU) | 2:37 | 2025-12-21 | 2026-03-16 |
 | [Follow Me](https://open.spotify.com/track/09Rk3A1OeVe0r0Q042XLXq) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Follow Me](https://open.spotify.com/album/2vgxiZ1VTQh972s46S7JV4) | 2:37 | 2025-08-17 | 2025-10-20 |
+| [Follow Me](https://open.spotify.com/track/7clEjhyJm1FD8s0LJ8nC1N) | [EFA](https://open.spotify.com/artist/50EYBMMIVUb1MduqASXYil), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Follow Me](https://open.spotify.com/album/4zi08V0S2GFuup7mEel0zh) | 2:10 | 2026-03-19 |  |
 | [Follow Me](https://open.spotify.com/track/3jQOAjy4uCfOi380V0zMNs) | [Fijy](https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV), [Chill Gull](https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw) | [Follow Me](https://open.spotify.com/album/0yapV75dDNa3ZUOjGsA4wC) | 2:28 | 2025-01-25 | 2025-02-24 |
 | [Follow You](https://open.spotify.com/track/0E7n5YWoZ1DBlkuq2OipZv) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Follow You](https://open.spotify.com/album/0yOar1nX6C9LUZafZcbvj6) | 2:21 | 2024-11-03 | 2024-12-16 |
 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 | 2026-01-02 |  |

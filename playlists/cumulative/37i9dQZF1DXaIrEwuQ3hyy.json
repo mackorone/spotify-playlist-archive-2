@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "1000 Tage",
+        "url": "https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD"
+      },
+      "artists": [
+        {
+          "name": "yung pepp",
+          "url": "https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120491,
+      "name": "1000 Tage",
+      "url": "https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z"
+    },
+    {
+      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -749,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Both Can Be True",
+        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185603,
+      "name": "Both Can Be True",
+      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
+    },
+    {
+      "album": {
         "name": "Unfurl",
         "url": "https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2"
       },
@@ -1100,7 +1136,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
@@ -1548,7 +1584,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 236167,
       "name": "Flowers - Spotify Singles",
       "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
@@ -1923,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Hey, Bluebird",
+        "url": "https://open.spotify.com/album/1IReyaQGMq4aDMVV2C11dq"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203946,
+      "name": "Hey, Bluebird",
+      "url": "https://open.spotify.com/track/6TJENTuzrmgfjddUuNclF7"
+    },
+    {
+      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
       },
@@ -1960,6 +2014,32 @@
       "duration_ms": 226057,
       "name": "Home (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
     },
     {
       "album": {
@@ -2302,7 +2382,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 198253,
       "name": "June",
       "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
@@ -2364,6 +2444,24 @@
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
+    },
+    {
+      "album": {
+        "name": "kopfzerf\u00e4llt_demo",
+        "url": "https://open.spotify.com/album/661qpvoYo44AKpSegJfQWu"
+      },
+      "artists": [
+        {
+          "name": "Dasco",
+          "url": "https://open.spotify.com/artist/2NAAImPzFXVBqOEx8Ntzcd"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "kopfzerf\u00e4llt_demo",
+      "url": "https://open.spotify.com/track/4NOoMFCS89fnyqNkYQjlkx"
     },
     {
       "album": {
@@ -2448,6 +2546,28 @@
       "duration_ms": 157241,
       "name": "lavender (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/4WkmcS7sW41aVsFdJ2PfT7"
+    },
+    {
+      "album": {
+        "name": "Lemon Blossoms",
+        "url": "https://open.spotify.com/album/0e6pz5wSBxVJqPZW8OheDV"
+      },
+      "artists": [
+        {
+          "name": "The Ediacaran",
+          "url": "https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO"
+        },
+        {
+          "name": "Bastido",
+          "url": "https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173764,
+      "name": "Lemon Blossoms",
+      "url": "https://open.spotify.com/track/6NPee9nvVWAh5Q0hMBSJsd"
     },
     {
       "album": {
@@ -2542,7 +2662,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 207036,
       "name": "Like a Song",
       "url": "https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl"
@@ -3040,7 +3160,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 287000,
       "name": "Morning Birds",
       "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
@@ -3084,6 +3204,24 @@
       "duration_ms": 183012,
       "name": "M\u00e4rchenwald",
       "url": "https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK"
+    },
+    {
+      "album": {
+        "name": "Needed More",
+        "url": "https://open.spotify.com/album/0Kb8y90Atlq0srt2pMjmxK"
+      },
+      "artists": [
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192516,
+      "name": "Needed More",
+      "url": "https://open.spotify.com/track/21ljmvcjmCpR2sjLAWLYOR"
     },
     {
       "album": {
@@ -3700,7 +3838,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 192989,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI"
@@ -3722,6 +3860,24 @@
       "duration_ms": 152311,
       "name": "Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/3cJwTilE6kI2HR0L2lX6H0"
+    },
+    {
+      "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "album": {
@@ -4350,7 +4506,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 256670,
       "name": "Someone Special",
       "url": "https://open.spotify.com/track/59JRqDcEQi6o3ZLZKvqo12"
@@ -5398,7 +5554,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"

@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 458783,
+  "num_followers": 458755,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "In Dat Mode",
+      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 142177,
       "name": "Fairy",
       "url": "https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "In Dat Mode",
-      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "I AIN\u2019T GOING",
+      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "Come Here (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/3QxPYvooBMx633nZ3loSDF"
       },
@@ -919,38 +935,18 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+        "name": "No Statements",
+        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
       },
       "artists": [
         {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
         }
       ],
-      "duration_ms": 199666,
-      "name": "FREAKY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "I AIN\u2019T GOING",
-      "url": "https://open.spotify.com/track/0xpzphW5eqBZkBFG5Miwcf"
+      "duration_ms": 158181,
+      "name": "No Statements",
+      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
     }
   ],
   "unique_name": "Pressure",

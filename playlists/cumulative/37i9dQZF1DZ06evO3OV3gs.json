@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Celebration (Deluxe Version)",
+        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "Crazy for You",
+      "url": "https://open.spotify.com/track/3iIi0NOco9hyukT6jFZ4dX"
+    },
+    {
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -444,7 +462,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 225626,
       "name": "Crazy for You - Edit",
       "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 249800,
       "name": "Into the Groove - Edit",
       "url": "https://open.spotify.com/track/5CxiVaZ6VzP8XVJ8vcBY40"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 291360,
       "name": "Thief of Hearts",
       "url": "https://open.spotify.com/track/0g8pRR7OcNonUgQnbpUs5B"

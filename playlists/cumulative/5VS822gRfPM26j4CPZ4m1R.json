@@ -2439,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Deber Ser",
+        "url": "https://open.spotify.com/album/1J3QNTqNdPw5FQl0YS9YvH"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275503,
+      "name": "Deber Ser",
+      "url": "https://open.spotify.com/track/0uC3Z9GkPKRTwZev1bvrFf"
+    },
+    {
+      "album": {
         "name": "Santolina",
         "url": "https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz"
       },

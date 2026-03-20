@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,791 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,814 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
 | 47 | [WE DONT PLAY](https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm) | [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd), [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu) | [WE DONT PLAY](https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau) | 2:21 |
 | 48 | [CHUCKY](https://open.spotify.com/track/22kteI2xVP12pKh6djmqHP) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Slaughterhouse](https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9) | [CHUCKY](https://open.spotify.com/album/1anIjBMlI6h1uSvTj2tiGO) | 2:05 |
-| 49 | [Jackpot Killah](https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Jackpot Killah](https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0) | 2:36 |
+| 49 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
 | 50 | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Outblast](https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE), [The Supreme Team](https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ) | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0) | 4:58 |
 
 Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

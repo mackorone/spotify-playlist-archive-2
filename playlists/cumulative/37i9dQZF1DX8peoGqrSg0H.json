@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JustmineNika",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -2888,6 +2888,24 @@
       "duration_ms": 149453,
       "name": "NASA",
       "url": "https://open.spotify.com/track/5QoTKVSKBAVgo4RM4DyfKU"
+    },
+    {
+      "album": {
+        "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
+        "url": "https://open.spotify.com/album/5IbgR6Y89OrHXNf6sRYBbm"
+      },
+      "artists": [
+        {
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205161,
+      "name": "New Season (\u0e24\u0e14\u0e39\u0e43\u0e2b\u0e21\u0e48)",
+      "url": "https://open.spotify.com/track/3VcmuNLcc2sH1ZrFh2njnp"
     },
     {
       "album": {
@@ -6515,6 +6533,28 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e2d\u0e07\u0e21\u0e37\u0e2d (Both Hands) [feat. JustmineNika]",
+        "url": "https://open.spotify.com/album/7hGX5mBktJcPrmCsPRGZ8f"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        },
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230571,
+      "name": "\u0e08\u0e31\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e2d\u0e07\u0e21\u0e37\u0e2d (Both Hands) [feat. JustmineNika]",
+      "url": "https://open.spotify.com/track/3Vh7nFhdNBoDhB5es1u4pM"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e32\u0e14\u0e32\u0e14\u0e32 (JADADA)",
         "url": "https://open.spotify.com/album/3a28ry6dCtibdepifhAodi"
       },
@@ -9733,6 +9773,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e48\u0e07\u0e1a\u0e48\u0e19 \u0e22\u0e34\u0e48\u0e07\u0e23\u0e31\u0e01 (Love Noise)",
+        "url": "https://open.spotify.com/album/3wNi3zvctDGJ2gPhfl7tEV"
+      },
+      "artists": [
+        {
+          "name": "Peatwasu",
+          "url": "https://open.spotify.com/artist/0yPpo6qnhnnaljALqCfdBK"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242803,
+      "name": "\u0e22\u0e34\u0e48\u0e07\u0e1a\u0e48\u0e19 \u0e22\u0e34\u0e48\u0e07\u0e23\u0e31\u0e01 (Love Noise)",
+      "url": "https://open.spotify.com/track/3GL0Nc7Pb3Rk7zeHDK6ywg"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e48\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e22\u0e34\u0e48\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/2FOjpZekfrJ3BYvCNuNRqS"
       },
@@ -11138,7 +11196,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 179478,
       "name": "\u0e2a\u0e23\u0e38\u0e1b\u0e40\u0e2d\u0e32\u0e44\u0e07 (Tell Me)",
       "url": "https://open.spotify.com/track/7rlvduhtbVyb4NIW7VJrtQ"
@@ -11928,7 +11986,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 237266,
       "name": "\u0e2d\u0e01\u0e2b\u0e31\u0e01 (Misery)",
       "url": "https://open.spotify.com/track/2W71B3are6DesCiziawEH9"
@@ -14294,7 +14352,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 224173,
       "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
       "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"

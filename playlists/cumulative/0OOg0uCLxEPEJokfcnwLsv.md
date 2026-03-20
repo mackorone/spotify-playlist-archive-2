@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-367 songs - 22 hr 53 min
+371 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-11-17 | 2025-12-12 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 | 2026-01-05 |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2026-01-29 | 2026-02-18 |
+| [Money Tied The Knot](https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 2:24 | 2026-03-19 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 | 2025-12-28 |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-02-13 |  |
 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2025-12-28 | 2026-01-21 |
@@ -284,6 +285,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 | 2026-01-05 |
 | [Sotto Controllo](https://open.spotify.com/track/6jAPPaMIFWkCDgFdu86G1m) | [Rockify](https://open.spotify.com/artist/0dBJU6HM8zSIx6ITiNfl33) | [Sotto Controllo](https://open.spotify.com/album/5LB0TRZvTWRjYIFFTAHBEE) | 3:57 | 2026-02-15 |  |
 | [SOUP](https://open.spotify.com/track/61Kf8AcZVzt4DKcmCSL67F) | [Felix Rice](https://open.spotify.com/artist/7nhM2WgCUKLEgvLS520BaQ) | [SOUP](https://open.spotify.com/album/4ZEjgFMkrNjQD3pzTiPyVx) | 2:33 | 2025-12-20 | 2026-01-21 |
+| [Spinning](https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd) | [Hard To Miss](https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR) | [Spinning](https://open.spotify.com/album/3aeYcTvgmX1OvUAosl6vcE) | 3:48 | 2026-03-19 |  |
 | [Standing on the Edge](https://open.spotify.com/track/4BCMHUgmnmD4v42FiocYr8) | [Tess & The Details](https://open.spotify.com/artist/3WbXOUMrFsCgJnBnypV3Ql) | [Standing on the Edge](https://open.spotify.com/album/2MzZEWMpDN2gXyGoKFbMcc) | 2:38 | 2026-03-18 |  |
 | [State of The Nation](https://open.spotify.com/track/2org02VczoJhxBLsQdtw4r) | [ARTIC BABA](https://open.spotify.com/artist/7DXL7EaMxzmogl4Zs0Dvud) | [State of The Nation](https://open.spotify.com/album/6N5sLENdhAFPa13jLPH8zh) | 3:17 | 2026-02-15 |  |
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2025-12-24 | 2026-01-21 |
@@ -366,9 +368,11 @@
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-10-31 | 2025-11-22 |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-11-22 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-17 | 2025-12-12 |
+| [Wolves Of E\-Street](https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS) | [The Delta Shake](https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti) | [Shit Creek Blues](https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG) | 3:28 | 2026-03-19 |  |
 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 |  |
 | [You and Your Friends](https://open.spotify.com/track/73W6OmloQlmC5y1mcuEcQT) | [Favourite Sidewalk Couch](https://open.spotify.com/artist/3OKKxACOJMrQgkBRJAtmDW) | [You and Your Friends](https://open.spotify.com/album/2hFLa0wWTltCDmUE68AuaK) | 2:45 | 2026-01-17 | 2026-02-18 |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 | 2025-12-12 |
+| [You cannot be serious](https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [YOU CANNOT BE SERIOUS](https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO) | 4:42 | 2026-03-19 |  |
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 | 2026-01-21 |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Young Women Infected with Jezebel Spirits \- Live](https://open.spotify.com/track/7lrT63Fla8L2qXzp5EVCFk) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Giant DeNiro \(Live\)](https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8) | 2:54 | 2026-01-29 | 2026-02-18 |

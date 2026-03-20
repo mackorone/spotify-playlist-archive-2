@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: ONE Service",
-  "num_followers": 183360,
+  "num_followers": 183373,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-03-13 03:01:13",
       "album": {
+        "name": "Escolhi",
+        "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
+      },
+      "artists": [
+        {
+          "name": "William Augusto",
+          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        }
+      ],
+      "duration_ms": 301545,
+      "name": "Escolhi",
+      "url": "https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0"
+    },
+    {
+      "added_at": "2026-03-13 03:01:13",
+      "album": {
         "name": "Tua Vontade (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 244239,
       "name": "Celebre a Vida",
       "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
-    },
-    {
-      "added_at": "2026-03-13 03:01:13",
-      "album": {
-        "name": "Escolhi",
-        "url": "https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4"
-      },
-      "artists": [
-        {
-          "name": "William Augusto",
-          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        }
-      ],
-      "duration_ms": 301545,
-      "name": "Escolhi",
-      "url": "https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0"
     },
     {
       "added_at": "2026-03-13 03:01:13",

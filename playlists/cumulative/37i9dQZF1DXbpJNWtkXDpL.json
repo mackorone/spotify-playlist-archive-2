@@ -2192,18 +2192,18 @@
       },
       "artists": [
         {
-          "name": "Pollo Bruxo",
-          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
-        },
-        {
           "name": "LaPeste",
           "url": "https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl"
+        },
+        {
+          "name": "Pollo Bruxo",
+          "url": "https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ"
         }
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
-      "duration_ms": 165959,
+      "date_removed": null,
+      "duration_ms": 163894,
       "name": "Demasiado Tarde",
       "url": "https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0"
     },
@@ -4890,7 +4890,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 158571,
       "name": "MI D",
       "url": "https://open.spotify.com/track/78UCRREwnCspGmSX6njy35"

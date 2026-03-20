@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 233000,
       "name": "99 Luftballons",
       "url": "https://open.spotify.com/track/6HA97v4wEGQ5TUClRM0XLc"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 188466,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/5JOVSWohrjXW0BFTboh8XO"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 212573,
       "name": "Enola Gay",
       "url": "https://open.spotify.com/track/3WIg3fd3W8I5HU8g3Y6P0k"
@@ -856,7 +856,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 212906,
       "name": "Get Down On It - Single Version",
       "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 241906,
       "name": "Get Down Saturday Night",
       "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Best of Bibi Flash Collector (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/5sGSZA5uBz4a8JZy5fhfJg"
+      },
+      "artists": [
+        {
+          "name": "Bibi Flash",
+          "url": "https://open.spotify.com/artist/3ey9lZapAq5kQ9A5d65LBO"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276642,
+      "name": "Histoire d'1 soir (Bye bye les gal\u00e8res) - Version originale 1983",
+      "url": "https://open.spotify.com/track/5JAGMln9Bd4xrHkjS4jMf2"
+    },
+    {
+      "album": {
         "name": "Private Eyes (Expanded Edition)",
         "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 258013,
       "name": "I Want To Break Free - Single Remix",
       "url": "https://open.spotify.com/track/3Au6174rC3JSzZN5BhCl3D"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 262866,
       "name": "Je te donne",
       "url": "https://open.spotify.com/track/2i353bK8WrQbJ3wfR6IYWm"
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 239560,
       "name": "Jump",
       "url": "https://open.spotify.com/track/2PfBSkCKZDXMsJogMT0wML"
@@ -1282,6 +1300,24 @@
       "duration_ms": 222760,
       "name": "Just Can't Get Enough - 2006 Remaster",
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
+    },
+    {
+      "album": {
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/0VgBqlPrvUQsOqSwzA0fET"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252760,
+      "name": "Karma Chameleon",
+      "url": "https://open.spotify.com/track/3XDeeP9wBZzGhIPZmLfEEx"
     },
     {
       "album": {
@@ -1602,7 +1638,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
@@ -1692,7 +1728,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC"
@@ -1735,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "On the Beach",
+        "url": "https://open.spotify.com/album/0mboDrVpzDMqABhzrAkX4m"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302426,
+      "name": "On the Beach",
+      "url": "https://open.spotify.com/track/0fJMNr4wzaVWNM2nb9hdqx"
+    },
+    {
+      "album": {
         "name": "CD STory",
         "url": "https://open.spotify.com/album/5dEIRCOVxzcofxlQ7jF8EZ"
       },
@@ -1768,6 +1822,24 @@
       "duration_ms": 246826,
       "name": "On va s'aimer",
       "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
+    },
+    {
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268506,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "album": {
@@ -1987,6 +2059,28 @@
     },
     {
       "album": {
+        "name": "All The Best (UK Version)",
+        "url": "https://open.spotify.com/album/0jXLd4eGxSh8TIGEdRbdH4"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Say Say Say",
+      "url": "https://open.spotify.com/track/2iwhqrveOYC8XLB7GZm63G"
+    },
+    {
+      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -2131,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Natural History - The Very Best of Talk Talk",
+        "url": "https://open.spotify.com/album/1yOxV9lKsPgj1QvDsc46rQ"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257626,
+      "name": "Such a Shame",
+      "url": "https://open.spotify.com/track/4BixGe6AcqJU2etTzeh2cN"
+    },
+    {
+      "album": {
         "name": "War (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4Saua162eaEOksYc8TrB74"
       },
@@ -2204,10 +2316,28 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 160400,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/6eTZyUjg4ZoGElNcAINIwJ"
+    },
+    {
+      "album": {
+        "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
+        "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+      "url": "https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY"
     },
     {
       "album": {
@@ -2244,6 +2374,24 @@
       "duration_ms": 310333,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "album": {
@@ -2366,7 +2514,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 244826,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
@@ -2561,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+    },
+    {
+      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
       },
@@ -2648,6 +2814,24 @@
       "duration_ms": 210266,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
+    },
+    {
+      "album": {
+        "name": "The Essential Roy Orbison",
+        "url": "https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt"
     },
     {
       "album": {

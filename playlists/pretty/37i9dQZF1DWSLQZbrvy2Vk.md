@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,831 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,845 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 17 | [Only a Fool](https://open.spotify.com/track/49tuTHTx95R7KyNpZoxDDZ) | [Loleatta Holloway](https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc) | [The Hotlanta Soul of Loleatta Holloway](https://open.spotify.com/album/2MGscly7cCTqykmyu7Z27R) | 2:35 |
 | 18 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 19 | [Bosco USA](https://open.spotify.com/track/79PSrCfvAu1eLdXt2wyTsA) | [Cookie Little](https://open.spotify.com/artist/6lHPvSDLORV3L7BzzVWIfw) | [Deep Cuts: 1970's Soul](https://open.spotify.com/album/17nHDxVtHKnTFVi5QdKV4z) | 2:45 |
-| 20 | [Show Me What You Got](https://open.spotify.com/track/4yhX08D6Qey0h9j8sublfZ) | [Frank Williams & the Rocketeers](https://open.spotify.com/artist/5vwbZqrHOTxJIpmjwLSd9G) | [Eccentric Soul: The Outskirts Of Deep City](https://open.spotify.com/album/1fOcTgQMuGvrgRETfLcoe6) | 2:32 |
+| 20 | [Show Me What You Got](https://open.spotify.com/track/4yhX08D6Qey0h9j8sublfZ) | [Frank Williams](https://open.spotify.com/artist/6pUSHrJcjIibTfQws5AsfO), [The Rocketeers](https://open.spotify.com/artist/7KzrFQKTD3zIoRcv42HLBF), [Little Beaver](https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn) | [Eccentric Soul: The Outskirts Of Deep City](https://open.spotify.com/album/1fOcTgQMuGvrgRETfLcoe6) | 2:32 |
 | 21 | [Love Machine](https://open.spotify.com/track/1wsCIDA1KClSHKGSyjYWKb) | [Alonzo Smith](https://open.spotify.com/artist/4ewfAWHJf2hcmw2ynYQvGT) | [Golden State Funk](https://open.spotify.com/album/1V4POFahf59FhMMHATWV9Q) | 3:17 |
 | 22 | [Young Girl](https://open.spotify.com/track/7G8sagkMwOx9il6CRavkPz) | [The Soul\-Fay](https://open.spotify.com/artist/3hYZHM94WApKjIpt2DvDcs) | [Audio Forty Treasures](https://open.spotify.com/album/0Cj4VXgvyG9Te5VaFHEFjq) | 2:55 |
 | 23 | [Big In Vegas](https://open.spotify.com/track/4UjWBUQS4w3fBIaDRqUUQf) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits, Vol\. 1](https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs) | 3:06 |

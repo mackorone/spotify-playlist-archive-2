@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-368 songs - 23 hr 34 min
+369 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [You](https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [You](https://open.spotify.com/album/6ByZxyEnEtLSFqJUmXVdTP) | 3:26 | 2021-12-13 | 2024-02-24 |
 | [You](https://open.spotify.com/track/53pplXFpGH6RPPvf0aCdnQ) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:05 | 2022-07-05 | 2024-04-19 |
 | [You](https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:05 | 2022-06-16 | 2025-01-11 |
+| [You Got to Feel It](https://open.spotify.com/track/5soaQgOH24Vu24Okl5WM18) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [You Got to Feel It](https://open.spotify.com/album/6Z3ClVmovq0NLwwRgPW4ge) | 3:33 | 2026-03-19 |  |
 | [You Know I'm No Good](https://open.spotify.com/track/4SyowQi18ym4zJGJDBnsTj) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc) | 4:16 | 2024-04-11 | 2024-06-29 |
 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 | 2022-12-05 | 2024-04-19 |
 | [You’ve Got A Hard Head](https://open.spotify.com/track/0A9CYocZJ8JZc3erLTyzuh) | [Johnny "Guitar" Watson](https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl) | [Listen](https://open.spotify.com/album/0zzVpVWRl3nKQppBGzfV0d) | 4:33 | 2022-06-16 | 2022-12-03 |

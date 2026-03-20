@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158119,
+  "num_followers": 158111,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Sorry I'm Here For Someone Else",
         "url": "https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 156582,
       "name": "Sorry I'm Here For Someone Else",
       "url": "https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 210106,
       "name": "When You Love Someone - Acoustic",
       "url": "https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Et sted hvor vi de f\u00f8rste",
-        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 207639,
-      "name": "Et sted hvor vi de f\u00f8rste",
-      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
         "url": "https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 152714,
       "name": "Ur\u00f8rlig (feat. Karoline Mousing)",
       "url": "https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Et sted hvor vi de f\u00f8rste",
+        "url": "https://open.spotify.com/album/3cFnaphyBRxJwpr62zrhiz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 207639,
+      "name": "Et sted hvor vi de f\u00f8rste",
+      "url": "https://open.spotify.com/track/0Y7lLJhJEb2B9EMOiOc94Z"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
-      },
-      "artists": [
-        {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 178366,
       "name": "Alt Det (feat. Noah Carter)",
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "English Rain",
-        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Please Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "English Rain",
+        "url": "https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Please Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI"
-      },
-      "artists": [
-        {
-          "name": "Lord Siva",
-          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
-        }
-      ],
-      "duration_ms": 217183,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/30LDuVfrePWbedYTc1mUCn"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI"
+      },
+      "artists": [
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        }
+      ],
+      "duration_ms": 217183,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Over Broen",
-        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
-      },
-      "artists": [
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 185197,
-      "name": "Over Broen",
-      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Lukas Graham (Blue Album)",
         "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 236866,
       "name": "What Happened To Perfect",
       "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Over Broen",
+        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
+      },
+      "artists": [
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 185197,
+      "name": "Over Broen",
+      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
     },
     {
       "added_at": "2026-03-02 11:57:28",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-03-02 11:57:28",
       "album": {
-        "name": "Songs I Cry 2",
-        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
-    },
-    {
-      "added_at": "2026-03-02 11:57:28",
-      "album": {
         "name": "Black Beatles (Acoustic)",
         "url": "https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 211781,
       "name": "Black Beatles - Acoustic",
       "url": "https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ"
+    },
+    {
+      "added_at": "2026-03-02 11:57:28",
+      "album": {
+        "name": "Songs I Cry 2",
+        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
     },
     {
       "added_at": "2026-03-02 11:57:28",

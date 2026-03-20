@@ -1,12 +1,12 @@
 {
   "description": "Dive into the heart of indie and alternative rock with our handpicked playlist. Discover raw energy, powerful riffs, and the soulful essence of independent rock music. Rock on!",
-  "num_followers": 786,
+  "num_followers": 787,
   "original_name": "Rock Indie Vibes",
   "owner": {
     "name": "Indie Music",
     "url": "https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg"
   },
-  "snapshot_id": "AAAF5zt55OF3ThJhQUF5ltf1Zvnh74Z7",
+  "snapshot_id": "AAAF6PcYXqoXdTQ74ObTnEDa/ci1YlkT",
   "tracks": [
     {
       "added_at": "2024-01-29 18:13:09",
@@ -2231,6 +2231,22 @@
       "duration_ms": 271999,
       "name": "Disappointment",
       "url": "https://open.spotify.com/track/2hVGmS8Ghk82rXU5q543dj"
+    },
+    {
+      "added_at": "2026-03-19 17:49:23",
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4Gh5QsJW3oebWvFnwfRtAq"
+      },
+      "artists": [
+        {
+          "name": "The Castaways",
+          "url": "https://open.spotify.com/artist/4ewY1VD6VLTTNTjYabMfKZ"
+        }
+      ],
+      "duration_ms": 297632,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6dM7waRbFfsjNeATYqehYA"
     }
   ],
   "unique_name": "Rock Indie Vibes",

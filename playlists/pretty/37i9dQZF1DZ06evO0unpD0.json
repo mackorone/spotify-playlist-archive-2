@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13599,
+  "num_followers": 13602,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAADniUdhrGq2UpveWC+O4mqk",
+  "snapshot_id": "abnrAAAAAABMc+FCRE09/aVX5FEpJjQ0",
   "tracks": [
     {
       "added_at": null,
@@ -456,25 +456,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 258279,
-      "name": "Calculer",
-      "url": "https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ali",
-        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 311666,
-      "name": "Tomorrow (Sadio)",
-      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
+      "duration_ms": 448960,
+      "name": "Laban",
+      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 267693,
       "name": "Folon",
       "url": "https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali",
+        "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 311666,
+      "name": "Tomorrow (Sadio)",
+      "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 448960,
-      "name": "Laban",
-      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
+      "duration_ms": 258279,
+      "name": "Calculer",
+      "url": "https://open.spotify.com/track/6JOHho02kKHH0r6wnTGXse"
     },
     {
       "added_at": null,
@@ -690,15 +690,11 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Roots Manuva",
-          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
         }
       ],
-      "duration_ms": 300466,
-      "name": "C'est bon, c'est bon",
-      "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
+      "duration_ms": 233493,
+      "name": "Da",
+      "url": "https://open.spotify.com/track/0fZtdXVFyrE2oFLGqSrZtT"
     },
     {
       "added_at": null,
@@ -719,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tassi",
-        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 283720,
-      "name": "Tassi",
-      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soro",
         "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
       },
@@ -751,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tal\u00e9",
-        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+        "name": "Tassi",
+        "url": "https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS"
       },
       "artists": [
         {
@@ -760,9 +740,29 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 233493,
-      "name": "Da",
-      "url": "https://open.spotify.com/track/0fZtdXVFyrE2oFLGqSrZtT"
+      "duration_ms": 283720,
+      "name": "Tassi",
+      "url": "https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tal\u00e9",
+        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Roots Manuva",
+          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "C'est bon, c'est bon",
+      "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
     },
     {
       "added_at": null,

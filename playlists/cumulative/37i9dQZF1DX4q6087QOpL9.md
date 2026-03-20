@@ -4,7 +4,7 @@
 
 > That real soulful house sound.
 
-408 songs - 1 day 18 hr 5 min
+409 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baby Don't Make Me Wait \- Radio Edit](https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p) | [MissFly](https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm), [David Bailey](https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2) | [Baby Don't Make Me Wait](https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r) | 4:04 | 2025-05-08 |  |
 | [BACK TO BASIC \- Soul Clap groove remix](https://open.spotify.com/track/24vhDkFu0X0XVq5E13eSZi) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU), [Orlando Voorn](https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [BACK TO BASIC](https://open.spotify.com/album/6vn8AFZ29OxHh4YXucchb3) | 6:45 | 2024-05-30 | 2025-05-15 |
 | [Back To Your Place \- Crackazat Remix](https://open.spotify.com/track/0gWnI3aNvoHHMYZveaEnbd) | [Marc Evans](https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d), [DJ Spen](https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ), [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Back To Your Place \(The Crackazat Remixes\)](https://open.spotify.com/album/1XmPA2uBaSKX82UdDuBE19) | 5:48 | 2026-01-29 | 2026-03-13 |
+| [Back To Your Place \- Jihad Muhammad Bang The Drum Vocal Remix](https://open.spotify.com/track/3Y7FcB6hMBzN8Pq9Ha6oCq) | [Marc Evans](https://open.spotify.com/artist/2wVgC86wvH9gCdREODnb9d), [DJ Spen](https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ), [Jihad Muhammad](https://open.spotify.com/artist/3J05yQFlZQacYRoB9o1I8o) | [Back To Your Place \(The Jihad Muhammad Remixes\)](https://open.spotify.com/album/5IHroX6eiK02P5MeiQ2t31) | 7:25 | 2026-03-12 |  |
 | [Back Together \(feat\. Ron Carroll\) \- Classic Mix](https://open.spotify.com/track/1PH8at6E0jy3rFPH66aH9m) | [Hardsoul](https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Back Together \(feat\. Ron Carroll\)](https://open.spotify.com/album/6UAsBOuRtgAy0MMlTPOS7Z) | 8:22 | 2022-09-13 | 2024-12-13 |
 | [Back Together Again \- Jazz\-N\-Groove 12" Dub](https://open.spotify.com/track/5t19Avl6FbooyoNMnSMhpG) | [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o), [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088), [Jazz N Groove](https://open.spotify.com/artist/5qNWZfVzh34W6PCtrLZwWa) | [Back Together Again \(Vinyl Mixes\)](https://open.spotify.com/album/5Y0by61mrO6JFVvm31PG5Z) | 3:43 | 2026-02-19 |  |
 | [Backfired \- Dave Lee Club Mix](https://open.spotify.com/track/2RsSPUTNQ147dUCQyC4toz) | [MAW](https://open.spotify.com/artist/3oFo7b0W6IxvcjcMnPBxAx), [India](https://open.spotify.com/artist/7mGxCINUVtKdYJGqlT9hSt), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Backfired](https://open.spotify.com/album/6ny1UzeTKJ9iR4e7t6SHVz) | 8:39 | 2022-09-13 | 2024-04-19 |

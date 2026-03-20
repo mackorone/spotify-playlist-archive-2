@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 767013,
+  "num_followers": 767079,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "abiZgAAAAAAJBlsOiuWttFOK63ue/7j5",
+  "snapshot_id": "abnrAAAAAADHjGB2BN8bI6eCHZ2AM00P",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 214426,
-      "name": "No Pude Enamorarme Mas",
-      "url": "https://open.spotify.com/track/6EAKWJ5K0SY0gsJF3u0yy4"
+      "duration_ms": 208333,
+      "name": "Cuesti\u00f3n Olvidada",
+      "url": "https://open.spotify.com/track/4U7N4o4EHZnsJSkH0qrmat"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 208333,
-      "name": "Cuesti\u00f3n Olvidada",
-      "url": "https://open.spotify.com/track/4U7N4o4EHZnsJSkH0qrmat"
+      "duration_ms": 214426,
+      "name": "No Pude Enamorarme Mas",
+      "url": "https://open.spotify.com/track/6EAKWJ5K0SY0gsJF3u0yy4"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 229946,
-      "name": "Los Tres Amigos",
-      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directo Al Corazon",
         "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 155920,
       "name": "Infiel Por Amor",
       "url": "https://open.spotify.com/track/5X4TbZ0Gs0AAX042xAkejg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 229946,
+      "name": "Los Tres Amigos",
+      "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrera Contra La Muerte",
-        "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Carrera Contra La Muerte",
-      "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Dos Plebes",
-        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+        "name": "Carrera Contra La Muerte",
+        "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 210853,
-      "name": "Los Dos Plebes",
-      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
+      "duration_ms": 180746,
+      "name": "Carrera Contra La Muerte",
+      "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 172666,
       "name": "Cari\u00f1o Donde Andaras",
       "url": "https://open.spotify.com/track/5yAD0PU10aCA2ZNH14HvV4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Dos Plebes",
+        "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Los Dos Plebes",
+      "url": "https://open.spotify.com/track/0ul12ulRfLyO5fgVvaq2Ex"
     },
     {
       "added_at": null,

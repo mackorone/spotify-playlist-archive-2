@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,503 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,500 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 12 | [Snow](https://open.spotify.com/track/6LbnmYU4suvGTvHrdpgV8z) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Snow EP](https://open.spotify.com/album/2t75lUu4hmW2gTk3GGSGEB) | 2:33 |
 | 13 | [Ding Dong](https://open.spotify.com/track/18GnuKmxuA0baUvfyf1UrP) | [Chillow Pillow](https://open.spotify.com/artist/7C4rbCsfUBLM9oen3ZLdHp) | [Ding Dong](https://open.spotify.com/album/07CMcqWZZJbiUNJ6HU6SXY) | 2:06 |
 | 14 | [secret santa](https://open.spotify.com/track/4CSVwYdOUK8NxAbQMam9Oz) | [ao](https://open.spotify.com/artist/6dQVKR45PFeAS49FNeC1T3) | [secret santa](https://open.spotify.com/album/3ZUyGn7c4xP1A9C5EKNEiV) | 2:23 |
-| 15 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
-| 16 | [Peaceful Memory](https://open.spotify.com/track/2WaMdKmR4qcjGlhxmtChGo) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Peaceful Memory](https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi) | 2:15 |
+| 15 | [Peaceful Memory](https://open.spotify.com/track/2WaMdKmR4qcjGlhxmtChGo) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Peaceful Memory](https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi) | 2:15 |
+| 16 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
 | 17 | [rockin' around the christmas tree](https://open.spotify.com/track/0CtRhDaDV78eFvClLfu582) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [rockin' around the christmas tree](https://open.spotify.com/album/22NWfF1izoNL5WEJuCIgdo) | 2:06 |
 | 18 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 |
 | 19 | [Angels From the Realms of Glory](https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Angels From the Realms of Glory](https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu) | 2:13 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 74 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 |
 | 75 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 |
 | 76 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm) | 2:23 |
-| 77 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 |
-| 78 | [White Christmas](https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg) | [Jazztroopers](https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI) | [Mistletoe Melodies](https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs) | 2:20 |
+| 77 | [White Christmas](https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg) | [Jazztroopers](https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI) | [Mistletoe Melodies](https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs) | 2:20 |
+| 78 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 |
 | 79 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr) | 2:39 |
 | 80 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
 | 81 | [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 84 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
 | 85 | [wrap up warm](https://open.spotify.com/track/3rn8vRL6eEmVPPJLrXzvFy) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [wrap up warm](https://open.spotify.com/album/5sllAS7PUnlz3UR5bzxccb) | 2:09 |
 | 86 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
-| 87 | [christmas in prague](https://open.spotify.com/track/5cLlTS6OxiD2NoobLw4ycI) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [christmas in prague](https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS) | 2:30 |
-| 88 | [Feliz Navidad](https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Feliz Navidad](https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv) | 2:45 |
+| 87 | [Feliz Navidad](https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Feliz Navidad](https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv) | 2:45 |
+| 88 | [christmas in prague](https://open.spotify.com/track/5cLlTS6OxiD2NoobLw4ycI) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [christmas in prague](https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS) | 2:30 |
 | 89 | [Santas Bag](https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Santas Bag](https://open.spotify.com/album/5yxXrr5bYhGj2mQw7mmwdu) | 2:03 |
 | 90 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 |
 | 91 | [The Night Before](https://open.spotify.com/track/5ZIU60WNqPE6tJxhzJio4f) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [The Night Before](https://open.spotify.com/album/1yITIVwWWZxjIXufJ6Vxkp) | 1:51 |

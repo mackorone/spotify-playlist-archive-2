@@ -1,6 +1,6 @@
 {
   "description": "What's happening in r&b, right now \u2013 featuring Jacquees.",
-  "num_followers": 366460,
+  "num_followers": 366444,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
@@ -260,12 +260,12 @@
       },
       "artists": [
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
           "name": "Baby Rose",
           "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
       "duration_ms": 218122,

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 807,
+  "num_followers": 813,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFYTf7FywJCXK532OVk72Djf+t9xXK",
+  "snapshot_id": "AAAFZjtjbYZnv/4QoQKn/cADxysguqg+",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -39,6 +39,22 @@
       "duration_ms": 220535,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6"
+    },
+    {
+      "added_at": "2026-03-19 22:01:57",
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/3aeYcTvgmX1OvUAosl6vcE"
+      },
+      "artists": [
+        {
+          "name": "Hard To Miss",
+          "url": "https://open.spotify.com/artist/4hRymrneFOk2xnFNrerPLR"
+        }
+      ],
+      "duration_ms": 228036,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/5Q7LRkw84x7diqZ1ZHHTfd"
     },
     {
       "added_at": "2026-03-18 02:24:13",
@@ -1407,6 +1423,54 @@
       "duration_ms": 201566,
       "name": "Coyote",
       "url": "https://open.spotify.com/track/1BvYQIRlgUbQLkxUeIwT1R"
+    },
+    {
+      "added_at": "2026-03-19 21:58:20",
+      "album": {
+        "name": "YOU CANNOT BE SERIOUS",
+        "url": "https://open.spotify.com/album/4AquZxIQcvhnbNUOESi7OO"
+      },
+      "artists": [
+        {
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "You cannot be serious",
+      "url": "https://open.spotify.com/track/4k5pHEY7ar3lX8iS4vStqv"
+    },
+    {
+      "added_at": "2026-03-19 22:38:22",
+      "album": {
+        "name": "In Between The Covers",
+        "url": "https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3"
+      },
+      "artists": [
+        {
+          "name": "Every Other Thursday",
+          "url": "https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR"
+        }
+      ],
+      "duration_ms": 144016,
+      "name": "Money Tied The Knot",
+      "url": "https://open.spotify.com/track/39NPaqn7MllUT0ZPUaKsVp"
+    },
+    {
+      "added_at": "2026-03-19 22:41:01",
+      "album": {
+        "name": "Shit Creek Blues",
+        "url": "https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG"
+      },
+      "artists": [
+        {
+          "name": "The Delta Shake",
+          "url": "https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti"
+        }
+      ],
+      "duration_ms": 208457,
+      "name": "Wolves Of E-Street",
+      "url": "https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS"
     }
   ],
   "unique_name": "Unsigned Rock",

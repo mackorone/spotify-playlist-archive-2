@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Kabza De Small",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: LeeMcKrazy, QuayR Musiq",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -5488,7 +5488,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 339823,
       "name": "Beyonc\u00e9 Baby",
       "url": "https://open.spotify.com/track/1pTzmXKH3AgzFH8ehiOUQr"
@@ -27328,6 +27328,36 @@
       "duration_ms": 415714,
       "name": "Nkosi Sikelela (feat. Azi, Papi & Boontle SA)",
       "url": "https://open.spotify.com/track/2ZdHj3xlxXjIr6iiUje85g"
+    },
+    {
+      "album": {
+        "name": "Macala",
+        "url": "https://open.spotify.com/album/69M9DFx8dITCjSYZAkKyQb"
+      },
+      "artists": [
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "QuayR Musiq",
+          "url": "https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331410,
+      "name": "Nkosi Yomhlaba (feat. Tman Xpress)",
+      "url": "https://open.spotify.com/track/21kmOn1UCTk1QT4W0gy8MP"
     },
     {
       "album": {

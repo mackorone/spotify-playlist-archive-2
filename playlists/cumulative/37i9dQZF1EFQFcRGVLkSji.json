@@ -605,6 +605,42 @@
     },
     {
       "album": {
+        "name": "GOAT (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147250,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G"
+    },
+    {
+      "album": {
+        "name": "CREEPIN",
+        "url": "https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141744,
+      "name": "CREEPIN",
+      "url": "https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx"
+    },
+    {
+      "album": {
         "name": "It's Above Me",
         "url": "https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH"
       },

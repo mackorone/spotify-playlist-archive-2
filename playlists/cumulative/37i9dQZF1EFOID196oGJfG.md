@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-51 songs - 2 hr 37 min
+52 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Do Better](https://open.spotify.com/track/0Yv9PQeQJvQ6P4a92HxnEq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Journal No.1](https://open.spotify.com/album/2k0fcWU7mY3UiZ9BrNqBAU) | 2:09 | 2024-12-11 |  |
 | [Do Better](https://open.spotify.com/track/4Xm7NkqCD6Zf6jQ0urA68x) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Do Better](https://open.spotify.com/album/0dNeLG8tONsnsENlFvkDBe) | 2:09 | 2024-08-03 | 2024-12-12 |
 | [Ease Up](https://open.spotify.com/track/3qEAjqlxlh0L8Xvd1LNj4M) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Black Out \- The 1st Mini Album](https://open.spotify.com/album/2QjGuxIooOrv113vp3PAwf) | 2:50 | 2024-10-22 |  |
+| [Fast Lane](https://open.spotify.com/track/2FazcKsxgoI6X9FxFgLd9k) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Fast Lane](https://open.spotify.com/album/63XwmOMDfcOpOc8JSSNwp7) | 2:31 | 2026-03-19 |  |
 | [ferrari](https://open.spotify.com/track/1MGxxrE534VUAYOiWaWwR2) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [balloons don't float here](https://open.spotify.com/album/4Qb82ieP4gzGzJiRnUNYyw) | 3:45 | 2024-06-13 |  |
 | [Freeze](https://open.spotify.com/track/4DN7cioGrw9T5RfCLzYUF9) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 8:07 | 2024-06-13 |  |
 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 | 2024-06-13 |  |

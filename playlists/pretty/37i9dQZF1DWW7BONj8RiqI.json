@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 244708,
+  "num_followers": 244731,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -719,18 +719,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Funky Business",
-        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
+        "name": "Back Bend (Remix)",
+        "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
       },
       "artists": [
         {
-          "name": "Fimba",
-          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
+          "name": "Subance",
+          "url": "https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv"
+        },
+        {
+          "name": "Uncle Ellis",
+          "url": "https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx"
         }
       ],
-      "duration_ms": 173426,
-      "name": "Funky Business",
-      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
+      "duration_ms": 185538,
+      "name": "Back Bend (Remix)",
+      "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -759,22 +763,18 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Back Bend (Remix)",
-        "url": "https://open.spotify.com/album/6HYlRaBXl9hdxJCBYn4yuW"
+        "name": "Funky Business",
+        "url": "https://open.spotify.com/album/6irDQgYw7nObjqROUl9hoj"
       },
       "artists": [
         {
-          "name": "Subance",
-          "url": "https://open.spotify.com/artist/585omi3UyLu9jASuXhXxQv"
-        },
-        {
-          "name": "Uncle Ellis",
-          "url": "https://open.spotify.com/artist/3V3y2f7EPUK39l2c8V1Bpx"
+          "name": "Fimba",
+          "url": "https://open.spotify.com/artist/6JHTiWS70od5zHsU5QcEqM"
         }
       ],
-      "duration_ms": 185538,
-      "name": "Back Bend (Remix)",
-      "url": "https://open.spotify.com/track/1VDpnwWRulD0TgGyfHjCts"
+      "duration_ms": 173426,
+      "name": "Funky Business",
+      "url": "https://open.spotify.com/track/58TSNfyz3elrAG90rUKbvu"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soca Gold 2007",
-        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+        }
+      ],
+      "duration_ms": 258864,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "The Queen of Bacchanal",
         "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 262556,
       "name": "No Behavior Shell Down",
       "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
-        }
-      ],
-      "duration_ms": 258864,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 167019,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2026-02-12 17:24:55",

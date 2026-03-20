@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  Ayra Starr",
+  "description": "Sweet afro melodies. Cover:  Minz",
   "name": "Ginja",
   "tracks": [
     {
@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "4AM IN MONTPARNASSE",
+        "url": "https://open.spotify.com/album/3dOQhR3xaAI4pWFrwtry0G"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "NSE",
+          "url": "https://open.spotify.com/artist/55b6kN2JxVjfSA9KeqPvNB"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177087,
+      "name": "4AM IN MONTPARNASSE",
+      "url": "https://open.spotify.com/track/6MNXS2m92WC3CqQbjGHzNV"
+    },
+    {
+      "album": {
         "name": "4LYFE",
         "url": "https://open.spotify.com/album/3UEA2UkF8k5Nf3o6X3UK4m"
       },
@@ -388,7 +410,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 131526,
       "name": "A1 (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw"
@@ -1538,7 +1560,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 189714,
       "name": "Baami",
       "url": "https://open.spotify.com/track/5P8pUsmXV23EcLGLF15mG8"
@@ -2462,6 +2484,24 @@
       "duration_ms": 138461,
       "name": "Bomaye",
       "url": "https://open.spotify.com/track/2779PsTbgvqmK2MHsdwMI1"
+    },
+    {
+      "album": {
+        "name": "Only Sad People Smile: Only Hurt People Heal",
+        "url": "https://open.spotify.com/album/7xjzOqRfqawB6xVeUn6mFj"
+      },
+      "artists": [
+        {
+          "name": "Salle",
+          "url": "https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Bongolo Cigar",
+      "url": "https://open.spotify.com/track/7imLxDsO8VPbnbkt4EPOOK"
     },
     {
       "album": {
@@ -3642,7 +3682,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 191160,
       "name": "Commitment",
       "url": "https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo"
@@ -4860,6 +4900,28 @@
       "duration_ms": 214080,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg"
+    },
+    {
+      "album": {
+        "name": "Easy for You",
+        "url": "https://open.spotify.com/album/6mKaXXQ6gPXhGdJCu2LcDj"
+      },
+      "artists": [
+        {
+          "name": "Kotrell",
+          "url": "https://open.spotify.com/artist/1k3uh1cWemPuWEYV2lcMPS"
+        },
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "Easy for You",
+      "url": "https://open.spotify.com/track/12dlZQSXjy7uxsEKbTONl3"
     },
     {
       "album": {
@@ -6629,6 +6691,32 @@
     },
     {
       "album": {
+        "name": "GINGER U",
+        "url": "https://open.spotify.com/album/5FR6KPEixVBS8KKq9gn3ig"
+      },
+      "artists": [
+        {
+          "name": "Mack H.D",
+          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141704,
+      "name": "GINGER U",
+      "url": "https://open.spotify.com/track/3hE3b86YL8yRiJsKSvvRNX"
+    },
+    {
+      "album": {
         "name": "Gkw / Winning Bread",
         "url": "https://open.spotify.com/album/511ZnBegulQv9yKnYlb3NQ"
       },
@@ -6858,7 +6946,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 165415,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
@@ -7415,6 +7503,28 @@
     },
     {
       "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/6O5y0QRemVryP7gGNZutzH"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "How It Feels",
+      "url": "https://open.spotify.com/track/56AqS7gEgU1q258EVDZeGT"
+    },
+    {
+      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -7904,7 +8014,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 163200,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY"
@@ -10281,6 +10391,32 @@
     },
     {
       "album": {
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Love Sick Crazy",
+      "url": "https://open.spotify.com/track/0owbHldQEENBOUXpl0QEIj"
+    },
+    {
+      "album": {
         "name": "Love Supreme",
         "url": "https://open.spotify.com/album/5dXpSbzHe31JCG6NYJwDls"
       },
@@ -10852,6 +10988,28 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "album": {
+        "name": "Melanin",
+        "url": "https://open.spotify.com/album/6NiZRKTCQMy1jh1IPNEC7Q"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/0oPtY1rsKKZ4rcClYZFl3g"
     },
     {
       "album": {
@@ -11472,7 +11630,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
@@ -14494,7 +14652,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 184583,
       "name": "SAILOR (with Oxlade)",
       "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"
@@ -15200,7 +15358,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
@@ -17812,6 +17970,28 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "album": {
+        "name": "when the party's over",
+        "url": "https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5"
+      },
+      "artists": [
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184203,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV"
     },
     {
       "album": {

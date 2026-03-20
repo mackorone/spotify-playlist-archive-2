@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Mass Hysteria",
+        "url": "https://open.spotify.com/album/6bx6OvSo3s5YcPN91PXfPo"
+      },
+      "artists": [
+        {
+          "name": "STRLGHT",
+          "url": "https://open.spotify.com/artist/4Tpbh6x3um360ffs5DUpgx"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159779,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/3PnMkNdShK5RBQmLGHL5Qv"
+    },
+    {
+      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -2208,6 +2226,24 @@
       "duration_ms": 234755,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/7Lsh4dnIqhzk5Z0C9sJxhW"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
       "album": {
@@ -4657,6 +4693,42 @@
     },
     {
       "album": {
+        "name": "Keep Riding Me",
+        "url": "https://open.spotify.com/album/0xRyKQnGMTDG5bRVkVGikr"
+      },
+      "artists": [
+        {
+          "name": "ShiaBun",
+          "url": "https://open.spotify.com/artist/10jX9uQfjTO6Sxt3kXUIac"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "Keep Riding Me",
+      "url": "https://open.spotify.com/track/5q1wPhQBMXCVvbzHCchuI0"
+    },
+    {
+      "album": {
+        "name": "Keep Riding Me",
+        "url": "https://open.spotify.com/album/4kN9CRrkFvXfiadphIZhwX"
+      },
+      "artists": [
+        {
+          "name": "ur pretty",
+          "url": "https://open.spotify.com/artist/5m9PQtVJ9ZZVWgb3t2nTMN"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141966,
+      "name": "Keep Riding Me",
+      "url": "https://open.spotify.com/track/1tX1GK4bLfoS9oDIIbhYAv"
+    },
+    {
+      "album": {
         "name": "Nanku Sharma",
         "url": "https://open.spotify.com/album/3aDCenngjMgDz7oHd9mPGJ"
       },
@@ -6389,6 +6461,32 @@
     },
     {
       "album": {
+        "name": "The Sound of Yars Rising (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZmrKAzZpWlXYm9P44qkHX"
+      },
+      "artists": [
+        {
+          "name": "Atari Music",
+          "url": "https://open.spotify.com/artist/7GbzFLcfG1xVBfHWR4OHt1"
+        },
+        {
+          "name": "TORIENA",
+          "url": "https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i"
+        },
+        {
+          "name": "Moe Shop",
+          "url": "https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208593,
+      "name": "ONLINE",
+      "url": "https://open.spotify.com/track/3vTZQv1f95rJaS6W8xIROT"
+    },
+    {
+      "album": {
         "name": "Innovations in Booty Shaking Music, Vol. 1",
         "url": "https://open.spotify.com/album/5SD6bWOKJnMzmimqWpaWgx"
       },
@@ -7132,6 +7230,24 @@
       "duration_ms": 181816,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/0PtDNK2Q49fAM4ZbKtN0mz"
+    },
+    {
+      "album": {
+        "name": "STELLAR BLADE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0ImRpX3Ce1Gr7MWH4vehzw"
+      },
+      "artists": [
+        {
+          "name": "Oliver Good",
+          "url": "https://open.spotify.com/artist/12pVaqQ3ZVT9rpr6zslXZd"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323776,
+      "name": "Raven",
+      "url": "https://open.spotify.com/track/4z9DJzuI38uhemsY0YUd07"
     },
     {
       "album": {
@@ -7914,6 +8030,28 @@
       "duration_ms": 159315,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
+    },
+    {
+      "album": {
+        "name": "Shower Song",
+        "url": "https://open.spotify.com/album/2xvxzvtBt9upIcJPXv2IvG"
+      },
+      "artists": [
+        {
+          "name": "Alpha Aniki",
+          "url": "https://open.spotify.com/artist/3ngVPljHDJlR8UB69LLK98"
+        },
+        {
+          "name": "Isaak Wolf",
+          "url": "https://open.spotify.com/artist/1jJzuhgUaCarfJG7PFbcQL"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/6ur9gl1CnAMzM0gww5Yqhf"
     },
     {
       "album": {
@@ -8974,6 +9112,24 @@
       "duration_ms": 222014,
       "name": "The Concept of Love",
       "url": "https://open.spotify.com/track/2Kq32mFta7WWEy2fu7fvsc"
+    },
+    {
+      "album": {
+        "name": "Exhibition Number Zero",
+        "url": "https://open.spotify.com/album/7oeji3p37n2WRtP3bZZc7X"
+      },
+      "artists": [
+        {
+          "name": "NOMARKMORE",
+          "url": "https://open.spotify.com/artist/2MWLcIknPfRiaIktptiPil"
+        }
+      ],
+      "date_added": "2026-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/7IKwkNZzI8Xtazydcl1rEF"
     },
     {
       "album": {

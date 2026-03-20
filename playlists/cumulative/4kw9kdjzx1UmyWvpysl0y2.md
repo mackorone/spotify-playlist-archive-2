@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,193 songs - 2 day 18 hr 30 min
+1,194 songs - 2 day 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 Man Army](https://open.spotify.com/track/5PVplB3e8qidkOZrdHrbKg) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [1 MAN ARMY](https://open.spotify.com/album/0JiUH7A9KRrmt1P7sUB0ta) | 3:18 | 2025-02-28 | 2025-05-24 |
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-22 | 2025-04-16 |
+| [2 u](https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [2 u](https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw) | 2:16 | 2026-03-19 |  |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-07 | 2022-08-20 |
 | [2hard2letgo \- Acoustic](https://open.spotify.com/track/6b7AC4lKNIuCMSVzDHOS18) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo \(Acoustic\)](https://open.spotify.com/album/65jfBY2rxFAiB26CmNGiMA) | 4:36 | 2022-12-06 | 2023-03-04 |
 | [2NITE](https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [2NITE](https://open.spotify.com/album/3utDd56IEEsiwsFweMkqfB) | 3:19 | 2023-01-05 | 2023-03-18 |

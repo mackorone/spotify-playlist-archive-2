@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-523 songs - 2 day 3 hr 29 min
+524 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Oloro Nyager](https://open.spotify.com/track/0kkl54s2QMnS0xb91HmyDT) | [Djuma Soundsystem](https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF), [Fake Mood](https://open.spotify.com/artist/4yqyJ83ZJGOaqnh9BlqjUn), [Olith](https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf) | [Oloro Nyager](https://open.spotify.com/album/7h4IpgcwRxbdcHGRCR2LCH) | 6:50 | 2019-08-02\* | 2022-08-13 |
 | [Om Kleem](https://open.spotify.com/track/37JESGxGGFfgPwpLd0j1bo) | [Jota Karloza](https://open.spotify.com/artist/2KdksZS2pms1aLm2dbAxdc) | [Beta](https://open.spotify.com/album/24u7QWXi3LFe2NkrBDeMAg) | 7:26 | 2019-08-02\* | 2021-06-26 |
 | [Omega 3](https://open.spotify.com/track/42dMH9ASfFfpJvN0UgXwIA) | [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg) | [15 Years Stil vor Talent, Part 2](https://open.spotify.com/album/5bCBKgvo1NrJh0anyFfCE9) | 7:36 | 2020-09-10 | 2020-11-05 |
-| [On My Own \- Bross \(RO\) Remix](https://open.spotify.com/track/38myjqkNALis6K4B48JEat) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Bross \(RO\)](https://open.spotify.com/artist/5kybxjtidoP4tKnV4omy7O) | [Long Way Home \(Remixes Part 1\)](https://open.spotify.com/album/43sij4zwXxsKjyugANcOAh) | 6:47 | 2026-03-13 |  |
+| [On My Own \- Bross \(RO\) Remix](https://open.spotify.com/track/38myjqkNALis6K4B48JEat) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu), [Bross \(RO\)](https://open.spotify.com/artist/5kybxjtidoP4tKnV4omy7O) | [Long Way Home \(Remixes Part 1\)](https://open.spotify.com/album/43sij4zwXxsKjyugANcOAh) | 6:47 | 2026-03-13 | 2026-03-20 |
 | [Onda](https://open.spotify.com/track/396fGs4ASrHZI66ekLoIkg) | [Chicken From Angola](https://open.spotify.com/artist/0K7XEkCkV61baxLNWyrfQN), [Zero Awá](https://open.spotify.com/artist/3SkTuqDS1k14IXIeMUVLlC), [João Brasil](https://open.spotify.com/artist/7MPhjKo9pLJ7mPJOOxeIf4) | [Onda](https://open.spotify.com/album/0N90u6ikncBailxlZXGdd2) | 3:04 | 2021-12-17 | 2021-12-21 |
 | [Ophera](https://open.spotify.com/track/1Omi7rcrYfWoPLdkCfeDeb) | [Hot Oasis](https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii) | [Ophera](https://open.spotify.com/album/2cp6A21BvxtLQdtTfbB3BW) | 7:42 | 2020-06-02 | 2022-04-21 |
 | [Orient Express](https://open.spotify.com/track/7tYOJVJoptDjtBvE1fHwfU) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Orient Express](https://open.spotify.com/album/75atJZdj78b77e6u29N10h) | 4:20 | 2022-06-14 | 2022-07-27 |
@@ -400,6 +400,7 @@
 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-09-15 |  |
 | [Sacred Piano \- Yoruba Soul Mix](https://open.spotify.com/track/1sOVUPxWkmLfGaYnEkdcFo) | [Ayala \(IT\)](https://open.spotify.com/artist/2h6ch162V2MEXLHgAyC0Q0), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Sacred \- Yoruba Soul Remixes](https://open.spotify.com/album/06RloGxZNtiPNLuR6cPjPj) | 6:30 | 2022-04-04 | 2022-04-18 |
 | [Salaam](https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Hiya](https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH) | [Salaam](https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX) | 4:46 | 2026-02-06 |  |
+| [Salam](https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Salam](https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH) | 2:53 | 2026-03-19 |  |
 | [Salda](https://open.spotify.com/track/0sbsOpPtIZAGtTPbEmpBhB) | [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Mada](https://open.spotify.com/album/1NyyI2zT7vkxUGT6pJkzN1) | 7:14 | 2020-07-24 | 2020-11-21 |
 | [Samarkand](https://open.spotify.com/track/1acilPTS9wGa5MpBSyonPZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [KIDY](https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG), [ARVIII](https://open.spotify.com/artist/3rFcQPQZfXDmbCsF5mNmyQ) | [Samarkand](https://open.spotify.com/album/7GI2B06iMtjtzt1pK6FtR2) | 2:21 | 2026-01-12 | 2026-02-28 |
 | [Samra Samra](https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS) | [Karmakind](https://open.spotify.com/artist/0567GyFPr2AYNJvUp8ImS3) | [Samra Samra](https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB) | 5:04 | 2022-04-04 |  |

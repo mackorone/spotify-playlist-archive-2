@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2675,
+  "num_followers": 2677,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "COMO DIABLOS",
+        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "COMO DIABLOS",
+      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 193578,
       "name": "T\u00fa Me Llevas a Un Espacio",
       "url": "https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "COMO DIABLOS",
-        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "COMO DIABLOS",
-      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "cuida",
-        "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
-      },
-      "artists": [
-        {
-          "name": "csndra",
-          "url": "https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe"
-        },
-        {
-          "name": "Jandro Blu",
-          "url": "https://open.spotify.com/artist/415i66INhubKPIwQhMtRWW"
-        }
-      ],
-      "duration_ms": 166866,
-      "name": "cuida",
-      "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "Pienso En Ti",
         "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 155026,
       "name": "Pienso En Ti",
       "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "cuida",
+        "url": "https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8"
+      },
+      "artists": [
+        {
+          "name": "csndra",
+          "url": "https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe"
+        },
+        {
+          "name": "Jandro Blu",
+          "url": "https://open.spotify.com/artist/415i66INhubKPIwQhMtRWW"
+        }
+      ],
+      "duration_ms": 166866,
+      "name": "cuida",
+      "url": "https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "Amor De Verano",
+        "url": "https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957"
+      },
+      "artists": [
+        {
+          "name": "A.CHAL",
+          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "Noche Y Dia",
         "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 152601,
       "name": "Noche Y Dia",
       "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "Amor De Verano",
-        "url": "https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957"
-      },
-      "artists": [
-        {
-          "name": "A.CHAL",
-          "url": "https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "mis viejos",
-        "url": "https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5"
-      },
-      "artists": [
-        {
-          "name": "deadsoulsociety",
-          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
-        }
-      ],
-      "duration_ms": 240624,
-      "name": "mis viejos",
-      "url": "https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "YNMA",
         "url": "https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 239000,
       "name": "YNMA",
       "url": "https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "mis viejos",
+        "url": "https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5"
+      },
+      "artists": [
+        {
+          "name": "deadsoulsociety",
+          "url": "https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6"
+        }
+      ],
+      "duration_ms": 240624,
+      "name": "mis viejos",
+      "url": "https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF"
     },
     {
       "added_at": "2025-10-10 17:36:00",

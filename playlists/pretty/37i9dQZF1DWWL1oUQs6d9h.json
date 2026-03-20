@@ -1,15 +1,67 @@
 {
   "description": "\uba38\ub9bf\uc18d\uc740 \ubcf5\uc7a1\ud558\uc9c0\ub9cc, \uac89\uc73c\ub85c\ub294 \uce60 & \ucfe8\ud574\ubcf4\uc774\uace0 \uc2f6\uc744 \ub54c",
-  "num_followers": 15970,
+  "num_followers": 15989,
   "original_name": "act cool.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP205Nwp/yX54U03HqhM310tLiqp",
+  "snapshot_id": "AAAAAP00OdKiq0aurjlXi9nPUNqYqBpP",
   "tracks": [
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "I\u2019m not cold",
+        "url": "https://open.spotify.com/album/1DHFc8g4wvOzZInKQlKMzx"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 163741,
+      "name": "I\u2019m not cold",
+      "url": "https://open.spotify.com/track/3tyLbICxG083OdVooXmW2g"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "1972",
+        "url": "https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        }
+      ],
+      "duration_ms": 147873,
+      "name": "1972",
+      "url": "https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "emoji",
+        "url": "https://open.spotify.com/album/4IOQ5elZOFlKwbvKCGtbbE"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "emoji",
+      "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Summer?",
         "url": "https://open.spotify.com/album/79PjeURLjxfYBH9nWcwqhK"
@@ -29,7 +81,7 @@
       "url": "https://open.spotify.com/track/43huSeupxUXIBkRALBozSO"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Nice To Each Other",
         "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
@@ -45,23 +97,7 @@
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "just a boy",
-        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185681,
-      "name": "just a boy",
-      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
@@ -77,55 +113,7 @@
       "url": "https://open.spotify.com/track/2o9LAypwGH4ctV0i9boo6d"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "NUDUGI HEART RUNNER",
-        "url": "https://open.spotify.com/album/35621MM1sYnfoiS9s8tCvp"
-      },
-      "artists": [
-        {
-          "name": "Kyurin",
-          "url": "https://open.spotify.com/artist/6bdlvd89zN7jTSb7UOU8zp"
-        }
-      ],
-      "duration_ms": 167195,
-      "name": "garbage_dump_record (3am)",
-      "url": "https://open.spotify.com/track/3428JuI2LoccafM2sK1S0M"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -141,7 +129,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -157,7 +145,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
@@ -173,7 +161,23 @@
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -189,23 +193,7 @@
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 200759,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -225,7 +213,7 @@
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
@@ -241,7 +229,7 @@
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -257,7 +245,23 @@
       "url": "https://open.spotify.com/track/040I32EKLxQrkuxQu1pqvT"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "girl, get up. (feat. SZA)",
         "url": "https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS"
@@ -277,23 +281,7 @@
       "url": "https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lady Lady",
-      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
@@ -309,7 +297,7 @@
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
@@ -329,7 +317,7 @@
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
@@ -345,7 +333,39 @@
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lady Lady",
+      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "I\u2019m Only F**king Myself",
         "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
@@ -393,7 +413,7 @@
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "BEAUTIFUL CHAOS",
         "url": "https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
@@ -425,7 +445,7 @@
       "url": "https://open.spotify.com/track/49PPH7Kji3bCyKKNx78SxS"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "4 ONLY",
         "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/39382sUtIOwIXftX0i76do"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "alone tonight",
         "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/1sczjXEYHpbpCsaA25ZzPv"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "The Juice: Vol. II",
         "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/2b7DunZFOVCs0QgiTI1FJW"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/4pfhgOylRLcBll5JjUsJZj"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Holy Blindfold",
         "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "HOT",
         "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
@@ -605,23 +625,7 @@
       "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 140637,
-      "name": "Chill Baby",
-      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "The Celestial Suite",
         "url": "https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN"
@@ -637,7 +641,23 @@
       "url": "https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 140637,
+      "name": "Chill Baby",
+      "url": "https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew"
+    },
+    {
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "DIE 4 YOU",
         "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
@@ -653,7 +673,7 @@
       "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Jasmine",
         "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "SYNK : aeXIS LINE - 2025 Special Digital Single",
         "url": "https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/1D1cBWh7IJ5DqOIYqCtqZa"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "after the sun goes down",
         "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Skrr (feat. GISELLE)",
         "url": "https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Moodswings In This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Essence of Reverie",
         "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
     },
     {
-      "added_at": "2026-03-12 02:04:33",
+      "added_at": "2026-03-19 01:58:54",
       "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2"
@@ -819,22 +839,6 @@
       "duration_ms": 238321,
       "name": "Slide",
       "url": "https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f"
-    },
-    {
-      "added_at": "2026-03-12 02:04:33",
-      "album": {
-        "name": "Me My Songs & I",
-        "url": "https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu"
-      },
-      "artists": [
-        {
-          "name": "JayDon",
-          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
-        }
-      ],
-      "duration_ms": 203256,
-      "name": "Separated",
-      "url": "https://open.spotify.com/track/5bFtbt0LsDJf3VvRFIrBW4"
     }
   ],
   "unique_name": "act cool.",

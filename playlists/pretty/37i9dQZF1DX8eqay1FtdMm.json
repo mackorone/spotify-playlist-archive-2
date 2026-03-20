@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: \uae40\uc131\uaddc (Kim Sung Kyu)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416790,
+  "num_followers": 416791,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 177253,
       "name": "Officially Cool",
       "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "I Miss You So Much",
-        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
       "artists": [
         {
-          "name": "Hwang Karam",
-          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
         }
       ],
-      "duration_ms": 216813,
-      "name": "I Miss You So Much",
-      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
+      "duration_ms": 264069,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
+        "name": "I Miss You So Much",
+        "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
       "artists": [
         {
-          "name": "#Annyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+          "name": "Hwang Karam",
+          "url": "https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc"
         }
       ],
-      "duration_ms": 264069,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
+      "duration_ms": 216813,
+      "name": "I Miss You So Much",
+      "url": "https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Even If This Love Disappears Tonight",
-        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
-      },
-      "artists": [
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Even If This Love Disappears Tonight",
-      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "WAW",
         "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "Even If This Love Disappears Tonight",
+        "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
+      },
+      "artists": [
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Even If This Love Disappears Tonight",
+      "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Tell The World",
-        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tell The World",
-      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
-    },
-    {
-      "added_at": "2026-03-03 03:54:11",
-      "album": {
         "name": "Family by Choice (Original Television Soundtrack) Pt. 4",
         "url": "https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 288046,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
+    },
+    {
+      "added_at": "2026-03-03 03:54:11",
+      "album": {
+        "name": "Tell The World",
+        "url": "https://open.spotify.com/album/0w7ETi7NIxWTwJYUmHwmGG"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tell The World",
+      "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Broken Party",
-        "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
+        "name": "Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
       },
       "artists": [
         {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+          "name": "Kim Yuna",
+          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Broken Party",
-      "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
+      "duration_ms": 273773,
+      "name": "Spring day goes",
+      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
     },
     {
       "added_at": "2026-03-03 03:54:11",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-03-03 03:54:11",
       "album": {
-        "name": "Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E"
+        "name": "Broken Party",
+        "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
       },
       "artists": [
         {
-          "name": "Kim Yuna",
-          "url": "https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea"
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
         }
       ],
-      "duration_ms": 273773,
-      "name": "Spring day goes",
-      "url": "https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99"
+      "duration_ms": 177213,
+      "name": "Broken Party",
+      "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
     },
     {
       "added_at": "2026-03-03 03:54:11",

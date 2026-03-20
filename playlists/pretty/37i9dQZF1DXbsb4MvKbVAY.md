@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa PinkPantheress ja Zara Larsson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,659 likes - 66 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,663 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 42 | [Heaven](https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heaven](https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV) | 3:52 |
 | 43 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 |
 | 44 | [Heart Said No](https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [Heart Said No](https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG) | 3:22 |
-| 45 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
-| 46 | [Keho muistaa](https://open.spotify.com/track/29njXdJZFfFaFes7iP96OH) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Keho muistaa](https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR) | 3:02 |
-| 47 | [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 |
+| 45 | [Keho muistaa](https://open.spotify.com/track/29njXdJZFfFaFes7iP96OH) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Keho muistaa](https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR) | 3:02 |
+| 46 | [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 |
+| 47 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
 | 48 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
 | 49 | [Länsipuoli](https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Länsipuoli](https://open.spotify.com/album/0RJultAynFlzZXE708nEPz) | 2:36 |
 | 50 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 58 | [Karhupuisto](https://open.spotify.com/track/67CEHyZn7yRkgC7A1mkUAo) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Karhupuisto](https://open.spotify.com/album/2F20BwMJMsizfRTbd5dxOe) | 3:15 |
 | 59 | [Uudestaan](https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Ristiriita](https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb) | 2:57 |
 | 60 | [Hyvin meni](https://open.spotify.com/track/0vBtY2dgHbgnBYDPZBqIje) | [JAVE](https://open.spotify.com/artist/5BXvw2wIkNt8vf4PH4SsrS) | [Hyvin meni](https://open.spotify.com/album/4sa101U8rFLSltkdatqxD5) | 2:01 |
-| 61 | [Kangastus](https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf) | [Otto](https://open.spotify.com/artist/3A8s2MMhh7HmdromfKDCBp) | [Kangastus](https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg) | 2:29 |
-| 62 | [Chasing the Flame](https://open.spotify.com/track/5lXA6WnXiAnSpMy0J8oV9m) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD), [Veera Syrén](https://open.spotify.com/artist/6eBDvwzuPtOwgr6wXLahsI) | [Chasing the Flame](https://open.spotify.com/album/13BCjXlmjCjOzvXQZDOywd) | 3:06 |
+| 61 | [Chasing the Flame](https://open.spotify.com/track/5lXA6WnXiAnSpMy0J8oV9m) | [Ville Tomminen](https://open.spotify.com/artist/3z05cHmgpoxtH09pPL5sYD), [Veera Syrén](https://open.spotify.com/artist/6eBDvwzuPtOwgr6wXLahsI) | [Chasing the Flame](https://open.spotify.com/album/13BCjXlmjCjOzvXQZDOywd) | 3:06 |
+| 62 | [Kangastus](https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf) | [Otto](https://open.spotify.com/artist/3A8s2MMhh7HmdromfKDCBp) | [Kangastus](https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg) | 2:29 |
 | 63 | [Shinola](https://open.spotify.com/track/3tJ7DnD7488H5g1EzIqe4T) | [Michael Monroe](https://open.spotify.com/artist/5Ul6r5lUSOraWUidNnsILZ) | [Shinola](https://open.spotify.com/album/7FRxZI6MPRqy66KUjw3KOK) | 2:43 |
 | 64 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
 | 65 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |

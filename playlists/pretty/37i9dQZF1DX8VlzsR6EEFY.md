@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Guardianes Del Amor De Arturo Rodriguez y Los Askis en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,070 likes - 86 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,085 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

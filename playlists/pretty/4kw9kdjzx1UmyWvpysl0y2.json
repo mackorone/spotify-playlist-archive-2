@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124189,
+  "num_followers": 124187,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVOYNFJGgd/ejvl1m/i1U9QoFIO9/t",
+  "snapshot_id": "AAAVOr0DBPbidwyFoGiCP63dZ4IWqn2e",
   "tracks": [
+    {
+      "added_at": "2026-03-19 13:59:53",
+      "album": {
+        "name": "2 u",
+        "url": "https://open.spotify.com/album/2cqdDAdGDlpBV2guQtg9Bw"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "2 u",
+      "url": "https://open.spotify.com/track/5bx9sEQYEJ1thvxHhq7uLB"
+    },
     {
       "added_at": "2026-03-18 15:56:59",
       "album": {

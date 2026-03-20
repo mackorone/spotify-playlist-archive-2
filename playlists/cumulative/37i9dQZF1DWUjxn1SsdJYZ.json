@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: CV, D9ine",
+  "description": "The best new AUS & NZ Rap. Cover: MELODOWNZ",
   "name": "Local Hype",
   "tracks": [
     {
@@ -82,7 +82,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 185250,
       "name": "1Trick",
       "url": "https://open.spotify.com/track/2OubP216EZQuIxcHv6IpB1"
@@ -4645,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "Cater to You",
+        "url": "https://open.spotify.com/album/3pZEFAYZhMMdGIUy5sf5WT"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146210,
+      "name": "Cater to You",
+      "url": "https://open.spotify.com/track/09268G5sLPyaafvzvUZ7rS"
+    },
+    {
+      "album": {
         "name": "CAUGHT IN THE MIX",
         "url": "https://open.spotify.com/album/7D4ECUIHlj6fq5wjaPKGSB"
       },
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 128841,
       "name": "Chat?",
       "url": "https://open.spotify.com/track/50sRzubKO3rbI6VEhSCCpc"
@@ -15587,6 +15605,28 @@
     },
     {
       "album": {
+        "name": "LTW (LUV THE WORLD)",
+        "url": "https://open.spotify.com/album/4ytQkvGHSKdeXJFDTgFv3T"
+      },
+      "artists": [
+        {
+          "name": "MELODOWNZ",
+          "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "BIGGs 685",
+          "url": "https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "LTW (LUV THE WORLD)",
+      "url": "https://open.spotify.com/track/11acdWz5vdgj640OlIYB2Y"
+    },
+    {
+      "album": {
         "name": "Lust & Luxury",
         "url": "https://open.spotify.com/album/33KbkXiV9rYHNIK6j2aRU4"
       },
@@ -16811,6 +16851,24 @@
     },
     {
       "album": {
+        "name": "Money Talk",
+        "url": "https://open.spotify.com/album/7A4PK0CzuvR1hNrJHKxQN4"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Money Talk",
+      "url": "https://open.spotify.com/track/4ftgaYyQV1uUKJLvhxDE2X"
+    },
+    {
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/7KYB3YP9cImMbgl5bMHHsH"
       },
@@ -17926,7 +17984,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 129924,
       "name": "Nights Like This",
       "url": "https://open.spotify.com/track/21bkT5EFIpmYajZKygqbya"
@@ -18170,7 +18228,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 148104,
       "name": "No I.D",
       "url": "https://open.spotify.com/track/6vKLmkqpNKpljWG0hyJyOo"
@@ -28194,7 +28252,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 127468,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/4wA7ZC3HkPAGsc1ZHYfP0a"
@@ -29311,6 +29369,24 @@
     },
     {
       "album": {
+        "name": "whistle while I walk / pollywaffle",
+        "url": "https://open.spotify.com/album/74s6qrqJDfl6BEnmGGhfFa"
+      },
+      "artists": [
+        {
+          "name": "trials",
+          "url": "https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "whistle while I walk",
+      "url": "https://open.spotify.com/track/1b4ZJ97qyW0PAAydBfBcIz"
+    },
+    {
+      "album": {
         "name": "WHITE TEETH",
         "url": "https://open.spotify.com/album/6KYatViFJmhg83SObsMP55"
       },
@@ -29578,6 +29654,24 @@
       "duration_ms": 158297,
       "name": "Whoever",
       "url": "https://open.spotify.com/track/4IWt8KJhg6sIoLcjy8LHm5"
+    },
+    {
+      "album": {
+        "name": "WHOLE LIFE",
+        "url": "https://open.spotify.com/album/0ncpuIfam5kmDjNpPBtBHn"
+      },
+      "artists": [
+        {
+          "name": "heyzuko!",
+          "url": "https://open.spotify.com/artist/3wfEeLYSrxfsgbLHkjiBUP"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110022,
+      "name": "WHOLE LIFE",
+      "url": "https://open.spotify.com/track/08KFqnBuCDqaQvnljRBomv"
     },
     {
       "album": {
@@ -29898,7 +29992,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 135501,
       "name": "WORST DAY",
       "url": "https://open.spotify.com/track/7dAyk3QavArM6yZkpoHiPN"

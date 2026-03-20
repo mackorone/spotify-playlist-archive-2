@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 229350,
       "name": "Sometimes I Feel Great, Sometimes I Feel Useless",
       "url": "https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe"
@@ -3304,6 +3304,24 @@
       "duration_ms": 176029,
       "name": "Where/When",
       "url": "https://open.spotify.com/track/44J2PcpgCePXPB13CUsitY"
+    },
+    {
+      "album": {
+        "name": "Whip The Wind",
+        "url": "https://open.spotify.com/album/7kFr4bhFs9b3fUuYRGbmrR"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263025,
+      "name": "Whip The Wind",
+      "url": "https://open.spotify.com/track/77nWzREV6lPcV6lSGFUpxN"
     },
     {
       "album": {

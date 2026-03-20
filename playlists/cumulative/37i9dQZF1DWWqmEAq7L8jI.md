@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Trucha
 
-435 songs - 23 hr 35 min
+436 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [a todo el mundo le pasa](https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [a todo el mundo le pasa](https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X) | 3:31 | 2025-04-25 | 2025-05-31 |
 | [Abrazarnos](https://open.spotify.com/track/0RcrD7lqjXRpgM3kc9Ukwv) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Abrazarnos](https://open.spotify.com/album/1p95pqB21gB14xssLZ6AjE) | 3:34 | 2023-08-18 | 2023-09-23 |
 | [Abrazarte otra vez](https://open.spotify.com/track/44dAjMA5Sa9vlPkIsSuxxM) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Abrazarte otra vez](https://open.spotify.com/album/7GZ0HUMfjyMmuSWmWOSIaC) | 3:47 | 2023-08-11 | 2023-08-19 |
-| [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2023-08-18 |  |
+| [Abrazándonos](https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Abrazándonos](https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf) | 3:15 | 2023-08-18 | 2026-03-20 |
 | [Abrázame](https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Abrázame](https://open.spotify.com/album/2YZnqChmcKcsTS6tTg0fuL) | 3:19 | 2024-10-14 |  |
 | [Acaríñame](https://open.spotify.com/track/2kXeAEpGBN874ZKJPV24fr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Acaríñame](https://open.spotify.com/album/5cggbtEsbsZPcxdjumrBo6) | 3:21 | 2024-04-19 |  |
 | [Acá](https://open.spotify.com/track/494CoBrUZsoVpdSgCw7EaI) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Acá](https://open.spotify.com/album/7JM4O5VJlScQKtkMTGzRWL) | 2:51 | 2026-01-23 | 2026-02-21 |
@@ -206,6 +206,7 @@
 | [La última canción](https://open.spotify.com/track/38tkHGzTz7zkSWtdih973H) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La última canción](https://open.spotify.com/album/5mv9TLj5uCgoyApnPbQct5) | 3:01 | 2025-06-27 | 2025-07-19 |
 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 | 2023-06-09 | 2023-08-12 |
 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 | 2024-02-15 | 2025-03-08 |
+| [las flores mueren en abril](https://open.spotify.com/track/3U0Mmz2ca70FZkSK0t07Us) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:58 | 2026-03-19 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2023-03-17 | 2023-08-12 |
 | [LAVA](https://open.spotify.com/track/0ES9fuHxth3reMBeZHTCt1) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [LAVA](https://open.spotify.com/album/6JARQG5DB8qY9jq9yPJNIK) | 2:57 | 2025-07-11 | 2025-07-19 |
 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2023-03-17 | 2024-04-19 |

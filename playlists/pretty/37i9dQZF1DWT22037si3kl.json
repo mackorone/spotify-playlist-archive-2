@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148569,
+  "num_followers": 148579,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -651,30 +651,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "JECI",
-          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Foco",
-      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "Sentido \u00e0 Zona Leste",
         "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 123508,
       "name": "Sentido \u00e0 Zona Leste",
       "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "JECI",
+          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
     },
     {
       "added_at": "2026-02-27 18:07:57",

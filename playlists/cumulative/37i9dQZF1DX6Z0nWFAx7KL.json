@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-20",
       "duration_ms": 215625,
       "name": "Feel Like Tomorrow",
       "url": "https://open.spotify.com/track/0asKDNIQaJ1s7HDNuXXA4i"
@@ -7724,6 +7724,28 @@
       "duration_ms": 195000,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/0VnspztuailO1g8bKY6tfn"
+    },
+    {
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Flip Flop Joe",
+          "url": "https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA"
+        }
+      ],
+      "date_added": "2026-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6Z0nWFAx7KL"
